@@ -1,2 +1,2 @@
 Roche CV term	OWL class expression (names)	OWL class expression (IDs)	Notes
-muscle cell	has_participant some 'muscle cell'	RO_nnnnnnn some CL_nnnnnnn  base assumption of has_participant - may not be sufficient
+muscle cell	has_participant some 'muscle cell'	RO_nnnnnnn some CL_nnnnnnn	baseassumption of has_participant - may not be sufficient
