@@ -1,2 +1,2 @@
-Roche CV term	Key Class name  Key Class ID  OWL class expression (names)	OWL class expression (IDs)	Notes
-muscle cell	muscle cell CL_0000187 RO_0000057 some CL_0000187 has_participant some 'muscle cell'	RO_nnnnnnn some CL_nnnnnnn	baseassumption of has_participant - may not be sufficient
+Roche CV term	Key Class name	Key Class ID	OWL class expression (names)	OWL class expression (IDs)	Notes
+muscle cell	muscle cell	CL_0000187	RO_0000057 some CL_0000187	has_participant some 'muscle cell'	RO_nnnnnnn some CL_nnnnnnn	baseassumption of has_participant - may not be sufficient
