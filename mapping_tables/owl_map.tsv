@@ -1,4 +1,4 @@
-Roche CV term	Key Class name	Key Class ID	OWL class expression (names)	OWL class expression (IDs)	Notes
+Roche CV term	Key Class name	Key Class ID	class expression names	class expression IDs	Notes
 muscle cell	muscle cell	CL_0000187	has_participant some 'muscle cell'	RO_0000057 some CL_0000187	base assumption of has_participant - may not be sufficient
 zinc ion homeostasis	zinc ion homeostasis	GO_0055069	zinc ion homeostasis	GO_0055069	GO axiomatisation insufficient?
 triglyceride	triglyceride	CHEBI_17855	has_participant some triglyceride	RO_0000057 some CHEBI_17855	
