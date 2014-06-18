@@ -13,6 +13,18 @@ consider to be missing.  The blacklist will be taken into account for
 the final mapping.  Additional clauses will be considered in order to
 bring in missing classes.
 
+# Unit tests
+
+As the GO evolves, OWL entities referenced in the class expressions
+used for mapping may become obsolete.  It is therefore important that
+we run tests
+
+# Versioning
+
+An iterative cycle of development, feedback, and further development
+will require a versioning system that allows us to keep track of the
+versions that refer to.
+
 # Project structure
 
 ## mapping_tables
@@ -28,3 +40,5 @@ Jython code
 Build scripts (bash or Make) - to be run by Jenkins.
 
 ## doc
+
+
