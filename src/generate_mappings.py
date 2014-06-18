@@ -1,7 +1,8 @@
 #!/usr/bin/env/ jython -J-Xmx8000m
+import sys
 from mapping_tools import *
 from tsv2pdm import *
-go = load_ont('file:///repos/go_trunk_ont/extensions/go-plus.owl')
+go = load_ont(sys.argv[1])
 manMap = tsv2colDict('../mapping_tables/manual_mapping.tsv')
 owlMap = rowDict2ColRowDict(tsv2colDict('../mapping_tables/owl_map.tsv'), 'Roche CV term')
 for line in manMap:
