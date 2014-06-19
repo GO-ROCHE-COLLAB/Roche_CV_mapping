@@ -1,13 +1,13 @@
-manual map name	manual map id	auto map name	auto map id	checked	blacklisted
-triglyceride acyl-chain remodeling		'triglyceride acyl-chain remodeling'			
-triglyceride biosynthetic process		'triglyceride biosynthetic process'			
-triglyceride catabolic process		'triglyceride catabolic process'			
-triglyceride homeostasis		'triglyceride homeostasis'			
-triglyceride metabolic process		'triglyceride metabolic process'			
-triglyceride mobilization		'triglyceride mobilization'			
-triglyceride transport		'triglyceride transport'			
-triglyceride-rich lipoprotein particle clearance					
-triglyceride-rich lipoprotein particle remodeling					
-		'triglyceride binding'			
-		'cellular response to triglyceride'			
-		'cellular triglyceride homeostasis'			
+name	ID	manual	auto	checked	blacklisted
+triglyceride acyl-chain remodeling	GO_0036153	1	1	0	0
+triglyceride biosynthetic process	GO_0019432	1	1	0	0
+triglyceride catabolic process	GO_0019432	1	1	0	0
+triglyceride homeostasis	GO_0070328	1	1	0	0
+triglyceride metabolic process	GO_0006641	1	1	0	0
+triglyceride mobilization	GO_0006642	1	1	0	0
+triglyceride transport	GO_0034197	1	1	0	0
+triglyceride-rich lipoprotein particle clearance	GO_0071830	1	0	0	0
+triglyceride-rich lipoprotein particle remodeling	GO_0034370	1	0	0	0
+triglyceride binding	GO_0017129	0	1	0	0
+cellular response to triglyceride	GO_0071401	0	1	0	0
+cellular triglyceride homeostasis	GO_0035356	0	1	0	0
