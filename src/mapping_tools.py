@@ -1,5 +1,8 @@
 #!/usr/bin/env jython -J-Xmx8000m
 from uk.ac.ebi.brain.core import Brain
+import os
+
+# TODO - switch from Brain to owltools
 
 def load_ont(url):
 	ont = Brain()
@@ -14,43 +17,58 @@ def roll_basic_pattern (key_class):
     return "(has_participant some) %s or (regulates some (has_particpant some %s))" % (key_class, key_class) # If using this pattern, will need OWLtools/HermiT.
 
 class map_obj:
-	# check ont is a brain OR owl-api ontology object
-	class_expression = '' # Class expression used to generate list
-	manual_list = [] # Old manually curated mapping from Roche
-	generated_list = [] # Results of running OWL queries 
-	blacklist = []  # Not yet supported.
-	report = []
-	def init (self, go, RocheCVterm, manual_map, owl_map):
+	
+	def __str__(self):
+		return "Roche_cvt: %s; class_expression %s; manual_list_count %d, generated_list_count %d" % (self.Roche_cvt, self.class_expression, len(self.manual_list), len(self.generated_list))
+	def __init__ (self, go, RocheCVterm, manual_map, owl_map):
+		# check go is a brain OR owl-api ontology object
+		"""Initialise map object: go = a Brain ontology object, 'RocheCVterm' is the term name string, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
+		self.key_term = ''
+		self.class_expression = '' # Class expression used to generate list
+		self.manual_list = [] # Old manually curated mapping from Roche
+		self.generated_list = [] # Results of running OWL queries 
+		self.blacklist = []  # Not yet supported.
+		self.id_name = {}  # hash lookup for names of GO terms in lists
 		"""go = go ontology object; RochCVterm = a single term from RocheCV; manual_map = colDict of manual map; owl_map = ColRowDict of owl mapping file"""
+		self.Roche_cvt = RocheCVterm
 		self.class_expression = owl_map[RocheCVterm]['class expression IDs']
 		for m in manual_map:
 			if m['Roche CV'] == RocheCVterm:
 				self.manual_list.append(m['GO term ID'])
 		self.update_map(go)
-		#name_id = gen_name_id_dict(go)  # Very inefficient !!!
+		self.update_id_name(go)
+		
+		
 	def update_map(self, go):
 		"""Updates mapping generated from owl class expression"""
 		## Map should be updated when object is initialised! 
-		self.generated_list =  go.getSubClasses(self.class_expression, 0)  # This assumes an OWL object.  But should probably be querying via OWLtools using hermit in order to use OR.
-	def gen_report(self):
-		"""Report format: Col1 manual map term name, Col2 manual map term ID, Col3 Generated mapping (names), Col4 Generated mapping (IDs), Col5 checked, Col6 blacklist.
-		Ordering: Alphanumeric sort col1, Col2 cell occupied if matching Col1.  Then Alphanumeric sort remaning term in Col2"""
-		x = 1
-		
-	def print_report(self):
-		print  "%s\t%s\t%s\t%s\t%s\t%s\n" % ('manual map name', 'manual map id', 'auto map name', 'auto map id', 'checked', 'blacklisted')
-		print self.report
-		
-def gen_name_id_dict(ont):
-	name_id = {}
-	classList = ont.SubClasses("Thing", 0)
-	for claz in classList:
-		name_id[claz] = ont.getLabel[claz]
-	return name_id
-	
+		self.generated_list.extend(go.getSubClasses(self.class_expression, 0))  # This assumes an OWL object.  But should probably be querying via OWLtools using hermit in order to use OR.
+		self.generated_list.extend(go.getEquivalentClasses(self.class_expression))
+	def gen_report(self, report_tab):
+		"""Generate report for 'Roche CV term'.  Arg (report) = a results table as row_column_dict."""
+		keys = set(self.generated_list) | set(self.manual_list)
+		for key in keys:
+			# Add key for row, if not already present
+			if key not in report_tab:
+				report_tab[key] = { 'checked': 0, 'blacklisted': 0 }
+			# Populate row
+			report_tab[key]['name'] = self.id_name[key]
+			report_tab[key]['ID'] = key
+			if key in self.manual_list:
+				report_tab[key]['manual'] = 1
+				report_tab[key]['checked'] = 1
+			else:
+				report_tab[key]['manual'] = 0
+			if key in self.generated_list:
+				report_tab[key]['auto'] = 1
+			else:
+				report_tab[key]['auto'] = 0
+			# 
+			if report_tab[key]['blacklisted']:
+				self.blacklist.append(key)
+				 
+	def update_id_name(self, ont):
+		idList = set(self.generated_list) | set(self.manual_list)
+		for ID in idList:
+			self.id_name[ID]=ont.getLabel(ID)
 
-#map_file = open("../mapping_tables/...", "r")
-
-#map_tab = tsv2rowDict(map)
-
-#map_obj
