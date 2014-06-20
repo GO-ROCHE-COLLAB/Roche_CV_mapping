@@ -2,4 +2,4 @@ Roche CV term	Key Class name	Key Class ID	class expression names	class expressio
 muscle cell	muscle cell	CL_0000187	has_participant some 'muscle cell'	RO_0000057 some CL_0000187	base assumption of has_participant - may not be sufficient
 zinc ion homeostasis	zinc ion homeostasis	GO_0055069	zinc ion homeostasis	GO_0055069	GO axiomatisation insufficient?
 triglyceride	triglyceride	CHEBI_17855	has_participant some triglyceride	RO_0000057 some CHEBI_17855	
-wound healing	wound healing	GO_0042060	wound healing' or ('part of' some 'wound healing') or ('regulates' some 'wound healing')	 GO_0042060 or (BFO_0000050 some GO_0042060) or (RO_0002211 sone  GO_0042060)	
+wound healing	wound healing	GO_0042060	wound healing' or ('part of' some 'wound healing') or ('regulates' some 'wound healing')	GO_0042060 or (BFO_0000050 some GO_0042060) or (RO_0002211 some  GO_0042060)	

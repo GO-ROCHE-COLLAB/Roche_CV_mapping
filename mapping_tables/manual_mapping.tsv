@@ -1,65 +1,65 @@
 Roche CV	GO term name	GO term ID
-zinc ion homeostasis	zinc ion homeostasis	GO:0055069
-zinc ion homeostasis	zinc ion transmembrane import	GO:0071578
-zinc ion homeostasis	zinc ion transmembrane transport	GO:0071577
-zinc ion homeostasis	zinc ion transport	GO:0006829
-zinc ion homeostasis	zinc potentiation of synaptic transmission, glycinergic	GO:0060095
-triglyceride	triglyceride acyl-chain remodeling	GO:0036153
-triglyceride	triglyceride biosynthetic process	GO:0019432
-triglyceride	triglyceride catabolic process	GO:0019433
-triglyceride	triglyceride homeostasis	GO:0070328
-triglyceride	triglyceride metabolic process	GO:0006641
-triglyceride	triglyceride mobilization	GO:0006642
-triglyceride	triglyceride transport	GO:0034197
-triglyceride	triglyceride-rich lipoprotein particle clearance	GO:0071830
-triglyceride	triglyceride-rich lipoprotein particle remodeling	GO:0034370
-wound healing	clearance of damaged tissue involved in inflammatory response wound healing	GO:0002247
-wound healing	connective tissue replacement involved in inflammatory response wound healing	GO:0002248
-wound healing	negative regulation of vascular wound healing	GO:0061044
-wound healing	negative regulation of wound healing	GO:0061045
-wound healing	positive regulation of vascular wound healing	GO:0035470
-wound healing	positive regulation of wound healing	GO:0090303
-wound healing	regulation of vascular wound healing	GO:0061043
-wound healing	regulation of wound healing	GO:0061041
-wound healing	wound healing	GO:0042060
-wound healing	wound healing involved in inflammatory response	GO:0002246
-wound healing	wound healing, spreading of cells	GO:0044319
-wound healing	wound healing, spreading of epidermal cells	GO:0035313
-UDP metabolism	UDP biosynthetic process	GO:0006225
-UDP metabolism	UDP catabolic process	GO:0006256
-UDP metabolism	UDP metabolic process	GO:0046048
-UDP metabolism	UDP reduction	GO:0006255
-UDP metabolism	UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process	GO:2001315
-UDP metabolism	UDP-4-deoxy-4-formamido-beta-L-arabinopyranose catabolic process	GO:2001314
-UDP metabolism	UDP-4-deoxy-4-formamido-beta-L-arabinopyranose metabolic process	GO:2001313
-UDP metabolism	UDP-D-apiose biosynthetic process	GO:0033352
-UDP metabolism	UDP-D-apiose metabolic process	GO:0033351
-UDP metabolism	UDP-D-galactose biosynthetic process	GO:0052574
-UDP metabolism	UDP-D-galactose metabolic process	GO:0052573
-UDP metabolism	UDP-D-galacturonate biosynthetic process	GO:0033480
-UDP metabolism	UDP-D-galacturonate metabolic process	GO:0033479
-UDP metabolism	UDP-D-xylose biosynthetic process	GO:0033320
-UDP metabolism	UDP-D-xylose metabolic process	GO:0033319
-UDP metabolism	UDP-L-arabinose biosynthetic process	GO:0033358
-UDP metabolism	UDP-L-arabinose metabolic process	GO:0033356
-UDP metabolism	UDP-N-acetylgalactosamine biosynthetic process	GO:0019277
-UDP metabolism	UDP-N-acetylgalactosamine catabolic process	GO:0019278
-UDP metabolism	UDP-N-acetylgalactosamine metabolic process	GO:0019276
-UDP metabolism	UDP-N-acetylgalactosamine transport	GO:0015789
-UDP metabolism	UDP-N-acetylglucosamine biosynthesis involved in chitin biosynthesis	GO:0035528
-UDP metabolism	UDP-N-acetylglucosamine biosynthetic process	GO:0006048
-UDP metabolism	UDP-N-acetylglucosamine catabolic process	GO:0006049
-UDP metabolism	UDP-N-acetylglucosamine metabolic process	GO:0006047
-UDP metabolism	UDP-N-acetylglucosamine transport	GO:0015788
-UDP metabolism	UDP-galactose transmembrane transport	GO:0072334
-UDP metabolism	UDP-galactose transport	GO:0015785
-UDP metabolism	UDP-glucose catabolic process	GO:0006258
-UDP metabolism	UDP-glucose metabolic process	GO:0006011
-UDP metabolism	UDP-glucose transport	GO:0015786
-UDP metabolism	UDP-glucosylation	GO:0097359
-UDP metabolism	UDP-glucuronate biosynthetic process	GO:0006065
-UDP metabolism	UDP-glucuronate metabolic process	GO:0046398
-UDP metabolism	UDP-glucuronic acid transport	GO:0015787
-UDP metabolism	UDP-rhamnose biosynthetic process	GO:0010253
-UDP metabolism	UDP-rhamnose metabolic process	GO:0033478
-UDP metabolism	UDP-xylose transport	GO:0015790
+zinc ion homeostasis	zinc ion homeostasis	GO_0055069
+zinc ion homeostasis	zinc ion transmembrane import	GO_0071578
+zinc ion homeostasis	zinc ion transmembrane transport	GO_0071577
+zinc ion homeostasis	zinc ion transport	GO_0006829
+zinc ion homeostasis	zinc potentiation of synaptic transmission, glycinergic	GO_0060095
+triglyceride	triglyceride acyl-chain remodeling	GO_0036153
+triglyceride	triglyceride biosynthetic process	GO_0019432
+triglyceride	triglyceride catabolic process	GO_0019433
+triglyceride	triglyceride homeostasis	GO_0070328
+triglyceride	triglyceride metabolic process	GO_0006641
+triglyceride	triglyceride mobilization	GO_0006642
+triglyceride	triglyceride transport	GO_0034197
+triglyceride	triglyceride-rich lipoprotein particle clearance	GO_0071830
+triglyceride	triglyceride-rich lipoprotein particle remodeling	GO_0034370
+wound healing	clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247
+wound healing	connective tissue replacement involved in inflammatory response wound healing	GO_0002248
+wound healing	negative regulation of vascular wound healing	GO_0061044
+wound healing	negative regulation of wound healing	GO_0061045
+wound healing	positive regulation of vascular wound healing	GO_0035470
+wound healing	positive regulation of wound healing	GO_0090303
+wound healing	regulation of vascular wound healing	GO_0061043
+wound healing	regulation of wound healing	GO_0061041
+wound healing	wound healing	GO_0042060
+wound healing	wound healing involved in inflammatory response	GO_0002246
+wound healing	wound healing, spreading of cells	GO_0044319
+wound healing	wound healing, spreading of epidermal cells	GO_0035313
+UDP metabolism	UDP biosynthetic process	GO_0006225
+UDP metabolism	UDP catabolic process	GO_0006256
+UDP metabolism	UDP metabolic process	GO_0046048
+UDP metabolism	UDP reduction	GO_0006255
+UDP metabolism	UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process	GO_2001315
+UDP metabolism	UDP-4-deoxy-4-formamido-beta-L-arabinopyranose catabolic process	GO_2001314
+UDP metabolism	UDP-4-deoxy-4-formamido-beta-L-arabinopyranose metabolic process	GO_2001313
+UDP metabolism	UDP-D-apiose biosynthetic process	GO_0033352
+UDP metabolism	UDP-D-apiose metabolic process	GO_0033351
+UDP metabolism	UDP-D-galactose biosynthetic process	GO_0052574
+UDP metabolism	UDP-D-galactose metabolic process	GO_0052573
+UDP metabolism	UDP-D-galacturonate biosynthetic process	GO_0033480
+UDP metabolism	UDP-D-galacturonate metabolic process	GO_0033479
+UDP metabolism	UDP-D-xylose biosynthetic process	GO_0033320
+UDP metabolism	UDP-D-xylose metabolic process	GO_0033319
+UDP metabolism	UDP-L-arabinose biosynthetic process	GO_0033358
+UDP metabolism	UDP-L-arabinose metabolic process	GO_0033356
+UDP metabolism	UDP-N-acetylgalactosamine biosynthetic process	GO_0019277
+UDP metabolism	UDP-N-acetylgalactosamine catabolic process	GO_0019278
+UDP metabolism	UDP-N-acetylgalactosamine metabolic process	GO_0019276
+UDP metabolism	UDP-N-acetylgalactosamine transport	GO_0015789
+UDP metabolism	UDP-N-acetylglucosamine biosynthesis involved in chitin biosynthesis	GO_0035528
+UDP metabolism	UDP-N-acetylglucosamine biosynthetic process	GO_0006048
+UDP metabolism	UDP-N-acetylglucosamine catabolic process	GO_0006049
+UDP metabolism	UDP-N-acetylglucosamine metabolic process	GO_0006047
+UDP metabolism	UDP-N-acetylglucosamine transport	GO_0015788
+UDP metabolism	UDP-galactose transmembrane transport	GO_0072334
+UDP metabolism	UDP-galactose transport	GO_0015785
+UDP metabolism	UDP-glucose catabolic process	GO_0006258
+UDP metabolism	UDP-glucose metabolic process	GO_0006011
+UDP metabolism	UDP-glucose transport	GO_0015786
+UDP metabolism	UDP-glucosylation	GO_0097359
+UDP metabolism	UDP-glucuronate biosynthetic process	GO_0006065
+UDP metabolism	UDP-glucuronate metabolic process	GO_0046398
+UDP metabolism	UDP-glucuronic acid transport	GO_0015787
+UDP metabolism	UDP-rhamnose biosynthetic process	GO_0010253
+UDP metabolism	UDP-rhamnose metabolic process	GO_0033478
+UDP metabolism	UDP-xylose transport	GO_0015790
