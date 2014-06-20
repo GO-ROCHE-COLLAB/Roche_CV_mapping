@@ -1,0 +1,13 @@
+name	ID	manual	auto	checked	blacklisted
+regulation of vascular wound healing	GO_0061043	1	0	1	0
+wound healing	GO_0042060	1	0	1	0
+regulation of wound healing	GO_0061041	1	0	1	0
+wound healing involved in inflammatory response	GO_0002246	1	0	1	0
+positive regulation of vascular wound healing	GO_0035470	1	0	1	0
+wound healing, spreading of cells	GO_0044319	1	0	1	0
+negative regulation of vascular wound healing	GO_0061044	1	0	1	0
+negative regulation of wound healing	GO_0061045	1	0	1	0
+connective tissue replacement involved in inflammatory response wound healing	GO_0002248	1	0	1	0
+clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247	1	0	1	0
+positive regulation of wound healing	GO_0090303	1	0	1	0
+wound healing, spreading of epidermal cells	GO_0035313	1	0	1	0
