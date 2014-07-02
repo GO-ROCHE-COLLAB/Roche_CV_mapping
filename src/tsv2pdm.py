@@ -18,9 +18,9 @@ class tab(object):
         """Read in file. First arg is path to file, minus file name (not stored in object), second arg is file name, third arg is the column to be used as a key"""
         self.file_name = file_name
         self.key_column = key_column
-        self.tab = [] # If no valid key column, this stores table data as list of dicts keyed on column. Otherwise this is an empty list.
-        self.rowColDict = {} # If there is a valid key column - data is store here as a dict of dicts - [row][column]
-        self.parse_tsv(path)
+        self.tab = [] # list of dicts, keyed on column.
+        self.rowColDict = {} #  dict of dicts - [row][column]
+        self.parse_tsv(path)  # Shoulu
 
     def parse_tsv(self, path):
         tsv_file = open(path + self.file_name, "r")
@@ -42,6 +42,7 @@ class tab(object):
         
     def print_tab(self):
         out_tab = []
+        # This is ugly - testing membership of child class in parent class. But acceptable I think, given the this is unlikely to be extended and that the alternatives - redundant data structures or a class specific print method, are more likely to cause data processing problems.
         if isinstance(self, rcd):
             # populate tab for the purpose of printing
             out_tab = self.rowColDict.values()
@@ -53,7 +54,7 @@ class tab(object):
             outrow = []
             for h in self.headers:
                 outrow.append(row[h])
-            out.append('\t'.join(outrow))
+            out.append('\t'.join(map(unicode, outrow)))  # All content of list to unicode, then joined with a tab, then appended to output.
         return '\n'.join(out)
 
     
@@ -65,8 +66,8 @@ class rcd(tab):
     def __init__(self, path, file_name, key_column):
         self.file_name = file_name
         self.key_column = key_column
-        self.tab = [] # If no valid key column, this stores table data as list of dicts keyed on column. Otherwise this is an empty list.
-        self.rowColDict = {} # If there is a valid key column - data is store here as a dict of dicts - [row][column]
+        self.tab = [] # list of dicts keyed on column
+        self.rowColDict = {} # dict of dicts - [row][column]
         self.parse_tsv(path)
         if self.key_column_check():
             self.genRowColDict()
