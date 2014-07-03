@@ -10,24 +10,26 @@ from mapping_tools import *
 from tsv2pdm import *
 go = load_ont(sys.argv[1])
 manMap = tab('../mapping_tables/', 'manual_mapping.tsv')  # No key row.  Stored as list of dicts.
-owlMap = tab('../mapping_tables/', 'owl_map.tsv', 'Roche CV term') # dict of dicts.
+owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_id') # dict of dicts.
+RCV_id_name = {} # Residual perlishness ?
+for row in manMap.tab:
+	RCV_id_name[row['RCV_id']]=row['RCV_name']
 
 report_path = '../mapping_tables/results/'
 
-for rcvt in owlMap.rowColDict:
-    fname = re.sub(' ', '_', rcvt)
-    report = ''
-    if os.path.isfile(report_path + fname + ".tsv"):
-        report = tab(report_path, fname + ".tsv", 'ID')
-    else:
-        report = tab(report_path, 'results_template.tsv', 'ID')
-    print "Processing: %s" % rcvt        
-    out = open("../mapping_tables/results/%s.tsv" % fname, "w")
-    mo = map_obj(go, rcvt, manMap.tab, owlMap.rowColDict)
-    print "map summary: %s" % mo
-    mo.gen_report(report.rowColDict) # Update report object using map object
-    # Now print report.
-    for oline in (report.print_tab()):
-        out.write(oline + "\n")
-    out.close()
+for RCV_id in owlMap.rowColDict:
+	fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
+	report = ''
+	if os.path.isfile(report_path + fname + ".tsv"):
+		report = rcd(report_path, fname + ".tsv", 'ID')
+	else:
+		report = rcd(report_path, 'results_template.tsv', 'ID')
+	print "Processing: %s" % RCV_id        
+	out = open("../mapping_tables/results/%s.tsv" % fname, "w")
+	mo = map_obj(go, RCV_id, manMap.tab, owlMap.rowColDict)
+	print "map summary: %s" % mo
+	mo.gen_report(report.rowColDict) # Update report object using map object
+	out.write(report.print_tab())
+	out.close()
+	
 go.sleep()

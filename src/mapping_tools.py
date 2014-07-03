@@ -17,24 +17,25 @@ def roll_basic_pattern (key_class):
     return "(has_participant some) %s or (regulates some (has_particpant some %s))" % (key_class, key_class) # If using this pattern, will need OWLtools/HermiT.
 
 class map_obj:
-	
+	# Should this work on ids or names?  Seems wasteful to store both.
 	def __str__(self):
-		return "Roche_cvt: %s; class_expression %s; manual_list_count %d, generated_list_count %d" % (self.Roche_cvt, self.class_expression, len(self.manual_list), len(self.generated_list))
-	def __init__ (self, go, RocheCVterm, manual_map, owl_map):
+		return "Roche_cvt: %s; class_expression %s; manual_list_count %d, generated_list_count %d" % (self.RCV_id, self.class_expression, len(self.manual_list), len(self.generated_list))
+	def __init__ (self, go, RCV_id, manual_map, owl_map):
+		# Key on ID. Lookup is responsibility of calling script.
 		# check go is a brain OR owl-api ontology object
-		"""Initialise map object: go = a Brain ontology object, 'RocheCVterm' is the term name string, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
+		"""Initialise map object: go = a Brain ontology object, 'RCV_id' is the Roche term ID, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
 		self.key_term = ''
 		self.class_expression = '' # Class expression used to generate list
 		self.manual_list = [] # Old manually curated mapping from Roche
 		self.generated_list = [] # Results of running OWL queries 
-		self.blacklist = []  # Not yet supported.
-		self.id_name = {}  # hash lookup for names of GO terms in lists
+		self.blacklist = []  # Terms blacklisted by Roche annotators
+		self.id_name = {}  # hash lookup for names of GO terms in lists (should this really be bodged in here?!)
 		"""go = go ontology object; RochCVterm = a single term from RocheCV; manual_map = colDict of manual map; owl_map = ColRowDict of owl mapping file"""
-		self.Roche_cvt = RocheCVterm
-		self.class_expression = owl_map[RocheCVterm]['class expression IDs']
+		self.RCV_id = RCV_id
+		self.class_expression = owl_map[RCV_id]['class expression IDs']
 		for m in manual_map:
-			if m['Roche CV'] == RocheCVterm:
-				self.manual_list.append(m['GO term ID'])
+			if m['RCV_id'] == RCV_id:
+				self.manual_list.append(m['GO_id'])
 		self.update_map(go)
 		self.update_id_name(go)
 		
@@ -46,7 +47,7 @@ class map_obj:
 		self.generated_list.extend(go.getEquivalentClasses(self.class_expression))
 	def gen_report(self, report_tab):
 		"""Generate report for 'Roche CV term'.  Arg (report) = a results table as row_column_dict."""
-		keys = set(self.generated_list) | set(self.manual_list)
+		keys = set(self.generated_list) | set(self.manual_list) # Make union of two lists => complete set of keys.
 		for key in keys:
 			# Add key for row, if not already present
 			if key not in report_tab:
@@ -68,6 +69,7 @@ class map_obj:
 				self.blacklist.append(key)
 				 
 	def update_id_name(self, ont):
+		# Perhaps should be dealt with outside?  Could have a class object.  But then might be easier to do all this purely in OWL/Brain!
 		idList = set(self.generated_list) | set(self.manual_list)
 		for ID in idList:
 			self.id_name[ID]=ont.getLabel(ID)
