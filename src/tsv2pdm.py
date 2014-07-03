@@ -20,15 +20,16 @@ class tab(object):
         self.key_column = key_column
         self.tab = [] # list of dicts, keyed on column.
         self.rowColDict = {} #  dict of dicts - [row][column]
-        self.parse_tsv(path)  # Shoulu
+        self.headers = [] # declare headers as a list
+        self.parse_tsv(path, file_name)  # 
 
-    def parse_tsv(self, path):
-        tsv_file = open(path + self.file_name, "r")
+    def parse_tsv(self, path, file_name):
+        tsv_file = open(path + file_name, "r")
         hstat = 0
         for line in tsv_file:
             cline = line.rstrip("\n")
             if hstat == 0:
-                self.headers = cline.split("\t")
+                self.headers.extend(cline.split("\t"))
                 hstat = 1
             else:
                 row = {}
@@ -68,7 +69,8 @@ class rcd(tab):
         self.key_column = key_column
         self.tab = [] # list of dicts keyed on column
         self.rowColDict = {} # dict of dicts - [row][column]
-        self.parse_tsv(path)
+        self.headers = [] # declare headers as a list
+        self.parse_tsv(path, file_name)
         if self.key_column_check():
             self.genRowColDict()
             
