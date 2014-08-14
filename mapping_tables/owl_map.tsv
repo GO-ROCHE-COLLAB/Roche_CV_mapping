@@ -1,4 +1,20 @@
 RCV_name	RCV_id	Key Class name	Key Class ID	class expression names	class expression IDs	Notes
+B cells	RCV_000001	B cell	CL_0000236	has_participant some 'B cell'	RO_0000057 some CL_0000236
+BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0031547
+BMP pathway	RCV_000003	BMP pathway	GO_0030509	part_of_or_regulates some 'BMP signalling pathway'	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030509
+CTGF	RCV_000004	connective tissue growth factor ?	??		Nothing
+DNA binding process	RCV_000005	DNA binding process	GO_0003677	improper_part_of some 'DNA binding'	3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0003677
+DNA damage	RCV_000006	DNA damage	GO_0042769	improper_part_of some 'DNA damage response'	3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0042769
+DNA dynamics	RCV_000007	????	???!!!		Nothing
+DNA recombination	RCV_000008	DNA recombination	GO_0006310	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006310
+DNA repair	RCV_000009	DNA repair	GO_0006281	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006281
+DNA replication	RCV_000010	DNA replication	GO_0006260	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260
+DNA replication negative	RCV_000011	??	??		Nothing
+DNA silencing	RCV_000012	gene silencing	GO_0016458	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016458
+DNA synthesis	RCV_000013	DNA biosynthetic process	GO_0071897	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0071897
+EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_0007173	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007173
+ERBB signaling pathway	RCV_000015	ERBB signaling pathway	GO_0038127	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038127
+FGF pathway	RCV_000016	fibroblast growth factor receptor signaling pathway	GO_0008543	part_of_or_regulates	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0008543
 zinc ion homeostasis	RCV_0000001	zinc ion homeostasis	GO_0055069	zinc ion homeostasis	GO_0055069	GO axiomatisation insufficient?
 triglyceride	RCV_0000027	triglyceride	CHEBI_17855	has_participant some triglyceride	RO_0000057 some CHEBI_17855	
 wound healing	RCV_0000004	wound healing	GO_0042060	wound healing' or ('part of' some 'wound healing') or ('regulates' some 'wound healing')	GO_0042060 or (BFO_0000050 some GO_0042060) or (RO_0002211 some  GO_0042060)	
