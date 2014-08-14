@@ -23,7 +23,7 @@ class map_obj:
 	def __init__ (self, go, RCV_id, manual_map, owl_map):
 		# Key on ID. Lookup is responsibility of calling script.
 		# check go is a brain OR owl-api ontology object
-		"""Initialise map object: go = a Brain ontology object, 'RCV_id' is the Roche term ID, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
+		"""Initialise map object: go = a Brain ontology object, 'RCV_ID' is the Roche term ID, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
 		self.key_term = ''
 		self.class_expression = '' # Class expression used to generate list
 		self.manual_list = [] # Old manually curated mapping from Roche
@@ -34,8 +34,8 @@ class map_obj:
 		self.RCV_id = RCV_id
 		self.class_expression = owl_map[RCV_id]['class expression IDs']
 		for m in manual_map:
-			if m['RCV_id'] == RCV_id:
-				self.manual_list.append(m['GO_id'])
+			if m['RCV_ID'] == RCV_id:
+				self.manual_list.append(m['GO_ID'])
 		self.update_map(go)
 		self.update_id_name(go)
 		

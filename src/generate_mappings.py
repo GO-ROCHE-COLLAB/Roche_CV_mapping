@@ -10,10 +10,10 @@ from mapping_tools import *
 from tsv2pdm import *
 go = load_ont(sys.argv[1])
 manMap = tab('../mapping_tables/', 'manual_mapping.tsv')  # No key row.  Stored as list of dicts.
-owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_id') # dict of dicts.
+owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_ID') # dict of dicts.
 RCV_id_name = {} # Residual perlishness ?
 for row in manMap.tab:
-	RCV_id_name[row['RCV_id']]=row['RCV_name']
+	RCV_id_name[row['RCV_ID']]=row['RCV_NAME']
 
 report_path = '../mapping_tables/results/'
 
