@@ -8,17 +8,17 @@
 * DNA recombination ; RCV_000008:
   * Query: part_of_or_regulates 
   * map summary: Roche_cvt: RCV_000008; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006310; manual_list_count 3, generated_list_count 146.
-  * Notes: 
+  * Notes: Massively incomplete manual map?  Subclasses of recombination alone => 51 classes, but this has only 3 manual mappings!
   * [Results](DNA_recombination_RCV_000008.tsv)
 * DNA binding process ; RCV_000005:
   * Query: improper_part_of some 'DNA binding' 
   * map summary: Roche_cvt: RCV_000005; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0003677; manual_list_count 38, generated_list_count 139.
-  * Notes: 
+  * Notes: 'DNA binding process' + subclasses maybe sufficient.  Extra classes found over manual list look justified.
   * [Results](DNA_binding_process_RCV_000005.tsv)
 * DNA repair ; RCV_000009:
   * Query: part_of_or_regulates 
   * map summary: Roche_cvt: RCV_000009; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006281; manual_list_count 49, generated_list_count 111.
-  * Notes: 
+  * Notes: Manual map includes the odd regulation term and complex, so a query that brings in both of these may be justified.  But including these results in a much larger list than the manual one.
   * [Results](DNA_repair_RCV_000009.tsv)
 * wound healing ; RCV_000356:
   * Query: regulates_or_part_of some 'wounding healing' 
