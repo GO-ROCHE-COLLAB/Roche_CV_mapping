@@ -13,11 +13,13 @@ consider to be missing.  The blacklist will be taken into account for
 the final mapping.  Additional clauses will be considered in order to
 bring in missing classes.
 
+The tsv based strategy was chosen in order to keep the project lightweight and easy to manage - given the simplicity of the data.  However, if requirements become more baroque then data management should probaby be moved to a SQL DB (see [Notes on a simple DB schema](DB_schema_sketch.md))
+
 # Unit tests
 
 As the GO evolves, OWL entities referenced in the class expressions
 used for mapping may become obsolete.  It is therefore important that
-we run tests
+we run tests for the obsoletion status of classes referenced.
 
 # Versioning
 

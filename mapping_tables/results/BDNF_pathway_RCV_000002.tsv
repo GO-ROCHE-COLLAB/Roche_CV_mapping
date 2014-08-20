@@ -1,0 +1,9 @@
+name	ID	manual	auto	checked	blacklisted
+brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	1	1	1	0
+regulation of brain-derived neurotrophic factor receptor signaling pathway	GO_0031548	1	1	1	0
+negative regulation of brain-derived neurotrophic factor-activated receptor activity	GO_0031552	1	1	1	0
+positive regulation of brain-derived neurotrophic factor-activated receptor activity	GO_0031553	1	1	1	0
+brain-derived neurotrophic factor-activated receptor activity	GO_0060175	0	1	0	0
+negative regulation of brain-derived neurotrophic factor receptor signaling pathway	GO_0031549	1	1	1	0
+positive regulation of brain-derived neurotrophic factor receptor signaling pathway	GO_0031550	1	1	1	0
+regulation of brain-derived neurotrophic factor-activated receptor activity	GO_0031551	1	1	1	0

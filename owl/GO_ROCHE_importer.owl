@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY scratch3 "http://purl.obolibrary.org/obo/scratch/" >
+    <!ENTITY scratch "http://purl.obolibrary.org/obo/scratch/1" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY scratch2 "http://purl.obolibrary.org/obo/scratch/3790" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/dosumis/ontologies/GO_ROCHE_importer.owl#"
+     xml:base="http://www.semanticweb.org/dosumis/ontologies/GO_ROCHE_importer.owl"
+     xmlns:scratch="&obo;scratch/1"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:scratch3="&obo;scratch/"
+     xmlns:scratch2="&obo;scratch/3790">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/dosumis/ontologies/GO_ROCHE_importer.owl">
+        <owl:imports rdf:resource="&obo;go/extensions/go-plus.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;BFO_0000050">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002211 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;RO_0002211">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002215 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;RO_0002215">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002216 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;RO_0002216">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/1C127FE1-B049-4E09-8DCC-8B323644160F -->
+
+    <rdf:Description rdf:about="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F">
+        <rdfs:label>part of or regulates</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC -->
+
+    <rdf:Description rdf:about="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC">
+        <rdfs:label>improper part of</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5 -->
+
+    <rdf:Description rdf:about="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5">
+        <rdfs:label>capable_of_improper_part_of</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000050">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002211 -->
+
+    <rdf:Description rdf:about="&obo;RO_0002211">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002215 -->
+
+    <rdf:Description rdf:about="&obo;RO_0002215">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002216 -->
+
+    <rdf:Description rdf:about="&obo;RO_0002216">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002328 -->
+
+    <owl:ObjectProperty rdf:about="&obo;RO_0002328"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/1C127FE1-B049-4E09-8DCC-8B323644160F -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F">
+        <rdfs:label>part of or regulates</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC">
+        <rdf:type rdf:resource="&owl;ReflexiveProperty"/>
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>improper part of</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b">
+        <rdfs:label>process_super_query</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f">
+        <rdfs:label>improper_part_of_OR_capable_of_part_of</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5 -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5">
+        <rdfs:label>capable_of_improper_part_of</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0002328"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/699ccf22_e182_47e4_8d31_2f3f9a80f83e -->
+
+    <owl:Class rdf:about="&obo;scratch/699ccf22_e182_47e4_8d31_2f3f9a80f83e">
+        <rdfs:label>test</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
