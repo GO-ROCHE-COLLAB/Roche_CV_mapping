@@ -1,0 +1,21 @@
+pattern_name: has_participant_chemical
+
+owl_entities: 
+  "has participant": RO_0000057
+  "chemical entity": CHEBI_24431
+    
+vars: 
+  key_chemical: "'chemical entity'"
+    
+def: 
+  text: "A process in which some %s participates."
+  vars:
+    - key_chemical
+    
+    
+EquivalentTo: 
+  owl: "'has participant' some '%s'"
+  vars:
+    - key_chemical
+
+

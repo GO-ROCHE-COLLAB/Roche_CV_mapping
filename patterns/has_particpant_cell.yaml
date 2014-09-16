@@ -1,0 +1,20 @@
+pattern_name: has_participant_cell
+owl_entities: 
+  "has participant": RO_0000057
+  "cell": CL_0000000
+    
+vars: 
+  key_cell: "'cell'"
+    
+def: 
+  text: "A process in which a %s participates."
+  vars:
+    - key_cell
+    
+    
+EquivalentTo: 
+  owl: "'has participant' some '%s'"
+  vars:
+    - key_cell
+
+

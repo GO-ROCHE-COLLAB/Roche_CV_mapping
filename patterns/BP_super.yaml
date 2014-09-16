@@ -1,0 +1,22 @@
+pattern_name: process_super_query
+owl_entities: 
+  "process super query": 386a1f76_b26e_477f_8e50_6e4dab26bc3b
+    
+vars: 
+  key_process: "'biological_process'"
+    
+def: 
+  text: "%s OR a part of %S OR a process that regulates %s a cell component that functions in %s."
+  vars:
+    - key_process
+    - key_process
+    - key_process
+    - key_process
+    
+    
+EquivalentTo: 
+  owl: "'process super query' some '%s'"
+  vars:
+    - key_process
+
+
