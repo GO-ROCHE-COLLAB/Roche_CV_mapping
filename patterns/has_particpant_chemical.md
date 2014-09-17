@@ -1,5 +1,5 @@
 ## has_participant_chemical
-__label:__ process in which \{ key_cell \} participates
+__label:__ process in which \{ key_chemical \} participates
 
 __def:__ A process in which some \{ key_chemical \} participates.
 

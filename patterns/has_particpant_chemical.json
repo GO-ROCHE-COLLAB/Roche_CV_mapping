@@ -17,7 +17,7 @@
     "name": {
         "text": "process in which %s participates", 
         "vars": [
-            "key_cell"
+            "key_chemical"
         ]
     }, 
     "pattern_name": "has_participant_chemical", 

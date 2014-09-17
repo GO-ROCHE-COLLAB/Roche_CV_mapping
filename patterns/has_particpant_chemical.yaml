@@ -9,12 +9,12 @@ relations:
 def: 
   text: "A process in which a %s participates."
   vars:
-    - key_cell
+    - key_chemical
 
 name: 
   text: "process in which %s participates"
   vars: 
-    - key_cell
+    - key_chemical
     
 vars: 
   key_chemical: "'chemical entity'"
