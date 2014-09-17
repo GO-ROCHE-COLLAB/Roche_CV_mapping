@@ -1,12 +1,21 @@
-pattern_name: part_of_or_regulates
-owl_entities: 
+pattern_name: is_a_OR_part_of_OR_regulates
+
+classes:
+  biological_process: GO_0008150
+
+relations: 
   "part_of_or_regulates": 1C127FE1-B049-4E09-8DCC-8B323644160F
     
 vars: 
   key_process: "'biological_process'"
+  
+name:
+  text: "is a, part of or regulates %s"
+  vars:
+    - key_process
     
 def: 
-  text: "%s OR a part of %S OR a process that regulates %s"
+  text: "%s OR a part of %s OR a process that regulates %s"
   vars:
     - key_process
     - key_process
@@ -14,7 +23,7 @@ def:
     
     
 EquivalentTo: 
-  owl: "'part_of_or_regulates' some '%s'"
+  text: "'part_of_or_regulates' some %s"
   vars:
     - key_process
 

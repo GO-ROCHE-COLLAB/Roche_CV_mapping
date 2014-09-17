@@ -1,10 +1,18 @@
 pattern_name: has_participant_cell
-owl_entities: 
-  "has participant": RO_0000057
+
+classes: 
   "cell": CL_0000000
-    
+  
+relations:
+  "has participant": RO_0000057
+
 vars: 
   key_cell: "'cell'"
+  
+name: 
+  text: "process in which %s participates"
+  vars: 
+    - key_cell
     
 def: 
   text: "A process in which a %s participates."
@@ -13,7 +21,7 @@ def:
     
     
 EquivalentTo: 
-  owl: "'has participant' some '%s'"
+  text: "'has participant' some %s"
   vars:
     - key_cell
 

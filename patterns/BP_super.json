@@ -1,0 +1,33 @@
+{
+    "EquivalentTo": {
+        "text": "'process super query' some %s", 
+        "vars": [
+            "key_process"
+        ]
+    }, 
+    "classes": {
+        "biological_process": "GO_0008150"
+    }, 
+    "def": {
+        "text": "%s OR a part of %s OR a process that regulates %s OR a cell component that functions in %s.", 
+        "vars": [
+            "key_process", 
+            "key_process", 
+            "key_process", 
+            "key_process"
+        ]
+    }, 
+    "name": {
+        "text": "is a, part, regulates or functions in %s", 
+        "vars": [
+            "key_process"
+        ]
+    }, 
+    "pattern_name": "process_super_query", 
+    "relations": {
+        "process super query": "386a1f76_b26e_477f_8e50_6e4dab26bc3b"
+    }, 
+    "vars": {
+        "key_process": "'biological_process'"
+    }
+}
