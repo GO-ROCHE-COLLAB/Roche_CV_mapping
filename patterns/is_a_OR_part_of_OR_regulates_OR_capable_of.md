@@ -1,4 +1,4 @@
-## process_super_query
+## is_a_OR_part_of_OR_regulates_OR_capable_of
 __label:__ is a, part, regulates or functions in \{ key_process \}
 
 __def:__ \{ key_process \} OR a part of \{ key_process \} OR a process that regulates \{ key_process \} OR a cell component that functions in \{ key_process \}.

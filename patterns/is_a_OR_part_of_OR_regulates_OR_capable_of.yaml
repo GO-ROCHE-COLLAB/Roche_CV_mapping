@@ -1,4 +1,4 @@
-pattern_name: process_super_query
+pattern_name: is_a_OR_part_of_OR_regulates_OR_capable_of
 
 classes:
   biological_process: GO_0008150
