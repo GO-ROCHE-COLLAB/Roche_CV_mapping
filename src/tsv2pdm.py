@@ -45,19 +45,18 @@ class tab(object):
     def print_tab(self, sort_keys=(), reverse=False):
         """Returns table as a string.  Optionally specify a tuple of columns to sort as sort_keys.
         Default normal sort order.  Optionally specify reverse as a boolean (applies to all columns)."""
-        out_tab = []
-        # This is ugly - testing membership of child class in parent class. But acceptable I think, given the this is unlikely to be extended and that the alternatives - redundant data structures or a class specific print method, are more likely to cause data processing problems.
-        if isinstance(self, rcd):
-            # populate tab for the purpose of printing
-            out_tab = self.rowColDict.values()
-        else:
-            out_tab = self.tab
+        #Creating to allow overide that does other stuff before calling _print_tab
+        return self._print_tab(sort_keys, reverse)
+        
+    def _print_tab(self, sort_keys=(), reverse=False):
+        """Returns table as a string.  Optionally specify a tuple of columns to sort as sort_keys.
+        Default normal sort order.  Optionally specify reverse as a boolean (applies to all columns)."""
         if sort_keys:
             # For how this works, see http://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
-            out_tab.sort(key = operator.itemgetter(*sort_keys), reverse=reverse) # Note. * operator unpacks tuple.
+            self.tab.sort(key = operator.itemgetter(*sort_keys), reverse=reverse) # Note. * operator unpacks tuple.
         out = []
         out.append('\t'.join(self.headers))
-        for row in out_tab:
+        for row in self.tab:
             outrow = []
             for h in self.headers:
                 outrow.append(row[h])
@@ -110,12 +109,15 @@ class rcd(tab):
                 return False
             else:
                 return True
+            
+    def print_tab(self, sort_keys=(), reverse=False):
+        # Overriding method
+        """Returns table as a string.  Optionally specify a tuple of columns to sort as sort_keys.
+        Default normal sort order.  Optionally specify reverse as a boolean (applies to all columns)."""
+        self.tab = self.rowColDict.values()
+        out = self._print_tab(sort_keys, reverse)
+        self.tab = []  # Blanking out as this is not primary store for datamodel.
+        return out
 
-    def sort(self, spec):
-        # reinventing the wheel (or at least rdbms) again!
-        """Spec = a dict of columns to sort on (keys) with value = 'ascending/descending'"""
-        # Hmmmm doesn't this need to be instance dependent?!  - Implement with override method on rcd?
-        stub = 1
-        
         
             

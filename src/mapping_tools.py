@@ -45,6 +45,7 @@ class map_obj:
 		## Map should be updated when object is initialised! 
 		self.generated_list.extend(go.getSubClasses(self.class_expression, 0))  # This assumes an OWL object.  But should probably be querying via OWLtools using hermit in order to use OR.
 		self.generated_list.extend(go.getEquivalentClasses(self.class_expression))
+		
 	def gen_report(self, report_tab):
 		"""Generate report for 'Roche CV term'.  Arg (report) = a results table as row_column_dict."""
 		keys = set(self.generated_list) | set(self.manual_list) # Make union of two lists => complete set of keys.

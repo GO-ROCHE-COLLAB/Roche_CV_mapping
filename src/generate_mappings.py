@@ -65,7 +65,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
 		report = ''
 		if os.path.isfile(report_path + fname + ".tsv"):
-			report = rcd(report_path, fname + ".tsv", 'ID')
+			report = rcd(report_path, fname + ".tsv", 'ID') # why not use tab rather than rcd?
 		else:
 			report = rcd(report_path, 'results_template.tsv', 'ID')
 		print "Processing: %s" % RCV_id       
@@ -76,7 +76,8 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		if rd["Notes"]:
 			summary += "  * Notes: %s\n" % rd["Notes"]
 		summary += "  * [Results](%s.tsv)\n\n" % fname
-		mo.gen_report(report.rowColDict) # Update report object using map object
+		# Update report object using map object.  # Confusing way to work?  
+		mo.gen_report(report.rowColDict)
 		# print, sorting on manual followed by auto.  Use reverse sort order = True
 		out.write(report.print_tab(("manual","auto"), True)) 
 		out.close()
