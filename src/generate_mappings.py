@@ -55,13 +55,14 @@ for RCV_id, rd in owlMap.rowColDict.items():
 	# Skip cases where class expression marked as missing or preliminary      
 	if re.match("\?.*", rd['class expression IDs']):
 		if rd["Notes"]:
-			summary += "* %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
-			summary += "  * Notes: %s\n" % rd["Notes"]
-			summary += "  * Results: N/A Job not run. Specification marked as preliminary or missing.\n\n"
+			summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
+			summary += "* Notes: %s\n" % rd["Notes"]
+			summary += "* Results: N/A Job not run. Specification marked as preliminary or missing.\n\n"
 		continue
 	else:
-		summary += "* %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
-		summary += "  * Pattern: %s\n" % rd["Applied pattern"]
+		summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
+		summary += "* Key class: [%s](http://purl.obolibrary.org/obo/%s\n" % (rd["Key Class name"], rd["Key Class ID"])
+		summary += "* Pattern: [%s](../../patterns/%s.md)\n" % (rd["Applied pattern"], rd["Applied pattern"])
 		fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
 		report = ''
 		if os.path.isfile(report_path + fname + ".tsv"):
@@ -72,10 +73,10 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		out = open("../mapping_tables/results/%s.tsv" % fname, "w")
 		mo = map_obj(go, RCV_id, manMap.tab, owlMap.rowColDict)
 		print "map summary: %s\n" % mo
-		summary += "  * map summary: %s\n" % mo
+		summary += "* map summary: %s\n" % mo
 		if rd["Notes"]:
-			summary += "  * Notes: %s\n" % rd["Notes"]
-		summary += "  * [Results](%s.tsv)\n\n" % fname
+			summary += "* Notes: %s\n" % rd["Notes"]
+		summary += "* [Results](%s.tsv)\n\n" % fname
 		# Update report object using map object.  # Confusing way to work?  
 		mo.gen_report(report.rowColDict)
 		# print, sorting on manual followed by auto.  Use reverse sort order = True

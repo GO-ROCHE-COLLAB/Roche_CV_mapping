@@ -1,4 +1,5 @@
 name	ID	manual	auto	checked	blacklisted
+DNA binding	GO_0003677	0	1	0	0
 RNA polymerase III type 3 promoter sequence-specific DNA binding	GO_0001006	1	1	1	0
 transcription regulatory region sequence-specific DNA binding	GO_0000976	1	1	1	0
 RNA polymerase III type 2 promoter DNA binding	GO_0001031	1	1	1	0
@@ -128,7 +129,6 @@ DNA binding, bending	GO_0008301	0	1	0	0
 cAMP response element binding	GO_0035497	0	1	0	0
 single guanine insertion binding	GO_0032142	0	1	0	0
 sterol response element binding	GO_0032810	0	1	0	0
-DNA binding	GO_0003677	0	1	0	0
 methyl-CpG binding	GO_0008327	0	1	0	0
 DNA insertion or deletion binding	GO_0032135	0	1	0	0
 mitochondrial RNA polymerase termination site sequence-specific DNA binding	GO_0001145	0	1	0	0
