@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted
 negative regulation of nerve growth factor production	GO_0032904	1	0	1	0
-nerve growth factor receptor activity	GO_0010465	0	1	0	0
-nerve growth factor signaling pathway	GO_0038180	0	1	0	0
 negative regulation of nerve growth factor receptor activity	GO_0051395	1	0	1	0
 negative regulation of neurotrophin TRK receptor signaling pathway	GO_0051387	1	0	1	0
+nerve growth factor signaling pathway	GO_0038180	0	1	0	0
+nerve growth factor receptor activity	GO_0010465	0	1	0	0

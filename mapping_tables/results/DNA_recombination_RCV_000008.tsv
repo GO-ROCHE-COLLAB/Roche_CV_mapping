@@ -1,21 +1,24 @@
 name	ID	manual	auto	checked	blacklisted
+somatic cell DNA recombination	GO_0016444	1	1	1	0
+non-replicative transposition, DNA-mediated	GO_0098038	1	1	1	0
+transposon integration	GO_0070893	1	0	1	0
 RNA-mediated DNA recombination	GO_0042152	0	1	0	0
 telomere maintenance via recombination	GO_0000722	0	1	0	0
-positive regulation of strand invasion	GO_0098530	0	1	0	0
 positive regulation of mitotic recombination	GO_0045951	0	1	0	0
+positive regulation of strand invasion	GO_0098530	0	1	0	0
 regulation of isotype switching to IgA isotypes	GO_0048296	0	1	0	0
-mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0
-negative regulation of meiotic joint molecule formation	GO_0010947	0	1	0	0
 meiotic DNA recombinase assembly involved in meiotic gene conversion	GO_0010773	0	1	0	0
+negative regulation of meiotic joint molecule formation	GO_0010947	0	1	0	0
+mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0
 regulation of isotype switching to IgD isotypes	GO_0048299	0	1	0	0
 negative regulation of telomere maintenance via recombination	GO_0032208	0	1	0	0
+regulation of double-strand break repair via break-induced replication	GO_1901591	0	1	0	0
 negative regulation of isotype switching to IgD isotypes	GO_0048300	0	1	0	0
 immunoglobulin V(D)J recombination	GO_0033152	0	1	0	0
-regulation of double-strand break repair via break-induced replication	GO_1901591	0	1	0	0
-gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0
 movement of group I intron	GO_0006316	0	1	0	0
-strand invasion	GO_0042148	0	1	0	0
+gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0
 meiotic DNA double-strand break processing involved in meiotic gene conversion	GO_0010704	0	1	0	0
+strand invasion	GO_0042148	0	1	0	0
 regulation of isotype switching to IgG isotypes	GO_0048302	0	1	0	0
 DNA recombination	GO_0006310	0	1	0	0
 DNA synthesis involved in double-strand break repair via homologous recombination	GO_0043150	0	1	0	0
@@ -23,37 +26,35 @@ strand displacement	GO_0000732	0	1	0	0
 peripheral B cell receptor editing	GO_0002345	0	1	0	0
 gene conversion	GO_0035822	0	1	0	0
 meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0
-somatic cell DNA recombination	GO_0016444	1	1	1	0
 short tract gene conversion	GO_0035823	0	1	0	0
 isotype switching to IgG isotypes	GO_0048291	0	1	0	0
 V(D)J recombination	GO_0033151	0	1	0	0
 regulation of mitotic recombination involved in replication fork processing	GO_1903221	0	1	0	0
 meiotic strand invasion	GO_0000708	0	1	0	0
-negative regulation of strand invasion	GO_0060543	0	1	0	0
-regulation of strand invasion	GO_0060542	0	1	0	0
 positive regulation of isotype switching to IgA isotypes	GO_0048298	0	1	0	0
+regulation of strand invasion	GO_0060542	0	1	0	0
+negative regulation of strand invasion	GO_0060543	0	1	0	0
 recombinational interstrand cross-link repair	GO_0036298	0	1	0	0
 DNA recombinase assembly	GO_0000730	0	1	0	0
 inactivation of recombination (HML)	GO_0007537	0	1	0	0
 resolution of meiotic recombination intermediates	GO_0000712	0	1	0	0
-positive regulation of isotype switching to IgE isotypes	GO_0048295	0	1	0	0
 meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0
+positive regulation of isotype switching to IgE isotypes	GO_0048295	0	1	0	0
 negative regulation of isotype switching to IgG isotypes	GO_0048303	0	1	0	0
 regulation of double-strand break repair via homologous recombination	GO_0010569	0	1	0	0
 regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000571	0	1	0	0
-negative regulation of isotype switching to IgE isotypes	GO_0048294	0	1	0	0
-negative regulation of DNA recombination at telomere	GO_0048239	0	1	0	0
 regulation of telomere maintenance via recombination	GO_0032207	0	1	0	0
+negative regulation of DNA recombination at telomere	GO_0048239	0	1	0	0
+negative regulation of isotype switching to IgE isotypes	GO_0048294	0	1	0	0
 activation of reciprocal meiotic recombination	GO_0010846	0	1	0	0
 negative regulation of mitotic recombination	GO_0045950	0	1	0	0
 DNA double-strand break processing involved in repair via synthesis-dependent strand annealing	GO_0010791	0	1	0	0
 gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	0	0
 meiotic strand invasion involved in reciprocal meiotic recombination	GO_0010774	0	1	0	0
 somatic diversification of T cell receptor genes by N region addition	GO_0002571	0	1	0	0
-regulation of DNA recombination at telomere	GO_0072695	0	1	0	0
 early meiotic recombination nodule assembly	GO_0042139	0	1	0	0
+regulation of DNA recombination at telomere	GO_0072695	0	1	0	0
 resolution of mitotic recombination intermediates	GO_0071140	0	1	0	0
-transposon integration	GO_0070893	1	0	1	0
 reciprocal meiotic recombination	GO_0007131	0	1	0	0
 double-strand break repair via break-induced replication	GO_0000727	0	1	0	0
 recombinational repair	GO_0000725	0	1	0	0
@@ -61,19 +62,18 @@ negative regulation of single-strand break repair via homologous recombination	G
 negative regulation of double-strand break repair via homologous recombination	GO_2000042	0	1	0	0
 reciprocal DNA recombination	GO_0035825	0	1	0	0
 positive regulation of transposition, DNA-mediated	GO_0000336	0	1	0	0
-single-strand break repair via homologous recombination	GO_1990396	0	1	0	0
 plasmid recombination	GO_0042150	0	1	0	0
+single-strand break repair via homologous recombination	GO_1990396	0	1	0	0
 meiotic recombination nodule assembly	GO_0007146	0	1	0	0
 positive regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000572	0	1	0	0
 somatic diversification of immune receptors via germline recombination within a single locus	GO_0002562	0	1	0	0
 regulation of reciprocal meiotic recombination	GO_0010520	0	1	0	0
 B cell receptor editing	GO_0002452	0	1	0	0
-negative regulation of double-strand break repair via break-induced replication	GO_1901592	0	1	0	0
 regulation of mitotic recombination	GO_0000019	0	1	0	0
+negative regulation of double-strand break repair via break-induced replication	GO_1901592	0	1	0	0
 negative regulation of isotype switching to IgA isotypes	GO_0048297	0	1	0	0
-non-replicative transposition, DNA-mediated	GO_0098038	1	1	1	0
-replicative transposition, DNA-mediated	GO_0098039	0	1	0	0
 somatic recombination of immunoglobulin gene segments	GO_0016447	0	1	0	0
+replicative transposition, DNA-mediated	GO_0098039	0	1	0	0
 homing of group II introns	GO_0006315	0	1	0	0
 isotype switching to IgE isotypes	GO_0048289	0	1	0	0
 transposition, DNA-mediated	GO_0006313	0	1	0	0
@@ -92,8 +92,8 @@ heteroduplex formation involved in gene conversion at mating-type locus	GO_00107
 double-strand break repair via homologous recombination	GO_0000724	0	1	0	0
 somatic recombination of immunoglobulin genes involved in immune response	GO_0002204	0	1	0	0
 intrachromosomal DNA recombination	GO_1990067	0	1	0	0
-DNA ligation involved in DNA recombination	GO_0051102	0	1	0	0
 heteroduplex formation involved in double-strand break repair via synthesis-dependent strand annealing	GO_0010709	0	1	0	0
+DNA ligation involved in DNA recombination	GO_0051102	0	1	0	0
 somatic diversification of immune receptors via gene conversion	GO_0002565	0	1	0	0
 gene conversion of immunoglobulin genes	GO_0002206	0	1	0	0
 isotype switching to IgA isotypes	GO_0048290	0	1	0	0
@@ -103,17 +103,17 @@ positive regulation of reciprocal meiotic recombination	GO_0010845	0	1	0	0
 gene conversion of immunoglobulin genes involved in immune response	GO_0002207	0	1	0	0
 positive regulation of isotype switching to IgD isotypes	GO_0048301	0	1	0	0
 negative regulation of DNA recombination	GO_0045910	0	1	0	0
-meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0
-meiotic strand displacement	GO_0000714	0	1	0	0
 central B cell receptor editing	GO_0002511	0	1	0	0
+meiotic strand displacement	GO_0000714	0	1	0	0
+meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0
 meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	0	0
 negative regulation of isotype switching	GO_0045829	0	1	0	0
 strand invasion involved in gene conversion at mating-type locus	GO_0034636	0	1	0	0
 meiotic heteroduplex formation	GO_0000713	0	1	0	0
 meiotic DNA recombinase assembly	GO_0000707	0	1	0	0
 interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
-positive regulation of single-strand break repair via homologous recombination	GO_1903112	0	1	0	0
 gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0
+positive regulation of single-strand break repair via homologous recombination	GO_1903112	0	1	0	0
 regulation of single-strand break repair via homologous recombination	GO_1903110	0	1	0	0
 negative regulation of reciprocal meiotic recombination	GO_0045128	0	1	0	0
 somatic diversification of immunoglobulin genes by N region addition	GO_0002570	0	1	0	0
@@ -125,17 +125,17 @@ regulation of isotype switching	GO_0045191	0	1	0	0
 long tract gene conversion	GO_0035824	0	1	0	0
 meiotic joint molecule formation	GO_0000709	0	1	0	0
 activation of recombination (HML)	GO_0007536	0	1	0	0
-positive regulation of DNA recombination at telomere	GO_0072696	0	1	0	0
-immunoglobulin light chain V-J recombination	GO_0071708	0	1	0	0
-immunoglobulin heavy chain V-D-J recombination	GO_0071707	0	1	0	0
 positive regulation of DNA recombination	GO_0045911	0	1	0	0
+immunoglobulin heavy chain V-D-J recombination	GO_0071707	0	1	0	0
+immunoglobulin light chain V-J recombination	GO_0071708	0	1	0	0
+positive regulation of DNA recombination at telomere	GO_0072696	0	1	0	0
 regulation of transposition, DNA-mediated	GO_0000337	0	1	0	0
-regulation of isotype switching to IgE isotypes	GO_0048293	0	1	0	0
 gene conversion at mating-type locus	GO_0007534	0	1	0	0
+regulation of isotype switching to IgE isotypes	GO_0048293	0	1	0	0
 double-strand break repair via synthesis-dependent strand annealing	GO_0045003	0	1	0	0
 regulation of DNA recombination	GO_0000018	0	1	0	0
-regulation of meiotic joint molecule formation	GO_0010946	0	1	0	0
 somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0
+regulation of meiotic joint molecule formation	GO_0010946	0	1	0	0
 DNA recombinase assembly involved in gene conversion at mating-type locus	GO_0034624	0	1	0	0
 replication-born double-strand break repair via sister chromatid exchange	GO_1990414	0	1	0	0
 formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging	GO_0001311	0	1	0	0
@@ -144,5 +144,5 @@ double-strand break repair via single-strand annealing, removal of nonhomologous
 T cell receptor V(D)J recombination	GO_0033153	0	1	0	0
 recombination within rDNA repeats	GO_0045458	0	1	0	0
 resolution of recombination intermediates	GO_0071139	0	1	0	0
-meiotic DNA double-strand break formation involved in reciprocal meiotic recombination	GO_0010780	0	1	0	0
 mitotic recombination	GO_0006312	0	1	0	0
+meiotic DNA double-strand break formation involved in reciprocal meiotic recombination	GO_0010780	0	1	0	0

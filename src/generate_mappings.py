@@ -7,6 +7,10 @@ import warnings
 
 # Need to work on balance between the generating script and the module
 
+"""Reads owl_map and uses it to automatically populate RCV classes.  
+Compares these to manual mappings. Prints a results summary and results tables.
+Ontology to use must be specified as argv[1] when runnning this script."""
+
 from mapping_tools import *
 from tsv2pdm import tab, rcd
 manMap = tab('../mapping_tables/', 'manual_mapping.tsv')  # No key row.  Stored as list of dicts.
@@ -73,7 +77,8 @@ for RCV_id, rd in owlMap.rowColDict.items():
 			summary += "  * Notes: %s\n" % rd["Notes"]
 		summary += "  * [Results](%s.tsv)\n\n" % fname
 		mo.gen_report(report.rowColDict) # Update report object using map object
-		out.write(report.print_tab())
+		# print, sorting on manual followed by auto.  Use reverse sort order = True
+		out.write(report.print_tab(("manual","auto"), True)) 
 		out.close()
 
 summary_file = open("../mapping_tables/results/results_summary.md", "w+")

@@ -1,36 +1,36 @@
 name	ID	manual	auto	checked	blacklisted
+regulation of ERBB signaling pathway	GO_1901184	1	1	1	0
 negative regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway	GO_0060728	0	1	0	0
 positive regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway	GO_0060727	0	1	0	0
-epidermal growth factor-activated receptor transactivation by G-protein coupled receptor signaling pathway	GO_0035625	0	1	0	0
 ERBB2-EGFR signaling pathway	GO_0038134	0	1	0	0
-ERBB4-ERBB4 signaling pathway	GO_0038138	0	1	0	0
-gurken-activated receptor activity	GO_0008313	0	1	0	0
+epidermal growth factor-activated receptor transactivation by G-protein coupled receptor signaling pathway	GO_0035625	0	1	0	0
 epidermal growth factor-activated receptor activity	GO_0005006	0	1	0	0
+gurken-activated receptor activity	GO_0008313	0	1	0	0
+ERBB4-ERBB4 signaling pathway	GO_0038138	0	1	0	0
 coreceptor activity involved in epidermal growth factor receptor signaling pathway	GO_0060724	0	1	0	0
 epidermal growth factor receptor ligand maturation	GO_0038004	0	1	0	0
-positive regulation of ERBB signaling pathway	GO_1901186	0	1	0	0
 regulation of epidermal growth factor-activated receptor activity	GO_0007176	0	1	0	0
+positive regulation of ERBB signaling pathway	GO_1901186	0	1	0	0
 ERBB2-ERBB3 signaling pathway	GO_0038133	0	1	0	0
 regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway	GO_0060726	0	1	0	0
-negative regulation of ERBB signaling pathway	GO_1901185	0	1	0	0
 epidermal growth factor signaling pathway involved in forebrain neuron fate commitment	GO_0022026	0	1	0	0
-regulation of ERBB signaling pathway	GO_1901184	1	1	1	0
+negative regulation of ERBB signaling pathway	GO_1901185	0	1	0	0
 epidermal growth factor receptor signaling pathway	GO_0007173	0	1	0	0
 positive regulation of epidermal growth factor receptor signaling pathway	GO_0045742	0	1	0	0
-ERBB3-ERBB4 signaling pathway	GO_0038136	0	1	0	0
 gurken signaling pathway	GO_0008314	0	1	0	0
+ERBB3-ERBB4 signaling pathway	GO_0038136	0	1	0	0
 ERBB signaling pathway	GO_0038127	0	1	0	0
 epidermal growth factor receptor signaling pathway via I-kappaB kinase/NF-kappaB cascade	GO_0038168	0	1	0	0
-regulation of epidermal growth factor receptor signaling pathway	GO_0042058	0	1	0	0
 epidermal growth factor catabolic process	GO_0007174	0	1	0	0
+regulation of epidermal growth factor receptor signaling pathway	GO_0042058	0	1	0	0
 ERBB2 signaling pathway	GO_0038128	0	1	0	0
 ERBB3 signaling pathway	GO_0038129	0	1	0	0
 epidermal growth factor receptor signaling pathway via MAPK cascade	GO_0038029	0	1	0	0
 epidermal growth factor receptor signaling pathway via positive regulation of NF-kappaB transcription factor activity	GO_0038167	0	1	0	0
 negative regulation of epidermal growth factor-activated receptor activity	GO_0007175	0	1	0	0
-ERBB4-EGFR signaling pathway	GO_0038137	0	1	0	0
 ERBB4 signaling pathway	GO_0038130	0	1	0	0
-negative regulation of epidermal growth factor receptor signaling pathway	GO_0042059	0	1	0	0
+ERBB4-EGFR signaling pathway	GO_0038137	0	1	0	0
 ERBB2-ERBB4 signaling pathway	GO_0038135	0	1	0	0
+negative regulation of epidermal growth factor receptor signaling pathway	GO_0042059	0	1	0	0
 epidermal growth factor receptor signaling pathway involved in lung development	GO_0060507	0	1	0	0
 positive regulation of epidermal growth factor-activated receptor activity	GO_0045741	0	1	0	0

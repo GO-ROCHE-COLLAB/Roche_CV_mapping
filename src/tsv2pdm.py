@@ -2,6 +2,7 @@
 import sys
 import re
 import warnings
+import operator
 
 # Maybe use existing util rather than reinventing the wheel, e.g. https://github.com/brendano/tsvutils ?
 
@@ -41,7 +42,9 @@ class tab(object):
                 self.tab.append(row)
         tsv_file.close()
         
-    def print_tab(self):
+    def print_tab(self, sort_keys=(), reverse=False):
+        """Returns table as a string.  Optionally specify a tuple of columns to sort as sort_keys.
+        Default normal sort order.  Optionally specify reverse as a boolean (applies to all columns)."""
         out_tab = []
         # This is ugly - testing membership of child class in parent class. But acceptable I think, given the this is unlikely to be extended and that the alternatives - redundant data structures or a class specific print method, are more likely to cause data processing problems.
         if isinstance(self, rcd):
@@ -49,6 +52,9 @@ class tab(object):
             out_tab = self.rowColDict.values()
         else:
             out_tab = self.tab
+        if sort_keys:
+            # For how this works, see http://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
+            out_tab.sort(key = operator.itemgetter(*sort_keys), reverse=reverse) # Note. * operator unpacks tuple.
         out = []
         out.append('\t'.join(self.headers))
         for row in out_tab:
@@ -58,7 +64,6 @@ class tab(object):
             out.append('\t'.join(map(unicode, outrow)))  # All content of list to unicode, then joined with a tab, then appended to output.
         return '\n'.join(out)
 
-    
 class rcd(tab):
     """A class for making tables with a key column.  The contents of this column must be uniq'd. The table is stored in the attribute rowColDict, which stores the tab as a dict of dicts - [row][column]."""
     def __str__(self):
@@ -105,3 +110,12 @@ class rcd(tab):
                 return False
             else:
                 return True
+
+    def sort(self, spec):
+        # reinventing the wheel (or at least rdbms) again!
+        """Spec = a dict of columns to sort on (keys) with value = 'ascending/descending'"""
+        # Hmmmm doesn't this need to be instance dependent?!  - Implement with override method on rcd?
+        stub = 1
+        
+        
+            
