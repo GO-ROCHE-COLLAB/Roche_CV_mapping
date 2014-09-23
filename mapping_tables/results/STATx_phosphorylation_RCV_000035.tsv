@@ -1,0 +1,10 @@
+name	ID	manual	auto	checked	blacklisted
+tyrosine phosphorylation of Stat4 protein	GO_0042504	1	1	1	0
+tyrosine phosphorylation of Stat2 protein	GO_0042502	1	1	1	0
+STAT protein import into nucleus	GO_0007262	1	0	1	0
+tyrosine phosphorylation of Stat1 protein	GO_0042508	1	1	1	0
+tyrosine phosphorylation of STAT protein	GO_0007260	1	0	1	0
+tyrosine phosphorylation of Stat7 protein	GO_0042507	1	1	1	0
+tyrosine phosphorylation of Stat3 protein	GO_0042503	1	1	1	0
+tyrosine phosphorylation of Stat6 protein	GO_0042505	1	1	1	0
+tyrosine phosphorylation of Stat5 protein	GO_0042506	1	1	1	0
