@@ -8,7 +8,7 @@ relations:
 
 vars: 
   key_cell: "'cell'"
-  
+
 name: 
   text: "process in which %s participates"
   vars: 

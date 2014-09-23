@@ -3,12 +3,12 @@
 import sys
 import re
 import os
+import warnings
 
 # Need to work on balance between the generating script and the module
 
 from mapping_tools import *
-from tsv2pdm import *
-go = load_ont(sys.argv[1])
+from tsv2pdm import tab, rcd
 manMap = tab('../mapping_tables/', 'manual_mapping.tsv')  # No key row.  Stored as list of dicts.
 owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_ID') # dict of dicts.
 RCV_id_name = {} # Residual perlishness ?
@@ -17,19 +17,66 @@ for row in manMap.tab:
 
 report_path = '../mapping_tables/results/'
 
-for RCV_id in owlMap.rowColDict:
-	fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
-	report = ''
-	if os.path.isfile(report_path + fname + ".tsv"):
-		report = rcd(report_path, fname + ".tsv", 'ID')
+# TODO - add check for integrity of existing results files.  This can be automated from the results template.
+
+report_dir_files = os.listdir(report_path)
+
+report_template = tab(report_path, "results_template.tsv")
+
+class BadlyFormedResultFile(Exception):
+	def __init__(self, f):
+		self.f = f
+		warnings.warn("Badly formed results file %s" % f)
+
+for f in report_dir_files:
+	if re.search("RCV_\d{6}.tsv", f):
+		table = tab(report_path, f)
+		try:
+			assert (table.headers == report_template.headers)
+		except:
+			 BadlyFormedResultFile(f)
+
+
+# Need to write summary generator again.  Seem to have misplaced code!
+
+go = load_ont(sys.argv[1])
+
+
+summary = "## A summary of the current results, including links to results files.\n\n"
+
+
+
+
+for RCV_id, rd in owlMap.rowColDict.items():
+	# Skip cases where class expression marked as missing or preliminary      
+	if re.match("\?.*", rd['class expression IDs']):
+		if rd["Notes"]:
+			summary += "* %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
+			summary += "  * Notes: %s\n" % rd["Notes"]
+			summary += "  * Results: N/A Job not run. Specification marked as preliminary or missing.\n\n"
+		continue
 	else:
-		report = rcd(report_path, 'results_template.tsv', 'ID')
-	print "Processing: %s" % RCV_id        
-	out = open("../mapping_tables/results/%s.tsv" % fname, "w")
-	mo = map_obj(go, RCV_id, manMap.tab, owlMap.rowColDict)
-	print "map summary: %s" % mo
-	mo.gen_report(report.rowColDict) # Update report object using map object
-	out.write(report.print_tab())
-	out.close()
-	
+		summary += "* %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
+		summary += "  * Pattern: %s\n" % rd["Applied pattern"]
+		fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
+		report = ''
+		if os.path.isfile(report_path + fname + ".tsv"):
+			report = rcd(report_path, fname + ".tsv", 'ID')
+		else:
+			report = rcd(report_path, 'results_template.tsv', 'ID')
+		print "Processing: %s" % RCV_id       
+		out = open("../mapping_tables/results/%s.tsv" % fname, "w")
+		mo = map_obj(go, RCV_id, manMap.tab, owlMap.rowColDict)
+		print "map summary: %s\n" % mo
+		summary += "  * map summary: %s\n" % mo
+		if rd["Notes"]:
+			summary += "  * Notes: %s\n" % rd["Notes"]
+		summary += "  * [Results](%s.tsv)\n\n" % fname
+		mo.gen_report(report.rowColDict) # Update report object using map object
+		out.write(report.print_tab())
+		out.close()
+
+summary_file = open("../mapping_tables/results/results_summary.md", "w+")
+summary_file.write(summary)
+summary_file.close()
 go.sleep()
