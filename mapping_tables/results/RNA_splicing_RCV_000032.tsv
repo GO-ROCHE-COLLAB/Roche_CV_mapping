@@ -1,27 +1,27 @@
 name	ID	manual	auto	checked	blacklisted
 spliceosomal complex assembly	GO_0000245	1	1	1	0
-regulation of RNA splicing	GO_0043484	1	1	1	0
 positive regulation of RNA splicing	GO_0033120	1	1	1	0
+regulation of RNA splicing	GO_0043484	1	1	1	0
 mRNA trans splicing, SL addition	GO_0045291	1	1	1	0
 RNA splicing	GO_0008380	1	1	1	0
 first spliceosomal transesterification activity	GO_0000384	1	1	1	0
 spliceosomal tri-snRNP complex assembly	GO_0000244	1	1	1	0
 alignment of 3' and 5' splice sites of mRNA	GO_0034403	1	1	1	0
-regulation of mRNA splicing, via spliceosome	GO_0048024	1	1	1	0
 negative regulation of RNA splicing	GO_0033119	1	1	1	0
-RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	GO_0000377	1	1	1	0
+regulation of mRNA splicing, via spliceosome	GO_0048024	1	1	1	0
 RNA splicing, via transesterification reactions with guanosine as nucleophile	GO_0000376	1	1	1	0
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	GO_0000377	1	1	1	0
 negative regulation of mRNA splicing, via spliceosome	GO_0048025	1	1	1	0
 RNA splicing, via transesterification reactions	GO_0000375	1	1	1	0
 spliceosomal conformational changes to generate catalytic conformation	GO_0000393	1	1	1	0
 generation of catalytic spliceosome for second transesterification step	GO_0000350	1	1	1	0
 alternative mRNA splicing, via spliceosome	GO_0000380	1	1	1	0
 formation of quadruple SL/U4/U5/U6 snRNP	GO_0000353	1	1	1	0
-spliceosomal snRNP assembly	GO_0000387	1	1	1	0
 cis assembly of pre-catalytic spliceosome	GO_0000354	1	1	1	0
+spliceosomal snRNP assembly	GO_0000387	1	1	1	0
 second spliceosomal transesterification activity	GO_0000386	1	1	1	0
-mRNA splicing, via spliceosome	GO_0000398	1	1	1	0
 intergenic mRNA trans splicing	GO_0000366	1	1	1	0
+mRNA splicing, via spliceosome	GO_0000398	1	1	1	0
 mRNA splicing, via endonucleolytic cleavage and ligation	GO_0070054	1	1	1	0
 RNA splicing, via endonucleolytic cleavage and ligation	GO_0000394	1	1	1	0
 Group III intron splicing	GO_0000374	1	1	1	0
@@ -33,8 +33,8 @@ mRNA cis splicing, via spliceosome	GO_0045292	1	1	1	0
 generation of catalytic spliceosome for first transesterification step	GO_0000349	1	1	1	0
 spliceosome conformational change to release U4 (or U4atac) and U1 (or U11)	GO_0000388	1	1	1	0
 trans assembly of SL-containing precatalytic spliceosome	GO_0000352	1	1	1	0
-positive regulation of mRNA splicing, via spliceosome	GO_0048026	1	1	1	0
 Group II intron splicing	GO_0000373	1	1	1	0
+positive regulation of mRNA splicing, via spliceosome	GO_0048026	1	1	1	0
 snoRNA splicing	GO_0034247	1	1	1	0
 Prp19 complex	GO_0000974	1	0	1	0
 nuclear mRNA surveillance of spliceosomal pre-mRNA splicing	GO_0071030	1	0	1	0

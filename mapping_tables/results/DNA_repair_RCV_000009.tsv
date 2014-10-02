@@ -22,11 +22,11 @@ base-excision repair, AP site formation	GO_0006285	1	1	1	0
 regulation of DNA repair	GO_0006282	1	1	1	0
 double-strand break repair via homologous recombination	GO_0000724	1	1	1	0
 nucleotide-excision repair factor 1 complex	GO_0000110	1	1	1	0
-nucleotide-excision repair complex	GO_0000109	1	1	1	0
-regulation of double-strand break repair	GO_2000779	1	1	1	0
 nucleotide-excision repair, DNA damage removal	GO_0000718	1	1	1	0
-nucleotide-excision repair, preincision complex assembly	GO_0006294	1	1	1	0
+regulation of double-strand break repair	GO_2000779	1	1	1	0
+nucleotide-excision repair complex	GO_0000109	1	1	1	0
 nucleotide-excision repair, DNA incision, 5'-to lesion	GO_0006296	1	1	1	0
+nucleotide-excision repair, preincision complex assembly	GO_0006294	1	1	1	0
 UV-damage excision repair	GO_0070914	1	1	1	0
 error-free postreplication DNA repair	GO_0042275	1	1	1	0
 nucleotide-excision repair, DNA incision, 3'-to lesion	GO_0006295	1	1	1	0
@@ -52,8 +52,8 @@ error-free translesion synthesis	GO_0070987	0	1	0	0
 positive regulation of DNA repair by positive regulation of transcription from RNA polymerase II promoter	GO_1900404	0	1	0	0
 mitochondrial double-strand break repair	GO_0097551	0	1	0	0
 DNA-dependent protein kinase-DNA ligase 4 complex	GO_0005958	0	1	0	0
-mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0
 meiotic DNA recombinase assembly involved in meiotic gene conversion	GO_0010773	0	1	0	0
+mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0
 DNA repair complex	GO_1990391	0	1	0	0
 regulation of double-strand break repair via break-induced replication	GO_1901591	0	1	0	0
 meiotic DNA double-strand break processing involved in meiotic gene conversion	GO_0010704	0	1	0	0
@@ -64,36 +64,36 @@ pyrimidine dimer repair	GO_0006290	0	1	0	0
 DNA synthesis involved in double-strand break repair via homologous recombination	GO_0043150	0	1	0	0
 MutLalpha complex	GO_0032389	0	1	0	0
 Ddb1-Wdr21 complex	GO_0070913	0	1	0	0
-double-strand break repair via nonhomologous end joining	GO_0006303	0	1	0	0
 meiotic mismatch repair	GO_0000710	0	1	0	0
+double-strand break repair via nonhomologous end joining	GO_0006303	0	1	0	0
 meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0
 DNA replication proofreading	GO_0045004	0	1	0	0
 XPC complex	GO_0071942	0	1	0	0
-MutLgamma complex	GO_0097587	0	1	0	0
 double-strand break repair	GO_0006302	0	1	0	0
+MutLgamma complex	GO_0097587	0	1	0	0
 negative regulation of DNA repair	GO_0045738	0	1	0	0
 recombinational interstrand cross-link repair	GO_0036298	0	1	0	0
 DNA recombinase assembly	GO_0000730	0	1	0	0
-ERCC4-ERCC1 complex	GO_0070522	0	1	0	0
-MutSbeta complex	GO_0032302	0	1	0	0
 DNA synthesis involved in double-strand break repair via single-strand annealing	GO_0043151	0	1	0	0
+MutSbeta complex	GO_0032302	0	1	0	0
+ERCC4-ERCC1 complex	GO_0070522	0	1	0	0
 meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0
 DNA dealkylation involved in DNA repair	GO_0006307	0	1	0	0
 DNA double-strand break processing involved in repair via synthesis-dependent strand annealing	GO_0010791	0	1	0	0
 base-excision repair, AP site formation via deaminated base removal	GO_0097510	0	1	0	0
 mitochondrial DNA repair	GO_0043504	0	1	0	0
 translesion synthesis	GO_0019985	0	1	0	0
-MutSalpha complex	GO_0032301	0	1	0	0
 interstrand cross-link repair	GO_0036297	0	1	0	0
-depyrimidination	GO_0045008	0	1	0	0
+MutSalpha complex	GO_0032301	0	1	0	0
 early meiotic recombination nodule assembly	GO_0042139	0	1	0	0
+depyrimidination	GO_0045008	0	1	0	0
 recruitment of helicase-primase complex to DNA lesions	GO_0046799	0	1	0	0
 transcription-coupled nucleotide-excision repair	GO_0006283	0	1	0	0
-DNA double-strand break processing involved in repair via single-strand annealing	GO_0010792	0	1	0	0
-postreplication repair	GO_0006301	0	1	0	0
 negative regulation of single-strand break repair via homologous recombination	GO_1903111	0	1	0	0
-mismatch repair complex	GO_0032300	0	1	0	0
+postreplication repair	GO_0006301	0	1	0	0
+DNA double-strand break processing involved in repair via single-strand annealing	GO_0010792	0	1	0	0
 negative regulation of double-strand break repair via homologous recombination	GO_2000042	0	1	0	0
+mismatch repair complex	GO_0032300	0	1	0	0
 single-strand break repair via homologous recombination	GO_1990396	0	1	0	0
 meiotic recombination nodule assembly	GO_0007146	0	1	0	0
 MutLbeta complex	GO_0032390	0	1	0	0
@@ -117,20 +117,20 @@ heteroduplex formation involved in double-strand break repair via synthesis-depe
 meiotic DNA repair synthesis	GO_0000711	0	1	0	0
 meiotic strand displacement involved in double-strand break repair via SDSA	GO_1902346	0	1	0	0
 Ku-DNA ligase complex	GO_0070420	0	1	0	0
-nonhomologous end joining complex	GO_0070419	0	1	0	0
 meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0
+nonhomologous end joining complex	GO_0070419	0	1	0	0
 meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	0	0
-excinuclease repair complex	GO_0009380	0	1	0	0
 negative regulation of double-strand break repair via nonhomologous end joining	GO_2001033	0	1	0	0
+excinuclease repair complex	GO_0009380	0	1	0	0
 meiotic DNA recombinase assembly	GO_0000707	0	1	0	0
-gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0
 positive regulation of single-strand break repair via homologous recombination	GO_1903112	0	1	0	0
-RAD52-ERCC4-ERCC1 complex	GO_0070312	0	1	0	0
+gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0
 transcription-coupled nucleotide-excision repair, DNA damage recognition	GO_0000716	0	1	0	0
+RAD52-ERCC4-ERCC1 complex	GO_0070312	0	1	0	0
 regulation of single-strand break repair via homologous recombination	GO_1903110	0	1	0	0
 regulation of mismatch repair	GO_0032423	0	1	0	0
-nucleotide phosphorylation involved in DNA repair	GO_1902113	0	1	0	0
 global genome nucleotide-excision repair	GO_0070911	0	1	0	0
+nucleotide phosphorylation involved in DNA repair	GO_1902113	0	1	0	0
 positive regulation of double-strand break repair	GO_2000781	0	1	0	0
 error-prone translesion synthesis	GO_0042276	0	1	0	0
 Ddb1-Ckn1 complex	GO_0070912	0	1	0	0

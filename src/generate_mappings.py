@@ -38,7 +38,7 @@ for f in report_dir_files:
 		try:
 			assert (table.headers == report_template.headers)
 		except:
-			 BadlyFormedResultFile(f)
+			BadlyFormedResultFile(f)
 
 
 # Need to write summary generator again.  Seem to have misplaced code!
@@ -61,7 +61,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		continue
 	else:
 		summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
-		summary += "* Key class: [%s](http://purl.obolibrary.org/obo/%s\n" % (rd["Key Class name"], rd["Key Class ID"])
+		summary += "* Key class: [%s](http://purl.obolibrary.org/obo/%s)\n" % (rd["Key Class name"], rd["Key Class ID"])
 		summary += "* Pattern: [%s](../../patterns/%s.md)\n" % (rd["Applied pattern"], rd["Applied pattern"])
 		fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
 		report = ''

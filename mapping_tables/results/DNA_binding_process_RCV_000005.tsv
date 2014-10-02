@@ -20,11 +20,11 @@ double-strand/single-strand DNA junction binding	GO_0000406	1	1	1	0
 RNA polymerase II regulatory region sequence-specific DNA binding	GO_0000977	1	1	1	0
 four-way junction DNA binding	GO_0000400	1	1	1	0
 bacterial-type RNA polymerase regulatory region DNA binding	GO_0001017	1	1	1	0
-mitochondrial RNA polymerase regulatory region DNA binding	GO_0001018	1	1	1	0
 bacterial-type RNA polymerase regulatory region sequence-specific DNA binding	GO_0000984	1	1	1	0
+mitochondrial RNA polymerase regulatory region DNA binding	GO_0001018	1	1	1	0
 open form four-way junction DNA binding	GO_0000401	1	1	1	0
-RNA polymerase III hybrid type promoter sequence-specific DNA binding	GO_0001039	1	1	1	0
 mitochondrial RNA polymerase regulatory region sequence-specific DNA binding	GO_0001044	1	1	1	0
+RNA polymerase III hybrid type promoter sequence-specific DNA binding	GO_0001039	1	1	1	0
 plastid RNA polymerase regulatory region DNA binding	GO_0001019	1	1	1	0
 RNA polymerase III type 1 promoter sequence-specific DNA binding	GO_0001002	1	1	1	0
 crossed form four-way junction DNA binding	GO_0000402	1	1	1	0
@@ -46,18 +46,18 @@ piRNA dual-strand cluster binding	GO_1990472	0	1	0	0
 3'-flap-structured DNA binding	GO_0070337	0	1	0	0
 carbohydrate response element binding	GO_0035538	0	1	0	0
 single adenine insertion binding	GO_0032140	0	1	0	0
-mitochondrial light strand promoter anti-sense binding	GO_0070361	0	1	0	0
 transcription termination site sequence-specific DNA binding	GO_0001147	0	1	0	0
+mitochondrial light strand promoter anti-sense binding	GO_0070361	0	1	0	0
 flap-structured DNA binding	GO_0070336	0	1	0	0
 guanine/thymine mispair binding	GO_0032137	0	1	0	0
 enhancer binding	GO_0035326	0	1	0	0
-replication fork barrier binding	GO_0031634	0	1	0	0
 satellite DNA binding	GO_0003696	0	1	0	0
+replication fork barrier binding	GO_0031634	0	1	0	0
 tDNA binding	GO_0071443	0	1	0	0
 adenine/adenine mispair binding	GO_0035484	0	1	0	0
 rDNA spacer replication fork barrier binding	GO_0043110	0	1	0	0
-5'-flap-structured DNA binding	GO_0070338	0	1	0	0
 DNA end binding	GO_0045027	0	1	0	0
+5'-flap-structured DNA binding	GO_0070338	0	1	0	0
 mitochondrial light strand promoter sense binding	GO_0070363	0	1	0	0
 E-box binding	GO_0070888	0	1	0	0
 single base insertion or deletion binding	GO_0032138	0	1	0	0
@@ -69,20 +69,20 @@ unmethylated CpG binding	GO_0045322	0	1	0	0
 bacterial-type RNA polymerase enhancer sequence-specific DNA binding	GO_0001150	0	1	0	0
 piRNA cluster binding	GO_1990470	0	1	0	0
 AT DNA binding	GO_0003680	0	1	0	0
-single thymine insertion binding	GO_0032143	0	1	0	0
 core promoter proximal region DNA binding	GO_0001159	0	1	0	0
+single thymine insertion binding	GO_0032143	0	1	0	0
 mismatched DNA binding	GO_0030983	0	1	0	0
 alkylated DNA binding	GO_0032131	0	1	0	0
 DNA replication origin binding	GO_0003688	0	1	0	0
-double-stranded DNA binding	GO_0003690	0	1	0	0
 RNA polymerase I regulatory region sequence-specific DNA binding	GO_0001163	0	1	0	0
-double-stranded methylated DNA binding	GO_0010385	0	1	0	0
+double-stranded DNA binding	GO_0003690	0	1	0	0
 centromeric DNA binding	GO_0019237	0	1	0	0
-O6-alkylguanine-DNA binding	GO_0032132	0	1	0	0
+double-stranded methylated DNA binding	GO_0010385	0	1	0	0
 bacterial-type RNA polymerase termination site sequence-specific DNA binding	GO_0001148	0	1	0	0
+O6-alkylguanine-DNA binding	GO_0032132	0	1	0	0
 left-handed Z-DNA binding	GO_0003692	0	1	0	0
-DNA clamp loader activity	GO_0003689	0	1	0	0
 mitochondrial RNA polymerase core promoter sequence-specific DNA binding	GO_0000997	0	1	0	0
+DNA clamp loader activity	GO_0003689	0	1	0	0
 mitochondrial heavy strand promoter sense binding	GO_0070364	0	1	0	0
 retinoic acid-responsive element binding	GO_0044323	0	1	0	0
 transcription regulatory region DNA binding	GO_0044212	0	1	0	0
@@ -92,8 +92,8 @@ DNA secondary structure binding	GO_0000217	0	1	0	0
 chromatin insulator sequence binding	GO_0043035	0	1	0	0
 nucleosomal DNA binding	GO_0031492	0	1	0	0
 single-stranded DNA binding	GO_0003697	0	1	0	0
-structure-specific DNA binding	GO_0043566	0	1	0	0
 chromatin DNA binding	GO_0031490	0	1	0	0
+structure-specific DNA binding	GO_0043566	0	1	0	0
 base pairing with DNA	GO_0000497	0	1	0	0
 bent DNA binding	GO_0003681	0	1	0	0
 dinucleotide repeat insertion binding	GO_0032181	0	1	0	0
@@ -101,13 +101,13 @@ cytosine/thymine mispair binding	GO_0035488	0	1	0	0
 telomeric DNA binding	GO_0042162	0	1	0	0
 N-box binding	GO_0071820	0	1	0	0
 oxidized DNA binding	GO_0032356	0	1	0	0
-G-quadruplex DNA binding	GO_0051880	0	1	0	0
 oxidized pyrimidine DNA binding	GO_0032358	0	1	0	0
+G-quadruplex DNA binding	GO_0051880	0	1	0	0
 non-sequence-specific DNA binding, bending	GO_0044378	0	1	0	0
 damaged DNA binding	GO_0003684	0	1	0	0
-sequence-specific DNA binding, bending	GO_0044374	0	1	0	0
-adenine/cytosine mispair binding	GO_0032136	0	1	0	0
 P-element binding	GO_0003693	0	1	0	0
+adenine/cytosine mispair binding	GO_0032136	0	1	0	0
+sequence-specific DNA binding, bending	GO_0044374	0	1	0	0
 G-rich strand telomeric DNA binding	GO_0098505	0	1	0	0
 cytosine/cytosine mispair binding	GO_0035486	0	1	0	0
 random coil DNA binding	GO_0003695	0	1	0	0
@@ -116,22 +116,22 @@ enhancer sequence-specific DNA binding	GO_0001158	0	1	0	0
 guanine/guanine mispair binding	GO_0035489	0	1	0	0
 recombination hotspot binding	GO_0010844	0	1	0	0
 sequence-specific DNA binding	GO_0043565	0	1	0	0
-piRNA uni-strand cluster binding	GO_1990471	0	1	0	0
 estrogen response element binding	GO_0034056	0	1	0	0
-microsatellite binding	GO_0035939	0	1	0	0
+piRNA uni-strand cluster binding	GO_1990471	0	1	0	0
 template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	0	0
+microsatellite binding	GO_0035939	0	1	0	0
 intronic transcription regulatory region sequence-specific DNA binding	GO_0001161	0	1	0	0
 triplex DNA binding	GO_0045142	0	1	0	0
-single-stranded telomeric DNA binding	GO_0043047	0	1	0	0
 RNA polymerase I upstream control element sequence-specific DNA binding	GO_0001165	0	1	0	0
-intronic transcription regulatory region DNA binding	GO_0044213	0	1	0	0
+single-stranded telomeric DNA binding	GO_0043047	0	1	0	0
 DNA binding, bending	GO_0008301	0	1	0	0
+intronic transcription regulatory region DNA binding	GO_0044213	0	1	0	0
 cAMP response element binding	GO_0035497	0	1	0	0
 single guanine insertion binding	GO_0032142	0	1	0	0
 sterol response element binding	GO_0032810	0	1	0	0
 methyl-CpG binding	GO_0008327	0	1	0	0
-DNA insertion or deletion binding	GO_0032135	0	1	0	0
 mitochondrial RNA polymerase termination site sequence-specific DNA binding	GO_0001145	0	1	0	0
+DNA insertion or deletion binding	GO_0032135	0	1	0	0
 hemi-methylated DNA-binding	GO_0044729	0	1	0	0
 supercoiled DNA binding	GO_0097100	0	1	0	0
 RNA polymerase I CORE element sequence-specific DNA binding	GO_0001164	0	1	0	0

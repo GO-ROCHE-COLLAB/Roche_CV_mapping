@@ -7,8 +7,8 @@ fibroblast growth factor receptor signaling pathway involved in heart developmen
 fibroblast growth factor receptor signaling pathway involved in heart induction	GO_0003135	1	1	1	0
 negative regulation of fibroblast growth factor receptor signaling pathway	GO_0040037	1	1	1	0
 fibroblast growth factor receptor signaling pathway involved in mammary gland specification	GO_0060595	1	1	1	0
-fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment	GO_0021899	1	1	1	0
 fibroblast growth factor receptor signaling pathway involved in somitogenesis	GO_0090243	1	1	1	0
+fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment	GO_0021899	1	1	1	0
 fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	1	1	1	0
 fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000699	1	1	1	0
 fibroblast growth factor receptor signaling pathway	GO_0008543	1	1	1	0
@@ -17,16 +17,16 @@ fibroblast growth factor receptor signaling pathway involved in neural plate ant
 negative regulation of anterior neural cell fate commitment of the neural plate by fibroblast growth factor receptor signaling pathway	GO_0022003	1	1	1	0
 fibroblast growth factor receptor signaling pathway involved in hemopoiesis	GO_0035603	1	1	1	0
 negative regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	GO_2000314	1	1	1	0
-fibroblast growth factor production	GO_0090269	1	0	1	0
 negative regulation of fibroblast growth factor production	GO_0090272	1	0	1	0
+fibroblast growth factor production	GO_0090269	1	0	1	0
 positive regulation of posterior neural plate formation by fibroblast growth factor receptor signaling pathway	GO_0060787	0	1	0	0
 fibroblast growth factor receptor signaling pathway involved in negative regulation of apoptotic process in bone marrow	GO_0035602	0	1	0	0
 fibroblast growth factor receptor apoptotic signaling pathway	GO_1902178	0	1	0	0
 regulation of fibroblast growth factor receptor signaling pathway	GO_0040036	0	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway	GO_0045743	0	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	GO_2000315	0	1	0	0
-fibroblast growth factor-activated receptor activity	GO_0005007	0	1	0	0
 fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow	GO_0035604	0	1	0	0
+fibroblast growth factor-activated receptor activity	GO_0005007	0	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000704	0	1	0	0
 positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway	GO_0090080	0	1	0	0
 regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000702	0	1	0	0
