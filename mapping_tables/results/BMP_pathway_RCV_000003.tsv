@@ -32,10 +32,10 @@ regulation of BMP secretion	GO_2001284	1	0	1	0
 BMP receptor binding	GO_0070700	1	0	1	0
 response to BMP	GO_0071772	1	0	1	0
 negative regulation of BMP secretion	GO_2001285	1	0	1	0
-regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902812	0	1	0	0
-positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	0	0
-positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	0	1	0	0
-negative regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902813	0	1	0	0
-regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	0	0
-positive regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902814	0	1	0	0
-negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	0	0
+regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902812	0	1	1	0
+positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	1	0
+positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	0	1	1	0
+negative regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902813	0	1	1	0
+regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	1	0
+positive regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902814	0	1	1	0
+negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	1	0
