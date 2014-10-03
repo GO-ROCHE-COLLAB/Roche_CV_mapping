@@ -12,30 +12,31 @@ phospholipase C-activating rhodopsin mediated signaling pathway	GO_0030265	0	1	0
 adenosine receptor signaling pathway	GO_0001973	0	1	0	0
 follicle-stimulating hormone signaling pathway	GO_0042699	0	1	0	0
 calcitonin gene-related peptide receptor signaling pathway	GO_1990408	0	1	0	0
+G-protein coupled receptor signaling pathway	GO_0007186	0	1	0	0
 phospholipase C-activating angiotensin-activated signaling pathway involved in heart process	GO_0086099	0	1	0	0
 endothelin receptor signaling pathway involved in heart process	GO_0086101	0	1	0	0
-gamma-aminobutyric acid signaling pathway	GO_0007214	0	1	0	0
 amylin receptor signaling pathway	GO_0097647	0	1	0	0
-octopamine signaling pathway involved in response to food	GO_0071935	0	1	0	0
+gamma-aminobutyric acid signaling pathway	GO_0007214	0	1	0	0
 sphingosine-1-phosphate signaling pathway	GO_0003376	0	1	0	0
-angiotensin-activated signaling pathway involved in heart process	GO_0086098	0	1	0	0
+octopamine signaling pathway involved in response to food	GO_0071935	0	1	0	0
 tyramine signaling pathway	GO_0071928	0	1	0	0
+angiotensin-activated signaling pathway involved in heart process	GO_0086098	0	1	0	0
 adrenergic receptor signaling pathway involved in cardiac muscle relaxation	GO_0086030	0	1	0	0
 apelin receptor signaling pathway	GO_0060183	0	1	0	0
-neuropeptide signaling pathway	GO_0007218	0	1	0	0
 phospholipase C-activating G-protein coupled glutamate receptor signaling pathway	GO_0007206	0	1	0	0
+neuropeptide signaling pathway	GO_0007218	0	1	0	0
 adrenergic receptor signaling pathway involved in heart process	GO_0086023	0	1	0	0
 angiotensin-activated signaling pathway	GO_0038166	0	1	0	0
 phospholipase C-activating serotonin receptor signaling pathway	GO_0007208	0	1	0	0
-adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO_0007195	0	1	0	0
 G-protein coupled acetylcholine receptor signaling pathway	GO_0007213	0	1	0	0
+adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO_0007195	0	1	0	0
 phospholipase C-activating G-protein coupled receptor signaling pathway	GO_0007200	0	1	0	0
 epidermal growth factor-activated receptor transactivation by G-protein coupled receptor signaling pathway	GO_0035625	0	1	0	0
 phospholipase D-activating G-protein coupled receptor signaling pathway	GO_0031583	0	1	0	0
 octopamine signaling pathway	GO_0071927	0	1	0	0
-phospholipase C-activating angiotensin-activated signaling pathway	GO_0086097	0	1	0	0
-endocannabinoid signaling pathway	GO_0071926	0	1	0	0
 G-protein coupled glutamate receptor signaling pathway	GO_0007216	0	1	0	0
+endocannabinoid signaling pathway	GO_0071926	0	1	0	0
+phospholipase C-activating angiotensin-activated signaling pathway	GO_0086097	0	1	0	0
 adenylate cyclase-activating glucose-activated G-protein coupled receptor signaling pathway	GO_0010619	0	1	0	0
 complement component C5a signaling pathway	GO_0038178	0	1	0	0
 adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	0	0
@@ -47,8 +48,8 @@ adrenergic receptor signaling pathway involved in positive regulation of heart r
 G-protein coupled receptor signaling pathway, coupled to S1P second messenger	GO_0001789	0	1	0	0
 dopamine receptor signaling pathway	GO_0007212	0	1	0	0
 phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	GO_0007207	0	1	0	0
-G-protein coupled receptor signaling pathway involved in heart process	GO_0086103	0	1	0	0
 thromboxane A2 signaling pathway	GO_0038193	0	1	0	0
+G-protein coupled receptor signaling pathway involved in heart process	GO_0086103	0	1	0	0
 rhodopsin mediated signaling pathway	GO_0016056	0	1	0	0
 thrombin receptor signaling pathway	GO_0070493	0	1	0	0
 adrenergic receptor signaling pathway	GO_0071875	0	1	0	0
@@ -63,8 +64,8 @@ bombesin receptor signaling pathway	GO_0031989	0	1	0	0
 thyroid-stimulating hormone signaling pathway	GO_0038194	0	1	0	0
 positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction	GO_0086094	0	1	0	0
 phospholipase C-inhibiting G-protein coupled receptor signaling pathway	GO_0030845	0	1	0	0
-adenylate cyclase-activating adrenergic receptor signaling pathway	GO_0071880	0	1	0	0
 luteinizing hormone signaling pathway involved in ovarian follicle development	GO_0035471	0	1	0	0
+adenylate cyclase-activating adrenergic receptor signaling pathway	GO_0071880	0	1	0	0
 G-protein coupled receptor signaling pathway coupled to cGMP nucleotide second messenger	GO_0007199	0	1	0	0
 cholecystokinin signaling pathway	GO_0038188	0	1	0	0
 adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	0	0
@@ -73,13 +74,13 @@ activation of MAPK activity by adrenergic receptor signaling pathway	GO_0071883	
 G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	GO_0007187	0	1	0	0
 adenylate cyclase-activating dopamine receptor signaling pathway	GO_0007191	0	1	0	0
 cannabinoid signaling pathway	GO_0038171	0	1	0	0
-positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	0	1	0	0
 pheromone-dependent signal transduction involved in conjugation with cellular fusion	GO_0000750	0	1	0	0
+positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	0	1	0	0
 opioid receptor signaling pathway	GO_0038003	0	1	0	0
 luteinizing hormone signaling pathway	GO_0042700	0	1	0	0
-somatostatin signaling pathway	GO_0038170	0	1	0	0
-regulation of inflammatory response by sphingosine-1-phosphate signaling pathway	GO_0003378	0	1	0	0
 signal transduction involved in conjugation with mutual genetic exchange	GO_0000757	0	1	0	0
+regulation of inflammatory response by sphingosine-1-phosphate signaling pathway	GO_0003378	0	1	0	0
+somatostatin signaling pathway	GO_0038170	0	1	0	0
 phospholipase C-activating dopamine receptor signaling pathway	GO_0060158	0	1	0	0
 dimeric G-protein coupled receptor signaling pathway	GO_0038042	0	1	0	0
 protein kinase C-activating G-protein coupled receptor signaling pathway	GO_0007205	0	1	0	0

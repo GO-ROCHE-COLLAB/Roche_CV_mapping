@@ -1,20 +1,19 @@
 #!/usr/bin/env jython -J-Xmx8000m
 from uk.ac.ebi.brain.core import Brain
-import os
-
+import re
 # TODO - switch from Brain to owltools
 
 def load_ont(url):
 	ont = Brain()
 	ont.learn(url)
 	return ont
-
-def brain2graphWrapper(ont):
-	onto = ont.getOntology()
-	return OWLGraphWrapper(onto)
+	
+# def brain2graphWrapper(ont):
+# 	onto = ont.getOntology()
+# 	return OWLGraphWrapper(onto)
 
 def roll_basic_pattern (key_class):
-    return "(has_participant some) %s or (regulates some (has_particpant some %s))" % (key_class, key_class) # If using this pattern, will need OWLtools/HermiT.
+	return "(has_participant some) %s or (regulates some (has_particpant some %s))" % (key_class, key_class) # If using this pattern, will need OWLtools/HermiT.
 
 class map_obj:
 	# Should this work on ids or names?  Seems wasteful to store both.
@@ -45,6 +44,10 @@ class map_obj:
 		## Map should be updated when object is initialised! 
 		self.generated_list.extend(go.getSubClasses(self.class_expression, 0))  # This assumes an OWL object.  But should probably be querying via OWLtools using hermit in order to use OR.
 		self.generated_list.extend(go.getEquivalentClasses(self.class_expression))
+		# brain.getEquivalentClasses does not return named query class.  
+		# This checks if the query class expression is a GO_ID and if yes, appends it to the generated list.
+		if re.match("GO\_\d{7}$", self.class_expression):
+			self.generated_list.append(self.class_expression)
 		
 	def gen_report(self, report_tab):
 		"""Generate report for 'Roche CV term'.  Arg (report) = a results table as row_column_dict."""
@@ -68,7 +71,7 @@ class map_obj:
 			# 
 			if report_tab[key]['blacklisted']:
 				self.blacklist.append(key)
-				 
+
 	def update_id_name(self, ont):
 		# Perhaps should be dealt with outside?  Could have a class object.  But then might be easier to do all this purely in OWL/Brain!
 		idList = set(self.generated_list) | set(self.manual_list)

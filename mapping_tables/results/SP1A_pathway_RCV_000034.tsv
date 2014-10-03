@@ -1,4 +1,4 @@
 name	ID	manual	auto	checked	blacklisted
-sphingosine-1-phosphate signaling pathway	GO_0003376	1	0	1	0
+sphingosine-1-phosphate signaling pathway	GO_0003376	1	1	1	0
 regulation of inflammatory response by sphingosine-1-phosphate signaling pathway	GO_0003378	0	1	0	0
 regulation of apoptosis by sphingosine-1-phosphate signaling pathway	GO_0003377	0	1	0	0

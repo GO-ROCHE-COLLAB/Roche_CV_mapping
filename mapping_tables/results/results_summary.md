@@ -3,7 +3,7 @@
 #### Notch signaling pathway RCV_000027
 * Key class: [Notch signaling pathway](http://purl.obolibrary.org/obo/GO_0007219)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000027; class_expression GO_0007219; manual_list_count 10, generated_list_count 9
+* map summary: Roche_cvt: RCV_000027; class_expression GO_0007219; manual_list_count 10, generated_list_count 10
 * [Results](Notch_signaling_pathway_RCV_000027.tsv)
 
 #### G-protein RCV_000017
@@ -19,7 +19,7 @@
 #### DNA silencing RCV_000012
 * Key class: [gene silencing](http://purl.obolibrary.org/obo/GO_0016458)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* map summary: Roche_cvt: RCV_000012; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016458; manual_list_count 44, generated_list_count 100
+* map summary: Roche_cvt: RCV_000012; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016458; manual_list_count 44, generated_list_count 101
 * [Results](DNA_silencing_RCV_000012.tsv)
 
 #### B cells RCV_000001
@@ -39,7 +39,7 @@
 #### DNA binding process RCV_000005
 * Key class: [DNA binding process](http://purl.obolibrary.org/obo/GO_0003677)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000005; class_expression GO_0003677; manual_list_count 38, generated_list_count 141
+* map summary: Roche_cvt: RCV_000005; class_expression GO_0003677; manual_list_count 38, generated_list_count 142
 * Notes: Laura: Looks good?
 * [Results](DNA_binding_process_RCV_000005.tsv)
 
@@ -65,21 +65,21 @@
 #### RNA interference RCV_000031
 * Key class: [RNA interference](http://purl.obolibrary.org/obo/GO_0016246)
 * Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
-* map summary: Roche_cvt: RCV_000031; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0016246; manual_list_count 3, generated_list_count 9
+* map summary: Roche_cvt: RCV_000031; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0016246; manual_list_count 3, generated_list_count 10
 * Notes: Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?
 * [Results](RNA_interference_RCV_000031.tsv)
 
 #### GPCR signaling RCV_000019
 * Key class: [G-protein coupled receptor signaling pathway](http://purl.obolibrary.org/obo/GO_0007186)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000019; class_expression GO_0007186; manual_list_count 7, generated_list_count 89
+* map summary: Roche_cvt: RCV_000019; class_expression GO_0007186; manual_list_count 7, generated_list_count 90
 * Notes: Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?
 * [Results](GPCR_signaling_RCV_000019.tsv)
 
 #### DNA recombination RCV_000008
 * Key class: [DNA recombination](http://purl.obolibrary.org/obo/GO_0006310)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000008; class_expression GO_0006310; manual_list_count 3, generated_list_count 51
+* map summary: Roche_cvt: RCV_000008; class_expression GO_0006310; manual_list_count 3, generated_list_count 52
 * Notes: Laura: Perhaps this is just very incomplete? There are only 3 manual mappings.  The key class looks justified, but has 51 classes.  If you need a more constrained definition, can you suggest one?
 * [Results](DNA_recombination_RCV_000008.tsv)
 
@@ -92,13 +92,13 @@
 #### SP1A pathway RCV_000034
 * Key class: [sphingosine-1-phosphate signaling pathway](http://purl.obolibrary.org/obo/GO_0003376)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000034; class_expression GO_0003376; manual_list_count 1, generated_list_count 2
+* map summary: Roche_cvt: RCV_000034; class_expression GO_0003376; manual_list_count 1, generated_list_count 3
 * [Results](SP1A_pathway_RCV_000034.tsv)
 
 #### DNA replication negative RCV_000011
 * Key class: [negative regulation of DNA replication](http://purl.obolibrary.org/obo/GO_0008156)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000011; class_expression GO_0008156; manual_list_count 1, generated_list_count 15
+* map summary: Roche_cvt: RCV_000011; class_expression GO_0008156; manual_list_count 1, generated_list_count 18
 * Notes: Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?
 * [Results](DNA_replication_negative_RCV_000011.tsv)
 
@@ -117,7 +117,7 @@
 #### STATx phosphorylation RCV_000035
 * Key class: [tyrosine phosphorylation of stat protein](http://purl.obolibrary.org/obo/GO_0007260)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000035; class_expression GO_0007260; manual_list_count 9, generated_list_count 7
+* map summary: Roche_cvt: RCV_000035; class_expression GO_0007260; manual_list_count 9, generated_list_count 8
 * [Results](STATx_phosphorylation_RCV_000035.tsv)
 
 #### GTPase activity RCV_000020
@@ -165,7 +165,7 @@
 #### PPAR pathway RCV_000030
 * Key class: [peroxisome proliferator activated receptor signaling pathway](http://purl.obolibrary.org/obo/GO_0035357)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* map summary: Roche_cvt: RCV_000030; class_expression GO_0035357; manual_list_count 4, generated_list_count 0
+* map summary: Roche_cvt: RCV_000030; class_expression GO_0035357; manual_list_count 4, generated_list_count 1
 * [Results](PPAR_pathway_RCV_000030.tsv)
 
 #### BMP pathway RCV_000003
@@ -178,7 +178,7 @@
 #### MAPK inactivation RCV_000021
 * Key class: [negative regulation of MAP kinase activity](http://purl.obolibrary.org/obo/GO_0043407)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* map summary: Roche_cvt: RCV_000021; class_expression GO_0043407; manual_list_count 17, generated_list_count 6
+* map summary: Roche_cvt: RCV_000021; class_expression GO_0043407; manual_list_count 17, generated_list_count 7
 * [Results](MAPK_inactivation_RCV_000021.tsv)
 
 #### T cells RCV_000037
@@ -209,7 +209,7 @@
 #### DNA replication RCV_000010
 * Key class: [DNA replication](http://purl.obolibrary.org/obo/GO_0006260)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 42, generated_list_count 150
+* map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 42, generated_list_count 159
 * [Results](DNA_replication_RCV_000010.tsv)
 
 #### TCA metabolism RCV_000039
