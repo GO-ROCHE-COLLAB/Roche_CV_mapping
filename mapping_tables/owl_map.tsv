@@ -1,43 +1,43 @@
-RCV_NAME	RCV_ID	Key Class name	Key Class ID	Applied pattern	applied pattern def	class expression IDs	Notes
-B cells	RCV_000001	B cell	CL_0000236	has_participant_cell	Any process in which some (kind of) B cell participates	RO_0000057 some CL_0000236	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.
-BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates	brain-derived neurotrophic factor receptor signaling pathway OR a part of brain-derived neurotrophic factor receptor signaling pathway OR a process that regulates brain-derived neurotrophic factor receptor signaling pathway.'	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0031547	
-BMP pathway	RCV_000003	BMP pathway	GO_0030509	is_a_OR_part_of_OR_regulates	BMP signalling pathway OR a part of the BMP signalling pathway OR a process that regulates the BMP signalling pathway.	1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030509	Internal: Missing binding, secretion ligand etc.  Need a way to ask for processes with BMP as participant.
-DNA binding process	RCV_000005	DNA binding process	GO_0003677	Equivalence		GO_0003677	Laura: Looks good?
-DNA damage	RCV_000006	DNA damage response, detection of DNA damage	GO_0042769	is_a_OR_part_of	A DNA binding process or part of some DNA binding process	3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0042769	
-DNA recombination	RCV_000008	DNA recombination	GO_0006310	Equivalence		GO_0006310	Laura: Perhaps this is just very incomplete? There are only 3 manual mappings.  The key class looks justified, but has 51 classes.  If you need a more constrained definition, can you suggest one?
-DNA repair	RCV_000009	DNA repair	GO_0006281	is_a_OR_part_of_OR_regulates_OR_capable_of		386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0006281	Laura: The manual map includes the odd regulation term and complex, so I've used a pattern that includes both of these.  But including these results in a much larger list than the manual one.  Should we keep this pattern?
-DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence		GO_0008156	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?
-DNA replication	RCV_000010	DNA replication	GO_0006260	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260	
-DNA silencing	RCV_000012	gene silencing	GO_0016458	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016458	
-DNA synthesis	RCV_000013	DNA biosynthetic process	GO_0071897	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0071897	
-EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_0007173	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007173	
-ERBB signaling pathway	RCV_000015	ERBB signaling pathway	GO_0038127	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038127	
-FGF pathway	RCV_000016	fibroblast growth factor receptor signaling pathway	GO_0008543	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0008543	
-zzinc ion homeostasis	RCV_000359	zinc ion homeostasis	GO_0055069	is_a_OR_part_of		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0055069	Internal: GO axiomatisation insufficient?
-triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical		RO_0000057 some CHEBI_17855	
-wound healing	RCV_000356	wound healing	GO_0042060	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060	
-CTGF	RCV_000004	connective tissue growth factor	PRO?			?	Internal: No axioms on key class.  Look into adding from Pro?
-DNA dynamics	RCV_000007	?				?	
-G-protein	RCV_000017	?				?	Laura: Having trouble automating this as its meaning seems much more constrained than implied my the name.  Manual mapping is only regulation of GPCR signaling pathway terms whose names explicilty reference  activity GPCR signaling. Is a broad interpretation correct, or should change the name to positive 
-GABAergic	RCV_000018	?				?	
-GPCR signaling	RCV_000019	G-protein coupled receptor signaling pathway	GO_0007186	Equivalence		GO_0007186	Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?
-GTPase activity	RCV_000020	GTPase activity	GO_0003924	is_a_OR_part_of_OR_regulates_OR_capable_of		386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0003924	Manual mapping includes obsolete terms for individual G-protein subunits, automated mapping will pull in whole complex.
-MAPK inactivation	RCV_000021	negative regulation of MAP kinase activity	GO_0043407	Equivalence		GO_0043407	
-MAPK signalling	RCV_000022	MAPK cascade	GO_0000165	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0000165	
-Malpighian tubule stellate cell	RCV_000023	Malpighian tubule stellate cell	CL_1000155	results in developmental progression of		RO_0002295 some CL_1000155	
-NF-kappaB pathway	RCV_000024	I-kappaB kinase/NF-kappaB signaling	GO_0007249	is_a_OR_part_of		3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0007249	
-NGF pathway	RCV_000025	nerve growth factor signaling pathway	GO_0038180	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038180	Manual mapping includes 
-NK cells	RCV_000026	natural killer cell	CL_0000623	has_participant_cell		RO_0000057 some CL_0000623	
-Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	Equivalence		GO_0007219	
-PDGF pathway	RCV_000028	platelet-derived growth factor receptor signaling pathway	GO_0048008	is_a_OR_regulates		?	
-PNS development	RCV_000029	peripheral nervous system development	GO_0007422	is_a_OR_part_of		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007422	
-PPAR pathway	RCV_000030	peroxisome proliferator activated receptor signaling pathway	GO_0035357	is_a_OR_part_of_OR_regulates		GO_0035357	
-RNA interference	RCV_000031	RNA interference	GO_0016246	is_a_OR_part_of		3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0016246	Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?
-RNA splicing	RCV_000032	RNA splicing	GO_0008380	is_a_OR_part_of_OR_regulates		1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0008380	
-SMAD pathway	RCV_000033	SMAD protein signal transduction	GO_0060395	is_a_OR_part_of		3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0060395	
-SP1A pathway	RCV_000034	sphingosine-1-phosphate signaling pathway	GO_0003376	Equivalence		GO_0003376	
-STATx phosphorylation	RCV_000035	tyrosine phosphorylation of stat protein	GO_0007260	Equivalence		GO_0007260	
-Ser-Thr kinase signaling	RCV_000036	transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	is_a_OR_regulates		?	
-T cells	RCV_000037	T cell	CL_0000084	has_participant_cell		RO_0000057 some CL_0000084	Also need inference of regulation of processes in which T cells participate?
-T helper	RCV_000038	helper T cell	CL_0000912	has_participant_cell OR results in developmental progression of		? Need to make union property.	
-TCA metabolism	RCV_000039	tricarboxylic acid anion	CHEBI_35753	has_participant_chemical		RO_0000057 some CHEBI_35753	
+RCV_NAME	RCV_ID	Key Class Name	Key Class ID	Applied pattern	Notes
+B cells	RCV_000001	B cell	CL_0000236	has_participant_cell	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.
+BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates	
+BMP pathway	RCV_000003	BMP pathway	GO_0030509	is_a_OR_part_of_OR_regulates	Internal: Missing binding, secretion ligand etc.  Need a way to ask for processes with BMP as participant.
+DNA binding process	RCV_000005	DNA binding process	GO_0003677	Equivalence	Laura: Looks good?
+DNA damage	RCV_000006	DNA damage response, detection of DNA damage	GO_0042769	is_a_OR_part_of	
+DNA recombination	RCV_000008	DNA recombination	GO_0006310	Equivalence	Laura: Perhaps this is just very incomplete? There are only 3 manual mappings.  The key class looks justified, but has 51 classes.  If you need a more constrained definition, can you suggest one?
+DNA repair	RCV_000009	DNA repair	GO_0006281	is_a_OR_part_of_OR_regulates_OR_capable_of	Laura: The manual map includes the odd regulation term and complex, so I've used a pattern that includes both of these.  But including these results in a much larger list than the manual one.  Should we keep this pattern?
+DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?
+DNA replication	RCV_000010	DNA replication	GO_0006260	is_a_OR_part_of_OR_regulates	
+DNA silencing	RCV_000012	gene silencing	GO_0016458	is_a_OR_part_of_OR_regulates	
+DNA synthesis	RCV_000013	DNA biosynthetic process	GO_0071897	is_a_OR_part_of_OR_regulates	
+EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_0007173	is_a_OR_part_of_OR_regulates	
+ERBB signaling pathway	RCV_000015	ERBB signaling pathway	GO_0038127	is_a_OR_part_of_OR_regulates	
+FGF pathway	RCV_000016	fibroblast growth factor receptor signaling pathway	GO_0008543	is_a_OR_part_of_OR_regulates	
+zzinc ion homeostasis	RCV_000359	zinc ion homeostasis	GO_0055069	is_a_OR_part_of	Internal: GO axiomatisation insufficient?
+triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical	
+wound healing	RCV_000356	wound healing	GO_0042060	is_a_OR_part_of_OR_regulates	
+CTGF	RCV_000004	connective tissue growth factor	PRO?	?	Internal: No axioms on key class.  Look into adding from Pro?
+DNA dynamics	RCV_000007	?		?	
+G-protein	RCV_000017	?		?	Laura: Having trouble automating this as its meaning seems much more constrained than implied my the name.  Manual mapping is only regulation of GPCR signaling pathway terms whose names explicilty reference  activity GPCR signaling. Is a broad interpretation correct, or should change the name to positive 
+GABAergic	RCV_000018	?		?	
+GPCR signaling	RCV_000019	G-protein coupled receptor signaling pathway	GO_0007186	Equivalence	Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?
+GTPase activity	RCV_000020	GTPase activity	GO_0003924	is_a_OR_part_of_OR_regulates_OR_capable_of	Manual mapping includes obsolete terms for individual G-protein subunits, automated mapping will pull in whole complex.
+MAPK inactivation	RCV_000021	negative regulation of MAP kinase activity	GO_0043407	Equivalence	
+MAPK signalling	RCV_000022	MAPK cascade	GO_0000165	is_a_OR_part_of_OR_regulates	
+Malpighian tubule stellate cell	RCV_000023	Malpighian tubule stellate cell	CL_1000155	?results in developmental progression of	
+NF-kappaB pathway	RCV_000024	I-kappaB kinase/NF-kappaB signaling	GO_0007249	is_a_OR_part_of	
+NGF pathway	RCV_000025	nerve growth factor signaling pathway	GO_0038180	is_a_OR_part_of_OR_regulates	Manual mapping includes 
+NK cells	RCV_000026	natural killer cell	CL_0000623	has_participant_cell	
+Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	Equivalence	
+PDGF pathway	RCV_000028	platelet-derived growth factor receptor signaling pathway	GO_0048008	?is_a_OR_regulates	
+PNS development	RCV_000029	peripheral nervous system development	GO_0007422	is_a_OR_part_of	
+PPAR pathway	RCV_000030	peroxisome proliferator activated receptor signaling pathway	GO_0035357	is_a_OR_part_of_OR_regulates	
+RNA interference	RCV_000031	RNA interference	GO_0016246	is_a_OR_part_of	Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?
+RNA splicing	RCV_000032	RNA splicing	GO_0008380	is_a_OR_part_of_OR_regulates	
+SMAD pathway	RCV_000033	SMAD protein signal transduction	GO_0060395	is_a_OR_part_of	
+SP1A pathway	RCV_000034	sphingosine-1-phosphate signaling pathway	GO_0003376	Equivalence	
+STATx phosphorylation	RCV_000035	tyrosine phosphorylation of stat protein	GO_0007260	Equivalence	
+Ser-Thr kinase signaling	RCV_000036	transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	?is_a_OR_regulates	
+T cells	RCV_000037	T cell	CL_0000084	has_participant_cell	Also need inference of regulation of processes in which T cells participate?
+T helper	RCV_000038	helper T cell	CL_0000912	?has_participant_cell OR results in developmental progression of	
+TCA metabolism	RCV_000039	tricarboxylic acid anion	CHEBI_35753	has_participant_chemical	

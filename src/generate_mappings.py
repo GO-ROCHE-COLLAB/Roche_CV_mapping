@@ -55,7 +55,7 @@ summary = "## A summary of the current results, including links to results files
 
 for RCV_id, rd in owlMap.rowColDict.items():
 	# Skip cases where class expression marked as missing or preliminary      
-	if re.match("\?.*", rd['class expression IDs']):
+	if re.match("\?.*", rd['Applied pattern']):
 		if rd["Notes"]:
 			summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
 			summary += "* Notes: %s\n" % rd["Notes"]
