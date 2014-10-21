@@ -1,0 +1,30 @@
+pattern_name: results_in_developmental_progression_of
+
+classes:
+  biological_process: GO_0008150
+  anatomical entity: UBERON_0001062
+  cell: CL_0000000
+
+relations:
+  'results in developmental progression of': RO_0002295
+  
+vars: 
+  key_class: "'anatomical entity' OR 'cell'"
+
+name: 
+  text: "results in developmental progression of %s"
+  vars: 
+    - key_class
+
+def: 
+  text: "%s OR a part of (some) %s."
+  vars:
+    - key_class
+    - key_class
+    
+equivalentTo: 
+  text: "'results_in_developmental_progression_of' some %s"
+  vars:
+    - key_class
+
+

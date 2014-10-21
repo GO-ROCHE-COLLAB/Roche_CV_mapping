@@ -3,28 +3,27 @@
         "biological_process": "GO_0008150"
     }, 
     "def": {
-        "text": "%s OR a part of %s OR a process that regulates %s", 
+        "text": "%s OR a part of (some) %s.", 
         "vars": [
-            "key_class", 
             "key_class", 
             "key_class"
         ]
     }, 
     "equivalentTo": {
-        "text": "'part_of_or_regulates' some %s", 
+        "text": "'improper part of' some %s", 
         "vars": [
             "key_class"
         ]
     }, 
     "name": {
-        "text": "is a, part of or regulates %s", 
+        "text": "is a or part %s", 
         "vars": [
             "key_class"
         ]
     }, 
-    "pattern_name": "is_a_OR_part_of_OR_regulates", 
+    "pattern_name": "is_a_OR_part", 
     "relations": {
-        "part_of_or_regulates": "1C127FE1-B049-4E09-8DCC-8B323644160F"
+        "improper part of": "3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"
     }, 
     "vars": {
         "key_class": "'biological_process'"

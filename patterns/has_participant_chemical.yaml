@@ -1,0 +1,33 @@
+pattern_name: has_participant_chemical
+
+classes: 
+  "chemical entity": CHEBI_24431
+  
+relations:
+  "has participant": RO_0000057
+
+def: 
+  text: "A process in which a %s participates."
+  vars:
+    - key_class
+
+name: 
+  text: "process in which %s participates"
+  vars: 
+    - key_class
+    
+vars: 
+  key_class: "'chemical entity'"
+    
+def: 
+  text: "A process in which some %s participates."
+  vars:
+    - key_class
+    
+    
+equivalentTo: 
+  text: "'has participant' some %s"
+  vars:
+    - key_class
+
+

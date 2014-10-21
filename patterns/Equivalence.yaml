@@ -1,0 +1,25 @@
+pattern_name: Equivalence
+
+classes: {}
+  
+relations: {}
+
+name: 
+  text: "%s"
+  vars: 
+    - key_class
+    
+vars: 
+  key_class: "'biological_process' or 'molecular_function' or 'cellular_component'"
+    
+def: 
+  text: "As for %s."
+  vars:
+    - key_class
+    
+equivalentTo: 
+  text: "%s"
+  vars:
+    - key_class
+
+

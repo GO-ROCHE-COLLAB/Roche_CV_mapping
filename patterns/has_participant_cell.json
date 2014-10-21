@@ -1,0 +1,30 @@
+{
+    "classes": {
+        "cell": "CL_0000000"
+    }, 
+    "def": {
+        "text": "A process in which a %s participates.", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "equivalentTo": {
+        "text": "'has participant' some %s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "name": {
+        "text": "process in which %s participates", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "pattern_name": "has_participant_cell", 
+    "relations": {
+        "has participant": "RO_0000057"
+    }, 
+    "vars": {
+        "key_class": "'cell'"
+    }
+}

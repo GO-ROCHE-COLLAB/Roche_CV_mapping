@@ -1,0 +1,30 @@
+{
+    "classes": {
+        "chemical entity": "CHEBI_24431"
+    }, 
+    "def": {
+        "text": "A process in which some %s participates.", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "equivalentTo": {
+        "text": "'has participant' some %s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "name": {
+        "text": "process in which %s participates", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "pattern_name": "has_participant_chemical", 
+    "relations": {
+        "has participant": "RO_0000057"
+    }, 
+    "vars": {
+        "key_class": "'chemical entity'"
+    }
+}

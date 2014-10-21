@@ -1,0 +1,26 @@
+{
+    "classes": {}, 
+    "def": {
+        "text": "As for %s.", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "equivalentTo": {
+        "text": "%s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "name": {
+        "text": "%s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "pattern_name": "Equivalence", 
+    "relations": {}, 
+    "vars": {
+        "key_class": "'biological_process' or 'molecular_function' or 'cellular_component'"
+    }
+}

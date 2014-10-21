@@ -7,24 +7,24 @@ relations:
   "part_of_or_regulates": 1C127FE1-B049-4E09-8DCC-8B323644160F
     
 vars: 
-  key_process: "'biological_process'"
+  key_class: "'biological_process'"
   
 name:
   text: "is a, part of or regulates %s"
   vars:
-    - key_process
+    - key_class
     
 def: 
   text: "%s OR a part of %s OR a process that regulates %s"
   vars:
-    - key_process
-    - key_process
-    - key_process
+    - key_class
+    - key_class
+    - key_class
     
     
-EquivalentTo: 
+equivalentTo: 
   text: "'part_of_or_regulates' some %s"
   vars:
-    - key_process
+    - key_class
 
 
