@@ -1,8 +1,8 @@
 name	ID	manual	auto	checked	blacklisted
 inactivation of MAPK activity involved in conjugation with cellular fusion	GO_0071511	1	1	1	0
 inactivation of MAPK activity	GO_0000188	1	1	1	0
-inactivation of MAPK activity involved in cell wall organization or biogenesis	GO_0000200	1	1	1	0
 inactivation of MAPK activity involved in osmosensory signaling pathway	GO_0000173	1	1	1	0
+inactivation of MAPK activity involved in cell wall organization or biogenesis	GO_0000200	1	1	1	0
 inactivation of MAPK during sporulation (sensu Fungi)	GO_0030442	1	0	1	0
 inactivation of MAPKKK activity	GO_0051390	1	0	1	0
 inactivation of paternal X chromosome by genetic imprinting	GO_0060818	1	0	1	0
@@ -13,8 +13,8 @@ inactivation of recombination (HML)	GO_0007537	1	0	1	0
 inactivation of MAPK (pseudohyphal growth)	GO_0000194	1	0	1	0
 inactivation of MAPKK activity	GO_0051389	1	0	1	0
 inactivation of X chromosome by heterochromatin assembly	GO_0060820	1	0	1	0
-inactivation of X chromosome by DNA methylation	GO_0060821	1	0	1	0
 inactivation of MAPK (mating sensu Saccharomyces)	GO_0000174	1	0	1	0
+inactivation of X chromosome by DNA methylation	GO_0060821	1	0	1	0
 inactivation of X chromosome by genetic imprinting	GO_0060819	1	0	1	0
 negative regulation of MAP kinase activity	GO_0043407	0	1	0	0
 negative regulation of JUN kinase activity	GO_0043508	0	1	0	0
