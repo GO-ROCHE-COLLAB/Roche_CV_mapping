@@ -1,360 +1,365 @@
-RCV_ID	RCV_NAME	Definition	Status
-RCV_000001	B cells	-	1
-RCV_000002	BDNF pathway	-	1
-RCV_000003	BMP pathway	-	1
-RCV_000004	CTGF	-	1
-RCV_000005	DNA binding process	-	1
-RCV_000006	DNA damage	-	1
-RCV_000007	DNA dynamics	-	1
-RCV_000008	DNA recombination	-	1
-RCV_000009	DNA repair	-	1
-RCV_000010	DNA replication	-	1
-RCV_000011	DNA replication negative	-	1
-RCV_000012	DNA silencing	-	1
-RCV_000013	DNA synthesis	-	1
-RCV_000014	EGFR pathway	-	1
-RCV_000015	ERBB signaling pathway	-	1
-RCV_000016	FGF pathway	-	1
-RCV_000017	G-protein	-	1
-RCV_000018	GABAergic	-	1
-RCV_000019	GPCR signaling	-	1
-RCV_000020	GTPase activity	-	1
-RCV_000021	MAPK inactivation	-	1
-RCV_000022	MAPK signalling	-	1
-RCV_000023	Malpighian tubule stellate cell	-	1
-RCV_000024	NF-kappaB pathway	-	1
-RCV_000025	NGF pathway	-	1
-RCV_000026	NK cells	-	1
-RCV_000027	Notch signaling pathway	-	1
-RCV_000028	PDGF pathway	-	1
-RCV_000029	PNS development	-	1
-RCV_000030	PPAR pathway	-	1
-RCV_000031	RNA interference	-	1
-RCV_000032	RNA splicing	-	1
-RCV_000033	SMAD pathway	-	1
-RCV_000034	SP1A pathway	-	1
-RCV_000035	STATx phosphorylation	-	1
-RCV_000036	Ser/Thr kinase signaling	-	1
-RCV_000037	T cells	-	1
-RCV_000038	T helper	-	1
-RCV_000039	TCA metabolism	-	1
-RCV_000040	TGF beta pathway	-	1
-RCV_000041	TLRx pathway	-	1
-RCV_000042	TNF pathway	-	1
-RCV_000043	TRAIL production	-	1
-RCV_000044	UDP metabolism	-	1
-RCV_000045	VEGF pathway	-	1
-RCV_000046	Wnt pathway	-	1
-RCV_000047	acetylcholine	-	1
-RCV_000048	adenine metabolism	-	1
-RCV_000049	adhesion	-	1
-RCV_000050	adipose	-	1
-RCV_000051	adipose differentiation	-	1
-RCV_000052	adrenal	-	1
-RCV_000053	adrenergic	-	1
-RCV_000054	aerobic metabolism	-	1
-RCV_000055	aging	-	1
-RCV_000056	allantoin metabolism	-	1
-RCV_000057	amine metabolism	-	1
-RCV_000058	aminoacid metabolism	-	1
-RCV_000059	amyloid metabolism	-	1
-RCV_000060	anaerobic metabolism	-	1
-RCV_000061	angiogenesis	-	1
-RCV_000062	angiotensin-mediated signaling pathway	-	1
-RCV_000063	antifungal	-	1
-RCV_000064	antimicrobial	-	1
-RCV_000065	aorta development	-	1
-RCV_000066	apoptosis	-	1
-RCV_000067	apoptosis glands	-	1
-RCV_000068	apoptosis heart	-	1
-RCV_000069	apoptosis kidney	-	1
-RCV_000070	arginine metabolism	-	1
-RCV_000071	artery	-	1
-RCV_000072	asparagine metabolism	-	1
-RCV_000073	aspartate metabolism	-	1
-RCV_000074	astrocyte	-	1
-RCV_000075	auditory behavior	-	1
-RCV_000076	autophagy	-	1
-RCV_000077	auxin	-	1
-RCV_000078	axon	-	1
-RCV_000079	bacterial	-	1
-RCV_000080	base pairing	-	1
-RCV_000081	basophil	-	1
-RCV_000082	behaviour	-	1
-RCV_000083	beta cells	-	1
-RCV_000084	beta-amyloid	-	1
-RCV_000085	bile acid	-	1
-RCV_000086	blood coagulation	-	1
-RCV_000087	blood pressure	-	1
-RCV_000088	bone	-	1
-RCV_000089	bone marrow	-	1
-RCV_000090	brain	-	1
-RCV_000091	brain development	-	1
-RCV_000092	cAMP metabolism	-	1
-RCV_000093	calcium homeostasis	-	1
-RCV_000094	calcium signalling	-	1
-RCV_000095	cannabinoid	-	1
-RCV_000096	carnitine metabolism	-	1
-RCV_000097	cartilage	-	1
-RCV_000098	cell adhesion	-	1
-RCV_000099	cell adhesion and motility	-	1
-RCV_000100	cell aging	-	1
-RCV_000101	cell cell signaling	-	1
-RCV_000102	cell cycle	-	1
-RCV_000103	cell cycle G0/G1	-	1
-RCV_000104	cell cycle G1	-	1
-RCV_000105	cell cycle G1/G0	-	1
-RCV_000106	cell cycle G1/S	-	1
-RCV_000107	cell cycle G2	-	1
-RCV_000108	cell cycle G2/M	-	1
-RCV_000109	cell cycle M	-	1
-RCV_000110	cell cycle M/G1	-	1
-RCV_000111	cell cycle S	-	1
-RCV_000112	cell cycle S/G2	-	1
-RCV_000113	cell cycle arrest	-	1
-RCV_000114	cell death	-	1
-RCV_000115	cell differentiation	-	1
-RCV_000116	cell division	-	1
-RCV_000117	cell growth	-	1
-RCV_000118	cell matrix	-	1
-RCV_000119	cell metabolism	-	1
-RCV_000120	cell migration	-	1
-RCV_000121	cell morphogenesis	-	1
-RCV_000122	cell motility	-	1
-RCV_000123	cell proliferation	-	1
-RCV_000124	cell shape	-	1
-RCV_000125	cell structure	-	1
-RCV_000126	cell wall	-	1
-RCV_000127	cell-cell adhesion	-	1
-RCV_000128	cell-cell interaction	-	1
-RCV_000129	cell-cell signaling	-	1
-RCV_000130	cell-matrix adhesion	-	1
-RCV_000131	central nervous system	-	1
-RCV_000132	cerebellar stellate cell	-	1
-RCV_000133	cerebellum	-	1
-RCV_000134	chemotaxis	-	1
-RCV_000135	cholesterol metabolism	-	1
-RCV_000136	cholinergic	-	1
-RCV_000137	circadian	-	1
-RCV_000138	circulatory system	-	1
-RCV_000139	cytoskeleton	-	1
-RCV_000140	defense response	-	1
-RCV_000141	dendritic cell	-	1
-RCV_000142	detoxification	-	1
-RCV_000143	digestive tract development	-	1
-RCV_000144	digestive tract function	-	1
-RCV_000145	dopamine	-	1
-RCV_000146	embryo development	-	1
-RCV_000147	embryonic development	-	1
-RCV_000148	embryonic_development_goslim	-	1
-RCV_000149	endocrine	-	1
-RCV_000150	endoderm development	-	1
-RCV_000151	endothelial	-	1
-RCV_000152	energy metabolism	-	1
-RCV_000153	enzyme	-	1
-RCV_000154	eosinophil	-	1
-RCV_000155	epithelial cell differentiation	-	1
-RCV_000156	epithelial cell migration	-	1
-RCV_000157	epithelial cell proliferation	-	1
-RCV_000158	epithelial cells	-	1
-RCV_000159	epithelial to mesenchymal transition	-	1
-RCV_000160	erythrocyte	-	1
-RCV_000161	exocrine glands	-	1
-RCV_000162	extraglomerular mesangial	-	1
-RCV_000163	fat metabolism	-	1
-RCV_000164	fatty acid metabolism	-	1
-RCV_000165	fertilization	-	1
-RCV_000166	fibroblast	-	1
-RCV_000167	forebrain development	-	1
-RCV_000168	fungus	-	1
-RCV_000169	glands	-	1
-RCV_000170	glial	-	1
-RCV_000171	glomerular epithelial cell	-	1
-RCV_000172	glucagon	-	1
-RCV_000173	glucocorticoid	-	1
-RCV_000174	glucose effects	-	1
-RCV_000175	glucose homeostasis	-	1
-RCV_000176	glucose metabolism	-	1
-RCV_000177	glutamate metabolism	-	1
-RCV_000178	glutamatergic	-	1
-RCV_000179	glutamine metabolism	-	1
-RCV_000180	glycinergic	-	1
-RCV_000181	golgi dynamics	-	1
-RCV_000182	gpcr	-	1
-RCV_000183	granulocyte	-	1
-RCV_000184	heart development	-	1
-RCV_000185	heart function	-	1
-RCV_000186	heart stress	-	1
-RCV_000187	heavy metal	-	1
-RCV_000188	hepatic stellate cell	-	1
-RCV_000189	hepatocyte	-	1
-RCV_000190	hindbrain development	-	1
-RCV_000191	histone dynamics	-	1
-RCV_000192	hormone metabolism	-	1
-RCV_000193	host defense	-	1
-RCV_000194	hypoxia	-	1
-RCV_000195	immune response	-	1
-RCV_000196	immune rsponse	-	1
-RCV_000197	infectious	-	1
-RCV_000198	inflammation	-	1
-RCV_000199	inner ear development	-	1
-RCV_000200	inositol metabolism	-	1
-RCV_000201	insulin	-	1
-RCV_000202	insulin metabolism	-	1
-RCV_000203	integrin pathway	-	1
-RCV_000204	interaction with host	-	1
-RCV_000205	interaction with symbiont	-	1
-RCV_000206	interferon	-	1
-RCV_000207	interleukin	-	1
-RCV_000208	intestine	-	1
-RCV_000209	ion binding	-	1
-RCV_000210	ion metabolism	-	1
-RCV_000211	ion transport	-	1
-RCV_000212	iron metabolism	-	1
-RCV_000213	keratinocyte	-	1
-RCV_000214	kidney development	-	1
-RCV_000215	kidney function	-	1
-RCV_000216	killer activity	-	1
-RCV_000217	kinase activity	-	1
-RCV_000218	lactate metabolism	-	1
-RCV_000219	leptin-mediated signaling pathway	-	1
-RCV_000220	leukocyte activation	-	1
-RCV_000221	lipoprotein metabolism	-	1
-RCV_000222	liver	-	1
-RCV_000223	liver development	-	1
-RCV_000224	lung development	-	1
-RCV_000225	lymph gland development	-	1
-RCV_000226	lymphocyte	-	1
-RCV_000227	lymphocyte dynamics	-	1
-RCV_000228	mRNA dynamics	-	1
-RCV_000229	macrophage	-	1
-RCV_000230	mast cell	-	1
-RCV_000231	meiosis	-	1
-RCV_000232	mesangial cell	-	1
-RCV_000233	mesenchymal to epithelial transition	-	1
-RCV_000234	mesenchymal-epithelial cell signaling	-	1
-RCV_000235	midbrain development	-	1
-RCV_000236	mitochondrial	-	1
-RCV_000237	mitochondrial DNA	-	1
-RCV_000238	monocyte	-	1
-RCV_000239	muscle	-	1
-RCV_000240	myoblast	-	1
-RCV_000241	nerve function	-	1
-RCV_000242	nervous	-	1
-RCV_000243	nervous development	-	1
-RCV_000244	neuron development	-	1
-RCV_000245	neuron differentiation	-	1
-RCV_000246	neurotransmitter	-	1
-RCV_000247	neurotransmittter	-	1
-RCV_000248	neutrophil	-	1
-RCV_000249	nitric oxide metabolism	-	1
-RCV_000250	nitrogen metabolism	-	1
-RCV_000251	noradrenergic	-	1
-RCV_000252	nuclear events	-	1
-RCV_000253	nucleotide binding process	-	1
-RCV_000254	olfactory	-	1
-RCV_000255	olfactory system development	-	1
-RCV_000256	oocyte	-	1
-RCV_000257	oogenesis	-	1
-RCV_000258	optic nerve development	-	1
-RCV_000259	organ development	-	1
-RCV_000260	organic acid metabolism	-	1
-RCV_000261	ovary	-	1
-RCV_000262	oxidative metabolism	-	1
-RCV_000263	oxidative stress	-	1
-RCV_000264	oxidoreductase activity	-	1
-RCV_000265	pancreas B cells	-	1
-RCV_000266	pancreas development	-	1
-RCV_000267	pancreas endocrine	-	1
-RCV_000268	pancreas exocrine	-	1
-RCV_000269	pancreatic A cell	-	1
-RCV_000270	pancreatic D cell	-	1
-RCV_000271	pancreatic E cell	-	1
-RCV_000272	pancreatic PP cell	-	1
-RCV_000273	pancreatic stellate cell	-	1
-RCV_000274	peptide metabolism	-	1
-RCV_000275	peroxisome	-	1
-RCV_000276	phosphatase activity 	-	1
-RCV_000277	photoreceptor	-	1
-RCV_000278	plant	-	1
-RCV_000279	plant metabolism	-	1
-RCV_000280	plasma membrane dynamics	-	1
-RCV_000281	platelet	-	1
-RCV_000282	post-translational	-	1
-RCV_000283	protein degradation	-	1
-RCV_000284	protein folding	-	1
-RCV_000285	protein localization	-	1
-RCV_000286	protein metabolism	-	1
-RCV_000287	protein modification	-	1
-RCV_000288	protein secretion	-	1
-RCV_000289	protein splicing	-	1
-RCV_000290	protein transport	-	1
-RCV_000291	purine metabolism	-	1
-RCV_000292	pyrimidine metabolism	-	1
-RCV_000293	reproduction	-	1
-RCV_000294	respiration	-	1
-RCV_000295	retina development	-	1
-RCV_000296	salt stress response	-	1
-RCV_000297	secretion	-	1
-RCV_000298	sex	-	1
-RCV_000299	sex determination	-	1
-RCV_000300	sex female	-	1
-RCV_000301	sex male	-	1
-RCV_000302	skeletal muscle	-	1
-RCV_000303	skin	-	1
-RCV_000304	smooth muscle	-	1
-RCV_000305	smoothened signaling pathway	-	1
-RCV_000306	snRNA	-	1
-RCV_000307	snoRNA	-	1
-RCV_000308	somatostatin	-	1
-RCV_000309	sphingolipid metabolic process	-	1
-RCV_000310	spinal cord	-	1
-RCV_000311	spleen development	-	1
-RCV_000312	stellate cell	-	1
-RCV_000313	stem cell	-	1
-RCV_000314	steroid metabolic process	-	1
-RCV_000315	sterol metabolic process	-	1
-RCV_000316	stomach	-	1
-RCV_000317	striated muscle	-	1
-RCV_000318	succinyl-CoA pathway	-	1
-RCV_000319	sugar metabolism	-	1
-RCV_000320	symbiosis	-	1
-RCV_000321	synapse	-	1
-RCV_000322	syncytium formation	-	1
-RCV_000323	taxis	-	1
-RCV_000324	telomere	-	1
-RCV_000325	terpenoid	-	1
-RCV_000326	thiamin metabolism	-	1
-RCV_000327	thymine metabolism	-	1
-RCV_000328	thymus	-	1
-RCV_000329	thyroid	-	1
-RCV_000330	toluene metabolism	-	1
-RCV_000331	trachea	-	1
-RCV_000332	transcription	-	1
-RCV_000333	transepithelial transport	-	1
-RCV_000334	transferase activity	-	1
-RCV_000335	translation	-	1
-RCV_000336	triglyceride	-	1
-RCV_000337	ubiquitin	-	1
-RCV_000338	unicellular growth	-	1
-RCV_000339	unicellular organism	-	1
-RCV_000340	urea metabolism	-	1
-RCV_000341	ureter	-	1
-RCV_000342	uterus	-	1
-RCV_000343	vacuole	-	1
-RCV_000344	vascular	-	1
-RCV_000345	vasoconstriction	-	1
-RCV_000346	vasodilation	-	1
-RCV_000347	vescicle dynamics	-	1
-RCV_000348	vessel	-	1
-RCV_000349	vessel development	-	1
-RCV_000350	virus	-	1
-RCV_000351	vitamin A	-	1
-RCV_000352	vitamin C	-	1
-RCV_000353	vitamin D	-	1
-RCV_000354	vitamin K	-	1
-RCV_000355	vitamin metabolism	-	1
-RCV_000356	wound healing	-	1
-RCV_000357	xenobiotic	-	1
-RCV_000358	yeast	-	1
-RCV_000359	zinc ion homeostasis	-	1
+RCV_ID	RCV_NAME	DEFINITION	CURATOR	STATUS
+RCV_000001	B cells	-	badil	1
+RCV_000002	BDNF pathway	-	badil	1
+RCV_000003	BMP pathway	-	badil	1
+RCV_000004	CTGF	-	badil	1
+RCV_000005	DNA binding process	-	badil	1
+RCV_000006	DNA damage	-	badil	1
+RCV_000007	DNA dynamics	-	badil	1
+RCV_000008	DNA recombination	-	badil	1
+RCV_000009	DNA repair	-	badil	1
+RCV_000010	DNA replication	-	badil	1
+RCV_000011	DNA replication negative	-	badil	0
+RCV_000012	DNA silencing	-	badil	1
+RCV_000013	DNA synthesis	-	badil	1
+RCV_000014	EGFR pathway	-	badil	1
+RCV_000015	ERBB signaling pathway	-	badil	1
+RCV_000016	FGF pathway	-	badil	1
+RCV_000017	G-protein	-	badil	1
+RCV_000018	GABAergic	-	badil	1
+RCV_000019	GPCR signaling	-	badil	1
+RCV_000020	GTPase activity	-	badil	1
+RCV_000021	MAPK inactivation	-	badil	1
+RCV_000022	MAPK signalling	-	badil	1
+RCV_000023	Malpighian tubule stellate cell	-	badil	1
+RCV_000024	NF-kappaB pathway	-	badil	1
+RCV_000025	NGF pathway	-	badil	1
+RCV_000026	NK cells	-	badil	1
+RCV_000027	Notch signaling pathway	-	badil	1
+RCV_000028	PDGF pathway	-	badil	1
+RCV_000029	PNS development	-	badil	1
+RCV_000030	PPAR pathway	-	badil	1
+RCV_000031	RNA interference	-	badil	1
+RCV_000032	RNA splicing	-	badil	1
+RCV_000033	SMAD pathway	-	badil	1
+RCV_000034	SP1A pathway	-	badil	1
+RCV_000035	STATx phosphorylation	-	badil	1
+RCV_000036	Ser/Thr kinase signaling	-	badil	1
+RCV_000037	T cells	-	badil	1
+RCV_000038	T helper	-	badil	1
+RCV_000039	TCA metabolism	-	badil	1
+RCV_000040	TGF beta pathway	-	badil	1
+RCV_000041	TLRx pathway	-	badil	1
+RCV_000042	TNF pathway	-	badil	1
+RCV_000043	TRAIL production	-	badil	1
+RCV_000044	UDP metabolism	-	badil	1
+RCV_000045	VEGF pathway	-	badil	1
+RCV_000046	Wnt pathway	-	badil	1
+RCV_000047	acetylcholine	-	badil	1
+RCV_000048	adenine metabolism	-	badil	1
+RCV_000049	adhesion	-	badil	1
+RCV_000050	adipose	-	badil	1
+RCV_000051	adipose differentiation	-	badil	1
+RCV_000052	adrenal	-	badil	1
+RCV_000053	adrenergic	-	badil	1
+RCV_000054	aerobic metabolism	-	badil	1
+RCV_000055	aging	-	badil	1
+RCV_000056	allantoin metabolism	-	badil	1
+RCV_000057	amine metabolism	-	badil	1
+RCV_000058	aminoacid metabolism	-	badil	1
+RCV_000059	amyloid metabolism	-	badil	1
+RCV_000060	anaerobic metabolism	-	badil	1
+RCV_000061	angiogenesis	-	badil	1
+RCV_000062	angiotensin-mediated signaling pathway	-	badil	1
+RCV_000063	antifungal	-	badil	1
+RCV_000064	antimicrobial	-	badil	1
+RCV_000065	aorta development	-	badil	1
+RCV_000066	apoptosis	-	badil	1
+RCV_000067	apoptosis glands	-	badil	1
+RCV_000068	apoptosis heart	-	badil	1
+RCV_000069	apoptosis kidney	-	badil	1
+RCV_000070	arginine metabolism	-	badil	1
+RCV_000071	artery	-	badil	1
+RCV_000072	asparagine metabolism	-	badil	1
+RCV_000073	aspartate metabolism	-	badil	1
+RCV_000074	astrocyte	-	badil	1
+RCV_000075	auditory behavior	-	badil	1
+RCV_000076	autophagy	-	badil	1
+RCV_000077	auxin	-	badil	1
+RCV_000078	axon	-	badil	1
+RCV_000079	bacterial	-	badil	1
+RCV_000080	base pairing	-	badil	1
+RCV_000081	basophil	-	badil	1
+RCV_000082	behaviour	-	badil	1
+RCV_000083	beta cells	-	badil	1
+RCV_000084	beta-amyloid	-	badil	1
+RCV_000085	bile acid	-	badil	1
+RCV_000086	blood coagulation	-	badil	1
+RCV_000087	blood pressure	-	badil	1
+RCV_000088	bone	-	badil	1
+RCV_000089	bone marrow	-	badil	1
+RCV_000090	brain	-	badil	1
+RCV_000091	brain development	-	badil	1
+RCV_000092	cAMP metabolism	-	badil	1
+RCV_000093	calcium homeostasis	-	badil	1
+RCV_000094	calcium signalling	-	badil	1
+RCV_000095	cannabinoid	-	badil	1
+RCV_000096	carnitine metabolism	-	badil	1
+RCV_000097	cartilage	-	badil	1
+RCV_000098	cell adhesion	-	badil	0
+RCV_000099	cell adhesion and motility	-	badil	1
+RCV_000100	cell aging	-	badil	1
+RCV_000101	cell cell signaling	-	badil	1
+RCV_000102	cell cycle	-	badil	1
+RCV_000103	cell cycle G0/G1	-	badil	1
+RCV_000104	cell cycle G1	-	badil	1
+RCV_000105	cell cycle G1/G0	-	badil	1
+RCV_000106	cell cycle G1/S	-	badil	1
+RCV_000107	cell cycle G2	-	badil	1
+RCV_000108	cell cycle G2/M	-	badil	1
+RCV_000109	cell cycle M	-	badil	1
+RCV_000110	cell cycle M/G1	-	badil	1
+RCV_000111	cell cycle S	-	badil	1
+RCV_000112	cell cycle S/G2	-	badil	1
+RCV_000113	cell cycle arrest	-	badil	1
+RCV_000114	cell death	-	badil	1
+RCV_000115	cell differentiation	-	badil	1
+RCV_000116	cell division	-	badil	1
+RCV_000117	cell growth	-	badil	1
+RCV_000118	cell matrix	-	badil	1
+RCV_000119	cell metabolism	-	badil	1
+RCV_000120	cell migration	-	badil	1
+RCV_000121	cell morphogenesis	-	badil	1
+RCV_000122	cell motility	-	badil	1
+RCV_000123	cell proliferation	-	badil	1
+RCV_000124	cell shape	-	badil	1
+RCV_000125	cell structure	-	badil	1
+RCV_000126	cell wall	-	badil	1
+RCV_000127	cell-cell adhesion	-	badil	1
+RCV_000128	cell-cell interaction	-	badil	1
+RCV_000129	cell-cell signaling	-	badil	1
+RCV_000130	cell-matrix adhesion	-	badil	1
+RCV_000131	central nervous system	-	badil	1
+RCV_000132	cerebellar stellate cell	-	badil	1
+RCV_000133	cerebellum	-	badil	1
+RCV_000134	chemotaxis	-	badil	1
+RCV_000135	cholesterol metabolism	-	badil	1
+RCV_000136	cholinergic	-	badil	1
+RCV_000137	circadian	-	badil	1
+RCV_000138	circulatory system	-	badil	1
+RCV_000139	cytoskeleton	-	badil	1
+RCV_000140	defense response	-	badil	1
+RCV_000141	dendritic cell	-	badil	1
+RCV_000142	detoxification	-	badil	1
+RCV_000143	digestive tract development	-	badil	1
+RCV_000144	digestive tract function	-	badil	1
+RCV_000145	dopamine	-	badil	1
+RCV_000146	embryo development	-	badil	1
+RCV_000147	embryonic development	-	badil	1
+RCV_000148	embryonic_development_goslim	-	badil	1
+RCV_000149	endocrine	-	badil	1
+RCV_000150	endoderm development	-	badil	1
+RCV_000151	endothelial	-	badil	1
+RCV_000152	energy metabolism	-	badil	1
+RCV_000153	enzyme	-	badil	1
+RCV_000154	eosinophil	-	badil	1
+RCV_000155	epithelial cell differentiation	-	badil	1
+RCV_000156	epithelial cell migration	-	badil	1
+RCV_000157	epithelial cell proliferation	-	badil	1
+RCV_000158	epithelial cells	-	badil	1
+RCV_000159	epithelial to mesenchymal transition	-	badil	1
+RCV_000160	erythrocyte	-	badil	1
+RCV_000161	exocrine glands	-	badil	1
+RCV_000162	extraglomerular mesangial	-	badil	1
+RCV_000163	fat metabolism	-	badil	1
+RCV_000164	fatty acid metabolism	-	badil	1
+RCV_000165	fertilization	-	badil	1
+RCV_000166	fibroblast	-	badil	1
+RCV_000167	forebrain development	-	badil	1
+RCV_000168	fungus	-	badil	1
+RCV_000169	glands	-	badil	1
+RCV_000170	glial	-	badil	1
+RCV_000171	glomerular epithelial cell	-	badil	1
+RCV_000172	glucagon	-	badil	1
+RCV_000173	glucocorticoid	-	badil	1
+RCV_000174	glucose effects	-	badil	1
+RCV_000175	glucose homeostasis	-	badil	1
+RCV_000176	glucose metabolism	-	badil	1
+RCV_000177	glutamate metabolism	-	badil	1
+RCV_000178	glutamatergic	-	badil	1
+RCV_000179	glutamine metabolism	-	badil	1
+RCV_000180	glycinergic	-	badil	1
+RCV_000181	golgi dynamics	-	badil	1
+RCV_000182	gpcr	-	badil	0
+RCV_000183	granulocyte	-	badil	1
+RCV_000184	heart development	-	badil	1
+RCV_000185	heart function	-	badil	1
+RCV_000186	heart stress	-	badil	1
+RCV_000187	heavy metal	-	badil	1
+RCV_000188	hepatic stellate cell	-	badil	1
+RCV_000189	hepatocyte	-	badil	1
+RCV_000190	hindbrain development	-	badil	1
+RCV_000191	histone dynamics	-	badil	1
+RCV_000192	hormone metabolism	-	badil	1
+RCV_000193	host defense	-	badil	1
+RCV_000194	hypoxia	-	badil	1
+RCV_000195	immune response	-	badil	1
+RCV_000196	immune rsponse	-	badil	1
+RCV_000197	infectious	-	badil	1
+RCV_000198	inflammation	-	badil	1
+RCV_000199	inner ear development	-	badil	1
+RCV_000200	inositol metabolism	-	badil	1
+RCV_000201	insulin	-	badil	1
+RCV_000202	insulin metabolism	-	badil	1
+RCV_000203	integrin pathway	-	badil	1
+RCV_000204	interaction with host	-	badil	1
+RCV_000205	interaction with symbiont	-	badil	1
+RCV_000206	interferon	-	badil	1
+RCV_000207	interleukin	-	badil	1
+RCV_000208	intestine	-	badil	1
+RCV_000209	ion binding	-	badil	1
+RCV_000210	ion metabolism	-	badil	1
+RCV_000211	ion transport	-	badil	1
+RCV_000212	iron metabolism	-	badil	1
+RCV_000213	keratinocyte	-	badil	1
+RCV_000214	kidney development	-	badil	1
+RCV_000215	kidney function	-	badil	1
+RCV_000216	killer activity	-	badil	1
+RCV_000217	kinase activity	-	badil	1
+RCV_000218	lactate metabolism	-	badil	1
+RCV_000219	leptin-mediated signaling pathway	-	badil	1
+RCV_000220	leukocyte activation	-	badil	1
+RCV_000221	lipoprotein metabolism	-	badil	1
+RCV_000222	liver	-	badil	1
+RCV_000223	liver development	-	badil	1
+RCV_000224	lung development	-	badil	1
+RCV_000225	lymph gland development	-	badil	1
+RCV_000226	lymphocyte	-	badil	1
+RCV_000227	lymphocyte dynamics	-	badil	1
+RCV_000228	mRNA dynamics	-	badil	1
+RCV_000229	macrophage	-	badil	1
+RCV_000230	mast cell	-	badil	1
+RCV_000231	meiosis	-	badil	1
+RCV_000232	mesangial cell	-	badil	1
+RCV_000233	mesenchymal to epithelial transition	-	badil	1
+RCV_000234	mesenchymal-epithelial cell signaling	-	badil	1
+RCV_000235	midbrain development	-	badil	1
+RCV_000236	mitochondrial	-	badil	1
+RCV_000237	mitochondrial DNA	-	badil	1
+RCV_000238	monocyte	-	badil	1
+RCV_000239	muscle	-	badil	1
+RCV_000240	myoblast	-	badil	1
+RCV_000241	nerve function	-	badil	1
+RCV_000242	nervous	-	badil	1
+RCV_000243	nervous development	-	badil	1
+RCV_000244	neuron development	-	badil	1
+RCV_000245	neuron differentiation	-	badil	1
+RCV_000246	neurotransmitter	-	badil	1
+RCV_000247	neurotransmittter	-	badil	1
+RCV_000248	neutrophil	-	badil	1
+RCV_000249	nitric oxide metabolism	-	badil	1
+RCV_000250	nitrogen metabolism	-	badil	1
+RCV_000251	noradrenergic	-	badil	1
+RCV_000252	nuclear events	-	badil	1
+RCV_000253	nucleotide binding process	-	badil	1
+RCV_000254	olfactory	-	badil	1
+RCV_000255	olfactory system development	-	badil	1
+RCV_000256	oocyte	-	badil	1
+RCV_000257	oogenesis	-	badil	1
+RCV_000258	optic nerve development	-	badil	1
+RCV_000259	organ development	-	badil	1
+RCV_000260	organic acid metabolism	-	badil	1
+RCV_000261	ovary	-	badil	1
+RCV_000262	oxidative metabolism	-	badil	1
+RCV_000263	oxidative stress	-	badil	1
+RCV_000264	oxidoreductase activity	-	badil	1
+RCV_000265	pancreas B cells	-	badil	1
+RCV_000266	pancreas development	-	badil	1
+RCV_000267	pancreas endocrine	-	badil	1
+RCV_000268	pancreas exocrine	-	badil	1
+RCV_000269	pancreatic A cell	-	badil	1
+RCV_000270	pancreatic D cell	-	badil	1
+RCV_000271	pancreatic E cell	-	badil	1
+RCV_000272	pancreatic PP cell	-	badil	1
+RCV_000273	pancreatic stellate cell	-	badil	1
+RCV_000274	peptide metabolism	-	badil	1
+RCV_000275	peroxisome	-	badil	1
+RCV_000276	phosphatase activity 	-	badil	1
+RCV_000277	photoreceptor	-	badil	1
+RCV_000278	plant	-	badil	1
+RCV_000279	plant metabolism	-	badil	1
+RCV_000280	plasma membrane dynamics	-	badil	1
+RCV_000281	platelet	-	badil	1
+RCV_000282	post-translational	-	badil	1
+RCV_000283	protein degradation	-	badil	1
+RCV_000284	protein folding	-	badil	1
+RCV_000285	protein localization	-	badil	1
+RCV_000286	protein metabolism	-	badil	1
+RCV_000287	protein modification	-	badil	1
+RCV_000288	protein secretion	-	badil	1
+RCV_000289	protein splicing	-	badil	1
+RCV_000290	protein transport	-	badil	1
+RCV_000291	purine metabolism	-	badil	1
+RCV_000292	pyrimidine metabolism	-	badil	1
+RCV_000293	reproduction	-	badil	1
+RCV_000294	respiration	-	badil	1
+RCV_000295	retina development	-	badil	1
+RCV_000296	salt stress response	-	badil	1
+RCV_000297	secretion	-	badil	1
+RCV_000298	sex	-	badil	1
+RCV_000299	sex determination	-	badil	1
+RCV_000300	sex female	-	badil	1
+RCV_000301	sex male	-	badil	1
+RCV_000302	skeletal muscle	-	badil	1
+RCV_000303	skin	-	badil	1
+RCV_000304	smooth muscle	-	badil	1
+RCV_000305	smoothened signaling pathway	-	badil	1
+RCV_000306	snRNA	-	badil	1
+RCV_000307	snoRNA	-	badil	1
+RCV_000308	somatostatin	-	badil	1
+RCV_000309	sphingolipid metabolic process	-	badil	1
+RCV_000310	spinal cord	-	badil	1
+RCV_000311	spleen development	-	badil	1
+RCV_000312	stellate cell	-	badil	1
+RCV_000313	stem cell	-	badil	1
+RCV_000314	steroid metabolic process	-	badil	1
+RCV_000315	sterol metabolic process	-	badil	1
+RCV_000316	stomach	-	badil	1
+RCV_000317	striated muscle	-	badil	1
+RCV_000318	succinyl-CoA pathway	-	badil	1
+RCV_000319	sugar metabolism	-	badil	1
+RCV_000320	symbiosis	-	badil	1
+RCV_000321	synapse	-	badil	1
+RCV_000322	syncytium formation	-	badil	1
+RCV_000323	taxis	-	badil	1
+RCV_000324	telomere	-	badil	1
+RCV_000325	terpenoid	-	badil	1
+RCV_000326	thiamin metabolism	-	badil	1
+RCV_000327	thymine metabolism	-	badil	1
+RCV_000328	thymus	-	badil	1
+RCV_000329	thyroid	-	badil	1
+RCV_000330	toluene metabolism	-	badil	1
+RCV_000331	trachea	-	badil	1
+RCV_000332	transcription	-	badil	1
+RCV_000333	transepithelial transport	-	badil	1
+RCV_000334	transferase activity	-	badil	1
+RCV_000335	translation	-	badil	1
+RCV_000336	triglyceride	-	badil	1
+RCV_000337	ubiquitin	-	badil	1
+RCV_000338	unicellular growth	-	badil	1
+RCV_000339	unicellular organism	-	badil	1
+RCV_000340	urea metabolism	-	badil	1
+RCV_000341	ureter	-	badil	1
+RCV_000342	uterus	-	badil	1
+RCV_000343	vacuole	-	badil	1
+RCV_000344	vascular	-	badil	1
+RCV_000345	vasoconstriction	-	badil	1
+RCV_000346	vasodilation	-	badil	1
+RCV_000347	vescicle dynamics	-	badil	1
+RCV_000348	vessel	-	badil	1
+RCV_000349	vessel development	-	badil	1
+RCV_000350	virus	-	badil	1
+RCV_000351	vitamin A	-	badil	1
+RCV_000352	vitamin C	-	badil	1
+RCV_000353	vitamin D	-	badil	1
+RCV_000354	vitamin K	-	badil	1
+RCV_000355	vitamin metabolism	-	badil	1
+RCV_000356	wound healing	-	badil	1
+RCV_000357	xenobiotic	-	badil	1
+RCV_000358	yeast	-	badil	1
+RCV_000359	zinc ion homeostasis	-	badil	1
+RCV_000360	spore formation	-	badil	1
+RCV_000361	cytochrome	-	badil	1
+RCV_000362	heme metabolism	-	badil	1
+RCV_000363	uropod	-	badil	1
+RCV_000364	caspase activity	caspase activity	badil	1
