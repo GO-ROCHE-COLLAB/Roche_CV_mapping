@@ -9,7 +9,9 @@ from github_tools import issueConn
 
 # Need to work on balance between the generating script and the module
 
-# TODO: Pull from patterns directly; generate instance def and post to summary.
+# DONE: Pull from patterns directly; generate instance def and post to summary.
+
+# Rather scrappy procedural code for generating mappings.  
 
 """Reads owl_map and uses it to automatically populate RCV classes.  
 Compares these to manual mappings. Prints a results summary and results tables.
@@ -92,8 +94,10 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		summary += "* map summary: %s\n" % mo
 		if rd["Notes"]:
 			summary += "* Notes: %s\n" % rd["Notes"]
-		summary += "* [Results](%s.tsv)\n\n" % fname
-		summary += "* [Ticket](%s)" % "https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/" % issue['url']
+		summary += "* [Results](%s.tsv)\n" % fname
+		summary += "* [Ticket](%s)'\n" % issue['url']
+		summary += "* Status: %s'\n\n" % issue['state']
+
 		# Update report object using map object.  # Confusing way to work?  
 		mo.gen_report(report.rowColDict)
 		# print, sorting on manual followed by auto.  Use reverse sort order = True
