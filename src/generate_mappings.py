@@ -4,6 +4,7 @@ import sys
 import re
 import os
 import warnings
+from github_tools import issueConn
 
 
 # Need to work on balance between the generating script and the module
@@ -51,8 +52,11 @@ go = load_ont(sys.argv[1])
 summary = "## A summary of the current results, including links to results files.\n\n"
 
 
+ic = issueConn('GO-ROCHE-COLLAB', 'Roche_CV_mapping', sys.argv[1])
+ic.set_credentials_from_cl()
 
 
+# For GitHub API calls - need warnings rather than fail in order to be able to run off-line
 for RCV_id, rd in owlMap.rowColDict.items():
 	# Skip cases where class expression marked as missing or preliminary      
 	if re.match("\?.*", rd['Applied pattern']):
@@ -61,7 +65,16 @@ for RCV_id, rd in owlMap.rowColDict.items():
 			summary += "* Notes: %s\n" % rd["Notes"]
 			summary += "* Results: N/A Job not run. Specification marked as preliminary or missing.\n\n"
 		continue
-	else:
+	# If not marked as preliminary, check for tickets:
+	issue = ic.ticket_exists("Review %s %s" % (RCV_id_name[RCV_id], RCV_id))
+	#  Need to be v.careful here.  issue json not identical if created vs found.  
+	if not issue:
+		# generate ticket
+		issue = ic.create_standard_review_ticket(RCV_id, RCV_id_name[RCV_id])
+	elif issue['state'] == 'closed':
+		continue
+		
+		
 		summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
 		summary += "* Key class: [%s](http://purl.obolibrary.org/obo/%s)\n" % (rd["Key Class Name"], rd["Key Class ID"])
 		summary += "* Pattern: [%s](../../patterns/%s.md)\n" % (rd["Applied pattern"], rd["Applied pattern"])
@@ -80,6 +93,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		if rd["Notes"]:
 			summary += "* Notes: %s\n" % rd["Notes"]
 		summary += "* [Results](%s.tsv)\n\n" % fname
+		summary += "* [Ticket](%s)" % "https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/" % issue['url']
 		# Update report object using map object.  # Confusing way to work?  
 		mo.gen_report(report.rowColDict)
 		# print, sorting on manual followed by auto.  Use reverse sort order = True
