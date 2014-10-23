@@ -61,9 +61,9 @@ NK T cell differentiation	GO_0001865	1	0	1	0
 negative regulation of natural killer cell degranulation	GO_0043322	1	0	1	0
 regulation of natural killer cell activation	GO_0032814	1	0	1	0
 regulation of natural killer cell degranulation	GO_0043321	1	0	1	0
-natural killer cell proliferation involved in immune response	GO_0002324	0	1	0	0
-natural killer cell differentiation involved in immune response	GO_0002325	0	1	0	0
-natural killer cell activation involved in immune response	GO_0002323	0	1	0	0
-suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0
-evasion by virus of host natural killer cell activity	GO_0039671	0	1	0	0
-natural killer cell mediated immune response to tumor cell	GO_0002423	0	1	0	0
+natural killer cell proliferation involved in immune response	GO_0002324	0	1	1	0
+natural killer cell differentiation involved in immune response	GO_0002325	0	1	1	0
+natural killer cell activation involved in immune response	GO_0002323	0	1	1	0
+suppression by virus of host natural killer cell activation	GO_0039672	0	1	1	0
+evasion by virus of host natural killer cell activity	GO_0039671	0	1	1	0
+natural killer cell mediated immune response to tumor cell	GO_0002423	0	1	1	0

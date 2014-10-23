@@ -40,6 +40,6 @@ positive regulation of response to DNA damage stimulus	GO_2001022	1	0	1	0
 cellular response to DNA damage stimulus	GO_0006974	1	0	1	0
 negative regulation of response to DNA damage stimulus	GO_2001021	1	0	1	0
 regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	1	0	1	0
-detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	0	0
-detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	0	0
-detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	0	0
+detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	0	1
+detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	0	1
+detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	0	1

@@ -5,12 +5,12 @@ antisense RNA transcription	GO_0009300	1	0	1	0
 production of ta-siRNAs involved in RNA interference	GO_0010267	0	1	1	0
 production of lsiRNA involved in RNA interference	GO_0010599	0	1	1	0
 conversion of ds siRNA to ss siRNA involved in RNA interference	GO_0033168	0	1	1	0
-3' transitive RNA interference	GO_1990515	0	1	0	0
-5' transitive RNA interference	GO_1990514	0	1	0	0
+3' transitive RNA interference	GO_1990515	0	1	1	0
+5' transitive RNA interference	GO_1990514	0	1	1	0
 production of siRNA involved in RNA interference	GO_0030422	0	1	1	0
 negative regulation of translation involved in RNA interference	GO_0070549	0	1	1	0
 transitive RNA interference	GO_0036453	0	1	1	0
 targeting of mRNA for destruction involved in RNA interference	GO_0030423	0	1	1	0
-RNA interference involved in olfactory learning	GO_1903453	0	1	0	0
+RNA interference involved in olfactory learning	GO_1903453	0	1	1	0
 siRNA loading onto RISC involved in RNA interference	GO_0035087	0	1	1	0
 RNA interference	GO_0016246	0	1	1	0
