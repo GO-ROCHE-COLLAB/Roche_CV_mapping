@@ -1,8 +1,8 @@
 name	ID	manual	auto	checked	blacklisted
 cis-acting DNA replication termination	GO_0071946	1	0	1	0
-replication fork arrest at rDNA repeats	GO_0031582	0	1	0	0
-negative regulation of DNA-dependent DNA replication initiation	GO_0032297	0	1	0	0
 replication fork arrest	GO_0043111	0	1	0	0
+negative regulation of DNA-dependent DNA replication initiation	GO_0032297	0	1	0	0
+replication fork arrest at rDNA repeats	GO_0031582	0	1	0	0
 negative regulation of telomerase activity	GO_0051974	0	1	0	0
 negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	0	0
 replication fork protection	GO_0048478	0	1	0	0
