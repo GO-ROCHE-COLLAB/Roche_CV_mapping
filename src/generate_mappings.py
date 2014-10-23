@@ -52,7 +52,7 @@ go = load_ont(sys.argv[1])
 
 summary = "## A summary of the current results, including links to results files & issues.\n\n"
 
-
+# TODO - sort summary output on issue stat and then alphanumerically. 
 
 for RCV_id, rd in owlMap.rowColDict.items():
 	# Skip cases where class expression marked as missing or preliminary      
@@ -62,7 +62,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 			summary += "* Notes: %s\n" % rd["Notes"]
 			summary += "* Results: N/A Job not run. Specification marked as preliminary or missing.\n\n"
 		continue
-
+	else:
 		summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
 		summary += "* Key class: [%s](http://purl.obolibrary.org/obo/%s)\n" % (rd["Key Class Name"], rd["Key Class ID"])
 		summary += "* Pattern: [%s](../../patterns/%s.md)\n" % (rd["Applied pattern"], rd["Applied pattern"])
@@ -88,7 +88,6 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		mo.gen_report(report.rowColDict)
 		# print, sorting on manual followed by auto.  Use reverse sort order = True
 		out = report.print_tab(("manual","auto"), True)
-		# Modify owl_map to add ticket number:
 
 		# only print a new results file if it has anything in it.
 		if out:
@@ -97,7 +96,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 				outfile.close()
 				
 
-summary_file = open("../mapping_tables/results/results_summary.md", "w+")
+summary_file = open("../mapping_tables/results/results_summary.md", "w")
 summary_file.write(summary)
 summary_file.close()
 go.sleep()

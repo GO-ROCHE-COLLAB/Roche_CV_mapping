@@ -55,6 +55,8 @@ class map_obj:
 		
 	def gen_report(self, report_tab):
 		"""Generate report for 'Roche CV term'.  Arg (report) = a results table as row_column_dict."""
+		### Spec - this only needs to remember content if there is a 1 in either checked or blacklisted.
+		### It should never make inferences about 
 		keys = set(self.generated_list) | set(self.manual_list) # Make union of two lists => complete set of keys.
 		for key in keys:
 			# Add key for row, if not already present
@@ -74,7 +76,14 @@ class map_obj:
 				report_tab[key]['auto'] = 0
 			# 
 			if report_tab[key]['blacklisted']:
-				self.blacklist.append(key)
+				self.blacklist.append(key)  # Not using this right now...
+			
+			#  Need something 
+			rtk = report_tab.keys()
+			for k in rtk:
+				if k not in keys:
+					del report_tab[k]
+					
 
 	def update_id_name(self, ont):
 		# Perhaps should be dealt with outside?  Could have a class object.  But then might be easier to do all this purely in OWL/Brain!
