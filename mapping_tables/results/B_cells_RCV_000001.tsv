@@ -123,25 +123,25 @@ positive regulation of B cell mediated immunity	GO_0002714	1	0	1	0
 B cell receptor transport into immunological synapse	GO_0032598	1	0	1	0
 B cell antigen processing and presentation mediated by B cell receptor uptake of antigen	GO_0002417	1	0	1	0
 B cell receptor signaling pathway	GO_0050853	1	0	1	0
-antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0
-type IIb hypersensitivity	GO_0001795	0	1	0	0
-B cell activation involved in immune response	GO_0002312	0	1	0	0
-isotype switching to IgG isotypes	GO_0048291	0	1	0	0
-type II hypersensitivity	GO_0002445	0	1	0	0
-immune complex formation	GO_0097281	0	1	0	0
-type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0
-plasma cell differentiation	GO_0002317	0	1	0	0
-type I hypersensitivity	GO_0016068	0	1	0	0
-immunoglobulin-mediated neutralization	GO_0097282	0	1	0	0
-isotype switching to IgE isotypes	GO_0048289	0	1	0	0
-mature B cell differentiation involved in immune response	GO_0002313	0	1	0	0
-isotype switching to IgD isotypes	GO_0048292	0	1	0	0
-isotype switching to IgA isotypes	GO_0048290	0	1	0	0
-immunoglobulin mediated immune response	GO_0016064	0	1	0	0
-type III hypersensitivity	GO_0001802	0	1	0	0
-B cell proliferation involved in immune response	GO_0002322	0	1	0	0
-interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
-type IIa hypersensitivity	GO_0001794	0	1	0	0
-isotype switching	GO_0045190	0	1	0	0
-type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0
-humoral immune response mediated by circulating immunoglobulin	GO_0002455	0	1	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	0	1	1	0
+type IIb hypersensitivity	GO_0001795	0	1	1	0
+B cell activation involved in immune response	GO_0002312	0	1	1	0
+isotype switching to IgG isotypes	GO_0048291	0	1	1	0
+type II hypersensitivity	GO_0002445	0	1	1	0
+immune complex formation	GO_0097281	0	1	1	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0
+plasma cell differentiation	GO_0002317	0	1	1	0
+type I hypersensitivity	GO_0016068	0	1	1	0
+immunoglobulin-mediated neutralization	GO_0097282	0	1	1	0
+isotype switching to IgE isotypes	GO_0048289	0	1	1	0
+mature B cell differentiation involved in immune response	GO_0002313	0	1	1	0
+isotype switching to IgD isotypes	GO_0048292	0	1	1	0
+isotype switching to IgA isotypes	GO_0048290	0	1	1	0
+immunoglobulin mediated immune response	GO_0016064	0	1	1	0
+type III hypersensitivity	GO_0001802	0	1	1	0
+B cell proliferation involved in immune response	GO_0002322	0	1	1	0
+interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	1	0
+type IIa hypersensitivity	GO_0001794	0	1	1	0
+isotype switching	GO_0045190	0	1	1	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	1	0
+humoral immune response mediated by circulating immunoglobulin	GO_0002455	0	1	1	0
