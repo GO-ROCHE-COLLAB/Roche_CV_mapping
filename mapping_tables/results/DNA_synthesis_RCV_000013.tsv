@@ -2,33 +2,33 @@ name	ID	manual	auto	checked	blacklisted
 nucleotide-sugar metabolic process	GO_0009225	1	0	1	0
 nucleotide-sugar catabolic process	GO_0009227	1	0	1	0
 nucleotide-sugar biosynthetic process	GO_0009226	1	0	1	0
-error-free translesion synthesis	GO_0070987	0	1	0	0
-DNA synthesis involved in double-strand break repair via homologous recombination	GO_0043150	0	1	0	0
-eggshell chorion gene amplification	GO_0007307	0	1	0	0
-DNA synthesis involved in double-strand break repair via single-strand annealing	GO_0043151	0	1	0	0
-DNA polymerase activity	GO_0034061	0	1	0	0
-negative regulation of telomerase activity	GO_0051974	0	1	0	0
-meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0
-meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0
-translesion synthesis	GO_0019985	0	1	0	0
-gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	0	0
-positive regulation of DNA biosynthetic process	GO_2000573	0	1	0	0
-DNA amplification	GO_0006277	0	1	0	0
-DNA synthesis involved in DNA repair	GO_0000731	0	1	0	0
-regulation of telomerase activity	GO_0051972	0	1	0	0
-RNA-directed DNA polymerase activity	GO_0003964	0	1	0	0
-positive regulation of DNA-directed DNA polymerase activity	GO_1900264	0	1	0	0
-DNA-directed DNA polymerase activity	GO_0003887	0	1	0	0
-meiotic DNA repair synthesis	GO_0000711	0	1	0	0
-negative regulation of DNA-directed DNA polymerase activity	GO_1900263	0	1	0	0
-template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	0	0
-DNA synthesis involved in DNA replication	GO_0090592	0	1	0	0
-regulation of DNA biosynthetic process	GO_2000278	0	1	0	0
-telomerase inhibitor activity	GO_0010521	0	1	0	0
-negative regulation of DNA biosynthetic process	GO_2000279	0	1	0	0
-error-prone translesion synthesis	GO_0042276	0	1	0	0
-regulation of DNA-directed DNA polymerase activity	GO_1900262	0	1	0	0
-DNA biosynthetic process	GO_0071897	0	1	0	0
-telomerase activity	GO_0003720	0	1	0	0
-positive regulation of telomerase activity	GO_0051973	0	1	0	0
-telomeric template RNA reverse transcriptase activity	GO_0003721	0	1	0	0
+error-free translesion synthesis	GO_0070987	0	1	1	0
+DNA synthesis involved in double-strand break repair via homologous recombination	GO_0043150	0	1	1	0
+eggshell chorion gene amplification	GO_0007307	0	1	1	0
+DNA synthesis involved in double-strand break repair via single-strand annealing	GO_0043151	0	1	1	0
+DNA polymerase activity	GO_0034061	0	1	1	0
+negative regulation of telomerase activity	GO_0051974	0	1	1	0
+meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	1	0
+meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	1	0
+translesion synthesis	GO_0019985	0	1	1	0
+gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	1	0
+positive regulation of DNA biosynthetic process	GO_2000573	0	1	1	0
+DNA amplification	GO_0006277	0	1	1	0
+DNA synthesis involved in DNA repair	GO_0000731	0	1	1	0
+regulation of telomerase activity	GO_0051972	0	1	1	0
+RNA-directed DNA polymerase activity	GO_0003964	0	1	1	0
+positive regulation of DNA-directed DNA polymerase activity	GO_1900264	0	1	1	0
+DNA-directed DNA polymerase activity	GO_0003887	0	1	1	0
+meiotic DNA repair synthesis	GO_0000711	0	1	1	0
+negative regulation of DNA-directed DNA polymerase activity	GO_1900263	0	1	1	0
+template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	1	0
+DNA synthesis involved in DNA replication	GO_0090592	0	1	1	0
+regulation of DNA biosynthetic process	GO_2000278	0	1	1	0
+telomerase inhibitor activity	GO_0010521	0	1	1	0
+negative regulation of DNA biosynthetic process	GO_2000279	0	1	1	0
+error-prone translesion synthesis	GO_0042276	0	1	1	0
+regulation of DNA-directed DNA polymerase activity	GO_1900262	0	1	1	0
+DNA biosynthetic process	GO_0071897	0	1	1	0
+telomerase activity	GO_0003720	0	1	1	0
+positive regulation of telomerase activity	GO_0051973	0	1	1	0
+telomeric template RNA reverse transcriptase activity	GO_0003721	0	1	1	0
