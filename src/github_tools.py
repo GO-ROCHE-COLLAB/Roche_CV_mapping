@@ -27,7 +27,7 @@ class issueConn:
         # Add in a connection test here?
     
     def test_conn(self):
-       return requests.get(self.issues_url, auth=self.AUTH)
+        return requests.get(self.issues_url, auth=self.AUTH)
         
         
     def __str__(self):

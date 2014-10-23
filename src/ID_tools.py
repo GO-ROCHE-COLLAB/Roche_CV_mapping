@@ -46,8 +46,8 @@ def test_gen_id():
     if (k == 'HSNT:00000004') & (hsnt.id_name[k] == 'toes'):
         return True
     else: 
-       warnings.warn('gen_id is broken')
-       return False
+        warnings.warn('gen_id is broken')
+        return False
 
 
 test_gen_id()
