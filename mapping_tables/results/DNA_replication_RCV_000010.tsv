@@ -48,19 +48,20 @@ replication fork arrest at rDNA repeats	GO_0031582	0	1	0	0
 meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	0	0
 replication of extrachromosomal rDNA circles involved in replicative cell aging	GO_0001312	0	1	0	0
 DNA duplex unwinding involved in meiotic DNA replication	GO_1902970	0	1	0	0
-telomere maintenance via telomerase	GO_0007004	0	1	0	0
-rolling hairpin viral DNA replication	GO_0039685	0	1	0	0
 mitotic DNA replication initiation	GO_1902975	0	1	0	0
-premeiotic DNA replication	GO_0006279	0	1	0	0
+rolling hairpin viral DNA replication	GO_0039685	0	1	0	0
+telomere maintenance via telomerase	GO_0007004	0	1	0	0
 site-specific DNA replication termination at RTS1 barrier	GO_0071171	0	1	0	0
+premeiotic DNA replication	GO_0006279	0	1	0	0
 Okazaki fragment processing involved in mitotic DNA replication	GO_1903461	0	1	0	0
-replication fork reversal	GO_0071932	0	1	0	0
 regulation of replication fork arrest at rDNA repeats	GO_1902681	0	1	0	0
+replication fork reversal	GO_0071932	0	1	0	0
 DNA replication initiation involved in nuclear cell cycle DNA replication	GO_1902315	0	1	0	0
-gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0
 theta DNA replication	GO_0070582	0	1	0	0
+gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0
 DNA replication initiation from late origin	GO_0061487	0	1	0	0
 lagging strand elongation	GO_0006273	0	1	0	0
+maintenance of fidelity involved in mitotic DNA replication	GO_1990510	0	1	0	0
 positive regulation of DNA endoreduplication	GO_0032877	0	1	0	0
 negative regulation of DNA replication	GO_0008156	0	1	0	0
 regulation of telomerase activity	GO_0051972	0	1	0	0
@@ -68,11 +69,12 @@ DNA endoreduplication	GO_0042023	0	1	0	0
 replication of extrachromosomal circular DNA	GO_0001326	0	1	0	0
 replication fork arrest	GO_0043111	0	1	0	0
 negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	0	0
-regulation of DNA endoreduplication	GO_0032875	0	1	0	0
 DNA strand elongation involved in mitotic DNA replication	GO_1902983	0	1	0	0
+regulation of DNA endoreduplication	GO_0032875	0	1	0	0
 regulation of mitochondrial DNA replication	GO_0090296	0	1	0	0
-DNA ligation involved in cell cycle DNA replication	GO_1902291	0	1	0	0
+ribonucleotide excision repair	GO_1990516	0	1	0	0
 regulation of mitotic recombination involved in replication fork processing	GO_1903221	0	1	0	0
+DNA ligation involved in cell cycle DNA replication	GO_1902291	0	1	0	0
 positive regulation of DNA-dependent DNA replication	GO_2000105	0	1	0	0
 pre-replicative complex assembly involved in cell cycle DNA replication	GO_1902299	0	1	0	0
 RNA-directed DNA polymerase activity	GO_0003964	0	1	0	0
@@ -96,8 +98,8 @@ rolling circle single-stranded viral DNA replication	GO_0039684	0	1	0	0
 pre-replicative complex assembly involved in nuclear cell cycle DNA replication	GO_0006267	0	1	0	0
 removal of RNA primer involved in mitotic DNA replication	GO_1903469	0	1	0	0
 rolling circle double-stranded viral DNA replication	GO_0039683	0	1	0	0
-cell cycle DNA replication	GO_0044786	0	1	0	0
 replication fork progression beyond termination site	GO_0097046	0	1	0	0
+cell cycle DNA replication	GO_0044786	0	1	0	0
 reverse transcription involved in RNA-mediated transposition	GO_0032199	0	1	0	0
 replication fork protection	GO_0048478	0	1	0	0
 meiotic DNA replication preinitiation complex assembly	GO_1902976	0	1	0	0
@@ -108,6 +110,7 @@ DNA strand elongation involved in nuclear cell cycle DNA replication	GO_1902319	
 DNA replication termination involved in bacterial-type DNA replication	GO_1902329	0	1	0	0
 regulation of mitotic DNA replication initiation	GO_1903466	0	1	0	0
 pre-replicative complex assembly involved in meiotic DNA replication	GO_1902984	0	1	0	0
+maintenance of fidelity involved in mitotic cell cycle DNA replication	GO_1990505	0	1	0	0
 mitotic recombination involved in replication fork processing	GO_1903211	0	1	0	0
 negative regulation of DNA replication initiation involved in plasmid copy number maintenance	GO_0060910	0	1	0	0
 signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	0	1	0	0
@@ -117,11 +120,11 @@ leading strand elongation involved in mitotic DNA replication	GO_1903460	0	1	0	0
 negative regulation of DNA endoreduplication	GO_0032876	0	1	0	0
 negative regulation of mitochondrial DNA replication	GO_0090298	0	1	0	0
 DNA strand elongation involved in bacterial-type DNA replication	GO_1902331	0	1	0	0
-viral DNA genome replication	GO_0039693	0	1	0	0
 DNA replication termination involved in nuclear cell cycle DNA replication	GO_1902317	0	1	0	0
-telomeric template RNA reverse transcriptase activity	GO_0003721	0	1	0	0
-pre-replicative complex assembly	GO_0036388	0	1	0	0
+viral DNA genome replication	GO_0039693	0	1	0	0
 DNA ligation involved in mitotic DNA replication	GO_1902973	0	1	0	0
+pre-replicative complex assembly	GO_0036388	0	1	0	0
+telomeric template RNA reverse transcriptase activity	GO_0003721	0	1	0	0
 DNA unwinding involved in cell cycle DNA replication	GO_1902297	0	1	0	0
 DNA ligation involved in meiotic DNA replication	GO_1902972	0	1	0	0
 DNA replication termination involved in meiotic DNA replication	GO_1902978	0	1	0	0
@@ -134,11 +137,12 @@ DNA replication initiation involved in cell cycle DNA replication	GO_1902292	0	1
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	0	0
 mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	GO_0070716	0	1	0	0
 mitotic pre-replicative complex assembly	GO_1902985	0	1	0	0
-DNA synthesis involved in DNA replication	GO_0090592	0	1	0	0
 meiotic cell cycle DNA replication	GO_1902968	0	1	0	0
+DNA synthesis involved in DNA replication	GO_0090592	0	1	0	0
+mitotic DNA-dependent DNA replication	GO_1990506	0	1	0	0
 telomere maintenance via semi-conservative replication	GO_0032201	0	1	0	0
-rolling circle viral DNA replication	GO_0039682	0	1	0	0
 viral DNA strand displacement replication	GO_0039687	0	1	0	0
+rolling circle viral DNA replication	GO_0039682	0	1	0	0
 homologous recombination-dependent replication fork processing	GO_1990426	0	1	0	0
 bacterial-type DNA replication	GO_0044787	0	1	0	0
 negative regulation of telomere maintenance via telomerase	GO_0032211	0	1	0	0
@@ -153,21 +157,21 @@ replication fork arrest at tRNA locus	GO_0090001	0	1	0	0
 positive regulation of mitochondrial DNA replication	GO_0090297	0	1	0	0
 reverse transcription	GO_0001171	0	1	0	0
 replication fork arrest involved in DNA replication termination	GO_0071807	0	1	0	0
-telomerase inhibitor activity	GO_0010521	0	1	0	0
 DNA replication termination involved in cell cycle DNA replication	GO_1902294	0	1	0	0
-positive regulation of DNA replication	GO_0045740	0	1	0	0
+telomerase inhibitor activity	GO_0010521	0	1	0	0
 DNA replication initiation involved in bacterial-type DNA replication	GO_1902328	0	1	0	0
+positive regulation of DNA replication	GO_0045740	0	1	0	0
 DNA duplex unwinding involved in nuclear cell cycle DNA replication	GO_1902320	0	1	0	0
 positive regulation of reverse transcription	GO_1900270	0	1	0	0
 positive regulation of mitotic cell cycle DNA replication	GO_1903465	0	1	0	0
 mitotic DNA replication termination	GO_1902979	0	1	0	0
 positive regulation of telomere maintenance via telomerase	GO_0032212	0	1	0	0
-template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	0	0
-DNA primase activity	GO_0003896	0	1	0	0
 positive regulation of DNA-dependent DNA replication initiation	GO_0032298	0	1	0	0
+DNA primase activity	GO_0003896	0	1	0	0
+template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	0	0
 negative regulation of mitotic cell cycle DNA replication	GO_1903464	0	1	0	0
-replication fork processing at rDNA locus	GO_0034065	0	1	0	0
 synthesis of RNA primer involved in cell cycle DNA replication	GO_1902295	0	1	0	0
+replication fork processing at rDNA locus	GO_0034065	0	1	0	0
 DNA duplex unwinding involved in bacterial-type DNA replication	GO_1902332	0	1	0	0
 site-specific DNA replication termination	GO_0071170	0	1	0	0
 viral double stranded DNA replication via reverse transcription	GO_0039688	0	1	0	0
@@ -178,5 +182,5 @@ bidirectional double-stranded viral DNA replication	GO_0039686	0	1	0	0
 plastid DNA replication	GO_0033259	0	1	0	0
 replication fork arrest at mating type locus	GO_0011000	0	1	0	0
 negative regulation of DNA-dependent DNA replication	GO_2000104	0	1	0	0
-replication of extrachromosomal circular DNA involved in replicative cell aging	GO_0001314	0	1	0	0
 negative regulation of mitotic DNA replication initiation	GO_1903467	0	1	0	0
+replication of extrachromosomal circular DNA involved in replicative cell aging	GO_0001314	0	1	0	0
