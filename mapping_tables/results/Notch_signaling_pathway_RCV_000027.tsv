@@ -9,6 +9,6 @@ Notch signaling involved in heart development	GO_0061314	1	1	1	0
 Notch receptor processing, ligand-independent	GO_0035334	1	0	1	0
 Notch receptor processing	GO_0007220	1	0	1	0
 Notch receptor processing, ligand-dependent	GO_0035333	1	0	1	0
-Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment	GO_2000796	0	1	0	0
-Notch signaling pathway involved in somitogenesis	GO_1902359	0	1	0	0
-Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	0	0
+Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment	GO_2000796	0	1	1	0
+Notch signaling pathway involved in somitogenesis	GO_1902359	0	1	1	0
+Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	1	0
