@@ -46,17 +46,17 @@ second U12-type spliceosomal transesterification activity	GO_0000367	1	0	1	0
 mRNA splicing	GO_0006371	1	0	1	0
 splicing factor protein import into nucleus	GO_0035048	1	0	1	0
 second U2-type spliceosomal transesterification activity	GO_0000364	1	0	1	0
-RNA exon ligation	GO_0000378	0	1	0	0
-mRNA 5'-splice site recognition	GO_0000395	0	1	0	0
-mRNA branch site recognition	GO_0000348	0	1	0	0
-HAC1-type intron splice site recognition and cleavage	GO_0070055	0	1	0	0
-tRNA exon ligation utilizing ATP as source of linkage phosphate	GO_0000969	0	1	0	0
-tRNA exon ligation	GO_0000968	0	1	0	0
-tRNA splicing, via endonucleolytic cleavage and ligation	GO_0006388	0	1	0	0
-U2-type prespliceosome assembly	GO_1903241	0	1	0	0
-tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate	GO_0000971	0	1	0	0
-tRNA exon ligation utilizing GTP as source of linkage phosphate	GO_0000970	0	1	0	0
-suppression by virus of host mRNA splicing	GO_0046780	0	1	0	0
-mRNA splice site selection	GO_0006376	0	1	0	0
-tRNA-type intron splice site recognition and cleavage	GO_0000379	0	1	0	0
-mRNA 3'-splice site recognition	GO_0000389	0	1	0	0
+RNA exon ligation	GO_0000378	0	1	1	0
+mRNA 5'-splice site recognition	GO_0000395	0	1	1	0
+mRNA branch site recognition	GO_0000348	0	1	1	0
+HAC1-type intron splice site recognition and cleavage	GO_0070055	0	1	1	0
+tRNA exon ligation utilizing ATP as source of linkage phosphate	GO_0000969	0	1	1	0
+tRNA exon ligation	GO_0000968	0	1	1	0
+tRNA splicing, via endonucleolytic cleavage and ligation	GO_0006388	0	1	1	0
+U2-type prespliceosome assembly	GO_1903241	0	1	1	0
+tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate	GO_0000971	0	1	1	0
+tRNA exon ligation utilizing GTP as source of linkage phosphate	GO_0000970	0	1	1	0
+suppression by virus of host mRNA splicing	GO_0046780	0	1	1	0
+mRNA splice site selection	GO_0006376	0	1	1	0
+tRNA-type intron splice site recognition and cleavage	GO_0000379	0	1	1	0
+mRNA 3'-splice site recognition	GO_0000389	0	1	1	0
