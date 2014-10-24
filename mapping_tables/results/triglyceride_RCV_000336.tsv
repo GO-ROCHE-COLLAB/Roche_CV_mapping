@@ -1,13 +1,13 @@
 name	ID	manual	auto	checked	blacklisted
 triglyceride transport	GO_0034197	1	1	1	0
 triglyceride acyl-chain remodeling	GO_0036153	1	1	1	0
-triglyceride catabolic process	GO_0019433	1	1	1	0
-triglyceride mobilization	GO_0006642	1	1	1	0
 triglyceride metabolic process	GO_0006641	1	1	1	0
+triglyceride mobilization	GO_0006642	1	1	1	0
+triglyceride catabolic process	GO_0019433	1	1	1	0
 triglyceride biosynthetic process	GO_0019432	1	1	1	0
 triglyceride homeostasis	GO_0070328	1	0	1	0
 triglyceride-rich lipoprotein particle remodeling	GO_0034370	1	0	1	0
 triglyceride-rich lipoprotein particle clearance	GO_0071830	1	0	1	0
+triglyceride binding	GO_0017129	0	1	1	0
 response to triglyceride	GO_0034014	0	1	1	0
 cellular response to triglyceride	GO_0071401	0	1	1	0
-triglyceride binding	GO_0017129	0	1	1	0
