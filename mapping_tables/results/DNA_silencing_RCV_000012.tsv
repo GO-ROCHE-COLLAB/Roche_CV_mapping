@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted
 siRNA loading onto RISC involved in chromatin silencing by small RNA	GO_0070923	1	1	1	0
-regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	1	1	0	1
+regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	1	1	1	1
 regulation of methylation-dependent chromatin silencing	GO_0090308	1	1	1	0
 production of siRNA involved in chromatin silencing by small RNA	GO_0070919	1	1	1	0
 positive regulation of methylation-dependent chromatin silencing	GO_0090309	1	1	1	0
@@ -17,32 +17,32 @@ establishment of chromatin silencing at silent mating-type cassette	GO_0035389	1
 establishment of chromatin silencing	GO_0006343	1	1	1	0
 C-5 methylation on cytosine involved in chromatin silencing	GO_0090115	1	1	1	0
 regulation of production of small RNA involved in gene silencing by RNA	GO_0070920	1	0	1	0
-regulation of posttranscriptional gene silencing	GO_0060147	1	0	0	1
-regulation of gene silencing by miRNA	GO_0060964	1	0	0	1
-regulation of gene silencing by RNA	GO_0060966	1	0	0	1
-regulation of gene silencing	GO_0060968	1	0	0	1
-production of small RNA involved in gene silencing by RNA	GO_0070918	1	0	0	1
-production of miRNAs involved in gene silencing by miRNA	GO_0035196	1	0	0	1
-posttranscriptional gene silencing by RNA	GO_0035194	1	0	0	1
-posttranscriptional gene silencing	GO_0016441	1	0	0	1
-positive regulation of posttranscriptional gene silencing	GO_0060148	1	0	0	1
-positive regulation of gene silencing by miRNA	GO_2000637	1	0	0	1
-negative regulation of translation involved in gene silencing by miRNA	GO_0035278	1	0	0	1
-negative regulation of posttranscriptional gene silencing	GO_0060149	1	0	0	1
-negative regulation of gene silencing by miRNA	GO_0060965	1	0	0	1
-negative regulation of gene silencing by RNA	GO_0060967	1	0	0	1
-negative regulation of gene silencing	GO_0060969	1	0	0	1
-miRNA loading onto RISC involved in gene silencing by miRNA	GO_0035280	1	0	0	1
-mRNA cleavage involved in gene silencing by miRNA	GO_0035279	1	0	0	1
-long-distance posttranscriptional gene silencing	GO_0010495	1	0	0	1
-host gene silencing in virus induced gene silencing	GO_0060146	1	0	0	1
-host cellular process involved in virus induced gene silencing	GO_0060144	1	0	0	1
-gene silencing involved in chronological cell aging	GO_0010978	1	0	0	1
-gene silencing by miRNA	GO_0035195	1	0	0	1
-gene silencing by RNA	GO_0031047	1	0	0	1
-gene silencing	GO_0016458	1	0	0	1
-co-transcriptional gene silencing by RNA interference machinery	GO_0033562	1	0	0	1
-RNA virus induced gene silencing	GO_0051214	1	0	0	1
+regulation of posttranscriptional gene silencing	GO_0060147	1	0	1	1
+regulation of gene silencing by miRNA	GO_0060964	1	0	1	1
+regulation of gene silencing by RNA	GO_0060966	1	0	1	1
+regulation of gene silencing	GO_0060968	1	0	1	1
+production of small RNA involved in gene silencing by RNA	GO_0070918	1	0	1	1
+production of miRNAs involved in gene silencing by miRNA	GO_0035196	1	0	1	1
+posttranscriptional gene silencing by RNA	GO_0035194	1	0	1	1
+posttranscriptional gene silencing	GO_0016441	1	0	1	1
+positive regulation of posttranscriptional gene silencing	GO_0060148	1	0	1	1
+positive regulation of gene silencing by miRNA	GO_2000637	1	0	1	1
+negative regulation of translation involved in gene silencing by miRNA	GO_0035278	1	0	1	1
+negative regulation of posttranscriptional gene silencing	GO_0060149	1	0	1	1
+negative regulation of gene silencing by miRNA	GO_0060965	1	0	1	1
+negative regulation of gene silencing by RNA	GO_0060967	1	0	1	1
+negative regulation of gene silencing	GO_0060969	1	0	1	1
+miRNA loading onto RISC involved in gene silencing by miRNA	GO_0035280	1	0	1	1
+mRNA cleavage involved in gene silencing by miRNA	GO_0035279	1	0	1	1
+long-distance posttranscriptional gene silencing	GO_0010495	1	0	1	1
+host gene silencing in virus induced gene silencing	GO_0060146	1	0	1	1
+host cellular process involved in virus induced gene silencing	GO_0060144	1	0	1	1
+gene silencing involved in chronological cell aging	GO_0010978	1	0	1	1
+gene silencing by miRNA	GO_0035195	1	0	1	1
+gene silencing by RNA	GO_0031047	1	0	1	1
+gene silencing	GO_0016458	1	0	1	1
+co-transcriptional gene silencing by RNA interference machinery	GO_0033562	1	0	1	1
+RNA virus induced gene silencing	GO_0051214	1	0	1	1
 transfer RNA gene-mediated silencing	GO_0061587	0	1	1	0
 regulation of chromatin silencing by small RNA	GO_0010964	0	1	1	0
 regulation of chromatin silencing at telomere	GO_0031938	0	1	1	0

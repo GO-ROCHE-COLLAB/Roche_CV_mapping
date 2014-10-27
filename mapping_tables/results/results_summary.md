@@ -8,7 +8,7 @@
 * Notes: Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.
 * [Results](B_cells_RCV_000001.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/44)
-* Status: open
+* Status: closed
 
 #### TLRx pathway RCV_000041
 * Key class: [toll-like receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0002224)
@@ -16,8 +16,8 @@
 * Definition: toll-like receptor signaling pathway OR a part of toll-like receptor signaling pathway OR a process that regulates toll-like receptor signaling pathway
 * map summary: Roche_cvt: RCV_000041; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0002224; manual_list_count 87, generated_list_count 85
 * [Results](TLRx_pathway_RCV_000041.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/64)
+* Status: open
 
 #### DNA repair RCV_000009
 * Key class: [DNA repair](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006281)
@@ -36,8 +36,8 @@
 * map summary: Roche_cvt: RCV_000040; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0071560; manual_list_count 42, generated_list_count 20
 * Notes: 1
 * [Results](TGF_beta_pathway_RCV_000040.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/68)
+* Status: open
 
 #### NF-kappaB pathway RCV_000024
 * Key class: [I-kappaB kinase/NF-kappaB signaling](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007249)
@@ -73,7 +73,7 @@
 * map summary: Roche_cvt: RCV_000011; class_expression GO_0008156; manual_list_count 1, generated_list_count 20
 * Notes: Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?
 * [Results](DNA_replication_negative_RCV_000011.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/58)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/20)
 * Status: open
 
 #### G-protein RCV_000017
@@ -97,7 +97,7 @@
 * Notes: Laura: Looks good?
 * [Results](DNA_binding_process_RCV_000005.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/40)
-* Status: open
+* Status: closed
 
 #### TRAIL production RCV_000043
 * Key class: [TRAIL biosynthetic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045553)
@@ -105,8 +105,8 @@
 * Definition: As for TRAIL biosynthetic process.
 * map summary: Roche_cvt: RCV_000043; class_expression GO_0045553; manual_list_count 5, generated_list_count 1
 * [Results](TRAIL_production_RCV_000043.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/67)
+* Status: open
 
 #### SMAD pathway RCV_000033
 * Key class: [SMAD protein signal transduction](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060395)
@@ -124,7 +124,7 @@
 * map summary: Roche_cvt: RCV_000019; class_expression GO_0007186; manual_list_count 40, generated_list_count 91
 * Notes: Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?
 * [Results](GPCR_signaling_RCV_000019.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/51)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/14)
 * Status: open
 
 #### DNA recombination RCV_000008
@@ -152,7 +152,7 @@
 * Definition: neurotrophin signaling pathway OR a part of neurotrophin signaling pathway OR a process that regulates neurotrophin signaling pathway
 * map summary: Roche_cvt: RCV_000025; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038180; manual_list_count 3, generated_list_count 5
 * [Results](NGF_pathway_RCV_000025.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/36)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/65)
 * Status: open
 
 #### NK cells RCV_000026
@@ -175,13 +175,13 @@
 * Status: open
 
 #### UDP metabolism RCV_000044
-* Key class: [UDP metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046048)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for UDP metabolic process.
-* map summary: Roche_cvt: RCV_000044; class_expression GO_0046048; manual_list_count 38, generated_list_count 3
+* Key class: [UDP-sugar](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17297)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some UDP-sugar participates.
+* map summary: Roche_cvt: RCV_000044; class_expression RO_0000057 some CHEBI_17297; manual_list_count 38, generated_list_count 38
 * [Results](UDP_metabolism_RCV_000044.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/69)
+* Status: open
 
 #### MAPK signalling RCV_000022
 * Key class: [MAPK cascade](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000165)
@@ -199,7 +199,7 @@
 * map summary: Roche_cvt: RCV_000035; class_expression GO_0007260; manual_list_count 9, generated_list_count 8
 * [Results](STATx_phosphorylation_RCV_000035.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/50)
-* Status: open
+* Status: closed
 
 #### FGF pathway RCV_000016
 * Key class: [fibroblast growth factor receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008543)
@@ -217,7 +217,7 @@
 * map summary: Roche_cvt: RCV_000032; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0008380; manual_list_count 47, generated_list_count 51
 * [Results](RNA_splicing_RCV_000032.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/52)
-* Status: open
+* Status: closed
 
 #### DNA synthesis RCV_000013
 * Key class: [DNA biosynthetic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0071897)
@@ -226,7 +226,7 @@
 * map summary: Roche_cvt: RCV_000013; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0071897; manual_list_count 3, generated_list_count 30
 * [Results](DNA_synthesis_RCV_000013.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/60)
-* Status: open
+* Status: closed
 
 #### BMP pathway RCV_000003
 * Key class: [BMP pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030509)
@@ -282,16 +282,16 @@
 * map summary: Roche_cvt: RCV_000029; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0007422; manual_list_count 5, generated_list_count 27
 * [Results](PNS_development_RCV_000029.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/39)
-* Status: open
+* Status: closed
 
 #### TNF pathway RCV_000042
-* Key class: [tumor necrosis factor-mediated signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046048)
+* Key class: [tumor necrosis factor-mediated signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0033209)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: tumor necrosis factor-mediated signaling pathway OR a part of tumor necrosis factor-mediated signaling pathway OR a process that regulates tumor necrosis factor-mediated signaling pathway
-* map summary: Roche_cvt: RCV_000042; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0046048; manual_list_count 5, generated_list_count 3
+* map summary: Roche_cvt: RCV_000042; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0033209; manual_list_count 5, generated_list_count 8
 * [Results](TNF_pathway_RCV_000042.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/66)
+* Status: open
 
 #### ERBB signaling pathway RCV_000015
 * Key class: [ERBB signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0038127)
@@ -300,7 +300,7 @@
 * map summary: Roche_cvt: RCV_000015; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038127; manual_list_count 1, generated_list_count 35
 * [Results](ERBB_signaling_pathway_RCV_000015.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/55)
-* Status: open
+* Status: closed
 
 #### GTPase activity RCV_000020
 * Key class: [GTPase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003924)
@@ -342,7 +342,7 @@
 * map summary: Roche_cvt: RCV_000030; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0035357; manual_list_count 4, generated_list_count 4
 * [Results](PPAR_pathway_RCV_000030.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/54)
-* Status: open
+* Status: closed
 
 #### EGFR pathway RCV_000014
 * Key class: [epidermal growth factor receptor singaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007173)
@@ -351,7 +351,7 @@
 * map summary: Roche_cvt: RCV_000014; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007173; manual_list_count 9, generated_list_count 24
 * [Results](EGFR_pathway_RCV_000014.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/56)
-* Status: open
+* Status: closed
 
 #### DNA damage RCV_000006
 * Key class: [DNA damage response, detection of DNA damage](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042769)
@@ -369,5 +369,5 @@
 * map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 43, generated_list_count 163
 * [Results](DNA_replication_RCV_000010.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/59)
-* Status: open
+* Status: closed
 

@@ -1,39 +1,43 @@
 name	ID	manual	auto	checked	blacklisted
-UDP metabolic process	GO_0046048	1	1	1	0
-UDP catabolic process	GO_0006256	1	1	1	0
-UDP biosynthetic process	GO_0006225	1	1	1	0
-UDP-xylose transport	GO_0015790	1	0	1	0
-UDP-rhamnose metabolic process	GO_0033478	1	0	1	0
-UDP-rhamnose biosynthetic process	GO_0010253	1	0	1	0
-UDP-glucuronic acid transport	GO_0015787	1	0	1	0
-UDP-glucuronate metabolic process	GO_0046398	1	0	1	0
-UDP-glucuronate biosynthetic process	GO_0006065	1	0	1	0
-UDP-glucosylation	GO_0097359	1	0	1	0
-UDP-glucose transport	GO_0015786	1	0	1	0
-UDP-glucose metabolic process	GO_0006011	1	0	1	0
-UDP-glucose catabolic process	GO_0006258	1	0	1	0
-UDP-galactose transport	GO_0015785	1	0	1	0
-UDP-galactose transmembrane transport	GO_0072334	1	0	1	0
-UDP-N-acetylglucosamine transport	GO_0015788	1	0	1	0
-UDP-N-acetylglucosamine metabolic process	GO_0006047	1	0	1	0
-UDP-N-acetylglucosamine catabolic process	GO_0006049	1	0	1	0
-UDP-N-acetylglucosamine biosynthetic process	GO_0006048	1	0	1	0
-UDP-N-acetylglucosamine biosynthesis involved in chitin biosynthesis	GO_0035528	1	0	1	0
-UDP-N-acetylgalactosamine transport	GO_0015789	1	0	1	0
-UDP-N-acetylgalactosamine metabolic process	GO_0019276	1	0	1	0
-UDP-N-acetylgalactosamine catabolic process	GO_0019278	1	0	1	0
-UDP-N-acetylgalactosamine biosynthetic process	GO_0019277	1	0	1	0
-UDP-L-arabinose metabolic process	GO_0033356	1	0	1	0
-UDP-L-arabinose biosynthetic process	GO_0033358	1	0	1	0
-UDP-D-xylose metabolic process	GO_0033319	1	0	1	0
-UDP-D-xylose biosynthetic process	GO_0033320	1	0	1	0
-UDP-D-galacturonate metabolic process	GO_0033479	1	0	1	0
-UDP-D-galacturonate biosynthetic process	GO_0033480	1	0	1	0
-UDP-D-galactose metabolic process	GO_0052573	1	0	1	0
-UDP-D-galactose biosynthetic process	GO_0052574	1	0	1	0
-UDP-D-apiose metabolic process	GO_0033351	1	0	1	0
-UDP-D-apiose biosynthetic process	GO_0033352	1	0	1	0
-UDP-4-deoxy-4-formamido-beta-L-arabinopyranose metabolic process	GO_2001313	1	0	1	0
-UDP-4-deoxy-4-formamido-beta-L-arabinopyranose catabolic process	GO_2001314	1	0	1	0
-UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process	GO_2001315	1	0	1	0
+UDP-xylose transport	GO_0015790	1	1	1	0
+UDP-rhamnose metabolic process	GO_0033478	1	1	1	0
+UDP-rhamnose biosynthetic process	GO_0010253	1	1	1	0
+UDP-glucuronic acid transport	GO_0015787	1	1	1	0
+UDP-glucuronate metabolic process	GO_0046398	1	1	1	0
+UDP-glucuronate biosynthetic process	GO_0006065	1	1	1	0
+UDP-glucosylation	GO_0097359	1	1	1	0
+UDP-glucose transport	GO_0015786	1	1	1	0
+UDP-glucose metabolic process	GO_0006011	1	1	1	0
+UDP-glucose catabolic process	GO_0006258	1	1	1	0
+UDP-galactose transport	GO_0015785	1	1	1	0
+UDP-galactose transmembrane transport	GO_0072334	1	1	1	0
+UDP-N-acetylglucosamine transport	GO_0015788	1	1	1	0
+UDP-N-acetylglucosamine metabolic process	GO_0006047	1	1	1	0
+UDP-N-acetylglucosamine catabolic process	GO_0006049	1	1	1	0
+UDP-N-acetylglucosamine biosynthetic process	GO_0006048	1	1	1	0
+UDP-N-acetylglucosamine biosynthesis involved in chitin biosynthesis	GO_0035528	1	1	1	0
+UDP-N-acetylgalactosamine transport	GO_0015789	1	1	1	0
+UDP-N-acetylgalactosamine metabolic process	GO_0019276	1	1	1	0
+UDP-N-acetylgalactosamine catabolic process	GO_0019278	1	1	1	0
+UDP-N-acetylgalactosamine biosynthetic process	GO_0019277	1	1	1	0
+UDP-L-arabinose metabolic process	GO_0033356	1	1	1	0
+UDP-L-arabinose biosynthetic process	GO_0033358	1	1	1	0
+UDP-D-xylose metabolic process	GO_0033319	1	1	1	0
+UDP-D-xylose biosynthetic process	GO_0033320	1	1	1	0
+UDP-D-galacturonate metabolic process	GO_0033479	1	1	1	0
+UDP-D-galacturonate biosynthetic process	GO_0033480	1	1	1	0
+UDP-D-galactose metabolic process	GO_0052573	1	1	1	0
+UDP-D-galactose biosynthetic process	GO_0052574	1	1	1	0
+UDP-D-apiose metabolic process	GO_0033351	1	1	1	0
+UDP-D-apiose biosynthetic process	GO_0033352	1	1	1	0
+UDP-4-deoxy-4-formamido-beta-L-arabinopyranose metabolic process	GO_2001313	1	1	1	0
+UDP-4-deoxy-4-formamido-beta-L-arabinopyranose catabolic process	GO_2001314	1	1	1	0
+UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process	GO_2001315	1	1	1	0
 UDP reduction	GO_0006255	1	0	1	0
+UDP metabolic process	GO_0046048	1	0	1	0
+UDP catabolic process	GO_0006256	1	0	1	0
+UDP biosynthetic process	GO_0006225	1	0	1	0
+UDP-xylose transmembrane transporter activity	GO_0005464	0	1	0	0
+UDP-glucose transmembrane transporter activity	GO_0005460	0	1	0	0
+UDP-galactose transmembrane import into Golgi lumen	GO_0097624	0	1	0	0
+UDP-N-acetylglucosamine transmembrane transporter activity	GO_0005462	0	1	0	0
