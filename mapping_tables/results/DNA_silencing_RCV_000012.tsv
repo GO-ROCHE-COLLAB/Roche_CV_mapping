@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted
 siRNA loading onto RISC involved in chromatin silencing by small RNA	GO_0070923	1	1	1	0
-regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	1	1	1	0
+regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	1	1	0	1
 regulation of methylation-dependent chromatin silencing	GO_0090308	1	1	1	0
 production of siRNA involved in chromatin silencing by small RNA	GO_0070919	1	1	1	0
 positive regulation of methylation-dependent chromatin silencing	GO_0090309	1	1	1	0
@@ -17,58 +17,58 @@ establishment of chromatin silencing at silent mating-type cassette	GO_0035389	1
 establishment of chromatin silencing	GO_0006343	1	1	1	0
 C-5 methylation on cytosine involved in chromatin silencing	GO_0090115	1	1	1	0
 regulation of production of small RNA involved in gene silencing by RNA	GO_0070920	1	0	1	0
-regulation of posttranscriptional gene silencing	GO_0060147	1	0	1	0
-regulation of gene silencing by miRNA	GO_0060964	1	0	1	0
-regulation of gene silencing by RNA	GO_0060966	1	0	1	0
-regulation of gene silencing	GO_0060968	1	0	1	0
-production of small RNA involved in gene silencing by RNA	GO_0070918	1	0	1	0
-production of miRNAs involved in gene silencing by miRNA	GO_0035196	1	0	1	0
-posttranscriptional gene silencing by RNA	GO_0035194	1	0	1	0
-posttranscriptional gene silencing	GO_0016441	1	0	1	0
-positive regulation of posttranscriptional gene silencing	GO_0060148	1	0	1	0
-positive regulation of gene silencing by miRNA	GO_2000637	1	0	1	0
-negative regulation of translation involved in gene silencing by miRNA	GO_0035278	1	0	1	0
-negative regulation of posttranscriptional gene silencing	GO_0060149	1	0	1	0
-negative regulation of gene silencing by miRNA	GO_0060965	1	0	1	0
-negative regulation of gene silencing by RNA	GO_0060967	1	0	1	0
-negative regulation of gene silencing	GO_0060969	1	0	1	0
-miRNA loading onto RISC involved in gene silencing by miRNA	GO_0035280	1	0	1	0
-mRNA cleavage involved in gene silencing by miRNA	GO_0035279	1	0	1	0
-long-distance posttranscriptional gene silencing	GO_0010495	1	0	1	0
-host gene silencing in virus induced gene silencing	GO_0060146	1	0	1	0
-host cellular process involved in virus induced gene silencing	GO_0060144	1	0	1	0
-gene silencing involved in chronological cell aging	GO_0010978	1	0	1	0
-gene silencing by miRNA	GO_0035195	1	0	1	0
-gene silencing by RNA	GO_0031047	1	0	1	0
-gene silencing	GO_0016458	1	0	1	0
-co-transcriptional gene silencing by RNA interference machinery	GO_0033562	1	0	1	0
-RNA virus induced gene silencing	GO_0051214	1	0	1	0
-transfer RNA gene-mediated silencing	GO_0061587	0	1	0	0
-regulation of chromatin silencing by small RNA	GO_0010964	0	1	0	0
-regulation of chromatin silencing at telomere	GO_0031938	0	1	0	0
-regulation of chromatin silencing at silent mating-type cassette	GO_0090054	0	1	0	0
-regulation of chromatin silencing at rDNA	GO_0061187	0	1	0	0
-regulation of chromatin silencing at centromere	GO_0090052	0	1	0	0
-regulation of chromatin silencing	GO_0031935	0	1	0	0
-positive regulation of chromatin silencing at telomere	GO_0031940	0	1	0	0
-positive regulation of chromatin silencing at centromere	GO_0090053	0	1	0	0
-negative regulation of chromatin silencing involved in replicative cell aging	GO_0001308	0	1	0	0
-negative regulation of chromatin silencing by small RNA	GO_0060906	0	1	0	0
-negative regulation of chromatin silencing at telomere	GO_0031939	0	1	0	0
-negative regulation of chromatin silencing at silent mating-type cassette	GO_0061186	0	1	0	0
-negative regulation of chromatin silencing at rDNA	GO_0061188	0	1	0	0
-negative regulation of chromatin silencing	GO_0031936	0	1	0	0
-maintenance of chromatin silencing at telomere	GO_0035392	0	1	0	0
-heterochromatin maintenance involved in chromatin silencing at centromere outer repeat region	GO_1902368	0	1	0	0
-heterochromatin assembly involved in chromatin silencing by small RNA	GO_0070924	0	1	0	0
-heterochromatin assembly involved in chromatin silencing	GO_0070869	0	1	0	0
-establishment of chromatin silencing at telomere	GO_0035390	0	1	0	0
-conversion of ds siRNA to ss siRNA involved in chromatin silencing by small RNA	GO_1902360	0	1	0	0
-chromatin silencing by small RNA	GO_0031048	0	1	0	0
-chromatin silencing at telomere	GO_0006348	0	1	0	0
-chromatin silencing at silent mating-type cassette	GO_0030466	0	1	0	0
-chromatin silencing at rDNA	GO_0000183	0	1	0	0
-chromatin silencing at centromere outer repeat region	GO_1990141	0	1	0	0
-chromatin silencing at centromere central core	GO_0072692	0	1	0	0
-chromatin silencing at centromere	GO_0030702	0	1	0	0
-chromatin silencing	GO_0006342	0	1	0	0
+regulation of posttranscriptional gene silencing	GO_0060147	1	0	0	1
+regulation of gene silencing by miRNA	GO_0060964	1	0	0	1
+regulation of gene silencing by RNA	GO_0060966	1	0	0	1
+regulation of gene silencing	GO_0060968	1	0	0	1
+production of small RNA involved in gene silencing by RNA	GO_0070918	1	0	0	1
+production of miRNAs involved in gene silencing by miRNA	GO_0035196	1	0	0	1
+posttranscriptional gene silencing by RNA	GO_0035194	1	0	0	1
+posttranscriptional gene silencing	GO_0016441	1	0	0	1
+positive regulation of posttranscriptional gene silencing	GO_0060148	1	0	0	1
+positive regulation of gene silencing by miRNA	GO_2000637	1	0	0	1
+negative regulation of translation involved in gene silencing by miRNA	GO_0035278	1	0	0	1
+negative regulation of posttranscriptional gene silencing	GO_0060149	1	0	0	1
+negative regulation of gene silencing by miRNA	GO_0060965	1	0	0	1
+negative regulation of gene silencing by RNA	GO_0060967	1	0	0	1
+negative regulation of gene silencing	GO_0060969	1	0	0	1
+miRNA loading onto RISC involved in gene silencing by miRNA	GO_0035280	1	0	0	1
+mRNA cleavage involved in gene silencing by miRNA	GO_0035279	1	0	0	1
+long-distance posttranscriptional gene silencing	GO_0010495	1	0	0	1
+host gene silencing in virus induced gene silencing	GO_0060146	1	0	0	1
+host cellular process involved in virus induced gene silencing	GO_0060144	1	0	0	1
+gene silencing involved in chronological cell aging	GO_0010978	1	0	0	1
+gene silencing by miRNA	GO_0035195	1	0	0	1
+gene silencing by RNA	GO_0031047	1	0	0	1
+gene silencing	GO_0016458	1	0	0	1
+co-transcriptional gene silencing by RNA interference machinery	GO_0033562	1	0	0	1
+RNA virus induced gene silencing	GO_0051214	1	0	0	1
+transfer RNA gene-mediated silencing	GO_0061587	0	1	1	0
+regulation of chromatin silencing by small RNA	GO_0010964	0	1	1	0
+regulation of chromatin silencing at telomere	GO_0031938	0	1	1	0
+regulation of chromatin silencing at silent mating-type cassette	GO_0090054	0	1	1	0
+regulation of chromatin silencing at rDNA	GO_0061187	0	1	1	0
+regulation of chromatin silencing at centromere	GO_0090052	0	1	1	0
+regulation of chromatin silencing	GO_0031935	0	1	1	0
+positive regulation of chromatin silencing at telomere	GO_0031940	0	1	1	0
+positive regulation of chromatin silencing at centromere	GO_0090053	0	1	1	0
+negative regulation of chromatin silencing involved in replicative cell aging	GO_0001308	0	1	1	0
+negative regulation of chromatin silencing by small RNA	GO_0060906	0	1	1	0
+negative regulation of chromatin silencing at telomere	GO_0031939	0	1	1	0
+negative regulation of chromatin silencing at silent mating-type cassette	GO_0061186	0	1	1	0
+negative regulation of chromatin silencing at rDNA	GO_0061188	0	1	1	0
+negative regulation of chromatin silencing	GO_0031936	0	1	1	0
+maintenance of chromatin silencing at telomere	GO_0035392	0	1	1	0
+heterochromatin maintenance involved in chromatin silencing at centromere outer repeat region	GO_1902368	0	1	1	0
+heterochromatin assembly involved in chromatin silencing by small RNA	GO_0070924	0	1	1	0
+heterochromatin assembly involved in chromatin silencing	GO_0070869	0	1	1	0
+establishment of chromatin silencing at telomere	GO_0035390	0	1	1	0
+conversion of ds siRNA to ss siRNA involved in chromatin silencing by small RNA	GO_1902360	0	1	1	0
+chromatin silencing by small RNA	GO_0031048	0	1	1	0
+chromatin silencing at telomere	GO_0006348	0	1	1	0
+chromatin silencing at silent mating-type cassette	GO_0030466	0	1	1	0
+chromatin silencing at rDNA	GO_0000183	0	1	1	0
+chromatin silencing at centromere outer repeat region	GO_1990141	0	1	1	0
+chromatin silencing at centromere central core	GO_0072692	0	1	1	0
+chromatin silencing at centromere	GO_0030702	0	1	1	0
+chromatin silencing	GO_0006342	0	1	1	0
