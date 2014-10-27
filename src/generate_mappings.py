@@ -64,7 +64,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		continue
 	else:
 		summary += "#### %s %s\n" % (RCV_id_name[RCV_id], RCV_id)
-		summary += "* Key class: [%s](http://purl.obolibrary.org/obo/%s)\n" % (rd["Key Class Name"], rd["Key Class ID"])
+		summary += "* Key class: [%s](http://www.ebi.ac.uk/ontology-lookup/?termId=%s)\n" % (rd["Key Class Name"], re.sub('_', ':', rd["Key Class ID"]))
 		summary += "* Pattern: [%s](../../patterns/%s.md)\n" % (rd["Applied pattern"], rd["Applied pattern"])
 
 		fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
@@ -87,7 +87,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		# Update report object using map object.  # Confusing way to work?  
 		mo.gen_report(report.rowColDict)
 		# print, sorting on manual followed by auto.  Use reverse sort order = True
-		out = report.print_tab(("manual","auto"), True)
+		out = report.print_tab(("manual","auto", "name"), True)
 
 		# only print a new results file if it has anything in it.
 		if out:

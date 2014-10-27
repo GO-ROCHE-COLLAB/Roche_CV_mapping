@@ -90,10 +90,17 @@ class issueConn:
     def ticket_exists(self, title):
         """Searches open and closed for issue with specified title.
         If exists, return json, otherwise return False"""
+        ### Status: Needs to be rewritten to cope with pagination of 
+        ### returned results.  Default = 30. Max = 100.  Need some code to iterate through multiple pages.
         payload = { 'state': 'all' }
+        all_issues = []
         issues = requests.get(self.issues_url, auth=self.AUTH, params=payload)
+        all_issues.extend(issues.json())
+        for v in issues.links.values():
+            issues_page = requests.get(v['url'], auth=self.AUTH)
+            all_issues.extend(issues_page.json())
         out = False
-        for i in issues.json():
+        for i in all_issues:
             if i['title'] == title:
                 out = i
         return out

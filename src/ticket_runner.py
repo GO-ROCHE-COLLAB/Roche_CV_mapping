@@ -6,7 +6,7 @@ from tsv2pdm import rcd
 
 """Generates a set of proforma tickets using owl_map.tsv 
 for entries in which the pattern field does not begin with a '?'
-and for which there is not current ticket following the standard name pattern.
+and for which there is not currently ticket following the standard name pattern.
 Writes ticket URL and state back to owl_map
 """
 
