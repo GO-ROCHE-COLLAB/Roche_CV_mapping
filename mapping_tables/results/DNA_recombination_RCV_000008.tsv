@@ -2,53 +2,53 @@ name	ID	manual	auto	checked	blacklisted
 somatic cell DNA recombination	GO_0016444	1	1	1	0
 non-replicative transposition, DNA-mediated	GO_0098038	1	1	1	0
 transposon integration	GO_0070893	1	0	1	0
-RNA-mediated DNA recombination	GO_0042152	0	1	0	0
+transposition, DNA-mediated	GO_0006313	0	1	0	0
 telomere maintenance via recombination	GO_0000722	0	1	0	0
-mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0
-immunoglobulin V(D)J recombination	GO_0033152	0	1	0	0
-movement of group I intron	GO_0006316	0	1	0	0
-reciprocal meiotic recombination	GO_0007131	0	1	0	0
-double-strand break repair via break-induced replication	GO_0000727	0	1	0	0
-recombinational repair	GO_0000725	0	1	0	0
-DNA recombination	GO_0006310	0	1	0	0
-reciprocal DNA recombination	GO_0035825	0	1	0	0
+somatic recombination of immunoglobulin genes involved in immune response	GO_0002204	0	1	0	0
+somatic recombination of immunoglobulin gene segments	GO_0016447	0	1	0	0
+somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0
+somatic diversification of immune receptors via germline recombination within a single locus	GO_0002562	0	1	0	0
+somatic diversification of immune receptors via gene conversion	GO_0002565	0	1	0	0
 single-strand break repair via homologous recombination	GO_1990396	0	1	0	0
+short tract gene conversion	GO_0035823	0	1	0	0
+replicative transposition, DNA-mediated	GO_0098039	0	1	0	0
+replication-born double-strand break repair via sister chromatid exchange	GO_1990414	0	1	0	0
+recombinational repair	GO_0000725	0	1	0	0
+recombinational interstrand cross-link repair	GO_0036298	0	1	0	0
+recombination within rDNA repeats	GO_0045458	0	1	0	0
+reciprocal meiotic recombination	GO_0007131	0	1	0	0
+reciprocal DNA recombination	GO_0035825	0	1	0	0
 plasmid recombination	GO_0042150	0	1	0	0
 peripheral B cell receptor editing	GO_0002345	0	1	0	0
-gene conversion	GO_0035822	0	1	0	0
-somatic diversification of immune receptors via germline recombination within a single locus	GO_0002562	0	1	0	0
-short tract gene conversion	GO_0035823	0	1	0	0
-isotype switching to IgG isotypes	GO_0048291	0	1	0	0
-B cell receptor editing	GO_0002452	0	1	0	0
-V(D)J recombination	GO_0033151	0	1	0	0
-recombinational interstrand cross-link repair	GO_0036298	0	1	0	0
-replicative transposition, DNA-mediated	GO_0098039	0	1	0	0
-somatic recombination of immunoglobulin gene segments	GO_0016447	0	1	0	0
-homing of group II introns	GO_0006315	0	1	0	0
-isotype switching to IgE isotypes	GO_0048289	0	1	0	0
-transposition, DNA-mediated	GO_0006313	0	1	0	0
-interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
-intron homing	GO_0006314	0	1	0	0
-isotype switching to IgD isotypes	GO_0048292	0	1	0	0
-isotype switching	GO_0045190	0	1	0	0
-long tract gene conversion	GO_0035824	0	1	0	0
+movement of group I intron	GO_0006316	0	1	0	0
 mitotic recombination involved in replication fork processing	GO_1903211	0	1	0	0
-immunoglobulin heavy chain V-D-J recombination	GO_0071707	0	1	0	0
-immunoglobulin light chain V-J recombination	GO_0071708	0	1	0	0
-double-strand break repair via homologous recombination	GO_0000724	0	1	0	0
-somatic recombination of immunoglobulin genes involved in immune response	GO_0002204	0	1	0	0
-intrachromosomal DNA recombination	GO_1990067	0	1	0	0
-gene conversion at mating-type locus	GO_0007534	0	1	0	0
-somatic diversification of immune receptors via gene conversion	GO_0002565	0	1	0	0
-gene conversion of immunoglobulin genes	GO_0002206	0	1	0	0
-isotype switching to IgA isotypes	GO_0048290	0	1	0	0
-double-strand break repair via synthesis-dependent strand annealing	GO_0045003	0	1	0	0
-somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0
-replication-born double-strand break repair via sister chromatid exchange	GO_1990414	0	1	0	0
-formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging	GO_0001311	0	1	0	0
-gene conversion of immunoglobulin genes involved in immune response	GO_0002207	0	1	0	0
-meiotic gene conversion	GO_0006311	0	1	0	0
-central B cell receptor editing	GO_0002511	0	1	0	0
-T cell receptor V(D)J recombination	GO_0033153	0	1	0	0
-recombination within rDNA repeats	GO_0045458	0	1	0	0
 mitotic recombination	GO_0006312	0	1	0	0
+mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0
+meiotic gene conversion	GO_0006311	0	1	0	0
+long tract gene conversion	GO_0035824	0	1	0	0
+isotype switching to IgG isotypes	GO_0048291	0	1	0	0
+isotype switching to IgE isotypes	GO_0048289	0	1	0	0
+isotype switching to IgD isotypes	GO_0048292	0	1	0	0
+isotype switching to IgA isotypes	GO_0048290	0	1	0	0
+isotype switching	GO_0045190	0	1	0	0
+intron homing	GO_0006314	0	1	0	0
+intrachromosomal DNA recombination	GO_1990067	0	1	0	0
+interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
+immunoglobulin light chain V-J recombination	GO_0071708	0	1	0	0
+immunoglobulin heavy chain V-D-J recombination	GO_0071707	0	1	0	0
+immunoglobulin V(D)J recombination	GO_0033152	0	1	0	0
+homing of group II introns	GO_0006315	0	1	0	0
+gene conversion of immunoglobulin genes involved in immune response	GO_0002207	0	1	0	0
+gene conversion of immunoglobulin genes	GO_0002206	0	1	0	0
+gene conversion at mating-type locus	GO_0007534	0	1	0	0
+gene conversion	GO_0035822	0	1	0	0
+formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging	GO_0001311	0	1	0	0
+double-strand break repair via synthesis-dependent strand annealing	GO_0045003	0	1	0	0
+double-strand break repair via homologous recombination	GO_0000724	0	1	0	0
+double-strand break repair via break-induced replication	GO_0000727	0	1	0	0
+central B cell receptor editing	GO_0002511	0	1	0	0
+V(D)J recombination	GO_0033151	0	1	0	0
+T cell receptor V(D)J recombination	GO_0033153	0	1	0	0
+RNA-mediated DNA recombination	GO_0042152	0	1	0	0
+DNA recombination	GO_0006310	0	1	0	0
+B cell receptor editing	GO_0002452	0	1	0	0

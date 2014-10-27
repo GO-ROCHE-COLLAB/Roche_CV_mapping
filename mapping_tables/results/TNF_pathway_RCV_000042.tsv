@@ -1,0 +1,9 @@
+name	ID	manual	auto	checked	blacklisted
+tumor necrosis factor-mediated signaling pathway	GO_0033209	1	0	1	0
+tumor necrosis factor superfamily cytokine production	GO_0071706	1	0	1	0
+tumor necrosis factor production	GO_0032640	1	0	1	0
+tumor necrosis factor biosynthetic process	GO_0042533	1	0	1	0
+tumor necrosis factor (ligand) superfamily member 11 production	GO_0072535	1	0	1	0
+UDP metabolic process	GO_0046048	0	1	0	0
+UDP catabolic process	GO_0006256	0	1	0	0
+UDP biosynthetic process	GO_0006225	0	1	0	0

@@ -1,28 +1,28 @@
 name	ID	manual	auto	checked	blacklisted
-peripheral nervous system myelin maintenance	GO_0032287	1	1	1	0
-peripheral nervous system myelin formation	GO_0032290	1	1	1	0
 peripheral nervous system neuron differentiation	GO_0048934	1	1	1	0
 peripheral nervous system neuron development	GO_0048935	1	1	1	0
+peripheral nervous system myelin maintenance	GO_0032287	1	1	1	0
+peripheral nervous system myelin formation	GO_0032290	1	1	1	0
 peripheral nervous system development	GO_0007422	1	1	1	0
-neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0
-posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	1	0
-anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	1	0
-neuromast hair cell differentiation	GO_0048886	0	1	1	0
-posterior lateral line ganglion development	GO_0048917	0	1	1	0
 postganglionic parasympathetic nervous system development	GO_0021784	0	1	1	0
 posterior lateral line neuromast hair cell morphogenesis	GO_0035680	0	1	1	0
-anterior lateral line ganglion development	GO_0048907	0	1	1	0
+posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	1	0
 posterior lateral line neuromast hair cell development	GO_0035677	0	1	1	0
-myelination in peripheral nervous system	GO_0022011	0	1	1	0
-lateral line ganglion development	GO_0048890	0	1	1	0
-peripheral nervous system neuron axonogenesis	GO_0048936	0	1	1	0
-Schwann cell differentiation	GO_0014037	0	1	1	0
-establishment of blood-nerve barrier	GO_0008065	0	1	1	0
-lateral line ganglion neuron differentiation	GO_0048891	0	1	1	0
-neuromast hair cell development	GO_0035675	0	1	1	0
-anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	1	0
-neuromast hair cell morphogenesis	GO_0035678	0	1	1	0
-anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	1	0
 posterior lateral line ganglion neuron differentiation	GO_0048928	0	1	1	0
-Schwann cell development	GO_0014044	0	1	1	0
+posterior lateral line ganglion development	GO_0048917	0	1	1	0
+peripheral nervous system neuron axonogenesis	GO_0048936	0	1	1	0
+neuromast hair cell morphogenesis	GO_0035678	0	1	1	0
+neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0
+neuromast hair cell differentiation	GO_0048886	0	1	1	0
+neuromast hair cell development	GO_0035675	0	1	1	0
+myelination in peripheral nervous system	GO_0022011	0	1	1	0
+lateral line ganglion neuron differentiation	GO_0048891	0	1	1	0
+lateral line ganglion development	GO_0048890	0	1	1	0
+establishment of blood-nerve barrier	GO_0008065	0	1	1	0
+anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	1	0
+anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	1	0
 anterior lateral line neuromast hair cell development	GO_0035676	0	1	1	0
+anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	1	0
+anterior lateral line ganglion development	GO_0048907	0	1	1	0
+Schwann cell differentiation	GO_0014037	0	1	1	0
+Schwann cell development	GO_0014044	0	1	1	0

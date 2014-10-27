@@ -1,58 +1,58 @@
 name	ID	manual	auto	checked	blacklisted
 activation of Rho GTPase activity	GO_0032862	1	1	1	0
 activation of Ras GTPase activity	GO_0032856	1	1	1	0
-activation of Ran GTPase activity	GO_0032860	1	1	1	0
-activation of Rac GTPase activity	GO_0032863	1	1	1	0
-activation of Ral GTPase activity	GO_0032859	1	1	1	0
 activation of Rap GTPase activity	GO_0032861	1	1	1	0
+activation of Ran GTPase activity	GO_0032860	1	1	1	0
+activation of Ral GTPase activity	GO_0032859	1	1	1	0
+activation of Rac GTPase activity	GO_0032863	1	1	1	0
 activation of Rab GTPase activity	GO_0032858	1	1	1	0
-heterotrimeric G-protein GTPase, beta-subunit	GO_0000264	1	0	1	0
 heterotrimeric G-protein GTPase, gamma-subunit	GO_0000265	1	0	1	0
+heterotrimeric G-protein GTPase, beta-subunit	GO_0000264	1	0	1	0
 heterotrimeric G-protein GTPase, alpha-subunit	GO_0000263	1	0	1	0
-regulation of Ral GTPase activity	GO_0032315	0	1	1	0
-Ras GTPase activator activity	GO_0005099	0	1	1	0
-positive regulation of Rho GTPase activity	GO_0032321	0	1	1	0
-positive regulation of Rac GTPase activity	GO_0032855	0	1	1	0
-Rap GTPase activator activity	GO_0046582	0	1	1	0
-ARF GTPase activator activity	GO_0008060	0	1	1	0
-regulation of Rac GTPase activity	GO_0032314	0	1	1	0
-Sar guanyl-nucleotide exchange factor activity	GO_0005090	0	1	1	0
-Rab GTPase activator activity	GO_0005097	0	1	1	0
-regulation of Ran GTPase activity	GO_0032316	0	1	1	0
-Ran GTPase activator activity	GO_0005098	0	1	1	0
-regulation of Cdc42 GTPase activity	GO_0043088	0	1	1	0
-positive regulation of Cdc42 GTPase activity	GO_0043089	0	1	1	0
-Rho GDP-dissociation inhibitor activity	GO_0005094	0	1	1	0
-positive regulation of GTPase activity	GO_0043547	0	1	1	0
-positive regulation of ARF GTPase activity	GO_0032850	0	1	1	0
-Sar GTPase activator activity	GO_0005101	0	1	1	0
-positive regulation of Ran GTPase activity	GO_0032853	0	1	1	0
-heterotrimeric G-protein complex cycle	GO_0031684	0	1	1	0
-Rho GTPase activator activity	GO_0005100	0	1	1	0
-GTPase regulator activity	GO_0030695	0	1	1	0
-positive regulation of Ras GTPase activity	GO_0032320	0	1	1	0
-regulation of GTPase activity	GO_0043087	0	1	1	0
-positive regulation of Ral GTPase activity	GO_0032852	0	1	1	0
-positive regulation of Rab GTPase activity	GO_0032851	0	1	1	0
-regulation of Rap GTPase activity	GO_0032317	0	1	1	0
-GTPase activator activity	GO_0005096	0	1	1	0
-Rac GTPase activator activity	GO_0030675	0	1	1	0
-negative regulation of GTPase activity	GO_0034260	0	1	1	0
-GTP-dependent helicase activity	GO_0070036	0	1	1	0
-regulation of Rab GTPase activity	GO_0032313	0	1	1	0
-heterotrimeric G-protein complex	GO_0005834	0	1	0	0
-Rab GDP-dissociation inhibitor activity	GO_0005093	0	1	1	0
-Ral GTPase activator activity	GO_0017123	0	1	1	0
-negative regulation of Rho GTPase activity	GO_0034259	0	1	1	0
-GTPase activity	GO_0003924	0	1	1	0
-positive regulation of Rap GTPase activity	GO_0032854	0	1	1	0
-regulation of Ras GTPase activity	GO_0032318	0	1	1	0
-regulation of ARF GTPase activity	GO_0032312	0	1	1	0
 small GTPase regulator activity	GO_0005083	0	1	1	0
-guanyl-nucleotide exchange factor adaptor activity	GO_0005091	0	1	1	0
-negative regulation of Ras GTPase activity	GO_0034261	0	1	1	0
-GDP-dissociation inhibitor activity	GO_0005092	0	1	1	0
-activation of Cdc42 GTPase activity	GO_0032864	0	1	1	0
 regulation of Rho GTPase activity	GO_0032319	0	1	1	0
-GTPase inhibitor activity	GO_0005095	0	1	1	0
+regulation of Ras GTPase activity	GO_0032318	0	1	1	0
+regulation of Rap GTPase activity	GO_0032317	0	1	1	0
+regulation of Ran GTPase activity	GO_0032316	0	1	1	0
+regulation of Ral GTPase activity	GO_0032315	0	1	1	0
+regulation of Rac GTPase activity	GO_0032314	0	1	1	0
+regulation of Rab GTPase activity	GO_0032313	0	1	1	0
+regulation of GTPase activity	GO_0043087	0	1	1	0
+regulation of Cdc42 GTPase activity	GO_0043088	0	1	1	0
+regulation of ARF GTPase activity	GO_0032312	0	1	1	0
+positive regulation of Rho GTPase activity	GO_0032321	0	1	1	0
+positive regulation of Ras GTPase activity	GO_0032320	0	1	1	0
+positive regulation of Rap GTPase activity	GO_0032854	0	1	1	0
+positive regulation of Ran GTPase activity	GO_0032853	0	1	1	0
+positive regulation of Ral GTPase activity	GO_0032852	0	1	1	0
+positive regulation of Rac GTPase activity	GO_0032855	0	1	1	0
+positive regulation of Rab GTPase activity	GO_0032851	0	1	1	0
+positive regulation of GTPase activity	GO_0043547	0	1	1	0
+positive regulation of Cdc42 GTPase activity	GO_0043089	0	1	1	0
+positive regulation of ARF GTPase activity	GO_0032850	0	1	1	0
+negative regulation of Rho GTPase activity	GO_0034259	0	1	1	0
+negative regulation of Ras GTPase activity	GO_0034261	0	1	1	0
+negative regulation of GTPase activity	GO_0034260	0	1	1	0
+heterotrimeric G-protein complex cycle	GO_0031684	0	1	1	0
+heterotrimeric G-protein complex	GO_0005834	0	1	0	0
+guanyl-nucleotide exchange factor adaptor activity	GO_0005091	0	1	1	0
+activation of Cdc42 GTPase activity	GO_0032864	0	1	1	0
 activation of ARF GTPase activity	GO_0032857	0	1	1	0
+Sar guanyl-nucleotide exchange factor activity	GO_0005090	0	1	1	0
+Sar GTPase activator activity	GO_0005101	0	1	1	0
+Rho GTPase activator activity	GO_0005100	0	1	1	0
+Rho GDP-dissociation inhibitor activity	GO_0005094	0	1	1	0
+Ras GTPase activator activity	GO_0005099	0	1	1	0
+Rap GTPase activator activity	GO_0046582	0	1	1	0
+Ran GTPase activator activity	GO_0005098	0	1	1	0
+Ral GTPase activator activity	GO_0017123	0	1	1	0
+Rac GTPase activator activity	GO_0030675	0	1	1	0
+Rab GTPase activator activity	GO_0005097	0	1	1	0
+Rab GDP-dissociation inhibitor activity	GO_0005093	0	1	1	0
+GTPase regulator activity	GO_0030695	0	1	1	0
+GTPase inhibitor activity	GO_0005095	0	1	1	0
+GTPase activity	GO_0003924	0	1	1	0
+GTPase activator activity	GO_0005096	0	1	1	0
+GTP-dependent helicase activity	GO_0070036	0	1	1	0
+GDP-dissociation inhibitor activity	GO_0005092	0	1	1	0
+ARF GTPase activator activity	GO_0008060	0	1	1	0

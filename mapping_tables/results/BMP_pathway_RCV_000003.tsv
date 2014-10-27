@@ -1,41 +1,41 @@
 name	ID	manual	auto	checked	blacklisted
-BMP signaling pathway	GO_0030509	1	1	1	0
-BMP signaling pathway involved in ureter morphogenesis	GO_0061149	1	1	1	0
-BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003269	1	1	1	0
-BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	1	1	1	0
-negative regulation of BMP signaling pathway by negative regulation of BMP secretion	GO_0038056	1	1	1	0
-negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway	GO_0072097	1	1	1	0
-regulation of BMP signaling pathway	GO_0030510	1	1	1	0
-BMP signaling pathway involved in determination of left/right symmetry	GO_0003154	1	1	1	0
-BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	1	1	1	0
-BMP signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0021919	1	1	1	0
-BMP signaling pathway involved in heart development	GO_0061312	1	1	1	0
-BMP signaling pathway involved in nephric duct formation	GO_0071893	1	1	1	0
-BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	1	1	1	0
-regulation of BMP signaling pathway involved in heart jogging	GO_2000223	1	1	1	0
-negative regulation of BMP signaling pathway	GO_0030514	1	1	1	0
-BMP signaling pathway involved in mesodermal cell fate specification	GO_0060803	1	1	1	0
-BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003155	1	1	1	0
-positive regulation of BMP signaling pathway	GO_0030513	1	1	1	0
-BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	1	1	1	0
-sequestering of BMP in extracellular matrix	GO_0035582	1	1	1	0
-BMP signaling pathway involved in heart induction	GO_0003130	1	1	1	0
 specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway	GO_0072101	1	1	1	0
+sequestering of BMP in extracellular matrix	GO_0035582	1	1	1	0
 sequestering of BMP from receptor via BMP binding	GO_0038098	1	1	1	0
 regulation of hair cycle by BMP signaling pathway	GO_0060902	1	1	1	0
+regulation of BMP signaling pathway involved in heart jogging	GO_2000223	1	1	1	0
+regulation of BMP signaling pathway	GO_0030510	1	1	1	0
+positive regulation of BMP signaling pathway	GO_0030513	1	1	1	0
+negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway	GO_0072097	1	1	1	0
+negative regulation of BMP signaling pathway by negative regulation of BMP secretion	GO_0038056	1	1	1	0
+negative regulation of BMP signaling pathway	GO_0030514	1	1	1	0
+BMP signaling pathway involved in ureter morphogenesis	GO_0061149	1	1	1	0
+BMP signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0021919	1	1	1	0
+BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	1	1	1	0
 BMP signaling pathway involved in renal system segmentation	GO_0061151	1	1	1	0
+BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003269	1	1	1	0
+BMP signaling pathway involved in nephric duct formation	GO_0071893	1	1	1	0
+BMP signaling pathway involved in mesodermal cell fate specification	GO_0060803	1	1	1	0
 BMP signaling pathway involved in heart jogging	GO_0003303	1	1	1	0
-BMP secretion	GO_0038055	1	0	1	0
-positive regulation of BMP secretion	GO_1900144	1	0	1	0
-cellular response to BMP stimulus	GO_0071773	1	0	1	0
-regulation of BMP secretion	GO_2001284	1	0	1	0
-BMP receptor binding	GO_0070700	1	0	1	0
+BMP signaling pathway involved in heart induction	GO_0003130	1	1	1	0
+BMP signaling pathway involved in heart development	GO_0061312	1	1	1	0
+BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	1	1	1	0
+BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	1	1	1	0
+BMP signaling pathway involved in determination of left/right symmetry	GO_0003154	1	1	1	0
+BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003155	1	1	1	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	1	1	1	0
+BMP signaling pathway	GO_0030509	1	1	1	0
 response to BMP	GO_0071772	1	0	1	0
+regulation of BMP secretion	GO_2001284	1	0	1	0
+positive regulation of BMP secretion	GO_1900144	1	0	1	0
 negative regulation of BMP secretion	GO_2001285	1	0	1	0
-regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902812	0	1	1	0
-positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	1	0
-positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	0	1	1	0
-negative regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902813	0	1	1	0
+cellular response to BMP stimulus	GO_0071773	1	0	1	0
+BMP secretion	GO_0038055	1	0	1	0
+BMP receptor binding	GO_0070700	1	0	1	0
 regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	1	0
+regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902812	0	1	1	0
+positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	0	1	1	0
+positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	1	0
 positive regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902814	0	1	1	0
 negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	1	0
+negative regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902813	0	1	1	0

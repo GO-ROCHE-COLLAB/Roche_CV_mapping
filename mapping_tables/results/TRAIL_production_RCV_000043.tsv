@@ -1,0 +1,6 @@
+name	ID	manual	auto	checked	blacklisted
+TRAIL biosynthetic process	GO_0045553	1	1	1	0
+TRAIL receptor biosynthetic process	GO_0045557	1	0	1	0
+TRAIL receptor 2 biosynthetic process	GO_0045559	1	0	1	0
+TRAIL receptor 1 biosynthetic process	GO_0045558	1	0	1	0
+TRAIL production	GO_0032639	1	0	1	0

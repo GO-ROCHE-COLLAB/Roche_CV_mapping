@@ -1,0 +1,45 @@
+name	ID	manual	auto	checked	blacklisted
+transforming growth factor receptor beta signaling pathway involved in oral/aboral axis specification	GO_0060835	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in regulation of multicellular organism growth	GO_1901048	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090010	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in primary germ layer cell fate commitment	GO_0060797	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in neural plate anterior/posterior pattern formation	GO_0060826	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in mesodermal cell fate specification	GO_0060798	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in heart jogging	GO_0003302	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification	GO_0060799	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in determination of left/right asymmetry	GO_0035463	1	1	1	0
+transforming growth factor beta receptor signaling pathway involved in axial mesodermal cell fate specification	GO_0060822	1	1	1	0
+transforming growth factor beta receptor signaling pathway	GO_0007179	1	1	1	0
+transforming growth factor beta receptor complex assembly	GO_0007181	1	1	1	0
+regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090013	1	1	1	0
+regulation of transforming growth factor beta receptor signaling pathway	GO_0017015	1	1	1	0
+positive regulation of transforming growth factor beta receptor signaling pathway	GO_0030511	1	1	1	0
+negative regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090012	1	1	1	0
+negative regulation of transforming growth factor beta receptor signaling pathway	GO_0030512	1	1	1	0
+cellular response to transforming growth factor beta stimulus	GO_0071560	1	1	1	0
+transforming growth factor-beta secretion	GO_0038044	1	0	1	0
+transforming growth factor beta3 production	GO_0032907	1	0	1	0
+transforming growth factor beta2 production	GO_0032906	1	0	1	0
+transforming growth factor beta1 production	GO_0032905	1	0	1	0
+transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003141	1	0	1	0
+transforming growth factor beta production	GO_0071604	1	0	1	0
+transforming growth factor beta ligand binding to type II receptor	GO_0007180	1	0	1	0
+transforming growth factor beta ligand binding to type I receptor	GO_0008259	1	0	1	0
+sequestering of TGFbeta from receptor via TGFbeta binding	GO_0038105	1	0	1	0
+response to transforming growth factor beta	GO_0071559	1	0	1	0
+regulation of transforming growth factor beta3 production	GO_0032910	1	0	1	0
+regulation of transforming growth factor beta2 production	GO_0032909	1	0	1	0
+regulation of transforming growth factor beta1 production	GO_0032908	1	0	1	0
+regulation of transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0035465	1	0	1	0
+regulation of transforming growth factor beta production	GO_0071634	1	0	1	0
+positive regulation of transforming growth factor beta3 production	GO_0032916	1	0	1	0
+positive regulation of transforming growth factor beta2 production	GO_0032915	1	0	1	0
+positive regulation of transforming growth factor beta1 production	GO_0032914	1	0	1	0
+positive regulation of transforming growth factor beta production	GO_0071636	1	0	1	0
+negative regulation of trophoblast cell differentiation by transforming growth factor beta signaling pathway	GO_0060801	1	0	1	0
+negative regulation of transforming growth factor beta3 production	GO_0032913	1	0	1	0
+negative regulation of transforming growth factor beta2 production	GO_0032912	1	0	1	0
+negative regulation of transforming growth factor beta1 production	GO_0032911	1	0	1	0
+negative regulation of transforming growth factor beta production	GO_0071635	1	0	1	0
+sequestering of TGFbeta in extracellular matrix	GO_0035583	0	1	0	0
+regulation of transforming growth factor receptor beta signaling pathway involved in determination of left/right asymmetry	GO_0035464	0	1	0	0
