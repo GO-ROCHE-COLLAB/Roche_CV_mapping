@@ -41,5 +41,5 @@ negative regulation of transforming growth factor beta3 production	GO_0032913	1	
 negative regulation of transforming growth factor beta2 production	GO_0032912	1	0	1	0
 negative regulation of transforming growth factor beta1 production	GO_0032911	1	0	1	0
 negative regulation of transforming growth factor beta production	GO_0071635	1	0	1	0
-sequestering of TGFbeta in extracellular matrix	GO_0035583	0	1	0	0
-regulation of transforming growth factor receptor beta signaling pathway involved in determination of left/right asymmetry	GO_0035464	0	1	0	0
+sequestering of TGFbeta in extracellular matrix	GO_0035583	0	1	1	0
+regulation of transforming growth factor receptor beta signaling pathway involved in determination of left/right asymmetry	GO_0035464	0	1	1	0
