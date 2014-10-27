@@ -19,20 +19,20 @@ regulation of skeletal muscle tissue regeneration	GO_0043416	0	1	0	0
 blood coagulation, fibrin clot formation	GO_0072378	0	1	0	0
 negative regulation of blood coagulation, extrinsic pathway	GO_2000264	0	1	0	0
 skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration	GO_0014834	0	1	0	0
-platelet activation	GO_0030168	0	1	0	0
 positive regulation of blood coagulation, extrinsic pathway	GO_2000265	0	1	0	0
+platelet activation	GO_0030168	0	1	0	0
 inner ear sensory epithelium regeneration	GO_0070659	0	1	0	0
 thrombocyte activation	GO_0071892	0	1	0	0
 cardiac muscle tissue regeneration	GO_0061026	0	1	0	0
 fin regeneration	GO_0031101	0	1	0	0
-regulation of satellite cell activation involved in skeletal muscle regeneration	GO_0014717	0	1	0	0
 positive regulation of blood coagulation	GO_0030194	0	1	0	0
+regulation of satellite cell activation involved in skeletal muscle regeneration	GO_0014717	0	1	0	0
 myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	0	1	0	0
 neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	0	0
-negative regulation of platelet aggregation	GO_0090331	0	1	0	0
 blood coagulation, common pathway	GO_0072377	0	1	0	0
-negative regulation of platelet aggregation in other organism	GO_0035893	0	1	0	0
+negative regulation of platelet aggregation	GO_0090331	0	1	0	0
 blood coagulation, extrinsic pathway	GO_0007598	0	1	0	0
+negative regulation of platelet aggregation in other organism	GO_0035893	0	1	0	0
 fibrinolysis	GO_0042730	0	1	0	0
 myoblast proliferation involved in skeletal muscle regeneration	GO_0014844	0	1	0	0
 positive regulation of platelet aggregation	GO_1901731	0	1	0	0
@@ -64,14 +64,14 @@ modulation of platelet aggregation in other organism	GO_0035892	0	1	0	0
 positive regulation of epithelial cell proliferation involved in wound healing	GO_0060054	0	1	0	0
 regulation of blood coagulation, extrinsic pathway	GO_2000263	0	1	0	0
 regulation of blood coagulation, common pathway	GO_2000260	0	1	0	0
-activation of blood coagulation via clotting cascade	GO_0002543	0	1	0	0
-positive regulation of fibrinolysis	GO_0051919	0	1	0	0
 vascular wound healing	GO_0061042	0	1	0	0
+positive regulation of fibrinolysis	GO_0051919	0	1	0	0
+activation of blood coagulation via clotting cascade	GO_0002543	0	1	0	0
 epiboly involved in wound healing	GO_0090505	0	1	0	0
-blood coagulation, intrinsic pathway	GO_0007597	0	1	0	0
 regulation of blood coagulation	GO_0030193	0	1	0	0
-negative regulation of blood coagulation	GO_0030195	0	1	0	0
+blood coagulation, intrinsic pathway	GO_0007597	0	1	0	0
 neuromast regeneration	GO_0070657	0	1	0	0
+negative regulation of blood coagulation	GO_0030195	0	1	0	0
 satellite cell activation involved in skeletal muscle regeneration	GO_0014901	0	1	0	0
 myoblast fate commitment involved in skeletal muscle regeneration	GO_0014836	0	1	0	0
 blood coagulation	GO_0007596	0	1	0	0

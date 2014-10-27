@@ -168,7 +168,7 @@
 * Key class: [GTPase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003924)
 * Pattern: [is_a_OR_part_of_OR_regulates_OR_capable_of](../../patterns/is_a_OR_part_of_OR_regulates_OR_capable_of.md)
 * Definition: GTPase activity OR a part of GTPase activity OR a process that regulates GTPase activity OR a cell component that functions in GTPase activity.
-* map summary: Roche_cvt: RCV_000020; class_expression 386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0003924; manual_list_count 10, generated_list_count 53
+* map summary: Roche_cvt: RCV_000020; class_expression 386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0003924; manual_list_count 10, generated_list_count 54
 * Notes: Manual mapping includes obsolete terms for individual G-protein subunits, automated mapping will pull in whole complex.
 * [Results](GTPase_activity_RCV_000020.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/33)

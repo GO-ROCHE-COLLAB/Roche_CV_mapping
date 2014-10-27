@@ -41,8 +41,8 @@ alpha-beta intraepithelial T cell differentiation	GO_0002299	1	1	1	0
 gamma-delta T cell proliferation	GO_0046630	1	1	1	0
 T cell homeostasis	GO_0043029	1	1	1	0
 CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	1	1	1	0
-CD4-positive, alpha-beta T cell cytokine production	GO_0035743	1	1	1	0
 immature T cell proliferation in thymus	GO_0033080	1	1	1	0
+CD4-positive, alpha-beta T cell cytokine production	GO_0035743	1	1	1	0
 alpha-beta T cell activation by superantigen	GO_0042722	1	1	1	0
 T cell costimulation	GO_0031295	1	1	1	0
 memory T cell differentiation	GO_0043379	1	1	1	0
@@ -62,16 +62,16 @@ T cell cytokine production	GO_0002369	1	1	1	0
 CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	1	1	1	0
 gamma-delta T cell differentiation	GO_0042492	1	1	1	0
 gamma-delta intraepithelial T cell differentiation	GO_0002304	1	1	1	0
-positive regulation of CD4-positive, alpha-beta T cell activation	GO_2000516	1	0	1	0
 positive regulation of initiation of T cell receptor signaling	GO_0023011	1	0	1	0
+positive regulation of CD4-positive, alpha-beta T cell activation	GO_2000516	1	0	1	0
 negative regulation of cytotoxic T cell differentiation	GO_0045584	1	0	1	0
-negative regulation of T cell apoptotic process	GO_0070233	1	0	1	0
 negative regulation of T cell homeostatic proliferation	GO_0046014	1	0	1	0
-positive regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043378	1	0	1	0
-gamma-delta T cell lineage commitment	GO_0002365	1	0	1	0
+negative regulation of T cell apoptotic process	GO_0070233	1	0	1	0
 regulation of T cell cytokine production	GO_0002724	1	0	1	0
-positive regulation of T cell proliferation	GO_0042102	1	0	1	0
+gamma-delta T cell lineage commitment	GO_0002365	1	0	1	0
+positive regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043378	1	0	1	0
 T cell secretory granule organization	GO_0033371	1	0	1	0
+positive regulation of T cell proliferation	GO_0042102	1	0	1	0
 somatic diversification of T cell receptor genes	GO_0002568	1	0	1	0
 positive regulation of activation-induced cell death of T cells	GO_0070237	1	0	1	0
 positive regulation of T cell receptor signaling pathway	GO_0050862	1	0	1	0
@@ -96,11 +96,11 @@ regulation of gene expression as a consequence of T cell signal transmission	GO_
 negative regulation of extrathymic T cell differentiation	GO_0033086	1	0	1	0
 positive regulation of alpha-beta T cell activation	GO_0046635	1	0	1	0
 positive regulation of T cell homeostatic proliferation	GO_0042103	1	0	1	0
-regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000449	1	0	1	0
-negative regulation of gamma-delta T cell differentiation	GO_0045587	1	0	1	0
 CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	1	0	1	0
-negative regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000565	1	0	1	0
+negative regulation of gamma-delta T cell differentiation	GO_0045587	1	0	1	0
+regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000449	1	0	1	0
 somatic diversification of T cell receptor genes by N region addition	GO_0002571	1	0	1	0
+negative regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000565	1	0	1	0
 protein localization to trailing edge	GO_0036051	1	0	1	0
 positive regulation of activated T cell proliferation	GO_0042104	1	0	1	0
 regulation of activated T cell autonomous cell death	GO_0070239	1	0	1	0
@@ -108,21 +108,21 @@ granzyme B localization to T cell secretory granule	GO_0033380	1	0	1	0
 regulation of gamma-delta T cell proliferation	GO_0046646	1	0	1	0
 positive regulation of T cell cytokine production	GO_0002726	1	0	1	0
 T cell receptor signaling pathway	GO_0050852	1	0	1	0
-regulation of alpha-beta T cell activation	GO_0046634	1	0	1	0
-negative regulation of regulatory T cell differentiation	GO_0045590	1	0	1	0
 pro-T cell differentiation	GO_0002572	1	0	1	0
+negative regulation of regulatory T cell differentiation	GO_0045590	1	0	1	0
+regulation of alpha-beta T cell activation	GO_0046634	1	0	1	0
 regulation of peripheral T cell tolerance induction	GO_0002849	1	0	1	0
 regulation of T cell extravasation	GO_2000407	1	0	1	0
 regulation of cytotoxic T cell differentiation	GO_0045583	1	0	1	0
 negative regulation of alpha-beta T cell proliferation	GO_0046642	1	0	1	0
 regulation of regulatory T cell differentiation	GO_0045589	1	0	1	0
 negative regulation of alpha-beta T cell activation	GO_0046636	1	0	1	0
-regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	1	0	1	0
-regulation of T cell differentiation	GO_0045580	1	0	1	0
 positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032831	1	0	1	0
-regulation of T cell homeostatic proliferation	GO_0046013	1	0	1	0
-positive regulation of alpha-beta T cell proliferation	GO_0046641	1	0	1	0
+regulation of T cell differentiation	GO_0045580	1	0	1	0
+regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	1	0	1	0
 positive regulation of activated T cell autonomous cell death	GO_0070241	1	0	1	0
+positive regulation of alpha-beta T cell proliferation	GO_0046641	1	0	1	0
+regulation of T cell homeostatic proliferation	GO_0046013	1	0	1	0
 positive regulation of T cell chemotaxis	GO_0010820	1	0	1	0
 positive regulation of T cell mediated cytotoxicity	GO_0001916	1	0	1	0
 CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	1	0	1	0
@@ -133,29 +133,29 @@ positive regulation of T cell costimulation	GO_2000525	1	0	1	0
 positive regulation of cytotoxic T cell differentiation	GO_0045585	1	0	1	0
 establishment of protease localization to T cell secretory granule	GO_0033378	1	0	1	0
 negative regulation of cytotoxic T cell degranulation	GO_0043318	1	0	1	0
-negative regulation of CD8-positive, alpha-beta T cell activation	GO_2001186	1	0	1	0
 positive regulation of T cell tolerance induction to tumor cell	GO_0002848	1	0	1	0
+negative regulation of CD8-positive, alpha-beta T cell activation	GO_2001186	1	0	1	0
 regulation of cytotoxic T cell degranulation	GO_0043317	1	0	1	0
-positive regulation of extrathymic T cell differentiation	GO_0033090	1	0	1	0
 regulation of initiation of T cell receptor signaling	GO_0023010	1	0	1	0
-regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000564	1	0	1	0
+positive regulation of extrathymic T cell differentiation	GO_0033090	1	0	1	0
 positive regulation of T cell differentiation	GO_0045582	1	0	1	0
+regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000564	1	0	1	0
 regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043376	1	0	1	0
-regulation of CD8-positive, alpha-beta T cell activation	GO_2001185	1	0	1	0
-positive regulation of T cell anergy	GO_0002669	1	0	1	0
 T cell activation of signal transmission via diffusible molecule	GO_0023018	1	0	1	0
+positive regulation of T cell anergy	GO_0002669	1	0	1	0
+regulation of CD8-positive, alpha-beta T cell activation	GO_2001185	1	0	1	0
 T cell apoptotic process	GO_0070231	1	0	1	0
 negative regulation of immature T cell proliferation	GO_0033087	1	0	1	0
 positive regulation of immature T cell proliferation	GO_0033091	1	0	1	0
 negative regulation of activated T cell proliferation	GO_0046007	1	0	1	0
 negative regulation of gamma-delta T cell proliferation	GO_0046647	1	0	1	0
-positive regulation of CD8-positive, alpha-beta T cell activation	GO_2001187	1	0	1	0
 positive regulation of gamma-delta T cell differentiation	GO_0045588	1	0	1	0
+positive regulation of CD8-positive, alpha-beta T cell activation	GO_2001187	1	0	1	0
 T cell antigen processing and presentation	GO_0002457	1	0	1	0
 positive regulation of peripheral T cell tolerance induction	GO_0002851	1	0	1	0
 T cell inhibitory signaling pathway	GO_0002770	1	0	1	0
-negative regulation of T cell extravasation	GO_2000408	1	0	1	0
 negative regulation of peripheral T cell tolerance induction	GO_0002850	1	0	1	0
+negative regulation of T cell extravasation	GO_2000408	1	0	1	0
 positive regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000563	1	0	1	0
 positive regulation of CD4-positive, alpha-beta T cell costimulation	GO_1900281	1	0	1	0
 positive regulation of regulatory T cell differentiation	GO_0045591	1	0	1	0
@@ -174,27 +174,27 @@ negative regulation of pro-T cell differentiation	GO_2000175	1	0	1	0
 maintenance of granzyme B location in T cell secretory granule	GO_0033382	1	0	1	0
 negative regulation of T cell activation	GO_0050868	1	0	1	0
 regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000452	1	0	1	0
-positive regulation of T cell differentiation in thymus	GO_0033089	1	0	1	0
 negative regulation of T cell mediated immunity	GO_0002710	1	0	1	0
+positive regulation of T cell differentiation in thymus	GO_0033089	1	0	1	0
 positive regulation of gamma-delta T cell proliferation	GO_0046648	1	0	1	0
 positive regulation of T cell migration	GO_2000406	1	0	1	0
 positive regulation of T cell apoptotic process	GO_0070234	1	0	1	0
-initiation of T cell receptor signaling by binding of a MHC complex to T cell receptor	GO_0023012	1	0	1	0
 establishment of protein localization to T cell secretory granule	GO_0033376	1	0	1	0
+initiation of T cell receptor signaling by binding of a MHC complex to T cell receptor	GO_0023012	1	0	1	0
 positive regulation of T cell mediated immunity	GO_0002711	1	0	1	0
 positive regulation of pro-T cell differentiation	GO_2000176	1	0	1	0
-negative regulation of CD4-positive, alpha-beta T cell costimulation	GO_1900280	1	0	1	0
 regulation of CD4-positive, alpha-beta T cell activation	GO_2000514	1	0	1	0
-negative regulation of T cell migration	GO_2000405	1	0	1	0
+negative regulation of CD4-positive, alpha-beta T cell costimulation	GO_1900280	1	0	1	0
 somatic recombination of T cell receptor gene segments	GO_0002681	1	0	1	0
+negative regulation of T cell migration	GO_2000405	1	0	1	0
 positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001190	1	0	1	0
-regulation of CD4-positive, alpha-beta T cell costimulation	GO_1900279	1	0	1	0
 positive regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002854	1	0	1	0
+regulation of CD4-positive, alpha-beta T cell costimulation	GO_1900279	1	0	1	0
 T cell receptor V(D)J recombination	GO_0033153	1	0	1	0
 regulation of alpha-beta T cell proliferation	GO_0046640	1	0	1	0
 positive regulation of T cell extravasation	GO_2000409	1	0	1	0
-maintenance of protein location in T cell secretory granule	GO_0033377	1	0	1	0
 proteasomal protein catabolic process	GO_0010498	1	0	1	0
+maintenance of protein location in T cell secretory granule	GO_0033377	1	0	1	0
 regulation of pro-T cell differentiation	GO_2000174	1	0	1	0
 T cell lineage commitment	GO_0002360	1	0	1	0
 ligand binding to T cell receptor	GO_0023007	1	0	1	0
@@ -203,15 +203,15 @@ negative regulation of alpha-beta T cell differentiation	GO_0046639	1	0	1	0
 negative regulation of T cell receptor signaling pathway	GO_0050860	1	0	1	0
 negative regulation of T cell anergy	GO_0002668	1	0	1	0
 negative regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043377	1	0	1	0
-negative regulation of T cell tolerance induction	GO_0002665	1	0	1	0
 central T cell tolerance induction	GO_0002512	1	0	1	0
-positive regulation of T cell activation	GO_0050870	1	0	1	0
+negative regulation of T cell tolerance induction	GO_0002665	1	0	1	0
 regulation of gamma-delta T cell differentiation	GO_0045586	1	0	1	0
+positive regulation of T cell activation	GO_0050870	1	0	1	0
 negative regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002853	1	0	1	0
 pro-T cell lineage commitment	GO_0002680	1	0	1	0
 regulation of activation-induced cell death of T cells	GO_0070235	1	0	1	0
-negative regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000450	1	0	1	0
 negative regulation of memory T cell differentiation	GO_0043381	1	0	1	0
+negative regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000450	1	0	1	0
 initiation of T cell receptor signaling	GO_0023009	1	0	1	0
 positive regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000451	1	0	1	0
 positive regulation of memory T cell activation	GO_2000568	1	0	1	0
@@ -219,20 +219,20 @@ negative regulation of immature T cell proliferation in thymus	GO_0033088	1	0	1	
 positive regulation of alpha-beta T cell differentiation	GO_0046638	1	0	1	0
 regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002852	1	0	1	0
 negative regulation of T cell tolerance induction to tumor cell	GO_0002847	1	0	1	0
-negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	1	0	1	0
 positive regulation of immature T cell proliferation in thymus	GO_0033092	1	0	1	0
+negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	1	0	1	0
 positive regulation of T cell antigen processing and presentation	GO_0002627	1	0	1	0
 protease localization to T cell secretory granule	GO_0033375	1	0	1	0
-regulation of T cell migration	GO_2000404	1	0	1	0
 T cell tolerance induction	GO_0002517	1	0	1	0
+regulation of T cell migration	GO_2000404	1	0	1	0
 negative regulation of T cell cytokine production	GO_0002725	1	0	1	0
 regulation of T cell receptor signaling pathway	GO_0050856	1	0	1	0
 regulation of T cell mediated immunity	GO_0002709	1	0	1	0
 positive regulation of T cell tolerance induction	GO_0002666	1	0	1	0
 protein localization to T cell secretory granule	GO_0033374	1	0	1	0
 positive regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043372	1	0	1	0
-regulation of T cell activation	GO_0050863	1	0	1	0
 regulation of T cell tolerance induction to tumor cell	GO_0002846	1	0	1	0
+regulation of T cell activation	GO_0050863	1	0	1	0
 regulation of T cell chemotaxis	GO_0010819	1	0	1	0
 positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000454	1	0	1	0
 regulation of memory T cell differentiation	GO_0043380	1	0	1	0
@@ -240,18 +240,18 @@ regulation of T cell tolerance induction	GO_0002664	1	0	1	0
 positive regulation of gamma-delta T cell activation	GO_0046645	1	0	1	0
 regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032829	1	0	1	0
 positive regulation of cytotoxic T cell degranulation	GO_0043319	1	0	1	0
-negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000453	1	0	1	0
 T cell aggregation	GO_0070489	1	0	1	0
-termination of T cell signal transduction	GO_0023022	1	0	1	0
+negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000453	1	0	1	0
 negative regulation of T cell mediated cytotoxicity	GO_0001915	1	0	1	0
-regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000561	1	0	1	0
+termination of T cell signal transduction	GO_0023022	1	0	1	0
 negative regulation of activated T cell autonomous cell death	GO_0070240	1	0	1	0
+regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000561	1	0	1	0
 T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0
 NK T cell activation involved in immune response	GO_0002288	0	1	0	0
 helper T cell chemotaxis	GO_0035704	0	1	0	0
 T-helper 1 cell extravasation	GO_0035687	0	1	0	0
-thymocyte migration	GO_0072679	0	1	0	0
 T cell mediated immune response to tumor cell	GO_0002424	0	1	0	0
+thymocyte migration	GO_0072679	0	1	0	0
 CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0
 T cell differentiation involved in immune response	GO_0002292	0	1	0	0
 CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0

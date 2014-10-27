@@ -12,8 +12,8 @@ double-strand break repair via break-induced replication	GO_0000727	0	1	0	0
 recombinational repair	GO_0000725	0	1	0	0
 DNA recombination	GO_0006310	0	1	0	0
 reciprocal DNA recombination	GO_0035825	0	1	0	0
-plasmid recombination	GO_0042150	0	1	0	0
 single-strand break repair via homologous recombination	GO_1990396	0	1	0	0
+plasmid recombination	GO_0042150	0	1	0	0
 peripheral B cell receptor editing	GO_0002345	0	1	0	0
 gene conversion	GO_0035822	0	1	0	0
 somatic diversification of immune receptors via germline recombination within a single locus	GO_0002562	0	1	0	0
@@ -22,12 +22,12 @@ isotype switching to IgG isotypes	GO_0048291	0	1	0	0
 B cell receptor editing	GO_0002452	0	1	0	0
 V(D)J recombination	GO_0033151	0	1	0	0
 recombinational interstrand cross-link repair	GO_0036298	0	1	0	0
-somatic recombination of immunoglobulin gene segments	GO_0016447	0	1	0	0
 replicative transposition, DNA-mediated	GO_0098039	0	1	0	0
+somatic recombination of immunoglobulin gene segments	GO_0016447	0	1	0	0
 homing of group II introns	GO_0006315	0	1	0	0
 isotype switching to IgE isotypes	GO_0048289	0	1	0	0
-interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
 transposition, DNA-mediated	GO_0006313	0	1	0	0
+interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
 intron homing	GO_0006314	0	1	0	0
 isotype switching to IgD isotypes	GO_0048292	0	1	0	0
 isotype switching	GO_0045190	0	1	0	0

@@ -3,12 +3,12 @@ negative regulation of neurotrophin TRK receptor signaling pathway	GO_0051387	1	
 negative regulation of nerve growth factor receptor activity	GO_0051395	1	1	1	0
 negative regulation of nerve growth factor production	GO_0032904	1	0	1	0
 regulation of neurotrophin TRK receptor signaling pathway	GO_0051386	0	1	0	0
-neurotrophin signaling pathway	GO_0038179	0	1	0	0
 negative regulation of brain-derived neurotrophic factor-activated receptor activity	GO_0031552	0	1	0	0
-positive regulation of brain-derived neurotrophic factor-activated receptor activity	GO_0031553	0	1	0	0
+neurotrophin signaling pathway	GO_0038179	0	1	0	0
 regulation of nerve growth factor receptor activity	GO_0051394	0	1	1	0
-nerve growth factor signaling pathway	GO_0038180	0	1	1	0
+positive regulation of brain-derived neurotrophic factor-activated receptor activity	GO_0031553	0	1	0	0
 positive regulation of nerve growth factor receptor activity	GO_0051396	0	1	1	0
+nerve growth factor signaling pathway	GO_0038180	0	1	1	0
 neurotrophin TRK receptor signaling pathway	GO_0048011	0	1	0	0
 nerve growth factor receptor activity	GO_0010465	0	1	1	0
 brain-derived neurotrophic factor-activated receptor activity	GO_0060175	0	1	0	0
