@@ -8,9 +8,9 @@ aspartate transport	GO_0015810	1	0	1	0
 aspartate family amino acid metabolic process	GO_0009066	1	0	1	0
 aspartate family amino acid catabolic process	GO_0009068	1	0	1	0
 aspartate family amino acid biosynthetic process	GO_0009067	1	0	1	0
-nicotinamide nucleotide biosynthetic process from aspartate	GO_0019355	0	1	0	0
-glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	0	0
-glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	0	0
-glutamine catabolic process to fumarate	GO_0019460	0	1	0	0
-glutamate catabolic process to aspartate	GO_0019550	0	1	0	0
-'de novo' NAD biosynthetic process from aspartate	GO_0034628	0	1	0	0
+nicotinamide nucleotide biosynthetic process from aspartate	GO_0019355	0	1	1	0
+glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	1	0
+glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	1	0
+glutamine catabolic process to fumarate	GO_0019460	0	1	1	0
+glutamate catabolic process to aspartate	GO_0019550	0	1	1	0
+'de novo' NAD biosynthetic process from aspartate	GO_0034628	0	1	1	0
