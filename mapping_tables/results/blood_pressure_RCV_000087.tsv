@@ -1,0 +1,66 @@
+name	ID	manual	auto	checked	blacklisted
+positive regulation of systemic arterial blood pressure	GO_0003084	1	1	1	0
+positive regulation of blood pressure in other organism	GO_0044497	1	1	1	0
+positive regulation of blood pressure by epinephrine-norepinephrine	GO_0003321	1	1	1	0
+positive regulation of blood pressure	GO_0045777	1	1	1	0
+baroreceptor response to decreased systemic arterial blood pressure	GO_0001982	1	1	1	0
+secretion of vasopressin involved in fast regulation of systemic arterial blood pressure	GO_0002004	1	0	1	0
+regulation of systemic arterial blood pressure mediated by a chemical signal	GO_0003044	1	0	1	0
+regulation of systemic arterial blood pressure involved in acute-phase response	GO_0002530	1	0	1	0
+regulation of systemic arterial blood pressure by vasopressin	GO_0001992	1	0	1	0
+regulation of systemic arterial blood pressure by stress relaxation	GO_0003046	1	0	1	0
+regulation of systemic arterial blood pressure by renin-angiotensin	GO_0003081	1	0	1	0
+regulation of systemic arterial blood pressure by physical factors	GO_0003045	1	0	1	0
+regulation of systemic arterial blood pressure by norepinephrine-epinephrine	GO_0001993	1	0	1	0
+regulation of systemic arterial blood pressure by norepinephrine	GO_0003048	1	0	1	0
+regulation of systemic arterial blood pressure by neurotransmitter	GO_0003070	1	0	1	0
+regulation of systemic arterial blood pressure by local renal renin-angiotensin	GO_0003086	1	0	1	0
+regulation of systemic arterial blood pressure by ischemic conditions	GO_0001980	1	0	1	0
+regulation of systemic arterial blood pressure by hormone	GO_0001990	1	0	1	0
+regulation of systemic arterial blood pressure by epinephrine	GO_0003047	1	0	1	0
+regulation of systemic arterial blood pressure by endothelin	GO_0003100	1	0	1	0
+regulation of systemic arterial blood pressure by circulatory renin-angiotensin	GO_0001991	1	0	1	0
+regulation of systemic arterial blood pressure by circulatory epinephrine-norepinephrine	GO_0003101	1	0	1	0
+regulation of systemic arterial blood pressure by chemoreceptor signaling	GO_0001979	1	0	1	0
+regulation of systemic arterial blood pressure by carotid sinus baroreceptor feedback	GO_0001978	1	0	1	0
+regulation of systemic arterial blood pressure by carotid body chemoreceptor signaling	GO_0003027	1	0	1	0
+regulation of systemic arterial blood pressure by capillary fluid shift	GO_0003049	1	0	1	0
+regulation of systemic arterial blood pressure by baroreceptor feedback	GO_0003025	1	0	1	0
+regulation of systemic arterial blood pressure by atrial natriuretic peptide	GO_0003050	1	0	1	0
+regulation of systemic arterial blood pressure by atrial baroreceptor feedback	GO_0002015	1	0	1	0
+regulation of systemic arterial blood pressure by aortic body chemoreceptor signaling	GO_0003028	1	0	1	0
+regulation of systemic arterial blood pressure by aortic arch baroreceptor feedback	GO_0003026	1	0	1	0
+regulation of systemic arterial blood pressure by acetylcholine	GO_0003068	1	0	1	0
+regulation of systemic arterial blood pressure	GO_0003073	1	0	1	0
+regulation of lung blood pressure	GO_0014916	1	0	1	0
+regulation of blood pressure by chemoreceptor signaling pathway	GO_0010850	1	0	1	0
+regulation of blood pressure	GO_0008217	1	0	1	0
+positive regulation of the force of heart contraction involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001989	1	0	1	0
+positive regulation of heart rate involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001988	1	0	1	0
+neurological system process involved in regulation of systemic arterial blood pressure	GO_0001976	1	0	1	0
+negative regulation of the force of heart contraction involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001986	1	0	1	0
+negative regulation of systemic arterial blood pressure	GO_0003085	1	0	1	0
+negative regulation of heart rate involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001985	1	0	1	0
+negative regulation of blood pressure in other organism	GO_0044496	1	0	1	0
+negative regulation of blood pressure	GO_0045776	1	0	1	0
+modulation of blood pressure in other organism	GO_0044495	1	0	1	0
+envenomation resulting in positive regulation of blood pressure in other organism	GO_0044499	1	0	1	0
+envenomation resulting in negative regulation of blood pressure in other organism	GO_0044500	1	0	1	0
+envenomation resulting in modulation of blood pressure in other organism	GO_0044498	1	0	1	0
+circadian regulation of systemic arterial blood pressure by the suprachiasmatic nucleus	GO_0003054	1	0	1	0
+circadian regulation of systemic arterial blood pressure by hormone	GO_0003067	1	0	1	0
+circadian regulation of systemic arterial blood pressure	GO_0003052	1	0	1	0
+baroreceptor response to increased systemic arterial blood pressure	GO_0001983	1	0	1	0
+baroreceptor detection of increased arterial stretch	GO_0003023	1	0	1	0
+baroreceptor detection of decreased arterial stretch	GO_0003024	1	0	1	0
+baroreceptor detection of arterial stretch	GO_0001981	1	0	1	0
+vasoconstriction of artery involved in ischemic response to lowering of systemic arterial blood pressure	GO_0002014	0	1	0	0
+vasoconstriction of artery involved in chemoreceptor response to lowering of systemic arterial blood pressure	GO_0002012	0	1	0	0
+vasoconstriction of artery involved in carotid body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003042	0	1	0	0
+vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003043	0	1	0	0
+vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	0	1	0	0
+regulation of blood volume by renal aldosterone	GO_0002017	0	1	0	0
+negative regulation of renal sodium excretion by angiotensin	GO_0035820	0	1	0	0
+negative regulation of renal output by angiotensin	GO_0003083	0	1	0	0
+negative regulation of glomerular filtration by angiotensin	GO_0003106	0	1	0	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	0	0

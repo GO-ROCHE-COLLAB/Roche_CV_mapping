@@ -1,0 +1,16 @@
+name	ID	manual	auto	checked	blacklisted
+aorta smooth muscle tissue morphogenesis	GO_0060414	1	1	1	0
+aorta morphogenesis	GO_0035909	1	1	1	0
+aorta development	GO_0035904	1	1	1	0
+aortic valve morphogenesis	GO_0003180	1	0	1	0
+aortic valve formation	GO_0003189	1	0	1	0
+aortic valve development	GO_0003176	1	0	1	0
+aortic smooth muscle cell differentiation	GO_0035887	1	0	1	0
+ventral aorta morphogenesis	GO_0035913	0	1	0	0
+ventral aorta development	GO_0035908	0	1	0	0
+dorsal aorta morphogenesis	GO_0035912	0	1	0	0
+dorsal aorta development	GO_0035907	0	1	0	0
+descending aorta morphogenesis	GO_0035911	0	1	0	0
+descending aorta development	GO_0035906	0	1	0	0
+ascending aorta morphogenesis	GO_0035910	0	1	0	0
+ascending aorta development	GO_0035905	0	1	0	0

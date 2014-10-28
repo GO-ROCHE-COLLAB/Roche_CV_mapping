@@ -1,0 +1,20 @@
+name	ID	manual	auto	checked	blacklisted
+arginine metabolic process	GO_0006525	1	1	1	0
+arginine deiminase pathway	GO_0019546	1	1	1	0
+arginine catabolic process to succinate	GO_0019545	1	1	1	0
+arginine catabolic process to spermine	GO_0019548	1	1	1	0
+arginine catabolic process to proline via ornithine	GO_0010121	1	1	1	0
+arginine catabolic process to proline	GO_0019493	1	1	1	0
+arginine catabolic process to ornithine	GO_0019547	1	1	1	0
+arginine catabolic process to glutamate	GO_0019544	1	1	1	0
+arginine catabolic process to alanine via ornithine	GO_0010122	1	1	1	0
+arginine catabolic process	GO_0006527	1	1	1	0
+arginine biosynthetic process via ornithine	GO_0042450	1	1	1	0
+arginine biosynthetic process	GO_0006526	1	1	1	0
+arginyl-tRNA aminoacylation	GO_0006420	1	0	1	0
+argininosuccinate metabolic process	GO_0000053	1	0	1	0
+arginine transport	GO_0015809	1	0	1	0
+putrescine biosynthetic process from arginine, using agmatinase	GO_0033389	0	1	0	0
+putrescine biosynthetic process from arginine via N-carbamoylputrescine	GO_0033390	0	1	0	0
+putrescine biosynthetic process from arginine	GO_0033388	0	1	0	0
+D-arginine metabolic process	GO_0033055	0	1	0	0

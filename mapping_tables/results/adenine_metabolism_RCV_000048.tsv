@@ -1,0 +1,8 @@
+name	ID	manual	auto	checked	blacklisted
+adenine salvage	GO_0006168	1	1	1	0
+adenine metabolic process	GO_0046083	1	1	1	0
+adenine catabolic process	GO_0006146	1	1	1	0
+adenine biosynthetic process	GO_0046084	1	1	1	0
+adenine, hypoxanthine and their nucleoside salvage	GO_0010140	1	0	1	0
+adenine transport	GO_0015853	1	0	1	0
+adenine nucleotide transport	GO_0051503	1	0	1	0
