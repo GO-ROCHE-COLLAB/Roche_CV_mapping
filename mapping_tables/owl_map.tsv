@@ -1,43 +1,153 @@
 RCV_NAME	RCV_ID	Key Class Name	Key Class ID	Applied pattern	Notes	issue	issue_state
-DNA repair	RCV_000009	DNA repair	GO_0006281	is_a_OR_part_of_OR_regulates_OR_capable_of	Laura: The manual map includes the odd regulation term and complex, so I've used a pattern that includes both of these.  But including these results in a much larger list than the manual one.  Should we keep this pattern?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/13	closed
-NF-kappaB pathway	RCV_000024	I-kappaB kinase/NF-kappaB signaling	GO_0007249	is_a_OR_part_of		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/16	closed
-SP1A pathway	RCV_000034	sphingosine-1-phosphate signaling pathway	GO_0003376	Equivalence		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/22	closed
-B cells	RCV_000001	B cell	CL_0000236	has_participant_cell	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/44	open
-BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/41	open
-BMP pathway	RCV_000003	BMP pathway	GO_0030509	is_a_OR_part_of_OR_regulates	Internal: Missing binding, secretion ligand etc.  Need a way to ask for processes with BMP as participant.	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/42	open
-CTGF	RCV_000004	connective tissue growth factor	PRO?	?	Internal: No axioms on key class.  Look into adding from Pro?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/27	open
-DNA binding process	RCV_000005	DNA binding process	GO_0003677	Equivalence	Laura: Looks good?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/40	open
-DNA damage	RCV_000006	DNA damage response, detection of DNA damage	GO_0042769	is_a_OR_part_of		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/38	open
-DNA dynamics	RCV_000007	?		?		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/26	open
-DNA recombination	RCV_000008	DNA recombination	GO_0006310	Equivalence	Laura: Perhaps this is just very incomplete? There are only 3 manual mappings.  The key class looks justified, but has 51 classes.  If you need a more constrained definition, can you suggest one?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/37	open
-DNA replication	RCV_000010	DNA replication	GO_0006260	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/59	open
-DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/58	open
-DNA silencing	RCV_000012	gene silencing	GO_0016458	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/61	open
-DNA synthesis	RCV_000013	DNA biosynthetic process	GO_0071897	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/60	open
-EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_0007173	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/56	open
-ERBB signaling pathway	RCV_000015	ERBB signaling pathway	GO_0038127	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/55	open
-FGF pathway	RCV_000016	fibroblast growth factor receptor signaling pathway	GO_0008543	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/57	open
-G-protein	RCV_000017	?		?	Laura: Having trouble automating this as its meaning seems much more constrained than implied my the name.  Manual mapping is only regulation of GPCR signaling pathway terms whose names explicilty reference  activity GPCR signaling. Is a broad interpretation correct, or should change the name to positive 	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/31	open
-GABAergic	RCV_000018	?		?		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/30	open
-GPCR signaling	RCV_000019	G-protein coupled receptor signaling pathway	GO_0007186	Equivalence	Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/51	open
-GTPase activity	RCV_000020	GTPase activity	GO_0003924	is_a_OR_part_of_OR_regulates_OR_capable_of	Manual mapping includes obsolete terms for individual G-protein subunits, automated mapping will pull in whole complex.	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/33	open
-MAPK inactivation	RCV_000021	negative regulation of MAP kinase activity	GO_0043407	Equivalence		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/34	open
-MAPK signalling	RCV_000022	MAPK cascade	GO_0000165	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/35	open
-Malpighian tubule stellate cell	RCV_000023	Malpighian tubule stellate cell	CL_1000155	?results in developmental progression of		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/25	open
-NGF pathway	RCV_000025	nerve growth factor signaling pathway	GO_0038180	is_a_OR_part_of_OR_regulates	Manual mapping includes 	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/36	open
-NK cells	RCV_000026	natural killer cell	CL_0000623	has_participant_cell		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/47	open
-Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	Equivalence		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/48	open
-PDGF pathway	RCV_000028	platelet-derived growth factor receptor signaling pathway	GO_0048008	?is_a_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/28	open
-PNS development	RCV_000029	peripheral nervous system development	GO_0007422	is_a_OR_part_of		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/39	open
-PPAR pathway	RCV_000030	peroxisome proliferator activated receptor signaling pathway	GO_0035357	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/54	open
-RNA interference	RCV_000031	RNA interference	GO_0016246	is_a_OR_part_of	Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/53	open
-RNA splicing	RCV_000032	RNA splicing	GO_0008380	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/52	open
-SMAD pathway	RCV_000033	SMAD protein signal transduction	GO_0060395	is_a_OR_part_of		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/46	open
-STATx phosphorylation	RCV_000035	tyrosine phosphorylation of stat protein	GO_0007260	Equivalence		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/50	open
-Ser-Thr kinase signaling	RCV_000036	transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	?is_a_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/29	open
-T cells	RCV_000037	T cell	CL_0000084	has_participant_cell	Also need inference of regulation of processes in which T cells participate?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/49	open
-T helper	RCV_000038	helper T cell	CL_0000912	?has_participant_cell OR results in developmental progression of		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/32	open
-TCA metabolism	RCV_000039	tricarboxylic acid anion	CHEBI_35753	has_participant_chemical		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/62	open
-triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/43	open
-wound healing	RCV_000356	wound healing	GO_0042060	is_a_OR_part_of_OR_regulates		https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/23	open
-zzinc ion homeostasis	RCV_000359	zinc ion homeostasis	GO_0055069	is_a_OR_part_of	Internal: GO axiomatisation insufficient?	https://api.github.com/repos/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/45	open
+Wnt pathway	RCV_000046			?			
+adhesion	RCV_000049			?			
+adipose	RCV_000050			?			
+adrenal	RCV_000052			?			
+adrenergic	RCV_000053			?			
+aerobic metabolism	RCV_000054			?			
+aging	RCV_000055			?			
+anaerobic metabolism	RCV_000060			?			
+angiotensin-mediated signaling pathway	RCV_000062			?			
+antifungal	RCV_000063			?			
+antimicrobial	RCV_000064			?			
+apoptosis	RCV_000066	apoptotic process	GO_0006915	?			
+apoptosis glands	RCV_000067			?occurs in  - pattern requires 2 key classes?			
+apoptosis heart	RCV_000068			?occurs in  - pattern requires 2 key classes?			
+apoptosis kidney	RCV_000069			?occurs in  - pattern requires 2 key classes?			
+artery	RCV_000071			?			
+astrocyte	RCV_000074	astrocyte	CL_0000127	? occurs in or has_participant ? + dev?			
+auditory behavior	RCV_000075			?			
+autophagy	RCV_000076			?			
+auxin	RCV_000077			?			
+axon	RCV_000078			?			
+bacterial	RCV_000079			?			
+base pairing	RCV_000080			?			
+basophil	RCV_000081			?			
+behaviour	RCV_000082			?			
+beta cells	RCV_000083			?			
+beta-amyloid	RCV_000084			?			
+bile acid	RCV_000085			?			
+blood coagulation	RCV_000086			?			
+bone	RCV_000088			?			
+bone marrow	RCV_000089			?			
+brain	RCV_000090			?ocurs in + results in development of?			
+cAMP metabolism	RCV_000092			?			
+calcium homeostasis	RCV_000093			?			
+calcium signalling	RCV_000094			?			
+cannabinoid	RCV_000095			?			
+carnitine metabolism	RCV_000096			?			
+cartilage	RCV_000097			?			
+cell adhesion	RCV_000098			?			
+cell adhesion and motility	RCV_000099			?			
+cell aging	RCV_000100			?			
+cell cell signaling	RCV_000101			?			
+cell cycle	RCV_000102			?			
+cell cycle G0/G1	RCV_000103			?			
+cell cycle G1	RCV_000104			?			
+cell cycle G1/G0	RCV_000105			?			
+cell cycle G1/S	RCV_000106			?			
+cell cycle G2	RCV_000107			?			
+cell cycle G2/M	RCV_000108			?			
+cell cycle M	RCV_000109			?			
+cell cycle M/G1	RCV_000110			?			
+cell cycle S	RCV_000111			?			
+cell cycle S/G2	RCV_000112			?			
+cell cycle arrest	RCV_000113			?			
+cell death	RCV_000114			?			
+cell differentiation	RCV_000115			?			
+cell division	RCV_000116			?			
+cell growth	RCV_000117			?			
+cell matrix	RCV_000118			?			
+cell metabolism	RCV_000119			?			
+cell migration	RCV_000120			?			
+cell morphogenesis	RCV_000121			?			
+cell motility	RCV_000122			?			
+cell proliferation	RCV_000123			?			
+cell shape	RCV_000124			?			
+cell structure	RCV_000125			?			
+cell wall	RCV_000126			?			
+cell-cell adhesion	RCV_000127			?			
+cell-cell interaction	RCV_000128			?			
+cell-cell signaling	RCV_000129			?			
+cell-matrix adhesion	RCV_000130			?			
+central nervous system	RCV_000131			?			
+cerebellar stellate cell	RCV_000132			?			
+cerebellum	RCV_000133			?			
+chemotaxis	RCV_000134			?			
+cholesterol metabolism	RCV_000135			?			
+cholinergic	RCV_000136			?			
+circadian	RCV_000137			?			
+circulatory system	RCV_000138			?			
+cytoskeleton	RCV_000139			?			
+defense response	RCV_000140			?			
+dendritic cell	RCV_000141			?			
+detoxification	RCV_000142			?			
+digestive tract development	RCV_000143			?			
+digestive tract function	RCV_000144			?			
+dopamine	RCV_000145			?			
+embryo development	RCV_000146			?			
+embryonic development	RCV_000147			?			
+embryonic_development_goslim	RCV_000148			?			
+endocrine	RCV_000149			?			
+B cells	RCV_000001	B cell	CL_0000236	has_participant_cell	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.	44	closed
+BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates		41	closed
+DNA binding process	RCV_000005	DNA binding process	GO_0003677	Equivalence	Laura: Looks good?	40	closed
+DNA dynamics	RCV_000007	?		?		26	closed
+DNA repair	RCV_000009	DNA repair	GO_0006281	is_a_OR_part_of_OR_regulates_OR_capable_of	Laura: The manual map includes the odd regulation term and complex, so I've used a pattern that includes both of these.  But including these results in a much larger list than the manual one.  Should we keep this pattern?	13	closed
+DNA replication	RCV_000010	DNA replication	GO_0006260	is_a_OR_part_of_OR_regulates		59	closed
+DNA synthesis	RCV_000013	DNA biosynthetic process	GO_0071897	is_a_OR_part_of_OR_regulates		60	closed
+EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_0007173	is_a_OR_part_of_OR_regulates		56	closed
+ERBB signaling pathway	RCV_000015	ERBB signaling pathway	GO_0038127	is_a_OR_part_of_OR_regulates		55	closed
+NF-kappaB pathway	RCV_000024	I-kappaB kinase/NF-kappaB signaling	GO_0007249	is_a_OR_part_of		16	closed
+PNS development	RCV_000029	peripheral nervous system development	GO_0007422	is_a_OR_part_of		39	closed
+PPAR pathway	RCV_000030	peroxisome proliferator activated receptor signaling pathway	GO_0035357	is_a_OR_part_of_OR_regulates		54	closed
+RNA splicing	RCV_000032	RNA splicing	GO_0008380	is_a_OR_part_of_OR_regulates		52	closed
+SP1A pathway	RCV_000034	sphingosine-1-phosphate signaling pathway	GO_0003376	Equivalence		22	closed
+STATx phosphorylation	RCV_000035	tyrosine phosphorylation of stat protein	GO_0007260	Equivalence		50	closed
+TLRx pathway	RCV_000041	toll-like receptor signaling pathway	GO_0002224	is_a_OR_part_of_OR_regulates		64	closed
+BMP pathway	RCV_000003	BMP pathway	GO_0030509	is_a_OR_part_of_OR_regulates	Internal: Missing binding, secretion ligand etc.  Need a way to ask for processes with BMP as participant.	42	open
+CTGF	RCV_000004	connective tissue growth factor	PRO?	?	Internal: No axioms on key class.  Look into adding from Pro?	27	open
+DNA damage	RCV_000006	DNA damage response, detection of DNA damage	GO_0042769	is_a_OR_part_of		38	open
+DNA recombination	RCV_000008	DNA recombination	GO_0006310	Equivalence	Laura: Perhaps this is just very incomplete? There are only 3 manual mappings.  The key class looks justified, but has 51 classes.  If you need a more constrained definition, can you suggest one?	37	open
+DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?	20	open
+DNA silencing	RCV_000012	chromatin silencing	GO_0006342	is_a_OR_part_of_OR_regulates		61	open
+FGF pathway	RCV_000016	fibroblast growth factor receptor signaling pathway	GO_0008543	is_a_OR_part_of_OR_regulates		57	open
+G-protein	RCV_000017	?		?	Laura: Having trouble automating this as its meaning seems much more constrained than implied my the name.  Manual mapping is only regulation of GPCR signaling pathway terms whose names explicilty reference  activity GPCR signaling. Is a broad interpretation correct, or should change the name to positive 	31	open
+GABAergic	RCV_000018	?		?		30	open
+GPCR signaling	RCV_000019	G-protein coupled receptor signaling pathway	GO_0007186	Equivalence	Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?	14	open
+GTPase activity	RCV_000020	GTPase activity	GO_0003924	is_a_OR_part_of_OR_regulates_OR_capable_of	Manual mapping includes obsolete terms for individual G-protein subunits, automated mapping will pull in whole complex.	33	open
+MAPK inactivation	RCV_000021	negative regulation of MAP kinase activity	GO_0043407	Equivalence		34	open
+MAPK signalling	RCV_000022	MAPK cascade	GO_0000165	is_a_OR_part_of_OR_regulates		35	open
+Malpighian tubule stellate cell	RCV_000023	Malpighian tubule stellate cell	CL_1000155	?results in developmental progression of		25	open
+neurotrophin signaling	RCV_000025	neurotrophin signaling pathway	GO_0038180	is_a_OR_part_of_OR_regulates		65	open
+NK cells	RCV_000026	natural killer cell	CL_0000623	has_participant_cell		47	open
+Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	Equivalence		48	open
+PDGF pathway	RCV_000028	platelet-derived growth factor receptor signaling pathway	GO_0048008	?is_a_OR_regulates		28	open
+RNA interference	RCV_000031	RNA interference	GO_0016246	is_a_OR_part_of	Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?	53	open
+SMAD pathway	RCV_000033	SMAD protein signal transduction	GO_0060395	is_a_OR_part_of		46	open
+Ser-Thr kinase signaling	RCV_000036	transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	?is_a_OR_regulates		29	open
+T cells	RCV_000037	T cell	CL_0000084	has_participant_cell	Also need inference of regulation of processes in which T cells participate?	49	open
+T helper	RCV_000038	helper T cell	CL_0000912	?has_participant_cell OR results in developmental progression of		32	open
+TCA metabolism	RCV_000039	tricarboxylic acid anion	CHEBI_35753	has_participant_chemical		62	open
+TGF beta pathway	RCV_000040	cellular response to transforming growth factor beta stimulus	GO_0071560	is_a_OR_part_of_OR_regulates	1	68	open
+TNF pathway	RCV_000042	tumor necrosis factor-mediated signaling pathway	GO_0033209	is_a_OR_part_of_OR_regulates		66	open
+TRAIL production	RCV_000043	TRAIL biosynthetic process	GO_0045553	Equivalence		67	open
+UDP metabolism	RCV_000044	UDP-sugar	CHEBI_17297	has_participant_chemical		69	open
+VEGF pathway	RCV_000045	vascular endothelial growth factor signaling pathway	GO_0038084	is_a_OR_part_of_OR_regulates		75	open
+acetylcholine	RCV_000047	acetylcholine	CHEBI_15355	has_participant_chemical		74	open
+adenine metabolism	RCV_000048	adenine metabolic process	GO_0046083	Equivalence		76	open
+adipose differentiation	RCV_000051	adipose tissue development	GO_0060612	is_a_OR_part_of_OR_regulates		77	open
+allantoin metabolism	RCV_000056	allantoin metabolic process	GO_0000255	Equivalence		79	open
+amine metabolism	RCV_000057	amine metabolic process	GO_0009308	Equivalence		78	open
+aminoacid metabolism	RCV_000058	alpha-amino acid metabolic process	GO_1901605	Equivalence		81	open
+amyloid metabolism	RCV_000059	amyloid precursor protein metabolic process	GO_0042982	Equivalence		80	open
+angiogenesis	RCV_000061	angiogenesis	GO_0001525	is_a_OR_part_of_OR_regulates		83	open
+aorta development	RCV_000065	aorta development	GO_0035904	is_a_OR_part_of_OR_regulates		82	open
+arginine metabolism	RCV_000070	arginine metabolic process	GO_0006525	Equivalence		86	open
+asparagine metabolism	RCV_000072	asparagine metabolic process	GO_0006528	Equivalence		85	open
+aspartate metabolism	RCV_000073	aspartate metabolic process	GO_0006531	Equivalence		84	open
+blood pressure	RCV_000087	regulation of blood pressure	GO_0008217	Equivalence		71	open
+brain development	RCV_000091	brain development	GO_0007420	is_a_OR_part_of_OR_regulates		72	open
+triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical		43	open
+wound healing	RCV_000356	wound healing	GO_0042060	is_a_OR_part_of_OR_regulates		23	open
+zinc ion homeostasis	RCV_000359	zinc ion homeostasis	GO_0055069	is_a_OR_part_of	Internal: GO axiomatisation insufficient?	73	open

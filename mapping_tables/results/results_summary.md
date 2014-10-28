@@ -6,8 +6,8 @@
 * Definition: As for adenine metabolic process.
 * map summary: Roche_cvt: RCV_000048; class_expression GO_0046083; manual_list_count 7, generated_list_count 4
 * [Results](adenine_metabolism_RCV_000048.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/76)
+* Status: open
 
 #### B cells RCV_000001
 * Key class: [B cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000236)
@@ -26,7 +26,7 @@
 * map summary: Roche_cvt: RCV_000041; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0002224; manual_list_count 87, generated_list_count 85
 * [Results](TLRx_pathway_RCV_000041.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/64)
-* Status: open
+* Status: closed
 
 #### DNA repair RCV_000009
 * Key class: [DNA repair](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006281)
@@ -152,8 +152,8 @@
 * Definition: As for amyloid precursor protein metabolic process.
 * map summary: Roche_cvt: RCV_000059; class_expression GO_0042982; manual_list_count 3, generated_list_count 4
 * [Results](amyloid_metabolism_RCV_000059.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/80)
+* Status: open
 
 #### wound healing RCV_000356
 * Key class: [wound healing](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042060)
@@ -170,17 +170,17 @@
 * Definition: aorta development OR a part of aorta development OR a process that regulates aorta development
 * map summary: Roche_cvt: RCV_000065; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0035904; manual_list_count 7, generated_list_count 11
 * [Results](aorta_development_RCV_000065.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/82)
+* Status: open
 
 #### blood pressure RCV_000087
-* Key class: [regulation of blood pressure](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045777)
+* Key class: [regulation of blood pressure](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008217)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for regulation of blood pressure.
-* map summary: Roche_cvt: RCV_000087; class_expression GO_0045777; manual_list_count 55, generated_list_count 15
+* map summary: Roche_cvt: RCV_000087; class_expression GO_0008217; manual_list_count 55, generated_list_count 55
 * [Results](blood_pressure_RCV_000087.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/71)
+* Status: open
 
 #### aspartate metabolism RCV_000073
 * Key class: [aspartate metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006531)
@@ -188,8 +188,8 @@
 * Definition: As for aspartate metabolic process.
 * map summary: Roche_cvt: RCV_000073; class_expression GO_0006531; manual_list_count 9, generated_list_count 10
 * [Results](aspartate_metabolism_RCV_000073.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/84)
+* Status: open
 
 #### NGF pathway RCV_000025
 * Key class: [neurotrophin signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0038180)
@@ -225,8 +225,8 @@
 * Definition: adipose tissue development OR a part of adipose tissue development OR a process that regulates adipose tissue development
 * map summary: Roche_cvt: RCV_000051; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060612; manual_list_count 5, generated_list_count 8
 * [Results](adipose_differentiation_RCV_000051.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/77)
+* Status: open
 
 #### amine metabolism RCV_000057
 * Key class: [amine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0009308)
@@ -234,8 +234,8 @@
 * Definition: As for amine metabolic process.
 * map summary: Roche_cvt: RCV_000057; class_expression GO_0009308; manual_list_count 9, generated_list_count 132
 * [Results](amine_metabolism_RCV_000057.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/78)
+* Status: open
 
 #### UDP metabolism RCV_000044
 * Key class: [UDP-sugar](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17297)
@@ -297,8 +297,8 @@
 * Definition: As for alpha-amino acid metabolic process.
 * map summary: Roche_cvt: RCV_000058; class_expression GO_1901605; manual_list_count 302, generated_list_count 356
 * [Results](aminoacid_metabolism_RCV_000058.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/81)
+* Status: open
 
 #### angiogenesis RCV_000061
 * Key class: [angiogenesis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0001525)
@@ -306,8 +306,8 @@
 * Definition: angiogenesis OR a part of angiogenesis OR a process that regulates angiogenesis
 * map summary: Roche_cvt: RCV_000061; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0001525; manual_list_count 14, generated_list_count 24
 * [Results](angiogenesis_RCV_000061.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/83)
+* Status: open
 
 #### BMP pathway RCV_000003
 * Key class: [BMP pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030509)
@@ -389,8 +389,8 @@
 * Definition: As for allantoin metabolic process.
 * map summary: Roche_cvt: RCV_000056; class_expression GO_0000255; manual_list_count 7, generated_list_count 4
 * [Results](allantoin_metabolism_RCV_000056.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/79)
+* Status: open
 
 #### GTPase activity RCV_000020
 * Key class: [GTPase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003924)
@@ -413,7 +413,7 @@
 * map summary: Roche_cvt: RCV_000359; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0055069; manual_list_count 7, generated_list_count 3
 * Notes: Internal: GO axiomatisation insufficient?
 * [Results](zinc_ion_homeostasis_RCV_000359.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/45)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/73)
 * Status: open
 
 #### triglyceride RCV_000336
@@ -431,8 +431,17 @@
 * Definition: As for asparagine metabolic process.
 * map summary: Roche_cvt: RCV_000072; class_expression GO_0006528; manual_list_count 10, generated_list_count 11
 * [Results](asparagine_metabolism_RCV_000072.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/85)
+* Status: open
+
+#### acetylcholine RCV_000047
+* Key class: [acetylcholine](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:15355)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some acetylcholine participates.
+* map summary: Roche_cvt: RCV_000047; class_expression RO_0000057 some CHEBI_15355; manual_list_count 26, generated_list_count 14
+* [Results](acetylcholine_RCV_000047.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/74)
+* Status: open
 
 #### PPAR pathway RCV_000030
 * Key class: [peroxisome proliferator activated receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0035357)
@@ -443,23 +452,14 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/54)
 * Status: closed
 
-#### acetylcholine RCV_000047
-* Key class: [acetylcholine](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:15355)
-* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some acetylcholine participates.
-* map summary: Roche_cvt: RCV_000047; class_expression RO_0000057 some CHEBI_15355; manual_list_count 26, generated_list_count 14
-* [Results](acetylcholine_RCV_000047.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
-
 #### brain development RCV_000091
 * Key class: [brain development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007420)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: brain development OR a part of brain development OR a process that regulates brain development
 * map summary: Roche_cvt: RCV_000091; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007420; manual_list_count 91, generated_list_count 394
 * [Results](brain_development_RCV_000091.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/72)
+* Status: open
 
 #### arginine metabolism RCV_000070
 * Key class: [arginine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006525)
@@ -467,8 +467,8 @@
 * Definition: As for arginine metabolic process.
 * map summary: Roche_cvt: RCV_000070; class_expression GO_0006525; manual_list_count 15, generated_list_count 16
 * [Results](arginine_metabolism_RCV_000070.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/86)
+* Status: open
 
 #### EGFR pathway RCV_000014
 * Key class: [epidermal growth factor receptor singaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007173)
@@ -485,8 +485,8 @@
 * Definition: vascular endothelial growth factor signaling pathway OR a part of vascular endothelial growth factor signaling pathway OR a process that regulates vascular endothelial growth factor signaling pathway
 * map summary: Roche_cvt: RCV_000045; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038084; manual_list_count 3, generated_list_count 19
 * [Results](VEGF_pathway_RCV_000045.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/75)
+* Status: open
 
 #### DNA damage RCV_000006
 * Key class: [DNA damage response, detection of DNA damage](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042769)
