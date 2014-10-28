@@ -9,7 +9,7 @@ asparagine biosynthetic process	GO_0006529	1	1	1	0
 asparaginyl-tRNAAsn biosynthesis via transamidation	GO_0070680	1	0	1	0
 asparaginyl-tRNA aminoacylation	GO_0006421	1	0	1	0
 asparagine transport	GO_0006867	1	0	1	0
-cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	0	1	0	0
-L-asparagine metabolic process	GO_0070982	0	1	0	0
-L-asparagine biosynthetic process	GO_0070981	0	1	0	0
-(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	0	0
+cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	0	1	1	0
+L-asparagine metabolic process	GO_0070982	0	1	1	0
+L-asparagine biosynthetic process	GO_0070981	0	1	1	0
+(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	1	0
