@@ -40,6 +40,6 @@ DNA damage response, signal transduction by p53 class mediator resulting in cell
 DNA damage response, signal transduction by p53 class mediator	GO_0030330	1	0	1	0
 DNA damage induced protein phosphorylation	GO_0006975	1	0	1	0
 DNA damage checkpoint	GO_0000077	1	0	1	0
-detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	0	1
-detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	0	1
-detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	0	1
+detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	1	1
+detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	1	1
+detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	1	1
