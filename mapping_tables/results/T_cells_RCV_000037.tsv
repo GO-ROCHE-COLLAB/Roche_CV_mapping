@@ -246,46 +246,46 @@ CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	1	0	1	0
 CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	1	0	1	0
 CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	1	0	1	0
 CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	1	0	1	0
-type IV hypersensitivity	GO_0001806	0	1	0	0
-thymocyte migration	GO_0072679	0	1	0	0
-memory T cell proliferation	GO_0061485	0	1	0	0
-helper T cell extravasation	GO_0035684	0	1	0	0
-helper T cell chemotaxis	GO_0035704	0	1	0	0
-gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0
-gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0
-gamma-delta T cell activation involved in immune response	GO_0002290	0	1	0	0
-fibronectin-dependent thymocyte migration	GO_0072681	0	1	0	0
-extracellular matrix-dependent thymocyte migration	GO_0072680	0	1	0	0
-beta selection	GO_0043366	0	1	0	0
-alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	0	0
-alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0
-alpha-beta T cell activation involved in immune response	GO_0002287	0	1	0	0
-activated T cell proliferation	GO_0050798	0	1	0	0
-activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0
-activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0
-T-helper cell differentiation	GO_0042093	0	1	0	0
-T-helper 2 cell differentiation	GO_0045064	0	1	0	0
-T-helper 2 cell cytokine production	GO_0035745	0	1	0	0
-T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0
-T-helper 2 cell activation	GO_0035712	0	1	0	0
-T-helper 17 cell extravasation	GO_0035699	0	1	0	0
-T-helper 17 cell differentiation	GO_0072539	0	1	0	0
-T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0
-T-helper 1 cell extravasation	GO_0035687	0	1	0	0
-T-helper 1 cell differentiation	GO_0045063	0	1	0	0
-T-helper 1 cell cytokine production	GO_0035744	0	1	0	0
-T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0
-T-helper 1 cell activation	GO_0035711	0	1	0	0
-T follicular helper cell differentiation	GO_0061470	0	1	0	0
-T cell proliferation involved in immune response	GO_0002309	0	1	0	0
-T cell mediated immune response to tumor cell	GO_0002424	0	1	0	0
-T cell differentiation involved in immune response	GO_0002292	0	1	0	0
-T cell activation involved in immune response	GO_0002286	0	1	0	0
-NK T cell proliferation involved in immune response	GO_0002289	0	1	0	0
-NK T cell proliferation	GO_0001866	0	1	0	0
-NK T cell differentiation	GO_0001865	0	1	0	0
-NK T cell activation involved in immune response	GO_0002288	0	1	0	0
-NK T cell activation	GO_0051132	0	1	0	0
-CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0
-CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0
+type IV hypersensitivity	GO_0001806	0	1	1	0
+thymocyte migration	GO_0072679	0	1	1	0
+memory T cell proliferation	GO_0061485	0	1	1	0
+helper T cell extravasation	GO_0035684	0	1	1	0
+helper T cell chemotaxis	GO_0035704	0	1	1	0
+gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	1	0
+gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	1	0
+gamma-delta T cell activation involved in immune response	GO_0002290	0	1	1	0
+fibronectin-dependent thymocyte migration	GO_0072681	0	1	1	0
+extracellular matrix-dependent thymocyte migration	GO_0072680	0	1	1	0
+beta selection	GO_0043366	0	1	1	0
+alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	1	0
+alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	1	0
+alpha-beta T cell activation involved in immune response	GO_0002287	0	1	1	0
+activated T cell proliferation	GO_0050798	0	1	1	0
+activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	1	0
+activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	1	0
+T-helper cell differentiation	GO_0042093	0	1	1	0
+T-helper 2 cell differentiation	GO_0045064	0	1	1	0
+T-helper 2 cell cytokine production	GO_0035745	0	1	1	0
+T-helper 2 cell chemotaxis	GO_0035707	0	1	1	0
+T-helper 2 cell activation	GO_0035712	0	1	1	0
+T-helper 17 cell extravasation	GO_0035699	0	1	1	0
+T-helper 17 cell differentiation	GO_0072539	0	1	1	0
+T-helper 17 cell chemotaxis	GO_0035705	0	1	1	0
+T-helper 1 cell extravasation	GO_0035687	0	1	1	0
+T-helper 1 cell differentiation	GO_0045063	0	1	1	0
+T-helper 1 cell cytokine production	GO_0035744	0	1	1	0
+T-helper 1 cell chemotaxis	GO_0035706	0	1	1	0
+T-helper 1 cell activation	GO_0035711	0	1	1	0
+T follicular helper cell differentiation	GO_0061470	0	1	1	0
+T cell proliferation involved in immune response	GO_0002309	0	1	1	0
+T cell mediated immune response to tumor cell	GO_0002424	0	1	1	0
+T cell differentiation involved in immune response	GO_0002292	0	1	1	0
+T cell activation involved in immune response	GO_0002286	0	1	1	0
+NK T cell proliferation involved in immune response	GO_0002289	0	1	1	0
+NK T cell proliferation	GO_0001866	0	1	1	0
+NK T cell differentiation	GO_0001865	0	1	1	0
+NK T cell activation involved in immune response	GO_0002288	0	1	1	0
+NK T cell activation	GO_0051132	0	1	1	0
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	1	0
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	1	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	1	0
