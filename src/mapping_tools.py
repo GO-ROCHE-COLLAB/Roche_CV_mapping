@@ -4,7 +4,6 @@ from owltools.graph import OWLGraphWrapper
 import re
 from pattern import gen_applied_pattern_from_json
 import warnings
-from obs_check import manual_map
 # TODO - switch from Brain to owltools
 
 def load_ont(url):
@@ -20,19 +19,23 @@ def load_ont(url):
 #def roll_basic_pattern (key_class):
 #	return "(has_participant some) %s or (regulates some (has_particpant some %s))" % (key_class, key_class) # If using this pattern, will need OWLtools/HermiT.
 class mappingTabs():
+	"""A container for ontology and tables used in mapping + methods on these tables."""
 	def __init__(self, manual_map, owl_map, go):
+		"""manual_map is a list of dicts containing the manual mapping table;
+		 owl_map is a dict(row) of dicts(columns) containing the OWL mapping table,
+		 go is a Brain object containing the ontology used for mapping."""
 		self.manual_map = manual_map
 		self.owl_map = owl_map
 		self.go = go
 		self.update_manual_map_obs_stat()
 	
 	def RCV_id_2_owlMap(self, RCV_id):
-		return self.owl_map.rcd[RCV_id]
+		return self.owl_map[RCV_id]
 		
 	def RCV_id_2_man_map(self, RCV_id):
 		out = []
-		for i in self.manual_map.tab:
-			if i['RCV_id'] == RCV_id:
+		for i in self.manual_map:
+			if i['RCV_ID'] == RCV_id:
 				out.append(i)
 		return out
 	
@@ -41,7 +44,7 @@ class mappingTabs():
 		# Right now jsut warns.  Perhaps add extra column to manual map?
 		gonto = self.go.getOntology()
 		gogw = OWLGraphWrapper(gonto)
-		for c in self.manual_map.tab:
+		for c in self.manual_map:
 			obo_id = re.sub('_', ':', c['GO_ID']) # Hard to believe this is necessary!
 			clazo = gogw.getOWLClassByIdentifier(obo_id)
 			if gogw.isObsolete(clazo):
@@ -59,7 +62,8 @@ class map_obj:
 		owl_map = mapping_tabs.RCV_id_2_owlMap(RCV_id)
 		self.go = mapping_tabs.go
 		"""Initialise map object: go = a Brain ontology object, 'RCV_ID' is the Roche term ID, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
-		self.manual_list = mapping_tabs.RCV_id_2_man_map(RCV_id) # Old manually curated mapping from Roche
+		manual_map = mapping_tabs.RCV_id_2_man_map(RCV_id)
+		self.manual_list = []# Old manually curated mapping from Roche
 		self.generated_list = [] # Results of running OWL queries 
 		self.blacklist = []  # Terms blacklisted by Roche annotators
 		self.id_name = {}  # hash lookup for names of GO terms in lists (should this really be bodged in here?!)
@@ -125,9 +129,9 @@ class map_obj:
 					del report_tab[k]
 					
 
-	def update_id_name(self, ont):
+	def update_id_name(self):
 		# Perhaps should be dealt with outside?  Could have a class object.  But then might be easier to do all this purely in OWL/Brain!
 		idList = set(self.generated_list) | set(self.manual_list)
 		for ID in idList:
-			self.id_name[ID]=ont.getLabel(ID)
+			self.id_name[ID]=self.go.getLabel(ID)
 

@@ -26,8 +26,7 @@ go = load_ont(sys.argv[1])
 manMap = tab('../mapping_tables/', 'manual_mapping.tsv')  # No key row.  Stored as list of dicts.
 owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_ID') # dict of dicts.
 
-
-mapping_tabs = mappingTabs(manMap, owlMap, go)
+mapping_tabs = mappingTabs(manMap.tab, owlMap.rowColDict, go)
 
 RCV_id_name = {} # Residual perlishness ?
 for row in manMap.tab:
