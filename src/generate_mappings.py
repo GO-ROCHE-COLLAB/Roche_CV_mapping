@@ -16,15 +16,26 @@ import warnings
 Compares these to manual mappings. Prints a results summary and results tables.
 Ontology to use must be specified as argv[1] when runnning this script."""
 
-from mapping_tools import (map_obj, load_ont)
+from mapping_tools import (map_obj, load_ont, mappingTabs)
 from tsv2pdm import tab, rcd
+
+
+go = load_ont(sys.argv[1])
+
+
 manMap = tab('../mapping_tables/', 'manual_mapping.tsv')  # No key row.  Stored as list of dicts.
 owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_ID') # dict of dicts.
+
+
+mapping_tabs = mappingTabs(manMap, owlMap, go)
+
 RCV_id_name = {} # Residual perlishness ?
 for row in manMap.tab:
 	RCV_id_name[row['RCV_ID']]=row['RCV_NAME']
 
 report_path = '../mapping_tables/results/'
+
+
 
 # TODO - add check for integrity of existing results files.  This can be automated from the results template.
 
@@ -47,7 +58,6 @@ for f in report_dir_files:
 
 
 
-go = load_ont(sys.argv[1])
 
 
 summary = "## A summary of the current results, including links to results files & issues.\n\n"
@@ -74,7 +84,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 		else:
 			report = rcd(report_path, 'results_template.tsv', 'ID')
 		print "Processing: %s" % RCV_id       
-		mo = map_obj(go, RCV_id, manMap.tab, owlMap.rowColDict, "../patterns/")
+		mo = map_obj(RCV_id, mapping_tabs, "../patterns/")
 		summary += "* Definition: %s\n" %	mo.appl_pattern.definition
 		print "map summary: %s\n" % mo
 		summary += "* map summary: %s\n" % mo
