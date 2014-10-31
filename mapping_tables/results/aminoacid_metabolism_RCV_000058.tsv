@@ -301,248 +301,248 @@ L-amino acid import	GO_0043092	1	0	1	0
 L-alanine transport	GO_0015808	1	0	1	0
 D-serine transport	GO_0042942	1	0	1	0
 D-amino acid transport	GO_0042940	1	0	1	0
-valine catabolic process to isobutanol	GO_1902697	0	1	0	0
-ubiquinone biosynthetic process from tyrosine	GO_0032180	0	1	0	0
-transsulfuration	GO_0019346	0	1	0	0
-tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_0033527	0	1	0	0
-tetrapyrrole biosynthetic process from glutamate	GO_0033526	0	1	0	0
-tetrahydrofolylpolyglutamate metabolic process	GO_0046900	0	1	0	0
-tetrahydrofolylpolyglutamate biosynthetic process	GO_0046901	0	1	0	0
-tetrahydrofolate metabolic process	GO_0046653	0	1	0	0
-tetrahydrofolate interconversion	GO_0035999	0	1	0	0
-tetrahydrofolate biosynthetic process	GO_0046654	0	1	0	0
-serotonin biosynthetic process from tryptophan	GO_0006587	0	1	0	0
-selenoneine metabolic process	GO_1903256	0	1	0	0
-selenoneine biosynthetic process	GO_1903257	0	1	0	0
-selenocysteine metabolic process	GO_0016259	0	1	0	0
-selenocysteine catabolic process	GO_0016261	0	1	0	0
-selenocysteine biosynthetic process	GO_0016260	0	1	0	0
-sarcosine metabolic process	GO_1901052	0	1	0	0
-sarcosine catabolic process	GO_1901053	0	1	0	0
-sarcosine biosynthetic process	GO_1901054	0	1	0	0
-putrescine biosynthetic process from ornithine	GO_0033387	0	1	0	0
-putrescine biosynthetic process from arginine, using agmatinase	GO_0033389	0	1	0	0
-putrescine biosynthetic process from arginine via N-carbamoylputrescine	GO_0033390	0	1	0	0
-putrescine biosynthetic process from arginine	GO_0033388	0	1	0	0
-protoporphyrinogen IX biosynthetic process from glycine	GO_0019352	0	1	0	0
-protoporphyrinogen IX biosynthetic process from glutamate	GO_0019353	0	1	0	0
-protein citrullination	GO_0018101	0	1	0	0
-proline salvage	GO_0019492	0	1	0	0
-proline metabolic process	GO_0006560	0	1	0	0
-proline catabolic process to glutamate	GO_0010133	0	1	0	0
-proline catabolic process to 2-oxoglutarate	GO_0019495	0	1	0	0
-proline catabolic process	GO_0006562	0	1	0	0
-proline biosynthetic process	GO_0006561	0	1	0	0
-phosphoarginine metabolic process	GO_0006604	0	1	0	0
-phosphoarginine catabolic process	GO_0046313	0	1	0	0
-phosphoarginine biosynthetic process	GO_0046312	0	1	0	0
-phenylalanine catabolic process to phosphoenolpyruvate	GO_0019562	0	1	0	0
-peptidyl-proline hydroxylation to 4-hydroxy-L-proline	GO_0018401	0	1	0	0
-peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamine	GO_0019713	0	1	0	0
-pantothenate biosynthetic process from valine	GO_0033317	0	1	0	0
-ornithine metabolic process	GO_0006591	0	1	0	0
-ornithine catabolic process, by decarboxylation	GO_0019467	0	1	0	0
-ornithine catabolic process via proline	GO_0019466	0	1	0	0
-ornithine catabolic process	GO_0006593	0	1	0	0
-ornithine biosynthetic process	GO_0006592	0	1	0	0
-octopine metabolic process	GO_0046419	0	1	0	0
-octopine catabolic process to proline	GO_0042459	0	1	0	0
-octopine catabolic process	GO_0019469	0	1	0	0
-nopaline metabolic process	GO_0046418	0	1	0	0
-nopaline catabolic process to proline	GO_0042458	0	1	0	0
-nopaline catabolic process	GO_0019468	0	1	0	0
-nicotinate nucleotide biosynthetic process from tryptophan	GO_0019356	0	1	0	0
-nicotinamide nucleotide biosynthetic process from aspartate	GO_0019355	0	1	0	0
-melanin biosynthetic process from tyrosine	GO_0006583	0	1	0	0
-leucine metabolic process	GO_0006551	0	1	0	0
-leucine catabolic process	GO_0006552	0	1	0	0
-leucine biosynthetic process	GO_0009098	0	1	0	0
-kynurenine metabolic process	GO_0070189	0	1	0	0
-indoleacetic acid biosynthetic process via tryptophan	GO_0009848	0	1	0	0
-hypusine metabolic process	GO_0046516	0	1	0	0
-hydroxylysine metabolic process	GO_0046946	0	1	0	0
-hydroxylysine catabolic process	GO_0046948	0	1	0	0
-hydroxylysine biosynthetic process	GO_0046947	0	1	0	0
-homomethionine metabolic process	GO_0033321	0	1	0	0
-homomethionine biosynthetic process	GO_0033322	0	1	0	0
-homocysteine metabolic process	GO_0050667	0	1	0	0
-homocysteine catabolic process	GO_0043418	0	1	0	0
-homocysteine biosynthetic process	GO_0071268	0	1	0	0
-histone citrullination	GO_0036414	0	1	0	0
-histone H3-R26 citrullination	GO_0036413	0	1	0	0
-histidine metabolic process	GO_0006547	0	1	0	0
-histidine catabolic process to imidazol-5-yl-lactate	GO_0019559	0	1	0	0
-histidine catabolic process to hydantoin-5-propionate	GO_0019560	0	1	0	0
-histidine catabolic process to glutamate and formate	GO_0019557	0	1	0	0
-histidine catabolic process to glutamate and formamide	GO_0019556	0	1	0	0
-histidine catabolic process to 2-oxoglutarate	GO_0019558	0	1	0	0
-histidine catabolic process	GO_0006548	0	1	0	0
-histidine biosynthetic process	GO_0000105	0	1	0	0
-hercynylselenocysteine metabolic process	GO_1903254	0	1	0	0
-hercynylselenocysteine biosynthetic process	GO_1903255	0	1	0	0
-hercynylcysteine sulfoxide metabolic process	GO_1903252	0	1	0	0
-hercynylcysteine sulfoxide biosynthetic process	GO_1903253	0	1	0	0
-glycine metabolic process	GO_0006544	0	1	0	0
-glycine decarboxylation via glycine cleavage system	GO_0019464	0	1	0	0
-glycine catabolic process to isobutanol	GO_1902696	0	1	0	0
-glycine catabolic process to creatine	GO_0019463	0	1	0	0
-glycine catabolic process	GO_0006546	0	1	0	0
-glycine biosynthetic process, by transamination of glyoxylate	GO_0019265	0	1	0	0
-glycine biosynthetic process	GO_0006545	0	1	0	0
-glycine betaine biosynthetic process from glycine	GO_0019286	0	1	0	0
-glutamine metabolic process	GO_0006541	0	1	0	0
-glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	0	0
-glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	0	0
-glutamine catabolic process to fumarate	GO_0019460	0	1	0	0
-glutamine catabolic process	GO_0006543	0	1	0	0
-glutamine biosynthetic process	GO_0006542	0	1	0	0
-glutamate metabolic process	GO_0006536	0	1	0	0
-glutamate decarboxylation to succinate	GO_0006540	0	1	0	0
-glutamate catabolic process via mesaconate and citramalate	GO_0019671	0	1	0	0
-glutamate catabolic process via L-citramalate	GO_0019553	0	1	0	0
-glutamate catabolic process via 2-oxoglutarate	GO_0006539	0	1	0	0
-glutamate catabolic process via 2-hydroxyglutarate	GO_0019552	0	1	0	0
-glutamate catabolic process to succinate via succinate semialdehyde	GO_0019549	0	1	0	0
-glutamate catabolic process to succinate via 2-oxoglutarate-dependent GABA-transaminase activity	GO_0036242	0	1	0	0
-glutamate catabolic process to propionate	GO_0033509	0	1	0	0
-glutamate catabolic process to oxaloacetate	GO_0019554	0	1	0	0
-glutamate catabolic process to ornithine	GO_0019555	0	1	0	0
-glutamate catabolic process to butyrate	GO_0033508	0	1	0	0
-glutamate catabolic process to aspartate	GO_0019550	0	1	0	0
-glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	0	0
-glutamate catabolic process to 2-oxoglutarate	GO_0019551	0	1	0	0
-glutamate catabolic process	GO_0006538	0	1	0	0
-glutamate biosynthetic process	GO_0006537	0	1	0	0
-glucosinolate biosynthetic process from phenylalanine	GO_0033507	0	1	0	0
-glucosinolate biosynthetic process from homomethionine	GO_0033506	0	1	0	0
-folic acid-containing compound metabolic process	GO_0006760	0	1	0	0
-folic acid-containing compound catabolic process	GO_0009397	0	1	0	0
-folic acid-containing compound biosynthetic process	GO_0009396	0	1	0	0
-folic acid metabolic process	GO_0046655	0	1	0	0
-folic acid catabolic process	GO_0046657	0	1	0	0
-folic acid biosynthetic process	GO_0046656	0	1	0	0
-erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	GO_1902221	0	1	0	0
-erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process	GO_1902222	0	1	0	0
-erythrose 4-phosphate/phosphoenolpyruvate family amino acid biosynthetic process	GO_1902223	0	1	0	0
-ergothioneine metabolic process	GO_0052698	0	1	0	0
-ergothioneine catabolic process	GO_0052700	0	1	0	0
-ergothioneine biosynthetic process	GO_0052699	0	1	0	0
-ergothioneine biosynthesis from histidine via N-alpha,N-alpha,N-alpha-trimethyl-L-histidine	GO_0052704	0	1	0	0
-ergothioneine biosynthesis from N-alpha,N-alpha,N-alpha-trimethyl-L-histidine	GO_0052711	0	1	0	0
-dopamine biosynthetic process from tyrosine	GO_0006585	0	1	0	0
-discadenine metabolic process	GO_0034267	0	1	0	0
-discadenine catabolic process	GO_0034269	0	1	0	0
-discadenine biosynthetic process	GO_0034268	0	1	0	0
-dihydrofolate metabolic process	GO_0046452	0	1	0	0
-dihydrofolate biosynthetic process	GO_0006761	0	1	0	0
-cysteine metabolic process	GO_0006534	0	1	0	0
-cysteine catabolic process	GO_0009093	0	1	0	0
-cysteine biosynthetic process via cystathionine	GO_0019343	0	1	0	0
-cysteine biosynthetic process via S-sulfo-L-cysteine	GO_0019345	0	1	0	0
-cysteine biosynthetic process	GO_0019344	0	1	0	0
-cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	0	1	0	0
-cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	0	1	0	0
-creatine metabolic process	GO_0006600	0	1	0	0
-creatine biosynthetic process	GO_0006601	0	1	0	0
-citrulline catabolic process	GO_0019241	0	1	0	0
-citrulline biosynthetic process	GO_0019240	0	1	0	0
-carnosine metabolic process	GO_0035498	0	1	0	0
-carnosine biosynthetic process	GO_0035499	0	1	0	0
-aspartate transamidation	GO_0019465	0	1	0	0
-aspartate metabolic process	GO_0006531	0	1	0	0
-aspartate family amino acid metabolic process	GO_0009066	0	1	0	0
-aspartate family amino acid catabolic process	GO_0009068	0	1	0	0
-aspartate family amino acid biosynthetic process	GO_0009067	0	1	0	0
-aspartate catabolic process	GO_0006533	0	1	0	0
-aspartate biosynthetic process	GO_0006532	0	1	0	0
-asparagine metabolic process	GO_0006528	0	1	0	0
-asparagine catabolic process via L-aspartate	GO_0033345	0	1	0	0
-asparagine catabolic process via 2-oxosuccinamate	GO_0033346	0	1	0	0
-asparagine catabolic process	GO_0006530	0	1	0	0
-asparagine biosynthetic process from oxaloacetate	GO_0019266	0	1	0	0
-asparagine biosynthetic process from cysteine	GO_0019267	0	1	0	0
-asparagine biosynthetic process	GO_0006529	0	1	0	0
-arginine metabolic process	GO_0006525	0	1	0	0
-arginine deiminase pathway	GO_0019546	0	1	0	0
-arginine catabolic process to succinate	GO_0019545	0	1	0	0
-arginine catabolic process to spermine	GO_0019548	0	1	0	0
-arginine catabolic process to proline via ornithine	GO_0010121	0	1	0	0
-arginine catabolic process to proline	GO_0019493	0	1	0	0
-arginine catabolic process to ornithine	GO_0019547	0	1	0	0
-arginine catabolic process to glutamate	GO_0019544	0	1	0	0
-arginine catabolic process to alanine via ornithine	GO_0010122	0	1	0	0
-arginine catabolic process	GO_0006527	0	1	0	0
-arginine biosynthetic process via ornithine	GO_0042450	0	1	0	0
-arginine biosynthetic process	GO_0006526	0	1	0	0
-anaerobic phenylalanine oxidation	GO_0019561	0	1	0	0
-anaerobic glycine catabolic process	GO_0019669	0	1	0	0
-anaerobic glutamate catabolic process	GO_0019670	0	1	0	0
-anaerobic L-alanine catabolic process	GO_0019667	0	1	0	0
-ammonia assimilation cycle	GO_0019676	0	1	0	0
-alpha-amino acid metabolic process	GO_1901605	0	1	0	0
-alpha-amino acid catabolic process	GO_1901606	0	1	0	0
-alpha-amino acid biosynthetic process	GO_1901607	0	1	0	0
-S-adenosylhomocysteine metabolic process	GO_0046498	0	1	0	0
-S-adenosylhomocysteine catabolic process	GO_0019510	0	1	0	0
-N-alpha,N-alpha,N-alpha-trimethyl-L-histidine metabolic process	GO_0052708	0	1	0	0
-N-alpha,N-alpha,N-alpha-trimethyl-L-histidine catabolic process	GO_0052710	0	1	0	0
-N-alpha,N-alpha,N-alpha-trimethyl-L-histidine biosynthetic process	GO_0052709	0	1	0	0
-N-alpha,N-alpha,N-alpha-trimethyl-L-histidine biosynthesis from histidine	GO_0052707	0	1	0	0
-N(omega)-methyl-L-arginine metabolic process	GO_2001296	0	1	0	0
-N(omega)-methyl-L-arginine catabolic process	GO_2001297	0	1	0	0
-L-proline biosynthetic process	GO_0055129	0	1	0	0
-L-methionine biosynthetic process from methionine sulphoxide	GO_1990355	0	1	0	0
-L-kynurenine metabolic process	GO_0097052	0	1	0	0
-L-kynurenine catabolic process	GO_0097053	0	1	0	0
-L-isoleucine biosynthetic process	GO_1901705	0	1	0	0
-L-homocysteine biosynthetic process	GO_0071269	0	1	0	0
-L-glutamine biosynthetic process	GO_1901704	0	1	0	0
-L-glutamate biosynthetic process	GO_0097054	0	1	0	0
-L-dopa metabolic process	GO_1903184	0	1	0	0
-L-dopa biosynthetic process	GO_1903185	0	1	0	0
-L-cysteine metabolic process	GO_0046439	0	1	0	0
-L-cysteine catabolic process via cystine, using glutathione-cystine transhydrogenase	GO_0019454	0	1	0	0
-L-cysteine catabolic process via cystine, using cystine reductase	GO_0019455	0	1	0	0
-L-cysteine catabolic process via cystine, using cysteine transaminase	GO_0019456	0	1	0	0
-L-cysteine catabolic process via cystine	GO_0019453	0	1	0	0
-L-cysteine catabolic process to taurine	GO_0019452	0	1	0	0
-L-cysteine catabolic process to pyruvate, using cysteine dioxygenase	GO_0019451	0	1	0	0
-L-cysteine catabolic process to pyruvate	GO_0019450	0	1	0	0
-L-cysteine catabolic process to hypotaurine	GO_0019449	0	1	0	0
-L-cysteine catabolic process	GO_0019448	0	1	0	0
-L-asparagine metabolic process	GO_0070982	0	1	0	0
-L-asparagine biosynthetic process	GO_0070981	0	1	0	0
-D-valine metabolic process	GO_1902114	0	1	0	0
-D-valine catabolic process	GO_1902079	0	1	0	0
-D-tyrosine metabolic process	GO_1900828	0	1	0	0
-D-tyrosine catabolic process	GO_1900829	0	1	0	0
-D-tyrosine biosynthetic process	GO_1900830	0	1	0	0
-D-ornithine metabolic process	GO_0033056	0	1	0	0
-D-lysine metabolic process	GO_0046441	0	1	0	0
-D-lysine catabolic process	GO_0019476	0	1	0	0
-D-leucine metabolic process	GO_1900831	0	1	0	0
-D-leucine catabolic process	GO_1900832	0	1	0	0
-D-leucine biosynthetic process	GO_1900833	0	1	0	0
-D-glutamine metabolic process	GO_0033053	0	1	0	0
-D-glutamate metabolic process	GO_0033054	0	1	0	0
-D-cysteine metabolic process	GO_0046438	0	1	0	0
-D-cysteine catabolic process	GO_0019447	0	1	0	0
-D-arginine metabolic process	GO_0033055	0	1	0	0
-D-alanine metabolic process	GO_0046436	0	1	0	0
-D-alanine catabolic process	GO_0055130	0	1	0	0
-D-alanine biosynthetic process	GO_0030632	0	1	0	0
-4-hydroxyproline metabolic process	GO_0019471	0	1	0	0
-4-hydroxyproline catabolic process	GO_0019470	0	1	0	0
-4-hydroxyproline biosynthetic process	GO_0019472	0	1	0	0
-3-cyano-L-alanine metabolic process	GO_1903558	0	1	0	0
-3-cyano-L-alanine catabolic process	GO_1903559	0	1	0	0
-3-cyano-L-alanine biosynthetic process	GO_1903560	0	1	0	0
-10-formyltetrahydrofolate metabolic process	GO_0009256	0	1	0	0
-10-formyltetrahydrofolate catabolic process	GO_0009258	0	1	0	0
-10-formyltetrahydrofolate biosynthetic process	GO_0009257	0	1	0	0
-1-aminocyclopropane-1-carboxylate metabolic process	GO_0018871	0	1	0	0
-1-aminocyclopropane-1-carboxylate catabolic process	GO_0042217	0	1	0	0
-1-aminocyclopropane-1-carboxylate biosynthetic process	GO_0042218	0	1	0	0
-(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	0	0
-'de novo' NAD biosynthetic process from aspartate	GO_0034628	0	1	0	0
-'de novo' L-methionine biosynthetic process	GO_0071266	0	1	0	0
+valine catabolic process to isobutanol	GO_1902697	0	1	1	0
+ubiquinone biosynthetic process from tyrosine	GO_0032180	0	1	1	0
+transsulfuration	GO_0019346	0	1	1	0
+tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_0033527	0	1	1	0
+tetrapyrrole biosynthetic process from glutamate	GO_0033526	0	1	1	0
+tetrahydrofolylpolyglutamate metabolic process	GO_0046900	0	1	1	0
+tetrahydrofolylpolyglutamate biosynthetic process	GO_0046901	0	1	1	0
+tetrahydrofolate metabolic process	GO_0046653	0	1	1	0
+tetrahydrofolate interconversion	GO_0035999	0	1	1	0
+tetrahydrofolate biosynthetic process	GO_0046654	0	1	1	0
+serotonin biosynthetic process from tryptophan	GO_0006587	0	1	1	0
+selenoneine metabolic process	GO_1903256	0	1	1	0
+selenoneine biosynthetic process	GO_1903257	0	1	1	0
+selenocysteine metabolic process	GO_0016259	0	1	1	0
+selenocysteine catabolic process	GO_0016261	0	1	1	0
+selenocysteine biosynthetic process	GO_0016260	0	1	1	0
+sarcosine metabolic process	GO_1901052	0	1	1	0
+sarcosine catabolic process	GO_1901053	0	1	1	0
+sarcosine biosynthetic process	GO_1901054	0	1	1	0
+putrescine biosynthetic process from ornithine	GO_0033387	0	1	1	0
+putrescine biosynthetic process from arginine, using agmatinase	GO_0033389	0	1	1	0
+putrescine biosynthetic process from arginine via N-carbamoylputrescine	GO_0033390	0	1	1	0
+putrescine biosynthetic process from arginine	GO_0033388	0	1	1	0
+protoporphyrinogen IX biosynthetic process from glycine	GO_0019352	0	1	1	0
+protoporphyrinogen IX biosynthetic process from glutamate	GO_0019353	0	1	1	0
+protein citrullination	GO_0018101	0	1	1	0
+proline salvage	GO_0019492	0	1	1	0
+proline metabolic process	GO_0006560	0	1	1	0
+proline catabolic process to glutamate	GO_0010133	0	1	1	0
+proline catabolic process to 2-oxoglutarate	GO_0019495	0	1	1	0
+proline catabolic process	GO_0006562	0	1	1	0
+proline biosynthetic process	GO_0006561	0	1	1	0
+phosphoarginine metabolic process	GO_0006604	0	1	1	0
+phosphoarginine catabolic process	GO_0046313	0	1	1	0
+phosphoarginine biosynthetic process	GO_0046312	0	1	1	0
+phenylalanine catabolic process to phosphoenolpyruvate	GO_0019562	0	1	1	0
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	GO_0018401	0	1	1	0
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamine	GO_0019713	0	1	1	0
+pantothenate biosynthetic process from valine	GO_0033317	0	1	1	0
+ornithine metabolic process	GO_0006591	0	1	1	0
+ornithine catabolic process, by decarboxylation	GO_0019467	0	1	1	0
+ornithine catabolic process via proline	GO_0019466	0	1	1	0
+ornithine catabolic process	GO_0006593	0	1	1	0
+ornithine biosynthetic process	GO_0006592	0	1	1	0
+octopine metabolic process	GO_0046419	0	1	1	0
+octopine catabolic process to proline	GO_0042459	0	1	1	0
+octopine catabolic process	GO_0019469	0	1	1	0
+nopaline metabolic process	GO_0046418	0	1	1	0
+nopaline catabolic process to proline	GO_0042458	0	1	1	0
+nopaline catabolic process	GO_0019468	0	1	1	0
+nicotinate nucleotide biosynthetic process from tryptophan	GO_0019356	0	1	1	0
+nicotinamide nucleotide biosynthetic process from aspartate	GO_0019355	0	1	1	0
+melanin biosynthetic process from tyrosine	GO_0006583	0	1	1	0
+leucine metabolic process	GO_0006551	0	1	1	0
+leucine catabolic process	GO_0006552	0	1	1	0
+leucine biosynthetic process	GO_0009098	0	1	1	0
+kynurenine metabolic process	GO_0070189	0	1	1	0
+indoleacetic acid biosynthetic process via tryptophan	GO_0009848	0	1	1	0
+hypusine metabolic process	GO_0046516	0	1	1	0
+hydroxylysine metabolic process	GO_0046946	0	1	1	0
+hydroxylysine catabolic process	GO_0046948	0	1	1	0
+hydroxylysine biosynthetic process	GO_0046947	0	1	1	0
+homomethionine metabolic process	GO_0033321	0	1	1	0
+homomethionine biosynthetic process	GO_0033322	0	1	1	0
+homocysteine metabolic process	GO_0050667	0	1	1	0
+homocysteine catabolic process	GO_0043418	0	1	1	0
+homocysteine biosynthetic process	GO_0071268	0	1	1	0
+histone citrullination	GO_0036414	0	1	1	0
+histone H3-R26 citrullination	GO_0036413	0	1	1	0
+histidine metabolic process	GO_0006547	0	1	1	0
+histidine catabolic process to imidazol-5-yl-lactate	GO_0019559	0	1	1	0
+histidine catabolic process to hydantoin-5-propionate	GO_0019560	0	1	1	0
+histidine catabolic process to glutamate and formate	GO_0019557	0	1	1	0
+histidine catabolic process to glutamate and formamide	GO_0019556	0	1	1	0
+histidine catabolic process to 2-oxoglutarate	GO_0019558	0	1	1	0
+histidine catabolic process	GO_0006548	0	1	1	0
+histidine biosynthetic process	GO_0000105	0	1	1	0
+hercynylselenocysteine metabolic process	GO_1903254	0	1	1	0
+hercynylselenocysteine biosynthetic process	GO_1903255	0	1	1	0
+hercynylcysteine sulfoxide metabolic process	GO_1903252	0	1	1	0
+hercynylcysteine sulfoxide biosynthetic process	GO_1903253	0	1	1	0
+glycine metabolic process	GO_0006544	0	1	1	0
+glycine decarboxylation via glycine cleavage system	GO_0019464	0	1	1	0
+glycine catabolic process to isobutanol	GO_1902696	0	1	1	0
+glycine catabolic process to creatine	GO_0019463	0	1	1	0
+glycine catabolic process	GO_0006546	0	1	1	0
+glycine biosynthetic process, by transamination of glyoxylate	GO_0019265	0	1	1	0
+glycine biosynthetic process	GO_0006545	0	1	1	0
+glycine betaine biosynthetic process from glycine	GO_0019286	0	1	1	0
+glutamine metabolic process	GO_0006541	0	1	1	0
+glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	1	0
+glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	1	0
+glutamine catabolic process to fumarate	GO_0019460	0	1	1	0
+glutamine catabolic process	GO_0006543	0	1	1	0
+glutamine biosynthetic process	GO_0006542	0	1	1	0
+glutamate metabolic process	GO_0006536	0	1	1	0
+glutamate decarboxylation to succinate	GO_0006540	0	1	1	0
+glutamate catabolic process via mesaconate and citramalate	GO_0019671	0	1	1	0
+glutamate catabolic process via L-citramalate	GO_0019553	0	1	1	0
+glutamate catabolic process via 2-oxoglutarate	GO_0006539	0	1	1	0
+glutamate catabolic process via 2-hydroxyglutarate	GO_0019552	0	1	1	0
+glutamate catabolic process to succinate via succinate semialdehyde	GO_0019549	0	1	1	0
+glutamate catabolic process to succinate via 2-oxoglutarate-dependent GABA-transaminase activity	GO_0036242	0	1	1	0
+glutamate catabolic process to propionate	GO_0033509	0	1	1	0
+glutamate catabolic process to oxaloacetate	GO_0019554	0	1	1	0
+glutamate catabolic process to ornithine	GO_0019555	0	1	1	0
+glutamate catabolic process to butyrate	GO_0033508	0	1	1	0
+glutamate catabolic process to aspartate	GO_0019550	0	1	1	0
+glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	1	0
+glutamate catabolic process to 2-oxoglutarate	GO_0019551	0	1	1	0
+glutamate catabolic process	GO_0006538	0	1	1	0
+glutamate biosynthetic process	GO_0006537	0	1	1	0
+glucosinolate biosynthetic process from phenylalanine	GO_0033507	0	1	1	0
+glucosinolate biosynthetic process from homomethionine	GO_0033506	0	1	1	0
+folic acid-containing compound metabolic process	GO_0006760	0	1	1	0
+folic acid-containing compound catabolic process	GO_0009397	0	1	1	0
+folic acid-containing compound biosynthetic process	GO_0009396	0	1	1	0
+folic acid metabolic process	GO_0046655	0	1	1	0
+folic acid catabolic process	GO_0046657	0	1	1	0
+folic acid biosynthetic process	GO_0046656	0	1	1	0
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	GO_1902221	0	1	1	0
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process	GO_1902222	0	1	1	0
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid biosynthetic process	GO_1902223	0	1	1	0
+ergothioneine metabolic process	GO_0052698	0	1	1	0
+ergothioneine catabolic process	GO_0052700	0	1	1	0
+ergothioneine biosynthetic process	GO_0052699	0	1	1	0
+ergothioneine biosynthesis from histidine via N-alpha,N-alpha,N-alpha-trimethyl-L-histidine	GO_0052704	0	1	1	0
+ergothioneine biosynthesis from N-alpha,N-alpha,N-alpha-trimethyl-L-histidine	GO_0052711	0	1	1	0
+dopamine biosynthetic process from tyrosine	GO_0006585	0	1	1	0
+discadenine metabolic process	GO_0034267	0	1	1	0
+discadenine catabolic process	GO_0034269	0	1	1	0
+discadenine biosynthetic process	GO_0034268	0	1	1	0
+dihydrofolate metabolic process	GO_0046452	0	1	1	0
+dihydrofolate biosynthetic process	GO_0006761	0	1	1	0
+cysteine metabolic process	GO_0006534	0	1	1	0
+cysteine catabolic process	GO_0009093	0	1	1	0
+cysteine biosynthetic process via cystathionine	GO_0019343	0	1	1	0
+cysteine biosynthetic process via S-sulfo-L-cysteine	GO_0019345	0	1	1	0
+cysteine biosynthetic process	GO_0019344	0	1	1	0
+cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	0	1	1	0
+cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	0	1	1	0
+creatine metabolic process	GO_0006600	0	1	1	0
+creatine biosynthetic process	GO_0006601	0	1	1	0
+citrulline catabolic process	GO_0019241	0	1	1	0
+citrulline biosynthetic process	GO_0019240	0	1	1	0
+carnosine metabolic process	GO_0035498	0	1	1	0
+carnosine biosynthetic process	GO_0035499	0	1	1	0
+aspartate transamidation	GO_0019465	0	1	1	0
+aspartate metabolic process	GO_0006531	0	1	1	0
+aspartate family amino acid metabolic process	GO_0009066	0	1	1	0
+aspartate family amino acid catabolic process	GO_0009068	0	1	1	0
+aspartate family amino acid biosynthetic process	GO_0009067	0	1	1	0
+aspartate catabolic process	GO_0006533	0	1	1	0
+aspartate biosynthetic process	GO_0006532	0	1	1	0
+asparagine metabolic process	GO_0006528	0	1	1	0
+asparagine catabolic process via L-aspartate	GO_0033345	0	1	1	0
+asparagine catabolic process via 2-oxosuccinamate	GO_0033346	0	1	1	0
+asparagine catabolic process	GO_0006530	0	1	1	0
+asparagine biosynthetic process from oxaloacetate	GO_0019266	0	1	1	0
+asparagine biosynthetic process from cysteine	GO_0019267	0	1	1	0
+asparagine biosynthetic process	GO_0006529	0	1	1	0
+arginine metabolic process	GO_0006525	0	1	1	0
+arginine deiminase pathway	GO_0019546	0	1	1	0
+arginine catabolic process to succinate	GO_0019545	0	1	1	0
+arginine catabolic process to spermine	GO_0019548	0	1	1	0
+arginine catabolic process to proline via ornithine	GO_0010121	0	1	1	0
+arginine catabolic process to proline	GO_0019493	0	1	1	0
+arginine catabolic process to ornithine	GO_0019547	0	1	1	0
+arginine catabolic process to glutamate	GO_0019544	0	1	1	0
+arginine catabolic process to alanine via ornithine	GO_0010122	0	1	1	0
+arginine catabolic process	GO_0006527	0	1	1	0
+arginine biosynthetic process via ornithine	GO_0042450	0	1	1	0
+arginine biosynthetic process	GO_0006526	0	1	1	0
+anaerobic phenylalanine oxidation	GO_0019561	0	1	1	0
+anaerobic glycine catabolic process	GO_0019669	0	1	1	0
+anaerobic glutamate catabolic process	GO_0019670	0	1	1	0
+anaerobic L-alanine catabolic process	GO_0019667	0	1	1	0
+ammonia assimilation cycle	GO_0019676	0	1	1	0
+alpha-amino acid metabolic process	GO_1901605	0	1	1	0
+alpha-amino acid catabolic process	GO_1901606	0	1	1	0
+alpha-amino acid biosynthetic process	GO_1901607	0	1	1	0
+S-adenosylhomocysteine metabolic process	GO_0046498	0	1	1	0
+S-adenosylhomocysteine catabolic process	GO_0019510	0	1	1	0
+N-alpha,N-alpha,N-alpha-trimethyl-L-histidine metabolic process	GO_0052708	0	1	1	0
+N-alpha,N-alpha,N-alpha-trimethyl-L-histidine catabolic process	GO_0052710	0	1	1	0
+N-alpha,N-alpha,N-alpha-trimethyl-L-histidine biosynthetic process	GO_0052709	0	1	1	0
+N-alpha,N-alpha,N-alpha-trimethyl-L-histidine biosynthesis from histidine	GO_0052707	0	1	1	0
+N(omega)-methyl-L-arginine metabolic process	GO_2001296	0	1	1	0
+N(omega)-methyl-L-arginine catabolic process	GO_2001297	0	1	1	0
+L-proline biosynthetic process	GO_0055129	0	1	1	0
+L-methionine biosynthetic process from methionine sulphoxide	GO_1990355	0	1	1	0
+L-kynurenine metabolic process	GO_0097052	0	1	1	0
+L-kynurenine catabolic process	GO_0097053	0	1	1	0
+L-isoleucine biosynthetic process	GO_1901705	0	1	1	0
+L-homocysteine biosynthetic process	GO_0071269	0	1	1	0
+L-glutamine biosynthetic process	GO_1901704	0	1	1	0
+L-glutamate biosynthetic process	GO_0097054	0	1	1	0
+L-dopa metabolic process	GO_1903184	0	1	1	0
+L-dopa biosynthetic process	GO_1903185	0	1	1	0
+L-cysteine metabolic process	GO_0046439	0	1	1	0
+L-cysteine catabolic process via cystine, using glutathione-cystine transhydrogenase	GO_0019454	0	1	1	0
+L-cysteine catabolic process via cystine, using cystine reductase	GO_0019455	0	1	1	0
+L-cysteine catabolic process via cystine, using cysteine transaminase	GO_0019456	0	1	1	0
+L-cysteine catabolic process via cystine	GO_0019453	0	1	1	0
+L-cysteine catabolic process to taurine	GO_0019452	0	1	1	0
+L-cysteine catabolic process to pyruvate, using cysteine dioxygenase	GO_0019451	0	1	1	0
+L-cysteine catabolic process to pyruvate	GO_0019450	0	1	1	0
+L-cysteine catabolic process to hypotaurine	GO_0019449	0	1	1	0
+L-cysteine catabolic process	GO_0019448	0	1	1	0
+L-asparagine metabolic process	GO_0070982	0	1	1	0
+L-asparagine biosynthetic process	GO_0070981	0	1	1	0
+D-valine metabolic process	GO_1902114	0	1	1	0
+D-valine catabolic process	GO_1902079	0	1	1	0
+D-tyrosine metabolic process	GO_1900828	0	1	1	0
+D-tyrosine catabolic process	GO_1900829	0	1	1	0
+D-tyrosine biosynthetic process	GO_1900830	0	1	1	0
+D-ornithine metabolic process	GO_0033056	0	1	1	0
+D-lysine metabolic process	GO_0046441	0	1	1	0
+D-lysine catabolic process	GO_0019476	0	1	1	0
+D-leucine metabolic process	GO_1900831	0	1	1	0
+D-leucine catabolic process	GO_1900832	0	1	1	0
+D-leucine biosynthetic process	GO_1900833	0	1	1	0
+D-glutamine metabolic process	GO_0033053	0	1	1	0
+D-glutamate metabolic process	GO_0033054	0	1	1	0
+D-cysteine metabolic process	GO_0046438	0	1	1	0
+D-cysteine catabolic process	GO_0019447	0	1	1	0
+D-arginine metabolic process	GO_0033055	0	1	1	0
+D-alanine metabolic process	GO_0046436	0	1	1	0
+D-alanine catabolic process	GO_0055130	0	1	1	0
+D-alanine biosynthetic process	GO_0030632	0	1	1	0
+4-hydroxyproline metabolic process	GO_0019471	0	1	1	0
+4-hydroxyproline catabolic process	GO_0019470	0	1	1	0
+4-hydroxyproline biosynthetic process	GO_0019472	0	1	1	0
+3-cyano-L-alanine metabolic process	GO_1903558	0	1	1	0
+3-cyano-L-alanine catabolic process	GO_1903559	0	1	1	0
+3-cyano-L-alanine biosynthetic process	GO_1903560	0	1	1	0
+10-formyltetrahydrofolate metabolic process	GO_0009256	0	1	1	0
+10-formyltetrahydrofolate catabolic process	GO_0009258	0	1	1	0
+10-formyltetrahydrofolate biosynthetic process	GO_0009257	0	1	1	0
+1-aminocyclopropane-1-carboxylate metabolic process	GO_0018871	0	1	1	0
+1-aminocyclopropane-1-carboxylate catabolic process	GO_0042217	0	1	1	0
+1-aminocyclopropane-1-carboxylate biosynthetic process	GO_0042218	0	1	1	0
+(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	1	0
+'de novo' NAD biosynthetic process from aspartate	GO_0034628	0	1	1	0
+'de novo' L-methionine biosynthetic process	GO_0071266	0	1	1	0

@@ -54,23 +54,23 @@ envenomation resulting in modulation of blood pressure in other organism	GO_0044
 baroreceptor detection of increased arterial stretch	GO_0003023	1	0	1	0
 baroreceptor detection of decreased arterial stretch	GO_0003024	1	0	1	0
 baroreceptor detection of arterial stretch	GO_0001981	1	0	1	0
-vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure	GO_0002025	0	1	0	0
-vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	0	1	0	0
-vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure	GO_0003069	0	1	0	0
-vasoconstriction of artery involved in ischemic response to lowering of systemic arterial blood pressure	GO_0002014	0	1	0	0
-vasoconstriction of artery involved in chemoreceptor response to lowering of systemic arterial blood pressure	GO_0002012	0	1	0	0
-vasoconstriction of artery involved in carotid body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003042	0	1	0	0
-vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003043	0	1	0	0
-vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	0	1	0	0
-regulation of renal output by angiotensin	GO_0002019	0	1	0	0
-regulation of blood volume by renin-angiotensin	GO_0002016	0	1	0	0
-regulation of blood volume by renal aldosterone	GO_0002017	0	1	0	0
-regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	0	0
-negative regulation of renal sodium excretion by angiotensin	GO_0035820	0	1	0	0
-negative regulation of renal output by angiotensin	GO_0003083	0	1	0	0
-negative regulation of glomerular filtration by angiotensin	GO_0003106	0	1	0	0
-detection of hypoxic conditions in blood by chemoreceptor signaling	GO_0002007	0	1	0	0
-detection of hypoxic conditions in blood by carotid body chemoreceptor signaling	GO_0003029	0	1	0	0
-detection of hypoxic conditions in blood by aortic body chemoreceptor signaling	GO_0003033	0	1	0	0
-brain renin-angiotensin system	GO_0002035	0	1	0	0
-angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	0	0
+vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure	GO_0002025	0	1	1	0
+vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	0	1	1	0
+vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure	GO_0003069	0	1	1	0
+vasoconstriction of artery involved in ischemic response to lowering of systemic arterial blood pressure	GO_0002014	0	1	1	0
+vasoconstriction of artery involved in chemoreceptor response to lowering of systemic arterial blood pressure	GO_0002012	0	1	1	0
+vasoconstriction of artery involved in carotid body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003042	0	1	1	0
+vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003043	0	1	1	0
+vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	0	1	1	0
+regulation of renal output by angiotensin	GO_0002019	0	1	1	0
+regulation of blood volume by renin-angiotensin	GO_0002016	0	1	1	0
+regulation of blood volume by renal aldosterone	GO_0002017	0	1	1	0
+regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	1	0
+negative regulation of renal sodium excretion by angiotensin	GO_0035820	0	1	1	0
+negative regulation of renal output by angiotensin	GO_0003083	0	1	1	0
+negative regulation of glomerular filtration by angiotensin	GO_0003106	0	1	1	0
+detection of hypoxic conditions in blood by chemoreceptor signaling	GO_0002007	0	1	0	1
+detection of hypoxic conditions in blood by carotid body chemoreceptor signaling	GO_0003029	0	1	0	1
+detection of hypoxic conditions in blood by aortic body chemoreceptor signaling	GO_0003033	0	1	0	1
+brain renin-angiotensin system	GO_0002035	0	1	1	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	1	0

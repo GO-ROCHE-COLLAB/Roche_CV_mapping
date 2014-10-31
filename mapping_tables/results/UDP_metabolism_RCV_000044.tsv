@@ -37,7 +37,7 @@ UDP reduction	GO_0006255	1	0	1	0
 UDP metabolic process	GO_0046048	1	0	1	0
 UDP catabolic process	GO_0006256	1	0	1	0
 UDP biosynthetic process	GO_0006225	1	0	1	0
-UDP-xylose transmembrane transporter activity	GO_0005464	0	1	0	0
-UDP-glucose transmembrane transporter activity	GO_0005460	0	1	0	0
-UDP-galactose transmembrane import into Golgi lumen	GO_0097624	0	1	0	0
-UDP-N-acetylglucosamine transmembrane transporter activity	GO_0005462	0	1	0	0
+UDP-xylose transmembrane transporter activity	GO_0005464	0	1	1	0
+UDP-glucose transmembrane transporter activity	GO_0005460	0	1	1	0
+UDP-galactose transmembrane import into Golgi lumen	GO_0097624	0	1	1	0
+UDP-N-acetylglucosamine transmembrane transporter activity	GO_0005462	0	1	1	0

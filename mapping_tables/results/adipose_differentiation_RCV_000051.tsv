@@ -4,11 +4,11 @@ regulation of brown fat cell differentiation	GO_0090335	1	0	1	0
 positive regulation of fat cell differentiation	GO_0045600	1	0	1	0
 positive regulation of brown fat cell differentiation	GO_0090336	1	0	1	0
 negative regulation of fat cell differentiation	GO_0045599	1	0	1	0
-white fat cell differentiation involved in mammary gland fat development	GO_0060642	0	1	0	0
-mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	0	0
-mammary gland fat development	GO_0060611	0	1	0	0
-larval fat body development	GO_0007504	0	1	0	0
-fat pad development	GO_0060613	0	1	0	0
-fat body development	GO_0007503	0	1	0	0
-adult fat body development	GO_0007505	0	1	0	0
-adipose tissue development	GO_0060612	0	1	0	0
+white fat cell differentiation involved in mammary gland fat development	GO_0060642	0	1	1	0
+mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	1	0
+mammary gland fat development	GO_0060611	0	1	1	0
+larval fat body development	GO_0007504	0	1	1	0
+fat pad development	GO_0060613	0	1	1	0
+fat body development	GO_0007503	0	1	1	0
+adult fat body development	GO_0007505	0	1	1	0
+adipose tissue development	GO_0060612	0	1	1	0

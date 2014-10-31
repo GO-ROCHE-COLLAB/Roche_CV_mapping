@@ -2,19 +2,19 @@ name	ID	manual	auto	checked	blacklisted
 VEGF-activated platelet-derived growth factor receptor-beta signaling pathway	GO_0038088	1	1	1	0
 VEGF-activated platelet-derived growth factor receptor-alpha signaling pathway	GO_0038087	1	1	1	0
 VEGF-activated platelet-derived growth factor receptor signaling pathway	GO_0038086	1	1	1	0
-vascular endothelial growth factor-activated receptor activity	GO_0005021	0	1	0	0
-vascular endothelial growth factor signaling pathway	GO_0038084	0	1	0	0
-regulation of vascular endothelial growth factor signaling pathway	GO_1900746	0	1	0	0
-positive regulation of vascular endothelial growth factor signaling pathway	GO_1900748	0	1	0	0
-positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0
-positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038091	0	1	0	0
-positive regulation of cell migration by vascular endothelial growth factor signaling pathway	GO_0038089	0	1	0	0
-positive regulation of cell migration by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038090	0	1	0	0
-negative regulation of vascular endothelial growth factor signaling pathway	GO_1900747	0	1	0	0
-VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0
-VEGF-activated neuropilin signaling pathway	GO_0038190	0	1	0	0
-VEGF-E-activated receptor activity	GO_0036330	0	1	0	0
-VEGF-D-activated receptor activity	GO_0036329	0	1	0	0
-VEGF-C-activated receptor activity	GO_0036328	0	1	0	0
-VEGF-B-activated receptor activity	GO_0036327	0	1	0	0
-VEGF-A-activated receptor activity	GO_0036326	0	1	0	0
+vascular endothelial growth factor-activated receptor activity	GO_0005021	0	1	1	0
+vascular endothelial growth factor signaling pathway	GO_0038084	0	1	1	0
+regulation of vascular endothelial growth factor signaling pathway	GO_1900746	0	1	1	0
+positive regulation of vascular endothelial growth factor signaling pathway	GO_1900748	0	1	1	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	1	0
+positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038091	0	1	1	0
+positive regulation of cell migration by vascular endothelial growth factor signaling pathway	GO_0038089	0	1	1	0
+positive regulation of cell migration by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038090	0	1	1	0
+negative regulation of vascular endothelial growth factor signaling pathway	GO_1900747	0	1	1	0
+VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	1	0
+VEGF-activated neuropilin signaling pathway	GO_0038190	0	1	1	0
+VEGF-E-activated receptor activity	GO_0036330	0	1	1	0
+VEGF-D-activated receptor activity	GO_0036329	0	1	1	0
+VEGF-C-activated receptor activity	GO_0036328	0	1	1	0
+VEGF-B-activated receptor activity	GO_0036327	0	1	1	0
+VEGF-A-activated receptor activity	GO_0036326	0	1	1	0

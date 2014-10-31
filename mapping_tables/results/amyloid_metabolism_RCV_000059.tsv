@@ -2,4 +2,4 @@ name	ID	manual	auto	checked	blacklisted
 amyloid precursor protein metabolic process	GO_0042982	1	1	1	0
 amyloid precursor protein catabolic process	GO_0042987	1	1	1	0
 amyloid precursor protein biosynthetic process	GO_0042983	1	1	1	0
-beta-amyloid formation	GO_0034205	0	1	0	0
+beta-amyloid formation	GO_0034205	0	1	1	0
