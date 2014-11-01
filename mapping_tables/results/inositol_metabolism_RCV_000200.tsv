@@ -11,5 +11,5 @@ inositol phosphate dephosphorylation	GO_0046855	1	0	1	0
 inositol phosphate catabolic process	GO_0071545	1	0	1	0
 inositol phosphate biosynthetic process	GO_0032958	1	0	1	0
 inositol or phosphatidylinositol phosphorylation	GO_0046853	1	0	1	0
-inositol catabolic process	GO_0019310	0	1	0	0
-inositol biosynthetic process	GO_0006021	0	1	0	0
+inositol catabolic process	GO_0019310	0	1	1	0
+inositol biosynthetic process	GO_0006021	0	1	1	0
