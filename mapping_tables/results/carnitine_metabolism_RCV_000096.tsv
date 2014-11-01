@@ -1,0 +1,7 @@
+name	ID	manual	auto	checked	blacklisted
+carnitine metabolic process, CoA-linked	GO_0019254	1	1	1	0
+carnitine metabolic process	GO_0009437	1	1	1	0
+carnitine catabolic process	GO_0042413	1	1	1	0
+carnitine biosynthetic process	GO_0045329	1	1	1	0
+carnitine transport	GO_0015879	1	0	1	0
+carnitine shuttle	GO_0006853	1	0	1	0

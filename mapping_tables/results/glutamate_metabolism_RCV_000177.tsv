@@ -1,0 +1,63 @@
+name	ID	manual	auto	checked	blacklisted
+protoporphyrinogen IX biosynthetic process from glutamate	GO_0019353	1	1	1	0
+proline catabolic process to glutamate	GO_0010133	1	1	1	0
+histidine catabolic process to glutamate and formate	GO_0019557	1	1	1	0
+histidine catabolic process to glutamate and formamide	GO_0019556	1	1	1	0
+glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	1	1	1	0
+glutamate metabolic process	GO_0006536	1	1	1	0
+glutamate decarboxylation to succinate	GO_0006540	1	1	1	0
+glutamate catabolic process via mesaconate and citramalate	GO_0019671	1	1	1	0
+glutamate catabolic process via L-citramalate	GO_0019553	1	1	1	0
+glutamate catabolic process via 2-oxoglutarate	GO_0006539	1	1	1	0
+glutamate catabolic process via 2-hydroxyglutarate	GO_0019552	1	1	1	0
+glutamate catabolic process to succinate via succinate semialdehyde	GO_0019549	1	1	1	0
+glutamate catabolic process to propionate	GO_0033509	1	1	1	0
+glutamate catabolic process to oxaloacetate	GO_0019554	1	1	1	0
+glutamate catabolic process to ornithine	GO_0019555	1	1	1	0
+glutamate catabolic process to butyrate	GO_0033508	1	1	1	0
+glutamate catabolic process to aspartate	GO_0019550	1	1	1	0
+glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	1	1	1	0
+glutamate catabolic process to 2-oxoglutarate	GO_0019551	1	1	1	0
+glutamate catabolic process	GO_0006538	1	1	1	0
+glutamate biosynthetic process	GO_0006537	1	1	1	0
+L-glutamate biosynthetic process	GO_0097054	1	1	1	0
+D-glutamate metabolic process	GO_0033054	1	1	1	0
+regulation of proline catabolic process to glutamate	GO_2001156	1	0	1	0
+regulation of kainate selective glutamate receptor activity	GO_2000312	1	0	1	0
+regulation of glutamate-cysteine ligase activity	GO_0035227	1	0	1	0
+regulation of glutamate secretion	GO_0014048	1	0	1	0
+regulation of glutamate receptor signaling pathway	GO_1900449	1	0	1	0
+regulation of glutamate metabolic process	GO_2000211	1	0	1	0
+regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity	GO_2000311	1	0	1	0
+regulation of N-methyl-D-aspartate selective glutamate receptor activity	GO_2000310	1	0	1	0
+regulation of L-glutamate transport	GO_0002036	1	0	1	0
+regulation of L-glutamate import	GO_1900920	1	0	1	0
+positive regulation of proline catabolic process to glutamate	GO_2001158	1	0	1	0
+positive regulation of glutamate-cysteine ligase activity	GO_0035229	1	0	1	0
+positive regulation of glutamate secretion	GO_0014049	1	0	1	0
+positive regulation of glutamate receptor signaling pathway	GO_1900451	1	0	1	0
+positive regulation of glutamate metabolic process	GO_2000213	1	0	1	0
+positive regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity	GO_2000969	1	0	1	0
+positive regulation of L-glutamate transport	GO_0002038	1	0	1	0
+positive regulation of L-glutamate import	GO_1900922	1	0	1	0
+poly-gamma-glutamate metabolic process	GO_0070500	1	0	1	0
+poly-gamma-glutamate biosynthetic process	GO_0070501	1	0	1	0
+phospholipase C-activating G-protein coupled glutamate receptor signaling pathway	GO_0007206	1	0	1	0
+p-aminobenzoyl-glutamate transport	GO_0015814	1	0	1	0
+negative regulation of proline catabolic process to glutamate	GO_2001157	1	0	1	0
+negative regulation of L-glutamate transport	GO_0002037	1	0	1	0
+negative regulation of L-glutamate import	GO_1900921	1	0	1	0
+ionotropic glutamate receptor signaling pathway	GO_0035235	1	0	1	0
+glutamate secretion	GO_0014047	1	0	1	0
+glutamate receptor signaling pathway	GO_0007215	1	0	1	0
+glutamate biosynthetic process, using glutamate synthase (NADPH)	GO_0019269	1	0	1	0
+glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)	GO_0019268	1	0	1	0
+L-glutamate transport	GO_0015813	1	0	1	0
+L-glutamate import	GO_0051938	1	0	1	0
+tetrapyrrole biosynthetic process from glutamate	GO_0033526	0	1	0	0
+glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	0	0
+glutamine catabolic process to fumarate	GO_0019460	0	1	0	0
+glutamate catabolic process to succinate via 2-oxoglutarate-dependent GABA-transaminase activity	GO_0036242	0	1	0	0
+arginine catabolic process to glutamate	GO_0019544	0	1	0	0
+anaerobic glutamate catabolic process	GO_0019670	0	1	0	0
+ammonia assimilation cycle	GO_0019676	0	1	0	0

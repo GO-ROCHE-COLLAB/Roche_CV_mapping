@@ -1,0 +1,13 @@
+name	ID	manual	auto	checked	blacklisted
+insulin processing	GO_0030070	1	1	1	0
+insulin metabolic process	GO_1901142	1	1	1	0
+insulin catabolic process	GO_1901143	1	1	1	0
+insulin-like growth factor receptor signaling pathway	GO_0048009	1	0	1	0
+insulin secretion involved in cellular response to glucose stimulus	GO_0035773	1	0	1	0
+insulin secretion	GO_0030073	1	0	1	0
+insulin receptor signaling pathway via phosphatidylinositol 3-kinase	GO_0038028	1	0	1	0
+insulin receptor signaling pathway involved in determination of adult lifespan	GO_1901047	1	0	1	0
+insulin receptor signaling pathway	GO_0008286	1	0	1	0
+insulin receptor recycling	GO_0038020	1	0	1	0
+insulin receptor internalization	GO_0038016	1	0	1	0
+insulin biosynthetic process	GO_1901144	1	0	1	0

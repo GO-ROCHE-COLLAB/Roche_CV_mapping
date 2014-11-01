@@ -1,0 +1,15 @@
+name	ID	manual	auto	checked	blacklisted
+thiamine-containing compound metabolic process	GO_0042723	1	1	1	0
+thiamine-containing compound catabolic process	GO_0042725	1	1	1	0
+thiamine-containing compound biosynthetic process	GO_0042724	1	1	1	0
+thiamine salvage	GO_0036172	1	1	1	0
+thiamine metabolic process	GO_0006772	1	1	1	0
+thiamine catabolic process	GO_0009230	1	1	1	0
+thiamine biosynthetic process	GO_0009228	1	1	1	0
+thiamine transport	GO_0015888	1	0	1	0
+thiamine transmembrane transport	GO_0071934	1	0	1	0
+thiamine pyrophosphate transport	GO_0030974	1	0	1	0
+thiamine diphosphate metabolic process	GO_0042357	1	0	1	0
+thiamine diphosphate dephosphorylation	GO_0042370	1	0	1	0
+thiamine diphosphate catabolic process	GO_0042358	1	0	1	0
+thiamine diphosphate biosynthetic process	GO_0009229	1	0	1	0

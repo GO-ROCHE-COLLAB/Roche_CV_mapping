@@ -1,0 +1,9 @@
+name	ID	manual	auto	checked	blacklisted
+thymine metabolic process	GO_0019859	1	1	1	0
+thymine catabolic process	GO_0006210	1	1	1	0
+thymine biosynthetic process	GO_0046106	1	1	1	0
+thymine transport	GO_0035364	1	0	1	0
+thymidylate synthase biosynthetic process	GO_0050757	1	0	1	0
+thymidine metabolic process	GO_0046104	1	0	1	0
+thymidine catabolic process	GO_0006214	1	0	1	0
+thymidine biosynthetic process	GO_0046105	1	0	1	0
