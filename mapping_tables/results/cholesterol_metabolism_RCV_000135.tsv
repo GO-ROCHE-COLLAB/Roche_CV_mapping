@@ -45,4 +45,4 @@ cholesterol homeostasis	GO_0042632	1	0	1	0
 cholesterol esterification	GO_0034435	1	0	1	0
 cholesterol efflux	GO_0033344	1	0	1	0
 cellular response to cholesterol	GO_0071397	1	0	1	0
-peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	1	0
