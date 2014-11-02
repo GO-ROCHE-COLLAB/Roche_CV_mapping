@@ -110,185 +110,185 @@ adenosine transport	GO_0032238	1	0	1	0
 adenosine to inosine editing	GO_0006382	1	0	1	0
 adenosine receptor signaling pathway	GO_0001973	1	0	1	0
 adenosine deaminase reaction	GO_0006155	1	0	1	0
-zeatin metabolic process	GO_0033397	0	1	0	0
-zeatin biosynthetic process	GO_0033398	0	1	0	0
-xanthosine metabolic process	GO_1903227	0	1	0	0
-xanthosine catabolic process	GO_1903228	0	1	0	0
-xanthosine biosynthetic process	GO_1903229	0	1	0	0
-xanthine oxidation	GO_0006151	0	1	0	0
-xanthine metabolic process	GO_0046110	0	1	0	0
-xanthine catabolic process	GO_0009115	0	1	0	0
-xanthine biosynthetic process	GO_0046111	0	1	0	0
-urate metabolic process	GO_0046415	0	1	0	0
-urate catabolic process	GO_0019628	0	1	0	0
-urate biosynthetic process	GO_0034418	0	1	0	0
-trans-zeatin metabolic process	GO_0033400	0	1	0	0
-trans-zeatin biosynthetic process	GO_0033466	0	1	0	0
-threonylcarbamoyladenosine metabolic process	GO_0070525	0	1	0	0
-threonylcarbamoyladenosine biosynthetic process	GO_0070526	0	1	0	0
-regulation of ER to Golgi vesicle-mediated transport by GTP hydrolysis	GO_0090113	0	1	0	0
-regulation of COPII vesicle coating	GO_0003400	0	1	0	0
-puromycin metabolic process	GO_0043637	0	1	0	0
-puromycin biosynthetic process	GO_0043638	0	1	0	0
-plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	0	0
-photosynthetic phosphorylation	GO_0009777	0	1	0	0
-oxidative phosphorylation	GO_0006119	0	1	0	0
-noncyclic photosynthetic phosphorylation	GO_0009779	0	1	0	0
-mitochondrial tRNA wobble uridine modification	GO_0070899	0	1	0	0
-mitochondrial tRNA threonylcarbamoyladenosine modification	GO_0072670	0	1	0	0
-mitochondrial tRNA thio-modification	GO_0070903	0	1	0	0
-mitochondrial tRNA pseudouridine synthesis	GO_0070902	0	1	0	0
-mitochondrial tRNA modification	GO_0070900	0	1	0	0
-mitochondrial tRNA methylation	GO_0070901	0	1	0	0
-mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	0	0
-malonyl-CoA metabolic process	GO_2001293	0	1	0	0
-malonyl-CoA catabolic process	GO_2001294	0	1	0	0
-malonyl-CoA biosynthetic process	GO_2001295	0	1	0	0
-isopentenyl adenine metabolic process	GO_0034264	0	1	0	0
-isopentenyl adenine catabolic process	GO_0034266	0	1	0	0
-isopentenyl adenine biosynthetic process	GO_0034265	0	1	0	0
-iron incorporation into iron-sulfur cluster via tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide	GO_0050835	0	1	0	0
-hypoxanthine salvage	GO_0043103	0	1	0	0
-hypoxanthine oxidation	GO_0006150	0	1	0	0
-hypoxanthine metabolic process	GO_0046100	0	1	0	0
-hypoxanthine catabolic process	GO_0009114	0	1	0	0
-hypoxanthine biosynthetic process	GO_0046101	0	1	0	0
-guanosine-containing compound metabolic process	GO_1901068	0	1	0	0
-guanosine-containing compound catabolic process	GO_1901069	0	1	0	0
-guanosine-containing compound biosynthetic process	GO_1901070	0	1	0	0
-guanosine tetraphosphate metabolic process	GO_0015969	0	1	0	0
-guanosine tetraphosphate catabolic process	GO_0015971	0	1	0	0
-guanosine tetraphosphate biosynthetic process	GO_0015970	0	1	0	0
-guanosine salvage	GO_0006179	0	1	0	0
-guanosine pentaphosphate metabolic process	GO_0015972	0	1	0	0
-guanosine pentaphosphate catabolic process	GO_0015974	0	1	0	0
-guanosine pentaphosphate biosynthetic process	GO_0015973	0	1	0	0
-guanosine metabolic process	GO_0008617	0	1	0	0
-guanosine catabolic process	GO_0046115	0	1	0	0
-guanosine biosynthetic process	GO_0046114	0	1	0	0
-guanine salvage	GO_0006178	0	1	0	0
-guanine metabolic process	GO_0046098	0	1	0	0
-guanine catabolic process	GO_0006147	0	1	0	0
-guanine biosynthetic process	GO_0046099	0	1	0	0
-discadenine metabolic process	GO_0034267	0	1	0	0
-discadenine catabolic process	GO_0034269	0	1	0	0
-discadenine biosynthetic process	GO_0034268	0	1	0	0
-depurination	GO_0045007	0	1	0	0
-deoxyinosine salvage	GO_0006191	0	1	0	0
-deoxyinosine metabolic process	GO_0046094	0	1	0	0
-deoxyinosine catabolic process	GO_0006149	0	1	0	0
-deoxyinosine biosynthetic process	GO_0046095	0	1	0	0
-deoxyguanosine salvage	GO_0006180	0	1	0	0
-deoxyguanosine metabolic process	GO_0042453	0	1	0	0
-deoxyguanosine catabolic process	GO_0006161	0	1	0	0
-deoxyguanosine biosynthetic process	GO_0042452	0	1	0	0
-deoxyadenosine metabolic process	GO_0046090	0	1	0	0
-deoxyadenosine catabolic process	GO_0006157	0	1	0	0
-deoxyadenosine biosynthetic process	GO_0046091	0	1	0	0
-dITP metabolic process	GO_0035862	0	1	0	0
-dITP catabolic process	GO_0035863	0	1	0	0
-dGTP metabolic process	GO_0046070	0	1	0	0
-dGTP catabolic process	GO_0006203	0	1	0	0
-dGTP biosynthetic process from dGDP	GO_0006187	0	1	0	0
-dGTP biosynthetic process	GO_0046071	0	1	0	0
-dGMP metabolic process	GO_0046054	0	1	0	0
-dGMP catabolic process	GO_0046055	0	1	0	0
-dGMP biosynthetic process	GO_0006181	0	1	0	0
-dGDP phosphorylation	GO_0006186	0	1	0	0
-dGDP metabolic process	GO_0046066	0	1	0	0
-dGDP catabolic process	GO_0046067	0	1	0	0
-dGDP biosynthetic process	GO_0006185	0	1	0	0
-dATP metabolic process	GO_0046060	0	1	0	0
-dATP catabolic process	GO_0046061	0	1	0	0
-dATP biosynthetic process from ADP	GO_0006176	0	1	0	0
-dATP biosynthetic process	GO_0006175	0	1	0	0
-dAMP metabolic process	GO_0046053	0	1	0	0
-dAMP catabolic process	GO_0046059	0	1	0	0
-dAMP biosynthetic process	GO_0006170	0	1	0	0
-dADP phosphorylation	GO_0006174	0	1	0	0
-dADP metabolic process	GO_0046056	0	1	0	0
-dADP catabolic process	GO_0046057	0	1	0	0
-dADP biosynthetic process	GO_0006173	0	1	0	0
-cyclic photosynthetic phosphorylation	GO_0009778	0	1	0	0
-coenzyme A metabolic process	GO_0015936	0	1	0	0
-coenzyme A catabolic process	GO_0015938	0	1	0	0
-coenzyme A biosynthetic process	GO_0015937	0	1	0	0
-cis-zeatin metabolic process	GO_0033399	0	1	0	0
-cis-zeatin biosynthetic process	GO_0033465	0	1	0	0
-cGMP metabolic process	GO_0046068	0	1	0	0
-cGMP catabolic process	GO_0046069	0	1	0	0
-cGMP biosynthetic process	GO_0006182	0	1	0	0
-cAMP metabolic process	GO_0046058	0	1	0	0
-cAMP catabolic process	GO_0006198	0	1	0	0
-cAMP biosynthetic process	GO_0006171	0	1	0	0
-anaerobic purine nucleobase catabolic process	GO_0019653	0	1	0	0
-adenosine 5'-(hexahydrogen pentaphosphate) metabolic process	GO_1901910	0	1	0	0
-adenosine 5'-(hexahydrogen pentaphosphate) catabolic process	GO_1901911	0	1	0	0
-adenine salvage	GO_0006168	0	1	0	0
-adenine metabolic process	GO_0046083	0	1	0	0
-adenine catabolic process	GO_0006146	0	1	0	0
-adenine biosynthetic process	GO_0046084	0	1	0	0
-XMP salvage	GO_0032265	0	1	0	0
-XMP metabolic process	GO_0097292	0	1	0	0
-XMP biosynthetic process	GO_0097293	0	1	0	0
-XDP catabolic process	GO_1901639	0	1	0	0
-S-adenosylmethionine metabolic process	GO_0046500	0	1	0	0
-S-adenosylmethionine cycle	GO_0033353	0	1	0	0
-S-adenosylmethionine catabolic process	GO_0050843	0	1	0	0
-S-adenosylmethionine biosynthetic process	GO_0006556	0	1	0	0
-S-adenosylmethioninamine metabolic process	GO_0046499	0	1	0	0
-S-adenosylmethioninamine biosynthetic process	GO_0006557	0	1	0	0
-S-adenosylhomocysteine metabolic process	GO_0046498	0	1	0	0
-S-adenosylhomocysteine catabolic process	GO_0019510	0	1	0	0
-L-methylmalonyl-CoA metabolic process	GO_0046491	0	1	0	0
-L-methylmalonyl-CoA biosynthetic process	GO_0019680	0	1	0	0
-L-methionine biosynthetic process from S-adenosylmethionine	GO_0019284	0	1	0	0
-ITP metabolic process	GO_0046041	0	1	0	0
-ITP catabolic process	GO_0006193	0	1	0	0
-ITP biosynthetic process	GO_0046042	0	1	0	0
-IMP salvage	GO_0032264	0	1	0	0
-IMP metabolic process	GO_0046040	0	1	0	0
-IMP catabolic process	GO_0006204	0	1	0	0
-IMP biosynthetic process	GO_0006188	0	1	0	0
-IDP phosphorylation	GO_0006192	0	1	0	0
-IDP metabolic process	GO_0046707	0	1	0	0
-IDP catabolic process	GO_0046709	0	1	0	0
-IDP biosynthetic process	GO_0046708	0	1	0	0
-GTP metabolic process	GO_0046039	0	1	0	0
-GTP catabolic process	GO_0006184	0	1	0	0
-GTP biosynthetic process	GO_0006183	0	1	0	0
-GMP salvage	GO_0032263	0	1	0	0
-GMP metabolic process	GO_0046037	0	1	0	0
-GMP catabolic process to guanine	GO_0006202	0	1	0	0
-GMP catabolic process to IMP	GO_0006201	0	1	0	0
-GMP catabolic process	GO_0046038	0	1	0	0
-GMP biosynthetic process	GO_0006177	0	1	0	0
-GDP metabolic process	GO_0046710	0	1	0	0
-GDP catabolic process	GO_0046712	0	1	0	0
-GDP biosynthetic process	GO_0046711	0	1	0	0
-ATP synthesis coupled proton transport	GO_0015986	0	1	0	0
-ATP metabolic process	GO_0046034	0	1	0	0
-ATP catabolic process	GO_0006200	0	1	0	0
-ATP biosynthetic process	GO_0006754	0	1	0	0
-AMP salvage	GO_0044209	0	1	0	0
-AMP phosphorylation	GO_0006756	0	1	0	0
-AMP metabolic process	GO_0046033	0	1	0	0
-AMP catabolic process	GO_0006196	0	1	0	0
-AMP biosynthetic process	GO_0006167	0	1	0	0
-ADP phosphorylation	GO_0006757	0	1	0	0
-ADP metabolic process	GO_0046031	0	1	0	0
-ADP catabolic process	GO_0046032	0	1	0	0
-ADP biosynthetic process	GO_0006172	0	1	0	0
-7-methylguanosine metabolic process	GO_0008618	0	1	0	0
-7-methylguanosine catabolic process	GO_0046119	0	1	0	0
-7-methylguanosine biosynthetic process	GO_0046118	0	1	0	0
-3'-phosphoadenosine 5'-phosphosulfate metabolic process	GO_0050427	0	1	0	0
-3'-phosphoadenosine 5'-phosphosulfate biosynthetic process	GO_0050428	0	1	0	0
-3',5'-cyclic diguanylic acid metabolic process	GO_0052653	0	1	0	0
-2-methylguanosine metabolic process	GO_0080180	0	1	0	0
-2'-(5''-triphosphoribosyl)-3'-dephospho-CoA metabolic process	GO_0046432	0	1	0	0
-2'-(5''-triphosphoribosyl)-3'-dephospho-CoA biosynthetic process	GO_0019361	0	1	0	0
-1-methylguanosine metabolic process	GO_0080179	0	1	0	0
-'de novo' XMP biosynthetic process	GO_0097294	0	1	0	0
-'de novo' IMP biosynthetic process	GO_0006189	0	1	0	0
-'de novo' AMP biosynthetic process	GO_0044208	0	1	0	0
+zeatin metabolic process	GO_0033397	0	1	1	0
+zeatin biosynthetic process	GO_0033398	0	1	1	0
+xanthosine metabolic process	GO_1903227	0	1	1	0
+xanthosine catabolic process	GO_1903228	0	1	1	0
+xanthosine biosynthetic process	GO_1903229	0	1	1	0
+xanthine oxidation	GO_0006151	0	1	1	0
+xanthine metabolic process	GO_0046110	0	1	1	0
+xanthine catabolic process	GO_0009115	0	1	1	0
+xanthine biosynthetic process	GO_0046111	0	1	1	0
+urate metabolic process	GO_0046415	0	1	1	0
+urate catabolic process	GO_0019628	0	1	1	0
+urate biosynthetic process	GO_0034418	0	1	1	0
+trans-zeatin metabolic process	GO_0033400	0	1	1	0
+trans-zeatin biosynthetic process	GO_0033466	0	1	1	0
+threonylcarbamoyladenosine metabolic process	GO_0070525	0	1	1	0
+threonylcarbamoyladenosine biosynthetic process	GO_0070526	0	1	1	0
+regulation of ER to Golgi vesicle-mediated transport by GTP hydrolysis	GO_0090113	0	1	1	0
+regulation of COPII vesicle coating	GO_0003400	0	1	1	0
+puromycin metabolic process	GO_0043637	0	1	1	0
+puromycin biosynthetic process	GO_0043638	0	1	1	0
+plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	1	0
+photosynthetic phosphorylation	GO_0009777	0	1	1	0
+oxidative phosphorylation	GO_0006119	0	1	1	0
+noncyclic photosynthetic phosphorylation	GO_0009779	0	1	1	0
+mitochondrial tRNA wobble uridine modification	GO_0070899	0	1	1	0
+mitochondrial tRNA threonylcarbamoyladenosine modification	GO_0072670	0	1	1	0
+mitochondrial tRNA thio-modification	GO_0070903	0	1	1	0
+mitochondrial tRNA pseudouridine synthesis	GO_0070902	0	1	1	0
+mitochondrial tRNA modification	GO_0070900	0	1	1	0
+mitochondrial tRNA methylation	GO_0070901	0	1	1	0
+mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	1	0
+malonyl-CoA metabolic process	GO_2001293	0	1	1	0
+malonyl-CoA catabolic process	GO_2001294	0	1	1	0
+malonyl-CoA biosynthetic process	GO_2001295	0	1	1	0
+isopentenyl adenine metabolic process	GO_0034264	0	1	1	0
+isopentenyl adenine catabolic process	GO_0034266	0	1	1	0
+isopentenyl adenine biosynthetic process	GO_0034265	0	1	1	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide	GO_0050835	0	1	1	0
+hypoxanthine salvage	GO_0043103	0	1	1	0
+hypoxanthine oxidation	GO_0006150	0	1	1	0
+hypoxanthine metabolic process	GO_0046100	0	1	1	0
+hypoxanthine catabolic process	GO_0009114	0	1	1	0
+hypoxanthine biosynthetic process	GO_0046101	0	1	1	0
+guanosine-containing compound metabolic process	GO_1901068	0	1	1	0
+guanosine-containing compound catabolic process	GO_1901069	0	1	1	0
+guanosine-containing compound biosynthetic process	GO_1901070	0	1	1	0
+guanosine tetraphosphate metabolic process	GO_0015969	0	1	1	0
+guanosine tetraphosphate catabolic process	GO_0015971	0	1	1	0
+guanosine tetraphosphate biosynthetic process	GO_0015970	0	1	1	0
+guanosine salvage	GO_0006179	0	1	1	0
+guanosine pentaphosphate metabolic process	GO_0015972	0	1	1	0
+guanosine pentaphosphate catabolic process	GO_0015974	0	1	1	0
+guanosine pentaphosphate biosynthetic process	GO_0015973	0	1	1	0
+guanosine metabolic process	GO_0008617	0	1	1	0
+guanosine catabolic process	GO_0046115	0	1	1	0
+guanosine biosynthetic process	GO_0046114	0	1	1	0
+guanine salvage	GO_0006178	0	1	1	0
+guanine metabolic process	GO_0046098	0	1	1	0
+guanine catabolic process	GO_0006147	0	1	1	0
+guanine biosynthetic process	GO_0046099	0	1	1	0
+discadenine metabolic process	GO_0034267	0	1	1	0
+discadenine catabolic process	GO_0034269	0	1	1	0
+discadenine biosynthetic process	GO_0034268	0	1	1	0
+depurination	GO_0045007	0	1	1	0
+deoxyinosine salvage	GO_0006191	0	1	1	0
+deoxyinosine metabolic process	GO_0046094	0	1	1	0
+deoxyinosine catabolic process	GO_0006149	0	1	1	0
+deoxyinosine biosynthetic process	GO_0046095	0	1	1	0
+deoxyguanosine salvage	GO_0006180	0	1	1	0
+deoxyguanosine metabolic process	GO_0042453	0	1	1	0
+deoxyguanosine catabolic process	GO_0006161	0	1	1	0
+deoxyguanosine biosynthetic process	GO_0042452	0	1	1	0
+deoxyadenosine metabolic process	GO_0046090	0	1	1	0
+deoxyadenosine catabolic process	GO_0006157	0	1	1	0
+deoxyadenosine biosynthetic process	GO_0046091	0	1	1	0
+dITP metabolic process	GO_0035862	0	1	1	0
+dITP catabolic process	GO_0035863	0	1	1	0
+dGTP metabolic process	GO_0046070	0	1	1	0
+dGTP catabolic process	GO_0006203	0	1	1	0
+dGTP biosynthetic process from dGDP	GO_0006187	0	1	1	0
+dGTP biosynthetic process	GO_0046071	0	1	1	0
+dGMP metabolic process	GO_0046054	0	1	1	0
+dGMP catabolic process	GO_0046055	0	1	1	0
+dGMP biosynthetic process	GO_0006181	0	1	1	0
+dGDP phosphorylation	GO_0006186	0	1	1	0
+dGDP metabolic process	GO_0046066	0	1	1	0
+dGDP catabolic process	GO_0046067	0	1	1	0
+dGDP biosynthetic process	GO_0006185	0	1	1	0
+dATP metabolic process	GO_0046060	0	1	1	0
+dATP catabolic process	GO_0046061	0	1	1	0
+dATP biosynthetic process from ADP	GO_0006176	0	1	1	0
+dATP biosynthetic process	GO_0006175	0	1	1	0
+dAMP metabolic process	GO_0046053	0	1	1	0
+dAMP catabolic process	GO_0046059	0	1	1	0
+dAMP biosynthetic process	GO_0006170	0	1	1	0
+dADP phosphorylation	GO_0006174	0	1	1	0
+dADP metabolic process	GO_0046056	0	1	1	0
+dADP catabolic process	GO_0046057	0	1	1	0
+dADP biosynthetic process	GO_0006173	0	1	1	0
+cyclic photosynthetic phosphorylation	GO_0009778	0	1	1	0
+coenzyme A metabolic process	GO_0015936	0	1	1	0
+coenzyme A catabolic process	GO_0015938	0	1	1	0
+coenzyme A biosynthetic process	GO_0015937	0	1	1	0
+cis-zeatin metabolic process	GO_0033399	0	1	1	0
+cis-zeatin biosynthetic process	GO_0033465	0	1	1	0
+cGMP metabolic process	GO_0046068	0	1	1	0
+cGMP catabolic process	GO_0046069	0	1	1	0
+cGMP biosynthetic process	GO_0006182	0	1	1	0
+cAMP metabolic process	GO_0046058	0	1	1	0
+cAMP catabolic process	GO_0006198	0	1	1	0
+cAMP biosynthetic process	GO_0006171	0	1	1	0
+anaerobic purine nucleobase catabolic process	GO_0019653	0	1	1	0
+adenosine 5'-(hexahydrogen pentaphosphate) metabolic process	GO_1901910	0	1	1	0
+adenosine 5'-(hexahydrogen pentaphosphate) catabolic process	GO_1901911	0	1	1	0
+adenine salvage	GO_0006168	0	1	1	0
+adenine metabolic process	GO_0046083	0	1	1	0
+adenine catabolic process	GO_0006146	0	1	1	0
+adenine biosynthetic process	GO_0046084	0	1	1	0
+XMP salvage	GO_0032265	0	1	1	0
+XMP metabolic process	GO_0097292	0	1	1	0
+XMP biosynthetic process	GO_0097293	0	1	1	0
+XDP catabolic process	GO_1901639	0	1	1	0
+S-adenosylmethionine metabolic process	GO_0046500	0	1	1	0
+S-adenosylmethionine cycle	GO_0033353	0	1	1	0
+S-adenosylmethionine catabolic process	GO_0050843	0	1	1	0
+S-adenosylmethionine biosynthetic process	GO_0006556	0	1	1	0
+S-adenosylmethioninamine metabolic process	GO_0046499	0	1	1	0
+S-adenosylmethioninamine biosynthetic process	GO_0006557	0	1	1	0
+S-adenosylhomocysteine metabolic process	GO_0046498	0	1	1	0
+S-adenosylhomocysteine catabolic process	GO_0019510	0	1	1	0
+L-methylmalonyl-CoA metabolic process	GO_0046491	0	1	1	0
+L-methylmalonyl-CoA biosynthetic process	GO_0019680	0	1	1	0
+L-methionine biosynthetic process from S-adenosylmethionine	GO_0019284	0	1	1	0
+ITP metabolic process	GO_0046041	0	1	1	0
+ITP catabolic process	GO_0006193	0	1	1	0
+ITP biosynthetic process	GO_0046042	0	1	1	0
+IMP salvage	GO_0032264	0	1	1	0
+IMP metabolic process	GO_0046040	0	1	1	0
+IMP catabolic process	GO_0006204	0	1	1	0
+IMP biosynthetic process	GO_0006188	0	1	1	0
+IDP phosphorylation	GO_0006192	0	1	1	0
+IDP metabolic process	GO_0046707	0	1	1	0
+IDP catabolic process	GO_0046709	0	1	1	0
+IDP biosynthetic process	GO_0046708	0	1	1	0
+GTP metabolic process	GO_0046039	0	1	1	0
+GTP catabolic process	GO_0006184	0	1	1	0
+GTP biosynthetic process	GO_0006183	0	1	1	0
+GMP salvage	GO_0032263	0	1	1	0
+GMP metabolic process	GO_0046037	0	1	1	0
+GMP catabolic process to guanine	GO_0006202	0	1	1	0
+GMP catabolic process to IMP	GO_0006201	0	1	1	0
+GMP catabolic process	GO_0046038	0	1	1	0
+GMP biosynthetic process	GO_0006177	0	1	1	0
+GDP metabolic process	GO_0046710	0	1	1	0
+GDP catabolic process	GO_0046712	0	1	1	0
+GDP biosynthetic process	GO_0046711	0	1	1	0
+ATP synthesis coupled proton transport	GO_0015986	0	1	1	0
+ATP metabolic process	GO_0046034	0	1	1	0
+ATP catabolic process	GO_0006200	0	1	1	0
+ATP biosynthetic process	GO_0006754	0	1	1	0
+AMP salvage	GO_0044209	0	1	1	0
+AMP phosphorylation	GO_0006756	0	1	1	0
+AMP metabolic process	GO_0046033	0	1	1	0
+AMP catabolic process	GO_0006196	0	1	1	0
+AMP biosynthetic process	GO_0006167	0	1	1	0
+ADP phosphorylation	GO_0006757	0	1	1	0
+ADP metabolic process	GO_0046031	0	1	1	0
+ADP catabolic process	GO_0046032	0	1	1	0
+ADP biosynthetic process	GO_0006172	0	1	1	0
+7-methylguanosine metabolic process	GO_0008618	0	1	1	0
+7-methylguanosine catabolic process	GO_0046119	0	1	1	0
+7-methylguanosine biosynthetic process	GO_0046118	0	1	1	0
+3'-phosphoadenosine 5'-phosphosulfate metabolic process	GO_0050427	0	1	1	0
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process	GO_0050428	0	1	1	0
+3',5'-cyclic diguanylic acid metabolic process	GO_0052653	0	1	1	0
+2-methylguanosine metabolic process	GO_0080180	0	1	1	0
+2'-(5''-triphosphoribosyl)-3'-dephospho-CoA metabolic process	GO_0046432	0	1	1	0
+2'-(5''-triphosphoribosyl)-3'-dephospho-CoA biosynthetic process	GO_0019361	0	1	1	0
+1-methylguanosine metabolic process	GO_0080179	0	1	1	0
+'de novo' XMP biosynthetic process	GO_0097294	0	1	1	0
+'de novo' IMP biosynthetic process	GO_0006189	0	1	1	0
+'de novo' AMP biosynthetic process	GO_0044208	0	1	1	0
