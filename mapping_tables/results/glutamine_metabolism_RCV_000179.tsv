@@ -27,7 +27,7 @@ detection of glutamine	GO_0010108	1	0	1	0
 conversion of glutamyl-tRNA to glutaminyl-tRNA	GO_0043685	1	0	1	0
 L-glutamine import	GO_0036229	1	0	1	0
 C-terminal peptidyl-glutamine amidation	GO_0018039	1	0	1	0
-glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	0	0
-cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	0	1	0	0
-ammonia assimilation cycle	GO_0019676	0	1	0	0
-L-glutamine biosynthetic process	GO_1901704	0	1	0	0
+glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	1	0
+cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	0	1	1	0
+ammonia assimilation cycle	GO_0019676	0	1	1	0
+L-glutamine biosynthetic process	GO_1901704	0	1	1	0
