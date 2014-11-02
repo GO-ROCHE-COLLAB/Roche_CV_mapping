@@ -54,10 +54,10 @@ glutamate biosynthetic process, using glutamate synthase (NADPH)	GO_0019269	1	0	
 glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)	GO_0019268	1	0	1	0
 L-glutamate transport	GO_0015813	1	0	1	0
 L-glutamate import	GO_0051938	1	0	1	0
-tetrapyrrole biosynthetic process from glutamate	GO_0033526	0	1	0	0
-glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	0	0
-glutamine catabolic process to fumarate	GO_0019460	0	1	0	0
-glutamate catabolic process to succinate via 2-oxoglutarate-dependent GABA-transaminase activity	GO_0036242	0	1	0	0
-arginine catabolic process to glutamate	GO_0019544	0	1	0	0
-anaerobic glutamate catabolic process	GO_0019670	0	1	0	0
-ammonia assimilation cycle	GO_0019676	0	1	0	0
+tetrapyrrole biosynthetic process from glutamate	GO_0033526	0	1	1	0
+glutamine catabolic process to fumarate, using glutaminase	GO_0019462	0	1	1	0
+glutamine catabolic process to fumarate	GO_0019460	0	1	1	0
+glutamate catabolic process to succinate via 2-oxoglutarate-dependent GABA-transaminase activity	GO_0036242	0	1	1	0
+arginine catabolic process to glutamate	GO_0019544	0	1	1	0
+anaerobic glutamate catabolic process	GO_0019670	0	1	1 0
+ammonia assimilation cycle	GO_0019676	0	1	1	0
