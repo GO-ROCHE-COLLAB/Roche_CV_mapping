@@ -141,9 +141,9 @@ histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	1	
 histone H3-K56 acetylation in response to DNA damage	GO_0097044	1	0	1	0
 error-prone DNA repair	GO_0045020	1	0	1	0
 error-free DNA repair	GO_0045021	1	0	1	0
-ribonucleotide excision repair	GO_1990516	0	1	0	0
-regulation of single strand break repair	GO_1903516	0	1	0	0
-positive regulation of single strand break repair	GO_1903518	0	1	0	0
-negative regulation of single strand break repair	GO_1903517	0	1	0	0
+ribonucleotide excision repair	GO_1990516	0	1	1	0
+regulation of single strand break repair	GO_1903516	0	1	1	0
+positive regulation of single strand break repair	GO_1903518	0	1	1	0
+negative regulation of single strand break repair	GO_1903517	0	1	1	0
 heteroduplex formation involved in double-strand break repair via synthesis-dependent strand annealing	GO_0010709	0	1	1	0
 DNA 3' dephosphorylation involved in DNA repair	GO_0098504	0	1	1	0
