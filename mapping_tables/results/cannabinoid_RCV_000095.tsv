@@ -1,0 +1,5 @@
+name	ID	manual	auto	checked	blacklisted
+regulation of endocannabinoid signaling pathway	GO_2000124	1	0	1	0
+cannabinoid signaling pathway	GO_0038171	1	0	1	0
+cannabinoid receptor activity	GO_0004949	0	1	0	0
+cannabinoid biosynthetic process	GO_1901696	0	1	0	0

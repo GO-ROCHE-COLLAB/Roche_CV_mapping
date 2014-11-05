@@ -1,0 +1,20 @@
+name	ID	manual	auto	checked	blacklisted
+heme a catabolic process	GO_0046161	1	1	1	0
+siroheme metabolic process	GO_0046156	0	1	0	0
+siroheme catabolic process	GO_0046157	0	1	0	0
+siroheme biosynthetic process	GO_0019354	0	1	0	0
+heme oxidation	GO_0006788	0	1	0	0
+heme o metabolic process	GO_0048033	0	1	0	0
+heme o catabolic process	GO_0048035	0	1	0	0
+heme metabolic process	GO_0042168	0	1	0	0
+heme catabolic process	GO_0042167	0	1	0	0
+heme c metabolic process	GO_0046162	0	1	0	0
+heme c catabolic process	GO_0046163	0	1	0	0
+heme c biosynthetic process	GO_0006786	0	1	0	0
+heme biosynthetic process	GO_0006783	0	1	0	0
+heme b metabolic process	GO_0046492	0	1	0	0
+heme b catabolic process	GO_1900548	0	1	0	0
+heme b biosynthetic process	GO_0006785	0	1	0	0
+heme a metabolic process	GO_0046160	0	1	0	0
+heme a biosynthetic process	GO_0006784	0	1	0	0
+heme O biosynthetic process	GO_0048034	0	1	0	0

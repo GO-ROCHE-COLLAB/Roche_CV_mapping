@@ -1,0 +1,57 @@
+name	ID	manual	auto	checked	blacklisted
+ectodermal digestive tract morphogenesis	GO_0048567	1	1	1	0
+ectodermal digestive tract development	GO_0007439	1	1	1	0
+digestive tract morphogenesis	GO_0048546	1	1	1	0
+digestive tract development	GO_0048565	1	1	1	0
+determination of digestive tract left/right asymmetry	GO_0071907	1	1	1	0
+digestive tract mesoderm development	GO_0007502	1	0	1	0
+digestive system development	GO_0055123	1	0	1	0
+visceral mesoderm-endoderm interaction involved in midgut development	GO_0007495	0	1	0	0
+stomach neuroendocrine cell differentiation	GO_0061102	0	1	0	0
+regulation of stomach neuroendocrine cell differentiation	GO_0061105	0	1	0	0
+regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000056	0	1	0	0
+regulation of Malpighian tubule size	GO_0035298	0	1	0	0
+regulation of Malpighian tubule diameter	GO_0035297	0	1	0	0
+posterior midgut development	GO_0007497	0	1	0	0
+post-embryonic hindgut morphogenesis	GO_0048620	0	1	0	0
+post-embryonic foregut morphogenesis	GO_0048618	0	1	0	0
+post-embryonic ectodermal digestive tract morphogenesis	GO_0048614	0	1	0	0
+post-embryonic ectodermal digestive tract development	GO_0048612	0	1	0	0
+post-embryonic digestive tract morphogenesis	GO_0048621	0	1	0	0
+post-embryonic anterior midgut (ectodermal) morphogenesis	GO_0048616	0	1	0	0
+pharynx development	GO_0060465	0	1	0	0
+pharyngeal muscle development	GO_0043282	0	1	0	0
+negative regulation of stomach neuroendocrine cell differentiation	GO_0061106	0	1	0	0
+negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000057	0	1	0	0
+midgut development	GO_0007494	0	1	0	0
+intestinal epithelial cell maturation	GO_0060574	0	1	0	0
+intestinal epithelial cell differentiation	GO_0060575	0	1	0	0
+intestinal epithelial cell development	GO_0060576	0	1	0	0
+interstitial cell of Cajal differentiation	GO_0061453	0	1	0	0
+hindgut morphogenesis	GO_0007442	0	1	0	0
+hindgut development	GO_0061525	0	1	0	0
+foregut morphogenesis	GO_0007440	0	1	0	0
+epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	0	1	0	0
+enteric smooth muscle cell differentiation	GO_0035645	0	1	0	0
+endodermal digestive tract morphogenesis	GO_0061031	0	1	0	0
+embryonic hindgut morphogenesis	GO_0048619	0	1	0	0
+embryonic foregut morphogenesis	GO_0048617	0	1	0	0
+embryonic ectodermal digestive tract morphogenesis	GO_0048613	0	1	0	0
+embryonic ectodermal digestive tract development	GO_0048611	0	1	0	0
+embryonic digestive tract morphogenesis	GO_0048557	0	1	0	0
+embryonic digestive tract development	GO_0048566	0	1	0	0
+embryonic anterior midgut (ectodermal) morphogenesis	GO_0048615	0	1	0	0
+determination of stomach left/right asymmetry	GO_0071909	0	1	0	0
+determination of intestine left/right asymmetry	GO_0071908	0	1	0	0
+cloacal septation	GO_0060197	0	1	0	0
+cloaca development	GO_0035844	0	1	0	0
+cell rearrangement involved in Malpighian tubule morphogenesis	GO_0061334	0	1	0	0
+cell morphogenesis involved in Malpighian tubule morphogenesis	GO_0061336	0	1	0	0
+cell growth involved in Malpighian tubule morphogenesis	GO_0061335	0	1	0	0
+cell chemotaxis involved in Malpighian tubule morphogenesis	GO_0061352	0	1	0	0
+anterior midgut development	GO_0007496	0	1	0	0
+anterior midgut (ectodermal) morphogenesis	GO_0007441	0	1	0	0
+Wnt signaling pathway involved in digestive tract morphogenesis	GO_0044333	0	1	0	0
+Malpighian tubule morphogenesis	GO_0007443	0	1	0	0
+Malpighian tubule bud morphogenesis	GO_0061332	0	1	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0

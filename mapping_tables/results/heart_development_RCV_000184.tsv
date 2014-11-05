@@ -1,0 +1,428 @@
+name	ID	manual	auto	checked	blacklisted
+ventricular trabecula myocardium morphogenesis	GO_0003222	1	1	1	0
+ventricular septum morphogenesis	GO_0060412	1	1	1	0
+ventricular septum intermedium morphogenesis	GO_0003288	1	1	1	0
+ventricular septum intermedium development	GO_0003282	1	1	1	0
+ventricular septum development	GO_0003281	1	1	1	0
+ventricular compact myocardium morphogenesis	GO_0003223	1	1	1	0
+ventricular cardiac myofibril assembly	GO_0055005	1	1	1	0
+ventricular cardiac muscle tissue morphogenesis	GO_0055010	1	1	1	0
+ventricular cardiac muscle tissue development	GO_0003229	1	1	1	0
+ventricular cardiac muscle cell fate commitment	GO_0060925	1	1	1	0
+ventricular cardiac muscle cell differentiation	GO_0055012	1	1	1	0
+ventricular cardiac muscle cell development	GO_0055015	1	1	1	0
+right ventricular cardiac muscle tissue morphogenesis	GO_0003221	1	1	1	0
+regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000161	1	1	1	0
+regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000150	1	1	1	0
+regulation of heart morphogenesis	GO_2000826	1	1	1	0
+regulation of cardioblast proliferation	GO_0003264	1	1	1	0
+regulation of cardioblast differentiation	GO_0051890	1	1	1	0
+regulation of cardioblast cell fate specification	GO_0042686	1	1	1	0
+regulation of cardiac muscle tissue growth	GO_0055021	1	1	1	0
+regulation of cardiac muscle tissue development	GO_0055024	1	1	1	0
+regulation of cardiac muscle fiber development	GO_0055018	1	1	1	0
+regulation of cardiac muscle cell proliferation	GO_0060043	1	1	1	0
+regulation of cardiac muscle cell differentiation	GO_2000725	1	1	1	0
+regulation of cardiac chamber morphogenesis	GO_1901219	1	1	1	0
+regulation of cardiac chamber formation	GO_1901210	1	1	1	0
+regulation of cardiac cell fate specification	GO_2000043	1	1	1	0
+positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	1	1	1	0
+positive regulation of cardiac muscle tissue growth	GO_0055023	1	1	1	0
+positive regulation of cardiac muscle tissue development	GO_0055025	1	1	1	0
+positive regulation of cardiac muscle fiber development	GO_0055020	1	1	1	0
+positive regulation of cardiac muscle cell proliferation	GO_0060045	1	1	1	0
+positive regulation of cardiac muscle cell differentiation	GO_2000727	1	1	1	0
+positive regulation of cardiac chamber morphogenesis	GO_1901221	1	1	1	0
+positive regulation of cardiac chamber formation	GO_1901212	1	1	1	0
+planar cell polarity pathway involved in ventricular septum morphogenesis	GO_0061348	1	1	1	0
+planar cell polarity pathway involved in pericardium morphogenesis	GO_0061354	1	1	1	0
+planar cell polarity pathway involved in heart morphogenesis	GO_0061346	1	1	1	0
+planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_0061349	1	1	1	0
+planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_0061350	1	1	1	0
+planar cell polarity pathway involved in cardiac muscle cell fate commitment	GO_0061345	1	1	1	0
+physiological cardiac muscle hypertrophy	GO_0003301	1	1	1	0
+negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000162	1	1	1	0
+negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000151	1	1	1	0
+negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	1	1	1	0
+negative regulation of cardiac muscle tissue growth	GO_0055022	1	1	1	0
+negative regulation of cardiac muscle tissue development	GO_0055026	1	1	1	0
+negative regulation of cardiac muscle fiber development	GO_0055019	1	1	1	0
+negative regulation of cardiac muscle cell proliferation	GO_0060044	1	1	1	0
+negative regulation of cardiac muscle cell differentiation	GO_2000726	1	1	1	0
+negative regulation of cardiac chamber morphogenesis	GO_1901220	1	1	1	0
+negative regulation of cardiac chamber formation	GO_1901211	1	1	1	0
+negative regulation of cardiac cell fate specification	GO_2000044	1	1	1	0
+left ventricular trabecular myocardium morphogenesis	GO_0003225	1	1	1	0
+left ventricular compact myocardium morphogenesis	GO_0003224	1	1	1	0
+left ventricular cardiac muscle tissue morphogenesis	GO_0003220	1	1	1	0
+endocardial cushion to mesenchymal transition involved in cardiac skeleton development	GO_0003202	1	1	1	0
+embryonic heart tube morphogenesis	GO_0003143	1	1	1	0
+embryonic heart tube left/right pattern formation	GO_0060971	1	1	1	0
+embryonic heart tube formation via epithelial folding	GO_0003145	1	1	1	0
+embryonic heart tube formation	GO_0003144	1	1	1	0
+embryonic heart tube elongation	GO_0036306	1	1	1	0
+embryonic heart tube dorsal/ventral pattern formation	GO_0060970	1	1	1	0
+embryonic heart tube development	GO_0035050	1	1	1	0
+embryonic heart tube anterior/posterior pattern specification	GO_0035054	1	1	1	0
+embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003246	1	1	1	0
+circumferential growth involved in left ventricle morphogenesis	GO_0003243	1	1	1	0
+cardiogenic plate morphogenesis	GO_0003142	1	1	1	0
+cardiocyte differentiation	GO_0035051	1	1	1	0
+cardioblast proliferation	GO_0003263	1	1	1	0
+cardioblast migration to the midline involved in heart rudiment formation	GO_0003319	1	1	1	0
+cardioblast migration to the midline involved in heart field formation	GO_0060975	1	1	1	0
+cardioblast migration	GO_0003260	1	1	1	0
+cardioblast differentiation	GO_0010002	1	1	1	0
+cardioblast cell midline fusion	GO_0003317	1	1	1	0
+cardioblast cell fate specification	GO_0042685	1	1	1	0
+cardioblast cell fate determination	GO_0007510	1	1	1	0
+cardioblast cell fate commitment	GO_0042684	1	1	1	0
+cardioblast anterior-lateral migration	GO_0003259	1	1	1	0
+cardiac ventricle morphogenesis	GO_0003208	1	1	1	0
+cardiac ventricle formation	GO_0003211	1	1	1	0
+cardiac ventricle development	GO_0003231	1	1	1	0
+cardiac vascular smooth muscle cell fate commitment	GO_0060949	1	1	1	0
+cardiac vascular smooth muscle cell differentiation	GO_0060947	1	1	1	0
+cardiac vascular smooth muscle cell development	GO_0060948	1	1	1	0
+cardiac skeleton development	GO_0003204	1	1	1	0
+cardiac septum morphogenesis	GO_0060411	1	1	1	0
+cardiac septum development	GO_0003279	1	1	1	0
+cardiac septum cell differentiation	GO_0003292	1	1	1	0
+cardiac right ventricle morphogenesis	GO_0003215	1	1	1	0
+cardiac right ventricle formation	GO_0003219	1	1	1	0
+cardiac right atrium morphogenesis	GO_0003213	1	1	1	0
+cardiac right atrium formation	GO_0003217	1	1	1	0
+cardiac pacemaker cell fate commitment	GO_0060927	1	1	1	0
+cardiac pacemaker cell differentiation	GO_0060920	1	1	1	0
+cardiac pacemaker cell development	GO_0060926	1	1	1	0
+cardiac neuron fate commitment	GO_0060960	1	1	1	0
+cardiac neuron differentiation	GO_0060945	1	1	1	0
+cardiac neuron development	GO_0060959	1	1	1	0
+cardiac neural crest cell migration involved in outflow tract morphogenesis	GO_0003253	1	1	1	0
+cardiac neural crest cell differentiation involved in heart development	GO_0061307	1	1	1	0
+cardiac neural crest cell development involved in outflow tract morphogenesis	GO_0061309	1	1	1	0
+cardiac neural crest cell development involved in heart development	GO_0061308	1	1	1	0
+cardiac neural crest cell delamination involved in outflow tract morphogenesis	GO_1900728	1	1	1	0
+cardiac myofibril assembly	GO_0055003	1	1	1	0
+cardiac muscle tissue morphogenesis	GO_0055008	1	1	1	0
+cardiac muscle tissue growth involved in heart morphogenesis	GO_0003245	1	1	1	0
+cardiac muscle tissue growth	GO_0055017	1	1	1	0
+cardiac muscle tissue development	GO_0048738	1	1	1	0
+cardiac muscle thin filament assembly	GO_0071691	1	1	1	0
+cardiac muscle progenitor cell migration to the midline involved in heart field formation	GO_0003261	1	1	1	0
+cardiac muscle myosin thick filament assembly	GO_0071690	1	1	1	0
+cardiac muscle fiber development	GO_0048739	1	1	1	0
+cardiac muscle cell proliferation	GO_0060038	1	1	1	0
+cardiac muscle cell myoblast differentiation	GO_0060379	1	1	1	0
+cardiac muscle cell fate determination	GO_0061442	1	1	1	0
+cardiac muscle cell fate commitment	GO_0060923	1	1	1	0
+cardiac muscle cell differentiation	GO_0055007	1	1	1	0
+cardiac muscle cell development	GO_0055013	1	1	1	0
+cardiac left ventricle morphogenesis	GO_0003214	1	1	1	0
+cardiac left ventricle formation	GO_0003218	1	1	1	0
+cardiac left atrium morphogenesis	GO_0003212	1	1	1	0
+cardiac left atrium formation	GO_0003216	1	1	1	0
+cardiac conduction system development	GO_0003161	1	1	1	0
+cardiac chamber morphogenesis	GO_0003206	1	1	1	0
+cardiac chamber formation	GO_0003207	1	1	1	0
+cardiac chamber development	GO_0003205	1	1	1	0
+cardiac chamber ballooning	GO_0003242	1	1	1	0
+cardiac cell fate specification	GO_0060912	1	1	1	0
+cardiac cell fate determination	GO_0060913	1	1	1	0
+cardiac cell fate commitment	GO_0060911	1	1	1	0
+cardiac cell development	GO_0055006	1	1	1	0
+cardiac atrium morphogenesis	GO_0003209	1	1	1	0
+cardiac atrium formation	GO_0003210	1	1	1	0
+cardiac atrium development	GO_0003230	1	1	1	0
+atrioventricular valve morphogenesis	GO_0003181	1	1	1	0
+atrioventricular valve formation	GO_0003190	1	1	1	0
+atrioventricular valve development	GO_0003171	1	1	1	0
+atrioventricular node development	GO_0003162	1	1	1	0
+atrioventricular node cell fate commitment	GO_0060929	1	1	1	0
+atrioventricular node cell differentiation	GO_0060922	1	1	1	0
+atrioventricular node cell development	GO_0060928	1	1	1	0
+atrioventricular canal development	GO_0036302	1	1	1	0
+atrioventricular bundle cell differentiation	GO_0003167	1	1	1	0
+atrial ventricular junction remodeling	GO_0003294	1	1	1	0
+atrial septum secundum morphogenesis	GO_0003290	1	1	1	0
+atrial septum primum morphogenesis	GO_0003289	1	1	1	0
+atrial septum morphogenesis	GO_0060413	1	1	1	0
+atrial septum intermedium morphogenesis	GO_0003291	1	1	1	0
+atrial septum intermedium development	GO_0003286	1	1	1	0
+atrial septum development	GO_0003283	1	1	1	0
+atrial cardiac myofibril assembly	GO_0055004	1	1	1	0
+atrial cardiac muscle tissue morphogenesis	GO_0055009	1	1	1	0
+atrial cardiac muscle tissue development	GO_0003228	1	1	1	0
+atrial cardiac muscle cell fate commitment	GO_0060924	1	1	1	0
+atrial cardiac muscle cell differentiation	GO_0055011	1	1	1	0
+atrial cardiac muscle cell development	GO_0055014	1	1	1	0
+adult heart development	GO_0007512	1	1	1	0
+Purkinje myocyte differentiation	GO_0003168	1	1	1	0
+Purkinje myocyte development	GO_0003165	1	1	1	0
+ventricular system development	GO_0021591	1	0	1	0
+regulation of cardiac muscle hypertrophy	GO_0010611	1	0	1	0
+positive regulation of cardiac muscle hypertrophy	GO_0010613	1	0	1	0
+positive regulation of cardiac muscle cell apoptotic process	GO_0010666	1	0	1	0
+positive regulation of cardiac muscle adaptation	GO_0010615	1	0	1	0
+negative regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900826	1	0	1	0
+negative regulation of cardiac muscle hypertrophy	GO_0010614	1	0	1	0
+negative regulation of cardiac muscle cell apoptotic process	GO_0010667	1	0	1	0
+negative regulation of cardiac muscle adaptation	GO_0010616	1	0	1	0
+cardiolipin metabolic process	GO_0032048	1	0	1	0
+cardiolipin biosynthetic process	GO_0032049	1	0	1	0
+cardiolipin acyl-chain remodeling	GO_0035965	1	0	1	0
+cardiac neural crest cell delamination	GO_0036036	1	0	1	0
+cardiac muscle tissue regeneration	GO_0061026	1	0	1	0
+cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	1	0	1	0
+atrioventricular node impulse conduction delay	GO_0061338	1	0	1	0
+atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	1	0	1	0
+atrial cardiac muscle cell to AV node cell signaling	GO_0086026	1	0	1	0
+atrial cardiac muscle cell to AV node cell communication by electrical coupling	GO_0086044	1	0	1	0
+atrial cardiac muscle cell to AV node cell communication	GO_0086066	1	0	1	0
+visceral serous pericardium development	GO_0061032	0	1	0	0
+ventriculo bulbo valve morphogenesis	GO_0003187	0	1	0	0
+ventriculo bulbo valve formation	GO_0003196	0	1	0	0
+ventriculo bulbo valve development	GO_0003173	0	1	0	0
+vasculogenesis involved in coronary vascular morphogenesis	GO_0060979	0	1	0	0
+tricuspid valve morphogenesis	GO_0003186	0	1	0	0
+tricuspid valve formation	GO_0003195	0	1	0	0
+tricuspid valve development	GO_0003175	0	1	0	0
+transforming growth factor beta receptor signaling pathway involved in heart jogging	GO_0003302	0	1	0	0
+smoothened signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003271	0	1	0	0
+sinus venosus morphogenesis	GO_0003236	0	1	0	0
+sinus venosus formation	GO_0003237	0	1	0	0
+sinus venosus development	GO_0003235	0	1	0	0
+sinoatrial valve morphogenesis	GO_0003185	0	1	0	0
+sinoatrial valve formation	GO_0003194	0	1	0	0
+sinoatrial valve development	GO_0003172	0	1	0	0
+sinoatrial node development	GO_0003163	0	1	0	0
+sinoatrial node cell fate commitment	GO_0060930	0	1	0	0
+sinoatrial node cell differentiation	GO_0060921	0	1	0	0
+sinoatrial node cell development	GO_0060931	0	1	0	0
+septum secundum development	GO_0003285	0	1	0	0
+septum primum development	GO_0003284	0	1	0	0
+semaphorin-plexin signaling pathway involved in outflow tract morphogenesis	GO_0071527	0	1	0	0
+secondary heart field specification	GO_0003139	0	1	0	0
+right ventricular trabecular myocardium morphogenesis	GO_0003227	0	1	0	0
+right ventricular compact myocardium morphogenesis	GO_0003226	0	1	0	0
+right horn of sinus venosus development	GO_0061080	0	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	GO_0003256	0	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901213	0	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in endocardial precursor cell differentiation	GO_0003258	0	1	0	0
+regulation of secondary heart field cardioblast proliferation	GO_0003266	0	1	0	0
+regulation of primary heart field cardioblast proliferation	GO_0003265	0	1	0	0
+regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000148	0	1	0	0
+regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000165	0	1	0	0
+regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000163	0	1	0	0
+regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000159	0	1	0	0
+regulation of heart looping	GO_1901207	0	1	0	0
+regulation of heart induction by regulation of canonical Wnt signaling pathway	GO_0090081	0	1	0	0
+regulation of heart growth	GO_0060420	0	1	0	0
+regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	0	0
+regulation of cell proliferation involved in outflow tract morphogenesis	GO_1901963	0	1	0	0
+regulation of cell proliferation involved in heart valve morphogenesis	GO_0003250	0	1	0	0
+regulation of cell proliferation involved in heart morphogenesis	GO_2000136	0	1	0	0
+regulation of cell growth involved in cardiac muscle cell development	GO_0061050	0	1	0	0
+regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	0	1	0	0
+regulation of cell adhesion involved in heart morphogenesis	GO_0061344	0	1	0	0
+regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	0	1	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0
+regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901295	0	1	0	0
+regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902256	0	1	0	0
+regulation of Wnt signaling pathway involved in heart development	GO_0003307	0	1	0	0
+regulation of Notch signaling pathway involved in heart induction	GO_0035480	0	1	0	0
+regulation of BMP signaling pathway involved in heart jogging	GO_2000223	0	1	0	0
+radial growth involved in right ventricle morphogenesis	GO_0003244	0	1	0	0
+pulmonary valve morphogenesis	GO_0003184	0	1	0	0
+pulmonary valve formation	GO_0003193	0	1	0	0
+pulmonary valve development	GO_0003177	0	1	0	0
+proepicardium cell migration involved in pericardium morphogenesis	GO_0003345	0	1	0	0
+primary heart field specification	GO_0003138	0	1	0	0
+post-embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003247	0	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	GO_0003257	0	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901228	0	1	0	0
+positive regulation of semaphorin-plexin signaling pathway involved in outflow tract morphogenesis	GO_2000764	0	1	0	0
+positive regulation of secondary heart field cardioblast proliferation	GO_0072513	0	1	0	0
+positive regulation of heart looping	GO_1901209	0	1	0	0
+positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway	GO_0090082	0	1	0	0
+positive regulation of heart growth	GO_0060421	0	1	0	0
+positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	0	0
+positive regulation of cell proliferation involved in outflow tract morphogenesis	GO_1901964	0	1	0	0
+positive regulation of cell proliferation involved in heart valve morphogenesis	GO_0003251	0	1	0	0
+positive regulation of cell proliferation involved in heart morphogenesis	GO_2000138	0	1	0	0
+positive regulation of cardioblast differentiation	GO_0051891	0	1	0	0
+positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	0	1	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0
+positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901297	0	1	0	0
+positive regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902258	0	1	0	0
+positive regulation of Notch signaling pathway involved in heart induction	GO_0035481	0	1	0	0
+planar cell polarity pathway involved in outflow tract morphogenesis	GO_0061347	0	1	0	0
+pericardium morphogenesis	GO_0003344	0	1	0	0
+pericardium development	GO_0060039	0	1	0	0
+pericardial nephrocyte differentiation	GO_0061320	0	1	0	0
+outflow tract septum morphogenesis	GO_0003148	0	1	0	0
+outflow tract morphogenesis	GO_0003151	0	1	0	0
+non-canonical Wnt signaling pathway involved in heart development	GO_0061341	0	1	0	0
+neural crest-derived cardiac glial cell fate commitment	GO_0060955	0	1	0	0
+neural crest-derived cardiac glial cell differentiation	GO_0060951	0	1	0	0
+neural crest-derived cardiac glial cell development	GO_0060954	0	1	0	0
+neural crest-derived cardiac fibroblast cell fate commitment	GO_0060944	0	1	0	0
+neural crest-derived cardiac fibroblast cell differentiation	GO_0060942	0	1	0	0
+neural crest-derived cardiac fibroblast cell development	GO_0060943	0	1	0	0
+neural crest cell migration involved in heart formation	GO_0003147	0	1	0	0
+negative regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901227	0	1	0	0
+negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000149	0	1	0	0
+negative regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000166	0	1	0	0
+negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000164	0	1	0	0
+negative regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000160	0	1	0	0
+negative regulation of heart looping	GO_1901208	0	1	0	0
+negative regulation of heart induction by canonical Wnt signaling pathway	GO_0003136	0	1	0	0
+negative regulation of heart growth	GO_0061117	0	1	0	0
+negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	0	0
+negative regulation of cell proliferation involved in heart valve morphogenesis	GO_0003252	0	1	0	0
+negative regulation of cell proliferation involved in heart morphogenesis	GO_2000137	0	1	0	0
+negative regulation of cardioblast differentiation	GO_0051892	0	1	0	0
+negative regulation of cardioblast cell fate specification	GO_0009997	0	1	0	0
+negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	0	1	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0
+negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901296	0	1	0	0
+negative regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902257	0	1	0	0
+negative regulation of Wnt signaling pathway involved in heart development	GO_0003308	0	1	0	0
+myocardial epithelial involution involved in heart jogging	GO_0003304	0	1	0	0
+muscular septum morphogenesis	GO_0003150	0	1	0	0
+morphogenesis of an epithelial fold involved in embryonic heart tube formation	GO_0003152	0	1	0	0
+mitral valve morphogenesis	GO_0003183	0	1	0	0
+mitral valve formation	GO_0003192	0	1	0	0
+mitral valve development	GO_0003174	0	1	0	0
+membranous septum morphogenesis	GO_0003149	0	1	0	0
+left horn of sinus venosus development	GO_0061079	0	1	0	0
+larval heart development	GO_0007508	0	1	0	0
+heart wedging	GO_0003297	0	1	0	0
+heart valve morphogenesis	GO_0003179	0	1	0	0
+heart valve formation	GO_0003188	0	1	0	0
+heart valve development	GO_0003170	0	1	0	0
+heart valve cell differentiation	GO_0003293	0	1	0	0
+heart trabecula formation	GO_0060347	0	1	0	0
+heart rudiment morphogenesis	GO_0003314	0	1	0	0
+heart rudiment involution	GO_0003320	0	1	0	0
+heart rudiment formation	GO_0003315	0	1	0	0
+heart rudiment development	GO_0003313	0	1	0	0
+heart morphogenesis	GO_0003007	0	1	0	0
+heart looping	GO_0001947	0	1	0	0
+heart jogging	GO_0003146	0	1	0	0
+heart induction	GO_0003129	0	1	0	0
+heart growth	GO_0060419	0	1	0	0
+heart formation	GO_0060914	0	1	0	0
+heart field specification	GO_0003128	0	1	0	0
+heart development	GO_0007507	0	1	0	0
+heart capillary growth	GO_0003248	0	1	0	0
+growth involved in heart morphogenesis	GO_0003241	0	1	0	0
+foramen ovale closure	GO_0035922	0	1	0	0
+fibroblast proliferation involved in heart morphogenesis	GO_0061385	0	1	0	0
+fibroblast growth factor receptor signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003268	0	1	0	0
+fibroblast growth factor receptor signaling pathway involved in heart induction	GO_0003135	0	1	0	0
+fibroblast growth factor receptor signaling pathway involved in heart development	GO_0061313	0	1	0	0
+extracellular matrix organization involved in endocardium development	GO_0061148	0	1	0	0
+establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	0	0
+epithelial to mesenchymal transition involved in endocardial cushion formation	GO_0003198	0	1	0	0
+epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	0	1	0	0
+epithelial to mesenchymal transition involved in cardiac fibroblast development	GO_0060940	0	1	0	0
+epicardium-derived cell migration to the myocardium	GO_0003346	0	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	0	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	0	1	0	0
+epicardium-derived cardiac fibroblast cell fate commitment	GO_0060941	0	1	0	0
+epicardium-derived cardiac fibroblast cell differentiation	GO_0060938	0	1	0	0
+epicardium-derived cardiac fibroblast cell development	GO_0060939	0	1	0	0
+epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	0	0
+endocardium morphogenesis	GO_0003160	0	1	0	0
+endocardium formation	GO_0060214	0	1	0	0
+endocardium development	GO_0003157	0	1	0	0
+endocardial progenitor cell migration to the midline involved in heart field formation	GO_0003262	0	1	0	0
+endocardial precursor cell differentiation	GO_0003255	0	1	0	0
+endocardial endothelium development	GO_0061147	0	1	0	0
+endocardial cushion to mesenchymal transition involved in heart valve formation	GO_0003199	0	1	0	0
+endocardial cushion to mesenchymal transition involved in heart chamber septation	GO_0003200	0	1	0	0
+endocardial cushion to mesenchymal transition	GO_0090500	0	1	0	0
+endocardial cushion morphogenesis	GO_0003203	0	1	0	0
+endocardial cushion fusion	GO_0003274	0	1	0	0
+endocardial cushion formation	GO_0003272	0	1	0	0
+endocardial cushion development	GO_0003197	0	1	0	0
+endocardial cushion cell fate specification	GO_0061447	0	1	0	0
+endocardial cushion cell fate determination	GO_0061446	0	1	0	0
+endocardial cushion cell fate commitment	GO_0061445	0	1	0	0
+endocardial cushion cell differentiation	GO_0061443	0	1	0	0
+endocardial cushion cell development	GO_0061444	0	1	0	0
+endocardial cell fate commitment	GO_0060957	0	1	0	0
+endocardial cell differentiation	GO_0060956	0	1	0	0
+endocardial cell development	GO_0060958	0	1	0	0
+dorsal vessel heart proper cell fate commitment	GO_0035053	0	1	0	0
+dorsal vessel aortic cell fate commitment	GO_0035052	0	1	0	0
+determination of heart left/right asymmetry	GO_0061371	0	1	0	0
+coronary vein morphogenesis	GO_0003169	0	1	0	0
+coronary vasculature morphogenesis	GO_0060977	0	1	0	0
+coronary vasculature development	GO_0060976	0	1	0	0
+coronary sinus valve morphogenesis	GO_0003182	0	1	0	0
+coronary sinus valve formation	GO_0003191	0	1	0	0
+coronary sinus valve development	GO_0003178	0	1	0	0
+coronary artery morphogenesis	GO_0060982	0	1	0	0
+conus arteriosus morphogenesis	GO_0003239	0	1	0	0
+conus arteriosus formation	GO_0003240	0	1	0	0
+conus arteriosus development	GO_0003238	0	1	0	0
+closure of embryonic heart tube	GO_0003153	0	1	0	0
+cell surface receptor signaling pathway involved in heart development	GO_0061311	0	1	0	0
+cell proliferation involved in outflow tract morphogenesis	GO_0061325	0	1	0	0
+cell proliferation involved in heart valve morphogenesis	GO_0003249	0	1	0	0
+cell proliferation involved in heart valve development	GO_2000793	0	1	0	0
+cell proliferation involved in heart morphogenesis	GO_0061323	0	1	0	0
+cell proliferation involved in atrial ventricular junction remodeling	GO_0003295	0	1	0	0
+cell migration to the midline involved in heart development	GO_0003318	0	1	0	0
+cell migration involved in heart jogging	GO_0003305	0	1	0	0
+cell migration involved in heart formation	GO_0060974	0	1	0	0
+cell migration involved in heart development	GO_0060973	0	1	0	0
+cell migration involved in endocardial cushion formation	GO_0003273	0	1	0	0
+cell migration involved in coronary vasculogenesis	GO_0060980	0	1	0	0
+cell migration involved in coronary angiogenesis	GO_0060981	0	1	0	0
+cell growth involved in cardiac muscle cell development	GO_0061049	0	1	0	0
+cell adhesion involved in heart morphogenesis	GO_0061343	0	1	0	0
+cardiac glial cell fate commitment	GO_0060953	0	1	0	0
+cardiac glial cell differentiation	GO_0060950	0	1	0	0
+cardiac glial cell development	GO_0060952	0	1	0	0
+cardiac fibroblast cell fate commitment	GO_0060937	0	1	0	0
+cardiac fibroblast cell differentiation	GO_0060935	0	1	0	0
+cardiac fibroblast cell development	GO_0060936	0	1	0	0
+cardiac epithelial to mesenchymal transition	GO_0060317	0	1	0	0
+cardiac endothelial cell differentiation	GO_0003348	0	1	0	0
+cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation	GO_0003267	0	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation	GO_0061324	0	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation	GO_0061315	0	1	0	0
+canonical Wnt signaling pathway involved in heart development	GO_0061316	0	1	0	0
+canonical Wnt signaling pathway involved in cardiac neural crest cell differentiation involved in heart development	GO_0061310	0	1	0	0
+canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_0061317	0	1	0	0
+bundle of His development	GO_0003166	0	1	0	0
+bulbus arteriosus morphogenesis	GO_0003233	0	1	0	0
+bulbus arteriosus formation	GO_0003234	0	1	0	0
+bulbus arteriosus development	GO_0003232	0	1	0	0
+apoptotic process involved in outflow tract morphogenesis	GO_0003275	0	1	0	0
+apoptotic process involved in heart valve morphogenesis	GO_0003276	0	1	0	0
+apoptotic process involved in heart morphogenesis	GO_0003278	0	1	0	0
+apoptotic process involved in endocardial cushion morphogenesis	GO_0003277	0	1	0	0
+apoptotic process involved in atrial ventricular junction remodeling	GO_0003296	0	1	0	0
+aortic valve morphogenesis	GO_0003180	0	1	0	0
+aortic valve formation	GO_0003189	0	1	0	0
+aortic valve development	GO_0003176	0	1	0	0
+angiogenesis involved in coronary vascular morphogenesis	GO_0060978	0	1	0	0
+activin receptor signaling pathway involved in heart jogging	GO_0061372	0	1	0	0
+Wnt signaling pathway involved in heart development	GO_0003306	0	1	0	0
+Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003270	0	1	0	0
+Notch signaling pathway involved in heart induction	GO_0003137	0	1	0	0
+Notch signaling involved in heart development	GO_0061314	0	1	0	0
+His-Purkinje system development	GO_0003164	0	1	0	0
+His-Purkinje system cell fate commitment	GO_0060934	0	1	0	0
+His-Purkinje system cell differentiation	GO_0060932	0	1	0	0
+His-Purkinje system cell development	GO_0060933	0	1	0	0
+BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003269	0	1	0	0
+BMP signaling pathway involved in heart jogging	GO_0003303	0	1	0	0
+BMP signaling pathway involved in heart induction	GO_0003130	0	1	0	0
+BMP signaling pathway involved in heart development	GO_0061312	0	1	0	0

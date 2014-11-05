@@ -1,0 +1,10 @@
+name	ID	manual	auto	checked	blacklisted
+caspase activity	GO_0030693	1	0	1	0
+small conjugating protein-specific endopeptidase activity	GO_0070137	0	1	0	0
+cysteine-type endopeptidase activity involved in plant-type hypersensitive response	GO_0097299	0	1	0	0
+cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_0097200	0	1	0	0
+cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_0097199	0	1	0	0
+cysteine-type endopeptidase activity involved in apoptotic process	GO_0097153	0	1	0	0
+cysteine-type endopeptidase activity	GO_0004197	0	1	0	0
+calcium-dependent cysteine-type endopeptidase activity	GO_0004198	0	1	0	0
+SUMO-specific endopeptidase activity	GO_0070139	0	1	0	0

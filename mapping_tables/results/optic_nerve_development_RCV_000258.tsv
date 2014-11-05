@@ -1,0 +1,10 @@
+name	ID	manual	auto	checked	blacklisted
+optic nerve structural organization	GO_0021633	1	1	1	0
+optic nerve morphogenesis	GO_0021631	1	1	1	0
+optic nerve maturation	GO_0021632	1	1	1	0
+optic nerve formation	GO_0021634	1	1	1	0
+optic nerve development	GO_0021554	1	1	1	0
+regulation of optic nerve formation	GO_2000595	0	1	0	0
+positive regulation of optic nerve formation	GO_2000597	0	1	0	0
+optic chiasma development	GO_0061360	0	1	0	0
+negative regulation of optic nerve formation	GO_2000596	0	1	0	0

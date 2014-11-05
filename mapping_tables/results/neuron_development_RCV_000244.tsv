@@ -1,0 +1,270 @@
+name	ID	manual	auto	checked	blacklisted
+positive regulation of neuron projection regeneration	GO_0070572	1	1	1	0
+positive regulation of neuron projection development	GO_0010976	1	1	1	0
+positive regulation of neuron maturation	GO_0014042	1	1	1	0
+hypothalamus gonadotrophin-releasing hormone neuron development	GO_0021888	1	1	1	0
+ventral spinal cord interneuron specification	GO_0021521	1	0	1	0
+ventral spinal cord interneuron fate determination	GO_0060580	1	0	1	0
+ventral spinal cord interneuron fate commitment	GO_0060579	1	0	1	0
+ventral spinal cord interneuron differentiation	GO_0021514	1	0	1	0
+ventral spinal cord development	GO_0021517	1	0	1	0
+positive regulation of neuron migration	GO_2001224	1	0	1	0
+positive regulation of neuron differentiation	GO_0045666	1	0	1	0
+positive regulation of neuron death	GO_1901216	1	0	1	0
+positive regulation of neuron apoptotic process	GO_0043525	1	0	1	0
+positive regulation of neuromuscular synaptic transmission	GO_1900075	1	0	1	0
+positive regulation of neurological system process	GO_0031646	1	0	1	0
+positive regulation of neurogenesis	GO_0050769	1	0	1	0
+positive regulation of neuroblast proliferation	GO_0002052	1	0	1	0
+positive regulation of neural retina development	GO_0061075	1	0	1	0
+positive regulation of neural precursor cell proliferation	GO_2000179	1	0	1	0
+positive regulation of neural crest formation	GO_0090300	1	0	1	0
+hypothalamus gonadotrophin-releasing hormone neuron fate commitment	GO_0021887	1	0	1	0
+hypothalamus gonadotrophin-releasing hormone neuron differentiation	GO_0021886	1	0	1	0
+autonomic nervous system development	GO_0048483	1	0	1	0
+asymmetric radial glial cell division in forebrain	GO_0021866	1	0	1	0
+asymmetric neuroblast division resulting in ganglion mother cell formation	GO_0055060	1	0	1	0
+asymmetric neuroblast division	GO_0055059	1	0	1	0
+vestibulospinal tract morphogenesis	GO_0021962	0	1	0	0
+vestibular receptor cell stereocilium organization	GO_0060121	0	1	0	0
+vestibular receptor cell morphogenesis	GO_0060116	0	1	0	0
+vestibular receptor cell development	GO_0060118	0	1	0	0
+trigeminothalamic tract morphogenesis	GO_0021974	0	1	0	0
+tectospinal tract morphogenesis	GO_0021977	0	1	0	0
+tectobulbar tract morphogenesis	GO_0034429	0	1	0	0
+synaptic target recognition	GO_0008039	0	1	0	0
+synaptic target inhibition	GO_0016201	0	1	0	0
+synaptic target attraction	GO_0016200	0	1	0	0
+sympathetic neuron projection guidance	GO_0097491	0	1	0	0
+sympathetic neuron projection extension	GO_0097490	0	1	0	0
+sympathetic neuron axon guidance	GO_0097492	0	1	0	0
+sprouting of injured axon	GO_0048682	0	1	0	0
+spinothalamic tract morphogenesis	GO_0021963	0	1	0	0
+spinal sensory neuron axon guidance	GO_0097375	0	1	0	0
+spinal cord ventral commissure morphogenesis	GO_0021965	0	1	0	0
+spinal cord interneuron axon guidance	GO_0097377	0	1	0	0
+sensory neuron axon guidance	GO_0097374	0	1	0	0
+semaphorin-plexin signaling pathway involved in neuron projection guidance	GO_1902285	0	1	0	0
+semaphorin-plexin signaling pathway involved in dendrite guidance	GO_1902286	0	1	0	0
+semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0
+rubrospinal tract morphogenesis	GO_0021964	0	1	0	0
+rhabdomere morphogenesis	GO_0061541	0	1	0	0
+rhabdomere membrane biogenesis	GO_0045313	0	1	0	0
+rhabdomere development	GO_0042052	0	1	0	0
+retrograde extension	GO_0003389	0	1	0	0
+retinal rod cell development	GO_0046548	0	1	0	0
+retinal ganglion cell axon guidance	GO_0031290	0	1	0	0
+retinal cone cell development	GO_0046549	0	1	0	0
+regulation of sprouting of injured axon	GO_0048686	0	1	0	0
+regulation of rhodopsin gene expression	GO_0007468	0	1	0	0
+regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	0	0
+regulation of photoreceptor cell axon guidance	GO_2000289	0	1	0	0
+regulation of neuron projection regeneration	GO_0070570	0	1	0	0
+regulation of neuron projection development	GO_0010975	0	1	0	0
+regulation of neuron maturation	GO_0014041	0	1	0	0
+regulation of eye photoreceptor cell development	GO_0042478	0	1	0	0
+regulation of dendritic spine morphogenesis	GO_0061001	0	1	0	0
+regulation of dendritic spine development	GO_0060998	0	1	0	0
+regulation of dendrite morphogenesis	GO_0048814	0	1	0	0
+regulation of dendrite development	GO_0050773	0	1	0	0
+regulation of compound eye photoreceptor development	GO_0045314	0	1	0	0
+regulation of collateral sprouting of intact axon in response to injury	GO_0048683	0	1	0	0
+regulation of collateral sprouting of injured axon	GO_0048693	0	1	0	0
+regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0
+regulation of collateral sprouting	GO_0048670	0	1	0	0
+regulation of axonogenesis	GO_0050770	0	1	0	0
+regulation of axon regeneration	GO_0048679	0	1	0	0
+regulation of axon guidance	GO_1902667	0	1	0	0
+regulation of axon extension involved in regeneration	GO_0048690	0	1	0	0
+regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0
+regulation of axon extension	GO_0030516	0	1	0	0
+regulation of axon diameter	GO_0031133	0	1	0	0
+pyramidal neuron migration	GO_0021852	0	1	0	0
+pyramidal neuron development	GO_0021860	0	1	0	0
+postnatal olfactory bulb interneuron migration	GO_0021827	0	1	0	0
+posterior lateral line neuromast hair cell morphogenesis	GO_0035680	0	1	0	0
+posterior lateral line neuromast hair cell development	GO_0035677	0	1	0	0
+posterior commissure morphogenesis	GO_0021961	0	1	0	0
+positive regulation of sprouting of injured axon	GO_0048687	0	1	0	0
+positive regulation of rhodopsin gene expression	GO_0045872	0	1	0	0
+positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0
+positive regulation of eye photoreceptor cell development	GO_0042479	0	1	0	0
+positive regulation of dendritic spine morphogenesis	GO_0061003	0	1	0	0
+positive regulation of dendritic spine development	GO_0060999	0	1	0	0
+positive regulation of dendrite morphogenesis	GO_0050775	0	1	0	0
+positive regulation of dendrite development	GO_1900006	0	1	0	0
+positive regulation of compound eye photoreceptor development	GO_0045315	0	1	0	0
+positive regulation of collateral sprouting of intact axon in response to injury	GO_0048684	0	1	0	0
+positive regulation of collateral sprouting of injured axon	GO_0048694	0	1	0	0
+positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0
+positive regulation of collateral sprouting	GO_0048672	0	1	0	0
+positive regulation of axonogenesis	GO_0050772	0	1	0	0
+positive regulation of axon regeneration	GO_0048680	0	1	0	0
+positive regulation of axon guidance	GO_1902669	0	1	0	0
+positive regulation of axon extension involved in regeneration	GO_0048691	0	1	0	0
+positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0
+positive regulation of axon extension	GO_0045773	0	1	0	0
+pons reticulospinal tract morphogenesis	GO_0021975	0	1	0	0
+photoreceptor cell outer segment organization	GO_0035845	0	1	0	0
+photoreceptor cell morphogenesis	GO_0008594	0	1	0	0
+photoreceptor cell development	GO_0042461	0	1	0	0
+photoreceptor cell axon guidance	GO_0072499	0	1	0	0
+peripheral nervous system neuron development	GO_0048935	0	1	0	0
+peripheral nervous system neuron axonogenesis	GO_0048936	0	1	0	0
+peripheral nervous system axon regeneration	GO_0014012	0	1	0	0
+olfactory bulb tufted cell development	GO_0061449	0	1	0	0
+olfactory bulb interneuron development	GO_0021891	0	1	0	0
+olfactory bulb axon guidance	GO_0071678	0	1	0	0
+ocellus photoreceptor cell development	GO_0042463	0	1	0	0
+noradrenergic neuron development	GO_0003358	0	1	0	0
+neuronal ion channel clustering	GO_0045161	0	1	0	0
+neuron remodeling	GO_0016322	0	1	0	0
+neuron recognition	GO_0008038	0	1	0	0
+neuron projection regeneration	GO_0031102	0	1	0	0
+neuron projection morphogenesis	GO_0048812	0	1	0	0
+neuron projection guidance	GO_0097485	0	1	0	0
+neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	0	0
+neuron projection extension	GO_1990138	0	1	0	0
+neuron projection development	GO_0031175	0	1	0	0
+neuron migration involved in retrograde extension	GO_0003393	0	1	0	0
+neuron migration involved in dendrite retrograde extension	GO_0003395	0	1	0	0
+neuron migration involved in amphid sensory organ dendrite retrograde extension	GO_0003397	0	1	0	0
+neuron maturation	GO_0042551	0	1	0	0
+neuron development involved in amphid sensory organ development	GO_0003388	0	1	0	0
+neuron development	GO_0048666	0	1	0	0
+neuromast hair cell morphogenesis	GO_0035678	0	1	0	0
+neuromast hair cell development	GO_0035675	0	1	0	0
+negative regulation of sprouting of injured axon	GO_0048688	0	1	0	0
+negative regulation of rhodopsin gene expression	GO_0045871	0	1	0	0
+negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	0	0
+negative regulation of neuron projection regeneration	GO_0070571	0	1	0	0
+negative regulation of neuron projection development	GO_0010977	0	1	0	0
+negative regulation of neuron maturation	GO_0014043	0	1	0	0
+negative regulation of eye photoreceptor cell development	GO_0042480	0	1	0	0
+negative regulation of dendritic spine morphogenesis	GO_0061002	0	1	0	0
+negative regulation of dendritic spine development	GO_0061000	0	1	0	0
+negative regulation of dendrite morphogenesis	GO_0050774	0	1	0	0
+negative regulation of dendrite development	GO_2000171	0	1	0	0
+negative regulation of compound eye photoreceptor development	GO_0045316	0	1	0	0
+negative regulation of collateral sprouting of intact axon in response to injury	GO_0048685	0	1	0	0
+negative regulation of collateral sprouting of injured axon	GO_0048695	0	1	0	0
+negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0
+negative regulation of collateral sprouting	GO_0048671	0	1	0	0
+negative regulation of axonogenesis	GO_0050771	0	1	0	0
+negative regulation of axon regeneration	GO_0048681	0	1	0	0
+negative regulation of axon guidance	GO_1902668	0	1	0	0
+negative regulation of axon extension involved in regeneration	GO_0048692	0	1	0	0
+negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0
+negative regulation of axon extension	GO_0030517	0	1	0	0
+motor neuron axon guidance	GO_0008045	0	1	0	0
+motogenic signaling involved in postnatal olfactory bulb interneuron migration	GO_0021837	0	1	0	0
+medulla reticulospinal tract morphogenesis	GO_0021976	0	1	0	0
+interneuron axon guidance	GO_0097376	0	1	0	0
+inner ear receptor stereocilium organization	GO_0060122	0	1	0	0
+inner ear receptor cell development	GO_0060119	0	1	0	0
+gracilis tract morphogenesis	GO_0021958	0	1	0	0
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus	GO_0021828	0	1	0	0
+formation of growth cone in injured axon	GO_0048689	0	1	0	0
+forebrain neuron development	GO_0021884	0	1	0	0
+fasciculation of sensory neuron axon	GO_0097155	0	1	0	0
+fasciculation of motor neuron axon	GO_0097156	0	1	0	0
+eye photoreceptor cell development	GO_0042462	0	1	0	0
+embryonic olfactory bulb interneuron precursor migration	GO_0021831	0	1	0	0
+efferent axon development in posterior lateral line nerve	GO_0048929	0	1	0	0
+efferent axon development in anterior lateral line nerve	GO_0048911	0	1	0	0
+efferent axon development in a lateral line nerve	GO_0048894	0	1	0	0
+dorsal/ventral axon guidance	GO_0033563	0	1	0	0
+dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0
+dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0
+dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0
+dendritic spine morphogenesis	GO_0060997	0	1	0	0
+dendritic spine development	GO_0060996	0	1	0	0
+dendrite self-avoidance	GO_0070593	0	1	0	0
+dendrite regeneration	GO_0031104	0	1	0	0
+dendrite morphogenesis	GO_0048813	0	1	0	0
+dendrite guidance	GO_0070983	0	1	0	0
+dendrite extension	GO_0097484	0	1	0	0
+dendrite development by retrograde extension	GO_0003390	0	1	0	0
+dendrite development	GO_0016358	0	1	0	0
+defasciculation of motor neuron axon	GO_0007415	0	1	0	0
+cuneatus tract morphogenesis	GO_0021959	0	1	0	0
+corticospinal tract morphogenesis	GO_0021957	0	1	0	0
+corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	0	1	0	0
+corticospinal neuron axon guidance through the internal capsule	GO_0021968	0	1	0	0
+corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	0	1	0	0
+corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	0	1	0	0
+corticospinal neuron axon guidance through the basilar pons	GO_0021970	0	1	0	0
+corticospinal neuron axon guidance through spinal cord	GO_0021972	0	1	0	0
+corticospinal neuron axon guidance	GO_0021966	0	1	0	0
+corticospinal neuron axon decussation	GO_0021973	0	1	0	0
+corpus callosum morphogenesis	GO_0021540	0	1	0	0
+compound eye photoreceptor development	GO_0042051	0	1	0	0
+commissural neuron axon guidance	GO_0071679	0	1	0	0
+collateral sprouting of intact axon in response to injury	GO_0048673	0	1	0	0
+collateral sprouting of injured axon	GO_0048674	0	1	0	0
+collateral sprouting in absence of injury	GO_0048669	0	1	0	0
+collateral sprouting	GO_0048668	0	1	0	0
+clustering of voltage-gated sodium channels	GO_0045162	0	1	0	0
+clustering of voltage-gated potassium channels	GO_0045163	0	1	0	0
+clustering of voltage-gated calcium channels	GO_0070073	0	1	0	0
+chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	0	1	0	0
+chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	0	1	0	0
+chemorepulsion of branchiomotor axon	GO_0021793	0	1	0	0
+chemorepulsion of axon	GO_0061643	0	1	0	0
+chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	0	0
+chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	0	0
+chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	0	1	0	0
+chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	0	1	0	0
+chemoattraction of branchiomotor axon	GO_0021792	0	1	0	0
+chemoattraction of axon	GO_0061642	0	1	0	0
+chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	0	0
+chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0
+cerebral cortex GABAergic interneuron migration	GO_0021853	0	1	0	0
+cerebral cortex GABAergic interneuron development	GO_0021894	0	1	0	0
+central nervous system projection neuron axonogenesis	GO_0021952	0	1	0	0
+central nervous system neuron development	GO_0021954	0	1	0	0
+central nervous system neuron axonogenesis	GO_0021955	0	1	0	0
+central nervous system interneuron axonogenesis	GO_0021956	0	1	0	0
+cell morphogenesis involved in neuron differentiation	GO_0048667	0	1	0	0
+cell adhesion involved in retrograde extension	GO_0003392	0	1	0	0
+cell adhesion involved in dendrite retrograde extension	GO_0003394	0	1	0	0
+cell adhesion involved in amphid sensory organ dendrite retrograde extension	GO_0003396	0	1	0	0
+cardiac neuron development	GO_0060959	0	1	0	0
+branchiomotor neuron axon guidance in neural tube	GO_0021786	0	1	0	0
+branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	0	1	0	0
+branchiomotor neuron axon guidance	GO_0021785	0	1	0	0
+axonogenesis involved in innervation	GO_0060385	0	1	0	0
+axonogenesis	GO_0007409	0	1	0	0
+axonal fasciculation	GO_0007413	0	1	0	0
+axonal defasciculation	GO_0007414	0	1	0	0
+axon target recognition	GO_0007412	0	1	0	0
+axon regeneration at neuromuscular junction	GO_0014814	0	1	0	0
+axon regeneration	GO_0031103	0	1	0	0
+axon midline choice point recognition	GO_0016199	0	1	0	0
+axon guidance receptor activity	GO_0008046	0	1	0	0
+axon guidance	GO_0007411	0	1	0	0
+axon extension involved in regeneration	GO_0048677	0	1	0	0
+axon extension involved in axon guidance	GO_0048846	0	1	0	0
+axon extension	GO_0048675	0	1	0	0
+axon development	GO_0061564	0	1	0	0
+axon choice point recognition	GO_0016198	0	1	0	0
+auditory receptor cell stereocilium organization	GO_0060088	0	1	0	0
+auditory receptor cell morphogenesis	GO_0002093	0	1	0	0
+auditory receptor cell development	GO_0060117	0	1	0	0
+anterior/posterior axon guidance	GO_0033564	0	1	0	0
+anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	0	0
+anterior lateral line neuromast hair cell development	GO_0035676	0	1	0	0
+anterior commissure morphogenesis	GO_0021960	0	1	0	0
+amphid sensory organ dendrite retrograde extension	GO_0003391	0	1	0	0
+afferent axon development in posterior lateral line nerve	GO_0048933	0	1	0	0
+afferent axon development in lateral line nerve	GO_0048893	0	1	0	0
+afferent axon development in anterior lateral line nerve	GO_0048910	0	1	0	0
+VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0
+Schwann cell proliferation involved in axon regeneration	GO_0014011	0	1	0	0
+Roundabout signaling pathway involved in axon guidance	GO_2001266	0	1	0	0
+R8 cell-mediated photoreceptor organization	GO_0045470	0	1	0	0
+R8 cell development	GO_0045463	0	1	0	0
+R7 cell development	GO_0045467	0	1	0	0
+R3/R4 development	GO_0048057	0	1	0	0
+R2/R5 development	GO_0048055	0	1	0	0
+R1/R6 development	GO_0048053	0	1	0	0
