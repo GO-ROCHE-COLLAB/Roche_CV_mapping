@@ -6,164 +6,164 @@ hindbrain maturation	GO_0021578	1	1	1	0
 hindbrain formation	GO_0021576	1	1	1	0
 hindbrain development	GO_0030902	1	1	1	0
 hindbrain-spinal cord boundary formation	GO_0021906	1	0	1	0
-vestibular nucleus development	GO_0021750	0	1	0	0
-ventral cochlear nucleus development	GO_0021749	0	1	0	0
-trigeminal motor nucleus development	GO_0021731	0	1	0	0
-superior salivary nucleus development	GO_0021753	0	1	0	0
-superior reticular formation development	GO_0021729	0	1	0	0
-superior raphe nucleus development	GO_0021725	0	1	0	0
-superior olivary nucleus structural organization	GO_0021721	0	1	0	0
-superior olivary nucleus morphogenesis	GO_0021719	0	1	0	0
-superior olivary nucleus maturation	GO_0021722	0	1	0	0
-superior olivary nucleus formation	GO_0021720	0	1	0	0
-superior olivary nucleus development	GO_0021718	0	1	0	0
-stellate cell precursor proliferation	GO_0021929	0	1	0	0
-solitary nucleus development	GO_0021746	0	1	0	0
-salivary nucleus development	GO_0021751	0	1	0	0
-rostral hindbrain neuronal precursor cell proliferation	GO_0021931	0	1	0	0
-rhombomere structural organization	GO_0021595	0	1	0	0
-rhombomere morphogenesis	GO_0021593	0	1	0	0
-rhombomere formation	GO_0021594	0	1	0	0
-rhombomere development	GO_0021546	0	1	0	0
-rhombomere cell proliferation	GO_0022034	0	1	0	0
-rhombomere cell migration	GO_0022035	0	1	0	0
-rhombomere cell differentiation	GO_0022036	0	1	0	0
-rhombomere boundary formation	GO_0021654	0	1	0	0
-rhombomere 8 structural organization	GO_0021676	0	1	0	0
-rhombomere 8 morphogenesis	GO_0021674	0	1	0	0
-rhombomere 8 formation	GO_0021677	0	1	0	0
-rhombomere 8 development	GO_0021574	0	1	0	0
-rhombomere 7 structural organization	GO_0021672	0	1	0	0
-rhombomere 7 morphogenesis	GO_0021671	0	1	0	0
-rhombomere 7 formation	GO_0021673	0	1	0	0
-rhombomere 7 development	GO_0021573	0	1	0	0
-rhombomere 6 structural organization	GO_0021668	0	1	0	0
-rhombomere 6 morphogenesis	GO_0021667	0	1	0	0
-rhombomere 6 formation	GO_0021669	0	1	0	0
-rhombomere 6 development	GO_0021572	0	1	0	0
-rhombomere 5 structural organization	GO_0021665	0	1	0	0
-rhombomere 5 morphogenesis	GO_0021664	0	1	0	0
-rhombomere 5 formation	GO_0021666	0	1	0	0
-rhombomere 5 development	GO_0021571	0	1	0	0
-rhombomere 4 structural organization	GO_0021662	0	1	0	0
-rhombomere 4 morphogenesis	GO_0021661	0	1	0	0
-rhombomere 4 formation	GO_0021663	0	1	0	0
-rhombomere 4 development	GO_0021570	0	1	0	0
-rhombomere 3 structural organization	GO_0021659	0	1	0	0
-rhombomere 3 morphogenesis	GO_0021658	0	1	0	0
-rhombomere 3 formation	GO_0021660	0	1	0	0
-rhombomere 3 development	GO_0021569	0	1	0	0
-rhombomere 2 structural organization	GO_0021656	0	1	0	0
-rhombomere 2 morphogenesis	GO_0021655	0	1	0	0
-rhombomere 2 formation	GO_0021657	0	1	0	0
-rhombomere 2 development	GO_0021568	0	1	0	0
-rhombomere 1 structural organization	GO_0021653	0	1	0	0
-rhombomere 1 morphogenesis	GO_0021651	0	1	0	0
-rhombomere 1 formation	GO_0021652	0	1	0	0
-rhombomere 1 development	GO_0021567	0	1	0	0
-retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	0	0
-retrotrapezoid nucleus development	GO_0061451	0	1	0	0
-regulation of cerebellar granule cell precursor proliferation	GO_0021936	0	1	0	0
-radial glia guided migration of cerebellar granule cell	GO_0021933	0	1	0	0
-radial glia guided migration of Purkinje cell	GO_0021942	0	1	0	0
-positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	0	1	0	0
-positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	0	0
-pons structural organization	GO_0021585	0	1	0	0
-pons morphogenesis	GO_0021583	0	1	0	0
-pons maturation	GO_0021586	0	1	0	0
-pons formation	GO_0021584	0	1	0	0
-pons development	GO_0021548	0	1	0	0
-outward migration of deep nuclear neurons	GO_0021947	0	1	0	0
-nucleus ambiguus development	GO_0021745	0	1	0	0
-neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	0	0
-negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	0	1	0	0
-motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve formation	GO_0035765	0	1	0	0
-metencephalon development	GO_0022037	0	1	0	0
-medullary reticular formation development	GO_0021723	0	1	0	0
-medulla oblongata structural organization	GO_0021581	0	1	0	0
-medulla oblongata morphogenesis	GO_0021579	0	1	0	0
-medulla oblongata maturation	GO_0021582	0	1	0	0
-medulla oblongata formation	GO_0021580	0	1	0	0
-medulla oblongata development	GO_0021550	0	1	0	0
-locus ceruleus morphogenesis	GO_0021704	0	1	0	0
-locus ceruleus maturation	GO_0021706	0	1	0	0
-locus ceruleus formation	GO_0021705	0	1	0	0
-locus ceruleus development	GO_0021703	0	1	0	0
-lateral reticular nucleus development	GO_0021726	0	1	0	0
-inward migration of deep nuclear neurons	GO_0021948	0	1	0	0
-intermediate reticular formation development	GO_0021727	0	1	0	0
-inferior salivary nucleus development	GO_0021752	0	1	0	0
-inferior reticular formation development	GO_0021728	0	1	0	0
-inferior raphe nucleus development	GO_0021724	0	1	0	0
-inferior olivary nucleus structural organization	GO_0021716	0	1	0	0
-inferior olivary nucleus morphogenesis	GO_0021714	0	1	0	0
-inferior olivary nucleus maturation	GO_0021717	0	1	0	0
-inferior olivary nucleus formation	GO_0021715	0	1	0	0
-inferior olivary nucleus development	GO_0021713	0	1	0	0
-hypoglossal nucleus development	GO_0021743	0	1	0	0
-hindbrain radial glia guided cell migration	GO_0021932	0	1	0	0
-globose nucleus development	GO_0021736	0	1	0	0
-fourth ventricle development	GO_0021592	0	1	0	0
-formation of radial glial scaffolds	GO_0021943	0	1	0	0
-fastigial nucleus development	GO_0021738	0	1	0	0
-facial nucleus development	GO_0021754	0	1	0	0
-eurydendroid cell differentiation	GO_0021755	0	1	0	0
-emboliform nucleus development	GO_0021737	0	1	0	0
-dorsal motor nucleus of vagus nerve structural organization	GO_0035763	0	1	0	0
-dorsal motor nucleus of vagus nerve morphogenesis	GO_0035762	0	1	0	0
-dorsal motor nucleus of vagus nerve maturation	GO_0035761	0	1	0	0
-dorsal motor nucleus of vagus nerve formation	GO_0035764	0	1	0	0
-dorsal motor nucleus of vagus nerve development	GO_0021744	0	1	0	0
-dorsal cochlear nucleus development	GO_0021748	0	1	0	0
-dentate nucleus development	GO_0021735	0	1	0	0
-deep nuclear neuron precursor proliferation	GO_0021927	0	1	0	0
-deep nuclear neuron cell migration	GO_0021946	0	1	0	0
-cochlear nucleus development	GO_0021747	0	1	0	0
-chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	0	0
-chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	0	0
-cerebellum vasculature morphogenesis	GO_0061301	0	1	0	0
-cerebellum structural organization	GO_0021589	0	1	0	0
-cerebellum morphogenesis	GO_0021587	0	1	0	0
-cerebellum maturation	GO_0021590	0	1	0	0
-cerebellum formation	GO_0021588	0	1	0	0
-cerebellum development	GO_0021549	0	1	0	0
-cerebellar unipolar brush cell differentiation	GO_0021711	0	1	0	0
-cerebellar stellate cell differentiation	GO_0021710	0	1	0	0
-cerebellar molecular layer structural organization	GO_0021689	0	1	0	0
-cerebellar molecular layer morphogenesis	GO_0021687	0	1	0	0
-cerebellar molecular layer maturation	GO_0021690	0	1	0	0
-cerebellar molecular layer formation	GO_0021688	0	1	0	0
-cerebellar molecular layer development	GO_0021679	0	1	0	0
-cerebellar granule cell precursor tangential migration	GO_0021935	0	1	0	0
-cerebellar granule cell precursor proliferation	GO_0021930	0	1	0	0
-cerebellar granule cell differentiation	GO_0021707	0	1	0	0
-cerebellar granular layer structural organization	GO_0021685	0	1	0	0
-cerebellar granular layer morphogenesis	GO_0021683	0	1	0	0
-cerebellar granular layer maturation	GO_0021686	0	1	0	0
-cerebellar granular layer formation	GO_0021684	0	1	0	0
-cerebellar granular layer development	GO_0021681	0	1	0	0
-cerebellar cortex structural organization	GO_0021698	0	1	0	0
-cerebellar cortex morphogenesis	GO_0021696	0	1	0	0
-cerebellar cortex maturation	GO_0021699	0	1	0	0
-cerebellar cortex formation	GO_0021697	0	1	0	0
-cerebellar cortex development	GO_0021695	0	1	0	0
-cerebellar basket cell differentiation	GO_0021709	0	1	0	0
-cerebellar Purkinje cell precursor proliferation	GO_0021925	0	1	0	0
-cerebellar Purkinje cell layer structural organization	GO_0021693	0	1	0	0
-cerebellar Purkinje cell layer morphogenesis	GO_0021692	0	1	0	0
-cerebellar Purkinje cell layer maturation	GO_0021691	0	1	0	0
-cerebellar Purkinje cell layer formation	GO_0021694	0	1	0	0
-cerebellar Purkinje cell layer development	GO_0021680	0	1	0	0
-cerebellar Purkinje cell differentiation	GO_0021702	0	1	0	0
-cerebellar Golgi cell differentiation	GO_0021701	0	1	0	0
-cell proliferation in hindbrain ventricular zone	GO_0021923	0	1	0	0
-cell proliferation in hindbrain	GO_0021534	0	1	0	0
-cell proliferation in external granule layer	GO_0021924	0	1	0	0
-cell migration in hindbrain	GO_0021535	0	1	0	0
-cell differentiation in hindbrain	GO_0021533	0	1	0	0
-candelabrum cell differentiation	GO_0021712	0	1	0	0
-brainstem precerebellar neuron precursor migration	GO_0021949	0	1	0	0
-basket cell precursor proliferation	GO_0021928	0	1	0	0
-abducens nucleus development	GO_0021742	0	1	0	0
-Lugaro cell differentiation	GO_0021708	0	1	0	0
-Golgi cell precursor proliferation	GO_0021926	0	1	0	0
+vestibular nucleus development	GO_0021750	0	1	1	0
+ventral cochlear nucleus development	GO_0021749	0	1	1	0
+trigeminal motor nucleus development	GO_0021731	0	1	1	0
+superior salivary nucleus development	GO_0021753	0	1	1	0
+superior reticular formation development	GO_0021729	0	1	1	0
+superior raphe nucleus development	GO_0021725	0	1	1	0
+superior olivary nucleus structural organization	GO_0021721	0	1	1	0
+superior olivary nucleus morphogenesis	GO_0021719	0	1	1	0
+superior olivary nucleus maturation	GO_0021722	0	1	1	0
+superior olivary nucleus formation	GO_0021720	0	1	1	0
+superior olivary nucleus development	GO_0021718	0	1	1	0
+stellate cell precursor proliferation	GO_0021929	0	1	1	0
+solitary nucleus development	GO_0021746	0	1	1	0
+salivary nucleus development	GO_0021751	0	1	1	0
+rostral hindbrain neuronal precursor cell proliferation	GO_0021931	0	1	1	0
+rhombomere structural organization	GO_0021595	0	1	1	0
+rhombomere morphogenesis	GO_0021593	0	1	1	0
+rhombomere formation	GO_0021594	0	1	1	0
+rhombomere development	GO_0021546	0	1	1	0
+rhombomere cell proliferation	GO_0022034	0	1	1	0
+rhombomere cell migration	GO_0022035	0	1	1	0
+rhombomere cell differentiation	GO_0022036	0	1	1	0
+rhombomere boundary formation	GO_0021654	0	1	1	0
+rhombomere 8 structural organization	GO_0021676	0	1	1	0
+rhombomere 8 morphogenesis	GO_0021674	0	1	1	0
+rhombomere 8 formation	GO_0021677	0	1	1	0
+rhombomere 8 development	GO_0021574	0	1	1	0
+rhombomere 7 structural organization	GO_0021672	0	1	1	0
+rhombomere 7 morphogenesis	GO_0021671	0	1	1	0
+rhombomere 7 formation	GO_0021673	0	1	1	0
+rhombomere 7 development	GO_0021573	0	1	1	0
+rhombomere 6 structural organization	GO_0021668	0	1	1	0
+rhombomere 6 morphogenesis	GO_0021667	0	1	1	0
+rhombomere 6 formation	GO_0021669	0	1	1	0
+rhombomere 6 development	GO_0021572	0	1	1	0
+rhombomere 5 structural organization	GO_0021665	0	1	1	0
+rhombomere 5 morphogenesis	GO_0021664	0	1	1	0
+rhombomere 5 formation	GO_0021666	0	1	1	0
+rhombomere 5 development	GO_0021571	0	1	1	0
+rhombomere 4 structural organization	GO_0021662	0	1	1	0
+rhombomere 4 morphogenesis	GO_0021661	0	1	1	0
+rhombomere 4 formation	GO_0021663	0	1	1	0
+rhombomere 4 development	GO_0021570	0	1	1	0
+rhombomere 3 structural organization	GO_0021659	0	1	1	0
+rhombomere 3 morphogenesis	GO_0021658	0	1	1	0
+rhombomere 3 formation	GO_0021660	0	1	1	0
+rhombomere 3 development	GO_0021569	0	1	1	0
+rhombomere 2 structural organization	GO_0021656	0	1	1	0
+rhombomere 2 morphogenesis	GO_0021655	0	1	1	0
+rhombomere 2 formation	GO_0021657	0	1	1	0
+rhombomere 2 development	GO_0021568	0	1	1	0
+rhombomere 1 structural organization	GO_0021653	0	1	1	0
+rhombomere 1 morphogenesis	GO_0021651	0	1	1	0
+rhombomere 1 formation	GO_0021652	0	1	1	0
+rhombomere 1 development	GO_0021567	0	1	1	0
+retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	1	0
+retrotrapezoid nucleus development	GO_0061451	0	1	1	0
+regulation of cerebellar granule cell precursor proliferation	GO_0021936	0	1	1	0
+radial glia guided migration of cerebellar granule cell	GO_0021933	0	1	1	0
+radial glia guided migration of Purkinje cell	GO_0021942	0	1	1	0
+positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	0	1	1	0
+positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	1	0
+pons structural organization	GO_0021585	0	1	1	0
+pons morphogenesis	GO_0021583	0	1	1	0
+pons maturation	GO_0021586	0	1	1	0
+pons formation	GO_0021584	0	1	1	0
+pons development	GO_0021548	0	1	1	0
+outward migration of deep nuclear neurons	GO_0021947	0	1	1	0
+nucleus ambiguus development	GO_0021745	0	1	1	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	1	0
+negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	0	1	1	0
+motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve formation	GO_0035765	0	1	1	0
+metencephalon development	GO_0022037	0	1	1	0
+medullary reticular formation development	GO_0021723	0	1	1	0
+medulla oblongata structural organization	GO_0021581	0	1	1	0
+medulla oblongata morphogenesis	GO_0021579	0	1	1	0
+medulla oblongata maturation	GO_0021582	0	1	1	0
+medulla oblongata formation	GO_0021580	0	1	1	0
+medulla oblongata development	GO_0021550	0	1	1	0
+locus ceruleus morphogenesis	GO_0021704	0	1	1	0
+locus ceruleus maturation	GO_0021706	0	1	1	0
+locus ceruleus formation	GO_0021705	0	1	1	0
+locus ceruleus development	GO_0021703	0	1	1	0
+lateral reticular nucleus development	GO_0021726	0	1	1	0
+inward migration of deep nuclear neurons	GO_0021948	0	1	1	0
+intermediate reticular formation development	GO_0021727	0	1	1	0
+inferior salivary nucleus development	GO_0021752	0	1	1	0
+inferior reticular formation development	GO_0021728	0	1	1	0
+inferior raphe nucleus development	GO_0021724	0	1	1	0
+inferior olivary nucleus structural organization	GO_0021716	0	1	1	0
+inferior olivary nucleus morphogenesis	GO_0021714	0	1	1	0
+inferior olivary nucleus maturation	GO_0021717	0	1	1	0
+inferior olivary nucleus formation	GO_0021715	0	1	1	0
+inferior olivary nucleus development	GO_0021713	0	1	1	0
+hypoglossal nucleus development	GO_0021743	0	1	1	0
+hindbrain radial glia guided cell migration	GO_0021932	0	1	1	0
+globose nucleus development	GO_0021736	0	1	1	0
+fourth ventricle development	GO_0021592	0	1	1	0
+formation of radial glial scaffolds	GO_0021943	0	1	1	0
+fastigial nucleus development	GO_0021738	0	1	1	0
+facial nucleus development	GO_0021754	0	1	1	0
+eurydendroid cell differentiation	GO_0021755	0	1	1	0
+emboliform nucleus development	GO_0021737	0	1	1	0
+dorsal motor nucleus of vagus nerve structural organization	GO_0035763	0	1	1	0
+dorsal motor nucleus of vagus nerve morphogenesis	GO_0035762	0	1	1	0
+dorsal motor nucleus of vagus nerve maturation	GO_0035761	0	1	1	0
+dorsal motor nucleus of vagus nerve formation	GO_0035764	0	1	1	0
+dorsal motor nucleus of vagus nerve development	GO_0021744	0	1	1	0
+dorsal cochlear nucleus development	GO_0021748	0	1	1	0
+dentate nucleus development	GO_0021735	0	1	1	0
+deep nuclear neuron precursor proliferation	GO_0021927	0	1	1	0
+deep nuclear neuron cell migration	GO_0021946	0	1	1	0
+cochlear nucleus development	GO_0021747	0	1	1	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	1	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	1	0
+cerebellum vasculature morphogenesis	GO_0061301	0	1	1	0
+cerebellum structural organization	GO_0021589	0	1	1	0
+cerebellum morphogenesis	GO_0021587	0	1	1	0
+cerebellum maturation	GO_0021590	0	1	1	0
+cerebellum formation	GO_0021588	0	1	1	0
+cerebellum development	GO_0021549	0	1	1	0
+cerebellar unipolar brush cell differentiation	GO_0021711	0	1	1	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	1	0
+cerebellar molecular layer structural organization	GO_0021689	0	1	1	0
+cerebellar molecular layer morphogenesis	GO_0021687	0	1	1	0
+cerebellar molecular layer maturation	GO_0021690	0	1	1	0
+cerebellar molecular layer formation	GO_0021688	0	1	1	0
+cerebellar molecular layer development	GO_0021679	0	1	1	0
+cerebellar granule cell precursor tangential migration	GO_0021935	0	1	1	0
+cerebellar granule cell precursor proliferation	GO_0021930	0	1	1	0
+cerebellar granule cell differentiation	GO_0021707	0	1	1	0
+cerebellar granular layer structural organization	GO_0021685	0	1	1	0
+cerebellar granular layer morphogenesis	GO_0021683	0	1	1	0
+cerebellar granular layer maturation	GO_0021686	0	1	1	0
+cerebellar granular layer formation	GO_0021684	0	1	1	0
+cerebellar granular layer development	GO_0021681	0	1	1	0
+cerebellar cortex structural organization	GO_0021698	0	1	1	0
+cerebellar cortex morphogenesis	GO_0021696	0	1	1	0
+cerebellar cortex maturation	GO_0021699	0	1	1	0
+cerebellar cortex formation	GO_0021697	0	1	1	0
+cerebellar cortex development	GO_0021695	0	1	1	0
+cerebellar basket cell differentiation	GO_0021709	0	1	1	0
+cerebellar Purkinje cell precursor proliferation	GO_0021925	0	1	1	0
+cerebellar Purkinje cell layer structural organization	GO_0021693	0	1	1	0
+cerebellar Purkinje cell layer morphogenesis	GO_0021692	0	1	1	0
+cerebellar Purkinje cell layer maturation	GO_0021691	0	1	1	0
+cerebellar Purkinje cell layer formation	GO_0021694	0	1	1	0
+cerebellar Purkinje cell layer development	GO_0021680	0	1	1	0
+cerebellar Purkinje cell differentiation	GO_0021702	0	1	1	0
+cerebellar Golgi cell differentiation	GO_0021701	0	1	1	0
+cell proliferation in hindbrain ventricular zone	GO_0021923	0	1	1	0
+cell proliferation in hindbrain	GO_0021534	0	1	1	0
+cell proliferation in external granule layer	GO_0021924	0	1	1	0
+cell migration in hindbrain	GO_0021535	0	1	1	0
+cell differentiation in hindbrain	GO_0021533	0	1	1	0
+candelabrum cell differentiation	GO_0021712	0	1	1	0
+brainstem precerebellar neuron precursor migration	GO_0021949	0	1	1	0
+basket cell precursor proliferation	GO_0021928	0	1	1	0
+abducens nucleus development	GO_0021742	0	1	1	0
+Lugaro cell differentiation	GO_0021708	0	1	1	0
+Golgi cell precursor proliferation	GO_0021926	0	1	1	0
