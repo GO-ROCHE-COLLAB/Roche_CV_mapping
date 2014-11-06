@@ -253,286 +253,286 @@ renal system development	GO_0072001	1	0	1	0
 proximal/distal pattern formation, imaginal disc	GO_0007449	1	0	1	0
 proximal/distal pattern formation	GO_0009954	1	0	1	0
 proximal/distal axis specification	GO_0009946	1	0	1	0
-ureteric bud morphogenesis	GO_0060675	0	1	0	0
-ureteric bud invasion	GO_0072092	0	1	0	0
-ureteric bud formation	GO_0060676	0	1	0	0
-ureteric bud elongation	GO_0060677	0	1	0	0
-ureteric bud development	GO_0001657	0	1	0	0
-ureter part of ureteric bud development	GO_0035503	0	1	0	0
-trifid subdivision of terminal units involved in ureteric bud branching	GO_0060679	0	1	0	0
-thick ascending limb development	GO_0072023	0	1	0	0
-specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway	GO_0072101	0	1	0	0
-specification of ureteric bud anterior/posterior symmetry	GO_0072100	0	1	0	0
-specification of loop of Henle identity	GO_0072086	0	1	0	0
-specification of connecting tubule identity	GO_0072085	0	1	0	0
-specification of anterior mesonephric tubule identity	GO_0072168	0	1	0	0
-short nephron development	GO_0072030	0	1	0	0
-short descending thin limb development	GO_0072063	0	1	0	0
-retinoic acid receptor signaling pathway involved in pronephros anterior/posterior pattern specification	GO_0034671	0	1	0	0
-retinoic acid receptor signaling pathway involved in pronephric field specification	GO_0035576	0	1	0	0
-renal artery morphogenesis	GO_0061441	0	1	0	0
-regulation of ureteric bud formation	GO_0072106	0	1	0	0
-regulation of transcription from RNA polymerase II promoter involved in metanephros development	GO_0072212	0	1	0	0
-regulation of transcription from RNA polymerase II promoter involved in mesonephros development	GO_0061216	0	1	0	0
-regulation of pronephros size	GO_0035565	0	1	0	0
-regulation of pronephric nephron tubule development	GO_1900206	0	1	0	0
-regulation of pre-tubular aggregate formation by cell-cell signaling	GO_0072043	0	1	0	0
-regulation of nephron tubule epithelial cell differentiation	GO_0072182	0	1	0	0
-regulation of metanephros size	GO_0035566	0	1	0	0
-regulation of metanephros development	GO_0072215	0	1	0	0
-regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072307	0	1	0	0
-regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_1900238	0	1	0	0
-regulation of metanephric mesenchymal cell migration	GO_2000589	0	1	0	0
-regulation of metanephric glomerular visceral epithelial cell development	GO_2000477	0	1	0	0
-regulation of metanephric cap mesenchymal cell proliferation	GO_0090095	0	1	0	0
-regulation of mesonephros development	GO_0061217	0	1	0	0
-regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000093	0	1	0	0
-regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	0	1	0	0
-regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	0	1	0	0
-regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000733	0	1	0	0
-regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000702	0	1	0	0
-regulation of epithelial cell differentiation involved in kidney development	GO_2000696	0	1	0	0
-regulation of cell proliferation involved in mesonephros development	GO_2000606	0	1	0	0
-regulation of cell proliferation involved in kidney development	GO_1901722	0	1	0	0
-regulation of branching involved in ureteric bud morphogenesis	GO_0090189	0	1	0	0
-regulation of branch elongation involved in ureteric bud branching	GO_0072095	0	1	0	0
-rectal diverticulum development	GO_0039009	0	1	0	0
-pyramid development	GO_0072056	0	1	0	0
-pronephros structural organization	GO_0072118	0	1	0	0
-pronephros morphogenesis	GO_0072114	0	1	0	0
-pronephros maturation	GO_0072120	0	1	0	0
-pronephros formation	GO_0072116	0	1	0	0
-pronephros development	GO_0048793	0	1	0	0
-pronephric sinus development	GO_0039012	0	1	0	0
-pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	0	0
-pronephric nephron morphogenesis	GO_0039007	0	1	0	0
-pronephric nephron development	GO_0039019	0	1	0	0
-pronephric field specification	GO_0039003	0	1	0	0
-pronephric duct morphogenesis	GO_0039023	0	1	0	0
-pronephric duct development	GO_0039022	0	1	0	0
-primary ureteric bud growth	GO_0060682	0	1	0	0
-prebend segment development	GO_0072066	0	1	0	0
-pre-tubular aggregate formation	GO_0072035	0	1	0	0
-posterior mesonephric tubule development	GO_0072166	0	1	0	0
-positive regulation of ureteric bud formation	GO_0072107	0	1	0	0
-positive regulation of nephron tubule epithelial cell differentiation	GO_2000768	0	1	0	0
-positive regulation of metanephros development	GO_0072216	0	1	0	0
-positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_0035793	0	1	0	0
-positive regulation of metanephric mesenchymal cell migration	GO_2000591	0	1	0	0
-positive regulation of metanephric glomerular visceral epithelial cell development	GO_2000478	0	1	0	0
-positive regulation of metanephric cap mesenchymal cell proliferation	GO_0090096	0	1	0	0
-positive regulation of mesonephros development	GO_0061213	0	1	0	0
-positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	0	1	0	0
-positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	0	1	0	0
-positive regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000735	0	1	0	0
-positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000704	0	1	0	0
-positive regulation of epithelial cell differentiation involved in kidney development	GO_2000698	0	1	0	0
-positive regulation of cell proliferation involved in mesonephros development	GO_2000608	0	1	0	0
-positive regulation of cell proliferation involved in kidney development	GO_1901724	0	1	0	0
-positive regulation of branching involved in ureteric bud morphogenesis	GO_0090190	0	1	0	0
-pattern specification involved in pronephros development	GO_0039017	0	1	0	0
-pattern specification involved in metanephros development	GO_0072268	0	1	0	0
-pattern specification involved in mesonephros development	GO_0061227	0	1	0	0
-outer stripe development	GO_0072058	0	1	0	0
-outer medullary collecting duct development	GO_0072060	0	1	0	0
-nephrostome development	GO_0039018	0	1	0	0
-nephron tubule epithelial cell differentiation	GO_0072160	0	1	0	0
-nephron morphogenesis	GO_0072028	0	1	0	0
-nephron epithelium morphogenesis	GO_0072088	0	1	0	0
-nephron epithelium development	GO_0072009	0	1	0	0
-nephron development	GO_0072006	0	1	0	0
-nephrogenic mesenchyme morphogenesis	GO_0072134	0	1	0	0
-nephrogenic mesenchyme development	GO_0072076	0	1	0	0
-nephric duct morphogenesis	GO_0072178	0	1	0	0
-nephric duct formation	GO_0072179	0	1	0	0
-nephric duct elongation	GO_0035849	0	1	0	0
-nephric duct development	GO_0072176	0	1	0	0
-negative regulation of nephron tubule epithelial cell differentiation	GO_0072183	0	1	0	0
-negative regulation of metanephros development	GO_0072217	0	1	0	0
-negative regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072308	0	1	0	0
-negative regulation of metanephric mesenchymal cell migration	GO_2000590	0	1	0	0
-negative regulation of mesonephros development	GO_0061218	0	1	0	0
-negative regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000094	0	1	0	0
-negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	0	1	0	0
-negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	0	1	0	0
-negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000734	0	1	0	0
-negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000703	0	1	0	0
-negative regulation of epithelial cell differentiation involved in kidney development	GO_2000697	0	1	0	0
-negative regulation of cell proliferation involved in mesonephros development	GO_2000607	0	1	0	0
-negative regulation of cell proliferation involved in kidney development	GO_1901723	0	1	0	0
-negative regulation of branching involved in ureteric bud morphogenesis	GO_0090191	0	1	0	0
-negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway	GO_0072097	0	1	0	0
-negative regulation of branch elongation involved in ureteric bud branching	GO_0072096	0	1	0	0
-metanephros morphogenesis	GO_0003338	0	1	0	0
-metanephros development	GO_0001656	0	1	0	0
-metanephric thick ascending limb development	GO_0072233	0	1	0	0
-metanephric smooth muscle tissue development	GO_0072208	0	1	0	0
-metanephric short descending thin limb development	GO_0072271	0	1	0	0
-metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	0	0
-metanephric nephron epithelium development	GO_0072243	0	1	0	0
-metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	0	0
-metanephric mesenchymal cell migration	GO_0035789	0	1	0	0
-metanephric mesenchymal cell differentiation	GO_0072162	0	1	0	0
-metanephric long descending thin limb development	GO_0072269	0	1	0	0
-metanephric long descending thin limb bend development	GO_0072226	0	1	0	0
-metanephric glomerular visceral epithelial cell fate commitment	GO_0072250	0	1	0	0
-metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	0	0
-metanephric glomerular visceral epithelial cell development	GO_0072249	0	1	0	0
-metanephric glomerular parietal epithelial cell fate commitment	GO_0072247	0	1	0	0
-metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	0	0
-metanephric glomerular parietal epithelial cell development	GO_0072246	0	1	0	0
-metanephric glomerular epithelium development	GO_0072244	0	1	0	0
-metanephric glomerular epithelial cell fate commitment	GO_0072315	0	1	0	0
-metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	0	0
-metanephric glomerular epithelial cell development	GO_0072313	0	1	0	0
-metanephric glomerular endothelium development	GO_0072264	0	1	0	0
-metanephric glomerular capillary formation	GO_0072277	0	1	0	0
-metanephric epithelium development	GO_0072207	0	1	0	0
-metanephric descending thin limb development	GO_0072220	0	1	0	0
-metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	0	0
-metanephric ascending thin limb development	GO_0072218	0	1	0	0
-mesonephros morphogenesis	GO_0061206	0	1	0	0
-mesonephros development	GO_0001823	0	1	0	0
-mesonephric smooth muscle tissue development	GO_0061214	0	1	0	0
-mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	0	0
-mesonephric nephron morphogenesis	GO_0061228	0	1	0	0
-mesonephric nephron epithelium development	GO_0061241	0	1	0	0
-mesonephric nephron development	GO_0061215	0	1	0	0
-mesonephric mesenchyme morphogenesis	GO_0061221	0	1	0	0
-mesonephric mesenchyme development	GO_0061219	0	1	0	0
-mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	0	1	0	0
-mesonephric mesenchymal cell differentiation	GO_0061223	0	1	0	0
-mesonephric macula densa development	GO_0061220	0	1	0	0
-mesonephric interstitial fibroblast fate commitment	GO_0061268	0	1	0	0
-mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	0	0
-mesonephric interstitial fibroblast development	GO_0061267	0	1	0	0
-mesonephric glomerular visceral epithelial cell fate commitment	GO_0061258	0	1	0	0
-mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	0	0
-mesonephric glomerular visceral epithelial cell development	GO_0061257	0	1	0	0
-mesonephric glomerular parietal epithelial cell fate commitment	GO_0061255	0	1	0	0
-mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	0	0
-mesonephric glomerular parietal epithelial cell development	GO_0061254	0	1	0	0
-mesonephric glomerular epithelium development	GO_0061232	0	1	0	0
-mesonephric glomerular epithelial cell fate commitment	GO_0061252	0	1	0	0
-mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	0	0
-mesonephric glomerular epithelial cell development	GO_0061251	0	1	0	0
-mesonephric glomerular capillary formation	GO_0061249	0	1	0	0
-mesonephric extraglomerular mesangial cell proliferation involved in mesonephros development	GO_0061225	0	1	0	0
-mesonephric epithelium development	GO_0072163	0	1	0	0
-mesonephric duct morphogenesis	GO_0072180	0	1	0	0
-mesonephric duct formation	GO_0072181	0	1	0	0
-mesonephric duct development	GO_0072177	0	1	0	0
-mesonephric comma-shaped body morphogenesis	GO_0061236	0	1	0	0
-mesonephric collecting duct development	GO_0061211	0	1	0	0
-mesonephric capsule specification	GO_0061288	0	1	0	0
-mesonephric capsule morphogenesis	GO_0061286	0	1	0	0
-mesonephric capsule formation	GO_0061287	0	1	0	0
-mesonephric capsule development	GO_0061285	0	1	0	0
-mesonephric S-shaped body morphogenesis	GO_0061244	0	1	0	0
-mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	0	0
-mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	0	1	0	0
-mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	0	1	0	0
-mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	0	0
-mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	0	0
-mesenchymal stem cell migration involved in uteric bud morphogenesis	GO_0061456	0	1	0	0
-mesenchymal stem cell maintenance involved in nephron morphogenesis	GO_0072038	0	1	0	0
-mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis	GO_0061235	0	1	0	0
-mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	0	0
-mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	0	0
-mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	0	1	0	0
-mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	0	0
-mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	0	0
-mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	0	0
-mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	0	0
-mesangial cell fate commitment	GO_0072151	0	1	0	0
-mesangial cell differentiation	GO_0072007	0	1	0	0
-mesangial cell development	GO_0072143	0	1	0	0
-macula densa development	GO_0072024	0	1	0	0
-long nephron development	GO_0072029	0	1	0	0
-long descending thin limb development	GO_0072064	0	1	0	0
-long descending thin limb bend development	GO_0072065	0	1	0	0
-lateral sprouting involved in ureteric bud morphogenesis	GO_0060680	0	1	0	0
-late distal convoluted tubule development	GO_0072068	0	1	0	0
-inner stripe development	GO_0072057	0	1	0	0
-glomus development	GO_0072013	0	1	0	0
-glomerulus vasculature morphogenesis	GO_0072103	0	1	0	0
-glomerulus vasculature development	GO_0072012	0	1	0	0
-glomerular visceral epithelial cell fate commitment	GO_0072149	0	1	0	0
-glomerular visceral epithelial cell differentiation	GO_0072112	0	1	0	0
-glomerular visceral epithelial cell development	GO_0072015	0	1	0	0
-glomerular parietal epithelial cell fate commitment	GO_0072147	0	1	0	0
-glomerular parietal epithelial cell differentiation	GO_0072139	0	1	0	0
-glomerular parietal epithelial cell development	GO_0072016	0	1	0	0
-glomerular epithelium development	GO_0072010	0	1	0	0
-glomerular epithelial cell fate commitment	GO_0072314	0	1	0	0
-glomerular epithelial cell differentiation	GO_0072311	0	1	0	0
-glomerular epithelial cell development	GO_0072310	0	1	0	0
-glomerular endothelium development	GO_0072011	0	1	0	0
-glomerular capillary formation	GO_0072104	0	1	0	0
-glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000701	0	1	0	0
-fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000699	0	1	0	0
-establishment of planar polarity involved in nephron morphogenesis	GO_0072046	0	1	0	0
-establishment of planar polarity involved in mesonephric nephron morphogenesis	GO_0061238	0	1	0	0
-epithelial cell migration involved in proximal tubule morphogenesis	GO_0072159	0	1	0	0
-epithelial cell migration involved in nephron tubule morphogenesis	GO_0072155	0	1	0	0
-epithelial cell migration involved in metanephric proximal tubule morphogenesis	GO_0072292	0	1	0	0
-epithelial cell migration involved in metanephric nephron tubule morphogenesis	GO_0072290	0	1	0	0
-epithelial cell migration involved in metanephric distal tubule morphogenesis	GO_0072291	0	1	0	0
-epithelial cell migration involved in mesonephric proximal tubule morphogenesis	GO_0061280	0	1	0	0
-epithelial cell migration involved in mesonephric nephron tubule morphogenesis	GO_0061278	0	1	0	0
-epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	0	1	0	0
-epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	0	1	0	0
-epithelial cell differentiation involved in kidney development	GO_0035850	0	1	0	0
-early distal convoluted tubule development	GO_0072067	0	1	0	0
-distal tubule morphogenesis	GO_0072156	0	1	0	0
-distal tubule development	GO_0072017	0	1	0	0
-distal convoluted tubule development	GO_0072025	0	1	0	0
-dichotomous subdivision of terminal units involved in ureteric bud branching	GO_0060678	0	1	0	0
-descending thin limb development	GO_0072022	0	1	0	0
-cortical collecting duct development	GO_0072059	0	1	0	0
-convergent extension involved in nephron morphogenesis	GO_0072045	0	1	0	0
-convergent extension involved in mesonephric nephron morphogenesis	GO_0061237	0	1	0	0
-connecting tubule development	GO_0072027	0	1	0	0
-comma-shaped body morphogenesis	GO_0072049	0	1	0	0
-collecting duct development	GO_0072044	0	1	0	0
-cell-cell signaling involved in pronephros development	GO_0039016	0	1	0	0
-cell-cell signaling involved in metanephros development	GO_0072204	0	1	0	0
-cell-cell signaling involved in mesonephros development	GO_0061210	0	1	0	0
-cell proliferation involved in pronephros development	GO_0039015	0	1	0	0
-cell proliferation involved in metanephros development	GO_0072203	0	1	0	0
-cell proliferation involved in mesonephros development	GO_0061209	0	1	0	0
-cell migration involved in metanephros development	GO_0035788	0	1	0	0
-cell differentiation involved in pronephros development	GO_0039014	0	1	0	0
-cell differentiation involved in metanephros development	GO_0072202	0	1	0	0
-cell differentiation involved in mesonephros development	GO_0061208	0	1	0	0
-canonical Wnt signaling pathway involved in ureteric bud branching	GO_0061291	0	1	0	0
-canonical Wnt signaling pathway involved in metanephric kidney development	GO_0061290	0	1	0	0
-canonical Wnt signaling pathway involved in mesonephros development	GO_0061292	0	1	0	0
-canonical Wnt signaling pathway involved in mesonephric nephron development	GO_0061293	0	1	0	0
-branching involved in ureteric bud morphogenesis	GO_0001658	0	1	0	0
-branch elongation involved in ureteric bud branching	GO_0060681	0	1	0	0
-ascending thin limb development	GO_0072021	0	1	0	0
-apoptotic process involved in metanephric nephron tubule development	GO_1900205	0	1	0	0
-apoptotic process involved in metanephric collecting duct development	GO_1900204	0	1	0	0
-anterior/posterior pattern specification involved in ureteric bud development	GO_0072099	0	1	0	0
-anterior/posterior pattern specification involved in pronephros development	GO_0034672	0	1	0	0
-anterior mesonephric tubule development	GO_0072165	0	1	0	0
-Wnt signaling pathway involved in kidney development	GO_0061289	0	1	0	0
-S-shaped body morphogenesis	GO_0072050	0	1	0	0
-Malpighian tubule bud morphogenesis	GO_0061332	0	1	0	0
-DCT cell fate commitment	GO_0072146	0	1	0	0
-DCT cell differentiation	GO_0072069	0	1	0	0
-DCT cell development	GO_0072140	0	1	0	0
-BMP signaling pathway involved in nephric duct formation	GO_0071893	0	1	0	0
+ureteric bud morphogenesis	GO_0060675	0	1	1	0
+ureteric bud invasion	GO_0072092	0	1	1	0
+ureteric bud formation	GO_0060676	0	1	1	0
+ureteric bud elongation	GO_0060677	0	1	1	0
+ureteric bud development	GO_0001657	0	1	1	0
+ureter part of ureteric bud development	GO_0035503	0	1	1	0
+trifid subdivision of terminal units involved in ureteric bud branching	GO_0060679	0	1	1	0
+thick ascending limb development	GO_0072023	0	1	1	0
+specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway	GO_0072101	0	1	1	0
+specification of ureteric bud anterior/posterior symmetry	GO_0072100	0	1	1	0
+specification of loop of Henle identity	GO_0072086	0	1	1	0
+specification of connecting tubule identity	GO_0072085	0	1	1	0
+specification of anterior mesonephric tubule identity	GO_0072168	0	1	1	0
+short nephron development	GO_0072030	0	1	1	0
+short descending thin limb development	GO_0072063	0	1	1	0
+retinoic acid receptor signaling pathway involved in pronephros anterior/posterior pattern specification	GO_0034671	0	1	1	0
+retinoic acid receptor signaling pathway involved in pronephric field specification	GO_0035576	0	1	1	0
+renal artery morphogenesis	GO_0061441	0	1	1	0
+regulation of ureteric bud formation	GO_0072106	0	1	1	0
+regulation of transcription from RNA polymerase II promoter involved in metanephros development	GO_0072212	0	1	1	0
+regulation of transcription from RNA polymerase II promoter involved in mesonephros development	GO_0061216	0	1	1	0
+regulation of pronephros size	GO_0035565	0	1	1	0
+regulation of pronephric nephron tubule development	GO_1900206	0	1	1	0
+regulation of pre-tubular aggregate formation by cell-cell signaling	GO_0072043	0	1	1	0
+regulation of nephron tubule epithelial cell differentiation	GO_0072182	0	1	1	0
+regulation of metanephros size	GO_0035566	0	1	1	0
+regulation of metanephros development	GO_0072215	0	1	1	0
+regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072307	0	1	1	0
+regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_1900238	0	1	1	0
+regulation of metanephric mesenchymal cell migration	GO_2000589	0	1	1	0
+regulation of metanephric glomerular visceral epithelial cell development	GO_2000477	0	1	1	0
+regulation of metanephric cap mesenchymal cell proliferation	GO_0090095	0	1	1	0
+regulation of mesonephros development	GO_0061217	0	1	1	0
+regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000093	0	1	1	0
+regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	0	1	1	0
+regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	0	1	1	0
+regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	0	1	1	0
+regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	0	1	1	0
+regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	0	1	1	0
+regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	0	1	1	0
+regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000733	0	1	1	0
+regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000702	0	1	1	0
+regulation of epithelial cell differentiation involved in kidney development	GO_2000696	0	1	1	0
+regulation of cell proliferation involved in mesonephros development	GO_2000606	0	1	1	0
+regulation of cell proliferation involved in kidney development	GO_1901722	0	1	1	0
+regulation of branching involved in ureteric bud morphogenesis	GO_0090189	0	1	1	0
+regulation of branch elongation involved in ureteric bud branching	GO_0072095	0	1	1	0
+rectal diverticulum development	GO_0039009	0	1	1	0
+pyramid development	GO_0072056	0	1	1	0
+pronephros structural organization	GO_0072118	0	1	1	0
+pronephros morphogenesis	GO_0072114	0	1	1	0
+pronephros maturation	GO_0072120	0	1	1	0
+pronephros formation	GO_0072116	0	1	1	0
+pronephros development	GO_0048793	0	1	1	0
+pronephric sinus development	GO_0039012	0	1	1	0
+pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	1	0
+pronephric nephron morphogenesis	GO_0039007	0	1	1	0
+pronephric nephron development	GO_0039019	0	1	1	0
+pronephric field specification	GO_0039003	0	1	1	0
+pronephric duct morphogenesis	GO_0039023	0	1	1	0
+pronephric duct development	GO_0039022	0	1	1	0
+primary ureteric bud growth	GO_0060682	0	1	1	0
+prebend segment development	GO_0072066	0	1	1	0
+pre-tubular aggregate formation	GO_0072035	0	1	1	0
+posterior mesonephric tubule development	GO_0072166	0	1	1	0
+positive regulation of ureteric bud formation	GO_0072107	0	1	1	0
+positive regulation of nephron tubule epithelial cell differentiation	GO_2000768	0	1	1	0
+positive regulation of metanephros development	GO_0072216	0	1	1	0
+positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_0035793	0	1	1	0
+positive regulation of metanephric mesenchymal cell migration	GO_2000591	0	1	1	0
+positive regulation of metanephric glomerular visceral epithelial cell development	GO_2000478	0	1	1	0
+positive regulation of metanephric cap mesenchymal cell proliferation	GO_0090096	0	1	1	0
+positive regulation of mesonephros development	GO_0061213	0	1	1	0
+positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	0	1	1	0
+positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	0	1	1	0
+positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	0	1	1	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	0	1	1	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	0	1	1	0
+positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	0	1	1	0
+positive regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000735	0	1	1	0
+positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000704	0	1	1	0
+positive regulation of epithelial cell differentiation involved in kidney development	GO_2000698	0	1	1	0
+positive regulation of cell proliferation involved in mesonephros development	GO_2000608	0	1	1	0
+positive regulation of cell proliferation involved in kidney development	GO_1901724	0	1	1	0
+positive regulation of branching involved in ureteric bud morphogenesis	GO_0090190	0	1	1	0
+pattern specification involved in pronephros development	GO_0039017	0	1	1	0
+pattern specification involved in metanephros development	GO_0072268	0	1	1	0
+pattern specification involved in mesonephros development	GO_0061227	0	1	1	0
+outer stripe development	GO_0072058	0	1	1	0
+outer medullary collecting duct development	GO_0072060	0	1	1	0
+nephrostome development	GO_0039018	0	1	1	0
+nephron tubule epithelial cell differentiation	GO_0072160	0	1	1	0
+nephron morphogenesis	GO_0072028	0	1	1	0
+nephron epithelium morphogenesis	GO_0072088	0	1	1	0
+nephron epithelium development	GO_0072009	0	1	1	0
+nephron development	GO_0072006	0	1	1	0
+nephrogenic mesenchyme morphogenesis	GO_0072134	0	1	1	0
+nephrogenic mesenchyme development	GO_0072076	0	1	1	0
+nephric duct morphogenesis	GO_0072178	0	1	1	0
+nephric duct formation	GO_0072179	0	1	1	0
+nephric duct elongation	GO_0035849	0	1	1	0
+nephric duct development	GO_0072176	0	1	1	0
+negative regulation of nephron tubule epithelial cell differentiation	GO_0072183	0	1	1	0
+negative regulation of metanephros development	GO_0072217	0	1	1	0
+negative regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072308	0	1	1	0
+negative regulation of metanephric mesenchymal cell migration	GO_2000590	0	1	1	0
+negative regulation of mesonephros development	GO_0061218	0	1	1	0
+negative regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000094	0	1	1	0
+negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	0	1	1	0
+negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	0	1	1	0
+negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	0	1	1	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	0	1	1	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	0	1	1	0
+negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	0	1	1	0
+negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000734	0	1	1	0
+negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000703	0	1	1	0
+negative regulation of epithelial cell differentiation involved in kidney development	GO_2000697	0	1	1	0
+negative regulation of cell proliferation involved in mesonephros development	GO_2000607	0	1	1	0
+negative regulation of cell proliferation involved in kidney development	GO_1901723	0	1	1	0
+negative regulation of branching involved in ureteric bud morphogenesis	GO_0090191	0	1	1	0
+negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway	GO_0072097	0	1	1	0
+negative regulation of branch elongation involved in ureteric bud branching	GO_0072096	0	1	1	0
+metanephros morphogenesis	GO_0003338	0	1	1	0
+metanephros development	GO_0001656	0	1	1	0
+metanephric thick ascending limb development	GO_0072233	0	1	1	0
+metanephric smooth muscle tissue development	GO_0072208	0	1	1	0
+metanephric short descending thin limb development	GO_0072271	0	1	1	0
+metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	1	0
+metanephric nephron epithelium development	GO_0072243	0	1	1	0
+metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	1	0
+metanephric mesenchymal cell migration	GO_0035789	0	1	1	0
+metanephric mesenchymal cell differentiation	GO_0072162	0	1	1	0
+metanephric long descending thin limb development	GO_0072269	0	1	1	0
+metanephric long descending thin limb bend development	GO_0072226	0	1	1	0
+metanephric glomerular visceral epithelial cell fate commitment	GO_0072250	0	1	1	0
+metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	1	0
+metanephric glomerular visceral epithelial cell development	GO_0072249	0	1	1	0
+metanephric glomerular parietal epithelial cell fate commitment	GO_0072247	0	1	1	0
+metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	1	0
+metanephric glomerular parietal epithelial cell development	GO_0072246	0	1	1	0
+metanephric glomerular epithelium development	GO_0072244	0	1	1	0
+metanephric glomerular epithelial cell fate commitment	GO_0072315	0	1	1	0
+metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	1	0
+metanephric glomerular epithelial cell development	GO_0072313	0	1	1	0
+metanephric glomerular endothelium development	GO_0072264	0	1	1	0
+metanephric glomerular capillary formation	GO_0072277	0	1	1	0
+metanephric epithelium development	GO_0072207	0	1	1	0
+metanephric descending thin limb development	GO_0072220	0	1	1	0
+metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	1	0
+metanephric ascending thin limb development	GO_0072218	0	1	1	0
+mesonephros morphogenesis	GO_0061206	0	1	1	0
+mesonephros development	GO_0001823	0	1	1	0
+mesonephric smooth muscle tissue development	GO_0061214	0	1	1	0
+mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	1	0
+mesonephric nephron morphogenesis	GO_0061228	0	1	1	0
+mesonephric nephron epithelium development	GO_0061241	0	1	1	0
+mesonephric nephron development	GO_0061215	0	1	1	0
+mesonephric mesenchyme morphogenesis	GO_0061221	0	1	1	0
+mesonephric mesenchyme development	GO_0061219	0	1	1	0
+mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	0	1	1	0
+mesonephric mesenchymal cell differentiation	GO_0061223	0	1	1	0
+mesonephric macula densa development	GO_0061220	0	1	1	0
+mesonephric interstitial fibroblast fate commitment	GO_0061268	0	1	1	0
+mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	1	0
+mesonephric interstitial fibroblast development	GO_0061267	0	1	1	0
+mesonephric glomerular visceral epithelial cell fate commitment	GO_0061258	0	1	1	0
+mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	1	0
+mesonephric glomerular visceral epithelial cell development	GO_0061257	0	1	1	0
+mesonephric glomerular parietal epithelial cell fate commitment	GO_0061255	0	1	1	0
+mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	1	0
+mesonephric glomerular parietal epithelial cell development	GO_0061254	0	1	1	0
+mesonephric glomerular epithelium development	GO_0061232	0	1	1	0
+mesonephric glomerular epithelial cell fate commitment	GO_0061252	0	1	1	0
+mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	1	0
+mesonephric glomerular epithelial cell development	GO_0061251	0	1	1	0
+mesonephric glomerular capillary formation	GO_0061249	0	1	1	0
+mesonephric extraglomerular mesangial cell proliferation involved in mesonephros development	GO_0061225	0	1	1	0
+mesonephric epithelium development	GO_0072163	0	1	1	0
+mesonephric duct morphogenesis	GO_0072180	0	1	1	0
+mesonephric duct formation	GO_0072181	0	1	1	0
+mesonephric duct development	GO_0072177	0	1	1	0
+mesonephric comma-shaped body morphogenesis	GO_0061236	0	1	1	0
+mesonephric collecting duct development	GO_0061211	0	1	1	0
+mesonephric capsule specification	GO_0061288	0	1	1	0
+mesonephric capsule morphogenesis	GO_0061286	0	1	1	0
+mesonephric capsule formation	GO_0061287	0	1	1	0
+mesonephric capsule development	GO_0061285	0	1	1	0
+mesonephric S-shaped body morphogenesis	GO_0061244	0	1	1	0
+mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	1	0
+mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	0	1	1	0
+mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	0	1	1	0
+mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	1	0
+mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	1	0
+mesenchymal stem cell migration involved in uteric bud morphogenesis	GO_0061456	0	1	1	0
+mesenchymal stem cell maintenance involved in nephron morphogenesis	GO_0072038	0	1	1	0
+mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis	GO_0061235	0	1	1	0
+mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	1	0
+mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	1	0
+mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	0	1	1	0
+mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	1	0
+mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	1	0
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	1	0
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	1	0
+mesangial cell fate commitment	GO_0072151	0	1	1	0
+mesangial cell differentiation	GO_0072007	0	1	1	0
+mesangial cell development	GO_0072143	0	1	1	0
+macula densa development	GO_0072024	0	1	1	0
+long nephron development	GO_0072029	0	1	1	0
+long descending thin limb development	GO_0072064	0	1	1	0
+long descending thin limb bend development	GO_0072065	0	1	1	0
+lateral sprouting involved in ureteric bud morphogenesis	GO_0060680	0	1	1	0
+late distal convoluted tubule development	GO_0072068	0	1	1	0
+inner stripe development	GO_0072057	0	1	1	0
+glomus development	GO_0072013	0	1	1	0
+glomerulus vasculature morphogenesis	GO_0072103	0	1	1	0
+glomerulus vasculature development	GO_0072012	0	1	1	0
+glomerular visceral epithelial cell fate commitment	GO_0072149	0	1	1	0
+glomerular visceral epithelial cell differentiation	GO_0072112	0	1	1	0
+glomerular visceral epithelial cell development	GO_0072015	0	1	1	0
+glomerular parietal epithelial cell fate commitment	GO_0072147	0	1	1	0
+glomerular parietal epithelial cell differentiation	GO_0072139	0	1	1	0
+glomerular parietal epithelial cell development	GO_0072016	0	1	1	0
+glomerular epithelium development	GO_0072010	0	1	1	0
+glomerular epithelial cell fate commitment	GO_0072314	0	1	1	0
+glomerular epithelial cell differentiation	GO_0072311	0	1	1	0
+glomerular epithelial cell development	GO_0072310	0	1	1	0
+glomerular endothelium development	GO_0072011	0	1	1	0
+glomerular capillary formation	GO_0072104	0	1	1	0
+glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000701	0	1	1	0
+fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000699	0	1	1	0
+establishment of planar polarity involved in nephron morphogenesis	GO_0072046	0	1	1	0
+establishment of planar polarity involved in mesonephric nephron morphogenesis	GO_0061238	0	1	1	0
+epithelial cell migration involved in proximal tubule morphogenesis	GO_0072159	0	1	1	0
+epithelial cell migration involved in nephron tubule morphogenesis	GO_0072155	0	1	1	0
+epithelial cell migration involved in metanephric proximal tubule morphogenesis	GO_0072292	0	1	1	0
+epithelial cell migration involved in metanephric nephron tubule morphogenesis	GO_0072290	0	1	1	0
+epithelial cell migration involved in metanephric distal tubule morphogenesis	GO_0072291	0	1	1	0
+epithelial cell migration involved in mesonephric proximal tubule morphogenesis	GO_0061280	0	1	1	0
+epithelial cell migration involved in mesonephric nephron tubule morphogenesis	GO_0061278	0	1	1	0
+epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	0	1	1	0
+epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	0	1	1	0
+epithelial cell differentiation involved in kidney development	GO_0035850	0	1	1	0
+early distal convoluted tubule development	GO_0072067	0	1	1	0
+distal tubule morphogenesis	GO_0072156	0	1	1	0
+distal tubule development	GO_0072017	0	1	1	0
+distal convoluted tubule development	GO_0072025	0	1	1	0
+dichotomous subdivision of terminal units involved in ureteric bud branching	GO_0060678	0	1	1	0
+descending thin limb development	GO_0072022	0	1	1	0
+cortical collecting duct development	GO_0072059	0	1	1	0
+convergent extension involved in nephron morphogenesis	GO_0072045	0	1	1	0
+convergent extension involved in mesonephric nephron morphogenesis	GO_0061237	0	1	1	0
+connecting tubule development	GO_0072027	0	1	1	0
+comma-shaped body morphogenesis	GO_0072049	0	1	1	0
+collecting duct development	GO_0072044	0	1	1	0
+cell-cell signaling involved in pronephros development	GO_0039016	0	1	1	0
+cell-cell signaling involved in metanephros development	GO_0072204	0	1	1	0
+cell-cell signaling involved in mesonephros development	GO_0061210	0	1	1	0
+cell proliferation involved in pronephros development	GO_0039015	0	1	1	0
+cell proliferation involved in metanephros development	GO_0072203	0	1	1	0
+cell proliferation involved in mesonephros development	GO_0061209	0	1	1	0
+cell migration involved in metanephros development	GO_0035788	0	1	1	0
+cell differentiation involved in pronephros development	GO_0039014	0	1	1	0
+cell differentiation involved in metanephros development	GO_0072202	0	1	1	0
+cell differentiation involved in mesonephros development	GO_0061208	0	1	1	0
+canonical Wnt signaling pathway involved in ureteric bud branching	GO_0061291	0	1	1	0
+canonical Wnt signaling pathway involved in metanephric kidney development	GO_0061290	0	1	1	0
+canonical Wnt signaling pathway involved in mesonephros development	GO_0061292	0	1	1	0
+canonical Wnt signaling pathway involved in mesonephric nephron development	GO_0061293	0	1	1	0
+branching involved in ureteric bud morphogenesis	GO_0001658	0	1	1	0
+branch elongation involved in ureteric bud branching	GO_0060681	0	1	1	0
+ascending thin limb development	GO_0072021	0	1	1	0
+apoptotic process involved in metanephric nephron tubule development	GO_1900205	0	1	1	0
+apoptotic process involved in metanephric collecting duct development	GO_1900204	0	1	1	0
+anterior/posterior pattern specification involved in ureteric bud development	GO_0072099	0	1	1	0
+anterior/posterior pattern specification involved in pronephros development	GO_0034672	0	1	1	0
+anterior mesonephric tubule development	GO_0072165	0	1	1	0
+Wnt signaling pathway involved in kidney development	GO_0061289	0	1	1	0
+S-shaped body morphogenesis	GO_0072050	0	1	1	0
+Malpighian tubule bud morphogenesis	GO_0061332	0	1	1	0
+DCT cell fate commitment	GO_0072146	0	1	1	0
+DCT cell differentiation	GO_0072069	0	1	1	0
+DCT cell development	GO_0072140	0	1	1	0
+BMP signaling pathway involved in nephric duct formation	GO_0071893	0	1	1	0
