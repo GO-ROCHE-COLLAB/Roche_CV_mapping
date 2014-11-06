@@ -182,191 +182,191 @@ inositol heptakisphosphate 4-kinase activity	GO_0000833	1	0	1	0
 activation of protein kinase activity	GO_0032147	1	0	1	0
 activation of protein kinase B activity	GO_0032148	1	0	1	0
 activation of protein kinase A activity	GO_0034199	1	0	1	0
-xylitol kinase activity	GO_0050400	0	1	0	0
-viomycin kinase activity	GO_0050394	0	1	0	0
-undecaprenol kinase activity	GO_0009038	0	1	0	0
-tropomyosin kinase activity	GO_0050359	0	1	0	0
-transmembrane receptor protein kinase activity	GO_0019199	0	1	0	0
-transmembrane receptor histidine kinase activity	GO_0009784	0	1	0	0
-transmembrane histidine kinase cytokinin receptor activity	GO_0009885	0	1	0	0
-thiamine-phosphate kinase activity	GO_0009030	0	1	0	0
-thiamine-diphosphate kinase activity	GO_0050331	0	1	0	0
-thiamine kinase activity	GO_0019165	0	1	0	0
-tetraacyldisaccharide 4'-kinase activity	GO_0009029	0	1	0	0
-taurocyamine kinase activity	GO_0050324	0	1	0	0
-tagatose-6-phosphate kinase activity	GO_0009024	0	1	0	0
-tagatose kinase activity	GO_0050317	0	1	0	0
-streptomycin 3''-kinase activity	GO_0050299	0	1	0	0
-shikimate kinase activity	GO_0004765	0	1	0	0
-scyllo-inosamine 4-kinase activity	GO_0050276	0	1	0	0
-ribulokinase activity	GO_0008741	0	1	0	0
-ribose 1,5-bisphosphate phosphokinase activity	GO_0033863	0	1	0	0
-riboflavin phosphotransferase activity	GO_0050257	0	1	0	0
-rhamnulokinase activity	GO_0008993	0	1	0	0
-pyruvate, water dikinase activity	GO_0008986	0	1	0	0
-pseudouridine kinase activity	GO_0050225	0	1	0	0
-protein kinase activity involved in regulation of protein localization to cell division site involved in cytokinesis	GO_1901916	0	1	0	0
-protein histidine tele-kinase activity	GO_0008257	0	1	0	0
-protein histidine pros-kinase activity	GO_0008256	0	1	0	0
-protein arginine kinase activity	GO_1990424	0	1	0	0
-propionate kinase activity	GO_0008980	0	1	0	0
-polyribonucleotide kinase activity	GO_0051732	0	1	0	0
-polyphosphate-glucose phosphotransferase activity	GO_0047330	0	1	0	0
-polyphosphate kinase activity	GO_0008976	0	1	0	0
-phytol kinase activity	GO_0010276	0	1	0	0
-phosphoribulokinase activity	GO_0008974	0	1	0	0
-phosphoribokinase activity	GO_0050195	0	1	0	0
-phosphoramidate-hexose phosphotransferase activity	GO_0047329	0	1	0	0
-phosphomethylpyrimidine kinase activity	GO_0008972	0	1	0	0
-phosphoglycerate kinase (GTP) activity	GO_0050191	0	1	0	0
-phosphoglucokinase activity	GO_0050190	0	1	0	0
-phosphoglucan, water dikinase activity	GO_0051752	0	1	0	0
-phosphofructokinase activity	GO_0008443	0	1	0	0
-phosphoenolpyruvate-glycerone phosphotransferase activity	GO_0047324	0	1	0	0
-phosphatidylinositol-3,4-bisphosphate 5-kinase activity	GO_0052812	0	1	0	0
-phosphatidylinositol kinase activity	GO_0052742	0	1	0	0
-phosphatidylinositol bisphosphate kinase activity	GO_0052813	0	1	0	0
-phenol, water dikinase activity	GO_0043749	0	1	0	0
-phenol kinase activity	GO_0018720	0	1	0	0
-pantetheine kinase activity	GO_0050165	0	1	0	0
-opheline kinase activity	GO_0050154	0	1	0	0
-nicotinic acid riboside kinase activity	GO_0034317	0	1	0	0
-myosin heavy chain kinase activity	GO_0016905	0	1	0	0
-macrolide 2'-kinase activity	GO_0050073	0	1	0	0
-low-density-lipoprotein particle receptor kinase activity	GO_0050063	0	1	0	0
-lombricine kinase activity	GO_0050059	0	1	0	0
-kanamycin kinase activity	GO_0008910	0	1	0	0
-inositol trisphosphate kinase activity	GO_0051766	0	1	0	0
-inositol tetrakisphosphate kinase activity	GO_0051765	0	1	0	0
-inositol tetrakisphosphate 5-kinase activity	GO_0047326	0	1	0	0
-inositol tetrakisphosphate 2-kinase activity	GO_0032942	0	1	0	0
-inositol diphosphate tetrakisphosphate kinase activity	GO_0052839	0	1	0	0
-inositol 5-diphosphate pentakisphosphate 5-kinase activity	GO_0052836	0	1	0	0
-inositol 3-kinase activity	GO_0019140	0	1	0	0
-inosine kinase activity	GO_0008906	0	1	0	0
-hypotaurocyamine kinase activity	GO_0047715	0	1	0	0
-hygromycin-B 7''-O-phosphotransferase activity	GO_0008904	0	1	0	0
-hydroxymethylpyrimidine kinase activity	GO_0008902	0	1	0	0
-hydroxyethylthiazole kinase activity	GO_0004417	0	1	0	0
-homoserine kinase activity	GO_0004413	0	1	0	0
-histone tyrosine kinase activity	GO_0035400	0	1	0	0
-histone threonine kinase activity	GO_0035184	0	1	0	0
-histone kinase activity (H4-S1 specific)	GO_0044023	0	1	0	0
-histone kinase activity (H3-S28 specific)	GO_0044022	0	1	0	0
-histone kinase activity (H3-S10 specific)	GO_0035175	0	1	0	0
-histone kinase activity (H2B-S14 specific)	GO_0044025	0	1	0	0
-histone kinase activity (H2A-T120 specific)	GO_1990244	0	1	0	0
-histone kinase activity (H2A-S139 specific)	GO_0035979	0	1	0	0
-histone kinase activity (H2A-S121 specific)	GO_0072371	0	1	0	0
-histone kinase activity (H2A-S1 specific)	GO_0044024	0	1	0	0
-histone arginine kinase activity	GO_0018110	0	1	0	0
-histidine phosphotransfer kinase activity	GO_0009927	0	1	0	0
-heptose 7-phosphate kinase activity	GO_0033785	0	1	0	0
-hamamelose kinase activity	GO_0047976	0	1	0	0
-gurken-activated receptor activity	GO_0008313	0	1	0	0
-guanidinoacetate kinase activity	GO_0047973	0	1	0	0
-glycerol-3-phosphate-glucose phosphotransferase activity	GO_0047327	0	1	0	0
-glycerate 2-kinase activity	GO_0043798	0	1	0	0
-glutamate 1-kinase activity	GO_0047944	0	1	0	0
-glucuronokinase activity	GO_0047940	0	1	0	0
-glucose-1-phosphate phosphodismutase activity	GO_0047937	0	1	0	0
-glucosamine kinase activity	GO_0047931	0	1	0	0
-galacturonokinase activity	GO_0047912	0	1	0	0
-formate kinase activity	GO_0047900	0	1	0	0
-farnesyl diphosphate kinase activity	GO_0047887	0	1	0	0
-erythritol kinase activity	GO_0047878	0	1	0	0
-diphosphate-serine phosphotransferase activity	GO_0047332	0	1	0	0
-diphosphate-purine nucleoside kinase activity	GO_0008842	0	1	0	0
-diphosphate-protein phosphotransferase activity	GO_0047321	0	1	0	0
-diphosphate-glycerol phosphotransferase activity	GO_0047331	0	1	0	0
-diphosphate-fructose-6-phosphate 1-phosphotransferase activity	GO_0047334	0	1	0	0
-dihydrostreptomycin-6-phosphate 3'-alpha-kinase activity	GO_0047333	0	1	0	0
-di-trans, poly-cis-undecaprenol kinase activity	GO_0036433	0	1	0	0
-dephospho-[reductase kinase] kinase activity	GO_0047848	0	1	0	0
-deoxynucleoside kinase activity	GO_0019136	0	1	0	0
-deoxyadenosine kinase activity	GO_0004136	0	1	0	0
-dehydrogluconokinase activity	GO_0047841	0	1	0	0
-dCMP kinase activity	GO_0036431	0	1	0	0
-cytidine kinase activity	GO_0043771	0	1	0	0
-cyclin-dependent protein tyrosine kinase activity	GO_0097469	0	1	0	0
-cyclin-dependent protein kinase activity	GO_0097472	0	1	0	0
-cyclic nucleotide-dependent protein kinase activity	GO_0004690	0	1	0	0
-cobinamide kinase activity	GO_0008819	0	1	0	0
-carbohydrate kinase activity	GO_0019200	0	1	0	0
-carbamate kinase activity	GO_0008804	0	1	0	0
-caldesmon kinase activity	GO_0047764	0	1	0	0
-calcium-dependent protein serine/threonine kinase activity	GO_0009931	0	1	0	0
-butyrate kinase activity	GO_0047761	0	1	0	0
-boss receptor activity	GO_0008288	0	1	0	0
-beta-glucoside kinase activity	GO_0047700	0	1	0	0
-autoinducer-2 kinase activity	GO_0071518	0	1	0	0
-aspartate kinase activity	GO_0004072	0	1	0	0
-arginine kinase activity	GO_0004054	0	1	0	0
-ammonia kinase activity	GO_0047666	0	1	0	0
-aminoglycoside phosphotransferase activity	GO_0034071	0	1	0	0
-aminoglycoside 6-kinase activity	GO_0050300	0	1	0	0
-amino acid kinase activity	GO_0019202	0	1	0	0
-alpha-glucan, water dikinase activity	GO_0050521	0	1	0	0
-allose kinase activity	GO_0008787	0	1	0	0
-all-trans undecaprenol kinase activity	GO_0036432	0	1	0	0
-alkylglycerone kinase activity	GO_0047650	0	1	0	0
-alkylglycerol kinase activity	GO_0047649	0	1	0	0
-agmatine kinase activity	GO_0047633	0	1	0	0
-adenosylcobinamide kinase activity	GO_0043752	0	1	0	0
-adenosylcobinamide kinase (GTP-specific) activity	GO_0036428	0	1	0	0
-adenosylcobinamide kinase (ATP-specific) activity	GO_0036429	0	1	0	0
-acyl-phosphate-hexose phosphotransferase activity	GO_0047328	0	1	0	0
-acetylglutamate kinase activity	GO_0003991	0	1	0	0
-acetate kinase activity	GO_0008776	0	1	0	0
-acetate kinase (diphosphate) activity	GO_0047601	0	1	0	0
-[tyrosine 3-monooxygenase] kinase activity	GO_0050369	0	1	0	0
-[isocitrate dehydrogenase (NADP+)] kinase activity	GO_0008772	0	1	0	0
-VEGF-E-activated receptor activity	GO_0036330	0	1	0	0
-VEGF-D-activated receptor activity	GO_0036329	0	1	0	0
-VEGF-C-activated receptor activity	GO_0036328	0	1	0	0
-T2-induced deoxynucleotide kinase activity	GO_0050316	0	1	0	0
-SAP kinase activity	GO_0016909	0	1	0	0
-S-methyl-5-thioribose kinase activity	GO_0046522	0	1	0	0
-Rho-dependent protein serine/threonine kinase activity	GO_0072518	0	1	0	0
-NADH kinase activity	GO_0042736	0	1	0	0
-N2-acetyl-L-aminoadipate kinase activity	GO_0043744	0	1	0	0
-MAP kinase kinase kinase activity involved in osmosensory signaling pathway	GO_0038081	0	1	0	0
-MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	0	0
-MAP kinase kinase kinase activity involved in conjugation with cellular fusion	GO_0038073	0	1	0	0
-MAP kinase kinase kinase activity involved in cell wall organization or biogenesis	GO_0038070	0	1	0	0
-MAP kinase kinase activity involved in osmosensory signaling pathway	GO_0038080	0	1	0	0
-MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	0	0
-MAP kinase kinase activity involved in conjugation with cellular fusion	GO_0038072	0	1	0	0
-MAP kinase kinase activity involved in cell wall organization or biogenesis	GO_0038068	0	1	0	0
-MAP kinase activity involved in osmosensory signaling pathway	GO_0038079	0	1	0	0
-MAP kinase activity involved in innate immune response	GO_0038075	0	1	0	0
-MAP kinase activity involved in conjugation with cellular fusion	GO_0038071	0	1	0	0
-MAP kinase activity involved in cell wall organization or biogenesis	GO_0038067	0	1	0	0
-L-xylulokinase activity	GO_0008744	0	1	0	0
-L-fuculokinase activity	GO_0008737	0	1	0	0
-L-arabinokinase activity	GO_0009702	0	1	0	0
-JUN kinase kinase kinase kinase activity	GO_0042656	0	1	0	0
-Goodpasture-antigen-binding protein kinase activity	GO_0033868	0	1	0	0
-GTP-dependent polyribonucleotide 5'-hydroxyl-kinase activity	GO_0051730	0	1	0	0
-GTP-dependent polynucleotide kinase activity	GO_0051735	0	1	0	0
-GTP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	GO_0051737	0	1	0	0
-D-ribulokinase activity	GO_0019150	0	1	0	0
-D-arabinokinase activity	GO_0047814	0	1	0	0
-CMP kinase activity	GO_0036430	0	1	0	0
-ATP:2-methylpropanoate phosphotransferase activity	GO_0047758	0	1	0	0
-ATP-dependent polynucleotide kinase activity	GO_0051734	0	1	0	0
-AMP-thymidine kinase activity	GO_0047667	0	1	0	0
-ADP-thymidine kinase activity	GO_0047628	0	1	0	0
-ADP-specific phosphofructokinase activity	GO_0043844	0	1	0	0
-5-methyldeoxycytidine-5'-phosphate kinase activity	GO_0047336	0	1	0	0
-5-dehydro-2-deoxygluconokinase activity	GO_0047590	0	1	0	0
-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity	GO_0050515	0	1	0	0
-2-phosphoglycerate kinase activity	GO_0036357	0	1	0	0
-2-dehydro-3-deoxygluconokinase activity	GO_0008673	0	1	0	0
-2-dehydro-3-deoxygalactonokinase activity	GO_0008671	0	1	0	0
-1-phosphofructokinase activity	GO_0008662	0	1	0	0
-1-phosphatidylinositol-5-kinase activity	GO_0052810	0	1	0	0
-1-phosphatidylinositol-3-phosphate 4-kinase activity	GO_0052811	0	1	0	0
-(deoxy)nucleoside-phosphate kinase activity	GO_0047507	0	1	0	0
-(deoxy)adenylate kinase activity	GO_0047506	0	1	0	0
-(S)-lactate 2-kinase activity	GO_0043841	0	1	0	0
+xylitol kinase activity	GO_0050400	0	1	1	0
+viomycin kinase activity	GO_0050394	0	1	1	0
+undecaprenol kinase activity	GO_0009038	0	1	1	0
+tropomyosin kinase activity	GO_0050359	0	1	1	0
+transmembrane receptor protein kinase activity	GO_0019199	0	1	1	0
+transmembrane receptor histidine kinase activity	GO_0009784	0	1	1	0
+transmembrane histidine kinase cytokinin receptor activity	GO_0009885	0	1	1	0
+thiamine-phosphate kinase activity	GO_0009030	0	1	1	0
+thiamine-diphosphate kinase activity	GO_0050331	0	1	1	0
+thiamine kinase activity	GO_0019165	0	1	1	0
+tetraacyldisaccharide 4'-kinase activity	GO_0009029	0	1	1	0
+taurocyamine kinase activity	GO_0050324	0	1	1	0
+tagatose-6-phosphate kinase activity	GO_0009024	0	1	1	0
+tagatose kinase activity	GO_0050317	0	1	1	0
+streptomycin 3''-kinase activity	GO_0050299	0	1	1	0
+shikimate kinase activity	GO_0004765	0	1	1	0
+scyllo-inosamine 4-kinase activity	GO_0050276	0	1	1	0
+ribulokinase activity	GO_0008741	0	1	1	0
+ribose 1,5-bisphosphate phosphokinase activity	GO_0033863	0	1	1	0
+riboflavin phosphotransferase activity	GO_0050257	0	1	1	0
+rhamnulokinase activity	GO_0008993	0	1	1	0
+pyruvate, water dikinase activity	GO_0008986	0	1	1	0
+pseudouridine kinase activity	GO_0050225	0	1	1	0
+protein kinase activity involved in regulation of protein localization to cell division site involved in cytokinesis	GO_1901916	0	1	1	0
+protein histidine tele-kinase activity	GO_0008257	0	1	1	0
+protein histidine pros-kinase activity	GO_0008256	0	1	1	0
+protein arginine kinase activity	GO_1990424	0	1	1	0
+propionate kinase activity	GO_0008980	0	1	1	0
+polyribonucleotide kinase activity	GO_0051732	0	1	1	0
+polyphosphate-glucose phosphotransferase activity	GO_0047330	0	1	1	0
+polyphosphate kinase activity	GO_0008976	0	1	1	0
+phytol kinase activity	GO_0010276	0	1	1	0
+phosphoribulokinase activity	GO_0008974	0	1	1	0
+phosphoribokinase activity	GO_0050195	0	1	1	0
+phosphoramidate-hexose phosphotransferase activity	GO_0047329	0	1	1	0
+phosphomethylpyrimidine kinase activity	GO_0008972	0	1	1	0
+phosphoglycerate kinase (GTP) activity	GO_0050191	0	1	1	0
+phosphoglucokinase activity	GO_0050190	0	1	1	0
+phosphoglucan, water dikinase activity	GO_0051752	0	1	1	0
+phosphofructokinase activity	GO_0008443	0	1	1	0
+phosphoenolpyruvate-glycerone phosphotransferase activity	GO_0047324	0	1	1	0
+phosphatidylinositol-3,4-bisphosphate 5-kinase activity	GO_0052812	0	1	1	0
+phosphatidylinositol kinase activity	GO_0052742	0	1	1	0
+phosphatidylinositol bisphosphate kinase activity	GO_0052813	0	1	1	0
+phenol, water dikinase activity	GO_0043749	0	1	1	0
+phenol kinase activity	GO_0018720	0	1	1	0
+pantetheine kinase activity	GO_0050165	0	1	1	0
+opheline kinase activity	GO_0050154	0	1	1	0
+nicotinic acid riboside kinase activity	GO_0034317	0	1	1	0
+myosin heavy chain kinase activity	GO_0016905	0	1	1	0
+macrolide 2'-kinase activity	GO_0050073	0	1	1	0
+low-density-lipoprotein particle receptor kinase activity	GO_0050063	0	1	1	0
+lombricine kinase activity	GO_0050059	0	1	1	0
+kanamycin kinase activity	GO_0008910	0	1	1	0
+inositol trisphosphate kinase activity	GO_0051766	0	1	1	0
+inositol tetrakisphosphate kinase activity	GO_0051765	0	1	1	0
+inositol tetrakisphosphate 5-kinase activity	GO_0047326	0	1	1	0
+inositol tetrakisphosphate 2-kinase activity	GO_0032942	0	1	1	0
+inositol diphosphate tetrakisphosphate kinase activity	GO_0052839	0	1	1	0
+inositol 5-diphosphate pentakisphosphate 5-kinase activity	GO_0052836	0	1	1	0
+inositol 3-kinase activity	GO_0019140	0	1	1	0
+inosine kinase activity	GO_0008906	0	1	1	0
+hypotaurocyamine kinase activity	GO_0047715	0	1	1	0
+hygromycin-B 7''-O-phosphotransferase activity	GO_0008904	0	1	1	0
+hydroxymethylpyrimidine kinase activity	GO_0008902	0	1	1	0
+hydroxyethylthiazole kinase activity	GO_0004417	0	1	1	0
+homoserine kinase activity	GO_0004413	0	1	1	0
+histone tyrosine kinase activity	GO_0035400	0	1	1	0
+histone threonine kinase activity	GO_0035184	0	1	1	0
+histone kinase activity (H4-S1 specific)	GO_0044023	0	1	1	0
+histone kinase activity (H3-S28 specific)	GO_0044022	0	1	1	0
+histone kinase activity (H3-S10 specific)	GO_0035175	0	1	1	0
+histone kinase activity (H2B-S14 specific)	GO_0044025	0	1	1	0
+histone kinase activity (H2A-T120 specific)	GO_1990244	0	1	1	0
+histone kinase activity (H2A-S139 specific)	GO_0035979	0	1	1	0
+histone kinase activity (H2A-S121 specific)	GO_0072371	0	1	1	0
+histone kinase activity (H2A-S1 specific)	GO_0044024	0	1	1	0
+histone arginine kinase activity	GO_0018110	0	1	1	0
+histidine phosphotransfer kinase activity	GO_0009927	0	1	1	0
+heptose 7-phosphate kinase activity	GO_0033785	0	1	1	0
+hamamelose kinase activity	GO_0047976	0	1	1	0
+gurken-activated receptor activity	GO_0008313	0	1	1	0
+guanidinoacetate kinase activity	GO_0047973	0	1	1	0
+glycerol-3-phosphate-glucose phosphotransferase activity	GO_0047327	0	1	1	0
+glycerate 2-kinase activity	GO_0043798	0	1	1	0
+glutamate 1-kinase activity	GO_0047944	0	1	1	0
+glucuronokinase activity	GO_0047940	0	1	1	0
+glucose-1-phosphate phosphodismutase activity	GO_0047937	0	1	1	0
+glucosamine kinase activity	GO_0047931	0	1	1	0
+galacturonokinase activity	GO_0047912	0	1	1	0
+formate kinase activity	GO_0047900	0	1	1	0
+farnesyl diphosphate kinase activity	GO_0047887	0	1	1	0
+erythritol kinase activity	GO_0047878	0	1	1	0
+diphosphate-serine phosphotransferase activity	GO_0047332	0	1	1	0
+diphosphate-purine nucleoside kinase activity	GO_0008842	0	1	1	0
+diphosphate-protein phosphotransferase activity	GO_0047321	0	1	1	0
+diphosphate-glycerol phosphotransferase activity	GO_0047331	0	1	1	0
+diphosphate-fructose-6-phosphate 1-phosphotransferase activity	GO_0047334	0	1	1	0
+dihydrostreptomycin-6-phosphate 3'-alpha-kinase activity	GO_0047333	0	1	1	0
+di-trans, poly-cis-undecaprenol kinase activity	GO_0036433	0	1	1	0
+dephospho-[reductase kinase] kinase activity	GO_0047848	0	1	1	0
+deoxynucleoside kinase activity	GO_0019136	0	1	1	0
+deoxyadenosine kinase activity	GO_0004136	0	1	1	0
+dehydrogluconokinase activity	GO_0047841	0	1	1	0
+dCMP kinase activity	GO_0036431	0	1	1	0
+cytidine kinase activity	GO_0043771	0	1	1	0
+cyclin-dependent protein tyrosine kinase activity	GO_0097469	0	1	1	0
+cyclin-dependent protein kinase activity	GO_0097472	0	1	1	0
+cyclic nucleotide-dependent protein kinase activity	GO_0004690	0	1	1	0
+cobinamide kinase activity	GO_0008819	0	1	1	0
+carbohydrate kinase activity	GO_0019200	0	1	1	0
+carbamate kinase activity	GO_0008804	0	1	1	0
+caldesmon kinase activity	GO_0047764	0	1	1	0
+calcium-dependent protein serine/threonine kinase activity	GO_0009931	0	1	1	0
+butyrate kinase activity	GO_0047761	0	1	1	0
+boss receptor activity	GO_0008288	0	1	1	0
+beta-glucoside kinase activity	GO_0047700	0	1	1	0
+autoinducer-2 kinase activity	GO_0071518	0	1	1	0
+aspartate kinase activity	GO_0004072	0	1	1	0
+arginine kinase activity	GO_0004054	0	1	1	0
+ammonia kinase activity	GO_0047666	0	1	1	0
+aminoglycoside phosphotransferase activity	GO_0034071	0	1	1	0
+aminoglycoside 6-kinase activity	GO_0050300	0	1	1	0
+amino acid kinase activity	GO_0019202	0	1	1	0
+alpha-glucan, water dikinase activity	GO_0050521	0	1	1	0
+allose kinase activity	GO_0008787	0	1	1	0
+all-trans undecaprenol kinase activity	GO_0036432	0	1	1	0
+alkylglycerone kinase activity	GO_0047650	0	1	1	0
+alkylglycerol kinase activity	GO_0047649	0	1	1	0
+agmatine kinase activity	GO_0047633	0	1	1	0
+adenosylcobinamide kinase activity	GO_0043752	0	1	1	0
+adenosylcobinamide kinase (GTP-specific) activity	GO_0036428	0	1	1	0
+adenosylcobinamide kinase (ATP-specific) activity	GO_0036429	0	1	1	0
+acyl-phosphate-hexose phosphotransferase activity	GO_0047328	0	1	1	0
+acetylglutamate kinase activity	GO_0003991	0	1	1	0
+acetate kinase activity	GO_0008776	0	1	1	0
+acetate kinase (diphosphate) activity	GO_0047601	0	1	1	0
+[tyrosine 3-monooxygenase] kinase activity	GO_0050369	0	1	1	0
+[isocitrate dehydrogenase (NADP+)] kinase activity	GO_0008772	0	1	1	0
+VEGF-E-activated receptor activity	GO_0036330	0	1	1	0
+VEGF-D-activated receptor activity	GO_0036329	0	1	1	0
+VEGF-C-activated receptor activity	GO_0036328	0	1	1	0
+T2-induced deoxynucleotide kinase activity	GO_0050316	0	1	1	0
+SAP kinase activity	GO_0016909	0	1	1	0
+S-methyl-5-thioribose kinase activity	GO_0046522	0	1	1	0
+Rho-dependent protein serine/threonine kinase activity	GO_0072518	0	1	1	0
+NADH kinase activity	GO_0042736	0	1	1	0
+N2-acetyl-L-aminoadipate kinase activity	GO_0043744	0	1	1	0
+MAP kinase kinase kinase activity involved in osmosensory signaling pathway	GO_0038081	0	1	1	0
+MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	1	0
+MAP kinase kinase kinase activity involved in conjugation with cellular fusion	GO_0038073	0	1	1	0
+MAP kinase kinase kinase activity involved in cell wall organization or biogenesis	GO_0038070	0	1	1	0
+MAP kinase kinase activity involved in osmosensory signaling pathway	GO_0038080	0	1	1	0
+MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	1	0
+MAP kinase kinase activity involved in conjugation with cellular fusion	GO_0038072	0	1	1	0
+MAP kinase kinase activity involved in cell wall organization or biogenesis	GO_0038068	0	1	1	0
+MAP kinase activity involved in osmosensory signaling pathway	GO_0038079	0	1	1	0
+MAP kinase activity involved in innate immune response	GO_0038075	0	1	1	0
+MAP kinase activity involved in conjugation with cellular fusion	GO_0038071	0	1	1	0
+MAP kinase activity involved in cell wall organization or biogenesis	GO_0038067	0	1	1	0
+L-xylulokinase activity	GO_0008744	0	1	1	0
+L-fuculokinase activity	GO_0008737	0	1	1	0
+L-arabinokinase activity	GO_0009702	0	1	1	0
+JUN kinase kinase kinase kinase activity	GO_0042656	0	1	1	0
+Goodpasture-antigen-binding protein kinase activity	GO_0033868	0	1	1	0
+GTP-dependent polyribonucleotide 5'-hydroxyl-kinase activity	GO_0051730	0	1	1	0
+GTP-dependent polynucleotide kinase activity	GO_0051735	0	1	1	0
+GTP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	GO_0051737	0	1	1	0
+D-ribulokinase activity	GO_0019150	0	1	1	0
+D-arabinokinase activity	GO_0047814	0	1	1	0
+CMP kinase activity	GO_0036430	0	1	1	0
+ATP:2-methylpropanoate phosphotransferase activity	GO_0047758	0	1	1	0
+ATP-dependent polynucleotide kinase activity	GO_0051734	0	1	1	0
+AMP-thymidine kinase activity	GO_0047667	0	1	1	0
+ADP-thymidine kinase activity	GO_0047628	0	1	1	0
+ADP-specific phosphofructokinase activity	GO_0043844	0	1	1	0
+5-methyldeoxycytidine-5'-phosphate kinase activity	GO_0047336	0	1	1	0
+5-dehydro-2-deoxygluconokinase activity	GO_0047590	0	1	1	0
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity	GO_0050515	0	1	1	0
+2-phosphoglycerate kinase activity	GO_0036357	0	1	1	0
+2-dehydro-3-deoxygluconokinase activity	GO_0008673	0	1	1	0
+2-dehydro-3-deoxygalactonokinase activity	GO_0008671	0	1	1	0
+1-phosphofructokinase activity	GO_0008662	0	1	1	0
+1-phosphatidylinositol-5-kinase activity	GO_0052810	0	1	1	0
+1-phosphatidylinositol-3-phosphate 4-kinase activity	GO_0052811	0	1	1	0
+(deoxy)nucleoside-phosphate kinase activity	GO_0047507	0	1	1	0
+(deoxy)adenylate kinase activity	GO_0047506	0	1	1	0
+(S)-lactate 2-kinase activity	GO_0043841	0	1	1	0
