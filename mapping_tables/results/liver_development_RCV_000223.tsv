@@ -2,16 +2,16 @@ name	ID	manual	auto	checked	blacklisted
 liver trabecula formation	GO_0060344	1	1	1	0
 liver morphogenesis	GO_0072576	1	1	1	0
 liver development	GO_0001889	1	1	1	0
-regulation of hepatocyte proliferation	GO_2000345	0	1	0	0
-regulation of hepatocyte differentiation	GO_0070366	0	1	0	0
-positive regulation of hepatocyte proliferation	GO_2000347	0	1	0	0
-positive regulation of hepatocyte differentiation	GO_0070368	0	1	0	0
-negative regulation of hepatocyte proliferation	GO_2000346	0	1	0	0
-negative regulation of hepatocyte differentiation	GO_0070367	0	1	0	0
-liver regeneration	GO_0097421	0	1	0	0
-intrahepatic bile duct development	GO_0035622	0	1	0	0
-hepatocyte proliferation	GO_0072574	0	1	0	0
-hepatocyte differentiation	GO_0070365	0	1	0	0
-hepatoblast differentiation	GO_0061017	0	1	0	0
-epithelial cell proliferation involved in liver morphogenesis	GO_0072575	0	1	0	0
-determination of liver left/right asymmetry	GO_0071910	0	1	0	0
+regulation of hepatocyte proliferation	GO_2000345	0	1	1	0
+regulation of hepatocyte differentiation	GO_0070366	0	1	1	0
+positive regulation of hepatocyte proliferation	GO_2000347	0	1	1	0
+positive regulation of hepatocyte differentiation	GO_0070368	0	1	1	0
+negative regulation of hepatocyte proliferation	GO_2000346	0	1	1	0
+negative regulation of hepatocyte differentiation	GO_0070367	0	1	1	0
+liver regeneration	GO_0097421	0	1	1	0
+intrahepatic bile duct development	GO_0035622	0	1	1	0
+hepatocyte proliferation	GO_0072574	0	1	1	0
+hepatocyte differentiation	GO_0070365	0	1	1	0
+hepatoblast differentiation	GO_0061017	0	1	1	0
+epithelial cell proliferation involved in liver morphogenesis	GO_0072575	0	1	1	0
+determination of liver left/right asymmetry	GO_0071910	0	1	1	0
