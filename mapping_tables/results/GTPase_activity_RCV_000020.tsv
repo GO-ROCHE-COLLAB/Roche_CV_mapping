@@ -34,7 +34,7 @@ negative regulation of Rho GTPase activity	GO_0034259	0	1	1	0
 negative regulation of Ras GTPase activity	GO_0034261	0	1	1	0
 negative regulation of GTPase activity	GO_0034260	0	1	1	0
 heterotrimeric G-protein complex cycle	GO_0031684	0	1	1	0
-heterotrimeric G-protein complex	GO_0005834	0	1	0	0
+heterotrimeric G-protein complex	GO_0005834	0	1	1	0
 guanyl-nucleotide exchange factor adaptor activity	GO_0005091	0	1	1	0
 activation of Cdc42 GTPase activity	GO_0032864	0	1	1	0
 activation of ARF GTPase activity	GO_0032857	0	1	1	0
