@@ -2,5 +2,5 @@ name	ID	manual	auto	checked	blacklisted
 vitamin K metabolic process	GO_0042373	1	1	1	0
 vitamin K catabolic process	GO_0042377	1	1	1	0
 vitamin K biosynthetic process	GO_0042371	1	1	1	0
-response to vitamin K	GO_0032571	0	1	0	0
-cellular response to vitamin K	GO_0071307	0	1	0	0
+response to vitamin K	GO_0032571	0	1	1	0
+cellular response to vitamin K	GO_0071307	0	1	1	0
