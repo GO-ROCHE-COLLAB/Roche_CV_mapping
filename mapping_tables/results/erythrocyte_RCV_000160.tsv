@@ -1,0 +1,9 @@
+name	ID	manual	auto	checked	blacklisted
+regulation of erythrophore differentiation	GO_0048778	1	0	1	0
+regulation of erythrocyte differentiation	GO_0045646	1	0	1	0
+regulation of erythrocyte clearance	GO_0034106	1	0	1	0
+regulation of erythrocyte aggregation	GO_0034118	1	0	1	0
+negative regulation of erythrocyte differentiation	GO_0045647	1	0	1	0
+negative regulation of erythrocyte clearance	GO_0034107	1	0	1	0
+negative regulation of erythrocyte aggregation	GO_0034119	1	0	1	0
+erythrocyte homeostasis	GO_0034101	0	1	0	0

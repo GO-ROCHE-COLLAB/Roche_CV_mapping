@@ -1,0 +1,157 @@
+name	ID	manual	auto	checked	blacklisted
+urethra epithelium development	GO_0061071	1	0	1	0
+stromal-epithelial cell signaling involved in prostate gland development	GO_0044345	1	0	1	0
+sensory epithelium regeneration	GO_0070654	1	0	1	0
+seminal vesicle epithelium development	GO_0061108	1	0	1	0
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	1	0	1	0
+secretion by lung epithelial cell involved in lung growth	GO_0061033	1	0	1	0
+root epithelial mucilage metabolic process	GO_0048361	1	0	1	0
+root epithelial mucilage biosynthetic process	GO_0048356	1	0	1	0
+retinal pigment epithelium development	GO_0003406	1	0	1	0
+regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	1	0	1	0
+regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	1	0	1	0
+regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling	GO_0060657	1	0	1	0
+regulation of intestinal epithelial structure maintenance	GO_0060730	1	0	1	0
+regulation of epidermis development	GO_0045682	1	0	1	0
+regulation of epidermal cell division	GO_0010482	1	0	1	0
+regulation of epidermal cell differentiation	GO_0045604	1	0	1	0
+regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	GO_0060665	1	0	1	0
+regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling	GO_0060668	1	0	1	0
+regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling	GO_0060683	1	0	1	0
+regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling	GO_0060656	1	0	1	0
+protein-based cuticle attachment to epithelium	GO_0040006	1	0	1	0
+prostate gland epithelium morphogenesis	GO_0060740	1	0	1	0
+prostate epithelial cord elongation	GO_0060523	1	0	1	0
+prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis	GO_0060527	1	0	1	0
+positive regulation of salivary gland formation by mesenchymal-epithelial signaling	GO_0060639	1	0	1	0
+positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	1	0	1	0
+positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	1	0	1	0
+positive regulation of mammary placode formation by mesenchymal-epithelial signaling	GO_0060617	1	0	1	0
+positive regulation of intestinal epithelial structure maintenance	GO_0060731	1	0	1	0
+positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling	GO_0060640	1	0	1	0
+nephron epithelium morphogenesis	GO_0072088	1	0	1	0
+nephron epithelium development	GO_0072009	1	0	1	0
+negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	1	0	1	0
+negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	1	0	1	0
+myocardial epithelial involution involved in heart jogging	GO_0003304	1	0	1	0
+morphogenesis of larval imaginal disc epithelium	GO_0016335	1	0	1	0
+morphogenesis of follicular epithelium	GO_0016333	1	0	1	0
+morphogenesis of embryonic epithelium	GO_0016331	1	0	1	0
+morphogenesis of an epithelium	GO_0002009	1	0	1	0
+morphogenesis of an epithelial sheet	GO_0002011	1	0	1	0
+morphogenesis of an epithelial fold involved in embryonic heart tube formation	GO_0003152	1	0	1	0
+morphogenesis of an epithelial fold	GO_0060571	1	0	1	0
+morphogenesis of an epithelial bud	GO_0060572	1	0	1	0
+morphogenesis of a polarized epithelium	GO_0001738	1	0	1	0
+morphogenesis of a branching epithelium	GO_0061138	1	0	1	0
+metanephric nephron epithelium development	GO_0072243	1	0	1	0
+metanephric glomerular epithelium development	GO_0072244	1	0	1	0
+metanephric epithelium development	GO_0072207	1	0	1	0
+mesonephric nephron epithelium development	GO_0061241	1	0	1	0
+mesonephric glomerular epithelium development	GO_0061232	1	0	1	0
+mesonephric epithelium development	GO_0072163	1	0	1	0
+mechanosensory epithelium regeneration	GO_0070655	1	0	1	0
+mechanoreceptor differentiation involved in mechanosensory epithelium regeneration	GO_0070656	1	0	1	0
+maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded	GO_0008071	1	0	1	0
+maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded	GO_0008070	1	0	1	0
+mammary gland epithelium development	GO_0061180	1	0	1	0
+maintenance of polarity of larval imaginal disc epithelium	GO_0042251	1	0	1	0
+maintenance of polarity of follicular epithelium	GO_0042248	1	0	1	0
+maintenance of gastrointestinal epithelium	GO_0030277	1	0	1	0
+maintenance of epithelial integrity, open tracheal system	GO_0035160	1	0	1	0
+maintenance of epithelial cell apical/basal polarity	GO_0045199	1	0	1	0
+lobar bronchus epithelium development	GO_0060481	1	0	1	0
+lateral sprouting from an epithelium	GO_0060601	1	0	1	0
+intestinal epithelial structure maintenance	GO_0060729	1	0	1	0
+inductive mesenchymal to epithelial cell signaling	GO_0060522	1	0	1	0
+glomerular epithelium development	GO_0072010	1	0	1	0
+establishment or maintenance of polarity of larval imaginal disc epithelium	GO_0016336	1	0	1	0
+establishment or maintenance of polarity of follicular epithelium	GO_0016334	1	0	1	0
+establishment or maintenance of epithelial cell apical/basal polarity	GO_0045197	1	0	1	0
+establishment of planar polarity of larval imaginal disc epithelium	GO_0042252	1	0	1	0
+establishment of planar polarity of follicular epithelium	GO_0042247	1	0	1	0
+establishment of epithelial cell polarity	GO_0090162	1	0	1	0
+establishment of epithelial cell planar polarity	GO_0090163	1	0	1	0
+establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	1	0	1	0
+establishment of epithelial cell apical/basal polarity	GO_0045198	1	0	1	0
+epithelium migration involved in imaginal disc-derived wing morphogenesis	GO_0090252	1	0	1	0
+epithelium migration	GO_0090132	1	0	1	0
+epithelium development	GO_0060429	1	0	1	0
+epithelial-mesenchymal signaling involved in prostate gland development	GO_0060738	1	0	1	0
+epithelial tube morphogenesis	GO_0060562	1	0	1	0
+epithelial tube formation	GO_0072175	1	0	1	0
+epithelial tube branching involved in lung morphogenesis	GO_0060441	1	0	1	0
+epithelial structure maintenance	GO_0010669	1	0	1	0
+epithelial fluid transport	GO_0042045	1	0	1	0
+epithelial cilium movement involved in determination of left/right asymmetry	GO_0060287	1	0	1	0
+epithelial cilium movement	GO_0003351	1	0	1	0
+epithelial cell development	GO_0002064	1	0	1	0
+embryonic epithelial tube formation	GO_0001838	1	0	1	0
+dorsal/ventral axis specification, ovarian follicular epithelium	GO_0008069	1	0	1	0
+dichotomous subdivision of prostate epithelial cord terminal unit	GO_0060524	1	0	1	0
+dichotomous subdivision of an epithelial terminal unit	GO_0060600	1	0	1	0
+columnar/cuboidal epithelial cell maturation	GO_0002069	1	0	1	0
+columnar/cuboidal epithelial cell differentiation	GO_0002065	1	0	1	0
+columnar/cuboidal epithelial cell development	GO_0002066	1	0	1	0
+collagen and cuticulin-based cuticle attachment to epithelium	GO_0040004	1	0	1	0
+chitin-based cuticle attachment to epithelium	GO_0040005	1	0	1	0
+branched duct epithelial cell fate determination, open tracheal system	GO_0046845	1	0	1	0
+branch elongation of an epithelium	GO_0060602	1	0	1	0
+adhesion of symbiont to host epithelial cell	GO_0044651	1	0	1	0
+venous endothelial cell migration involved in lymph vessel development	GO_0060855	0	1	0	0
+urothelial cell proliferation	GO_0050674	0	1	0	0
+ovarian follicle cell migration	GO_0007297	0	1	0	0
+melanocyte proliferation	GO_0097325	0	1	0	0
+melanocyte migration	GO_0097324	0	1	0	0
+mammary gland epithelial cell proliferation	GO_0033598	0	1	0	0
+main body follicle cell migration	GO_0060270	0	1	0	0
+lens epithelial cell proliferation	GO_0097166	0	1	0	0
+keratinocyte proliferation	GO_0043616	0	1	0	0
+keratinocyte migration	GO_0051546	0	1	0	0
+keratinocyte activation	GO_0032980	0	1	0	0
+intestinal epithelial cell migration	GO_0061582	0	1	0	0
+hepatocyte proliferation	GO_0072574	0	1	0	0
+hepatocyte homeostasis	GO_0036333	0	1	0	0
+glomerular visceral epithelial cell migration	GO_0090521	0	1	0	0
+epithelial cell proliferation involved in salivary gland morphogenesis	GO_0060664	0	1	0	0
+epithelial cell proliferation involved in renal tubule morphogenesis	GO_2001013	0	1	0	0
+epithelial cell proliferation involved in prostatic bud elongation	GO_0060517	0	1	0	0
+epithelial cell proliferation involved in prostate gland development	GO_0060767	0	1	0	0
+epithelial cell proliferation involved in mammary gland duct elongation	GO_0060750	0	1	0	0
+epithelial cell proliferation involved in mammary gland bud elongation	GO_0060650	0	1	0	0
+epithelial cell proliferation involved in lung morphogenesis	GO_0060502	0	1	0	0
+epithelial cell proliferation involved in lung bud dilation	GO_0060505	0	1	0	0
+epithelial cell proliferation involved in liver morphogenesis	GO_0072575	0	1	0	0
+epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	0	1	0	0
+epithelial cell proliferation	GO_0050673	0	1	0	0
+epithelial cell migration, open tracheal system	GO_0007427	0	1	0	0
+epithelial cell migration involved in proximal tubule morphogenesis	GO_0072159	0	1	0	0
+epithelial cell migration involved in nephron tubule morphogenesis	GO_0072155	0	1	0	0
+epithelial cell migration involved in metanephric proximal tubule morphogenesis	GO_0072292	0	1	0	0
+epithelial cell migration involved in metanephric nephron tubule morphogenesis	GO_0072290	0	1	0	0
+epithelial cell migration involved in metanephric distal tubule morphogenesis	GO_0072291	0	1	0	0
+epithelial cell migration involved in mesonephric proximal tubule morphogenesis	GO_0061280	0	1	0	0
+epithelial cell migration involved in mesonephric nephron tubule morphogenesis	GO_0061278	0	1	0	0
+epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	0	1	0	0
+epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	0	1	0	0
+epithelial cell migration	GO_0010631	0	1	0	0
+endothelial cell proliferation	GO_0001935	0	1	0	0
+endothelial cell migration	GO_0043542	0	1	0	0
+endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0
+endothelial cell chemotaxis	GO_0035767	0	1	0	0
+endothelial cell activation within high endothelial venule involved in immune response	GO_0002259	0	1	0	0
+endothelial cell activation involved in immune response	GO_0002264	0	1	0	0
+endothelial cell activation	GO_0042118	0	1	0	0
+corneal epithelial cell migration	GO_0061581	0	1	0	0
+colon epithelial cell migration	GO_0061580	0	1	0	0
+colon epithelial cell chemotaxis	GO_0061583	0	1	0	0
+centripetally migrating follicle cell migration	GO_0060269	0	1	0	0
+cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0
+cell migration involved in prostatic bud elongation	GO_0060518	0	1	0	0
+cell migration involved in mesendoderm migration	GO_0090134	0	1	0	0
+cell migration involved in mammary placode formation	GO_0060619	0	1	0	0
+border follicle cell migration	GO_0007298	0	1	0	0
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	0	0
+blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0
+blood vessel endothelial cell migration	GO_0043534	0	1	0	0
+Sertoli cell proliferation	GO_0060011	0	1	0	0

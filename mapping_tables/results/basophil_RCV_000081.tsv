@@ -1,0 +1,13 @@
+name	ID	manual	auto	checked	blacklisted
+serotonin secretion by basophil	GO_0002556	1	1	1	0
+histamine secretion by basophil	GO_0002557	1	1	1	0
+basophil mediated immunity	GO_0002560	1	1	1	0
+basophil degranulation	GO_0002561	1	1	1	0
+basophil chemotaxis	GO_0002575	1	1	1	0
+basophil activation	GO_0045575	1	1	1	0
+regulation of basophil differentiation	GO_0045640	1	0	1	0
+positive regulation of basophil differentiation	GO_0045642	1	0	1	0
+negative regulation of basophil differentiation	GO_0045641	1	0	1	0
+basophil differentiation	GO_0030221	1	0	1	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0
+basophil activation involved in immune response	GO_0002276	0	1	0	0

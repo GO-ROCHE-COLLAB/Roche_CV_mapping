@@ -1,0 +1,48 @@
+name	ID	manual	auto	checked	blacklisted
+serotonin secretion by mast cell	GO_0002552	1	1	1	0
+mast cell proliferation	GO_0070662	1	1	1	0
+mast cell mediated immunity	GO_0002448	1	1	1	0
+mast cell homeostasis	GO_0033023	1	1	1	0
+mast cell degranulation	GO_0043303	1	1	1	0
+mast cell chemotaxis	GO_0002551	1	1	1	0
+mast cell activation	GO_0045576	1	1	1	0
+regulation of mast cell proliferation	GO_0070666	1	0	1	0
+regulation of mast cell differentiation	GO_0060375	1	0	1	0
+regulation of mast cell degranulation	GO_0043304	1	0	1	0
+regulation of mast cell cytokine production	GO_0032763	1	0	1	0
+regulation of mast cell chemotaxis	GO_0060753	1	0	1	0
+regulation of mast cell apoptotic process	GO_0033025	1	0	1	0
+regulation of mast cell activation	GO_0033003	1	0	1	0
+protein localization to mast cell secretory granule	GO_0033367	1	0	1	0
+protease localization to mast cell secretory granule	GO_0033368	1	0	1	0
+positive regulation of mast cell proliferation	GO_0070668	1	0	1	0
+positive regulation of mast cell differentiation	GO_0060376	1	0	1	0
+positive regulation of mast cell degranulation in other organism	GO_0035896	1	0	1	0
+positive regulation of mast cell degranulation	GO_0043306	1	0	1	0
+positive regulation of mast cell cytokine production	GO_0032765	1	0	1	0
+positive regulation of mast cell chemotaxis	GO_0060754	1	0	1	0
+positive regulation of mast cell apoptotic process	GO_0033027	1	0	1	0
+positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway	GO_0038097	1	0	1	0
+positive regulation of mast cell activation	GO_0033005	1	0	1	0
+negative regulation of mast cell proliferation	GO_0070667	1	0	1	0
+negative regulation of mast cell differentiation	GO_0060377	1	0	1	0
+negative regulation of mast cell degranulation	GO_0043305	1	0	1	0
+negative regulation of mast cell cytokine production	GO_0032764	1	0	1	0
+negative regulation of mast cell chemotaxis	GO_0060755	1	0	1	0
+negative regulation of mast cell apoptotic process	GO_0033026	1	0	1	0
+negative regulation of mast cell activation	GO_0033004	1	0	1	0
+modulation of mast cell degranulation in other organism	GO_0035895	1	0	1	0
+mast cell secretory granule organization	GO_0033364	1	0	1	0
+mast cell differentiation	GO_0060374	1	0	1	0
+mast cell cytokine production	GO_0032762	1	0	1	0
+mast cell apoptotic process	GO_0033024	1	0	1	0
+maintenance of protein location in mast cell secretory granule	GO_0033370	1	0	1	0
+maintenance of protease location in mast cell secretory granule	GO_0033373	1	0	1	0
+establishment of protein localization to mast cell secretory granule	GO_0033369	1	0	1	0
+establishment of protease localization to mast cell secretory granule	GO_0033372	1	0	1	0
+envenomation resulting in positive regulation of mast cell degranulation in other organism	GO_0044480	1	0	1	0
+envenomation resulting in modulation of mast cell degranulation in other organism	GO_0044479	1	0	1	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0
+mast cell migration	GO_0097531	0	1	0	0
+mast cell activation involved in immune response	GO_0002279	0	1	0	0
+histamine secretion by mast cell	GO_0002553	0	1	0	0

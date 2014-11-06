@@ -1,0 +1,202 @@
+name	ID	manual	auto	checked	blacklisted
+lymphocyte proliferation	GO_0046651	1	1	1	0
+lymphocyte migration into lymphoid organs	GO_0097021	1	1	1	0
+lymphocyte migration into lymph node	GO_0097022	1	1	1	0
+lymphocyte migration	GO_0072676	1	1	1	0
+lymphocyte mediated immunity	GO_0002449	1	1	1	0
+lymphocyte homeostasis	GO_0002260	1	1	1	0
+lymphocyte differentiation	GO_0030098	1	1	1	0
+lymphocyte chemotaxis	GO_0048247	1	1	1	0
+lymphocyte activation	GO_0046649	1	1	1	0
+lymphocyte costimulation	GO_0031294	1	0	1	0
+lymphocyte apoptotic process	GO_0070227	1	0	1	0
+lymphocyte anergy	GO_0002249	1	0	1	0
+lymphocyte aggregation	GO_0071593	1	0	1	0
+type IV hypersensitivity	GO_0001806	0	1	0	0
+type IIb hypersensitivity	GO_0001795	0	1	0	0
+type IIa hypersensitivity	GO_0001794	0	1	0	0
+type III hypersensitivity	GO_0001802	0	1	0	0
+type II hypersensitivity	GO_0002445	0	1	0	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0
+type I hypersensitivity	GO_0016068	0	1	0	0
+transitional two stage B cell differentiation	GO_0002334	0	1	0	0
+transitional stage B cell differentiation	GO_0002332	0	1	0	0
+transitional one stage B cell differentiation	GO_0002333	0	1	0	0
+thymocyte migration	GO_0072679	0	1	0	0
+thymic T cell selection	GO_0045061	0	1	0	0
+suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0
+regulatory T cell differentiation	GO_0045066	0	1	0	0
+pre-B cell differentiation	GO_0002329	0	1	0	0
+positive thymic T cell selection	GO_0045059	0	1	0	0
+positive extrathymic T cell selection	GO_0045067	0	1	0	0
+positive T cell selection	GO_0043368	0	1	0	0
+plasma cell differentiation	GO_0002317	0	1	0	0
+peripheral T cell tolerance induction	GO_0002458	0	1	0	0
+peripheral B cell tolerance induction	GO_0002451	0	1	0	0
+peripheral B cell selection	GO_0002343	0	1	0	0
+peripheral B cell positive selection	GO_0002350	0	1	0	0
+peripheral B cell negative selection	GO_0002356	0	1	0	0
+peripheral B cell anergy	GO_0002453	0	1	0	0
+negative thymic T cell selection	GO_0045060	0	1	0	0
+negative extrathymic T cell selection	GO_0045068	0	1	0	0
+negative T cell selection	GO_0043383	0	1	0	0
+natural killer cell proliferation involved in immune response	GO_0002324	0	1	0	0
+natural killer cell proliferation	GO_0001787	0	1	0	0
+natural killer cell mediated immunity	GO_0002228	0	1	0	0
+natural killer cell mediated immune response to tumor cell	GO_0002423	0	1	0	0
+natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	0	0
+natural killer cell mediated cytotoxicity	GO_0042267	0	1	0	0
+natural killer cell differentiation involved in immune response	GO_0002325	0	1	0	0
+natural killer cell differentiation	GO_0001779	0	1	0	0
+natural killer cell degranulation	GO_0043320	0	1	0	0
+natural killer cell cytokine production	GO_0002370	0	1	0	0
+natural killer cell chemotaxis	GO_0035747	0	1	0	0
+natural killer cell activation involved in immune response	GO_0002323	0	1	0	0
+natural killer cell activation	GO_0030101	0	1	0	0
+mucosal lymphocyte homeostasis	GO_0002261	0	1	0	0
+memory T cell proliferation	GO_0061485	0	1	0	0
+memory T cell extravasation	GO_0035683	0	1	0	0
+memory T cell differentiation	GO_0043379	0	1	0	0
+memory T cell activation	GO_0035709	0	1	0	0
+memory B cell differentiation	GO_0002319	0	1	0	0
+mature natural killer cell chemotaxis	GO_0035782	0	1	0	0
+mature B cell differentiation involved in immune response	GO_0002313	0	1	0	0
+mature B cell differentiation	GO_0002335	0	1	0	0
+marginal zone B cell differentiation	GO_0002315	0	1	0	0
+lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0
+lymphocyte activation involved in immune response	GO_0002285	0	1	0	0
+isotype switching to IgG isotypes	GO_0048291	0	1	0	0
+isotype switching to IgE isotypes	GO_0048289	0	1	0	0
+isotype switching to IgD isotypes	GO_0048292	0	1	0	0
+isotype switching to IgA isotypes	GO_0048290	0	1	0	0
+isotype switching	GO_0045190	0	1	0	0
+interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
+immunoglobulin-mediated neutralization	GO_0097282	0	1	0	0
+immunoglobulin mediated immune response	GO_0016064	0	1	0	0
+immune complex formation	GO_0097281	0	1	0	0
+immature T cell proliferation in thymus	GO_0033080	0	1	0	0
+immature T cell proliferation	GO_0033079	0	1	0	0
+immature B cell differentiation	GO_0002327	0	1	0	0
+humoral immune response mediated by circulating immunoglobulin	GO_0002455	0	1	0	0
+helper T cell extravasation	GO_0035684	0	1	0	0
+helper T cell chemotaxis	GO_0035704	0	1	0	0
+germinal center B cell differentiation	GO_0002314	0	1	0	0
+gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0
+gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0
+gamma-delta T cell proliferation	GO_0046630	0	1	0	0
+gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0
+gamma-delta T cell differentiation	GO_0042492	0	1	0	0
+gamma-delta T cell activation involved in immune response	GO_0002290	0	1	0	0
+gamma-delta T cell activation	GO_0046629	0	1	0	0
+follicular B cell differentiation	GO_0002316	0	1	0	0
+fibronectin-dependent thymocyte migration	GO_0072681	0	1	0	0
+extrathymic T cell selection	GO_0045062	0	1	0	0
+extrathymic T cell differentiation	GO_0033078	0	1	0	0
+extracellular matrix-dependent thymocyte migration	GO_0072680	0	1	0	0
+evasion by virus of host natural killer cell activity	GO_0039671	0	1	0	0
+dendritic cell proliferation	GO_0044565	0	1	0	0
+cytotoxic T cell differentiation	GO_0045065	0	1	0	0
+cytotoxic T cell degranulation	GO_0043316	0	1	0	0
+central B cell selection	GO_0002340	0	1	0	0
+central B cell positive selection	GO_0002348	0	1	0	0
+central B cell negative selection	GO_0002354	0	1	0	0
+central B cell anergy	GO_0002341	0	1	0	0
+beta selection	GO_0043366	0	1	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0
+alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	0	0
+alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	0	0
+alpha-beta T cell proliferation	GO_0046633	0	1	0	0
+alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0
+alpha-beta T cell differentiation	GO_0046632	0	1	0	0
+alpha-beta T cell activation involved in immune response	GO_0002287	0	1	0	0
+alpha-beta T cell activation by superantigen	GO_0042722	0	1	0	0
+alpha-beta T cell activation	GO_0046631	0	1	0	0
+activated T cell proliferation	GO_0050798	0	1	0	0
+activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0
+activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0
+T-helper cell differentiation	GO_0042093	0	1	0	0
+T-helper 2 cell differentiation	GO_0045064	0	1	0	0
+T-helper 2 cell cytokine production	GO_0035745	0	1	0	0
+T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0
+T-helper 2 cell activation	GO_0035712	0	1	0	0
+T-helper 17 cell extravasation	GO_0035699	0	1	0	0
+T-helper 17 cell differentiation	GO_0072539	0	1	0	0
+T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0
+T-helper 1 cell extravasation	GO_0035687	0	1	0	0
+T-helper 1 cell differentiation	GO_0045063	0	1	0	0
+T-helper 1 cell cytokine production	GO_0035744	0	1	0	0
+T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0
+T-helper 1 cell activation	GO_0035711	0	1	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	0	0
+T cell tolerance induction to tumor cell	GO_0002411	0	1	0	0
+T cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002403	0	1	0	0
+T cell selection	GO_0045058	0	1	0	0
+T cell proliferation involved in immune response	GO_0002309	0	1	0	0
+T cell proliferation	GO_0042098	0	1	0	0
+T cell migration	GO_0072678	0	1	0	0
+T cell mediated immunity	GO_0002456	0	1	0	0
+T cell mediated immune response to tumor cell	GO_0002424	0	1	0	0
+T cell mediated cytotoxicity directed against tumor cell target	GO_0002419	0	1	0	0
+T cell mediated cytotoxicity	GO_0001913	0	1	0	0
+T cell homeostatic proliferation	GO_0001777	0	1	0	0
+T cell homeostasis	GO_0043029	0	1	0	0
+T cell extravasation	GO_0072683	0	1	0	0
+T cell differentiation involved in immune response	GO_0002292	0	1	0	0
+T cell differentiation in thymus	GO_0033077	0	1	0	0
+T cell differentiation	GO_0030217	0	1	0	0
+T cell cytokine production	GO_0002369	0	1	0	0
+T cell costimulation	GO_0031295	0	1	0	0
+T cell chemotaxis	GO_0010818	0	1	0	0
+T cell anergy	GO_0002870	0	1	0	0
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0
+T cell activation involved in immune response	GO_0002286	0	1	0	0
+T cell activation	GO_0042110	0	1	0	0
+NK T cell proliferation involved in immune response	GO_0002289	0	1	0	0
+NK T cell proliferation	GO_0001866	0	1	0	0
+NK T cell differentiation	GO_0001865	0	1	0	0
+NK T cell activation involved in immune response	GO_0002288	0	1	0	0
+NK T cell activation	GO_0051132	0	1	0	0
+CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	0	0
+CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	0	0
+CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	0	0
+CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_0035698	0	1	0	0
+CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	0	0
+CD8-positive, alpha-beta T cell proliferation	GO_0035740	0	1	0	0
+CD8-positive, alpha-beta T cell extravasation	GO_0035697	0	1	0	0
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0
+CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	0	0
+CD8-positive, alpha-beta T cell activation	GO_0036037	0	1	0	0
+CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	0	0
+CD4-positive, alpha-beta T cell proliferation	GO_0035739	0	1	0	0
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0
+CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	0	0
+CD4-positive, alpha-beta T cell cytokine production	GO_0035743	0	1	0	0
+CD4-positive, alpha-beta T cell costimulation	GO_0035783	0	1	0	0
+CD4-positive, alpha-beta T cell activation	GO_0035710	0	1	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	0	0
+CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	0	0
+B-1b B cell differentiation	GO_0002338	0	1	0	0
+B-1a B cell differentiation	GO_0002337	0	1	0	0
+B-1 B cell proliferation	GO_0002359	0	1	0	0
+B-1 B cell homeostasis	GO_0001922	0	1	0	0
+B-1 B cell differentiation	GO_0001923	0	1	0	0
+B cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002402	0	1	0	0
+B cell selection	GO_0002339	0	1	0	0
+B cell proliferation involved in immune response	GO_0002322	0	1	0	0
+B cell proliferation	GO_0042100	0	1	0	0
+B cell positive selection	GO_0002346	0	1	0	0
+B cell negative selection	GO_0002352	0	1	0	0
+B cell mediated immunity	GO_0019724	0	1	0	0
+B cell homeostatic proliferation	GO_0002358	0	1	0	0
+B cell homeostasis	GO_0001782	0	1	0	0
+B cell differentiation	GO_0030183	0	1	0	0
+B cell cytokine production	GO_0002368	0	1	0	0
+B cell costimulation	GO_0031296	0	1	0	0
+B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0
+B cell chemotaxis	GO_0035754	0	1	0	0
+B cell anergy	GO_0002515	0	1	0	0
+B cell affinity maturation	GO_0002344	0	1	0	0
+B cell activation involved in immune response	GO_0002312	0	1	0	0
+B cell activation	GO_0042113	0	1	0	0

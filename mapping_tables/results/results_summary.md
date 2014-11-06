@@ -28,6 +28,24 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/68)
 * Status: closed
 
+#### monocyte RCV_000238
+* Key class: [monocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000576)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a monocyte participates.
+* map summary: Roche_cvt: RCV_000238; class_expression RO_0000057 some CL_0000576; manual_list_count 23, generated_list_count 4
+* [Results](monocyte_RCV_000238.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### pancreatic E cell RCV_000271
+* Key class: [pancreatic epsilon cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0005019)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a pancreatic epsilon cell participates.
+* map summary: Roche_cvt: RCV_000271; class_expression RO_0000057 some CL_0005019; manual_list_count 3, generated_list_count 0
+* [Results](pancreatic_E_cell_RCV_000271.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### glutamine metabolism RCV_000179
 * Key class: [glutamine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006541)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -107,6 +125,24 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/37)
 * Status: open
 
+#### platelet RCV_000281
+* Key class: [platelet](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000233)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a platelet participates.
+* map summary: Roche_cvt: RCV_000281; class_expression RO_0000057 some CL_0000233; manual_list_count 12, generated_list_count 5
+* [Results](platelet_RCV_000281.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### keratinocyte RCV_000213
+* Key class: [keratinocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000312)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a keratinocyte participates.
+* map summary: Roche_cvt: RCV_000213; class_expression RO_0000057 some CL_0000312; manual_list_count 9, generated_list_count 3
+* [Results](keratinocyte_RCV_000213.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### inositol metabolism RCV_000200
 * Key class: [inositol metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006020)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -178,6 +214,15 @@
 * [Results](fatty_acid_metabolism_RCV_000164.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/99)
 * Status: open
+
+#### hepatic stellate cell RCV_000188
+* Key class: [hepatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000632)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a hepatic stellate cell participates.
+* map summary: Roche_cvt: RCV_000188; class_expression RO_0000057 some CL_0000632; manual_list_count 4, generated_list_count 1
+* [Results](hepatic_stellate_cell_RCV_000188.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### neuron development RCV_000244
 * Key class: [](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048666)
@@ -266,6 +311,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/93)
 * Status: open
 
+#### myoblast RCV_000240
+* Key class: [myoblast](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000056)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a myoblast participates.
+* map summary: Roche_cvt: RCV_000240; class_expression RO_0000057 some CL_0000056; manual_list_count 30, generated_list_count 4
+* [Results](myoblast_RCV_000240.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### Notch signaling pathway RCV_000027
 * Key class: [Notch signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007219)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -283,6 +337,24 @@
 * [Results](insulin_metabolism_RCV_000202.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/103)
 * Status: open
+
+#### mast cell RCV_000230
+* Key class: [mast cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000097)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a mast cell participates.
+* map summary: Roche_cvt: RCV_000230; class_expression RO_0000057 some CL_0000097; manual_list_count 43, generated_list_count 11
+* [Results](mast_cell_RCV_000230.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### stem cell RCV_000313
+* Key class: [stem cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000034)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a stem cell participates.
+* map summary: Roche_cvt: RCV_000313; class_expression RO_0000057 some CL_0000034; manual_list_count 20, generated_list_count 69
+* [Results](stem_cell_RCV_000313.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### vitamin A RCV_000351
 * Key class: [vitamin A](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:12777)
@@ -329,6 +401,24 @@
 * [Results](DNA_silencing_RCV_000012.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/61)
 * Status: open
+
+#### oocyte RCV_000256
+* Key class: [oocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000023)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a oocyte participates.
+* map summary: Roche_cvt: RCV_000256; class_expression RO_0000057 some CL_0000023; manual_list_count 18, generated_list_count 1
+* [Results](oocyte_RCV_000256.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### pancreatic PP cell RCV_000272
+* Key class: [pancreatic PP cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0002275)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a pancreatic PP cell participates.
+* map summary: Roche_cvt: RCV_000272; class_expression RO_0000057 some CL_0002275; manual_list_count 3, generated_list_count 0
+* [Results](pancreatic_PP_cell_RCV_000272.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### TRAIL production RCV_000043
 * Key class: [TRAIL biosynthetic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045553)
@@ -452,6 +542,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/90)
 * Status: open
 
+#### pancreatic A cell RCV_000269
+* Key class: [pancreatic A cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000171)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a pancreatic A cell participates.
+* map summary: Roche_cvt: RCV_000269; class_expression RO_0000057 some CL_0000171; manual_list_count 3, generated_list_count 0
+* [Results](pancreatic_A_cell_RCV_000269.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### RNA interference RCV_000031
 * Key class: [RNA interference](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016246)
 * Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
@@ -507,6 +606,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/81)
 * Status: closed
 
+#### pancreas B cells RCV_000265
+* Key class: [type B pancreatic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000169)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a type B pancreatic cell participates.
+* map summary: Roche_cvt: RCV_000265; class_expression RO_0000057 some CL_0000169; manual_list_count 1, generated_list_count 0
+* [Results](pancreas_B_cells_RCV_000265.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### lung development RCV_000224
 * Key class: [lung development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030324)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -549,6 +657,15 @@
 * Definition: oogenesis OR a part of oogenesis OR a process that regulates oogenesis
 * map summary: Roche_cvt: RCV_000257; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048477; manual_list_count 4, generated_list_count 117
 * [Results](oogenesis_RCV_000257.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### eosinophil RCV_000154
+* Key class: [eosinophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000771)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a eosinophil participates.
+* map summary: Roche_cvt: RCV_000154; class_expression RO_0000057 some CL_0000771; manual_list_count 21, generated_list_count 7
+* [Results](eosinophil_RCV_000154.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
 
@@ -643,6 +760,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/79)
 * Status: closed
 
+#### stellate cell RCV_000312
+* Key class: [stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000122)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a stellate cell participates.
+* map summary: Roche_cvt: RCV_000312; class_expression RO_0000057 some CL_0000122; manual_list_count 1, generated_list_count 0
+* [Results](stellate_cell_RCV_000312.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### GTPase activity RCV_000020
 * Key class: [GTPase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003924)
 * Pattern: [is_a_OR_part_of_OR_regulates_OR_capable_of](../../patterns/is_a_OR_part_of_OR_regulates_OR_capable_of.md)
@@ -676,6 +802,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/85)
 * Status: closed
 
+#### lymphocyte RCV_000226
+* Key class: [lymphocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000542)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a lymphocyte participates.
+* map summary: Roche_cvt: RCV_000226; class_expression RO_0000057 some CL_0000542; manual_list_count 13, generated_list_count 197
+* [Results](lymphocyte_RCV_000226.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### thiamin metabolism RCV_000326
 * Key class: [thiamine-containing compound metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042723)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -693,6 +828,15 @@
 * [Results](PPAR_pathway_RCV_000030.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/54)
 * Status: closed
+
+#### granulocyte RCV_000183
+* Key class: [granulocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000094)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a granulocyte participates.
+* map summary: Roche_cvt: RCV_000183; class_expression RO_0000057 some CL_0000094; manual_list_count 12, generated_list_count 31
+* [Results](granulocyte_RCV_000183.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### brain development RCV_000091
 * Key class: [brain development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007420)
@@ -729,6 +873,15 @@
 * [Results](DNA_replication_RCV_000010.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/59)
 * Status: closed
+
+#### mesangial cell RCV_000232
+* Key class: [mesangial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000650)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a mesangial cell participates.
+* map summary: Roche_cvt: RCV_000232; class_expression RO_0000057 some CL_0000650; manual_list_count 4, generated_list_count 0
+* [Results](mesangial_cell_RCV_000232.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### toluene metabolism RCV_000330
 * Key class: [toluene metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0018970)
@@ -806,6 +959,15 @@
 * Notes: Need union of Schizosaccharomycetes with Saccharomycetes ? 
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
+#### pancreatic D cell RCV_000270
+* Key class: [pancreatic D cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000173)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a pancreatic D cell participates.
+* map summary: Roche_cvt: RCV_000270; class_expression RO_0000057 some CL_0000173; manual_list_count 3, generated_list_count 0
+* [Results](pancreatic_D_cell_RCV_000270.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### BMP pathway RCV_000003
 * Key class: [BMP pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030509)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -824,6 +986,24 @@
 * [Results](BDNF_pathway_RCV_000002.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/41)
 * Status: closed
+
+#### erythrocyte RCV_000160
+* Key class: [](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000232)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a  participates.
+* map summary: Roche_cvt: RCV_000160; class_expression RO_0000057 some CL_0000232; manual_list_count 7, generated_list_count 1
+* [Results](erythrocyte_RCV_000160.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### hepatocyte RCV_000189
+* Key class: [hepatocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000182)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a hepatocyte participates.
+* map summary: Roche_cvt: RCV_000189; class_expression RO_0000057 some CL_0000182; manual_list_count 4, generated_list_count 1
+* [Results](hepatocyte_RCV_000189.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### TNF pathway RCV_000042
 * Key class: [tumor necrosis factor-mediated signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0033209)
@@ -849,6 +1029,15 @@
 * Definition: A process in which some vitamin K participates.
 * map summary: Roche_cvt: RCV_000354; class_expression RO_0000057 some CHEBI_28384; manual_list_count 3, generated_list_count 5
 * [Results](vitamin_K_RCV_000354.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### basophil RCV_000081
+* Key class: [basophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000767)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a basophil participates.
+* map summary: Roche_cvt: RCV_000081; class_expression RO_0000057 some CL_0000767; manual_list_count 10, generated_list_count 8
+* [Results](basophil_RCV_000081.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
 
@@ -892,6 +1081,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/74)
 * Status: closed
 
+#### cerebellar stellate cell RCV_000132
+* Key class: [cerebellar stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0010010)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a cerebellar stellate cell participates.
+* map summary: Roche_cvt: RCV_000132; class_expression RO_0000057 some CL_0010010; manual_list_count 1, generated_list_count 0
+* [Results](cerebellar_stellate_cell_RCV_000132.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### arginine metabolism RCV_000070
 * Key class: [arginine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006525)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -909,6 +1107,15 @@
 * [Results](VEGF_pathway_RCV_000045.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/75)
 * Status: closed
+
+#### macrophage RCV_000229
+* Key class: [macrophage](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000235)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a macrophage participates.
+* map summary: Roche_cvt: RCV_000229; class_expression RO_0000057 some CL_0000235; manual_list_count 67, generated_list_count 6
+* [Results](macrophage_RCV_000229.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### DNA damage RCV_000006
 * Key class: [DNA damage response, detection of DNA damage](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042769)
@@ -945,4 +1152,13 @@
 * [Results](peptide_metabolism_RCV_000274.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/101)
 * Status: open
+
+#### epithelial cells RCV_000158
+* Key class: [epithelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000066)
+* Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
+* Definition: A process in which a epithelial cell participates.
+* map summary: Roche_cvt: RCV_000158; class_expression RO_0000057 some CL_0000066; manual_list_count 99, generated_list_count 57
+* [Results](epithelial_cells_RCV_000158.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
