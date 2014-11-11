@@ -11,31 +11,31 @@ negative regulation of granulocyte colony-stimulating factor production	GO_00716
 granulocyte differentiation	GO_0030851	1	0	1	0
 granulocyte colony-stimulating factor signaling pathway	GO_0038158	1	0	1	0
 granulocyte colony-stimulating factor production	GO_0071611	1	0	1	0
-type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0
-serotonin secretion by basophil	GO_0002556	0	1	0	0
-neutrophil migration	GO_1990266	0	1	0	0
-neutrophil mediated killing of symbiont cell	GO_0070943	0	1	0	0
-neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	0	0
-neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	0	0
-neutrophil mediated killing of fungus	GO_0070947	0	1	0	0
-neutrophil mediated killing of bacterium	GO_0070944	0	1	0	0
-neutrophil mediated immunity	GO_0002446	0	1	0	0
-neutrophil mediated cytotoxicity	GO_0070942	0	1	0	0
-neutrophil homeostasis	GO_0001780	0	1	0	0
-neutrophil degranulation	GO_0043312	0	1	0	0
-neutrophil chemotaxis	GO_0030593	0	1	0	0
-neutrophil activation involved in immune response	GO_0002283	0	1	0	0
-neutrophil activation	GO_0042119	0	1	0	0
-histamine secretion by basophil	GO_0002557	0	1	0	0
-granulocyte migration	GO_0097530	0	1	0	0
-eosinophil migration	GO_0072677	0	1	0	0
-eosinophil mediated immunity	GO_0002447	0	1	0	0
-eosinophil extravasation	GO_0072682	0	1	0	0
-eosinophil degranulation	GO_0043308	0	1	0	0
-eosinophil activation involved in immune response	GO_0002278	0	1	0	0
-eosinophil activation	GO_0043307	0	1	0	0
-basophil mediated immunity	GO_0002560	0	1	0	0
-basophil degranulation	GO_0002561	0	1	0	0
-basophil chemotaxis	GO_0002575	0	1	0	0
-basophil activation involved in immune response	GO_0002276	0	1	0	0
-basophil activation	GO_0045575	0	1	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0
+serotonin secretion by basophil	GO_0002556	0	1	1	0
+neutrophil migration	GO_1990266	0	1	1	0
+neutrophil mediated killing of symbiont cell	GO_0070943	0	1	1	0
+neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	1	0
+neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	1	0
+neutrophil mediated killing of fungus	GO_0070947	0	1	1	0
+neutrophil mediated killing of bacterium	GO_0070944	0	1	1	0
+neutrophil mediated immunity	GO_0002446	0	1	1	0
+neutrophil mediated cytotoxicity	GO_0070942	0	1	1	0
+neutrophil homeostasis	GO_0001780	0	1	1	0
+neutrophil degranulation	GO_0043312	0	1	1	0
+neutrophil chemotaxis	GO_0030593	0	1	1	0
+neutrophil activation involved in immune response	GO_0002283	0	1	1	0
+neutrophil activation	GO_0042119	0	1	1	0
+histamine secretion by basophil	GO_0002557	0	1	1	0
+granulocyte migration	GO_0097530	0	1	1	0
+eosinophil migration	GO_0072677	0	1	1	0
+eosinophil mediated immunity	GO_0002447	0	1	1	0
+eosinophil extravasation	GO_0072682	0	1	1	0
+eosinophil degranulation	GO_0043308	0	1	1	0
+eosinophil activation involved in immune response	GO_0002278	0	1	1	0
+eosinophil activation	GO_0043307	0	1	1	0
+basophil mediated immunity	GO_0002560	0	1	1	0
+basophil degranulation	GO_0002561	0	1	1	0
+basophil chemotaxis	GO_0002575	0	1	1	0
+basophil activation involved in immune response	GO_0002276	0	1	1	0
+basophil activation	GO_0045575	0	1	1	0

@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted
 siRNA loading onto RISC involved in chromatin silencing by small RNA	GO_0070923	1	1	1	0
-regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	1	1	1	1
+regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	1	1	1	0
 regulation of methylation-dependent chromatin silencing	GO_0090308	1	1	1	0
 production of siRNA involved in chromatin silencing by small RNA	GO_0070919	1	1	1	0
 positive regulation of methylation-dependent chromatin silencing	GO_0090309	1	1	1	0
@@ -16,7 +16,7 @@ heterochromatin maintenance involved in chromatin silencing	GO_0070870	1	1	1	0
 establishment of chromatin silencing at silent mating-type cassette	GO_0035389	1	1	1	0
 establishment of chromatin silencing	GO_0006343	1	1	1	0
 C-5 methylation on cytosine involved in chromatin silencing	GO_0090115	1	1	1	0
-regulation of production of small RNA involved in gene silencing by RNA	GO_0070920	1	0	1	0
+regulation of production of small RNA involved in gene silencing by RNA	GO_0070920	1	0	1	1
 regulation of posttranscriptional gene silencing	GO_0060147	1	0	1	1
 regulation of gene silencing by miRNA	GO_0060964	1	0	1	1
 regulation of gene silencing by RNA	GO_0060966	1	0	1	1

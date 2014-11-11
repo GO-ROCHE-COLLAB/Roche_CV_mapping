@@ -1,7 +1,7 @@
 name	ID	manual	auto	checked	blacklisted
 somatic cell DNA recombination	GO_0016444	1	1	1	0
 non-replicative transposition, DNA-mediated	GO_0098038	1	1	1	0
-transposon integration	GO_0070893	1	0	1	0
+transposon integration	GO_0070893	1	0	0	1
 transposition, DNA-mediated	GO_0006313	0	1	0	0
 telomere maintenance via recombination	GO_0000722	0	1	0	0
 somatic recombination of immunoglobulin genes involved in immune response	GO_0002204	0	1	0	0
