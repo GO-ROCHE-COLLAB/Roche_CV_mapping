@@ -12,7 +12,6 @@ Writes ticket URL and state back to owl_map
 
 
 ic = issueConn('GO-ROCHE-COLLAB', 'Roche_CV_mapping', 'dosumis')
-t = ic.set_credentials_from_cl()
 
 owlMap = rcd('../mapping_tables/', 'owl_map.tsv', 'RCV_ID') # dict of dicts.
 for RCV_id, rd in owlMap.rowColDict.items():

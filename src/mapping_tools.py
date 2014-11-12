@@ -20,13 +20,15 @@ def load_ont(url):
 #	return "(has_participant some) %s or (regulates some (has_particpant some %s))" % (key_class, key_class) # If using this pattern, will need OWLtools/HermiT.
 class mappingTabs():
 	"""A container for ontology and tables used in mapping + methods on these tables."""
-	def __init__(self, manual_map, owl_map, go):
+	# TODO: add in Roche_Map - as this records whether Roche term is still valid!
+	def __init__(self, manual_map, owl_map, RCV, go):
 		"""manual_map is a list of dicts containing the manual mapping table;
 		 owl_map is a dict(row) of dicts(columns) containing the OWL mapping table,
 		 go is a Brain object containing the ontology used for mapping."""
 		self.manual_map = manual_map
 		self.owl_map = owl_map
 		self.go = go
+		self.obs_status = {} # A dictionary of manually mapped GO terms, with value = is obsolete True/False 
 		self.update_manual_map_obs_stat()
 	
 	def RCV_id_2_owlMap(self, RCV_id):
@@ -41,7 +43,6 @@ class mappingTabs():
 	
 	def update_manual_map_obs_stat(self):
 		"""Does what is says on the tin"""
-		# Right now jsut warns.  Perhaps add extra column to manual map?
 		gonto = self.go.getOntology()
 		gogw = OWLGraphWrapper(gonto)
 		for c in self.manual_map:
@@ -50,6 +51,9 @@ class mappingTabs():
 			if gogw.isObsolete(clazo):
 				warnings.warn("Obsolete class: %s"  %  c['GO_ID'])
 				c['STATUS'] = 0
+				self.obs_status[c['GO_ID']] = True
+			else:
+				self.obs_status[c['GO_ID']] = False
 
 class map_obj:
 	# Should this work on ids or names?  Seems wasteful to store both.
@@ -57,12 +61,10 @@ class map_obj:
 		return "Roche_cvt: %s; class_expression %s; manual_list_count %d, generated_list_count %d" % (self.RCV_id, self.class_expression, len(self.manual_list), len(self.generated_list))
 	def __init__ (self, RCV_id, mapping_tabs, pattern_path):
 		# Key on ID. Lookup is responsibility of calling script.
-		# check go is a brain OR owl-api ontology object
-		## Wouldn't it be better to pass just the row(s) required?
 		owl_map = mapping_tabs.RCV_id_2_owlMap(RCV_id)
 		self.go = mapping_tabs.go
 		"""Initialise map object: go = a Brain ontology object, 'RCV_ID' is the Roche term ID, manual_map is the mapping table as a list of dicts, keyed on column, owl_map is a row_column_dict of the owl mapping table."""
-		manual_map = mapping_tabs.RCV_id_2_man_map(RCV_id)
+		self.obs_status = mapping_tabs.obs_status
 		self.manual_list = []# Old manually curated mapping from Roche
 		self.generated_list = [] # Results of running OWL queries 
 		self.blacklist = []  # Terms blacklisted by Roche annotators
@@ -73,6 +75,7 @@ class map_obj:
 		dc = { 'key_class': ( owl_map['Key Class Name'], owl_map['Key Class ID'] )}
 		self.appl_pattern  = gen_applied_pattern_from_json(pattern_path + self.pattern_name + ".json", dc, self.go)
 		self.class_expression = self.appl_pattern.equivalentTo
+		manual_map = mapping_tabs.RCV_id_2_man_map(RCV_id)
 		for m in manual_map:
 			self.manual_list.append(m['GO_ID'])
 		self.update_map()
@@ -99,35 +102,38 @@ class map_obj:
 		
 	def gen_report(self, report_tab):
 		"""Generate report for 'Roche CV term'.  Arg (report) = a results table as row_column_dict."""
-		### Spec - this only needs to remember content if there is a 1 in either checked or blacklisted.
-		### It should never make inferences about 
+		### Spec - needs to remember content if there is a 1 in either checked or blacklisted.
+		### DONE Overloading blacklist: blacklist obsolete terms.  (Really would be better to have extra column!)
+		
 		keys = set(self.generated_list) | set(self.manual_list) # Make union of two lists => complete set of keys.
 		for key in keys:
 			# Add key for row, if not already present
 			if key not in report_tab:
-				report_tab[key] = { 'checked': 0, 'blacklisted': 0 }
+				report_tab[key] = { 'checked': 0, 'blacklisted': 0 } # Initialize 
 			# Populate row
 			report_tab[key]['name'] = self.id_name[key]
 			report_tab[key]['ID'] = key
 			if key in self.manual_list:
 				report_tab[key]['manual'] = 1
 				report_tab[key]['checked'] = 1
+				# black list obsolete GO terms in manual mapping.
+				if self.obs_status[key]:
+					report_tab[key]['blacklisted'] = 1
 			else:
 				report_tab[key]['manual'] = 0
 			if key in self.generated_list:
 				report_tab[key]['auto'] = 1
 			else:
 				report_tab[key]['auto'] = 0
-			# 
 			if report_tab[key]['blacklisted']:
-				self.blacklist.append(key)  # Not using this right now...
+				self.blacklist.append(key)  # Not using this yet...
 			
-			#  Need something 
+			# Delete mapping from report if no longer in manual or auto.
 			rtk = report_tab.keys()
 			for k in rtk:
 				if k not in keys:
 					del report_tab[k]
-					
+		
 
 	def update_id_name(self):
 		# Perhaps should be dealt with outside?  Could have a class object.  But then might be easier to do all this purely in OWL/Brain!

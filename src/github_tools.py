@@ -24,6 +24,9 @@ class issueConn:
         self.issues_url = "{0}/{1}".format(self.GITHUB_URL, "/".join(
              ["repos", org, repo, "issues"]))
         self.usr = usr
+        self.set_credentials_from_cl()
+        self.all_issues = []
+        self.get_all_tickets()
         # Add in a connection test here?
     
     def test_conn(self):
@@ -79,8 +82,7 @@ class issueConn:
           "body": "This ticket is intended for discussion of the definition and mapping of %s\n" \
           "* [Summary of mapping](%s)\n" \
           "* [Results table for mapping](%s)" % (termstring, summary_link, results_link), 
-          "assignee": "pontag",
-          "milestone": 3,
+            "milestone": 3,
           "labels": [
             "Mapping_review"
           ]
@@ -92,18 +94,26 @@ class issueConn:
         If exists, return json, otherwise return False"""
         ### Status: Needs to be rewritten to cope with pagination of 
         ### returned results.  Default = 30. Max = 100.  Need some code to iterate through multiple pages.
-        payload = { 'state': 'all' }
-        all_issues = []
-        issues = requests.get(self.issues_url, auth=self.AUTH, params=payload)
-        all_issues.extend(issues.json())
-        for v in issues.links.values():
-            issues_page = requests.get(v['url'], auth=self.AUTH)
-            all_issues.extend(issues_page.json())
         out = False
-        for i in all_issues:
+        for i in self.all_issues:
             if i['title'] == title:
                 out = i
         return out
+    
+    def get_all_tickets(self, url=False):
+        """Populates self.all_issues with a json of all tickets"""
+        payload = { 'state': 'all' }
+        if not url: # first time around
+            url = self.issues_url # Get first page
+            self.all_issues = []  # Blank this issues list
+        issues = requests.get(url, auth=self.AUTH, params=payload)
+        self.all_issues.extend(issues.json())
+        links = issues.links
+        if 'next' in links:
+            self.get_all_tickets(links['next']['url'])
+    
+    def get_milestones(self):
+        return
 
             
             
