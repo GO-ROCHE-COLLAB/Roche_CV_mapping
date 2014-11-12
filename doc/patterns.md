@@ -22,4 +22,9 @@ Note - cell
 
 ### development
 
+[X development OR a part of X development OR a process that regulates X development](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/patterns/is_a_OR_part_of_OR_regulates.md)
+
+Where X development is a GO(BP) class.
+
+
 ## anatomy
