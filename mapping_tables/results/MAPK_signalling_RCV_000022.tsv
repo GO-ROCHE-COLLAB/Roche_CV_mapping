@@ -21,21 +21,21 @@ MAPK import into nucleus	GO_0000189	1	1	1	0
 MAPK cascade involved in osmosensory signaling pathway	GO_0000161	1	1	1	0
 MAPK cascade	GO_0000165	1	1	1	0
 stress-activated protein kinase signaling cascade	GO_0031098	1	0	1	0
-activation of MAPKKK during sporulation (sensu Saccharomyces)	GO_0000203	1	0	1	0
-activation of MAPKKK during sporulation (sensu Fungi)	GO_0030441	1	0	1	0
-activation of MAPKKK (pseudohyphal growth)	GO_0000191	1	0	1	0
-activation of MAPKKK (mating sensu Saccharomyces)	GO_0007245	1	0	1	0
-activation of MAPKKK (mating sensu Fungi)	GO_0030458	1	0	1	0
-activation of MAPKK during sporulation (sensu Saccharomyces)	GO_0000204	1	0	1	0
-activation of MAPKK during sporulation (sensu Fungi)	GO_0030440	1	0	1	0
-activation of MAPKK (pseudohyphal growth)	GO_0000192	1	0	1	0
-activation of MAPKK (mating sensu Saccharomyces)	GO_0007246	1	0	1	0
-activation of MAPKK (mating sensu Fungi)	GO_0030457	1	0	1	0
-activation of MAPK during sporulation (sensu Saccharomyces)	GO_0000205	1	0	1	0
-activation of MAPK during sporulation (sensu Fungi)	GO_0030439	1	0	1	0
-activation of MAPK (pseudohyphal growth)	GO_0000193	1	0	1	0
-activation of MAPK (mating sensu Saccharomyces)	GO_0007247	1	0	1	0
-activation of MAPK (mating sensu Fungi)	GO_0030456	1	0	1	0
+activation of MAPKKK during sporulation (sensu Saccharomyces)	GO_0000203	1	0	1	1
+activation of MAPKKK during sporulation (sensu Fungi)	GO_0030441	1	0	1	1
+activation of MAPKKK (pseudohyphal growth)	GO_0000191	1	0	1	1
+activation of MAPKKK (mating sensu Saccharomyces)	GO_0007245	1	0	1	1
+activation of MAPKKK (mating sensu Fungi)	GO_0030458	1	0	1	1
+activation of MAPKK during sporulation (sensu Saccharomyces)	GO_0000204	1	0	1	1
+activation of MAPKK during sporulation (sensu Fungi)	GO_0030440	1	0	1	1
+activation of MAPKK (pseudohyphal growth)	GO_0000192	1	0	1	1
+activation of MAPKK (mating sensu Saccharomyces)	GO_0007246	1	0	1	1
+activation of MAPKK (mating sensu Fungi)	GO_0030457	1	0	1	1
+activation of MAPK during sporulation (sensu Saccharomyces)	GO_0000205	1	0	1	1
+activation of MAPK during sporulation (sensu Fungi)	GO_0030439	1	0	1	1
+activation of MAPK (pseudohyphal growth)	GO_0000193	1	0	1	1
+activation of MAPK (mating sensu Saccharomyces)	GO_0007247	1	0	1	1
+activation of MAPK (mating sensu Fungi)	GO_0030456	1	0	1	1
 regulation of stress-activated MAPK cascade	GO_0032872	0	1	1	0
 regulation of p38MAPK cascade	GO_1900744	0	1	1	0
 regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903137	0	1	1	0

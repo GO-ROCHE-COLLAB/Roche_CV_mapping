@@ -280,7 +280,7 @@ somatic diversification of immune receptors via alternate splicing	GO_0002563	1	
 somatic diversification of immune receptors by N region addition	GO_0002569	1	0	1	0
 somatic diversification of immune receptors	GO_0002200	1	0	1	0
 response to tetracycline	GO_1901326	1	0	1	0
-response to symbiont immune response	GO_0052571	1	0	1	0
+response to symbiont immune response	GO_0052571	1	0	1	1
 response to immune response of other organism involved in symbiotic interaction	GO_0052564	1	0	1	0
 response to host immune response	GO_0052572	1	0	1	0
 regulation of tolerance induction to self antigen	GO_0002649	1	0	1	0
@@ -350,7 +350,7 @@ positive regulation of antigen processing and presentation of lipid antigen via 
 positive regulation of antigen processing and presentation	GO_0002579	1	0	1	0
 positive regulation of MHC class II biosynthetic process	GO_0045348	1	0	1	0
 positive regulation of MHC class I biosynthetic process	GO_0045345	1	0	1	0
-positive regulation by organism of symbiont immune response	GO_0052557	1	0	1	0
+positive regulation by organism of symbiont immune response	GO_0052557	1	0	1	1
 polysaccharide assembly with MHC class II protein complex	GO_0002506	1	0	1	0
 peptide antigen transport	GO_0046968	1	0	1	0
 peptide antigen stabilization	GO_0050823	1	0	1	0
@@ -358,7 +358,7 @@ peptide antigen assembly with MHC protein complex	GO_0002501	1	0	1	0
 peptide antigen assembly with MHC class Ib protein complex	GO_0002492	1	0	1	0
 peptide antigen assembly with MHC class II protein complex	GO_0002503	1	0	1	0
 peptide antigen assembly with MHC class I protein complex	GO_0002502	1	0	1	0
-passive evasion of symbiont immune response	GO_0051845	1	0	1	0
+passive evasion of symbiont immune response	GO_0051845	1	0	1	1
 passive evasion of immune response of other organism involved in symbiotic interaction	GO_0051809	1	0	1	0
 passive evasion of host immune response	GO_0042782	1	0	1	0
 non-professional antigen presenting cell antigen processing and presentation	GO_0002473	1	0	1	0
@@ -393,18 +393,18 @@ negative regulation of antigen processing and presentation of lipid antigen via 
 negative regulation of antigen processing and presentation	GO_0002578	1	0	1	0
 negative regulation of MHC class II biosynthetic process	GO_0045347	1	0	1	0
 negative regulation of MHC class I biosynthetic process	GO_0045344	1	0	1	0
-negative regulation by organism of symbiont immune response	GO_0052563	1	0	1	0
-negative regulation by organism of symbiont cell-mediated immune response	GO_0052475	1	0	1	0
-negative regulation by organism of symbiont T-cell mediated immune response	GO_0052474	1	0	1	0
-negative regulation by organism of symbiont B-cell mediated immune response	GO_0052473	1	0	1	0
+negative regulation by organism of symbiont immune response	GO_0052563	1	0	1	1
+negative regulation by organism of symbiont cell-mediated immune response	GO_0052475	1	0	1	1
+negative regulation by organism of symbiont T-cell mediated immune response	GO_0052474	1	0	1	1
+negative regulation by organism of symbiont B-cell mediated immune response	GO_0052473	1	0	1	1
 myeloid leukocyte mediated immunity	GO_0002444	1	0	1	0
 myeloid leukocyte differentiation	GO_0002573	1	0	1	0
 myeloid leukocyte activation	GO_0002274	1	0	1	0
-modulation by organism of symbiont immune response	GO_0052554	1	0	1	0
-modulation by organism of symbiont cell-mediated immune response	GO_0052434	1	0	1	0
-modulation by organism of symbiont T-cell mediated immune response	GO_0052431	1	0	1	0
-modulation by organism of symbiont B-cell mediated immune response	GO_0052429	1	0	1	0
-induction by organism of symbiont immune response	GO_0052560	1	0	1	0
+modulation by organism of symbiont immune response	GO_0052554	1	0	1	1
+modulation by organism of symbiont cell-mediated immune response	GO_0052434	1	0	1	1
+modulation by organism of symbiont T-cell mediated immune response	GO_0052431	1	0	1	1
+modulation by organism of symbiont B-cell mediated immune response	GO_0052429	1	0	1	1
+induction by organism of symbiont immune response	GO_0052560	1	0	1	1
 immunological synapse formation	GO_0001771	1	0	1	0
 immunoglobulin transcytosis in epithelial cells	GO_0002414	1	0	1	0
 immunoglobulin secretion	GO_0048305	1	0	1	0
@@ -420,7 +420,7 @@ immune complex clearance by monocytes and macrophages	GO_0002436	1	0	1	0
 immune complex clearance by erythrocytes	GO_0002435	1	0	1	0
 immune complex clearance	GO_0002434	1	0	1	0
 hematopoietic stem cell migration to bone marrow	GO_0097241	1	0	1	0
-evasion or tolerance of symbiont immune response	GO_0051842	1	0	1	0
+evasion or tolerance of symbiont immune response	GO_0051842	1	0	1	1
 evasion or tolerance of immune response of other organism involved in symbiotic interaction	GO_0051805	1	0	1	0
 evasion or tolerance of host immune response	GO_0020012	1	0	1	0
 evasion or tolerance by virus of host immune response	GO_0030683	1	0	1	0
@@ -503,15 +503,15 @@ antigen processing and presentation following phagocytosis	GO_0002747	1	0	1	0
 antigen processing and presentation following macropinocytosis	GO_0002750	1	0	1	0
 antigen processing and presentation	GO_0019882	1	0	1	0
 antibiotic transport	GO_0042891	1	0	1	0
-antibiotic susceptibility/resistance	GO_0017141	1	0	1	0
+antibiotic susceptibility/resistance	GO_0017141	1	0	1	1
 antibiotic metabolic process	GO_0016999	1	0	1	0
 antibiotic catabolic process	GO_0017001	1	0	1	0
 antibiotic biosynthetic process	GO_0017000	1	0	1	0
-anaphylaxis	GO_0030105	1	0	1	0
-active evasion of symbiont immune response via regulation of symbiont cytokine network	GO_0051848	1	0	1	0
-active evasion of symbiont immune response via regulation of symbiont complement system	GO_0051847	1	0	1	0
-active evasion of symbiont immune response via regulation of symbiont antigen processing and presentation	GO_0051849	1	0	1	0
-active evasion of symbiont immune response	GO_0051846	1	0	1	0
+anaphylaxis	GO_0030105	1	0	1	1
+active evasion of symbiont immune response via regulation of symbiont cytokine network	GO_0051848	1	0	1	1
+active evasion of symbiont immune response via regulation of symbiont complement system	GO_0051847	1	0	1	1
+active evasion of symbiont immune response via regulation of symbiont antigen processing and presentation	GO_0051849	1	0	1	1
+active evasion of symbiont immune response	GO_0051846	1	0	1	1
 active evasion of immune response of other organism via regulation of cytokine network of other organism involved in symbiotic interaction	GO_0051812	1	0	1	0
 active evasion of immune response of other organism via regulation of complement system of other organism involved in symbiotic interaction	GO_0051811	1	0	1	0
 active evasion of immune response of other organism via regulation of antigen processing and presentation in other organism involved in symbiotic interaction	GO_0051813	1	0	1	0

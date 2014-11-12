@@ -15,7 +15,7 @@ G-protein coupled receptor signaling in absence of ligand	GO_0038035	1	1	1	0
 G-protein coupled purinergic receptor signaling pathway	GO_0035588	1	1	1	0
 G-protein coupled purinergic nucleotide receptor signaling pathway	GO_0035589	1	1	1	0
 G-protein coupled glutamate receptor signaling pathway	GO_0007216	1	1	1	0
-G-protein dissociation	GO_0007201	1	0	1	0
+G-protein dissociation	GO_0007201	1	0	1	1
 G-protein coupled receptor internalization	GO_0002031	1	0	1	0
 tyramine signaling pathway	GO_0071928	0	1	0	0
 thyroid-stimulating hormone signaling pathway	GO_0038194	0	1	0	0

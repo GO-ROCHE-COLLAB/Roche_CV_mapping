@@ -3,6 +3,6 @@ allantoin metabolic process	GO_0000255	1	1	1	0
 allantoin catabolic process	GO_0000256	1	1	1	0
 allantoin biosynthetic process	GO_0019428	1	1	1	0
 allantoin assimilation pathway	GO_0009442	1	1	1	0
-allantoin/allantoate transport	GO_0006838	1	0	1	0
+allantoin/allantoate transport	GO_0006838	1	0	1	1
 allantoin transport	GO_0015720	1	0	1	0
 allantoate transport	GO_0015719	1	0	1	0

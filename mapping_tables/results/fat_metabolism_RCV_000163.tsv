@@ -34,7 +34,7 @@ lipid particle organization	GO_0034389	1	0	1	0
 lipid localization	GO_0010876	1	0	1	0
 lipid homeostasis	GO_0055088	1	0	1	0
 lipid digestion	GO_0044241	1	0	1	0
-lipid binding	GO_0006630	1	0	1	0
+lipid binding	GO_0006630	1	0	1	1
 lipid antigen transport	GO_0002494	1	0	1	0
 lipid antigen assembly with MHC class Ib protein complex	GO_0002493	1	0	1	0
 lipid X metabolic process	GO_2001289	1	0	1	0

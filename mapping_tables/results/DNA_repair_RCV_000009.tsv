@@ -132,15 +132,15 @@ DNA double-strand break processing	GO_0000729	1	1	1	0
 DNA dealkylation involved in DNA repair	GO_0006307	1	1	1	0
 strand displacement	GO_0000732	1	0	1	0
 removal of nonhomologous ends	GO_0000735	1	0	1	0
-pyrimidine-dimer repair, DNA damage recognition	GO_0006292	1	0	1	0
-pyrimidine-dimer repair, DNA damage excision	GO_0006291	1	0	1	0
+pyrimidine-dimer repair, DNA damage recognition	GO_0006292	1	0	1	1
+pyrimidine-dimer repair, DNA damage excision	GO_0006291	1	0	1	1
 purine-specific mismatch base pair DNA N-glycosylase activity	GO_0000701	1	0	1	0
 oxidized base lesion DNA N-glycosylase activity	GO_0000702	1	0	1	0
 mismatch base pair DNA N-glycosylase activity	GO_0000700	1	0	1	0
 histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	1	0	1	0
 histone H3-K56 acetylation in response to DNA damage	GO_0097044	1	0	1	0
-error-prone DNA repair	GO_0045020	1	0	1	0
-error-free DNA repair	GO_0045021	1	0	1	0
+error-prone DNA repair	GO_0045020	1	0	1	1
+error-free DNA repair	GO_0045021	1	0	1	1
 ribonucleotide excision repair	GO_1990516	0	1	1	0
 regulation of single strand break repair	GO_1903516	0	1	1	0
 positive regulation of single strand break repair	GO_1903518	0	1	1	0

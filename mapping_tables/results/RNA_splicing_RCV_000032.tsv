@@ -37,15 +37,15 @@ Group III intron splicing	GO_0000374	1	1	1	0
 Group II intron splicing	GO_0000373	1	1	1	0
 Group I intron splicing	GO_0000372	1	1	1	0
 splicing factor protein import into nucleus	GO_0035048	1	0	1	0
-second U2-type spliceosomal transesterification activity	GO_0000364	1	0	1	0
-second U12-type spliceosomal transesterification activity	GO_0000367	1	0	1	0
+second U2-type spliceosomal transesterification activity	GO_0000364	1	0	1	1
+second U12-type spliceosomal transesterification activity	GO_0000367	1	0	1	1
 nuclear mRNA surveillance of spliceosomal pre-mRNA splicing	GO_0071030	1	0	1	0
 non-intein-mediated protein splicing	GO_0030909	1	0	1	0
-mRNA splicing	GO_0006371	1	0	1	0
-first U2-type spliceosomal transesterification activity	GO_0000362	1	0	1	0
-first U12-type spliceosomal transesterification activity	GO_0000363	1	0	1	0
+mRNA splicing	GO_0006371	1	0	1	1
+first U2-type spliceosomal transesterification activity	GO_0000362	1	0	1	1
+first U12-type spliceosomal transesterification activity	GO_0000363	1	0	1	1
 Prp19 complex	GO_0000974	1	0	1	0
-MATa1 (A1) pre-mRNA splicing	GO_0006377	1	0	1	0
+MATa1 (A1) pre-mRNA splicing	GO_0006377	1	0	1	1
 tRNA-type intron splice site recognition and cleavage	GO_0000379	0	1	1	0
 tRNA splicing, via endonucleolytic cleavage and ligation	GO_0006388	0	1	1	0
 tRNA exon ligation utilizing GTP as source of linkage phosphate	GO_0000970	0	1	1	0

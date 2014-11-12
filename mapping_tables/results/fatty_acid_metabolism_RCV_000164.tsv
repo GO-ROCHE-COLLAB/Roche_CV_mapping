@@ -51,7 +51,7 @@ positive regulation of fatty acid oxidation	GO_0046321	1	0	1	0
 positive regulation of fatty acid metabolic process	GO_0045923	1	0	1	0
 positive regulation of fatty acid biosynthetic process	GO_0045723	1	0	1	0
 positive regulation of fatty acid beta-oxidation	GO_0032000	1	0	1	0
-plasma membrane long-chain fatty acid transporter	GO_0000039	1	0	1	0
+plasma membrane long-chain fatty acid transporter	GO_0000039	1	0	1	1
 plasma membrane long-chain fatty acid transport	GO_0015911	1	0	1	0
 peroxisomal long-chain fatty acid import	GO_0015910	1	0	1	0
 negative regulation of plasma membrane long-chain fatty acid transport	GO_0010748	1	0	1	0

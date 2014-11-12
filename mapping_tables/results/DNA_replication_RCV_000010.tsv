@@ -41,7 +41,7 @@ DNA replication-dependent nucleosome organization	GO_0034723	1	0	1	0
 DNA replication-dependent nucleosome disassembly	GO_0034725	1	0	1	0
 DNA replication-dependent nucleosome assembly	GO_0006335	1	0	1	0
 DNA replication checkpoint	GO_0000076	1	0	1	0
-DNA replication and chromosome cycle	GO_0000067	1	0	1	0
+DNA replication and chromosome cycle	GO_0000067	1	0	1	1
 viral double stranded DNA replication via reverse transcription	GO_0039688	0	1	1	0
 viral DNA strand displacement replication	GO_0039687	0	1	1	0
 viral DNA genome replication	GO_0039693	0	1	1	0

@@ -21,16 +21,16 @@ transforming growth factor-beta secretion	GO_0038044	1	0	1	0
 transforming growth factor beta3 production	GO_0032907	1	0	1	0
 transforming growth factor beta2 production	GO_0032906	1	0	1	0
 transforming growth factor beta1 production	GO_0032905	1	0	1	0
-transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003141	1	0	1	0
+transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003141	1	0	1	1
 transforming growth factor beta production	GO_0071604	1	0	1	0
-transforming growth factor beta ligand binding to type II receptor	GO_0007180	1	0	1	0
-transforming growth factor beta ligand binding to type I receptor	GO_0008259	1	0	1	0
+transforming growth factor beta ligand binding to type II receptor	GO_0007180	1	0	1	1
+transforming growth factor beta ligand binding to type I receptor	GO_0008259	1	0	1	1
 sequestering of TGFbeta from receptor via TGFbeta binding	GO_0038105	1	0	1	0
 response to transforming growth factor beta	GO_0071559	1	0	1	0
 regulation of transforming growth factor beta3 production	GO_0032910	1	0	1	0
 regulation of transforming growth factor beta2 production	GO_0032909	1	0	1	0
 regulation of transforming growth factor beta1 production	GO_0032908	1	0	1	0
-regulation of transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0035465	1	0	1	0
+regulation of transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0035465	1	0	1	1
 regulation of transforming growth factor beta production	GO_0071634	1	0	1	0
 positive regulation of transforming growth factor beta3 production	GO_0032916	1	0	1	0
 positive regulation of transforming growth factor beta2 production	GO_0032915	1	0	1	0

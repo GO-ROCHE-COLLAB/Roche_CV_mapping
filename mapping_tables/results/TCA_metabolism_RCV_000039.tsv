@@ -4,7 +4,7 @@ tricarboxylic acid transmembrane transport	GO_0035674	1	1	1	0
 tricarboxylic acid metabolic process	GO_0072350	1	1	1	0
 tricarboxylic acid catabolic process	GO_0072352	1	1	1	0
 tricarboxylic acid biosynthetic process	GO_0072351	1	1	1	0
-tricarboxylic acid cycle intermediate metabolic process	GO_0006100	1	0	1	0
+tricarboxylic acid cycle intermediate metabolic process	GO_0006100	1	0	1	1
 tricarboxylic acid cycle	GO_0006099	1	0	1	0
 tricarboxylic acid transmembrane transporter activity	GO_0015142	0	1	0	0
 tricarboxylate secondary active transmembrane transporter activity	GO_0005371	0	1	0	0

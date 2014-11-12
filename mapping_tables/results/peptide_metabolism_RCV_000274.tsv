@@ -75,7 +75,7 @@ peptidyl-serine ADP-ribosylation	GO_0018312	1	0	1	0
 peptidyl-selenocysteine modification	GO_0050844	1	0	1	0
 peptidyl-sarcosine incorporation	GO_0019736	1	0	1	0
 peptidyl-pyrromethane cofactor linkage	GO_0018160	1	0	1	0
-peptidyl-prolyl isomerase B reaction	GO_0006460	1	0	1	0
+peptidyl-prolyl isomerase B reaction	GO_0006460	1	0	1	1
 peptidyl-proline modification	GO_0018208	1	0	1	0
 peptidyl-proline hydroxylation to 4-hydroxy-L-proline	GO_0018401	1	0	1	0
 peptidyl-proline hydroxylation to 3-hydroxy-L-proline	GO_0018400	1	0	1	0
@@ -101,7 +101,7 @@ peptidyl-lysine modification to peptidyl-N6-pyruvic acid 2-iminyl-L-lysine	GO_00
 peptidyl-lysine modification	GO_0018205	1	0	1	0
 peptidyl-lysine methylation	GO_0018022	1	0	1	0
 peptidyl-lysine malonylation	GO_0044392	1	0	1	0
-peptidyl-lysine malonylation	GO_0036045	1	0	1	0
+peptidyl-lysine malonylation	GO_0036045	1	0	1	1
 peptidyl-lysine lipoylation	GO_0018055	1	0	1	0
 peptidyl-lysine hydroxylation to 5-hydroxy-L-lysine	GO_0018395	1	0	1	0
 peptidyl-lysine hydroxylation to 4-hydroxy-L-lysine	GO_0018396	1	0	1	0
@@ -157,7 +157,7 @@ peptidyl-cysteine oxidation	GO_0018171	1	0	1	0
 peptidyl-cysteine modification	GO_0018198	1	0	1	0
 peptidyl-cysteine methylation	GO_0018125	1	0	1	0
 peptidyl-cysteine esterification	GO_0018351	1	0	1	0
-peptidyl-cysteine desulfurization	GO_0018179	1	0	1	0
+peptidyl-cysteine desulfurization	GO_0018179	1	0	1	1
 peptidyl-cysteine acetylation	GO_0018533	1	0	1	0
 peptidyl-cysteine S-trans-nitrosylation	GO_0035606	1	0	1	0
 peptidyl-cysteine S-nitrosylation	GO_0018119	1	0	1	0
@@ -165,7 +165,7 @@ peptidyl-cysteine S-carbamoylation	GO_0046891	1	0	1	0
 peptidyl-cysteine S-acetylation	GO_0018219	1	0	1	0
 peptidyl-cysteine ADP-ribosylation	GO_0018123	1	0	1	0
 peptidyl-beta-carboxyaspartic acid biosynthetic process from peptidyl-aspartic acid	GO_0019711	1	0	1	0
-peptidyl-aspartic acid/asparagine hydroxylation	GO_0006483	1	0	1	0
+peptidyl-aspartic acid/asparagine hydroxylation	GO_0006483	1	0	1	1
 peptidyl-aspartic acid reduction to form L-aspartyl aldehyde	GO_0051203	1	0	1	0
 peptidyl-aspartic acid phosphorylation	GO_0018217	1	0	1	0
 peptidyl-aspartic acid modification	GO_0018197	1	0	1	0

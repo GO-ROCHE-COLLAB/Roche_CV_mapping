@@ -71,10 +71,10 @@ regulation of pro-T cell differentiation	GO_2000174	1	0	1	0
 regulation of peripheral T cell tolerance induction	GO_0002849	1	0	1	0
 regulation of memory T cell differentiation	GO_0043380	1	0	1	0
 regulation of memory T cell activation	GO_2000567	1	0	1	0
-regulation of initiation of T cell receptor signaling	GO_0023010	1	0	1	0
+regulation of initiation of T cell receptor signaling	GO_0023010	1	0	1	1
 regulation of immature T cell proliferation in thymus	GO_0033084	1	0	1	0
 regulation of immature T cell proliferation	GO_0033083	1	0	1	0
-regulation of gene expression as a consequence of T cell signal transmission	GO_0023020	1	0	1	0
+regulation of gene expression as a consequence of T cell signal transmission	GO_0023020	1	0	1	1
 regulation of gamma-delta T cell proliferation	GO_0046646	1	0	1	0
 regulation of gamma-delta T cell differentiation	GO_0045586	1	0	1	0
 regulation of gamma-delta T cell activation	GO_0046643	1	0	1	0
@@ -127,7 +127,7 @@ positive regulation of pro-T cell differentiation	GO_2000176	1	0	1	0
 positive regulation of peripheral T cell tolerance induction	GO_0002851	1	0	1	0
 positive regulation of memory T cell differentiation	GO_0043382	1	0	1	0
 positive regulation of memory T cell activation	GO_2000568	1	0	1	0
-positive regulation of initiation of T cell receptor signaling	GO_0023011	1	0	1	0
+positive regulation of initiation of T cell receptor signaling	GO_0023011	1	0	1	1
 positive regulation of immature T cell proliferation in thymus	GO_0033092	1	0	1	0
 positive regulation of immature T cell proliferation	GO_0033091	1	0	1	0
 positive regulation of gamma-delta T cell proliferation	GO_0046648	1	0	1	0
@@ -221,9 +221,9 @@ negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell
 maintenance of protein location in T cell secretory granule	GO_0033377	1	0	1	0
 maintenance of protease location in T cell secretory granule	GO_0033379	1	0	1	0
 maintenance of granzyme B location in T cell secretory granule	GO_0033382	1	0	1	0
-ligand binding to T cell receptor	GO_0023007	1	0	1	0
-initiation of T cell receptor signaling by binding of a MHC complex to T cell receptor	GO_0023012	1	0	1	0
-initiation of T cell receptor signaling	GO_0023009	1	0	1	0
+ligand binding to T cell receptor	GO_0023007	1	0	1	1
+initiation of T cell receptor signaling by binding of a MHC complex to T cell receptor	GO_0023012	1	0	1	1
+initiation of T cell receptor signaling	GO_0023009	1	0	1	1
 granzyme B localization to T cell secretory granule	GO_0033380	1	0	1	0
 gamma-delta T cell lineage commitment	GO_0002365	1	0	1	0
 establishment of protein localization to T cell secretory granule	GO_0033376	1	0	1	0
@@ -241,7 +241,7 @@ T cell inhibitory signaling pathway	GO_0002770	1	0	1	0
 T cell apoptotic process	GO_0070231	1	0	1	0
 T cell antigen processing and presentation	GO_0002457	1	0	1	0
 T cell aggregation	GO_0070489	1	0	1	0
-T cell activation of signal transmission via diffusible molecule	GO_0023018	1	0	1	0
+T cell activation of signal transmission via diffusible molecule	GO_0023018	1	0	1	1
 CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	1	0	1	0
 CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	1	0	1	0
 CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	1	0	1	0

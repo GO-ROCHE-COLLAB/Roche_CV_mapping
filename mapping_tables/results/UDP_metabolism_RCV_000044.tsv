@@ -33,7 +33,7 @@ UDP-D-apiose biosynthetic process	GO_0033352	1	1	1	0
 UDP-4-deoxy-4-formamido-beta-L-arabinopyranose metabolic process	GO_2001313	1	1	1	0
 UDP-4-deoxy-4-formamido-beta-L-arabinopyranose catabolic process	GO_2001314	1	1	1	0
 UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process	GO_2001315	1	1	1	0
-UDP reduction	GO_0006255	1	0	1	0
+UDP reduction	GO_0006255	1	0	1	1
 UDP metabolic process	GO_0046048	1	0	1	0
 UDP catabolic process	GO_0006256	1	0	1	0
 UDP biosynthetic process	GO_0006225	1	0	1	0

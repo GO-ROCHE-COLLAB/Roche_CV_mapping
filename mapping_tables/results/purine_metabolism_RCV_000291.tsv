@@ -58,7 +58,7 @@ regulation of purine nucleoside transport	GO_0032245	1	0	1	0
 regulation of purine nucleobase metabolic process	GO_0006141	1	0	1	0
 purinergic receptor signaling pathway	GO_0035587	1	0	1	0
 purinergic nucleotide receptor signaling pathway	GO_0035590	1	0	1	0
-purine/pyrimidine nucleoside diphosphate reduction	GO_0006162	1	0	1	0
+purine/pyrimidine nucleoside diphosphate reduction	GO_0006162	1	0	1	1
 purine-containing compound transmembrane transport	GO_0072530	1	0	1	0
 purine ribonucleotide transport	GO_0015868	1	0	1	0
 purine ribonucleoside triphosphate metabolic process	GO_0009205	1	0	1	0
@@ -82,9 +82,9 @@ purine nucleoside monophosphate biosynthetic process	GO_0009127	1	0	1	0
 purine nucleoside diphosphate metabolic process	GO_0009135	1	0	1	0
 purine nucleoside diphosphate catabolic process	GO_0009137	1	0	1	0
 purine nucleoside diphosphate biosynthetic process	GO_0009136	1	0	1	0
-purine nucleosidase reaction	GO_0006153	1	0	1	0
+purine nucleosidase reaction	GO_0006153	1	0	1	1
 purine nucleobase transport	GO_0006863	1	0	1	0
-purine metabolic process	GO_0006143	1	0	1	0
+purine metabolic process	GO_0006143	1	0	1	1
 purine deoxyribonucleoside triphosphate metabolic process	GO_0009215	1	0	1	0
 purine deoxyribonucleoside triphosphate catabolic process	GO_0009217	1	0	1	0
 purine deoxyribonucleoside triphosphate biosynthetic process	GO_0009216	1	0	1	0
@@ -109,7 +109,7 @@ cellular response to purine-containing compound	GO_0071415	1	0	1	0
 adenosine transport	GO_0032238	1	0	1	0
 adenosine to inosine editing	GO_0006382	1	0	1	0
 adenosine receptor signaling pathway	GO_0001973	1	0	1	0
-adenosine deaminase reaction	GO_0006155	1	0	1	0
+adenosine deaminase reaction	GO_0006155	1	0	1	1
 zeatin metabolic process	GO_0033397	0	1	1	0
 zeatin biosynthetic process	GO_0033398	0	1	1	0
 xanthosine metabolic process	GO_1903227	0	1	1	0

@@ -11,7 +11,7 @@ signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	1	0	1	0
 signal transduction involved in G2 DNA damage checkpoint	GO_0072425	1	0	1	0
 signal transduction involved in DNA damage checkpoint	GO_0072422	1	0	1	0
 signal transduction in response to DNA damage	GO_0042770	1	0	1	0
-signal initiation by physical damage	GO_0023039	1	0	1	0
+signal initiation by physical damage	GO_0023039	1	0	1	1
 response to mitotic G2 DNA damage checkpoint signaling	GO_0072435	1	0	1	0
 response to intra-S DNA damage checkpoint signaling	GO_0072429	1	0	1	0
 response to G2 DNA damage checkpoint signaling	GO_0072426	1	0	1	0

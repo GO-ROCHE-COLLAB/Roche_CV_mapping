@@ -174,7 +174,7 @@ cardiolipin acyl-chain remodeling	GO_0035965	1	0	1	0
 cardiac neural crest cell delamination	GO_0036036	1	0	1	0
 cardiac muscle tissue regeneration	GO_0061026	1	0	1	0
 cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	1	0	1	0
-atrioventricular node impulse conduction delay	GO_0061338	1	0	1	0
+atrioventricular node impulse conduction delay	GO_0061338	1	0	1	1
 atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	1	0	1	0
 atrial cardiac muscle cell to AV node cell signaling	GO_0086026	1	0	1	0
 atrial cardiac muscle cell to AV node cell communication by electrical coupling	GO_0086044	1	0	1	0

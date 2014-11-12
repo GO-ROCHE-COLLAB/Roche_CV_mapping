@@ -1,0 +1,745 @@
+name	ID	manual	auto	checked	blacklisted
+xylulose metabolic process	GO_0005997	1	1	1	0
+xylulose catabolic process	GO_0005998	1	1	1	0
+xylulose biosynthetic process	GO_0005999	1	1	1	0
+xylose catabolic process to ethanol	GO_0044577	1	1	1	0
+xyloglucan metabolic process	GO_0010411	1	1	1	0
+xyloglucan catabolic process	GO_2000899	1	1	1	0
+xyloglucan biosynthetic process	GO_0009969	1	1	1	0
+trehalose metabolism in response to water deprivation	GO_0070416	1	1	1	0
+trehalose metabolism in response to stress	GO_0070413	1	1	1	0
+trehalose metabolism in response to heat stress	GO_0070414	1	1	1	0
+trehalose metabolism in response to cold stress	GO_0070415	1	1	1	0
+trehalose metabolic process	GO_0005991	1	1	1	0
+trehalose catabolism in response to heat stress	GO_0090442	1	1	1	0
+trehalose catabolic process	GO_0005993	1	1	1	0
+trehalose biosynthetic process	GO_0005992	1	1	1	0
+trehalose biosynthesis in response to heat stress	GO_0090441	1	1	1	0
+tetrose metabolic process	GO_0033347	1	1	1	0
+tetrose biosynthetic process	GO_0033348	1	1	1	0
+sucrose metabolic process	GO_0005985	1	1	1	0
+sucrose catabolic process via 3'-ketosucrose	GO_0019574	1	1	1	0
+sucrose catabolic process to fructose-6-phosphate and glucose-6-phosphate	GO_0036008	1	1	1	0
+sucrose catabolic process	GO_0005987	1	1	1	0
+sucrose biosynthetic process	GO_0005986	1	1	1	0
+sorbose metabolic process	GO_0019311	1	1	1	0
+sorbose catabolic process	GO_0042848	1	1	1	0
+sorbose biosynthetic process	GO_0042847	1	1	1	0
+sorbitol metabolic process	GO_0006060	1	1	1	0
+sorbitol catabolic process	GO_0006062	1	1	1	0
+sorbitol biosynthetic process	GO_0006061	1	1	1	0
+raffinose metabolic process	GO_0033530	1	1	1	0
+raffinose family oligosaccharide biosynthetic process	GO_0010325	1	1	1	0
+raffinose catabolic process	GO_0034484	1	1	1	0
+raffinose biosynthetic process	GO_0033529	1	1	1	0
+polysaccharide metabolic process	GO_0005976	1	1	1	0
+polysaccharide catabolic process	GO_0000272	1	1	1	0
+polysaccharide biosynthetic process	GO_0000271	1	1	1	0
+pentose-phosphate shunt, oxidative branch	GO_0009051	1	1	1	0
+pentose-phosphate shunt, non-oxidative branch	GO_0009052	1	1	1	0
+pentose-phosphate shunt	GO_0006098	1	1	1	0
+pentose metabolic process	GO_0019321	1	1	1	0
+pentose catabolic process to ethanol	GO_0044576	1	1	1	0
+pentose catabolic process	GO_0019323	1	1	1	0
+pentose biosynthetic process	GO_0019322	1	1	1	0
+osmoregulated periplasmic glucan metabolic process	GO_1900725	1	1	1	0
+osmoregulated periplasmic glucan catabolic process	GO_1900726	1	1	1	0
+osmoregulated periplasmic glucan biosynthetic process	GO_1900727	1	1	1	0
+multi-organism glucan metabolic process	GO_0044043	1	1	1	0
+metabolism by symbiont of host glucan	GO_0052176	1	1	1	0
+metabolism by organism of glucan in other organism involved in symbiotic interaction	GO_0052415	1	1	1	0
+metabolism by host of symbiont glucan	GO_0052414	1	1	1	0
+maltose metabolic process	GO_0000023	1	1	1	0
+maltose catabolic process	GO_0000025	1	1	1	0
+maltose biosynthetic process	GO_0000024	1	1	1	0
+lactose metabolic process	GO_0005988	1	1	1	0
+lactose catabolic process, using glucoside 3-dehydrogenase	GO_0019513	1	1	1	0
+lactose catabolic process via tagatose-6-phosphate	GO_0019512	1	1	1	0
+lactose catabolic process via UDP-galactose	GO_0019515	1	1	1	0
+lactose catabolic process	GO_0005990	1	1	1	0
+lactose biosynthetic process	GO_0005989	1	1	1	0
+glucose catabolic process to mixed acids	GO_0019664	1	1	1	0
+glucose catabolic process to lactate via pyruvate	GO_0019661	1	1	1	0
+glucose catabolic process to lactate and acetate	GO_0019658	1	1	1	0
+glucose catabolic process to lactate	GO_0019659	1	1	1	0
+glucose catabolic process to ethanol	GO_0019655	1	1	1	0
+glucose catabolic process to butyrate	GO_0030645	1	1	1	0
+glucose catabolic process to butanediol	GO_0019650	1	1	1	0
+glucose catabolic process to D-lactate and ethanol	GO_0019656	1	1	1	0
+glucose catabolic process	GO_0006007	1	1	1	0
+glucan metabolic process	GO_0044042	1	1	1	0
+glucan catabolic process	GO_0009251	1	1	1	0
+glucan biosynthetic process	GO_0009250	1	1	1	0
+fungal-type cell wall beta-glucan metabolic process	GO_0070879	1	1	1	0
+fungal-type cell wall beta-glucan biosynthetic process	GO_0070880	1	1	1	0
+fungal-type cell wall (1->3)-beta-D-glucan metabolic process	GO_0071969	1	1	1	0
+fungal-type cell wall (1->3)-beta-D-glucan biosynthetic process	GO_0071970	1	1	1	0
+fungal-type cell wall (1->3)-alpha-glucan metabolic process	GO_0070599	1	1	1	0
+fungal-type cell wall (1->3)-alpha-glucan biosynthetic process	GO_0070600	1	1	1	0
+cellular polysaccharide metabolic process	GO_0044264	1	1	1	0
+cellular polysaccharide catabolic process	GO_0044247	1	1	1	0
+cellular polysaccharide biosynthetic process	GO_0033692	1	1	1	0
+cellular oligosaccharide metabolic process	GO_0051691	1	1	1	0
+cellular oligosaccharide catabolic process	GO_0051692	1	1	1	0
+cellular glucuronidation	GO_0052695	1	1	1	0
+cellular glucan metabolic process	GO_0006073	1	1	1	0
+cellular carbohydrate metabolic process	GO_0044262	1	1	1	0
+cellular carbohydrate catabolic process	GO_0044275	1	1	1	0
+cellular carbohydrate biosynthetic process	GO_0034637	1	1	1	0
+cellotriose metabolic process	GO_2000893	1	1	1	0
+cellotriose catabolic process	GO_2000894	1	1	1	0
+cellooligosaccharide metabolic process	GO_2000902	1	1	1	0
+cellooligosaccharide catabolic process	GO_2000903	1	1	1	0
+cellodextrin metabolic process	GO_2000889	1	1	1	0
+cellodextrin catabolic process	GO_2000890	1	1	1	0
+cellobiose metabolic process	GO_2000891	1	1	1	0
+cellobiose catabolic process	GO_2000892	1	1	1	0
+cell wall beta-glucan metabolic process	GO_0034406	1	1	1	0
+cell wall beta-glucan biosynthetic process	GO_0034410	1	1	1	0
+cell wall (1->3)-beta-D-glucan metabolic process	GO_0034407	1	1	1	0
+cell wall (1->3)-beta-D-glucan biosynthetic process	GO_0034411	1	1	1	0
+cell wall (1->3)-alpha-glucan metabolic process	GO_0070597	1	1	1	0
+cell wall (1->3)-alpha-glucan biosynthetic process	GO_0070598	1	1	1	0
+catabolism by symbiont of host glucan	GO_0052016	1	1	1	0
+catabolism by organism of glucan in other organism involved in symbiotic interaction	GO_0052359	1	1	1	0
+catabolism by host of symbiont glucan	GO_0052358	1	1	1	0
+carbohydrate phosphorylation	GO_0046835	1	1	1	0
+carbohydrate metabolic process	GO_0005975	1	1	1	0
+carbohydrate catabolic process	GO_0016052	1	1	1	0
+carbohydrate biosynthetic process	GO_0016051	1	1	1	0
+beta-glucan metabolic process	GO_0051273	1	1	1	0
+beta-glucan catabolic process	GO_0051275	1	1	1	0
+beta-glucan biosynthetic process	GO_0051274	1	1	1	0
+ascospore wall beta-glucan metabolic process	GO_0034408	1	1	1	0
+ascospore wall beta-glucan biosynthetic process	GO_0034412	1	1	1	0
+ascospore wall (1->3)-beta-D-glucan metabolic process	GO_0034409	1	1	1	0
+ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0034413	1	1	1	0
+arabitol metabolic process	GO_0051161	1	1	1	0
+arabitol catabolic process	GO_0051157	1	1	1	0
+arabinoxylan-containing compound metabolic process	GO_0010416	1	1	1	0
+arabinoxylan-containing compound catabolic process	GO_2000888	1	1	1	0
+arabinose metabolic process	GO_0019566	1	1	1	0
+arabinose catabolic process	GO_0019568	1	1	1	0
+arabinose biosynthetic process	GO_0019567	1	1	1	0
+arabinan metabolic process	GO_0031221	1	1	1	0
+arabinan catabolic process	GO_0031222	1	1	1	0
+arabinan biosynthetic process	GO_0035884	1	1	1	0
+alpha-linked polysaccharide catabolism to maltotriose	GO_0052786	1	1	1	0
+alpha-linked polysaccharide catabolism to maltopentaose	GO_0052787	1	1	1	0
+alpha-glucan metabolic process	GO_0030978	1	1	1	0
+alpha-glucan catabolic process involved in ascospore release from ascus	GO_0072316	1	1	1	0
+alpha-glucan catabolic process	GO_0030980	1	1	1	0
+alpha-glucan biosynthetic process	GO_0030979	1	1	1	0
+allose metabolic process	GO_0019313	1	1	1	0
+allose catabolic process	GO_0046367	1	1	1	0
+allose biosynthetic process	GO_0046366	1	1	1	0
+O-glycan processing, core 8	GO_0031044	1	1	1	0
+O-glycan processing, core 7	GO_0031043	1	1	1	0
+O-glycan processing, core 6	GO_0031042	1	1	1	0
+O-glycan processing, core 5	GO_0031041	1	1	1	0
+O-glycan processing, core 4	GO_0016270	1	1	1	0
+O-glycan processing, core 3	GO_0016269	1	1	1	0
+O-glycan processing, core 2	GO_0016268	1	1	1	0
+O-glycan processing, core 1	GO_0016267	1	1	1	0
+O-glycan processing	GO_0016266	1	1	1	0
+L-fucose metabolic process	GO_0042354	1	1	1	0
+L-fucose catabolic process	GO_0042355	1	1	1	0
+L-fucose biosynthetic process	GO_0006005	1	1	1	0
+L-arabinose metabolic process	GO_0046373	1	1	1	0
+L-arabinose catabolic process to xylulose 5-phosphate	GO_0019569	1	1	1	0
+L-arabinose catabolic process to 2-oxoglutarate	GO_0019570	1	1	1	0
+L-arabinose catabolic process	GO_0019572	1	1	1	0
+L-arabinose biosynthetic process	GO_0033357	1	1	1	0
+6-alpha-maltosylglucose metabolic process	GO_0051679	1	1	1	0
+6-alpha-maltosylglucose catabolic process	GO_0051681	1	1	1	0
+6-alpha-maltosylglucose biosynthetic process	GO_0051680	1	1	1	0
+(1->6)-beta-D-glucan metabolic process	GO_0006077	1	1	1	0
+(1->6)-beta-D-glucan catabolic process	GO_0006079	1	1	1	0
+(1->6)-beta-D-glucan biosynthetic process	GO_0006078	1	1	1	0
+(1->4)-alpha-glucan metabolic process	GO_0070629	1	1	1	0
+(1->4)-alpha-glucan biosynthetic process	GO_0070630	1	1	1	0
+(1->3)-beta-D-glucan metabolic process	GO_0006074	1	1	1	0
+(1->3)-beta-D-glucan catabolic process	GO_0006076	1	1	1	0
+(1->3)-beta-D-glucan biosynthetic process	GO_0006075	1	1	1	0
+(1->3)-alpha-glucan metabolic process	GO_0070595	1	1	1	0
+(1->3)-alpha-glucan biosynthetic process	GO_0070596	1	1	1	0
+xylulose 5-phosphate metabolic process	GO_0051167	1	0	1	0
+xylulose 5-phosphate biosynthetic process	GO_1901159	1	0	1	0
+xylotriose transport	GO_2001094	1	0	1	0
+trehalose transport in response to water deprivation	GO_0072514	1	0	1	0
+trehalose transport in response to desiccation	GO_0072515	1	0	1	0
+trehalose transport	GO_0015771	1	0	1	0
+sucrose transport	GO_0015770	1	0	1	0
+sucrose mediated signaling	GO_0009745	1	0	1	0
+sucrose induced translational repression	GO_0080149	1	0	1	0
+sucrose catabolic process, using invertase or sucrose synthase	GO_0010131	1	0	1	1
+sucrose catabolic process, using beta-fructofuranosidase	GO_0019575	1	0	1	1
+sorbitol transport	GO_0015795	1	0	1	0
+response to sucrose	GO_0009744	1	0	1	0
+regulation of xyloglucan metabolic process	GO_2000948	1	0	1	0
+regulation of xyloglucan catabolic process	GO_2000951	1	0	1	0
+regulation of glycogen metabolic process	GO_0070873	1	0	1	0
+regulation of glycogen catabolic process	GO_0005981	1	0	1	0
+regulation of glycogen biosynthetic process	GO_0005979	1	0	1	0
+regulation of glycogen (starch) synthase activity	GO_2000465	1	0	1	0
+regulation of glucan biosynthetic process	GO_0010962	1	0	1	0
+regulation of fungal-type cell wall beta-glucan biosynthetic process	GO_0090093	1	0	1	0
+regulation of fungal-type cell wall (1->3)-alpha-glucan metabolic process	GO_0070609	1	0	1	0
+regulation of fungal-type cell wall (1->3)-alpha-glucan biosynthetic process	GO_0070610	1	0	1	0
+regulation of cell wall (1->3)-beta-D-glucan biosynthetic process	GO_0090334	1	0	1	0
+regulation of cell wall (1->3)-alpha-glucan metabolic process	GO_0070607	1	0	1	0
+regulation of cell wall (1->3)-alpha-glucan biosynthetic process	GO_0070608	1	0	1	0
+regulation of carbohydrate utilization	GO_0043610	1	0	1	0
+regulation of carbohydrate phosphatase activity	GO_0032113	1	0	1	0
+regulation of carbohydrate metabolic process	GO_0006109	1	0	1	0
+regulation of carbohydrate catabolic process	GO_0043470	1	0	1	0
+regulation of carbohydrate biosynthetic process	GO_0043255	1	0	1	0
+regulation of beta-glucan metabolic process	GO_0032950	1	0	1	0
+regulation of beta-glucan biosynthetic process	GO_0032951	1	0	1	0
+regulation of ascospore wall beta-glucan biosynthetic process	GO_0060622	1	0	1	0
+regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0060624	1	0	1	0
+regulation of alpha-glucan metabolic process	GO_0032948	1	0	1	0
+regulation of alpha-glucan biosynthetic process	GO_0032949	1	0	1	0
+regulation of D-xylose catabolic process	GO_0043469	1	0	1	0
+regulation of (1->6)-beta-D-glucan biosynthetic process	GO_0060917	1	0	1	0
+regulation of (1->3)-beta-D-glucan metabolic process	GO_0032952	1	0	1	0
+regulation of (1->3)-beta-D-glucan biosynthetic process	GO_0032953	1	0	1	0
+regulation of (1->3)-alpha-glucan metabolic process	GO_0070605	1	0	1	0
+regulation of (1->3)-alpha-glucan biosynthetic process	GO_0070606	1	0	1	0
+raffinose transport	GO_0015773	1	0	1	0
+positive regulation of xyloglucan metabolic process	GO_2000950	1	0	1	0
+positive regulation of xyloglucan catabolic process	GO_2000953	1	0	1	0
+positive regulation of (1->3)-beta-D-glucan biosynthetic process	GO_0060635	1	0	1	0
+polysaccharide transport	GO_0015774	1	0	1	0
+polysaccharide localization	GO_0033037	1	0	1	0
+polysaccharide digestion	GO_0044245	1	0	1	0
+phloem sucrose loading	GO_0009915	1	0	1	0
+pentose transport	GO_0015750	1	0	1	0
+negative regulation of xyloglucan metabolic process	GO_2000949	1	0	1	0
+negative regulation of xyloglucan catabolic process	GO_2000952	1	0	1	0
+negative regulation of glycogen metabolic process	GO_0070874	1	0	1	0
+negative regulation of glycogen catabolic process	GO_0045818	1	0	1	0
+negative regulation of glycogen biosynthetic process	GO_0045719	1	0	1	0
+negative regulation of glycogen (starch) synthase activity	GO_2000466	1	0	1	0
+negative regulation of (1->3)-beta-D-glucan biosynthetic process	GO_0060636	1	0	1	0
+mannosyltransferase activity	GO_0000030	1	0	1	0
+mannosylphosphate transferase activity	GO_0000031	1	0	1	0
+lactose transport	GO_0015767	1	0	1	0
+lactose hydrolysis	GO_0019514	1	0	1	1
+glucose 6-phosphate metabolic process	GO_0051156	1	0	1	0
+glucose 1-phosphate phosphorylation	GO_0006009	1	0	1	0
+glucose 1-phosphate metabolic process	GO_0019255	1	0	1	0
+detection of sucrose stimulus	GO_0009731	1	0	1	0
+cellular response to sucrose stimulus	GO_0071329	1	0	1	0
+cellular response to sucrose starvation	GO_0043617	1	0	1	0
+cellular organofluorine metabolic process	GO_0090346	1	0	1	0
+cellular galactose homeostasis	GO_0033502	1	0	1	0
+cellotriose transport	GO_2001096	1	0	1	0
+cellobiose transport	GO_0019533	1	0	1	0
+carbohydrate utilization	GO_0009758	1	0	1	0
+carbohydrate transport	GO_0008643	1	0	1	0
+carbohydrate transmembrane transport	GO_0034219	1	0	1	0
+carbohydrate storage	GO_0052576	1	0	1	0
+carbohydrate mediated signaling	GO_0009756	1	0	1	0
+carbohydrate localization	GO_0052575	1	0	1	0
+carbohydrate import into cell	GO_0097319	1	0	1	0
+carbohydrate homeostasis	GO_0033500	1	0	1	0
+carbohydrate export	GO_0033231	1	0	1	0
+carbohydrate derivative transport	GO_1901264	1	0	1	0
+carbohydrate derivative metabolic process	GO_1901135	1	0	1	0
+carbohydrate derivative catabolic process	GO_1901136	1	0	1	0
+carbohydrate derivative biosynthetic process	GO_1901137	1	0	1	0
+beta-glucoside transport	GO_0015759	1	0	1	0
+beta-glucan transport	GO_0015775	1	0	1	0
+arabinotriose transport	GO_2001092	1	0	1	0
+arabinose transport	GO_0015751	1	0	1	0
+arabinogalactan protein metabolic process	GO_0010405	1	0	1	0
+arabinitol transport	GO_0015792	1	0	1	0
+arabinan transport	GO_0042899	1	0	1	0
+aminoglycoside antibiotic metabolic process	GO_0030647	1	0	1	0
+aminoglycoside antibiotic catabolic process	GO_0030649	1	0	1	0
+aminoglycoside antibiotic biosynthetic process	GO_0030648	1	0	1	0
+aminoglycan metabolic process	GO_0006022	1	0	1	0
+aminoglycan catabolic process	GO_0006026	1	0	1	0
+aminoglycan biosynthetic process	GO_0006023	1	0	1	0
+amino sugar metabolic process	GO_0006040	1	0	1	0
+amino sugar catabolic process	GO_0046348	1	0	1	0
+amino sugar biosynthetic process	GO_0046349	1	0	1	0
+amino disaccharide metabolic process	GO_0052779	1	0	1	0
+amino disaccharide catabolic process	GO_0052782	1	0	1	0
+alpha-glucoside transport	GO_0000017	1	0	1	0
+alpha-1,6-mannosyltransferase complex	GO_0000136	1	0	1	0
+alpha-1,6-mannosyltransferase activity	GO_0000009	1	0	1	0
+alpha-1,3-mannosyltransferase activity	GO_0000033	1	0	1	0
+alpha-1,2-mannosyltransferase activity	GO_0000026	1	0	1	0
+allose transport	GO_0015754	1	0	1	0
+L-arabinose transport	GO_0042882	1	0	1	0
+1,3-beta-D-glucan synthase complex	GO_0000148	1	0	1	0
+xylogalacturonan metabolic process	GO_0010398	0	1	0	0
+xylan metabolic process	GO_0045491	0	1	0	0
+xylan catabolic process	GO_0045493	0	1	0	0
+xylan biosynthetic process	GO_0045492	0	1	0	0
+xenobiotic glucuronidation	GO_0052697	0	1	0	0
+verbascose metabolic process	GO_0033533	0	1	0	0
+verbascose biosynthetic process	GO_0033534	0	1	0	0
+uronic acid metabolic process	GO_0006063	0	1	0	0
+unsubstituted mannan metabolic process	GO_0010415	0	1	0	0
+trehalose catabolic process involved in cellular response to stress	GO_1903134	0	1	0	0
+trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	0	0
+transport-coupled glycolytic process through glucose-6-phosphate	GO_0061633	0	1	0	0
+substituted mannan metabolic process	GO_0006080	0	1	0	0
+starch metabolic process	GO_0005982	0	1	0	0
+starch catabolic process	GO_0005983	0	1	0	0
+starch biosynthetic process	GO_0019252	0	1	0	0
+stachyose metabolic process	GO_0033531	0	1	0	0
+stachyose biosynthetic process	GO_0033532	0	1	0	0
+slime layer polysaccharide biosynthetic process	GO_0045228	0	1	0	0
+single-organism carbohydrate metabolic process	GO_0044723	0	1	0	0
+single-organism carbohydrate catabolic process	GO_0044724	0	1	0	0
+salivary polysaccharide catabolic process	GO_0044239	0	1	0	0
+ribitol metabolic process	GO_0019349	0	1	0	0
+ribitol catabolic process to xylulose 5-phosphate	GO_0019488	0	1	0	0
+ribitol catabolic process	GO_0046363	0	1	0	0
+ribitol biosynthetic process	GO_0046362	0	1	0	0
+rhamnose metabolic process	GO_0019299	0	1	0	0
+rhamnose catabolic process	GO_0019301	0	1	0	0
+rhamnose biosynthetic process	GO_0019300	0	1	0	0
+rhamnogalacturonan II side chain metabolic process	GO_0010419	0	1	0	0
+rhamnogalacturonan II metabolic process	GO_0010396	0	1	0	0
+rhamnogalacturonan II biosynthetic process	GO_0010306	0	1	0	0
+rhamnogalacturonan II backbone metabolic process	GO_0010418	0	1	0	0
+rhamnogalacturonan I side chain metabolic process	GO_0010400	0	1	0	0
+rhamnogalacturonan I metabolic process	GO_0010395	0	1	0	0
+rhamnogalacturonan I biosynthetic process	GO_0010246	0	1	0	0
+rhamnogalacturonan I backbone metabolic process	GO_0010399	0	1	0	0
+reuteran metabolic process	GO_0052783	0	1	0	0
+reuteran biosynthetic process	GO_0052784	0	1	0	0
+reductive pentose-phosphate cycle	GO_0019253	0	1	0	0
+pyruvate fermentation to propionate	GO_0019657	0	1	0	0
+pullulan metabolic process	GO_0051676	0	1	0	0
+pullulan catabolic process	GO_0051678	0	1	0	0
+pullulan biosynthetic process	GO_0051677	0	1	0	0
+protein poly-ADP-ribosylation	GO_0070212	0	1	0	0
+protein phosphate-linked glycosylation via serine	GO_0042077	0	1	0	0
+protein phosphate-linked glycosylation	GO_0042076	0	1	0	0
+protein mannosylation	GO_0035268	0	1	0	0
+protein glycosylation in endoplasmic reticulum	GO_0033577	0	1	0	0
+protein glycosylation in cytosol	GO_0033576	0	1	0	0
+protein glycosylation in Golgi	GO_0033578	0	1	0	0
+protein glycosylation at cell surface	GO_0033575	0	1	0	0
+protein glycosylation	GO_0006486	0	1	0	0
+protein glucuronylation	GO_0018321	0	1	0	0
+protein galactosylation in endoplasmic reticulum	GO_0033579	0	1	0	0
+protein galactosylation in cytosol	GO_0033582	0	1	0	0
+protein galactosylation in Golgi	GO_0033581	0	1	0	0
+protein galactosylation at cell surface	GO_0033580	0	1	0	0
+protein galactosylation	GO_0042125	0	1	0	0
+protein auto-ADP-ribosylation	GO_0070213	0	1	0	0
+protein S-linked glycosylation via cysteine	GO_0018240	0	1	0	0
+protein S-linked glycosylation	GO_0018280	0	1	0	0
+protein O-linked mannosylation	GO_0035269	0	1	0	0
+protein O-linked glycosylation via tyrosine	GO_0018245	0	1	0	0
+protein O-linked glycosylation via threonine	GO_0018243	0	1	0	0
+protein O-linked glycosylation via serine	GO_0018242	0	1	0	0
+protein O-linked glycosylation via hydroxyproline	GO_0018258	0	1	0	0
+protein O-linked glycosylation via hydroxylysine	GO_0018241	0	1	0	0
+protein O-linked glycosylation	GO_0006493	0	1	0	0
+protein O-linked fucosylation	GO_0036066	0	1	0	0
+protein O-GlcNAcylation via threonine	GO_0097370	0	1	0	0
+protein N-linked glycosylation via tryptophan	GO_0018244	0	1	0	0
+protein N-linked glycosylation via asparagine	GO_0018279	0	1	0	0
+protein N-linked glycosylation via arginine	GO_0042543	0	1	0	0
+protein N-linked glycosylation	GO_0006487	0	1	0	0
+protein N-linked glucosylation via asparagine	GO_0071905	0	1	0	0
+protein N-linked N-acetylglucosaminylation via asparagine	GO_0071903	0	1	0	0
+protein N-linked N-acetylgalactosaminylation via asparagine	GO_0071904	0	1	0	0
+protein C-linked glycosylation via tryptophan	GO_0018317	0	1	0	0
+protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan	GO_0018406	0	1	0	0
+protein C-linked glycosylation	GO_0018103	0	1	0	0
+protein ADP-ribosylation	GO_0006471	0	1	0	0
+poly-N-acetyllactosamine metabolic process	GO_0030309	0	1	0	0
+poly-N-acetyllactosamine catabolic process	GO_0030310	0	1	0	0
+poly-N-acetyllactosamine biosynthetic process	GO_0030311	0	1	0	0
+poly(hydroxyalkanoate) biosynthetic process from glucose	GO_1902924	0	1	0	0
+plant-type cell wall cellulose metabolic process	GO_0052541	0	1	0	0
+plant-type cell wall cellulose catabolic process	GO_0044348	0	1	0	0
+plant-type cell wall cellulose biosynthetic process	GO_0052324	0	1	0	0
+photosynthesis, dark reaction	GO_0019685	0	1	0	0
+phosphorylated carbohydrate dephosphorylation	GO_0046838	0	1	0	0
+peptidyl-serine ADP-ribosylation	GO_0018312	0	1	0	0
+peptidyl-glutamic acid poly-ADP-ribosylation	GO_0018424	0	1	0	0
+peptidyl-cysteine ADP-ribosylation	GO_0018123	0	1	0	0
+peptidyl-asparagine ADP-ribosylation	GO_0018122	0	1	0	0
+peptidyl-arginine ADP-ribosylation	GO_0018120	0	1	0	0
+pentose catabolic process to propan-2-ol	GO_1902701	0	1	0	0
+pentose catabolic process to butyrate	GO_1902698	0	1	0	0
+pentose catabolic process to butan-1-ol	GO_1902700	0	1	0	0
+pentose catabolic process to acetate	GO_1902699	0	1	0	0
+pentitol metabolic process	GO_0019519	0	1	0	0
+pentitol catabolic process	GO_0019527	0	1	0	0
+pentitol biosynthetic process	GO_0019526	0	1	0	0
+pectin metabolic process	GO_0045488	0	1	0	0
+pectin catabolic process	GO_0045490	0	1	0	0
+pectin biosynthetic process	GO_0045489	0	1	0	0
+pectic galactan metabolic process	GO_0010401	0	1	0	0
+pectic arabinogalactan I metabolic process	GO_0010403	0	1	0	0
+pectic arabinan metabolic process	GO_0010402	0	1	0	0
+oligosaccharide-lipid intermediate biosynthetic process	GO_0006490	0	1	0	0
+oligosaccharide metabolic process	GO_0009311	0	1	0	0
+oligosaccharide catabolic process	GO_0009313	0	1	0	0
+oligosaccharide biosynthetic process	GO_0009312	0	1	0	0
+non-phosphorylated glucose metabolic process	GO_0046430	0	1	0	0
+non-phosphorylated glucose catabolic process	GO_0019595	0	1	0	0
+myo-inositol hexakisphosphate dephosphorylation	GO_0033518	0	1	0	0
+multicellular organismal polysaccharide metabolic process	GO_0044263	0	1	0	0
+multicellular organismal polysaccharide catabolic process	GO_0044244	0	1	0	0
+multicellular organismal oligosaccharide metabolic process	GO_0051690	0	1	0	0
+multicellular organismal oligosaccharide catabolic process	GO_0051689	0	1	0	0
+multicellular organismal carbohydrate metabolic process	GO_0044261	0	1	0	0
+multicellular organismal carbohydrate catabolic process	GO_0044276	0	1	0	0
+multi-organism carbohydrate metabolic process	GO_0044040	0	1	0	0
+multi-organism carbohydrate catabolic process	GO_0044041	0	1	0	0
+mucilage pectin metabolic process	GO_0048363	0	1	0	0
+mucilage pectin biosynthetic process	GO_0048358	0	1	0	0
+monosaccharide metabolic process	GO_0005996	0	1	0	0
+monosaccharide catabolic process	GO_0046365	0	1	0	0
+monosaccharide biosynthetic process	GO_0046364	0	1	0	0
+metabolism by symbiont of host xylan	GO_0052177	0	1	0	0
+metabolism by symbiont of host cell wall pectin	GO_0052179	0	1	0	0
+metabolism by symbiont of host cell wall chitin	GO_0052178	0	1	0	0
+metabolism by symbiont of host cell wall cellulose	GO_0052172	0	1	0	0
+metabolism by symbiont of host carbohydrate	GO_0052175	0	1	0	0
+metabolism by organism of xylan in other organism involved in symbiotic interaction	GO_0052421	0	1	0	0
+metabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052413	0	1	0	0
+metabolism by organism of cell wall chitin in other organism involved in symbiotic interaction	GO_0052411	0	1	0	0
+metabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052409	0	1	0	0
+metabolism by organism of carbohydrate in other organism involved in symbiotic interaction	GO_0052407	0	1	0	0
+metabolism by host of symbiont xylan	GO_0052420	0	1	0	0
+metabolism by host of symbiont cell wall pectin	GO_0052412	0	1	0	0
+metabolism by host of symbiont cell wall chitin	GO_0052410	0	1	0	0
+metabolism by host of symbiont cell wall cellulose	GO_0052408	0	1	0	0
+metabolism by host of symbiont carbohydrate	GO_0052406	0	1	0	0
+melibiose metabolic process	GO_0005994	0	1	0	0
+melibiose catabolic process	GO_0005995	0	1	0	0
+melibiose biosynthetic process	GO_0042544	0	1	0	0
+mannosylglycerate metabolic process	GO_0051478	0	1	0	0
+mannosylglycerate biosynthetic process	GO_0051479	0	1	0	0
+mannosylation	GO_0097502	0	1	0	0
+mannose to fructose-6-phosphate metabolic process	GO_0061611	0	1	0	0
+mannose metabolic process	GO_0006013	0	1	0	0
+mannose catabolic process	GO_0019309	0	1	0	0
+mannose biosynthetic process	GO_0019307	0	1	0	0
+mannitol metabolic process	GO_0019594	0	1	0	0
+mannitol catabolic process	GO_0019592	0	1	0	0
+mannitol biosynthetic process	GO_0019593	0	1	0	0
+mannan metabolic process	GO_0010412	0	1	0	0
+mannan catabolic process	GO_0046355	0	1	0	0
+mannan biosynthetic process	GO_0046354	0	1	0	0
+maltoheptaose metabolic process	GO_2001122	0	1	0	0
+maltoheptaose catabolic process	GO_2001123	0	1	0	0
+macromolecule glycosylation	GO_0043413	0	1	0	0
+lipopolysaccharide metabolic process	GO_0008653	0	1	0	0
+lipopolysaccharide core region metabolic process	GO_0046401	0	1	0	0
+lipopolysaccharide core region biosynthetic process	GO_0009244	0	1	0	0
+lipopolysaccharide catabolic process	GO_0009104	0	1	0	0
+lipopolysaccharide biosynthetic process	GO_0009103	0	1	0	0
+lipooligosaccharide metabolic process	GO_1901269	0	1	0	0
+lipooligosaccharide catabolic process	GO_1901270	0	1	0	0
+lipooligosaccharide biosynthetic process	GO_1901271	0	1	0	0
+lipid glycosylation	GO_0030259	0	1	0	0
+lipid A metabolic process	GO_0046493	0	1	0	0
+lipid A biosynthetic process	GO_0009245	0	1	0	0
+lactate fermentation to propionate and acetate	GO_0019652	0	1	0	0
+ketogluconate metabolic process	GO_0019522	0	1	0	0
+ketogluconate catabolic process	GO_0046181	0	1	0	0
+ketogluconate biosynthetic process	GO_0046180	0	1	0	0
+keto-D-gluconate metabolic process	GO_0019525	0	1	0	0
+keto-D-gluconate catabolic process	GO_0019524	0	1	0	0
+keto-D-gluconate biosynthetic process	GO_0046179	0	1	0	0
+keto-3-deoxy-D-manno-octulosonic acid metabolic process	GO_0046400	0	1	0	0
+keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	GO_0019294	0	1	0	0
+inulin metabolic process	GO_1902926	0	1	0	0
+inulin catabolic process	GO_1902927	0	1	0	0
+inulin biosynthetic process	GO_1902928	0	1	0	0
+inositol phosphorylation	GO_0052746	0	1	0	0
+inositol phosphate dephosphorylation	GO_0046855	0	1	0	0
+inositol metabolic process	GO_0006020	0	1	0	0
+inositol catabolic process	GO_0019310	0	1	0	0
+inositol biosynthetic process	GO_0006021	0	1	0	0
+homogalacturonan metabolic process	GO_0010394	0	1	0	0
+homogalacturonan catabolic process	GO_0033393	0	1	0	0
+homogalacturonan biosynthetic process	GO_0010289	0	1	0	0
+hexose metabolic process	GO_0019318	0	1	0	0
+hexose catabolic process to propan-2-ol	GO_1902702	0	1	0	0
+hexose catabolic process to ethanol	GO_1902707	0	1	0	0
+hexose catabolic process to butyrate	GO_1902705	0	1	0	0
+hexose catabolic process to butan-1-ol	GO_1902703	0	1	0	0
+hexose catabolic process to acetone	GO_1902704	0	1	0	0
+hexose catabolic process to acetate	GO_1902706	0	1	0	0
+hexose catabolic process	GO_0019320	0	1	0	0
+hexose biosynthetic process	GO_0019319	0	1	0	0
+hexitol metabolic process	GO_0006059	0	1	0	0
+hexitol catabolic process	GO_0019407	0	1	0	0
+hexitol biosynthetic process	GO_0019406	0	1	0	0
+heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	GO_0015014	0	1	0	0
+heparan sulfate proteoglycan biosynthetic process, linkage to polypeptide	GO_0015013	0	1	0	0
+hemicellulose metabolic process	GO_0010410	0	1	0	0
+hemicellulose catabolic process	GO_2000895	0	1	0	0
+glyoxylate cycle	GO_0006097	0	1	0	0
+glycosylation	GO_0070085	0	1	0	0
+glycolytic process through glucose-6-phosphate	GO_0061620	0	1	0	0
+glycolytic process through glucose-1-phosphate	GO_0061622	0	1	0	0
+glycolytic process through fructose-6-phosphate	GO_0061615	0	1	0	0
+glycolytic process through fructose-1-phosphate	GO_0061625	0	1	0	0
+glycolytic process from mannose through fructose-6-phosphate	GO_0061619	0	1	0	0
+glycolytic process from glycerol	GO_0061613	0	1	0	0
+glycolytic process from galactose	GO_0061623	0	1	0	0
+glycolytic process from fructose through fructose-6-phosphate	GO_0061616	0	1	0	0
+glycolytic process	GO_0006096	0	1	0	0
+glycolytic fermentation via PFOR pathway	GO_0044813	0	1	0	0
+glycolytic fermentation via PFL pathway	GO_0044814	0	1	0	0
+glycolytic fermentation	GO_0019660	0	1	0	0
+glycolysis from storage polysaccharide	GO_0093001	0	1	0	0
+glycogen metabolic process	GO_0005977	0	1	0	0
+glycogen catabolic process	GO_0005980	0	1	0	0
+glycogen biosynthetic process	GO_0005978	0	1	0	0
+glycerol to glycerone phosphate metabolic process	GO_0061610	0	1	0	0
+glycerol metabolic process	GO_0006071	0	1	0	0
+glycerol catabolic process	GO_0019563	0	1	0	0
+glycerol biosynthetic process from pyruvate	GO_0046327	0	1	0	0
+glycerol biosynthetic process	GO_0006114	0	1	0	0
+glucuronoxylan metabolic process	GO_0010413	0	1	0	0
+glucuronoxylan catabolic process	GO_2000886	0	1	0	0
+glucuronoxylan biosynthetic process	GO_0010417	0	1	0	0
+glucuronoside metabolic process	GO_0019389	0	1	0	0
+glucuronoside catabolic process	GO_0019391	0	1	0	0
+glucuronoside biosynthetic process	GO_0019390	0	1	0	0
+glucuronoarabinoxylan metabolic process	GO_0010414	0	1	0	0
+glucuronoarabinoxylan catabolic process	GO_2000887	0	1	0	0
+glucuronate metabolic process	GO_0019585	0	1	0	0
+glucuronate catabolic process to xylulose 5-phosphate	GO_0019640	0	1	0	0
+glucuronate catabolic process	GO_0006064	0	1	0	0
+glucuronate biosynthetic process	GO_0046399	0	1	0	0
+glucosylglycerol metabolic process	GO_0051472	0	1	0	0
+glucosylglycerol biosynthetic process	GO_0051473	0	1	0	0
+glucose metabolic process	GO_0006006	0	1	0	0
+gluconeogenesis	GO_0006094	0	1	0	0
+glucomannan metabolic process	GO_0010391	0	1	0	0
+glucomannan catabolic process	GO_2000884	0	1	0	0
+glucarate metabolic process	GO_0019392	0	1	0	0
+glucarate catabolic process	GO_0019394	0	1	0	0
+glucarate biosynthetic process	GO_0019393	0	1	0	0
+galacturonate metabolic process	GO_0019586	0	1	0	0
+galacturonate catabolic process	GO_0046397	0	1	0	0
+galacturonate biosynthetic process	GO_0033481	0	1	0	0
+galacturonan metabolic process	GO_0010393	0	1	0	0
+galactose to glucose-1-phosphate metabolic process	GO_0061612	0	1	0	0
+galactose metabolic process	GO_0006012	0	1	0	0
+galactose catabolic process via UDP-galactose	GO_0033499	0	1	0	0
+galactose catabolic process via D-galactonate	GO_0033498	0	1	0	0
+galactose catabolic process	GO_0019388	0	1	0	0
+galactose biosynthetic process	GO_0046369	0	1	0	0
+galactonate metabolic process	GO_0019583	0	1	0	0
+galactonate catabolic process	GO_0019584	0	1	0	0
+galactomannan metabolic process	GO_0051069	0	1	0	0
+galactomannan catabolic process	GO_0051682	0	1	0	0
+galactomannan biosynthetic process	GO_0051070	0	1	0	0
+galactoglucomannan metabolic process	GO_0010392	0	1	0	0
+galactoglucomannan catabolic process	GO_2000885	0	1	0	0
+galactitol metabolic process	GO_0019402	0	1	0	0
+galactitol catabolic process	GO_0019404	0	1	0	0
+galactitol biosynthetic process	GO_0019403	0	1	0	0
+galactarate metabolic process	GO_0019580	0	1	0	0
+galactarate catabolic process	GO_0046392	0	1	0	0
+galactarate biosynthetic process	GO_0046357	0	1	0	0
+fungal-type cell wall polysaccharide metabolic process	GO_0071966	0	1	0	0
+fungal-type cell wall polysaccharide biosynthetic process	GO_0051278	0	1	0	0
+fungal-type cell wall chitin biosynthetic process	GO_0034221	0	1	0	0
+fucosylation	GO_0036065	0	1	0	0
+fucose metabolic process	GO_0006004	0	1	0	0
+fucose catabolic process	GO_0019317	0	1	0	0
+fucose biosynthetic process	GO_0042353	0	1	0	0
+fructose metabolic process	GO_0006000	0	1	0	0
+fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate	GO_0061624	0	1	0	0
+fructose catabolic process	GO_0006001	0	1	0	0
+fructose biosynthetic process	GO_0046370	0	1	0	0
+fructan metabolic process	GO_0010145	0	1	0	0
+fructan catabolic process	GO_0010147	0	1	0	0
+fructan biosynthetic process	GO_0010146	0	1	0	0
+flavonoid glucuronidation	GO_0052696	0	1	0	0
+extracellular polysaccharide metabolic process	GO_0046379	0	1	0	0
+extracellular polysaccharide catabolic process involved in ascospore release from ascus	GO_0072000	0	1	0	0
+extracellular polysaccharide catabolic process	GO_0071999	0	1	0	0
+extracellular polysaccharide biosynthetic process	GO_0045226	0	1	0	0
+enterobacterial common antigen metabolic process	GO_0046378	0	1	0	0
+enterobacterial common antigen biosynthetic process	GO_0009246	0	1	0	0
+disaccharide metabolic process	GO_0005984	0	1	0	0
+disaccharide catabolic process	GO_0046352	0	1	0	0
+disaccharide biosynthetic process	GO_0046351	0	1	0	0
+dextrin catabolic process	GO_1901027	0	1	0	0
+dermatan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	GO_0050652	0	1	0	0
+deglucuronidation	GO_0036234	0	1	0	0
+cyclodextrin metabolic process	GO_2000900	0	1	0	0
+cyclodextrin catabolic process	GO_2000901	0	1	0	0
+cyclic 2,3-bisphospho-D-glycerate biosynthetic process	GO_1901369	0	1	0	0
+colanic acid metabolic process	GO_0046377	0	1	0	0
+colanic acid biosynthetic process	GO_0009242	0	1	0	0
+chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	GO_0050653	0	1	0	0
+chain elongation of O-linked mannose residue	GO_0044845	0	1	0	0
+cellulose metabolic process	GO_0030243	0	1	0	0
+cellulose catabolism by endo-processive cellulases	GO_0052785	0	1	0	0
+cellulose catabolic process	GO_0030245	0	1	0	0
+cellulose biosynthetic process	GO_0030244	0	1	0	0
+cell wall polysaccharide metabolic process	GO_0010383	0	1	0	0
+cell wall polysaccharide catabolic process involved in lateral root development	GO_1902089	0	1	0	0
+cell wall polysaccharide catabolic process involved in abscission	GO_1990076	0	1	0	0
+cell wall polysaccharide catabolic process	GO_0044347	0	1	0	0
+cell wall polysaccharide biosynthetic process	GO_0070592	0	1	0	0
+cell wall pectin metabolic process	GO_0052546	0	1	0	0
+cell wall pectin biosynthetic process	GO_0052325	0	1	0	0
+cell wall chitin metabolic process	GO_0006037	0	1	0	0
+cell wall chitin catabolic process	GO_0006039	0	1	0	0
+cell wall chitin biosynthetic process	GO_0006038	0	1	0	0
+catabolism by symbiont of host xylan	GO_0052017	0	1	0	0
+catabolism by symbiont of host cell wall pectin	GO_0052011	0	1	0	0
+catabolism by symbiont of host cell wall chitin	GO_0052012	0	1	0	0
+catabolism by symbiont of host cell wall cellulose	GO_0052010	0	1	0	0
+catabolism by symbiont of host carbohydrate	GO_0052015	0	1	0	0
+catabolism by organism of xylan in other organism involved in symbiotic interaction	GO_0052366	0	1	0	0
+catabolism by organism of cell wall peptidoglycan in other organism	GO_0051672	0	1	0	0
+catabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052341	0	1	0	0
+catabolism by organism of cell wall chitin in other organism involved in symbiotic interaction	GO_0052342	0	1	0	0
+catabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052340	0	1	0	0
+catabolism by organism of carbohydrate in other organism involved in symbiotic interaction	GO_0052354	0	1	0	0
+catabolism by host of symbiont xylan	GO_0052365	0	1	0	0
+catabolism by host of symbiont cell wall pectin	GO_0052357	0	1	0	0
+catabolism by host of symbiont cell wall chitin	GO_0052356	0	1	0	0
+catabolism by host of symbiont cell wall cellulose	GO_0052355	0	1	0	0
+catabolism by host of symbiont carbohydrate	GO_0052353	0	1	0	0
+capsule polysaccharide biosynthetic process	GO_0045227	0	1	0	0
+canonical glycolysis	GO_0061621	0	1	0	0
+beta-L-Ara4N-lipid A metabolic process	GO_1901759	0	1	0	0
+beta-L-Ara4N-lipid A biosynthetic process	GO_1901760	0	1	0	0
+beta-D-galactofuranose metabolic process	GO_1901356	0	1	0	0
+beta-D-galactofuranose catabolic process	GO_1901357	0	1	0	0
+beta-D-galactofuranose biosynthetic process	GO_1901358	0	1	0	0
+beta-1,2-oligomannoside metabolic process	GO_0070135	0	1	0	0
+beta-1,2-oligomannoside biosynthetic process	GO_0070136	0	1	0	0
+bacterial cellulose biosynthetic process	GO_0090540	0	1	0	0
+ascospore wall chitin metabolic process	GO_0034218	0	1	0	0
+ascospore wall chitin catabolic process	GO_0034232	0	1	0	0
+ascospore wall chitin biosynthetic process	GO_0034217	0	1	0	0
+ascorbate glutathione cycle	GO_0033355	0	1	0	0
+apiose metabolic process	GO_0033349	0	1	0	0
+apiose biosynthetic process	GO_0033350	0	1	0	0
+apiogalacturonan metabolic process	GO_0010397	0	1	0	0
+anaerobic rhamnose catabolic process	GO_0019304	0	1	0	0
+anaerobic pectin catabolic process	GO_1990489	0	1	0	0
+anaerobic glycerol catabolic process to propane-1,3-diol	GO_0019589	0	1	0	0
+anaerobic glycerol catabolic process	GO_0019588	0	1	0	0
+anaerobic fructose catabolic process	GO_0019325	0	1	0	0
+anaerobic cellulose catabolic process	GO_1990488	0	1	0	0
+alginic acid metabolic process	GO_0042120	0	1	0	0
+alginic acid catabolic process	GO_0042122	0	1	0	0
+alginic acid biosynthetic process	GO_0042121	0	1	0	0
+alginic acid acetylation	GO_0051979	0	1	0	0
+aldonic acid metabolic process	GO_0019520	0	1	0	0
+aldonic acid catabolic process	GO_0046176	0	1	0	0
+aldonic acid biosynthetic process	GO_0046175	0	1	0	0
+alditol metabolic process	GO_0019400	0	1	0	0
+alditol catabolic process	GO_0019405	0	1	0	0
+alditol biosynthetic process	GO_0019401	0	1	0	0
+aldaric acid metabolic process	GO_0019577	0	1	0	0
+aldaric acid catabolic process	GO_0019579	0	1	0	0
+aldaric acid biosynthetic process	GO_0019578	0	1	0	0
+ajugose metabolic process	GO_0033535	0	1	0	0
+ajugose biosynthetic process using galactinol:raffinose galactosyltransferase	GO_0033537	0	1	0	0
+ajugose biosynthetic process using galactan:galactan galactosyltransferase	GO_0033538	0	1	0	0
+ajugose biosynthetic process	GO_0033536	0	1	0	0
+aerobic raffinose catabolic process	GO_0036259	0	1	0	0
+aerobic glycerol catabolic process	GO_0019564	0	1	0	0
+aerobic fructose catabolic process	GO_0019576	0	1	0	0
+acyl glucuronidation	GO_0036236	0	1	0	0
+acyl deglucuronidation	GO_0036235	0	1	0	0
+PEP carboxykinase C4 photosynthesis	GO_0009764	0	1	0	0
+O3-(phosphoglycosyl-D-mannose-1-phosphoryl)-L-serine biosynthetic process	GO_0018426	0	1	0	0
+O3-(N-acetylglucosamine-1-phosphoryl)-L-serine biosynthetic process	GO_0018425	0	1	0	0
+O antigen metabolic process	GO_0046402	0	1	0	0
+O antigen biosynthetic process	GO_0009243	0	1	0	0
+NADP-malic enzyme C4 photosynthesis	GO_0009762	0	1	0	0
+NAD-malic enzyme C4 photosynthesis	GO_0009763	0	1	0	0
+N-terminal protein amino acid glucuronylation	GO_0018006	0	1	0	0
+N-terminal protein amino acid N-linked glycosylation	GO_0035629	0	1	0	0
+N-terminal peptidyl-glycine N-glucuronylation	GO_0018007	0	1	0	0
+N-glycan processing to secreted and cell-surface N-glycans	GO_0016257	0	1	0	0
+N-glycan processing to lysosome	GO_0016256	0	1	0	0
+N-glycan processing	GO_0006491	0	1	0	0
+N-glycan fucosylation	GO_0036071	0	1	0	0
+N-glycan diversification	GO_0016258	0	1	0	0
+Lewis a epitope biosynthetic process	GO_0010493	0	1	0	0
+L-xylitol metabolic process	GO_0051164	0	1	0	0
+L-xylitol catabolic process to xylulose 5-phosphate	GO_0019697	0	1	0	0
+L-xylitol catabolic process	GO_0051160	0	1	0	0
+L-sorbose metabolic process	GO_0019312	0	1	0	0
+L-sorbose catabolic process	GO_0042850	0	1	0	0
+L-sorbose biosynthetic process	GO_0042849	0	1	0	0
+L-lyxose metabolic process	GO_0019324	0	1	0	0
+L-idonate metabolic process	GO_0019523	0	1	0	0
+L-idonate catabolic process	GO_0046183	0	1	0	0
+L-idonate biosynthetic process	GO_0046182	0	1	0	0
+L-galactonate metabolic process	GO_0034193	0	1	0	0
+L-galactonate catabolic process	GO_0034195	0	1	0	0
+L-ascorbic acid metabolic process	GO_0019852	0	1	0	0
+L-ascorbic acid catabolic process	GO_0019854	0	1	0	0
+L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate	GO_0090532	0	1	0	0
+L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose	GO_0090531	0	1	0	0
+L-ascorbic acid biosynthetic process	GO_0019853	0	1	0	0
+L-arabitol metabolic process	GO_0051162	0	1	0	0
+L-arabitol catabolic process to xylulose 5-phosphate	GO_0019590	0	1	0	0
+L-arabitol catabolic process	GO_0051158	0	1	0	0
+Kdo2-lipid A metabolic process	GO_0036103	0	1	0	0
+Kdo2-lipid A biosynthetic process	GO_0036104	0	1	0	0
+K antigen metabolic process	GO_0046375	0	1	0	0
+K antigen biosynthetic process	GO_0009248	0	1	0	0
+F420-0 metabolic process	GO_0052645	0	1	0	0
+Entner-Doudoroff pathway	GO_0009255	0	1	0	0
+D-xylose metabolic process	GO_0042732	0	1	0	0
+D-xylose fermentation	GO_0044836	0	1	0	0
+D-xylose catabolic process	GO_0042843	0	1	0	0
+D-xylose biosynthetic process	GO_0042842	0	1	0	0
+D-ribose metabolic process	GO_0006014	0	1	0	0
+D-ribose catabolic process	GO_0019303	0	1	0	0
+D-ribose biosynthetic process	GO_0019302	0	1	0	0
+D-glucuronate metabolic process	GO_0042839	0	1	0	0
+D-glucuronate catabolic process	GO_0042840	0	1	0	0
+D-glucuronate biosynthetic process	GO_0042841	0	1	0	0
+D-gluconate metabolic process	GO_0019521	0	1	0	0
+D-gluconate catabolic process	GO_0046177	0	1	0	0
+D-gluconate biosynthetic process	GO_0046178	0	1	0	0
+D-glucarate metabolic process	GO_0042836	0	1	0	0
+D-glucarate catabolic process	GO_0042838	0	1	0	0
+D-glucarate biosynthetic process	GO_0042837	0	1	0	0
+D-galacturonate metabolic process	GO_0046396	0	1	0	0
+D-galacturonate catabolic process	GO_0019698	0	1	0	0
+D-galacturonate biosynthetic process	GO_0033482	0	1	0	0
+D-galactonate metabolic process	GO_0034192	0	1	0	0
+D-galactonate catabolic process	GO_0034194	0	1	0	0
+D-arabitol metabolic process	GO_0051163	0	1	0	0
+D-arabitol catabolic process to xylulose 5-phosphate	GO_0019528	0	1	0	0
+D-arabitol catabolic process	GO_0051159	0	1	0	0
+D-arabinose metabolic process	GO_0046372	0	1	0	0
+D-arabinose catabolic process to xylulose 5-phosphate	GO_0019573	0	1	0	0
+D-arabinose catabolic process	GO_0019571	0	1	0	0
+D-allose metabolic process	GO_0019314	0	1	0	0
+D-allose catabolic process	GO_0019316	0	1	0	0
+D-allose biosynthetic process	GO_0019315	0	1	0	0
+CAM photosynthesis	GO_0009761	0	1	0	0
+C4 photosynthesis	GO_0009760	0	1	0	0
+4,6-pyruvylated galactose residue metabolic process	GO_0051071	0	1	0	0
+4,6-pyruvylated galactose residue biosynthetic process	GO_0051072	0	1	0	0
+2-dehydro-3-deoxy-D-gluconic acid metabolic process	GO_1901272	0	1	0	0
+2-dehydro-3-deoxy-D-gluconic acid catabolic process	GO_1901273	0	1	0	0
+2-dehydro-3-deoxy-D-gluconic acid biosynthetic process	GO_1901274	0	1	0	0
+1,5-anhydro-D-fructose metabolic process	GO_1901801	0	1	0	0
+1,5-anhydro-D-fructose catabolic process	GO_1901802	0	1	0	0
+1,5-anhydro-D-fructose biosynthetic process	GO_1901803	0	1	0	0

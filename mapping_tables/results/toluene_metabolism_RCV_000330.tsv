@@ -12,7 +12,7 @@ toluene-containing compound metabolic process	GO_0072490	1	0	1	0
 toluene-containing compound catabolic process	GO_0072491	1	0	1	0
 toluene-4-sulfonate metabolic process	GO_0018972	1	0	1	0
 toluene-4-sulfonate catabolic process	GO_0046269	1	0	1	0
-toluene-4-sulfonate biosynthetic process	GO_0046268	1	0	1	0
+toluene-4-sulfonate biosynthetic process	GO_0046268	1	0	1	1
 anaerobic toluene metabolic process	GO_0018971	0	1	1	0
 anaerobic toluene catabolic process	GO_0046254	0	1	1	0
 anaerobic toluene biosynthetic process	GO_0046253	0	1	1	0

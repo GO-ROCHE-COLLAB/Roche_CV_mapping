@@ -6,9 +6,9 @@ activation of Ran GTPase activity	GO_0032860	1	1	1	0
 activation of Ral GTPase activity	GO_0032859	1	1	1	0
 activation of Rac GTPase activity	GO_0032863	1	1	1	0
 activation of Rab GTPase activity	GO_0032858	1	1	1	0
-heterotrimeric G-protein GTPase, gamma-subunit	GO_0000265	1	0	1	0
-heterotrimeric G-protein GTPase, beta-subunit	GO_0000264	1	0	1	0
-heterotrimeric G-protein GTPase, alpha-subunit	GO_0000263	1	0	1	0
+heterotrimeric G-protein GTPase, gamma-subunit	GO_0000265	1	0	1	1
+heterotrimeric G-protein GTPase, beta-subunit	GO_0000264	1	0	1	1
+heterotrimeric G-protein GTPase, alpha-subunit	GO_0000263	1	0	1	1
 small GTPase regulator activity	GO_0005083	0	1	1	0
 regulation of Rho GTPase activity	GO_0032319	0	1	1	0
 regulation of Ras GTPase activity	GO_0032318	0	1	1	0

@@ -114,7 +114,7 @@ valine transport	GO_0015829	1	0	1	0
 tryptophanyl-tRNA aminoacylation	GO_0006436	1	0	1	0
 tryptophan-independent indoleacetic acid biosynthetic process	GO_0009849	1	0	1	0
 tryptophan transport	GO_0015827	1	0	1	0
-tryptophan catabolic process, using tryptophanase	GO_0019443	1	0	1	0
+tryptophan catabolic process, using tryptophanase	GO_0019443	1	0	1	1
 threonine transport	GO_0015826	1	0	1	0
 sulfur amino acid transport	GO_0000101	1	0	1	0
 sulfur amino acid transmembrane transporter activity	GO_0000099	1	0	1	0
@@ -122,7 +122,7 @@ sulfur amino acid metabolic process	GO_0000096	1	0	1	0
 sulfur amino acid catabolic process	GO_0000098	1	0	1	0
 sulfur amino acid biosynthetic process	GO_0000097	1	0	1	0
 sphingosine hydroxylase activity	GO_0000170	1	0	1	0
-signal initiation by amino acid	GO_0023006	1	0	1	0
+signal initiation by amino acid	GO_0023006	1	0	1	1
 response to amino acid	GO_0043200	1	0	1	0
 regulation of sulfur amino acid metabolic process	GO_0031335	1	0	1	0
 regulation of glutamine family amino acid metabolic process	GO_0000820	1	0	1	0
@@ -135,9 +135,9 @@ regulation of amino acid transport	GO_0051955	1	0	1	0
 regulation of amino acid import	GO_0010958	1	0	1	0
 regulation of amino acid export	GO_0080143	1	0	1	0
 regulation of D-amino-acid oxidase activity	GO_1900757	1	0	1	0
-protein amino acid terminal glycosylation	GO_0006494	1	0	1	0
-protein amino acid terminal N-glycosylation	GO_0006496	1	0	1	0
-protein amino acid cinnamylation	GO_0018338	1	0	1	0
+protein amino acid terminal glycosylation	GO_0006494	1	0	1	1
+protein amino acid terminal N-glycosylation	GO_0006496	1	0	1	1
+protein amino acid cinnamylation	GO_0018338	1	0	1	1
 positive regulation of sulfur amino acid metabolic process	GO_0031337	1	0	1	0
 positive regulation of cellular amino acid metabolic process	GO_0045764	1	0	1	0
 positive regulation of cellular amino acid biosynthetic process	GO_2000284	1	0	1	0
@@ -145,9 +145,9 @@ positive regulation of amino acid uptake involved in synaptic transmission	GO_00
 positive regulation of amino acid transport	GO_0051957	1	0	1	0
 peptidyl-amino acid modification	GO_0018193	1	0	1	0
 peptidyl-L-amino acid racemization	GO_0018085	1	0	1	0
-nonprotein amino acid metabolic process	GO_0019794	1	0	1	0
-nonprotein amino acid catabolic process	GO_0019796	1	0	1	0
-nonprotein amino acid biosynthetic process	GO_0019795	1	0	1	0
+nonprotein amino acid metabolic process	GO_0019794	1	0	1	1
+nonprotein amino acid catabolic process	GO_0019796	1	0	1	1
+nonprotein amino acid biosynthetic process	GO_0019795	1	0	1	1
 neutral amino acid transport	GO_0015804	1	0	1	0
 neutral amino acid transmembrane import into vacuole	GO_0034491	1	0	1	0
 neutral amino acid transmembrane export from vacuole	GO_0034489	1	0	1	0
@@ -167,17 +167,17 @@ modulation by virus of host protein serine/threonine phosphatase activity	GO_003
 modified amino acid transport	GO_0072337	1	0	1	0
 methionine transport	GO_0015821	1	0	1	0
 methionine import	GO_0044690	1	0	1	0
-methionine and threonine metabolic process	GO_0018927	1	0	1	0
+methionine and threonine metabolic process	GO_0018927	1	0	1	1
 lysine transport	GO_0015819	1	0	1	0
 lysine import	GO_0034226	1	0	1	0
 isoleucyl-tRNA aminoacylation	GO_0006428	1	0	1	0
 isoleucine transport	GO_0015818	1	0	1	0
 internal protein amino acid acetylation	GO_0006475	1	0	1	0
 homoserine transport	GO_0042968	1	0	1	0
-histidine family amino acid metabolic process	GO_0009075	1	0	1	0
-histidine family amino acid catabolic process	GO_0009077	1	0	1	0
-histidine family amino acid biosynthetic process	GO_0009076	1	0	1	0
-free L-amino acid racemization	GO_0018367	1	0	1	0
+histidine family amino acid metabolic process	GO_0009075	1	0	1	1
+histidine family amino acid catabolic process	GO_0009077	1	0	1	1
+histidine family amino acid biosynthetic process	GO_0009076	1	0	1	1
+free L-amino acid racemization	GO_0018367	1	0	1	1
 extracellular amino acid transport	GO_0006860	1	0	1	0
 cyanoamino acid metabolic process	GO_0033052	1	0	1	0
 chiral amino acid racemization	GO_0018366	1	0	1	0
@@ -226,7 +226,7 @@ amino acid adenylylation by nonribosomal peptide synthase	GO_0043042	1	0	1	0
 amino acid activation for nonribosomal peptide biosynthetic process	GO_0043041	1	0	1	0
 amino acid activation	GO_0043038	1	0	1	0
 alanine transport	GO_0032328	1	0	1	0
-alanine racemization	GO_0018086	1	0	1	0
+alanine racemization	GO_0018086	1	0	1	1
 alanine dehydrogenase activity	GO_0000286	1	0	1	0
 acidic amino acid transport	GO_0015800	1	0	1	0
 S-methylmethionine transport	GO_0015806	1	0	1	0
@@ -253,7 +253,7 @@ N-terminal peptidyl-serine methylation	GO_0035570	1	0	1	0
 N-terminal peptidyl-serine dimethylation	GO_0035572	1	0	1	0
 N-terminal peptidyl-serine deamination	GO_0018059	1	0	1	0
 N-terminal peptidyl-serine acetylation	GO_0017198	1	0	1	0
-N-terminal peptidyl-proline trimethylation	GO_0035569	1	0	1	0
+N-terminal peptidyl-proline trimethylation	GO_0035569	1	0	1	1
 N-terminal peptidyl-proline methylation	GO_0035568	1	0	1	0
 N-terminal peptidyl-proline dimethylation involved in translation	GO_0071891	1	0	1	0
 N-terminal peptidyl-proline dimethylation	GO_0018016	1	0	1	0

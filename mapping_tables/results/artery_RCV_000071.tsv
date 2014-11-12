@@ -1,0 +1,22 @@
+name	ID	manual	auto	checked	blacklisted
+ventral aorta morphogenesis	GO_0035913	1	1	1	0
+ventral aorta development	GO_0035908	1	1	1	0
+ascending aorta morphogenesis	GO_0035910	1	1	1	0
+ascending aorta development	GO_0035905	1	1	1	0
+artery morphogenesis	GO_0048844	1	1	1	0
+artery development	GO_0060840	1	1	1	0
+ascending thin limb development	GO_0072021	1	0	1	0
+artery smooth muscle contraction	GO_0014824	1	0	1	0
+renal artery morphogenesis	GO_0061441	0	1	0	0
+pulmonary artery morphogenesis	GO_0061156	0	1	0	0
+pulmonary artery endothelial tube morphogenesis	GO_0061155	0	1	0	0
+pharyngeal arch artery morphogenesis	GO_0061626	0	1	0	0
+ductus arteriosus closure	GO_0097070	0	1	0	0
+dorsal aorta morphogenesis	GO_0035912	0	1	0	0
+dorsal aorta development	GO_0035907	0	1	0	0
+descending aorta morphogenesis	GO_0035911	0	1	0	0
+descending aorta development	GO_0035906	0	1	0	0
+coronary artery morphogenesis	GO_0060982	0	1	0	0
+aorta smooth muscle tissue morphogenesis	GO_0060414	0	1	0	0
+aorta morphogenesis	GO_0035909	0	1	0	0
+aorta development	GO_0035904	0	1	0	0

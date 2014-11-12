@@ -50,8 +50,8 @@ negative regulation of L-glutamate import	GO_1900921	1	0	1	0
 ionotropic glutamate receptor signaling pathway	GO_0035235	1	0	1	0
 glutamate secretion	GO_0014047	1	0	1	0
 glutamate receptor signaling pathway	GO_0007215	1	0	1	0
-glutamate biosynthetic process, using glutamate synthase (NADPH)	GO_0019269	1	0	1	0
-glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)	GO_0019268	1	0	1	0
+glutamate biosynthetic process, using glutamate synthase (NADPH)	GO_0019269	1	0	1	1
+glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)	GO_0019268	1	0	1	1
 L-glutamate transport	GO_0015813	1	0	1	0
 L-glutamate import	GO_0051938	1	0	1	0
 tetrapyrrole biosynthetic process from glutamate	GO_0033526	0	1	1	0
