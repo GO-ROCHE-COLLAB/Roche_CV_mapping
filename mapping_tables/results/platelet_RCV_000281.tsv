@@ -1,16 +1,16 @@
-name	ID	manual	auto	checked	blacklisted
-platelet formation	GO_0030220	1	1	1	0
-platelet activation	GO_0030168	1	1	1	0
-platelet dense granule organization	GO_0060155	1	0	1	0
-platelet degranulation	GO_0002576	1	0	1	0
-platelet alpha granule organization	GO_0070889	1	0	1	0
-platelet aggregation	GO_0070527	1	0	1	0
-platelet activating factor secretion involved in inflammatory response	GO_0002535	1	0	1	0
-platelet activating factor secretion	GO_0002392	1	0	1	0
-platelet activating factor production involved in inflammatory response	GO_0002391	1	0	1	0
-platelet activating factor production	GO_0002390	1	0	1	0
-platelet activating factor metabolic process	GO_0046469	1	0	1	0
-platelet activating factor biosynthetic process	GO_0006663	1	0	1	0
-serotonin secretion by platelet	GO_0002554	0	1	0	0
-protein secretion by platelet	GO_0070560	0	1	0	0
-histamine secretion by platelet	GO_0002555	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+platelet formation	GO_0030220	1	1	1	0	0
+platelet activation	GO_0030168	1	1	1	0	0
+platelet dense granule organization	GO_0060155	1	0	1	0	0
+platelet degranulation	GO_0002576	1	0	1	0	0
+platelet alpha granule organization	GO_0070889	1	0	1	0	0
+platelet aggregation	GO_0070527	1	0	1	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	1	0	1	0	0
+platelet activating factor secretion	GO_0002392	1	0	1	0	0
+platelet activating factor production involved in inflammatory response	GO_0002391	1	0	1	0	0
+platelet activating factor production	GO_0002390	1	0	1	0	0
+platelet activating factor metabolic process	GO_0046469	1	0	1	0	0
+platelet activating factor biosynthetic process	GO_0006663	1	0	1	0	0
+serotonin secretion by platelet	GO_0002554	0	1	0	0	0
+protein secretion by platelet	GO_0070560	0	1	0	0	0
+histamine secretion by platelet	GO_0002555	0	1	0	0	0

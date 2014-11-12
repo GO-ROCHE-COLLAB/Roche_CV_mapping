@@ -1,18 +1,18 @@
-name	ID	manual	auto	checked	blacklisted
-toluene oxidation via toluene-cis-1,2-dihydrodiol	GO_0019696	1	1	1	0
-toluene oxidation via 4-hydroxytoluene	GO_0019603	1	1	1	0
-toluene oxidation via 3-hydroxytoluene	GO_0019602	1	1	1	0
-toluene oxidation via 2-hydroxytoluene	GO_0019601	1	1	1	0
-toluene oxidation to catechol	GO_0019604	1	1	1	0
-toluene oxidation	GO_0019600	1	1	1	0
-toluene metabolic process	GO_0018970	1	1	1	0
-toluene catabolic process	GO_0042203	1	1	1	0
-toluene biosynthetic process	GO_0046252	1	1	1	0
-toluene-containing compound metabolic process	GO_0072490	1	0	1	0
-toluene-containing compound catabolic process	GO_0072491	1	0	1	0
-toluene-4-sulfonate metabolic process	GO_0018972	1	0	1	0
-toluene-4-sulfonate catabolic process	GO_0046269	1	0	1	0
-toluene-4-sulfonate biosynthetic process	GO_0046268	1	0	1	1
-anaerobic toluene metabolic process	GO_0018971	0	1	1	0
-anaerobic toluene catabolic process	GO_0046254	0	1	1	0
-anaerobic toluene biosynthetic process	GO_0046253	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+toluene oxidation via toluene-cis-1,2-dihydrodiol	GO_0019696	1	1	1	0	0
+toluene oxidation via 4-hydroxytoluene	GO_0019603	1	1	1	0	0
+toluene oxidation via 3-hydroxytoluene	GO_0019602	1	1	1	0	0
+toluene oxidation via 2-hydroxytoluene	GO_0019601	1	1	1	0	0
+toluene oxidation to catechol	GO_0019604	1	1	1	0	0
+toluene oxidation	GO_0019600	1	1	1	0	0
+toluene metabolic process	GO_0018970	1	1	1	0	0
+toluene catabolic process	GO_0042203	1	1	1	0	0
+toluene biosynthetic process	GO_0046252	1	1	1	0	0
+toluene-containing compound metabolic process	GO_0072490	1	0	1	0	0
+toluene-containing compound catabolic process	GO_0072491	1	0	1	0	0
+toluene-4-sulfonate metabolic process	GO_0018972	1	0	1	0	0
+toluene-4-sulfonate catabolic process	GO_0046269	1	0	1	0	0
+toluene-4-sulfonate biosynthetic process	GO_0046268	1	0	1	1	1
+anaerobic toluene metabolic process	GO_0018971	0	1	1	0	0
+anaerobic toluene catabolic process	GO_0046254	0	1	1	0	0
+anaerobic toluene biosynthetic process	GO_0046253	0	1	1	0	0

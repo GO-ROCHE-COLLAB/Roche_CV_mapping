@@ -1,15 +1,15 @@
-name	ID	manual	auto	checked	blacklisted
-asparagine metabolic process	GO_0006528	1	1	1	0
-asparagine catabolic process via L-aspartate	GO_0033345	1	1	1	0
-asparagine catabolic process via 2-oxosuccinamate	GO_0033346	1	1	1	0
-asparagine catabolic process	GO_0006530	1	1	1	0
-asparagine biosynthetic process from oxaloacetate	GO_0019266	1	1	1	0
-asparagine biosynthetic process from cysteine	GO_0019267	1	1	1	0
-asparagine biosynthetic process	GO_0006529	1	1	1	0
-asparaginyl-tRNAAsn biosynthesis via transamidation	GO_0070680	1	0	1	1
-asparaginyl-tRNA aminoacylation	GO_0006421	1	0	1	1
-asparagine transport	GO_0006867	1	0	1	0
-cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	0	1	1	0
-L-asparagine metabolic process	GO_0070982	0	1	1	0
-L-asparagine biosynthetic process	GO_0070981	0	1	1	0
-(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+asparagine metabolic process	GO_0006528	1	1	1	0	0
+asparagine catabolic process via L-aspartate	GO_0033345	1	1	1	0	0
+asparagine catabolic process via 2-oxosuccinamate	GO_0033346	1	1	1	0	0
+asparagine catabolic process	GO_0006530	1	1	1	0	0
+asparagine biosynthetic process from oxaloacetate	GO_0019266	1	1	1	0	0
+asparagine biosynthetic process from cysteine	GO_0019267	1	1	1	0	0
+asparagine biosynthetic process	GO_0006529	1	1	1	0	0
+asparaginyl-tRNAAsn biosynthesis via transamidation	GO_0070680	1	0	1	1	0
+asparaginyl-tRNA aminoacylation	GO_0006421	1	0	1	1	0
+asparagine transport	GO_0006867	1	0	1	0	0
+cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	0	1	1	0	0
+L-asparagine metabolic process	GO_0070982	0	1	1	0	0
+L-asparagine biosynthetic process	GO_0070981	0	1	1	0	0
+(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	1	0	0

@@ -1,194 +1,194 @@
-name	ID	manual	auto	checked	blacklisted
-leptotene	GO_0000237	1	0	1	0
-diplotene	GO_0000240	1	0	1	0
-diakinesis	GO_0000241	1	0	1	0
-zygospore formation	GO_0034296	0	1	0	0
-trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	0	0
-synaptonemal complex assembly	GO_0007130	0	1	0	0
-synapsis	GO_0007129	0	1	0	0
-spore membrane bending pathway	GO_0070583	0	1	0	0
-spindle assembly involved in meiosis	GO_0090306	0	1	0	0
-spindle assembly involved in male meiosis II	GO_0007055	0	1	0	0
-spindle assembly involved in male meiosis I	GO_0007054	0	1	0	0
-spindle assembly involved in male meiosis	GO_0007053	0	1	0	0
-spindle assembly involved in female meiosis II	GO_0007058	0	1	0	0
-spindle assembly involved in female meiosis I	GO_0007057	0	1	0	0
-spindle assembly involved in female meiosis	GO_0007056	0	1	0	0
-sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation	GO_0051759	0	1	0	0
-sexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075285	0	1	0	0
-sexual sporulation resulting in formation of a cellular spore	GO_0043935	0	1	0	0
-sexual sporulation	GO_0034293	0	1	0	0
-sexual spore wall assembly	GO_0034294	0	1	0	0
-resolution of meiotic recombination intermediates	GO_0000712	0	1	0	0
-regulation of zygospore formation	GO_0075298	0	1	0	0
-regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010672	0	1	0	0
-regulation of transcription during meiosis	GO_0051037	0	1	0	0
-regulation of synaptonemal complex assembly	GO_0090173	0	1	0	0
-regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043940	0	1	0	0
-regulation of sexual sporulation	GO_0034306	0	1	0	0
-regulation of reciprocal meiotic recombination	GO_0010520	0	1	0	0
-regulation of oospore formation	GO_0075244	0	1	0	0
-regulation of meiotic joint molecule formation	GO_0010946	0	1	0	0
-regulation of meiotic DNA double-strand break formation	GO_1903341	0	1	0	0
-regulation of meiosis by regulation of transcription from RNA polymerase II promoter	GO_1900401	0	1	0	0
-regulation of meiosis I	GO_0060631	0	1	0	0
-regulation of meiosis	GO_0040020	0	1	0	0
-regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000709	0	1	0	0
-regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000712	0	1	0	0
-regulation of maintenance of meiotic sister chromatid cohesion	GO_0034094	0	1	0	0
-regulation of linear element assembly	GO_0090006	0	1	0	0
-regulation of homologous chromosome segregation	GO_0060629	0	1	0	0
-regulation of basidiospore formation	GO_0075302	0	1	0	0
-regulation of ascospore-type prospore membrane assembly	GO_1903023	0	1	0	0
-regulation of ascospore wall chitin biosynthetic process	GO_0034223	0	1	0	0
-regulation of ascospore wall beta-glucan biosynthetic process	GO_0060622	0	1	0	0
-regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0060624	0	1	0	0
-regulation of ascospore formation	GO_0034307	0	1	0	0
-reciprocal meiotic recombination	GO_0007131	0	1	0	0
-positive regulation of zygospore formation	GO_0075299	0	1	0	0
-positive regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010673	0	1	0	0
-positive regulation of transcription during meiosis	GO_0051039	0	1	0	0
-positive regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043941	0	1	0	0
-positive regulation of reciprocal meiotic recombination	GO_0010845	0	1	0	0
-positive regulation of oospore formation	GO_0075245	0	1	0	0
-positive regulation of meiotic DNA double-strand break formation	GO_1903343	0	1	0	0
-positive regulation of meiosis by positive regulation of transcription from RNA polymerase II promoter	GO_1900476	0	1	0	0
-positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter	GO_1900475	0	1	0	0
-positive regulation of meiosis I	GO_0060903	0	1	0	0
-positive regulation of meiosis	GO_0045836	0	1	0	0
-positive regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000711	0	1	0	0
-positive regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000714	0	1	0	0
-positive regulation of maintenance of meiotic sister chromatid cohesion	GO_0034096	0	1	0	0
-positive regulation of basidiospore formation	GO_0075303	0	1	0	0
-positive regulation of ascospore-type prospore membrane assembly	GO_1903024	0	1	0	0
-positive regulation of ascospore formation	GO_0075296	0	1	0	0
-polar body extrusion after meiotic divisions	GO_0040038	0	1	0	0
-oospore formation	GO_0075243	0	1	0	0
-negative regulation of zygospore formation	GO_0075300	0	1	0	0
-negative regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010674	0	1	0	0
-negative regulation of transcription during meiosis	GO_0051038	0	1	0	0
-negative regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043942	0	1	0	0
-negative regulation of reciprocal meiotic recombination	GO_0045128	0	1	0	0
-negative regulation of oospore formation	GO_0075246	0	1	0	0
-negative regulation of meiotic joint molecule formation	GO_0010947	0	1	0	0
-negative regulation of meiotic DNA double-strand break formation	GO_1903342	0	1	0	0
-negative regulation of meiosis	GO_0045835	0	1	0	0
-negative regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000710	0	1	0	0
-negative regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000713	0	1	0	0
-negative regulation of maintenance of meiotic sister chromatid cohesion	GO_0034095	0	1	0	0
-negative regulation of basidiospore formation	GO_0075304	0	1	0	0
-negative regulation of ascospore formation	GO_0075297	0	1	0	0
-microtubule cytoskeleton organization involved in synapsis	GO_0090172	0	1	0	0
-meiotic telomere tethering at nuclear periphery	GO_0044821	0	1	0	0
-meiotic telomere clustering	GO_0045141	0	1	0	0
-meiotic strand invasion involved in reciprocal meiotic recombination	GO_0010774	0	1	0	0
-meiotic strand invasion involved in meiotic gene conversion	GO_0010775	0	1	0	0
-meiotic strand invasion	GO_0000708	0	1	0	0
-meiotic strand displacement involved in double-strand break repair via SDSA	GO_1902346	0	1	0	0
-meiotic strand displacement	GO_0000714	0	1	0	0
-meiotic spindle midzone assembly	GO_0051257	0	1	0	0
-meiotic sister chromatid separation	GO_0051757	0	1	0	0
-meiotic sister chromatid segregation	GO_0045144	0	1	0	0
-meiotic sister chromatid cohesion, centromeric	GO_0051754	0	1	0	0
-meiotic sister chromatid cohesion, arms	GO_0051760	0	1	0	0
-meiotic sister chromatid cohesion involved in meiosis II	GO_0010790	0	1	0	0
-meiotic sister chromatid cohesion involved in meiosis I	GO_0010789	0	1	0	0
-meiotic sister chromatid cohesion	GO_0051177	0	1	0	0
-meiotic sister chromatid centromere separation	GO_0051756	0	1	0	0
-meiotic sister chromatid arm separation	GO_0051755	0	1	0	0
-meiotic recombination nodule assembly	GO_0007146	0	1	0	0
-meiotic recombination checkpoint	GO_0051598	0	1	0	0
-meiotic nuclear division	GO_0007126	0	1	0	0
-meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0
-meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	0	0
-meiotic mismatch repair	GO_0000710	0	1	0	0
-meiotic metaphase plate congression	GO_0051311	0	1	0	0
-meiotic metaphase II plate congression	GO_0043061	0	1	0	0
-meiotic metaphase I plate congression	GO_0043060	0	1	0	0
-meiotic joint molecule formation	GO_0000709	0	1	0	0
-meiotic heteroduplex formation	GO_0000713	0	1	0	0
-meiotic gene conversion	GO_0006311	0	1	0	0
-meiotic chromosome separation	GO_0051307	0	1	0	0
-meiotic chromosome segregation	GO_0045132	0	1	0	0
-meiotic chromosome movement towards spindle pole	GO_0016344	0	1	0	0
-meiotic chromosome decondensation	GO_0051178	0	1	0	0
-meiotic chromosome condensation	GO_0010032	0	1	0	0
-meiotic G2/MI transition	GO_0008315	0	1	0	0
-meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0
-meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0
-meiotic DNA repair synthesis	GO_0000711	0	1	0	0
-meiotic DNA recombinase assembly involved in reciprocal meiotic recombination	GO_0010772	0	1	0	0
-meiotic DNA recombinase assembly involved in meiotic gene conversion	GO_0010773	0	1	0	0
-meiotic DNA recombinase assembly	GO_0000707	0	1	0	0
-meiotic DNA double-strand break processing involved in reciprocal meiotic recombination	GO_0010705	0	1	0	0
-meiotic DNA double-strand break processing involved in meiotic gene conversion	GO_0010704	0	1	0	0
-meiotic DNA double-strand break formation involved in reciprocal meiotic recombination	GO_0010780	0	1	0	0
-meiotic DNA double-strand break formation involved in meiotic gene conversion	GO_0010781	0	1	0	0
-meiotic DNA double-strand break formation	GO_0042138	0	1	0	0
-meiosis II nuclear envelope reassembly	GO_0051335	0	1	0	0
-meiosis II nuclear envelope disassembly	GO_0051080	0	1	0	0
-meiosis II cytokinesis	GO_0007111	0	1	0	0
-meiosis II	GO_0007135	0	1	0	0
-meiosis I nuclear envelope reassembly	GO_0051334	0	1	0	0
-meiosis I nuclear envelope disassembly	GO_0051079	0	1	0	0
-meiosis I cytokinesis	GO_0007110	0	1	0	0
-meiosis I	GO_0007127	0	1	0	0
-male meiotic chromosome movement towards spindle pole	GO_0016346	0	1	0	0
-male meiosis sister chromatid cohesion	GO_0007065	0	1	0	0
-male meiosis cytokinesis	GO_0007112	0	1	0	0
-male meiosis chromosome separation	GO_0051308	0	1	0	0
-male meiosis chromosome segregation	GO_0007060	0	1	0	0
-male meiosis centrosome cycle	GO_0007101	0	1	0	0
-male meiosis II	GO_0007142	0	1	0	0
-male meiosis I	GO_0007141	0	1	0	0
-male meiosis	GO_0007140	0	1	0	0
-maintenance of meiotic sister chromatid cohesion, centromeric	GO_0035875	0	1	0	0
-maintenance of meiotic sister chromatid cohesion, arms	GO_0035876	0	1	0	0
-maintenance of meiotic sister chromatid cohesion	GO_0034090	0	1	0	0
-linear element assembly	GO_0030999	0	1	0	0
-lateral element assembly	GO_0051878	0	1	0	0
-late meiotic recombination nodule assembly	GO_0042140	0	1	0	0
-homologous chromosome segregation	GO_0045143	0	1	0	0
-homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0
-homologous chromosome movement towards spindle pole involved in homologous chromosome segregation	GO_0051758	0	1	0	0
-glucan endo-1,3-beta-D-glucosidase activity involved in ascospore release from ascus	GO_0072317	0	1	0	0
-female meiotic division	GO_0007143	0	1	0	0
-female meiotic chromosome movement towards spindle pole	GO_0016345	0	1	0	0
-female meiosis sister chromatid cohesion	GO_0007066	0	1	0	0
-female meiosis chromosome separation	GO_0051309	0	1	0	0
-female meiosis chromosome segregation	GO_0016321	0	1	0	0
-female meiosis II	GO_0007147	0	1	0	0
-female meiosis I	GO_0007144	0	1	0	0
-extracellular polysaccharide catabolic process involved in ascospore release from ascus	GO_0072000	0	1	0	0
-establishment of meiotic sister chromatid cohesion	GO_0034089	0	1	0	0
-early meiotic recombination nodule assembly	GO_0042139	0	1	0	0
-dynein-driven meiotic oscillatory nuclear movement	GO_0030989	0	1	0	0
-distributive segregation	GO_0032837	0	1	0	0
-chromosome organization involved in meiosis	GO_0070192	0	1	0	0
-chromosome localization to nuclear envelope involved in synapsis	GO_0090220	0	1	0	0
-chiasma assembly	GO_0051026	0	1	0	0
-basidiospore formation	GO_0034295	0	1	0	0
-attachment of telomeric heterochromatin to spindle pole body	GO_0032121	0	1	0	0
-attachment of telomeric heterochromatin to nuclear envelope	GO_0070197	0	1	0	0
-attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	0	0
-attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	0	0
-attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	0	0
-astral spindle assembly involved in male meiosis	GO_0055050	0	1	0	0
-ascospore-type prospore-specific spindle pole body remodeling	GO_0031322	0	1	0	0
-ascospore-type prospore membrane assembly	GO_0032120	0	1	0	0
-ascospore-type prospore assembly	GO_0031321	0	1	0	0
-ascospore wall chitin biosynthetic process	GO_0034217	0	1	0	0
-ascospore wall biogenesis	GO_0070591	0	1	0	0
-ascospore wall beta-glucan metabolic process	GO_0034408	0	1	0	0
-ascospore wall beta-glucan biosynthetic process	GO_0034412	0	1	0	0
-ascospore wall assembly	GO_0030476	0	1	0	0
-ascospore wall (1->3)-beta-D-glucan metabolic process	GO_0034409	0	1	0	0
-ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0034413	0	1	0	0
-ascospore release from ascus	GO_0071998	0	1	0	0
-ascospore formation	GO_0030437	0	1	0	0
-anastral spindle assembly involved in male meiosis	GO_0009971	0	1	0	0
-alpha-glucan catabolic process involved in ascospore release from ascus	GO_0072316	0	1	0	0
-activation of reciprocal meiotic recombination	GO_0010846	0	1	0	0
-activation of meiosis involved in egg activation	GO_0060466	0	1	0	0
-activation of meiosis	GO_0090427	0	1	0	0
-achiasmate meiosis I	GO_0000705	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+leptotene	GO_0000237	1	0	1	0	0
+diplotene	GO_0000240	1	0	1	0	0
+diakinesis	GO_0000241	1	0	1	0	0
+zygospore formation	GO_0034296	0	1	0	0	0
+trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	0	0	0
+synaptonemal complex assembly	GO_0007130	0	1	0	0	0
+synapsis	GO_0007129	0	1	0	0	0
+spore membrane bending pathway	GO_0070583	0	1	0	0	0
+spindle assembly involved in meiosis	GO_0090306	0	1	0	0	0
+spindle assembly involved in male meiosis II	GO_0007055	0	1	0	0	0
+spindle assembly involved in male meiosis I	GO_0007054	0	1	0	0	0
+spindle assembly involved in male meiosis	GO_0007053	0	1	0	0	0
+spindle assembly involved in female meiosis II	GO_0007058	0	1	0	0	0
+spindle assembly involved in female meiosis I	GO_0007057	0	1	0	0	0
+spindle assembly involved in female meiosis	GO_0007056	0	1	0	0	0
+sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation	GO_0051759	0	1	0	0	0
+sexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075285	0	1	0	0	0
+sexual sporulation resulting in formation of a cellular spore	GO_0043935	0	1	0	0	0
+sexual sporulation	GO_0034293	0	1	0	0	0
+sexual spore wall assembly	GO_0034294	0	1	0	0	0
+resolution of meiotic recombination intermediates	GO_0000712	0	1	0	0	0
+regulation of zygospore formation	GO_0075298	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010672	0	1	0	0	0
+regulation of transcription during meiosis	GO_0051037	0	1	0	0	0
+regulation of synaptonemal complex assembly	GO_0090173	0	1	0	0	0
+regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043940	0	1	0	0	0
+regulation of sexual sporulation	GO_0034306	0	1	0	0	0
+regulation of reciprocal meiotic recombination	GO_0010520	0	1	0	0	0
+regulation of oospore formation	GO_0075244	0	1	0	0	0
+regulation of meiotic joint molecule formation	GO_0010946	0	1	0	0	0
+regulation of meiotic DNA double-strand break formation	GO_1903341	0	1	0	0	0
+regulation of meiosis by regulation of transcription from RNA polymerase II promoter	GO_1900401	0	1	0	0	0
+regulation of meiosis I	GO_0060631	0	1	0	0	0
+regulation of meiosis	GO_0040020	0	1	0	0	0
+regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000709	0	1	0	0	0
+regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000712	0	1	0	0	0
+regulation of maintenance of meiotic sister chromatid cohesion	GO_0034094	0	1	0	0	0
+regulation of linear element assembly	GO_0090006	0	1	0	0	0
+regulation of homologous chromosome segregation	GO_0060629	0	1	0	0	0
+regulation of basidiospore formation	GO_0075302	0	1	0	0	0
+regulation of ascospore-type prospore membrane assembly	GO_1903023	0	1	0	0	0
+regulation of ascospore wall chitin biosynthetic process	GO_0034223	0	1	0	0	0
+regulation of ascospore wall beta-glucan biosynthetic process	GO_0060622	0	1	0	0	0
+regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0060624	0	1	0	0	0
+regulation of ascospore formation	GO_0034307	0	1	0	0	0
+reciprocal meiotic recombination	GO_0007131	0	1	0	0	0
+positive regulation of zygospore formation	GO_0075299	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010673	0	1	0	0	0
+positive regulation of transcription during meiosis	GO_0051039	0	1	0	0	0
+positive regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043941	0	1	0	0	0
+positive regulation of reciprocal meiotic recombination	GO_0010845	0	1	0	0	0
+positive regulation of oospore formation	GO_0075245	0	1	0	0	0
+positive regulation of meiotic DNA double-strand break formation	GO_1903343	0	1	0	0	0
+positive regulation of meiosis by positive regulation of transcription from RNA polymerase II promoter	GO_1900476	0	1	0	0	0
+positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter	GO_1900475	0	1	0	0	0
+positive regulation of meiosis I	GO_0060903	0	1	0	0	0
+positive regulation of meiosis	GO_0045836	0	1	0	0	0
+positive regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000711	0	1	0	0	0
+positive regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000714	0	1	0	0	0
+positive regulation of maintenance of meiotic sister chromatid cohesion	GO_0034096	0	1	0	0	0
+positive regulation of basidiospore formation	GO_0075303	0	1	0	0	0
+positive regulation of ascospore-type prospore membrane assembly	GO_1903024	0	1	0	0	0
+positive regulation of ascospore formation	GO_0075296	0	1	0	0	0
+polar body extrusion after meiotic divisions	GO_0040038	0	1	0	0	0
+oospore formation	GO_0075243	0	1	0	0	0
+negative regulation of zygospore formation	GO_0075300	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010674	0	1	0	0	0
+negative regulation of transcription during meiosis	GO_0051038	0	1	0	0	0
+negative regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043942	0	1	0	0	0
+negative regulation of reciprocal meiotic recombination	GO_0045128	0	1	0	0	0
+negative regulation of oospore formation	GO_0075246	0	1	0	0	0
+negative regulation of meiotic joint molecule formation	GO_0010947	0	1	0	0	0
+negative regulation of meiotic DNA double-strand break formation	GO_1903342	0	1	0	0	0
+negative regulation of meiosis	GO_0045835	0	1	0	0	0
+negative regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000710	0	1	0	0	0
+negative regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000713	0	1	0	0	0
+negative regulation of maintenance of meiotic sister chromatid cohesion	GO_0034095	0	1	0	0	0
+negative regulation of basidiospore formation	GO_0075304	0	1	0	0	0
+negative regulation of ascospore formation	GO_0075297	0	1	0	0	0
+microtubule cytoskeleton organization involved in synapsis	GO_0090172	0	1	0	0	0
+meiotic telomere tethering at nuclear periphery	GO_0044821	0	1	0	0	0
+meiotic telomere clustering	GO_0045141	0	1	0	0	0
+meiotic strand invasion involved in reciprocal meiotic recombination	GO_0010774	0	1	0	0	0
+meiotic strand invasion involved in meiotic gene conversion	GO_0010775	0	1	0	0	0
+meiotic strand invasion	GO_0000708	0	1	0	0	0
+meiotic strand displacement involved in double-strand break repair via SDSA	GO_1902346	0	1	0	0	0
+meiotic strand displacement	GO_0000714	0	1	0	0	0
+meiotic spindle midzone assembly	GO_0051257	0	1	0	0	0
+meiotic sister chromatid separation	GO_0051757	0	1	0	0	0
+meiotic sister chromatid segregation	GO_0045144	0	1	0	0	0
+meiotic sister chromatid cohesion, centromeric	GO_0051754	0	1	0	0	0
+meiotic sister chromatid cohesion, arms	GO_0051760	0	1	0	0	0
+meiotic sister chromatid cohesion involved in meiosis II	GO_0010790	0	1	0	0	0
+meiotic sister chromatid cohesion involved in meiosis I	GO_0010789	0	1	0	0	0
+meiotic sister chromatid cohesion	GO_0051177	0	1	0	0	0
+meiotic sister chromatid centromere separation	GO_0051756	0	1	0	0	0
+meiotic sister chromatid arm separation	GO_0051755	0	1	0	0	0
+meiotic recombination nodule assembly	GO_0007146	0	1	0	0	0
+meiotic recombination checkpoint	GO_0051598	0	1	0	0	0
+meiotic nuclear division	GO_0007126	0	1	0	0	0
+meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0	0
+meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	0	0	0
+meiotic mismatch repair	GO_0000710	0	1	0	0	0
+meiotic metaphase plate congression	GO_0051311	0	1	0	0	0
+meiotic metaphase II plate congression	GO_0043061	0	1	0	0	0
+meiotic metaphase I plate congression	GO_0043060	0	1	0	0	0
+meiotic joint molecule formation	GO_0000709	0	1	0	0	0
+meiotic heteroduplex formation	GO_0000713	0	1	0	0	0
+meiotic gene conversion	GO_0006311	0	1	0	0	0
+meiotic chromosome separation	GO_0051307	0	1	0	0	0
+meiotic chromosome segregation	GO_0045132	0	1	0	0	0
+meiotic chromosome movement towards spindle pole	GO_0016344	0	1	0	0	0
+meiotic chromosome decondensation	GO_0051178	0	1	0	0	0
+meiotic chromosome condensation	GO_0010032	0	1	0	0	0
+meiotic G2/MI transition	GO_0008315	0	1	0	0	0
+meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0	0
+meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0	0
+meiotic DNA repair synthesis	GO_0000711	0	1	0	0	0
+meiotic DNA recombinase assembly involved in reciprocal meiotic recombination	GO_0010772	0	1	0	0	0
+meiotic DNA recombinase assembly involved in meiotic gene conversion	GO_0010773	0	1	0	0	0
+meiotic DNA recombinase assembly	GO_0000707	0	1	0	0	0
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination	GO_0010705	0	1	0	0	0
+meiotic DNA double-strand break processing involved in meiotic gene conversion	GO_0010704	0	1	0	0	0
+meiotic DNA double-strand break formation involved in reciprocal meiotic recombination	GO_0010780	0	1	0	0	0
+meiotic DNA double-strand break formation involved in meiotic gene conversion	GO_0010781	0	1	0	0	0
+meiotic DNA double-strand break formation	GO_0042138	0	1	0	0	0
+meiosis II nuclear envelope reassembly	GO_0051335	0	1	0	0	0
+meiosis II nuclear envelope disassembly	GO_0051080	0	1	0	0	0
+meiosis II cytokinesis	GO_0007111	0	1	0	0	0
+meiosis II	GO_0007135	0	1	0	0	0
+meiosis I nuclear envelope reassembly	GO_0051334	0	1	0	0	0
+meiosis I nuclear envelope disassembly	GO_0051079	0	1	0	0	0
+meiosis I cytokinesis	GO_0007110	0	1	0	0	0
+meiosis I	GO_0007127	0	1	0	0	0
+male meiotic chromosome movement towards spindle pole	GO_0016346	0	1	0	0	0
+male meiosis sister chromatid cohesion	GO_0007065	0	1	0	0	0
+male meiosis cytokinesis	GO_0007112	0	1	0	0	0
+male meiosis chromosome separation	GO_0051308	0	1	0	0	0
+male meiosis chromosome segregation	GO_0007060	0	1	0	0	0
+male meiosis centrosome cycle	GO_0007101	0	1	0	0	0
+male meiosis II	GO_0007142	0	1	0	0	0
+male meiosis I	GO_0007141	0	1	0	0	0
+male meiosis	GO_0007140	0	1	0	0	0
+maintenance of meiotic sister chromatid cohesion, centromeric	GO_0035875	0	1	0	0	0
+maintenance of meiotic sister chromatid cohesion, arms	GO_0035876	0	1	0	0	0
+maintenance of meiotic sister chromatid cohesion	GO_0034090	0	1	0	0	0
+linear element assembly	GO_0030999	0	1	0	0	0
+lateral element assembly	GO_0051878	0	1	0	0	0
+late meiotic recombination nodule assembly	GO_0042140	0	1	0	0	0
+homologous chromosome segregation	GO_0045143	0	1	0	0	0
+homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
+homologous chromosome movement towards spindle pole involved in homologous chromosome segregation	GO_0051758	0	1	0	0	0
+glucan endo-1,3-beta-D-glucosidase activity involved in ascospore release from ascus	GO_0072317	0	1	0	0	0
+female meiotic division	GO_0007143	0	1	0	0	0
+female meiotic chromosome movement towards spindle pole	GO_0016345	0	1	0	0	0
+female meiosis sister chromatid cohesion	GO_0007066	0	1	0	0	0
+female meiosis chromosome separation	GO_0051309	0	1	0	0	0
+female meiosis chromosome segregation	GO_0016321	0	1	0	0	0
+female meiosis II	GO_0007147	0	1	0	0	0
+female meiosis I	GO_0007144	0	1	0	0	0
+extracellular polysaccharide catabolic process involved in ascospore release from ascus	GO_0072000	0	1	0	0	0
+establishment of meiotic sister chromatid cohesion	GO_0034089	0	1	0	0	0
+early meiotic recombination nodule assembly	GO_0042139	0	1	0	0	0
+dynein-driven meiotic oscillatory nuclear movement	GO_0030989	0	1	0	0	0
+distributive segregation	GO_0032837	0	1	0	0	0
+chromosome organization involved in meiosis	GO_0070192	0	1	0	0	0
+chromosome localization to nuclear envelope involved in synapsis	GO_0090220	0	1	0	0	0
+chiasma assembly	GO_0051026	0	1	0	0	0
+basidiospore formation	GO_0034295	0	1	0	0	0
+attachment of telomeric heterochromatin to spindle pole body	GO_0032121	0	1	0	0	0
+attachment of telomeric heterochromatin to nuclear envelope	GO_0070197	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	0	0	0
+astral spindle assembly involved in male meiosis	GO_0055050	0	1	0	0	0
+ascospore-type prospore-specific spindle pole body remodeling	GO_0031322	0	1	0	0	0
+ascospore-type prospore membrane assembly	GO_0032120	0	1	0	0	0
+ascospore-type prospore assembly	GO_0031321	0	1	0	0	0
+ascospore wall chitin biosynthetic process	GO_0034217	0	1	0	0	0
+ascospore wall biogenesis	GO_0070591	0	1	0	0	0
+ascospore wall beta-glucan metabolic process	GO_0034408	0	1	0	0	0
+ascospore wall beta-glucan biosynthetic process	GO_0034412	0	1	0	0	0
+ascospore wall assembly	GO_0030476	0	1	0	0	0
+ascospore wall (1->3)-beta-D-glucan metabolic process	GO_0034409	0	1	0	0	0
+ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0034413	0	1	0	0	0
+ascospore release from ascus	GO_0071998	0	1	0	0	0
+ascospore formation	GO_0030437	0	1	0	0	0
+anastral spindle assembly involved in male meiosis	GO_0009971	0	1	0	0	0
+alpha-glucan catabolic process involved in ascospore release from ascus	GO_0072316	0	1	0	0	0
+activation of reciprocal meiotic recombination	GO_0010846	0	1	0	0	0
+activation of meiosis involved in egg activation	GO_0060466	0	1	0	0	0
+activation of meiosis	GO_0090427	0	1	0	0	0
+achiasmate meiosis I	GO_0000705	0	1	0	0	0

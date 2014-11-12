@@ -1,89 +1,89 @@
-name	ID	manual	auto	checked	blacklisted
-toll-like receptor signaling pathway	GO_0002224	1	1	1	0
-toll-like receptor TLR6:TLR2 signaling pathway	GO_0038124	1	1	1	0
-toll-like receptor TLR1:TLR2 signaling pathway	GO_0038123	1	1	1	0
-toll-like receptor 9 signaling pathway	GO_0034162	1	1	1	0
-toll-like receptor 8 signaling pathway	GO_0034158	1	1	1	0
-toll-like receptor 7 signaling pathway	GO_0034154	1	1	1	0
-toll-like receptor 6 signaling pathway	GO_0034150	1	1	1	0
-toll-like receptor 5 signaling pathway	GO_0034146	1	1	1	0
-toll-like receptor 4 signaling pathway	GO_0034142	1	1	1	0
-toll-like receptor 3 signaling pathway	GO_0034138	1	1	1	0
-toll-like receptor 21 signaling pathway	GO_0035682	1	1	1	0
-toll-like receptor 2 signaling pathway	GO_0034134	1	1	1	0
-toll-like receptor 15 signaling pathway	GO_0035681	1	1	1	0
-toll-like receptor 13 signaling pathway	GO_0034178	1	1	1	0
-toll-like receptor 12 signaling pathway	GO_0034174	1	1	1	0
-toll-like receptor 11 signaling pathway	GO_0034170	1	1	1	0
-toll-like receptor 10 signaling pathway	GO_0034166	1	1	1	0
-toll-like receptor 1 signaling pathway	GO_0034130	1	1	1	0
-regulation of toll-like receptor signaling pathway	GO_0034121	1	1	1	0
-regulation of toll-like receptor 9 signaling pathway	GO_0034163	1	1	1	0
-regulation of toll-like receptor 8 signaling pathway	GO_0034159	1	1	1	0
-regulation of toll-like receptor 7 signaling pathway	GO_0034155	1	1	1	0
-regulation of toll-like receptor 6 signaling pathway	GO_0034151	1	1	1	0
-regulation of toll-like receptor 5 signaling pathway	GO_0034147	1	1	1	0
-regulation of toll-like receptor 4 signaling pathway	GO_0034143	1	1	1	0
-regulation of toll-like receptor 3 signaling pathway	GO_0034139	1	1	1	0
-regulation of toll-like receptor 21 signaling pathway	GO_2000443	1	1	1	0
-regulation of toll-like receptor 2 signaling pathway	GO_0034135	1	1	1	0
-regulation of toll-like receptor 15 signaling pathway	GO_2000440	1	1	1	0
-regulation of toll-like receptor 13 signaling pathway	GO_0034179	1	1	1	0
-regulation of toll-like receptor 12 signaling pathway	GO_0034175	1	1	1	0
-regulation of toll-like receptor 11 signaling pathway	GO_0034171	1	1	1	0
-regulation of toll-like receptor 10 signaling pathway	GO_0034167	1	1	1	0
-regulation of toll-like receptor 1 signaling pathway	GO_0034131	1	1	1	0
-regulation of MyD88-independent toll-like receptor signaling pathway	GO_0034127	1	1	1	0
-regulation of MyD88-dependent toll-like receptor signaling pathway	GO_0034124	1	1	1	0
-positive regulation of toll-like receptor signaling pathway	GO_0034123	1	1	1	0
-positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization	GO_1901245	1	1	1	0
-positive regulation of toll-like receptor 9 signaling pathway	GO_0034165	1	1	1	0
-positive regulation of toll-like receptor 8 signaling pathway	GO_0034161	1	1	1	0
-positive regulation of toll-like receptor 7 signaling pathway	GO_0034157	1	1	1	0
-positive regulation of toll-like receptor 6 signaling pathway	GO_0034153	1	1	1	0
-positive regulation of toll-like receptor 5 signaling pathway	GO_0034149	1	1	1	0
-positive regulation of toll-like receptor 4 signaling pathway	GO_0034145	1	1	1	0
-positive regulation of toll-like receptor 3 signaling pathway	GO_0034141	1	1	1	0
-positive regulation of toll-like receptor 21 signaling pathway	GO_2000445	1	1	1	0
-positive regulation of toll-like receptor 2 signaling pathway	GO_0034137	1	1	1	0
-positive regulation of toll-like receptor 15 signaling pathway	GO_2000442	1	1	1	0
-positive regulation of toll-like receptor 13 signaling pathway	GO_0034181	1	1	1	0
-positive regulation of toll-like receptor 12 signaling pathway	GO_0034177	1	1	1	0
-positive regulation of toll-like receptor 11 signaling pathway	GO_0034173	1	1	1	0
-positive regulation of toll-like receptor 10 signaling pathway	GO_0034169	1	1	1	0
-positive regulation of toll-like receptor 1 signaling pathway	GO_0034133	1	1	1	0
-positive regulation of MyD88-independent toll-like receptor signaling pathway	GO_0034129	1	1	1	0
-positive regulation of MyD88-dependent toll-like receptor signaling pathway	GO_0034126	1	1	1	0
-negative regulation of toll-like receptor signaling pathway	GO_0034122	1	1	1	0
-negative regulation of toll-like receptor 9 signaling pathway	GO_0034164	1	1	1	0
-negative regulation of toll-like receptor 8 signaling pathway	GO_0034160	1	1	1	0
-negative regulation of toll-like receptor 7 signaling pathway	GO_0034156	1	1	1	0
-negative regulation of toll-like receptor 6 signaling pathway	GO_0034152	1	1	1	0
-negative regulation of toll-like receptor 5 signaling pathway	GO_0034148	1	1	1	0
-negative regulation of toll-like receptor 4 signaling pathway	GO_0034144	1	1	1	0
-negative regulation of toll-like receptor 3 signaling pathway	GO_0034140	1	1	1	0
-negative regulation of toll-like receptor 21 signaling pathway	GO_2000444	1	1	1	0
-negative regulation of toll-like receptor 2 signaling pathway	GO_0034136	1	1	1	0
-negative regulation of toll-like receptor 15 signaling pathway	GO_2000441	1	1	1	0
-negative regulation of toll-like receptor 13 signaling pathway	GO_0034180	1	1	1	0
-negative regulation of toll-like receptor 12 signaling pathway	GO_0034176	1	1	1	0
-negative regulation of toll-like receptor 11 signaling pathway	GO_0034172	1	1	1	0
-negative regulation of toll-like receptor 10 signaling pathway	GO_0034168	1	1	1	0
-negative regulation of toll-like receptor 1 signaling pathway	GO_0034132	1	1	1	0
-negative regulation of MyD88-independent toll-like receptor signaling pathway	GO_0034128	1	1	1	0
-negative regulation of MyD88-dependent toll-like receptor signaling pathway	GO_0034125	1	1	1	0
-TRIF-dependent toll-like receptor signaling pathway	GO_0035666	1	1	1	0
-TRIF-dependent toll-like receptor 4 signaling pathway	GO_0035667	1	1	1	0
-TRAM-dependent toll-like receptor signaling pathway	GO_0035668	1	1	1	0
-TRAM-dependent toll-like receptor 4 signaling pathway	GO_0035669	1	1	1	0
-TIRAP-dependent toll-like receptor signaling pathway	GO_0035664	1	1	1	0
-TIRAP-dependent toll-like receptor 4 signaling pathway	GO_0035665	1	1	1	0
-MyD88-independent toll-like receptor signaling pathway	GO_0002756	1	1	1	0
-MyD88-dependent toll-like receptor signaling pathway	GO_0002755	1	1	1	0
-MyD88-dependent toll-like receptor 4 signaling pathway	GO_0035660	1	1	1	0
-MyD88-dependent toll-like receptor 2 signaling pathway	GO_0035661	1	1	1	0
-regulation of Toll signaling pathway	GO_0008592	1	0	1	0
-positive regulation of Toll signaling pathway	GO_0045752	1	0	1	0
-negative regulation of Toll signaling pathway	GO_0045751	1	0	1	0
-Toll signaling pathway	GO_0008063	1	0	1	0
-suppression by virus of host toll-like receptor signaling pathway	GO_0039722	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+toll-like receptor signaling pathway	GO_0002224	1	1	1	0	0
+toll-like receptor TLR6:TLR2 signaling pathway	GO_0038124	1	1	1	0	0
+toll-like receptor TLR1:TLR2 signaling pathway	GO_0038123	1	1	1	0	0
+toll-like receptor 9 signaling pathway	GO_0034162	1	1	1	0	0
+toll-like receptor 8 signaling pathway	GO_0034158	1	1	1	0	0
+toll-like receptor 7 signaling pathway	GO_0034154	1	1	1	0	0
+toll-like receptor 6 signaling pathway	GO_0034150	1	1	1	0	0
+toll-like receptor 5 signaling pathway	GO_0034146	1	1	1	0	0
+toll-like receptor 4 signaling pathway	GO_0034142	1	1	1	0	0
+toll-like receptor 3 signaling pathway	GO_0034138	1	1	1	0	0
+toll-like receptor 21 signaling pathway	GO_0035682	1	1	1	0	0
+toll-like receptor 2 signaling pathway	GO_0034134	1	1	1	0	0
+toll-like receptor 15 signaling pathway	GO_0035681	1	1	1	0	0
+toll-like receptor 13 signaling pathway	GO_0034178	1	1	1	0	0
+toll-like receptor 12 signaling pathway	GO_0034174	1	1	1	0	0
+toll-like receptor 11 signaling pathway	GO_0034170	1	1	1	0	0
+toll-like receptor 10 signaling pathway	GO_0034166	1	1	1	0	0
+toll-like receptor 1 signaling pathway	GO_0034130	1	1	1	0	0
+regulation of toll-like receptor signaling pathway	GO_0034121	1	1	1	0	0
+regulation of toll-like receptor 9 signaling pathway	GO_0034163	1	1	1	0	0
+regulation of toll-like receptor 8 signaling pathway	GO_0034159	1	1	1	0	0
+regulation of toll-like receptor 7 signaling pathway	GO_0034155	1	1	1	0	0
+regulation of toll-like receptor 6 signaling pathway	GO_0034151	1	1	1	0	0
+regulation of toll-like receptor 5 signaling pathway	GO_0034147	1	1	1	0	0
+regulation of toll-like receptor 4 signaling pathway	GO_0034143	1	1	1	0	0
+regulation of toll-like receptor 3 signaling pathway	GO_0034139	1	1	1	0	0
+regulation of toll-like receptor 21 signaling pathway	GO_2000443	1	1	1	0	0
+regulation of toll-like receptor 2 signaling pathway	GO_0034135	1	1	1	0	0
+regulation of toll-like receptor 15 signaling pathway	GO_2000440	1	1	1	0	0
+regulation of toll-like receptor 13 signaling pathway	GO_0034179	1	1	1	0	0
+regulation of toll-like receptor 12 signaling pathway	GO_0034175	1	1	1	0	0
+regulation of toll-like receptor 11 signaling pathway	GO_0034171	1	1	1	0	0
+regulation of toll-like receptor 10 signaling pathway	GO_0034167	1	1	1	0	0
+regulation of toll-like receptor 1 signaling pathway	GO_0034131	1	1	1	0	0
+regulation of MyD88-independent toll-like receptor signaling pathway	GO_0034127	1	1	1	0	0
+regulation of MyD88-dependent toll-like receptor signaling pathway	GO_0034124	1	1	1	0	0
+positive regulation of toll-like receptor signaling pathway	GO_0034123	1	1	1	0	0
+positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization	GO_1901245	1	1	1	0	0
+positive regulation of toll-like receptor 9 signaling pathway	GO_0034165	1	1	1	0	0
+positive regulation of toll-like receptor 8 signaling pathway	GO_0034161	1	1	1	0	0
+positive regulation of toll-like receptor 7 signaling pathway	GO_0034157	1	1	1	0	0
+positive regulation of toll-like receptor 6 signaling pathway	GO_0034153	1	1	1	0	0
+positive regulation of toll-like receptor 5 signaling pathway	GO_0034149	1	1	1	0	0
+positive regulation of toll-like receptor 4 signaling pathway	GO_0034145	1	1	1	0	0
+positive regulation of toll-like receptor 3 signaling pathway	GO_0034141	1	1	1	0	0
+positive regulation of toll-like receptor 21 signaling pathway	GO_2000445	1	1	1	0	0
+positive regulation of toll-like receptor 2 signaling pathway	GO_0034137	1	1	1	0	0
+positive regulation of toll-like receptor 15 signaling pathway	GO_2000442	1	1	1	0	0
+positive regulation of toll-like receptor 13 signaling pathway	GO_0034181	1	1	1	0	0
+positive regulation of toll-like receptor 12 signaling pathway	GO_0034177	1	1	1	0	0
+positive regulation of toll-like receptor 11 signaling pathway	GO_0034173	1	1	1	0	0
+positive regulation of toll-like receptor 10 signaling pathway	GO_0034169	1	1	1	0	0
+positive regulation of toll-like receptor 1 signaling pathway	GO_0034133	1	1	1	0	0
+positive regulation of MyD88-independent toll-like receptor signaling pathway	GO_0034129	1	1	1	0	0
+positive regulation of MyD88-dependent toll-like receptor signaling pathway	GO_0034126	1	1	1	0	0
+negative regulation of toll-like receptor signaling pathway	GO_0034122	1	1	1	0	0
+negative regulation of toll-like receptor 9 signaling pathway	GO_0034164	1	1	1	0	0
+negative regulation of toll-like receptor 8 signaling pathway	GO_0034160	1	1	1	0	0
+negative regulation of toll-like receptor 7 signaling pathway	GO_0034156	1	1	1	0	0
+negative regulation of toll-like receptor 6 signaling pathway	GO_0034152	1	1	1	0	0
+negative regulation of toll-like receptor 5 signaling pathway	GO_0034148	1	1	1	0	0
+negative regulation of toll-like receptor 4 signaling pathway	GO_0034144	1	1	1	0	0
+negative regulation of toll-like receptor 3 signaling pathway	GO_0034140	1	1	1	0	0
+negative regulation of toll-like receptor 21 signaling pathway	GO_2000444	1	1	1	0	0
+negative regulation of toll-like receptor 2 signaling pathway	GO_0034136	1	1	1	0	0
+negative regulation of toll-like receptor 15 signaling pathway	GO_2000441	1	1	1	0	0
+negative regulation of toll-like receptor 13 signaling pathway	GO_0034180	1	1	1	0	0
+negative regulation of toll-like receptor 12 signaling pathway	GO_0034176	1	1	1	0	0
+negative regulation of toll-like receptor 11 signaling pathway	GO_0034172	1	1	1	0	0
+negative regulation of toll-like receptor 10 signaling pathway	GO_0034168	1	1	1	0	0
+negative regulation of toll-like receptor 1 signaling pathway	GO_0034132	1	1	1	0	0
+negative regulation of MyD88-independent toll-like receptor signaling pathway	GO_0034128	1	1	1	0	0
+negative regulation of MyD88-dependent toll-like receptor signaling pathway	GO_0034125	1	1	1	0	0
+TRIF-dependent toll-like receptor signaling pathway	GO_0035666	1	1	1	0	0
+TRIF-dependent toll-like receptor 4 signaling pathway	GO_0035667	1	1	1	0	0
+TRAM-dependent toll-like receptor signaling pathway	GO_0035668	1	1	1	0	0
+TRAM-dependent toll-like receptor 4 signaling pathway	GO_0035669	1	1	1	0	0
+TIRAP-dependent toll-like receptor signaling pathway	GO_0035664	1	1	1	0	0
+TIRAP-dependent toll-like receptor 4 signaling pathway	GO_0035665	1	1	1	0	0
+MyD88-independent toll-like receptor signaling pathway	GO_0002756	1	1	1	0	0
+MyD88-dependent toll-like receptor signaling pathway	GO_0002755	1	1	1	0	0
+MyD88-dependent toll-like receptor 4 signaling pathway	GO_0035660	1	1	1	0	0
+MyD88-dependent toll-like receptor 2 signaling pathway	GO_0035661	1	1	1	0	0
+regulation of Toll signaling pathway	GO_0008592	1	0	1	0	0
+positive regulation of Toll signaling pathway	GO_0045752	1	0	1	0	0
+negative regulation of Toll signaling pathway	GO_0045751	1	0	1	0	0
+Toll signaling pathway	GO_0008063	1	0	1	0	0
+suppression by virus of host toll-like receptor signaling pathway	GO_0039722	0	1	1	0	0

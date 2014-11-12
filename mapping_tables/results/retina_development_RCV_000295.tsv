@@ -1,43 +1,43 @@
-name	ID	manual	auto	checked	blacklisted
-eye photoreceptor cell development	GO_0042462	1	0	1	0
-retinal rod cell fate commitment	GO_0060223	0	1	0	0
-retinal rod cell differentiation	GO_0060221	0	1	0	0
-retinal pigment epithelium development	GO_0003406	0	1	0	0
-retinal cone cell fate specification	GO_0042672	0	1	0	0
-retinal cone cell fate determination	GO_0042671	0	1	0	0
-retinal cone cell fate commitment	GO_0046551	0	1	0	0
-retinal cone cell differentiation	GO_0042670	0	1	0	0
-retinal cone cell development	GO_0046549	0	1	0	0
-retinal blood vessel morphogenesis	GO_0061304	0	1	0	0
-retinal bipolar neuron differentiation	GO_0060040	0	1	0	0
-retina vasculature morphogenesis in camera-type eye	GO_0061299	0	1	0	0
-retina vasculature development in camera-type eye	GO_0061298	0	1	0	0
-retina morphogenesis in camera-type eye	GO_0060042	0	1	0	0
-retina layer formation	GO_0010842	0	1	0	0
-retina development in camera-type eye	GO_0060041	0	1	0	0
-regulation of retinal rod cell fate commitment	GO_0060224	0	1	0	0
-regulation of retinal cone cell fate specification	GO_0042673	0	1	0	0
-regulation of retinal cone cell fate commitment	GO_0060222	0	1	0	0
-regulation of retina development in camera-type eye	GO_1902866	0	1	0	0
-regulation of neural retina development	GO_0061074	0	1	0	0
-regulation of horizontal cell localization	GO_1902872	0	1	0	0
-regulation of amacrine cell differentiation	GO_1902869	0	1	0	0
-post-embryonic retina morphogenesis in camera-type eye	GO_0060060	0	1	0	0
-positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	0	0
-positive regulation of retina development in camera-type eye	GO_1902868	0	1	0	0
-positive regulation of neural retina development	GO_0061075	0	1	0	0
-positive regulation of horizontal cell localization	GO_1902874	0	1	0	0
-positive regulation of amacrine cell differentiation	GO_1902871	0	1	0	0
-neural retina development	GO_0003407	0	1	0	0
-negative regulation of retinal cone cell fate specification	GO_0009998	0	1	0	0
-negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	0	0
-negative regulation of retina development in camera-type eye	GO_1902867	0	1	0	0
-negative regulation of neural retina development	GO_0061076	0	1	0	0
-negative regulation of horizontal cell localization	GO_1902873	0	1	0	0
-negative regulation of amacrine cell differentiation	GO_1902870	0	1	0	0
-horizontal cell localization	GO_0035852	0	1	0	0
-embryonic retina morphogenesis in camera-type eye	GO_0060059	0	1	0	0
-camera-type eye photoreceptor cell fate commitment	GO_0060220	0	1	0	0
-camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0
-amacrine cell differentiation	GO_0035881	0	1	0	0
-Notch signaling pathway involved in camera-type eye photoreceptor fate commitment	GO_0060227	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+eye photoreceptor cell development	GO_0042462	1	0	1	0	0
+retinal rod cell fate commitment	GO_0060223	0	1	0	0	0
+retinal rod cell differentiation	GO_0060221	0	1	0	0	0
+retinal pigment epithelium development	GO_0003406	0	1	0	0	0
+retinal cone cell fate specification	GO_0042672	0	1	0	0	0
+retinal cone cell fate determination	GO_0042671	0	1	0	0	0
+retinal cone cell fate commitment	GO_0046551	0	1	0	0	0
+retinal cone cell differentiation	GO_0042670	0	1	0	0	0
+retinal cone cell development	GO_0046549	0	1	0	0	0
+retinal blood vessel morphogenesis	GO_0061304	0	1	0	0	0
+retinal bipolar neuron differentiation	GO_0060040	0	1	0	0	0
+retina vasculature morphogenesis in camera-type eye	GO_0061299	0	1	0	0	0
+retina vasculature development in camera-type eye	GO_0061298	0	1	0	0	0
+retina morphogenesis in camera-type eye	GO_0060042	0	1	0	0	0
+retina layer formation	GO_0010842	0	1	0	0	0
+retina development in camera-type eye	GO_0060041	0	1	0	0	0
+regulation of retinal rod cell fate commitment	GO_0060224	0	1	0	0	0
+regulation of retinal cone cell fate specification	GO_0042673	0	1	0	0	0
+regulation of retinal cone cell fate commitment	GO_0060222	0	1	0	0	0
+regulation of retina development in camera-type eye	GO_1902866	0	1	0	0	0
+regulation of neural retina development	GO_0061074	0	1	0	0	0
+regulation of horizontal cell localization	GO_1902872	0	1	0	0	0
+regulation of amacrine cell differentiation	GO_1902869	0	1	0	0	0
+post-embryonic retina morphogenesis in camera-type eye	GO_0060060	0	1	0	0	0
+positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	0	0	0
+positive regulation of retina development in camera-type eye	GO_1902868	0	1	0	0	0
+positive regulation of neural retina development	GO_0061075	0	1	0	0	0
+positive regulation of horizontal cell localization	GO_1902874	0	1	0	0	0
+positive regulation of amacrine cell differentiation	GO_1902871	0	1	0	0	0
+neural retina development	GO_0003407	0	1	0	0	0
+negative regulation of retinal cone cell fate specification	GO_0009998	0	1	0	0	0
+negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	0	0	0
+negative regulation of retina development in camera-type eye	GO_1902867	0	1	0	0	0
+negative regulation of neural retina development	GO_0061076	0	1	0	0	0
+negative regulation of horizontal cell localization	GO_1902873	0	1	0	0	0
+negative regulation of amacrine cell differentiation	GO_1902870	0	1	0	0	0
+horizontal cell localization	GO_0035852	0	1	0	0	0
+embryonic retina morphogenesis in camera-type eye	GO_0060059	0	1	0	0	0
+camera-type eye photoreceptor cell fate commitment	GO_0060220	0	1	0	0	0
+camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0	0
+amacrine cell differentiation	GO_0035881	0	1	0	0	0
+Notch signaling pathway involved in camera-type eye photoreceptor fate commitment	GO_0060227	0	1	0	0	0

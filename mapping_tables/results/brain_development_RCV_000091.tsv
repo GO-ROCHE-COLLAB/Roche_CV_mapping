@@ -1,404 +1,404 @@
-name	ID	manual	auto	checked	blacklisted
-ventricular zone cell-producing asymmetric radial glial cell division in forebrain	GO_0021868	1	1	1	0
-thalamus development	GO_0021794	1	1	1	0
-superior temporal gyrus development	GO_0071109	1	1	1	0
-superior reticular formation development	GO_0021729	1	1	1	0
-superior raphe nucleus development	GO_0021725	1	1	1	0
-superior olivary nucleus structural organization	GO_0021721	1	1	1	0
-superior olivary nucleus morphogenesis	GO_0021719	1	1	1	0
-superior olivary nucleus maturation	GO_0021722	1	1	1	0
-superior olivary nucleus formation	GO_0021720	1	1	1	0
-superior olivary nucleus development	GO_0021718	1	1	1	0
-superior colliculus development	GO_0061380	1	1	1	0
-subthalamus development	GO_0021539	1	1	1	0
-subthalamic nucleus development	GO_0021763	1	1	1	0
-substrate-independent telencephalic tangential migration	GO_0021826	1	1	1	0
-substrate-independent telencephalic tangential interneuron migration	GO_0021843	1	1	1	0
-substrate-dependent cerebral cortex tangential migration	GO_0021825	1	1	1	0
-substantia nigra development	GO_0021762	1	1	1	0
-subpallium radially oriented migration	GO_0021981	1	1	1	0
-subpallium neuron fate commitment	GO_0060163	1	1	1	0
-subpallium glioblast cell division	GO_0021850	1	1	1	0
-subpallium development	GO_0021544	1	1	1	0
-subpallium cell proliferation in forebrain	GO_0022012	1	1	1	0
-subpallium cell migration	GO_0021980	1	1	1	0
-striatum development	GO_0021756	1	1	1	0
-rostral hindbrain neuronal precursor cell proliferation	GO_0021931	1	1	1	0
-regulation of forebrain neuron differentiation	GO_2000977	1	1	1	0
-putamen development	GO_0021758	1	1	1	0
-positive regulation of forebrain neuron differentiation	GO_2000979	1	1	1	0
-pons structural organization	GO_0021585	1	1	1	0
-pons morphogenesis	GO_0021583	1	1	1	0
-pons maturation	GO_0021586	1	1	1	0
-pons formation	GO_0021584	1	1	1	0
-pons development	GO_0021548	1	1	1	0
-olfactory lobe development	GO_0021988	1	1	1	0
-nucleus ambiguus development	GO_0021745	1	1	1	0
-nucleus accumbens development	GO_0021768	1	1	1	0
-negative regulation of forebrain neuron differentiation	GO_2000978	1	1	1	0
-motogenic signaling initiating cell movement in cerebral cortex	GO_0021807	1	1	1	0
-locus ceruleus morphogenesis	GO_0021704	1	1	1	0
-locus ceruleus maturation	GO_0021706	1	1	1	0
-locus ceruleus formation	GO_0021705	1	1	1	0
-locus ceruleus development	GO_0021703	1	1	1	0
-limbic system development	GO_0021761	1	1	1	0
-layer formation in cerebral cortex	GO_0021819	1	1	1	0
-interneuron sorting involved in substrate-independent cerebral cortex tangential migration	GO_0021844	1	1	1	0
-initiation of movement involved in cerebral cortex radial glia guided migration	GO_0021806	1	1	1	0
-inferior raphe nucleus development	GO_0021724	1	1	1	0
-inferior olivary nucleus structural organization	GO_0021716	1	1	1	0
-inferior olivary nucleus morphogenesis	GO_0021714	1	1	1	0
-inferior olivary nucleus maturation	GO_0021717	1	1	1	0
-inferior olivary nucleus formation	GO_0021715	1	1	1	0
-inferior olivary nucleus development	GO_0021713	1	1	1	0
-forebrain cell migration	GO_0021885	1	1	1	0
-forebrain anterior/posterior pattern specification	GO_0021797	1	1	1	0
-early neuron fate commitment in forebrain	GO_0021901	1	1	1	0
-early neuron differentiation in forebrain	GO_0021862	1	1	1	0
-commitment of neuronal cell to specific neuron type in forebrain	GO_0021902	1	1	1	0
-commitment of multipotent stem cells to neuronal lineage in forebrain	GO_0021898	1	1	1	0
-cingulate gyrus development	GO_0021765	1	1	1	0
-cerebral cortex tangential migration using cell-cell interactions	GO_0021823	1	1	1	0
-cerebral cortex tangential migration	GO_0021800	1	1	1	0
-cerebral cortex regionalization	GO_0021796	1	1	1	0
-cerebral cortex radially oriented cell migration	GO_0021799	1	1	1	0
-cerebral cortex neuron differentiation	GO_0021895	1	1	1	0
-cerebral cortex development	GO_0021987	1	1	1	0
-cerebral cortex cell migration	GO_0021795	1	1	1	0
-cerebral cortex GABAergic interneuron migration	GO_0021853	1	1	1	0
-cerebral cortex GABAergic interneuron fate commitment	GO_0021893	1	1	1	0
-cerebral cortex GABAergic interneuron differentiation	GO_0021892	1	1	1	0
-cerebral cortex GABAergic interneuron development	GO_0021894	1	1	1	0
-cell proliferation in midbrain	GO_0033278	1	1	1	0
-cell proliferation in hindbrain ventricular zone	GO_0021923	1	1	1	0
-cell proliferation in hindbrain	GO_0021534	1	1	1	0
-cell proliferation in forebrain	GO_0021846	1	1	1	0
-cell migration in hindbrain	GO_0021535	1	1	1	0
-cell differentiation in hindbrain	GO_0021533	1	1	1	0
-brainstem precerebellar neuron precursor migration	GO_0021949	1	1	1	0
-brain segmentation	GO_0035284	1	1	1	0
-brain morphogenesis	GO_0048854	1	1	1	0
-brain development	GO_0007420	1	1	1	0
-amygdala development	GO_0021764	1	1	1	0
-ammon gyrus development	GO_0021541	1	1	1	0
-pons reticulospinal tract morphogenesis	GO_0021975	1	0	1	0
-optic lobe placode formation	GO_0001744	1	0	1	0
-optic lobe placode development	GO_0001748	1	0	1	0
-olfactory placode morphogenesis	GO_0071699	1	0	1	0
-olfactory placode maturation	GO_0071700	1	0	1	0
-olfactory placode formation	GO_0030910	1	0	1	0
-olfactory placode development	GO_0071698	1	0	1	0
-olfactory pit development	GO_0060166	1	0	1	0
-brainstem development	GO_0003360	1	0	1	0
-vestibular nucleus development	GO_0021750	0	1	1	0
-ventricular zone neuroblast division	GO_0021847	0	1	1	0
-ventricular zone cell fate commitment	GO_0021900	0	1	1	0
-ventricular system development	GO_0021591	0	1	1	0
-ventral cochlear nucleus development	GO_0021749	0	1	1	0
-trigeminal sensory nucleus development	GO_0021730	0	1	1	0
-trigeminal motor nucleus development	GO_0021731	0	1	1	0
-thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	0	1
-thyroid-stimulating hormone-secreting cell development	GO_0060130	0	1	0	1
-third ventricle development	GO_0021678	0	1	1	0
-telencephalon regionalization	GO_0021978	0	1	1	0
-telencephalon oligodendrocyte cell migration	GO_0022032	0	1	1	0
-telencephalon microglial cell migration	GO_0022033	0	1	1	0
-telencephalon glial cell migration	GO_0022030	0	1	1	0
-telencephalon development	GO_0021537	0	1	1	0
-telencephalon cell migration	GO_0022029	0	1	1	0
-telencephalon astrocyte cell migration	GO_0022031	0	1	1	0
-tangential migration from the subventricular zone to the olfactory bulb	GO_0022028	0	1	1	0
-symmetric radial glial cell division in forebrain	GO_0021865	0	1	1	0
-superior salivary nucleus development	GO_0021753	0	1	1	0
-subarachnoid space development	GO_1903374	0	1	1	0
-striatal medium spiny neuron differentiation	GO_0021773	0	1	1	0
-stellate cell precursor proliferation	GO_0021929	0	1	1	0
-spinal trigeminal nucleus development	GO_0021741	0	1	1	0
-somatotropin secreting cell differentiation	GO_0060126	0	1	0	1
-somatotropin secreting cell development	GO_0060133	0	1	0	1
-somal translocation	GO_0021802	0	1	1	0
-solitary nucleus development	GO_0021746	0	1	1	0
-septal cell proliferation	GO_0022022	0	1	1	0
-salivary nucleus development	GO_0021751	0	1	1	0
-rhombomere structural organization	GO_0021595	0	1	1	0
-rhombomere morphogenesis	GO_0021593	0	1	1	0
-rhombomere formation	GO_0021594	0	1	1	0
-rhombomere development	GO_0021546	0	1	1	0
-rhombomere cell proliferation	GO_0022034	0	1	1	0
-rhombomere cell migration	GO_0022035	0	1	1	0
-rhombomere cell differentiation	GO_0022036	0	1	1	0
-rhombomere boundary formation	GO_0021654	0	1	1	0
-rhombomere 8 structural organization	GO_0021676	0	1	1	0
-rhombomere 8 morphogenesis	GO_0021674	0	1	1	0
-rhombomere 8 formation	GO_0021677	0	1	1	0
-rhombomere 8 development	GO_0021574	0	1	1	0
-rhombomere 7 structural organization	GO_0021672	0	1	1	0
-rhombomere 7 morphogenesis	GO_0021671	0	1	1	0
-rhombomere 7 formation	GO_0021673	0	1	1	0
-rhombomere 7 development	GO_0021573	0	1	1	0
-rhombomere 6 structural organization	GO_0021668	0	1	1	0
-rhombomere 6 morphogenesis	GO_0021667	0	1	1	0
-rhombomere 6 formation	GO_0021669	0	1	1	0
-rhombomere 6 development	GO_0021572	0	1	1	0
-rhombomere 5 structural organization	GO_0021665	0	1	1	0
-rhombomere 5 morphogenesis	GO_0021664	0	1	1	0
-rhombomere 5 formation	GO_0021666	0	1	1	0
-rhombomere 5 development	GO_0021571	0	1	1	0
-rhombomere 4 structural organization	GO_0021662	0	1	1	0
-rhombomere 4 morphogenesis	GO_0021661	0	1	1	0
-rhombomere 4 formation	GO_0021663	0	1	1	0
-rhombomere 4 development	GO_0021570	0	1	1	0
-rhombomere 3 structural organization	GO_0021659	0	1	1	0
-rhombomere 3 morphogenesis	GO_0021658	0	1	1	0
-rhombomere 3 formation	GO_0021660	0	1	1	0
-rhombomere 3 development	GO_0021569	0	1	1	0
-rhombomere 2 structural organization	GO_0021656	0	1	1	0
-rhombomere 2 morphogenesis	GO_0021655	0	1	1	0
-rhombomere 2 formation	GO_0021657	0	1	1	0
-rhombomere 2 development	GO_0021568	0	1	1	0
-rhombomere 1 structural organization	GO_0021653	0	1	1	0
-rhombomere 1 morphogenesis	GO_0021651	0	1	1	0
-rhombomere 1 formation	GO_0021652	0	1	1	0
-rhombomere 1 development	GO_0021567	0	1	1	0
-retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	1	0
-retrotrapezoid nucleus development	GO_0061451	0	1	1	0
-regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	GO_0021882	0	1	1	0
-regulation of timing of subpallium neuron differentiation	GO_0060165	0	1	1	0
-regulation of cerebellar granule cell precursor proliferation	GO_0021936	0	1	1	0
-radial glial cell fate commitment in forebrain	GO_0022023	0	1	1	0
-radial glial cell division in subpallium	GO_0022014	0	1	1	0
-radial glial cell division in pallium	GO_0022015	0	1	1	0
-radial glial cell division in forebrain	GO_0021864	0	1	1	0
-radial glia guided migration of cerebellar granule cell	GO_0021933	0	1	1	0
-radial glia guided migration of Purkinje cell	GO_0021942	0	1	1	0
-pyramidal neuron migration	GO_0021852	0	1	1	0
-pyramidal neuron development	GO_0021860	0	1	1	0
-prolactin secreting cell differentiation	GO_0060127	0	1	0	1
-prolactin secreting cell development	GO_0060132	0	1	0	1
-principal sensory nucleus of trigeminal nerve development	GO_0021740	0	1	1	0
-postnatal olfactory bulb interneuron migration	GO_0021827	0	1	1	0
-positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	0	1	1	0
-positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	1	0
-pituitary gland development	GO_0021983	0	1	1	0
-pineal gland development	GO_0021982	0	1	1	0
-pial surface process extension	GO_0021803	0	1	1	0
-parahippocampal gyrus development	GO_0021770	0	1	1	0
-pallium glioblast division	GO_0022016	0	1	1	0
-pallium development	GO_0021543	0	1	1	0
-pallium cell proliferation in forebrain	GO_0022013	0	1	1	0
-outward migration of deep nuclear neurons	GO_0021947	0	1	1	0
-orbitofrontal cortex development	GO_0021769	0	1	1	0
-oligodendrocyte cell migration from the subpallium to the cortex	GO_0021829	0	1	1	0
-olfactory cortex development	GO_0021989	0	1	1	0
-olfactory bulb tufted cell development	GO_0061449	0	1	1	0
-olfactory bulb mitral cell layer development	GO_0061034	0	1	1	0
-olfactory bulb interneuron fate commitment	GO_0021890	0	1	1	0
-olfactory bulb interneuron differentiation	GO_0021889	0	1	1	0
-olfactory bulb interneuron development	GO_0021891	0	1	1	0
-olfactory bulb development	GO_0021772	0	1	1	0
-nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration	GO_0021817	0	1	1	0
-neurotrophic factor signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021809	0	1	1	0
-neurotransmitter-mediated guidance of interneurons involved in substrate-independent cerebral cortex tangential migration	GO_0021845	0	1	1	0
-neurotransmitter signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021810	0	1	1	0
-neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	1	0
-neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	1	0
-neuron-producing asymmetric radial glial cell division in forebrain	GO_0021867	0	1	1	0
-neurohypophysis morphogenesis	GO_0048848	0	1	1	0
-neurohypophysis formation	GO_0048849	0	1	1	0
-neurohypophysis development	GO_0021985	0	1	1	0
-neuroblast division in subventricular zone	GO_0021849	0	1	1	0
-neuroblast division in subpallium	GO_0021848	0	1	1	0
-neuroblast division in pallium	GO_0022017	0	1	1	0
-neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	1	0
-negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	0	1	1	0
-negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	1	0
-negative regulation of cell motility involved in cerebral cortex radial glia guided migration	GO_0021822	0	1	1	0
-negative regulation of cell adhesion in ventricular zone	GO_0021804	0	1	1	0
-mushroom body development	GO_0016319	0	1	1	0
-motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve formation	GO_0035765	0	1	1	0
-motogenic signaling involved in postnatal olfactory bulb interneuron migration	GO_0021837	0	1	1	0
-motogenic signaling involved in interneuron migration from the subpallium to the cortex	GO_0021838	0	1	1	0
-modulation of the microfilament cytoskeleton involved in cell locomotion in cerebral cortex radial glia guided migration	GO_0021818	0	1	1	0
-modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration	GO_0021815	0	1	1	0
-midbrain-hindbrain boundary structural organization	GO_0021552	0	1	1	0
-midbrain-hindbrain boundary morphogenesis	GO_0021555	0	1	1	0
-midbrain-hindbrain boundary maturation during neural plate development	GO_0022005	0	1	1	0
-midbrain-hindbrain boundary maturation during brain development	GO_0022004	0	1	1	0
-midbrain-hindbrain boundary maturation	GO_0021732	0	1	1	0
-midbrain-hindbrain boundary initiation	GO_0021547	0	1	1	0
-midbrain-hindbrain boundary development	GO_0030917	0	1	1	0
-midbrain development	GO_0030901	0	1	1	0
-metencephalon development	GO_0022037	0	1	1	0
-mesencephalic trigeminal nucleus development	GO_0021739	0	1	1	0
-medullary reticular formation development	GO_0021723	0	1	1	0
-medulla oblongata structural organization	GO_0021581	0	1	1	0
-medulla oblongata morphogenesis	GO_0021579	0	1	1	0
-medulla oblongata maturation	GO_0021582	0	1	1	0
-medulla oblongata formation	GO_0021580	0	1	1	0
-medulla oblongata development	GO_0021550	0	1	1	0
-medial ganglionic eminence cell proliferation	GO_0022020	0	1	1	0
-mammillothalamic axonal tract development	GO_0061374	0	1	1	0
-mammillotegmental axonal tract development	GO_0061376	0	1	1	0
-mammillotectal axonal tract development	GO_0061375	0	1	1	0
-mammillary body development	GO_0021767	0	1	1	0
-mammillary axonal complex development	GO_0061373	0	1	1	0
-leukemia inhibitory factor signaling pathway involved in forebrain neuron fate commitment	GO_0022025	0	1	1	0
-lateral ventricle development	GO_0021670	0	1	1	0
-lateral reticular nucleus development	GO_0021726	0	1	1	0
-lateral geniculate nucleus development	GO_0021771	0	1	1	0
-lateral ganglionic eminence cell proliferation	GO_0022018	0	1	1	0
-inward migration of deep nuclear neurons	GO_0021948	0	1	1	0
-interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex	GO_0021839	0	1	1	0
-interneuron migration from the subpallium to the cortex	GO_0021830	0	1	1	0
-intermediate reticular formation development	GO_0021727	0	1	1	0
-interkinetic nuclear migration	GO_0022027	0	1	1	0
-inferior salivary nucleus development	GO_0021752	0	1	1	0
-inferior reticular formation development	GO_0021728	0	1	1	0
-inferior colliculus development	GO_0061379	0	1	1	0
-hypothalamus gonadotrophin-releasing hormone neuron fate commitment	GO_0021887	0	1	1	0
-hypothalamus gonadotrophin-releasing hormone neuron differentiation	GO_0021886	0	1	1	0
-hypothalamus gonadotrophin-releasing hormone neuron development	GO_0021888	0	1	1	0
-hypothalamus development	GO_0021854	0	1	1	0
-hypothalamus cell migration	GO_0021855	0	1	1	0
-hypothalamus cell differentiation	GO_0021979	0	1	1	0
-hypothalamic tangential migration using cell-axon interactions	GO_0021856	0	1	1	0
-hypophysis morphogenesis	GO_0048850	0	1	1	0
-hypophysis formation	GO_0048851	0	1	1	0
-hypoglossal nucleus development	GO_0021743	0	1	1	0
-hippocampus development	GO_0021766	0	1	1	0
-hippocampal pyramidal neuron differentiation	GO_0097432	0	1	1	0
-hippocampal interneuron differentiation	GO_0097410	0	1	1	0
-hindbrain tangential cell migration	GO_0021934	0	1	1	0
-hindbrain structural organization	GO_0021577	0	1	1	0
-hindbrain radial glia guided cell migration	GO_0021932	0	1	1	0
-hindbrain morphogenesis	GO_0021575	0	1	1	0
-hindbrain maturation	GO_0021578	0	1	1	0
-hindbrain formation	GO_0021576	0	1	1	0
-hindbrain development	GO_0030902	0	1	1	0
-habenula development	GO_0021986	0	1	1	0
-growth factor signaling initiating cell movement involved in cerebral cortex radial glia guided migration	GO_0021811	0	1	1	0
-gonadotrophin-releasing hormone neuronal migration to the hypothalamus	GO_0021828	0	1	1	0
-globus pallidus development	GO_0021759	0	1	1	0
-globose nucleus development	GO_0021736	0	1	1	0
-fourth ventricle development	GO_0021592	0	1	1	0
-formation of radial glial scaffolds	GO_0021943	0	1	1	0
-forebrain ventricular zone progenitor cell division	GO_0021869	0	1	1	0
-forebrain regionalization	GO_0021871	0	1	1	0
-forebrain radial glial cell differentiation	GO_0021861	0	1	1	0
-forebrain neuron fate commitment	GO_0021877	0	1	1	0
-forebrain neuron differentiation	GO_0021879	0	1	1	0
-forebrain neuron development	GO_0021884	0	1	1	0
-forebrain neuroblast division	GO_0021873	0	1	1	0
-forebrain neuroblast differentiation	GO_0021863	0	1	1	0
-forebrain morphogenesis	GO_0048853	0	1	1	0
-forebrain generation of neurons	GO_0021872	0	1	1	0
-forebrain dorsal/ventral pattern formation	GO_0021798	0	1	1	0
-forebrain development	GO_0030900	0	1	1	0
-forebrain astrocyte fate commitment	GO_0021878	0	1	1	0
-forebrain astrocyte differentiation	GO_0021896	0	1	1	0
-forebrain astrocyte development	GO_0021897	0	1	1	0
-fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development	GO_0035607	0	1	1	0
-fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment	GO_0021899	0	1	1	0
-fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	1	0
-fastigial nucleus development	GO_0021738	0	1	1	0
-facial nucleus development	GO_0021754	0	1	1	0
-extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration	GO_0021820	0	1	1	0
-extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	GO_0021816	0	1	1	0
-eurydendroid cell differentiation	GO_0021755	0	1	1	0
-epithalamus development	GO_0021538	0	1	1	0
-epidermal growth factor signaling pathway involved in forebrain neuron fate commitment	GO_0022026	0	1	1	0
-embryonic olfactory bulb interneuron precursor migration	GO_0021831	0	1	1	0
-emboliform nucleus development	GO_0021737	0	1	1	0
-dorsal motor nucleus of vagus nerve structural organization	GO_0035763	0	1	1	0
-dorsal motor nucleus of vagus nerve morphogenesis	GO_0035762	0	1	1	0
-dorsal motor nucleus of vagus nerve maturation	GO_0035761	0	1	1	0
-dorsal motor nucleus of vagus nerve formation	GO_0035764	0	1	1	0
-dorsal motor nucleus of vagus nerve development	GO_0021744	0	1	1	0
-dorsal lateral ganglionic eminence cell proliferation	GO_0022019	0	1	1	0
-dorsal cochlear nucleus development	GO_0021748	0	1	1	0
-directional guidance of interneurons involved in migration from the subpallium to the cortex	GO_0021840	0	1	1	0
-diencephalon morphogenesis	GO_0048852	0	1	1	0
-diencephalon development	GO_0021536	0	1	1	0
-determination of left/right asymmetry in diencephalon	GO_0035462	0	1	1	0
-dentate nucleus development	GO_0021735	0	1	1	0
-dentate gyrus development	GO_0021542	0	1	1	0
-deep nuclear neuron precursor proliferation	GO_0021927	0	1	1	0
-deep nuclear neuron cell migration	GO_0021946	0	1	1	0
-cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration	GO_0021808	0	1	1	0
-corticotropin hormone secreting cell differentiation	GO_0060128	0	1	0	1
-corticotropin hormone secreting cell development	GO_0060131	0	1	0	1
-corpus callosum morphogenesis	GO_0021540	0	1	1	0
-corpus callosum development	GO_0022038	0	1	1	0
-corpora quadrigemina development	GO_0061378	0	1	1	0
-cochlear nucleus development	GO_0021747	0	1	1	0
-chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	1	0
-chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	1	0
-chemorepulsion involved in interneuron migration from the subpallium to the cortex	GO_0021842	0	1	1	0
-chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	1	0
-chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	1	0
-chemoattraction involved in interneuron migration from the subpallium to the cortex	GO_0021841	0	1	1	0
-chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	1	0
-cerebral cortex tangential migration using cell-axon interactions	GO_0021824	0	1	1	0
-cerebral cortex radial glia guided migration	GO_0021801	0	1	1	0
-cerebellum vasculature morphogenesis	GO_0061301	0	1	1	0
-cerebellum structural organization	GO_0021589	0	1	1	0
-cerebellum morphogenesis	GO_0021587	0	1	1	0
-cerebellum maturation	GO_0021590	0	1	1	0
-cerebellum formation	GO_0021588	0	1	1	0
-cerebellum development	GO_0021549	0	1	1	0
-cerebellar unipolar brush cell differentiation	GO_0021711	0	1	1	0
-cerebellar stellate cell differentiation	GO_0021710	0	1	1	0
-cerebellar molecular layer structural organization	GO_0021689	0	1	1	0
-cerebellar molecular layer morphogenesis	GO_0021687	0	1	1	0
-cerebellar molecular layer maturation	GO_0021690	0	1	1	0
-cerebellar molecular layer formation	GO_0021688	0	1	1	0
-cerebellar molecular layer development	GO_0021679	0	1	1	0
-cerebellar granule cell precursor tangential migration	GO_0021935	0	1	1	0
-cerebellar granule cell precursor proliferation	GO_0021930	0	1	1	0
-cerebellar granule cell differentiation	GO_0021707	0	1	1	0
-cerebellar granular layer structural organization	GO_0021685	0	1	1	0
-cerebellar granular layer morphogenesis	GO_0021683	0	1	1	0
-cerebellar granular layer maturation	GO_0021686	0	1	1	0
-cerebellar granular layer formation	GO_0021684	0	1	1	0
-cerebellar granular layer development	GO_0021681	0	1	1	0
-cerebellar cortex structural organization	GO_0021698	0	1	1	0
-cerebellar cortex morphogenesis	GO_0021696	0	1	1	0
-cerebellar cortex maturation	GO_0021699	0	1	1	0
-cerebellar cortex formation	GO_0021697	0	1	1	0
-cerebellar cortex development	GO_0021695	0	1	1	0
-cerebellar basket cell differentiation	GO_0021709	0	1	1	0
-cerebellar Purkinje cell precursor proliferation	GO_0021925	0	1	1	0
-cerebellar Purkinje cell layer structural organization	GO_0021693	0	1	1	0
-cerebellar Purkinje cell layer morphogenesis	GO_0021692	0	1	1	0
-cerebellar Purkinje cell layer maturation	GO_0021691	0	1	1	0
-cerebellar Purkinje cell layer formation	GO_0021694	0	1	1	0
-cerebellar Purkinje cell layer development	GO_0021680	0	1	1	0
-cerebellar Purkinje cell differentiation	GO_0021702	0	1	1	0
-cerebellar Golgi cell differentiation	GO_0021701	0	1	1	0
-central complex development	GO_0048036	0	1	1	0
-cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	0	1	1	0
-cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	1	0
-cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	0	1	1	0
-cell proliferation in external granule layer	GO_0021924	0	1	1	0
-cell movement involved in somal translocation	GO_0021805	0	1	1	0
-cell motility involved in cerebral cortex radial glia guided migration	GO_0021814	0	1	1	0
-cell migration in diencephalon	GO_0061381	0	1	1	0
-cell cycle arrest of committed forebrain neuronal progenitor cell	GO_0021883	0	1	1	0
-caudate nucleus development	GO_0021757	0	1	1	0
-caudal ganglionic eminence cell proliferation	GO_0022021	0	1	1	0
-candelabrum cell differentiation	GO_0021712	0	1	1	0
-basket cell precursor proliferation	GO_0021928	0	1	1	0
-asymmetric radial glial cell division in forebrain	GO_0021866	0	1	1	0
-anterior commissure morphogenesis	GO_0021960	0	1	1	0
-adenohypophysis morphogenesis	GO_0048855	0	1	0	1
-adenohypophysis formation	GO_0048847	0	1	0	1
-adenohypophysis development	GO_0021984	0	1	0	1
-abducens nucleus development	GO_0021742	0	1	1	0
-Wnt-activated signaling pathway involved in forebrain neuron fate commitment	GO_0021881	0	1	1	0
-Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	1	0
-Notch signaling pathway involved in forebrain neuron fate commitment	GO_0021880	0	1	1	0
-Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	1	0
-Lugaro cell differentiation	GO_0021708	0	1	1	0
-Golgi cell precursor proliferation	GO_0021926	0	1	1	0
-Cajal-Retzius cell differentiation	GO_0021870	0	1	1	0
-BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+ventricular zone cell-producing asymmetric radial glial cell division in forebrain	GO_0021868	1	1	1	0	0
+thalamus development	GO_0021794	1	1	1	0	0
+superior temporal gyrus development	GO_0071109	1	1	1	0	0
+superior reticular formation development	GO_0021729	1	1	1	0	0
+superior raphe nucleus development	GO_0021725	1	1	1	0	0
+superior olivary nucleus structural organization	GO_0021721	1	1	1	0	0
+superior olivary nucleus morphogenesis	GO_0021719	1	1	1	0	0
+superior olivary nucleus maturation	GO_0021722	1	1	1	0	0
+superior olivary nucleus formation	GO_0021720	1	1	1	0	0
+superior olivary nucleus development	GO_0021718	1	1	1	0	0
+superior colliculus development	GO_0061380	1	1	1	0	0
+subthalamus development	GO_0021539	1	1	1	0	0
+subthalamic nucleus development	GO_0021763	1	1	1	0	0
+substrate-independent telencephalic tangential migration	GO_0021826	1	1	1	0	0
+substrate-independent telencephalic tangential interneuron migration	GO_0021843	1	1	1	0	0
+substrate-dependent cerebral cortex tangential migration	GO_0021825	1	1	1	0	0
+substantia nigra development	GO_0021762	1	1	1	0	0
+subpallium radially oriented migration	GO_0021981	1	1	1	0	0
+subpallium neuron fate commitment	GO_0060163	1	1	1	0	0
+subpallium glioblast cell division	GO_0021850	1	1	1	0	0
+subpallium development	GO_0021544	1	1	1	0	0
+subpallium cell proliferation in forebrain	GO_0022012	1	1	1	0	0
+subpallium cell migration	GO_0021980	1	1	1	0	0
+striatum development	GO_0021756	1	1	1	0	0
+rostral hindbrain neuronal precursor cell proliferation	GO_0021931	1	1	1	0	0
+regulation of forebrain neuron differentiation	GO_2000977	1	1	1	0	0
+putamen development	GO_0021758	1	1	1	0	0
+positive regulation of forebrain neuron differentiation	GO_2000979	1	1	1	0	0
+pons structural organization	GO_0021585	1	1	1	0	0
+pons morphogenesis	GO_0021583	1	1	1	0	0
+pons maturation	GO_0021586	1	1	1	0	0
+pons formation	GO_0021584	1	1	1	0	0
+pons development	GO_0021548	1	1	1	0	0
+olfactory lobe development	GO_0021988	1	1	1	0	0
+nucleus ambiguus development	GO_0021745	1	1	1	0	0
+nucleus accumbens development	GO_0021768	1	1	1	0	0
+negative regulation of forebrain neuron differentiation	GO_2000978	1	1	1	0	0
+motogenic signaling initiating cell movement in cerebral cortex	GO_0021807	1	1	1	0	0
+locus ceruleus morphogenesis	GO_0021704	1	1	1	0	0
+locus ceruleus maturation	GO_0021706	1	1	1	0	0
+locus ceruleus formation	GO_0021705	1	1	1	0	0
+locus ceruleus development	GO_0021703	1	1	1	0	0
+limbic system development	GO_0021761	1	1	1	0	0
+layer formation in cerebral cortex	GO_0021819	1	1	1	0	0
+interneuron sorting involved in substrate-independent cerebral cortex tangential migration	GO_0021844	1	1	1	0	0
+initiation of movement involved in cerebral cortex radial glia guided migration	GO_0021806	1	1	1	0	0
+inferior raphe nucleus development	GO_0021724	1	1	1	0	0
+inferior olivary nucleus structural organization	GO_0021716	1	1	1	0	0
+inferior olivary nucleus morphogenesis	GO_0021714	1	1	1	0	0
+inferior olivary nucleus maturation	GO_0021717	1	1	1	0	0
+inferior olivary nucleus formation	GO_0021715	1	1	1	0	0
+inferior olivary nucleus development	GO_0021713	1	1	1	0	0
+forebrain cell migration	GO_0021885	1	1	1	0	0
+forebrain anterior/posterior pattern specification	GO_0021797	1	1	1	0	0
+early neuron fate commitment in forebrain	GO_0021901	1	1	1	0	0
+early neuron differentiation in forebrain	GO_0021862	1	1	1	0	0
+commitment of neuronal cell to specific neuron type in forebrain	GO_0021902	1	1	1	0	0
+commitment of multipotent stem cells to neuronal lineage in forebrain	GO_0021898	1	1	1	0	0
+cingulate gyrus development	GO_0021765	1	1	1	0	0
+cerebral cortex tangential migration using cell-cell interactions	GO_0021823	1	1	1	0	0
+cerebral cortex tangential migration	GO_0021800	1	1	1	0	0
+cerebral cortex regionalization	GO_0021796	1	1	1	0	0
+cerebral cortex radially oriented cell migration	GO_0021799	1	1	1	0	0
+cerebral cortex neuron differentiation	GO_0021895	1	1	1	0	0
+cerebral cortex development	GO_0021987	1	1	1	0	0
+cerebral cortex cell migration	GO_0021795	1	1	1	0	0
+cerebral cortex GABAergic interneuron migration	GO_0021853	1	1	1	0	0
+cerebral cortex GABAergic interneuron fate commitment	GO_0021893	1	1	1	0	0
+cerebral cortex GABAergic interneuron differentiation	GO_0021892	1	1	1	0	0
+cerebral cortex GABAergic interneuron development	GO_0021894	1	1	1	0	0
+cell proliferation in midbrain	GO_0033278	1	1	1	0	0
+cell proliferation in hindbrain ventricular zone	GO_0021923	1	1	1	0	0
+cell proliferation in hindbrain	GO_0021534	1	1	1	0	0
+cell proliferation in forebrain	GO_0021846	1	1	1	0	0
+cell migration in hindbrain	GO_0021535	1	1	1	0	0
+cell differentiation in hindbrain	GO_0021533	1	1	1	0	0
+brainstem precerebellar neuron precursor migration	GO_0021949	1	1	1	0	0
+brain segmentation	GO_0035284	1	1	1	0	0
+brain morphogenesis	GO_0048854	1	1	1	0	0
+brain development	GO_0007420	1	1	1	0	0
+amygdala development	GO_0021764	1	1	1	0	0
+ammon gyrus development	GO_0021541	1	1	1	0	0
+pons reticulospinal tract morphogenesis	GO_0021975	1	0	1	0	0
+optic lobe placode formation	GO_0001744	1	0	1	0	0
+optic lobe placode development	GO_0001748	1	0	1	0	0
+olfactory placode morphogenesis	GO_0071699	1	0	1	0	0
+olfactory placode maturation	GO_0071700	1	0	1	0	0
+olfactory placode formation	GO_0030910	1	0	1	0	0
+olfactory placode development	GO_0071698	1	0	1	0	0
+olfactory pit development	GO_0060166	1	0	1	0	0
+brainstem development	GO_0003360	1	0	1	0	0
+vestibular nucleus development	GO_0021750	0	1	1	0	0
+ventricular zone neuroblast division	GO_0021847	0	1	1	0	0
+ventricular zone cell fate commitment	GO_0021900	0	1	1	0	0
+ventricular system development	GO_0021591	0	1	1	0	0
+ventral cochlear nucleus development	GO_0021749	0	1	1	0	0
+trigeminal sensory nucleus development	GO_0021730	0	1	1	0	0
+trigeminal motor nucleus development	GO_0021731	0	1	1	0	0
+thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	0	1	0
+thyroid-stimulating hormone-secreting cell development	GO_0060130	0	1	0	1	0
+third ventricle development	GO_0021678	0	1	1	0	0
+telencephalon regionalization	GO_0021978	0	1	1	0	0
+telencephalon oligodendrocyte cell migration	GO_0022032	0	1	1	0	0
+telencephalon microglial cell migration	GO_0022033	0	1	1	0	0
+telencephalon glial cell migration	GO_0022030	0	1	1	0	0
+telencephalon development	GO_0021537	0	1	1	0	0
+telencephalon cell migration	GO_0022029	0	1	1	0	0
+telencephalon astrocyte cell migration	GO_0022031	0	1	1	0	0
+tangential migration from the subventricular zone to the olfactory bulb	GO_0022028	0	1	1	0	0
+symmetric radial glial cell division in forebrain	GO_0021865	0	1	1	0	0
+superior salivary nucleus development	GO_0021753	0	1	1	0	0
+subarachnoid space development	GO_1903374	0	1	1	0	0
+striatal medium spiny neuron differentiation	GO_0021773	0	1	1	0	0
+stellate cell precursor proliferation	GO_0021929	0	1	1	0	0
+spinal trigeminal nucleus development	GO_0021741	0	1	1	0	0
+somatotropin secreting cell differentiation	GO_0060126	0	1	0	1	0
+somatotropin secreting cell development	GO_0060133	0	1	0	1	0
+somal translocation	GO_0021802	0	1	1	0	0
+solitary nucleus development	GO_0021746	0	1	1	0	0
+septal cell proliferation	GO_0022022	0	1	1	0	0
+salivary nucleus development	GO_0021751	0	1	1	0	0
+rhombomere structural organization	GO_0021595	0	1	1	0	0
+rhombomere morphogenesis	GO_0021593	0	1	1	0	0
+rhombomere formation	GO_0021594	0	1	1	0	0
+rhombomere development	GO_0021546	0	1	1	0	0
+rhombomere cell proliferation	GO_0022034	0	1	1	0	0
+rhombomere cell migration	GO_0022035	0	1	1	0	0
+rhombomere cell differentiation	GO_0022036	0	1	1	0	0
+rhombomere boundary formation	GO_0021654	0	1	1	0	0
+rhombomere 8 structural organization	GO_0021676	0	1	1	0	0
+rhombomere 8 morphogenesis	GO_0021674	0	1	1	0	0
+rhombomere 8 formation	GO_0021677	0	1	1	0	0
+rhombomere 8 development	GO_0021574	0	1	1	0	0
+rhombomere 7 structural organization	GO_0021672	0	1	1	0	0
+rhombomere 7 morphogenesis	GO_0021671	0	1	1	0	0
+rhombomere 7 formation	GO_0021673	0	1	1	0	0
+rhombomere 7 development	GO_0021573	0	1	1	0	0
+rhombomere 6 structural organization	GO_0021668	0	1	1	0	0
+rhombomere 6 morphogenesis	GO_0021667	0	1	1	0	0
+rhombomere 6 formation	GO_0021669	0	1	1	0	0
+rhombomere 6 development	GO_0021572	0	1	1	0	0
+rhombomere 5 structural organization	GO_0021665	0	1	1	0	0
+rhombomere 5 morphogenesis	GO_0021664	0	1	1	0	0
+rhombomere 5 formation	GO_0021666	0	1	1	0	0
+rhombomere 5 development	GO_0021571	0	1	1	0	0
+rhombomere 4 structural organization	GO_0021662	0	1	1	0	0
+rhombomere 4 morphogenesis	GO_0021661	0	1	1	0	0
+rhombomere 4 formation	GO_0021663	0	1	1	0	0
+rhombomere 4 development	GO_0021570	0	1	1	0	0
+rhombomere 3 structural organization	GO_0021659	0	1	1	0	0
+rhombomere 3 morphogenesis	GO_0021658	0	1	1	0	0
+rhombomere 3 formation	GO_0021660	0	1	1	0	0
+rhombomere 3 development	GO_0021569	0	1	1	0	0
+rhombomere 2 structural organization	GO_0021656	0	1	1	0	0
+rhombomere 2 morphogenesis	GO_0021655	0	1	1	0	0
+rhombomere 2 formation	GO_0021657	0	1	1	0	0
+rhombomere 2 development	GO_0021568	0	1	1	0	0
+rhombomere 1 structural organization	GO_0021653	0	1	1	0	0
+rhombomere 1 morphogenesis	GO_0021651	0	1	1	0	0
+rhombomere 1 formation	GO_0021652	0	1	1	0	0
+rhombomere 1 development	GO_0021567	0	1	1	0	0
+retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	1	0	0
+retrotrapezoid nucleus development	GO_0061451	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	GO_0021882	0	1	1	0	0
+regulation of timing of subpallium neuron differentiation	GO_0060165	0	1	1	0	0
+regulation of cerebellar granule cell precursor proliferation	GO_0021936	0	1	1	0	0
+radial glial cell fate commitment in forebrain	GO_0022023	0	1	1	0	0
+radial glial cell division in subpallium	GO_0022014	0	1	1	0	0
+radial glial cell division in pallium	GO_0022015	0	1	1	0	0
+radial glial cell division in forebrain	GO_0021864	0	1	1	0	0
+radial glia guided migration of cerebellar granule cell	GO_0021933	0	1	1	0	0
+radial glia guided migration of Purkinje cell	GO_0021942	0	1	1	0	0
+pyramidal neuron migration	GO_0021852	0	1	1	0	0
+pyramidal neuron development	GO_0021860	0	1	1	0	0
+prolactin secreting cell differentiation	GO_0060127	0	1	0	1	0
+prolactin secreting cell development	GO_0060132	0	1	0	1	0
+principal sensory nucleus of trigeminal nerve development	GO_0021740	0	1	1	0	0
+postnatal olfactory bulb interneuron migration	GO_0021827	0	1	1	0	0
+positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	0	1	1	0	0
+positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	1	0	0
+pituitary gland development	GO_0021983	0	1	1	0	0
+pineal gland development	GO_0021982	0	1	1	0	0
+pial surface process extension	GO_0021803	0	1	1	0	0
+parahippocampal gyrus development	GO_0021770	0	1	1	0	0
+pallium glioblast division	GO_0022016	0	1	1	0	0
+pallium development	GO_0021543	0	1	1	0	0
+pallium cell proliferation in forebrain	GO_0022013	0	1	1	0	0
+outward migration of deep nuclear neurons	GO_0021947	0	1	1	0	0
+orbitofrontal cortex development	GO_0021769	0	1	1	0	0
+oligodendrocyte cell migration from the subpallium to the cortex	GO_0021829	0	1	1	0	0
+olfactory cortex development	GO_0021989	0	1	1	0	0
+olfactory bulb tufted cell development	GO_0061449	0	1	1	0	0
+olfactory bulb mitral cell layer development	GO_0061034	0	1	1	0	0
+olfactory bulb interneuron fate commitment	GO_0021890	0	1	1	0	0
+olfactory bulb interneuron differentiation	GO_0021889	0	1	1	0	0
+olfactory bulb interneuron development	GO_0021891	0	1	1	0	0
+olfactory bulb development	GO_0021772	0	1	1	0	0
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration	GO_0021817	0	1	1	0	0
+neurotrophic factor signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021809	0	1	1	0	0
+neurotransmitter-mediated guidance of interneurons involved in substrate-independent cerebral cortex tangential migration	GO_0021845	0	1	1	0	0
+neurotransmitter signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021810	0	1	1	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	1	0	0
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	1	0	0
+neuron-producing asymmetric radial glial cell division in forebrain	GO_0021867	0	1	1	0	0
+neurohypophysis morphogenesis	GO_0048848	0	1	1	0	0
+neurohypophysis formation	GO_0048849	0	1	1	0	0
+neurohypophysis development	GO_0021985	0	1	1	0	0
+neuroblast division in subventricular zone	GO_0021849	0	1	1	0	0
+neuroblast division in subpallium	GO_0021848	0	1	1	0	0
+neuroblast division in pallium	GO_0022017	0	1	1	0	0
+neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	1	0	0
+negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	0	1	1	0	0
+negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	1	0	0
+negative regulation of cell motility involved in cerebral cortex radial glia guided migration	GO_0021822	0	1	1	0	0
+negative regulation of cell adhesion in ventricular zone	GO_0021804	0	1	1	0	0
+mushroom body development	GO_0016319	0	1	1	0	0
+motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve formation	GO_0035765	0	1	1	0	0
+motogenic signaling involved in postnatal olfactory bulb interneuron migration	GO_0021837	0	1	1	0	0
+motogenic signaling involved in interneuron migration from the subpallium to the cortex	GO_0021838	0	1	1	0	0
+modulation of the microfilament cytoskeleton involved in cell locomotion in cerebral cortex radial glia guided migration	GO_0021818	0	1	1	0	0
+modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration	GO_0021815	0	1	1	0	0
+midbrain-hindbrain boundary structural organization	GO_0021552	0	1	1	0	0
+midbrain-hindbrain boundary morphogenesis	GO_0021555	0	1	1	0	0
+midbrain-hindbrain boundary maturation during neural plate development	GO_0022005	0	1	1	0	0
+midbrain-hindbrain boundary maturation during brain development	GO_0022004	0	1	1	0	0
+midbrain-hindbrain boundary maturation	GO_0021732	0	1	1	0	0
+midbrain-hindbrain boundary initiation	GO_0021547	0	1	1	0	0
+midbrain-hindbrain boundary development	GO_0030917	0	1	1	0	0
+midbrain development	GO_0030901	0	1	1	0	0
+metencephalon development	GO_0022037	0	1	1	0	0
+mesencephalic trigeminal nucleus development	GO_0021739	0	1	1	0	0
+medullary reticular formation development	GO_0021723	0	1	1	0	0
+medulla oblongata structural organization	GO_0021581	0	1	1	0	0
+medulla oblongata morphogenesis	GO_0021579	0	1	1	0	0
+medulla oblongata maturation	GO_0021582	0	1	1	0	0
+medulla oblongata formation	GO_0021580	0	1	1	0	0
+medulla oblongata development	GO_0021550	0	1	1	0	0
+medial ganglionic eminence cell proliferation	GO_0022020	0	1	1	0	0
+mammillothalamic axonal tract development	GO_0061374	0	1	1	0	0
+mammillotegmental axonal tract development	GO_0061376	0	1	1	0	0
+mammillotectal axonal tract development	GO_0061375	0	1	1	0	0
+mammillary body development	GO_0021767	0	1	1	0	0
+mammillary axonal complex development	GO_0061373	0	1	1	0	0
+leukemia inhibitory factor signaling pathway involved in forebrain neuron fate commitment	GO_0022025	0	1	1	0	0
+lateral ventricle development	GO_0021670	0	1	1	0	0
+lateral reticular nucleus development	GO_0021726	0	1	1	0	0
+lateral geniculate nucleus development	GO_0021771	0	1	1	0	0
+lateral ganglionic eminence cell proliferation	GO_0022018	0	1	1	0	0
+inward migration of deep nuclear neurons	GO_0021948	0	1	1	0	0
+interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex	GO_0021839	0	1	1	0	0
+interneuron migration from the subpallium to the cortex	GO_0021830	0	1	1	0	0
+intermediate reticular formation development	GO_0021727	0	1	1	0	0
+interkinetic nuclear migration	GO_0022027	0	1	1	0	0
+inferior salivary nucleus development	GO_0021752	0	1	1	0	0
+inferior reticular formation development	GO_0021728	0	1	1	0	0
+inferior colliculus development	GO_0061379	0	1	1	0	0
+hypothalamus gonadotrophin-releasing hormone neuron fate commitment	GO_0021887	0	1	1	0	0
+hypothalamus gonadotrophin-releasing hormone neuron differentiation	GO_0021886	0	1	1	0	0
+hypothalamus gonadotrophin-releasing hormone neuron development	GO_0021888	0	1	1	0	0
+hypothalamus development	GO_0021854	0	1	1	0	0
+hypothalamus cell migration	GO_0021855	0	1	1	0	0
+hypothalamus cell differentiation	GO_0021979	0	1	1	0	0
+hypothalamic tangential migration using cell-axon interactions	GO_0021856	0	1	1	0	0
+hypophysis morphogenesis	GO_0048850	0	1	1	0	0
+hypophysis formation	GO_0048851	0	1	1	0	0
+hypoglossal nucleus development	GO_0021743	0	1	1	0	0
+hippocampus development	GO_0021766	0	1	1	0	0
+hippocampal pyramidal neuron differentiation	GO_0097432	0	1	1	0	0
+hippocampal interneuron differentiation	GO_0097410	0	1	1	0	0
+hindbrain tangential cell migration	GO_0021934	0	1	1	0	0
+hindbrain structural organization	GO_0021577	0	1	1	0	0
+hindbrain radial glia guided cell migration	GO_0021932	0	1	1	0	0
+hindbrain morphogenesis	GO_0021575	0	1	1	0	0
+hindbrain maturation	GO_0021578	0	1	1	0	0
+hindbrain formation	GO_0021576	0	1	1	0	0
+hindbrain development	GO_0030902	0	1	1	0	0
+habenula development	GO_0021986	0	1	1	0	0
+growth factor signaling initiating cell movement involved in cerebral cortex radial glia guided migration	GO_0021811	0	1	1	0	0
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus	GO_0021828	0	1	1	0	0
+globus pallidus development	GO_0021759	0	1	1	0	0
+globose nucleus development	GO_0021736	0	1	1	0	0
+fourth ventricle development	GO_0021592	0	1	1	0	0
+formation of radial glial scaffolds	GO_0021943	0	1	1	0	0
+forebrain ventricular zone progenitor cell division	GO_0021869	0	1	1	0	0
+forebrain regionalization	GO_0021871	0	1	1	0	0
+forebrain radial glial cell differentiation	GO_0021861	0	1	1	0	0
+forebrain neuron fate commitment	GO_0021877	0	1	1	0	0
+forebrain neuron differentiation	GO_0021879	0	1	1	0	0
+forebrain neuron development	GO_0021884	0	1	1	0	0
+forebrain neuroblast division	GO_0021873	0	1	1	0	0
+forebrain neuroblast differentiation	GO_0021863	0	1	1	0	0
+forebrain morphogenesis	GO_0048853	0	1	1	0	0
+forebrain generation of neurons	GO_0021872	0	1	1	0	0
+forebrain dorsal/ventral pattern formation	GO_0021798	0	1	1	0	0
+forebrain development	GO_0030900	0	1	1	0	0
+forebrain astrocyte fate commitment	GO_0021878	0	1	1	0	0
+forebrain astrocyte differentiation	GO_0021896	0	1	1	0	0
+forebrain astrocyte development	GO_0021897	0	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development	GO_0035607	0	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment	GO_0021899	0	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	1	0	0
+fastigial nucleus development	GO_0021738	0	1	1	0	0
+facial nucleus development	GO_0021754	0	1	1	0	0
+extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration	GO_0021820	0	1	1	0	0
+extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	GO_0021816	0	1	1	0	0
+eurydendroid cell differentiation	GO_0021755	0	1	1	0	0
+epithalamus development	GO_0021538	0	1	1	0	0
+epidermal growth factor signaling pathway involved in forebrain neuron fate commitment	GO_0022026	0	1	1	0	0
+embryonic olfactory bulb interneuron precursor migration	GO_0021831	0	1	1	0	0
+emboliform nucleus development	GO_0021737	0	1	1	0	0
+dorsal motor nucleus of vagus nerve structural organization	GO_0035763	0	1	1	0	0
+dorsal motor nucleus of vagus nerve morphogenesis	GO_0035762	0	1	1	0	0
+dorsal motor nucleus of vagus nerve maturation	GO_0035761	0	1	1	0	0
+dorsal motor nucleus of vagus nerve formation	GO_0035764	0	1	1	0	0
+dorsal motor nucleus of vagus nerve development	GO_0021744	0	1	1	0	0
+dorsal lateral ganglionic eminence cell proliferation	GO_0022019	0	1	1	0	0
+dorsal cochlear nucleus development	GO_0021748	0	1	1	0	0
+directional guidance of interneurons involved in migration from the subpallium to the cortex	GO_0021840	0	1	1	0	0
+diencephalon morphogenesis	GO_0048852	0	1	1	0	0
+diencephalon development	GO_0021536	0	1	1	0	0
+determination of left/right asymmetry in diencephalon	GO_0035462	0	1	1	0	0
+dentate nucleus development	GO_0021735	0	1	1	0	0
+dentate gyrus development	GO_0021542	0	1	1	0	0
+deep nuclear neuron precursor proliferation	GO_0021927	0	1	1	0	0
+deep nuclear neuron cell migration	GO_0021946	0	1	1	0	0
+cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration	GO_0021808	0	1	1	0	0
+corticotropin hormone secreting cell differentiation	GO_0060128	0	1	0	1	0
+corticotropin hormone secreting cell development	GO_0060131	0	1	0	1	0
+corpus callosum morphogenesis	GO_0021540	0	1	1	0	0
+corpus callosum development	GO_0022038	0	1	1	0	0
+corpora quadrigemina development	GO_0061378	0	1	1	0	0
+cochlear nucleus development	GO_0021747	0	1	1	0	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	1	0	0
+chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	1	0	0
+chemorepulsion involved in interneuron migration from the subpallium to the cortex	GO_0021842	0	1	1	0	0
+chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	1	0	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	1	0	0
+chemoattraction involved in interneuron migration from the subpallium to the cortex	GO_0021841	0	1	1	0	0
+chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	1	0	0
+cerebral cortex tangential migration using cell-axon interactions	GO_0021824	0	1	1	0	0
+cerebral cortex radial glia guided migration	GO_0021801	0	1	1	0	0
+cerebellum vasculature morphogenesis	GO_0061301	0	1	1	0	0
+cerebellum structural organization	GO_0021589	0	1	1	0	0
+cerebellum morphogenesis	GO_0021587	0	1	1	0	0
+cerebellum maturation	GO_0021590	0	1	1	0	0
+cerebellum formation	GO_0021588	0	1	1	0	0
+cerebellum development	GO_0021549	0	1	1	0	0
+cerebellar unipolar brush cell differentiation	GO_0021711	0	1	1	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	1	0	0
+cerebellar molecular layer structural organization	GO_0021689	0	1	1	0	0
+cerebellar molecular layer morphogenesis	GO_0021687	0	1	1	0	0
+cerebellar molecular layer maturation	GO_0021690	0	1	1	0	0
+cerebellar molecular layer formation	GO_0021688	0	1	1	0	0
+cerebellar molecular layer development	GO_0021679	0	1	1	0	0
+cerebellar granule cell precursor tangential migration	GO_0021935	0	1	1	0	0
+cerebellar granule cell precursor proliferation	GO_0021930	0	1	1	0	0
+cerebellar granule cell differentiation	GO_0021707	0	1	1	0	0
+cerebellar granular layer structural organization	GO_0021685	0	1	1	0	0
+cerebellar granular layer morphogenesis	GO_0021683	0	1	1	0	0
+cerebellar granular layer maturation	GO_0021686	0	1	1	0	0
+cerebellar granular layer formation	GO_0021684	0	1	1	0	0
+cerebellar granular layer development	GO_0021681	0	1	1	0	0
+cerebellar cortex structural organization	GO_0021698	0	1	1	0	0
+cerebellar cortex morphogenesis	GO_0021696	0	1	1	0	0
+cerebellar cortex maturation	GO_0021699	0	1	1	0	0
+cerebellar cortex formation	GO_0021697	0	1	1	0	0
+cerebellar cortex development	GO_0021695	0	1	1	0	0
+cerebellar basket cell differentiation	GO_0021709	0	1	1	0	0
+cerebellar Purkinje cell precursor proliferation	GO_0021925	0	1	1	0	0
+cerebellar Purkinje cell layer structural organization	GO_0021693	0	1	1	0	0
+cerebellar Purkinje cell layer morphogenesis	GO_0021692	0	1	1	0	0
+cerebellar Purkinje cell layer maturation	GO_0021691	0	1	1	0	0
+cerebellar Purkinje cell layer formation	GO_0021694	0	1	1	0	0
+cerebellar Purkinje cell layer development	GO_0021680	0	1	1	0	0
+cerebellar Purkinje cell differentiation	GO_0021702	0	1	1	0	0
+cerebellar Golgi cell differentiation	GO_0021701	0	1	1	0	0
+central complex development	GO_0048036	0	1	1	0	0
+cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	0	1	1	0	0
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	1	0	0
+cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	0	1	1	0	0
+cell proliferation in external granule layer	GO_0021924	0	1	1	0	0
+cell movement involved in somal translocation	GO_0021805	0	1	1	0	0
+cell motility involved in cerebral cortex radial glia guided migration	GO_0021814	0	1	1	0	0
+cell migration in diencephalon	GO_0061381	0	1	1	0	0
+cell cycle arrest of committed forebrain neuronal progenitor cell	GO_0021883	0	1	1	0	0
+caudate nucleus development	GO_0021757	0	1	1	0	0
+caudal ganglionic eminence cell proliferation	GO_0022021	0	1	1	0	0
+candelabrum cell differentiation	GO_0021712	0	1	1	0	0
+basket cell precursor proliferation	GO_0021928	0	1	1	0	0
+asymmetric radial glial cell division in forebrain	GO_0021866	0	1	1	0	0
+anterior commissure morphogenesis	GO_0021960	0	1	1	0	0
+adenohypophysis morphogenesis	GO_0048855	0	1	0	1	0
+adenohypophysis formation	GO_0048847	0	1	0	1	0
+adenohypophysis development	GO_0021984	0	1	0	1	0
+abducens nucleus development	GO_0021742	0	1	1	0	0
+Wnt-activated signaling pathway involved in forebrain neuron fate commitment	GO_0021881	0	1	1	0	0
+Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	1	0	0
+Notch signaling pathway involved in forebrain neuron fate commitment	GO_0021880	0	1	1	0	0
+Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	1	0	0
+Lugaro cell differentiation	GO_0021708	0	1	1	0	0
+Golgi cell precursor proliferation	GO_0021926	0	1	1	0	0
+Cajal-Retzius cell differentiation	GO_0021870	0	1	1	0	0
+BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	0	1	1	0	0

@@ -1,10 +1,10 @@
-name	ID	manual	auto	checked	blacklisted
-zinc ion homeostasis	GO_0055069	1	1	1	0
-zinc potentiation of synaptic transmission, glycinergic	GO_0060095	1	0	1	0
-zinc ion transport	GO_0006829	1	0	1	0
-zinc ion transmembrane transport	GO_0071577	1	0	1	0
-zinc ion transmembrane import	GO_0071578	1	0	1	0
-zinc efflux active transmembrane transporter activity	GO_0015341	1	0	1	0
-zinc D-Ala-D-Ala carboxypeptidase activity	GO_0009046	1	0	1	0
-sequestering of zinc ion	GO_0032119	0	1	1	0
-cellular zinc ion homeostasis	GO_0006882	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+zinc ion homeostasis	GO_0055069	1	1	1	0	0
+zinc potentiation of synaptic transmission, glycinergic	GO_0060095	1	0	1	0	0
+zinc ion transport	GO_0006829	1	0	1	0	0
+zinc ion transmembrane transport	GO_0071577	1	0	1	0	0
+zinc ion transmembrane import	GO_0071578	1	0	1	0	0
+zinc efflux active transmembrane transporter activity	GO_0015341	1	0	1	0	0
+zinc D-Ala-D-Ala carboxypeptidase activity	GO_0009046	1	0	1	0	0
+sequestering of zinc ion	GO_0032119	0	1	1	0	0
+cellular zinc ion homeostasis	GO_0006882	0	1	1	0	0

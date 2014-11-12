@@ -1,5 +1,5 @@
-name	ID	manual	auto	checked	blacklisted
-SMAD protein signal transduction	GO_0060395	1	1	1	0
-ubiquitin-dependent SMAD protein catabolic process	GO_0030579	1	0	1	0
-SMAD protein import into nucleus	GO_0007184	1	0	1	0
-SMAD protein complex assembly	GO_0007183	1	0	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+SMAD protein signal transduction	GO_0060395	1	1	1	0	0
+ubiquitin-dependent SMAD protein catabolic process	GO_0030579	1	0	1	0	0
+SMAD protein import into nucleus	GO_0007184	1	0	1	0	0
+SMAD protein complex assembly	GO_0007183	1	0	1	0	0

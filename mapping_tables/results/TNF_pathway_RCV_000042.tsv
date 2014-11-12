@@ -1,13 +1,13 @@
-name	ID	manual	auto	checked	blacklisted
-tumor necrosis factor-mediated signaling pathway	GO_0033209	1	1	1	0
-tumor necrosis factor superfamily cytokine production	GO_0071706	1	0	1	0
-tumor necrosis factor production	GO_0032640	1	0	1	0
-tumor necrosis factor biosynthetic process	GO_0042533	1	0	1	0
-tumor necrosis factor (ligand) superfamily member 11 production	GO_0072535	1	0	1	0
-tumor necrosis factor-activated receptor activity	GO_0005031	0	1	0	0
-regulation of tumor necrosis factor-mediated signaling pathway	GO_0010803	0	1	0	0
-positive regulation of tumor necrosis factor-mediated signaling pathway	GO_1903265	0	1	0	0
-positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling	GO_0071848	0	1	0	0
-negative regulation of tumor necrosis factor-mediated signaling pathway	GO_0010804	0	1	0	0
-TNFSF11-mediated signaling pathway	GO_0071847	0	1	0	0
-TNFSF11 receptor activity	GO_0038058	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+tumor necrosis factor-mediated signaling pathway	GO_0033209	1	1	1	0	0
+tumor necrosis factor superfamily cytokine production	GO_0071706	1	0	1	0	0
+tumor necrosis factor production	GO_0032640	1	0	1	0	0
+tumor necrosis factor biosynthetic process	GO_0042533	1	0	1	0	0
+tumor necrosis factor (ligand) superfamily member 11 production	GO_0072535	1	0	1	0	0
+tumor necrosis factor-activated receptor activity	GO_0005031	0	1	0	0	0
+regulation of tumor necrosis factor-mediated signaling pathway	GO_0010803	0	1	0	0	0
+positive regulation of tumor necrosis factor-mediated signaling pathway	GO_1903265	0	1	0	0	0
+positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling	GO_0071848	0	1	0	0	0
+negative regulation of tumor necrosis factor-mediated signaling pathway	GO_0010804	0	1	0	0	0
+TNFSF11-mediated signaling pathway	GO_0071847	0	1	0	0	0
+TNFSF11 receptor activity	GO_0038058	0	1	0	0	0

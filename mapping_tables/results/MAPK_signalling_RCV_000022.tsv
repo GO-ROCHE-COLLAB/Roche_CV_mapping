@@ -1,109 +1,109 @@
-name	ID	manual	auto	checked	blacklisted
-stress-activated MAPK cascade	GO_0051403	1	1	1	0
-activation of MAPKKK activity involved in osmosensory signaling pathway	GO_0000167	1	1	1	0
-activation of MAPKKK activity involved in innate immune response	GO_0035422	1	1	1	0
-activation of MAPKKK activity involved in conjugation with cellular fusion	GO_0071510	1	1	1	0
-activation of MAPKKK activity involved in cell wall organization or biogenesis	GO_0000197	1	1	1	0
-activation of MAPKKK activity	GO_0000185	1	1	1	0
-activation of MAPKK activity involved in osmosensory signaling pathway	GO_0000168	1	1	1	0
-activation of MAPKK activity involved in innate immune response	GO_0035421	1	1	1	0
-activation of MAPKK activity involved in conjugation with cellular fusion	GO_0071509	1	1	1	0
-activation of MAPKK activity involved in cell wall organization or biogenesis	GO_0000198	1	1	1	0
-activation of MAPKK activity	GO_0000186	1	1	1	0
-activation of MAPK activity involved in osmosensory signaling pathway	GO_0000169	1	1	1	0
-activation of MAPK activity involved in innate immune response	GO_0035419	1	1	1	0
-activation of MAPK activity involved in conjugation with cellular fusion	GO_0071508	1	1	1	0
-activation of MAPK activity involved in cell wall organization or biogenesis	GO_0000199	1	1	1	0
-activation of MAPK activity by adrenergic receptor signaling pathway	GO_0071883	1	1	1	0
-activation of MAPK activity	GO_0000187	1	1	1	0
-MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	1	1	1	0
-MAPK import into nucleus	GO_0000189	1	1	1	0
-MAPK cascade involved in osmosensory signaling pathway	GO_0000161	1	1	1	0
-MAPK cascade	GO_0000165	1	1	1	0
-stress-activated protein kinase signaling cascade	GO_0031098	1	0	1	0
-activation of MAPKKK during sporulation (sensu Saccharomyces)	GO_0000203	1	0	1	1
-activation of MAPKKK during sporulation (sensu Fungi)	GO_0030441	1	0	1	1
-activation of MAPKKK (pseudohyphal growth)	GO_0000191	1	0	1	1
-activation of MAPKKK (mating sensu Saccharomyces)	GO_0007245	1	0	1	1
-activation of MAPKKK (mating sensu Fungi)	GO_0030458	1	0	1	1
-activation of MAPKK during sporulation (sensu Saccharomyces)	GO_0000204	1	0	1	1
-activation of MAPKK during sporulation (sensu Fungi)	GO_0030440	1	0	1	1
-activation of MAPKK (pseudohyphal growth)	GO_0000192	1	0	1	1
-activation of MAPKK (mating sensu Saccharomyces)	GO_0007246	1	0	1	1
-activation of MAPKK (mating sensu Fungi)	GO_0030457	1	0	1	1
-activation of MAPK during sporulation (sensu Saccharomyces)	GO_0000205	1	0	1	1
-activation of MAPK during sporulation (sensu Fungi)	GO_0030439	1	0	1	1
-activation of MAPK (pseudohyphal growth)	GO_0000193	1	0	1	1
-activation of MAPK (mating sensu Saccharomyces)	GO_0007247	1	0	1	1
-activation of MAPK (mating sensu Fungi)	GO_0030456	1	0	1	1
-regulation of stress-activated MAPK cascade	GO_0032872	0	1	1	0
-regulation of p38MAPK cascade	GO_1900744	0	1	1	0
-regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903137	0	1	1	0
-regulation of MAPK cascade	GO_0043408	0	1	1	0
-regulation of MAP kinase activity	GO_0043405	0	1	1	0
-regulation of JUN kinase activity	GO_0043506	0	1	1	0
-regulation of JNK cascade	GO_0046328	0	1	1	0
-regulation of ERK5 cascade	GO_0070376	0	1	1	0
-regulation of ERK1 and ERK2 cascade	GO_0070372	0	1	1	0
-positive regulation of stress-activated MAPK cascade	GO_0032874	0	1	1	0
-positive regulation of p38MAPK cascade	GO_1900745	0	1	1	0
-positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway	GO_0090080	0	1	1	0
-positive regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903139	0	1	1	0
-positive regulation of MAPK cascade	GO_0043410	0	1	1	0
-positive regulation of MAP kinase activity	GO_0043406	0	1	1	0
-positive regulation of JUN kinase activity	GO_0043507	0	1	1	0
-positive regulation of JNK cascade	GO_0046330	0	1	1	0
-positive regulation of ERK5 cascade	GO_0070378	0	1	1	0
-positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling	GO_0071848	0	1	1	0
-positive regulation of ERK1 and ERK2 cascade	GO_0070374	0	1	1	0
-p38MAPK cascade	GO_0038066	0	1	1	0
-negative regulation of stress-activated MAPK cascade	GO_0032873	0	1	1	0
-negative regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903138	0	1	1	0
-negative regulation of MAPK cascade	GO_0043409	0	1	1	0
-negative regulation of MAP kinase activity	GO_0043407	0	1	1	0
-negative regulation of JUN kinase activity	GO_0043508	0	1	1	0
-negative regulation of JNK cascade	GO_0046329	0	1	1	0
-negative regulation of ERK5 cascade	GO_0070377	0	1	1	0
-negative regulation of ERK1 and ERK2 cascade	GO_0070373	0	1	1	0
-inactivation of MAPKKK activity	GO_0051390	0	1	1	0
-inactivation of MAPKK activity	GO_0051389	0	1	1	0
-inactivation of MAPK activity involved in osmosensory signaling pathway	GO_0000173	0	1	1	0
-inactivation of MAPK activity involved in innate immune response	GO_0035423	0	1	1	0
-inactivation of MAPK activity involved in conjugation with cellular fusion	GO_0071511	0	1	1	0
-inactivation of MAPK activity involved in cell wall organization or biogenesis	GO_0000200	0	1	1	0
-inactivation of MAPK activity	GO_0000188	0	1	1	0
-activation of JUN kinase activity	GO_0007257	0	1	1	0
-activation of JNKKK activity	GO_0042655	0	1	1	0
-activation of JNKK activity	GO_0007256	0	1	1	0
-SAP kinase activity	GO_0016909	0	1	1	0
-MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	1	0
-MAPK import into nucleus involved in conjugation with cellular fusion	GO_0071512	0	1	1	0
-MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	0	1	1	0
-MAPK cascade involved in innate immune response	GO_0035420	0	1	1	0
-MAPK cascade involved in conjugation with cellular fusion	GO_0071507	0	1	1	0
-MAPK cascade involved in cell wall organization or biogenesis	GO_0000196	0	1	1	0
-MAPK cascade in response to starvation	GO_1990263	0	1	1	0
-MAP kinase kinase kinase kinase activity	GO_0008349	0	1	1	0
-MAP kinase kinase kinase activity involved in osmosensory signaling pathway	GO_0038081	0	1	1	0
-MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	1	0
-MAP kinase kinase kinase activity involved in conjugation with cellular fusion	GO_0038073	0	1	1	0
-MAP kinase kinase kinase activity involved in cell wall organization or biogenesis	GO_0038070	0	1	1	0
-MAP kinase kinase kinase activity	GO_0004709	0	1	1	0
-MAP kinase kinase activity involved in osmosensory signaling pathway	GO_0038080	0	1	1	0
-MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	1	0
-MAP kinase kinase activity involved in conjugation with cellular fusion	GO_0038072	0	1	1	0
-MAP kinase kinase activity involved in cell wall organization or biogenesis	GO_0038068	0	1	1	0
-MAP kinase kinase activity	GO_0004708	0	1	1	0
-MAP kinase activity involved in osmosensory signaling pathway	GO_0038079	0	1	1	0
-MAP kinase activity involved in innate immune response	GO_0038075	0	1	1	0
-MAP kinase activity involved in conjugation with cellular fusion	GO_0038071	0	1	1	0
-MAP kinase activity involved in cell wall organization or biogenesis	GO_0038067	0	1	1	0
-MAP kinase activity	GO_0004707	0	1	1	0
-JUN phosphorylation	GO_0007258	0	1	1	0
-JUN kinase kinase kinase kinase activity	GO_0042656	0	1	1	0
-JUN kinase kinase kinase activity	GO_0004706	0	1	1	0
-JUN kinase kinase activity	GO_0008545	0	1	1	0
-JUN kinase activity	GO_0004705	0	1	1	0
-JNK cascade	GO_0007254	0	1	1	0
-ERK5 cascade	GO_0070375	0	1	1	0
-ERK1 and ERK2 cascade	GO_0070371	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+stress-activated MAPK cascade	GO_0051403	1	1	1	0	0
+activation of MAPKKK activity involved in osmosensory signaling pathway	GO_0000167	1	1	1	0	0
+activation of MAPKKK activity involved in innate immune response	GO_0035422	1	1	1	0	0
+activation of MAPKKK activity involved in conjugation with cellular fusion	GO_0071510	1	1	1	0	0
+activation of MAPKKK activity involved in cell wall organization or biogenesis	GO_0000197	1	1	1	0	0
+activation of MAPKKK activity	GO_0000185	1	1	1	0	0
+activation of MAPKK activity involved in osmosensory signaling pathway	GO_0000168	1	1	1	0	0
+activation of MAPKK activity involved in innate immune response	GO_0035421	1	1	1	0	0
+activation of MAPKK activity involved in conjugation with cellular fusion	GO_0071509	1	1	1	0	0
+activation of MAPKK activity involved in cell wall organization or biogenesis	GO_0000198	1	1	1	0	0
+activation of MAPKK activity	GO_0000186	1	1	1	0	0
+activation of MAPK activity involved in osmosensory signaling pathway	GO_0000169	1	1	1	0	0
+activation of MAPK activity involved in innate immune response	GO_0035419	1	1	1	0	0
+activation of MAPK activity involved in conjugation with cellular fusion	GO_0071508	1	1	1	0	0
+activation of MAPK activity involved in cell wall organization or biogenesis	GO_0000199	1	1	1	0	0
+activation of MAPK activity by adrenergic receptor signaling pathway	GO_0071883	1	1	1	0	0
+activation of MAPK activity	GO_0000187	1	1	1	0	0
+MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	1	1	1	0	0
+MAPK import into nucleus	GO_0000189	1	1	1	0	0
+MAPK cascade involved in osmosensory signaling pathway	GO_0000161	1	1	1	0	0
+MAPK cascade	GO_0000165	1	1	1	0	0
+stress-activated protein kinase signaling cascade	GO_0031098	1	0	1	0	0
+activation of MAPKKK during sporulation (sensu Saccharomyces)	GO_0000203	1	0	1	1	1
+activation of MAPKKK during sporulation (sensu Fungi)	GO_0030441	1	0	1	1	1
+activation of MAPKKK (pseudohyphal growth)	GO_0000191	1	0	1	1	1
+activation of MAPKKK (mating sensu Saccharomyces)	GO_0007245	1	0	1	1	1
+activation of MAPKKK (mating sensu Fungi)	GO_0030458	1	0	1	1	1
+activation of MAPKK during sporulation (sensu Saccharomyces)	GO_0000204	1	0	1	1	1
+activation of MAPKK during sporulation (sensu Fungi)	GO_0030440	1	0	1	1	1
+activation of MAPKK (pseudohyphal growth)	GO_0000192	1	0	1	1	1
+activation of MAPKK (mating sensu Saccharomyces)	GO_0007246	1	0	1	1	1
+activation of MAPKK (mating sensu Fungi)	GO_0030457	1	0	1	1	1
+activation of MAPK during sporulation (sensu Saccharomyces)	GO_0000205	1	0	1	1	1
+activation of MAPK during sporulation (sensu Fungi)	GO_0030439	1	0	1	1	1
+activation of MAPK (pseudohyphal growth)	GO_0000193	1	0	1	1	1
+activation of MAPK (mating sensu Saccharomyces)	GO_0007247	1	0	1	1	1
+activation of MAPK (mating sensu Fungi)	GO_0030456	1	0	1	1	1
+regulation of stress-activated MAPK cascade	GO_0032872	0	1	1	0	0
+regulation of p38MAPK cascade	GO_1900744	0	1	1	0	0
+regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903137	0	1	1	0	0
+regulation of MAPK cascade	GO_0043408	0	1	1	0	0
+regulation of MAP kinase activity	GO_0043405	0	1	1	0	0
+regulation of JUN kinase activity	GO_0043506	0	1	1	0	0
+regulation of JNK cascade	GO_0046328	0	1	1	0	0
+regulation of ERK5 cascade	GO_0070376	0	1	1	0	0
+regulation of ERK1 and ERK2 cascade	GO_0070372	0	1	1	0	0
+positive regulation of stress-activated MAPK cascade	GO_0032874	0	1	1	0	0
+positive regulation of p38MAPK cascade	GO_1900745	0	1	1	0	0
+positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway	GO_0090080	0	1	1	0	0
+positive regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903139	0	1	1	0	0
+positive regulation of MAPK cascade	GO_0043410	0	1	1	0	0
+positive regulation of MAP kinase activity	GO_0043406	0	1	1	0	0
+positive regulation of JUN kinase activity	GO_0043507	0	1	1	0	0
+positive regulation of JNK cascade	GO_0046330	0	1	1	0	0
+positive regulation of ERK5 cascade	GO_0070378	0	1	1	0	0
+positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling	GO_0071848	0	1	1	0	0
+positive regulation of ERK1 and ERK2 cascade	GO_0070374	0	1	1	0	0
+p38MAPK cascade	GO_0038066	0	1	1	0	0
+negative regulation of stress-activated MAPK cascade	GO_0032873	0	1	1	0	0
+negative regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903138	0	1	1	0	0
+negative regulation of MAPK cascade	GO_0043409	0	1	1	0	0
+negative regulation of MAP kinase activity	GO_0043407	0	1	1	0	0
+negative regulation of JUN kinase activity	GO_0043508	0	1	1	0	0
+negative regulation of JNK cascade	GO_0046329	0	1	1	0	0
+negative regulation of ERK5 cascade	GO_0070377	0	1	1	0	0
+negative regulation of ERK1 and ERK2 cascade	GO_0070373	0	1	1	0	0
+inactivation of MAPKKK activity	GO_0051390	0	1	1	0	0
+inactivation of MAPKK activity	GO_0051389	0	1	1	0	0
+inactivation of MAPK activity involved in osmosensory signaling pathway	GO_0000173	0	1	1	0	0
+inactivation of MAPK activity involved in innate immune response	GO_0035423	0	1	1	0	0
+inactivation of MAPK activity involved in conjugation with cellular fusion	GO_0071511	0	1	1	0	0
+inactivation of MAPK activity involved in cell wall organization or biogenesis	GO_0000200	0	1	1	0	0
+inactivation of MAPK activity	GO_0000188	0	1	1	0	0
+activation of JUN kinase activity	GO_0007257	0	1	1	0	0
+activation of JNKKK activity	GO_0042655	0	1	1	0	0
+activation of JNKK activity	GO_0007256	0	1	1	0	0
+SAP kinase activity	GO_0016909	0	1	1	0	0
+MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	1	0	0
+MAPK import into nucleus involved in conjugation with cellular fusion	GO_0071512	0	1	1	0	0
+MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	0	1	1	0	0
+MAPK cascade involved in innate immune response	GO_0035420	0	1	1	0	0
+MAPK cascade involved in conjugation with cellular fusion	GO_0071507	0	1	1	0	0
+MAPK cascade involved in cell wall organization or biogenesis	GO_0000196	0	1	1	0	0
+MAPK cascade in response to starvation	GO_1990263	0	1	1	0	0
+MAP kinase kinase kinase kinase activity	GO_0008349	0	1	1	0	0
+MAP kinase kinase kinase activity involved in osmosensory signaling pathway	GO_0038081	0	1	1	0	0
+MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	1	0	0
+MAP kinase kinase kinase activity involved in conjugation with cellular fusion	GO_0038073	0	1	1	0	0
+MAP kinase kinase kinase activity involved in cell wall organization or biogenesis	GO_0038070	0	1	1	0	0
+MAP kinase kinase kinase activity	GO_0004709	0	1	1	0	0
+MAP kinase kinase activity involved in osmosensory signaling pathway	GO_0038080	0	1	1	0	0
+MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	1	0	0
+MAP kinase kinase activity involved in conjugation with cellular fusion	GO_0038072	0	1	1	0	0
+MAP kinase kinase activity involved in cell wall organization or biogenesis	GO_0038068	0	1	1	0	0
+MAP kinase kinase activity	GO_0004708	0	1	1	0	0
+MAP kinase activity involved in osmosensory signaling pathway	GO_0038079	0	1	1	0	0
+MAP kinase activity involved in innate immune response	GO_0038075	0	1	1	0	0
+MAP kinase activity involved in conjugation with cellular fusion	GO_0038071	0	1	1	0	0
+MAP kinase activity involved in cell wall organization or biogenesis	GO_0038067	0	1	1	0	0
+MAP kinase activity	GO_0004707	0	1	1	0	0
+JUN phosphorylation	GO_0007258	0	1	1	0	0
+JUN kinase kinase kinase kinase activity	GO_0042656	0	1	1	0	0
+JUN kinase kinase kinase activity	GO_0004706	0	1	1	0	0
+JUN kinase kinase activity	GO_0008545	0	1	1	0	0
+JUN kinase activity	GO_0004705	0	1	1	0	0
+JNK cascade	GO_0007254	0	1	1	0	0
+ERK5 cascade	GO_0070375	0	1	1	0	0
+ERK1 and ERK2 cascade	GO_0070371	0	1	1	0	0

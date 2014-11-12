@@ -1,19 +1,19 @@
-name	ID	manual	auto	checked	blacklisted
-oocyte construction	GO_0007308	1	1	1	0
-oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	1	0	1	0
-oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	1	0	1	0
-oocyte morphogenesis	GO_0048601	1	0	1	0
-oocyte microtubule cytoskeleton polarization	GO_0008103	1	0	1	0
-oocyte microtubule cytoskeleton organization	GO_0016325	1	0	1	0
-oocyte maturation	GO_0001556	1	0	1	0
-oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	1	0	1	0
-oocyte growth in germarium-derived egg chamber	GO_0030715	1	0	1	0
-oocyte growth	GO_0001555	1	0	1	0
-oocyte fate determination	GO_0030716	1	0	1	0
-oocyte fate commitment	GO_0048600	1	0	1	0
-oocyte dorsal/ventral axis specification	GO_0007310	1	0	1	0
-oocyte differentiation	GO_0009994	1	0	1	0
-oocyte development	GO_0048599	1	0	1	0
-oocyte axis specification	GO_0007309	1	0	1	0
-oocyte anterior/posterior axis specification	GO_0007314	1	0	1	0
-oocyte animal/vegetal axis specification	GO_0060832	1	0	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+oocyte construction	GO_0007308	1	1	1	0	0
+oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	1	0	1	0	0
+oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	1	0	1	0	0
+oocyte morphogenesis	GO_0048601	1	0	1	0	0
+oocyte microtubule cytoskeleton polarization	GO_0008103	1	0	1	0	0
+oocyte microtubule cytoskeleton organization	GO_0016325	1	0	1	0	0
+oocyte maturation	GO_0001556	1	0	1	0	0
+oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	1	0	1	0	0
+oocyte growth in germarium-derived egg chamber	GO_0030715	1	0	1	0	0
+oocyte growth	GO_0001555	1	0	1	0	0
+oocyte fate determination	GO_0030716	1	0	1	0	0
+oocyte fate commitment	GO_0048600	1	0	1	0	0
+oocyte dorsal/ventral axis specification	GO_0007310	1	0	1	0	0
+oocyte differentiation	GO_0009994	1	0	1	0	0
+oocyte development	GO_0048599	1	0	1	0	0
+oocyte axis specification	GO_0007309	1	0	1	0	0
+oocyte anterior/posterior axis specification	GO_0007314	1	0	1	0	0
+oocyte animal/vegetal axis specification	GO_0060832	1	0	1	0	0

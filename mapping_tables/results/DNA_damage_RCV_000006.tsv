@@ -1,45 +1,45 @@
-name	ID	manual	auto	checked	blacklisted
-detection of DNA damage stimulus involved in mitotic G2 DNA damage checkpoint	GO_0072433	1	1	1	0
-detection of DNA damage stimulus involved in mitotic G1 DNA damage checkpoint	GO_0072430	1	1	1	0
-detection of DNA damage stimulus involved in intra-S DNA damage checkpoint	GO_0072427	1	1	1	0
-detection of DNA damage stimulus involved in G2 DNA damage checkpoint	GO_0072424	1	1	1	0
-detection of DNA damage stimulus involved in DNA damage checkpoint	GO_0072421	1	1	1	0
-DNA damage response, detection of DNA damage	GO_0042769	1	1	1	0
-signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	1	0	1	0
-signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	1	0	1	0
-signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	1	0	1	0
-signal transduction involved in G2 DNA damage checkpoint	GO_0072425	1	0	1	0
-signal transduction involved in DNA damage checkpoint	GO_0072422	1	0	1	0
-signal transduction in response to DNA damage	GO_0042770	1	0	1	0
-signal initiation by physical damage	GO_0023039	1	0	1	1
-response to mitotic G2 DNA damage checkpoint signaling	GO_0072435	1	0	1	0
-response to intra-S DNA damage checkpoint signaling	GO_0072429	1	0	1	0
-response to G2 DNA damage checkpoint signaling	GO_0072426	1	0	1	0
-response to G1 DNA damage checkpoint signaling	GO_0072432	1	0	1	0
-response to DNA damage checkpoint signaling	GO_0072423	1	0	1	0
-regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010767	1	0	1	0
-regulation of response to DNA damage stimulus	GO_2001020	1	0	1	0
-regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	1	0	1	0
-regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043516	1	0	1	0
-regulation of DNA damage checkpoint	GO_2000001	1	0	1	0
-positive regulation of response to DNA damage stimulus	GO_2001022	1	0	1	0
-positive regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043517	1	0	1	0
-positive regulation of DNA damage checkpoint	GO_2000003	1	0	1	0
-negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010768	1	0	1	0
-negative regulation of response to DNA damage stimulus	GO_2001021	1	0	1	0
-negative regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043518	1	0	1	0
-negative regulation of DNA damage checkpoint	GO_2000002	1	0	1	0
-intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_0042771	1	0	1	0
-intrinsic apoptotic signaling pathway in response to DNA damage	GO_0008630	1	0	1	0
-intra-S DNA damage checkpoint	GO_0031573	1	0	1	0
-cellular response to DNA damage stimulus	GO_0006974	1	0	1	0
-G1 DNA damage checkpoint	GO_0044783	1	0	1	0
-DNA damage response, signal transduction resulting in transcription	GO_0042772	1	0	1	0
-DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_0006978	1	0	1	0
-DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	1	0	1	0
-DNA damage response, signal transduction by p53 class mediator	GO_0030330	1	0	1	0
-DNA damage induced protein phosphorylation	GO_0006975	1	0	1	0
-DNA damage checkpoint	GO_0000077	1	0	1	0
-detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	1	1
-detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	1	1
-detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	1	1
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+detection of DNA damage stimulus involved in mitotic G2 DNA damage checkpoint	GO_0072433	1	1	1	0	0
+detection of DNA damage stimulus involved in mitotic G1 DNA damage checkpoint	GO_0072430	1	1	1	0	0
+detection of DNA damage stimulus involved in intra-S DNA damage checkpoint	GO_0072427	1	1	1	0	0
+detection of DNA damage stimulus involved in G2 DNA damage checkpoint	GO_0072424	1	1	1	0	0
+detection of DNA damage stimulus involved in DNA damage checkpoint	GO_0072421	1	1	1	0	0
+DNA damage response, detection of DNA damage	GO_0042769	1	1	1	0	0
+signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	1	0	1	0	0
+signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	1	0	1	0	0
+signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	1	0	1	0	0
+signal transduction involved in G2 DNA damage checkpoint	GO_0072425	1	0	1	0	0
+signal transduction involved in DNA damage checkpoint	GO_0072422	1	0	1	0	0
+signal transduction in response to DNA damage	GO_0042770	1	0	1	0	0
+signal initiation by physical damage	GO_0023039	1	0	1	1	1
+response to mitotic G2 DNA damage checkpoint signaling	GO_0072435	1	0	1	0	0
+response to intra-S DNA damage checkpoint signaling	GO_0072429	1	0	1	0	0
+response to G2 DNA damage checkpoint signaling	GO_0072426	1	0	1	0	0
+response to G1 DNA damage checkpoint signaling	GO_0072432	1	0	1	0	0
+response to DNA damage checkpoint signaling	GO_0072423	1	0	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010767	1	0	1	0	0
+regulation of response to DNA damage stimulus	GO_2001020	1	0	1	0	0
+regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	1	0	1	0	0
+regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043516	1	0	1	0	0
+regulation of DNA damage checkpoint	GO_2000001	1	0	1	0	0
+positive regulation of response to DNA damage stimulus	GO_2001022	1	0	1	0	0
+positive regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043517	1	0	1	0	0
+positive regulation of DNA damage checkpoint	GO_2000003	1	0	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010768	1	0	1	0	0
+negative regulation of response to DNA damage stimulus	GO_2001021	1	0	1	0	0
+negative regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043518	1	0	1	0	0
+negative regulation of DNA damage checkpoint	GO_2000002	1	0	1	0	0
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_0042771	1	0	1	0	0
+intrinsic apoptotic signaling pathway in response to DNA damage	GO_0008630	1	0	1	0	0
+intra-S DNA damage checkpoint	GO_0031573	1	0	1	0	0
+cellular response to DNA damage stimulus	GO_0006974	1	0	1	0	0
+G1 DNA damage checkpoint	GO_0044783	1	0	1	0	0
+DNA damage response, signal transduction resulting in transcription	GO_0042772	1	0	1	0	0
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_0006978	1	0	1	0	0
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	1	0	1	0	0
+DNA damage response, signal transduction by p53 class mediator	GO_0030330	1	0	1	0	0
+DNA damage induced protein phosphorylation	GO_0006975	1	0	1	0	0
+DNA damage checkpoint	GO_0000077	1	0	1	0	0
+detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	1	1	0
+detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	1	1	0
+detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	1	1	0

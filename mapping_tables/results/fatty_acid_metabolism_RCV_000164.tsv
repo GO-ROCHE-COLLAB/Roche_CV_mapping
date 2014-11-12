@@ -1,166 +1,166 @@
-name	ID	manual	auto	checked	blacklisted
-very long-chain fatty acid metabolic process	GO_0000038	1	1	1	0
-very long-chain fatty acid catabolic process	GO_0042760	1	1	1	0
-very long-chain fatty acid biosynthetic process	GO_0042761	1	1	1	0
-unsaturated fatty acid metabolic process	GO_0033559	1	1	1	0
-unsaturated fatty acid biosynthetic process	GO_0006636	1	1	1	0
-short-chain fatty acid metabolic process	GO_0046459	1	1	1	0
-short-chain fatty acid catabolic process	GO_0019626	1	1	1	0
-short-chain fatty acid biosynthetic process	GO_0051790	1	1	1	0
-methyl-branched fatty acid metabolic process	GO_0097089	1	1	1	0
-medium-chain fatty acid metabolic process	GO_0051791	1	1	1	0
-medium-chain fatty acid catabolic process	GO_0051793	1	1	1	0
-medium-chain fatty acid biosynthetic process	GO_0051792	1	1	1	0
-fatty acid oxidation	GO_0019395	1	1	1	0
-fatty acid omega-oxidation	GO_0010430	1	1	1	0
-fatty acid metabolic process	GO_0006631	1	1	1	0
-fatty acid elongation, unsaturated fatty acid	GO_0019368	1	1	1	0
-fatty acid elongation, saturated fatty acid	GO_0019367	1	1	1	0
-fatty acid elongation, polyunsaturated fatty acid	GO_0034626	1	1	1	0
-fatty acid elongation, monounsaturated fatty acid	GO_0034625	1	1	1	0
-fatty acid elongation	GO_0030497	1	1	1	0
-fatty acid catabolic process	GO_0009062	1	1	1	0
-fatty acid biosynthetic process	GO_0006633	1	1	1	0
-fatty acid beta-oxidation, unsaturated, odd number	GO_0033541	1	1	1	0
-fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway	GO_0033543	1	1	1	0
-fatty acid beta-oxidation, unsaturated, even number, epimerase pathway	GO_0033544	1	1	1	0
-fatty acid beta-oxidation, unsaturated, even number	GO_0033542	1	1	1	0
-fatty acid beta-oxidation using acyl-CoA oxidase	GO_0033540	1	1	1	0
-fatty acid beta-oxidation using acyl-CoA dehydrogenase	GO_0033539	1	1	1	0
-fatty acid beta-oxidation	GO_0006635	1	1	1	0
-fatty acid alpha-oxidation	GO_0001561	1	1	1	0
-very-low-density lipoprotein particle remodeling	GO_0034372	1	0	1	0
-very-low-density lipoprotein particle clearance	GO_0034447	1	0	1	0
-very-low-density lipoprotein particle assembly	GO_0034379	1	0	1	0
-very long-chain fatty-acyl-CoA metabolic process	GO_0036111	1	0	1	0
-very long-chain fatty-acyl-CoA catabolic process	GO_0036113	1	0	1	0
-short-chain fatty acid transport	GO_0015912	1	0	1	0
-short-chain fatty acid import	GO_0015913	1	0	1	0
-response to fatty acid	GO_0070542	1	0	1	0
-regulation of unsaturated fatty acid biosynthetic process	GO_2001279	1	0	1	0
-regulation of plasma membrane long-chain fatty acid transport	GO_0010746	1	0	1	0
-regulation of fatty acid transport	GO_2000191	1	0	1	0
-regulation of fatty acid oxidation	GO_0046320	1	0	1	0
-regulation of fatty acid metabolic process	GO_0019217	1	0	1	0
-regulation of fatty acid biosynthetic process	GO_0042304	1	0	1	0
-regulation of fatty acid beta-oxidation	GO_0031998	1	0	1	0
-positive regulation of unsaturated fatty acid biosynthetic process	GO_2001280	1	0	1	0
-positive regulation of plasma membrane long-chain fatty acid transport	GO_0010747	1	0	1	0
-positive regulation of fatty acid transport	GO_2000193	1	0	1	0
-positive regulation of fatty acid oxidation	GO_0046321	1	0	1	0
-positive regulation of fatty acid metabolic process	GO_0045923	1	0	1	0
-positive regulation of fatty acid biosynthetic process	GO_0045723	1	0	1	0
-positive regulation of fatty acid beta-oxidation	GO_0032000	1	0	1	0
-plasma membrane long-chain fatty acid transporter	GO_0000039	1	0	1	1
-plasma membrane long-chain fatty acid transport	GO_0015911	1	0	1	0
-peroxisomal long-chain fatty acid import	GO_0015910	1	0	1	0
-negative regulation of plasma membrane long-chain fatty acid transport	GO_0010748	1	0	1	0
-negative regulation of fatty acid transport	GO_2000192	1	0	1	0
-negative regulation of fatty acid oxidation	GO_0046322	1	0	1	0
-negative regulation of fatty acid metabolic process	GO_0045922	1	0	1	0
-negative regulation of fatty acid biosynthetic process	GO_0045717	1	0	1	0
-negative regulation of fatty acid beta-oxidation	GO_0031999	1	0	1	0
-medium-chain fatty-acyl-CoA metabolic process	GO_0036112	1	0	1	0
-medium-chain fatty-acyl-CoA catabolic process	GO_0036114	1	0	1	0
-medium-chain fatty acid transport	GO_0001579	1	0	1	0
-glycerol-1-phosphatase activity	GO_0000121	1	0	1	0
-fatty-acyl-CoA transport	GO_0015916	1	0	1	0
-fatty-acyl-CoA metabolic process	GO_0035337	1	0	1	0
-fatty-acyl-CoA catabolic process	GO_0036115	1	0	1	0
-fatty-acyl-CoA biosynthetic process	GO_0046949	1	0	1	0
-fatty-acyl group transport	GO_0015915	1	0	1	0
-fatty acid transport	GO_0015908	1	0	1	0
-fatty acid homeostasis	GO_0055089	1	0	1	0
-diacylglycerol diphosphate phosphatase activity	GO_0000810	1	0	1	0
-delta24(24-1) sterol reductase activity	GO_0000246	1	0	1	0
-cellular response to fatty acid	GO_0071398	1	0	1	0
-C-5 sterol desaturase activity	GO_0000248	1	0	1	0
-C-4 methylsterol oxidase activity	GO_0000254	1	0	1	0
-C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity	GO_0000252	1	0	1	0
-C-22 sterol desaturase activity	GO_0000249	1	0	1	0
-ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process	GO_0000036	1	0	1	0
-3-keto sterol reductase activity	GO_0000253	1	0	1	0
-(R,R)-butanediol dehydrogenase activity	GO_0000721	1	0	1	0
-pyruvate fermentation to propionate	GO_0019657	0	1	1	0
-prostanoid metabolic process	GO_0006692	0	1	1	0
-prostanoid biosynthetic process	GO_0046457	0	1	1	0
-prostaglandin metabolic process	GO_0006693	0	1	1	0
-prostaglandin biosynthetic process	GO_0001516	0	1	1	0
-propionate metabolic process, methylmalonyl pathway	GO_0019678	0	1	1	0
-propionate metabolic process, methylcitrate cycle	GO_0019679	0	1	1	0
-propionate metabolic process	GO_0019541	0	1	1	0
-propionate catabolic process, 2-methylcitrate cycle	GO_0019629	0	1	1	0
-propionate catabolic process	GO_0019543	0	1	1	0
-propionate biosynthetic process	GO_0019542	0	1	1	0
-poly(hydroxyalkanoate) biosynthetic process from fatty acid	GO_1902925	0	1	1	0
-phytanic acid metabolic process	GO_1903512	0	1	1	0
-pentose catabolic process to butyrate	GO_1902698	0	1	1	0
-palmitic acid metabolic process	GO_1900533	0	1	1	0
-palmitic acid catabolic process	GO_1900534	0	1	1	0
-palmitic acid biosynthetic process	GO_1900535	0	1	1	0
-oxylipin metabolic process	GO_0031407	0	1	1	0
-oxylipin biosynthetic process	GO_0031408	0	1	1	0
-omega-hydroxylase P450 pathway	GO_0097267	0	1	1	0
-mycolic acid metabolic process	GO_0071767	0	1	1	0
-mycolic acid biosynthetic process	GO_0071768	0	1	1	0
-methyl-branched fatty acid biosynthetic process	GO_1902321	0	1	1	0
-methionine catabolic process to 3-methylthiopropanoate	GO_0000954	0	1	1	0
-methane biosynthetic process from 3-(methylthio)propionic acid	GO_2001132	0	1	1	0
-long-chain fatty acid metabolic process	GO_0001676	0	1	1	0
-long-chain fatty acid catabolic process	GO_0042758	0	1	1	0
-long-chain fatty acid biosynthetic process	GO_0042759	0	1	1	0
-lipoxygenase pathway	GO_0019372	0	1	1	0
-lipoxin metabolic process	GO_2001300	0	1	1	0
-lipoxin biosynthetic process	GO_2001301	0	1	1	0
-lipoxin B4 metabolic process	GO_2001304	0	1	1	0
-lipoxin B4 biosynthetic process	GO_2001306	0	1	1	0
-lipoxin A4 metabolic process	GO_2001302	0	1	1	0
-lipoxin A4 biosynthetic process	GO_2001303	0	1	1	0
-lipoate metabolic process	GO_0009106	0	1	1	0
-lipoate catabolic process	GO_0032323	0	1	1	0
-lipoate biosynthetic process	GO_0009107	0	1	1	0
-linoleic acid metabolic process	GO_0043651	0	1	1	0
-leukotriene metabolic process	GO_0006691	0	1	1	0
-leukotriene catabolic process	GO_0036100	0	1	1	0
-leukotriene biosynthetic process	GO_0019370	0	1	1	0
-leukotriene D4 metabolic process	GO_1901748	0	1	1	0
-leukotriene D4 catabolic process	GO_1901749	0	1	1	0
-leukotriene D4 biosynthetic process	GO_1901750	0	1	1	0
-leukotriene B4 metabolic process	GO_0036102	0	1	1	0
-leukotriene B4 catabolic process	GO_0036101	0	1	1	0
-leukotriene B4 biosynthetic process	GO_0097251	0	1	1	0
-leukotriene A4 metabolic process	GO_1901751	0	1	1	0
-leukotriene A4 catabolic process	GO_1901752	0	1	1	0
-leukotriene A4 biosynthetic process	GO_1901753	0	1	1	0
-lauric acid metabolic process	GO_0048252	0	1	1	0
-lactate fermentation to propionate and acetate	GO_0019652	0	1	1	0
-hexose catabolic process to butyrate	GO_1902705	0	1	1	0
-hepoxilin metabolic process	GO_0051121	0	1	1	0
-hepoxilin biosynthetic process	GO_0051122	0	1	1	0
-green leaf volatile biosynthetic process	GO_0010597	0	1	1	0
-glutamate catabolic process to propionate	GO_0033509	0	1	1	0
-glutamate catabolic process to butyrate	GO_0033508	0	1	1	0
-glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	1	0
-glucose catabolic process to butyrate	GO_0030645	0	1	1	0
-epoxygenase P450 pathway	GO_0019373	0	1	1	0
-cyclooxygenase pathway	GO_0019371	0	1	1	0
-butyryl-CoA catabolic process to butyrate	GO_0044581	0	1	1	0
-butyryl-CoA catabolic process to butanol	GO_0044582	0	1	1	0
-butyryl-CoA catabolic process	GO_0044580	0	1	1	0
-butyryl-CoA biosynthetic process from acetyl-CoA	GO_0044579	0	1	1	0
-butyryl-CoA biosynthetic process	GO_0044578	0	1	1	0
-butyrate metabolic process	GO_0019605	0	1	1	0
-butyrate catabolic process	GO_0046359	0	1	1	0
-butyrate biosynthetic process	GO_0046358	0	1	1	0
-arachidonic acid metabolic process	GO_0019369	0	1	1	0
-anaerobic fatty acid catabolic process	GO_1990486	0	1	1	0
-alpha-linolenic acid metabolic process	GO_0036109	0	1	1	0
-acetoacetic acid metabolic process	GO_0043438	0	1	1	0
-acetoacetic acid catabolic process	GO_0043442	0	1	1	0
-acetoacetic acid biosynthetic process	GO_0043441	0	1	1	0
-acetate catabolic process to butyrate, ethanol, acetone and butanol	GO_0010123	0	1	1	0
-L-threonine catabolic process to propionate	GO_0070689	0	1	1	0
-2-oxobutyrate metabolic process	GO_0046361	0	1	1	0
-2-oxobutyrate catabolic process	GO_0019606	0	1	1	0
-2-oxobutyrate biosynthetic process	GO_0046360	0	1	1	0
-(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	GO_1902609	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+very long-chain fatty acid metabolic process	GO_0000038	1	1	1	0	0
+very long-chain fatty acid catabolic process	GO_0042760	1	1	1	0	0
+very long-chain fatty acid biosynthetic process	GO_0042761	1	1	1	0	0
+unsaturated fatty acid metabolic process	GO_0033559	1	1	1	0	0
+unsaturated fatty acid biosynthetic process	GO_0006636	1	1	1	0	0
+short-chain fatty acid metabolic process	GO_0046459	1	1	1	0	0
+short-chain fatty acid catabolic process	GO_0019626	1	1	1	0	0
+short-chain fatty acid biosynthetic process	GO_0051790	1	1	1	0	0
+methyl-branched fatty acid metabolic process	GO_0097089	1	1	1	0	0
+medium-chain fatty acid metabolic process	GO_0051791	1	1	1	0	0
+medium-chain fatty acid catabolic process	GO_0051793	1	1	1	0	0
+medium-chain fatty acid biosynthetic process	GO_0051792	1	1	1	0	0
+fatty acid oxidation	GO_0019395	1	1	1	0	0
+fatty acid omega-oxidation	GO_0010430	1	1	1	0	0
+fatty acid metabolic process	GO_0006631	1	1	1	0	0
+fatty acid elongation, unsaturated fatty acid	GO_0019368	1	1	1	0	0
+fatty acid elongation, saturated fatty acid	GO_0019367	1	1	1	0	0
+fatty acid elongation, polyunsaturated fatty acid	GO_0034626	1	1	1	0	0
+fatty acid elongation, monounsaturated fatty acid	GO_0034625	1	1	1	0	0
+fatty acid elongation	GO_0030497	1	1	1	0	0
+fatty acid catabolic process	GO_0009062	1	1	1	0	0
+fatty acid biosynthetic process	GO_0006633	1	1	1	0	0
+fatty acid beta-oxidation, unsaturated, odd number	GO_0033541	1	1	1	0	0
+fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway	GO_0033543	1	1	1	0	0
+fatty acid beta-oxidation, unsaturated, even number, epimerase pathway	GO_0033544	1	1	1	0	0
+fatty acid beta-oxidation, unsaturated, even number	GO_0033542	1	1	1	0	0
+fatty acid beta-oxidation using acyl-CoA oxidase	GO_0033540	1	1	1	0	0
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	GO_0033539	1	1	1	0	0
+fatty acid beta-oxidation	GO_0006635	1	1	1	0	0
+fatty acid alpha-oxidation	GO_0001561	1	1	1	0	0
+very-low-density lipoprotein particle remodeling	GO_0034372	1	0	1	0	0
+very-low-density lipoprotein particle clearance	GO_0034447	1	0	1	0	0
+very-low-density lipoprotein particle assembly	GO_0034379	1	0	1	0	0
+very long-chain fatty-acyl-CoA metabolic process	GO_0036111	1	0	1	0	0
+very long-chain fatty-acyl-CoA catabolic process	GO_0036113	1	0	1	0	0
+short-chain fatty acid transport	GO_0015912	1	0	1	0	0
+short-chain fatty acid import	GO_0015913	1	0	1	0	0
+response to fatty acid	GO_0070542	1	0	1	0	0
+regulation of unsaturated fatty acid biosynthetic process	GO_2001279	1	0	1	0	0
+regulation of plasma membrane long-chain fatty acid transport	GO_0010746	1	0	1	0	0
+regulation of fatty acid transport	GO_2000191	1	0	1	0	0
+regulation of fatty acid oxidation	GO_0046320	1	0	1	0	0
+regulation of fatty acid metabolic process	GO_0019217	1	0	1	0	0
+regulation of fatty acid biosynthetic process	GO_0042304	1	0	1	0	0
+regulation of fatty acid beta-oxidation	GO_0031998	1	0	1	0	0
+positive regulation of unsaturated fatty acid biosynthetic process	GO_2001280	1	0	1	0	0
+positive regulation of plasma membrane long-chain fatty acid transport	GO_0010747	1	0	1	0	0
+positive regulation of fatty acid transport	GO_2000193	1	0	1	0	0
+positive regulation of fatty acid oxidation	GO_0046321	1	0	1	0	0
+positive regulation of fatty acid metabolic process	GO_0045923	1	0	1	0	0
+positive regulation of fatty acid biosynthetic process	GO_0045723	1	0	1	0	0
+positive regulation of fatty acid beta-oxidation	GO_0032000	1	0	1	0	0
+plasma membrane long-chain fatty acid transporter	GO_0000039	1	0	1	1	1
+plasma membrane long-chain fatty acid transport	GO_0015911	1	0	1	0	0
+peroxisomal long-chain fatty acid import	GO_0015910	1	0	1	0	0
+negative regulation of plasma membrane long-chain fatty acid transport	GO_0010748	1	0	1	0	0
+negative regulation of fatty acid transport	GO_2000192	1	0	1	0	0
+negative regulation of fatty acid oxidation	GO_0046322	1	0	1	0	0
+negative regulation of fatty acid metabolic process	GO_0045922	1	0	1	0	0
+negative regulation of fatty acid biosynthetic process	GO_0045717	1	0	1	0	0
+negative regulation of fatty acid beta-oxidation	GO_0031999	1	0	1	0	0
+medium-chain fatty-acyl-CoA metabolic process	GO_0036112	1	0	1	0	0
+medium-chain fatty-acyl-CoA catabolic process	GO_0036114	1	0	1	0	0
+medium-chain fatty acid transport	GO_0001579	1	0	1	0	0
+glycerol-1-phosphatase activity	GO_0000121	1	0	1	0	0
+fatty-acyl-CoA transport	GO_0015916	1	0	1	0	0
+fatty-acyl-CoA metabolic process	GO_0035337	1	0	1	0	0
+fatty-acyl-CoA catabolic process	GO_0036115	1	0	1	0	0
+fatty-acyl-CoA biosynthetic process	GO_0046949	1	0	1	0	0
+fatty-acyl group transport	GO_0015915	1	0	1	0	0
+fatty acid transport	GO_0015908	1	0	1	0	0
+fatty acid homeostasis	GO_0055089	1	0	1	0	0
+diacylglycerol diphosphate phosphatase activity	GO_0000810	1	0	1	0	0
+delta24(24-1) sterol reductase activity	GO_0000246	1	0	1	0	0
+cellular response to fatty acid	GO_0071398	1	0	1	0	0
+C-5 sterol desaturase activity	GO_0000248	1	0	1	0	0
+C-4 methylsterol oxidase activity	GO_0000254	1	0	1	0	0
+C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity	GO_0000252	1	0	1	0	0
+C-22 sterol desaturase activity	GO_0000249	1	0	1	0	0
+ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process	GO_0000036	1	0	1	0	0
+3-keto sterol reductase activity	GO_0000253	1	0	1	0	0
+(R,R)-butanediol dehydrogenase activity	GO_0000721	1	0	1	0	0
+pyruvate fermentation to propionate	GO_0019657	0	1	1	0	0
+prostanoid metabolic process	GO_0006692	0	1	1	0	0
+prostanoid biosynthetic process	GO_0046457	0	1	1	0	0
+prostaglandin metabolic process	GO_0006693	0	1	1	0	0
+prostaglandin biosynthetic process	GO_0001516	0	1	1	0	0
+propionate metabolic process, methylmalonyl pathway	GO_0019678	0	1	1	0	0
+propionate metabolic process, methylcitrate cycle	GO_0019679	0	1	1	0	0
+propionate metabolic process	GO_0019541	0	1	1	0	0
+propionate catabolic process, 2-methylcitrate cycle	GO_0019629	0	1	1	0	0
+propionate catabolic process	GO_0019543	0	1	1	0	0
+propionate biosynthetic process	GO_0019542	0	1	1	0	0
+poly(hydroxyalkanoate) biosynthetic process from fatty acid	GO_1902925	0	1	1	0	0
+phytanic acid metabolic process	GO_1903512	0	1	1	0	0
+pentose catabolic process to butyrate	GO_1902698	0	1	1	0	0
+palmitic acid metabolic process	GO_1900533	0	1	1	0	0
+palmitic acid catabolic process	GO_1900534	0	1	1	0	0
+palmitic acid biosynthetic process	GO_1900535	0	1	1	0	0
+oxylipin metabolic process	GO_0031407	0	1	1	0	0
+oxylipin biosynthetic process	GO_0031408	0	1	1	0	0
+omega-hydroxylase P450 pathway	GO_0097267	0	1	1	0	0
+mycolic acid metabolic process	GO_0071767	0	1	1	0	0
+mycolic acid biosynthetic process	GO_0071768	0	1	1	0	0
+methyl-branched fatty acid biosynthetic process	GO_1902321	0	1	1	0	0
+methionine catabolic process to 3-methylthiopropanoate	GO_0000954	0	1	1	0	0
+methane biosynthetic process from 3-(methylthio)propionic acid	GO_2001132	0	1	1	0	0
+long-chain fatty acid metabolic process	GO_0001676	0	1	1	0	0
+long-chain fatty acid catabolic process	GO_0042758	0	1	1	0	0
+long-chain fatty acid biosynthetic process	GO_0042759	0	1	1	0	0
+lipoxygenase pathway	GO_0019372	0	1	1	0	0
+lipoxin metabolic process	GO_2001300	0	1	1	0	0
+lipoxin biosynthetic process	GO_2001301	0	1	1	0	0
+lipoxin B4 metabolic process	GO_2001304	0	1	1	0	0
+lipoxin B4 biosynthetic process	GO_2001306	0	1	1	0	0
+lipoxin A4 metabolic process	GO_2001302	0	1	1	0	0
+lipoxin A4 biosynthetic process	GO_2001303	0	1	1	0	0
+lipoate metabolic process	GO_0009106	0	1	1	0	0
+lipoate catabolic process	GO_0032323	0	1	1	0	0
+lipoate biosynthetic process	GO_0009107	0	1	1	0	0
+linoleic acid metabolic process	GO_0043651	0	1	1	0	0
+leukotriene metabolic process	GO_0006691	0	1	1	0	0
+leukotriene catabolic process	GO_0036100	0	1	1	0	0
+leukotriene biosynthetic process	GO_0019370	0	1	1	0	0
+leukotriene D4 metabolic process	GO_1901748	0	1	1	0	0
+leukotriene D4 catabolic process	GO_1901749	0	1	1	0	0
+leukotriene D4 biosynthetic process	GO_1901750	0	1	1	0	0
+leukotriene B4 metabolic process	GO_0036102	0	1	1	0	0
+leukotriene B4 catabolic process	GO_0036101	0	1	1	0	0
+leukotriene B4 biosynthetic process	GO_0097251	0	1	1	0	0
+leukotriene A4 metabolic process	GO_1901751	0	1	1	0	0
+leukotriene A4 catabolic process	GO_1901752	0	1	1	0	0
+leukotriene A4 biosynthetic process	GO_1901753	0	1	1	0	0
+lauric acid metabolic process	GO_0048252	0	1	1	0	0
+lactate fermentation to propionate and acetate	GO_0019652	0	1	1	0	0
+hexose catabolic process to butyrate	GO_1902705	0	1	1	0	0
+hepoxilin metabolic process	GO_0051121	0	1	1	0	0
+hepoxilin biosynthetic process	GO_0051122	0	1	1	0	0
+green leaf volatile biosynthetic process	GO_0010597	0	1	1	0	0
+glutamate catabolic process to propionate	GO_0033509	0	1	1	0	0
+glutamate catabolic process to butyrate	GO_0033508	0	1	1	0	0
+glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	1	0	0
+glucose catabolic process to butyrate	GO_0030645	0	1	1	0	0
+epoxygenase P450 pathway	GO_0019373	0	1	1	0	0
+cyclooxygenase pathway	GO_0019371	0	1	1	0	0
+butyryl-CoA catabolic process to butyrate	GO_0044581	0	1	1	0	0
+butyryl-CoA catabolic process to butanol	GO_0044582	0	1	1	0	0
+butyryl-CoA catabolic process	GO_0044580	0	1	1	0	0
+butyryl-CoA biosynthetic process from acetyl-CoA	GO_0044579	0	1	1	0	0
+butyryl-CoA biosynthetic process	GO_0044578	0	1	1	0	0
+butyrate metabolic process	GO_0019605	0	1	1	0	0
+butyrate catabolic process	GO_0046359	0	1	1	0	0
+butyrate biosynthetic process	GO_0046358	0	1	1	0	0
+arachidonic acid metabolic process	GO_0019369	0	1	1	0	0
+anaerobic fatty acid catabolic process	GO_1990486	0	1	1	0	0
+alpha-linolenic acid metabolic process	GO_0036109	0	1	1	0	0
+acetoacetic acid metabolic process	GO_0043438	0	1	1	0	0
+acetoacetic acid catabolic process	GO_0043442	0	1	1	0	0
+acetoacetic acid biosynthetic process	GO_0043441	0	1	1	0	0
+acetate catabolic process to butyrate, ethanol, acetone and butanol	GO_0010123	0	1	1	0	0
+L-threonine catabolic process to propionate	GO_0070689	0	1	1	0	0
+2-oxobutyrate metabolic process	GO_0046361	0	1	1	0	0
+2-oxobutyrate catabolic process	GO_0019606	0	1	1	0	0
+2-oxobutyrate biosynthetic process	GO_0046360	0	1	1	0	0
+(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	GO_1902609	0	1	1	0	0

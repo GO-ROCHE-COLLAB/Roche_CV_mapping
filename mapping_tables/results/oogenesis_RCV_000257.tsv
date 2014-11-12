@@ -1,119 +1,119 @@
-name	ID	manual	auto	checked	blacklisted
-oogonium stage	GO_0048158	1	1	1	0
-oogenesis stage	GO_0022605	1	1	1	0
-oogenesis	GO_0048477	1	1	1	0
-oogonium development	GO_0075263	1	0	1	0
-vitelline membrane formation involved in chorion-containing eggshell formation	GO_0007305	0	1	1	0
-vitelline membrane formation	GO_0030704	0	1	1	0
-scattered antral spaces stage	GO_0048163	0	1	1	0
-regulation of pole plasm oskar mRNA localization	GO_0007317	0	1	1	0
-regulation of oocyte maturation	GO_1900193	0	1	1	0
-regulation of oocyte development	GO_0060281	0	1	1	0
-regulation of nurse cell apoptotic process	GO_0045477	0	1	1	0
-regulation of meiotic cell cycle process involved in oocyte maturation	GO_1903538	0	1	1	0
-regulation of cumulus cell differentiation	GO_0045592	0	1	1	0
-regulation of border follicle cell delamination	GO_0030710	0	1	1	0
-regulation of bicoid mRNA localization	GO_0008359	0	1	1	0
-primary ovarian follicle growth involved in primary follicle stage	GO_0043930	0	1	1	0
-primary ovarian follicle growth involved in double layer follicle stage	GO_0043929	0	1	1	0
-primary oocyte stage	GO_0048159	0	1	1	0
-primary follicle stage	GO_0048160	0	1	1	0
-preantral ovarian follicle growth	GO_0001546	0	1	1	0
-positive regulation of pole plasm oskar mRNA localization	GO_0045856	0	1	1	0
-positive regulation of oocyte maturation	GO_1900195	0	1	1	0
-positive regulation of oocyte development	GO_0060282	0	1	1	0
-positive regulation of nurse cell apoptotic process	GO_0045850	0	1	1	0
-positive regulation of cumulus cell differentiation	GO_0045594	0	1	1	0
-positive regulation of border follicle cell delamination	GO_0030711	0	1	1	0
-positive regulation of bicoid mRNA localization	GO_0045854	0	1	1	0
-pole plasm protein localization	GO_0007318	0	1	1	0
-pole plasm oskar mRNA localization	GO_0045451	0	1	1	0
-pole plasm mitochondrial srRNA localization	GO_0019097	0	1	1	0
-pole plasm mitochondrial rRNA localization	GO_0019095	0	1	1	0
-pole plasm mitochondrial lrRNA localization	GO_0019096	0	1	1	0
-pole plasm mRNA localization	GO_0019094	0	1	1	0
-pole plasm assembly	GO_0007315	0	1	1	0
-pole plasm RNA localization	GO_0007316	0	1	1	0
-ovarian nurse cell to oocyte transport	GO_0007300	0	1	1	0
-ovarian fusome organization	GO_0030723	0	1	1	0
-ovarian follicle cell-cell adhesion	GO_0007299	0	1	1	0
-ovarian follicle cell stalk formation	GO_0030713	0	1	1	0
-ovarian follicle cell migration	GO_0007297	0	1	1	0
-ovarian follicle cell development	GO_0030707	0	1	1	0
-ovarian cumulus expansion	GO_0001550	0	1	1	0
-oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	0	1	1	0
-oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	0	1	1	0
-oocyte morphogenesis	GO_0048601	0	1	1	0
-oocyte microtubule cytoskeleton polarization	GO_0008103	0	1	1	0
-oocyte microtubule cytoskeleton organization	GO_0016325	0	1	1	0
-oocyte maturation	GO_0001556	0	1	1	0
-oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	0	1	1	0
-oocyte growth in germarium-derived egg chamber	GO_0030715	0	1	1	0
-oocyte growth	GO_0001555	0	1	1	0
-oocyte fate commitment	GO_0048600	0	1	1	0
-oocyte dorsal/ventral axis specification	GO_0007310	0	1	1	0
-oocyte differentiation	GO_0009994	0	1	1	0
-oocyte development	GO_0048599	0	1	1	0
-oocyte construction	GO_0007308	0	1	1	0
-oocyte axis specification	GO_0007309	0	1	1	0
-oocyte anterior/posterior axis specification	GO_0007314	0	1	1	0
-oocyte animal/vegetal axis specification	GO_0060832	0	1	1	0
-nurse cell nucleus anchoring	GO_0007302	0	1	1	0
-nurse cell apoptotic process	GO_0045476	0	1	1	0
-negative regulation of pole plasm oskar mRNA localization	GO_0045855	0	1	1	0
-negative regulation of oocyte maturation	GO_1900194	0	1	1	0
-negative regulation of oocyte development	GO_0060283	0	1	1	0
-negative regulation of nurse cell apoptotic process	GO_0045849	0	1	1	0
-negative regulation of cumulus cell differentiation	GO_0045593	0	1	1	0
-negative regulation of border follicle cell delamination	GO_0030712	0	1	1	0
-negative regulation of bicoid mRNA localization	GO_0045853	0	1	1	0
-multi-layer follicle stage	GO_0048162	0	1	1	0
-micropyle formation	GO_0046844	0	1	1	0
-meiotic cell cycle process involved in oocyte maturation	GO_1903537	0	1	1	0
-mature follicle stage	GO_0048166	0	1	1	0
-maternal specification of dorsal/ventral axis, oocyte, soma encoded	GO_0007313	0	1	1	0
-maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	GO_0007311	0	1	1	0
-maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded	GO_0008071	0	1	1	0
-maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded	GO_0008070	0	1	1	0
-maintenance of pole plasm mRNA location	GO_0046594	0	1	1	0
-maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification	GO_0042070	0	1	1	0
-main body follicle cell migration	GO_0060270	0	1	1	0
-karyosome formation	GO_0030717	0	1	1	0
-growth of a germarium-derived egg chamber	GO_0007295	0	1	1	0
-germarium-derived oocyte fate determination	GO_0007294	0	1	1	0
-germarium-derived oocyte differentiation	GO_0030706	0	1	1	0
-germarium-derived female germ-line cyst formation	GO_0030727	0	1	1	0
-germarium-derived female germ-line cyst encapsulation	GO_0030708	0	1	1	0
-germarium-derived egg chamber formation	GO_0007293	0	1	1	0
-germarium-derived cystoblast division	GO_0048142	0	1	1	0
-fused antrum stage	GO_0048165	0	1	1	0
-follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage	GO_0003005	0	1	1	0
-follicular fluid formation in ovarian follicle antrum involved in fused antrum stage	GO_0003003	0	1	1	0
-follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage	GO_0003004	0	1	1	0
-female germline ring canal stabilization	GO_0008335	0	1	1	0
-female germline ring canal formation, actin assembly	GO_0008302	0	1	1	0
-female germline ring canal formation	GO_0007301	0	1	1	0
-female germ-line stem cell asymmetric division	GO_0048132	0	1	1	0
-female germ-line cyst formation	GO_0048135	0	1	1	0
-establishment of pole plasm mRNA localization	GO_0046595	0	1	1	0
-establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0030722	0	1	1	0
-eggshell formation	GO_0030703	0	1	1	0
-eggshell chorion gene amplification	GO_0007307	0	1	1	0
-eggshell chorion assembly	GO_0007306	0	1	1	0
-egg coat formation	GO_0035803	0	1	1	0
-double layer follicle stage	GO_0048161	0	1	1	0
-dorsal/ventral axis specification, ovarian follicular epithelium	GO_0008069	0	1	1	0
-dorsal appendage formation	GO_0046843	0	1	1	0
-distinct antral spaces stage	GO_0048164	0	1	1	0
-cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte	GO_0019749	0	1	1	0
-cytoplasmic transport, nurse cell to oocyte	GO_0007303	0	1	1	0
-cumulus cell differentiation	GO_0001549	0	1	1	0
-chorion-containing eggshell pattern formation	GO_0030381	0	1	1	0
-chorion-containing eggshell formation	GO_0007304	0	1	1	0
-centripetally migrating follicle cell migration	GO_0060269	0	1	1	0
-border follicle cell migration	GO_0007298	0	1	1	0
-border follicle cell delamination	GO_0030709	0	1	1	0
-bicoid mRNA localization	GO_0045450	0	1	1	0
-anterior/posterior axis specification, follicular epithelium	GO_0030714	0	1	1	0
-Wnt signaling pathway involved in animal/vegetal axis specification	GO_0060833	0	1	1	0
-P granule organization	GO_0030719	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+oogonium stage	GO_0048158	1	1	1	0	0
+oogenesis stage	GO_0022605	1	1	1	0	0
+oogenesis	GO_0048477	1	1	1	0	0
+oogonium development	GO_0075263	1	0	1	0	0
+vitelline membrane formation involved in chorion-containing eggshell formation	GO_0007305	0	1	1	0	0
+vitelline membrane formation	GO_0030704	0	1	1	0	0
+scattered antral spaces stage	GO_0048163	0	1	1	0	0
+regulation of pole plasm oskar mRNA localization	GO_0007317	0	1	1	0	0
+regulation of oocyte maturation	GO_1900193	0	1	1	0	0
+regulation of oocyte development	GO_0060281	0	1	1	0	0
+regulation of nurse cell apoptotic process	GO_0045477	0	1	1	0	0
+regulation of meiotic cell cycle process involved in oocyte maturation	GO_1903538	0	1	1	0	0
+regulation of cumulus cell differentiation	GO_0045592	0	1	1	0	0
+regulation of border follicle cell delamination	GO_0030710	0	1	1	0	0
+regulation of bicoid mRNA localization	GO_0008359	0	1	1	0	0
+primary ovarian follicle growth involved in primary follicle stage	GO_0043930	0	1	1	0	0
+primary ovarian follicle growth involved in double layer follicle stage	GO_0043929	0	1	1	0	0
+primary oocyte stage	GO_0048159	0	1	1	0	0
+primary follicle stage	GO_0048160	0	1	1	0	0
+preantral ovarian follicle growth	GO_0001546	0	1	1	0	0
+positive regulation of pole plasm oskar mRNA localization	GO_0045856	0	1	1	0	0
+positive regulation of oocyte maturation	GO_1900195	0	1	1	0	0
+positive regulation of oocyte development	GO_0060282	0	1	1	0	0
+positive regulation of nurse cell apoptotic process	GO_0045850	0	1	1	0	0
+positive regulation of cumulus cell differentiation	GO_0045594	0	1	1	0	0
+positive regulation of border follicle cell delamination	GO_0030711	0	1	1	0	0
+positive regulation of bicoid mRNA localization	GO_0045854	0	1	1	0	0
+pole plasm protein localization	GO_0007318	0	1	1	0	0
+pole plasm oskar mRNA localization	GO_0045451	0	1	1	0	0
+pole plasm mitochondrial srRNA localization	GO_0019097	0	1	1	0	0
+pole plasm mitochondrial rRNA localization	GO_0019095	0	1	1	0	0
+pole plasm mitochondrial lrRNA localization	GO_0019096	0	1	1	0	0
+pole plasm mRNA localization	GO_0019094	0	1	1	0	0
+pole plasm assembly	GO_0007315	0	1	1	0	0
+pole plasm RNA localization	GO_0007316	0	1	1	0	0
+ovarian nurse cell to oocyte transport	GO_0007300	0	1	1	0	0
+ovarian fusome organization	GO_0030723	0	1	1	0	0
+ovarian follicle cell-cell adhesion	GO_0007299	0	1	1	0	0
+ovarian follicle cell stalk formation	GO_0030713	0	1	1	0	0
+ovarian follicle cell migration	GO_0007297	0	1	1	0	0
+ovarian follicle cell development	GO_0030707	0	1	1	0	0
+ovarian cumulus expansion	GO_0001550	0	1	1	0	0
+oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	0	1	1	0	0
+oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	0	1	1	0	0
+oocyte morphogenesis	GO_0048601	0	1	1	0	0
+oocyte microtubule cytoskeleton polarization	GO_0008103	0	1	1	0	0
+oocyte microtubule cytoskeleton organization	GO_0016325	0	1	1	0	0
+oocyte maturation	GO_0001556	0	1	1	0	0
+oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	0	1	1	0	0
+oocyte growth in germarium-derived egg chamber	GO_0030715	0	1	1	0	0
+oocyte growth	GO_0001555	0	1	1	0	0
+oocyte fate commitment	GO_0048600	0	1	1	0	0
+oocyte dorsal/ventral axis specification	GO_0007310	0	1	1	0	0
+oocyte differentiation	GO_0009994	0	1	1	0	0
+oocyte development	GO_0048599	0	1	1	0	0
+oocyte construction	GO_0007308	0	1	1	0	0
+oocyte axis specification	GO_0007309	0	1	1	0	0
+oocyte anterior/posterior axis specification	GO_0007314	0	1	1	0	0
+oocyte animal/vegetal axis specification	GO_0060832	0	1	1	0	0
+nurse cell nucleus anchoring	GO_0007302	0	1	1	0	0
+nurse cell apoptotic process	GO_0045476	0	1	1	0	0
+negative regulation of pole plasm oskar mRNA localization	GO_0045855	0	1	1	0	0
+negative regulation of oocyte maturation	GO_1900194	0	1	1	0	0
+negative regulation of oocyte development	GO_0060283	0	1	1	0	0
+negative regulation of nurse cell apoptotic process	GO_0045849	0	1	1	0	0
+negative regulation of cumulus cell differentiation	GO_0045593	0	1	1	0	0
+negative regulation of border follicle cell delamination	GO_0030712	0	1	1	0	0
+negative regulation of bicoid mRNA localization	GO_0045853	0	1	1	0	0
+multi-layer follicle stage	GO_0048162	0	1	1	0	0
+micropyle formation	GO_0046844	0	1	1	0	0
+meiotic cell cycle process involved in oocyte maturation	GO_1903537	0	1	1	0	0
+mature follicle stage	GO_0048166	0	1	1	0	0
+maternal specification of dorsal/ventral axis, oocyte, soma encoded	GO_0007313	0	1	1	0	0
+maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	GO_0007311	0	1	1	0	0
+maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded	GO_0008071	0	1	1	0	0
+maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded	GO_0008070	0	1	1	0	0
+maintenance of pole plasm mRNA location	GO_0046594	0	1	1	0	0
+maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification	GO_0042070	0	1	1	0	0
+main body follicle cell migration	GO_0060270	0	1	1	0	0
+karyosome formation	GO_0030717	0	1	1	0	0
+growth of a germarium-derived egg chamber	GO_0007295	0	1	1	0	0
+germarium-derived oocyte fate determination	GO_0007294	0	1	1	0	0
+germarium-derived oocyte differentiation	GO_0030706	0	1	1	0	0
+germarium-derived female germ-line cyst formation	GO_0030727	0	1	1	0	0
+germarium-derived female germ-line cyst encapsulation	GO_0030708	0	1	1	0	0
+germarium-derived egg chamber formation	GO_0007293	0	1	1	0	0
+germarium-derived cystoblast division	GO_0048142	0	1	1	0	0
+fused antrum stage	GO_0048165	0	1	1	0	0
+follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage	GO_0003005	0	1	1	0	0
+follicular fluid formation in ovarian follicle antrum involved in fused antrum stage	GO_0003003	0	1	1	0	0
+follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage	GO_0003004	0	1	1	0	0
+female germline ring canal stabilization	GO_0008335	0	1	1	0	0
+female germline ring canal formation, actin assembly	GO_0008302	0	1	1	0	0
+female germline ring canal formation	GO_0007301	0	1	1	0	0
+female germ-line stem cell asymmetric division	GO_0048132	0	1	1	0	0
+female germ-line cyst formation	GO_0048135	0	1	1	0	0
+establishment of pole plasm mRNA localization	GO_0046595	0	1	1	0	0
+establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0030722	0	1	1	0	0
+eggshell formation	GO_0030703	0	1	1	0	0
+eggshell chorion gene amplification	GO_0007307	0	1	1	0	0
+eggshell chorion assembly	GO_0007306	0	1	1	0	0
+egg coat formation	GO_0035803	0	1	1	0	0
+double layer follicle stage	GO_0048161	0	1	1	0	0
+dorsal/ventral axis specification, ovarian follicular epithelium	GO_0008069	0	1	1	0	0
+dorsal appendage formation	GO_0046843	0	1	1	0	0
+distinct antral spaces stage	GO_0048164	0	1	1	0	0
+cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte	GO_0019749	0	1	1	0	0
+cytoplasmic transport, nurse cell to oocyte	GO_0007303	0	1	1	0	0
+cumulus cell differentiation	GO_0001549	0	1	1	0	0
+chorion-containing eggshell pattern formation	GO_0030381	0	1	1	0	0
+chorion-containing eggshell formation	GO_0007304	0	1	1	0	0
+centripetally migrating follicle cell migration	GO_0060269	0	1	1	0	0
+border follicle cell migration	GO_0007298	0	1	1	0	0
+border follicle cell delamination	GO_0030709	0	1	1	0	0
+bicoid mRNA localization	GO_0045450	0	1	1	0	0
+anterior/posterior axis specification, follicular epithelium	GO_0030714	0	1	1	0	0
+Wnt signaling pathway involved in animal/vegetal axis specification	GO_0060833	0	1	1	0	0
+P granule organization	GO_0030719	0	1	1	0	0

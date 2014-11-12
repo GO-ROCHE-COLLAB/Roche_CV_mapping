@@ -1,11 +1,11 @@
-name	ID	manual	auto	checked	blacklisted
-nitric oxide metabolic process	GO_0046209	1	1	1	0
-nitric oxide catabolic process	GO_0046210	1	1	1	0
-nitric oxide biosynthetic process	GO_0006809	1	1	1	0
-nitric-oxide synthase biosynthetic process	GO_0051767	1	0	1	0
-nitric oxide-cGMP-mediated signaling pathway	GO_0038060	1	0	1	0
-nitric oxide transport	GO_0030185	1	0	1	0
-nitric oxide storage	GO_0035732	1	0	1	0
-nitric oxide production involved in inflammatory response	GO_0002537	1	0	1	0
-nitric oxide mediated signal transduction	GO_0007263	1	0	1	0
-nitric oxide homeostasis	GO_0033484	1	0	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+nitric oxide metabolic process	GO_0046209	1	1	1	0	0
+nitric oxide catabolic process	GO_0046210	1	1	1	0	0
+nitric oxide biosynthetic process	GO_0006809	1	1	1	0	0
+nitric-oxide synthase biosynthetic process	GO_0051767	1	0	1	0	0
+nitric oxide-cGMP-mediated signaling pathway	GO_0038060	1	0	1	0	0
+nitric oxide transport	GO_0030185	1	0	1	0	0
+nitric oxide storage	GO_0035732	1	0	1	0	0
+nitric oxide production involved in inflammatory response	GO_0002537	1	0	1	0	0
+nitric oxide mediated signal transduction	GO_0007263	1	0	1	0	0
+nitric oxide homeostasis	GO_0033484	1	0	1	0	0

@@ -1,48 +1,48 @@
-name	ID	manual	auto	checked	blacklisted
-cholesterol metabolic process	GO_0008203	1	1	1	0
-cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	1	1	1	0
-cholesterol catabolic process	GO_0006707	1	1	1	0
-cholesterol biosynthetic process via lathosterol	GO_0033490	1	1	1	0
-cholesterol biosynthetic process via desmosterol	GO_0033489	1	1	1	0
-cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	1	1	1	0
-cholesterol biosynthetic process	GO_0006695	1	1	1	0
-reverse cholesterol transport	GO_0043691	1	0	1	0
-response to cholesterol	GO_0070723	1	0	1	0
-regulation of intracellular cholesterol transport	GO_0032383	1	0	1	0
-regulation of intestinal cholesterol absorption	GO_0030300	1	0	1	0
-regulation of cholesterol transporter activity	GO_0060694	1	0	1	0
-regulation of cholesterol transport	GO_0032374	1	0	1	0
-regulation of cholesterol storage	GO_0010885	1	0	1	0
-regulation of cholesterol metabolic process	GO_0090181	1	0	1	0
-regulation of cholesterol import	GO_0060620	1	0	1	0
-regulation of cholesterol homeostasis	GO_2000188	1	0	1	0
-regulation of cholesterol esterification	GO_0010872	1	0	1	0
-regulation of cholesterol efflux	GO_0010874	1	0	1	0
-regulation of cholesterol biosynthetic process	GO_0045540	1	0	1	0
-positive regulation of intracellular cholesterol transport	GO_0032385	1	0	1	0
-positive regulation of cholesterol transport	GO_0032376	1	0	1	0
-positive regulation of cholesterol storage	GO_0010886	1	0	1	0
-positive regulation of cholesterol metabolic process	GO_0090205	1	0	1	0
-positive regulation of cholesterol homeostasis	GO_2000189	1	0	1	0
-positive regulation of cholesterol esterification	GO_0010873	1	0	1	0
-positive regulation of cholesterol efflux	GO_0010875	1	0	1	0
-positive regulation of cholesterol biosynthetic process	GO_0045542	1	0	1	0
-negative regulation of intracellular cholesterol transport	GO_0032384	1	0	1	0
-negative regulation of cholesterol transporter activity	GO_0060695	1	0	1	0
-negative regulation of cholesterol transport	GO_0032375	1	0	1	0
-negative regulation of cholesterol storage	GO_0010887	1	0	1	0
-negative regulation of cholesterol metabolic process	GO_0090206	1	0	1	0
-negative regulation of cholesterol import	GO_0060621	1	0	1	0
-negative regulation of cholesterol efflux	GO_0090370	1	0	1	0
-negative regulation of cholesterol biosynthetic process	GO_0045541	1	0	1	0
-lysosome to ER cholesterol transport	GO_0090120	1	0	1	0
-intracellular cholesterol transport	GO_0032367	1	0	1	0
-cholesterol transport involved in cholesterol storage	GO_0010879	1	0	1	0
-cholesterol transport	GO_0030301	1	0	1	0
-cholesterol storage	GO_0010878	1	0	1	0
-cholesterol import	GO_0070508	1	0	1	0
-cholesterol homeostasis	GO_0042632	1	0	1	0
-cholesterol esterification	GO_0034435	1	0	1	0
-cholesterol efflux	GO_0033344	1	0	1	0
-cellular response to cholesterol	GO_0071397	1	0	1	0
-peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cholesterol metabolic process	GO_0008203	1	1	1	0	0
+cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	1	1	1	0	0
+cholesterol catabolic process	GO_0006707	1	1	1	0	0
+cholesterol biosynthetic process via lathosterol	GO_0033490	1	1	1	0	0
+cholesterol biosynthetic process via desmosterol	GO_0033489	1	1	1	0	0
+cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	1	1	1	0	0
+cholesterol biosynthetic process	GO_0006695	1	1	1	0	0
+reverse cholesterol transport	GO_0043691	1	0	1	0	0
+response to cholesterol	GO_0070723	1	0	1	0	0
+regulation of intracellular cholesterol transport	GO_0032383	1	0	1	0	0
+regulation of intestinal cholesterol absorption	GO_0030300	1	0	1	0	0
+regulation of cholesterol transporter activity	GO_0060694	1	0	1	0	0
+regulation of cholesterol transport	GO_0032374	1	0	1	0	0
+regulation of cholesterol storage	GO_0010885	1	0	1	0	0
+regulation of cholesterol metabolic process	GO_0090181	1	0	1	0	0
+regulation of cholesterol import	GO_0060620	1	0	1	0	0
+regulation of cholesterol homeostasis	GO_2000188	1	0	1	0	0
+regulation of cholesterol esterification	GO_0010872	1	0	1	0	0
+regulation of cholesterol efflux	GO_0010874	1	0	1	0	0
+regulation of cholesterol biosynthetic process	GO_0045540	1	0	1	0	0
+positive regulation of intracellular cholesterol transport	GO_0032385	1	0	1	0	0
+positive regulation of cholesterol transport	GO_0032376	1	0	1	0	0
+positive regulation of cholesterol storage	GO_0010886	1	0	1	0	0
+positive regulation of cholesterol metabolic process	GO_0090205	1	0	1	0	0
+positive regulation of cholesterol homeostasis	GO_2000189	1	0	1	0	0
+positive regulation of cholesterol esterification	GO_0010873	1	0	1	0	0
+positive regulation of cholesterol efflux	GO_0010875	1	0	1	0	0
+positive regulation of cholesterol biosynthetic process	GO_0045542	1	0	1	0	0
+negative regulation of intracellular cholesterol transport	GO_0032384	1	0	1	0	0
+negative regulation of cholesterol transporter activity	GO_0060695	1	0	1	0	0
+negative regulation of cholesterol transport	GO_0032375	1	0	1	0	0
+negative regulation of cholesterol storage	GO_0010887	1	0	1	0	0
+negative regulation of cholesterol metabolic process	GO_0090206	1	0	1	0	0
+negative regulation of cholesterol import	GO_0060621	1	0	1	0	0
+negative regulation of cholesterol efflux	GO_0090370	1	0	1	0	0
+negative regulation of cholesterol biosynthetic process	GO_0045541	1	0	1	0	0
+lysosome to ER cholesterol transport	GO_0090120	1	0	1	0	0
+intracellular cholesterol transport	GO_0032367	1	0	1	0	0
+cholesterol transport involved in cholesterol storage	GO_0010879	1	0	1	0	0
+cholesterol transport	GO_0030301	1	0	1	0	0
+cholesterol storage	GO_0010878	1	0	1	0	0
+cholesterol import	GO_0070508	1	0	1	0	0
+cholesterol homeostasis	GO_0042632	1	0	1	0	0
+cholesterol esterification	GO_0034435	1	0	1	0	0
+cholesterol efflux	GO_0033344	1	0	1	0	0
+cellular response to cholesterol	GO_0071397	1	0	1	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	1	0	0

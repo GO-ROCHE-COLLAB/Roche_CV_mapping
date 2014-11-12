@@ -1,2 +1,2 @@
-name	ID	manual	auto	checked	blacklisted
-ascorbate stabilization	GO_0000044	1	0	1	1
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+ascorbate stabilization	GO_0000044	1	0	1	1	1

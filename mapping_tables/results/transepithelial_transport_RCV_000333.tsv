@@ -1,7 +1,7 @@
-name	ID	manual	auto	checked	blacklisted
-transepithelial water transport	GO_0035377	1	1	1	0
-transepithelial transport	GO_0070633	1	1	1	0
-transepithelial chloride transport	GO_0030321	1	1	1	0
-transepithelial ammonium transport	GO_0070634	1	1	1	0
-transepithelial L-ascorbic acid transport	GO_0070904	1	1	1	0
-transepithelial migration of symbiont in host	GO_0035756	1	0	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+transepithelial water transport	GO_0035377	1	1	1	0	0
+transepithelial transport	GO_0070633	1	1	1	0	0
+transepithelial chloride transport	GO_0030321	1	1	1	0	0
+transepithelial ammonium transport	GO_0070634	1	1	1	0	0
+transepithelial L-ascorbic acid transport	GO_0070904	1	1	1	0	0
+transepithelial migration of symbiont in host	GO_0035756	1	0	1	0	0

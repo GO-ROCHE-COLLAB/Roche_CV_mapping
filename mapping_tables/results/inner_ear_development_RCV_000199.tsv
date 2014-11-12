@@ -1,58 +1,58 @@
-name	ID	manual	auto	checked	blacklisted
-inner ear receptor stereocilium organization	GO_0060122	1	1	1	0
-inner ear receptor cell fate commitment	GO_0060120	1	1	1	0
-inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	1	1	1	0
-inner ear receptor cell differentiation	GO_0060113	1	1	1	0
-inner ear receptor cell development	GO_0060119	1	1	1	0
-inner ear morphogenesis	GO_0042472	1	1	1	0
-inner ear development	GO_0048839	1	1	1	0
-inner ear sensory epithelium regeneration	GO_0070659	1	0	1	0
-vestibular receptor cell stereocilium organization	GO_0060121	0	1	1	0
-vestibular receptor cell morphogenesis	GO_0060116	0	1	1	0
-vestibular receptor cell fate commitment	GO_0060115	0	1	1	0
-vestibular receptor cell differentiation	GO_0060114	0	1	1	0
-vestibular receptor cell development	GO_0060118	0	1	1	0
-semicircular canal morphogenesis	GO_0048752	0	1	1	0
-semicircular canal fusion	GO_0060879	0	1	1	0
-semicircular canal formation	GO_0060876	0	1	1	0
-semicircular canal development	GO_0060872	0	1	1	0
-regulation of inner ear receptor cell differentiation	GO_2000980	0	1	1	0
-regulation of basal lamina disassembly involved in semicircular canal fusion by cell communication	GO_0060883	0	1	1	0
-regulation of auditory receptor cell fate specification	GO_0042669	0	1	1	0
-regulation of auditory receptor cell differentiation	GO_0045607	0	1	1	0
-regionalization involved in semicircular canal formation	GO_0060877	0	1	1	0
-pouch outgrowth involved in semicircular canal formation	GO_0060878	0	1	1	0
-posterior semicircular canal development	GO_0060874	0	1	1	0
-positive regulation of inner ear receptor cell differentiation	GO_2000982	0	1	1	0
-positive regulation of auditory receptor cell differentiation	GO_0045609	0	1	1	0
-otolith tethering	GO_0035889	0	1	1	0
-otolith morphogenesis	GO_0032474	0	1	1	0
-otolith mineralization completed early in development	GO_0031173	0	1	1	0
-otolith mineralization	GO_0045299	0	1	1	0
-otolith formation	GO_0032475	0	1	1	0
-otolith development	GO_0048840	0	1	1	0
-otic vesicle morphogenesis	GO_0071600	0	1	1	0
-otic vesicle formation	GO_0030916	0	1	1	0
-otic vesicle development	GO_0071599	0	1	1	0
-otic placode formation	GO_0043049	0	1	1	0
-negative regulation of inner ear receptor cell differentiation	GO_2000981	0	1	1	0
-negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	1	0
-negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	1	0
-lifelong otolith mineralization	GO_0031174	0	1	1	0
-lateral semicircular canal development	GO_0060875	0	1	1	0
-cochlea morphogenesis	GO_0090103	0	1	1	0
-cochlea development	GO_0090102	0	1	1	0
-clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	1	0
-clearance of cells from fusion plate by apoptotic process	GO_0060885	0	1	1	0
-clearance of cells from fusion plate	GO_0060884	0	1	1	0
-cilium movement involved in otolith formation	GO_0003355	0	1	1	0
-cell morphogenesis involved in semicircular canal fusion	GO_0060880	0	1	1	0
-basal lamina disassembly involved in semicircular canal fusion	GO_0060882	0	1	1	0
-auditory receptor cell stereocilium organization	GO_0060088	0	1	1	0
-auditory receptor cell morphogenesis	GO_0002093	0	1	1	0
-auditory receptor cell fate specification	GO_0042667	0	1	1	0
-auditory receptor cell fate determination	GO_0042668	0	1	1	0
-auditory receptor cell fate commitment	GO_0009912	0	1	1	0
-auditory receptor cell differentiation	GO_0042491	0	1	1	0
-auditory receptor cell development	GO_0060117	0	1	1	0
-anterior semicircular canal development	GO_0060873	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+inner ear receptor stereocilium organization	GO_0060122	1	1	1	0	0
+inner ear receptor cell fate commitment	GO_0060120	1	1	1	0	0
+inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	1	1	1	0	0
+inner ear receptor cell differentiation	GO_0060113	1	1	1	0	0
+inner ear receptor cell development	GO_0060119	1	1	1	0	0
+inner ear morphogenesis	GO_0042472	1	1	1	0	0
+inner ear development	GO_0048839	1	1	1	0	0
+inner ear sensory epithelium regeneration	GO_0070659	1	0	1	0	0
+vestibular receptor cell stereocilium organization	GO_0060121	0	1	1	0	0
+vestibular receptor cell morphogenesis	GO_0060116	0	1	1	0	0
+vestibular receptor cell fate commitment	GO_0060115	0	1	1	0	0
+vestibular receptor cell differentiation	GO_0060114	0	1	1	0	0
+vestibular receptor cell development	GO_0060118	0	1	1	0	0
+semicircular canal morphogenesis	GO_0048752	0	1	1	0	0
+semicircular canal fusion	GO_0060879	0	1	1	0	0
+semicircular canal formation	GO_0060876	0	1	1	0	0
+semicircular canal development	GO_0060872	0	1	1	0	0
+regulation of inner ear receptor cell differentiation	GO_2000980	0	1	1	0	0
+regulation of basal lamina disassembly involved in semicircular canal fusion by cell communication	GO_0060883	0	1	1	0	0
+regulation of auditory receptor cell fate specification	GO_0042669	0	1	1	0	0
+regulation of auditory receptor cell differentiation	GO_0045607	0	1	1	0	0
+regionalization involved in semicircular canal formation	GO_0060877	0	1	1	0	0
+pouch outgrowth involved in semicircular canal formation	GO_0060878	0	1	1	0	0
+posterior semicircular canal development	GO_0060874	0	1	1	0	0
+positive regulation of inner ear receptor cell differentiation	GO_2000982	0	1	1	0	0
+positive regulation of auditory receptor cell differentiation	GO_0045609	0	1	1	0	0
+otolith tethering	GO_0035889	0	1	1	0	0
+otolith morphogenesis	GO_0032474	0	1	1	0	0
+otolith mineralization completed early in development	GO_0031173	0	1	1	0	0
+otolith mineralization	GO_0045299	0	1	1	0	0
+otolith formation	GO_0032475	0	1	1	0	0
+otolith development	GO_0048840	0	1	1	0	0
+otic vesicle morphogenesis	GO_0071600	0	1	1	0	0
+otic vesicle formation	GO_0030916	0	1	1	0	0
+otic vesicle development	GO_0071599	0	1	1	0	0
+otic placode formation	GO_0043049	0	1	1	0	0
+negative regulation of inner ear receptor cell differentiation	GO_2000981	0	1	1	0	0
+negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	1	0	0
+negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	1	0	0
+lifelong otolith mineralization	GO_0031174	0	1	1	0	0
+lateral semicircular canal development	GO_0060875	0	1	1	0	0
+cochlea morphogenesis	GO_0090103	0	1	1	0	0
+cochlea development	GO_0090102	0	1	1	0	0
+clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	1	0	0
+clearance of cells from fusion plate by apoptotic process	GO_0060885	0	1	1	0	0
+clearance of cells from fusion plate	GO_0060884	0	1	1	0	0
+cilium movement involved in otolith formation	GO_0003355	0	1	1	0	0
+cell morphogenesis involved in semicircular canal fusion	GO_0060880	0	1	1	0	0
+basal lamina disassembly involved in semicircular canal fusion	GO_0060882	0	1	1	0	0
+auditory receptor cell stereocilium organization	GO_0060088	0	1	1	0	0
+auditory receptor cell morphogenesis	GO_0002093	0	1	1	0	0
+auditory receptor cell fate specification	GO_0042667	0	1	1	0	0
+auditory receptor cell fate determination	GO_0042668	0	1	1	0	0
+auditory receptor cell fate commitment	GO_0009912	0	1	1	0	0
+auditory receptor cell differentiation	GO_0042491	0	1	1	0	0
+auditory receptor cell development	GO_0060117	0	1	1	0	0
+anterior semicircular canal development	GO_0060873	0	1	1	0	0

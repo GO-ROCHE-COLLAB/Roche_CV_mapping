@@ -1,84 +1,84 @@
-name	ID	manual	auto	checked	blacklisted
-lung-associated mesenchyme development	GO_0060484	1	1	1	0
-lung vasculature development	GO_0060426	1	1	1	0
-lung smooth muscle development	GO_0061145	1	1	1	0
-lung secretory cell differentiation	GO_0061140	1	1	1	0
-lung saccule development	GO_0060430	1	1	1	0
-lung proximal/distal axis specification	GO_0061115	1	1	1	0
-lung pattern specification process	GO_0060432	1	1	1	0
-lung neuroendocrine cell differentiation	GO_0061100	1	1	1	0
-lung morphogenesis	GO_0060425	1	1	1	0
-lung lobe morphogenesis	GO_0060463	1	1	1	0
-lung lobe formation	GO_0060464	1	1	1	0
-lung lobe development	GO_0060462	1	1	1	0
-lung induction	GO_0060492	1	1	1	0
-lung growth	GO_0060437	1	1	1	0
-lung goblet cell differentiation	GO_0060480	1	1	1	0
-lung field specification	GO_0060424	1	1	1	0
-lung epithelium development	GO_0060428	1	1	1	0
-lung epithelial cell differentiation	GO_0060487	1	1	1	0
-lung development	GO_0030324	1	1	1	0
-lung connective tissue development	GO_0060427	1	1	1	0
-lung ciliated cell differentiation	GO_0061141	1	1	1	0
-lung cell differentiation	GO_0060479	1	1	1	0
-lung basal cell differentiation	GO_0060508	1	1	1	0
-lung alveolus development	GO_0048286	1	1	1	0
-bronchiole morphogenesis	GO_0060436	1	1	1	0
-bronchiole development	GO_0060435	1	1	1	0
-bronchus morphogenesis	GO_0060434	1	0	1	0
-bronchus development	GO_0060433	1	0	1	0
-bronchus cartilage morphogenesis	GO_0060533	1	0	1	0
-bronchus cartilage development	GO_0060532	1	0	1	0
-smoothened signaling pathway involved in lung development	GO_0060506	0	1	1	0
-secretion by lung epithelial cell involved in lung growth	GO_0061033	0	1	1	0
-right lung morphogenesis	GO_0060461	0	1	1	0
-right lung development	GO_0060458	0	1	1	0
-retinoic acid receptor signaling pathway involved in lung bud formation	GO_0060498	0	1	1	0
-regulation of transcription from RNA polymerase II promoter involved in lung bud formation	GO_0060500	0	1	1	0
-regulation of mesenchymal cell proliferation involved in lung development	GO_2000790	0	1	1	0
-regulation of lung goblet cell differentiation	GO_1901249	0	1	1	0
-regulation of lung ciliated cell differentiation	GO_1901246	0	1	1	0
-regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000794	0	1	1	0
-regulation of branching involved in lung morphogenesis	GO_0061046	0	1	1	0
-primary lung bud formation	GO_0060431	0	1	1	0
-positive regulation of mesenchymal cell proliferation involved in lung development	GO_2000792	0	1	1	0
-positive regulation of lung goblet cell differentiation	GO_1901251	0	1	1	0
-positive regulation of lung ciliated cell differentiation	GO_1901248	0	1	1	0
-positive regulation of epithelial cell proliferation involved in lung morphogenesis	GO_0060501	0	1	1	0
-positive regulation of epithelial cell proliferation involved in lung bud dilation	GO_0060504	0	1	1	0
-positive regulation of branching involved in lung morphogenesis	GO_0061047	0	1	1	0
-planar dichotomous subdivision of terminal units involved in lung branching morphogenesis	GO_0060489	0	1	1	0
-orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis	GO_0060488	0	1	1	0
-negative regulation of mesenchymal cell proliferation involved in lung development	GO_2000791	0	1	1	0
-negative regulation of lung goblet cell differentiation	GO_1901250	0	1	1	0
-negative regulation of lung ciliated cell differentiation	GO_1901247	0	1	1	0
-negative regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000795	0	1	1	0
-negative regulation of bud outgrowth involved in lung branching	GO_0061112	0	1	1	0
-negative regulation of branching involved in lung morphogenesis	GO_0061048	0	1	1	0
-mesothelial-mesenchymal cell signaling involved in early lung development	GO_0061142	0	1	1	0
-mesenchymal-epithelial cell signaling involved in lung development	GO_0060496	0	1	1	0
-mesenchymal-endodermal cell signaling involved in lung induction	GO_0060493	0	1	1	0
-mesenchymal cell proliferation involved in lung development	GO_0060916	0	1	1	0
-mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	1	0
-lobar bronchus mesenchyme development	GO_0060483	0	1	1	0
-lobar bronchus epithelium development	GO_0060481	0	1	1	0
-left lung morphogenesis	GO_0060460	0	1	1	0
-left lung development	GO_0060459	0	1	1	0
-lateral sprouting involved in lung morphogenesis	GO_0060490	0	1	1	0
-fibroblast growth factor receptor signaling pathway involved in lung induction	GO_0060499	0	1	1	0
-epithelial-mesenchymal cell signaling involved in lung development	GO_0061111	0	1	1	0
-epithelial tube branching involved in lung morphogenesis	GO_0060441	0	1	1	0
-epithelial cell proliferation involved in lung morphogenesis	GO_0060502	0	1	1	0
-epithelial cell proliferation involved in lung bud dilation	GO_0060505	0	1	1	0
-epidermal growth factor receptor signaling pathway involved in lung development	GO_0060507	0	1	1	0
-dichotomous subdivision of terminal units involved in lung branching	GO_0060448	0	1	1	0
-creation of an inductive signal by a mesenchymal cell involved in lung induction	GO_0060511	0	1	1	0
-cell-cell signaling involved in lung development	GO_0060495	0	1	1	0
-bud outgrowth involved in lung branching	GO_0060447	0	1	1	0
-bud elongation involved in lung branching	GO_0060449	0	1	1	0
-bud dilation involved in lung branching	GO_0060503	0	1	1	0
-alveolar secondary septum development	GO_0061144	0	1	1	0
-alveolar primary septum development	GO_0061143	0	1	1	0
-Type II pneumocyte differentiation	GO_0060510	0	1	1	0
-Type I pneumocyte differentiation	GO_0060509	0	1	1	0
-Clara cell differentiation	GO_0060486	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+lung-associated mesenchyme development	GO_0060484	1	1	1	0	0
+lung vasculature development	GO_0060426	1	1	1	0	0
+lung smooth muscle development	GO_0061145	1	1	1	0	0
+lung secretory cell differentiation	GO_0061140	1	1	1	0	0
+lung saccule development	GO_0060430	1	1	1	0	0
+lung proximal/distal axis specification	GO_0061115	1	1	1	0	0
+lung pattern specification process	GO_0060432	1	1	1	0	0
+lung neuroendocrine cell differentiation	GO_0061100	1	1	1	0	0
+lung morphogenesis	GO_0060425	1	1	1	0	0
+lung lobe morphogenesis	GO_0060463	1	1	1	0	0
+lung lobe formation	GO_0060464	1	1	1	0	0
+lung lobe development	GO_0060462	1	1	1	0	0
+lung induction	GO_0060492	1	1	1	0	0
+lung growth	GO_0060437	1	1	1	0	0
+lung goblet cell differentiation	GO_0060480	1	1	1	0	0
+lung field specification	GO_0060424	1	1	1	0	0
+lung epithelium development	GO_0060428	1	1	1	0	0
+lung epithelial cell differentiation	GO_0060487	1	1	1	0	0
+lung development	GO_0030324	1	1	1	0	0
+lung connective tissue development	GO_0060427	1	1	1	0	0
+lung ciliated cell differentiation	GO_0061141	1	1	1	0	0
+lung cell differentiation	GO_0060479	1	1	1	0	0
+lung basal cell differentiation	GO_0060508	1	1	1	0	0
+lung alveolus development	GO_0048286	1	1	1	0	0
+bronchiole morphogenesis	GO_0060436	1	1	1	0	0
+bronchiole development	GO_0060435	1	1	1	0	0
+bronchus morphogenesis	GO_0060434	1	0	1	0	0
+bronchus development	GO_0060433	1	0	1	0	0
+bronchus cartilage morphogenesis	GO_0060533	1	0	1	0	0
+bronchus cartilage development	GO_0060532	1	0	1	0	0
+smoothened signaling pathway involved in lung development	GO_0060506	0	1	1	0	0
+secretion by lung epithelial cell involved in lung growth	GO_0061033	0	1	1	0	0
+right lung morphogenesis	GO_0060461	0	1	1	0	0
+right lung development	GO_0060458	0	1	1	0	0
+retinoic acid receptor signaling pathway involved in lung bud formation	GO_0060498	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in lung bud formation	GO_0060500	0	1	1	0	0
+regulation of mesenchymal cell proliferation involved in lung development	GO_2000790	0	1	1	0	0
+regulation of lung goblet cell differentiation	GO_1901249	0	1	1	0	0
+regulation of lung ciliated cell differentiation	GO_1901246	0	1	1	0	0
+regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000794	0	1	1	0	0
+regulation of branching involved in lung morphogenesis	GO_0061046	0	1	1	0	0
+primary lung bud formation	GO_0060431	0	1	1	0	0
+positive regulation of mesenchymal cell proliferation involved in lung development	GO_2000792	0	1	1	0	0
+positive regulation of lung goblet cell differentiation	GO_1901251	0	1	1	0	0
+positive regulation of lung ciliated cell differentiation	GO_1901248	0	1	1	0	0
+positive regulation of epithelial cell proliferation involved in lung morphogenesis	GO_0060501	0	1	1	0	0
+positive regulation of epithelial cell proliferation involved in lung bud dilation	GO_0060504	0	1	1	0	0
+positive regulation of branching involved in lung morphogenesis	GO_0061047	0	1	1	0	0
+planar dichotomous subdivision of terminal units involved in lung branching morphogenesis	GO_0060489	0	1	1	0	0
+orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis	GO_0060488	0	1	1	0	0
+negative regulation of mesenchymal cell proliferation involved in lung development	GO_2000791	0	1	1	0	0
+negative regulation of lung goblet cell differentiation	GO_1901250	0	1	1	0	0
+negative regulation of lung ciliated cell differentiation	GO_1901247	0	1	1	0	0
+negative regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000795	0	1	1	0	0
+negative regulation of bud outgrowth involved in lung branching	GO_0061112	0	1	1	0	0
+negative regulation of branching involved in lung morphogenesis	GO_0061048	0	1	1	0	0
+mesothelial-mesenchymal cell signaling involved in early lung development	GO_0061142	0	1	1	0	0
+mesenchymal-epithelial cell signaling involved in lung development	GO_0060496	0	1	1	0	0
+mesenchymal-endodermal cell signaling involved in lung induction	GO_0060493	0	1	1	0	0
+mesenchymal cell proliferation involved in lung development	GO_0060916	0	1	1	0	0
+mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	1	0	0
+lobar bronchus mesenchyme development	GO_0060483	0	1	1	0	0
+lobar bronchus epithelium development	GO_0060481	0	1	1	0	0
+left lung morphogenesis	GO_0060460	0	1	1	0	0
+left lung development	GO_0060459	0	1	1	0	0
+lateral sprouting involved in lung morphogenesis	GO_0060490	0	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in lung induction	GO_0060499	0	1	1	0	0
+epithelial-mesenchymal cell signaling involved in lung development	GO_0061111	0	1	1	0	0
+epithelial tube branching involved in lung morphogenesis	GO_0060441	0	1	1	0	0
+epithelial cell proliferation involved in lung morphogenesis	GO_0060502	0	1	1	0	0
+epithelial cell proliferation involved in lung bud dilation	GO_0060505	0	1	1	0	0
+epidermal growth factor receptor signaling pathway involved in lung development	GO_0060507	0	1	1	0	0
+dichotomous subdivision of terminal units involved in lung branching	GO_0060448	0	1	1	0	0
+creation of an inductive signal by a mesenchymal cell involved in lung induction	GO_0060511	0	1	1	0	0
+cell-cell signaling involved in lung development	GO_0060495	0	1	1	0	0
+bud outgrowth involved in lung branching	GO_0060447	0	1	1	0	0
+bud elongation involved in lung branching	GO_0060449	0	1	1	0	0
+bud dilation involved in lung branching	GO_0060503	0	1	1	0	0
+alveolar secondary septum development	GO_0061144	0	1	1	0	0
+alveolar primary septum development	GO_0061143	0	1	1	0	0
+Type II pneumocyte differentiation	GO_0060510	0	1	1	0	0
+Type I pneumocyte differentiation	GO_0060509	0	1	1	0	0
+Clara cell differentiation	GO_0060486	0	1	1	0	0

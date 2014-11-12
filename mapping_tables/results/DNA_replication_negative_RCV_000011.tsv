@@ -1,22 +1,22 @@
-name	ID	manual	auto	checked	blacklisted
-cis-acting DNA replication termination	GO_0071946	1	0	1	0
-signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	0	1	1	0
-replication fork protection	GO_0048478	0	1	1	0
-replication fork arrest involved in DNA replication termination	GO_0071807	0	1	1	0
-replication fork arrest at tRNA locus	GO_0090001	0	1	1	0
-replication fork arrest at rDNA repeats	GO_0031582	0	1	1	0
-replication fork arrest at mating type locus	GO_0011000	0	1	1	0
-replication fork arrest	GO_0043111	0	1	1	0
-negative regulation of telomere maintenance via telomerase	GO_0032211	0	1	1	0
-negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	1	0
-negative regulation of telomerase activity	GO_0051974	0	1	1	0
-negative regulation of reverse transcription	GO_1900269	0	1	1	0
-negative regulation of nuclear cell cycle DNA replication	GO_1902576	0	1	1	0
-negative regulation of mitotic cell cycle DNA replication	GO_1903464	0	1	1	0
-negative regulation of mitotic DNA replication initiation	GO_1903467	0	1	1	0
-negative regulation of mitochondrial DNA replication	GO_0090298	0	1	1	0
-negative regulation of DNA-dependent DNA replication initiation	GO_0032297	0	1	1	0
-negative regulation of DNA-dependent DNA replication	GO_2000104	0	1	1	0
-negative regulation of DNA replication initiation involved in plasmid copy number maintenance	GO_0060910	0	1	1	0
-negative regulation of DNA replication	GO_0008156	0	1	1	0
-negative regulation of DNA endoreduplication	GO_0032876	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cis-acting DNA replication termination	GO_0071946	1	0	1	0	0
+signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	0	1	1	0	0
+replication fork protection	GO_0048478	0	1	1	0	0
+replication fork arrest involved in DNA replication termination	GO_0071807	0	1	1	0	0
+replication fork arrest at tRNA locus	GO_0090001	0	1	1	0	0
+replication fork arrest at rDNA repeats	GO_0031582	0	1	1	0	0
+replication fork arrest at mating type locus	GO_0011000	0	1	1	0	0
+replication fork arrest	GO_0043111	0	1	1	0	0
+negative regulation of telomere maintenance via telomerase	GO_0032211	0	1	1	0	0
+negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	1	0	0
+negative regulation of telomerase activity	GO_0051974	0	1	1	0	0
+negative regulation of reverse transcription	GO_1900269	0	1	1	0	0
+negative regulation of nuclear cell cycle DNA replication	GO_1902576	0	1	1	0	0
+negative regulation of mitotic cell cycle DNA replication	GO_1903464	0	1	1	0	0
+negative regulation of mitotic DNA replication initiation	GO_1903467	0	1	1	0	0
+negative regulation of mitochondrial DNA replication	GO_0090298	0	1	1	0	0
+negative regulation of DNA-dependent DNA replication initiation	GO_0032297	0	1	1	0	0
+negative regulation of DNA-dependent DNA replication	GO_2000104	0	1	1	0	0
+negative regulation of DNA replication initiation involved in plasmid copy number maintenance	GO_0060910	0	1	1	0	0
+negative regulation of DNA replication	GO_0008156	0	1	1	0	0
+negative regulation of DNA endoreduplication	GO_0032876	0	1	1	0	0

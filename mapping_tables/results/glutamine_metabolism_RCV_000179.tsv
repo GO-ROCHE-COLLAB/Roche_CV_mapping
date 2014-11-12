@@ -1,33 +1,33 @@
-name	ID	manual	auto	checked	blacklisted
-peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamine	GO_0019713	1	1	1	0
-glutamine metabolic process	GO_0006541	1	1	1	0
-glutamine catabolic process to fumarate, using glutaminase	GO_0019462	1	1	1	0
-glutamine catabolic process to fumarate	GO_0019460	1	1	1	0
-glutamine catabolic process	GO_0006543	1	1	1	0
-glutamine biosynthetic process	GO_0006542	1	1	1	0
-D-glutamine metabolic process	GO_0033053	1	1	1	0
-regulation of glutamine transport	GO_2000485	1	0	1	0
-regulation of L-glutamine import	GO_1901034	1	0	1	0
-positive regulation of glutamine transport	GO_2000487	1	0	1	0
-positive regulation of L-glutamine import	GO_1901036	1	0	1	0
-peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	GO_0017186	1	0	1	0
-peptidyl-glutamine modification	GO_0018199	1	0	1	0
-peptidyl-glutamine methylation	GO_0018364	1	0	1	0
-peptidyl-glutamine esterification	GO_0019714	1	0	1	0
-peptidyl-glutamine 2-methylation	GO_0018361	1	0	1	0
-peptidyl-L-glutamyl 5-omega-hydroxyceramide ester biosynthetic process from peptidyl-glutamine	GO_0050496	1	0	1	0
-peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from peptidyl-glutamic acid or peptidyl-glutamine	GO_0018390	1	0	1	0
-peptide cross-linking via 2-imino-glutaminyl-5-imidazolinone glycine	GO_0019729	1	0	1	0
-negative regulation of L-glutamine import	GO_1901035	1	0	1	0
-glutaminyl-tRNAGln biosynthesis via transamidation	GO_0070681	1	0	1	0
-glutaminyl-tRNA aminoacylation	GO_0006425	1	0	1	0
-glutamine transport	GO_0006868	1	0	1	0
-glutamine secretion	GO_0010585	1	0	1	0
-detection of glutamine	GO_0010108	1	0	1	0
-conversion of glutamyl-tRNA to glutaminyl-tRNA	GO_0043685	1	0	1	0
-L-glutamine import	GO_0036229	1	0	1	0
-C-terminal peptidyl-glutamine amidation	GO_0018039	1	0	1	0
-glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	1	0
-cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	0	1	1	0
-ammonia assimilation cycle	GO_0019676	0	1	1	0
-L-glutamine biosynthetic process	GO_1901704	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamine	GO_0019713	1	1	1	0	0
+glutamine metabolic process	GO_0006541	1	1	1	0	0
+glutamine catabolic process to fumarate, using glutaminase	GO_0019462	1	1	1	0	0
+glutamine catabolic process to fumarate	GO_0019460	1	1	1	0	0
+glutamine catabolic process	GO_0006543	1	1	1	0	0
+glutamine biosynthetic process	GO_0006542	1	1	1	0	0
+D-glutamine metabolic process	GO_0033053	1	1	1	0	0
+regulation of glutamine transport	GO_2000485	1	0	1	0	0
+regulation of L-glutamine import	GO_1901034	1	0	1	0	0
+positive regulation of glutamine transport	GO_2000487	1	0	1	0	0
+positive regulation of L-glutamine import	GO_1901036	1	0	1	0	0
+peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	GO_0017186	1	0	1	0	0
+peptidyl-glutamine modification	GO_0018199	1	0	1	0	0
+peptidyl-glutamine methylation	GO_0018364	1	0	1	0	0
+peptidyl-glutamine esterification	GO_0019714	1	0	1	0	0
+peptidyl-glutamine 2-methylation	GO_0018361	1	0	1	0	0
+peptidyl-L-glutamyl 5-omega-hydroxyceramide ester biosynthetic process from peptidyl-glutamine	GO_0050496	1	0	1	0	0
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from peptidyl-glutamic acid or peptidyl-glutamine	GO_0018390	1	0	1	0	0
+peptide cross-linking via 2-imino-glutaminyl-5-imidazolinone glycine	GO_0019729	1	0	1	0	0
+negative regulation of L-glutamine import	GO_1901035	1	0	1	0	0
+glutaminyl-tRNAGln biosynthesis via transamidation	GO_0070681	1	0	1	0	0
+glutaminyl-tRNA aminoacylation	GO_0006425	1	0	1	0	0
+glutamine transport	GO_0006868	1	0	1	0	0
+glutamine secretion	GO_0010585	1	0	1	0	0
+detection of glutamine	GO_0010108	1	0	1	0	0
+conversion of glutamyl-tRNA to glutaminyl-tRNA	GO_0043685	1	0	1	0	0
+L-glutamine import	GO_0036229	1	0	1	0	0
+C-terminal peptidyl-glutamine amidation	GO_0018039	1	0	1	0	0
+glutamine catabolic process to fumarate, using glutamate synthase (NADPH)	GO_0019461	0	1	1	0	0
+cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	0	1	1	0	0
+ammonia assimilation cycle	GO_0019676	0	1	1	0	0
+L-glutamine biosynthetic process	GO_1901704	0	1	1	0	0

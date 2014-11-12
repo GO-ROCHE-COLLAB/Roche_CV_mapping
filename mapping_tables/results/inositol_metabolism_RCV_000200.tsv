@@ -1,15 +1,15 @@
-name	ID	manual	auto	checked	blacklisted
-inositol phosphorylation	GO_0052746	1	1	1	0
-inositol metabolic process	GO_0006020	1	1	1	0
-inositolphosphoceramide metabolic process	GO_0006673	1	0	1	0
-inositol trisphosphate metabolic process	GO_0032957	1	0	1	0
-inositol trisphosphate biosynthetic process	GO_0032959	1	0	1	0
-inositol phospholipid-mediated signaling	GO_0019936	1	0	1	1
-inositol phosphate-mediated signaling	GO_0048016	1	0	1	0
-inositol phosphate metabolic process	GO_0043647	1	0	1	0
-inositol phosphate dephosphorylation	GO_0046855	1	0	1	0
-inositol phosphate catabolic process	GO_0071545	1	0	1	0
-inositol phosphate biosynthetic process	GO_0032958	1	0	1	0
-inositol or phosphatidylinositol phosphorylation	GO_0046853	1	0	1	1
-inositol catabolic process	GO_0019310	0	1	1	0
-inositol biosynthetic process	GO_0006021	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+inositol phosphorylation	GO_0052746	1	1	1	0	0
+inositol metabolic process	GO_0006020	1	1	1	0	0
+inositolphosphoceramide metabolic process	GO_0006673	1	0	1	0	0
+inositol trisphosphate metabolic process	GO_0032957	1	0	1	0	0
+inositol trisphosphate biosynthetic process	GO_0032959	1	0	1	0	0
+inositol phospholipid-mediated signaling	GO_0019936	1	0	1	1	1
+inositol phosphate-mediated signaling	GO_0048016	1	0	1	0	0
+inositol phosphate metabolic process	GO_0043647	1	0	1	0	0
+inositol phosphate dephosphorylation	GO_0046855	1	0	1	0	0
+inositol phosphate catabolic process	GO_0071545	1	0	1	0	0
+inositol phosphate biosynthetic process	GO_0032958	1	0	1	0	0
+inositol or phosphatidylinositol phosphorylation	GO_0046853	1	0	1	1	1
+inositol catabolic process	GO_0019310	0	1	1	0	0
+inositol biosynthetic process	GO_0006021	0	1	1	0	0

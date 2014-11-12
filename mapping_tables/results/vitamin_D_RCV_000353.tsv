@@ -1,19 +1,19 @@
-name	ID	manual	auto	checked	blacklisted
-vitamin D5 metabolic process	GO_0070642	1	1	1	0
-vitamin D4 metabolic process	GO_0070641	1	1	1	0
-vitamin D3 metabolic process	GO_0070640	1	1	1	0
-vitamin D2 metabolic process	GO_0070639	1	1	1	0
-vitamin D receptor signaling pathway	GO_0070561	1	1	1	0
-vitamin D metabolic process	GO_0042359	1	1	1	0
-vitamin D catabolic process	GO_0042369	1	1	1	0
-vitamin D biosynthetic process	GO_0042368	1	1	1	0
-vitamin D3 catabolic process	GO_1901754	0	1	1	0
-vitamin D3 biosynthetic process	GO_1901755	0	1	1	0
-vitamin D binding	GO_0005499	0	1	1	0
-response to vitamin D	GO_0033280	0	1	1	0
-cellular response to vitamin D	GO_0071305	0	1	1	0
-calcitriol receptor activity	GO_0008434	0	1	1	0
-calcitriol biosynthetic process from calciol	GO_0036378	0	1	1	0
-calcitriol binding	GO_1902098	0	1	1	0
-calcidiol binding	GO_1902118	0	1	1	0
-D3 vitamins binding	GO_1902271	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+vitamin D5 metabolic process	GO_0070642	1	1	1	0	0
+vitamin D4 metabolic process	GO_0070641	1	1	1	0	0
+vitamin D3 metabolic process	GO_0070640	1	1	1	0	0
+vitamin D2 metabolic process	GO_0070639	1	1	1	0	0
+vitamin D receptor signaling pathway	GO_0070561	1	1	1	0	0
+vitamin D metabolic process	GO_0042359	1	1	1	0	0
+vitamin D catabolic process	GO_0042369	1	1	1	0	0
+vitamin D biosynthetic process	GO_0042368	1	1	1	0	0
+vitamin D3 catabolic process	GO_1901754	0	1	1	0	0
+vitamin D3 biosynthetic process	GO_1901755	0	1	1	0	0
+vitamin D binding	GO_0005499	0	1	1	0	0
+response to vitamin D	GO_0033280	0	1	1	0	0
+cellular response to vitamin D	GO_0071305	0	1	1	0	0
+calcitriol receptor activity	GO_0008434	0	1	1	0	0
+calcitriol biosynthetic process from calciol	GO_0036378	0	1	1	0	0
+calcitriol binding	GO_1902098	0	1	1	0	0
+calcidiol binding	GO_1902118	0	1	1	0	0
+D3 vitamins binding	GO_1902271	0	1	1	0	0

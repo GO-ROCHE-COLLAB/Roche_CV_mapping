@@ -1,1073 +1,1073 @@
-name	ID	manual	auto	checked	blacklisted
-type I hypersensitivity mediated by mast cells	GO_0002558	1	1	1	0
-type I hypersensitivity mediated by basophils	GO_0002559	1	1	1	0
-type I hypersensitivity	GO_0016068	1	1	1	0
-type 2 immune response	GO_0042092	1	1	1	0
-tolerance induction to nonself antigen	GO_0002462	1	1	1	0
-tolerance induction in gut-associated lymphoid tissue	GO_0002394	1	1	1	0
-tolerance induction dependent upon immune response	GO_0002461	1	1	1	0
-susceptibility to natural killer cell mediated cytotoxicity	GO_0042271	1	1	1	0
-susceptibility to T cell mediated cytotoxicity	GO_0060370	1	1	1	0
-suppression by virus of host innate immune response	GO_0039503	1	1	1	0
-suppression by virus of host adaptive immune response	GO_0039504	1	1	1	0
-somatic recombination of immunoglobulin genes involved in immune response	GO_0002204	1	1	1	0
-somatic hypermutation of immunoglobulin genes involved in immune response	GO_0002205	1	1	1	0
-somatic diversification of immunoglobulins involved in immune response	GO_0002208	1	1	1	0
-regulation of type 2 immune response	GO_0002828	1	1	1	0
-regulation of tolerance induction to nonself antigen	GO_0002655	1	1	1	0
-regulation of tolerance induction dependent upon immune response	GO_0002652	1	1	1	0
-regulation of natural killer cell proliferation involved in immune response	GO_0032820	1	1	1	0
-regulation of natural killer cell mediated immune response to tumor cell	GO_0002855	1	1	1	0
-regulation of natural killer cell differentiation involved in immune response	GO_0032826	1	1	1	0
-regulation of mast cell activation involved in immune response	GO_0033006	1	1	1	0
-regulation of innate immune response	GO_0045088	1	1	1	0
-regulation of immunoglobulin production in mucosal tissue	GO_2000557	1	1	1	0
-regulation of immunoglobulin mediated immune response	GO_0002889	1	1	1	0
-regulation of immune response to tumor cell	GO_0002837	1	1	1	0
-regulation of immune response	GO_0050776	1	1	1	0
-regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002923	1	1	1	0
-regulation of humoral immune response	GO_0002920	1	1	1	0
-regulation of gamma-delta T cell activation involved in immune response	GO_2001191	1	1	1	0
-regulation of cytokine secretion involved in immune response	GO_0002739	1	1	1	0
-regulation of cytokine production involved in immune response	GO_0002718	1	1	1	0
-regulation of cytokine biosynthetic process involved in immune response	GO_0002742	1	1	1	0
-regulation of complement activation, lectin pathway	GO_0001868	1	1	1	0
-regulation of complement activation, classical pathway	GO_0030450	1	1	1	0
-regulation of complement activation, alternative pathway	GO_0030451	1	1	1	0
-regulation of complement activation	GO_0030449	1	1	1	0
-regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002822	1	1	1	0
-regulation of adaptive immune response	GO_0002819	1	1	1	0
-regulation of T-helper 17 type immune response	GO_2000316	1	1	1	0
-regulation of T-helper 1 type immune response	GO_0002825	1	1	1	0
-regulation of T cell mediated immune response to tumor cell	GO_0002840	1	1	1	0
-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032832	1	1	1	0
-prostaglandin secretion involved in immune response	GO_0090323	1	1	1	0
-positive regulation of type 2 immune response	GO_0002830	1	1	1	0
-positive regulation of tolerance induction to nonself antigen	GO_0002657	1	1	1	0
-positive regulation of tolerance induction dependent upon immune response	GO_0002654	1	1	1	0
-positive regulation of prostaglandin secretion involved in immune response	GO_0061078	1	1	1	0
-positive regulation of natural killer cell proliferation involved in immune response	GO_0032822	1	1	1	0
-positive regulation of natural killer cell mediated immune response to tumor cell	GO_0002857	1	1	1	0
-positive regulation of natural killer cell differentiation involved in immune response	GO_0032828	1	1	1	0
-positive regulation of myeloid leukocyte cytokine production involved in immune response	GO_0061081	1	1	1	0
-positive regulation of mast cell activation involved in immune response	GO_0033008	1	1	1	0
-positive regulation of innate immune response	GO_0045089	1	1	1	0
-positive regulation of immunoglobulin mediated immune response	GO_0002891	1	1	1	0
-positive regulation of immune response to tumor cell	GO_0002839	1	1	1	0
-positive regulation of immune response	GO_0050778	1	1	1	0
-positive regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002925	1	1	1	0
-positive regulation of humoral immune response	GO_0002922	1	1	1	0
-positive regulation of gamma-delta T cell activation involved in immune response	GO_2001193	1	1	1	0
-positive regulation of cytokine secretion involved in immune response	GO_0002741	1	1	1	0
-positive regulation of cytokine production involved in immune response	GO_0002720	1	1	1	0
-positive regulation of cytokine biosynthetic process involved in immune response	GO_0002744	1	1	1	0
-positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002824	1	1	1	0
-positive regulation of adaptive immune response	GO_0002821	1	1	1	0
-positive regulation of T-helper 17 type immune response	GO_2000318	1	1	1	0
-positive regulation of T-helper 1 type immune response	GO_0002827	1	1	1	0
-positive regulation of T cell mediated immune response to tumor cell	GO_0002842	1	1	1	0
-positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032834	1	1	1	0
-positive regulation by symbiont of host innate immune response	GO_0052166	1	1	1	0
-positive regulation by symbiont of host immune response	GO_0052556	1	1	1	0
-positive regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052305	1	1	1	0
-positive regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052555	1	1	1	0
-plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	1	1	1	0
-plasmacytoid dendritic cell activation involved in immune response	GO_0002271	1	1	1	0
-plasma cell differentiation	GO_0002317	1	1	1	0
-peripheral tolerance induction to self antigen	GO_0002466	1	1	1	0
-peripheral tolerance induction to nonself antigen	GO_0002464	1	1	1	0
-pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response	GO_0052169	1	1	1	0
-pathogen-associated molecular pattern dependent modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052308	1	1	1	0
-pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	GO_0052033	1	1	1	0
-pathogen-associated molecular pattern dependent induction by organism of innate immune response of other organism involved in symbiotic interaction	GO_0052257	1	1	1	0
-passive induction of host innate immune response by virus	GO_0046735	1	1	1	0
-passive induction of host immune response by virus	GO_0046731	1	1	1	0
-passive induction of host humoral immune response by virus	GO_0046733	1	1	1	0
-passive induction of host cell-mediated immune response by virus	GO_0046734	1	1	1	0
-organ or tissue specific immune response	GO_0002251	1	1	1	0
-neutrophil activation involved in immune response	GO_0002283	1	1	1	0
-negative regulation of type 2 immune response	GO_0002829	1	1	1	0
-negative regulation of tolerance induction to nonself antigen	GO_0002656	1	1	1	0
-negative regulation of tolerance induction dependent upon immune response	GO_0002653	1	1	1	0
-negative regulation of natural killer cell proliferation involved in immune response	GO_0032821	1	1	1	0
-negative regulation of natural killer cell mediated immune response to tumor cell	GO_0002856	1	1	1	0
-negative regulation of natural killer cell differentiation involved in immune response	GO_0032827	1	1	1	0
-negative regulation of mast cell activation involved in immune response	GO_0033007	1	1	1	0
-negative regulation of innate immune response	GO_0045824	1	1	1	0
-negative regulation of immunoglobulin mediated immune response	GO_0002890	1	1	1	0
-negative regulation of immune response to tumor cell	GO_0002838	1	1	1	0
-negative regulation of immune response	GO_0050777	1	1	1	0
-negative regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002924	1	1	1	0
-negative regulation of humoral immune response	GO_0002921	1	1	1	0
-negative regulation of gamma-delta T cell activation involved in immune response	GO_2001192	1	1	1	0
-negative regulation of cytokine secretion involved in immune response	GO_0002740	1	1	1	0
-negative regulation of cytokine production involved in immune response	GO_0002719	1	1	1	0
-negative regulation of cytokine biosynthetic process involved in immune response	GO_0002743	1	1	1	0
-negative regulation of complement activation, lectin pathway in other organism	GO_0044632	1	1	1	0
-negative regulation of complement activation, lectin pathway	GO_0001869	1	1	1	0
-negative regulation of complement activation, classical pathway in other organism	GO_0044629	1	1	1	0
-negative regulation of complement activation, classical pathway	GO_0045959	1	1	1	0
-negative regulation of complement activation, alternative pathway in other organism	GO_0044634	1	1	1	0
-negative regulation of complement activation, alternative pathway	GO_0045957	1	1	1	0
-negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002823	1	1	1	0
-negative regulation of adaptive immune response	GO_0002820	1	1	1	0
-negative regulation of T-helper 17 type immune response	GO_2000317	1	1	1	0
-negative regulation of T-helper 1 type immune response	GO_0002826	1	1	1	0
-negative regulation of T cell mediated immune response to tumor cell	GO_0002841	1	1	1	0
-negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032833	1	1	1	0
-negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052034	1	1	1	0
-negative regulation by symbiont of host innate immune response	GO_0052170	1	1	1	0
-negative regulation by symbiont of host immune response	GO_0052562	1	1	1	0
-negative regulation by symbiont of host cell-mediated immune response	GO_0052083	1	1	1	0
-negative regulation by symbiont of host T-cell mediated immune response	GO_0052085	1	1	1	0
-negative regulation by symbiont of host B-cell mediated immune response	GO_0052086	1	1	1	0
-negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction	GO_0052258	1	1	1	0
-negative regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052309	1	1	1	0
-negative regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052561	1	1	1	0
-negative regulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052278	1	1	1	0
-negative regulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052280	1	1	1	0
-negative regulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052281	1	1	1	0
-natural killer cell proliferation involved in immune response	GO_0002324	1	1	1	0
-natural killer cell mediated immune response to tumor cell	GO_0002423	1	1	1	0
-natural killer cell differentiation involved in immune response	GO_0002325	1	1	1	0
-natural killer cell activation involved in immune response	GO_0002323	1	1	1	0
-myeloid leukocyte cytokine production	GO_0061082	1	1	1	0
-myeloid dendritic cell differentiation involved in immune response	GO_0002284	1	1	1	0
-myeloid dendritic cell activation involved in immune response	GO_0002277	1	1	1	0
-myeloid cell activation involved in immune response	GO_0002275	1	1	1	0
-mucosal immune response	GO_0002385	1	1	1	0
-monocyte activation involved in immune response	GO_0002280	1	1	1	0
-modulation of complement activation, lectin pathway in other organism	GO_0044630	1	1	1	0
-modulation of complement activation, classical pathway in other organism	GO_0044627	1	1	1	0
-modulation of complement activation, alternative pathway in other organism	GO_0044633	1	1	1	0
-modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052157	1	1	1	0
-modulation by symbiont of host innate immune response	GO_0052167	1	1	1	0
-modulation by symbiont of host immune response	GO_0052553	1	1	1	0
-modulation by symbiont of host cell-mediated immune response	GO_0052155	1	1	1	0
-modulation by symbiont of host T-cell mediated immune response	GO_0052156	1	1	1	0
-modulation by symbiont of host B-cell mediated immune response	GO_0052154	1	1	1	0
-modulation by organism of microbe-associated molecular pattern-induced innate immune response in other organism involved in symbiotic interaction	GO_0052296	1	1	1	0
-modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052306	1	1	1	0
-modulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052552	1	1	1	0
-modulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052294	1	1	1	0
-modulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052295	1	1	1	0
-modulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052293	1	1	1	0
-microglial cell activation involved in immune response	GO_0002282	1	1	1	0
-mature B cell differentiation involved in immune response	GO_0002313	1	1	1	0
-mast cell activation involved in immune response	GO_0002279	1	1	1	0
-macrophage activation involved in immune response	GO_0002281	1	1	1	0
-lymphocyte activation involved in immune response	GO_0002285	1	1	1	0
-leukocyte migration involved in immune response	GO_0002522	1	1	1	0
-leukocyte chemotaxis involved in immune response	GO_0002233	1	1	1	0
-leukocyte activation involved in immune response	GO_0002366	1	1	1	0
-isotype switching to IgG isotypes	GO_0048291	1	1	1	0
-isotype switching to IgE isotypes	GO_0048289	1	1	1	0
-isotype switching to IgD isotypes	GO_0048292	1	1	1	0
-isotype switching to IgA isotypes	GO_0048290	1	1	1	0
-innate immune response-inhibiting signal transduction	GO_0002766	1	1	1	0
-innate immune response-activating signal transduction	GO_0002758	1	1	1	0
-innate immune response in mucosa	GO_0002227	1	1	1	0
-innate immune response activating cell surface receptor signaling pathway	GO_0002220	1	1	1	0
-innate immune response	GO_0045087	1	1	1	0
-induction of host immune response by virus	GO_0046730	1	1	1	0
-induction by symbiont of host innate immune response	GO_0052390	1	1	1	0
-induction by symbiont of host immune response	GO_0052559	1	1	1	0
-induction by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052382	1	1	1	0
-induction by organism of immune response of other organism involved in symbiotic interaction	GO_0052558	1	1	1	0
-inactivation of MAPK activity involved in innate immune response	GO_0035423	1	1	1	0
-immunoglobulin-mediated neutralization	GO_0097282	1	1	1	0
-immunoglobulin transcytosis in epithelial cells mediated by polymeric immunoglobulin receptor	GO_0002415	1	1	1	0
-immunoglobulin secretion involved in immune response	GO_0002380	1	1	1	0
-immunoglobulin production involved in immunoglobulin mediated immune response	GO_0002381	1	1	1	0
-immunoglobulin production in mucosal tissue	GO_0002426	1	1	1	0
-immunoglobulin mediated immune response	GO_0016064	1	1	1	0
-immunoglobulin biosynthetic process involved in immune response	GO_0002379	1	1	1	0
-immune response-regulating signaling pathway	GO_0002764	1	1	1	0
-immune response-regulating cell surface receptor signaling pathway involved in phagocytosis	GO_0002433	1	1	1	0
-immune response-regulating cell surface receptor signaling pathway	GO_0002768	1	1	1	0
-immune response-inhibiting signal transduction	GO_0002765	1	1	1	0
-immune response-inhibiting cell surface receptor signaling pathway	GO_0002767	1	1	1	0
-immune response-activating signal transduction	GO_0002757	1	1	1	0
-immune response-activating cell surface receptor signaling pathway	GO_0002429	1	1	1	0
-immune response to tumor cell	GO_0002418	1	1	1	0
-immune response in urogenital tract	GO_0002422	1	1	1	0
-immune response in nasopharyngeal-associated lymphoid tissue	GO_0002395	1	1	1	0
-immune response in mucosal-associated lymphoid tissue	GO_0002386	1	1	1	0
-immune response in gut-associated lymphoid tissue	GO_0002387	1	1	1	0
-immune response in brain or nervous system	GO_0002383	1	1	1	0
-immune response in Peyer's patch	GO_0002388	1	1	1	0
-immune response	GO_0006955	1	1	1	0
-immune complex formation	GO_0097281	1	1	1	0
-humoral immune response mediated by circulating immunoglobulin	GO_0002455	1	1	1	0
-humoral immune response	GO_0006959	1	1	1	0
-helper T cell enhancement of adaptive immune response	GO_0035397	1	1	1	0
-helper T cell enhancement of T cell mediated immune response	GO_0035398	1	1	1	0
-helper T cell enhancement of B cell mediated immune response	GO_0035399	1	1	1	0
-gene conversion of immunoglobulin genes involved in immune response	GO_0002207	1	1	1	0
-gamma-delta T cell proliferation involved in immune response	GO_0002311	1	1	1	0
-gamma-delta T cell differentiation involved in immune response	GO_0002303	1	1	1	0
-gamma-delta T cell activation involved in immune response	GO_0002290	1	1	1	0
-follicular dendritic cell activation involved in immune response	GO_0002267	1	1	1	0
-eosinophil activation involved in immune response	GO_0002278	1	1	1	0
-effector dependent induction by symbiont of host immune response	GO_0080185	1	1	1	0
-cytokine secretion involved in immune response	GO_0002374	1	1	1	0
-cytokine production involved in immune response	GO_0002367	1	1	1	0
-cytokine biosynthetic process involved in immune response	GO_0002375	1	1	1	0
-complement receptor mediated signaling pathway	GO_0002430	1	1	1	0
-complement activation, lectin pathway	GO_0001867	1	1	1	0
-complement activation, classical pathway	GO_0006958	1	1	1	0
-complement activation, alternative pathway	GO_0006957	1	1	1	0
-central tolerance induction to nonself antigen	GO_0002463	1	1	1	0
-cell activation involved in immune response	GO_0002263	1	1	1	0
-basophil activation involved in immune response	GO_0002276	1	1	1	0
-astrocyte activation involved in immune response	GO_0002265	1	1	1	0
-antimicrobial peptide secretion	GO_0002776	1	1	1	0
-antimicrobial peptide production	GO_0002775	1	1	1	0
-antimicrobial peptide biosynthetic process	GO_0002777	1	1	1	0
-antimicrobial humoral response	GO_0019730	1	1	1	0
-antigen transcytosis by M cells in mucosal-associated lymphoid tissue	GO_0002412	1	1	1	0
-antigen sampling in mucosal-associated lymphoid tissue	GO_0002404	1	1	1	0
-antigen sampling by dendritic cells in mucosal-associated lymphoid tissue	GO_0002405	1	1	1	0
-antigen sampling by M cells in mucosal-associated lymphoid tissue	GO_0002406	1	1	1	0
-antigen receptor-mediated signaling pathway	GO_0050851	1	1	1	0
-antifungal peptide secretion	GO_0002782	1	1	1	0
-antifungal peptide production	GO_0002781	1	1	1	0
-antifungal peptide biosynthetic process	GO_0002783	1	1	1	0
-antifungal humoral response	GO_0019732	1	1	1	0
-antibody-dependent cellular cytotoxicity	GO_0001788	1	1	1	0
-antibacterial peptide secretion	GO_0002779	1	1	1	0
-antibacterial peptide production	GO_0002778	1	1	1	0
-antibacterial peptide biosynthetic process	GO_0002780	1	1	1	0
-antibacterial humoral response	GO_0019731	1	1	1	0
-alpha-beta T cell proliferation involved in immune response	GO_0002310	1	1	1	0
-alpha-beta T cell differentiation involved in immune response	GO_0002293	1	1	1	0
-alpha-beta T cell activation involved in immune response	GO_0002287	1	1	1	0
-adaptive immune response based on somatic recombination of immune receptors built from leucine-rich repeat domains	GO_0002459	1	1	1	0
-adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002460	1	1	1	0
-adaptive immune response	GO_0002250	1	1	1	0
-active induction of innate immune response in host by virus	GO_0046738	1	1	1	0
-active induction of humoral immune response in host by virus	GO_0046736	1	1	1	0
-active induction of host immune response by virus	GO_0046732	1	1	1	0
-active induction of cell-mediated immune response in host by virus	GO_0046737	1	1	1	0
-activation of innate immune response	GO_0002218	1	1	1	0
-activation of immune response	GO_0002253	1	1	1	0
-T-helper 17 type immune response	GO_0072538	1	1	1	0
-T-helper 1 type immune response	GO_0042088	1	1	1	0
-T cell proliferation involved in immune response	GO_0002309	1	1	1	0
-T cell mediated immune response to tumor cell	GO_0002424	1	1	1	0
-T cell differentiation involved in immune response	GO_0002292	1	1	1	0
-T cell activation involved in immune response	GO_0002286	1	1	1	0
-NK T cell proliferation involved in immune response	GO_0002289	1	1	1	0
-NK T cell activation involved in immune response	GO_0002288	1	1	1	0
-MAPK import into nucleus involved in innate immune response	GO_0035424	1	1	1	0
-MAPK cascade involved in innate immune response	GO_0035420	1	1	1	0
-CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	1	1	1	0
-CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	1	1	1	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	1	1	1	0
-B cell proliferation involved in immune response	GO_0002322	1	1	1	0
-B cell activation involved in immune response	GO_0002312	1	1	1	0
-tolerance induction to self antigen	GO_0002513	1	0	1	0
-tetracycline transport	GO_0015904	1	0	1	0
-tetracycline metabolic process	GO_0043643	1	0	1	0
-tetracycline biosynthetic process	GO_0043644	1	0	1	0
-somatic hypermutation of immunoglobulin genes	GO_0016446	1	0	1	0
-somatic diversification of immunoglobulins	GO_0016445	1	0	1	0
-somatic diversification of immunoglobulin genes by N region addition	GO_0002570	1	0	1	0
-somatic diversification of immune receptors via somatic mutation	GO_0002566	1	0	1	0
-somatic diversification of immune receptors via germline recombination within a single locus	GO_0002562	1	0	1	0
-somatic diversification of immune receptors via gene conversion	GO_0002565	1	0	1	0
-somatic diversification of immune receptors via alternate splicing	GO_0002563	1	0	1	0
-somatic diversification of immune receptors by N region addition	GO_0002569	1	0	1	0
-somatic diversification of immune receptors	GO_0002200	1	0	1	0
-response to tetracycline	GO_1901326	1	0	1	0
-response to symbiont immune response	GO_0052571	1	0	1	1
-response to immune response of other organism involved in symbiotic interaction	GO_0052564	1	0	1	0
-response to host immune response	GO_0052572	1	0	1	0
-regulation of tolerance induction to self antigen	GO_0002649	1	0	1	0
-regulation of proteolysis associated with antigen processing and presentation	GO_0002628	1	0	1	0
-regulation of production of molecular mediator of immune response	GO_0002700	1	0	1	0
-regulation of peptide antigen transport	GO_1901039	1	0	1	0
-regulation of non-professional antigen presenting cell antigen processing and presentation	GO_0002619	1	0	1	0
-regulation of myeloid leukocyte mediated immunity	GO_0002886	1	0	1	0
-regulation of myeloid leukocyte differentiation	GO_0002761	1	0	1	0
-regulation of leukocyte proliferation	GO_0070663	1	0	1	0
-regulation of leukocyte migration	GO_0002685	1	0	1	0
-regulation of leukocyte mediated immunity	GO_0002703	1	0	1	0
-regulation of leukocyte mediated cytotoxicity	GO_0001910	1	0	1	0
-regulation of leukocyte degranulation	GO_0043300	1	0	1	0
-regulation of leukocyte apoptotic process	GO_2000106	1	0	1	0
-regulation of leukocyte activation	GO_0002694	1	0	1	0
-regulation of immunoglobulin secretion	GO_0051023	1	0	1	0
-regulation of immunoglobulin production	GO_0002637	1	0	1	0
-regulation of immunoglobulin biosynthetic process	GO_0002640	1	0	1	0
-regulation of immune system process	GO_0002682	1	0	1	0
-regulation of immune effector process	GO_0002697	1	0	1	0
-regulation of hematopoietic stem cell migration	GO_2000471	1	0	1	0
-regulation of extrathymic T cell differentiation	GO_0033082	1	0	1	0
-regulation of antigen receptor-mediated signaling pathway	GO_0050854	1	0	1	0
-regulation of antigen processing and presentation via MHC class Ib	GO_0002592	1	0	1	0
-regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002601	1	0	1	0
-regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002580	1	0	1	0
-regulation of antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002595	1	0	1	0
-regulation of antigen processing and presentation of peptide antigen via MHC class II	GO_0002586	1	0	1	0
-regulation of antigen processing and presentation of peptide antigen via MHC class I	GO_0002589	1	0	1	0
-regulation of antigen processing and presentation of peptide antigen	GO_0002583	1	0	1	0
-regulation of antigen processing and presentation of lipid antigen via MHC class Ib	GO_0002598	1	0	1	0
-regulation of antigen processing and presentation	GO_0002577	1	0	1	0
-regulation of MHC class II biosynthetic process	GO_0045346	1	0	1	0
-regulation of MHC class I biosynthetic process	GO_0045343	1	0	1	0
-proteolysis within lysosome associated with antigen processing and presentation	GO_0002500	1	0	1	0
-proteolysis within endosome associated with antigen processing and presentation	GO_0002499	1	0	1	0
-proteolysis within endoplasmic reticulum associated with antigen processing and presentation	GO_0002498	1	0	1	0
-proteolysis by cytosolic proteases associated with antigen processing and presentation	GO_0002203	1	0	1	0
-proteolysis associated with antigen processing and presentation	GO_0002496	1	0	1	0
-proteasomal proteolysis associated with antigen processing and presentation	GO_0002497	1	0	1	0
-production of molecular mediator of immune response	GO_0002440	1	0	1	0
-positive regulation of tolerance induction to self antigen	GO_0002651	1	0	1	0
-positive regulation of proteolysis associated with antigen processing and presentation	GO_0002630	1	0	1	0
-positive regulation of production of molecular mediator of immune response	GO_0002702	1	0	1	0
-positive regulation of peptide antigen transport	GO_1901041	1	0	1	0
-positive regulation of non-professional antigen presenting cell antigen processing and presentation	GO_0002621	1	0	1	0
-positive regulation of myeloid leukocyte mediated immunity	GO_0002888	1	0	1	0
-positive regulation of myeloid leukocyte differentiation	GO_0002763	1	0	1	0
-positive regulation of monocyte antigen processing and presentation	GO_0002615	1	0	1	0
-positive regulation of leukocyte proliferation	GO_0070665	1	0	1	0
-positive regulation of leukocyte migration	GO_0002687	1	0	1	0
-positive regulation of leukocyte mediated immunity	GO_0002705	1	0	1	0
-positive regulation of leukocyte mediated cytotoxicity	GO_0001912	1	0	1	0
-positive regulation of leukocyte degranulation	GO_0043302	1	0	1	0
-positive regulation of leukocyte apoptotic process	GO_2000108	1	0	1	0
-positive regulation of leukocyte activation	GO_0002696	1	0	1	0
-positive regulation of antigen receptor-mediated signaling pathway	GO_0050857	1	0	1	0
-positive regulation of antigen processing and presentation via MHC class Ib	GO_0002594	1	0	1	0
-positive regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002603	1	0	1	0
-positive regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002582	1	0	1	0
-positive regulation of antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002597	1	0	1	0
-positive regulation of antigen processing and presentation of peptide antigen via MHC class II	GO_0002588	1	0	1	0
-positive regulation of antigen processing and presentation of peptide antigen via MHC class I	GO_0002591	1	0	1	0
-positive regulation of antigen processing and presentation of peptide antigen	GO_0002585	1	0	1	0
-positive regulation of antigen processing and presentation of lipid antigen via MHC class Ib	GO_0002600	1	0	1	0
-positive regulation of antigen processing and presentation	GO_0002579	1	0	1	0
-positive regulation of MHC class II biosynthetic process	GO_0045348	1	0	1	0
-positive regulation of MHC class I biosynthetic process	GO_0045345	1	0	1	0
-positive regulation by organism of symbiont immune response	GO_0052557	1	0	1	1
-polysaccharide assembly with MHC class II protein complex	GO_0002506	1	0	1	0
-peptide antigen transport	GO_0046968	1	0	1	0
-peptide antigen stabilization	GO_0050823	1	0	1	0
-peptide antigen assembly with MHC protein complex	GO_0002501	1	0	1	0
-peptide antigen assembly with MHC class Ib protein complex	GO_0002492	1	0	1	0
-peptide antigen assembly with MHC class II protein complex	GO_0002503	1	0	1	0
-peptide antigen assembly with MHC class I protein complex	GO_0002502	1	0	1	0
-passive evasion of symbiont immune response	GO_0051845	1	0	1	1
-passive evasion of immune response of other organism involved in symbiotic interaction	GO_0051809	1	0	1	0
-passive evasion of host immune response	GO_0042782	1	0	1	0
-non-professional antigen presenting cell antigen processing and presentation	GO_0002473	1	0	1	0
-negative regulation of tolerance induction to self antigen	GO_0002650	1	0	1	0
-negative regulation of proteolysis associated with antigen processing and presentation	GO_0002629	1	0	1	0
-negative regulation of production of molecular mediator of immune response	GO_0002701	1	0	1	0
-negative regulation of peptide antigen transport	GO_1901040	1	0	1	0
-negative regulation of non-professional antigen presenting cell antigen processing and presentation	GO_0002620	1	0	1	0
-negative regulation of myeloid leukocyte mediated immunity	GO_0002887	1	0	1	0
-negative regulation of myeloid leukocyte differentiation	GO_0002762	1	0	1	0
-negative regulation of leukocyte proliferation	GO_0070664	1	0	1	0
-negative regulation of leukocyte migration	GO_0002686	1	0	1	0
-negative regulation of leukocyte mediated immunity	GO_0002704	1	0	1	0
-negative regulation of leukocyte mediated cytotoxicity	GO_0001911	1	0	1	0
-negative regulation of leukocyte degranulation	GO_0043301	1	0	1	0
-negative regulation of leukocyte apoptotic process	GO_2000107	1	0	1	0
-negative regulation of leukocyte activation	GO_0002695	1	0	1	0
-negative regulation of immunoglobulin secretion	GO_0051025	1	0	1	0
-negative regulation of immunoglobulin production	GO_0002638	1	0	1	0
-negative regulation of immunoglobulin biosynthetic process	GO_0002641	1	0	1	0
-negative regulation of immune system process	GO_0002683	1	0	1	0
-negative regulation of immune effector process	GO_0002698	1	0	1	0
-negative regulation of antigen receptor-mediated signaling pathway	GO_0050858	1	0	1	0
-negative regulation of antigen processing and presentation via MHC class Ib	GO_0002593	1	0	1	0
-negative regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002602	1	0	1	0
-negative regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002581	1	0	1	0
-negative regulation of antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002596	1	0	1	0
-negative regulation of antigen processing and presentation of peptide antigen via MHC class II	GO_0002587	1	0	1	0
-negative regulation of antigen processing and presentation of peptide antigen via MHC class I	GO_0002590	1	0	1	0
-negative regulation of antigen processing and presentation of peptide antigen	GO_0002584	1	0	1	0
-negative regulation of antigen processing and presentation of lipid antigen via MHC class Ib	GO_0002599	1	0	1	0
-negative regulation of antigen processing and presentation	GO_0002578	1	0	1	0
-negative regulation of MHC class II biosynthetic process	GO_0045347	1	0	1	0
-negative regulation of MHC class I biosynthetic process	GO_0045344	1	0	1	0
-negative regulation by organism of symbiont immune response	GO_0052563	1	0	1	1
-negative regulation by organism of symbiont cell-mediated immune response	GO_0052475	1	0	1	1
-negative regulation by organism of symbiont T-cell mediated immune response	GO_0052474	1	0	1	1
-negative regulation by organism of symbiont B-cell mediated immune response	GO_0052473	1	0	1	1
-myeloid leukocyte mediated immunity	GO_0002444	1	0	1	0
-myeloid leukocyte differentiation	GO_0002573	1	0	1	0
-myeloid leukocyte activation	GO_0002274	1	0	1	0
-modulation by organism of symbiont immune response	GO_0052554	1	0	1	1
-modulation by organism of symbiont cell-mediated immune response	GO_0052434	1	0	1	1
-modulation by organism of symbiont T-cell mediated immune response	GO_0052431	1	0	1	1
-modulation by organism of symbiont B-cell mediated immune response	GO_0052429	1	0	1	1
-induction by organism of symbiont immune response	GO_0052560	1	0	1	1
-immunological synapse formation	GO_0001771	1	0	1	0
-immunoglobulin transcytosis in epithelial cells	GO_0002414	1	0	1	0
-immunoglobulin secretion	GO_0048305	1	0	1	0
-immunoglobulin production	GO_0002377	1	0	1	0
-immunoglobulin light chain V-J recombination	GO_0071708	1	0	1	0
-immunoglobulin heavy chain V-D-J recombination	GO_0071707	1	0	1	0
-immunoglobulin biosynthetic process	GO_0002378	1	0	1	0
-immunoglobulin V(D)J recombination	GO_0033152	1	0	1	0
-immune system process	GO_0002376	1	0	1	0
-immune system development	GO_0002520	1	0	1	0
-immune effector process	GO_0002252	1	0	1	0
-immune complex clearance by monocytes and macrophages	GO_0002436	1	0	1	0
-immune complex clearance by erythrocytes	GO_0002435	1	0	1	0
-immune complex clearance	GO_0002434	1	0	1	0
-hematopoietic stem cell migration to bone marrow	GO_0097241	1	0	1	0
-evasion or tolerance of symbiont immune response	GO_0051842	1	0	1	1
-evasion or tolerance of immune response of other organism involved in symbiotic interaction	GO_0051805	1	0	1	0
-evasion or tolerance of host immune response	GO_0020012	1	0	1	0
-evasion or tolerance by virus of host immune response	GO_0030683	1	0	1	0
-envenomation resulting in positive regulation of complement activation, lectin pathway in other organism	GO_0044641	1	0	1	0
-envenomation resulting in positive regulation of complement activation, classical pathway in other organism	GO_0044638	1	0	1	0
-envenomation resulting in positive regulation of complement activation, alternative pathway in other organism	GO_0044643	1	0	1	0
-envenomation resulting in negative regulation of complement activation, lectin pathway in other organism	GO_0044640	1	0	1	0
-envenomation resulting in negative regulation of complement activation, classical pathway in other organism	GO_0044637	1	0	1	0
-envenomation resulting in negative regulation of complement activation, alternative pathway in other organism	GO_0044644	1	0	1	0
-envenomation resulting in modulation of complement activation, lectin pathway in other organism	GO_0044639	1	0	1	0
-envenomation resulting in modulation of complement activation, classical pathway in other organism	GO_0044636	1	0	1	0
-envenomation resulting in modulation of complement activation, alternative pathway in other organism	GO_0044642	1	0	1	0
-cephalosporin metabolic process	GO_0043645	1	0	1	0
-cephalosporin biosynthetic process	GO_0043646	1	0	1	0
-cephalosporin C metabolic process	GO_1901266	1	0	1	0
-cephalosporin C catabolic process	GO_1901267	1	0	1	0
-cephalosporin C biosynthetic process	GO_1901268	1	0	1	0
-central tolerance induction to self antigen	GO_0002509	1	0	1	0
-cellular response to triacyl bacterial lipopeptide	GO_0071727	1	0	1	0
-cellular response to tetracycline	GO_0072746	1	0	1	0
-cellular response to molecule of bacterial origin	GO_0071219	1	0	1	0
-cellular response to interleukin-9	GO_0071355	1	0	1	0
-cellular response to interleukin-6	GO_0071354	1	0	1	0
-cellular response to interleukin-4	GO_0071353	1	0	1	0
-cellular response to interleukin-3	GO_0036016	1	0	1	0
-cellular response to interleukin-2	GO_0071352	1	0	1	0
-cellular response to interleukin-18	GO_0071351	1	0	1	0
-cellular response to interleukin-15	GO_0071350	1	0	1	0
-cellular response to interleukin-13	GO_0035963	1	0	1	0
-cellular response to interleukin-12	GO_0071349	1	0	1	0
-cellular response to interleukin-11	GO_0071348	1	0	1	0
-cellular response to interleukin-1	GO_0071347	1	0	1	0
-cellular response to diacyl bacterial lipopeptide	GO_0071726	1	0	1	0
-cellular response to bacterial lipoprotein	GO_0071220	1	0	1	0
-cellular response to bacterial lipopeptide	GO_0071221	1	0	1	0
-beta-lactam antibiotic metabolic process	GO_0030653	1	0	1	0
-beta-lactam antibiotic catabolic process	GO_0030655	1	0	1	0
-beta-lactam antibiotic biosynthetic process	GO_0030654	1	0	1	0
-beta selection	GO_0043366	1	0	1	0
-avoidance of symbiont defenses	GO_0051858	1	0	1	0
-avoidance of host defenses	GO_0044413	1	0	1	0
-antigenic variation	GO_0020033	1	0	1	0
-antigen processing and presentation, exogenous lipid antigen via MHC class Ib	GO_0048007	1	0	1	0
-antigen processing and presentation, endogenous lipid antigen via MHC class Ib	GO_0048006	1	0	1	0
-antigen processing and presentation via MHC class Ib	GO_0002475	1	0	1	0
-antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002505	1	0	1	0
-antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002504	1	0	1	0
-antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002428	1	0	1	0
-antigen processing and presentation of peptide antigen via MHC class II	GO_0002495	1	0	1	0
-antigen processing and presentation of peptide antigen via MHC class I	GO_0002474	1	0	1	0
-antigen processing and presentation of peptide antigen	GO_0048002	1	0	1	0
-antigen processing and presentation of lipid antigen via MHC class Ib	GO_0048003	1	0	1	0
-antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-independent	GO_0002482	1	0	1	0
-antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent	GO_0002481	1	0	1	0
-antigen processing and presentation of exogenous peptide antigen via MHC class Ib	GO_0002477	1	0	1	0
-antigen processing and presentation of exogenous peptide antigen via MHC class II	GO_0019886	1	0	1	0
-antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	GO_0002480	1	0	1	0
-antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	GO_0002479	1	0	1	0
-antigen processing and presentation of exogenous peptide antigen via MHC class I	GO_0042590	1	0	1	0
-antigen processing and presentation of exogenous peptide antigen	GO_0002478	1	0	1	0
-antigen processing and presentation of exogenous antigen	GO_0019884	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-independent	GO_0002490	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent	GO_0002489	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway	GO_0002488	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class Ib	GO_0002476	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class II	GO_0002491	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class I via endolysosomal pathway	GO_0002487	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	GO_0002486	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent	GO_0002485	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	GO_0002484	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen via MHC class I	GO_0019885	1	0	1	0
-antigen processing and presentation of endogenous peptide antigen	GO_0002483	1	0	1	0
-antigen processing and presentation of endogenous antigen	GO_0019883	1	0	1	0
-antigen processing and presentation initiated by toll-like receptor mediated phagocytosis of antigen	GO_0002749	1	0	1	0
-antigen processing and presentation initiated by receptor mediated uptake of antigen	GO_0002745	1	0	1	0
-antigen processing and presentation initiated by pattern recognition receptor mediated uptake of antigen	GO_0002748	1	0	1	0
-antigen processing and presentation following receptor mediated endocytosis	GO_0002751	1	0	1	0
-antigen processing and presentation following pinocytosis	GO_0002746	1	0	1	0
-antigen processing and presentation following phagocytosis	GO_0002747	1	0	1	0
-antigen processing and presentation following macropinocytosis	GO_0002750	1	0	1	0
-antigen processing and presentation	GO_0019882	1	0	1	0
-antibiotic transport	GO_0042891	1	0	1	0
-antibiotic susceptibility/resistance	GO_0017141	1	0	1	1
-antibiotic metabolic process	GO_0016999	1	0	1	0
-antibiotic catabolic process	GO_0017001	1	0	1	0
-antibiotic biosynthetic process	GO_0017000	1	0	1	0
-anaphylaxis	GO_0030105	1	0	1	1
-active evasion of symbiont immune response via regulation of symbiont cytokine network	GO_0051848	1	0	1	1
-active evasion of symbiont immune response via regulation of symbiont complement system	GO_0051847	1	0	1	1
-active evasion of symbiont immune response via regulation of symbiont antigen processing and presentation	GO_0051849	1	0	1	1
-active evasion of symbiont immune response	GO_0051846	1	0	1	1
-active evasion of immune response of other organism via regulation of cytokine network of other organism involved in symbiotic interaction	GO_0051812	1	0	1	0
-active evasion of immune response of other organism via regulation of complement system of other organism involved in symbiotic interaction	GO_0051811	1	0	1	0
-active evasion of immune response of other organism via regulation of antigen processing and presentation in other organism involved in symbiotic interaction	GO_0051813	1	0	1	0
-active evasion of immune response of other organism involved in symbiotic interaction	GO_0051810	1	0	1	0
-active evasion of host immune response via regulation of host cytokine network	GO_0042785	1	0	1	0
-active evasion of host immune response via regulation of host complement system	GO_0042784	1	0	1	0
-active evasion of host immune response via regulation of host antigen processing and presentation	GO_0042786	1	0	1	0
-active evasion of host immune response	GO_0042783	1	0	1	0
-activation-induced cell death of T cells	GO_0006924	1	0	1	0
-activation-induced B cell apoptotic process	GO_0071948	1	0	1	0
-O antigen metabolic process	GO_0046402	1	0	1	0
-O antigen biosynthetic process	GO_0009243	1	0	1	0
-MHC protein complex assembly	GO_0002396	1	0	1	0
-MHC class Ib protein complex assembly	GO_0002398	1	0	1	0
-MHC class II protein complex assembly	GO_0002399	1	0	1	0
-MHC class II biosynthetic process	GO_0045342	1	0	1	0
-MHC class I protein complex assembly	GO_0002397	1	0	1	0
-MHC class I biosynthetic process	GO_0045341	1	0	1	0
-K antigen metabolic process	GO_0046375	1	0	1	0
-K antigen biosynthetic process	GO_0009248	1	0	1	0
-IgG immunoglobulin transcytosis in epithelial cells mediated by FcRn immunoglobulin receptor	GO_0002416	1	0	1	0
-CCL21-activated CCR7 signaling pathway	GO_0038120	1	0	1	0
-CCL2-activated CCR2 signaling pathway	GO_0038151	1	0	1	0
-CCL19-activated CCR7 signaling pathway	GO_0038119	1	0	1	0
-C-C chemokine receptor CCR7 signaling pathway	GO_0038118	1	0	1	0
-C-C chemokine receptor CCR4 signaling pathway	GO_0038152	1	0	1	0
-C-C chemokine receptor CCR2 signaling pathway	GO_0038150	1	0	1	0
-virus induced gene silencing	GO_0009616	0	1	0	0
-viral triggering of virus induced gene silencing	GO_0060150	0	1	0	0
-viral mRNA cap methylation	GO_0039699	0	1	0	0
-viral gene silencing in virus induced gene silencing	GO_0060145	0	1	0	0
-type IV hypersensitivity	GO_0001806	0	1	0	0
-type IIb hypersensitivity	GO_0001795	0	1	0	0
-type IIa hypersensitivity	GO_0001794	0	1	0	0
-type III interferon signaling pathway	GO_0038196	0	1	0	0
-type III interferon receptor activity	GO_0034348	0	1	0	0
-type III hypersensitivity	GO_0001802	0	1	0	0
-type II hypersensitivity	GO_0002445	0	1	0	0
-type I interferon signaling pathway	GO_0060337	0	1	0	0
-type I interferon receptor activity	GO_0004905	0	1	0	0
-toll-like receptor signaling pathway	GO_0002224	0	1	0	0
-toll-like receptor TLR6:TLR2 signaling pathway	GO_0038124	0	1	0	0
-toll-like receptor TLR1:TLR2 signaling pathway	GO_0038123	0	1	0	0
-toll-like receptor 9 signaling pathway	GO_0034162	0	1	0	0
-toll-like receptor 8 signaling pathway	GO_0034158	0	1	0	0
-toll-like receptor 7 signaling pathway	GO_0034154	0	1	0	0
-toll-like receptor 6 signaling pathway	GO_0034150	0	1	0	0
-toll-like receptor 5 signaling pathway	GO_0034146	0	1	0	0
-toll-like receptor 4 signaling pathway	GO_0034142	0	1	0	0
-toll-like receptor 3 signaling pathway	GO_0034138	0	1	0	0
-toll-like receptor 21 signaling pathway	GO_0035682	0	1	0	0
-toll-like receptor 2 signaling pathway	GO_0034134	0	1	0	0
-toll-like receptor 15 signaling pathway	GO_0035681	0	1	0	0
-toll-like receptor 13 signaling pathway	GO_0034178	0	1	0	0
-toll-like receptor 12 signaling pathway	GO_0034174	0	1	0	0
-toll-like receptor 11 signaling pathway	GO_0034170	0	1	0	0
-toll-like receptor 10 signaling pathway	GO_0034166	0	1	0	0
-toll-like receptor 1 signaling pathway	GO_0034130	0	1	0	0
-tolerance induction to tumor cell	GO_0002413	0	1	0	0
-tolerance induction in urogenital tract	GO_0002425	0	1	0	0
-tolerance induction in nasopharyngeal-associated lymphoid tissue	GO_0002400	0	1	0	0
-tolerance induction in mucosal-associated lymphoid tissue	GO_0002401	0	1	0	0
-tolerance induction in Peyer's patch	GO_0002389	0	1	0	0
-systemic acquired resistance, salicylic acid mediated signaling pathway	GO_0009862	0	1	0	0
-systemic acquired resistance	GO_0009627	0	1	0	0
-suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039537	0	1	0	0
-suppression by virus of host type I interferon-mediated signaling pathway	GO_0039502	0	1	0	0
-suppression by virus of host type I interferon production	GO_0039501	0	1	0	0
-suppression by virus of host toll-like receptor signaling pathway	GO_0039722	0	1	0	0
-suppression by virus of host tapasin activity	GO_0039591	0	1	0	0
-suppression by virus of host intracellular interferon activity	GO_0046774	0	1	0	0
-suppression by virus of host cytokine production	GO_0046775	0	1	0	0
-suppression by virus of host complement activation	GO_0039573	0	1	0	0
-suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	GO_0039505	0	1	0	0
-suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	GO_0046776	0	1	0	0
-suppression by virus of host antigen processing and presentation	GO_0039588	0	1	0	0
-suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	0	1	0	0
-suppression by virus of host TYK2 activity	GO_0039574	0	1	0	0
-suppression by virus of host TBK1 activity	GO_0039723	0	1	0	0
-suppression by virus of host TAP complex	GO_0039589	0	1	0	0
-suppression by virus of host RIG-I via RIG-I binding	GO_0039541	0	1	0	0
-suppression by virus of host RIG-I signaling pathway	GO_0039538	0	1	0	0
-suppression by virus of host RIG-I activity by viral RNA 5' processing	GO_0039543	0	1	0	0
-suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	0	1	0	0
-suppression by virus of host RIG-I activity	GO_0039540	0	1	0	0
-suppression by virus of host RIG-I K63-linked ubiquitination	GO_0039542	0	1	0	0
-suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	0	1	0	0
-suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	0	1	0	0
-suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	0	0
-suppression by virus of host PKR activity	GO_0039580	0	1	0	0
-suppression by virus of host MDA-5 signaling pathway	GO_0039539	0	1	0	0
-suppression by virus of host MDA-5 activity via MDA-5 binding	GO_0039555	0	1	0	0
-suppression by virus of host MDA-5 activity	GO_0039554	0	1	0	0
-suppression by virus of host MAVS activity by MAVS proteolysis	GO_0039546	0	1	0	0
-suppression by virus of host MAVS activity	GO_0039545	0	1	0	0
-suppression by virus of host ISG15 activity	GO_0039579	0	1	0	0
-suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	GO_0039561	0	1	0	0
-suppression by virus of host IRF9 activity	GO_0039560	0	1	0	0
-suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	GO_0039558	0	1	0	0
-suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	0	1	0	0
-suppression by virus of host IRF7 activity	GO_0039557	0	1	0	0
-suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	0	1	0	0
-suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	GO_0039549	0	1	0	0
-suppression by virus of host IRF3 activity by inhibition of DNA binding	GO_0039550	0	1	0	0
-suppression by virus of host IRF3 activity	GO_0039548	0	1	0	0
-suppression by virus of host IKBKE activity	GO_0039724	0	1	0	0
-stimulatory killer cell immunoglobulin-like receptor signaling pathway	GO_0002222	0	1	0	0
-stimulatory C-type lectin receptor signaling pathway	GO_0002223	0	1	0	0
-serotonin secretion by mast cell	GO_0002552	0	1	0	0
-serotonin secretion by basophil	GO_0002556	0	1	0	0
-response to type III interferon	GO_0034342	0	1	0	0
-response to type I interferon	GO_0034340	0	1	0	0
-response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0032260	0	1	0	0
-response to interferon-gamma	GO_0034341	0	1	0	0
-regulation of type IV hypersensitivity	GO_0001807	0	1	0	0
-regulation of type IIb hypersensitivity	GO_0001799	0	1	0	0
-regulation of type IIa hypersensitivity	GO_0001796	0	1	0	0
-regulation of type III hypersensitivity	GO_0001803	0	1	0	0
-regulation of type II hypersensitivity	GO_0002892	0	1	0	0
-regulation of type I interferon-mediated signaling pathway	GO_0060338	0	1	0	0
-regulation of type I hypersensitivity	GO_0001810	0	1	0	0
-regulation of tolerance induction to tumor cell	GO_0002843	0	1	0	0
-regulation of systemic acquired resistance	GO_0010112	0	1	0	0
-regulation of response to interferon-gamma	GO_0060330	0	1	0	0
-regulation of respiratory burst involved in inflammatory response	GO_0060264	0	1	0	0
-regulation of plasmacytoid dendritic cell cytokine production	GO_0002736	0	1	0	0
-regulation of plasma cell differentiation	GO_1900098	0	1	0	0
-regulation of plant-type hypersensitive response	GO_0010363	0	1	0	0
-regulation of peripheral tolerance induction	GO_0002658	0	1	0	0
-regulation of peripheral T cell tolerance induction	GO_0002849	0	1	0	0
-regulation of peripheral B cell deletion	GO_0002908	0	1	0	0
-regulation of peripheral B cell anergy	GO_0002917	0	1	0	0
-regulation of neutrophil degranulation	GO_0043313	0	1	0	0
-regulation of natural killer cell mediated immunity	GO_0002715	0	1	0	0
-regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002858	0	1	0	0
-regulation of natural killer cell mediated cytotoxicity	GO_0042269	0	1	0	0
-regulation of natural killer cell degranulation	GO_0043321	0	1	0	0
-regulation of natural killer cell cytokine production	GO_0002727	0	1	0	0
-regulation of myeloid dendritic cell cytokine production	GO_0002733	0	1	0	0
-regulation of memory T cell differentiation	GO_0043380	0	1	0	0
-regulation of melanization defense response	GO_0035007	0	1	0	0
-regulation of mast cell degranulation	GO_0043304	0	1	0	0
-regulation of mast cell cytokine production	GO_0032763	0	1	0	0
-regulation of macrophage cytokine production	GO_0010935	0	1	0	0
-regulation of isotype switching to IgG isotypes	GO_0048302	0	1	0	0
-regulation of isotype switching to IgE isotypes	GO_0048293	0	1	0	0
-regulation of isotype switching to IgD isotypes	GO_0048299	0	1	0	0
-regulation of isotype switching to IgA isotypes	GO_0048296	0	1	0	0
-regulation of isotype switching	GO_0045191	0	1	0	0
-regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000571	0	1	0	0
-regulation of interferon-gamma-mediated signaling pathway	GO_0060334	0	1	0	0
-regulation of inflammatory response to antigenic stimulus	GO_0002861	0	1	0	0
-regulation of hypersensitivity	GO_0002883	0	1	0	0
-regulation of germinal center formation	GO_0002634	0	1	0	0
-regulation of eosinophil degranulation	GO_0043309	0	1	0	0
-regulation of dendritic cell cytokine production	GO_0002730	0	1	0	0
-regulation of defense response to fungus, incompatible interaction	GO_2000072	0	1	0	0
-regulation of defense response to bacterium, incompatible interaction	GO_1902477	0	1	0	0
-regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0
-regulation of chronic inflammatory response to antigenic stimulus	GO_0002874	0	1	0	0
-regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	0	1	0	0
-regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	0	1	0	0
-regulation of antimicrobial peptide secretion	GO_0002794	0	1	0	0
-regulation of antimicrobial peptide production	GO_0002784	0	1	0	0
-regulation of antimicrobial peptide biosynthetic process	GO_0002805	0	1	0	0
-regulation of antimicrobial humoral response	GO_0002759	0	1	0	0
-regulation of antifungal peptide secretion	GO_0002800	0	1	0	0
-regulation of antifungal peptide production	GO_0002788	0	1	0	0
-regulation of antifungal peptide biosynthetic process	GO_0002810	0	1	0	0
-regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	0	0
-regulation of antibacterial peptide secretion	GO_0002797	0	1	0	0
-regulation of antibacterial peptide production	GO_0002786	0	1	0	0
-regulation of antibacterial peptide biosynthetic process	GO_0002808	0	1	0	0
-regulation of acute inflammatory response to antigenic stimulus	GO_0002864	0	1	0	0
-regulation of activation of membrane attack complex	GO_0001969	0	1	0	0
-regulation of T-helper cell differentiation	GO_0045622	0	1	0	0
-regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0
-regulation of T-helper 2 cell cytokine production	GO_2000551	0	1	0	0
-regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0
-regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0
-regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0
-regulation of T-helper 1 cell cytokine production	GO_2000554	0	1	0	0
-regulation of T cell tolerance induction to tumor cell	GO_0002846	0	1	0	0
-regulation of T cell mediated immunity	GO_0002709	0	1	0	0
-regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002852	0	1	0	0
-regulation of T cell mediated cytotoxicity	GO_0001914	0	1	0	0
-regulation of T cell cytokine production	GO_0002724	0	1	0	0
-regulation of T cell antigen processing and presentation	GO_0002625	0	1	0	0
-regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	0	1	0	0
-regulation of B cell mediated immunity	GO_0002712	0	1	0	0
-regulation of B cell cytokine production	GO_0002721	0	1	0	0
-regulation of B cell antigen processing and presentation	GO_0002622	0	1	0	0
-protection from natural killer cell mediated cytotoxicity	GO_0042270	0	1	0	0
-positive regulation of type IV hypersensitivity	GO_0001809	0	1	0	0
-positive regulation of type IIb hypersensitivity	GO_0001801	0	1	0	0
-positive regulation of type IIa hypersensitivity	GO_0001798	0	1	0	0
-positive regulation of type III hypersensitivity	GO_0001805	0	1	0	0
-positive regulation of type II hypersensitivity	GO_0002894	0	1	0	0
-positive regulation of type I interferon-mediated signaling pathway	GO_0060340	0	1	0	0
-positive regulation of type I hypersensitivity	GO_0001812	0	1	0	0
-positive regulation of tolerance induction to tumor cell	GO_0002845	0	1	0	0
-positive regulation of systemic acquired resistance	GO_1901672	0	1	0	0
-positive regulation of response to interferon-gamma	GO_0060332	0	1	0	0
-positive regulation of respiratory burst involved in inflammatory response	GO_0060265	0	1	0	0
-positive regulation of plasmacytoid dendritic cell cytokine production	GO_0002738	0	1	0	0
-positive regulation of plasma cell differentiation	GO_1900100	0	1	0	0
-positive regulation of plant-type hypersensitive response	GO_0034052	0	1	0	0
-positive regulation of peripheral tolerance induction	GO_0002660	0	1	0	0
-positive regulation of peripheral T cell tolerance induction	GO_0002851	0	1	0	0
-positive regulation of peripheral B cell deletion	GO_0002910	0	1	0	0
-positive regulation of peripheral B cell anergy	GO_0002919	0	1	0	0
-positive regulation of neutrophil degranulation	GO_0043315	0	1	0	0
-positive regulation of natural killer cell mediated immunity	GO_0002717	0	1	0	0
-positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002860	0	1	0	0
-positive regulation of natural killer cell mediated cytotoxicity	GO_0045954	0	1	0	0
-positive regulation of natural killer cell degranulation	GO_0043323	0	1	0	0
-positive regulation of natural killer cell cytokine production	GO_0002729	0	1	0	0
-positive regulation of myeloid dendritic cell cytokine production	GO_0002735	0	1	0	0
-positive regulation of memory T cell differentiation	GO_0043382	0	1	0	0
-positive regulation of melanization defense response	GO_0035008	0	1	0	0
-positive regulation of mast cell degranulation in other organism	GO_0035896	0	1	0	0
-positive regulation of mast cell degranulation	GO_0043306	0	1	0	0
-positive regulation of mast cell cytokine production	GO_0032765	0	1	0	0
-positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway	GO_0038097	0	1	0	0
-positive regulation of macrophage cytokine production	GO_0060907	0	1	0	0
-positive regulation of isotype switching to IgG isotypes	GO_0048304	0	1	0	0
-positive regulation of isotype switching to IgE isotypes	GO_0048295	0	1	0	0
-positive regulation of isotype switching to IgD isotypes	GO_0048301	0	1	0	0
-positive regulation of isotype switching to IgA isotypes	GO_0048298	0	1	0	0
-positive regulation of isotype switching	GO_0045830	0	1	0	0
-positive regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000572	0	1	0	0
-positive regulation of interferon-gamma-mediated signaling pathway	GO_0060335	0	1	0	0
-positive regulation of inflammatory response to antigenic stimulus	GO_0002863	0	1	0	0
-positive regulation of immunoglobulin production in mucosal tissue	GO_2000558	0	1	0	0
-positive regulation of hypersensitivity	GO_0002885	0	1	0	0
-positive regulation of germinal center formation	GO_0002636	0	1	0	0
-positive regulation of eosinophil degranulation	GO_0043311	0	1	0	0
-positive regulation of dendritic cell cytokine production	GO_0002732	0	1	0	0
-positive regulation of defense response to bacterium, incompatible interaction	GO_1902479	0	1	0	0
-positive regulation of cytotoxic T cell degranulation	GO_0043319	0	1	0	0
-positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	0	0
-positive regulation of complement activation, lectin pathway	GO_0001870	0	1	0	0
-positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	0	0
-positive regulation of complement activation, classical pathway	GO_0045960	0	1	0	0
-positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	0	0
-positive regulation of complement activation, alternative pathway	GO_0045958	0	1	0	0
-positive regulation of complement activation	GO_0045917	0	1	0	0
-positive regulation of chronic inflammatory response to antigenic stimulus	GO_0002876	0	1	0	0
-positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	0	1	0	0
-positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	0	1	0	0
-positive regulation of antimicrobial peptide secretion	GO_0002796	0	1	0	0
-positive regulation of antimicrobial peptide production	GO_0002225	0	1	0	0
-positive regulation of antimicrobial peptide biosynthetic process	GO_0002807	0	1	0	0
-positive regulation of antimicrobial humoral response	GO_0002760	0	1	0	0
-positive regulation of antifungal peptide secretion	GO_0002802	0	1	0	0
-positive regulation of antifungal peptide production	GO_0002804	0	1	0	0
-positive regulation of antifungal peptide biosynthetic process	GO_0006967	0	1	0	0
-positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	0	0
-positive regulation of antibacterial peptide secretion	GO_0002799	0	1	0	0
-positive regulation of antibacterial peptide production	GO_0002803	0	1	0	0
-positive regulation of antibacterial peptide biosynthetic process	GO_0006963	0	1	0	0
-positive regulation of acute inflammatory response to antigenic stimulus	GO_0002866	0	1	0	0
-positive regulation of activation of membrane attack complex	GO_0001970	0	1	0	0
-positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0
-positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0
-positive regulation of T-helper 2 cell cytokine production	GO_2000553	0	1	0	0
-positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0
-positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0
-positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0
-positive regulation of T-helper 1 cell cytokine production	GO_2000556	0	1	0	0
-positive regulation of T cell tolerance induction to tumor cell	GO_0002848	0	1	0	0
-positive regulation of T cell mediated immunity	GO_0002711	0	1	0	0
-positive regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002854	0	1	0	0
-positive regulation of T cell mediated cytotoxicity	GO_0001916	0	1	0	0
-positive regulation of T cell cytokine production	GO_0002726	0	1	0	0
-positive regulation of T cell antigen processing and presentation	GO_0002627	0	1	0	0
-positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001190	0	1	0	0
-positive regulation of B cell mediated immunity	GO_0002714	0	1	0	0
-positive regulation of B cell cytokine production	GO_0002723	0	1	0	0
-positive regulation of B cell antigen processing and presentation	GO_0002624	0	1	0	0
-positive regulation by virus of host cytokine production	GO_0044832	0	1	0	0
-positive regulation by symbiont of host systemic acquired resistance	GO_0052537	0	1	0	0
-positive regulation by symbiont of host salicylic acid-mediated defense response	GO_0052074	0	1	0	0
-positive regulation by symbiont of host resistance gene-dependent defense response	GO_0052527	0	1	0	0
-positive regulation by symbiont of host phytoalexin production	GO_0052344	0	1	0	0
-positive regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052075	0	1	0	0
-positive regulation by symbiont of host induced systemic resistance	GO_0052533	0	1	0	0
-positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052072	0	1	0	0
-positive regulation by symbiont of defense-related host reactive oxygen species production	GO_0052369	0	1	0	0
-positive regulation by symbiont of defense-related host nitric oxide production	GO_0052347	0	1	0	0
-positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052073	0	1	0	0
-positive regulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052535	0	1	0	0
-positive regulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052423	0	1	0	0
-positive regulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052329	0	1	0	0
-positive regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052273	0	1	0	0
-positive regulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052532	0	1	0	0
-positive regulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052348	0	1	0	0
-positive regulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052345	0	1	0	0
-positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052271	0	1	0	0
-plasmacytoid dendritic cell cytokine production	GO_0002373	0	1	0	0
-plant-type hypersensitive response	GO_0009626	0	1	0	0
-peripheral tolerance induction	GO_0002465	0	1	0	0
-peripheral T cell tolerance induction	GO_0002458	0	1	0	0
-peripheral B cell tolerance induction	GO_0002451	0	1	0	0
-peripheral B cell deletion	GO_0002454	0	1	0	0
-peripheral B cell anergy	GO_0002453	0	1	0	0
-pattern recognition receptor signaling pathway	GO_0002221	0	1	0	0
-nucleotide-binding oligomerization domain containing signaling pathway	GO_0070423	0	1	0	0
-nucleotide-binding oligomerization domain containing 2 signaling pathway	GO_0070431	0	1	0	0
-nucleotide-binding oligomerization domain containing 1 signaling pathway	GO_0070427	0	1	0	0
-neutrophil degranulation	GO_0043312	0	1	0	0
-negative regulation of type IV hypersensitivity	GO_0001808	0	1	0	0
-negative regulation of type IIb hypersensitivity	GO_0001800	0	1	0	0
-negative regulation of type IIa hypersensitivity	GO_0001797	0	1	0	0
-negative regulation of type III hypersensitivity	GO_0001804	0	1	0	0
-negative regulation of type II hypersensitivity	GO_0002893	0	1	0	0
-negative regulation of type I interferon-mediated signaling pathway	GO_0060339	0	1	0	0
-negative regulation of type I hypersensitivity	GO_0001811	0	1	0	0
-negative regulation of tolerance induction to tumor cell	GO_0002844	0	1	0	0
-negative regulation of systemic acquired resistance	GO_0010113	0	1	0	0
-negative regulation of response to interferon-gamma	GO_0060331	0	1	0	0
-negative regulation of respiratory burst involved in inflammatory response	GO_0060266	0	1	0	0
-negative regulation of plasmacytoid dendritic cell cytokine production	GO_0002737	0	1	0	0
-negative regulation of plasma cell differentiation	GO_1900099	0	1	0	0
-negative regulation of plant-type hypersensitive response	GO_0034051	0	1	0	0
-negative regulation of peripheral tolerance induction	GO_0002659	0	1	0	0
-negative regulation of peripheral T cell tolerance induction	GO_0002850	0	1	0	0
-negative regulation of peripheral B cell deletion	GO_0002909	0	1	0	0
-negative regulation of peripheral B cell anergy	GO_0002918	0	1	0	0
-negative regulation of neutrophil degranulation	GO_0043314	0	1	0	0
-negative regulation of natural killer cell mediated immunity	GO_0002716	0	1	0	0
-negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002859	0	1	0	0
-negative regulation of natural killer cell mediated cytotoxicity	GO_0045953	0	1	0	0
-negative regulation of natural killer cell degranulation	GO_0043322	0	1	0	0
-negative regulation of natural killer cell cytokine production	GO_0002728	0	1	0	0
-negative regulation of myeloid dendritic cell cytokine production	GO_0002734	0	1	0	0
-negative regulation of memory T cell differentiation	GO_0043381	0	1	0	0
-negative regulation of melanization defense response	GO_0035009	0	1	0	0
-negative regulation of mast cell degranulation	GO_0043305	0	1	0	0
-negative regulation of mast cell cytokine production	GO_0032764	0	1	0	0
-negative regulation of macrophage cytokine production	GO_0010936	0	1	0	0
-negative regulation of isotype switching to IgG isotypes	GO_0048303	0	1	0	0
-negative regulation of isotype switching to IgE isotypes	GO_0048294	0	1	0	0
-negative regulation of isotype switching to IgD isotypes	GO_0048300	0	1	0	0
-negative regulation of isotype switching to IgA isotypes	GO_0048297	0	1	0	0
-negative regulation of isotype switching	GO_0045829	0	1	0	0
-negative regulation of interferon-gamma-mediated signaling pathway	GO_0060336	0	1	0	0
-negative regulation of inflammatory response to antigenic stimulus	GO_0002862	0	1	0	0
-negative regulation of hypersensitivity	GO_0002884	0	1	0	0
-negative regulation of germinal center formation	GO_0002635	0	1	0	0
-negative regulation of eosinophil degranulation	GO_0043310	0	1	0	0
-negative regulation of dendritic cell cytokine production	GO_0002731	0	1	0	0
-negative regulation of defense response to bacterium, incompatible interaction	GO_1902478	0	1	0	0
-negative regulation of cytotoxic T cell degranulation	GO_0043318	0	1	0	0
-negative regulation of complement activation	GO_0045916	0	1	0	0
-negative regulation of chronic inflammatory response to antigenic stimulus	GO_0002875	0	1	0	0
-negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	0	1	0	0
-negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	0	1	0	0
-negative regulation of antimicrobial peptide secretion	GO_0002795	0	1	0	0
-negative regulation of antimicrobial peptide production	GO_0002785	0	1	0	0
-negative regulation of antimicrobial peptide biosynthetic process	GO_0002806	0	1	0	0
-negative regulation of antimicrobial humoral response	GO_0008348	0	1	0	0
-negative regulation of antifungal peptide secretion	GO_0002801	0	1	0	0
-negative regulation of antifungal peptide production	GO_0002789	0	1	0	0
-negative regulation of antifungal peptide biosynthetic process	GO_0002811	0	1	0	0
-negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	0	0
-negative regulation of antibacterial peptide secretion	GO_0002798	0	1	0	0
-negative regulation of antibacterial peptide production	GO_0002787	0	1	0	0
-negative regulation of antibacterial peptide biosynthetic process	GO_0002809	0	1	0	0
-negative regulation of acute inflammatory response to antigenic stimulus	GO_0002865	0	1	0	0
-negative regulation of activation of membrane attack complex	GO_0001971	0	1	0	0
-negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0
-negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0
-negative regulation of T-helper 2 cell cytokine production	GO_2000552	0	1	0	0
-negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0
-negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0
-negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0
-negative regulation of T-helper 1 cell cytokine production	GO_2000555	0	1	0	0
-negative regulation of T cell tolerance induction to tumor cell	GO_0002847	0	1	0	0
-negative regulation of T cell mediated immunity	GO_0002710	0	1	0	0
-negative regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002853	0	1	0	0
-negative regulation of T cell mediated cytotoxicity	GO_0001915	0	1	0	0
-negative regulation of T cell cytokine production	GO_0002725	0	1	0	0
-negative regulation of T cell antigen processing and presentation	GO_0002626	0	1	0	0
-negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	0	1	0	0
-negative regulation of B cell mediated immunity	GO_0002713	0	1	0	0
-negative regulation of B cell cytokine production	GO_0002722	0	1	0	0
-negative regulation of B cell antigen processing and presentation	GO_0002623	0	1	0	0
-negative regulation by symbiont of host salicylic acid-mediated defense response	GO_0052004	0	1	0	0
-negative regulation by symbiont of host resistance gene-dependent defense response	GO_0033660	0	1	0	0
-negative regulation by symbiont of host phytoalexin production	GO_1990217	0	1	0	0
-negative regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052068	0	1	0	0
-negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052003	0	1	0	0
-negative regulation by symbiont of defense-related host reactive oxygen species production	GO_0033661	0	1	0	0
-negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052069	0	1	0	0
-negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052266	0	1	0	0
-negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052267	0	1	0	0
-natural killer cell mediated immunity	GO_0002228	0	1	0	0
-natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	0	0
-natural killer cell mediated cytotoxicity	GO_0042267	0	1	0	0
-natural killer cell inhibitory signaling pathway	GO_0002769	0	1	0	0
-natural killer cell degranulation	GO_0043320	0	1	0	0
-natural killer cell cytokine production	GO_0002370	0	1	0	0
-myeloid dendritic cell cytokine production	GO_0002372	0	1	0	0
-mucosal tolerance induction	GO_0002427	0	1	0	0
-modulation of mast cell degranulation in other organism	GO_0035895	0	1	0	0
-modulation of complement activation in other organism	GO_0044645	0	1	0	0
-modulation by virus of host immune response	GO_0075528	0	1	0	0
-modulation by virus of host cytokine production	GO_0044831	0	1	0	0
-modulation by symbiont of host systemic acquired resistance	GO_0052160	0	1	0	0
-modulation by symbiont of host salicylic acid-mediated defense response	GO_0052089	0	1	0	0
-modulation by symbiont of host resistance gene-dependent defense response	GO_0052158	0	1	0	0
-modulation by symbiont of host phytoalexin production	GO_0052165	0	1	0	0
-modulation by symbiont of host jasmonic acid-mediated defense response	GO_0052088	0	1	0	0
-modulation by symbiont of host induced systemic resistance	GO_0052159	0	1	0	0
-modulation by symbiont of defense-related host reactive oxygen species production	GO_0052164	0	1	0	0
-modulation by symbiont of defense-related host nitric oxide production	GO_0052163	0	1	0	0
-modulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052299	0	1	0	0
-modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052297	0	1	0	0
-modulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052304	0	1	0	0
-modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052283	0	1	0	0
-modulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052298	0	1	0	0
-modulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052303	0	1	0	0
-modulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052302	0	1	0	0
-memory T cell differentiation	GO_0043379	0	1	0	0
-memory B cell differentiation	GO_0002319	0	1	0	0
-melanotic encapsulation of foreign target	GO_0035011	0	1	0	0
-melanization defense response	GO_0035006	0	1	0	0
-mast cell degranulation	GO_0043303	0	1	0	0
-mast cell cytokine production	GO_0032762	0	1	0	0
-marginal zone B cell differentiation	GO_0002315	0	1	0	0
-male-specific antibacterial humoral response	GO_0006962	0	1	0	0
-macrophage cytokine production	GO_0010934	0	1	0	0
-jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway	GO_0009868	0	1	0	0
-jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	GO_0009871	0	1	0	0
-jasmonic acid and ethylene-dependent systemic resistance	GO_0009861	0	1	0	0
-isotype switching	GO_0045190	0	1	0	0
-intracellular vesicle pattern recognition receptor signaling pathway	GO_0002754	0	1	0	0
-interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0
-interferon-gamma-mediated signaling pathway	GO_0060333	0	1	0	0
-interferon-gamma receptor activity	GO_0004906	0	1	0	0
-inhibitory killer cell immunoglobulin-like receptor signaling pathway	GO_0002771	0	1	0	0
-inhibitory C-type lectin receptor signaling pathway	GO_0002772	0	1	0	0
-inflammatory response to antigenic stimulus	GO_0002437	0	1	0	0
-induction of phytoalexin biosynthetic process	GO_0009689	0	1	0	0
-induction of bacterial agglutination	GO_0043152	0	1	0	0
-induction by symbiont of host systemic acquired resistance	GO_0052104	0	1	0	0
-induction by symbiont of host resistance gene-dependent defense response	GO_0052101	0	1	0	0
-induction by symbiont of host phytoalexin production	GO_0052062	0	1	0	0
-induction by symbiont of host induced systemic resistance	GO_0052103	0	1	0	0
-induction by symbiont of defense-related host reactive oxygen species production	GO_0052064	0	1	0	0
-induction by symbiont of defense-related host nitric oxide production	GO_0052063	0	1	0	0
-induction by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052289	0	1	0	0
-induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052286	0	1	0	0
-induction by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052262	0	1	0	0
-induction by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052288	0	1	0	0
-induction by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052264	0	1	0	0
-induction by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052263	0	1	0	0
-induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	0	0
-induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	0	0
-induced systemic resistance	GO_0009682	0	1	0	0
-immune response involved in response to exogenous dsRNA	GO_1902615	0	1	0	0
-hypersensitivity	GO_0002524	0	1	0	0
-host gene silencing in virus induced gene silencing	GO_0060146	0	1	0	0
-host cellular process involved in virus induced gene silencing	GO_0060144	0	1	0	0
-histamine secretion mediated by immunoglobulin	GO_0097280	0	1	0	0
-histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	0	0
-histamine secretion by mast cell	GO_0002553	0	1	0	0
-histamine secretion by basophil	GO_0002557	0	1	0	0
-hepatic immune response	GO_0002384	0	1	0	0
-hemolymph coagulation	GO_0042381	0	1	0	0
-germinal center formation	GO_0002467	0	1	0	0
-germinal center B cell differentiation	GO_0002314	0	1	0	0
-follicular B cell differentiation	GO_0002316	0	1	0	0
-ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0043272	0	1	0	0
-eosinophil degranulation	GO_0043308	0	1	0	0
-endothelial cell activation within high endothelial venule involved in immune response	GO_0002259	0	1	0	0
-endothelial cell activation involved in immune response	GO_0002264	0	1	0	0
-dendritic cell cytokine production	GO_0002371	0	1	0	0
-defense response, incompatible interaction	GO_0009814	0	1	0	0
-defense response to protozoan, incompatible interaction	GO_0009818	0	1	0	0
-defense response to fungus, incompatible interaction	GO_0009817	0	1	0	0
-defense response to bacterium, incompatible interaction	GO_0009816	0	1	0	0
-defense response signaling pathway, resistance gene-independent	GO_0010204	0	1	0	0
-defense response signaling pathway, resistance gene-dependent	GO_0009870	0	1	0	0
-cytotoxic T cell degranulation	GO_0043316	0	1	0	0
-cytoplasmic pattern recognition receptor signaling pathway in response to virus	GO_0039528	0	1	0	0
-cytoplasmic pattern recognition receptor signaling pathway	GO_0002753	0	1	0	0
-cysteine-type endopeptidase activity involved in plant-type hypersensitive response	GO_0097299	0	1	0	0
-complement component C5a signaling pathway	GO_0038178	0	1	0	0
-complement activation	GO_0006956	0	1	0	0
-chronic inflammatory response to antigenic stimulus	GO_0002439	0	1	0	0
-cellular response to type III interferon	GO_0071358	0	1	0	0
-cellular response to type I interferon	GO_0071357	0	1	0	0
-cellular response to interferon-gamma	GO_0071346	0	1	0	0
-cell surface pattern recognition receptor signaling pathway	GO_0002752	0	1	0	0
-biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002815	0	1	0	0
-biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002812	0	1	0	0
-basophil degranulation	GO_0002561	0	1	0	0
-acute inflammatory response to antigenic stimulus	GO_0002438	0	1	0	0
-activation of membrane attack complex	GO_0001905	0	1	0	0
-activation of MAPKKK activity involved in innate immune response	GO_0035422	0	1	0	0
-activation of MAPKK activity involved in innate immune response	GO_0035421	0	1	0	0
-activation of MAPK activity involved in innate immune response	GO_0035419	0	1	0	0
-TRIF-dependent toll-like receptor signaling pathway	GO_0035666	0	1	0	0
-TRIF-dependent toll-like receptor 4 signaling pathway	GO_0035667	0	1	0	0
-TRAM-dependent toll-like receptor signaling pathway	GO_0035668	0	1	0	0
-TRAM-dependent toll-like receptor 4 signaling pathway	GO_0035669	0	1	0	0
-TIRAP-dependent toll-like receptor signaling pathway	GO_0035664	0	1	0	0
-TIRAP-dependent toll-like receptor 4 signaling pathway	GO_0035665	0	1	0	0
-T-helper cell lineage commitment	GO_0002295	0	1	0	0
-T-helper cell differentiation	GO_0042093	0	1	0	0
-T-helper 2 cell lineage commitment	GO_0002297	0	1	0	0
-T-helper 2 cell differentiation	GO_0045064	0	1	0	0
-T-helper 2 cell cytokine production	GO_0035745	0	1	0	0
-T-helper 17 cell lineage commitment	GO_0072540	0	1	0	0
-T-helper 17 cell differentiation	GO_0072539	0	1	0	0
-T-helper 1 cell lineage commitment	GO_0002296	0	1	0	0
-T-helper 1 cell differentiation	GO_0045063	0	1	0	0
-T-helper 1 cell cytokine production	GO_0035744	0	1	0	0
-T follicular helper cell differentiation	GO_0061470	0	1	0	0
-T cell tolerance induction to tumor cell	GO_0002411	0	1	0	0
-T cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002403	0	1	0	0
-T cell receptor signaling pathway	GO_0050852	0	1	0	0
-T cell mediated immunity	GO_0002456	0	1	0	0
-T cell mediated cytotoxicity directed against tumor cell target	GO_0002419	0	1	0	0
-T cell mediated cytotoxicity	GO_0001913	0	1	0	0
-T cell inhibitory signaling pathway	GO_0002770	0	1	0	0
-T cell cytokine production	GO_0002369	0	1	0	0
-T cell antigen processing and presentation	GO_0002457	0	1	0	0
-T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0
-RNA virus induced gene silencing	GO_0051214	0	1	0	0
-RIG-I signaling pathway	GO_0039529	0	1	0	0
-MyD88-independent toll-like receptor signaling pathway	GO_0002756	0	1	0	0
-MyD88-dependent toll-like receptor signaling pathway	GO_0002755	0	1	0	0
-MyD88-dependent toll-like receptor 4 signaling pathway	GO_0035660	0	1	0	0
-MyD88-dependent toll-like receptor 2 signaling pathway	GO_0035661	0	1	0	0
-MDA-5 signaling pathway	GO_0039530	0	1	0	0
-MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	0	0
-MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	0	0
-MAP kinase activity involved in innate immune response	GO_0038075	0	1	0	0
-Fc-gamma receptor signaling pathway involved in phagocytosis	GO_0038096	0	1	0	0
-Fc-gamma receptor signaling pathway	GO_0038094	0	1	0	0
-Fc-epsilon receptor signaling pathway	GO_0038095	0	1	0	0
-Fc receptor signaling pathway	GO_0038093	0	1	0	0
-Fc receptor mediated stimulatory signaling pathway	GO_0002431	0	1	0	0
-Fc receptor mediated inhibitory signaling pathway	GO_0002774	0	1	0	0
-DNA virus induced gene silencing	GO_0051215	0	1	0	0
-CD4-positive, alpha-beta T cell cytokine production	GO_0035743	0	1	0	0
-B cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002402	0	1	0	0
-B cell receptor signaling pathway	GO_0050853	0	1	0	0
-B cell receptor apoptotic signaling pathway	GO_1990117	0	1	0	0
-B cell mediated immunity	GO_0019724	0	1	0	0
-B cell inhibitory signaling pathway	GO_0002773	0	1	0	0
-B cell cytokine production	GO_0002368	0	1	0	0
-B cell antigen processing and presentation mediated by B cell receptor uptake of antigen	GO_0002417	0	1	0	0
-B cell antigen processing and presentation following pinocytosis	GO_0002421	0	1	0	0
-B cell antigen processing and presentation	GO_0002450	0	1	0	0
-B cell affinity maturation	GO_0002344	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+type I hypersensitivity mediated by mast cells	GO_0002558	1	1	1	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	1	1	1	0	0
+type I hypersensitivity	GO_0016068	1	1	1	0	0
+type 2 immune response	GO_0042092	1	1	1	0	0
+tolerance induction to nonself antigen	GO_0002462	1	1	1	0	0
+tolerance induction in gut-associated lymphoid tissue	GO_0002394	1	1	1	0	0
+tolerance induction dependent upon immune response	GO_0002461	1	1	1	0	0
+susceptibility to natural killer cell mediated cytotoxicity	GO_0042271	1	1	1	0	0
+susceptibility to T cell mediated cytotoxicity	GO_0060370	1	1	1	0	0
+suppression by virus of host innate immune response	GO_0039503	1	1	1	0	0
+suppression by virus of host adaptive immune response	GO_0039504	1	1	1	0	0
+somatic recombination of immunoglobulin genes involved in immune response	GO_0002204	1	1	1	0	0
+somatic hypermutation of immunoglobulin genes involved in immune response	GO_0002205	1	1	1	0	0
+somatic diversification of immunoglobulins involved in immune response	GO_0002208	1	1	1	0	0
+regulation of type 2 immune response	GO_0002828	1	1	1	0	0
+regulation of tolerance induction to nonself antigen	GO_0002655	1	1	1	0	0
+regulation of tolerance induction dependent upon immune response	GO_0002652	1	1	1	0	0
+regulation of natural killer cell proliferation involved in immune response	GO_0032820	1	1	1	0	0
+regulation of natural killer cell mediated immune response to tumor cell	GO_0002855	1	1	1	0	0
+regulation of natural killer cell differentiation involved in immune response	GO_0032826	1	1	1	0	0
+regulation of mast cell activation involved in immune response	GO_0033006	1	1	1	0	0
+regulation of innate immune response	GO_0045088	1	1	1	0	0
+regulation of immunoglobulin production in mucosal tissue	GO_2000557	1	1	1	0	0
+regulation of immunoglobulin mediated immune response	GO_0002889	1	1	1	0	0
+regulation of immune response to tumor cell	GO_0002837	1	1	1	0	0
+regulation of immune response	GO_0050776	1	1	1	0	0
+regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002923	1	1	1	0	0
+regulation of humoral immune response	GO_0002920	1	1	1	0	0
+regulation of gamma-delta T cell activation involved in immune response	GO_2001191	1	1	1	0	0
+regulation of cytokine secretion involved in immune response	GO_0002739	1	1	1	0	0
+regulation of cytokine production involved in immune response	GO_0002718	1	1	1	0	0
+regulation of cytokine biosynthetic process involved in immune response	GO_0002742	1	1	1	0	0
+regulation of complement activation, lectin pathway	GO_0001868	1	1	1	0	0
+regulation of complement activation, classical pathway	GO_0030450	1	1	1	0	0
+regulation of complement activation, alternative pathway	GO_0030451	1	1	1	0	0
+regulation of complement activation	GO_0030449	1	1	1	0	0
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002822	1	1	1	0	0
+regulation of adaptive immune response	GO_0002819	1	1	1	0	0
+regulation of T-helper 17 type immune response	GO_2000316	1	1	1	0	0
+regulation of T-helper 1 type immune response	GO_0002825	1	1	1	0	0
+regulation of T cell mediated immune response to tumor cell	GO_0002840	1	1	1	0	0
+regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032832	1	1	1	0	0
+prostaglandin secretion involved in immune response	GO_0090323	1	1	1	0	0
+positive regulation of type 2 immune response	GO_0002830	1	1	1	0	0
+positive regulation of tolerance induction to nonself antigen	GO_0002657	1	1	1	0	0
+positive regulation of tolerance induction dependent upon immune response	GO_0002654	1	1	1	0	0
+positive regulation of prostaglandin secretion involved in immune response	GO_0061078	1	1	1	0	0
+positive regulation of natural killer cell proliferation involved in immune response	GO_0032822	1	1	1	0	0
+positive regulation of natural killer cell mediated immune response to tumor cell	GO_0002857	1	1	1	0	0
+positive regulation of natural killer cell differentiation involved in immune response	GO_0032828	1	1	1	0	0
+positive regulation of myeloid leukocyte cytokine production involved in immune response	GO_0061081	1	1	1	0	0
+positive regulation of mast cell activation involved in immune response	GO_0033008	1	1	1	0	0
+positive regulation of innate immune response	GO_0045089	1	1	1	0	0
+positive regulation of immunoglobulin mediated immune response	GO_0002891	1	1	1	0	0
+positive regulation of immune response to tumor cell	GO_0002839	1	1	1	0	0
+positive regulation of immune response	GO_0050778	1	1	1	0	0
+positive regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002925	1	1	1	0	0
+positive regulation of humoral immune response	GO_0002922	1	1	1	0	0
+positive regulation of gamma-delta T cell activation involved in immune response	GO_2001193	1	1	1	0	0
+positive regulation of cytokine secretion involved in immune response	GO_0002741	1	1	1	0	0
+positive regulation of cytokine production involved in immune response	GO_0002720	1	1	1	0	0
+positive regulation of cytokine biosynthetic process involved in immune response	GO_0002744	1	1	1	0	0
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002824	1	1	1	0	0
+positive regulation of adaptive immune response	GO_0002821	1	1	1	0	0
+positive regulation of T-helper 17 type immune response	GO_2000318	1	1	1	0	0
+positive regulation of T-helper 1 type immune response	GO_0002827	1	1	1	0	0
+positive regulation of T cell mediated immune response to tumor cell	GO_0002842	1	1	1	0	0
+positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032834	1	1	1	0	0
+positive regulation by symbiont of host innate immune response	GO_0052166	1	1	1	0	0
+positive regulation by symbiont of host immune response	GO_0052556	1	1	1	0	0
+positive regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052305	1	1	1	0	0
+positive regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052555	1	1	1	0	0
+plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	1	1	1	0	0
+plasmacytoid dendritic cell activation involved in immune response	GO_0002271	1	1	1	0	0
+plasma cell differentiation	GO_0002317	1	1	1	0	0
+peripheral tolerance induction to self antigen	GO_0002466	1	1	1	0	0
+peripheral tolerance induction to nonself antigen	GO_0002464	1	1	1	0	0
+pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response	GO_0052169	1	1	1	0	0
+pathogen-associated molecular pattern dependent modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052308	1	1	1	0	0
+pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	GO_0052033	1	1	1	0	0
+pathogen-associated molecular pattern dependent induction by organism of innate immune response of other organism involved in symbiotic interaction	GO_0052257	1	1	1	0	0
+passive induction of host innate immune response by virus	GO_0046735	1	1	1	0	0
+passive induction of host immune response by virus	GO_0046731	1	1	1	0	0
+passive induction of host humoral immune response by virus	GO_0046733	1	1	1	0	0
+passive induction of host cell-mediated immune response by virus	GO_0046734	1	1	1	0	0
+organ or tissue specific immune response	GO_0002251	1	1	1	0	0
+neutrophil activation involved in immune response	GO_0002283	1	1	1	0	0
+negative regulation of type 2 immune response	GO_0002829	1	1	1	0	0
+negative regulation of tolerance induction to nonself antigen	GO_0002656	1	1	1	0	0
+negative regulation of tolerance induction dependent upon immune response	GO_0002653	1	1	1	0	0
+negative regulation of natural killer cell proliferation involved in immune response	GO_0032821	1	1	1	0	0
+negative regulation of natural killer cell mediated immune response to tumor cell	GO_0002856	1	1	1	0	0
+negative regulation of natural killer cell differentiation involved in immune response	GO_0032827	1	1	1	0	0
+negative regulation of mast cell activation involved in immune response	GO_0033007	1	1	1	0	0
+negative regulation of innate immune response	GO_0045824	1	1	1	0	0
+negative regulation of immunoglobulin mediated immune response	GO_0002890	1	1	1	0	0
+negative regulation of immune response to tumor cell	GO_0002838	1	1	1	0	0
+negative regulation of immune response	GO_0050777	1	1	1	0	0
+negative regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002924	1	1	1	0	0
+negative regulation of humoral immune response	GO_0002921	1	1	1	0	0
+negative regulation of gamma-delta T cell activation involved in immune response	GO_2001192	1	1	1	0	0
+negative regulation of cytokine secretion involved in immune response	GO_0002740	1	1	1	0	0
+negative regulation of cytokine production involved in immune response	GO_0002719	1	1	1	0	0
+negative regulation of cytokine biosynthetic process involved in immune response	GO_0002743	1	1	1	0	0
+negative regulation of complement activation, lectin pathway in other organism	GO_0044632	1	1	1	0	0
+negative regulation of complement activation, lectin pathway	GO_0001869	1	1	1	0	0
+negative regulation of complement activation, classical pathway in other organism	GO_0044629	1	1	1	0	0
+negative regulation of complement activation, classical pathway	GO_0045959	1	1	1	0	0
+negative regulation of complement activation, alternative pathway in other organism	GO_0044634	1	1	1	0	0
+negative regulation of complement activation, alternative pathway	GO_0045957	1	1	1	0	0
+negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002823	1	1	1	0	0
+negative regulation of adaptive immune response	GO_0002820	1	1	1	0	0
+negative regulation of T-helper 17 type immune response	GO_2000317	1	1	1	0	0
+negative regulation of T-helper 1 type immune response	GO_0002826	1	1	1	0	0
+negative regulation of T cell mediated immune response to tumor cell	GO_0002841	1	1	1	0	0
+negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032833	1	1	1	0	0
+negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052034	1	1	1	0	0
+negative regulation by symbiont of host innate immune response	GO_0052170	1	1	1	0	0
+negative regulation by symbiont of host immune response	GO_0052562	1	1	1	0	0
+negative regulation by symbiont of host cell-mediated immune response	GO_0052083	1	1	1	0	0
+negative regulation by symbiont of host T-cell mediated immune response	GO_0052085	1	1	1	0	0
+negative regulation by symbiont of host B-cell mediated immune response	GO_0052086	1	1	1	0	0
+negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction	GO_0052258	1	1	1	0	0
+negative regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052309	1	1	1	0	0
+negative regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052561	1	1	1	0	0
+negative regulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052278	1	1	1	0	0
+negative regulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052280	1	1	1	0	0
+negative regulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052281	1	1	1	0	0
+natural killer cell proliferation involved in immune response	GO_0002324	1	1	1	0	0
+natural killer cell mediated immune response to tumor cell	GO_0002423	1	1	1	0	0
+natural killer cell differentiation involved in immune response	GO_0002325	1	1	1	0	0
+natural killer cell activation involved in immune response	GO_0002323	1	1	1	0	0
+myeloid leukocyte cytokine production	GO_0061082	1	1	1	0	0
+myeloid dendritic cell differentiation involved in immune response	GO_0002284	1	1	1	0	0
+myeloid dendritic cell activation involved in immune response	GO_0002277	1	1	1	0	0
+myeloid cell activation involved in immune response	GO_0002275	1	1	1	0	0
+mucosal immune response	GO_0002385	1	1	1	0	0
+monocyte activation involved in immune response	GO_0002280	1	1	1	0	0
+modulation of complement activation, lectin pathway in other organism	GO_0044630	1	1	1	0	0
+modulation of complement activation, classical pathway in other organism	GO_0044627	1	1	1	0	0
+modulation of complement activation, alternative pathway in other organism	GO_0044633	1	1	1	0	0
+modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052157	1	1	1	0	0
+modulation by symbiont of host innate immune response	GO_0052167	1	1	1	0	0
+modulation by symbiont of host immune response	GO_0052553	1	1	1	0	0
+modulation by symbiont of host cell-mediated immune response	GO_0052155	1	1	1	0	0
+modulation by symbiont of host T-cell mediated immune response	GO_0052156	1	1	1	0	0
+modulation by symbiont of host B-cell mediated immune response	GO_0052154	1	1	1	0	0
+modulation by organism of microbe-associated molecular pattern-induced innate immune response in other organism involved in symbiotic interaction	GO_0052296	1	1	1	0	0
+modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052306	1	1	1	0	0
+modulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052552	1	1	1	0	0
+modulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052294	1	1	1	0	0
+modulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052295	1	1	1	0	0
+modulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052293	1	1	1	0	0
+microglial cell activation involved in immune response	GO_0002282	1	1	1	0	0
+mature B cell differentiation involved in immune response	GO_0002313	1	1	1	0	0
+mast cell activation involved in immune response	GO_0002279	1	1	1	0	0
+macrophage activation involved in immune response	GO_0002281	1	1	1	0	0
+lymphocyte activation involved in immune response	GO_0002285	1	1	1	0	0
+leukocyte migration involved in immune response	GO_0002522	1	1	1	0	0
+leukocyte chemotaxis involved in immune response	GO_0002233	1	1	1	0	0
+leukocyte activation involved in immune response	GO_0002366	1	1	1	0	0
+isotype switching to IgG isotypes	GO_0048291	1	1	1	0	0
+isotype switching to IgE isotypes	GO_0048289	1	1	1	0	0
+isotype switching to IgD isotypes	GO_0048292	1	1	1	0	0
+isotype switching to IgA isotypes	GO_0048290	1	1	1	0	0
+innate immune response-inhibiting signal transduction	GO_0002766	1	1	1	0	0
+innate immune response-activating signal transduction	GO_0002758	1	1	1	0	0
+innate immune response in mucosa	GO_0002227	1	1	1	0	0
+innate immune response activating cell surface receptor signaling pathway	GO_0002220	1	1	1	0	0
+innate immune response	GO_0045087	1	1	1	0	0
+induction of host immune response by virus	GO_0046730	1	1	1	0	0
+induction by symbiont of host innate immune response	GO_0052390	1	1	1	0	0
+induction by symbiont of host immune response	GO_0052559	1	1	1	0	0
+induction by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052382	1	1	1	0	0
+induction by organism of immune response of other organism involved in symbiotic interaction	GO_0052558	1	1	1	0	0
+inactivation of MAPK activity involved in innate immune response	GO_0035423	1	1	1	0	0
+immunoglobulin-mediated neutralization	GO_0097282	1	1	1	0	0
+immunoglobulin transcytosis in epithelial cells mediated by polymeric immunoglobulin receptor	GO_0002415	1	1	1	0	0
+immunoglobulin secretion involved in immune response	GO_0002380	1	1	1	0	0
+immunoglobulin production involved in immunoglobulin mediated immune response	GO_0002381	1	1	1	0	0
+immunoglobulin production in mucosal tissue	GO_0002426	1	1	1	0	0
+immunoglobulin mediated immune response	GO_0016064	1	1	1	0	0
+immunoglobulin biosynthetic process involved in immune response	GO_0002379	1	1	1	0	0
+immune response-regulating signaling pathway	GO_0002764	1	1	1	0	0
+immune response-regulating cell surface receptor signaling pathway involved in phagocytosis	GO_0002433	1	1	1	0	0
+immune response-regulating cell surface receptor signaling pathway	GO_0002768	1	1	1	0	0
+immune response-inhibiting signal transduction	GO_0002765	1	1	1	0	0
+immune response-inhibiting cell surface receptor signaling pathway	GO_0002767	1	1	1	0	0
+immune response-activating signal transduction	GO_0002757	1	1	1	0	0
+immune response-activating cell surface receptor signaling pathway	GO_0002429	1	1	1	0	0
+immune response to tumor cell	GO_0002418	1	1	1	0	0
+immune response in urogenital tract	GO_0002422	1	1	1	0	0
+immune response in nasopharyngeal-associated lymphoid tissue	GO_0002395	1	1	1	0	0
+immune response in mucosal-associated lymphoid tissue	GO_0002386	1	1	1	0	0
+immune response in gut-associated lymphoid tissue	GO_0002387	1	1	1	0	0
+immune response in brain or nervous system	GO_0002383	1	1	1	0	0
+immune response in Peyer's patch	GO_0002388	1	1	1	0	0
+immune response	GO_0006955	1	1	1	0	0
+immune complex formation	GO_0097281	1	1	1	0	0
+humoral immune response mediated by circulating immunoglobulin	GO_0002455	1	1	1	0	0
+humoral immune response	GO_0006959	1	1	1	0	0
+helper T cell enhancement of adaptive immune response	GO_0035397	1	1	1	0	0
+helper T cell enhancement of T cell mediated immune response	GO_0035398	1	1	1	0	0
+helper T cell enhancement of B cell mediated immune response	GO_0035399	1	1	1	0	0
+gene conversion of immunoglobulin genes involved in immune response	GO_0002207	1	1	1	0	0
+gamma-delta T cell proliferation involved in immune response	GO_0002311	1	1	1	0	0
+gamma-delta T cell differentiation involved in immune response	GO_0002303	1	1	1	0	0
+gamma-delta T cell activation involved in immune response	GO_0002290	1	1	1	0	0
+follicular dendritic cell activation involved in immune response	GO_0002267	1	1	1	0	0
+eosinophil activation involved in immune response	GO_0002278	1	1	1	0	0
+effector dependent induction by symbiont of host immune response	GO_0080185	1	1	1	0	0
+cytokine secretion involved in immune response	GO_0002374	1	1	1	0	0
+cytokine production involved in immune response	GO_0002367	1	1	1	0	0
+cytokine biosynthetic process involved in immune response	GO_0002375	1	1	1	0	0
+complement receptor mediated signaling pathway	GO_0002430	1	1	1	0	0
+complement activation, lectin pathway	GO_0001867	1	1	1	0	0
+complement activation, classical pathway	GO_0006958	1	1	1	0	0
+complement activation, alternative pathway	GO_0006957	1	1	1	0	0
+central tolerance induction to nonself antigen	GO_0002463	1	1	1	0	0
+cell activation involved in immune response	GO_0002263	1	1	1	0	0
+basophil activation involved in immune response	GO_0002276	1	1	1	0	0
+astrocyte activation involved in immune response	GO_0002265	1	1	1	0	0
+antimicrobial peptide secretion	GO_0002776	1	1	1	0	0
+antimicrobial peptide production	GO_0002775	1	1	1	0	0
+antimicrobial peptide biosynthetic process	GO_0002777	1	1	1	0	0
+antimicrobial humoral response	GO_0019730	1	1	1	0	0
+antigen transcytosis by M cells in mucosal-associated lymphoid tissue	GO_0002412	1	1	1	0	0
+antigen sampling in mucosal-associated lymphoid tissue	GO_0002404	1	1	1	0	0
+antigen sampling by dendritic cells in mucosal-associated lymphoid tissue	GO_0002405	1	1	1	0	0
+antigen sampling by M cells in mucosal-associated lymphoid tissue	GO_0002406	1	1	1	0	0
+antigen receptor-mediated signaling pathway	GO_0050851	1	1	1	0	0
+antifungal peptide secretion	GO_0002782	1	1	1	0	0
+antifungal peptide production	GO_0002781	1	1	1	0	0
+antifungal peptide biosynthetic process	GO_0002783	1	1	1	0	0
+antifungal humoral response	GO_0019732	1	1	1	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	1	1	1	0	0
+antibacterial peptide secretion	GO_0002779	1	1	1	0	0
+antibacterial peptide production	GO_0002778	1	1	1	0	0
+antibacterial peptide biosynthetic process	GO_0002780	1	1	1	0	0
+antibacterial humoral response	GO_0019731	1	1	1	0	0
+alpha-beta T cell proliferation involved in immune response	GO_0002310	1	1	1	0	0
+alpha-beta T cell differentiation involved in immune response	GO_0002293	1	1	1	0	0
+alpha-beta T cell activation involved in immune response	GO_0002287	1	1	1	0	0
+adaptive immune response based on somatic recombination of immune receptors built from leucine-rich repeat domains	GO_0002459	1	1	1	0	0
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO_0002460	1	1	1	0	0
+adaptive immune response	GO_0002250	1	1	1	0	0
+active induction of innate immune response in host by virus	GO_0046738	1	1	1	0	0
+active induction of humoral immune response in host by virus	GO_0046736	1	1	1	0	0
+active induction of host immune response by virus	GO_0046732	1	1	1	0	0
+active induction of cell-mediated immune response in host by virus	GO_0046737	1	1	1	0	0
+activation of innate immune response	GO_0002218	1	1	1	0	0
+activation of immune response	GO_0002253	1	1	1	0	0
+T-helper 17 type immune response	GO_0072538	1	1	1	0	0
+T-helper 1 type immune response	GO_0042088	1	1	1	0	0
+T cell proliferation involved in immune response	GO_0002309	1	1	1	0	0
+T cell mediated immune response to tumor cell	GO_0002424	1	1	1	0	0
+T cell differentiation involved in immune response	GO_0002292	1	1	1	0	0
+T cell activation involved in immune response	GO_0002286	1	1	1	0	0
+NK T cell proliferation involved in immune response	GO_0002289	1	1	1	0	0
+NK T cell activation involved in immune response	GO_0002288	1	1	1	0	0
+MAPK import into nucleus involved in innate immune response	GO_0035424	1	1	1	0	0
+MAPK cascade involved in innate immune response	GO_0035420	1	1	1	0	0
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	1	1	1	0	0
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	1	1	1	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	1	1	1	0	0
+B cell proliferation involved in immune response	GO_0002322	1	1	1	0	0
+B cell activation involved in immune response	GO_0002312	1	1	1	0	0
+tolerance induction to self antigen	GO_0002513	1	0	1	0	0
+tetracycline transport	GO_0015904	1	0	1	0	0
+tetracycline metabolic process	GO_0043643	1	0	1	0	0
+tetracycline biosynthetic process	GO_0043644	1	0	1	0	0
+somatic hypermutation of immunoglobulin genes	GO_0016446	1	0	1	0	0
+somatic diversification of immunoglobulins	GO_0016445	1	0	1	0	0
+somatic diversification of immunoglobulin genes by N region addition	GO_0002570	1	0	1	0	0
+somatic diversification of immune receptors via somatic mutation	GO_0002566	1	0	1	0	0
+somatic diversification of immune receptors via germline recombination within a single locus	GO_0002562	1	0	1	0	0
+somatic diversification of immune receptors via gene conversion	GO_0002565	1	0	1	0	0
+somatic diversification of immune receptors via alternate splicing	GO_0002563	1	0	1	0	0
+somatic diversification of immune receptors by N region addition	GO_0002569	1	0	1	0	0
+somatic diversification of immune receptors	GO_0002200	1	0	1	0	0
+response to tetracycline	GO_1901326	1	0	1	0	0
+response to symbiont immune response	GO_0052571	1	0	1	1	1
+response to immune response of other organism involved in symbiotic interaction	GO_0052564	1	0	1	0	0
+response to host immune response	GO_0052572	1	0	1	0	0
+regulation of tolerance induction to self antigen	GO_0002649	1	0	1	0	0
+regulation of proteolysis associated with antigen processing and presentation	GO_0002628	1	0	1	0	0
+regulation of production of molecular mediator of immune response	GO_0002700	1	0	1	0	0
+regulation of peptide antigen transport	GO_1901039	1	0	1	0	0
+regulation of non-professional antigen presenting cell antigen processing and presentation	GO_0002619	1	0	1	0	0
+regulation of myeloid leukocyte mediated immunity	GO_0002886	1	0	1	0	0
+regulation of myeloid leukocyte differentiation	GO_0002761	1	0	1	0	0
+regulation of leukocyte proliferation	GO_0070663	1	0	1	0	0
+regulation of leukocyte migration	GO_0002685	1	0	1	0	0
+regulation of leukocyte mediated immunity	GO_0002703	1	0	1	0	0
+regulation of leukocyte mediated cytotoxicity	GO_0001910	1	0	1	0	0
+regulation of leukocyte degranulation	GO_0043300	1	0	1	0	0
+regulation of leukocyte apoptotic process	GO_2000106	1	0	1	0	0
+regulation of leukocyte activation	GO_0002694	1	0	1	0	0
+regulation of immunoglobulin secretion	GO_0051023	1	0	1	0	0
+regulation of immunoglobulin production	GO_0002637	1	0	1	0	0
+regulation of immunoglobulin biosynthetic process	GO_0002640	1	0	1	0	0
+regulation of immune system process	GO_0002682	1	0	1	0	0
+regulation of immune effector process	GO_0002697	1	0	1	0	0
+regulation of hematopoietic stem cell migration	GO_2000471	1	0	1	0	0
+regulation of extrathymic T cell differentiation	GO_0033082	1	0	1	0	0
+regulation of antigen receptor-mediated signaling pathway	GO_0050854	1	0	1	0	0
+regulation of antigen processing and presentation via MHC class Ib	GO_0002592	1	0	1	0	0
+regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002601	1	0	1	0	0
+regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002580	1	0	1	0	0
+regulation of antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002595	1	0	1	0	0
+regulation of antigen processing and presentation of peptide antigen via MHC class II	GO_0002586	1	0	1	0	0
+regulation of antigen processing and presentation of peptide antigen via MHC class I	GO_0002589	1	0	1	0	0
+regulation of antigen processing and presentation of peptide antigen	GO_0002583	1	0	1	0	0
+regulation of antigen processing and presentation of lipid antigen via MHC class Ib	GO_0002598	1	0	1	0	0
+regulation of antigen processing and presentation	GO_0002577	1	0	1	0	0
+regulation of MHC class II biosynthetic process	GO_0045346	1	0	1	0	0
+regulation of MHC class I biosynthetic process	GO_0045343	1	0	1	0	0
+proteolysis within lysosome associated with antigen processing and presentation	GO_0002500	1	0	1	0	0
+proteolysis within endosome associated with antigen processing and presentation	GO_0002499	1	0	1	0	0
+proteolysis within endoplasmic reticulum associated with antigen processing and presentation	GO_0002498	1	0	1	0	0
+proteolysis by cytosolic proteases associated with antigen processing and presentation	GO_0002203	1	0	1	0	0
+proteolysis associated with antigen processing and presentation	GO_0002496	1	0	1	0	0
+proteasomal proteolysis associated with antigen processing and presentation	GO_0002497	1	0	1	0	0
+production of molecular mediator of immune response	GO_0002440	1	0	1	0	0
+positive regulation of tolerance induction to self antigen	GO_0002651	1	0	1	0	0
+positive regulation of proteolysis associated with antigen processing and presentation	GO_0002630	1	0	1	0	0
+positive regulation of production of molecular mediator of immune response	GO_0002702	1	0	1	0	0
+positive regulation of peptide antigen transport	GO_1901041	1	0	1	0	0
+positive regulation of non-professional antigen presenting cell antigen processing and presentation	GO_0002621	1	0	1	0	0
+positive regulation of myeloid leukocyte mediated immunity	GO_0002888	1	0	1	0	0
+positive regulation of myeloid leukocyte differentiation	GO_0002763	1	0	1	0	0
+positive regulation of monocyte antigen processing and presentation	GO_0002615	1	0	1	0	0
+positive regulation of leukocyte proliferation	GO_0070665	1	0	1	0	0
+positive regulation of leukocyte migration	GO_0002687	1	0	1	0	0
+positive regulation of leukocyte mediated immunity	GO_0002705	1	0	1	0	0
+positive regulation of leukocyte mediated cytotoxicity	GO_0001912	1	0	1	0	0
+positive regulation of leukocyte degranulation	GO_0043302	1	0	1	0	0
+positive regulation of leukocyte apoptotic process	GO_2000108	1	0	1	0	0
+positive regulation of leukocyte activation	GO_0002696	1	0	1	0	0
+positive regulation of antigen receptor-mediated signaling pathway	GO_0050857	1	0	1	0	0
+positive regulation of antigen processing and presentation via MHC class Ib	GO_0002594	1	0	1	0	0
+positive regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002603	1	0	1	0	0
+positive regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002582	1	0	1	0	0
+positive regulation of antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002597	1	0	1	0	0
+positive regulation of antigen processing and presentation of peptide antigen via MHC class II	GO_0002588	1	0	1	0	0
+positive regulation of antigen processing and presentation of peptide antigen via MHC class I	GO_0002591	1	0	1	0	0
+positive regulation of antigen processing and presentation of peptide antigen	GO_0002585	1	0	1	0	0
+positive regulation of antigen processing and presentation of lipid antigen via MHC class Ib	GO_0002600	1	0	1	0	0
+positive regulation of antigen processing and presentation	GO_0002579	1	0	1	0	0
+positive regulation of MHC class II biosynthetic process	GO_0045348	1	0	1	0	0
+positive regulation of MHC class I biosynthetic process	GO_0045345	1	0	1	0	0
+positive regulation by organism of symbiont immune response	GO_0052557	1	0	1	1	1
+polysaccharide assembly with MHC class II protein complex	GO_0002506	1	0	1	0	0
+peptide antigen transport	GO_0046968	1	0	1	0	0
+peptide antigen stabilization	GO_0050823	1	0	1	0	0
+peptide antigen assembly with MHC protein complex	GO_0002501	1	0	1	0	0
+peptide antigen assembly with MHC class Ib protein complex	GO_0002492	1	0	1	0	0
+peptide antigen assembly with MHC class II protein complex	GO_0002503	1	0	1	0	0
+peptide antigen assembly with MHC class I protein complex	GO_0002502	1	0	1	0	0
+passive evasion of symbiont immune response	GO_0051845	1	0	1	1	1
+passive evasion of immune response of other organism involved in symbiotic interaction	GO_0051809	1	0	1	0	0
+passive evasion of host immune response	GO_0042782	1	0	1	0	0
+non-professional antigen presenting cell antigen processing and presentation	GO_0002473	1	0	1	0	0
+negative regulation of tolerance induction to self antigen	GO_0002650	1	0	1	0	0
+negative regulation of proteolysis associated with antigen processing and presentation	GO_0002629	1	0	1	0	0
+negative regulation of production of molecular mediator of immune response	GO_0002701	1	0	1	0	0
+negative regulation of peptide antigen transport	GO_1901040	1	0	1	0	0
+negative regulation of non-professional antigen presenting cell antigen processing and presentation	GO_0002620	1	0	1	0	0
+negative regulation of myeloid leukocyte mediated immunity	GO_0002887	1	0	1	0	0
+negative regulation of myeloid leukocyte differentiation	GO_0002762	1	0	1	0	0
+negative regulation of leukocyte proliferation	GO_0070664	1	0	1	0	0
+negative regulation of leukocyte migration	GO_0002686	1	0	1	0	0
+negative regulation of leukocyte mediated immunity	GO_0002704	1	0	1	0	0
+negative regulation of leukocyte mediated cytotoxicity	GO_0001911	1	0	1	0	0
+negative regulation of leukocyte degranulation	GO_0043301	1	0	1	0	0
+negative regulation of leukocyte apoptotic process	GO_2000107	1	0	1	0	0
+negative regulation of leukocyte activation	GO_0002695	1	0	1	0	0
+negative regulation of immunoglobulin secretion	GO_0051025	1	0	1	0	0
+negative regulation of immunoglobulin production	GO_0002638	1	0	1	0	0
+negative regulation of immunoglobulin biosynthetic process	GO_0002641	1	0	1	0	0
+negative regulation of immune system process	GO_0002683	1	0	1	0	0
+negative regulation of immune effector process	GO_0002698	1	0	1	0	0
+negative regulation of antigen receptor-mediated signaling pathway	GO_0050858	1	0	1	0	0
+negative regulation of antigen processing and presentation via MHC class Ib	GO_0002593	1	0	1	0	0
+negative regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002602	1	0	1	0	0
+negative regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002581	1	0	1	0	0
+negative regulation of antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002596	1	0	1	0	0
+negative regulation of antigen processing and presentation of peptide antigen via MHC class II	GO_0002587	1	0	1	0	0
+negative regulation of antigen processing and presentation of peptide antigen via MHC class I	GO_0002590	1	0	1	0	0
+negative regulation of antigen processing and presentation of peptide antigen	GO_0002584	1	0	1	0	0
+negative regulation of antigen processing and presentation of lipid antigen via MHC class Ib	GO_0002599	1	0	1	0	0
+negative regulation of antigen processing and presentation	GO_0002578	1	0	1	0	0
+negative regulation of MHC class II biosynthetic process	GO_0045347	1	0	1	0	0
+negative regulation of MHC class I biosynthetic process	GO_0045344	1	0	1	0	0
+negative regulation by organism of symbiont immune response	GO_0052563	1	0	1	1	1
+negative regulation by organism of symbiont cell-mediated immune response	GO_0052475	1	0	1	1	1
+negative regulation by organism of symbiont T-cell mediated immune response	GO_0052474	1	0	1	1	1
+negative regulation by organism of symbiont B-cell mediated immune response	GO_0052473	1	0	1	1	1
+myeloid leukocyte mediated immunity	GO_0002444	1	0	1	0	0
+myeloid leukocyte differentiation	GO_0002573	1	0	1	0	0
+myeloid leukocyte activation	GO_0002274	1	0	1	0	0
+modulation by organism of symbiont immune response	GO_0052554	1	0	1	1	1
+modulation by organism of symbiont cell-mediated immune response	GO_0052434	1	0	1	1	1
+modulation by organism of symbiont T-cell mediated immune response	GO_0052431	1	0	1	1	1
+modulation by organism of symbiont B-cell mediated immune response	GO_0052429	1	0	1	1	1
+induction by organism of symbiont immune response	GO_0052560	1	0	1	1	1
+immunological synapse formation	GO_0001771	1	0	1	0	0
+immunoglobulin transcytosis in epithelial cells	GO_0002414	1	0	1	0	0
+immunoglobulin secretion	GO_0048305	1	0	1	0	0
+immunoglobulin production	GO_0002377	1	0	1	0	0
+immunoglobulin light chain V-J recombination	GO_0071708	1	0	1	0	0
+immunoglobulin heavy chain V-D-J recombination	GO_0071707	1	0	1	0	0
+immunoglobulin biosynthetic process	GO_0002378	1	0	1	0	0
+immunoglobulin V(D)J recombination	GO_0033152	1	0	1	0	0
+immune system process	GO_0002376	1	0	1	0	0
+immune system development	GO_0002520	1	0	1	0	0
+immune effector process	GO_0002252	1	0	1	0	0
+immune complex clearance by monocytes and macrophages	GO_0002436	1	0	1	0	0
+immune complex clearance by erythrocytes	GO_0002435	1	0	1	0	0
+immune complex clearance	GO_0002434	1	0	1	0	0
+hematopoietic stem cell migration to bone marrow	GO_0097241	1	0	1	0	0
+evasion or tolerance of symbiont immune response	GO_0051842	1	0	1	1	1
+evasion or tolerance of immune response of other organism involved in symbiotic interaction	GO_0051805	1	0	1	0	0
+evasion or tolerance of host immune response	GO_0020012	1	0	1	0	0
+evasion or tolerance by virus of host immune response	GO_0030683	1	0	1	0	0
+envenomation resulting in positive regulation of complement activation, lectin pathway in other organism	GO_0044641	1	0	1	0	0
+envenomation resulting in positive regulation of complement activation, classical pathway in other organism	GO_0044638	1	0	1	0	0
+envenomation resulting in positive regulation of complement activation, alternative pathway in other organism	GO_0044643	1	0	1	0	0
+envenomation resulting in negative regulation of complement activation, lectin pathway in other organism	GO_0044640	1	0	1	0	0
+envenomation resulting in negative regulation of complement activation, classical pathway in other organism	GO_0044637	1	0	1	0	0
+envenomation resulting in negative regulation of complement activation, alternative pathway in other organism	GO_0044644	1	0	1	0	0
+envenomation resulting in modulation of complement activation, lectin pathway in other organism	GO_0044639	1	0	1	0	0
+envenomation resulting in modulation of complement activation, classical pathway in other organism	GO_0044636	1	0	1	0	0
+envenomation resulting in modulation of complement activation, alternative pathway in other organism	GO_0044642	1	0	1	0	0
+cephalosporin metabolic process	GO_0043645	1	0	1	0	0
+cephalosporin biosynthetic process	GO_0043646	1	0	1	0	0
+cephalosporin C metabolic process	GO_1901266	1	0	1	0	0
+cephalosporin C catabolic process	GO_1901267	1	0	1	0	0
+cephalosporin C biosynthetic process	GO_1901268	1	0	1	0	0
+central tolerance induction to self antigen	GO_0002509	1	0	1	0	0
+cellular response to triacyl bacterial lipopeptide	GO_0071727	1	0	1	0	0
+cellular response to tetracycline	GO_0072746	1	0	1	0	0
+cellular response to molecule of bacterial origin	GO_0071219	1	0	1	0	0
+cellular response to interleukin-9	GO_0071355	1	0	1	0	0
+cellular response to interleukin-6	GO_0071354	1	0	1	0	0
+cellular response to interleukin-4	GO_0071353	1	0	1	0	0
+cellular response to interleukin-3	GO_0036016	1	0	1	0	0
+cellular response to interleukin-2	GO_0071352	1	0	1	0	0
+cellular response to interleukin-18	GO_0071351	1	0	1	0	0
+cellular response to interleukin-15	GO_0071350	1	0	1	0	0
+cellular response to interleukin-13	GO_0035963	1	0	1	0	0
+cellular response to interleukin-12	GO_0071349	1	0	1	0	0
+cellular response to interleukin-11	GO_0071348	1	0	1	0	0
+cellular response to interleukin-1	GO_0071347	1	0	1	0	0
+cellular response to diacyl bacterial lipopeptide	GO_0071726	1	0	1	0	0
+cellular response to bacterial lipoprotein	GO_0071220	1	0	1	0	0
+cellular response to bacterial lipopeptide	GO_0071221	1	0	1	0	0
+beta-lactam antibiotic metabolic process	GO_0030653	1	0	1	0	0
+beta-lactam antibiotic catabolic process	GO_0030655	1	0	1	0	0
+beta-lactam antibiotic biosynthetic process	GO_0030654	1	0	1	0	0
+beta selection	GO_0043366	1	0	1	0	0
+avoidance of symbiont defenses	GO_0051858	1	0	1	0	0
+avoidance of host defenses	GO_0044413	1	0	1	0	0
+antigenic variation	GO_0020033	1	0	1	0	0
+antigen processing and presentation, exogenous lipid antigen via MHC class Ib	GO_0048007	1	0	1	0	0
+antigen processing and presentation, endogenous lipid antigen via MHC class Ib	GO_0048006	1	0	1	0	0
+antigen processing and presentation via MHC class Ib	GO_0002475	1	0	1	0	0
+antigen processing and presentation of polysaccharide antigen via MHC class II	GO_0002505	1	0	1	0	0
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO_0002504	1	0	1	0	0
+antigen processing and presentation of peptide antigen via MHC class Ib	GO_0002428	1	0	1	0	0
+antigen processing and presentation of peptide antigen via MHC class II	GO_0002495	1	0	1	0	0
+antigen processing and presentation of peptide antigen via MHC class I	GO_0002474	1	0	1	0	0
+antigen processing and presentation of peptide antigen	GO_0048002	1	0	1	0	0
+antigen processing and presentation of lipid antigen via MHC class Ib	GO_0048003	1	0	1	0	0
+antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-independent	GO_0002482	1	0	1	0	0
+antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent	GO_0002481	1	0	1	0	0
+antigen processing and presentation of exogenous peptide antigen via MHC class Ib	GO_0002477	1	0	1	0	0
+antigen processing and presentation of exogenous peptide antigen via MHC class II	GO_0019886	1	0	1	0	0
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	GO_0002480	1	0	1	0	0
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	GO_0002479	1	0	1	0	0
+antigen processing and presentation of exogenous peptide antigen via MHC class I	GO_0042590	1	0	1	0	0
+antigen processing and presentation of exogenous peptide antigen	GO_0002478	1	0	1	0	0
+antigen processing and presentation of exogenous antigen	GO_0019884	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-independent	GO_0002490	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent	GO_0002489	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway	GO_0002488	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib	GO_0002476	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class II	GO_0002491	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class I via endolysosomal pathway	GO_0002487	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	GO_0002486	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent	GO_0002485	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	GO_0002484	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen via MHC class I	GO_0019885	1	0	1	0	0
+antigen processing and presentation of endogenous peptide antigen	GO_0002483	1	0	1	0	0
+antigen processing and presentation of endogenous antigen	GO_0019883	1	0	1	0	0
+antigen processing and presentation initiated by toll-like receptor mediated phagocytosis of antigen	GO_0002749	1	0	1	0	0
+antigen processing and presentation initiated by receptor mediated uptake of antigen	GO_0002745	1	0	1	0	0
+antigen processing and presentation initiated by pattern recognition receptor mediated uptake of antigen	GO_0002748	1	0	1	0	0
+antigen processing and presentation following receptor mediated endocytosis	GO_0002751	1	0	1	0	0
+antigen processing and presentation following pinocytosis	GO_0002746	1	0	1	0	0
+antigen processing and presentation following phagocytosis	GO_0002747	1	0	1	0	0
+antigen processing and presentation following macropinocytosis	GO_0002750	1	0	1	0	0
+antigen processing and presentation	GO_0019882	1	0	1	0	0
+antibiotic transport	GO_0042891	1	0	1	0	0
+antibiotic susceptibility/resistance	GO_0017141	1	0	1	1	1
+antibiotic metabolic process	GO_0016999	1	0	1	0	0
+antibiotic catabolic process	GO_0017001	1	0	1	0	0
+antibiotic biosynthetic process	GO_0017000	1	0	1	0	0
+anaphylaxis	GO_0030105	1	0	1	1	1
+active evasion of symbiont immune response via regulation of symbiont cytokine network	GO_0051848	1	0	1	1	1
+active evasion of symbiont immune response via regulation of symbiont complement system	GO_0051847	1	0	1	1	1
+active evasion of symbiont immune response via regulation of symbiont antigen processing and presentation	GO_0051849	1	0	1	1	1
+active evasion of symbiont immune response	GO_0051846	1	0	1	1	1
+active evasion of immune response of other organism via regulation of cytokine network of other organism involved in symbiotic interaction	GO_0051812	1	0	1	0	0
+active evasion of immune response of other organism via regulation of complement system of other organism involved in symbiotic interaction	GO_0051811	1	0	1	0	0
+active evasion of immune response of other organism via regulation of antigen processing and presentation in other organism involved in symbiotic interaction	GO_0051813	1	0	1	0	0
+active evasion of immune response of other organism involved in symbiotic interaction	GO_0051810	1	0	1	0	0
+active evasion of host immune response via regulation of host cytokine network	GO_0042785	1	0	1	0	0
+active evasion of host immune response via regulation of host complement system	GO_0042784	1	0	1	0	0
+active evasion of host immune response via regulation of host antigen processing and presentation	GO_0042786	1	0	1	0	0
+active evasion of host immune response	GO_0042783	1	0	1	0	0
+activation-induced cell death of T cells	GO_0006924	1	0	1	0	0
+activation-induced B cell apoptotic process	GO_0071948	1	0	1	0	0
+O antigen metabolic process	GO_0046402	1	0	1	0	0
+O antigen biosynthetic process	GO_0009243	1	0	1	0	0
+MHC protein complex assembly	GO_0002396	1	0	1	0	0
+MHC class Ib protein complex assembly	GO_0002398	1	0	1	0	0
+MHC class II protein complex assembly	GO_0002399	1	0	1	0	0
+MHC class II biosynthetic process	GO_0045342	1	0	1	0	0
+MHC class I protein complex assembly	GO_0002397	1	0	1	0	0
+MHC class I biosynthetic process	GO_0045341	1	0	1	0	0
+K antigen metabolic process	GO_0046375	1	0	1	0	0
+K antigen biosynthetic process	GO_0009248	1	0	1	0	0
+IgG immunoglobulin transcytosis in epithelial cells mediated by FcRn immunoglobulin receptor	GO_0002416	1	0	1	0	0
+CCL21-activated CCR7 signaling pathway	GO_0038120	1	0	1	0	0
+CCL2-activated CCR2 signaling pathway	GO_0038151	1	0	1	0	0
+CCL19-activated CCR7 signaling pathway	GO_0038119	1	0	1	0	0
+C-C chemokine receptor CCR7 signaling pathway	GO_0038118	1	0	1	0	0
+C-C chemokine receptor CCR4 signaling pathway	GO_0038152	1	0	1	0	0
+C-C chemokine receptor CCR2 signaling pathway	GO_0038150	1	0	1	0	0
+virus induced gene silencing	GO_0009616	0	1	0	0	0
+viral triggering of virus induced gene silencing	GO_0060150	0	1	0	0	0
+viral mRNA cap methylation	GO_0039699	0	1	0	0	0
+viral gene silencing in virus induced gene silencing	GO_0060145	0	1	0	0	0
+type IV hypersensitivity	GO_0001806	0	1	0	0	0
+type IIb hypersensitivity	GO_0001795	0	1	0	0	0
+type IIa hypersensitivity	GO_0001794	0	1	0	0	0
+type III interferon signaling pathway	GO_0038196	0	1	0	0	0
+type III interferon receptor activity	GO_0034348	0	1	0	0	0
+type III hypersensitivity	GO_0001802	0	1	0	0	0
+type II hypersensitivity	GO_0002445	0	1	0	0	0
+type I interferon signaling pathway	GO_0060337	0	1	0	0	0
+type I interferon receptor activity	GO_0004905	0	1	0	0	0
+toll-like receptor signaling pathway	GO_0002224	0	1	0	0	0
+toll-like receptor TLR6:TLR2 signaling pathway	GO_0038124	0	1	0	0	0
+toll-like receptor TLR1:TLR2 signaling pathway	GO_0038123	0	1	0	0	0
+toll-like receptor 9 signaling pathway	GO_0034162	0	1	0	0	0
+toll-like receptor 8 signaling pathway	GO_0034158	0	1	0	0	0
+toll-like receptor 7 signaling pathway	GO_0034154	0	1	0	0	0
+toll-like receptor 6 signaling pathway	GO_0034150	0	1	0	0	0
+toll-like receptor 5 signaling pathway	GO_0034146	0	1	0	0	0
+toll-like receptor 4 signaling pathway	GO_0034142	0	1	0	0	0
+toll-like receptor 3 signaling pathway	GO_0034138	0	1	0	0	0
+toll-like receptor 21 signaling pathway	GO_0035682	0	1	0	0	0
+toll-like receptor 2 signaling pathway	GO_0034134	0	1	0	0	0
+toll-like receptor 15 signaling pathway	GO_0035681	0	1	0	0	0
+toll-like receptor 13 signaling pathway	GO_0034178	0	1	0	0	0
+toll-like receptor 12 signaling pathway	GO_0034174	0	1	0	0	0
+toll-like receptor 11 signaling pathway	GO_0034170	0	1	0	0	0
+toll-like receptor 10 signaling pathway	GO_0034166	0	1	0	0	0
+toll-like receptor 1 signaling pathway	GO_0034130	0	1	0	0	0
+tolerance induction to tumor cell	GO_0002413	0	1	0	0	0
+tolerance induction in urogenital tract	GO_0002425	0	1	0	0	0
+tolerance induction in nasopharyngeal-associated lymphoid tissue	GO_0002400	0	1	0	0	0
+tolerance induction in mucosal-associated lymphoid tissue	GO_0002401	0	1	0	0	0
+tolerance induction in Peyer's patch	GO_0002389	0	1	0	0	0
+systemic acquired resistance, salicylic acid mediated signaling pathway	GO_0009862	0	1	0	0	0
+systemic acquired resistance	GO_0009627	0	1	0	0	0
+suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039537	0	1	0	0	0
+suppression by virus of host type I interferon-mediated signaling pathway	GO_0039502	0	1	0	0	0
+suppression by virus of host type I interferon production	GO_0039501	0	1	0	0	0
+suppression by virus of host toll-like receptor signaling pathway	GO_0039722	0	1	0	0	0
+suppression by virus of host tapasin activity	GO_0039591	0	1	0	0	0
+suppression by virus of host intracellular interferon activity	GO_0046774	0	1	0	0	0
+suppression by virus of host cytokine production	GO_0046775	0	1	0	0	0
+suppression by virus of host complement activation	GO_0039573	0	1	0	0	0
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	GO_0039505	0	1	0	0	0
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	GO_0046776	0	1	0	0	0
+suppression by virus of host antigen processing and presentation	GO_0039588	0	1	0	0	0
+suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	0	1	0	0	0
+suppression by virus of host TYK2 activity	GO_0039574	0	1	0	0	0
+suppression by virus of host TBK1 activity	GO_0039723	0	1	0	0	0
+suppression by virus of host TAP complex	GO_0039589	0	1	0	0	0
+suppression by virus of host RIG-I via RIG-I binding	GO_0039541	0	1	0	0	0
+suppression by virus of host RIG-I signaling pathway	GO_0039538	0	1	0	0	0
+suppression by virus of host RIG-I activity by viral RNA 5' processing	GO_0039543	0	1	0	0	0
+suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	0	1	0	0	0
+suppression by virus of host RIG-I activity	GO_0039540	0	1	0	0	0
+suppression by virus of host RIG-I K63-linked ubiquitination	GO_0039542	0	1	0	0	0
+suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	0	1	0	0	0
+suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	0	1	0	0	0
+suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	0	0	0
+suppression by virus of host PKR activity	GO_0039580	0	1	0	0	0
+suppression by virus of host MDA-5 signaling pathway	GO_0039539	0	1	0	0	0
+suppression by virus of host MDA-5 activity via MDA-5 binding	GO_0039555	0	1	0	0	0
+suppression by virus of host MDA-5 activity	GO_0039554	0	1	0	0	0
+suppression by virus of host MAVS activity by MAVS proteolysis	GO_0039546	0	1	0	0	0
+suppression by virus of host MAVS activity	GO_0039545	0	1	0	0	0
+suppression by virus of host ISG15 activity	GO_0039579	0	1	0	0	0
+suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	GO_0039561	0	1	0	0	0
+suppression by virus of host IRF9 activity	GO_0039560	0	1	0	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	GO_0039558	0	1	0	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	0	1	0	0	0
+suppression by virus of host IRF7 activity	GO_0039557	0	1	0	0	0
+suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	0	1	0	0	0
+suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	GO_0039549	0	1	0	0	0
+suppression by virus of host IRF3 activity by inhibition of DNA binding	GO_0039550	0	1	0	0	0
+suppression by virus of host IRF3 activity	GO_0039548	0	1	0	0	0
+suppression by virus of host IKBKE activity	GO_0039724	0	1	0	0	0
+stimulatory killer cell immunoglobulin-like receptor signaling pathway	GO_0002222	0	1	0	0	0
+stimulatory C-type lectin receptor signaling pathway	GO_0002223	0	1	0	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
+serotonin secretion by basophil	GO_0002556	0	1	0	0	0
+response to type III interferon	GO_0034342	0	1	0	0	0
+response to type I interferon	GO_0034340	0	1	0	0	0
+response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0032260	0	1	0	0	0
+response to interferon-gamma	GO_0034341	0	1	0	0	0
+regulation of type IV hypersensitivity	GO_0001807	0	1	0	0	0
+regulation of type IIb hypersensitivity	GO_0001799	0	1	0	0	0
+regulation of type IIa hypersensitivity	GO_0001796	0	1	0	0	0
+regulation of type III hypersensitivity	GO_0001803	0	1	0	0	0
+regulation of type II hypersensitivity	GO_0002892	0	1	0	0	0
+regulation of type I interferon-mediated signaling pathway	GO_0060338	0	1	0	0	0
+regulation of type I hypersensitivity	GO_0001810	0	1	0	0	0
+regulation of tolerance induction to tumor cell	GO_0002843	0	1	0	0	0
+regulation of systemic acquired resistance	GO_0010112	0	1	0	0	0
+regulation of response to interferon-gamma	GO_0060330	0	1	0	0	0
+regulation of respiratory burst involved in inflammatory response	GO_0060264	0	1	0	0	0
+regulation of plasmacytoid dendritic cell cytokine production	GO_0002736	0	1	0	0	0
+regulation of plasma cell differentiation	GO_1900098	0	1	0	0	0
+regulation of plant-type hypersensitive response	GO_0010363	0	1	0	0	0
+regulation of peripheral tolerance induction	GO_0002658	0	1	0	0	0
+regulation of peripheral T cell tolerance induction	GO_0002849	0	1	0	0	0
+regulation of peripheral B cell deletion	GO_0002908	0	1	0	0	0
+regulation of peripheral B cell anergy	GO_0002917	0	1	0	0	0
+regulation of neutrophil degranulation	GO_0043313	0	1	0	0	0
+regulation of natural killer cell mediated immunity	GO_0002715	0	1	0	0	0
+regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002858	0	1	0	0	0
+regulation of natural killer cell mediated cytotoxicity	GO_0042269	0	1	0	0	0
+regulation of natural killer cell degranulation	GO_0043321	0	1	0	0	0
+regulation of natural killer cell cytokine production	GO_0002727	0	1	0	0	0
+regulation of myeloid dendritic cell cytokine production	GO_0002733	0	1	0	0	0
+regulation of memory T cell differentiation	GO_0043380	0	1	0	0	0
+regulation of melanization defense response	GO_0035007	0	1	0	0	0
+regulation of mast cell degranulation	GO_0043304	0	1	0	0	0
+regulation of mast cell cytokine production	GO_0032763	0	1	0	0	0
+regulation of macrophage cytokine production	GO_0010935	0	1	0	0	0
+regulation of isotype switching to IgG isotypes	GO_0048302	0	1	0	0	0
+regulation of isotype switching to IgE isotypes	GO_0048293	0	1	0	0	0
+regulation of isotype switching to IgD isotypes	GO_0048299	0	1	0	0	0
+regulation of isotype switching to IgA isotypes	GO_0048296	0	1	0	0	0
+regulation of isotype switching	GO_0045191	0	1	0	0	0
+regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000571	0	1	0	0	0
+regulation of interferon-gamma-mediated signaling pathway	GO_0060334	0	1	0	0	0
+regulation of inflammatory response to antigenic stimulus	GO_0002861	0	1	0	0	0
+regulation of hypersensitivity	GO_0002883	0	1	0	0	0
+regulation of germinal center formation	GO_0002634	0	1	0	0	0
+regulation of eosinophil degranulation	GO_0043309	0	1	0	0	0
+regulation of dendritic cell cytokine production	GO_0002730	0	1	0	0	0
+regulation of defense response to fungus, incompatible interaction	GO_2000072	0	1	0	0	0
+regulation of defense response to bacterium, incompatible interaction	GO_1902477	0	1	0	0	0
+regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0	0
+regulation of chronic inflammatory response to antigenic stimulus	GO_0002874	0	1	0	0	0
+regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	0	1	0	0	0
+regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	0	1	0	0	0
+regulation of antimicrobial peptide secretion	GO_0002794	0	1	0	0	0
+regulation of antimicrobial peptide production	GO_0002784	0	1	0	0	0
+regulation of antimicrobial peptide biosynthetic process	GO_0002805	0	1	0	0	0
+regulation of antimicrobial humoral response	GO_0002759	0	1	0	0	0
+regulation of antifungal peptide secretion	GO_0002800	0	1	0	0	0
+regulation of antifungal peptide production	GO_0002788	0	1	0	0	0
+regulation of antifungal peptide biosynthetic process	GO_0002810	0	1	0	0	0
+regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	0	0	0
+regulation of antibacterial peptide secretion	GO_0002797	0	1	0	0	0
+regulation of antibacterial peptide production	GO_0002786	0	1	0	0	0
+regulation of antibacterial peptide biosynthetic process	GO_0002808	0	1	0	0	0
+regulation of acute inflammatory response to antigenic stimulus	GO_0002864	0	1	0	0	0
+regulation of activation of membrane attack complex	GO_0001969	0	1	0	0	0
+regulation of T-helper cell differentiation	GO_0045622	0	1	0	0	0
+regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0	0
+regulation of T-helper 2 cell cytokine production	GO_2000551	0	1	0	0	0
+regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0	0
+regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0	0
+regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0	0
+regulation of T-helper 1 cell cytokine production	GO_2000554	0	1	0	0	0
+regulation of T cell tolerance induction to tumor cell	GO_0002846	0	1	0	0	0
+regulation of T cell mediated immunity	GO_0002709	0	1	0	0	0
+regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002852	0	1	0	0	0
+regulation of T cell mediated cytotoxicity	GO_0001914	0	1	0	0	0
+regulation of T cell cytokine production	GO_0002724	0	1	0	0	0
+regulation of T cell antigen processing and presentation	GO_0002625	0	1	0	0	0
+regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	0	1	0	0	0
+regulation of B cell mediated immunity	GO_0002712	0	1	0	0	0
+regulation of B cell cytokine production	GO_0002721	0	1	0	0	0
+regulation of B cell antigen processing and presentation	GO_0002622	0	1	0	0	0
+protection from natural killer cell mediated cytotoxicity	GO_0042270	0	1	0	0	0
+positive regulation of type IV hypersensitivity	GO_0001809	0	1	0	0	0
+positive regulation of type IIb hypersensitivity	GO_0001801	0	1	0	0	0
+positive regulation of type IIa hypersensitivity	GO_0001798	0	1	0	0	0
+positive regulation of type III hypersensitivity	GO_0001805	0	1	0	0	0
+positive regulation of type II hypersensitivity	GO_0002894	0	1	0	0	0
+positive regulation of type I interferon-mediated signaling pathway	GO_0060340	0	1	0	0	0
+positive regulation of type I hypersensitivity	GO_0001812	0	1	0	0	0
+positive regulation of tolerance induction to tumor cell	GO_0002845	0	1	0	0	0
+positive regulation of systemic acquired resistance	GO_1901672	0	1	0	0	0
+positive regulation of response to interferon-gamma	GO_0060332	0	1	0	0	0
+positive regulation of respiratory burst involved in inflammatory response	GO_0060265	0	1	0	0	0
+positive regulation of plasmacytoid dendritic cell cytokine production	GO_0002738	0	1	0	0	0
+positive regulation of plasma cell differentiation	GO_1900100	0	1	0	0	0
+positive regulation of plant-type hypersensitive response	GO_0034052	0	1	0	0	0
+positive regulation of peripheral tolerance induction	GO_0002660	0	1	0	0	0
+positive regulation of peripheral T cell tolerance induction	GO_0002851	0	1	0	0	0
+positive regulation of peripheral B cell deletion	GO_0002910	0	1	0	0	0
+positive regulation of peripheral B cell anergy	GO_0002919	0	1	0	0	0
+positive regulation of neutrophil degranulation	GO_0043315	0	1	0	0	0
+positive regulation of natural killer cell mediated immunity	GO_0002717	0	1	0	0	0
+positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002860	0	1	0	0	0
+positive regulation of natural killer cell mediated cytotoxicity	GO_0045954	0	1	0	0	0
+positive regulation of natural killer cell degranulation	GO_0043323	0	1	0	0	0
+positive regulation of natural killer cell cytokine production	GO_0002729	0	1	0	0	0
+positive regulation of myeloid dendritic cell cytokine production	GO_0002735	0	1	0	0	0
+positive regulation of memory T cell differentiation	GO_0043382	0	1	0	0	0
+positive regulation of melanization defense response	GO_0035008	0	1	0	0	0
+positive regulation of mast cell degranulation in other organism	GO_0035896	0	1	0	0	0
+positive regulation of mast cell degranulation	GO_0043306	0	1	0	0	0
+positive regulation of mast cell cytokine production	GO_0032765	0	1	0	0	0
+positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway	GO_0038097	0	1	0	0	0
+positive regulation of macrophage cytokine production	GO_0060907	0	1	0	0	0
+positive regulation of isotype switching to IgG isotypes	GO_0048304	0	1	0	0	0
+positive regulation of isotype switching to IgE isotypes	GO_0048295	0	1	0	0	0
+positive regulation of isotype switching to IgD isotypes	GO_0048301	0	1	0	0	0
+positive regulation of isotype switching to IgA isotypes	GO_0048298	0	1	0	0	0
+positive regulation of isotype switching	GO_0045830	0	1	0	0	0
+positive regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000572	0	1	0	0	0
+positive regulation of interferon-gamma-mediated signaling pathway	GO_0060335	0	1	0	0	0
+positive regulation of inflammatory response to antigenic stimulus	GO_0002863	0	1	0	0	0
+positive regulation of immunoglobulin production in mucosal tissue	GO_2000558	0	1	0	0	0
+positive regulation of hypersensitivity	GO_0002885	0	1	0	0	0
+positive regulation of germinal center formation	GO_0002636	0	1	0	0	0
+positive regulation of eosinophil degranulation	GO_0043311	0	1	0	0	0
+positive regulation of dendritic cell cytokine production	GO_0002732	0	1	0	0	0
+positive regulation of defense response to bacterium, incompatible interaction	GO_1902479	0	1	0	0	0
+positive regulation of cytotoxic T cell degranulation	GO_0043319	0	1	0	0	0
+positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	0	0	0
+positive regulation of complement activation, lectin pathway	GO_0001870	0	1	0	0	0
+positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	0	0	0
+positive regulation of complement activation, classical pathway	GO_0045960	0	1	0	0	0
+positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	0	0	0
+positive regulation of complement activation, alternative pathway	GO_0045958	0	1	0	0	0
+positive regulation of complement activation	GO_0045917	0	1	0	0	0
+positive regulation of chronic inflammatory response to antigenic stimulus	GO_0002876	0	1	0	0	0
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	0	1	0	0	0
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	0	1	0	0	0
+positive regulation of antimicrobial peptide secretion	GO_0002796	0	1	0	0	0
+positive regulation of antimicrobial peptide production	GO_0002225	0	1	0	0	0
+positive regulation of antimicrobial peptide biosynthetic process	GO_0002807	0	1	0	0	0
+positive regulation of antimicrobial humoral response	GO_0002760	0	1	0	0	0
+positive regulation of antifungal peptide secretion	GO_0002802	0	1	0	0	0
+positive regulation of antifungal peptide production	GO_0002804	0	1	0	0	0
+positive regulation of antifungal peptide biosynthetic process	GO_0006967	0	1	0	0	0
+positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	0	0	0
+positive regulation of antibacterial peptide secretion	GO_0002799	0	1	0	0	0
+positive regulation of antibacterial peptide production	GO_0002803	0	1	0	0	0
+positive regulation of antibacterial peptide biosynthetic process	GO_0006963	0	1	0	0	0
+positive regulation of acute inflammatory response to antigenic stimulus	GO_0002866	0	1	0	0	0
+positive regulation of activation of membrane attack complex	GO_0001970	0	1	0	0	0
+positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0	0
+positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0	0
+positive regulation of T-helper 2 cell cytokine production	GO_2000553	0	1	0	0	0
+positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0	0
+positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0	0
+positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0	0
+positive regulation of T-helper 1 cell cytokine production	GO_2000556	0	1	0	0	0
+positive regulation of T cell tolerance induction to tumor cell	GO_0002848	0	1	0	0	0
+positive regulation of T cell mediated immunity	GO_0002711	0	1	0	0	0
+positive regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002854	0	1	0	0	0
+positive regulation of T cell mediated cytotoxicity	GO_0001916	0	1	0	0	0
+positive regulation of T cell cytokine production	GO_0002726	0	1	0	0	0
+positive regulation of T cell antigen processing and presentation	GO_0002627	0	1	0	0	0
+positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001190	0	1	0	0	0
+positive regulation of B cell mediated immunity	GO_0002714	0	1	0	0	0
+positive regulation of B cell cytokine production	GO_0002723	0	1	0	0	0
+positive regulation of B cell antigen processing and presentation	GO_0002624	0	1	0	0	0
+positive regulation by virus of host cytokine production	GO_0044832	0	1	0	0	0
+positive regulation by symbiont of host systemic acquired resistance	GO_0052537	0	1	0	0	0
+positive regulation by symbiont of host salicylic acid-mediated defense response	GO_0052074	0	1	0	0	0
+positive regulation by symbiont of host resistance gene-dependent defense response	GO_0052527	0	1	0	0	0
+positive regulation by symbiont of host phytoalexin production	GO_0052344	0	1	0	0	0
+positive regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052075	0	1	0	0	0
+positive regulation by symbiont of host induced systemic resistance	GO_0052533	0	1	0	0	0
+positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052072	0	1	0	0	0
+positive regulation by symbiont of defense-related host reactive oxygen species production	GO_0052369	0	1	0	0	0
+positive regulation by symbiont of defense-related host nitric oxide production	GO_0052347	0	1	0	0	0
+positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052073	0	1	0	0	0
+positive regulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052535	0	1	0	0	0
+positive regulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052423	0	1	0	0	0
+positive regulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052329	0	1	0	0	0
+positive regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052273	0	1	0	0	0
+positive regulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052532	0	1	0	0	0
+positive regulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052348	0	1	0	0	0
+positive regulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052345	0	1	0	0	0
+positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052271	0	1	0	0	0
+plasmacytoid dendritic cell cytokine production	GO_0002373	0	1	0	0	0
+plant-type hypersensitive response	GO_0009626	0	1	0	0	0
+peripheral tolerance induction	GO_0002465	0	1	0	0	0
+peripheral T cell tolerance induction	GO_0002458	0	1	0	0	0
+peripheral B cell tolerance induction	GO_0002451	0	1	0	0	0
+peripheral B cell deletion	GO_0002454	0	1	0	0	0
+peripheral B cell anergy	GO_0002453	0	1	0	0	0
+pattern recognition receptor signaling pathway	GO_0002221	0	1	0	0	0
+nucleotide-binding oligomerization domain containing signaling pathway	GO_0070423	0	1	0	0	0
+nucleotide-binding oligomerization domain containing 2 signaling pathway	GO_0070431	0	1	0	0	0
+nucleotide-binding oligomerization domain containing 1 signaling pathway	GO_0070427	0	1	0	0	0
+neutrophil degranulation	GO_0043312	0	1	0	0	0
+negative regulation of type IV hypersensitivity	GO_0001808	0	1	0	0	0
+negative regulation of type IIb hypersensitivity	GO_0001800	0	1	0	0	0
+negative regulation of type IIa hypersensitivity	GO_0001797	0	1	0	0	0
+negative regulation of type III hypersensitivity	GO_0001804	0	1	0	0	0
+negative regulation of type II hypersensitivity	GO_0002893	0	1	0	0	0
+negative regulation of type I interferon-mediated signaling pathway	GO_0060339	0	1	0	0	0
+negative regulation of type I hypersensitivity	GO_0001811	0	1	0	0	0
+negative regulation of tolerance induction to tumor cell	GO_0002844	0	1	0	0	0
+negative regulation of systemic acquired resistance	GO_0010113	0	1	0	0	0
+negative regulation of response to interferon-gamma	GO_0060331	0	1	0	0	0
+negative regulation of respiratory burst involved in inflammatory response	GO_0060266	0	1	0	0	0
+negative regulation of plasmacytoid dendritic cell cytokine production	GO_0002737	0	1	0	0	0
+negative regulation of plasma cell differentiation	GO_1900099	0	1	0	0	0
+negative regulation of plant-type hypersensitive response	GO_0034051	0	1	0	0	0
+negative regulation of peripheral tolerance induction	GO_0002659	0	1	0	0	0
+negative regulation of peripheral T cell tolerance induction	GO_0002850	0	1	0	0	0
+negative regulation of peripheral B cell deletion	GO_0002909	0	1	0	0	0
+negative regulation of peripheral B cell anergy	GO_0002918	0	1	0	0	0
+negative regulation of neutrophil degranulation	GO_0043314	0	1	0	0	0
+negative regulation of natural killer cell mediated immunity	GO_0002716	0	1	0	0	0
+negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002859	0	1	0	0	0
+negative regulation of natural killer cell mediated cytotoxicity	GO_0045953	0	1	0	0	0
+negative regulation of natural killer cell degranulation	GO_0043322	0	1	0	0	0
+negative regulation of natural killer cell cytokine production	GO_0002728	0	1	0	0	0
+negative regulation of myeloid dendritic cell cytokine production	GO_0002734	0	1	0	0	0
+negative regulation of memory T cell differentiation	GO_0043381	0	1	0	0	0
+negative regulation of melanization defense response	GO_0035009	0	1	0	0	0
+negative regulation of mast cell degranulation	GO_0043305	0	1	0	0	0
+negative regulation of mast cell cytokine production	GO_0032764	0	1	0	0	0
+negative regulation of macrophage cytokine production	GO_0010936	0	1	0	0	0
+negative regulation of isotype switching to IgG isotypes	GO_0048303	0	1	0	0	0
+negative regulation of isotype switching to IgE isotypes	GO_0048294	0	1	0	0	0
+negative regulation of isotype switching to IgD isotypes	GO_0048300	0	1	0	0	0
+negative regulation of isotype switching to IgA isotypes	GO_0048297	0	1	0	0	0
+negative regulation of isotype switching	GO_0045829	0	1	0	0	0
+negative regulation of interferon-gamma-mediated signaling pathway	GO_0060336	0	1	0	0	0
+negative regulation of inflammatory response to antigenic stimulus	GO_0002862	0	1	0	0	0
+negative regulation of hypersensitivity	GO_0002884	0	1	0	0	0
+negative regulation of germinal center formation	GO_0002635	0	1	0	0	0
+negative regulation of eosinophil degranulation	GO_0043310	0	1	0	0	0
+negative regulation of dendritic cell cytokine production	GO_0002731	0	1	0	0	0
+negative regulation of defense response to bacterium, incompatible interaction	GO_1902478	0	1	0	0	0
+negative regulation of cytotoxic T cell degranulation	GO_0043318	0	1	0	0	0
+negative regulation of complement activation	GO_0045916	0	1	0	0	0
+negative regulation of chronic inflammatory response to antigenic stimulus	GO_0002875	0	1	0	0	0
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	0	1	0	0	0
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	0	1	0	0	0
+negative regulation of antimicrobial peptide secretion	GO_0002795	0	1	0	0	0
+negative regulation of antimicrobial peptide production	GO_0002785	0	1	0	0	0
+negative regulation of antimicrobial peptide biosynthetic process	GO_0002806	0	1	0	0	0
+negative regulation of antimicrobial humoral response	GO_0008348	0	1	0	0	0
+negative regulation of antifungal peptide secretion	GO_0002801	0	1	0	0	0
+negative regulation of antifungal peptide production	GO_0002789	0	1	0	0	0
+negative regulation of antifungal peptide biosynthetic process	GO_0002811	0	1	0	0	0
+negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	0	0	0
+negative regulation of antibacterial peptide secretion	GO_0002798	0	1	0	0	0
+negative regulation of antibacterial peptide production	GO_0002787	0	1	0	0	0
+negative regulation of antibacterial peptide biosynthetic process	GO_0002809	0	1	0	0	0
+negative regulation of acute inflammatory response to antigenic stimulus	GO_0002865	0	1	0	0	0
+negative regulation of activation of membrane attack complex	GO_0001971	0	1	0	0	0
+negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0	0
+negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0	0
+negative regulation of T-helper 2 cell cytokine production	GO_2000552	0	1	0	0	0
+negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0	0
+negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0	0
+negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0	0
+negative regulation of T-helper 1 cell cytokine production	GO_2000555	0	1	0	0	0
+negative regulation of T cell tolerance induction to tumor cell	GO_0002847	0	1	0	0	0
+negative regulation of T cell mediated immunity	GO_0002710	0	1	0	0	0
+negative regulation of T cell mediated cytotoxicity directed against tumor cell target	GO_0002853	0	1	0	0	0
+negative regulation of T cell mediated cytotoxicity	GO_0001915	0	1	0	0	0
+negative regulation of T cell cytokine production	GO_0002725	0	1	0	0	0
+negative regulation of T cell antigen processing and presentation	GO_0002626	0	1	0	0	0
+negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	0	1	0	0	0
+negative regulation of B cell mediated immunity	GO_0002713	0	1	0	0	0
+negative regulation of B cell cytokine production	GO_0002722	0	1	0	0	0
+negative regulation of B cell antigen processing and presentation	GO_0002623	0	1	0	0	0
+negative regulation by symbiont of host salicylic acid-mediated defense response	GO_0052004	0	1	0	0	0
+negative regulation by symbiont of host resistance gene-dependent defense response	GO_0033660	0	1	0	0	0
+negative regulation by symbiont of host phytoalexin production	GO_1990217	0	1	0	0	0
+negative regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052068	0	1	0	0	0
+negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052003	0	1	0	0	0
+negative regulation by symbiont of defense-related host reactive oxygen species production	GO_0033661	0	1	0	0	0
+negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052069	0	1	0	0	0
+negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052266	0	1	0	0	0
+negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052267	0	1	0	0	0
+natural killer cell mediated immunity	GO_0002228	0	1	0	0	0
+natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	0	0	0
+natural killer cell mediated cytotoxicity	GO_0042267	0	1	0	0	0
+natural killer cell inhibitory signaling pathway	GO_0002769	0	1	0	0	0
+natural killer cell degranulation	GO_0043320	0	1	0	0	0
+natural killer cell cytokine production	GO_0002370	0	1	0	0	0
+myeloid dendritic cell cytokine production	GO_0002372	0	1	0	0	0
+mucosal tolerance induction	GO_0002427	0	1	0	0	0
+modulation of mast cell degranulation in other organism	GO_0035895	0	1	0	0	0
+modulation of complement activation in other organism	GO_0044645	0	1	0	0	0
+modulation by virus of host immune response	GO_0075528	0	1	0	0	0
+modulation by virus of host cytokine production	GO_0044831	0	1	0	0	0
+modulation by symbiont of host systemic acquired resistance	GO_0052160	0	1	0	0	0
+modulation by symbiont of host salicylic acid-mediated defense response	GO_0052089	0	1	0	0	0
+modulation by symbiont of host resistance gene-dependent defense response	GO_0052158	0	1	0	0	0
+modulation by symbiont of host phytoalexin production	GO_0052165	0	1	0	0	0
+modulation by symbiont of host jasmonic acid-mediated defense response	GO_0052088	0	1	0	0	0
+modulation by symbiont of host induced systemic resistance	GO_0052159	0	1	0	0	0
+modulation by symbiont of defense-related host reactive oxygen species production	GO_0052164	0	1	0	0	0
+modulation by symbiont of defense-related host nitric oxide production	GO_0052163	0	1	0	0	0
+modulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052299	0	1	0	0	0
+modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052297	0	1	0	0	0
+modulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052304	0	1	0	0	0
+modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052283	0	1	0	0	0
+modulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052298	0	1	0	0	0
+modulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052303	0	1	0	0	0
+modulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052302	0	1	0	0	0
+memory T cell differentiation	GO_0043379	0	1	0	0	0
+memory B cell differentiation	GO_0002319	0	1	0	0	0
+melanotic encapsulation of foreign target	GO_0035011	0	1	0	0	0
+melanization defense response	GO_0035006	0	1	0	0	0
+mast cell degranulation	GO_0043303	0	1	0	0	0
+mast cell cytokine production	GO_0032762	0	1	0	0	0
+marginal zone B cell differentiation	GO_0002315	0	1	0	0	0
+male-specific antibacterial humoral response	GO_0006962	0	1	0	0	0
+macrophage cytokine production	GO_0010934	0	1	0	0	0
+jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway	GO_0009868	0	1	0	0	0
+jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	GO_0009871	0	1	0	0	0
+jasmonic acid and ethylene-dependent systemic resistance	GO_0009861	0	1	0	0	0
+isotype switching	GO_0045190	0	1	0	0	0
+intracellular vesicle pattern recognition receptor signaling pathway	GO_0002754	0	1	0	0	0
+interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0	0
+interferon-gamma-mediated signaling pathway	GO_0060333	0	1	0	0	0
+interferon-gamma receptor activity	GO_0004906	0	1	0	0	0
+inhibitory killer cell immunoglobulin-like receptor signaling pathway	GO_0002771	0	1	0	0	0
+inhibitory C-type lectin receptor signaling pathway	GO_0002772	0	1	0	0	0
+inflammatory response to antigenic stimulus	GO_0002437	0	1	0	0	0
+induction of phytoalexin biosynthetic process	GO_0009689	0	1	0	0	0
+induction of bacterial agglutination	GO_0043152	0	1	0	0	0
+induction by symbiont of host systemic acquired resistance	GO_0052104	0	1	0	0	0
+induction by symbiont of host resistance gene-dependent defense response	GO_0052101	0	1	0	0	0
+induction by symbiont of host phytoalexin production	GO_0052062	0	1	0	0	0
+induction by symbiont of host induced systemic resistance	GO_0052103	0	1	0	0	0
+induction by symbiont of defense-related host reactive oxygen species production	GO_0052064	0	1	0	0	0
+induction by symbiont of defense-related host nitric oxide production	GO_0052063	0	1	0	0	0
+induction by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052289	0	1	0	0	0
+induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052286	0	1	0	0	0
+induction by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052262	0	1	0	0	0
+induction by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052288	0	1	0	0	0
+induction by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052264	0	1	0	0	0
+induction by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052263	0	1	0	0	0
+induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	0	0	0
+induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	0	0	0
+induced systemic resistance	GO_0009682	0	1	0	0	0
+immune response involved in response to exogenous dsRNA	GO_1902615	0	1	0	0	0
+hypersensitivity	GO_0002524	0	1	0	0	0
+host gene silencing in virus induced gene silencing	GO_0060146	0	1	0	0	0
+host cellular process involved in virus induced gene silencing	GO_0060144	0	1	0	0	0
+histamine secretion mediated by immunoglobulin	GO_0097280	0	1	0	0	0
+histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	0	0	0
+histamine secretion by mast cell	GO_0002553	0	1	0	0	0
+histamine secretion by basophil	GO_0002557	0	1	0	0	0
+hepatic immune response	GO_0002384	0	1	0	0	0
+hemolymph coagulation	GO_0042381	0	1	0	0	0
+germinal center formation	GO_0002467	0	1	0	0	0
+germinal center B cell differentiation	GO_0002314	0	1	0	0	0
+follicular B cell differentiation	GO_0002316	0	1	0	0	0
+ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0043272	0	1	0	0	0
+eosinophil degranulation	GO_0043308	0	1	0	0	0
+endothelial cell activation within high endothelial venule involved in immune response	GO_0002259	0	1	0	0	0
+endothelial cell activation involved in immune response	GO_0002264	0	1	0	0	0
+dendritic cell cytokine production	GO_0002371	0	1	0	0	0
+defense response, incompatible interaction	GO_0009814	0	1	0	0	0
+defense response to protozoan, incompatible interaction	GO_0009818	0	1	0	0	0
+defense response to fungus, incompatible interaction	GO_0009817	0	1	0	0	0
+defense response to bacterium, incompatible interaction	GO_0009816	0	1	0	0	0
+defense response signaling pathway, resistance gene-independent	GO_0010204	0	1	0	0	0
+defense response signaling pathway, resistance gene-dependent	GO_0009870	0	1	0	0	0
+cytotoxic T cell degranulation	GO_0043316	0	1	0	0	0
+cytoplasmic pattern recognition receptor signaling pathway in response to virus	GO_0039528	0	1	0	0	0
+cytoplasmic pattern recognition receptor signaling pathway	GO_0002753	0	1	0	0	0
+cysteine-type endopeptidase activity involved in plant-type hypersensitive response	GO_0097299	0	1	0	0	0
+complement component C5a signaling pathway	GO_0038178	0	1	0	0	0
+complement activation	GO_0006956	0	1	0	0	0
+chronic inflammatory response to antigenic stimulus	GO_0002439	0	1	0	0	0
+cellular response to type III interferon	GO_0071358	0	1	0	0	0
+cellular response to type I interferon	GO_0071357	0	1	0	0	0
+cellular response to interferon-gamma	GO_0071346	0	1	0	0	0
+cell surface pattern recognition receptor signaling pathway	GO_0002752	0	1	0	0	0
+biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002815	0	1	0	0	0
+biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002812	0	1	0	0	0
+basophil degranulation	GO_0002561	0	1	0	0	0
+acute inflammatory response to antigenic stimulus	GO_0002438	0	1	0	0	0
+activation of membrane attack complex	GO_0001905	0	1	0	0	0
+activation of MAPKKK activity involved in innate immune response	GO_0035422	0	1	0	0	0
+activation of MAPKK activity involved in innate immune response	GO_0035421	0	1	0	0	0
+activation of MAPK activity involved in innate immune response	GO_0035419	0	1	0	0	0
+TRIF-dependent toll-like receptor signaling pathway	GO_0035666	0	1	0	0	0
+TRIF-dependent toll-like receptor 4 signaling pathway	GO_0035667	0	1	0	0	0
+TRAM-dependent toll-like receptor signaling pathway	GO_0035668	0	1	0	0	0
+TRAM-dependent toll-like receptor 4 signaling pathway	GO_0035669	0	1	0	0	0
+TIRAP-dependent toll-like receptor signaling pathway	GO_0035664	0	1	0	0	0
+TIRAP-dependent toll-like receptor 4 signaling pathway	GO_0035665	0	1	0	0	0
+T-helper cell lineage commitment	GO_0002295	0	1	0	0	0
+T-helper cell differentiation	GO_0042093	0	1	0	0	0
+T-helper 2 cell lineage commitment	GO_0002297	0	1	0	0	0
+T-helper 2 cell differentiation	GO_0045064	0	1	0	0	0
+T-helper 2 cell cytokine production	GO_0035745	0	1	0	0	0
+T-helper 17 cell lineage commitment	GO_0072540	0	1	0	0	0
+T-helper 17 cell differentiation	GO_0072539	0	1	0	0	0
+T-helper 1 cell lineage commitment	GO_0002296	0	1	0	0	0
+T-helper 1 cell differentiation	GO_0045063	0	1	0	0	0
+T-helper 1 cell cytokine production	GO_0035744	0	1	0	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
+T cell tolerance induction to tumor cell	GO_0002411	0	1	0	0	0
+T cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002403	0	1	0	0	0
+T cell receptor signaling pathway	GO_0050852	0	1	0	0	0
+T cell mediated immunity	GO_0002456	0	1	0	0	0
+T cell mediated cytotoxicity directed against tumor cell target	GO_0002419	0	1	0	0	0
+T cell mediated cytotoxicity	GO_0001913	0	1	0	0	0
+T cell inhibitory signaling pathway	GO_0002770	0	1	0	0	0
+T cell cytokine production	GO_0002369	0	1	0	0	0
+T cell antigen processing and presentation	GO_0002457	0	1	0	0	0
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
+RNA virus induced gene silencing	GO_0051214	0	1	0	0	0
+RIG-I signaling pathway	GO_0039529	0	1	0	0	0
+MyD88-independent toll-like receptor signaling pathway	GO_0002756	0	1	0	0	0
+MyD88-dependent toll-like receptor signaling pathway	GO_0002755	0	1	0	0	0
+MyD88-dependent toll-like receptor 4 signaling pathway	GO_0035660	0	1	0	0	0
+MyD88-dependent toll-like receptor 2 signaling pathway	GO_0035661	0	1	0	0	0
+MDA-5 signaling pathway	GO_0039530	0	1	0	0	0
+MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	0	0	0
+MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	0	0	0
+MAP kinase activity involved in innate immune response	GO_0038075	0	1	0	0	0
+Fc-gamma receptor signaling pathway involved in phagocytosis	GO_0038096	0	1	0	0	0
+Fc-gamma receptor signaling pathway	GO_0038094	0	1	0	0	0
+Fc-epsilon receptor signaling pathway	GO_0038095	0	1	0	0	0
+Fc receptor signaling pathway	GO_0038093	0	1	0	0	0
+Fc receptor mediated stimulatory signaling pathway	GO_0002431	0	1	0	0	0
+Fc receptor mediated inhibitory signaling pathway	GO_0002774	0	1	0	0	0
+DNA virus induced gene silencing	GO_0051215	0	1	0	0	0
+CD4-positive, alpha-beta T cell cytokine production	GO_0035743	0	1	0	0	0
+B cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002402	0	1	0	0	0
+B cell receptor signaling pathway	GO_0050853	0	1	0	0	0
+B cell receptor apoptotic signaling pathway	GO_1990117	0	1	0	0	0
+B cell mediated immunity	GO_0019724	0	1	0	0	0
+B cell inhibitory signaling pathway	GO_0002773	0	1	0	0	0
+B cell cytokine production	GO_0002368	0	1	0	0	0
+B cell antigen processing and presentation mediated by B cell receptor uptake of antigen	GO_0002417	0	1	0	0	0
+B cell antigen processing and presentation following pinocytosis	GO_0002421	0	1	0	0	0
+B cell antigen processing and presentation	GO_0002450	0	1	0	0	0
+B cell affinity maturation	GO_0002344	0	1	0	0	0

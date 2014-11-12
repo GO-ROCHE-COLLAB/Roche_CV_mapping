@@ -1,134 +1,134 @@
-name	ID	manual	auto	checked	blacklisted
-putrescine metabolic process	GO_0009445	1	1	1	0
-putrescine catabolic process	GO_0009447	1	1	1	0
-putrescine biosynthetic process from ornithine	GO_0033387	1	1	1	0
-putrescine biosynthetic process from arginine, using agmatinase	GO_0033389	1	1	1	0
-putrescine biosynthetic process from arginine via N-carbamoylputrescine	GO_0033390	1	1	1	0
-putrescine biosynthetic process from arginine	GO_0033388	1	1	1	0
-putrescine biosynthetic process	GO_0009446	1	1	1	0
-putrescine acetylation	GO_0032920	1	1	1	0
-putrescine transport	GO_0015847	1	0	1	0
-zeatin metabolic process	GO_0033397	0	1	1	0
-zeatin biosynthetic process	GO_0033398	0	1	1	0
-tryptophan metabolic process	GO_0006568	0	1	1	0
-tryptophan catabolic process to kynurenine	GO_0019441	0	1	1	0
-tryptophan catabolic process to indole-3-acetate	GO_0019440	0	1	1	0
-tryptophan catabolic process to catechol	GO_0019444	0	1	1	0
-tryptophan catabolic process to acetyl-CoA	GO_0019442	0	1	1	0
-tryptophan catabolic process	GO_0006569	0	1	1	0
-tryptophan biosynthetic process	GO_0000162	0	1	1	0
-triethanolamine metabolic process	GO_0018981	0	1	1	0
-triethanolamine catabolic process	GO_0046267	0	1	1	0
-trans-zeatin metabolic process	GO_0033400	0	1	1	0
-trans-zeatin biosynthetic process	GO_0033466	0	1	1	0
-sphingomyelin metabolic process	GO_0006684	0	1	1	0
-sphingomyelin catabolic process	GO_0006685	0	1	1	0
-sphingomyelin biosynthetic process	GO_0006686	0	1	1	0
-spermine metabolic process	GO_0008215	0	1	1	0
-spermine catabolic process	GO_0046208	0	1	1	0
-spermine biosynthetic process	GO_0006597	0	1	1	0
-spermine acetylation	GO_0032919	0	1	1	0
-spermidine metabolic process	GO_0008216	0	1	1	0
-spermidine catabolic process	GO_0046203	0	1	1	0
-spermidine biosynthetic process	GO_0008295	0	1	1	0
-spermidine acetylation	GO_0032918	0	1	1	0
-serotonin biosynthetic process from tryptophan	GO_0006587	0	1	1	0
-polyamine metabolic process	GO_0006595	0	1	1	0
-polyamine catabolic process	GO_0006598	0	1	1	0
-polyamine biosynthetic process	GO_0006596	0	1	1	0
-polyamine acetylation	GO_0032917	0	1	1	0
-platelet activating factor metabolic process	GO_0046469	0	1	1	0
-platelet activating factor biosynthetic process	GO_0006663	0	1	1	0
-phosphatidylethanolamine acyl-chain remodeling	GO_0036152	0	1	1	0
-phosphatidylcholine metabolic process	GO_0046470	0	1	1	0
-phosphatidylcholine catabolic process	GO_0034638	0	1	1	0
-phosphatidylcholine biosynthetic process	GO_0006656	0	1	1	0
-phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-choline	GO_0070832	0	1	1	0
-phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-N-dimethylethanolamine	GO_0070834	0	1	1	0
-phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via CDP-N-methylethanolamine	GO_0070833	0	1	1	0
-phosphatidylcholine acyl-chain remodeling	GO_0036151	0	1	1	0
-phenylethylamine metabolic process involved in synaptic transmission	GO_0090507	0	1	1	0
-phenylethylamine metabolic process	GO_0042443	0	1	1	0
-phenylethylamine catabolic process	GO_0019607	0	1	1	0
-phenylethylamine biosynthetic process involved in synaptic transmission	GO_0090508	0	1	1	0
-phenylethylamine biosynthetic process	GO_0042444	0	1	1	0
-penicillin metabolic process	GO_0042316	0	1	1	0
-penicillin catabolic process	GO_0042317	0	1	1	0
-penicillin biosynthetic process	GO_0042318	0	1	1	0
-octopamine metabolic process	GO_0046333	0	1	1	0
-octopamine catabolic process	GO_0046334	0	1	1	0
-octopamine biosynthetic process	GO_0006589	0	1	1	0
-nor-spermidine metabolic process	GO_0046204	0	1	1	0
-nor-spermidine catabolic process	GO_0046205	0	1	1	0
-nor-spermidine biosynthetic process	GO_0045312	0	1	1	0
-nicotinate nucleotide biosynthetic process from tryptophan	GO_0019356	0	1	1	0
-nicotianamine metabolic process	GO_0030417	0	1	1	0
-nicotianamine catabolic process	GO_0030419	0	1	1	0
-nicotianamine biosynthetic process	GO_0030418	0	1	1	0
-methylamine metabolic process	GO_0030416	0	1	1	0
-methane biosynthetic process from trimethylamine	GO_2001130	0	1	1	0
-methane biosynthetic process from methylamine	GO_2001128	0	1	1	0
-methane biosynthetic process from dimethylamine	GO_2001129	0	1	1	0
-isopentenyl adenine metabolic process	GO_0034264	0	1	1	0
-isopentenyl adenine catabolic process	GO_0034266	0	1	1	0
-isopentenyl adenine biosynthetic process	GO_0034265	0	1	1	0
-indoleacetic acid biosynthetic process via tryptophan	GO_0009848	0	1	1	0
-indolalkylamine metabolic process	GO_0006586	0	1	1	0
-indolalkylamine catabolic process	GO_0046218	0	1	1	0
-indolalkylamine biosynthetic process	GO_0046219	0	1	1	0
-histamine metabolic process	GO_0001692	0	1	1	0
-histamine catabolic process	GO_0001695	0	1	1	0
-histamine biosynthetic process	GO_0001694	0	1	1	0
-glycine betaine biosynthetic process from choline	GO_0019285	0	1	1	0
-ethanolamine-containing compound metabolic process	GO_0042439	0	1	1	0
-ethanolamine metabolic process	GO_0006580	0	1	1	0
-ethanolamine catabolic process	GO_0046336	0	1	1	0
-ethanolamine biosynthetic process	GO_0046335	0	1	1	0
-discadenine metabolic process	GO_0034267	0	1	1	0
-discadenine catabolic process	GO_0034269	0	1	1	0
-discadenine biosynthetic process	GO_0034268	0	1	1	0
-deoxyhypusine biosynthetic process from spermidine	GO_0050983	0	1	1	0
-cytokinin metabolic process	GO_0009690	0	1	1	0
-cytokinin catabolic process	GO_0009823	0	1	1	0
-cytokinin biosynthetic process	GO_0009691	0	1	1	0
-cis-zeatin metabolic process	GO_0033399	0	1	1	0
-cis-zeatin biosynthetic process	GO_0033465	0	1	1	0
-choline metabolic process	GO_0019695	0	1	1	0
-choline catabolic process	GO_0042426	0	1	1	0
-choline biosynthetic process via phosphoryl-ethanolamine	GO_0033325	0	1	1	0
-choline biosynthetic process via N-monomethylethanolamine	GO_0033324	0	1	1	0
-choline biosynthetic process via CDP-choline	GO_0033323	0	1	1	0
-choline biosynthetic process	GO_0042425	0	1	1	0
-cephamycin C metabolic process	GO_1901116	0	1	1	0
-cephamycin C catabolic process	GO_1901117	0	1	1	0
-cephamycin C biosynthetic process	GO_1901118	0	1	1	0
-cephalosporin metabolic process	GO_0043645	0	1	1	0
-cephalosporin biosynthetic process	GO_0043646	0	1	1	0
-cephalosporin C metabolic process	GO_1901266	0	1	1	0
-cephalosporin C catabolic process	GO_1901267	0	1	1	0
-cephalosporin C biosynthetic process	GO_1901268	0	1	1	0
-cellular biogenic amine metabolic process	GO_0006576	0	1	1	0
-cellular biogenic amine catabolic process	GO_0042402	0	1	1	0
-cellular biogenic amine biosynthetic process	GO_0042401	0	1	1	0
-cellular amine metabolic process	GO_0044106	0	1	1	0
-carbapenem metabolic process	GO_1901767	0	1	1	0
-carbapenem catabolic process	GO_1901768	0	1	1	0
-carbapenem biosynthetic process	GO_1901769	0	1	1	0
-beta-lactam antibiotic metabolic process	GO_0030653	0	1	1	0
-beta-lactam antibiotic catabolic process	GO_0030655	0	1	1	0
-beta-lactam antibiotic biosynthetic process	GO_0030654	0	1	1	0
-benzylpenicillin metabolic process	GO_1901086	0	1	1	0
-benzylpenicillin catabolic process	GO_1901087	0	1	1	0
-benzylpenicillin biosynthetic process	GO_1901088	0	1	1	0
-atrazine catabolic process to isopropylamine	GO_0019624	0	1	1	0
-ascospore wall chitin biosynthetic process	GO_0034217	0	1	1	0
-arginine catabolic process to spermine	GO_0019548	0	1	1	0
-amine metabolic process	GO_0009308	0	1	1	0
-amine catabolic process	GO_0009310	0	1	1	0
-amine biosynthetic process	GO_0009309	0	1	1	0
-N-acylethanolamine metabolic process	GO_0070291	0	1	1	0
-CDP-choline pathway	GO_0006657	0	1	1	0
-2-aminobenzenesulfonate metabolic process	GO_0018868	0	1	1	0
-2-aminobenzenesulfonate desulfonation	GO_0019490	0	1	1	0
-2-aminobenzenesulfonate catabolic process	GO_0046230	0	1	1	0
-1,2-diacyl-sn-glycero-3-phosphocholine metabolic process	GO_0006653	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+putrescine metabolic process	GO_0009445	1	1	1	0	0
+putrescine catabolic process	GO_0009447	1	1	1	0	0
+putrescine biosynthetic process from ornithine	GO_0033387	1	1	1	0	0
+putrescine biosynthetic process from arginine, using agmatinase	GO_0033389	1	1	1	0	0
+putrescine biosynthetic process from arginine via N-carbamoylputrescine	GO_0033390	1	1	1	0	0
+putrescine biosynthetic process from arginine	GO_0033388	1	1	1	0	0
+putrescine biosynthetic process	GO_0009446	1	1	1	0	0
+putrescine acetylation	GO_0032920	1	1	1	0	0
+putrescine transport	GO_0015847	1	0	1	0	0
+zeatin metabolic process	GO_0033397	0	1	1	0	0
+zeatin biosynthetic process	GO_0033398	0	1	1	0	0
+tryptophan metabolic process	GO_0006568	0	1	1	0	0
+tryptophan catabolic process to kynurenine	GO_0019441	0	1	1	0	0
+tryptophan catabolic process to indole-3-acetate	GO_0019440	0	1	1	0	0
+tryptophan catabolic process to catechol	GO_0019444	0	1	1	0	0
+tryptophan catabolic process to acetyl-CoA	GO_0019442	0	1	1	0	0
+tryptophan catabolic process	GO_0006569	0	1	1	0	0
+tryptophan biosynthetic process	GO_0000162	0	1	1	0	0
+triethanolamine metabolic process	GO_0018981	0	1	1	0	0
+triethanolamine catabolic process	GO_0046267	0	1	1	0	0
+trans-zeatin metabolic process	GO_0033400	0	1	1	0	0
+trans-zeatin biosynthetic process	GO_0033466	0	1	1	0	0
+sphingomyelin metabolic process	GO_0006684	0	1	1	0	0
+sphingomyelin catabolic process	GO_0006685	0	1	1	0	0
+sphingomyelin biosynthetic process	GO_0006686	0	1	1	0	0
+spermine metabolic process	GO_0008215	0	1	1	0	0
+spermine catabolic process	GO_0046208	0	1	1	0	0
+spermine biosynthetic process	GO_0006597	0	1	1	0	0
+spermine acetylation	GO_0032919	0	1	1	0	0
+spermidine metabolic process	GO_0008216	0	1	1	0	0
+spermidine catabolic process	GO_0046203	0	1	1	0	0
+spermidine biosynthetic process	GO_0008295	0	1	1	0	0
+spermidine acetylation	GO_0032918	0	1	1	0	0
+serotonin biosynthetic process from tryptophan	GO_0006587	0	1	1	0	0
+polyamine metabolic process	GO_0006595	0	1	1	0	0
+polyamine catabolic process	GO_0006598	0	1	1	0	0
+polyamine biosynthetic process	GO_0006596	0	1	1	0	0
+polyamine acetylation	GO_0032917	0	1	1	0	0
+platelet activating factor metabolic process	GO_0046469	0	1	1	0	0
+platelet activating factor biosynthetic process	GO_0006663	0	1	1	0	0
+phosphatidylethanolamine acyl-chain remodeling	GO_0036152	0	1	1	0	0
+phosphatidylcholine metabolic process	GO_0046470	0	1	1	0	0
+phosphatidylcholine catabolic process	GO_0034638	0	1	1	0	0
+phosphatidylcholine biosynthetic process	GO_0006656	0	1	1	0	0
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-choline	GO_0070832	0	1	1	0	0
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-N-dimethylethanolamine	GO_0070834	0	1	1	0	0
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via CDP-N-methylethanolamine	GO_0070833	0	1	1	0	0
+phosphatidylcholine acyl-chain remodeling	GO_0036151	0	1	1	0	0
+phenylethylamine metabolic process involved in synaptic transmission	GO_0090507	0	1	1	0	0
+phenylethylamine metabolic process	GO_0042443	0	1	1	0	0
+phenylethylamine catabolic process	GO_0019607	0	1	1	0	0
+phenylethylamine biosynthetic process involved in synaptic transmission	GO_0090508	0	1	1	0	0
+phenylethylamine biosynthetic process	GO_0042444	0	1	1	0	0
+penicillin metabolic process	GO_0042316	0	1	1	0	0
+penicillin catabolic process	GO_0042317	0	1	1	0	0
+penicillin biosynthetic process	GO_0042318	0	1	1	0	0
+octopamine metabolic process	GO_0046333	0	1	1	0	0
+octopamine catabolic process	GO_0046334	0	1	1	0	0
+octopamine biosynthetic process	GO_0006589	0	1	1	0	0
+nor-spermidine metabolic process	GO_0046204	0	1	1	0	0
+nor-spermidine catabolic process	GO_0046205	0	1	1	0	0
+nor-spermidine biosynthetic process	GO_0045312	0	1	1	0	0
+nicotinate nucleotide biosynthetic process from tryptophan	GO_0019356	0	1	1	0	0
+nicotianamine metabolic process	GO_0030417	0	1	1	0	0
+nicotianamine catabolic process	GO_0030419	0	1	1	0	0
+nicotianamine biosynthetic process	GO_0030418	0	1	1	0	0
+methylamine metabolic process	GO_0030416	0	1	1	0	0
+methane biosynthetic process from trimethylamine	GO_2001130	0	1	1	0	0
+methane biosynthetic process from methylamine	GO_2001128	0	1	1	0	0
+methane biosynthetic process from dimethylamine	GO_2001129	0	1	1	0	0
+isopentenyl adenine metabolic process	GO_0034264	0	1	1	0	0
+isopentenyl adenine catabolic process	GO_0034266	0	1	1	0	0
+isopentenyl adenine biosynthetic process	GO_0034265	0	1	1	0	0
+indoleacetic acid biosynthetic process via tryptophan	GO_0009848	0	1	1	0	0
+indolalkylamine metabolic process	GO_0006586	0	1	1	0	0
+indolalkylamine catabolic process	GO_0046218	0	1	1	0	0
+indolalkylamine biosynthetic process	GO_0046219	0	1	1	0	0
+histamine metabolic process	GO_0001692	0	1	1	0	0
+histamine catabolic process	GO_0001695	0	1	1	0	0
+histamine biosynthetic process	GO_0001694	0	1	1	0	0
+glycine betaine biosynthetic process from choline	GO_0019285	0	1	1	0	0
+ethanolamine-containing compound metabolic process	GO_0042439	0	1	1	0	0
+ethanolamine metabolic process	GO_0006580	0	1	1	0	0
+ethanolamine catabolic process	GO_0046336	0	1	1	0	0
+ethanolamine biosynthetic process	GO_0046335	0	1	1	0	0
+discadenine metabolic process	GO_0034267	0	1	1	0	0
+discadenine catabolic process	GO_0034269	0	1	1	0	0
+discadenine biosynthetic process	GO_0034268	0	1	1	0	0
+deoxyhypusine biosynthetic process from spermidine	GO_0050983	0	1	1	0	0
+cytokinin metabolic process	GO_0009690	0	1	1	0	0
+cytokinin catabolic process	GO_0009823	0	1	1	0	0
+cytokinin biosynthetic process	GO_0009691	0	1	1	0	0
+cis-zeatin metabolic process	GO_0033399	0	1	1	0	0
+cis-zeatin biosynthetic process	GO_0033465	0	1	1	0	0
+choline metabolic process	GO_0019695	0	1	1	0	0
+choline catabolic process	GO_0042426	0	1	1	0	0
+choline biosynthetic process via phosphoryl-ethanolamine	GO_0033325	0	1	1	0	0
+choline biosynthetic process via N-monomethylethanolamine	GO_0033324	0	1	1	0	0
+choline biosynthetic process via CDP-choline	GO_0033323	0	1	1	0	0
+choline biosynthetic process	GO_0042425	0	1	1	0	0
+cephamycin C metabolic process	GO_1901116	0	1	1	0	0
+cephamycin C catabolic process	GO_1901117	0	1	1	0	0
+cephamycin C biosynthetic process	GO_1901118	0	1	1	0	0
+cephalosporin metabolic process	GO_0043645	0	1	1	0	0
+cephalosporin biosynthetic process	GO_0043646	0	1	1	0	0
+cephalosporin C metabolic process	GO_1901266	0	1	1	0	0
+cephalosporin C catabolic process	GO_1901267	0	1	1	0	0
+cephalosporin C biosynthetic process	GO_1901268	0	1	1	0	0
+cellular biogenic amine metabolic process	GO_0006576	0	1	1	0	0
+cellular biogenic amine catabolic process	GO_0042402	0	1	1	0	0
+cellular biogenic amine biosynthetic process	GO_0042401	0	1	1	0	0
+cellular amine metabolic process	GO_0044106	0	1	1	0	0
+carbapenem metabolic process	GO_1901767	0	1	1	0	0
+carbapenem catabolic process	GO_1901768	0	1	1	0	0
+carbapenem biosynthetic process	GO_1901769	0	1	1	0	0
+beta-lactam antibiotic metabolic process	GO_0030653	0	1	1	0	0
+beta-lactam antibiotic catabolic process	GO_0030655	0	1	1	0	0
+beta-lactam antibiotic biosynthetic process	GO_0030654	0	1	1	0	0
+benzylpenicillin metabolic process	GO_1901086	0	1	1	0	0
+benzylpenicillin catabolic process	GO_1901087	0	1	1	0	0
+benzylpenicillin biosynthetic process	GO_1901088	0	1	1	0	0
+atrazine catabolic process to isopropylamine	GO_0019624	0	1	1	0	0
+ascospore wall chitin biosynthetic process	GO_0034217	0	1	1	0	0
+arginine catabolic process to spermine	GO_0019548	0	1	1	0	0
+amine metabolic process	GO_0009308	0	1	1	0	0
+amine catabolic process	GO_0009310	0	1	1	0	0
+amine biosynthetic process	GO_0009309	0	1	1	0	0
+N-acylethanolamine metabolic process	GO_0070291	0	1	1	0	0
+CDP-choline pathway	GO_0006657	0	1	1	0	0
+2-aminobenzenesulfonate metabolic process	GO_0018868	0	1	1	0	0
+2-aminobenzenesulfonate desulfonation	GO_0019490	0	1	1	0	0
+2-aminobenzenesulfonate catabolic process	GO_0046230	0	1	1	0	0
+1,2-diacyl-sn-glycero-3-phosphocholine metabolic process	GO_0006653	0	1	1	0	0

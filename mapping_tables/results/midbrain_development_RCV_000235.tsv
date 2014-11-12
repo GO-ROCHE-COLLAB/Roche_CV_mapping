@@ -1,14 +1,14 @@
-name	ID	manual	auto	checked	blacklisted
-midbrain development	GO_0030901	1	1	1	0
-midbrain-hindbrain boundary structural organization	GO_0021552	1	0	1	0
-midbrain-hindbrain boundary morphogenesis	GO_0021555	1	0	1	0
-midbrain-hindbrain boundary maturation during neural plate development	GO_0022005	1	0	1	0
-midbrain-hindbrain boundary maturation during brain development	GO_0022004	1	0	1	0
-midbrain-hindbrain boundary maturation	GO_0021732	1	0	1	0
-midbrain-hindbrain boundary initiation	GO_0021547	1	0	1	0
-midbrain-hindbrain boundary development	GO_0030917	1	0	1	0
-superior colliculus development	GO_0061380	0	1	0	0
-substantia nigra development	GO_0021762	0	1	0	0
-inferior colliculus development	GO_0061379	0	1	0	0
-corpora quadrigemina development	GO_0061378	0	1	0	0
-cell proliferation in midbrain	GO_0033278	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+midbrain development	GO_0030901	1	1	1	0	0
+midbrain-hindbrain boundary structural organization	GO_0021552	1	0	1	0	0
+midbrain-hindbrain boundary morphogenesis	GO_0021555	1	0	1	0	0
+midbrain-hindbrain boundary maturation during neural plate development	GO_0022005	1	0	1	0	0
+midbrain-hindbrain boundary maturation during brain development	GO_0022004	1	0	1	0	0
+midbrain-hindbrain boundary maturation	GO_0021732	1	0	1	0	0
+midbrain-hindbrain boundary initiation	GO_0021547	1	0	1	0	0
+midbrain-hindbrain boundary development	GO_0030917	1	0	1	0	0
+superior colliculus development	GO_0061380	0	1	0	0	0
+substantia nigra development	GO_0021762	0	1	0	0	0
+inferior colliculus development	GO_0061379	0	1	0	0	0
+corpora quadrigemina development	GO_0061378	0	1	0	0	0
+cell proliferation in midbrain	GO_0033278	0	1	0	0	0

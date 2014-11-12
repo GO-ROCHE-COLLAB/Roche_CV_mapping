@@ -1,202 +1,202 @@
-name	ID	manual	auto	checked	blacklisted
-terpenoid transport	GO_0046865	1	1	1	0
-terpenoid metabolic process	GO_0006721	1	1	1	0
-terpenoid catabolic process	GO_0016115	1	1	1	0
-terpenoid biosynthetic process, mevalonate-independent	GO_0051483	1	1	1	0
-terpenoid biosynthetic process, mevalonate-dependent	GO_0051485	1	1	1	0
-terpenoid biosynthetic process	GO_0016114	1	1	1	0
-terpenoid indole alkaloid metabolic process	GO_0046447	1	0	1	0
-terpenoid indole alkaloid biosynthetic process	GO_0009709	1	0	1	0
-zeaxanthin metabolic process	GO_1901825	0	1	1	0
-zeaxanthin catabolic process	GO_1901826	0	1	1	0
-zeaxanthin bis(beta-D-glucoside) metabolic process	GO_1901828	0	1	1	0
-zeaxanthin bis(beta-D-glucoside) catabolic process	GO_1901829	0	1	1	0
-zeaxanthin bis(beta-D-glucoside) biosynthetic process	GO_1901830	0	1	1	0
-zeaxanthin biosynthetic process	GO_1901827	0	1	1	0
-xanthophyll metabolic process	GO_0016122	0	1	1	0
-xanthophyll cycle	GO_0010028	0	1	1	0
-xanthophyll catabolic process	GO_0016124	0	1	1	0
-xanthophyll biosynthetic process	GO_0016123	0	1	1	0
-xanthophyll binding	GO_0051738	0	1	1	0
-vitamin A transport	GO_0071938	0	1	1	0
-vitamin A metabolic process	GO_0006776	0	1	1	0
-vitamin A import	GO_0071939	0	1	1	0
-vitamin A biosynthetic process	GO_0035238	0	1	1	0
-tuberculosinol biosynthetic process	GO_0035440	0	1	1	0
-triterpenoid metabolic process	GO_0006722	0	1	1	0
-triterpenoid catabolic process	GO_0016105	0	1	1	0
-triterpenoid biosynthetic process	GO_0016104	0	1	1	0
-tricyclic triterpenoid metabolic process	GO_0010683	0	1	1	0
-tricyclic triterpenoid catabolic process	GO_0010684	0	1	1	0
-tricyclic triterpenoid biosynthetic process	GO_0010263	0	1	1	0
-thalianol metabolic process	GO_0080003	0	1	1	0
-tetraterpenoid transport	GO_0046866	0	1	1	0
-tetraterpenoid metabolic process	GO_0016108	0	1	1	0
-tetraterpenoid catabolic process	GO_0016110	0	1	1	0
-tetraterpenoid biosynthetic process	GO_0016109	0	1	1	0
-tetracyclic triterpenoid metabolic process	GO_0010685	0	1	1	0
-tetracyclic triterpenoid biosynthetic process	GO_0010686	0	1	1	0
-strigolactone metabolic process	GO_1901600	0	1	1	0
-strigolactone biosynthetic process	GO_1901601	0	1	1	0
-spheroidene metabolic process	GO_1901178	0	1	1	0
-spheroidene catabolic process	GO_1901179	0	1	1	0
-spheroidene biosynthetic process	GO_1901180	0	1	1	0
-sesquiterpenoid metabolic process	GO_0006714	0	1	1	0
-sesquiterpenoid catabolic process	GO_0016107	0	1	1	0
-sesquiterpenoid biosynthetic process	GO_0016106	0	1	1	0
-retinol transporter activity	GO_0034632	0	1	1	0
-retinol transport	GO_0034633	0	1	1	0
-retinol metabolic process	GO_0042572	0	1	1	0
-retinol binding	GO_0019841	0	1	1	0
-retinoid metabolic process	GO_0001523	0	1	1	0
-retinoid binding	GO_0005501	0	1	1	0
-retinoic acid receptor activity	GO_0003708	0	1	1	0
-retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	1	0
-retinoic acid metabolic process	GO_0042573	0	1	1	0
-retinoic acid catabolic process	GO_0034653	0	1	1	0
-retinoic acid biosynthetic process	GO_0002138	0	1	1	0
-retinoic acid binding	GO_0001972	0	1	1	0
-retinal metabolic process	GO_0042574	0	1	1	0
-retinal binding	GO_0016918	0	1	1	0
-response to vitamin A	GO_0033189	0	1	1	0
-response to strigolactone	GO_1902347	0	1	1	0
-response to retinoic acid	GO_0032526	0	1	1	0
-response to paclitaxel	GO_1901555	0	1	1	0
-response to gibberellin	GO_0009739	0	1	1	0
-response to farnesol	GO_0097307	0	1	1	0
-response to abscisic acid	GO_0009737	0	1	1	0
-polyterpenoid metabolic process	GO_0016111	0	1	1	0
-polyterpenoid catabolic process	GO_0016113	0	1	1	0
-polyterpenoid biosynthetic process	GO_0016112	0	1	1	0
-phytyl diphosphate metabolic process	GO_0033519	0	1	1	0
-phytyl diphosphate biosynthetic process	GO_0033521	0	1	1	0
-phytol salvage	GO_0033307	0	1	1	0
-phytol metabolic process	GO_0033306	0	1	1	0
-phytol biosynthetic process	GO_0033520	0	1	1	0
-phorbol ester receptor activity	GO_0001565	0	1	1	0
-phaseic acid biosynthetic process	GO_0010379	0	1	1	0
-pentalenolactone metabolic process	GO_1901778	0	1	1	0
-pentalenolactone catabolic process	GO_1901779	0	1	1	0
-pentalenolactone biosynthetic process	GO_1901780	0	1	1	0
-pentacyclic triterpenoid metabolic process	GO_0019742	0	1	1	0
-pentacyclic triterpenoid catabolic process	GO_0019741	0	1	1	0
-pentacyclic triterpenoid biosynthetic process	GO_0019745	0	1	1	0
-paclitaxel metabolic process	GO_0042616	0	1	1	0
-paclitaxel biosynthetic process	GO_0042617	0	1	1	0
-non-kinase phorbol ester receptor activity	GO_0001566	0	1	1	0
-monoterpenoid metabolic process	GO_0016098	0	1	1	0
-monoterpenoid catabolic process	GO_0016100	0	1	1	0
-monoterpenoid biosynthetic process	GO_0016099	0	1	1	0
-menthol metabolic process	GO_0031524	0	1	1	0
-menthol biosynthetic process	GO_0031525	0	1	1	0
-maintenance of seed dormancy	GO_0010231	0	1	1	0
-juvenile hormone secretion	GO_0045443	0	1	1	0
-juvenile hormone receptor activity	GO_0004880	0	1	1	0
-juvenile hormone metabolic process	GO_0006716	0	1	1	0
-juvenile hormone catabolic process	GO_0006719	0	1	1	0
-juvenile hormone biosynthetic process	GO_0006718	0	1	1	0
-juvenile hormone binding	GO_0005500	0	1	1	0
-hopanoid metabolic process	GO_0019744	0	1	1	0
-hopanoid catabolic process	GO_0019743	0	1	1	0
-hopanoid biosynthetic process	GO_0019746	0	1	1	0
-glycyrrhetinate metabolic process	GO_1902384	0	1	1	0
-glycyrrhetinate catabolic process	GO_1902385	0	1	1	0
-glycyrrhetinate biosynthetic process	GO_1902386	0	1	1	0
-gibberellin metabolic process	GO_0009685	0	1	1	0
-gibberellin mediated signaling pathway	GO_0010476	0	1	1	0
-gibberellin catabolic process	GO_0045487	0	1	1	0
-gibberellin biosynthetic process	GO_0009686	0	1	1	0
-gibberellin binding	GO_0010331	0	1	1	0
-gibberellin 12 metabolic process	GO_0033469	0	1	1	0
-gibberellin 12 biosynthetic process	GO_0033470	0	1	1	0
-gibberellic acid mediated signaling pathway, G-alpha-independent	GO_0042390	0	1	1	0
-gibberellic acid mediated signaling pathway, G-alpha-dependent	GO_0042388	0	1	1	0
-gibberellic acid mediated signaling pathway	GO_0009740	0	1	1	0
-geranylgeranyl diphosphate metabolic process	GO_0033385	0	1	1	0
-geranylgeranyl diphosphate catabolic process	GO_1902247	0	1	1	0
-geranylgeranyl diphosphate biosynthetic process	GO_0033386	0	1	1	0
-geranyl diphosphate metabolic process	GO_0033383	0	1	1	0
-geranyl diphosphate biosynthetic process	GO_0033384	0	1	1	0
-geraniol metabolic process	GO_1903446	0	1	1	0
-geraniol catabolic process	GO_1903447	0	1	1	0
-geraniol biosynthetic process	GO_1903448	0	1	1	0
-farnesyl diphosphate metabolic process	GO_0045338	0	1	1	0
-farnesyl diphosphate catabolic process	GO_0045339	0	1	1	0
-farnesyl diphosphate biosynthetic process, mevalonate pathway	GO_0010142	0	1	1	0
-farnesyl diphosphate biosynthetic process	GO_0045337	0	1	1	0
-farnesol metabolic process	GO_0016487	0	1	1	0
-farnesol catabolic process	GO_0016488	0	1	1	0
-farnesol biosynthetic process	GO_0006715	0	1	1	0
-diterpenoid metabolic process	GO_0016101	0	1	1	0
-diterpenoid catabolic process	GO_0016103	0	1	1	0
-diterpenoid biosynthetic process	GO_0016102	0	1	1	0
-diterpene phytoalexin metabolic process	GO_0051501	0	1	1	0
-diterpene phytoalexin biosynthetic process	GO_0051502	0	1	1	0
-detection of gibberellic acid stimulus	GO_0009728	0	1	1	0
-detection of abscisic acid stimulus	GO_0009724	0	1	1	0
-copal-8-ol diphosphate(3-) metabolic process	GO_1902241	0	1	1	0
-copal-8-ol diphosphate(3-) catabolic process	GO_1902242	0	1	1	0
-copal-8-ol diphosphate(3-) biosynthetic process	GO_1902243	0	1	1	0
-cis-abienol metabolic process	GO_1902244	0	1	1	0
-cis-abienol catabolic process	GO_1902245	0	1	1	0
-cis-abienol biosynthetic process	GO_1902246	0	1	1	0
-cellular response to vitamin A	GO_0071299	0	1	1	0
-cellular response to strigolactone	GO_1902348	0	1	1	0
-cellular response to retinoic acid	GO_0071300	0	1	1	0
-cellular response to gibberellin stimulus	GO_0071370	0	1	1	0
-cellular response to farnesol	GO_0097308	0	1	1	0
-cellular response to abscisic acid stimulus	GO_0071215	0	1	1	0
-carotenoid transport	GO_0046867	0	1	1	0
-carotenoid metabolic process	GO_0016116	0	1	1	0
-carotenoid catabolic process	GO_0016118	0	1	1	0
-carotenoid biosynthetic process	GO_0016117	0	1	1	0
-capsorubin metabolic process	GO_1901864	0	1	1	0
-capsorubin catabolic process	GO_1901865	0	1	1	0
-capsorubin biosynthetic process	GO_1901866	0	1	1	0
-capsanthin metabolic process	GO_1901807	0	1	1	0
-capsanthin catabolic process	GO_1901808	0	1	1	0
-capsanthin biosynthetic process	GO_1901809	0	1	1	0
-astaxanthin metabolic process	GO_1901813	0	1	1	0
-astaxanthin catabolic process	GO_1901814	0	1	1	0
-astaxanthin biosynthetic process	GO_1901815	0	1	1	0
-all-trans-neoxanthin metabolic process	GO_1901831	0	1	1	0
-all-trans-neoxanthin catabolic process	GO_1901832	0	1	1	0
-all-trans-neoxanthin biosynthetic process	GO_1901833	0	1	1	0
-all-trans retinal binding	GO_0005503	0	1	1	0
-abscisic acid-activated signaling pathway involved in stomatal movement	GO_1901527	0	1	1	0
-abscisic acid-activated signaling pathway	GO_0009738	0	1	1	0
-abscisic acid transporter activity	GO_0090440	0	1	1	0
-abscisic acid transport	GO_0080168	0	1	1	0
-abscisic acid metabolic process	GO_0009687	0	1	1	0
-abscisic acid catabolic process	GO_0046345	0	1	1	0
-abscisic acid biosynthetic process	GO_0009688	0	1	1	0
-abscisic acid binding	GO_0010427	0	1	1	0
-GDP-alpha-D-mannosylchitobiosyldiphosphodolichol metabolic process	GO_0046376	0	1	1	0
-GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthetic process	GO_0019347	0	1	1	0
-9-cis-retinoic acid metabolic process	GO_0042905	0	1	1	0
-9-cis-retinoic acid biosynthetic process	GO_0042904	0	1	1	0
-9-cis retinoic acid receptor activity	GO_0004886	0	1	1	0
-6-hydroxycineole metabolic process	GO_0019638	0	1	1	0
-6-hydroxycineole catabolic process	GO_0019639	0	1	1	0
-5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate metabolic process	GO_1901947	0	1	1	0
-5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate catabolic process	GO_1901948	0	1	1	0
-5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate biosynthetic process	GO_1901949	0	1	1	0
-4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process	GO_0036107	0	1	1	0
-4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process	GO_0036108	0	1	1	0
-3,4-didehydroretinal binding	GO_0046876	0	1	1	0
-11-oxo-beta-amyrin metabolic process	GO_1902381	0	1	1	0
-11-oxo-beta-amyrin catabolic process	GO_1902382	0	1	1	0
-11-oxo-beta-amyrin biosynthetic process	GO_1902383	0	1	1	0
-11-cis retinal binding	GO_0005502	0	1	1	0
-(17Z)-protosta-17(20),24-dien-3beta-ol metabolic process	GO_1900579	0	1	1	0
-(17Z)-protosta-17(20),24-dien-3beta-ol catabolic process	GO_1900580	0	1	1	0
-(17Z)-protosta-17(20),24-dien-3beta-ol biosynthetic process	GO_1900581	0	1	1	0
-(-)-secologanin metabolic process	GO_1900992	0	1	1	0
-(-)-secologanin catabolic process	GO_1900993	0	1	1	0
-(-)-secologanin biosynthetic process	GO_1900994	0	1	1	0
-(+)-epi-alpha-bisabolol metabolic process	GO_1901941	0	1	1	0
-(+)-epi-alpha-bisabolol catabolic process	GO_1901942	0	1	1	0
-(+)-epi-alpha-bisabolol biosynthetic process	GO_1901943	0	1	1	0
-(+)-camphor metabolic process	GO_0018882	0	1	1	0
-(+)-camphor catabolic process	GO_0019383	0	1	1	0
-(+)-camphor biosynthetic process	GO_0046211	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+terpenoid transport	GO_0046865	1	1	1	0	0
+terpenoid metabolic process	GO_0006721	1	1	1	0	0
+terpenoid catabolic process	GO_0016115	1	1	1	0	0
+terpenoid biosynthetic process, mevalonate-independent	GO_0051483	1	1	1	0	0
+terpenoid biosynthetic process, mevalonate-dependent	GO_0051485	1	1	1	0	0
+terpenoid biosynthetic process	GO_0016114	1	1	1	0	0
+terpenoid indole alkaloid metabolic process	GO_0046447	1	0	1	0	0
+terpenoid indole alkaloid biosynthetic process	GO_0009709	1	0	1	0	0
+zeaxanthin metabolic process	GO_1901825	0	1	1	0	0
+zeaxanthin catabolic process	GO_1901826	0	1	1	0	0
+zeaxanthin bis(beta-D-glucoside) metabolic process	GO_1901828	0	1	1	0	0
+zeaxanthin bis(beta-D-glucoside) catabolic process	GO_1901829	0	1	1	0	0
+zeaxanthin bis(beta-D-glucoside) biosynthetic process	GO_1901830	0	1	1	0	0
+zeaxanthin biosynthetic process	GO_1901827	0	1	1	0	0
+xanthophyll metabolic process	GO_0016122	0	1	1	0	0
+xanthophyll cycle	GO_0010028	0	1	1	0	0
+xanthophyll catabolic process	GO_0016124	0	1	1	0	0
+xanthophyll biosynthetic process	GO_0016123	0	1	1	0	0
+xanthophyll binding	GO_0051738	0	1	1	0	0
+vitamin A transport	GO_0071938	0	1	1	0	0
+vitamin A metabolic process	GO_0006776	0	1	1	0	0
+vitamin A import	GO_0071939	0	1	1	0	0
+vitamin A biosynthetic process	GO_0035238	0	1	1	0	0
+tuberculosinol biosynthetic process	GO_0035440	0	1	1	0	0
+triterpenoid metabolic process	GO_0006722	0	1	1	0	0
+triterpenoid catabolic process	GO_0016105	0	1	1	0	0
+triterpenoid biosynthetic process	GO_0016104	0	1	1	0	0
+tricyclic triterpenoid metabolic process	GO_0010683	0	1	1	0	0
+tricyclic triterpenoid catabolic process	GO_0010684	0	1	1	0	0
+tricyclic triterpenoid biosynthetic process	GO_0010263	0	1	1	0	0
+thalianol metabolic process	GO_0080003	0	1	1	0	0
+tetraterpenoid transport	GO_0046866	0	1	1	0	0
+tetraterpenoid metabolic process	GO_0016108	0	1	1	0	0
+tetraterpenoid catabolic process	GO_0016110	0	1	1	0	0
+tetraterpenoid biosynthetic process	GO_0016109	0	1	1	0	0
+tetracyclic triterpenoid metabolic process	GO_0010685	0	1	1	0	0
+tetracyclic triterpenoid biosynthetic process	GO_0010686	0	1	1	0	0
+strigolactone metabolic process	GO_1901600	0	1	1	0	0
+strigolactone biosynthetic process	GO_1901601	0	1	1	0	0
+spheroidene metabolic process	GO_1901178	0	1	1	0	0
+spheroidene catabolic process	GO_1901179	0	1	1	0	0
+spheroidene biosynthetic process	GO_1901180	0	1	1	0	0
+sesquiterpenoid metabolic process	GO_0006714	0	1	1	0	0
+sesquiterpenoid catabolic process	GO_0016107	0	1	1	0	0
+sesquiterpenoid biosynthetic process	GO_0016106	0	1	1	0	0
+retinol transporter activity	GO_0034632	0	1	1	0	0
+retinol transport	GO_0034633	0	1	1	0	0
+retinol metabolic process	GO_0042572	0	1	1	0	0
+retinol binding	GO_0019841	0	1	1	0	0
+retinoid metabolic process	GO_0001523	0	1	1	0	0
+retinoid binding	GO_0005501	0	1	1	0	0
+retinoic acid receptor activity	GO_0003708	0	1	1	0	0
+retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	1	0	0
+retinoic acid metabolic process	GO_0042573	0	1	1	0	0
+retinoic acid catabolic process	GO_0034653	0	1	1	0	0
+retinoic acid biosynthetic process	GO_0002138	0	1	1	0	0
+retinoic acid binding	GO_0001972	0	1	1	0	0
+retinal metabolic process	GO_0042574	0	1	1	0	0
+retinal binding	GO_0016918	0	1	1	0	0
+response to vitamin A	GO_0033189	0	1	1	0	0
+response to strigolactone	GO_1902347	0	1	1	0	0
+response to retinoic acid	GO_0032526	0	1	1	0	0
+response to paclitaxel	GO_1901555	0	1	1	0	0
+response to gibberellin	GO_0009739	0	1	1	0	0
+response to farnesol	GO_0097307	0	1	1	0	0
+response to abscisic acid	GO_0009737	0	1	1	0	0
+polyterpenoid metabolic process	GO_0016111	0	1	1	0	0
+polyterpenoid catabolic process	GO_0016113	0	1	1	0	0
+polyterpenoid biosynthetic process	GO_0016112	0	1	1	0	0
+phytyl diphosphate metabolic process	GO_0033519	0	1	1	0	0
+phytyl diphosphate biosynthetic process	GO_0033521	0	1	1	0	0
+phytol salvage	GO_0033307	0	1	1	0	0
+phytol metabolic process	GO_0033306	0	1	1	0	0
+phytol biosynthetic process	GO_0033520	0	1	1	0	0
+phorbol ester receptor activity	GO_0001565	0	1	1	0	0
+phaseic acid biosynthetic process	GO_0010379	0	1	1	0	0
+pentalenolactone metabolic process	GO_1901778	0	1	1	0	0
+pentalenolactone catabolic process	GO_1901779	0	1	1	0	0
+pentalenolactone biosynthetic process	GO_1901780	0	1	1	0	0
+pentacyclic triterpenoid metabolic process	GO_0019742	0	1	1	0	0
+pentacyclic triterpenoid catabolic process	GO_0019741	0	1	1	0	0
+pentacyclic triterpenoid biosynthetic process	GO_0019745	0	1	1	0	0
+paclitaxel metabolic process	GO_0042616	0	1	1	0	0
+paclitaxel biosynthetic process	GO_0042617	0	1	1	0	0
+non-kinase phorbol ester receptor activity	GO_0001566	0	1	1	0	0
+monoterpenoid metabolic process	GO_0016098	0	1	1	0	0
+monoterpenoid catabolic process	GO_0016100	0	1	1	0	0
+monoterpenoid biosynthetic process	GO_0016099	0	1	1	0	0
+menthol metabolic process	GO_0031524	0	1	1	0	0
+menthol biosynthetic process	GO_0031525	0	1	1	0	0
+maintenance of seed dormancy	GO_0010231	0	1	1	0	0
+juvenile hormone secretion	GO_0045443	0	1	1	0	0
+juvenile hormone receptor activity	GO_0004880	0	1	1	0	0
+juvenile hormone metabolic process	GO_0006716	0	1	1	0	0
+juvenile hormone catabolic process	GO_0006719	0	1	1	0	0
+juvenile hormone biosynthetic process	GO_0006718	0	1	1	0	0
+juvenile hormone binding	GO_0005500	0	1	1	0	0
+hopanoid metabolic process	GO_0019744	0	1	1	0	0
+hopanoid catabolic process	GO_0019743	0	1	1	0	0
+hopanoid biosynthetic process	GO_0019746	0	1	1	0	0
+glycyrrhetinate metabolic process	GO_1902384	0	1	1	0	0
+glycyrrhetinate catabolic process	GO_1902385	0	1	1	0	0
+glycyrrhetinate biosynthetic process	GO_1902386	0	1	1	0	0
+gibberellin metabolic process	GO_0009685	0	1	1	0	0
+gibberellin mediated signaling pathway	GO_0010476	0	1	1	0	0
+gibberellin catabolic process	GO_0045487	0	1	1	0	0
+gibberellin biosynthetic process	GO_0009686	0	1	1	0	0
+gibberellin binding	GO_0010331	0	1	1	0	0
+gibberellin 12 metabolic process	GO_0033469	0	1	1	0	0
+gibberellin 12 biosynthetic process	GO_0033470	0	1	1	0	0
+gibberellic acid mediated signaling pathway, G-alpha-independent	GO_0042390	0	1	1	0	0
+gibberellic acid mediated signaling pathway, G-alpha-dependent	GO_0042388	0	1	1	0	0
+gibberellic acid mediated signaling pathway	GO_0009740	0	1	1	0	0
+geranylgeranyl diphosphate metabolic process	GO_0033385	0	1	1	0	0
+geranylgeranyl diphosphate catabolic process	GO_1902247	0	1	1	0	0
+geranylgeranyl diphosphate biosynthetic process	GO_0033386	0	1	1	0	0
+geranyl diphosphate metabolic process	GO_0033383	0	1	1	0	0
+geranyl diphosphate biosynthetic process	GO_0033384	0	1	1	0	0
+geraniol metabolic process	GO_1903446	0	1	1	0	0
+geraniol catabolic process	GO_1903447	0	1	1	0	0
+geraniol biosynthetic process	GO_1903448	0	1	1	0	0
+farnesyl diphosphate metabolic process	GO_0045338	0	1	1	0	0
+farnesyl diphosphate catabolic process	GO_0045339	0	1	1	0	0
+farnesyl diphosphate biosynthetic process, mevalonate pathway	GO_0010142	0	1	1	0	0
+farnesyl diphosphate biosynthetic process	GO_0045337	0	1	1	0	0
+farnesol metabolic process	GO_0016487	0	1	1	0	0
+farnesol catabolic process	GO_0016488	0	1	1	0	0
+farnesol biosynthetic process	GO_0006715	0	1	1	0	0
+diterpenoid metabolic process	GO_0016101	0	1	1	0	0
+diterpenoid catabolic process	GO_0016103	0	1	1	0	0
+diterpenoid biosynthetic process	GO_0016102	0	1	1	0	0
+diterpene phytoalexin metabolic process	GO_0051501	0	1	1	0	0
+diterpene phytoalexin biosynthetic process	GO_0051502	0	1	1	0	0
+detection of gibberellic acid stimulus	GO_0009728	0	1	1	0	0
+detection of abscisic acid stimulus	GO_0009724	0	1	1	0	0
+copal-8-ol diphosphate(3-) metabolic process	GO_1902241	0	1	1	0	0
+copal-8-ol diphosphate(3-) catabolic process	GO_1902242	0	1	1	0	0
+copal-8-ol diphosphate(3-) biosynthetic process	GO_1902243	0	1	1	0	0
+cis-abienol metabolic process	GO_1902244	0	1	1	0	0
+cis-abienol catabolic process	GO_1902245	0	1	1	0	0
+cis-abienol biosynthetic process	GO_1902246	0	1	1	0	0
+cellular response to vitamin A	GO_0071299	0	1	1	0	0
+cellular response to strigolactone	GO_1902348	0	1	1	0	0
+cellular response to retinoic acid	GO_0071300	0	1	1	0	0
+cellular response to gibberellin stimulus	GO_0071370	0	1	1	0	0
+cellular response to farnesol	GO_0097308	0	1	1	0	0
+cellular response to abscisic acid stimulus	GO_0071215	0	1	1	0	0
+carotenoid transport	GO_0046867	0	1	1	0	0
+carotenoid metabolic process	GO_0016116	0	1	1	0	0
+carotenoid catabolic process	GO_0016118	0	1	1	0	0
+carotenoid biosynthetic process	GO_0016117	0	1	1	0	0
+capsorubin metabolic process	GO_1901864	0	1	1	0	0
+capsorubin catabolic process	GO_1901865	0	1	1	0	0
+capsorubin biosynthetic process	GO_1901866	0	1	1	0	0
+capsanthin metabolic process	GO_1901807	0	1	1	0	0
+capsanthin catabolic process	GO_1901808	0	1	1	0	0
+capsanthin biosynthetic process	GO_1901809	0	1	1	0	0
+astaxanthin metabolic process	GO_1901813	0	1	1	0	0
+astaxanthin catabolic process	GO_1901814	0	1	1	0	0
+astaxanthin biosynthetic process	GO_1901815	0	1	1	0	0
+all-trans-neoxanthin metabolic process	GO_1901831	0	1	1	0	0
+all-trans-neoxanthin catabolic process	GO_1901832	0	1	1	0	0
+all-trans-neoxanthin biosynthetic process	GO_1901833	0	1	1	0	0
+all-trans retinal binding	GO_0005503	0	1	1	0	0
+abscisic acid-activated signaling pathway involved in stomatal movement	GO_1901527	0	1	1	0	0
+abscisic acid-activated signaling pathway	GO_0009738	0	1	1	0	0
+abscisic acid transporter activity	GO_0090440	0	1	1	0	0
+abscisic acid transport	GO_0080168	0	1	1	0	0
+abscisic acid metabolic process	GO_0009687	0	1	1	0	0
+abscisic acid catabolic process	GO_0046345	0	1	1	0	0
+abscisic acid biosynthetic process	GO_0009688	0	1	1	0	0
+abscisic acid binding	GO_0010427	0	1	1	0	0
+GDP-alpha-D-mannosylchitobiosyldiphosphodolichol metabolic process	GO_0046376	0	1	1	0	0
+GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthetic process	GO_0019347	0	1	1	0	0
+9-cis-retinoic acid metabolic process	GO_0042905	0	1	1	0	0
+9-cis-retinoic acid biosynthetic process	GO_0042904	0	1	1	0	0
+9-cis retinoic acid receptor activity	GO_0004886	0	1	1	0	0
+6-hydroxycineole metabolic process	GO_0019638	0	1	1	0	0
+6-hydroxycineole catabolic process	GO_0019639	0	1	1	0	0
+5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate metabolic process	GO_1901947	0	1	1	0	0
+5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate catabolic process	GO_1901948	0	1	1	0	0
+5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate biosynthetic process	GO_1901949	0	1	1	0	0
+4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process	GO_0036107	0	1	1	0	0
+4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process	GO_0036108	0	1	1	0	0
+3,4-didehydroretinal binding	GO_0046876	0	1	1	0	0
+11-oxo-beta-amyrin metabolic process	GO_1902381	0	1	1	0	0
+11-oxo-beta-amyrin catabolic process	GO_1902382	0	1	1	0	0
+11-oxo-beta-amyrin biosynthetic process	GO_1902383	0	1	1	0	0
+11-cis retinal binding	GO_0005502	0	1	1	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol metabolic process	GO_1900579	0	1	1	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol catabolic process	GO_1900580	0	1	1	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol biosynthetic process	GO_1900581	0	1	1	0	0
+(-)-secologanin metabolic process	GO_1900992	0	1	1	0	0
+(-)-secologanin catabolic process	GO_1900993	0	1	1	0	0
+(-)-secologanin biosynthetic process	GO_1900994	0	1	1	0	0
+(+)-epi-alpha-bisabolol metabolic process	GO_1901941	0	1	1	0	0
+(+)-epi-alpha-bisabolol catabolic process	GO_1901942	0	1	1	0	0
+(+)-epi-alpha-bisabolol biosynthetic process	GO_1901943	0	1	1	0	0
+(+)-camphor metabolic process	GO_0018882	0	1	1	0	0
+(+)-camphor catabolic process	GO_0019383	0	1	1	0	0
+(+)-camphor biosynthetic process	GO_0046211	0	1	1	0	0

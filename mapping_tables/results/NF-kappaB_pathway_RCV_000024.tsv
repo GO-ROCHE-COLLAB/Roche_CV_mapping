@@ -1,7 +1,7 @@
-name	ID	manual	auto	checked	blacklisted
-NF-kappaB import into nucleus	GO_0042348	1	1	1	0
-NIK/NF-kappaB signaling	GO_0038061	1	0	1	0
-release of cytoplasmic sequestered NF-kappaB	GO_0008588	0	1	0	0
-IkappaB kinase activity	GO_0008384	0	1	0	0
-I-kappaB phosphorylation	GO_0007252	0	1	0	0
-I-kappaB kinase/NF-kappaB signaling	GO_0007249	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+NF-kappaB import into nucleus	GO_0042348	1	1	1	0	0
+NIK/NF-kappaB signaling	GO_0038061	1	0	1	0	0
+release of cytoplasmic sequestered NF-kappaB	GO_0008588	0	1	0	0	0
+IkappaB kinase activity	GO_0008384	0	1	0	0	0
+I-kappaB phosphorylation	GO_0007252	0	1	0	0	0
+I-kappaB kinase/NF-kappaB signaling	GO_0007249	0	1	0	0	0

@@ -1,25 +1,25 @@
-name	ID	manual	auto	checked	blacklisted
-monocyte homeostasis	GO_0035702	1	1	1	0
-monocyte chemotaxis	GO_0002548	1	1	1	0
-monocyte activation	GO_0042117	1	1	1	0
-regulation of monocyte extravasation	GO_2000437	1	0	1	0
-regulation of monocyte differentiation	GO_0045655	1	0	1	0
-regulation of monocyte chemotactic protein-1 production	GO_0071637	1	0	1	0
-regulation of monocyte antigen processing and presentation	GO_0002613	1	0	1	0
-regulation of monocyte aggregation	GO_1900623	1	0	1	0
-positive regulation of monocyte extravasation	GO_2000439	1	0	1	0
-positive regulation of monocyte differentiation	GO_0045657	1	0	1	0
-positive regulation of monocyte chemotactic protein-1 production	GO_0071639	1	0	1	0
-positive regulation of monocyte aggregation	GO_1900625	1	0	1	0
-negative regulation of monocyte extravasation	GO_2000438	1	0	1	0
-negative regulation of monocyte differentiation	GO_0045656	1	0	1	0
-negative regulation of monocyte chemotactic protein-1 production	GO_0071638	1	0	1	0
-negative regulation of monocyte antigen processing and presentation	GO_0002614	1	0	1	0
-negative regulation of monocyte aggregation	GO_1900624	1	0	1	0
-monocyte migration into blood stream	GO_0035703	1	0	1	0
-monocyte extravasation	GO_0035696	1	0	1	0
-monocyte differentiation	GO_0030224	1	0	1	0
-monocyte chemotactic protein-1 production	GO_0071605	1	0	1	0
-monocyte antigen processing and presentation	GO_0002471	1	0	1	0
-monocyte aggregation	GO_0070487	1	0	1	0
-monocyte activation involved in immune response	GO_0002280	0	1	0	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+monocyte homeostasis	GO_0035702	1	1	1	0	0
+monocyte chemotaxis	GO_0002548	1	1	1	0	0
+monocyte activation	GO_0042117	1	1	1	0	0
+regulation of monocyte extravasation	GO_2000437	1	0	1	0	0
+regulation of monocyte differentiation	GO_0045655	1	0	1	0	0
+regulation of monocyte chemotactic protein-1 production	GO_0071637	1	0	1	0	0
+regulation of monocyte antigen processing and presentation	GO_0002613	1	0	1	0	0
+regulation of monocyte aggregation	GO_1900623	1	0	1	0	0
+positive regulation of monocyte extravasation	GO_2000439	1	0	1	0	0
+positive regulation of monocyte differentiation	GO_0045657	1	0	1	0	0
+positive regulation of monocyte chemotactic protein-1 production	GO_0071639	1	0	1	0	0
+positive regulation of monocyte aggregation	GO_1900625	1	0	1	0	0
+negative regulation of monocyte extravasation	GO_2000438	1	0	1	0	0
+negative regulation of monocyte differentiation	GO_0045656	1	0	1	0	0
+negative regulation of monocyte chemotactic protein-1 production	GO_0071638	1	0	1	0	0
+negative regulation of monocyte antigen processing and presentation	GO_0002614	1	0	1	0	0
+negative regulation of monocyte aggregation	GO_1900624	1	0	1	0	0
+monocyte migration into blood stream	GO_0035703	1	0	1	0	0
+monocyte extravasation	GO_0035696	1	0	1	0	0
+monocyte differentiation	GO_0030224	1	0	1	0	0
+monocyte chemotactic protein-1 production	GO_0071605	1	0	1	0	0
+monocyte antigen processing and presentation	GO_0002471	1	0	1	0	0
+monocyte aggregation	GO_0070487	1	0	1	0	0
+monocyte activation involved in immune response	GO_0002280	0	1	0	0	0

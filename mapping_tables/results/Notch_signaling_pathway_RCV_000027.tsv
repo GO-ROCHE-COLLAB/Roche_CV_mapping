@@ -1,14 +1,14 @@
-name	ID	manual	auto	checked	blacklisted
-Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003270	1	1	1	0
-Notch signaling pathway involved in heart induction	GO_0003137	1	1	1	0
-Notch signaling pathway involved in forebrain neuron fate commitment	GO_0021880	1	1	1	0
-Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	1	1	1	0
-Notch signaling pathway involved in camera-type eye photoreceptor fate commitment	GO_0060227	1	1	1	0
-Notch signaling pathway	GO_0007219	1	1	1	0
-Notch signaling involved in heart development	GO_0061314	1	1	1	0
-Notch receptor processing, ligand-independent	GO_0035334	1	0	1	0
-Notch receptor processing, ligand-dependent	GO_0035333	1	0	1	0
-Notch receptor processing	GO_0007220	1	0	1	0
-Notch signaling pathway involved in somitogenesis	GO_1902359	0	1	1	0
-Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment	GO_2000796	0	1	1	0
-Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	1	0
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003270	1	1	1	0	0
+Notch signaling pathway involved in heart induction	GO_0003137	1	1	1	0	0
+Notch signaling pathway involved in forebrain neuron fate commitment	GO_0021880	1	1	1	0	0
+Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	1	1	1	0	0
+Notch signaling pathway involved in camera-type eye photoreceptor fate commitment	GO_0060227	1	1	1	0	0
+Notch signaling pathway	GO_0007219	1	1	1	0	0
+Notch signaling involved in heart development	GO_0061314	1	1	1	0	0
+Notch receptor processing, ligand-independent	GO_0035334	1	0	1	0	0
+Notch receptor processing, ligand-dependent	GO_0035333	1	0	1	0	0
+Notch receptor processing	GO_0007220	1	0	1	0	0
+Notch signaling pathway involved in somitogenesis	GO_1902359	0	1	1	0	0
+Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment	GO_2000796	0	1	1	0	0
+Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	1	0	0
