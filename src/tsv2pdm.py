@@ -1,30 +1,36 @@
 #!/usr/bin/env python
-import sys
-import re
 import warnings
 import operator
 
 # Maybe use existing util rather than reinventing the wheel, e.g. https://github.com/brendano/tsvutils ?
 
-# Refactoring plan: split class into super (RC) and sub (RCD)
-
 
 class tab(object):
-    """Stores a tsv file as a list of dicts keyed on column header. Users should directly manipulate the tab attribute, which contains this datastructure. The method print tab returns the table as a list of strings for printing."""
+    """Stores a tsv file as a list of dicts keyed on column header. 
+    Users should directly manipulate the tab attribute, which contains this datastructure. 
+    The method print_tab returns the table as a list of strings for printing."""
 
     def __str__(self):
         return "file: %s; type = simple table; length: %d" % (self.file_name, len(self.tab)-1)
     
-    def __init__(self, path, file_name, key_column = ''):
-        """Read in file. First arg is path to file, minus file name (not stored in object), second arg is file name, third arg is the column to be used as a key"""
+    def __init__(self, path = '', file_name = '', key_column = ''):
+        """Read in file. 
+        First arg is path to file, minus file name (not stored in object)
+        Second arg is file name.
+        Third arg is a key column.
+        All args are optional, entering no args produces a blank object 
+        and throws an non-fatal warning"""
         self.file_name = file_name
         self.key_column = key_column
         self.tab = [] # list of dicts, keyed on column.
         self.rowColDict = {} #  dict of dicts - [row][column]
         self.headers = [] # declare headers as a list
-        self.parse_tsv(path, file_name)  # 
+        if path and file_name:
+            self.parse_tsv(path, file_name)  # 
+        else:
+            warnings.warn("Creating blank tab object")            
 
-    def parse_tsv(self, path, file_name):
+    def _parse_tsv(self, path, file_name):
         tsv_file = open(path + file_name, "r")
         hstat = 0
         for line in tsv_file:
@@ -41,6 +47,9 @@ class tab(object):
                     i += 1
                 self.tab.append(row)
         tsv_file.close()
+        
+    def parse_tsv(self, path, file_name):
+        self._parse_tsv(path, file_name)
         
     def print_tab(self, sort_keys=(), reverse=False):
         """Returns table as a string.  Optionally specify a tuple of columns to sort as sort_keys.
@@ -62,24 +71,44 @@ class tab(object):
                 outrow.append(row[h])
             out.append('\t'.join(map(unicode, outrow)))  # All content of list to unicode, then joined with a tab, then appended to output.
         return '\n'.join(out)
+    
+    def _append_column(self, cname, content):
+        """PRIVATE METHOD. EXTERNAL USE MAY BE UNSAFE!
+        Append a column called cname to the table.
+        """
+        self.headers.append(cname)
+        for r in self.tab:
+            r[cname] = content # default content empty string
+            
+    def append_column(self, cname, content = ''):
+        """Append a column called cname to the table.
+        Optionally define default content of column.
+        (if unspecified, this = empty string.)"""
+        self._append_column(cname, content)
 
 class rcd(tab):
-    """A class for making tables with a key column.  The contents of this column must be uniq'd. The table is stored in the attribute rowColDict, which stores the tab as a dict of dicts - [row][column]."""
+    """A class for making tables with a key column. 
+     The contents of this column must be uniq'd. 
+     Attributes (instance level):
+       - rowColDict - Primary data storage
+                    =  table as a dict of dicts - [row][column].
+       - headers - Table headers, stored as a list.
+    """
+    
+    # __init__ inherited from tab
+       
     def __str__(self):
         return "file: %s; type: row column dict; key_column: %s; length: %d" % (self.file_name, self.key_column, len(self.rowColDict.keys())-1)
-        
-    def __init__(self, path, file_name, key_column):
-        self.file_name = file_name
-        self.key_column = key_column
-        self.tab = [] # list of dicts keyed on column
-        self.rowColDict = {} # dict of dicts - [row][column]
-        self.headers = [] # declare headers as a list
-        self.parse_tsv(path, file_name)
+    
+    def parse_tsv(self, path, file_name):
+        """Parses tsv file into self.rowColumnDict"""
+        self._parse_tsv(path, file_name)
         if self.key_column_check():
             self.genRowColDict()
-            
+        
     def genRowColDict(self):
-        """Turns a table represented as a list of dicts into a dict of dicts keyed on the contents of a specified key row."""
+        """Turns a table represented as a list of dicts into a dict of dicts 
+        keyed on the contents of self.key_column."""
         # only roll if there is a key column
         if self.key_column:
             for d in self.tab:
@@ -118,6 +147,14 @@ class rcd(tab):
         out = self._print_tab(sort_keys, reverse)
         self.tab = []  # Blanking out as this is not primary store for datamodel.
         return out
-
+    
+    def append_column(self, cname, content = ''):
+        """Append a column called cname to the table"""
+        # Overides method on tab. Result is the same, but made safe for rcd
+        self.tab = self.rowColDict.values()
+        self._append_column(cname, content)
+        self.genRowColDict()
+        self.tab = [] # Blanking out as this is not primary store for datamodel.
+        
         
             
