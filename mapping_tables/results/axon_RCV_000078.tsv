@@ -1,0 +1,161 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+sprouting of injured axon	GO_0048682	1	1	1	0	0
+retinal ganglion cell axon guidance	GO_0031290	1	1	1	0	0
+regulation of sprouting of injured axon	GO_0048686	1	1	1	0	0
+regulation of retinal ganglion cell axon guidance	GO_0090259	1	1	1	0	0
+regulation of photoreceptor cell axon guidance	GO_2000289	1	1	1	0	0
+regulation of collateral sprouting of intact axon in response to injury	GO_0048683	1	1	1	0	0
+regulation of collateral sprouting of injured axon	GO_0048693	1	1	1	0	0
+regulation of axonogenesis	GO_0050770	1	1	1	0	0
+regulation of axon regeneration	GO_0048679	1	1	1	0	0
+regulation of axon extension involved in regeneration	GO_0048690	1	1	1	0	0
+regulation of axon extension involved in axon guidance	GO_0048841	1	1	1	0	0
+regulation of axon extension	GO_0030516	1	1	1	0	0
+regulation of axon diameter	GO_0031133	1	1	1	0	0
+positive regulation of sprouting of injured axon	GO_0048687	1	1	1	0	0
+positive regulation of collateral sprouting of intact axon in response to injury	GO_0048684	1	1	1	0	0
+positive regulation of collateral sprouting of injured axon	GO_0048694	1	1	1	0	0
+positive regulation of axonogenesis	GO_0050772	1	1	1	0	0
+positive regulation of axon regeneration	GO_0048680	1	1	1	0	0
+positive regulation of axon extension involved in regeneration	GO_0048691	1	1	1	0	0
+positive regulation of axon extension involved in axon guidance	GO_0048842	1	1	1	0	0
+positive regulation of axon extension	GO_0045773	1	1	1	0	0
+photoreceptor cell axon guidance	GO_0072499	1	1	1	0	0
+peripheral nervous system neuron axonogenesis	GO_0048936	1	1	1	0	0
+peripheral nervous system axon regeneration	GO_0014012	1	1	1	0	0
+negative regulation of sprouting of injured axon	GO_0048688	1	1	1	0	0
+negative regulation of retinal ganglion cell axon guidance	GO_0090260	1	1	1	0	0
+negative regulation of collateral sprouting of intact axon in response to injury	GO_0048685	1	1	1	0	0
+negative regulation of collateral sprouting of injured axon	GO_0048695	1	1	1	0	0
+negative regulation of axonogenesis	GO_0050771	1	1	1	0	0
+negative regulation of axon regeneration	GO_0048681	1	1	1	0	0
+negative regulation of axon extension involved in regeneration	GO_0048692	1	1	1	0	0
+negative regulation of axon extension involved in axon guidance	GO_0048843	1	1	1	0	0
+negative regulation of axon extension	GO_0030517	1	1	1	0	0
+motor neuron axon guidance	GO_0008045	1	1	1	0	0
+formation of growth cone in injured axon	GO_0048689	1	1	1	0	0
+fasciculation of sensory neuron axon	GO_0097155	1	1	1	0	0
+fasciculation of motor neuron axon	GO_0097156	1	1	1	0	0
+efferent axon development in posterior lateral line nerve	GO_0048929	1	1	1	0	0
+efferent axon development in anterior lateral line nerve	GO_0048911	1	1	1	0	0
+efferent axon development in a lateral line nerve	GO_0048894	1	1	1	0	0
+dorsal/ventral axon guidance	GO_0033563	1	1	1	0	0
+defasciculation of motor neuron axon	GO_0007415	1	1	1	0	0
+corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	1	1	1	0	0
+corticospinal neuron axon guidance through the internal capsule	GO_0021968	1	1	1	0	0
+corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	1	1	1	0	0
+corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	1	1	1	0	0
+corticospinal neuron axon guidance through the basilar pons	GO_0021970	1	1	1	0	0
+corticospinal neuron axon guidance through spinal cord	GO_0021972	1	1	1	0	0
+corticospinal neuron axon guidance	GO_0021966	1	1	1	0	0
+corticospinal neuron axon decussation	GO_0021973	1	1	1	0	0
+commissural neuron axon guidance	GO_0071679	1	1	1	0	0
+collateral sprouting of intact axon in response to injury	GO_0048673	1	1	1	0	0
+collateral sprouting of injured axon	GO_0048674	1	1	1	0	0
+chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	1	1	1	0	0
+chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	1	1	1	0	0
+chemorepulsion of branchiomotor axon	GO_0021793	1	1	1	0	0
+chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	1	1	1	0	0
+chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	1	1	1	0	0
+chemoattraction of branchiomotor axon	GO_0021792	1	1	1	0	0
+branchiomotor neuron axon guidance in neural tube	GO_0021786	1	1	1	0	0
+branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	1	1	1	0	0
+branchiomotor neuron axon guidance	GO_0021785	1	1	1	0	0
+axonogenesis involved in innervation	GO_0060385	1	1	1	0	0
+axonogenesis	GO_0007409	1	1	1	0	0
+axonal fasciculation	GO_0007413	1	1	1	0	0
+axonal defasciculation	GO_0007414	1	1	1	0	0
+axon target recognition	GO_0007412	1	1	1	0	0
+axon regeneration at neuromuscular junction	GO_0014814	1	1	1	0	0
+axon regeneration	GO_0031103	1	1	1	0	0
+axon midline choice point recognition	GO_0016199	1	1	1	0	0
+axon guidance	GO_0007411	1	1	1	0	0
+axon extension involved in regeneration	GO_0048677	1	1	1	0	0
+axon extension involved in axon guidance	GO_0048846	1	1	1	0	0
+axon extension	GO_0048675	1	1	1	0	0
+axon choice point recognition	GO_0016198	1	1	1	0	0
+anterior/posterior axon guidance	GO_0033564	1	1	1	0	0
+afferent axon development in posterior lateral line nerve	GO_0048933	1	1	1	0	0
+afferent axon development in lateral line nerve	GO_0048893	1	1	1	0	0
+afferent axon development in anterior lateral line nerve	GO_0048910	1	1	1	0	0
+Schwann cell proliferation involved in axon regeneration	GO_0014011	1	1	1	0	0
+Roundabout signaling pathway involved in axon guidance	GO_2001266	1	1	1	0	0
+sperm axoneme assembly	GO_0007288	1	0	1	0	0
+semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance	GO_2000305	1	0	1	0	0
+retrograde axon cargo transport	GO_0008090	1	0	1	0	0
+response to axon injury	GO_0048678	1	0	1	0	0
+regulation of retrograde axon cargo transport	GO_2001017	1	0	1	0	0
+protein localization to paranode region of axon	GO_0002175	1	0	1	0	0
+protein localization to myelin sheath abaxonal region	GO_0035750	1	0	1	0	0
+protein localization to juxtaparanode region of axon	GO_0071205	1	0	1	0	0
+positive regulation of retrograde axon cargo transport	GO_2001019	1	0	1	0	0
+peripheral nervous system non-myelinated axon ensheathment	GO_0032294	1	0	1	0	0
+peripheral nervous system axon ensheathment	GO_0032292	1	0	1	0	0
+non-myelinated axon ensheathment in central nervous system	GO_0032293	1	0	1	0	0
+non-myelinated axon ensheathment	GO_0032285	1	0	1	0	0
+negative regulation of retrograde axon cargo transport	GO_2001018	1	0	1	0	0
+negative regulation of axonemal microtubule depolymerization	GO_0007027	1	0	1	0	0
+myelination of posterior lateral line nerve axons	GO_0048932	1	0	1	0	0
+myelination of lateral line nerve axons	GO_0048897	1	0	1	0	0
+myelination of anterior lateral line nerve axons	GO_0048914	1	0	1	0	0
+mammillothalamic axonal tract development	GO_0061374	1	0	1	0	0
+mammillotegmental axonal tract development	GO_0061376	1	0	1	0	0
+mammillotectal axonal tract development	GO_0061375	1	0	1	0	0
+mammillary axonal complex development	GO_0061373	1	0	1	0	0
+hypothalamic tangential migration using cell-axon interactions	GO_0021856	1	0	1	0	0
+establishment of protein localization to juxtaparanode region of axon	GO_0071206	1	0	1	0	0
+cerebral cortex tangential migration using cell-axon interactions	GO_0021824	1	0	1	0	0
+axoneme assembly	GO_0035082	1	0	1	0	0
+axonemal microtubule depolymerization	GO_0060404	1	0	1	0	0
+axonemal dynein complex assembly	GO_0070286	1	0	1	0	0
+axon transport of mitochondrion	GO_0019896	1	0	1	0	0
+axon ensheathment in central nervous system	GO_0032291	1	0	1	0	0
+axon ensheathment	GO_0008366	1	0	1	0	0
+axon cargo transport	GO_0008088	1	0	1	0	0
+anterograde axon cargo transport	GO_0008089	1	0	1	0	0
+vestibulospinal tract morphogenesis	GO_0021962	0	1	0	0	0
+trigeminothalamic tract morphogenesis	GO_0021974	0	1	0	0	0
+tectospinal tract morphogenesis	GO_0021977	0	1	0	0	0
+tectobulbar tract morphogenesis	GO_0034429	0	1	0	0	0
+sympathetic neuron axon guidance	GO_0097492	0	1	0	0	0
+spinothalamic tract morphogenesis	GO_0021963	0	1	0	0	0
+spinal sensory neuron axon guidance	GO_0097375	0	1	0	0	0
+spinal cord ventral commissure morphogenesis	GO_0021965	0	1	0	0	0
+spinal cord interneuron axon guidance	GO_0097377	0	1	0	0	0
+sensory neuron axon guidance	GO_0097374	0	1	0	0	0
+semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0	0
+rubrospinal tract morphogenesis	GO_0021964	0	1	0	0	0
+regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0	0
+regulation of collateral sprouting	GO_0048670	0	1	0	0	0
+regulation of axon guidance	GO_1902667	0	1	0	0	0
+posterior commissure morphogenesis	GO_0021961	0	1	0	0	0
+positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
+positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0	0
+positive regulation of collateral sprouting	GO_0048672	0	1	0	0	0
+positive regulation of axon guidance	GO_1902669	0	1	0	0	0
+pons reticulospinal tract morphogenesis	GO_0021975	0	1	0	0	0
+olfactory bulb axon guidance	GO_0071678	0	1	0	0	0
+negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0	0
+negative regulation of collateral sprouting	GO_0048671	0	1	0	0	0
+negative regulation of axon guidance	GO_1902668	0	1	0	0	0
+medulla reticulospinal tract morphogenesis	GO_0021976	0	1	0	0	0
+interneuron axon guidance	GO_0097376	0	1	0	0	0
+gracilis tract morphogenesis	GO_0021958	0	1	0	0	0
+dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0	0
+dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0	0
+dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0	0
+cuneatus tract morphogenesis	GO_0021959	0	1	0	0	0
+corticospinal tract morphogenesis	GO_0021957	0	1	0	0	0
+corpus callosum morphogenesis	GO_0021540	0	1	0	0	0
+collateral sprouting in absence of injury	GO_0048669	0	1	0	0	0
+collateral sprouting	GO_0048668	0	1	0	0	0
+chemorepulsion of axon	GO_0061643	0	1	0	0	0
+chemoattraction of axon	GO_0061642	0	1	0	0	0
+chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0	0
+central nervous system projection neuron axonogenesis	GO_0021952	0	1	0	0	0
+central nervous system neuron axonogenesis	GO_0021955	0	1	0	0	0
+central nervous system interneuron axonogenesis	GO_0021956	0	1	0	0	0
+axon guidance receptor activity	GO_0008046	0	1	0	0	0
+axon development	GO_0061564	0	1	0	0	0
+anterior commissure morphogenesis	GO_0021960	0	1	0	0	0
+VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0	0

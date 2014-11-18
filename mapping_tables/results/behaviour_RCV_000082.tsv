@@ -1,0 +1,279 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+multi-organism behavior	GO_0051705	1	1	1	0	0
+behavioral response to wounding	GO_0002210	1	1	1	0	0
+behavioral response to water deprivation	GO_0042630	1	1	1	0	0
+behavioral response to pain	GO_0048266	1	1	1	0	0
+behavioral response to nicotine	GO_0035095	1	1	1	0	0
+behavioral response to formalin induced pain	GO_0061368	1	1	1	0	0
+behavioral response to ether	GO_0048150	1	1	1	0	0
+behavioral response to ethanol	GO_0048149	1	1	1	0	0
+behavioral response to cocaine	GO_0048148	1	1	1	0	0
+behavioral response to chemical pain	GO_0061366	1	1	1	0	0
+behavioral response to acetic acid induced pain	GO_0061367	1	1	1	0	0
+behavioral fear response	GO_0001662	1	1	1	0	0
+behavioral defense response to nematode	GO_0002212	1	1	1	0	0
+behavioral defense response to insect	GO_0002211	1	1	1	0	0
+behavioral defense response	GO_0002209	1	1	1	0	0
+associative learning	GO_0008306	1	1	1	0	0
+adult walking behavior	GO_0007628	1	1	1	0	0
+adult behavior	GO_0030534	1	1	1	0	0
+behavioral response to starvation	GO_0042595	1	0	1	0	0
+behavioral response to nutrient	GO_0051780	1	0	1	0	0
+adult behavior (sensu Insecta)	GO_0008044	1	0	1	1	1
+vulval location	GO_0034608	0	1	0	0	0
+vocalization behavior	GO_0071625	0	1	0	0	0
+vocal learning	GO_0042297	0	1	0	0	0
+visual learning	GO_0008542	0	1	0	0	0
+visual behavior	GO_0007632	0	1	0	0	0
+turning behavior involved in mating	GO_0034607	0	1	0	0	0
+turning behavior	GO_0035178	0	1	0	0	0
+thermosensory behavior	GO_0040040	0	1	0	0	0
+territorial aggressive behavior	GO_0002124	0	1	0	0	0
+swimming behavior	GO_0036269	0	1	0	0	0
+suckling behavior	GO_0001967	0	1	0	0	0
+spicule insertion	GO_0034609	0	1	0	0	0
+social behavior	GO_0035176	0	1	0	0	0
+single-organism reproductive behavior	GO_0044704	0	1	0	0	0
+single-organism behavior	GO_0044708	0	1	0	0	0
+short-term memory	GO_0007614	0	1	0	0	0
+sensitization	GO_0046960	0	1	0	0	0
+salt aversion	GO_0035199	0	1	0	0	0
+rhythmic behavior	GO_0007622	0	1	0	0	0
+response to hermaphrodite contact	GO_0034606	0	1	0	0	0
+reproductive behavior	GO_0019098	0	1	0	0	0
+regulation of female receptivity, post-mating	GO_0046008	0	1	0	0	0
+regulation of female receptivity	GO_0045924	0	1	0	0	0
+regulation of circadian sleep/wake cycle, wakefulness	GO_0010840	0	1	0	0	0
+regulation of circadian sleep/wake cycle, sleep	GO_0045187	0	1	0	0	0
+regulation of circadian sleep/wake cycle, non-REM sleep	GO_0045188	0	1	0	0	0
+regulation of circadian sleep/wake cycle, REM sleep	GO_0042320	0	1	0	0	0
+regulation of circadian sleep/wake cycle	GO_0042749	0	1	0	0	0
+reduction of food intake in response to dietary excess	GO_0002023	0	1	0	0	0
+psychomotor behavior	GO_0036343	0	1	0	0	0
+proboscis extension reflex	GO_0007637	0	1	0	0	0
+predatory behavior	GO_0002120	0	1	0	0	0
+post-mating oviposition	GO_0060403	0	1	0	0	0
+post-mating behavior	GO_0045297	0	1	0	0	0
+positive regulation of female receptivity, post-mating	GO_0046009	0	1	0	0	0
+positive regulation of female receptivity	GO_0045925	0	1	0	0	0
+positive regulation of circadian sleep/wake cycle, wakefulness	GO_0010841	0	1	0	0	0
+positive regulation of circadian sleep/wake cycle, sleep	GO_0045938	0	1	0	0	0
+positive regulation of circadian sleep/wake cycle, non-REM sleep	GO_0046010	0	1	0	0	0
+positive regulation of circadian sleep/wake cycle, REM sleep	GO_0046005	0	1	0	0	0
+positive chemotaxis on or near other organism involved in symbiotic interaction	GO_0052241	0	1	0	0	0
+positive chemotaxis on or near host	GO_0052141	0	1	0	0	0
+positive chemotaxis in other organism involved in symbiotic interaction	GO_0052240	0	1	0	0	0
+positive chemotaxis in host environment	GO_0052121	0	1	0	0	0
+positive chemotaxis in host	GO_0052140	0	1	0	0	0
+positive chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052221	0	1	0	0	0
+positive aerotaxis on or near other organism involved in symbiotic interaction	GO_0052232	0	1	0	0	0
+positive aerotaxis on or near host	GO_0052132	0	1	0	0	0
+positive aerotaxis in other organism involved in symbiotic interaction	GO_0052233	0	1	0	0	0
+positive aerotaxis in host environment	GO_0052120	0	1	0	0	0
+positive aerotaxis in host	GO_0052133	0	1	0	0	0
+positive aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052220	0	1	0	0	0
+pharyngeal pumping	GO_0043050	0	1	0	0	0
+pattern orientation	GO_0007633	0	1	0	0	0
+paternal behavior	GO_0042712	0	1	0	0	0
+parental behavior	GO_0060746	0	1	0	0	0
+oviposition	GO_0018991	0	1	0	0	0
+oral incubation	GO_0060747	0	1	0	0	0
+optomotor response	GO_0071632	0	1	0	0	0
+optokinetic behavior	GO_0007634	0	1	0	0	0
+operant conditioning	GO_0035106	0	1	0	0	0
+olfactory learning	GO_0008355	0	1	0	0	0
+olfactory behavior	GO_0042048	0	1	0	0	0
+observational learning	GO_0098597	0	1	0	0	0
+nonassociative learning	GO_0046958	0	1	0	0	0
+negative regulation of female receptivity, post-mating	GO_0045434	0	1	0	0	0
+negative regulation of female receptivity	GO_0007621	0	1	0	0	0
+negative regulation of circadian sleep/wake cycle, sleep	GO_0042321	0	1	0	0	0
+negative regulation of circadian sleep/wake cycle, non-REM sleep	GO_0042323	0	1	0	0	0
+negative regulation of circadian sleep/wake cycle, REM sleep	GO_0042322	0	1	0	0	0
+negative chemotaxis on or near other organism involved in symbiotic interaction	GO_0052236	0	1	0	0	0
+negative chemotaxis on or near host	GO_0052136	0	1	0	0	0
+negative chemotaxis in other organism involved in symbiotic interaction	GO_0052239	0	1	0	0	0
+negative chemotaxis in host environment	GO_0052123	0	1	0	0	0
+negative chemotaxis in host	GO_0052139	0	1	0	0	0
+negative chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052223	0	1	0	0	0
+negative aerotaxis on or near other organism involved in symbiotic interaction	GO_0052234	0	1	0	0	0
+negative aerotaxis on or near host	GO_0052134	0	1	0	0	0
+negative aerotaxis in other organism involved in symbiotic interaction	GO_0052235	0	1	0	0	0
+negative aerotaxis in host environment	GO_0052122	0	1	0	0	0
+negative aerotaxis in host	GO_0052135	0	1	0	0	0
+negative aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052222	0	1	0	0	0
+multicellular organismal reproductive behavior	GO_0033057	0	1	0	0	0
+multi-organism reproductive behavior	GO_0044705	0	1	0	0	0
+memory	GO_0007613	0	1	0	0	0
+medium-term memory	GO_0072375	0	1	0	0	0
+mechanosensory behavior	GO_0007638	0	1	0	0	0
+mating plug formation	GO_0042628	0	1	0	0	0
+mating behavior, sex discrimination	GO_0048047	0	1	0	0	0
+mating behavior	GO_0007617	0	1	0	0	0
+maternal behavior	GO_0042711	0	1	0	0	0
+maternal aggressive behavior	GO_0002125	0	1	0	0	0
+male mating behavior	GO_0060179	0	1	0	0	0
+male courtship behavior, veined wing vibration	GO_0016545	0	1	0	0	0
+male courtship behavior, veined wing generated song production	GO_0045433	0	1	0	0	0
+male courtship behavior, veined wing extension	GO_0048065	0	1	0	0	0
+male courtship behavior, tapping to detect pheromone	GO_0016544	0	1	0	0	0
+male courtship behavior, proboscis-mediated licking	GO_0016546	0	1	0	0	0
+male courtship behavior, orientation prior to leg tapping and wing vibration	GO_0016543	0	1	0	0	0
+male courtship behavior	GO_0008049	0	1	0	0	0
+long-term memory	GO_0007616	0	1	0	0	0
+locomotory exploration behavior	GO_0035641	0	1	0	0	0
+locomotory behavior	GO_0007626	0	1	0	0	0
+locomotor rhythm	GO_0045475	0	1	0	0	0
+learning or memory	GO_0007611	0	1	0	0	0
+learning	GO_0007612	0	1	0	0	0
+learned vocalization behavior or vocal learning	GO_0098598	0	1	0	0	0
+learned vocalization behavior	GO_0098583	0	1	0	0	0
+larval wandering behavior	GO_0035180	0	1	0	0	0
+larval walking behavior	GO_0008346	0	1	0	0	0
+larval turning behavior	GO_0035179	0	1	0	0	0
+larval locomotory behavior	GO_0008345	0	1	0	0	0
+larval foraging behavior	GO_0035177	0	1	0	0	0
+larval feeding behavior	GO_0030536	0	1	0	0	0
+larval burrowing behavior	GO_0035181	0	1	0	0	0
+larval behavior	GO_0030537	0	1	0	0	0
+jump response	GO_0007630	0	1	0	0	0
+irritable aggressive behavior	GO_0002123	0	1	0	0	0
+iron acquisition by symbiont from host	GO_0044847	0	1	0	0	0
+inter-male aggressive behavior	GO_0002121	0	1	0	0	0
+instrumental aggressive behavior	GO_0002126	0	1	0	0	0
+innate vocalization behavior	GO_0098582	0	1	0	0	0
+injection of substance into other organism during feeding on blood of other organism	GO_0044370	0	1	0	0	0
+injection of substance in to other organism	GO_0035737	0	1	0	0	0
+imitative learning	GO_0098596	0	1	0	0	0
+host-seeking behavior	GO_0032537	0	1	0	0	0
+hatching behavior	GO_0035187	0	1	0	0	0
+habituation	GO_0046959	0	1	0	0	0
+grooming behavior	GO_0007625	0	1	0	0	0
+general adaptation syndrome, behavioral process	GO_0051867	0	1	0	0	0
+foraging behavior by probing substrate	GO_0060758	0	1	0	0	0
+foraging behavior	GO_0060756	0	1	0	0	0
+flight behavior	GO_0007629	0	1	0	0	0
+female mating behavior	GO_0060180	0	1	0	0	0
+female courtship behavior	GO_0008050	0	1	0	0	0
+feeding on or from other organism	GO_0044366	0	1	0	0	0
+feeding on blood of other organism	GO_0044369	0	1	0	0	0
+feeding from xylem of other organism	GO_0044372	0	1	0	0	0
+feeding from vascular tissue of another organism	GO_0044368	0	1	0	0	0
+feeding from tissue of other organism	GO_0044367	0	1	0	0	0
+feeding from phloem of other organism	GO_0044371	0	1	0	0	0
+feeding behavior	GO_0007631	0	1	0	0	0
+fear-induced aggressive behavior	GO_0002122	0	1	0	0	0
+exploration behavior	GO_0035640	0	1	0	0	0
+envenomation resulting in zymogen activation in other organism	GO_0044543	0	1	0	0	0
+envenomation resulting in slowing of activation kinetics of voltage-gated potassium channel in other organism	GO_0044563	0	1	0	0	0
+envenomation resulting in proteolysis in other organism	GO_0044481	0	1	0	0	0
+envenomation resulting in positive regulation of voltage-gated sodium channel activity in other organism	GO_0044494	0	1	0	0	0
+envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044520	0	1	0	0	0
+envenomation resulting in positive regulation of signal transduction in other organism	GO_0044510	0	1	0	0	0
+envenomation resulting in positive regulation of platelet aggregation in other organism	GO_0044478	0	1	0	0	0
+envenomation resulting in positive regulation of mast cell degranulation in other organism	GO_0044480	0	1	0	0	0
+envenomation resulting in positive regulation of glucagon-like peptide receptor 1 activity in other organism	GO_0044515	0	1	0	0	0
+envenomation resulting in positive regulation of complement activation, lectin pathway in other organism	GO_0044641	0	1	0	0	0
+envenomation resulting in positive regulation of complement activation, classical pathway in other organism	GO_0044638	0	1	0	0	0
+envenomation resulting in positive regulation of complement activation, alternative pathway in other organism	GO_0044643	0	1	0	0	0
+envenomation resulting in positive regulation of cell migration in other organism	GO_0044626	0	1	0	0	0
+envenomation resulting in positive regulation of blood pressure in other organism	GO_0044499	0	1	0	0	0
+envenomation resulting in positive regulation of blood coagulation in other organism	GO_0044469	0	1	0	0	0
+envenomation resulting in positive regulation of acid-sensing ion channel activity in other organism	GO_0044734	0	1	0	0	0
+envenomation resulting in positive regulation of G-protein coupled receptor activity in other organism	GO_0044514	0	1	0	0	0
+envenomation resulting in pore formation in membrane of other organism	GO_0044471	0	1	0	0	0
+envenomation resulting in plasminogen activation in other organism	GO_0044544	0	1	0	0	0
+envenomation resulting in occlusion of the pore of voltage-gated potassium channel in other organism	GO_0044564	0	1	0	0	0
+envenomation resulting in negative regulation of voltage-gated sodium channel activity in other organism	GO_0044493	0	1	0	0	0
+envenomation resulting in negative regulation of voltage-gated potassium channel activity in other organism	GO_0044562	0	1	0	0	0
+envenomation resulting in negative regulation of voltage-gated calcium channel activity in other organism	GO_0044474	0	1	0	0	0
+envenomation resulting in negative regulation of sensory perception of pain in other organism	GO_0044741	0	1	0	0	0
+envenomation resulting in negative regulation of platelet aggregation in other organism	GO_0044477	0	1	0	0	0
+envenomation resulting in negative regulation of low voltage-gated calcium channel activity in other organism	GO_0044476	0	1	0	0	0
+envenomation resulting in negative regulation of high voltage-gated calcium channel activity in other organism	GO_0044475	0	1	0	0	0
+envenomation resulting in negative regulation of heart rate of other organism	GO_0044556	0	1	0	0	0
+envenomation resulting in negative regulation of complement activation, lectin pathway in other organism	GO_0044640	0	1	0	0	0
+envenomation resulting in negative regulation of complement activation, classical pathway in other organism	GO_0044637	0	1	0	0	0
+envenomation resulting in negative regulation of complement activation, alternative pathway in other organism	GO_0044644	0	1	0	0	0
+envenomation resulting in negative regulation of cell migration in other organism	GO_0044625	0	1	0	0	0
+envenomation resulting in negative regulation of calcium channel activity in other organism	GO_0044473	0	1	0	0	0
+envenomation resulting in negative regulation of blood pressure in other organism	GO_0044500	0	1	0	0	0
+envenomation resulting in negative regulation of blood coagulation in other organism	GO_0044470	0	1	0	0	0
+envenomation resulting in negative regulation of acid-sensing ion channel activity in other organism	GO_0044735	0	1	0	0	0
+envenomation resulting in myocyte killing in other organism	GO_0044522	0	1	0	0	0
+envenomation resulting in muscle damage in other organism	GO_0044521	0	1	0	0	0
+envenomation resulting in modulation of voltage-gated sodium channel activity in other organism	GO_0044492	0	1	0	0	0
+envenomation resulting in modulation of voltage-gated potassium channel activity in other organism	GO_0044559	0	1	0	0	0
+envenomation resulting in modulation of vasodilation in other organism	GO_0044551	0	1	0	0	0
+envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044519	0	1	0	0	0
+envenomation resulting in modulation of transmission of nerve impulse in other organism	GO_0044487	0	1	0	0	0
+envenomation resulting in modulation of signal transduction in other organism	GO_0044509	0	1	0	0	0
+envenomation resulting in modulation of sensory perception of pain in other organism	GO_0044742	0	1	0	0	0
+envenomation resulting in modulation of receptor activity in other organism	GO_0044511	0	1	0	0	0
+envenomation resulting in modulation of platelet aggregation in other organism	GO_0044365	0	1	0	0	0
+envenomation resulting in modulation of mast cell degranulation in other organism	GO_0044479	0	1	0	0	0
+envenomation resulting in modulation of ion channel activity in other organism	GO_0044560	0	1	0	0	0
+envenomation resulting in modulation of glucagon-like peptide receptor 1 activity in other organism	GO_0044512	0	1	0	0	0
+envenomation resulting in modulation of complement activation, lectin pathway in other organism	GO_0044639	0	1	0	0	0
+envenomation resulting in modulation of complement activation, classical pathway in other organism	GO_0044636	0	1	0	0	0
+envenomation resulting in modulation of complement activation, alternative pathway in other organism	GO_0044642	0	1	0	0	0
+envenomation resulting in modulation of complement activation in other organism	GO_0044646	0	1	0	0	0
+envenomation resulting in modulation of cell migration in other organism	GO_0044624	0	1	0	0	0
+envenomation resulting in modulation of calcium channel activity in other organism	GO_0044472	0	1	0	0	0
+envenomation resulting in modulation of blood pressure in other organism	GO_0044498	0	1	0	0	0
+envenomation resulting in modulation of blood coagulation in other organism	GO_0044468	0	1	0	0	0
+envenomation resulting in modulation of apoptotic process in other organism	GO_0044534	0	1	0	0	0
+envenomation resulting in modulation of acid-sensing ion channel activity in other organism	GO_0044733	0	1	0	0	0
+envenomation resulting in modulation of G-protein coupled receptor activity in other organism	GO_0044513	0	1	0	0	0
+envenomation resulting in modification of morphology or physiology of other organism	GO_0035738	0	1	0	0	0
+envenomation resulting in induction of edema in other organism	GO_0044398	0	1	0	0	0
+envenomation resulting in impairment of hemostasis in other organism	GO_0044483	0	1	0	0	0
+envenomation resulting in hemorrhagic damage to other organism	GO_0044358	0	1	0	0	0
+envenomation resulting in hemolysis in other organism	GO_1990142	0	1	0	0	0
+envenomation resulting in fibrinolysis in other organism	GO_0044484	0	1	0	0	0
+envenomation resulting in fibrinogenolysis in other organism	GO_0044485	0	1	0	0	0
+envenomation resulting in depletion of circulating fibrinogen in other organism	GO_0044536	0	1	0	0	0
+envenomation resulting in damage of muscle extracellular matrix in other organism	GO_0044523	0	1	0	0	0
+envenomation resulting in cytolysis in other organism	GO_0044649	0	1	0	0	0
+envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in other organism	GO_0044482	0	1	0	0	0
+eclosion rhythm	GO_0008062	0	1	0	0	0
+eating behavior	GO_0042755	0	1	0	0	0
+drinking behavior	GO_0042756	0	1	0	0	0
+dishabituation	GO_0097270	0	1	0	0	0
+crying behavior	GO_0060273	0	1	0	0	0
+courtship behavior	GO_0007619	0	1	0	0	0
+conditioned taste aversion	GO_0001661	0	1	0	0	0
+circadian sleep/wake cycle, wakefulness	GO_0042746	0	1	0	0	0
+circadian sleep/wake cycle, sleep	GO_0050802	0	1	0	0	0
+circadian sleep/wake cycle, non-REM sleep	GO_0042748	0	1	0	0	0
+circadian sleep/wake cycle, REM sleep	GO_0042747	0	1	0	0	0
+circadian sleep/wake cycle process	GO_0022410	0	1	0	0	0
+circadian sleep/wake cycle	GO_0042745	0	1	0	0	0
+circadian mating behavior	GO_0035648	0	1	0	0	0
+circadian behavior	GO_0048512	0	1	0	0	0
+chemotaxis within host	GO_0052142	0	1	0	0	0
+chemotaxis on or near other organism involved in symbiotic interaction	GO_0052243	0	1	0	0	0
+chemotaxis on or near host involved in symbiotic interaction	GO_0052143	0	1	0	0	0
+chemotaxis in other organism involved in symbiotic interaction	GO_0052242	0	1	0	0	0
+chemotaxis in host environment	GO_0052116	0	1	0	0	0
+chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052216	0	1	0	0	0
+chemosensory jump behavior	GO_0007636	0	1	0	0	0
+chemosensory behavior	GO_0007635	0	1	0	0	0
+behavior	GO_0007610	0	1	0	0	0
+auditory behavior	GO_0031223	0	1	0	0	0
+angiotensin-mediated drinking behavior	GO_0003051	0	1	0	0	0
+anesthesia-resistant memory	GO_0007615	0	1	0	0	0
+aggressive behavior	GO_0002118	0	1	0	0	0
+aerotaxis on or near other organism involved in symbiotic interaction	GO_0052238	0	1	0	0	0
+aerotaxis on or near host	GO_0052138	0	1	0	0	0
+aerotaxis in other organism involved in symbiotic interaction	GO_0052237	0	1	0	0	0
+aerotaxis in host environment	GO_0052117	0	1	0	0	0
+aerotaxis in host	GO_0052137	0	1	0	0	0
+aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052217	0	1	0	0	0
+adult locomotory behavior	GO_0008344	0	1	0	0	0
+adult foraging behavior	GO_0060757	0	1	0	0	0
+adult feeding behavior	GO_0008343	0	1	0	0	0
+acquisition of nutrients from symbiont	GO_0051850	0	1	0	0	0
+acquisition of nutrients from other organism during symbiotic interaction	GO_0051816	0	1	0	0	0
+acquisition of nutrients from host	GO_0044002	0	1	0	0	0
+acquisition by symbiont of nutrients from host via siderophores	GO_0052099	0	1	0	0	0

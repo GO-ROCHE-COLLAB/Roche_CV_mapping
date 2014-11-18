@@ -48,42 +48,42 @@ Wnt pathway	RCV_000046			?
 acetylcholine	RCV_000047	acetylcholine	CHEBI_15355	has_participant_chemical		152	open
 adenine metabolism	RCV_000048	adenine metabolic process	GO_0046083	Equivalence		154	open
 adhesion	RCV_000049			?			
-adipose	RCV_000050			?			
+adipose	RCV_000050			?	Combine function and development - with reference to adipose cell and tissue?		
 adipose differentiation	RCV_000051	adipose tissue development	GO_0060612	is_a_OR_part_of_OR_regulates		180	open
-adrenal	RCV_000052			?			
-adrenergic	RCV_000053			?			
-aerobic metabolism	RCV_000054			?			
-aging	RCV_000055			?			
+adrenal	RCV_000052	adrenal gland development	GO_0030325	is_a_OR_part_of_OR_regulates			
+adrenergic	RCV_000053	adrenergic receptor signaling pathway	GO_0071875	is_a_OR_part_of_OR_regulates			
+aerobic metabolism	RCV_000054	Wnt signaling pathway	GO_0016055	is_a_OR_part_of_OR_regulates	better to choose cannonical wnt pathway? Non-cannonical appears to be missing from manual mapping.		
+aging	RCV_000055	cell aging	GO_0007569	is_a_OR_part_of_OR_regulates	Could map to more general 'aging' term in GO, but this would bring in plant aging terms, including fruit ripening!		
 allantoin metabolism	RCV_000056	allantoin metabolic process	GO_0000255	Equivalence		182	open
 amine metabolism	RCV_000057	amine metabolic process	GO_0009308	Equivalence		181	open
 aminoacid metabolism	RCV_000058	alpha-amino acid metabolic process	GO_1901605	Equivalence		184	open
 amyloid metabolism	RCV_000059	amyloid precursor protein metabolic process	GO_0042982	Equivalence		183	open
 anaerobic metabolism	RCV_000060			?			
 angiogenesis	RCV_000061	angiogenesis	GO_0001525	is_a_OR_part_of_OR_regulates		210	open
-angiotensin-mediated signaling pathway	RCV_000062			?			
-antifungal	RCV_000063			?			
-antimicrobial	RCV_000064			?			
+angiotensin-mediated signaling pathway	RCV_000062	angiotensin-activated signaling pathway	GO_0038166	is_a_OR_part_of_OR_regulates			
+antifungal	RCV_000063			?	Internal note: some work on new GOCHE terms required before this can be added.		
+antimicrobial	RCV_000064			?	Internal note: some work on new GOCHE terms required before this can be added.		
 aorta development	RCV_000065	aorta development	GO_0035904	is_a_OR_part_of_OR_regulates		209	open
 apoptosis	RCV_000066	apoptotic process	GO_0006915	?			
-apoptosis glands	RCV_000067			?occurs in  - pattern requires 2 key classes?			
-apoptosis heart	RCV_000068			?occurs in  - pattern requires 2 key classes?			
-apoptosis kidney	RCV_000069			?occurs in  - pattern requires 2 key classes?			
+apoptosis glands	RCV_000067	apoptotic process that part of some gland development'	(GO_0006915 that BFO_0000050 some GO_0048732)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
+apoptosis heart	RCV_000068	apoptotic process that part of some heart development'	(GO_0006915 that BFO_0000050 some GO_0007507)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
+apoptosis kidney	RCV_000069	apoptotic process that part of some kidney development'	(GO_0006915 that BFO_0000050 some GO_0001822)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 arginine metabolism	RCV_000070	arginine metabolic process	GO_0006525	Equivalence		86	open
 artery	RCV_000071	artery development	GO_0060840	is_a_OR_part_of_OR_regulates			
 asparagine metabolism	RCV_000072	asparagine metabolic process	GO_0006528	Equivalence		85	closed
 aspartate metabolism	RCV_000073	aspartate metabolic process	GO_0006531	Equivalence		84	closed
 astrocyte	RCV_000074	astrocyte	CL_0000127	? occurs in or has_participant ? + dev?			
-auditory behavior	RCV_000075			?			
-autophagy	RCV_000076			?			
-auxin	RCV_000077			?			
-axon	RCV_000078			?			
+auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	Equivalence	Manual mapping is mix of receptor cell dev and behavior.  Should these two be split?		
+autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equivalence			
+auxin	RCV_000077	substance with auxin biological role	GOCHE_22676	has_participant_chemical			
+axon	RCV_000078	axon development	GO_0061564	is_a_OR_part_of_OR_regulates			
 bacterial	RCV_000079			?			
-base pairing	RCV_000080			?			
+base pairing	RCV_000080	base pairing	GO_0000496	Equivalence			
 basophil	RCV_000081	basophil	CL_0000767	has_participant_cell		148	open
-behaviour	RCV_000082			?			
-beta cells	RCV_000083			?			
+behaviour	RCV_000082	behaviour	GO_0007610	Equivalence			
+beta cells	RCV_000083	type B pancreatic cell	CL_0000169	?results in developmental progression of OR occurs in			
 beta-amyloid	RCV_000084			?			
-bile acid	RCV_000085			?			
+bile acid	RCV_000085	bile acid	CHEBI_3098	has_participant_chemical			
 blood coagulation	RCV_000086			?			
 blood pressure	RCV_000087	regulation of blood pressure	GO_0008217	Equivalence		147	open
 bone	RCV_000088			?			

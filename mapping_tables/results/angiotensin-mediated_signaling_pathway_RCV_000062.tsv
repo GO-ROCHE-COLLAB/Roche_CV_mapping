@@ -1,0 +1,12 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+angiotensin-activated signaling pathway involved in heart process	GO_0086098	1	1	1	0	0
+angiotensin-activated signaling pathway	GO_0038166	1	1	1	0	0
+angiotensin-mediated drinking behavior	GO_0003051	1	0	1	0	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	1	0	1	0	0
+angiotensin maturation	GO_0002003	1	0	1	0	0
+angiotensin catabolic process in blood	GO_0002005	1	0	1	0	0
+phospholipase C-activating angiotensin-activated signaling pathway involved in heart process	GO_0086099	0	1	0	0	0
+phospholipase C-activating angiotensin-activated signaling pathway	GO_0086097	0	1	0	0	0
+angiotensin type II receptor activity	GO_0004945	0	1	0	0	0
+angiotensin type I receptor activity	GO_0001596	0	1	0	0	0
+angiotensin receptor activity	GO_0001595	0	1	0	0	0

@@ -1,0 +1,38 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+auxin-activated signaling pathway	GO_0009734	1	1	1	0	0
+auxin transport	GO_0060918	1	1	1	0	0
+auxin polar transport	GO_0009926	1	1	1	0	0
+auxin metabolic process	GO_0009850	1	1	1	0	0
+auxin mediated signaling pathway involved in phyllotactic patterning	GO_0060774	1	1	1	0	0
+auxin influx	GO_0060919	1	1	1	0	0
+auxin efflux	GO_0010315	1	1	1	0	0
+auxin conjugate metabolic process	GO_0010249	1	1	1	0	0
+auxin catabolic process	GO_0009852	1	1	1	0	0
+auxin biosynthetic process	GO_0009851	1	1	1	0	0
+auxin homeostasis	GO_0010252	1	0	1	0	0
+tryptophan-independent indoleacetic acid biosynthetic process	GO_0009849	0	1	0	0	0
+tryptophan catabolic process to indole-3-acetate	GO_0019440	0	1	0	0	0
+response to indolebutyric acid	GO_0080026	0	1	0	0	0
+response to auxin	GO_0009733	0	1	0	0	0
+positive regulation of leaflet formation by auxin mediated signaling pathway	GO_0090015	0	1	0	0	0
+intracellular auxin transport	GO_0080162	0	1	0	0	0
+indolebutyric acid metabolic process	GO_0080024	0	1	0	0	0
+indoleacetic acid metabolic process	GO_0009683	0	1	0	0	0
+indoleacetic acid ester conjugate biosynthetic process	GO_0033476	0	1	0	0	0
+indoleacetic acid conjugate metabolic process	GO_0033473	0	1	0	0	0
+indoleacetic acid conjugate biosynthetic process	GO_0033474	0	1	0	0	0
+indoleacetic acid catabolic process	GO_0042437	0	1	0	0	0
+indoleacetic acid biosynthetic process via tryptophan	GO_0009848	0	1	0	0	0
+indoleacetic acid biosynthetic process	GO_0009684	0	1	0	0	0
+indoleacetic acid amide conjugate biosynthetic process	GO_0033475	0	1	0	0	0
+detection of auxin stimulus	GO_0009721	0	1	0	0	0
+cellular response to indolebutyric acid stimulus	GO_0071366	0	1	0	0	0
+cellular response to auxin stimulus	GO_0071365	0	1	0	0	0
+basipetal auxin transport	GO_0010540	0	1	0	0	0
+auxin:proton symporter activity	GO_0009672	0	1	0	0	0
+auxin transmembrane transporter activity	GO_0080161	0	1	0	0	0
+auxin receptor activity	GO_0038198	0	1	0	0	0
+auxin influx transmembrane transporter activity	GO_0010328	0	1	0	0	0
+auxin efflux transmembrane transporter activity	GO_0010329	0	1	0	0	0
+auxin binding	GO_0010011	0	1	0	0	0
+acropetal auxin transport	GO_0010541	0	1	0	0	0

@@ -1,0 +1,7 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+apoptotic process involved in metanephric nephron tubule development	GO_1900205	1	1	1	0	0
+apoptotic process involved in metanephric collecting duct development	GO_1900204	1	1	1	0	0
+mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	0	0	0
+mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	0	0	0
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	0	0	0
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	0	0	0

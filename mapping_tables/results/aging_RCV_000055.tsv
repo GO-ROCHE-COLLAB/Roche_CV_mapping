@@ -1,0 +1,60 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+stress-induced premature senescence	GO_0090400	1	1	1	0	0
+chronological cell aging	GO_0001300	1	1	1	0	0
+cell aging	GO_0007569	1	1	1	0	0
+age-dependent telomere shortening	GO_0001309	1	1	1	0	0
+age-dependent response to reactive oxygen species involved in replicative cell aging	GO_0001316	1	1	1	0	0
+age-dependent response to reactive oxygen species involved in chronological cell aging	GO_0001320	1	1	1	0	0
+age-dependent response to oxidative stress involved in replicative cell aging	GO_0001322	1	1	1	0	0
+age-dependent response to oxidative stress involved in chronological cell aging	GO_0001324	1	1	1	0	0
+age-dependent general metabolic decline involved in replicative cell aging	GO_0001321	1	1	1	0	0
+age-dependent general metabolic decline involved in chronological cell aging	GO_0001323	1	1	1	0	0
+accumulation of oxidatively modified proteins involved in replicative cell aging	GO_0001317	1	1	1	0	0
+cellular age-dependent response to reactive oxygen species	GO_0072353	1	0	1	0	0
+cell aging (sensu Saccharomyces)	GO_0007574	1	0	1	1	1
+cell aging (sensu Fungi)	GO_0030463	1	0	1	1	1
+aging dependent sterility (sensu Saccharomyces)	GO_0007578	1	0	1	1	1
+aging dependent sterility (sensu Fungi)	GO_0030464	1	0	1	1	1
+aging	GO_0007568	1	0	1	0	0
+age-dependent yeast cell size increase	GO_0007581	1	0	1	1	1
+age-dependent response to reactive oxygen species	GO_0001315	1	0	1	0	0
+age-dependent response to oxidative stress	GO_0001306	1	0	1	0	0
+age-dependent general metabolic decline	GO_0007571	1	0	1	0	0
+age-dependent behavioral decline	GO_0035982	1	0	1	0	0
+age dependent increased protein content	GO_0007573	1	0	1	1	1
+age dependent decreased translational activity	GO_0007572	1	0	1	1	1
+age dependent accumulation of genetic damage	GO_0007570	1	0	1	1	1
+viral-induced premature senescence	GO_0090401	0	1	0	0	0
+replicative senescence	GO_0090399	0	1	0	0	0
+replicative cell aging	GO_0001302	0	1	0	0	0
+replication of extrachromosomal rDNA circles involved in replicative cell aging	GO_0001312	0	1	0	0	0
+replication of extrachromosomal circular DNA involved in replicative cell aging	GO_0001314	0	1	0	0	0
+regulation of replicative cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction	GO_0061434	0	1	0	0	0
+regulation of replicative cell aging	GO_1900062	0	1	0	0	0
+regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging	GO_1900007	0	1	0	0	0
+regulation of cellular senescence	GO_2000772	0	1	0	0	0
+regulation of cell aging	GO_0090342	0	1	0	0	0
+progressive alteration of chromatin involved in replicative cell aging	GO_0001304	0	1	0	0	0
+progressive alteration of chromatin involved in chronological cell aging	GO_0001305	0	1	0	0	0
+progressive alteration of chromatin involved in cell aging	GO_0001301	0	1	0	0	0
+positive regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging	GO_1900009	0	1	0	0	0
+positive regulation of cellular senescence	GO_2000774	0	1	0	0	0
+positive regulation of cell aging	GO_0090343	0	1	0	0	0
+oxidative stress-induced premature senescence	GO_0090403	0	1	0	0	0
+oncogene-induced cell senescence	GO_0090402	0	1	0	0	0
+nucleolar fragmentation involved in replicative aging	GO_0001303	0	1	0	0	0
+nucleolar fragmentation	GO_0007576	0	1	0	0	0
+negative regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging	GO_1900008	0	1	0	0	0
+negative regulation of chromatin silencing involved in replicative cell aging	GO_0001308	0	1	0	0	0
+negative regulation of cellular senescence	GO_2000773	0	1	0	0	0
+negative regulation of cell aging	GO_0090344	0	1	0	0	0
+inheritance of oxidatively modified proteins involved in replicative cell aging	GO_0001319	0	1	0	0	0
+gene silencing involved in chronological cell aging	GO_0010978	0	1	0	0	0
+formation of oxidatively modified proteins involved in replicative cell aging	GO_0001318	0	1	0	0	0
+formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging	GO_0001311	0	1	0	0	0
+formation of extrachromosomal circular DNA involved in replicative cell aging	GO_0001313	0	1	0	0	0
+extrachromosomal rDNA circle accumulation involved in replicative cell aging	GO_0001310	0	1	0	0	0
+extrachromosomal circular DNA localization involved in cell aging	GO_0034652	0	1	0	0	0
+extrachromosomal circular DNA accumulation involved in replicative cell aging	GO_0001307	0	1	0	0	0
+extrachromosomal circular DNA accumulation involved in cell aging	GO_0007580	0	1	0	0	0
+cellular senescence	GO_0090398	0	1	0	0	0

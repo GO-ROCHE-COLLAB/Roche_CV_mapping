@@ -1,0 +1,5 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+adrenal gland development	GO_0030325	1	1	1	0	0
+adrenal cortex formation	GO_0035802	1	1	1	0	0
+adrenal cortex development	GO_0035801	1	1	1	0	0
+adrenal chromaffin cell differentiation	GO_0061104	1	1	1	0	0

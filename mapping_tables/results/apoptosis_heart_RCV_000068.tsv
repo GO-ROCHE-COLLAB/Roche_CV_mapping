@@ -1,0 +1,6 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+apoptotic process involved in heart valve morphogenesis	GO_0003276	1	1	1	0	0
+apoptotic process involved in heart morphogenesis	GO_0003278	1	1	1	0	0
+apoptotic process involved in endocardial cushion morphogenesis	GO_0003277	1	1	1	0	0
+apoptotic process involved in atrial ventricular junction remodeling	GO_0003296	1	1	1	0	0
+apoptotic process involved in outflow tract morphogenesis	GO_0003275	0	1	0	0	0

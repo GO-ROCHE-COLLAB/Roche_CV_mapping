@@ -1988,6 +1988,234 @@ RCV_000051	adipose differentiation	GO_0045600	positive regulation of fat cell di
 RCV_000051	adipose differentiation	GO_0090335	regulation of brown fat cell differentiation
 RCV_000051	adipose differentiation	GO_0045598	regulation of fat cell differentiation
 RCV_000051	adipose differentiation	GO_0060642	white fat cell differentiation involved in mammary gland fat development
+RCV_000052	adrenal	GO_0061104	adrenal chromaffin cell differentiation
+RCV_000052	adrenal	GO_0035801	adrenal cortex development
+RCV_000052	adrenal	GO_0035802	adrenal cortex formation
+RCV_000052	adrenal	GO_0030325	adrenal gland development
+RCV_000053	adrenergic	GO_0071883	activation of MAPK activity by adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_0071880	adenylate cyclase-activating adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_0071881	adenylate cyclase-inhibiting adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_0086096	adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process
+RCV_000053	adrenergic	GO_0004935	adrenergic receptor activity
+RCV_000053	adrenergic	GO_0071875	adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_0086030	adrenergic receptor signaling pathway involved in cardiac muscle relaxation
+RCV_000053	adrenergic	GO_0086023	adrenergic receptor signaling pathway involved in heart process
+RCV_000053	adrenergic	GO_0086024	adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000053	adrenergic	GO_0004936	alpha-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0004937	alpha1-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0004938	alpha2-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0004939	beta-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0004940	beta1-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0004941	beta2-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0015052	beta3-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0071878	negative regulation of adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_1901205	negative regulation of adrenergic receptor signaling pathway involved in heart process
+RCV_000053	adrenergic	GO_1903246	negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000053	adrenergic	GO_1900257	negative regulation of beta1-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0071882	phospholipase C-activating adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_0071879	positive regulation of adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_1901206	positive regulation of adrenergic receptor signaling pathway involved in heart process
+RCV_000053	adrenergic	GO_1903247	positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000053	adrenergic	GO_1900258	positive regulation of beta1-adrenergic receptor activity
+RCV_000053	adrenergic	GO_0086094	positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction
+RCV_000053	adrenergic	GO_0071877	regulation of adrenergic receptor signaling pathway
+RCV_000053	adrenergic	GO_1901204	regulation of adrenergic receptor signaling pathway involved in heart process
+RCV_000053	adrenergic	GO_1903245	regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000053	adrenergic	GO_1900256	regulation of beta1-adrenergic receptor activity
+RCV_000054	aerobic metabolism	GO_0016055	Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0060833	Wnt signaling pathway involved in animal/vegetal axis specification
+RCV_000054	aerobic metabolism	GO_0044333	Wnt signaling pathway involved in digestive tract morphogenesis
+RCV_000054	aerobic metabolism	GO_0044332	Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000054	aerobic metabolism	GO_0021874	Wnt signaling pathway involved in forebrain neuroblast division
+RCV_000054	aerobic metabolism	GO_0003306	Wnt signaling pathway involved in heart development
+RCV_000054	aerobic metabolism	GO_0061289	Wnt signaling pathway involved in kidney development
+RCV_000054	aerobic metabolism	GO_0060593	Wnt signaling pathway involved in mammary gland specification
+RCV_000054	aerobic metabolism	GO_0090011	Wnt signaling pathway involved in primitive streak formation
+RCV_000054	aerobic metabolism	GO_0021922	Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord
+RCV_000054	aerobic metabolism	GO_0090244	Wnt signaling pathway involved in somitogenesis
+RCV_000054	aerobic metabolism	GO_0035659	Wnt signaling pathway involved in wound healing, spreading of epidermal cells
+RCV_000054	aerobic metabolism	GO_0007223	Wnt signaling pathway, calcium modulating pathway
+RCV_000054	aerobic metabolism	GO_0060071	Wnt signaling pathway, planar cell polarity pathway
+RCV_000054	aerobic metabolism	GO_0060069	Wnt signaling pathway, regulating spindle positioning
+RCV_000054	aerobic metabolism	GO_0021881	Wnt-activated signaling pathway involved in forebrain neuron fate commitment
+RCV_000054	aerobic metabolism	GO_0070275	aerobic ammonia oxidation to nitrite via pyruvic oxime
+RCV_000054	aerobic metabolism	GO_0019620	aerobic benzoate metabolic process
+RCV_000054	aerobic metabolism	GO_0018878	aerobic beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process
+RCV_000054	aerobic metabolism	GO_0019250	aerobic cobalamin biosynthetic process
+RCV_000054	aerobic metabolism	GO_0019646	aerobic electron transport chain
+RCV_000054	aerobic metabolism	GO_0019576	aerobic fructose catabolic process
+RCV_000054	aerobic metabolism	GO_0042195	aerobic gallate catabolic process
+RCV_000054	aerobic metabolism	GO_0019564	aerobic glycerol catabolic process
+RCV_000054	aerobic metabolism	GO_0018935	aerobic nitrilotriacetate metabolic process
+RCV_000054	aerobic metabolism	GO_0018946	aerobic organosilicon metabolic process
+RCV_000054	aerobic metabolism	GO_0046190	aerobic phenol-containing compound biosynthetic process
+RCV_000054	aerobic metabolism	GO_0046191	aerobic phenol-containing compound catabolic process
+RCV_000054	aerobic metabolism	GO_0018959	aerobic phenol-containing compound metabolic process
+RCV_000054	aerobic metabolism	GO_0036259	aerobic raffinose catabolic process
+RCV_000054	aerobic metabolism	GO_0009060	aerobic respiration
+RCV_000054	aerobic metabolism	GO_0019409	aerobic respiration, using ammonia as electron donor
+RCV_000054	aerobic metabolism	GO_0043554	aerobic respiration, using arsenite as electron donor
+RCV_000054	aerobic metabolism	GO_0019410	aerobic respiration, using carbon monoxide as electron donor
+RCV_000054	aerobic metabolism	GO_0019411	aerobic respiration, using ferrous ions as electron donor
+RCV_000054	aerobic metabolism	GO_0019412	aerobic respiration, using hydrogen as electron donor
+RCV_000054	aerobic metabolism	GO_0019332	aerobic respiration, using nitrite as electron donor
+RCV_000054	aerobic metabolism	GO_0019414	aerobic respiration, using sulfur or sulfate as electron donor
+RCV_000054	aerobic metabolism	GO_0070220	aerobic sulfur oxidation
+RCV_000054	aerobic metabolism	GO_0060070	canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0061317	canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000054	aerobic metabolism	GO_0061310	canonical Wnt signaling pathway involved in cardiac neural crest cell differentiation involved in heart development
+RCV_000054	aerobic metabolism	GO_0061316	canonical Wnt signaling pathway involved in heart development
+RCV_000054	aerobic metabolism	GO_0044338	canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation
+RCV_000054	aerobic metabolism	GO_0061293	canonical Wnt signaling pathway involved in mesonephric nephron development
+RCV_000054	aerobic metabolism	GO_0061292	canonical Wnt signaling pathway involved in mesonephros development
+RCV_000054	aerobic metabolism	GO_0061290	canonical Wnt signaling pathway involved in metanephric kidney development
+RCV_000054	aerobic metabolism	GO_0044336	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
+RCV_000054	aerobic metabolism	GO_0044335	canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000054	aerobic metabolism	GO_0060823	canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000054	aerobic metabolism	GO_0044339	canonical Wnt signaling pathway involved in osteoblast differentiation
+RCV_000054	aerobic metabolism	GO_0044337	canonical Wnt signaling pathway involved in positive regulation of apoptotic process
+RCV_000054	aerobic metabolism	GO_0061315	canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation
+RCV_000054	aerobic metabolism	GO_0061324	canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation
+RCV_000054	aerobic metabolism	GO_0044329	canonical Wnt signaling pathway involved in positive regulation of cell-cell adhesion
+RCV_000054	aerobic metabolism	GO_0044328	canonical Wnt signaling pathway involved in positive regulation of endothelial cell migration
+RCV_000054	aerobic metabolism	GO_0044334	canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition
+RCV_000054	aerobic metabolism	GO_0003267	canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation
+RCV_000054	aerobic metabolism	GO_0044330	canonical Wnt signaling pathway involved in positive regulation of wound healing
+RCV_000054	aerobic metabolism	GO_0044340	canonical Wnt signaling pathway involved in regulation of cell proliferation
+RCV_000054	aerobic metabolism	GO_0044343	canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation
+RCV_000054	aerobic metabolism	GO_0061291	canonical Wnt signaling pathway involved in ureteric bud branching
+RCV_000054	aerobic metabolism	GO_0071936	coreceptor activity involved in Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0030178	negative regulation of Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0038012	negative regulation of Wnt signaling pathway by Wnt receptor internalization
+RCV_000054	aerobic metabolism	GO_2000057	negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis
+RCV_000054	aerobic metabolism	GO_2000054	negative regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000054	aerobic metabolism	GO_0003308	negative regulation of Wnt signaling pathway involved in heart development
+RCV_000054	aerobic metabolism	GO_0045812	negative regulation of Wnt signaling pathway, calcium modulating pathway
+RCV_000054	aerobic metabolism	GO_0022002	negative regulation of anterior neural cell fate commitment of the neural plate by Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0090090	negative regulation of canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1901296	negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000054	aerobic metabolism	GO_2000080	negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+RCV_000054	aerobic metabolism	GO_0072336	negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000054	aerobic metabolism	GO_0060829	negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000054	aerobic metabolism	GO_0003136	negative regulation of heart induction by canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_2000051	negative regulation of non-canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1901230	negative regulation of non-canonical Wnt signaling pathway via JNK cascade
+RCV_000054	aerobic metabolism	GO_2000041	negative regulation of planar cell polarity pathway involved in axis elongation
+RCV_000054	aerobic metabolism	GO_2000151	negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+RCV_000054	aerobic metabolism	GO_2000162	negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
+RCV_000054	aerobic metabolism	GO_2000160	negative regulation of planar cell polarity pathway involved in heart morphogenesis
+RCV_000054	aerobic metabolism	GO_2000168	negative regulation of planar cell polarity pathway involved in neural tube closure
+RCV_000054	aerobic metabolism	GO_2000164	negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis
+RCV_000054	aerobic metabolism	GO_2000166	negative regulation of planar cell polarity pathway involved in pericardium morphogenesis
+RCV_000054	aerobic metabolism	GO_2000149	negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
+RCV_000054	aerobic metabolism	GO_0035567	non-canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0061341	non-canonical Wnt signaling pathway involved in heart development
+RCV_000054	aerobic metabolism	GO_0038031	non-canonical Wnt signaling pathway via JNK cascade
+RCV_000054	aerobic metabolism	GO_0038030	non-canonical Wnt signaling pathway via MAPK cascade
+RCV_000054	aerobic metabolism	GO_0003402	planar cell polarity pathway involved in axis elongation
+RCV_000054	aerobic metabolism	GO_0061345	planar cell polarity pathway involved in cardiac muscle cell fate commitment
+RCV_000054	aerobic metabolism	GO_0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+RCV_000054	aerobic metabolism	GO_0061349	planar cell polarity pathway involved in cardiac right atrium morphogenesis
+RCV_000054	aerobic metabolism	GO_0060775	planar cell polarity pathway involved in gastrula mediolateral intercalation
+RCV_000054	aerobic metabolism	GO_0061346	planar cell polarity pathway involved in heart morphogenesis
+RCV_000054	aerobic metabolism	GO_0090179	planar cell polarity pathway involved in neural tube closure
+RCV_000054	aerobic metabolism	GO_0061347	planar cell polarity pathway involved in outflow tract morphogenesis
+RCV_000054	aerobic metabolism	GO_0061354	planar cell polarity pathway involved in pericardium morphogenesis
+RCV_000054	aerobic metabolism	GO_0061348	planar cell polarity pathway involved in ventricular septum morphogenesis
+RCV_000054	aerobic metabolism	GO_0030177	positive regulation of Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0060804	positive regulation of Wnt signaling pathway by BMP signaling pathway
+RCV_000054	aerobic metabolism	GO_0038013	positive regulation of Wnt signaling pathway by Wnt receptor internalization
+RCV_000054	aerobic metabolism	GO_0035593	positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region
+RCV_000054	aerobic metabolism	GO_2000055	positive regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000054	aerobic metabolism	GO_0045813	positive regulation of Wnt signaling pathway, calcium modulating pathway
+RCV_000054	aerobic metabolism	GO_2000096	positive regulation of Wnt signaling pathway, planar cell polarity pathway
+RCV_000054	aerobic metabolism	GO_0090263	positive regulation of canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1901297	positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000054	aerobic metabolism	GO_2000081	positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+RCV_000054	aerobic metabolism	GO_0072381	positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000054	aerobic metabolism	GO_0090082	positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_2000052	positive regulation of non-canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1901231	positive regulation of non-canonical Wnt signaling pathway via JNK cascade
+RCV_000054	aerobic metabolism	GO_0090021	positive regulation of posterior neural plate formation by Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1902844	positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_2000286	receptor internalization involved in canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0030111	regulation of Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0061359	regulation of Wnt signaling pathway by Wnt protein secretion
+RCV_000054	aerobic metabolism	GO_2000056	regulation of Wnt signaling pathway involved in digestive tract morphogenesis
+RCV_000054	aerobic metabolism	GO_2000053	regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000054	aerobic metabolism	GO_0003307	regulation of Wnt signaling pathway involved in heart development
+RCV_000054	aerobic metabolism	GO_0008591	regulation of Wnt signaling pathway, calcium modulating pathway
+RCV_000054	aerobic metabolism	GO_2000095	regulation of Wnt signaling pathway, planar cell polarity pathway
+RCV_000054	aerobic metabolism	GO_0060828	regulation of canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1901295	regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000054	aerobic metabolism	GO_2000079	regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+RCV_000054	aerobic metabolism	GO_0072335	regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000054	aerobic metabolism	GO_0060827	regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000054	aerobic metabolism	GO_0061342	regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0003427	regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000054	aerobic metabolism	GO_0060901	regulation of hair cycle by canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_0090081	regulation of heart induction by regulation of canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_2000050	regulation of non-canonical Wnt signaling pathway
+RCV_000054	aerobic metabolism	GO_1901229	regulation of non-canonical Wnt signaling pathway via JNK cascade
+RCV_000054	aerobic metabolism	GO_2000040	regulation of planar cell polarity pathway involved in axis elongation
+RCV_000054	aerobic metabolism	GO_2000150	regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+RCV_000054	aerobic metabolism	GO_2000161	regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
+RCV_000054	aerobic metabolism	GO_2000159	regulation of planar cell polarity pathway involved in heart morphogenesis
+RCV_000054	aerobic metabolism	GO_2000167	regulation of planar cell polarity pathway involved in neural tube closure
+RCV_000054	aerobic metabolism	GO_2000163	regulation of planar cell polarity pathway involved in outflow tract morphogenesis
+RCV_000054	aerobic metabolism	GO_2000165	regulation of planar cell polarity pathway involved in pericardium morphogenesis
+RCV_000054	aerobic metabolism	GO_2000148	regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
+RCV_000055	aging	GO_0001317	accumulation of oxidatively modified proteins involved in replicative cell aging
+RCV_000055	aging	GO_0035982	age-dependent behavioral decline
+RCV_000055	aging	GO_0007571	age-dependent general metabolic decline
+RCV_000055	aging	GO_0001323	age-dependent general metabolic decline involved in chronological cell aging
+RCV_000055	aging	GO_0001321	age-dependent general metabolic decline involved in replicative cell aging
+RCV_000055	aging	GO_0001306	age-dependent response to oxidative stress
+RCV_000055	aging	GO_0001324	age-dependent response to oxidative stress involved in chronological cell aging
+RCV_000055	aging	GO_0001322	age-dependent response to oxidative stress involved in replicative cell aging
+RCV_000055	aging	GO_0001315	age-dependent response to reactive oxygen species
+RCV_000055	aging	GO_0001320	age-dependent response to reactive oxygen species involved in chronological cell aging
+RCV_000055	aging	GO_0001316	age-dependent response to reactive oxygen species involved in replicative cell aging
+RCV_000055	aging	GO_0001309	age-dependent telomere shortening
+RCV_000055	aging	GO_0007568	aging
+RCV_000055	aging	GO_0007569	cell aging
+RCV_000055	aging	GO_0072353	cellular age-dependent response to reactive oxygen species
+RCV_000055	aging	GO_0090398	cellular senescence
+RCV_000055	aging	GO_0001300	chronological cell aging
+RCV_000055	aging	GO_0007580	extrachromosomal circular DNA accumulation involved in cell aging
+RCV_000055	aging	GO_0001307	extrachromosomal circular DNA accumulation involved in replicative cell aging
+RCV_000055	aging	GO_0034652	extrachromosomal circular DNA localization involved in cell aging
+RCV_000055	aging	GO_0001310	extrachromosomal rDNA circle accumulation involved in replicative cell aging
+RCV_000055	aging	GO_0001313	formation of extrachromosomal circular DNA involved in replicative cell aging
+RCV_000055	aging	GO_0001311	formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging
+RCV_000055	aging	GO_0001318	formation of oxidatively modified proteins involved in replicative cell aging
+RCV_000055	aging	GO_0010978	gene silencing involved in chronological cell aging
+RCV_000055	aging	GO_0001319	inheritance of oxidatively modified proteins involved in replicative cell aging
+RCV_000055	aging	GO_0090344	negative regulation of cell aging
+RCV_000055	aging	GO_2000773	negative regulation of cellular senescence
+RCV_000055	aging	GO_0001308	negative regulation of chromatin silencing involved in replicative cell aging
+RCV_000055	aging	GO_1900008	negative regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging
+RCV_000055	aging	GO_0007576	nucleolar fragmentation
+RCV_000055	aging	GO_0001303	nucleolar fragmentation involved in replicative aging
+RCV_000055	aging	GO_0090402	oncogene-induced cell senescence
+RCV_000055	aging	GO_0090403	oxidative stress-induced premature senescence
+RCV_000055	aging	GO_0090343	positive regulation of cell aging
+RCV_000055	aging	GO_2000774	positive regulation of cellular senescence
+RCV_000055	aging	GO_1900009	positive regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging
+RCV_000055	aging	GO_0001301	progressive alteration of chromatin involved in cell aging
+RCV_000055	aging	GO_0001305	progressive alteration of chromatin involved in chronological cell aging
+RCV_000055	aging	GO_0001304	progressive alteration of chromatin involved in replicative cell aging
+RCV_000055	aging	GO_0090342	regulation of cell aging
+RCV_000055	aging	GO_2000772	regulation of cellular senescence
+RCV_000055	aging	GO_1900007	regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging
+RCV_000055	aging	GO_1900062	regulation of replicative cell aging
+RCV_000055	aging	GO_0061434	regulation of replicative cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction
+RCV_000055	aging	GO_0001314	replication of extrachromosomal circular DNA involved in replicative cell aging
+RCV_000055	aging	GO_0001312	replication of extrachromosomal rDNA circles involved in replicative cell aging
+RCV_000055	aging	GO_0001302	replicative cell aging
+RCV_000055	aging	GO_0090399	replicative senescence
+RCV_000055	aging	GO_0090400	stress-induced premature senescence
+RCV_000055	aging	GO_0090401	viral-induced premature senescence
 RCV_000056	allantoin metabolism	GO_0015719	allantoate transport
 RCV_000056	allantoin metabolism	GO_0009442	allantoin assimilation pathway
 RCV_000056	allantoin metabolism	GO_0019428	allantoin biosynthetic process
@@ -2688,6 +2916,17 @@ RCV_000061	angiogenesis	GO_0090049	regulation of cell migration involved in spro
 RCV_000061	angiogenesis	GO_0061043	regulation of vascular wound healing
 RCV_000061	angiogenesis	GO_0002040	sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0061042	vascular wound healing
+RCV_000062	angiotensin-mediated signaling pathway	GO_0002005	angiotensin catabolic process in blood
+RCV_000062	angiotensin-mediated signaling pathway	GO_0002003	angiotensin maturation
+RCV_000062	angiotensin-mediated signaling pathway	GO_0001998	angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure
+RCV_000062	angiotensin-mediated signaling pathway	GO_0001595	angiotensin receptor activity
+RCV_000062	angiotensin-mediated signaling pathway	GO_0001596	angiotensin type I receptor activity
+RCV_000062	angiotensin-mediated signaling pathway	GO_0004945	angiotensin type II receptor activity
+RCV_000062	angiotensin-mediated signaling pathway	GO_0038166	angiotensin-activated signaling pathway
+RCV_000062	angiotensin-mediated signaling pathway	GO_0086098	angiotensin-activated signaling pathway involved in heart process
+RCV_000062	angiotensin-mediated signaling pathway	GO_0003051	angiotensin-mediated drinking behavior
+RCV_000062	angiotensin-mediated signaling pathway	GO_0086097	phospholipase C-activating angiotensin-activated signaling pathway
+RCV_000062	angiotensin-mediated signaling pathway	GO_0086099	phospholipase C-activating angiotensin-activated signaling pathway involved in heart process
 RCV_000065	aorta development	GO_0035904	aorta development
 RCV_000065	aorta development	GO_0035909	aorta morphogenesis
 RCV_000065	aorta development	GO_0060414	aorta smooth muscle tissue morphogenesis
@@ -2770,6 +3009,296 @@ RCV_000073	aspartate metabolism	GO_0019460	glutamine catabolic process to fumara
 RCV_000073	aspartate metabolism	GO_0019461	glutamine catabolic process to fumarate, using glutamate synthase (NADPH)
 RCV_000073	aspartate metabolism	GO_0019462	glutamine catabolic process to fumarate, using glutaminase
 RCV_000073	aspartate metabolism	GO_0019355	nicotinamide nucleotide biosynthetic process from aspartate
+RCV_000075	auditory behavior	GO_0031223	auditory behavior
+RCV_000075	auditory behavior	GO_0060117	auditory receptor cell development
+RCV_000075	auditory behavior	GO_0042491	auditory receptor cell differentiation
+RCV_000075	auditory behavior	GO_0009912	auditory receptor cell fate commitment
+RCV_000075	auditory behavior	GO_0042668	auditory receptor cell fate determination
+RCV_000075	auditory behavior	GO_0042667	auditory receptor cell fate specification
+RCV_000075	auditory behavior	GO_0002093	auditory receptor cell morphogenesis
+RCV_000075	auditory behavior	GO_0060088	auditory receptor cell stereocilium organization
+RCV_000077	auxin	GO_0010541	acropetal auxin transport
+RCV_000077	auxin	GO_0010011	auxin binding
+RCV_000077	auxin	GO_0009851	auxin biosynthetic process
+RCV_000077	auxin	GO_0009852	auxin catabolic process
+RCV_000077	auxin	GO_0010249	auxin conjugate metabolic process
+RCV_000077	auxin	GO_0010315	auxin efflux
+RCV_000077	auxin	GO_0010329	auxin efflux transmembrane transporter activity
+RCV_000077	auxin	GO_0010252	auxin homeostasis
+RCV_000077	auxin	GO_0060919	auxin influx
+RCV_000077	auxin	GO_0010328	auxin influx transmembrane transporter activity
+RCV_000077	auxin	GO_0060774	auxin mediated signaling pathway involved in phyllotactic patterning
+RCV_000077	auxin	GO_0009850	auxin metabolic process
+RCV_000077	auxin	GO_0009926	auxin polar transport
+RCV_000077	auxin	GO_0038198	auxin receptor activity
+RCV_000077	auxin	GO_0080161	auxin transmembrane transporter activity
+RCV_000077	auxin	GO_0060918	auxin transport
+RCV_000077	auxin	GO_0009734	auxin-activated signaling pathway
+RCV_000077	auxin	GO_0009672	auxin:proton symporter activity
+RCV_000077	auxin	GO_0010540	basipetal auxin transport
+RCV_000077	auxin	GO_0071365	cellular response to auxin stimulus
+RCV_000077	auxin	GO_0071366	cellular response to indolebutyric acid stimulus
+RCV_000077	auxin	GO_0009721	detection of auxin stimulus
+RCV_000077	auxin	GO_0033475	indoleacetic acid amide conjugate biosynthetic process
+RCV_000077	auxin	GO_0009684	indoleacetic acid biosynthetic process
+RCV_000077	auxin	GO_0009848	indoleacetic acid biosynthetic process via tryptophan
+RCV_000077	auxin	GO_0042437	indoleacetic acid catabolic process
+RCV_000077	auxin	GO_0033474	indoleacetic acid conjugate biosynthetic process
+RCV_000077	auxin	GO_0033473	indoleacetic acid conjugate metabolic process
+RCV_000077	auxin	GO_0033476	indoleacetic acid ester conjugate biosynthetic process
+RCV_000077	auxin	GO_0009683	indoleacetic acid metabolic process
+RCV_000077	auxin	GO_0080024	indolebutyric acid metabolic process
+RCV_000077	auxin	GO_0080162	intracellular auxin transport
+RCV_000077	auxin	GO_0090015	positive regulation of leaflet formation by auxin mediated signaling pathway
+RCV_000077	auxin	GO_0009733	response to auxin
+RCV_000077	auxin	GO_0080026	response to indolebutyric acid
+RCV_000077	auxin	GO_0019440	tryptophan catabolic process to indole-3-acetate
+RCV_000077	auxin	GO_0009849	tryptophan-independent indoleacetic acid biosynthetic process
+RCV_000078	axon	GO_2001266	Roundabout signaling pathway involved in axon guidance
+RCV_000078	axon	GO_0014011	Schwann cell proliferation involved in axon regeneration
+RCV_000078	axon	GO_1902378	VEGF-activated neuropilin signaling pathway involved in axon guidance
+RCV_000078	axon	GO_0048910	afferent axon development in anterior lateral line nerve
+RCV_000078	axon	GO_0048893	afferent axon development in lateral line nerve
+RCV_000078	axon	GO_0048933	afferent axon development in posterior lateral line nerve
+RCV_000078	axon	GO_0021960	anterior commissure morphogenesis
+RCV_000078	axon	GO_0033564	anterior/posterior axon guidance
+RCV_000078	axon	GO_0008089	anterograde axon cargo transport
+RCV_000078	axon	GO_0008088	axon cargo transport
+RCV_000078	axon	GO_0016198	axon choice point recognition
+RCV_000078	axon	GO_0061564	axon development
+RCV_000078	axon	GO_0008366	axon ensheathment
+RCV_000078	axon	GO_0032291	axon ensheathment in central nervous system
+RCV_000078	axon	GO_0048675	axon extension
+RCV_000078	axon	GO_0048846	axon extension involved in axon guidance
+RCV_000078	axon	GO_0048677	axon extension involved in regeneration
+RCV_000078	axon	GO_0007411	axon guidance
+RCV_000078	axon	GO_0008046	axon guidance receptor activity
+RCV_000078	axon	GO_0016199	axon midline choice point recognition
+RCV_000078	axon	GO_0031103	axon regeneration
+RCV_000078	axon	GO_0014814	axon regeneration at neuromuscular junction
+RCV_000078	axon	GO_0007412	axon target recognition
+RCV_000078	axon	GO_0019896	axon transport of mitochondrion
+RCV_000078	axon	GO_0007414	axonal defasciculation
+RCV_000078	axon	GO_0007413	axonal fasciculation
+RCV_000078	axon	GO_0070286	axonemal dynein complex assembly
+RCV_000078	axon	GO_0060404	axonemal microtubule depolymerization
+RCV_000078	axon	GO_0035082	axoneme assembly
+RCV_000078	axon	GO_0007409	axonogenesis
+RCV_000078	axon	GO_0060385	axonogenesis involved in innervation
+RCV_000078	axon	GO_0021785	branchiomotor neuron axon guidance
+RCV_000078	axon	GO_0021789	branchiomotor neuron axon guidance in branchial arch mesenchyme
+RCV_000078	axon	GO_0021786	branchiomotor neuron axon guidance in neural tube
+RCV_000078	axon	GO_0021956	central nervous system interneuron axonogenesis
+RCV_000078	axon	GO_0021955	central nervous system neuron axonogenesis
+RCV_000078	axon	GO_0021952	central nervous system projection neuron axonogenesis
+RCV_000078	axon	GO_0021824	cerebral cortex tangential migration using cell-axon interactions
+RCV_000078	axon	GO_1902379	chemoattractant activity involved in axon guidance
+RCV_000078	axon	GO_0061642	chemoattraction of axon
+RCV_000078	axon	GO_0021792	chemoattraction of branchiomotor axon
+RCV_000078	axon	GO_0021791	chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme
+RCV_000078	axon	GO_0021788	chemoattraction of branchiomotor neuron axon in neural tube
+RCV_000078	axon	GO_0061643	chemorepulsion of axon
+RCV_000078	axon	GO_0021793	chemorepulsion of branchiomotor axon
+RCV_000078	axon	GO_0021790	chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme
+RCV_000078	axon	GO_0021787	chemorepulsion of branchiomotor neuron axon in neural tube
+RCV_000078	axon	GO_0048668	collateral sprouting
+RCV_000078	axon	GO_0048669	collateral sprouting in absence of injury
+RCV_000078	axon	GO_0048674	collateral sprouting of injured axon
+RCV_000078	axon	GO_0048673	collateral sprouting of intact axon in response to injury
+RCV_000078	axon	GO_0071679	commissural neuron axon guidance
+RCV_000078	axon	GO_0021540	corpus callosum morphogenesis
+RCV_000078	axon	GO_0021973	corticospinal neuron axon decussation
+RCV_000078	axon	GO_0021966	corticospinal neuron axon guidance
+RCV_000078	axon	GO_0021972	corticospinal neuron axon guidance through spinal cord
+RCV_000078	axon	GO_0021970	corticospinal neuron axon guidance through the basilar pons
+RCV_000078	axon	GO_0021967	corticospinal neuron axon guidance through the cerebral cortex
+RCV_000078	axon	GO_0021969	corticospinal neuron axon guidance through the cerebral peduncle
+RCV_000078	axon	GO_0021968	corticospinal neuron axon guidance through the internal capsule
+RCV_000078	axon	GO_0021971	corticospinal neuron axon guidance through the medullary pyramid
+RCV_000078	axon	GO_0021957	corticospinal tract morphogenesis
+RCV_000078	axon	GO_0021959	cuneatus tract morphogenesis
+RCV_000078	axon	GO_0007415	defasciculation of motor neuron axon
+RCV_000078	axon	GO_0097380	dorsal spinal cord interneuron anterior axon guidance
+RCV_000078	axon	GO_0097378	dorsal spinal cord interneuron axon guidance
+RCV_000078	axon	GO_0097379	dorsal spinal cord interneuron posterior axon guidance
+RCV_000078	axon	GO_0033563	dorsal/ventral axon guidance
+RCV_000078	axon	GO_0048894	efferent axon development in a lateral line nerve
+RCV_000078	axon	GO_0048911	efferent axon development in anterior lateral line nerve
+RCV_000078	axon	GO_0048929	efferent axon development in posterior lateral line nerve
+RCV_000078	axon	GO_0071206	establishment of protein localization to juxtaparanode region of axon
+RCV_000078	axon	GO_0097156	fasciculation of motor neuron axon
+RCV_000078	axon	GO_0097155	fasciculation of sensory neuron axon
+RCV_000078	axon	GO_0048689	formation of growth cone in injured axon
+RCV_000078	axon	GO_0021958	gracilis tract morphogenesis
+RCV_000078	axon	GO_0021856	hypothalamic tangential migration using cell-axon interactions
+RCV_000078	axon	GO_0097376	interneuron axon guidance
+RCV_000078	axon	GO_0061373	mammillary axonal complex development
+RCV_000078	axon	GO_0061375	mammillotectal axonal tract development
+RCV_000078	axon	GO_0061376	mammillotegmental axonal tract development
+RCV_000078	axon	GO_0061374	mammillothalamic axonal tract development
+RCV_000078	axon	GO_0021976	medulla reticulospinal tract morphogenesis
+RCV_000078	axon	GO_0008045	motor neuron axon guidance
+RCV_000078	axon	GO_0048914	myelination of anterior lateral line nerve axons
+RCV_000078	axon	GO_0048897	myelination of lateral line nerve axons
+RCV_000078	axon	GO_0048932	myelination of posterior lateral line nerve axons
+RCV_000078	axon	GO_0030517	negative regulation of axon extension
+RCV_000078	axon	GO_0048843	negative regulation of axon extension involved in axon guidance
+RCV_000078	axon	GO_0048692	negative regulation of axon extension involved in regeneration
+RCV_000078	axon	GO_1902668	negative regulation of axon guidance
+RCV_000078	axon	GO_0048681	negative regulation of axon regeneration
+RCV_000078	axon	GO_0007027	negative regulation of axonemal microtubule depolymerization
+RCV_000078	axon	GO_0050771	negative regulation of axonogenesis
+RCV_000078	axon	GO_0048671	negative regulation of collateral sprouting
+RCV_000078	axon	GO_0048698	negative regulation of collateral sprouting in absence of injury
+RCV_000078	axon	GO_0048695	negative regulation of collateral sprouting of injured axon
+RCV_000078	axon	GO_0048685	negative regulation of collateral sprouting of intact axon in response to injury
+RCV_000078	axon	GO_0090260	negative regulation of retinal ganglion cell axon guidance
+RCV_000078	axon	GO_2001018	negative regulation of retrograde axon cargo transport
+RCV_000078	axon	GO_0048688	negative regulation of sprouting of injured axon
+RCV_000078	axon	GO_0032285	non-myelinated axon ensheathment
+RCV_000078	axon	GO_0032293	non-myelinated axon ensheathment in central nervous system
+RCV_000078	axon	GO_0071678	olfactory bulb axon guidance
+RCV_000078	axon	GO_0032292	peripheral nervous system axon ensheathment
+RCV_000078	axon	GO_0014012	peripheral nervous system axon regeneration
+RCV_000078	axon	GO_0048936	peripheral nervous system neuron axonogenesis
+RCV_000078	axon	GO_0032294	peripheral nervous system non-myelinated axon ensheathment
+RCV_000078	axon	GO_0072499	photoreceptor cell axon guidance
+RCV_000078	axon	GO_0021975	pons reticulospinal tract morphogenesis
+RCV_000078	axon	GO_0045773	positive regulation of axon extension
+RCV_000078	axon	GO_0048842	positive regulation of axon extension involved in axon guidance
+RCV_000078	axon	GO_0048691	positive regulation of axon extension involved in regeneration
+RCV_000078	axon	GO_1902669	positive regulation of axon guidance
+RCV_000078	axon	GO_0048680	positive regulation of axon regeneration
+RCV_000078	axon	GO_0050772	positive regulation of axonogenesis
+RCV_000078	axon	GO_0048672	positive regulation of collateral sprouting
+RCV_000078	axon	GO_0048697	positive regulation of collateral sprouting in absence of injury
+RCV_000078	axon	GO_0048694	positive regulation of collateral sprouting of injured axon
+RCV_000078	axon	GO_0048684	positive regulation of collateral sprouting of intact axon in response to injury
+RCV_000078	axon	GO_1902336	positive regulation of retinal ganglion cell axon guidance
+RCV_000078	axon	GO_2001019	positive regulation of retrograde axon cargo transport
+RCV_000078	axon	GO_0048687	positive regulation of sprouting of injured axon
+RCV_000078	axon	GO_0021961	posterior commissure morphogenesis
+RCV_000078	axon	GO_0071205	protein localization to juxtaparanode region of axon
+RCV_000078	axon	GO_0035750	protein localization to myelin sheath abaxonal region
+RCV_000078	axon	GO_0002175	protein localization to paranode region of axon
+RCV_000078	axon	GO_0031133	regulation of axon diameter
+RCV_000078	axon	GO_0030516	regulation of axon extension
+RCV_000078	axon	GO_0048841	regulation of axon extension involved in axon guidance
+RCV_000078	axon	GO_0048690	regulation of axon extension involved in regeneration
+RCV_000078	axon	GO_1902667	regulation of axon guidance
+RCV_000078	axon	GO_0048679	regulation of axon regeneration
+RCV_000078	axon	GO_0050770	regulation of axonogenesis
+RCV_000078	axon	GO_0048670	regulation of collateral sprouting
+RCV_000078	axon	GO_0048696	regulation of collateral sprouting in absence of injury
+RCV_000078	axon	GO_0048693	regulation of collateral sprouting of injured axon
+RCV_000078	axon	GO_0048683	regulation of collateral sprouting of intact axon in response to injury
+RCV_000078	axon	GO_2000289	regulation of photoreceptor cell axon guidance
+RCV_000078	axon	GO_0090259	regulation of retinal ganglion cell axon guidance
+RCV_000078	axon	GO_2001017	regulation of retrograde axon cargo transport
+RCV_000078	axon	GO_0048686	regulation of sprouting of injured axon
+RCV_000078	axon	GO_0048678	response to axon injury
+RCV_000078	axon	GO_0031290	retinal ganglion cell axon guidance
+RCV_000078	axon	GO_0008090	retrograde axon cargo transport
+RCV_000078	axon	GO_0021964	rubrospinal tract morphogenesis
+RCV_000078	axon	GO_1902287	semaphorin-plexin signaling pathway involved in axon guidance
+RCV_000078	axon	GO_2000305	semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance
+RCV_000078	axon	GO_0097374	sensory neuron axon guidance
+RCV_000078	axon	GO_0007288	sperm axoneme assembly
+RCV_000078	axon	GO_0097377	spinal cord interneuron axon guidance
+RCV_000078	axon	GO_0021965	spinal cord ventral commissure morphogenesis
+RCV_000078	axon	GO_0097375	spinal sensory neuron axon guidance
+RCV_000078	axon	GO_0021963	spinothalamic tract morphogenesis
+RCV_000078	axon	GO_0048682	sprouting of injured axon
+RCV_000078	axon	GO_0097492	sympathetic neuron axon guidance
+RCV_000078	axon	GO_0034429	tectobulbar tract morphogenesis
+RCV_000078	axon	GO_0021977	tectospinal tract morphogenesis
+RCV_000078	axon	GO_0021974	trigeminothalamic tract morphogenesis
+RCV_000078	axon	GO_0021962	vestibulospinal tract morphogenesis
+RCV_000080	base pairing	GO_0033443	AAA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033442	AAC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033444	AAG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033441	AAU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033439	ACA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033438	ACC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033440	ACG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033437	ACU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033447	AGA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033446	AGC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033448	AGG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033445	AGU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033435	AUA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033434	AUC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033436	AUG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033433	AUU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033427	CAA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033426	CAC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033428	CAG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033425	CAU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033423	CCA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033422	CCC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033424	CCG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033421	CCU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033431	CGA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033430	CGC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033432	CGG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033429	CGU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033419	CUA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033418	CUC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033420	CUG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033417	CUU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033459	GAA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033458	GAC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033460	GAG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033457	GAU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033455	GCA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033454	GCC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033456	GCG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033453	GCU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033463	GGA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033462	GGC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033464	GGG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033461	GGU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033451	GUA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033450	GUC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033452	GUG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033449	GUU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0030561	RNA 2'-O-ribose methylation guide activity
+RCV_000080	base pairing	GO_0030555	RNA modification guide activity
+RCV_000080	base pairing	GO_0030558	RNA pseudouridylation guide activity
+RCV_000080	base pairing	GO_0033411	UAA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033410	UAC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033412	UAG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033409	UAU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033407	UCA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033406	UCC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033408	UCG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033405	UCU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033415	UGA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033414	UGC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033416	UGG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033413	UGU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033403	UUA codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033402	UUC codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033404	UUG codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0033401	UUU codon-amino acid adaptor activity
+RCV_000080	base pairing	GO_0000496	base pairing
+RCV_000080	base pairing	GO_0000497	base pairing with DNA
+RCV_000080	base pairing	GO_0000498	base pairing with RNA
+RCV_000080	base pairing	GO_0000499	base pairing with mRNA
+RCV_000080	base pairing	GO_0000944	base pairing with rRNA
+RCV_000080	base pairing	GO_0000945	base pairing with snRNA
+RCV_000080	base pairing	GO_0000946	base pairing with tRNA
+RCV_000080	base pairing	GO_0030562	rRNA 2'-O-ribose methylation guide activity
+RCV_000080	base pairing	GO_0030556	rRNA modification guide activity
+RCV_000080	base pairing	GO_0030559	rRNA pseudouridylation guide activity
+RCV_000080	base pairing	GO_0030563	snRNA 2'-O-ribose methylation guide activity
+RCV_000080	base pairing	GO_0030566	snRNA modification guide activity
+RCV_000080	base pairing	GO_0030565	snRNA pseudouridylation guide activity
+RCV_000080	base pairing	GO_0030564	tRNA 2'-O-ribose methylation guide activity
+RCV_000080	base pairing	GO_0030557	tRNA modification guide activity
+RCV_000080	base pairing	GO_0030560	tRNA pseudouridylation guide activity
+RCV_000080	base pairing	GO_0000332	template for synthesis of G-rich strand of telomere DNA activity
+RCV_000080	base pairing	GO_0030533	triplet codon-amino acid adaptor activity
 RCV_000081	basophil	GO_0045575	basophil activation
 RCV_000081	basophil	GO_0002276	basophil activation involved in immune response
 RCV_000081	basophil	GO_0002575	basophil chemotaxis
@@ -2782,6 +3311,302 @@ RCV_000081	basophil	GO_0045642	positive regulation of basophil differentiation
 RCV_000081	basophil	GO_0045640	regulation of basophil differentiation
 RCV_000081	basophil	GO_0002556	serotonin secretion by basophil
 RCV_000081	basophil	GO_0002559	type I hypersensitivity mediated by basophils
+RCV_000082	behaviour	GO_0052099	acquisition by symbiont of nutrients from host via siderophores
+RCV_000082	behaviour	GO_0044002	acquisition of nutrients from host
+RCV_000082	behaviour	GO_0051816	acquisition of nutrients from other organism during symbiotic interaction
+RCV_000082	behaviour	GO_0051850	acquisition of nutrients from symbiont
+RCV_000082	behaviour	GO_0030534	adult behavior
+RCV_000082	behaviour	GO_0008343	adult feeding behavior
+RCV_000082	behaviour	GO_0060757	adult foraging behavior
+RCV_000082	behaviour	GO_0008344	adult locomotory behavior
+RCV_000082	behaviour	GO_0007628	adult walking behavior
+RCV_000082	behaviour	GO_0052217	aerotaxis in environment of other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052137	aerotaxis in host
+RCV_000082	behaviour	GO_0052117	aerotaxis in host environment
+RCV_000082	behaviour	GO_0052237	aerotaxis in other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052138	aerotaxis on or near host
+RCV_000082	behaviour	GO_0052238	aerotaxis on or near other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0002118	aggressive behavior
+RCV_000082	behaviour	GO_0007615	anesthesia-resistant memory
+RCV_000082	behaviour	GO_0003051	angiotensin-mediated drinking behavior
+RCV_000082	behaviour	GO_0008306	associative learning
+RCV_000082	behaviour	GO_0031223	auditory behavior
+RCV_000082	behaviour	GO_0007610	behavior
+RCV_000082	behaviour	GO_0002209	behavioral defense response
+RCV_000082	behaviour	GO_0002211	behavioral defense response to insect
+RCV_000082	behaviour	GO_0002212	behavioral defense response to nematode
+RCV_000082	behaviour	GO_0001662	behavioral fear response
+RCV_000082	behaviour	GO_0061367	behavioral response to acetic acid induced pain
+RCV_000082	behaviour	GO_0061366	behavioral response to chemical pain
+RCV_000082	behaviour	GO_0048148	behavioral response to cocaine
+RCV_000082	behaviour	GO_0048149	behavioral response to ethanol
+RCV_000082	behaviour	GO_0048150	behavioral response to ether
+RCV_000082	behaviour	GO_0061368	behavioral response to formalin induced pain
+RCV_000082	behaviour	GO_0035095	behavioral response to nicotine
+RCV_000082	behaviour	GO_0051780	behavioral response to nutrient
+RCV_000082	behaviour	GO_0048266	behavioral response to pain
+RCV_000082	behaviour	GO_0042595	behavioral response to starvation
+RCV_000082	behaviour	GO_0042630	behavioral response to water deprivation
+RCV_000082	behaviour	GO_0002210	behavioral response to wounding
+RCV_000082	behaviour	GO_0007635	chemosensory behavior
+RCV_000082	behaviour	GO_0007636	chemosensory jump behavior
+RCV_000082	behaviour	GO_0052216	chemotaxis in environment of other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052116	chemotaxis in host environment
+RCV_000082	behaviour	GO_0052242	chemotaxis in other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052143	chemotaxis on or near host involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052243	chemotaxis on or near other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052142	chemotaxis within host
+RCV_000082	behaviour	GO_0048512	circadian behavior
+RCV_000082	behaviour	GO_0035648	circadian mating behavior
+RCV_000082	behaviour	GO_0042745	circadian sleep/wake cycle
+RCV_000082	behaviour	GO_0022410	circadian sleep/wake cycle process
+RCV_000082	behaviour	GO_0042747	circadian sleep/wake cycle, REM sleep
+RCV_000082	behaviour	GO_0042748	circadian sleep/wake cycle, non-REM sleep
+RCV_000082	behaviour	GO_0050802	circadian sleep/wake cycle, sleep
+RCV_000082	behaviour	GO_0042746	circadian sleep/wake cycle, wakefulness
+RCV_000082	behaviour	GO_0001661	conditioned taste aversion
+RCV_000082	behaviour	GO_0007619	courtship behavior
+RCV_000082	behaviour	GO_0060273	crying behavior
+RCV_000082	behaviour	GO_0097270	dishabituation
+RCV_000082	behaviour	GO_0042756	drinking behavior
+RCV_000082	behaviour	GO_0042755	eating behavior
+RCV_000082	behaviour	GO_0008062	eclosion rhythm
+RCV_000082	behaviour	GO_0044482	envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in other organism
+RCV_000082	behaviour	GO_0044649	envenomation resulting in cytolysis in other organism
+RCV_000082	behaviour	GO_0044523	envenomation resulting in damage of muscle extracellular matrix in other organism
+RCV_000082	behaviour	GO_0044536	envenomation resulting in depletion of circulating fibrinogen in other organism
+RCV_000082	behaviour	GO_0044485	envenomation resulting in fibrinogenolysis in other organism
+RCV_000082	behaviour	GO_0044484	envenomation resulting in fibrinolysis in other organism
+RCV_000082	behaviour	GO_1990142	envenomation resulting in hemolysis in other organism
+RCV_000082	behaviour	GO_0044358	envenomation resulting in hemorrhagic damage to other organism
+RCV_000082	behaviour	GO_0044483	envenomation resulting in impairment of hemostasis in other organism
+RCV_000082	behaviour	GO_0044398	envenomation resulting in induction of edema in other organism
+RCV_000082	behaviour	GO_0035738	envenomation resulting in modification of morphology or physiology of other organism
+RCV_000082	behaviour	GO_0044513	envenomation resulting in modulation of G-protein coupled receptor activity in other organism
+RCV_000082	behaviour	GO_0044733	envenomation resulting in modulation of acid-sensing ion channel activity in other organism
+RCV_000082	behaviour	GO_0044534	envenomation resulting in modulation of apoptotic process in other organism
+RCV_000082	behaviour	GO_0044468	envenomation resulting in modulation of blood coagulation in other organism
+RCV_000082	behaviour	GO_0044498	envenomation resulting in modulation of blood pressure in other organism
+RCV_000082	behaviour	GO_0044472	envenomation resulting in modulation of calcium channel activity in other organism
+RCV_000082	behaviour	GO_0044624	envenomation resulting in modulation of cell migration in other organism
+RCV_000082	behaviour	GO_0044646	envenomation resulting in modulation of complement activation in other organism
+RCV_000082	behaviour	GO_0044642	envenomation resulting in modulation of complement activation, alternative pathway in other organism
+RCV_000082	behaviour	GO_0044636	envenomation resulting in modulation of complement activation, classical pathway in other organism
+RCV_000082	behaviour	GO_0044639	envenomation resulting in modulation of complement activation, lectin pathway in other organism
+RCV_000082	behaviour	GO_0044512	envenomation resulting in modulation of glucagon-like peptide receptor 1 activity in other organism
+RCV_000082	behaviour	GO_0044560	envenomation resulting in modulation of ion channel activity in other organism
+RCV_000082	behaviour	GO_0044479	envenomation resulting in modulation of mast cell degranulation in other organism
+RCV_000082	behaviour	GO_0044365	envenomation resulting in modulation of platelet aggregation in other organism
+RCV_000082	behaviour	GO_0044511	envenomation resulting in modulation of receptor activity in other organism
+RCV_000082	behaviour	GO_0044742	envenomation resulting in modulation of sensory perception of pain in other organism
+RCV_000082	behaviour	GO_0044509	envenomation resulting in modulation of signal transduction in other organism
+RCV_000082	behaviour	GO_0044487	envenomation resulting in modulation of transmission of nerve impulse in other organism
+RCV_000082	behaviour	GO_0044519	envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism
+RCV_000082	behaviour	GO_0044551	envenomation resulting in modulation of vasodilation in other organism
+RCV_000082	behaviour	GO_0044559	envenomation resulting in modulation of voltage-gated potassium channel activity in other organism
+RCV_000082	behaviour	GO_0044492	envenomation resulting in modulation of voltage-gated sodium channel activity in other organism
+RCV_000082	behaviour	GO_0044521	envenomation resulting in muscle damage in other organism
+RCV_000082	behaviour	GO_0044522	envenomation resulting in myocyte killing in other organism
+RCV_000082	behaviour	GO_0044735	envenomation resulting in negative regulation of acid-sensing ion channel activity in other organism
+RCV_000082	behaviour	GO_0044470	envenomation resulting in negative regulation of blood coagulation in other organism
+RCV_000082	behaviour	GO_0044500	envenomation resulting in negative regulation of blood pressure in other organism
+RCV_000082	behaviour	GO_0044473	envenomation resulting in negative regulation of calcium channel activity in other organism
+RCV_000082	behaviour	GO_0044625	envenomation resulting in negative regulation of cell migration in other organism
+RCV_000082	behaviour	GO_0044644	envenomation resulting in negative regulation of complement activation, alternative pathway in other organism
+RCV_000082	behaviour	GO_0044637	envenomation resulting in negative regulation of complement activation, classical pathway in other organism
+RCV_000082	behaviour	GO_0044640	envenomation resulting in negative regulation of complement activation, lectin pathway in other organism
+RCV_000082	behaviour	GO_0044556	envenomation resulting in negative regulation of heart rate of other organism
+RCV_000082	behaviour	GO_0044475	envenomation resulting in negative regulation of high voltage-gated calcium channel activity in other organism
+RCV_000082	behaviour	GO_0044476	envenomation resulting in negative regulation of low voltage-gated calcium channel activity in other organism
+RCV_000082	behaviour	GO_0044477	envenomation resulting in negative regulation of platelet aggregation in other organism
+RCV_000082	behaviour	GO_0044741	envenomation resulting in negative regulation of sensory perception of pain in other organism
+RCV_000082	behaviour	GO_0044474	envenomation resulting in negative regulation of voltage-gated calcium channel activity in other organism
+RCV_000082	behaviour	GO_0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in other organism
+RCV_000082	behaviour	GO_0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in other organism
+RCV_000082	behaviour	GO_0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in other organism
+RCV_000082	behaviour	GO_0044544	envenomation resulting in plasminogen activation in other organism
+RCV_000082	behaviour	GO_0044471	envenomation resulting in pore formation in membrane of other organism
+RCV_000082	behaviour	GO_0044514	envenomation resulting in positive regulation of G-protein coupled receptor activity in other organism
+RCV_000082	behaviour	GO_0044734	envenomation resulting in positive regulation of acid-sensing ion channel activity in other organism
+RCV_000082	behaviour	GO_0044469	envenomation resulting in positive regulation of blood coagulation in other organism
+RCV_000082	behaviour	GO_0044499	envenomation resulting in positive regulation of blood pressure in other organism
+RCV_000082	behaviour	GO_0044626	envenomation resulting in positive regulation of cell migration in other organism
+RCV_000082	behaviour	GO_0044643	envenomation resulting in positive regulation of complement activation, alternative pathway in other organism
+RCV_000082	behaviour	GO_0044638	envenomation resulting in positive regulation of complement activation, classical pathway in other organism
+RCV_000082	behaviour	GO_0044641	envenomation resulting in positive regulation of complement activation, lectin pathway in other organism
+RCV_000082	behaviour	GO_0044515	envenomation resulting in positive regulation of glucagon-like peptide receptor 1 activity in other organism
+RCV_000082	behaviour	GO_0044480	envenomation resulting in positive regulation of mast cell degranulation in other organism
+RCV_000082	behaviour	GO_0044478	envenomation resulting in positive regulation of platelet aggregation in other organism
+RCV_000082	behaviour	GO_0044510	envenomation resulting in positive regulation of signal transduction in other organism
+RCV_000082	behaviour	GO_0044520	envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism
+RCV_000082	behaviour	GO_0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in other organism
+RCV_000082	behaviour	GO_0044481	envenomation resulting in proteolysis in other organism
+RCV_000082	behaviour	GO_0044563	envenomation resulting in slowing of activation kinetics of voltage-gated potassium channel in other organism
+RCV_000082	behaviour	GO_0044543	envenomation resulting in zymogen activation in other organism
+RCV_000082	behaviour	GO_0035640	exploration behavior
+RCV_000082	behaviour	GO_0002122	fear-induced aggressive behavior
+RCV_000082	behaviour	GO_0007631	feeding behavior
+RCV_000082	behaviour	GO_0044371	feeding from phloem of other organism
+RCV_000082	behaviour	GO_0044367	feeding from tissue of other organism
+RCV_000082	behaviour	GO_0044368	feeding from vascular tissue of another organism
+RCV_000082	behaviour	GO_0044372	feeding from xylem of other organism
+RCV_000082	behaviour	GO_0044369	feeding on blood of other organism
+RCV_000082	behaviour	GO_0044366	feeding on or from other organism
+RCV_000082	behaviour	GO_0008050	female courtship behavior
+RCV_000082	behaviour	GO_0060180	female mating behavior
+RCV_000082	behaviour	GO_0007629	flight behavior
+RCV_000082	behaviour	GO_0060756	foraging behavior
+RCV_000082	behaviour	GO_0060758	foraging behavior by probing substrate
+RCV_000082	behaviour	GO_0051867	general adaptation syndrome, behavioral process
+RCV_000082	behaviour	GO_0007625	grooming behavior
+RCV_000082	behaviour	GO_0046959	habituation
+RCV_000082	behaviour	GO_0035187	hatching behavior
+RCV_000082	behaviour	GO_0032537	host-seeking behavior
+RCV_000082	behaviour	GO_0098596	imitative learning
+RCV_000082	behaviour	GO_0035737	injection of substance in to other organism
+RCV_000082	behaviour	GO_0044370	injection of substance into other organism during feeding on blood of other organism
+RCV_000082	behaviour	GO_0098582	innate vocalization behavior
+RCV_000082	behaviour	GO_0002126	instrumental aggressive behavior
+RCV_000082	behaviour	GO_0002121	inter-male aggressive behavior
+RCV_000082	behaviour	GO_0044847	iron acquisition by symbiont from host
+RCV_000082	behaviour	GO_0002123	irritable aggressive behavior
+RCV_000082	behaviour	GO_0007630	jump response
+RCV_000082	behaviour	GO_0030537	larval behavior
+RCV_000082	behaviour	GO_0035181	larval burrowing behavior
+RCV_000082	behaviour	GO_0030536	larval feeding behavior
+RCV_000082	behaviour	GO_0035177	larval foraging behavior
+RCV_000082	behaviour	GO_0008345	larval locomotory behavior
+RCV_000082	behaviour	GO_0035179	larval turning behavior
+RCV_000082	behaviour	GO_0008346	larval walking behavior
+RCV_000082	behaviour	GO_0035180	larval wandering behavior
+RCV_000082	behaviour	GO_0098583	learned vocalization behavior
+RCV_000082	behaviour	GO_0098598	learned vocalization behavior or vocal learning
+RCV_000082	behaviour	GO_0007612	learning
+RCV_000082	behaviour	GO_0007611	learning or memory
+RCV_000082	behaviour	GO_0045475	locomotor rhythm
+RCV_000082	behaviour	GO_0007626	locomotory behavior
+RCV_000082	behaviour	GO_0035641	locomotory exploration behavior
+RCV_000082	behaviour	GO_0007616	long-term memory
+RCV_000082	behaviour	GO_0008049	male courtship behavior
+RCV_000082	behaviour	GO_0016543	male courtship behavior, orientation prior to leg tapping and wing vibration
+RCV_000082	behaviour	GO_0016546	male courtship behavior, proboscis-mediated licking
+RCV_000082	behaviour	GO_0016544	male courtship behavior, tapping to detect pheromone
+RCV_000082	behaviour	GO_0048065	male courtship behavior, veined wing extension
+RCV_000082	behaviour	GO_0045433	male courtship behavior, veined wing generated song production
+RCV_000082	behaviour	GO_0016545	male courtship behavior, veined wing vibration
+RCV_000082	behaviour	GO_0060179	male mating behavior
+RCV_000082	behaviour	GO_0002125	maternal aggressive behavior
+RCV_000082	behaviour	GO_0042711	maternal behavior
+RCV_000082	behaviour	GO_0007617	mating behavior
+RCV_000082	behaviour	GO_0048047	mating behavior, sex discrimination
+RCV_000082	behaviour	GO_0042628	mating plug formation
+RCV_000082	behaviour	GO_0007638	mechanosensory behavior
+RCV_000082	behaviour	GO_0072375	medium-term memory
+RCV_000082	behaviour	GO_0007613	memory
+RCV_000082	behaviour	GO_0051705	multi-organism behavior
+RCV_000082	behaviour	GO_0044705	multi-organism reproductive behavior
+RCV_000082	behaviour	GO_0033057	multicellular organismal reproductive behavior
+RCV_000082	behaviour	GO_0052222	negative aerotaxis in environment of other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052135	negative aerotaxis in host
+RCV_000082	behaviour	GO_0052122	negative aerotaxis in host environment
+RCV_000082	behaviour	GO_0052235	negative aerotaxis in other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052134	negative aerotaxis on or near host
+RCV_000082	behaviour	GO_0052234	negative aerotaxis on or near other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052223	negative chemotaxis in environment of other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052139	negative chemotaxis in host
+RCV_000082	behaviour	GO_0052123	negative chemotaxis in host environment
+RCV_000082	behaviour	GO_0052239	negative chemotaxis in other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052136	negative chemotaxis on or near host
+RCV_000082	behaviour	GO_0052236	negative chemotaxis on or near other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0042322	negative regulation of circadian sleep/wake cycle, REM sleep
+RCV_000082	behaviour	GO_0042323	negative regulation of circadian sleep/wake cycle, non-REM sleep
+RCV_000082	behaviour	GO_0042321	negative regulation of circadian sleep/wake cycle, sleep
+RCV_000082	behaviour	GO_0007621	negative regulation of female receptivity
+RCV_000082	behaviour	GO_0045434	negative regulation of female receptivity, post-mating
+RCV_000082	behaviour	GO_0046958	nonassociative learning
+RCV_000082	behaviour	GO_0098597	observational learning
+RCV_000082	behaviour	GO_0042048	olfactory behavior
+RCV_000082	behaviour	GO_0008355	olfactory learning
+RCV_000082	behaviour	GO_0035106	operant conditioning
+RCV_000082	behaviour	GO_0007634	optokinetic behavior
+RCV_000082	behaviour	GO_0071632	optomotor response
+RCV_000082	behaviour	GO_0060747	oral incubation
+RCV_000082	behaviour	GO_0018991	oviposition
+RCV_000082	behaviour	GO_0060746	parental behavior
+RCV_000082	behaviour	GO_0042712	paternal behavior
+RCV_000082	behaviour	GO_0007633	pattern orientation
+RCV_000082	behaviour	GO_0043050	pharyngeal pumping
+RCV_000082	behaviour	GO_0052220	positive aerotaxis in environment of other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052133	positive aerotaxis in host
+RCV_000082	behaviour	GO_0052120	positive aerotaxis in host environment
+RCV_000082	behaviour	GO_0052233	positive aerotaxis in other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052132	positive aerotaxis on or near host
+RCV_000082	behaviour	GO_0052232	positive aerotaxis on or near other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052221	positive chemotaxis in environment of other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052140	positive chemotaxis in host
+RCV_000082	behaviour	GO_0052121	positive chemotaxis in host environment
+RCV_000082	behaviour	GO_0052240	positive chemotaxis in other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0052141	positive chemotaxis on or near host
+RCV_000082	behaviour	GO_0052241	positive chemotaxis on or near other organism involved in symbiotic interaction
+RCV_000082	behaviour	GO_0046005	positive regulation of circadian sleep/wake cycle, REM sleep
+RCV_000082	behaviour	GO_0046010	positive regulation of circadian sleep/wake cycle, non-REM sleep
+RCV_000082	behaviour	GO_0045938	positive regulation of circadian sleep/wake cycle, sleep
+RCV_000082	behaviour	GO_0010841	positive regulation of circadian sleep/wake cycle, wakefulness
+RCV_000082	behaviour	GO_0045925	positive regulation of female receptivity
+RCV_000082	behaviour	GO_0046009	positive regulation of female receptivity, post-mating
+RCV_000082	behaviour	GO_0045297	post-mating behavior
+RCV_000082	behaviour	GO_0060403	post-mating oviposition
+RCV_000082	behaviour	GO_0002120	predatory behavior
+RCV_000082	behaviour	GO_0007637	proboscis extension reflex
+RCV_000082	behaviour	GO_0036343	psychomotor behavior
+RCV_000082	behaviour	GO_0002023	reduction of food intake in response to dietary excess
+RCV_000082	behaviour	GO_0042749	regulation of circadian sleep/wake cycle
+RCV_000082	behaviour	GO_0042320	regulation of circadian sleep/wake cycle, REM sleep
+RCV_000082	behaviour	GO_0045188	regulation of circadian sleep/wake cycle, non-REM sleep
+RCV_000082	behaviour	GO_0045187	regulation of circadian sleep/wake cycle, sleep
+RCV_000082	behaviour	GO_0010840	regulation of circadian sleep/wake cycle, wakefulness
+RCV_000082	behaviour	GO_0045924	regulation of female receptivity
+RCV_000082	behaviour	GO_0046008	regulation of female receptivity, post-mating
+RCV_000082	behaviour	GO_0019098	reproductive behavior
+RCV_000082	behaviour	GO_0034606	response to hermaphrodite contact
+RCV_000082	behaviour	GO_0007622	rhythmic behavior
+RCV_000082	behaviour	GO_0035199	salt aversion
+RCV_000082	behaviour	GO_0046960	sensitization
+RCV_000082	behaviour	GO_0007614	short-term memory
+RCV_000082	behaviour	GO_0044708	single-organism behavior
+RCV_000082	behaviour	GO_0044704	single-organism reproductive behavior
+RCV_000082	behaviour	GO_0035176	social behavior
+RCV_000082	behaviour	GO_0034609	spicule insertion
+RCV_000082	behaviour	GO_0001967	suckling behavior
+RCV_000082	behaviour	GO_0036269	swimming behavior
+RCV_000082	behaviour	GO_0002124	territorial aggressive behavior
+RCV_000082	behaviour	GO_0040040	thermosensory behavior
+RCV_000082	behaviour	GO_0035178	turning behavior
+RCV_000082	behaviour	GO_0034607	turning behavior involved in mating
+RCV_000082	behaviour	GO_0007632	visual behavior
+RCV_000082	behaviour	GO_0008542	visual learning
+RCV_000082	behaviour	GO_0042297	vocal learning
+RCV_000082	behaviour	GO_0071625	vocalization behavior
+RCV_000082	behaviour	GO_0034608	vulval location
+RCV_000085	bile acid	GO_0038182	G-protein coupled bile acid receptor activity
+RCV_000085	bile acid	GO_0015721	bile acid and bile salt transport
+RCV_000085	bile acid	GO_0032052	bile acid binding
+RCV_000085	bile acid	GO_0006699	bile acid biosynthetic process
+RCV_000085	bile acid	GO_0030573	bile acid catabolic process
+RCV_000085	bile acid	GO_0002152	bile acid conjugation
+RCV_000085	bile acid	GO_0008206	bile acid metabolic process
+RCV_000085	bile acid	GO_0038181	bile acid receptor activity
+RCV_000085	bile acid	GO_0032782	bile acid secretion
+RCV_000085	bile acid	GO_0015125	bile acid transmembrane transporter activity
+RCV_000085	bile acid	GO_0015432	bile acid-exporting ATPase activity
+RCV_000085	bile acid	GO_0008508	bile acid:sodium symporter activity
+RCV_000085	bile acid	GO_0015126	canalicular bile acid transmembrane transporter activity
+RCV_000085	bile acid	GO_0015722	canalicular bile acid transport
+RCV_000085	bile acid	GO_1903413	cellular response to bile acid
+RCV_000085	bile acid	GO_1902122	chenodeoxycholic acid binding
+RCV_000085	bile acid	GO_1902121	lithocholic acid binding
+RCV_000085	bile acid	GO_0038186	lithocholic acid receptor activity
+RCV_000085	bile acid	GO_1903412	response to bile acid
 RCV_000087	blood pressure	GO_0001998	angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure
 RCV_000087	blood pressure	GO_0001981	baroreceptor detection of arterial stretch
 RCV_000087	blood pressure	GO_0003024	baroreceptor detection of decreased arterial stretch
