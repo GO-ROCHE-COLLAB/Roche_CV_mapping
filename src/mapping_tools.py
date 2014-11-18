@@ -123,7 +123,7 @@ class map_obj:
 		for key in keys:
 			# Add key for row, if not already present
 			if key not in report_tab:
-				report_tab[key] = { 'checked': 0, 'blacklisted': 0 } # Initialize 
+				report_tab[key] = { 'checked': 0, 'blacklisted': 0, 'is_obsolete': 0 } # Initialize 
 			# Populate row
 			report_tab[key]['name'] = self.id_name[key]
 			report_tab[key]['ID'] = key
