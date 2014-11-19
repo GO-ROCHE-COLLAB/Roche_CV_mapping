@@ -89,17 +89,16 @@ class issueConn:
         }
         return self.create_github_issue(data)
         
-    def ticket_exists(self, title, labels={''}):
+    def ticket_exists(self, title, labels=[]):
         """Searches open and closed for issue with specified title.
         If exists, return json, otherwise return False.
         Optionally specify a list of labels, ticket is only returned if all labels match"""
-        ### Status: Needs to be rewritten to cope with pagination of 
-        ### returned results.  Default = 30. Max = 100.  Need some code to iterate through multiple pages.
         out = []
+        labels = set(labels)
         for i in self.all_issues:
             if i['title'] == title:
-                tsl = set(i['labels'])
-                if labels.intersection(tsl) == labels:
+                ticket_label_names = set(map(lambda x: x['name'],  i['labels']))
+                if ticket_label_names.intersection(labels) == labels:
                     out.append(i)
         return out
     
