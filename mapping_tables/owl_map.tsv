@@ -44,7 +44,7 @@ TNF pathway	RCV_000042	tumor necrosis factor-mediated signaling pathway	GO_00332
 TRAIL production	RCV_000043	TRAIL biosynthetic process	GO_0045553	Equivalence		131	open
 UDP metabolism	RCV_000044	UDP-sugar	CHEBI_17297	has_participant_chemical		134	open
 VEGF pathway	RCV_000045	vascular endothelial growth factor signaling pathway	GO_0038084	is_a_OR_part_of_OR_regulates		153	open
-Wnt pathway	RCV_000046			?			
+Wnt pathway	RCV_000046	Wnt signaling pathway	GO_0016055	is_a_OR_part_of_OR_regulates	better to choose cannonical wnt pathway? Non-cannonical appears to be missing from manual mapping.		
 acetylcholine	RCV_000047	acetylcholine	CHEBI_15355	has_participant_chemical		152	open
 adenine metabolism	RCV_000048	adenine metabolic process	GO_0046083	Equivalence		154	open
 adhesion	RCV_000049			?			
@@ -52,7 +52,7 @@ adipose	RCV_000050			?	Combine function and development - with reference to adip
 adipose differentiation	RCV_000051	adipose tissue development	GO_0060612	is_a_OR_part_of_OR_regulates		180	open
 adrenal	RCV_000052	adrenal gland development	GO_0030325	is_a_OR_part_of_OR_regulates			
 adrenergic	RCV_000053	adrenergic receptor signaling pathway	GO_0071875	is_a_OR_part_of_OR_regulates			
-aerobic metabolism	RCV_000054	Wnt signaling pathway	GO_0016055	is_a_OR_part_of_OR_regulates	better to choose cannonical wnt pathway? Non-cannonical appears to be missing from manual mapping.		
+aerobic metabolism	RCV_000054			?			
 aging	RCV_000055	cell aging	GO_0007569	is_a_OR_part_of_OR_regulates	Could map to more general 'aging' term in GO, but this would bring in plant aging terms, including fruit ripening!		
 allantoin metabolism	RCV_000056	allantoin metabolic process	GO_0000255	Equivalence		182	open
 amine metabolism	RCV_000057	amine metabolic process	GO_0009308	Equivalence		181	open
