@@ -6,81 +6,81 @@ base pairing with mRNA	GO_0000499	1	1	1	0	0
 base pairing with RNA	GO_0000498	1	1	1	0	0
 base pairing with DNA	GO_0000497	1	1	1	0	0
 base pairing	GO_0000496	1	1	1	0	0
-triplet codon-amino acid adaptor activity	GO_0030533	0	1	0	0	0
-template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	0	0	0
-tRNA pseudouridylation guide activity	GO_0030560	0	1	0	0	0
-tRNA modification guide activity	GO_0030557	0	1	0	0	0
-tRNA 2'-O-ribose methylation guide activity	GO_0030564	0	1	0	0	0
-snRNA pseudouridylation guide activity	GO_0030565	0	1	0	0	0
-snRNA modification guide activity	GO_0030566	0	1	0	0	0
-snRNA 2'-O-ribose methylation guide activity	GO_0030563	0	1	0	0	0
-rRNA pseudouridylation guide activity	GO_0030559	0	1	0	0	0
-rRNA modification guide activity	GO_0030556	0	1	0	0	0
-rRNA 2'-O-ribose methylation guide activity	GO_0030562	0	1	0	0	0
-UUU codon-amino acid adaptor activity	GO_0033401	0	1	0	0	0
-UUG codon-amino acid adaptor activity	GO_0033404	0	1	0	0	0
-UUC codon-amino acid adaptor activity	GO_0033402	0	1	0	0	0
-UUA codon-amino acid adaptor activity	GO_0033403	0	1	0	0	0
-UGU codon-amino acid adaptor activity	GO_0033413	0	1	0	0	0
-UGG codon-amino acid adaptor activity	GO_0033416	0	1	0	0	0
-UGC codon-amino acid adaptor activity	GO_0033414	0	1	0	0	0
-UGA codon-amino acid adaptor activity	GO_0033415	0	1	0	0	0
-UCU codon-amino acid adaptor activity	GO_0033405	0	1	0	0	0
-UCG codon-amino acid adaptor activity	GO_0033408	0	1	0	0	0
-UCC codon-amino acid adaptor activity	GO_0033406	0	1	0	0	0
-UCA codon-amino acid adaptor activity	GO_0033407	0	1	0	0	0
-UAU codon-amino acid adaptor activity	GO_0033409	0	1	0	0	0
-UAG codon-amino acid adaptor activity	GO_0033412	0	1	0	0	0
-UAC codon-amino acid adaptor activity	GO_0033410	0	1	0	0	0
-UAA codon-amino acid adaptor activity	GO_0033411	0	1	0	0	0
-RNA pseudouridylation guide activity	GO_0030558	0	1	0	0	0
-RNA modification guide activity	GO_0030555	0	1	0	0	0
-RNA 2'-O-ribose methylation guide activity	GO_0030561	0	1	0	0	0
-GUU codon-amino acid adaptor activity	GO_0033449	0	1	0	0	0
-GUG codon-amino acid adaptor activity	GO_0033452	0	1	0	0	0
-GUC codon-amino acid adaptor activity	GO_0033450	0	1	0	0	0
-GUA codon-amino acid adaptor activity	GO_0033451	0	1	0	0	0
-GGU codon-amino acid adaptor activity	GO_0033461	0	1	0	0	0
-GGG codon-amino acid adaptor activity	GO_0033464	0	1	0	0	0
-GGC codon-amino acid adaptor activity	GO_0033462	0	1	0	0	0
-GGA codon-amino acid adaptor activity	GO_0033463	0	1	0	0	0
-GCU codon-amino acid adaptor activity	GO_0033453	0	1	0	0	0
-GCG codon-amino acid adaptor activity	GO_0033456	0	1	0	0	0
-GCC codon-amino acid adaptor activity	GO_0033454	0	1	0	0	0
-GCA codon-amino acid adaptor activity	GO_0033455	0	1	0	0	0
-GAU codon-amino acid adaptor activity	GO_0033457	0	1	0	0	0
-GAG codon-amino acid adaptor activity	GO_0033460	0	1	0	0	0
-GAC codon-amino acid adaptor activity	GO_0033458	0	1	0	0	0
-GAA codon-amino acid adaptor activity	GO_0033459	0	1	0	0	0
-CUU codon-amino acid adaptor activity	GO_0033417	0	1	0	0	0
-CUG codon-amino acid adaptor activity	GO_0033420	0	1	0	0	0
-CUC codon-amino acid adaptor activity	GO_0033418	0	1	0	0	0
-CUA codon-amino acid adaptor activity	GO_0033419	0	1	0	0	0
-CGU codon-amino acid adaptor activity	GO_0033429	0	1	0	0	0
-CGG codon-amino acid adaptor activity	GO_0033432	0	1	0	0	0
-CGC codon-amino acid adaptor activity	GO_0033430	0	1	0	0	0
-CGA codon-amino acid adaptor activity	GO_0033431	0	1	0	0	0
-CCU codon-amino acid adaptor activity	GO_0033421	0	1	0	0	0
-CCG codon-amino acid adaptor activity	GO_0033424	0	1	0	0	0
-CCC codon-amino acid adaptor activity	GO_0033422	0	1	0	0	0
-CCA codon-amino acid adaptor activity	GO_0033423	0	1	0	0	0
-CAU codon-amino acid adaptor activity	GO_0033425	0	1	0	0	0
-CAG codon-amino acid adaptor activity	GO_0033428	0	1	0	0	0
-CAC codon-amino acid adaptor activity	GO_0033426	0	1	0	0	0
-CAA codon-amino acid adaptor activity	GO_0033427	0	1	0	0	0
-AUU codon-amino acid adaptor activity	GO_0033433	0	1	0	0	0
-AUG codon-amino acid adaptor activity	GO_0033436	0	1	0	0	0
-AUC codon-amino acid adaptor activity	GO_0033434	0	1	0	0	0
-AUA codon-amino acid adaptor activity	GO_0033435	0	1	0	0	0
-AGU codon-amino acid adaptor activity	GO_0033445	0	1	0	0	0
-AGG codon-amino acid adaptor activity	GO_0033448	0	1	0	0	0
-AGC codon-amino acid adaptor activity	GO_0033446	0	1	0	0	0
-AGA codon-amino acid adaptor activity	GO_0033447	0	1	0	0	0
-ACU codon-amino acid adaptor activity	GO_0033437	0	1	0	0	0
-ACG codon-amino acid adaptor activity	GO_0033440	0	1	0	0	0
-ACC codon-amino acid adaptor activity	GO_0033438	0	1	0	0	0
-ACA codon-amino acid adaptor activity	GO_0033439	0	1	0	0	0
-AAU codon-amino acid adaptor activity	GO_0033441	0	1	0	0	0
-AAG codon-amino acid adaptor activity	GO_0033444	0	1	0	0	0
-AAC codon-amino acid adaptor activity	GO_0033442	0	1	0	0	0
-AAA codon-amino acid adaptor activity	GO_0033443	0	1	0	0	0
+triplet codon-amino acid adaptor activity	GO_0030533	0	1	1	0	0
+template for synthesis of G-rich strand of telomere DNA activity	GO_0000332	0	1	1	0	0
+tRNA pseudouridylation guide activity	GO_0030560	0	1	1	0	0
+tRNA modification guide activity	GO_0030557	0	1	1	0	0
+tRNA 2'-O-ribose methylation guide activity	GO_0030564	0	1	1	0	0
+snRNA pseudouridylation guide activity	GO_0030565	0	1	1	0	0
+snRNA modification guide activity	GO_0030566	0	1	1	0	0
+snRNA 2'-O-ribose methylation guide activity	GO_0030563	0	1	1	0	0
+rRNA pseudouridylation guide activity	GO_0030559	0	1	1	0	0
+rRNA modification guide activity	GO_0030556	0	1	1	0	0
+rRNA 2'-O-ribose methylation guide activity	GO_0030562	0	1	1	0	0
+UUU codon-amino acid adaptor activity	GO_0033401	0	1	1	0	0
+UUG codon-amino acid adaptor activity	GO_0033404	0	1	1	0	0
+UUC codon-amino acid adaptor activity	GO_0033402	0	1	1	0	0
+UUA codon-amino acid adaptor activity	GO_0033403	0	1	1	0	0
+UGU codon-amino acid adaptor activity	GO_0033413	0	1	1	0	0
+UGG codon-amino acid adaptor activity	GO_0033416	0	1	1	0	0
+UGC codon-amino acid adaptor activity	GO_0033414	0	1	1	0	0
+UGA codon-amino acid adaptor activity	GO_0033415	0	1	1	0	0
+UCU codon-amino acid adaptor activity	GO_0033405	0	1	1	0	0
+UCG codon-amino acid adaptor activity	GO_0033408	0	1	1	0	0
+UCC codon-amino acid adaptor activity	GO_0033406	0	1	1	0	0
+UCA codon-amino acid adaptor activity	GO_0033407	0	1	1	0	0
+UAU codon-amino acid adaptor activity	GO_0033409	0	1	1	0	0
+UAG codon-amino acid adaptor activity	GO_0033412	0	1	1	0	0
+UAC codon-amino acid adaptor activity	GO_0033410	0	1	1	0	0
+UAA codon-amino acid adaptor activity	GO_0033411	0	1	1	0	0
+RNA pseudouridylation guide activity	GO_0030558	0	1	1	0	0
+RNA modification guide activity	GO_0030555	0	1	1	0	0
+RNA 2'-O-ribose methylation guide activity	GO_0030561	0	1	1	0	0
+GUU codon-amino acid adaptor activity	GO_0033449	0	1	1	0	0
+GUG codon-amino acid adaptor activity	GO_0033452	0	1	1	0	0
+GUC codon-amino acid adaptor activity	GO_0033450	0	1	1	0	0
+GUA codon-amino acid adaptor activity	GO_0033451	0	1	1	0	0
+GGU codon-amino acid adaptor activity	GO_0033461	0	1	1	0	0
+GGG codon-amino acid adaptor activity	GO_0033464	0	1	1	0	0
+GGC codon-amino acid adaptor activity	GO_0033462	0	1	1	0	0
+GGA codon-amino acid adaptor activity	GO_0033463	0	1	1	0	0
+GCU codon-amino acid adaptor activity	GO_0033453	0	1	1	0	0
+GCG codon-amino acid adaptor activity	GO_0033456	0	1	1	0	0
+GCC codon-amino acid adaptor activity	GO_0033454	0	1	1	0	0
+GCA codon-amino acid adaptor activity	GO_0033455	0	1	1	0	0
+GAU codon-amino acid adaptor activity	GO_0033457	0	1	1	0	0
+GAG codon-amino acid adaptor activity	GO_0033460	0	1	1	0	0
+GAC codon-amino acid adaptor activity	GO_0033458	0	1	1	0	0
+GAA codon-amino acid adaptor activity	GO_0033459	0	1	1	0	0
+CUU codon-amino acid adaptor activity	GO_0033417	0	1	1	0	0
+CUG codon-amino acid adaptor activity	GO_0033420	0	1	1	0	0
+CUC codon-amino acid adaptor activity	GO_0033418	0	1	1	0	0
+CUA codon-amino acid adaptor activity	GO_0033419	0	1	1	0	0
+CGU codon-amino acid adaptor activity	GO_0033429	0	1	1	0	0
+CGG codon-amino acid adaptor activity	GO_0033432	0	1	1	0	0
+CGC codon-amino acid adaptor activity	GO_0033430	0	1	1	0	0
+CGA codon-amino acid adaptor activity	GO_0033431	0	1	1	0	0
+CCU codon-amino acid adaptor activity	GO_0033421	0	1	1	0	0
+CCG codon-amino acid adaptor activity	GO_0033424	0	1	1	0	0
+CCC codon-amino acid adaptor activity	GO_0033422	0	1	1	0	0
+CCA codon-amino acid adaptor activity	GO_0033423	0	1	1	0	0
+CAU codon-amino acid adaptor activity	GO_0033425	0	1	1	0	0
+CAG codon-amino acid adaptor activity	GO_0033428	0	1	1	0	0
+CAC codon-amino acid adaptor activity	GO_0033426	0	1	1	0	0
+CAA codon-amino acid adaptor activity	GO_0033427	0	1	1	0	0
+AUU codon-amino acid adaptor activity	GO_0033433	0	1	1	0	0
+AUG codon-amino acid adaptor activity	GO_0033436	0	1	1	0	0
+AUC codon-amino acid adaptor activity	GO_0033434	0	1	1	0	0
+AUA codon-amino acid adaptor activity	GO_0033435	0	1	1	0	0
+AGU codon-amino acid adaptor activity	GO_0033445	0	1	1	0	0
+AGG codon-amino acid adaptor activity	GO_0033448	0	1	1	0	0
+AGC codon-amino acid adaptor activity	GO_0033446	0	1	1	0	0
+AGA codon-amino acid adaptor activity	GO_0033447	0	1	1	0	0
+ACU codon-amino acid adaptor activity	GO_0033437	0	1	1	0	0
+ACG codon-amino acid adaptor activity	GO_0033440	0	1	1	0	0
+ACC codon-amino acid adaptor activity	GO_0033438	0	1	1	0	0
+ACA codon-amino acid adaptor activity	GO_0033439	0	1	1	0	0
+AAU codon-amino acid adaptor activity	GO_0033441	0	1	1	0	0
+AAG codon-amino acid adaptor activity	GO_0033444	0	1	1	0	0
+AAC codon-amino acid adaptor activity	GO_0033442	0	1	1	0	0
+AAA codon-amino acid adaptor activity	GO_0033443	0	1	1	0	0
