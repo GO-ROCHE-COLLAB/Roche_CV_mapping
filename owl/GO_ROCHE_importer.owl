@@ -42,57 +42,25 @@
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
 
-    <owl:AnnotationProperty rdf:about="&obo;BFO_0000050">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
-    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="&obo;BFO_0000050"/>
     
 
 
     <!-- http://purl.obolibrary.org/obo/RO_0002211 -->
 
-    <owl:AnnotationProperty rdf:about="&obo;RO_0002211">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
-    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="&obo;RO_0002211"/>
     
 
 
     <!-- http://purl.obolibrary.org/obo/RO_0002215 -->
 
-    <owl:AnnotationProperty rdf:about="&obo;RO_0002215">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5"/>
-    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="&obo;RO_0002215"/>
     
 
 
     <!-- http://purl.obolibrary.org/obo/RO_0002216 -->
 
-    <owl:AnnotationProperty rdf:about="&obo;RO_0002216">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5"/>
-    </owl:AnnotationProperty>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/scratch/1C127FE1-B049-4E09-8DCC-8B323644160F -->
-
-    <rdf:Description rdf:about="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F">
-        <rdfs:label>part of or regulates</rdfs:label>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC -->
-
-    <rdf:Description rdf:about="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC">
-        <rdfs:label>improper part of</rdfs:label>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5 -->
-
-    <rdf:Description rdf:about="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5">
-        <rdfs:label>capable_of_improper_part_of</rdfs:label>
-    </rdf:Description>
+    <owl:AnnotationProperty rdf:about="&obo;RO_0002216"/>
     
 
 
@@ -111,6 +79,22 @@
 
     <rdf:Description rdf:about="&obo;BFO_0000050">
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GOREL_0002006 -->
+
+    <rdf:Description rdf:about="&obo;GOREL_0002006">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000057 -->
+
+    <rdf:Description rdf:about="&obo;RO_0000057">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
     </rdf:Description>
     
 
@@ -162,6 +146,7 @@
         <rdfs:label>improper part of</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
     </owl:ObjectProperty>
     
 
@@ -189,6 +174,15 @@
         <rdfs:label>capable_of_improper_part_of</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="&obo;RO_0002328"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f">
+        <rdfs:label>CC_super_query</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
     </owl:ObjectProperty>
     
 

@@ -1,0 +1,27 @@
+pattern_name: cellular_component_and_related_processes
+
+classes:
+  cellular_component: GO_0005575
+
+relations:
+  'CC super query': d8d8caf2_4c0e_4115_bda0_65aeb6f4265f
+  
+vars: 
+  key_class: "'cellular_component'"
+  
+name: 
+  text: "%s and related processes"
+  vars: 
+    - key_class
+    
+def: 
+  text: "A %s or a process that results in organisation of a %s or that has a %s as a participant."
+  vars:
+    - key_class
+    - key_class
+    - key_class
+    
+equivalentTo: 
+  text: "'CC super query' some %s"
+  vars:
+    - key_class
