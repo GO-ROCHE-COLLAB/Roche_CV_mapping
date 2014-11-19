@@ -117,45 +117,45 @@ vestibulospinal tract morphogenesis	GO_0021962	0	1	0	0	0
 trigeminothalamic tract morphogenesis	GO_0021974	0	1	0	0	0
 tectospinal tract morphogenesis	GO_0021977	0	1	0	0	0
 tectobulbar tract morphogenesis	GO_0034429	0	1	0	0	0
-sympathetic neuron axon guidance	GO_0097492	0	1	0	0	0
+sympathetic neuron axon guidance	GO_0097492	0	1	1	0	0
 spinothalamic tract morphogenesis	GO_0021963	0	1	0	0	0
-spinal sensory neuron axon guidance	GO_0097375	0	1	0	0	0
+spinal sensory neuron axon guidance	GO_0097375	0	1	1	0	0
 spinal cord ventral commissure morphogenesis	GO_0021965	0	1	0	0	0
-spinal cord interneuron axon guidance	GO_0097377	0	1	0	0	0
-sensory neuron axon guidance	GO_0097374	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0	0
+spinal cord interneuron axon guidance	GO_0097377	0	1	1	0	0
+sensory neuron axon guidance	GO_0097374	0	1	1	0	0
+semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	1	0	0
 rubrospinal tract morphogenesis	GO_0021964	0	1	0	0	0
-regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0	0
-regulation of collateral sprouting	GO_0048670	0	1	0	0	0
-regulation of axon guidance	GO_1902667	0	1	0	0	0
+regulation of collateral sprouting in absence of injury	GO_0048696	0	1	1	0	0
+regulation of collateral sprouting	GO_0048670	0	1	1	0	0
+regulation of axon guidance	GO_1902667	0	1	1	0	0
 posterior commissure morphogenesis	GO_0021961	0	1	0	0	0
-positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
-positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0	0
-positive regulation of collateral sprouting	GO_0048672	0	1	0	0	0
-positive regulation of axon guidance	GO_1902669	0	1	0	0	0
+positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	1	0	0
+positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	1	0	0
+positive regulation of collateral sprouting	GO_0048672	0	1	1	0	0
+positive regulation of axon guidance	GO_1902669	0	1	1	0	0
 pons reticulospinal tract morphogenesis	GO_0021975	0	1	0	0	0
-olfactory bulb axon guidance	GO_0071678	0	1	0	0	0
-negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0	0
-negative regulation of collateral sprouting	GO_0048671	0	1	0	0	0
-negative regulation of axon guidance	GO_1902668	0	1	0	0	0
+olfactory bulb axon guidance	GO_0071678	0	1	1	0	0
+negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	1	0	0
+negative regulation of collateral sprouting	GO_0048671	0	1	1	0	0
+negative regulation of axon guidance	GO_1902668	0	1	1	0	0
 medulla reticulospinal tract morphogenesis	GO_0021976	0	1	0	0	0
-interneuron axon guidance	GO_0097376	0	1	0	0	0
+interneuron axon guidance	GO_0097376	0	1	1	0	0
 gracilis tract morphogenesis	GO_0021958	0	1	0	0	0
-dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0	0
-dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0	0
-dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0	0
+dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	1	0	0
+dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	1	0	0
+dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	1	0	0
 cuneatus tract morphogenesis	GO_0021959	0	1	0	0	0
 corticospinal tract morphogenesis	GO_0021957	0	1	0	0	0
 corpus callosum morphogenesis	GO_0021540	0	1	0	0	0
-collateral sprouting in absence of injury	GO_0048669	0	1	0	0	0
-collateral sprouting	GO_0048668	0	1	0	0	0
-chemorepulsion of axon	GO_0061643	0	1	0	0	0
-chemoattraction of axon	GO_0061642	0	1	0	0	0
-chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0	0
-central nervous system projection neuron axonogenesis	GO_0021952	0	1	0	0	0
-central nervous system neuron axonogenesis	GO_0021955	0	1	0	0	0
-central nervous system interneuron axonogenesis	GO_0021956	0	1	0	0	0
-axon guidance receptor activity	GO_0008046	0	1	0	0	0
-axon development	GO_0061564	0	1	0	0	0
+collateral sprouting in absence of injury	GO_0048669	0	1	1	0	0
+collateral sprouting	GO_0048668	0	1	1	0	0
+chemorepulsion of axon	GO_0061643	0	1	1	0	0
+chemoattraction of axon	GO_0061642	0	1	1	0	0
+chemoattractant activity involved in axon guidance	GO_1902379	0	1	1	0	0
+central nervous system projection neuron axonogenesis	GO_0021952	0	1	1	0	0
+central nervous system neuron axonogenesis	GO_0021955	0	1	1	0	0
+central nervous system interneuron axonogenesis	GO_0021956	0	1	1	0	0
+axon guidance receptor activity	GO_0008046	0	1	1	0	0
+axon development	GO_0061564	0	1	1	0	0
 anterior commissure morphogenesis	GO_0021960	0	1	0	0	0
-VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0	0
+VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	1	0	0
