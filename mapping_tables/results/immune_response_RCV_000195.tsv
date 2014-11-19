@@ -665,6 +665,7 @@ regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_20005
 regulation of interferon-gamma-mediated signaling pathway	GO_0060334	0	1	0	0	0
 regulation of inflammatory response to antigenic stimulus	GO_0002861	0	1	0	0	0
 regulation of hypersensitivity	GO_0002883	0	1	0	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
 regulation of germinal center formation	GO_0002634	0	1	0	0	0
 regulation of eosinophil degranulation	GO_0043309	0	1	0	0	0
 regulation of dendritic cell cytokine production	GO_0002730	0	1	0	0	0
@@ -674,6 +675,7 @@ regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0	0
 regulation of chronic inflammatory response to antigenic stimulus	GO_0002874	0	1	0	0	0
 regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	0	1	0	0	0
 regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	0	1	0	0	0
+regulation of basophil degranulation	GO_1903581	0	1	0	0	0
 regulation of antimicrobial peptide secretion	GO_0002794	0	1	0	0	0
 regulation of antimicrobial peptide production	GO_0002784	0	1	0	0	0
 regulation of antimicrobial peptide biosynthetic process	GO_0002805	0	1	0	0	0
@@ -747,6 +749,7 @@ positive regulation of interferon-gamma-mediated signaling pathway	GO_0060335	0	
 positive regulation of inflammatory response to antigenic stimulus	GO_0002863	0	1	0	0	0
 positive regulation of immunoglobulin production in mucosal tissue	GO_2000558	0	1	0	0	0
 positive regulation of hypersensitivity	GO_0002885	0	1	0	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
 positive regulation of germinal center formation	GO_0002636	0	1	0	0	0
 positive regulation of eosinophil degranulation	GO_0043311	0	1	0	0	0
 positive regulation of dendritic cell cytokine production	GO_0002732	0	1	0	0	0
@@ -762,6 +765,7 @@ positive regulation of complement activation	GO_0045917	0	1	0	0	0
 positive regulation of chronic inflammatory response to antigenic stimulus	GO_0002876	0	1	0	0	0
 positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	0	1	0	0	0
 positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	0	1	0	0	0
+positive regulation of basophil degranulation	GO_1903583	0	1	0	0	0
 positive regulation of antimicrobial peptide secretion	GO_0002796	0	1	0	0	0
 positive regulation of antimicrobial peptide production	GO_0002225	0	1	0	0	0
 positive regulation of antimicrobial peptide biosynthetic process	GO_0002807	0	1	0	0	0
@@ -861,6 +865,7 @@ negative regulation of isotype switching	GO_0045829	0	1	0	0	0
 negative regulation of interferon-gamma-mediated signaling pathway	GO_0060336	0	1	0	0	0
 negative regulation of inflammatory response to antigenic stimulus	GO_0002862	0	1	0	0	0
 negative regulation of hypersensitivity	GO_0002884	0	1	0	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
 negative regulation of germinal center formation	GO_0002635	0	1	0	0	0
 negative regulation of eosinophil degranulation	GO_0043310	0	1	0	0	0
 negative regulation of dendritic cell cytokine production	GO_0002731	0	1	0	0	0
@@ -870,6 +875,7 @@ negative regulation of complement activation	GO_0045916	0	1	0	0	0
 negative regulation of chronic inflammatory response to antigenic stimulus	GO_0002875	0	1	0	0	0
 negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	0	1	0	0	0
 negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	0	1	0	0	0
+negative regulation of basophil degranulation	GO_1903582	0	1	0	0	0
 negative regulation of antimicrobial peptide secretion	GO_0002795	0	1	0	0	0
 negative regulation of antimicrobial peptide production	GO_0002785	0	1	0	0	0
 negative regulation of antimicrobial peptide biosynthetic process	GO_0002806	0	1	0	0	0

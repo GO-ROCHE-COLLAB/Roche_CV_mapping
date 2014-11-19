@@ -1,7 +1,7 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+auditory receptor cell stereocilium organization	GO_0060088	1	1	1	0	0
+auditory receptor cell morphogenesis	GO_0002093	1	1	1	0	0
 auditory receptor cell development	GO_0060117	1	1	1	0	0
-auditory receptor cell stereocilium organization	GO_0060088	1	0	1	0	0
-auditory receptor cell morphogenesis	GO_0002093	1	0	1	0	0
 auditory receptor cell fate specification	GO_0042667	1	0	1	0	0
 auditory receptor cell fate determination	GO_0042668	1	0	1	0	0
 auditory receptor cell fate commitment	GO_0009912	1	0	1	0	0

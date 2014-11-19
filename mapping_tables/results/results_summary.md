@@ -2,9 +2,9 @@
 
 #### auditory behavior RCV_000075
 * Key class: [auditory receptor cell development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060117)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for auditory receptor cell development.
-* map summary: Roche_cvt: RCV_000075; class_expression GO_0060117; manual_list_count 8, generated_list_count 1
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: auditory receptor cell development OR a part of auditory receptor cell development OR a process that regulates auditory receptor cell development
+* map summary: Roche_cvt: RCV_000075; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060117; manual_list_count 8, generated_list_count 3
 * Notes: Manual mapping is mix of receptor cell dev and behavior.  Should these two be split?
 * [Results](auditory_behavior_RCV_000075.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -377,9 +377,9 @@
 
 #### cytoskeleton RCV_000139
 * Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: cytoskeletal part OR a part of cytoskeletal part OR a process that regulates cytoskeletal part
-* map summary: Roche_cvt: RCV_000139; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0044430; manual_list_count 180, generated_list_count 205
+* Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
+* Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
+* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 335
 * [Results](cytoskeleton_RCV_000139.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -425,7 +425,7 @@
 * Key class: [digestive tract development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048565)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: digestive tract development OR a part of digestive tract development OR a process that regulates digestive tract development
-* map summary: Roche_cvt: RCV_000143; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048565; manual_list_count 7, generated_list_count 54
+* map summary: Roche_cvt: RCV_000143; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048565; manual_list_count 7, generated_list_count 181
 * [Results](digestive_tract_development_RCV_000143.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/135)
 * Status: open
@@ -529,7 +529,7 @@
 * Key class: [wound healing](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042060)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: wound healing OR a part of wound healing OR a process that regulates wound healing
-* map summary: Roche_cvt: RCV_000356; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060; manual_list_count 12, generated_list_count 91
+* map summary: Roche_cvt: RCV_000356; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060; manual_list_count 12, generated_list_count 92
 * [Results](wound_healing_RCV_000356.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/143)
 * Status: open
@@ -565,7 +565,7 @@
 * Key class: [organ development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048513)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: organ development OR a part of organ development OR a process that regulates organ development
-* map summary: Roche_cvt: RCV_000259; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3275
+* map summary: Roche_cvt: RCV_000259; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3276
 * [Results](organ_development_RCV_000259.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/119)
 * Status: closed
@@ -574,7 +574,7 @@
 * Key class: [immune response](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006955)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: immune response OR a part of immune response OR a process that regulates immune response
-* map summary: Roche_cvt: RCV_000195; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006955; manual_list_count 540, generated_list_count 799
+* map summary: Roche_cvt: RCV_000195; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006955; manual_list_count 540, generated_list_count 805
 * [Results](immune_response_RCV_000195.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/185)
 * Status: open
@@ -764,7 +764,7 @@
 * Key class: [kinase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016301)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for kinase activity.
-* map summary: Roche_cvt: RCV_000217; class_expression GO_0016301; manual_list_count 183, generated_list_count 363
+* map summary: Roche_cvt: RCV_000217; class_expression GO_0016301; manual_list_count 183, generated_list_count 369
 * [Results](kinase_activity_RCV_000217.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/114)
 * Status: open
@@ -946,7 +946,7 @@
 * Key class: [DNA replication](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006260)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: DNA replication OR a part of DNA replication OR a process that regulates DNA replication
-* map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 43, generated_list_count 163
+* map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 43, generated_list_count 162
 * [Results](DNA_replication_RCV_000010.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/196)
 * Status: open
@@ -1036,7 +1036,7 @@
 * Key class: [angiogenesis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0001525)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: angiogenesis OR a part of angiogenesis OR a process that regulates angiogenesis
-* map summary: Roche_cvt: RCV_000061; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0001525; manual_list_count 14, generated_list_count 24
+* map summary: Roche_cvt: RCV_000061; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0001525; manual_list_count 14, generated_list_count 30
 * [Results](angiogenesis_RCV_000061.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/210)
 * Status: open
@@ -1207,7 +1207,7 @@
 * Key class: [acetylcholine](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:15355)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some acetylcholine participates.
-* map summary: Roche_cvt: RCV_000047; class_expression RO_0000057 some CHEBI_15355; manual_list_count 26, generated_list_count 14
+* map summary: Roche_cvt: RCV_000047; class_expression RO_0000057 some CHEBI_15355; manual_list_count 26, generated_list_count 15
 * [Results](acetylcholine_RCV_000047.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/152)
 * Status: open
@@ -1289,7 +1289,7 @@
 * Key class: [transferase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016740)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for transferase activity.
-* map summary: Roche_cvt: RCV_000334; class_expression GO_0016740; manual_list_count 7, generated_list_count 1997
+* map summary: Roche_cvt: RCV_000334; class_expression GO_0016740; manual_list_count 7, generated_list_count 2025
 * [Results](transferase_activity_RCV_000334.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/204)
 * Status: open

@@ -73,7 +73,7 @@ artery	RCV_000071	artery development	GO_0060840	is_a_OR_part_of_OR_regulates
 asparagine metabolism	RCV_000072	asparagine metabolic process	GO_0006528	Equivalence		85	closed
 aspartate metabolism	RCV_000073	aspartate metabolic process	GO_0006531	Equivalence		84	closed
 astrocyte	RCV_000074	astrocyte	CL_0000127	? occurs in or has_participant ? + dev?			
-auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	Equivalence	Manual mapping is mix of receptor cell dev and behavior.  Should these two be split?		
+auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	is_a_OR_part_of_OR_regulates	Manual mapping is mix of receptor cell dev and behavior.  Should these two be split?		
 autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equivalence			
 auxin	RCV_000077	substance with auxin biological role	GOCHE_22676	has_participant_chemical			
 axon	RCV_000078	axon development	GO_0061564	is_a_OR_part_of_OR_regulates			
@@ -137,7 +137,7 @@ cholesterol metabolism	RCV_000135	cholesterol metabolic process	GO_0008203	Equiv
 cholinergic	RCV_000136			?			
 circadian	RCV_000137			?			
 circulatory system	RCV_000138			?			
-cytoskeleton	RCV_000139	cytoskeletal part	GO_0044430	is_a_OR_part_of_OR_regulates			
+cytoskeleton	RCV_000139	cytoskeletal part	GO_0044430	cellular_component_and_related_processes			
 defense response	RCV_000140			?			
 dendritic cell	RCV_000141			?			
 detoxification	RCV_000142			?			

@@ -7,11 +7,37 @@ determination of digestive tract left/right asymmetry	GO_0071907	1	1	1	0	0
 digestive tract mesoderm development	GO_0007502	1	0	1	0	0
 digestive system development	GO_0055123	1	0	1	0	0
 visceral mesoderm-endoderm interaction involved in midgut development	GO_0007495	0	1	0	0	0
+ventral furrow formation	GO_0007370	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090010	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in primary germ layer cell fate commitment	GO_0060797	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in mesodermal cell fate specification	GO_0060798	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification	GO_0060799	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in axial mesodermal cell fate specification	GO_0060822	0	1	0	0	0
 stomach neuroendocrine cell differentiation	GO_0061102	0	1	0	0	0
+regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090013	0	1	0	0	0
+regulation of transcription involved in primary germ layer cell fate commitment	GO_0060796	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification	GO_0060807	0	1	0	0	0
 regulation of stomach neuroendocrine cell differentiation	GO_0061105	0	1	0	0	0
+regulation of paraxial mesodermal cell fate specification	GO_0048349	0	1	0	0	0
+regulation of paraxial mesodermal cell fate determination	GO_0048345	0	1	0	0	0
+regulation of mesodermal cell fate specification	GO_0042661	0	1	0	0	0
+regulation of mesodermal cell fate determination	GO_0048334	0	1	0	0	0
+regulation of lateral mesodermal cell fate specification	GO_0048378	0	1	0	0	0
+regulation of lateral mesodermal cell fate determination	GO_0048374	0	1	0	0	0
+regulation of intermediate mesodermal cell fate specification	GO_0048399	0	1	0	0	0
+regulation of intermediate mesodermal cell fate determination	GO_0048395	0	1	0	0	0
+regulation of gastrulation	GO_0010470	0	1	0	0	0
+regulation of endodermal cell fate specification	GO_0042663	0	1	0	0	0
+regulation of endodermal cell differentiation	GO_1903224	0	1	0	0	0
+regulation of ectodermal cell fate specification	GO_0042665	0	1	0	0	0
+regulation of cell-cell adhesion involved in gastrulation	GO_0070587	0	1	0	0	0
+regulation of axial mesodermal cell fate specification	GO_0048328	0	1	0	0	0
+regulation of axial mesodermal cell fate determination	GO_0048324	0	1	0	0	0
 regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000056	0	1	0	0	0
 regulation of Malpighian tubule size	GO_0035298	0	1	0	0	0
 regulation of Malpighian tubule diameter	GO_0035297	0	1	0	0	0
+primitive streak formation	GO_0090009	0	1	0	0	0
+posterior midgut invagination	GO_0007374	0	1	0	0	0
 posterior midgut development	GO_0007497	0	1	0	0	0
 post-embryonic hindgut morphogenesis	GO_0048620	0	1	0	0	0
 post-embryonic foregut morphogenesis	GO_0048618	0	1	0	0	0
@@ -19,21 +45,98 @@ post-embryonic ectodermal digestive tract morphogenesis	GO_0048614	0	1	0	0	0
 post-embryonic ectodermal digestive tract development	GO_0048612	0	1	0	0	0
 post-embryonic digestive tract morphogenesis	GO_0048621	0	1	0	0	0
 post-embryonic anterior midgut (ectodermal) morphogenesis	GO_0048616	0	1	0	0	0
+positive regulation of paraxial mesodermal cell fate specification	GO_0048350	0	1	0	0	0
+positive regulation of paraxial mesodermal cell fate determination	GO_0048346	0	1	0	0	0
+positive regulation of mesodermal to mesenchymal transition involved in gastrulation	GO_0060808	0	1	0	0	0
+positive regulation of mesodermal cell fate specification	GO_0048337	0	1	0	0	0
+positive regulation of mesodermal cell fate determination	GO_0048336	0	1	0	0	0
+positive regulation of lateral mesodermal cell fate specification	GO_0048379	0	1	0	0	0
+positive regulation of lateral mesodermal cell fate determination	GO_0048376	0	1	0	0	0
+positive regulation of intermediate mesodermal cell fate specification	GO_0048400	0	1	0	0	0
+positive regulation of intermediate mesodermal cell fate determination	GO_0048397	0	1	0	0	0
+positive regulation of gastrulation	GO_2000543	0	1	0	0	0
+positive regulation of endodermal cell differentiation	GO_1903226	0	1	0	0	0
+positive regulation of axial mesodermal cell fate specification	GO_0048330	0	1	0	0	0
+positive regulation of axial mesodermal cell fate determination	GO_0048326	0	1	0	0	0
+planar cell polarity pathway involved in gastrula mediolateral intercalation	GO_0060775	0	1	0	0	0
 pharynx development	GO_0060465	0	1	0	0	0
 pharyngeal muscle development	GO_0043282	0	1	0	0	0
+paraxial mesodermal cell fate specification	GO_0048348	0	1	0	0	0
+paraxial mesodermal cell fate determination	GO_0048344	0	1	0	0	0
+paraxial mesodermal cell fate commitment	GO_0048343	0	1	0	0	0
+paraxial mesodermal cell differentiation	GO_0048342	0	1	0	0	0
+paraxial mesoderm formation	GO_0048341	0	1	0	0	0
+negative regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090012	0	1	0	0	0
 negative regulation of stomach neuroendocrine cell differentiation	GO_0061106	0	1	0	0	0
+negative regulation of paraxial mesodermal cell fate specification	GO_0048351	0	1	0	0	0
+negative regulation of paraxial mesodermal cell fate determination	GO_0048347	0	1	0	0	0
+negative regulation of mesodermal cell fate specification	GO_0042662	0	1	0	0	0
+negative regulation of mesodermal cell fate determination	GO_0048335	0	1	0	0	0
+negative regulation of lateral mesodermal cell fate specification	GO_0048380	0	1	0	0	0
+negative regulation of lateral mesodermal cell fate determination	GO_0048375	0	1	0	0	0
+negative regulation of intermediate mesodermal cell fate specification	GO_0048401	0	1	0	0	0
+negative regulation of intermediate mesodermal cell fate determination	GO_0048396	0	1	0	0	0
+negative regulation of heterotypic cell-cell adhesion	GO_0034115	0	1	0	0	0
+negative regulation of gastrulation	GO_2000542	0	1	0	0	0
+negative regulation of endodermal cell fate specification	GO_0042664	0	1	0	0	0
+negative regulation of endodermal cell differentiation	GO_1903225	0	1	0	0	0
+negative regulation of ectodermal cell fate specification	GO_0042666	0	1	0	0	0
+negative regulation of axial mesodermal cell fate specification	GO_0048329	0	1	0	0	0
+negative regulation of axial mesodermal cell fate determination	GO_0048325	0	1	0	0	0
 negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000057	0	1	0	0	0
 midgut development	GO_0007494	0	1	0	0	0
+mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	0	0	0
+mesodermal cell migration	GO_0008078	0	1	0	0	0
+mesodermal cell fate specification	GO_0007501	0	1	0	0	0
+mesodermal cell fate determination	GO_0007500	0	1	0	0	0
+mesodermal cell fate commitment	GO_0001710	0	1	0	0	0
+mesodermal cell differentiation	GO_0048333	0	1	0	0	0
+mesoderm migration involved in gastrulation	GO_0007509	0	1	0	0	0
+mesoderm formation	GO_0001707	0	1	0	0	0
+mesendoderm migration	GO_0090133	0	1	0	0	0
+mediolateral intercalation	GO_0060031	0	1	0	0	0
+lateral mesodermal cell fate specification	GO_0048377	0	1	0	0	0
+lateral mesodermal cell fate determination	GO_0048373	0	1	0	0	0
+lateral mesodermal cell fate commitment	GO_0048372	0	1	0	0	0
+lateral mesodermal cell differentiation	GO_0048371	0	1	0	0	0
+lateral mesoderm formation	GO_0048370	0	1	0	0	0
+lamellipodium assembly involved in mesendodermal cell migration	GO_0003364	0	1	0	0	0
+involution involved in gastrulation with mouth forming second	GO_0055110	0	1	0	0	0
+invagination involved in gastrulation with mouth forming second	GO_0055109	0	1	0	0	0
 intestinal epithelial cell maturation	GO_0060574	0	1	0	0	0
 intestinal epithelial cell differentiation	GO_0060575	0	1	0	0	0
 intestinal epithelial cell development	GO_0060576	0	1	0	0	0
 interstitial cell of Cajal differentiation	GO_0061453	0	1	0	0	0
+intermediate mesodermal cell fate specification	GO_0048398	0	1	0	0	0
+intermediate mesodermal cell fate determination	GO_0048394	0	1	0	0	0
+intermediate mesodermal cell fate commitment	GO_0048393	0	1	0	0	0
+intermediate mesodermal cell differentiation	GO_0048392	0	1	0	0	0
+intermediate mesoderm formation	GO_0048391	0	1	0	0	0
+ingression involved in gastrulation with mouth forming second	GO_0055111	0	1	0	0	0
 hindgut morphogenesis	GO_0007442	0	1	0	0	0
 hindgut development	GO_0061525	0	1	0	0	0
+hemangioblast cell differentiation	GO_0060217	0	1	0	0	0
+germ-band extension	GO_0007377	0	1	0	0	0
+gastrulation with mouth forming second	GO_0001702	0	1	0	0	0
+gastrulation with mouth forming first	GO_0001703	0	1	0	0	0
+gastrulation involving germ band extension	GO_0010004	0	1	0	0	0
+gastrulation	GO_0007369	0	1	0	0	0
+formation of primary germ layer	GO_0001704	0	1	0	0	0
 foregut morphogenesis	GO_0007440	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in mesendodermal cell migration	GO_0003372	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in gastrulation	GO_0003380	0	1	0	0	0
+establishment of cell polarity involved in mesendodermal cell migration	GO_0003369	0	1	0	0	0
+establishment of cell polarity involved in gastrulation cell migration	GO_0003379	0	1	0	0	0
 epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	0	1	0	0	0
+epithelial cell morphogenesis involved in gastrulation	GO_0003381	0	1	0	0	0
+epiboly involved in gastrulation with mouth forming second	GO_0055113	0	1	0	0	0
 enteric smooth muscle cell differentiation	GO_0035645	0	1	0	0	0
 endodermal digestive tract morphogenesis	GO_0061031	0	1	0	0	0
+endodermal cell fate specification	GO_0001714	0	1	0	0	0
+endodermal cell fate determination	GO_0007493	0	1	0	0	0
+endodermal cell fate commitment	GO_0001711	0	1	0	0	0
+endodermal cell differentiation	GO_0035987	0	1	0	0	0
+endoderm formation	GO_0001706	0	1	0	0	0
 embryonic hindgut morphogenesis	GO_0048619	0	1	0	0	0
 embryonic foregut morphogenesis	GO_0048617	0	1	0	0	0
 embryonic ectodermal digestive tract morphogenesis	GO_0048613	0	1	0	0	0
@@ -41,17 +144,41 @@ embryonic ectodermal digestive tract development	GO_0048611	0	1	0	0	0
 embryonic digestive tract morphogenesis	GO_0048557	0	1	0	0	0
 embryonic digestive tract development	GO_0048566	0	1	0	0	0
 embryonic anterior midgut (ectodermal) morphogenesis	GO_0048615	0	1	0	0	0
+ectodermal cell fate specification	GO_0001715	0	1	0	0	0
+ectodermal cell fate determination	GO_0001713	0	1	0	0	0
+ectodermal cell fate commitment	GO_0001712	0	1	0	0	0
+ectoderm formation	GO_0001705	0	1	0	0	0
+dorsal convergence	GO_0060030	0	1	0	0	0
 determination of stomach left/right asymmetry	GO_0071909	0	1	0	0	0
 determination of intestine left/right asymmetry	GO_0071908	0	1	0	0	0
+delamination involved in gastrulation with mouth forming second	GO_0055112	0	1	0	0	0
+convergent extension involved in gastrulation	GO_0060027	0	1	0	0	0
 cloacal septation	GO_0060197	0	1	0	0	0
 cloaca development	GO_0035844	0	1	0	0	0
+cephalic furrow formation	GO_0007376	0	1	0	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	0	0	0
+cell-cell adhesion involved in gastrulation	GO_0070586	0	1	0	0	0
 cell rearrangement involved in Malpighian tubule morphogenesis	GO_0061334	0	1	0	0	0
 cell morphogenesis involved in Malpighian tubule morphogenesis	GO_0061336	0	1	0	0	0
+cell migration involved in mesendoderm migration	GO_0090134	0	1	0	0	0
+cell migration involved in gastrulation	GO_0042074	0	1	0	0	0
 cell growth involved in Malpighian tubule morphogenesis	GO_0061335	0	1	0	0	0
+cell fate commitment involved in formation of primary germ layer	GO_0060795	0	1	0	0	0
 cell chemotaxis involved in Malpighian tubule morphogenesis	GO_0061352	0	1	0	0	0
+axial mesodermal cell fate specification	GO_0048327	0	1	0	0	0
+axial mesodermal cell fate determination	GO_0048323	0	1	0	0	0
+axial mesodermal cell fate commitment	GO_0048322	0	1	0	0	0
+axial mesodermal cell differentiation	GO_0048321	0	1	0	0	0
+axial mesoderm formation	GO_0048320	0	1	0	0	0
+apical constriction involved in gastrulation	GO_0003384	0	1	0	0	0
+anterior midgut invagination	GO_0007375	0	1	0	0	0
 anterior midgut development	GO_0007496	0	1	0	0	0
 anterior midgut (ectodermal) morphogenesis	GO_0007441	0	1	0	0	0
+amnioserosa formation	GO_0007378	0	1	0	0	0
+Wnt signaling pathway involved in primitive streak formation	GO_0090011	0	1	0	0	0
 Wnt signaling pathway involved in digestive tract morphogenesis	GO_0044333	0	1	0	0	0
 Malpighian tubule morphogenesis	GO_0007443	0	1	0	0	0
 Malpighian tubule bud morphogenesis	GO_0061332	0	1	0	0	0
+BMP signaling pathway involved in mesodermal cell fate specification	GO_0060803	0	1	0	0	0
 BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0

@@ -25,6 +25,7 @@ adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling 
 G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086033	1	0	1	0	0
 G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process	GO_0086093	1	0	1	0	0
 G-protein coupled acetylcholine receptor signaling pathway	GO_0007213	1	0	1	0	0
+synaptic transmission, cholinergic	GO_0007271	0	1	0	0	0
 acetylcholine:proton antiporter activity	GO_0005278	0	1	1	0	0
 acetylcholine transmembrane transporter activity	GO_0005277	0	1	1	0	0
 acetylcholine secretion	GO_0061526	0	1	1	0	0

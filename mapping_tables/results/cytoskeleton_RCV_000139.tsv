@@ -1,13 +1,51 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 spindle pole	GO_0000922	1	1	1	0	0
 pericentriolar material	GO_0000242	1	1	1	0	0
+microtubule organizing center organization	GO_0031023	1	1	1	0	0
+interphase microtubule organizing center assembly	GO_0031024	1	1	1	0	0
+intermediate filament organization	GO_0045109	1	1	1	0	0
+intermediate filament bundle assembly	GO_0045110	1	1	1	0	0
+horsetail-astral microtubule organization	GO_0032118	1	1	1	0	0
 gamma-tubulin small complex, spindle pole body	GO_0000928	1	1	1	0	0
 gamma-tubulin small complex, centrosomal	GO_0000927	1	1	1	0	0
 gamma-tubulin ring complex, centrosomal	GO_0000924	1	1	1	0	0
 gamma-tubulin large complex	GO_0000931	1	1	1	0	0
 gamma-tubulin complex	GO_0000930	1	1	1	0	0
 equatorial microtubule organizing center	GO_0000923	1	1	1	0	0
+cytoplasmic microtubule organization	GO_0031122	1	1	1	0	0
+cytoplasmic microtubule depolymerization	GO_0010938	1	1	1	0	0
+cortical microtubule organization	GO_0043622	1	1	1	0	0
+ciliary basal body organization	GO_0032053	1	1	1	0	0
+ciliary basal body duplication	GO_0032054	1	1	1	0	0
+astral spindle assembly involved in male meiosis	GO_0055050	1	1	1	0	0
+astral spindle assembly	GO_0055049	1	1	1	0	0
+astral microtubule organization	GO_0030953	1	1	1	0	0
+astral microtubule nucleation	GO_0030954	1	1	1	0	0
+astral microtubule depolymerization	GO_0060172	1	1	1	0	0
 astral microtubule	GO_0000235	1	1	1	0	0
+actomyosin structure organization	GO_0031032	1	1	1	0	0
+actomyosin contractile ring localization	GO_0032187	1	1	1	0	0
+actomyosin contractile ring assembly actin filament organization	GO_2000689	1	1	1	0	0
+actomyosin contractile ring assembly actin filament bundle convergence	GO_0071520	1	1	1	0	0
+actomyosin contractile ring actin filament bundle assembly	GO_0071519	1	1	1	0	0
+actin rod assembly	GO_0031247	1	1	1	0	0
+actin polymerization or depolymerization	GO_0008154	1	1	1	0	0
+actin nucleation	GO_0045010	1	1	1	0	0
+actin filament reorganization involved in cell cycle	GO_0030037	1	1	1	0	0
+actin filament polymerization	GO_0030041	1	1	1	0	0
+actin filament organization	GO_0007015	1	1	1	0	0
+actin filament network formation	GO_0051639	1	1	1	0	0
+actin filament fragmentation	GO_0030043	1	1	1	0	0
+actin filament depolymerization	GO_0030042	1	1	1	0	0
+actin filament bundle distribution	GO_0070650	1	1	1	0	0
+actin filament bundle convergence	GO_0090426	1	1	1	0	0
+actin filament bundle assembly	GO_0051017	1	1	1	0	0
+actin filament branching	GO_0090135	1	1	1	0	0
+actin crosslink formation	GO_0051764	1	1	1	0	0
+actin cortical patch organization	GO_0044396	1	1	1	0	0
+actin cortical patch localization	GO_0051666	1	1	1	0	0
+actin cortical patch internalization	GO_0044397	1	1	1	0	0
+actin cortical patch assembly	GO_0000147	1	1	1	0	0
 tubulin deacetylation	GO_0090042	1	0	1	0	0
 tubulin complex biogenesis	GO_0072668	1	0	1	0	0
 tubulin complex assembly	GO_0007021	1	0	1	0	0
@@ -92,7 +130,6 @@ microtubule sliding	GO_0051012	1	0	1	0	0
 microtubule severing	GO_0051013	1	0	1	0	0
 microtubule polymerization or depolymerization	GO_0031109	1	0	1	0	0
 microtubule polymerization	GO_0046785	1	0	1	0	0
-microtubule organizing center organization	GO_0031023	1	0	1	0	0
 microtubule organizing center attachment site organization	GO_0034994	1	0	1	0	0
 microtubule nucleation by microtubule organizing center	GO_0051418	1	0	1	0	0
 microtubule nucleation	GO_0007020	1	0	1	0	0
@@ -106,79 +143,43 @@ microtubule anchoring at microtubule organizing center	GO_0072393	1	0	1	0	0
 microtubule anchoring at centrosome	GO_0034454	1	0	1	0	0
 microtubule anchoring	GO_0034453	1	0	1	0	0
 microfilament motor activity	GO_0000146	1	0	1	0	0
-interphase microtubule organizing center assembly	GO_0031024	1	0	1	0	0
 interphase microtubule nucleation by interphase microtubule organizing center	GO_0051415	1	0	1	0	0
 intermediate filament-based process	GO_0045103	1	0	1	0	0
 intermediate filament polymerization or depolymerization	GO_0045105	1	0	1	0	0
 intermediate filament polymerization	GO_0045107	1	0	1	0	0
-intermediate filament organization	GO_0045109	1	0	1	0	0
 intermediate filament depolymerization	GO_0045106	1	0	1	0	0
 intermediate filament cytoskeleton organization	GO_0045104	1	0	1	0	0
-intermediate filament bundle assembly	GO_0045110	1	0	1	0	0
-horsetail-astral microtubule organization	GO_0032118	1	0	1	0	0
 establishment or maintenance of microtubule cytoskeleton polarity	GO_0030951	1	0	1	0	0
 equatorial microtubule organizing center disassembly	GO_0031025	1	0	1	0	0
 equatorial microtubule organization	GO_0031121	1	0	1	0	0
 cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003426	1	0	1	0	0
 cytoskeletal matrix organization at active zone	GO_0048789	1	0	1	0	0
-cytoplasmic microtubule organization	GO_0031122	1	0	1	0	0
-cytoplasmic microtubule depolymerization	GO_0010938	1	0	1	0	0
-cortical microtubule organization	GO_0043622	1	0	1	0	0
-ciliary basal body organization	GO_0032053	1	0	1	0	0
-ciliary basal body duplication	GO_0032054	1	0	1	0	0
 chromatin-templated microtubule nucleation	GO_0090223	1	0	1	0	0
 centrosome-templated microtubule nucleation	GO_0090222	1	0	1	0	0
 barbed-end actin filament uncapping	GO_0051638	1	0	1	0	0
 barbed-end actin filament capping	GO_0051016	1	0	1	0	0
-astral spindle assembly involved in male meiosis	GO_0055050	1	0	1	0	0
-astral spindle assembly	GO_0055049	1	0	1	0	0
-astral microtubule organization	GO_0030953	1	0	1	0	0
-astral microtubule nucleation	GO_0030954	1	0	1	0	0
-astral microtubule depolymerization	GO_0060172	1	0	1	0	0
 assembly of actomyosin apparatus involved in cytokinesis	GO_0000912	1	0	1	0	0
-actomyosin structure organization	GO_0031032	1	0	1	0	0
 actomyosin contractile ring maintenance	GO_0031566	1	0	1	0	0
-actomyosin contractile ring localization	GO_0032187	1	0	1	0	0
 actomyosin contractile ring contraction	GO_0000916	1	0	1	0	0
 activation of microtubule nucleation	GO_0090064	1	0	1	0	0
 actin-myosin filament sliding	GO_0033275	1	0	1	0	0
 actin-mediated cell contraction	GO_0070252	1	0	1	0	0
 actin-dependent intracellular transport of virus	GO_0075520	1	0	1	0	0
 actin ubiquitination	GO_0007014	1	0	1	0	0
-actin rod assembly	GO_0031247	1	0	1	0	0
 actin polymerization-dependent cell motility involved in migration of symbiont in host	GO_0070359	1	0	1	0	0
 actin polymerization-dependent cell motility	GO_0070358	1	0	1	0	0
-actin polymerization or depolymerization	GO_0008154	1	0	1	0	0
 actin phosphorylation	GO_0031289	1	0	1	0	0
-actin nucleation	GO_0045010	1	0	1	0	0
 actin modification	GO_0030047	1	0	1	0	0
 actin filament-based process	GO_0030029	1	0	1	0	0
 actin filament-based movement	GO_0030048	1	0	1	0	0
 actin filament uncapping	GO_0051695	1	0	1	0	0
 actin filament severing	GO_0051014	1	0	1	0	0
-actin filament reorganization involved in cell cycle	GO_0030037	1	0	1	0	0
-actin filament polymerization	GO_0030041	1	0	1	0	0
-actin filament organization involved in cytokinetic actomyosin contractile ring assembly	GO_2000689	1	0	1	0	0
-actin filament organization	GO_0007015	1	0	1	0	0
-actin filament network formation	GO_0051639	1	0	1	0	0
-actin filament fragmentation	GO_0030043	1	0	1	0	0
-actin filament depolymerization	GO_0030042	1	0	1	0	0
 actin filament debranching	GO_0071846	1	0	1	0	0
 actin filament capping	GO_0051693	1	0	1	0	0
-actin filament bundle distribution	GO_0070650	1	0	1	0	0
-actin filament bundle convergence involved in cytokinetic actomyosin contractile ring assembly	GO_0071520	1	0	1	0	0
-actin filament bundle convergence	GO_0090426	1	0	1	0	0
-actin filament bundle assembly involved in cytokinetic actomyosin contractile ring assembly	GO_0071519	1	0	1	0	0
-actin filament bundle assembly	GO_0051017	1	0	1	0	0
-actin filament branching	GO_0090135	1	0	1	0	0
 actin cytoskeleton reorganization	GO_0031532	1	0	1	0	0
 actin cytoskeleton organization	GO_0030036	1	0	1	0	0
-actin crosslink formation	GO_0051764	1	0	1	0	0
-actin cortical patch organization	GO_0044396	1	0	1	0	0
-actin cortical patch localization	GO_0051666	1	0	1	0	0
-actin cortical patch internalization	GO_0044397	1	0	1	0	0
 actin cortical patch distribution	GO_0048228	1	0	1	1	1
-actin cortical patch assembly	GO_0000147	1	0	1	0	0
+ventricular cardiac myofibril assembly	GO_0055005	0	1	0	0	0
 unconventional myosin complex	GO_0016461	0	1	0	0	0
 type III intermediate filament	GO_0045098	0	1	0	0	0
 tubulin complex	GO_0045298	0	1	0	0	0
@@ -187,22 +188,44 @@ terminal web	GO_1990357	0	1	0	0	0
 subpellicular network	GO_0020038	0	1	0	0	0
 subpellicular microtubule	GO_0020025	0	1	0	0	0
 striated muscle thin filament	GO_0005865	0	1	0	0	0
+striated muscle myosin thick filament assembly	GO_0071688	0	1	0	0	0
 striated muscle myosin thick filament	GO_0005863	0	1	0	0	0
+stress fiber assembly	GO_0043149	0	1	0	0	0
 stress fiber	GO_0001725	0	1	0	0	0
 split septin rings	GO_0032176	0	1	0	0	0
 spindle pole centrosome	GO_0031616	0	1	0	0	0
+spindle pole body organization	GO_0051300	0	1	0	0	0
 spindle pole body	GO_0005816	0	1	0	0	0
+spindle organization	GO_0007051	0	1	0	0	0
 spindle midzone	GO_0051233	0	1	0	0	0
 spindle microtubule	GO_0005876	0	1	0	0	0
 spindle matrix	GO_1990047	0	1	0	0	0
+spindle localization	GO_0051653	0	1	0	0	0
+spindle disassembly	GO_0051230	0	1	0	0	0
+spindle assembly involved in mitosis	GO_0090307	0	1	0	0	0
+spindle assembly involved in meiosis	GO_0090306	0	1	0	0	0
+spindle assembly involved in male meiosis II	GO_0007055	0	1	0	0	0
+spindle assembly involved in male meiosis I	GO_0007054	0	1	0	0	0
+spindle assembly involved in male meiosis	GO_0007053	0	1	0	0	0
+spindle assembly involved in female meiosis II	GO_0007058	0	1	0	0	0
+spindle assembly involved in female meiosis I	GO_0007057	0	1	0	0	0
+spindle assembly involved in female meiosis	GO_0007056	0	1	0	0	0
+spindle assembly	GO_0051225	0	1	0	0	0
 spindle	GO_0005819	0	1	0	0	0
+spectrin binding	GO_0030507	0	1	0	0	0
 spectrin	GO_0008091	0	1	0	0	0
+skeletal myofibril assembly	GO_0014866	0	1	0	0	0
+skeletal muscle thin filament assembly	GO_0030240	0	1	0	0	0
+skeletal muscle myosin thick filament assembly	GO_0030241	0	1	0	0	0
+septin ring organization	GO_0031106	0	1	0	0	0
 septin ring	GO_0005940	0	1	0	0	0
 septin filament array	GO_0032160	0	1	0	0	0
 septin complex	GO_0031105	0	1	0	0	0
 septin collar	GO_0032173	0	1	0	0	0
 septin cap	GO_0032159	0	1	0	0	0
 septin band	GO_0032158	0	1	0	0	0
+sarcomerogenesis	GO_0048769	0	1	0	0	0
+sarcomere organization	GO_0045214	0	1	0	0	0
 right ventral basal body	GO_1902676	0	1	0	0	0
 right posteriolateral basal body	GO_1902674	0	1	0	0	0
 right caudal basal body	GO_1902678	0	1	0	0	0
@@ -212,11 +235,14 @@ prospore septin ring	GO_0032169	0	1	0	0	0
 prospore septin filament array	GO_0032165	0	1	0	0	0
 prospore contractile ring	GO_0032157	0	1	0	0	0
 preprophase band	GO_0009574	0	1	0	0	0
+postsynaptic density organization	GO_0097106	0	1	0	0	0
+postsynaptic density assembly	GO_0097107	0	1	0	0	0
 postsynaptic density	GO_0014069	0	1	0	0	0
 post-anaphase microtubule array	GO_1990295	0	1	0	0	0
 polar microtubule	GO_0005827	0	1	0	0	0
 podosome	GO_0002102	0	1	0	0	0
 plus-end kinesin complex	GO_0005873	0	1	0	0	0
+parallel actin filament bundle assembly	GO_0030046	0	1	0	0	0
 parallel actin filament bundle	GO_0097518	0	1	0	0	0
 outer plaque of spindle pole body	GO_0005824	0	1	0	0	0
 outer plaque of mitotic spindle pole body	GO_0061499	0	1	0	0	0
@@ -225,7 +251,12 @@ old mitotic spindle pole body	GO_0071957	0	1	0	0	0
 nuclear microtubule	GO_0005880	0	1	0	0	0
 new mitotic spindle pole body	GO_0071958	0	1	0	0	0
 neuronal postsynaptic density	GO_0097481	0	1	0	0	0
+neurofilament bundle assembly	GO_0033693	0	1	0	0	0
 neurofilament	GO_0005883	0	1	0	0	0
+myosin filament organization involved in cytokinetic actomyosin contractile ring assembly	GO_2000708	0	1	0	0	0
+myosin filament organization	GO_0031033	0	1	0	0	0
+myosin filament disassembly	GO_0031035	0	1	0	0	0
+myosin filament assembly	GO_0031034	0	1	0	0	0
 myosin filament	GO_0032982	0	1	0	0	0
 myosin complex	GO_0016459	0	1	0	0	0
 myosin XVIII complex	GO_0031488	0	1	0	0	0
@@ -244,29 +275,50 @@ myosin V complex	GO_0031475	0	1	0	0	0
 myosin IX complex	GO_0031479	0	1	0	0	0
 myosin IV complex	GO_0031474	0	1	0	0	0
 myosin III complex	GO_0042385	0	1	0	0	0
+myosin II filament organization	GO_0031038	0	1	0	0	0
+myosin II filament disassembly	GO_0031037	0	1	0	0	0
+myosin II filament assembly	GO_0031036	0	1	0	0	0
 myosin II filament	GO_0097513	0	1	0	0	0
 myosin II complex	GO_0016460	0	1	0	0	0
 myosin I complex	GO_0045160	0	1	0	0	0
+myofibril assembly	GO_0030239	0	1	0	0	0
 muscle thin filament tropomyosin	GO_0005862	0	1	0	0	0
+muscle thin filament assembly	GO_0071689	0	1	0	0	0
 muscle myosin complex	GO_0005859	0	1	0	0	0
 muscle cell postsynaptic density	GO_0097482	0	1	0	0	0
 mitotic spindle pole body	GO_0044732	0	1	0	0	0
 mitotic spindle pole	GO_0097431	0	1	0	0	0
+mitotic spindle organization in nucleus	GO_0030472	0	1	0	0	0
+mitotic spindle organization	GO_0007052	0	1	0	0	0
 mitotic spindle midzone	GO_1990023	0	1	0	0	0
 mitotic spindle microtubule	GO_1990498	0	1	0	0	0
+mitotic spindle disassembly	GO_0051228	0	1	0	0	0
 mitotic spindle	GO_0072686	0	1	0	0	0
 mitotic septin complex	GO_0032151	0	1	0	0	0
+mitotic ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
+mitotic ring actin filament bundle assembly	GO_1903477	0	1	0	0	0
+mitotic centrosome separation	GO_0007100	0	1	0	0	0
+mitotic actomyosin contractile ring localization	GO_1902405	0	1	0	0	0
+mitotic actomyosin contractile ring assembly actin filament organization	GO_1903479	0	1	0	0	0
+mitotic actomyosin contractile ring assembly	GO_1903475	0	1	0	0	0
 minus-end kinesin complex	GO_0005872	0	1	0	0	0
+microvillar actin bundle assembly	GO_0030034	0	1	0	0	0
 microvillar actin bundle	GO_0097516	0	1	0	0	0
+microtubule plus-end binding	GO_0051010	0	1	0	0	0
 microtubule plus-end	GO_0035371	0	1	0	0	0
 microtubule organizing center part	GO_0044450	0	1	0	0	0
 microtubule organizing center	GO_0005815	0	1	0	0	0
+microtubule minus-end binding	GO_0051011	0	1	0	0	0
 microtubule minus-end	GO_0036449	0	1	0	0	0
 microtubule bundle	GO_0097427	0	1	0	0	0
+microtubule binding	GO_0008017	0	1	0	0	0
 microtubule associated complex	GO_0005875	0	1	0	0	0
 microtubule	GO_0005874	0	1	0	0	0
+meiotic spindle pole body organization	GO_1990395	0	1	0	0	0
 meiotic spindle pole body	GO_0035974	0	1	0	0	0
+meiotic spindle organization	GO_0000212	0	1	0	0	0
 meiotic spindle midzone	GO_1990385	0	1	0	0	0
+meiotic spindle disassembly	GO_0051229	0	1	0	0	0
 meiotic spindle	GO_0072687	0	1	0	0	0
 meiotic septin complex	GO_0032152	0	1	0	0	0
 median body	GO_0097568	0	1	0	0	0
@@ -274,6 +326,9 @@ medial cortex septin ring	GO_0036391	0	1	0	0	0
 mating projection septin ring	GO_0032175	0	1	0	0	0
 mating projection septin band	GO_0032162	0	1	0	0	0
 manchette	GO_0002177	0	1	0	0	0
+male meiosis centrosome cycle	GO_0007101	0	1	0	0	0
+maintenance of mitotic actomyosin contractile ring localization	GO_1903474	0	1	0	0	0
+maintenance of actomyosin contractile ring localization	GO_0032189	0	1	0	0	0
 macropinocytic cup cytoskeleton	GO_0070687	0	1	0	0	0
 left ventral basal body	GO_1902675	0	1	0	0	0
 left posteriolateral basal body	GO_1902673	0	1	0	0	0
@@ -285,6 +340,7 @@ kinetochore microtubule	GO_0005828	0	1	0	0	0
 kinesin complex	GO_0005871	0	1	0	0	0
 kinesin II complex	GO_0016939	0	1	0	0	0
 kinesin I complex	GO_0016938	0	1	0	0	0
+keratin filament binding	GO_1990254	0	1	0	0	0
 keratin filament	GO_0045095	0	1	0	0	0
 katanin complex	GO_0008352	0	1	0	0	0
 investment cone	GO_0070865	0	1	0	0	0
@@ -292,6 +348,7 @@ intraconoid microtubule	GO_0033289	0	1	0	0	0
 interphase microtubule organizing center	GO_0031021	0	1	0	0	0
 intermediate layer of spindle pole body	GO_0005821	0	1	0	0	0
 intermediate layer of mitotic spindle pole body	GO_0061498	0	1	0	0	0
+intermediate filament binding	GO_0019215	0	1	0	0	0
 intermediate filament	GO_0005882	0	1	0	0	0
 inner plaque of spindle pole body	GO_0005822	0	1	0	0	0
 inner plaque of mitotic spindle pole body	GO_0061497	0	1	0	0	0
@@ -314,9 +371,16 @@ gamma-tubulin large complex, spindle pole body	GO_0055032	0	1	0	0	0
 gamma-tubulin large complex, mitotic spindle pole body	GO_0061494	0	1	0	0	0
 gamma-tubulin large complex, interphase microtubule organizing center	GO_0055033	0	1	0	0	0
 gamma-tubulin large complex, equatorial microtubule organizing center	GO_0055031	0	1	0	0	0
+gamma-tubulin complex localization	GO_0033566	0	1	0	0	0
+formin-nucleated actin cable assembly	GO_0070649	0	1	0	0	0
 formin-nucleated actin cable	GO_0070648	0	1	0	0	0
 filamentous actin	GO_0031941	0	1	0	0	0
+female germline ring canal stabilization	GO_0008335	0	1	0	0	0
+female germline ring canal formation, actin assembly	GO_0008302	0	1	0	0	0
+establishment of mitotic actomyosin contractile ring localization	GO_1903486	0	1	0	0	0
+establishment of actomyosin contractile ring localization	GO_0032188	0	1	0	0	0
 eisosome filament	GO_0036286	0	1	0	0	0
+dynein complex binding	GO_0070840	0	1	0	0	0
 dynein complex	GO_0030286	0	1	0	0	0
 dynactin complex	GO_0005869	0	1	0	0	0
 dendritic microtubule	GO_1901588	0	1	0	0	0
@@ -329,8 +393,11 @@ cuticular plate	GO_0032437	0	1	0	0	0
 cortical microtubule, transverse to long axis	GO_0010005	0	1	0	0	0
 cortical microtubule cytoskeleton	GO_0030981	0	1	0	0	0
 cortical microtubule	GO_0055028	0	1	0	0	0
+cortical actin cytoskeleton stabilization	GO_0033109	0	1	0	0	0
+cortical actin cytoskeleton organization	GO_0030866	0	1	0	0	0
 cortical actin cytoskeleton	GO_0030864	0	1	0	0	0
 contractile vacuole pore	GO_0031913	0	1	0	0	0
+contractile actin filament bundle assembly	GO_0030038	0	1	0	0	0
 contractile actin filament bundle	GO_0097517	0	1	0	0	0
 conoid	GO_0020010	0	1	0	0	0
 cleavage apparatus septin structure	GO_0032161	0	1	0	0	0
@@ -338,30 +405,53 @@ ciliary rootlet	GO_0035253	0	1	0	0	0
 ciliary basal body	GO_0036064	0	1	0	0	0
 chromosome passenger complex	GO_0032133	0	1	0	0	0
 chlamydospore septin filament array	GO_0032166	0	1	0	0	0
+centrosome separation	GO_0051299	0	1	0	0	0
+centrosome organization	GO_0051297	0	1	0	0	0
+centrosome localization	GO_0051642	0	1	0	0	0
+centrosome duplication	GO_0051298	0	1	0	0	0
+centrosome cycle	GO_0007098	0	1	0	0	0
 centrosome	GO_0005813	0	1	0	0	0
 centrosomal corona	GO_0031592	0	1	0	0	0
+centriole-centriole cohesion	GO_0010457	0	1	0	0	0
+centriole replication	GO_0007099	0	1	0	0	0
+centriole elongation	GO_0061511	0	1	0	0	0
 centriole	GO_0005814	0	1	0	0	0
 centriolar satellite	GO_0034451	0	1	0	0	0
 centralspindlin complex	GO_0097149	0	1	0	0	0
 central plaque of spindle pole body	GO_0005823	0	1	0	0	0
 central plaque of mitotic spindle pole body	GO_0061493	0	1	0	0	0
 cellular bud neck split septin rings	GO_0032177	0	1	0	0	0
+cellular bud neck septin ring organization	GO_0032186	0	1	0	0	0
 cellular bud neck septin ring	GO_0000144	0	1	0	0	0
 cellular bud neck septin collar	GO_0032174	0	1	0	0	0
 cellular bud neck contractile ring	GO_0000142	0	1	0	0	0
+cardiac myofibril assembly	GO_0055003	0	1	0	0	0
+cardiac muscle thin filament assembly	GO_0071691	0	1	0	0	0
+cardiac muscle myosin thick filament assembly	GO_0071690	0	1	0	0	0
+axonemal microtubule depolymerization	GO_0060404	0	1	0	0	0
 axonemal microtubule	GO_0005879	0	1	0	0	0
 axonemal dynein complex	GO_0005858	0	1	0	0	0
 axon microtubule bundle	GO_1901589	0	1	0	0	0
+atrial cardiac myofibril assembly	GO_0055004	0	1	0	0	0
 aster	GO_0005818	0	1	0	0	0
+anastral spindle assembly involved in male meiosis	GO_0009971	0	1	0	0	0
+anastral spindle assembly	GO_0055048	0	1	0	0	0
 actomyosin, myosin complex part	GO_0042642	0	1	0	0	0
 actomyosin, actin portion	GO_0042643	0	1	0	0	0
+actomyosin contractile ring organization	GO_0044837	0	1	0	0	0
+actomyosin contractile ring assembly	GO_0000915	0	1	0	0	0
 actomyosin contractile ring actin filament	GO_1903144	0	1	0	0	0
 actomyosin contractile ring	GO_0005826	0	1	0	0	0
 actomyosin	GO_0042641	0	1	0	0	0
 actin tubule	GO_0031003	0	1	0	0	0
 actin rod	GO_0031002	0	1	0	0	0
+actin lateral binding	GO_0003786	0	1	0	0	0
+actin filament reorganization	GO_0090527	0	1	0	0	0
 actin filament of cell cortex of cell tip	GO_1903145	0	1	0	0	0
+actin filament bundle retrograde transport	GO_0061573	0	1	0	0	0
+actin filament bundle organization	GO_0061572	0	1	0	0	0
 actin filament bundle	GO_0032432	0	1	0	0	0
+actin filament binding	GO_0051015	0	1	0	0	0
 actin filament	GO_0005884	0	1	0	0	0
 actin cortical patch	GO_0030479	0	1	0	0	0
 actin capping protein of dynactin complex	GO_0005870	0	1	0	0	0
@@ -374,4 +464,6 @@ F-actin capping protein complex	GO_0008290	0	1	0	0	0
 Bfa1-Bub2 complex	GO_1990334	0	1	0	0	0
 B tubule	GO_0097650	0	1	0	0	0
 Arp2/3 protein complex	GO_0005885	0	1	0	0	0
+Arp2/3 complex-mediated actin nucleation	GO_0034314	0	1	0	0	0
 A tubule	GO_0097649	0	1	0	0	0
+'de novo' actin filament nucleation	GO_0070060	0	1	0	0	0

@@ -72,6 +72,7 @@ inositol-1,4,5-trisphosphate 6-kinase activity	GO_0000823	1	1	1	0	0
 inositol-1,4,5-trisphosphate 3-kinase activity	GO_0008440	1	1	1	0	0
 inositol-1,3,4-trisphosphate 6-kinase activity	GO_0052725	1	1	1	0	0
 inositol-1,3,4-trisphosphate 5-kinase activity	GO_0052726	1	1	1	0	0
+inositol-1,3,4,5,6-pentakisphosphate kinase activity	GO_0000827	1	1	1	0	0
 inositol tetrakisphosphate 6-kinase activity	GO_0000825	1	1	1	0	0
 inositol tetrakisphosphate 3-kinase activity	GO_0000824	1	1	1	0	0
 inositol tetrakisphosphate 1-kinase activity	GO_0047325	1	1	1	0	0
@@ -82,6 +83,9 @@ inositol hexakisphosphate 5-kinase activity	GO_0000832	1	1	1	0	0
 inositol hexakisphosphate 4-kinase activity	GO_0000830	1	1	1	0	0
 inositol hexakisphosphate 3-kinase activity	GO_0052724	1	1	1	0	0
 inositol hexakisphosphate 1-kinase activity	GO_0052723	1	1	1	0	0
+inositol heptakisphosphate kinase activity	GO_0000829	1	1	1	0	0
+inositol heptakisphosphate 6-kinase activity	GO_0000834	1	1	1	0	0
+inositol heptakisphosphate 4-kinase activity	GO_0000833	1	1	1	0	0
 hydroxylysine kinase activity	GO_0047992	1	1	1	0	0
 histone serine kinase activity	GO_0035174	1	1	1	0	0
 histone kinase activity (H3-Y41 specific)	GO_0035401	1	1	1	0	0
@@ -175,10 +179,6 @@ ADP-specific glucokinase activity	GO_0043843	1	1	1	0	0
 1-phosphatidylinositol-3-kinase activity	GO_0016303	1	1	1	0	0
 1-phosphatidylinositol 4-kinase activity	GO_0004430	1	1	1	0	0
 regulation of cyclin-dependent protein serine/threonine kinase activity	GO_0000079	1	0	1	0	0
-inositol-1,3,4,5,6-pentakisphosphate kinase activity	GO_0000827	1	0	1	0	0
-inositol heptakisphosphate kinase activity	GO_0000829	1	0	1	0	0
-inositol heptakisphosphate 6-kinase activity	GO_0000834	1	0	1	0	0
-inositol heptakisphosphate 4-kinase activity	GO_0000833	1	0	1	0	0
 activation of protein kinase activity	GO_0032147	1	0	1	0	0
 activation of protein kinase B activity	GO_0032148	1	0	1	0	0
 activation of protein kinase A activity	GO_0034199	1	0	1	0	0
@@ -240,6 +240,7 @@ inositol trisphosphate kinase activity	GO_0051766	0	1	1	0	0
 inositol tetrakisphosphate kinase activity	GO_0051765	0	1	1	0	0
 inositol tetrakisphosphate 5-kinase activity	GO_0047326	0	1	1	0	0
 inositol tetrakisphosphate 2-kinase activity	GO_0032942	0	1	1	0	0
+inositol heptakisphosphate 5-kinase activity	GO_0033200	0	1	0	0	0
 inositol diphosphate tetrakisphosphate kinase activity	GO_0052839	0	1	1	0	0
 inositol 5-diphosphate pentakisphosphate 5-kinase activity	GO_0052836	0	1	1	0	0
 inositol 3-kinase activity	GO_0019140	0	1	1	0	0
@@ -275,6 +276,7 @@ galacturonokinase activity	GO_0047912	0	1	1	0	0
 formate kinase activity	GO_0047900	0	1	1	0	0
 farnesyl diphosphate kinase activity	GO_0047887	0	1	1	0	0
 erythritol kinase activity	GO_0047878	0	1	1	0	0
+diphosphoinositol-pentakisphosphate kinase activity	GO_0033857	0	1	0	0	0
 diphosphate-serine phosphotransferase activity	GO_0047332	0	1	1	0	0
 diphosphate-purine nucleoside kinase activity	GO_0008842	0	1	1	0	0
 diphosphate-protein phosphotransferase activity	GO_0047321	0	1	1	0	0

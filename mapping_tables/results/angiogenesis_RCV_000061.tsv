@@ -16,9 +16,15 @@ lymphangiogenesis	GO_0001946	1	0	1	0	0
 vascular wound healing	GO_0061042	0	1	1	0	0
 regulation of vascular wound healing	GO_0061043	0	1	1	0	0
 regulation of cell adhesion involved in intussusceptive angiogenesis	GO_0002045	0	1	1	0	0
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	0	0	0
 positive regulation of vascular wound healing	GO_0035470	0	1	1	0	0
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	0	0	0
 patterning of blood vessels	GO_0001569	0	1	1	0	0
 negative regulation of vascular wound healing	GO_0061044	0	1	1	0	0
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	0	0	0
+metanephric glomerular capillary formation	GO_0072277	0	1	0	0	0
+mesonephric glomerular capillary formation	GO_0061249	0	1	0	0	0
+glomerular capillary formation	GO_0072104	0	1	0	0	0
 endothelial tip cell fate specification	GO_0097102	0	1	1	0	0
 endothelial stalk cell fate specification	GO_0097103	0	1	1	0	0
 blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	1	0	0

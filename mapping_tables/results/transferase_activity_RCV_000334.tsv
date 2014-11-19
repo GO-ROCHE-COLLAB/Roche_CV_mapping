@@ -16,6 +16,7 @@ xyloglucan endotransglucosylase activity	GO_0080039	0	1	1	0	0
 xyloglucan 6-xylosyltransferase activity	GO_0033843	0	1	1	0	0
 xyloglucan 4-glucosyltransferase activity	GO_0033826	0	1	1	0	0
 xylitol kinase activity	GO_0050400	0	1	1	0	0
+xylan O-acetyltransferase activity	GO_1990538	0	1	0	0	0
 vomilenine glucosyltransferase activity	GO_0050506	0	1	1	0	0
 vitexin beta-glucosyltransferase activity	GO_0050395	0	1	1	0	0
 vitexin 2''-O-rhamnoside 7-O-methyltransferase activity	GO_0033801	0	1	1	0	0
@@ -221,6 +222,9 @@ spermidine:caffeoyl CoA N-acyltransferase activity	GO_0080074	0	1	1	0	0
 spermidine synthase activity	GO_0004766	0	1	1	0	0
 sn-glycerol-3-phosphate 2-alpha-galactosyltransferase activity	GO_0047221	0	1	1	0	0
 sn-glycerol-3-phosphate 1-galactosyltransferase activity	GO_0047279	0	1	1	0	0
+small conjugating protein transferase activity	GO_0019787	0	1	0	0	0
+small conjugating protein ligase activity	GO_0061659	0	1	0	0	0
+small conjugating protein conjugating enzyme activity	GO_0061650	0	1	0	0	0
 small RNA 2'-O-methyltransferase	GO_0090486	0	1	1	0	0
 site-specific DNA-methyltransferase (cytosine-N4-specific) activity	GO_0015667	0	1	1	0	0
 site-specific DNA-methyltransferase (adenine-specific) activity	GO_0009007	0	1	1	0	0
@@ -1507,7 +1511,13 @@ UTP:glucose-1-phosphate uridylyltransferase activity	GO_0003983	0	1	1	0	0
 UTP:galactose-1-phosphate uridylyltransferase activity	GO_0017103	0	1	1	0	0
 UTP:arabinose-1-phosphate uridylyltransferase activity	GO_0010491	0	1	1	0	0
 UTP-monosaccharide-1-phosphate uridylyltransferase activity	GO_0051748	0	1	1	0	0
+URM1 transferase activity	GO_0042294	0	1	0	0	0
+URM1 ligase activity	GO_0061667	0	1	0	0	0
+URM1 conjugating enzyme activity	GO_0061658	0	1	0	0	0
 UMP kinase activity	GO_0033862	0	1	1	0	0
+UFM1 transferase activity	GO_0071568	0	1	0	0	0
+UFM1 ligase activity	GO_0061666	0	1	0	0	0
+UFM1 conjugating enzyme activity	GO_0061657	0	1	0	0	0
 UDP-xylosyltransferase activity	GO_0035252	0	1	1	0	0
 UDP-sulfoquinovose:DAG sulfoquinovosyltransferase activity	GO_0046510	0	1	1	0	0
 UDP-glycosyltransferase activity	GO_0008194	0	1	1	0	0
@@ -1539,6 +1549,9 @@ T2-induced deoxynucleotide kinase activity	GO_0050316	0	1	1	0	0
 Skp1-protein-hydroxyproline N-acetylglucosaminyltransferase activity	GO_0033830	0	1	1	0	0
 Sep-tRNA:Cys-tRNA synthase activity	GO_0043766	0	1	1	0	0
 Se-methyltransferase activity	GO_0051995	0	1	1	0	0
+SUMO transferase activity	GO_0019789	0	1	0	0	0
+SUMO ligase activity	GO_0061665	0	1	0	0	0
+SUMO conjugating enzyme activity	GO_0061656	0	1	0	0	0
 SAP kinase activity	GO_0016909	0	1	1	0	0
 S-succinyltransferase activity	GO_0016751	0	1	1	0	0
 S-methyltransferase activity	GO_0008172	0	1	1	0	0
@@ -1571,6 +1584,9 @@ RNA polymerase I activity	GO_0001054	0	1	1	0	0
 RNA methyltransferase activity	GO_0008173	0	1	1	0	0
 RNA guanylyltransferase activity	GO_0008192	0	1	1	0	0
 RNA 5'-methyltransferase activity	GO_1990276	0	1	1	0	0
+Pup transferase activity	GO_0072496	0	1	0	0	0
+Pup ligase activity	GO_0061664	0	1	0	0	0
+Pup conjugating enzyme activity	GO_0061655	0	1	0	0	0
 P-methyltransferase activity	GO_0051994	0	1	1	0	0
 O-succinyltransferase activity	GO_0016750	0	1	1	0	0
 O-sinapoyltransferase activity	GO_0016753	0	1	1	0	0
@@ -1592,6 +1608,9 @@ O-acetyltransferase activity	GO_0016413	0	1	1	0	0
 O-acetylhomoserine aminocarboxypropyltransferase activity	GO_0003961	0	1	1	0	0
 O antigen polymerase activity	GO_0008755	0	1	1	0	0
 NF-kappaB-inducing kinase activity	GO_0004704	0	1	1	0	0
+NEDD8 transferase activity	GO_0019788	0	1	0	0	0
+NEDD8 ligase activity	GO_0061663	0	1	0	0	0
+NEDD8 conjugating enzyme activity	GO_0061654	0	1	0	0	0
 NDP-glucose-starch glucosyltransferase activity	GO_0033840	0	1	1	0	0
 NADH kinase activity	GO_0042736	0	1	1	0	0
 NAD+-diphthamide ADP-ribosyltransferase activity	GO_0047286	0	1	1	0	0
@@ -1702,6 +1721,9 @@ JUN kinase kinase kinase activity	GO_0004706	0	1	1	0	0
 JUN kinase kinase activity	GO_0008545	0	1	1	0	0
 JUN kinase activity	GO_0004705	0	1	1	0	0
 IkappaB kinase activity	GO_0008384	0	1	1	0	0
+ISG15 transferase activity	GO_0042296	0	1	0	0	0
+ISG15 ligase activity	GO_0061662	0	1	0	0	0
+ISG15 conjugating enxyme activity	GO_0061653	0	1	0	0	0
 HNK-1 sulfotransferase activity	GO_0016232	0	1	1	0	0
 H4 histone acetyltransferase activity	GO_0010485	0	1	1	0	0
 H3 histone acetyltransferase activity	GO_0010484	0	1	1	0	0
@@ -1726,6 +1748,9 @@ GDP-D-glucose phosphorylase activity	GO_0080048	0	1	1	0	0
 G-protein coupled receptor kinase activity	GO_0004703	0	1	1	0	0
 Fas-activated serine/threonine kinase activity	GO_0033867	0	1	1	0	0
 FMN adenylyltransferase activity	GO_0003919	0	1	1	0	0
+FAT10 transferase activity	GO_0019775	0	1	0	0	0
+FAT10 ligase activity	GO_0061661	0	1	0	0	0
+FAT10 conjugating enzyme activity	GO_0061652	0	1	0	0	0
 DNA-methyltransferase activity	GO_0009008	0	1	1	0	0
 DNA-directed RNA polymerase activity	GO_0003899	0	1	1	0	0
 DNA-directed DNA polymerase activity	GO_0003887	0	1	1	0	0
@@ -1775,6 +1800,9 @@ C-palmitoyltransferase activity	GO_0016454	0	1	1	0	0
 C-methyltransferase activity	GO_0008169	0	1	1	0	0
 C-acyltransferase activity	GO_0016408	0	1	1	0	0
 C-acetyltransferase activity	GO_0016453	0	1	1	0	0
+Atg12 transferase activity	GO_0019777	0	1	0	0	0
+Atg12 ligase activity	GO_0061660	0	1	0	0	0
+Atg12 conjugating enzyme activity	GO_0061651	0	1	0	0	0
 ATP:coenzyme F420 adenylyltransferase activity	GO_0043910	0	1	1	0	0
 ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity	GO_0052929	0	1	1	0	0
 ATP:2-methylpropanoate phosphotransferase activity	GO_0047758	0	1	1	0	0

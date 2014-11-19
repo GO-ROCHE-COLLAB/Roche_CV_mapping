@@ -7,7 +7,7 @@ regulation of DNA replication termination	GO_2000621	1	1	1	0	0
 regulation of DNA replication initiation involved in plasmid copy number maintenance	GO_0060909	1	1	1	0	0
 regulation of DNA replication	GO_0006275	1	1	1	0	0
 positive regulation of DNA-directed DNA polymerase activity	GO_1900264	1	1	1	0	0
-nuclear cell cycle DNA replication	GO_0033260	1	1	1	0	0
+nuclear DNA replication	GO_0033260	1	1	1	0	0
 negative regulation of DNA-directed DNA polymerase activity	GO_1900263	1	1	1	0	0
 initiation of premeiotic DNA replication	GO_0072691	1	1	1	0	0
 cis-acting DNA replication termination	GO_0071946	1	1	1	0	0
@@ -111,6 +111,10 @@ positive regulation of DNA replication initiation	GO_1903468	0	1	1	0	0
 positive regulation of DNA replication	GO_0045740	0	1	1	0	0
 positive regulation of DNA endoreduplication	GO_0032877	0	1	1	0	0
 plastid DNA replication	GO_0033259	0	1	1	0	0
+nuclear cell cycle DNA replication initiation	GO_1902315	0	1	1	0	0
+nuclear DNA replication termination	GO_1902317	0	1	1	0	0
+nuclear DNA replication DNA ligation	GO_1902333	0	1	1	0	0
+nuclear DNA replication DNA duplex unwinding	GO_1902320	0	1	1	0	0
 negative regulation of telomere maintenance via telomerase	GO_0032211	0	1	1	0	0
 negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	1	0	0
 negative regulation of telomerase activity	GO_0051974	0	1	1	0	0
@@ -127,34 +131,47 @@ negative regulation of DNA endoreduplication	GO_0032876	0	1	1	0	0
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	1	0	0
 mitotic recombination involved in replication fork processing	GO_1903211	0	1	1	0	0
 mitotic pre-replicative complex assembly	GO_1902985	0	1	1	0	0
-mitotic cell cycle DNA replication	GO_1902969	0	1	1	0	0
 mitotic DNA-dependent DNA replication	GO_1990506	0	1	1	0	0
 mitotic DNA replication termination	GO_1902979	0	1	1	0	0
 mitotic DNA replication preinitiation complex assembly	GO_1902977	0	1	1	0	0
+mitotic DNA replication maintenance of fidelity	GO_1990505	0	1	1	0	0
+mitotic DNA replication leading strand elongation	GO_1903460	0	1	1	0	0
+mitotic DNA replication lagging strand elongation	GO_1903459	0	1	1	0	0
 mitotic DNA replication initiation	GO_1902975	0	1	1	0	0
+mitotic DNA replication DNA ligation	GO_1902973	0	1	1	0	0
+mitotic DNA replication DNA duplex unwinding	GO_1902971	0	1	1	0	0
+mitotic DNA replication	GO_1902969	0	1	1	0	0
 mitochondrial DNA replication	GO_0006264	0	1	1	0	0
 mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	GO_0070716	0	1	1	0	0
 meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	1	0	0
-meiotic cell cycle DNA replication	GO_1902968	0	1	1	0	0
+meiotic DNA replication termination	GO_1902978	0	1	1	0	0
 meiotic DNA replication preinitiation complex assembly	GO_1902976	0	1	1	0	0
-maintenance of fidelity involved in mitotic cell cycle DNA replication	GO_1990505	0	1	1	0	0
-maintenance of fidelity involved in mitotic DNA replication	GO_1990510	0	1	1	0	0
-maintenance of fidelity involved in cell cycle DNA replication	GO_1902298	0	1	1	0	0
-maintenance of fidelity involved in DNA-dependent DNA replication	GO_0045005	0	1	1	0	0
-leading strand elongation involved in mitotic DNA replication	GO_1903460	0	1	1	0	0
+meiotic DNA replication initiation	GO_1902974	0	1	1	0	0
+meiotic DNA replication DNA ligation	GO_1902972	0	1	1	0	0
+meiotic DNA replication DNA duplex unwinding	GO_1902970	0	1	1	0	0
+meiotic DNA replication	GO_1902968	0	1	1	0	0
 leading strand elongation	GO_0006272	0	1	1	0	0
-lagging strand elongation involved in mitotic DNA replication	GO_1903459	0	1	1	0	0
 lagging strand elongation	GO_0006273	0	1	1	0	0
 homologous recombination-dependent replication fork processing	GO_1990426	0	1	1	0	0
 gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	1	0	0
+cell cycle DNA replication termination	GO_1902294	0	1	1	0	0
+cell cycle DNA replication maintenance of fidelity	GO_1902298	0	1	1	0	0
+cell cycle DNA replication initiation	GO_1902292	0	1	1	0	0
+cell cycle DNA replication DNA unwinding	GO_1902297	0	1	1	0	0
+cell cycle DNA replication DNA ligation	GO_1902291	0	1	1	0	0
 cell cycle DNA replication	GO_0044786	0	1	1	0	0
 bidirectional double-stranded viral DNA replication	GO_0039686	0	1	1	0	0
+bacterial-type DNA replication termination	GO_1902329	0	1	1	0	0
+bacterial-type DNA replication initiation	GO_1902328	0	1	1	0	0
+bacterial-type DNA replication DNA ligation	GO_1902327	0	1	1	0	0
+bacterial-type DNA replication DNA duplex unwinding	GO_1902332	0	1	1	0	0
 bacterial-type DNA replication	GO_0044787	0	1	1	0	0
 RNA-directed DNA polymerase activity	GO_0003964	0	1	1	0	0
 RNA-dependent DNA replication	GO_0006278	0	1	1	0	0
 Okazaki fragment processing involved in mitotic DNA replication	GO_1903461	0	1	1	0	0
 GINS complex assembly	GO_0071165	0	1	1	0	0
-DNA unwinding involved in cell cycle DNA replication	GO_1902297	0	1	1	0	0
+DNA-dependent DNA replication maintenance of fidelity	GO_0045005	0	1	1	0	0
+DNA-dependent DNA replication DNA ligation	GO_0051104	0	1	1	0	0
 DNA unwinding involved in DNA replication	GO_0006268	0	1	1	0	0
 DNA synthesis involved in DNA replication	GO_0090592	0	1	1	0	0
 DNA strand elongation involved in nuclear cell cycle DNA replication	GO_1902319	0	1	1	0	0
@@ -162,24 +179,6 @@ DNA strand elongation involved in mitotic DNA replication	GO_1902983	0	1	1	0	0
 DNA strand elongation involved in meiotic DNA replication	GO_1902982	0	1	1	0	0
 DNA strand elongation involved in cell cycle DNA replication	GO_1902296	0	1	1	0	0
 DNA strand elongation involved in bacterial-type DNA replication	GO_1902331	0	1	1	0	0
-DNA replication termination involved in nuclear cell cycle DNA replication	GO_1902317	0	1	1	0	0
-DNA replication termination involved in meiotic DNA replication	GO_1902978	0	1	1	0	0
-DNA replication termination involved in cell cycle DNA replication	GO_1902294	0	1	1	0	0
-DNA replication termination involved in bacterial-type DNA replication	GO_1902329	0	1	1	0	0
-DNA replication initiation involved in nuclear cell cycle DNA replication	GO_1902315	0	1	1	0	0
-DNA replication initiation involved in meiotic DNA replication	GO_1902974	0	1	1	0	0
-DNA replication initiation involved in cell cycle DNA replication	GO_1902292	0	1	1	0	0
-DNA replication initiation involved in bacterial-type DNA replication	GO_1902328	0	1	1	0	0
 DNA replication initiation from late origin	GO_0061487	0	1	1	0	0
 DNA primase activity	GO_0003896	0	1	1	0	0
-DNA ligation involved in nuclear cell cycle DNA replication	GO_1902333	0	1	1	0	0
-DNA ligation involved in mitotic DNA replication	GO_1902973	0	1	1	0	0
-DNA ligation involved in meiotic DNA replication	GO_1902972	0	1	1	0	0
-DNA ligation involved in cell cycle DNA replication	GO_1902291	0	1	1	0	0
-DNA ligation involved in bacterial-type DNA replication	GO_1902327	0	1	1	0	0
-DNA ligation involved in DNA-dependent DNA replication	GO_0051104	0	1	1	0	0
 DNA endoreduplication	GO_0042023	0	1	1	0	0
-DNA duplex unwinding involved in nuclear cell cycle DNA replication	GO_1902320	0	1	1	0	0
-DNA duplex unwinding involved in mitotic DNA replication	GO_1902971	0	1	1	0	0
-DNA duplex unwinding involved in meiotic DNA replication	GO_1902970	0	1	1	0	0
-DNA duplex unwinding involved in bacterial-type DNA replication	GO_1902332	0	1	1	0	0
