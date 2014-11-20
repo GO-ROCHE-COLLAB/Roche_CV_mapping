@@ -1,0 +1,51 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cerebellum structural organization	GO_0021589	1	1	1	0	0
+cerebellum morphogenesis	GO_0021587	1	1	1	0	0
+cerebellum maturation	GO_0021590	1	1	1	0	0
+cerebellum formation	GO_0021588	1	1	1	0	0
+cerebellum development	GO_0021549	1	1	1	0	0
+cerebellar unipolar brush cell differentiation	GO_0021711	1	1	1	0	0
+cerebellar molecular layer structural organization	GO_0021689	1	1	1	0	0
+cerebellar molecular layer morphogenesis	GO_0021687	1	1	1	0	0
+cerebellar molecular layer maturation	GO_0021690	1	1	1	0	0
+cerebellar molecular layer formation	GO_0021688	1	1	1	0	0
+cerebellar molecular layer development	GO_0021679	1	1	1	0	0
+cerebellar granule cell differentiation	GO_0021707	1	1	1	0	0
+cerebellar granular layer structural organization	GO_0021685	1	1	1	0	0
+cerebellar granular layer morphogenesis	GO_0021683	1	1	1	0	0
+cerebellar granular layer maturation	GO_0021686	1	1	1	0	0
+cerebellar granular layer formation	GO_0021684	1	1	1	0	0
+cerebellar granular layer development	GO_0021681	1	1	1	0	0
+cerebellar cortex structural organization	GO_0021698	1	1	1	0	0
+cerebellar cortex morphogenesis	GO_0021696	1	1	1	0	0
+cerebellar cortex maturation	GO_0021699	1	1	1	0	0
+cerebellar cortex formation	GO_0021697	1	1	1	0	0
+cerebellar cortex development	GO_0021695	1	1	1	0	0
+cerebellar basket cell differentiation	GO_0021709	1	1	1	0	0
+cerebellar Purkinje cell layer structural organization	GO_0021693	1	1	1	0	0
+cerebellar Purkinje cell layer morphogenesis	GO_0021692	1	1	1	0	0
+cerebellar Purkinje cell layer maturation	GO_0021691	1	1	1	0	0
+cerebellar Purkinje cell layer formation	GO_0021694	1	1	1	0	0
+cerebellar Purkinje cell layer development	GO_0021680	1	1	1	0	0
+cerebellar Purkinje cell differentiation	GO_0021702	1	1	1	0	0
+cerebellar Golgi cell differentiation	GO_0021701	1	1	1	0	0
+regulation of cerebellar granule cell precursor proliferation	GO_0021936	1	0	1	0	0
+radial glia guided migration of cerebellar granule cell	GO_0021933	1	0	1	0	0
+positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	1	0	1	0	0
+positive regulation of cerebellar granule cell migration by calcium	GO_0021945	1	0	1	0	0
+negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	1	0	1	0	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	1	0	1	0	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	1	0	1	0	0
+cerebellar granule cell precursor tangential migration	GO_0021935	1	0	1	0	0
+cerebellar granule cell precursor proliferation	GO_0021930	1	0	1	0	0
+cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation	GO_0021937	1	0	1	0	0
+cerebellar Purkinje cell precursor proliferation	GO_0021925	1	0	1	0	0
+globose nucleus development	GO_0021736	0	1	0	0	0
+fastigial nucleus development	GO_0021738	0	1	0	0	0
+eurydendroid cell differentiation	GO_0021755	0	1	0	0	0
+emboliform nucleus development	GO_0021737	0	1	0	0	0
+dentate nucleus development	GO_0021735	0	1	0	0	0
+cerebellum vasculature morphogenesis	GO_0061301	0	1	0	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0
+candelabrum cell differentiation	GO_0021712	0	1	0	0	0
+Lugaro cell differentiation	GO_0021708	0	1	0	0	0

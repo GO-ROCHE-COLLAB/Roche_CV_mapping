@@ -1,0 +1,40 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+induction of positive chemotaxis	GO_0050930	1	0	1	0	0
+induction of negative chemotaxis	GO_0050929	1	0	1	0	0
+smooth muscle cell chemotaxis	GO_0071670	0	1	0	0	0
+plasmacytoid dendritic cell chemotaxis	GO_0002410	0	1	0	0	0
+neutrophil chemotaxis	GO_0030593	0	1	0	0	0
+natural killer cell chemotaxis	GO_0035747	0	1	0	0	0
+myeloid dendritic cell chemotaxis	GO_0002408	0	1	0	0	0
+muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	0	0	0
+monocyte chemotaxis	GO_0002548	0	1	0	0	0
+mature natural killer cell chemotaxis	GO_0035782	0	1	0	0	0
+mast cell chemotaxis	GO_0002551	0	1	0	0	0
+macrophage chemotaxis	GO_0048246	0	1	0	0	0
+lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0	0
+lymphocyte chemotaxis	GO_0048247	0	1	0	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
+leukocyte chemotaxis involved in immune response	GO_0002233	0	1	0	0	0
+leukocyte chemotaxis	GO_0030595	0	1	0	0	0
+helper T cell chemotaxis	GO_0035704	0	1	0	0	0
+granulocyte chemotaxis	GO_0071621	0	1	0	0	0
+germ cell repulsion	GO_0035233	0	1	0	0	0
+germ cell attraction	GO_0035232	0	1	0	0	0
+eosinophil chemotaxis	GO_0048245	0	1	0	0	0
+endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
+endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
+dendritic cell chemotaxis	GO_0002407	0	1	0	0	0
+colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
+cell chemotaxis to fibroblast growth factor	GO_0035766	0	1	0	0	0
+cell chemotaxis to angiotensin	GO_0071434	0	1	0	0	0
+cell chemotaxis involved in Malpighian tubule morphogenesis	GO_0061352	0	1	0	0	0
+cell chemotaxis	GO_0060326	0	1	0	0	0
+basophil chemotaxis	GO_0002575	0	1	0	0	0
+astrocyte chemotaxis	GO_0035700	0	1	0	0	0
+T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0	0
+T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0	0
+T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0	0
+T cell chemotaxis	GO_0010818	0	1	0	0	0
+Langerhans cell chemotaxis	GO_0002409	0	1	0	0	0
+B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0	0
+B cell chemotaxis	GO_0035754	0	1	0	0	0

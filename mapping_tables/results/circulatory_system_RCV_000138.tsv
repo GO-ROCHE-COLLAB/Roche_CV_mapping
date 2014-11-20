@@ -1,0 +1,42 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+circulatory system process	GO_0003013	1	1	1	0	0
+circulatory system development	GO_0072359	1	0	1	0	0
+vein smooth muscle contraction	GO_0014826	0	1	0	0	0
+vasomotion	GO_1990029	0	1	0	0	0
+vasodilation of artery involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001984	0	1	0	0	0
+vasodilation involved in acute inflammatory response	GO_0002527	0	1	0	0	0
+vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure	GO_0002025	0	1	0	0	0
+vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	0	1	0	0	0
+vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure	GO_0003069	0	1	0	0	0
+vasodilation	GO_0042311	0	1	0	0	0
+vasoconstriction of artery involved in ischemic response to lowering of systemic arterial blood pressure	GO_0002014	0	1	0	0	0
+vasoconstriction of artery involved in chemoreceptor response to lowering of systemic arterial blood pressure	GO_0002012	0	1	0	0	0
+vasoconstriction of artery involved in carotid body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003042	0	1	0	0	0
+vasoconstriction of artery involved in baroreceptor response to lowering of systemic arterial blood pressure	GO_0001987	0	1	0	0	0
+vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003043	0	1	0	0	0
+vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	0	1	0	0	0
+vasoconstriction	GO_0042310	0	1	0	0	0
+vascular smooth muscle contraction	GO_0014829	0	1	0	0	0
+vascular process in circulatory system	GO_0003018	0	1	0	0	0
+regulation of vascular permeability involved in acute inflammatory response	GO_0002528	0	1	0	0	0
+regulation of vascular permeability	GO_0043114	0	1	0	0	0
+regulation of systemic arterial blood pressure by atrial baroreceptor feedback	GO_0002015	0	1	0	0	0
+regulation of lymphatic vessel size	GO_1990186	0	1	0	0	0
+regulation of lymphatic vascular permeability	GO_1990185	0	1	0	0	0
+regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	0	0	0
+regulation of blood vessel size	GO_0050880	0	1	0	0	0
+positive regulation of vascular permeability	GO_0043117	0	1	0	0	0
+norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001994	0	1	0	0	0
+negative regulation of vascular permeability	GO_0043116	0	1	0	0	0
+lymphatic vascular process in circulatory system	GO_1990183	0	1	0	0	0
+lymph circulation	GO_0003017	0	1	0	0	0
+heart process	GO_0003015	0	1	0	0	0
+heart contraction	GO_0060047	0	1	0	0	0
+collecting lymphatic vessel constriction	GO_1990192	0	1	0	0	0
+blood circulation	GO_0008015	0	1	0	0	0
+baroreceptor detection of increased arterial stretch	GO_0003023	0	1	0	0	0
+baroreceptor detection of decreased arterial stretch	GO_0003024	0	1	0	0	0
+baroreceptor detection of arterial stretch	GO_0001981	0	1	0	0	0
+artery smooth muscle contraction	GO_0014824	0	1	0	0	0
+arteriole smooth muscle contraction	GO_0014830	0	1	0	0	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	0	0	0

@@ -11,19 +11,19 @@ age-dependent general metabolic decline involved in replicative cell aging	GO_00
 age-dependent general metabolic decline involved in chronological cell aging	GO_0001323	1	1	1	0	0
 accumulation of oxidatively modified proteins involved in replicative cell aging	GO_0001317	1	1	1	0	0
 cellular age-dependent response to reactive oxygen species	GO_0072353	1	0	1	0	0
-cell aging (sensu Saccharomyces)	GO_0007574	1	0	0	1	1
-cell aging (sensu Fungi)	GO_0030463	1	0	0	1	1
-aging dependent sterility (sensu Saccharomyces)	GO_0007578	1	0	0	1	1
-aging dependent sterility (sensu Fungi)	GO_0030464	1	0	0	1	1
+cell aging (sensu Saccharomyces)	GO_0007574	1	0	1	1	1
+cell aging (sensu Fungi)	GO_0030463	1	0	1	1	1
+aging dependent sterility (sensu Saccharomyces)	GO_0007578	1	0	1	1	1
+aging dependent sterility (sensu Fungi)	GO_0030464	1	0	1	1	1
 aging	GO_0007568	1	0	1	0	0
-age-dependent yeast cell size increase	GO_0007581	1	0	0	1	1
+age-dependent yeast cell size increase	GO_0007581	1	0	1	1	1
 age-dependent response to reactive oxygen species	GO_0001315	1	0	1	0	0
 age-dependent response to oxidative stress	GO_0001306	1	0	1	0	0
 age-dependent general metabolic decline	GO_0007571	1	0	1	0	0
 age-dependent behavioral decline	GO_0035982	1	0	1	0	0
-age dependent increased protein content	GO_0007573	1	0	0	1	1
-age dependent decreased translational activity	GO_0007572	1	0	0	1	1
-age dependent accumulation of genetic damage	GO_0007570	1	0	0	1	1
+age dependent increased protein content	GO_0007573	1	0	1	1	1
+age dependent decreased translational activity	GO_0007572	1	0	1	1	1
+age dependent accumulation of genetic damage	GO_0007570	1	0	1	1	1
 viral-induced premature senescence	GO_0090401	0	1	1	0	0
 replicative senescence	GO_0090399	0	1	1	0	0
 replicative cell aging	GO_0001302	0	1	1	0	0

@@ -43,11 +43,6 @@ response to hermaphrodite contact	GO_0034606	0	1	0	0	0
 reproductive behavior	GO_0019098	0	1	0	0	0
 regulation of female receptivity, post-mating	GO_0046008	0	1	0	0	0
 regulation of female receptivity	GO_0045924	0	1	0	0	0
-regulation of circadian sleep/wake cycle, wakefulness	GO_0010840	0	1	0	0	0
-regulation of circadian sleep/wake cycle, sleep	GO_0045187	0	1	0	0	0
-regulation of circadian sleep/wake cycle, non-REM sleep	GO_0045188	0	1	0	0	0
-regulation of circadian sleep/wake cycle, REM sleep	GO_0042320	0	1	0	0	0
-regulation of circadian sleep/wake cycle	GO_0042749	0	1	0	0	0
 reduction of food intake in response to dietary excess	GO_0002023	0	1	0	0	0
 psychomotor behavior	GO_0036343	0	1	0	0	0
 proboscis extension reflex	GO_0007637	0	1	0	0	0
@@ -56,22 +51,6 @@ post-mating oviposition	GO_0060403	0	1	0	0	0
 post-mating behavior	GO_0045297	0	1	0	0	0
 positive regulation of female receptivity, post-mating	GO_0046009	0	1	0	0	0
 positive regulation of female receptivity	GO_0045925	0	1	0	0	0
-positive regulation of circadian sleep/wake cycle, wakefulness	GO_0010841	0	1	0	0	0
-positive regulation of circadian sleep/wake cycle, sleep	GO_0045938	0	1	0	0	0
-positive regulation of circadian sleep/wake cycle, non-REM sleep	GO_0046010	0	1	0	0	0
-positive regulation of circadian sleep/wake cycle, REM sleep	GO_0046005	0	1	0	0	0
-positive chemotaxis on or near other organism involved in symbiotic interaction	GO_0052241	0	1	0	0	0
-positive chemotaxis on or near host	GO_0052141	0	1	0	0	0
-positive chemotaxis in other organism involved in symbiotic interaction	GO_0052240	0	1	0	0	0
-positive chemotaxis in host environment	GO_0052121	0	1	0	0	0
-positive chemotaxis in host	GO_0052140	0	1	0	0	0
-positive chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052221	0	1	0	0	0
-positive aerotaxis on or near other organism involved in symbiotic interaction	GO_0052232	0	1	0	0	0
-positive aerotaxis on or near host	GO_0052132	0	1	0	0	0
-positive aerotaxis in other organism involved in symbiotic interaction	GO_0052233	0	1	0	0	0
-positive aerotaxis in host environment	GO_0052120	0	1	0	0	0
-positive aerotaxis in host	GO_0052133	0	1	0	0	0
-positive aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052220	0	1	0	0	0
 pharyngeal pumping	GO_0043050	0	1	0	0	0
 pattern orientation	GO_0007633	0	1	0	0	0
 paternal behavior	GO_0042712	0	1	0	0	0
@@ -87,21 +66,6 @@ observational learning	GO_0098597	0	1	0	0	0
 nonassociative learning	GO_0046958	0	1	0	0	0
 negative regulation of female receptivity, post-mating	GO_0045434	0	1	0	0	0
 negative regulation of female receptivity	GO_0007621	0	1	0	0	0
-negative regulation of circadian sleep/wake cycle, sleep	GO_0042321	0	1	0	0	0
-negative regulation of circadian sleep/wake cycle, non-REM sleep	GO_0042323	0	1	0	0	0
-negative regulation of circadian sleep/wake cycle, REM sleep	GO_0042322	0	1	0	0	0
-negative chemotaxis on or near other organism involved in symbiotic interaction	GO_0052236	0	1	0	0	0
-negative chemotaxis on or near host	GO_0052136	0	1	0	0	0
-negative chemotaxis in other organism involved in symbiotic interaction	GO_0052239	0	1	0	0	0
-negative chemotaxis in host environment	GO_0052123	0	1	0	0	0
-negative chemotaxis in host	GO_0052139	0	1	0	0	0
-negative chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052223	0	1	0	0	0
-negative aerotaxis on or near other organism involved in symbiotic interaction	GO_0052234	0	1	0	0	0
-negative aerotaxis on or near host	GO_0052134	0	1	0	0	0
-negative aerotaxis in other organism involved in symbiotic interaction	GO_0052235	0	1	0	0	0
-negative aerotaxis in host environment	GO_0052122	0	1	0	0	0
-negative aerotaxis in host	GO_0052135	0	1	0	0	0
-negative aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052222	0	1	0	0	0
 multicellular organismal reproductive behavior	GO_0033057	0	1	0	0	0
 multi-organism reproductive behavior	GO_0044705	0	1	0	0	0
 memory	GO_0007613	0	1	0	0	0
@@ -155,12 +119,6 @@ foraging behavior	GO_0060756	0	1	0	0	0
 flight behavior	GO_0007629	0	1	0	0	0
 female mating behavior	GO_0060180	0	1	0	0	0
 female courtship behavior	GO_0008050	0	1	0	0	0
-feeding on or from other organism	GO_0044366	0	1	0	0	0
-feeding on blood of other organism	GO_0044369	0	1	0	0	0
-feeding from xylem of other organism	GO_0044372	0	1	0	0	0
-feeding from vascular tissue of another organism	GO_0044368	0	1	0	0	0
-feeding from tissue of other organism	GO_0044367	0	1	0	0	0
-feeding from phloem of other organism	GO_0044371	0	1	0	0	0
 feeding behavior	GO_0007631	0	1	0	0	0
 fear-induced aggressive behavior	GO_0002122	0	1	0	0	0
 exploration behavior	GO_0035640	0	1	0	0	0
@@ -251,12 +209,6 @@ circadian sleep/wake cycle process	GO_0022410	0	1	0	0	0
 circadian sleep/wake cycle	GO_0042745	0	1	0	0	0
 circadian mating behavior	GO_0035648	0	1	0	0	0
 circadian behavior	GO_0048512	0	1	0	0	0
-chemotaxis within host	GO_0052142	0	1	0	0	0
-chemotaxis on or near other organism involved in symbiotic interaction	GO_0052243	0	1	0	0	0
-chemotaxis on or near host involved in symbiotic interaction	GO_0052143	0	1	0	0	0
-chemotaxis in other organism involved in symbiotic interaction	GO_0052242	0	1	0	0	0
-chemotaxis in host environment	GO_0052116	0	1	0	0	0
-chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052216	0	1	0	0	0
 chemosensory jump behavior	GO_0007636	0	1	0	0	0
 chemosensory behavior	GO_0007635	0	1	0	0	0
 behavior	GO_0007610	0	1	0	0	0
@@ -264,12 +216,6 @@ auditory behavior	GO_0031223	0	1	0	0	0
 angiotensin-mediated drinking behavior	GO_0003051	0	1	0	0	0
 anesthesia-resistant memory	GO_0007615	0	1	0	0	0
 aggressive behavior	GO_0002118	0	1	0	0	0
-aerotaxis on or near other organism involved in symbiotic interaction	GO_0052238	0	1	0	0	0
-aerotaxis on or near host	GO_0052138	0	1	0	0	0
-aerotaxis in other organism involved in symbiotic interaction	GO_0052237	0	1	0	0	0
-aerotaxis in host environment	GO_0052117	0	1	0	0	0
-aerotaxis in host	GO_0052137	0	1	0	0	0
-aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052217	0	1	0	0	0
 adult locomotory behavior	GO_0008344	0	1	0	0	0
 adult foraging behavior	GO_0060757	0	1	0	0	0
 adult feeding behavior	GO_0008343	0	1	0	0	0

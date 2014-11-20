@@ -1,0 +1,27 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+calcium-mediated signaling using intracellular calcium source	GO_0035584	1	1	1	0	0
+calcium-mediated signaling using extracellular calcium source	GO_0035585	1	1	1	0	0
+calcium-mediated signaling	GO_0019722	1	1	1	0	0
+calcium-o-sensing receptor pathway	GO_0007230	1	0	1	1	1
+calcium or calmodulin-mediated activation of appressorium formation	GO_0075020	1	0	1	0	0
+calcium ion-dependent exocytosis	GO_0017156	1	0	1	0	0
+calcium ion transport into cytosol	GO_0060402	1	0	1	0	0
+calcium ion transport	GO_0006816	1	0	1	0	0
+calcium ion transmembrane transport	GO_0070588	1	0	1	0	0
+calcium ion import	GO_0070509	1	0	1	0	0
+calcium ion homeostasis	GO_0055074	1	0	1	0	0
+calcium incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide	GO_0030926	1	0	1	0	0
+calcium incorporation into metallo-oxygen cluster	GO_0030925	1	0	1	0	0
+regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling	GO_1900621	0	1	0	0	0
+regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014809	0	1	0	0	0
+regulation of skeletal muscle contraction by modulation of calcium ion sensitivity of myofibril	GO_0014723	0	1	0	0	0
+regulation of skeletal muscle contraction by calcium ion signaling	GO_0014722	0	1	0	0	0
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	GO_0010881	0	1	0	0	0
+regulation of cardiac muscle contraction by calcium ion signaling	GO_0010882	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling	GO_1900622	0	1	0	0	0
+positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014810	0	1	0	0	0
+positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	0	0	0
+negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014811	0	1	0	0	0
+cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration	GO_0021808	0	1	0	0	0
+calcineurin-NFAT signaling cascade	GO_0033173	0	1	0	0	0
+activation of phospholipase A2 activity by calcium-mediated signaling	GO_0043006	0	1	0	0	0

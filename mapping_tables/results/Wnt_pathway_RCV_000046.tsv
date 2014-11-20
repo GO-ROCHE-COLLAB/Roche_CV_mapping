@@ -1,0 +1,128 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of non-canonical Wnt signaling pathway via JNK cascade	GO_1901229	1	1	1	0	0
+regulation of non-canonical Wnt signaling pathway	GO_2000050	1	1	1	0	0
+regulation of heart induction by regulation of canonical Wnt signaling pathway	GO_0090081	1	1	1	0	0
+regulation of hair cycle by canonical Wnt signaling pathway	GO_0060901	1	1	1	0	0
+regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	1	1	1	0	0
+regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation	GO_0060827	1	1	1	0	0
+regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072335	1	1	1	0	0
+regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation	GO_2000079	1	1	1	0	0
+regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901295	1	1	1	0	0
+regulation of canonical Wnt signaling pathway	GO_0060828	1	1	1	0	0
+regulation of Wnt signaling pathway, planar cell polarity pathway	GO_2000095	1	1	1	0	0
+regulation of Wnt signaling pathway, calcium modulating pathway	GO_0008591	1	1	1	0	0
+regulation of Wnt signaling pathway involved in heart development	GO_0003307	1	1	1	0	0
+regulation of Wnt signaling pathway involved in dorsal/ventral axis specification	GO_2000053	1	1	1	0	0
+regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000056	1	1	1	0	0
+regulation of Wnt signaling pathway by Wnt protein secretion	GO_0061359	1	1	1	0	0
+regulation of Wnt signaling pathway	GO_0030111	1	1	1	0	0
+receptor internalization involved in canonical Wnt signaling pathway	GO_2000286	1	1	1	0	0
+positive regulation of posterior neural plate formation by Wnt signaling pathway	GO_0090021	1	1	1	0	0
+positive regulation of non-canonical Wnt signaling pathway via JNK cascade	GO_1901231	1	1	1	0	0
+positive regulation of non-canonical Wnt signaling pathway	GO_2000052	1	1	1	0	0
+positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway	GO_0090082	1	1	1	0	0
+positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072381	1	1	1	0	0
+positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation	GO_2000081	1	1	1	0	0
+positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901297	1	1	1	0	0
+positive regulation of canonical Wnt signaling pathway	GO_0090263	1	1	1	0	0
+positive regulation of Wnt signaling pathway, planar cell polarity pathway	GO_2000096	1	1	1	0	0
+positive regulation of Wnt signaling pathway, calcium modulating pathway	GO_0045813	1	1	1	0	0
+positive regulation of Wnt signaling pathway involved in dorsal/ventral axis specification	GO_2000055	1	1	1	0	0
+positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region	GO_0035593	1	1	1	0	0
+positive regulation of Wnt signaling pathway by Wnt receptor internalization	GO_0038013	1	1	1	0	0
+positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	1	1	1	0	0
+positive regulation of Wnt signaling pathway	GO_0030177	1	1	1	0	0
+non-canonical Wnt signaling pathway via MAPK cascade	GO_0038030	1	1	1	0	0
+non-canonical Wnt signaling pathway via JNK cascade	GO_0038031	1	1	1	0	0
+non-canonical Wnt signaling pathway involved in heart development	GO_0061341	1	1	1	0	0
+non-canonical Wnt signaling pathway	GO_0035567	1	1	1	0	0
+negative regulation of non-canonical Wnt signaling pathway via JNK cascade	GO_1901230	1	1	1	0	0
+negative regulation of non-canonical Wnt signaling pathway	GO_2000051	1	1	1	0	0
+negative regulation of heart induction by canonical Wnt signaling pathway	GO_0003136	1	1	1	0	0
+negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation	GO_0060829	1	1	1	0	0
+negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072336	1	1	1	0	0
+negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation	GO_2000080	1	1	1	0	0
+negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901296	1	1	1	0	0
+negative regulation of canonical Wnt signaling pathway	GO_0090090	1	1	1	0	0
+negative regulation of anterior neural cell fate commitment of the neural plate by Wnt signaling pathway	GO_0022002	1	1	1	0	0
+negative regulation of Wnt signaling pathway, calcium modulating pathway	GO_0045812	1	1	1	0	0
+negative regulation of Wnt signaling pathway involved in heart development	GO_0003308	1	1	1	0	0
+negative regulation of Wnt signaling pathway involved in dorsal/ventral axis specification	GO_2000054	1	1	1	0	0
+negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000057	1	1	1	0	0
+negative regulation of Wnt signaling pathway by Wnt receptor internalization	GO_0038012	1	1	1	0	0
+negative regulation of Wnt signaling pathway	GO_0030178	1	1	1	0	0
+canonical Wnt signaling pathway involved in ureteric bud branching	GO_0061291	1	1	1	0	0
+canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation	GO_0044343	1	1	1	0	0
+canonical Wnt signaling pathway involved in regulation of cell proliferation	GO_0044340	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of wound healing	GO_0044330	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation	GO_0003267	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition	GO_0044334	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of endothelial cell migration	GO_0044328	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of cell-cell adhesion	GO_0044329	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation	GO_0061324	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation	GO_0061315	1	1	1	0	0
+canonical Wnt signaling pathway involved in positive regulation of apoptotic process	GO_0044337	1	1	1	0	0
+canonical Wnt signaling pathway involved in osteoblast differentiation	GO_0044339	1	1	1	0	0
+canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation	GO_0060823	1	1	1	0	0
+canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0044335	1	1	1	0	0
+canonical Wnt signaling pathway involved in negative regulation of apoptotic process	GO_0044336	1	1	1	0	0
+canonical Wnt signaling pathway involved in metanephric kidney development	GO_0061290	1	1	1	0	0
+canonical Wnt signaling pathway involved in mesonephros development	GO_0061292	1	1	1	0	0
+canonical Wnt signaling pathway involved in mesonephric nephron development	GO_0061293	1	1	1	0	0
+canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation	GO_0044338	1	1	1	0	0
+canonical Wnt signaling pathway involved in heart development	GO_0061316	1	1	1	0	0
+canonical Wnt signaling pathway involved in cardiac neural crest cell differentiation involved in heart development	GO_0061310	1	1	1	0	0
+canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_0061317	1	1	1	0	0
+canonical Wnt signaling pathway	GO_0060070	1	1	1	0	0
+Wnt-activated signaling pathway involved in forebrain neuron fate commitment	GO_0021881	1	1	1	0	0
+Wnt signaling pathway, regulating spindle positioning	GO_0060069	1	1	1	0	0
+Wnt signaling pathway, planar cell polarity pathway	GO_0060071	1	1	1	0	0
+Wnt signaling pathway, calcium modulating pathway	GO_0007223	1	1	1	0	0
+Wnt signaling pathway involved in wound healing, spreading of epidermal cells	GO_0035659	1	1	1	0	0
+Wnt signaling pathway involved in somitogenesis	GO_0090244	1	1	1	0	0
+Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord	GO_0021922	1	1	1	0	0
+Wnt signaling pathway involved in primitive streak formation	GO_0090011	1	1	1	0	0
+Wnt signaling pathway involved in mammary gland specification	GO_0060593	1	1	1	0	0
+Wnt signaling pathway involved in kidney development	GO_0061289	1	1	1	0	0
+Wnt signaling pathway involved in heart development	GO_0003306	1	1	1	0	0
+Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	1	1	1	0	0
+Wnt signaling pathway involved in dorsal/ventral axis specification	GO_0044332	1	1	1	0	0
+Wnt signaling pathway involved in digestive tract morphogenesis	GO_0044333	1	1	1	0	0
+Wnt signaling pathway involved in animal/vegetal axis specification	GO_0060833	1	1	1	0	0
+Wnt signaling pathway	GO_0016055	1	1	1	0	0
+regulation of Wnt protein secretion	GO_0061356	1	0	1	0	0
+positive regulation of Wnt protein secretion	GO_0061357	1	0	1	0	0
+negative regulation of Wnt protein secretion	GO_0061358	1	0	1	0	0
+Wnt receptor recycling	GO_0038019	1	0	1	0	0
+Wnt receptor internalization	GO_0038017	1	0	1	0	0
+Wnt receptor catabolic process	GO_0038018	1	0	1	0	0
+Wnt protein secretion	GO_0061355	1	0	1	0	0
+regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000148	0	1	0	0	0
+regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000165	0	1	0	0	0
+regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000163	0	1	0	0	0
+regulation of planar cell polarity pathway involved in neural tube closure	GO_2000167	0	1	0	0	0
+regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000159	0	1	0	0	0
+regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000161	0	1	0	0	0
+regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000150	0	1	0	0	0
+regulation of planar cell polarity pathway involved in axis elongation	GO_2000040	0	1	0	0	0
+regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	0	0	0
+positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway	GO_1902844	0	1	0	0	0
+planar cell polarity pathway involved in ventricular septum morphogenesis	GO_0061348	0	1	0	0	0
+planar cell polarity pathway involved in pericardium morphogenesis	GO_0061354	0	1	0	0	0
+planar cell polarity pathway involved in outflow tract morphogenesis	GO_0061347	0	1	0	0	0
+planar cell polarity pathway involved in neural tube closure	GO_0090179	0	1	0	0	0
+planar cell polarity pathway involved in heart morphogenesis	GO_0061346	0	1	0	0	0
+planar cell polarity pathway involved in gastrula mediolateral intercalation	GO_0060775	0	1	0	0	0
+planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_0061349	0	1	0	0	0
+planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_0061350	0	1	0	0	0
+planar cell polarity pathway involved in cardiac muscle cell fate commitment	GO_0061345	0	1	0	0	0
+planar cell polarity pathway involved in axis elongation	GO_0003402	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000149	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000166	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000164	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in neural tube closure	GO_2000168	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000160	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000162	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000151	0	1	0	0	0
+negative regulation of planar cell polarity pathway involved in axis elongation	GO_2000041	0	1	0	0	0
+coreceptor activity involved in Wnt signaling pathway	GO_0071936	0	1	0	0	0

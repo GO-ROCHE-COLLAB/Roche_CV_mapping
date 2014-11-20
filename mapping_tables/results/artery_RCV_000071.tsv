@@ -5,7 +5,7 @@ ascending aorta morphogenesis	GO_0035910	1	1	1	0	0
 ascending aorta development	GO_0035905	1	1	1	0	0
 artery morphogenesis	GO_0048844	1	1	1	0	0
 artery development	GO_0060840	1	1	1	0	0
-ascending thin limb development	GO_0072021	1	0	0	1	0
+ascending thin limb development	GO_0072021	1	0	1	1	0
 artery smooth muscle contraction	GO_0014824	1	0	1	0	0
 renal artery morphogenesis	GO_0061441	0	1	1	0	0
 pulmonary artery morphogenesis	GO_0061156	0	1	1	0	0

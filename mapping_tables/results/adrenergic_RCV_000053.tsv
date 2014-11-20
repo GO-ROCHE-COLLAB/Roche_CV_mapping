@@ -13,7 +13,7 @@ negative regulation of adrenergic receptor signaling pathway	GO_0071878	1	1	1	0	
 adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	1	1	1	0	0
 adenylate cyclase-inhibiting adrenergic receptor signaling pathway	GO_0071881	1	1	1	0	0
 adenylate cyclase-activating adrenergic receptor signaling pathway	GO_0071880	1	1	1	0	0
-initiation of adrenergic receptor signal transduction	GO_0071876	1	0	0	1	1
+initiation of adrenergic receptor signal transduction	GO_0071876	1	0	1	1	1
 regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903245	0	1	1	0	0
 positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903247	0	1	1	0	0
 negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903246	0	1	1	0	0

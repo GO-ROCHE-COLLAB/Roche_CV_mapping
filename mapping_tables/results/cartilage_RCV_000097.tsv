@@ -1,0 +1,53 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cartilage morphogenesis	GO_0060536	1	1	1	0	0
+cartilage development involved in endochondral bone morphogenesis	GO_0060351	1	1	1	0	0
+cartilage development	GO_0051216	1	1	1	0	0
+cartilage condensation	GO_0001502	1	1	1	0	0
+trachea cartilage morphogenesis	GO_0060535	0	1	0	0	0
+trachea cartilage development	GO_0060534	0	1	0	0	0
+smoothened signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003435	0	1	0	0	0
+regulation of growth plate cartilage chondrocyte proliferation	GO_0003420	0	1	0	0	0
+regulation of growth plate cartilage chondrocyte differentiation	GO_1902733	0	1	0	0	0
+regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	0	0	0
+regulation of chondrocyte hypertrophy	GO_1903041	0	1	0	0	0
+regulation of chondrocyte differentiation involved in endochondral bone morphogenesis	GO_1902738	0	1	0	0	0
+regulation of chondrocyte differentiation	GO_0032330	0	1	0	0	0
+regulation of chondrocyte development	GO_0061181	0	1	0	0	0
+regulation of cell communication involved in growth plate cartilage morphogenesis	GO_0003437	0	1	0	0	0
+regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	0	1	0	0	0
+regulation of cartilage development	GO_0061035	0	1	0	0	0
+regulation of cartilage condensation	GO_1902026	0	1	0	0	0
+positive regulation of chondrocyte hypertrophy	GO_1903043	0	1	0	0	0
+positive regulation of chondrocyte differentiation	GO_0032332	0	1	0	0	0
+positive regulation of chondrocyte development	GO_1902761	0	1	0	0	0
+positive regulation of cartilage development	GO_0061036	0	1	0	0	0
+positive regulation of cartilage condensation	GO_1902027	0	1	0	0	0
+negative regulation of chondrocyte hypertrophy	GO_1903042	0	1	0	0	0
+negative regulation of chondrocyte differentiation	GO_0032331	0	1	0	0	0
+negative regulation of chondrocyte development	GO_0061182	0	1	0	0	0
+negative regulation of cartilage development	GO_0061037	0	1	0	0	0
+growth plate cartilage morphogenesis	GO_0003422	0	1	0	0	0
+growth plate cartilage development	GO_0003417	0	1	0	0	0
+growth plate cartilage chondrocyte proliferation	GO_0003419	0	1	0	0	0
+growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	0	0	0
+growth plate cartilage chondrocyte growth	GO_0003430	0	1	0	0	0
+growth plate cartilage chondrocyte division	GO_0003423	0	1	0	0	0
+growth plate cartilage chondrocyte differentiation	GO_0003418	0	1	0	0	0
+growth plate cartilage chondrocyte development	GO_0003431	0	1	0	0	0
+growth plate cartilage axis specification	GO_0003421	0	1	0	0	0
+establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division	GO_0003425	0	1	0	0	0
+establishment of cell polarity involved in growth plate cartilage chondrocyte division	GO_0003424	0	1	0	0	0
+cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003426	0	1	0	0	0
+chondrocyte morphogenesis involved in endochondral bone morphogenesis	GO_0003414	0	1	0	0	0
+chondrocyte morphogenesis	GO_0090171	0	1	0	0	0
+chondrocyte intercalation involved in growth plate cartilage morphogenesis	GO_0003428	0	1	0	0	0
+chondrocyte hypertrophy	GO_0003415	0	1	0	0	0
+chondrocyte differentiation involved in endochondral bone morphogenesis	GO_0003413	0	1	0	0	0
+chondrocyte differentiation	GO_0002062	0	1	0	0	0
+chondrocyte development involved in endochondral bone morphogenesis	GO_0003433	0	1	0	0	0
+chondrocyte development	GO_0002063	0	1	0	0	0
+chondroblast differentiation	GO_0060591	0	1	0	0	0
+cell growth involved in growth plate cartilage chondrocyte morphogenesis	GO_0003432	0	1	0	0	0
+bronchus cartilage morphogenesis	GO_0060533	0	1	0	0	0
+bronchus cartilage development	GO_0060532	0	1	0	0	0
+BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	0	0	0

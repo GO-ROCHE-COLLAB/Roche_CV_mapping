@@ -1,0 +1,40 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of circadian sleep/wake cycle, wakefulness	GO_0010840	1	1	1	0	0
+regulation of circadian sleep/wake cycle, sleep	GO_0045187	1	1	1	0	0
+regulation of circadian sleep/wake cycle, non-REM sleep	GO_0045188	1	1	1	0	0
+regulation of circadian sleep/wake cycle, REM sleep	GO_0042320	1	1	1	0	0
+regulation of circadian sleep/wake cycle	GO_0042749	1	1	1	0	0
+regulation of circadian rhythm	GO_0042752	1	1	1	0	0
+positive regulation of circadian sleep/wake cycle, wakefulness	GO_0010841	1	1	1	0	0
+positive regulation of circadian sleep/wake cycle, sleep	GO_0045938	1	1	1	0	0
+positive regulation of circadian sleep/wake cycle, non-REM sleep	GO_0046010	1	1	1	0	0
+positive regulation of circadian sleep/wake cycle, REM sleep	GO_0046005	1	1	1	0	0
+negative regulation of circadian sleep/wake cycle, sleep	GO_0042321	1	1	1	0	0
+negative regulation of circadian sleep/wake cycle, non-REM sleep	GO_0042323	1	1	1	0	0
+negative regulation of circadian sleep/wake cycle, REM sleep	GO_0042322	1	1	1	0	0
+circadian temperature homeostasis	GO_0060086	1	1	1	0	0
+circadian sleep/wake cycle, wakefulness	GO_0042746	1	1	1	0	0
+circadian sleep/wake cycle, sleep	GO_0050802	1	1	1	0	0
+circadian sleep/wake cycle, non-REM sleep	GO_0042748	1	1	1	0	0
+circadian sleep/wake cycle, REM sleep	GO_0042747	1	1	1	0	0
+circadian sleep/wake cycle process	GO_0022410	1	1	1	0	0
+circadian sleep/wake cycle	GO_0042745	1	1	1	0	0
+circadian rhythm	GO_0007623	1	1	1	0	0
+circadian regulation of translation	GO_0097167	1	1	1	0	0
+circadian regulation of heart rate by the suprachiasmatic nucleus	GO_0003055	1	1	1	0	0
+circadian regulation of heart rate	GO_0003053	1	1	1	0	0
+circadian regulation of gene expression	GO_0032922	1	1	1	0	0
+circadian regulation of calcium ion oscillation	GO_0010617	1	1	1	0	0
+circadian mating behavior	GO_0035648	1	1	1	0	0
+circadian behavior	GO_0048512	1	1	1	0	0
+sleep	GO_0030431	1	0	1	0	0
+temperature compensation of the circadian clock	GO_0010378	0	1	0	0	0
+positive regulation of circadian rhythm	GO_0042753	0	1	0	0	0
+negative regulation of circadian rhythm	GO_0042754	0	1	0	0	0
+locomotor rhythm	GO_0045475	0	1	0	0	0
+entrainment of circadian clock by photoperiod	GO_0043153	0	1	0	0	0
+entrainment of circadian clock	GO_0009649	0	1	0	0	0
+eclosion rhythm	GO_0008062	0	1	0	0	0
+circadian regulation of systemic arterial blood pressure by the suprachiasmatic nucleus	GO_0003054	0	1	0	0	0
+circadian regulation of systemic arterial blood pressure by hormone	GO_0003067	0	1	0	0	0
+circadian regulation of systemic arterial blood pressure	GO_0003052	0	1	0	0	0

@@ -1132,6 +1132,7 @@ RCV_000022	MAPK signalling	GO_0038081	MAP kinase kinase kinase activity involved
 RCV_000022	MAPK signalling	GO_0008349	MAP kinase kinase kinase kinase activity
 RCV_000022	MAPK signalling	GO_0000165	MAPK cascade
 RCV_000022	MAPK signalling	GO_1990263	MAPK cascade in response to starvation
+RCV_000022	MAPK signalling	GO_1903616	MAPK cascade involved in axon regeneration
 RCV_000022	MAPK signalling	GO_0000196	MAPK cascade involved in cell wall organization or biogenesis
 RCV_000022	MAPK signalling	GO_0071507	MAPK cascade involved in conjugation with cellular fusion
 RCV_000022	MAPK signalling	GO_0035420	MAPK cascade involved in innate immune response
@@ -1936,6 +1937,133 @@ RCV_000045	VEGF pathway	GO_1900748	positive regulation of vascular endothelial g
 RCV_000045	VEGF pathway	GO_1900746	regulation of vascular endothelial growth factor signaling pathway
 RCV_000045	VEGF pathway	GO_0038084	vascular endothelial growth factor signaling pathway
 RCV_000045	VEGF pathway	GO_0005021	vascular endothelial growth factor-activated receptor activity
+RCV_000046	Wnt pathway	GO_0061355	Wnt protein secretion
+RCV_000046	Wnt pathway	GO_0038018	Wnt receptor catabolic process
+RCV_000046	Wnt pathway	GO_0038017	Wnt receptor internalization
+RCV_000046	Wnt pathway	GO_0038019	Wnt receptor recycling
+RCV_000046	Wnt pathway	GO_0016055	Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0060833	Wnt signaling pathway involved in animal/vegetal axis specification
+RCV_000046	Wnt pathway	GO_0044333	Wnt signaling pathway involved in digestive tract morphogenesis
+RCV_000046	Wnt pathway	GO_0044332	Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000046	Wnt pathway	GO_0021874	Wnt signaling pathway involved in forebrain neuroblast division
+RCV_000046	Wnt pathway	GO_0003306	Wnt signaling pathway involved in heart development
+RCV_000046	Wnt pathway	GO_0061289	Wnt signaling pathway involved in kidney development
+RCV_000046	Wnt pathway	GO_0060593	Wnt signaling pathway involved in mammary gland specification
+RCV_000046	Wnt pathway	GO_0090011	Wnt signaling pathway involved in primitive streak formation
+RCV_000046	Wnt pathway	GO_0021922	Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord
+RCV_000046	Wnt pathway	GO_0090244	Wnt signaling pathway involved in somitogenesis
+RCV_000046	Wnt pathway	GO_0035659	Wnt signaling pathway involved in wound healing, spreading of epidermal cells
+RCV_000046	Wnt pathway	GO_0007223	Wnt signaling pathway, calcium modulating pathway
+RCV_000046	Wnt pathway	GO_0060071	Wnt signaling pathway, planar cell polarity pathway
+RCV_000046	Wnt pathway	GO_0060069	Wnt signaling pathway, regulating spindle positioning
+RCV_000046	Wnt pathway	GO_0021881	Wnt-activated signaling pathway involved in forebrain neuron fate commitment
+RCV_000046	Wnt pathway	GO_0060070	canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0061317	canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000046	Wnt pathway	GO_0061310	canonical Wnt signaling pathway involved in cardiac neural crest cell differentiation involved in heart development
+RCV_000046	Wnt pathway	GO_0061316	canonical Wnt signaling pathway involved in heart development
+RCV_000046	Wnt pathway	GO_0044338	canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation
+RCV_000046	Wnt pathway	GO_0061293	canonical Wnt signaling pathway involved in mesonephric nephron development
+RCV_000046	Wnt pathway	GO_0061292	canonical Wnt signaling pathway involved in mesonephros development
+RCV_000046	Wnt pathway	GO_0061290	canonical Wnt signaling pathway involved in metanephric kidney development
+RCV_000046	Wnt pathway	GO_0044336	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
+RCV_000046	Wnt pathway	GO_0044335	canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000046	Wnt pathway	GO_0060823	canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000046	Wnt pathway	GO_0044339	canonical Wnt signaling pathway involved in osteoblast differentiation
+RCV_000046	Wnt pathway	GO_0044337	canonical Wnt signaling pathway involved in positive regulation of apoptotic process
+RCV_000046	Wnt pathway	GO_0061315	canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation
+RCV_000046	Wnt pathway	GO_0061324	canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation
+RCV_000046	Wnt pathway	GO_0044329	canonical Wnt signaling pathway involved in positive regulation of cell-cell adhesion
+RCV_000046	Wnt pathway	GO_0044328	canonical Wnt signaling pathway involved in positive regulation of endothelial cell migration
+RCV_000046	Wnt pathway	GO_0044334	canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition
+RCV_000046	Wnt pathway	GO_0003267	canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation
+RCV_000046	Wnt pathway	GO_0044330	canonical Wnt signaling pathway involved in positive regulation of wound healing
+RCV_000046	Wnt pathway	GO_0044340	canonical Wnt signaling pathway involved in regulation of cell proliferation
+RCV_000046	Wnt pathway	GO_0044343	canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation
+RCV_000046	Wnt pathway	GO_0061291	canonical Wnt signaling pathway involved in ureteric bud branching
+RCV_000046	Wnt pathway	GO_0071936	coreceptor activity involved in Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0061358	negative regulation of Wnt protein secretion
+RCV_000046	Wnt pathway	GO_0030178	negative regulation of Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0038012	negative regulation of Wnt signaling pathway by Wnt receptor internalization
+RCV_000046	Wnt pathway	GO_2000057	negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis
+RCV_000046	Wnt pathway	GO_2000054	negative regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000046	Wnt pathway	GO_0003308	negative regulation of Wnt signaling pathway involved in heart development
+RCV_000046	Wnt pathway	GO_0045812	negative regulation of Wnt signaling pathway, calcium modulating pathway
+RCV_000046	Wnt pathway	GO_0022002	negative regulation of anterior neural cell fate commitment of the neural plate by Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0090090	negative regulation of canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1901296	negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000046	Wnt pathway	GO_2000080	negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+RCV_000046	Wnt pathway	GO_0072336	negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000046	Wnt pathway	GO_0060829	negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000046	Wnt pathway	GO_0003136	negative regulation of heart induction by canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_2000051	negative regulation of non-canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1901230	negative regulation of non-canonical Wnt signaling pathway via JNK cascade
+RCV_000046	Wnt pathway	GO_2000041	negative regulation of planar cell polarity pathway involved in axis elongation
+RCV_000046	Wnt pathway	GO_2000151	negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+RCV_000046	Wnt pathway	GO_2000162	negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
+RCV_000046	Wnt pathway	GO_2000160	negative regulation of planar cell polarity pathway involved in heart morphogenesis
+RCV_000046	Wnt pathway	GO_2000168	negative regulation of planar cell polarity pathway involved in neural tube closure
+RCV_000046	Wnt pathway	GO_2000164	negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis
+RCV_000046	Wnt pathway	GO_2000166	negative regulation of planar cell polarity pathway involved in pericardium morphogenesis
+RCV_000046	Wnt pathway	GO_2000149	negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
+RCV_000046	Wnt pathway	GO_0035567	non-canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0061341	non-canonical Wnt signaling pathway involved in heart development
+RCV_000046	Wnt pathway	GO_0038031	non-canonical Wnt signaling pathway via JNK cascade
+RCV_000046	Wnt pathway	GO_0038030	non-canonical Wnt signaling pathway via MAPK cascade
+RCV_000046	Wnt pathway	GO_0003402	planar cell polarity pathway involved in axis elongation
+RCV_000046	Wnt pathway	GO_0061345	planar cell polarity pathway involved in cardiac muscle cell fate commitment
+RCV_000046	Wnt pathway	GO_0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+RCV_000046	Wnt pathway	GO_0061349	planar cell polarity pathway involved in cardiac right atrium morphogenesis
+RCV_000046	Wnt pathway	GO_0060775	planar cell polarity pathway involved in gastrula mediolateral intercalation
+RCV_000046	Wnt pathway	GO_0061346	planar cell polarity pathway involved in heart morphogenesis
+RCV_000046	Wnt pathway	GO_0090179	planar cell polarity pathway involved in neural tube closure
+RCV_000046	Wnt pathway	GO_0061347	planar cell polarity pathway involved in outflow tract morphogenesis
+RCV_000046	Wnt pathway	GO_0061354	planar cell polarity pathway involved in pericardium morphogenesis
+RCV_000046	Wnt pathway	GO_0061348	planar cell polarity pathway involved in ventricular septum morphogenesis
+RCV_000046	Wnt pathway	GO_0061357	positive regulation of Wnt protein secretion
+RCV_000046	Wnt pathway	GO_0030177	positive regulation of Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0060804	positive regulation of Wnt signaling pathway by BMP signaling pathway
+RCV_000046	Wnt pathway	GO_0038013	positive regulation of Wnt signaling pathway by Wnt receptor internalization
+RCV_000046	Wnt pathway	GO_0035593	positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region
+RCV_000046	Wnt pathway	GO_2000055	positive regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000046	Wnt pathway	GO_0045813	positive regulation of Wnt signaling pathway, calcium modulating pathway
+RCV_000046	Wnt pathway	GO_2000096	positive regulation of Wnt signaling pathway, planar cell polarity pathway
+RCV_000046	Wnt pathway	GO_0090263	positive regulation of canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1901297	positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000046	Wnt pathway	GO_2000081	positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+RCV_000046	Wnt pathway	GO_0072381	positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000046	Wnt pathway	GO_0090082	positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_2000052	positive regulation of non-canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1901231	positive regulation of non-canonical Wnt signaling pathway via JNK cascade
+RCV_000046	Wnt pathway	GO_0090021	positive regulation of posterior neural plate formation by Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1902844	positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_2000286	receptor internalization involved in canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0061356	regulation of Wnt protein secretion
+RCV_000046	Wnt pathway	GO_0030111	regulation of Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0061359	regulation of Wnt signaling pathway by Wnt protein secretion
+RCV_000046	Wnt pathway	GO_2000056	regulation of Wnt signaling pathway involved in digestive tract morphogenesis
+RCV_000046	Wnt pathway	GO_2000053	regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+RCV_000046	Wnt pathway	GO_0003307	regulation of Wnt signaling pathway involved in heart development
+RCV_000046	Wnt pathway	GO_0008591	regulation of Wnt signaling pathway, calcium modulating pathway
+RCV_000046	Wnt pathway	GO_2000095	regulation of Wnt signaling pathway, planar cell polarity pathway
+RCV_000046	Wnt pathway	GO_0060828	regulation of canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1901295	regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+RCV_000046	Wnt pathway	GO_2000079	regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+RCV_000046	Wnt pathway	GO_0072335	regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000046	Wnt pathway	GO_0060827	regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000046	Wnt pathway	GO_0061342	regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0003427	regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000046	Wnt pathway	GO_0060901	regulation of hair cycle by canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_0090081	regulation of heart induction by regulation of canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_2000050	regulation of non-canonical Wnt signaling pathway
+RCV_000046	Wnt pathway	GO_1901229	regulation of non-canonical Wnt signaling pathway via JNK cascade
+RCV_000046	Wnt pathway	GO_2000040	regulation of planar cell polarity pathway involved in axis elongation
+RCV_000046	Wnt pathway	GO_2000150	regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+RCV_000046	Wnt pathway	GO_2000161	regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
+RCV_000046	Wnt pathway	GO_2000159	regulation of planar cell polarity pathway involved in heart morphogenesis
+RCV_000046	Wnt pathway	GO_2000167	regulation of planar cell polarity pathway involved in neural tube closure
+RCV_000046	Wnt pathway	GO_2000163	regulation of planar cell polarity pathway involved in outflow tract morphogenesis
+RCV_000046	Wnt pathway	GO_2000165	regulation of planar cell polarity pathway involved in pericardium morphogenesis
+RCV_000046	Wnt pathway	GO_2000148	regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
 RCV_000047	acetylcholine	GO_0016907	G-protein coupled acetylcholine receptor activity
 RCV_000047	acetylcholine	GO_0007213	G-protein coupled acetylcholine receptor signaling pathway
 RCV_000047	acetylcholine	GO_0086093	G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process
@@ -2022,149 +2150,6 @@ RCV_000053	adrenergic	GO_0071877	regulation of adrenergic receptor signaling pat
 RCV_000053	adrenergic	GO_1901204	regulation of adrenergic receptor signaling pathway involved in heart process
 RCV_000053	adrenergic	GO_1903245	regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
 RCV_000053	adrenergic	GO_1900256	regulation of beta1-adrenergic receptor activity
-RCV_000054	aerobic metabolism	GO_0016055	Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0060833	Wnt signaling pathway involved in animal/vegetal axis specification
-RCV_000054	aerobic metabolism	GO_0044333	Wnt signaling pathway involved in digestive tract morphogenesis
-RCV_000054	aerobic metabolism	GO_0044332	Wnt signaling pathway involved in dorsal/ventral axis specification
-RCV_000054	aerobic metabolism	GO_0021874	Wnt signaling pathway involved in forebrain neuroblast division
-RCV_000054	aerobic metabolism	GO_0003306	Wnt signaling pathway involved in heart development
-RCV_000054	aerobic metabolism	GO_0061289	Wnt signaling pathway involved in kidney development
-RCV_000054	aerobic metabolism	GO_0060593	Wnt signaling pathway involved in mammary gland specification
-RCV_000054	aerobic metabolism	GO_0090011	Wnt signaling pathway involved in primitive streak formation
-RCV_000054	aerobic metabolism	GO_0021922	Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord
-RCV_000054	aerobic metabolism	GO_0090244	Wnt signaling pathway involved in somitogenesis
-RCV_000054	aerobic metabolism	GO_0035659	Wnt signaling pathway involved in wound healing, spreading of epidermal cells
-RCV_000054	aerobic metabolism	GO_0007223	Wnt signaling pathway, calcium modulating pathway
-RCV_000054	aerobic metabolism	GO_0060071	Wnt signaling pathway, planar cell polarity pathway
-RCV_000054	aerobic metabolism	GO_0060069	Wnt signaling pathway, regulating spindle positioning
-RCV_000054	aerobic metabolism	GO_0021881	Wnt-activated signaling pathway involved in forebrain neuron fate commitment
-RCV_000054	aerobic metabolism	GO_0070275	aerobic ammonia oxidation to nitrite via pyruvic oxime
-RCV_000054	aerobic metabolism	GO_0019620	aerobic benzoate metabolic process
-RCV_000054	aerobic metabolism	GO_0018878	aerobic beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process
-RCV_000054	aerobic metabolism	GO_0019250	aerobic cobalamin biosynthetic process
-RCV_000054	aerobic metabolism	GO_0019646	aerobic electron transport chain
-RCV_000054	aerobic metabolism	GO_0019576	aerobic fructose catabolic process
-RCV_000054	aerobic metabolism	GO_0042195	aerobic gallate catabolic process
-RCV_000054	aerobic metabolism	GO_0019564	aerobic glycerol catabolic process
-RCV_000054	aerobic metabolism	GO_0018935	aerobic nitrilotriacetate metabolic process
-RCV_000054	aerobic metabolism	GO_0018946	aerobic organosilicon metabolic process
-RCV_000054	aerobic metabolism	GO_0046190	aerobic phenol-containing compound biosynthetic process
-RCV_000054	aerobic metabolism	GO_0046191	aerobic phenol-containing compound catabolic process
-RCV_000054	aerobic metabolism	GO_0018959	aerobic phenol-containing compound metabolic process
-RCV_000054	aerobic metabolism	GO_0036259	aerobic raffinose catabolic process
-RCV_000054	aerobic metabolism	GO_0009060	aerobic respiration
-RCV_000054	aerobic metabolism	GO_0019409	aerobic respiration, using ammonia as electron donor
-RCV_000054	aerobic metabolism	GO_0043554	aerobic respiration, using arsenite as electron donor
-RCV_000054	aerobic metabolism	GO_0019410	aerobic respiration, using carbon monoxide as electron donor
-RCV_000054	aerobic metabolism	GO_0019411	aerobic respiration, using ferrous ions as electron donor
-RCV_000054	aerobic metabolism	GO_0019412	aerobic respiration, using hydrogen as electron donor
-RCV_000054	aerobic metabolism	GO_0019332	aerobic respiration, using nitrite as electron donor
-RCV_000054	aerobic metabolism	GO_0019414	aerobic respiration, using sulfur or sulfate as electron donor
-RCV_000054	aerobic metabolism	GO_0070220	aerobic sulfur oxidation
-RCV_000054	aerobic metabolism	GO_0060070	canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0061317	canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
-RCV_000054	aerobic metabolism	GO_0061310	canonical Wnt signaling pathway involved in cardiac neural crest cell differentiation involved in heart development
-RCV_000054	aerobic metabolism	GO_0061316	canonical Wnt signaling pathway involved in heart development
-RCV_000054	aerobic metabolism	GO_0044338	canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation
-RCV_000054	aerobic metabolism	GO_0061293	canonical Wnt signaling pathway involved in mesonephric nephron development
-RCV_000054	aerobic metabolism	GO_0061292	canonical Wnt signaling pathway involved in mesonephros development
-RCV_000054	aerobic metabolism	GO_0061290	canonical Wnt signaling pathway involved in metanephric kidney development
-RCV_000054	aerobic metabolism	GO_0044336	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
-RCV_000054	aerobic metabolism	GO_0044335	canonical Wnt signaling pathway involved in neural crest cell differentiation
-RCV_000054	aerobic metabolism	GO_0060823	canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
-RCV_000054	aerobic metabolism	GO_0044339	canonical Wnt signaling pathway involved in osteoblast differentiation
-RCV_000054	aerobic metabolism	GO_0044337	canonical Wnt signaling pathway involved in positive regulation of apoptotic process
-RCV_000054	aerobic metabolism	GO_0061315	canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation
-RCV_000054	aerobic metabolism	GO_0061324	canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation
-RCV_000054	aerobic metabolism	GO_0044329	canonical Wnt signaling pathway involved in positive regulation of cell-cell adhesion
-RCV_000054	aerobic metabolism	GO_0044328	canonical Wnt signaling pathway involved in positive regulation of endothelial cell migration
-RCV_000054	aerobic metabolism	GO_0044334	canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition
-RCV_000054	aerobic metabolism	GO_0003267	canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation
-RCV_000054	aerobic metabolism	GO_0044330	canonical Wnt signaling pathway involved in positive regulation of wound healing
-RCV_000054	aerobic metabolism	GO_0044340	canonical Wnt signaling pathway involved in regulation of cell proliferation
-RCV_000054	aerobic metabolism	GO_0044343	canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation
-RCV_000054	aerobic metabolism	GO_0061291	canonical Wnt signaling pathway involved in ureteric bud branching
-RCV_000054	aerobic metabolism	GO_0071936	coreceptor activity involved in Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0030178	negative regulation of Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0038012	negative regulation of Wnt signaling pathway by Wnt receptor internalization
-RCV_000054	aerobic metabolism	GO_2000057	negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis
-RCV_000054	aerobic metabolism	GO_2000054	negative regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
-RCV_000054	aerobic metabolism	GO_0003308	negative regulation of Wnt signaling pathway involved in heart development
-RCV_000054	aerobic metabolism	GO_0045812	negative regulation of Wnt signaling pathway, calcium modulating pathway
-RCV_000054	aerobic metabolism	GO_0022002	negative regulation of anterior neural cell fate commitment of the neural plate by Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0090090	negative regulation of canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1901296	negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
-RCV_000054	aerobic metabolism	GO_2000080	negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
-RCV_000054	aerobic metabolism	GO_0072336	negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
-RCV_000054	aerobic metabolism	GO_0060829	negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
-RCV_000054	aerobic metabolism	GO_0003136	negative regulation of heart induction by canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_2000051	negative regulation of non-canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1901230	negative regulation of non-canonical Wnt signaling pathway via JNK cascade
-RCV_000054	aerobic metabolism	GO_2000041	negative regulation of planar cell polarity pathway involved in axis elongation
-RCV_000054	aerobic metabolism	GO_2000151	negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
-RCV_000054	aerobic metabolism	GO_2000162	negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
-RCV_000054	aerobic metabolism	GO_2000160	negative regulation of planar cell polarity pathway involved in heart morphogenesis
-RCV_000054	aerobic metabolism	GO_2000168	negative regulation of planar cell polarity pathway involved in neural tube closure
-RCV_000054	aerobic metabolism	GO_2000164	negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis
-RCV_000054	aerobic metabolism	GO_2000166	negative regulation of planar cell polarity pathway involved in pericardium morphogenesis
-RCV_000054	aerobic metabolism	GO_2000149	negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
-RCV_000054	aerobic metabolism	GO_0035567	non-canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0061341	non-canonical Wnt signaling pathway involved in heart development
-RCV_000054	aerobic metabolism	GO_0038031	non-canonical Wnt signaling pathway via JNK cascade
-RCV_000054	aerobic metabolism	GO_0038030	non-canonical Wnt signaling pathway via MAPK cascade
-RCV_000054	aerobic metabolism	GO_0003402	planar cell polarity pathway involved in axis elongation
-RCV_000054	aerobic metabolism	GO_0061345	planar cell polarity pathway involved in cardiac muscle cell fate commitment
-RCV_000054	aerobic metabolism	GO_0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
-RCV_000054	aerobic metabolism	GO_0061349	planar cell polarity pathway involved in cardiac right atrium morphogenesis
-RCV_000054	aerobic metabolism	GO_0060775	planar cell polarity pathway involved in gastrula mediolateral intercalation
-RCV_000054	aerobic metabolism	GO_0061346	planar cell polarity pathway involved in heart morphogenesis
-RCV_000054	aerobic metabolism	GO_0090179	planar cell polarity pathway involved in neural tube closure
-RCV_000054	aerobic metabolism	GO_0061347	planar cell polarity pathway involved in outflow tract morphogenesis
-RCV_000054	aerobic metabolism	GO_0061354	planar cell polarity pathway involved in pericardium morphogenesis
-RCV_000054	aerobic metabolism	GO_0061348	planar cell polarity pathway involved in ventricular septum morphogenesis
-RCV_000054	aerobic metabolism	GO_0030177	positive regulation of Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0060804	positive regulation of Wnt signaling pathway by BMP signaling pathway
-RCV_000054	aerobic metabolism	GO_0038013	positive regulation of Wnt signaling pathway by Wnt receptor internalization
-RCV_000054	aerobic metabolism	GO_0035593	positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region
-RCV_000054	aerobic metabolism	GO_2000055	positive regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
-RCV_000054	aerobic metabolism	GO_0045813	positive regulation of Wnt signaling pathway, calcium modulating pathway
-RCV_000054	aerobic metabolism	GO_2000096	positive regulation of Wnt signaling pathway, planar cell polarity pathway
-RCV_000054	aerobic metabolism	GO_0090263	positive regulation of canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1901297	positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
-RCV_000054	aerobic metabolism	GO_2000081	positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
-RCV_000054	aerobic metabolism	GO_0072381	positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
-RCV_000054	aerobic metabolism	GO_0090082	positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_2000052	positive regulation of non-canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1901231	positive regulation of non-canonical Wnt signaling pathway via JNK cascade
-RCV_000054	aerobic metabolism	GO_0090021	positive regulation of posterior neural plate formation by Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1902844	positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_2000286	receptor internalization involved in canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0030111	regulation of Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0061359	regulation of Wnt signaling pathway by Wnt protein secretion
-RCV_000054	aerobic metabolism	GO_2000056	regulation of Wnt signaling pathway involved in digestive tract morphogenesis
-RCV_000054	aerobic metabolism	GO_2000053	regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
-RCV_000054	aerobic metabolism	GO_0003307	regulation of Wnt signaling pathway involved in heart development
-RCV_000054	aerobic metabolism	GO_0008591	regulation of Wnt signaling pathway, calcium modulating pathway
-RCV_000054	aerobic metabolism	GO_2000095	regulation of Wnt signaling pathway, planar cell polarity pathway
-RCV_000054	aerobic metabolism	GO_0060828	regulation of canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1901295	regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
-RCV_000054	aerobic metabolism	GO_2000079	regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
-RCV_000054	aerobic metabolism	GO_0072335	regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
-RCV_000054	aerobic metabolism	GO_0060827	regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
-RCV_000054	aerobic metabolism	GO_0061342	regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0003427	regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division
-RCV_000054	aerobic metabolism	GO_0060901	regulation of hair cycle by canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_0090081	regulation of heart induction by regulation of canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_2000050	regulation of non-canonical Wnt signaling pathway
-RCV_000054	aerobic metabolism	GO_1901229	regulation of non-canonical Wnt signaling pathway via JNK cascade
-RCV_000054	aerobic metabolism	GO_2000040	regulation of planar cell polarity pathway involved in axis elongation
-RCV_000054	aerobic metabolism	GO_2000150	regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
-RCV_000054	aerobic metabolism	GO_2000161	regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
-RCV_000054	aerobic metabolism	GO_2000159	regulation of planar cell polarity pathway involved in heart morphogenesis
-RCV_000054	aerobic metabolism	GO_2000167	regulation of planar cell polarity pathway involved in neural tube closure
-RCV_000054	aerobic metabolism	GO_2000163	regulation of planar cell polarity pathway involved in outflow tract morphogenesis
-RCV_000054	aerobic metabolism	GO_2000165	regulation of planar cell polarity pathway involved in pericardium morphogenesis
-RCV_000054	aerobic metabolism	GO_2000148	regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
 RCV_000055	aging	GO_0001317	accumulation of oxidatively modified proteins involved in replicative cell aging
 RCV_000055	aging	GO_0035982	age-dependent behavioral decline
 RCV_000055	aging	GO_0007571	age-dependent general metabolic decline
@@ -2975,7 +2960,6 @@ RCV_000071	artery	GO_0048844	artery morphogenesis
 RCV_000071	artery	GO_0014824	artery smooth muscle contraction
 RCV_000071	artery	GO_0035905	ascending aorta development
 RCV_000071	artery	GO_0035910	ascending aorta morphogenesis
-RCV_000071	artery	GO_0072021	ascending thin limb development
 RCV_000071	artery	GO_0060982	coronary artery morphogenesis
 RCV_000071	artery	GO_0035906	descending aorta development
 RCV_000071	artery	GO_0035911	descending aorta morphogenesis
@@ -3060,6 +3044,7 @@ RCV_000077	auxin	GO_0009733	response to auxin
 RCV_000077	auxin	GO_0080026	response to indolebutyric acid
 RCV_000077	auxin	GO_0019440	tryptophan catabolic process to indole-3-acetate
 RCV_000077	auxin	GO_0009849	tryptophan-independent indoleacetic acid biosynthetic process
+RCV_000078	axon	GO_1903616	MAPK cascade involved in axon regeneration
 RCV_000078	axon	GO_2001266	Roundabout signaling pathway involved in axon guidance
 RCV_000078	axon	GO_0014011	Schwann cell proliferation involved in axon regeneration
 RCV_000078	axon	GO_1902378	VEGF-activated neuropilin signaling pathway involved in axon guidance
@@ -3326,12 +3311,6 @@ RCV_000082	behaviour	GO_0008343	adult feeding behavior
 RCV_000082	behaviour	GO_0060757	adult foraging behavior
 RCV_000082	behaviour	GO_0008344	adult locomotory behavior
 RCV_000082	behaviour	GO_0007628	adult walking behavior
-RCV_000082	behaviour	GO_0052217	aerotaxis in environment of other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052137	aerotaxis in host
-RCV_000082	behaviour	GO_0052117	aerotaxis in host environment
-RCV_000082	behaviour	GO_0052237	aerotaxis in other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052138	aerotaxis on or near host
-RCV_000082	behaviour	GO_0052238	aerotaxis on or near other organism involved in symbiotic interaction
 RCV_000082	behaviour	GO_0002118	aggressive behavior
 RCV_000082	behaviour	GO_0007615	anesthesia-resistant memory
 RCV_000082	behaviour	GO_0003051	angiotensin-mediated drinking behavior
@@ -3356,12 +3335,6 @@ RCV_000082	behaviour	GO_0042630	behavioral response to water deprivation
 RCV_000082	behaviour	GO_0002210	behavioral response to wounding
 RCV_000082	behaviour	GO_0007635	chemosensory behavior
 RCV_000082	behaviour	GO_0007636	chemosensory jump behavior
-RCV_000082	behaviour	GO_0052216	chemotaxis in environment of other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052116	chemotaxis in host environment
-RCV_000082	behaviour	GO_0052242	chemotaxis in other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052143	chemotaxis on or near host involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052243	chemotaxis on or near other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052142	chemotaxis within host
 RCV_000082	behaviour	GO_0048512	circadian behavior
 RCV_000082	behaviour	GO_0035648	circadian mating behavior
 RCV_000082	behaviour	GO_0042745	circadian sleep/wake cycle
@@ -3452,12 +3425,6 @@ RCV_000082	behaviour	GO_0044543	envenomation resulting in zymogen activation in 
 RCV_000082	behaviour	GO_0035640	exploration behavior
 RCV_000082	behaviour	GO_0002122	fear-induced aggressive behavior
 RCV_000082	behaviour	GO_0007631	feeding behavior
-RCV_000082	behaviour	GO_0044371	feeding from phloem of other organism
-RCV_000082	behaviour	GO_0044367	feeding from tissue of other organism
-RCV_000082	behaviour	GO_0044368	feeding from vascular tissue of another organism
-RCV_000082	behaviour	GO_0044372	feeding from xylem of other organism
-RCV_000082	behaviour	GO_0044369	feeding on blood of other organism
-RCV_000082	behaviour	GO_0044366	feeding on or from other organism
 RCV_000082	behaviour	GO_0008050	female courtship behavior
 RCV_000082	behaviour	GO_0060180	female mating behavior
 RCV_000082	behaviour	GO_0007629	flight behavior
@@ -3512,21 +3479,6 @@ RCV_000082	behaviour	GO_0007613	memory
 RCV_000082	behaviour	GO_0051705	multi-organism behavior
 RCV_000082	behaviour	GO_0044705	multi-organism reproductive behavior
 RCV_000082	behaviour	GO_0033057	multicellular organismal reproductive behavior
-RCV_000082	behaviour	GO_0052222	negative aerotaxis in environment of other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052135	negative aerotaxis in host
-RCV_000082	behaviour	GO_0052122	negative aerotaxis in host environment
-RCV_000082	behaviour	GO_0052235	negative aerotaxis in other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052134	negative aerotaxis on or near host
-RCV_000082	behaviour	GO_0052234	negative aerotaxis on or near other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052223	negative chemotaxis in environment of other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052139	negative chemotaxis in host
-RCV_000082	behaviour	GO_0052123	negative chemotaxis in host environment
-RCV_000082	behaviour	GO_0052239	negative chemotaxis in other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052136	negative chemotaxis on or near host
-RCV_000082	behaviour	GO_0052236	negative chemotaxis on or near other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0042322	negative regulation of circadian sleep/wake cycle, REM sleep
-RCV_000082	behaviour	GO_0042323	negative regulation of circadian sleep/wake cycle, non-REM sleep
-RCV_000082	behaviour	GO_0042321	negative regulation of circadian sleep/wake cycle, sleep
 RCV_000082	behaviour	GO_0007621	negative regulation of female receptivity
 RCV_000082	behaviour	GO_0045434	negative regulation of female receptivity, post-mating
 RCV_000082	behaviour	GO_0046958	nonassociative learning
@@ -3542,22 +3494,6 @@ RCV_000082	behaviour	GO_0060746	parental behavior
 RCV_000082	behaviour	GO_0042712	paternal behavior
 RCV_000082	behaviour	GO_0007633	pattern orientation
 RCV_000082	behaviour	GO_0043050	pharyngeal pumping
-RCV_000082	behaviour	GO_0052220	positive aerotaxis in environment of other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052133	positive aerotaxis in host
-RCV_000082	behaviour	GO_0052120	positive aerotaxis in host environment
-RCV_000082	behaviour	GO_0052233	positive aerotaxis in other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052132	positive aerotaxis on or near host
-RCV_000082	behaviour	GO_0052232	positive aerotaxis on or near other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052221	positive chemotaxis in environment of other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052140	positive chemotaxis in host
-RCV_000082	behaviour	GO_0052121	positive chemotaxis in host environment
-RCV_000082	behaviour	GO_0052240	positive chemotaxis in other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0052141	positive chemotaxis on or near host
-RCV_000082	behaviour	GO_0052241	positive chemotaxis on or near other organism involved in symbiotic interaction
-RCV_000082	behaviour	GO_0046005	positive regulation of circadian sleep/wake cycle, REM sleep
-RCV_000082	behaviour	GO_0046010	positive regulation of circadian sleep/wake cycle, non-REM sleep
-RCV_000082	behaviour	GO_0045938	positive regulation of circadian sleep/wake cycle, sleep
-RCV_000082	behaviour	GO_0010841	positive regulation of circadian sleep/wake cycle, wakefulness
 RCV_000082	behaviour	GO_0045925	positive regulation of female receptivity
 RCV_000082	behaviour	GO_0046009	positive regulation of female receptivity, post-mating
 RCV_000082	behaviour	GO_0045297	post-mating behavior
@@ -3566,11 +3502,6 @@ RCV_000082	behaviour	GO_0002120	predatory behavior
 RCV_000082	behaviour	GO_0007637	proboscis extension reflex
 RCV_000082	behaviour	GO_0036343	psychomotor behavior
 RCV_000082	behaviour	GO_0002023	reduction of food intake in response to dietary excess
-RCV_000082	behaviour	GO_0042749	regulation of circadian sleep/wake cycle
-RCV_000082	behaviour	GO_0042320	regulation of circadian sleep/wake cycle, REM sleep
-RCV_000082	behaviour	GO_0045188	regulation of circadian sleep/wake cycle, non-REM sleep
-RCV_000082	behaviour	GO_0045187	regulation of circadian sleep/wake cycle, sleep
-RCV_000082	behaviour	GO_0010840	regulation of circadian sleep/wake cycle, wakefulness
 RCV_000082	behaviour	GO_0045924	regulation of female receptivity
 RCV_000082	behaviour	GO_0046008	regulation of female receptivity, post-mating
 RCV_000082	behaviour	GO_0019098	reproductive behavior
@@ -3685,6 +3616,109 @@ RCV_000087	blood pressure	GO_0002014	vasoconstriction of artery involved in isch
 RCV_000087	blood pressure	GO_0003069	vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure
 RCV_000087	blood pressure	GO_0002033	vasodilation by angiotensin involved in regulation of systemic arterial blood pressure
 RCV_000087	blood pressure	GO_0002025	vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure
+RCV_000088	bone	GO_0003434	BMP signaling pathway involved in growth plate cartilage chondrocyte development
+RCV_000088	bone	GO_1990375	baculum development
+RCV_000088	bone	GO_0060348	bone development
+RCV_000088	bone	GO_0048539	bone marrow development
+RCV_000088	bone	GO_0070977	bone maturation
+RCV_000088	bone	GO_0030282	bone mineralization
+RCV_000088	bone	GO_0035630	bone mineralization involved in bone maturation
+RCV_000088	bone	GO_0060349	bone morphogenesis
+RCV_000088	bone	GO_0046849	bone remodeling
+RCV_000088	bone	GO_0045453	bone resorption
+RCV_000088	bone	GO_0060346	bone trabecula formation
+RCV_000088	bone	GO_0061430	bone trabecula morphogenesis
+RCV_000088	bone	GO_0035445	borate transmembrane transport
+RCV_000088	bone	GO_0060351	cartilage development involved in endochondral bone morphogenesis
+RCV_000088	bone	GO_0003432	cell growth involved in growth plate cartilage chondrocyte morphogenesis
+RCV_000088	bone	GO_0060591	chondroblast differentiation
+RCV_000088	bone	GO_0044566	chondrocyte activation
+RCV_000088	bone	GO_0002063	chondrocyte development
+RCV_000088	bone	GO_0003433	chondrocyte development involved in endochondral bone morphogenesis
+RCV_000088	bone	GO_0002062	chondrocyte differentiation
+RCV_000088	bone	GO_0003413	chondrocyte differentiation involved in endochondral bone morphogenesis
+RCV_000088	bone	GO_0003415	chondrocyte hypertrophy
+RCV_000088	bone	GO_0003428	chondrocyte intercalation involved in growth plate cartilage morphogenesis
+RCV_000088	bone	GO_0090171	chondrocyte morphogenesis
+RCV_000088	bone	GO_0003414	chondrocyte morphogenesis involved in endochondral bone morphogenesis
+RCV_000088	bone	GO_0035988	chondrocyte proliferation
+RCV_000088	bone	GO_0030206	chondroitin sulfate biosynthetic process
+RCV_000088	bone	GO_0030207	chondroitin sulfate catabolic process
+RCV_000088	bone	GO_0030204	chondroitin sulfate metabolic process
+RCV_000088	bone	GO_0050650	chondroitin sulfate proteoglycan biosynthetic process
+RCV_000088	bone	GO_0050653	chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process
+RCV_000088	bone	GO_0050654	chondroitin sulfate proteoglycan metabolic process
+RCV_000088	bone	GO_0060365	coronal suture morphogenesis
+RCV_000088	bone	GO_0060363	cranial suture morphogenesis
+RCV_000088	bone	GO_0097094	craniofacial suture morphogenesis
+RCV_000088	bone	GO_0003426	cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000088	bone	GO_0035993	deltoid tuberosity development
+RCV_000088	bone	GO_0003416	endochondral bone growth
+RCV_000088	bone	GO_0060350	endochondral bone morphogenesis
+RCV_000088	bone	GO_0001958	endochondral ossification
+RCV_000088	bone	GO_0003424	establishment of cell polarity involved in growth plate cartilage chondrocyte division
+RCV_000088	bone	GO_0003425	establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division
+RCV_000088	bone	GO_0097096	facial suture morphogenesis
+RCV_000088	bone	GO_0060364	frontal suture morphogenesis
+RCV_000088	bone	GO_0097095	frontonasal suture morphogenesis
+RCV_000088	bone	GO_0003421	growth plate cartilage axis specification
+RCV_000088	bone	GO_0003431	growth plate cartilage chondrocyte development
+RCV_000088	bone	GO_0003418	growth plate cartilage chondrocyte differentiation
+RCV_000088	bone	GO_0003423	growth plate cartilage chondrocyte division
+RCV_000088	bone	GO_0003430	growth plate cartilage chondrocyte growth
+RCV_000088	bone	GO_0003429	growth plate cartilage chondrocyte morphogenesis
+RCV_000088	bone	GO_0003419	growth plate cartilage chondrocyte proliferation
+RCV_000088	bone	GO_0003417	growth plate cartilage development
+RCV_000088	bone	GO_0003422	growth plate cartilage morphogenesis
+RCV_000088	bone	GO_0060366	lambdoid suture morphogenesis
+RCV_000088	bone	GO_1901706	mesenchymal cell differentiation involved in bone development
+RCV_000088	bone	GO_0097097	nasal suture morphogenesis
+RCV_000088	bone	GO_1903011	negative regulation of bone development
+RCV_000088	bone	GO_0030502	negative regulation of bone mineralization
+RCV_000088	bone	GO_1900158	negative regulation of bone mineralization involved in bone maturation
+RCV_000088	bone	GO_0046851	negative regulation of bone remodeling
+RCV_000088	bone	GO_0045779	negative regulation of bone resorption
+RCV_000088	bone	GO_1900155	negative regulation of bone trabecula formation
+RCV_000088	bone	GO_0001503	ossification
+RCV_000088	bone	GO_0043931	ossification involved in bone maturation
+RCV_000088	bone	GO_0043932	ossification involved in bone remodeling
+RCV_000088	bone	GO_0002076	osteoblast development
+RCV_000088	bone	GO_0001649	osteoblast differentiation
+RCV_000088	bone	GO_0002051	osteoblast fate commitment
+RCV_000088	bone	GO_0033687	osteoblast proliferation
+RCV_000088	bone	GO_0036035	osteoclast development
+RCV_000088	bone	GO_0030316	osteoclast differentiation
+RCV_000088	bone	GO_0072675	osteoclast fusion
+RCV_000088	bone	GO_0036179	osteoclast maturation
+RCV_000088	bone	GO_0002158	osteoclast proliferation
+RCV_000088	bone	GO_1903012	positive regulation of bone development
+RCV_000088	bone	GO_0030501	positive regulation of bone mineralization
+RCV_000088	bone	GO_1900159	positive regulation of bone mineralization involved in bone maturation
+RCV_000088	bone	GO_0046852	positive regulation of bone remodeling
+RCV_000088	bone	GO_0045780	positive regulation of bone resorption
+RCV_000088	bone	GO_1900156	positive regulation of bone trabecula formation
+RCV_000088	bone	GO_1903010	regulation of bone development
+RCV_000088	bone	GO_0030500	regulation of bone mineralization
+RCV_000088	bone	GO_1900157	regulation of bone mineralization involved in bone maturation
+RCV_000088	bone	GO_0046850	regulation of bone remodeling
+RCV_000088	bone	GO_0045124	regulation of bone resorption
+RCV_000088	bone	GO_1900154	regulation of bone trabecula formation
+RCV_000088	bone	GO_0061035	regulation of cartilage development
+RCV_000088	bone	GO_0003436	regulation of cell adhesion involved in growth plate cartilage morphogenesis
+RCV_000088	bone	GO_0003437	regulation of cell communication involved in growth plate cartilage morphogenesis
+RCV_000088	bone	GO_0061181	regulation of chondrocyte development
+RCV_000088	bone	GO_0032330	regulation of chondrocyte differentiation
+RCV_000088	bone	GO_1902738	regulation of chondrocyte differentiation involved in endochondral bone morphogenesis
+RCV_000088	bone	GO_0003427	regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000088	bone	GO_1902733	regulation of growth plate cartilage chondrocyte differentiation
+RCV_000088	bone	GO_0003420	regulation of growth plate cartilage chondrocyte proliferation
+RCV_000088	bone	GO_0060367	sagittal suture morphogenesis
+RCV_000088	bone	GO_1900220	semaphorin-plexin signaling pathway involved in bone trabecula morphogenesis
+RCV_000088	bone	GO_0003435	smoothened signaling pathway involved in growth plate cartilage chondrocyte development
+RCV_000088	bone	GO_0060343	trabecula formation
+RCV_000088	bone	GO_0061383	trabecula morphogenesis
+RCV_000088	bone	GO_0002930	trabecular meshwork development
+RCV_000089	bone marrow	GO_0048539	bone marrow development
 RCV_000091	brain development	GO_0022024	BMP signaling pathway involved in forebrain neuron fate commitment
 RCV_000091	brain development	GO_0021870	Cajal-Retzius cell differentiation
 RCV_000091	brain development	GO_0021926	Golgi cell precursor proliferation
@@ -4077,6 +4111,64 @@ RCV_000091	brain development	GO_0021900	ventricular zone cell fate commitment
 RCV_000091	brain development	GO_0021868	ventricular zone cell-producing asymmetric radial glial cell division in forebrain
 RCV_000091	brain development	GO_0021847	ventricular zone neuroblast division
 RCV_000091	brain development	GO_0021750	vestibular nucleus development
+RCV_000093	calcium homeostasis	GO_0061454	Golgi calcium ion export
+RCV_000093	calcium homeostasis	GO_0032468	Golgi calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0055074	calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0098703	calcium ion import across plasma membrane
+RCV_000093	calcium homeostasis	GO_0097553	calcium ion transmembrane import into cytosol
+RCV_000093	calcium homeostasis	GO_0060402	calcium ion transport into cytosol
+RCV_000093	calcium homeostasis	GO_0006874	cellular calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0010617	circadian regulation of calcium ion oscillation
+RCV_000093	calcium homeostasis	GO_0051480	cytosolic calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0032469	endoplasmic reticulum calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0051560	mitochondrial calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0051481	negative regulation of cytosolic calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0032471	negative regulation of endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051562	negative regulation of mitochondrial calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051565	negative regulation of smooth endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0060472	positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0007204	positive regulation of cytosolic calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0060470	positive regulation of cytosolic calcium ion concentration involved in egg activation
+RCV_000093	calcium homeostasis	GO_0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway
+RCV_000093	calcium homeostasis	GO_0032470	positive regulation of endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051561	positive regulation of mitochondrial calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051564	positive regulation of smooth endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0090279	regulation of calcium ion import
+RCV_000093	calcium homeostasis	GO_1901019	regulation of calcium ion transmembrane transporter activity
+RCV_000093	calcium homeostasis	GO_0051924	regulation of calcium ion transport
+RCV_000093	calcium homeostasis	GO_0010522	regulation of calcium ion transport into cytosol
+RCV_000093	calcium homeostasis	GO_0017158	regulation of calcium ion-dependent exocytosis
+RCV_000093	calcium homeostasis	GO_0075177	regulation of calcium or calmodulin-mediated signal transduction in response to host
+RCV_000093	calcium homeostasis	GO_0050848	regulation of calcium-mediated signaling
+RCV_000093	calcium homeostasis	GO_0051209	release of sequestered calcium ion into cytosol
+RCV_000093	calcium homeostasis	GO_0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum
+RCV_000093	calcium homeostasis	GO_0051563	smooth endoplasmic reticulum calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0007036	vacuolar calcium ion homeostasis
+RCV_000094	calcium signalling	GO_0043006	activation of phospholipase A2 activity by calcium-mediated signaling
+RCV_000094	calcium signalling	GO_0033173	calcineurin-NFAT signaling cascade
+RCV_000094	calcium signalling	GO_0030925	calcium incorporation into metallo-oxygen cluster
+RCV_000094	calcium signalling	GO_0030926	calcium incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide
+RCV_000094	calcium signalling	GO_0055074	calcium ion homeostasis
+RCV_000094	calcium signalling	GO_0070509	calcium ion import
+RCV_000094	calcium signalling	GO_0070588	calcium ion transmembrane transport
+RCV_000094	calcium signalling	GO_0006816	calcium ion transport
+RCV_000094	calcium signalling	GO_0060402	calcium ion transport into cytosol
+RCV_000094	calcium signalling	GO_0017156	calcium ion-dependent exocytosis
+RCV_000094	calcium signalling	GO_0075020	calcium or calmodulin-mediated activation of appressorium formation
+RCV_000094	calcium signalling	GO_0019722	calcium-mediated signaling
+RCV_000094	calcium signalling	GO_0035585	calcium-mediated signaling using extracellular calcium source
+RCV_000094	calcium signalling	GO_0035584	calcium-mediated signaling using intracellular calcium source
+RCV_000094	calcium signalling	GO_0021808	cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration
+RCV_000094	calcium signalling	GO_0014811	negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion
+RCV_000094	calcium signalling	GO_0021945	positive regulation of cerebellar granule cell migration by calcium
+RCV_000094	calcium signalling	GO_0014810	positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion
+RCV_000094	calcium signalling	GO_1900622	positive regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
+RCV_000094	calcium signalling	GO_0010882	regulation of cardiac muscle contraction by calcium ion signaling
+RCV_000094	calcium signalling	GO_0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion
+RCV_000094	calcium signalling	GO_0014722	regulation of skeletal muscle contraction by calcium ion signaling
+RCV_000094	calcium signalling	GO_0014723	regulation of skeletal muscle contraction by modulation of calcium ion sensitivity of myofibril
+RCV_000094	calcium signalling	GO_0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion
+RCV_000094	calcium signalling	GO_1900621	regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
 RCV_000095	cannabinoid	GO_1901696	cannabinoid biosynthetic process
 RCV_000095	cannabinoid	GO_0004949	cannabinoid receptor activity
 RCV_000095	cannabinoid	GO_0038171	cannabinoid signaling pathway
@@ -4087,7 +4179,148 @@ RCV_000096	carnitine metabolism	GO_0009437	carnitine metabolic process
 RCV_000096	carnitine metabolism	GO_0019254	carnitine metabolic process, CoA-linked
 RCV_000096	carnitine metabolism	GO_0006853	carnitine shuttle
 RCV_000096	carnitine metabolism	GO_0015879	carnitine transport
+RCV_000097	cartilage	GO_0003434	BMP signaling pathway involved in growth plate cartilage chondrocyte development
+RCV_000097	cartilage	GO_0060532	bronchus cartilage development
+RCV_000097	cartilage	GO_0060533	bronchus cartilage morphogenesis
+RCV_000097	cartilage	GO_0001502	cartilage condensation
+RCV_000097	cartilage	GO_0051216	cartilage development
+RCV_000097	cartilage	GO_0060351	cartilage development involved in endochondral bone morphogenesis
+RCV_000097	cartilage	GO_0060536	cartilage morphogenesis
+RCV_000097	cartilage	GO_0003432	cell growth involved in growth plate cartilage chondrocyte morphogenesis
+RCV_000097	cartilage	GO_0060591	chondroblast differentiation
+RCV_000097	cartilage	GO_0002063	chondrocyte development
+RCV_000097	cartilage	GO_0003433	chondrocyte development involved in endochondral bone morphogenesis
+RCV_000097	cartilage	GO_0002062	chondrocyte differentiation
+RCV_000097	cartilage	GO_0003413	chondrocyte differentiation involved in endochondral bone morphogenesis
+RCV_000097	cartilage	GO_0003415	chondrocyte hypertrophy
+RCV_000097	cartilage	GO_0003428	chondrocyte intercalation involved in growth plate cartilage morphogenesis
+RCV_000097	cartilage	GO_0090171	chondrocyte morphogenesis
+RCV_000097	cartilage	GO_0003414	chondrocyte morphogenesis involved in endochondral bone morphogenesis
+RCV_000097	cartilage	GO_0003426	cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000097	cartilage	GO_0003424	establishment of cell polarity involved in growth plate cartilage chondrocyte division
+RCV_000097	cartilage	GO_0003425	establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division
+RCV_000097	cartilage	GO_0003421	growth plate cartilage axis specification
+RCV_000097	cartilage	GO_0003431	growth plate cartilage chondrocyte development
+RCV_000097	cartilage	GO_0003418	growth plate cartilage chondrocyte differentiation
+RCV_000097	cartilage	GO_0003423	growth plate cartilage chondrocyte division
+RCV_000097	cartilage	GO_0003430	growth plate cartilage chondrocyte growth
+RCV_000097	cartilage	GO_0003429	growth plate cartilage chondrocyte morphogenesis
+RCV_000097	cartilage	GO_0003419	growth plate cartilage chondrocyte proliferation
+RCV_000097	cartilage	GO_0003417	growth plate cartilage development
+RCV_000097	cartilage	GO_0003422	growth plate cartilage morphogenesis
+RCV_000097	cartilage	GO_0061037	negative regulation of cartilage development
+RCV_000097	cartilage	GO_0061182	negative regulation of chondrocyte development
+RCV_000097	cartilage	GO_0032331	negative regulation of chondrocyte differentiation
+RCV_000097	cartilage	GO_1903042	negative regulation of chondrocyte hypertrophy
+RCV_000097	cartilage	GO_1902027	positive regulation of cartilage condensation
+RCV_000097	cartilage	GO_0061036	positive regulation of cartilage development
+RCV_000097	cartilage	GO_1902761	positive regulation of chondrocyte development
+RCV_000097	cartilage	GO_0032332	positive regulation of chondrocyte differentiation
+RCV_000097	cartilage	GO_1903043	positive regulation of chondrocyte hypertrophy
+RCV_000097	cartilage	GO_1902026	regulation of cartilage condensation
+RCV_000097	cartilage	GO_0061035	regulation of cartilage development
+RCV_000097	cartilage	GO_0003436	regulation of cell adhesion involved in growth plate cartilage morphogenesis
+RCV_000097	cartilage	GO_0003437	regulation of cell communication involved in growth plate cartilage morphogenesis
+RCV_000097	cartilage	GO_0061181	regulation of chondrocyte development
+RCV_000097	cartilage	GO_0032330	regulation of chondrocyte differentiation
+RCV_000097	cartilage	GO_1902738	regulation of chondrocyte differentiation involved in endochondral bone morphogenesis
+RCV_000097	cartilage	GO_1903041	regulation of chondrocyte hypertrophy
+RCV_000097	cartilage	GO_0003427	regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000097	cartilage	GO_1902733	regulation of growth plate cartilage chondrocyte differentiation
+RCV_000097	cartilage	GO_0003420	regulation of growth plate cartilage chondrocyte proliferation
+RCV_000097	cartilage	GO_0003435	smoothened signaling pathway involved in growth plate cartilage chondrocyte development
+RCV_000097	cartilage	GO_0060534	trachea cartilage development
+RCV_000097	cartilage	GO_0060535	trachea cartilage morphogenesis
 RCV_000132	cerebellar stellate cell	GO_0021710	cerebellar stellate cell differentiation
+RCV_000133	cerebellum	GO_0021708	Lugaro cell differentiation
+RCV_000133	cerebellum	GO_0021712	candelabrum cell differentiation
+RCV_000133	cerebellum	GO_0021701	cerebellar Golgi cell differentiation
+RCV_000133	cerebellum	GO_0021702	cerebellar Purkinje cell differentiation
+RCV_000133	cerebellum	GO_0021680	cerebellar Purkinje cell layer development
+RCV_000133	cerebellum	GO_0021694	cerebellar Purkinje cell layer formation
+RCV_000133	cerebellum	GO_0021691	cerebellar Purkinje cell layer maturation
+RCV_000133	cerebellum	GO_0021692	cerebellar Purkinje cell layer morphogenesis
+RCV_000133	cerebellum	GO_0021693	cerebellar Purkinje cell layer structural organization
+RCV_000133	cerebellum	GO_0021925	cerebellar Purkinje cell precursor proliferation
+RCV_000133	cerebellum	GO_0021937	cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation
+RCV_000133	cerebellum	GO_0021709	cerebellar basket cell differentiation
+RCV_000133	cerebellum	GO_0021695	cerebellar cortex development
+RCV_000133	cerebellum	GO_0021697	cerebellar cortex formation
+RCV_000133	cerebellum	GO_0021699	cerebellar cortex maturation
+RCV_000133	cerebellum	GO_0021696	cerebellar cortex morphogenesis
+RCV_000133	cerebellum	GO_0021698	cerebellar cortex structural organization
+RCV_000133	cerebellum	GO_0021681	cerebellar granular layer development
+RCV_000133	cerebellum	GO_0021684	cerebellar granular layer formation
+RCV_000133	cerebellum	GO_0021686	cerebellar granular layer maturation
+RCV_000133	cerebellum	GO_0021683	cerebellar granular layer morphogenesis
+RCV_000133	cerebellum	GO_0021685	cerebellar granular layer structural organization
+RCV_000133	cerebellum	GO_0021707	cerebellar granule cell differentiation
+RCV_000133	cerebellum	GO_0021930	cerebellar granule cell precursor proliferation
+RCV_000133	cerebellum	GO_0021935	cerebellar granule cell precursor tangential migration
+RCV_000133	cerebellum	GO_0021679	cerebellar molecular layer development
+RCV_000133	cerebellum	GO_0021688	cerebellar molecular layer formation
+RCV_000133	cerebellum	GO_0021690	cerebellar molecular layer maturation
+RCV_000133	cerebellum	GO_0021687	cerebellar molecular layer morphogenesis
+RCV_000133	cerebellum	GO_0021689	cerebellar molecular layer structural organization
+RCV_000133	cerebellum	GO_0021710	cerebellar stellate cell differentiation
+RCV_000133	cerebellum	GO_0021711	cerebellar unipolar brush cell differentiation
+RCV_000133	cerebellum	GO_0021549	cerebellum development
+RCV_000133	cerebellum	GO_0021588	cerebellum formation
+RCV_000133	cerebellum	GO_0021590	cerebellum maturation
+RCV_000133	cerebellum	GO_0021587	cerebellum morphogenesis
+RCV_000133	cerebellum	GO_0021589	cerebellum structural organization
+RCV_000133	cerebellum	GO_0061301	cerebellum vasculature morphogenesis
+RCV_000133	cerebellum	GO_0021951	chemoattraction involved in precerebellar neuron migration
+RCV_000133	cerebellum	GO_0021950	chemorepulsion involved in precerebellar neuron migration
+RCV_000133	cerebellum	GO_0021735	dentate nucleus development
+RCV_000133	cerebellum	GO_0021737	emboliform nucleus development
+RCV_000133	cerebellum	GO_0021755	eurydendroid cell differentiation
+RCV_000133	cerebellum	GO_0021738	fastigial nucleus development
+RCV_000133	cerebellum	GO_0021736	globose nucleus development
+RCV_000133	cerebellum	GO_0021941	negative regulation of cerebellar granule cell precursor proliferation
+RCV_000133	cerebellum	GO_0021945	positive regulation of cerebellar granule cell migration by calcium
+RCV_000133	cerebellum	GO_0021940	positive regulation of cerebellar granule cell precursor proliferation
+RCV_000133	cerebellum	GO_0021933	radial glia guided migration of cerebellar granule cell
+RCV_000133	cerebellum	GO_0021936	regulation of cerebellar granule cell precursor proliferation
+RCV_000134	chemotaxis	GO_0035754	B cell chemotaxis
+RCV_000134	chemotaxis	GO_0035769	B cell chemotaxis across high endothelial venule
+RCV_000134	chemotaxis	GO_0002409	Langerhans cell chemotaxis
+RCV_000134	chemotaxis	GO_0010818	T cell chemotaxis
+RCV_000134	chemotaxis	GO_0035706	T-helper 1 cell chemotaxis
+RCV_000134	chemotaxis	GO_0035705	T-helper 17 cell chemotaxis
+RCV_000134	chemotaxis	GO_0035707	T-helper 2 cell chemotaxis
+RCV_000134	chemotaxis	GO_0035700	astrocyte chemotaxis
+RCV_000134	chemotaxis	GO_0002575	basophil chemotaxis
+RCV_000134	chemotaxis	GO_0060326	cell chemotaxis
+RCV_000134	chemotaxis	GO_0061352	cell chemotaxis involved in Malpighian tubule morphogenesis
+RCV_000134	chemotaxis	GO_0071434	cell chemotaxis to angiotensin
+RCV_000134	chemotaxis	GO_0035766	cell chemotaxis to fibroblast growth factor
+RCV_000134	chemotaxis	GO_0061583	colon epithelial cell chemotaxis
+RCV_000134	chemotaxis	GO_0002407	dendritic cell chemotaxis
+RCV_000134	chemotaxis	GO_0035767	endothelial cell chemotaxis
+RCV_000134	chemotaxis	GO_0035768	endothelial cell chemotaxis to fibroblast growth factor
+RCV_000134	chemotaxis	GO_0048245	eosinophil chemotaxis
+RCV_000134	chemotaxis	GO_0035232	germ cell attraction
+RCV_000134	chemotaxis	GO_0035233	germ cell repulsion
+RCV_000134	chemotaxis	GO_0071621	granulocyte chemotaxis
+RCV_000134	chemotaxis	GO_0035704	helper T cell chemotaxis
+RCV_000134	chemotaxis	GO_0050929	induction of negative chemotaxis
+RCV_000134	chemotaxis	GO_0050930	induction of positive chemotaxis
+RCV_000134	chemotaxis	GO_0030595	leukocyte chemotaxis
+RCV_000134	chemotaxis	GO_0002233	leukocyte chemotaxis involved in immune response
+RCV_000134	chemotaxis	GO_0002232	leukocyte chemotaxis involved in inflammatory response
+RCV_000134	chemotaxis	GO_0048247	lymphocyte chemotaxis
+RCV_000134	chemotaxis	GO_0002518	lymphocyte chemotaxis across high endothelial venule
+RCV_000134	chemotaxis	GO_0048246	macrophage chemotaxis
+RCV_000134	chemotaxis	GO_0002551	mast cell chemotaxis
+RCV_000134	chemotaxis	GO_0035782	mature natural killer cell chemotaxis
+RCV_000134	chemotaxis	GO_0002548	monocyte chemotaxis
+RCV_000134	chemotaxis	GO_0036061	muscle cell chemotaxis toward tendon cell
+RCV_000134	chemotaxis	GO_0002408	myeloid dendritic cell chemotaxis
+RCV_000134	chemotaxis	GO_0035747	natural killer cell chemotaxis
+RCV_000134	chemotaxis	GO_0030593	neutrophil chemotaxis
+RCV_000134	chemotaxis	GO_0002410	plasmacytoid dendritic cell chemotaxis
+RCV_000134	chemotaxis	GO_0071670	smooth muscle cell chemotaxis
 RCV_000135	cholesterol metabolism	GO_0071397	cellular response to cholesterol
 RCV_000135	cholesterol metabolism	GO_0006695	cholesterol biosynthetic process
 RCV_000135	cholesterol metabolism	GO_0033488	cholesterol biosynthetic process via 24,25-dihydrolanosterol
@@ -4135,6 +4368,86 @@ RCV_000135	cholesterol metabolism	GO_0030300	regulation of intestinal cholestero
 RCV_000135	cholesterol metabolism	GO_0032383	regulation of intracellular cholesterol transport
 RCV_000135	cholesterol metabolism	GO_0070723	response to cholesterol
 RCV_000135	cholesterol metabolism	GO_0043691	reverse cholesterol transport
+RCV_000137	circadian	GO_0048512	circadian behavior
+RCV_000137	circadian	GO_0035648	circadian mating behavior
+RCV_000137	circadian	GO_0010617	circadian regulation of calcium ion oscillation
+RCV_000137	circadian	GO_0032922	circadian regulation of gene expression
+RCV_000137	circadian	GO_0003053	circadian regulation of heart rate
+RCV_000137	circadian	GO_0003055	circadian regulation of heart rate by the suprachiasmatic nucleus
+RCV_000137	circadian	GO_0003052	circadian regulation of systemic arterial blood pressure
+RCV_000137	circadian	GO_0003067	circadian regulation of systemic arterial blood pressure by hormone
+RCV_000137	circadian	GO_0003054	circadian regulation of systemic arterial blood pressure by the suprachiasmatic nucleus
+RCV_000137	circadian	GO_0097167	circadian regulation of translation
+RCV_000137	circadian	GO_0007623	circadian rhythm
+RCV_000137	circadian	GO_0042745	circadian sleep/wake cycle
+RCV_000137	circadian	GO_0022410	circadian sleep/wake cycle process
+RCV_000137	circadian	GO_0042747	circadian sleep/wake cycle, REM sleep
+RCV_000137	circadian	GO_0042748	circadian sleep/wake cycle, non-REM sleep
+RCV_000137	circadian	GO_0050802	circadian sleep/wake cycle, sleep
+RCV_000137	circadian	GO_0042746	circadian sleep/wake cycle, wakefulness
+RCV_000137	circadian	GO_0060086	circadian temperature homeostasis
+RCV_000137	circadian	GO_0008062	eclosion rhythm
+RCV_000137	circadian	GO_0009649	entrainment of circadian clock
+RCV_000137	circadian	GO_0043153	entrainment of circadian clock by photoperiod
+RCV_000137	circadian	GO_0045475	locomotor rhythm
+RCV_000137	circadian	GO_0042754	negative regulation of circadian rhythm
+RCV_000137	circadian	GO_0042322	negative regulation of circadian sleep/wake cycle, REM sleep
+RCV_000137	circadian	GO_0042323	negative regulation of circadian sleep/wake cycle, non-REM sleep
+RCV_000137	circadian	GO_0042321	negative regulation of circadian sleep/wake cycle, sleep
+RCV_000137	circadian	GO_0042753	positive regulation of circadian rhythm
+RCV_000137	circadian	GO_0046005	positive regulation of circadian sleep/wake cycle, REM sleep
+RCV_000137	circadian	GO_0046010	positive regulation of circadian sleep/wake cycle, non-REM sleep
+RCV_000137	circadian	GO_0045938	positive regulation of circadian sleep/wake cycle, sleep
+RCV_000137	circadian	GO_0010841	positive regulation of circadian sleep/wake cycle, wakefulness
+RCV_000137	circadian	GO_0042752	regulation of circadian rhythm
+RCV_000137	circadian	GO_0042749	regulation of circadian sleep/wake cycle
+RCV_000137	circadian	GO_0042320	regulation of circadian sleep/wake cycle, REM sleep
+RCV_000137	circadian	GO_0045188	regulation of circadian sleep/wake cycle, non-REM sleep
+RCV_000137	circadian	GO_0045187	regulation of circadian sleep/wake cycle, sleep
+RCV_000137	circadian	GO_0010840	regulation of circadian sleep/wake cycle, wakefulness
+RCV_000137	circadian	GO_0030431	sleep
+RCV_000137	circadian	GO_0010378	temperature compensation of the circadian clock
+RCV_000138	circulatory system	GO_0001998	angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0014830	arteriole smooth muscle contraction
+RCV_000138	circulatory system	GO_0014824	artery smooth muscle contraction
+RCV_000138	circulatory system	GO_0001981	baroreceptor detection of arterial stretch
+RCV_000138	circulatory system	GO_0003024	baroreceptor detection of decreased arterial stretch
+RCV_000138	circulatory system	GO_0003023	baroreceptor detection of increased arterial stretch
+RCV_000138	circulatory system	GO_0008015	blood circulation
+RCV_000138	circulatory system	GO_0072359	circulatory system development
+RCV_000138	circulatory system	GO_0003013	circulatory system process
+RCV_000138	circulatory system	GO_1990192	collecting lymphatic vessel constriction
+RCV_000138	circulatory system	GO_0060047	heart contraction
+RCV_000138	circulatory system	GO_0003015	heart process
+RCV_000138	circulatory system	GO_0003017	lymph circulation
+RCV_000138	circulatory system	GO_1990183	lymphatic vascular process in circulatory system
+RCV_000138	circulatory system	GO_0043116	negative regulation of vascular permeability
+RCV_000138	circulatory system	GO_0001994	norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0043117	positive regulation of vascular permeability
+RCV_000138	circulatory system	GO_0050880	regulation of blood vessel size
+RCV_000138	circulatory system	GO_0002034	regulation of blood vessel size by renin-angiotensin
+RCV_000138	circulatory system	GO_1990185	regulation of lymphatic vascular permeability
+RCV_000138	circulatory system	GO_1990186	regulation of lymphatic vessel size
+RCV_000138	circulatory system	GO_0002015	regulation of systemic arterial blood pressure by atrial baroreceptor feedback
+RCV_000138	circulatory system	GO_0043114	regulation of vascular permeability
+RCV_000138	circulatory system	GO_0002528	regulation of vascular permeability involved in acute inflammatory response
+RCV_000138	circulatory system	GO_0003018	vascular process in circulatory system
+RCV_000138	circulatory system	GO_0014829	vascular smooth muscle contraction
+RCV_000138	circulatory system	GO_0042310	vasoconstriction
+RCV_000138	circulatory system	GO_0002006	vasoconstriction by vasopressin involved in systemic arterial blood pressure control
+RCV_000138	circulatory system	GO_0003043	vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0001987	vasoconstriction of artery involved in baroreceptor response to lowering of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0003042	vasoconstriction of artery involved in carotid body chemoreceptor response to lowering of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0002012	vasoconstriction of artery involved in chemoreceptor response to lowering of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0002014	vasoconstriction of artery involved in ischemic response to lowering of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0042311	vasodilation
+RCV_000138	circulatory system	GO_0003069	vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0002033	vasodilation by angiotensin involved in regulation of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0002025	vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure
+RCV_000138	circulatory system	GO_0002527	vasodilation involved in acute inflammatory response
+RCV_000138	circulatory system	GO_0001984	vasodilation of artery involved in baroreceptor response to increased systemic arterial blood pressure
+RCV_000138	circulatory system	GO_1990029	vasomotion
+RCV_000138	circulatory system	GO_0014826	vein smooth muscle contraction
 RCV_000139	cytoskeleton	GO_0070060	'de novo' actin filament nucleation
 RCV_000139	cytoskeleton	GO_0097649	A tubule
 RCV_000139	cytoskeleton	GO_0034314	Arp2/3 complex-mediated actin nucleation
@@ -4202,6 +4515,7 @@ RCV_000139	cytoskeleton	GO_0000915	actomyosin contractile ring assembly
 RCV_000139	cytoskeleton	GO_0071520	actomyosin contractile ring assembly actin filament bundle convergence
 RCV_000139	cytoskeleton	GO_2000689	actomyosin contractile ring assembly actin filament organization
 RCV_000139	cytoskeleton	GO_0000916	actomyosin contractile ring contraction
+RCV_000139	cytoskeleton	GO_1902621	actomyosin contractile ring disassembly
 RCV_000139	cytoskeleton	GO_0032187	actomyosin contractile ring localization
 RCV_000139	cytoskeleton	GO_0031566	actomyosin contractile ring maintenance
 RCV_000139	cytoskeleton	GO_0044837	actomyosin contractile ring organization
@@ -4210,6 +4524,9 @@ RCV_000139	cytoskeleton	GO_0042643	actomyosin, actin portion
 RCV_000139	cytoskeleton	GO_0042642	actomyosin, myosin complex part
 RCV_000139	cytoskeleton	GO_0055048	anastral spindle assembly
 RCV_000139	cytoskeleton	GO_0009971	anastral spindle assembly involved in male meiosis
+RCV_000139	cytoskeleton	GO_0008089	anterograde axon cargo transport
+RCV_000139	cytoskeleton	GO_0003383	apical constriction
+RCV_000139	cytoskeleton	GO_0003384	apical constriction involved in gastrulation
 RCV_000139	cytoskeleton	GO_0000912	assembly of actomyosin apparatus involved in cytokinesis
 RCV_000139	cytoskeleton	GO_0005818	aster
 RCV_000139	cytoskeleton	GO_0000235	astral microtubule
@@ -4219,12 +4536,16 @@ RCV_000139	cytoskeleton	GO_0030953	astral microtubule organization
 RCV_000139	cytoskeleton	GO_0055049	astral spindle assembly
 RCV_000139	cytoskeleton	GO_0055050	astral spindle assembly involved in male meiosis
 RCV_000139	cytoskeleton	GO_0055004	atrial cardiac myofibril assembly
+RCV_000139	cytoskeleton	GO_0008088	axon cargo transport
 RCV_000139	cytoskeleton	GO_1901589	axon microtubule bundle
+RCV_000139	cytoskeleton	GO_0019896	axon transport of mitochondrion
 RCV_000139	cytoskeleton	GO_0005858	axonemal dynein complex
+RCV_000139	cytoskeleton	GO_0070286	axonemal dynein complex assembly
 RCV_000139	cytoskeleton	GO_0005879	axonemal microtubule
 RCV_000139	cytoskeleton	GO_0060404	axonemal microtubule depolymerization
 RCV_000139	cytoskeleton	GO_0051016	barbed-end actin filament capping
 RCV_000139	cytoskeleton	GO_0051638	barbed-end actin filament uncapping
+RCV_000139	cytoskeleton	GO_0086003	cardiac muscle cell contraction
 RCV_000139	cytoskeleton	GO_0071690	cardiac muscle myosin thick filament assembly
 RCV_000139	cytoskeleton	GO_0071691	cardiac muscle thin filament assembly
 RCV_000139	cytoskeleton	GO_0055003	cardiac myofibril assembly
@@ -4238,6 +4559,7 @@ RCV_000139	cytoskeleton	GO_0005823	central plaque of spindle pole body
 RCV_000139	cytoskeleton	GO_0097149	centralspindlin complex
 RCV_000139	cytoskeleton	GO_0034451	centriolar satellite
 RCV_000139	cytoskeleton	GO_0005814	centriole
+RCV_000139	cytoskeleton	GO_0098534	centriole assembly
 RCV_000139	cytoskeleton	GO_0061511	centriole elongation
 RCV_000139	cytoskeleton	GO_0007099	centriole replication
 RCV_000139	cytoskeleton	GO_0010457	centriole-centriole cohesion
@@ -4251,11 +4573,16 @@ RCV_000139	cytoskeleton	GO_0051299	centrosome separation
 RCV_000139	cytoskeleton	GO_0090222	centrosome-templated microtubule nucleation
 RCV_000139	cytoskeleton	GO_0032166	chlamydospore septin filament array
 RCV_000139	cytoskeleton	GO_0090223	chromatin-templated microtubule nucleation
+RCV_000139	cytoskeleton	GO_0051305	chromosome movement towards spindle pole
 RCV_000139	cytoskeleton	GO_0032133	chromosome passenger complex
 RCV_000139	cytoskeleton	GO_0036064	ciliary basal body
 RCV_000139	cytoskeleton	GO_0032054	ciliary basal body duplication
 RCV_000139	cytoskeleton	GO_0032053	ciliary basal body organization
 RCV_000139	cytoskeleton	GO_0035253	ciliary rootlet
+RCV_000139	cytoskeleton	GO_0003341	cilium movement
+RCV_000139	cytoskeleton	GO_0060294	cilium movement involved in cell motility
+RCV_000139	cytoskeleton	GO_0003355	cilium movement involved in otolith formation
+RCV_000139	cytoskeleton	GO_0060285	cilium-dependent cell motility
 RCV_000139	cytoskeleton	GO_0032161	cleavage apparatus septin structure
 RCV_000139	cytoskeleton	GO_0020010	conoid
 RCV_000139	cytoskeleton	GO_0097517	contractile actin filament bundle
@@ -4269,6 +4596,9 @@ RCV_000139	cytoskeleton	GO_0030981	cortical microtubule cytoskeleton
 RCV_000139	cytoskeleton	GO_0043622	cortical microtubule organization
 RCV_000139	cytoskeleton	GO_0010005	cortical microtubule, transverse to long axis
 RCV_000139	cytoskeleton	GO_0032437	cuticular plate
+RCV_000139	cytoskeleton	GO_0060327	cytoplasmic actin-based contraction involved in cell motility
+RCV_000139	cytoskeleton	GO_0060328	cytoplasmic actin-based contraction involved in forward cell motility
+RCV_000139	cytoskeleton	GO_0060329	cytoplasmic actin-based contraction involved in rearward cell motility
 RCV_000139	cytoskeleton	GO_0005868	cytoplasmic dynein complex
 RCV_000139	cytoskeleton	GO_0005881	cytoplasmic microtubule
 RCV_000139	cytoskeleton	GO_0010938	cytoplasmic microtubule depolymerization
@@ -4277,12 +4607,16 @@ RCV_000139	cytoskeleton	GO_0033150	cytoskeletal calyx
 RCV_000139	cytoskeleton	GO_0048789	cytoskeletal matrix organization at active zone
 RCV_000139	cytoskeleton	GO_0044430	cytoskeletal part
 RCV_000139	cytoskeleton	GO_0003426	cytoskeleton polarization involved in growth plate cartilage chondrocyte division
+RCV_000139	cytoskeleton	GO_0098535	de novo centriole assembly
 RCV_000139	cytoskeleton	GO_0032123	deep fiber
 RCV_000139	cytoskeleton	GO_1901588	dendritic microtubule
 RCV_000139	cytoskeleton	GO_0005869	dynactin complex
 RCV_000139	cytoskeleton	GO_0030286	dynein complex
 RCV_000139	cytoskeleton	GO_0070840	dynein complex binding
+RCV_000139	cytoskeleton	GO_0030989	dynein-driven meiotic oscillatory nuclear movement
 RCV_000139	cytoskeleton	GO_0036286	eisosome filament
+RCV_000139	cytoskeleton	GO_0003351	epithelial cilium movement
+RCV_000139	cytoskeleton	GO_0060287	epithelial cilium movement involved in determination of left/right asymmetry
 RCV_000139	cytoskeleton	GO_0031121	equatorial microtubule organization
 RCV_000139	cytoskeleton	GO_0000923	equatorial microtubule organizing center
 RCV_000139	cytoskeleton	GO_0031025	equatorial microtubule organizing center disassembly
@@ -4291,10 +4625,12 @@ RCV_000139	cytoskeleton	GO_1903486	establishment of mitotic actomyosin contracti
 RCV_000139	cytoskeleton	GO_0030951	establishment or maintenance of microtubule cytoskeleton polarity
 RCV_000139	cytoskeleton	GO_0008302	female germline ring canal formation, actin assembly
 RCV_000139	cytoskeleton	GO_0008335	female germline ring canal stabilization
+RCV_000139	cytoskeleton	GO_0016345	female meiotic chromosome movement towards spindle pole
 RCV_000139	cytoskeleton	GO_0031941	filamentous actin
 RCV_000139	cytoskeleton	GO_0070648	formin-nucleated actin cable
 RCV_000139	cytoskeleton	GO_0070649	formin-nucleated actin cable assembly
 RCV_000139	cytoskeleton	GO_0000930	gamma-tubulin complex
+RCV_000139	cytoskeleton	GO_1902481	gamma-tubulin complex assembly
 RCV_000139	cytoskeleton	GO_0033566	gamma-tubulin complex localization
 RCV_000139	cytoskeleton	GO_0000931	gamma-tubulin large complex
 RCV_000139	cytoskeleton	GO_0055031	gamma-tubulin large complex, equatorial microtubule organizing center
@@ -4309,17 +4645,18 @@ RCV_000139	cytoskeleton	GO_0061495	gamma-tubulin small complex, mitotic spindle 
 RCV_000139	cytoskeleton	GO_0000928	gamma-tubulin small complex, spindle pole body
 RCV_000139	cytoskeleton	GO_0032171	germ tube septin cap
 RCV_000139	cytoskeleton	GO_0032172	germ tube septin ring
-RCV_000139	cytoskeleton	GO_0097483	glial cell postsynaptic density
 RCV_000139	cytoskeleton	GO_0097426	glial filament
 RCV_000139	cytoskeleton	GO_0098593	goblet cell theca
 RCV_000139	cytoskeleton	GO_0061496	half bridge of mitotic spindle pole body
 RCV_000139	cytoskeleton	GO_0005825	half bridge of spindle pole body
+RCV_000139	cytoskeleton	GO_0051758	homologous chromosome movement towards spindle pole involved in homologous chromosome segregation
 RCV_000139	cytoskeleton	GO_0032117	horsetail-astral microtubule array
 RCV_000139	cytoskeleton	GO_0032118	horsetail-astral microtubule organization
 RCV_000139	cytoskeleton	GO_0032163	hyphal septin band
 RCV_000139	cytoskeleton	GO_0032164	hyphal septin cap
 RCV_000139	cytoskeleton	GO_0032168	hyphal septin ring
 RCV_000139	cytoskeleton	GO_0036156	inner dynein arm
+RCV_000139	cytoskeleton	GO_0036159	inner dynein arm assembly
 RCV_000139	cytoskeleton	GO_0061497	inner plaque of mitotic spindle pole body
 RCV_000139	cytoskeleton	GO_0005822	inner plaque of spindle pole body
 RCV_000139	cytoskeleton	GO_0005882	intermediate filament
@@ -4336,6 +4673,10 @@ RCV_000139	cytoskeleton	GO_0005821	intermediate layer of spindle pole body
 RCV_000139	cytoskeleton	GO_0051415	interphase microtubule nucleation by interphase microtubule organizing center
 RCV_000139	cytoskeleton	GO_0031021	interphase microtubule organizing center
 RCV_000139	cytoskeleton	GO_0031024	interphase microtubule organizing center assembly
+RCV_000139	cytoskeleton	GO_0035720	intraciliary anterograde transport
+RCV_000139	cytoskeleton	GO_0035721	intraciliary retrograde transport
+RCV_000139	cytoskeleton	GO_0042073	intraciliary transport
+RCV_000139	cytoskeleton	GO_0035735	intraciliary transport involved in cilium morphogenesis
 RCV_000139	cytoskeleton	GO_0033289	intraconoid microtubule
 RCV_000139	cytoskeleton	GO_0070865	investment cone
 RCV_000139	cytoskeleton	GO_0008352	katanin complex
@@ -4351,19 +4692,23 @@ RCV_000139	cytoskeleton	GO_1902671	left anterior basal body
 RCV_000139	cytoskeleton	GO_1902677	left caudal basal body
 RCV_000139	cytoskeleton	GO_1902673	left posteriolateral basal body
 RCV_000139	cytoskeleton	GO_1902675	left ventral basal body
+RCV_000139	cytoskeleton	GO_0031887	lipid particle transport along microtubule
 RCV_000139	cytoskeleton	GO_0070687	macropinocytic cup cytoskeleton
 RCV_000139	cytoskeleton	GO_0032189	maintenance of actomyosin contractile ring localization
 RCV_000139	cytoskeleton	GO_1903474	maintenance of mitotic actomyosin contractile ring localization
 RCV_000139	cytoskeleton	GO_0007101	male meiosis centrosome cycle
+RCV_000139	cytoskeleton	GO_0016346	male meiotic chromosome movement towards spindle pole
 RCV_000139	cytoskeleton	GO_0002177	manchette
 RCV_000139	cytoskeleton	GO_0032162	mating projection septin band
 RCV_000139	cytoskeleton	GO_0032175	mating projection septin ring
 RCV_000139	cytoskeleton	GO_0036391	medial cortex septin ring
 RCV_000139	cytoskeleton	GO_0097568	median body
+RCV_000139	cytoskeleton	GO_0016344	meiotic chromosome movement towards spindle pole
 RCV_000139	cytoskeleton	GO_0032152	meiotic septin complex
 RCV_000139	cytoskeleton	GO_0072687	meiotic spindle
 RCV_000139	cytoskeleton	GO_0051229	meiotic spindle disassembly
 RCV_000139	cytoskeleton	GO_1990385	meiotic spindle midzone
+RCV_000139	cytoskeleton	GO_0051257	meiotic spindle midzone assembly
 RCV_000139	cytoskeleton	GO_0000212	meiotic spindle organization
 RCV_000139	cytoskeleton	GO_0035974	meiotic spindle pole body
 RCV_000139	cytoskeleton	GO_1990395	meiotic spindle pole body organization
@@ -4405,10 +4750,14 @@ RCV_000139	cytoskeleton	GO_0005872	minus-end kinesin complex
 RCV_000139	cytoskeleton	GO_0036078	minus-end specific microtubule depolymerization
 RCV_000139	cytoskeleton	GO_0072385	minus-end-directed organelle transport along microtubule
 RCV_000139	cytoskeleton	GO_0072382	minus-end-directed vesicle transport along microtubule
+RCV_000139	cytoskeleton	GO_0034642	mitochondrion migration along actin filament
+RCV_000139	cytoskeleton	GO_0047497	mitochondrion transport along microtubule
 RCV_000139	cytoskeleton	GO_1903475	mitotic actomyosin contractile ring assembly
 RCV_000139	cytoskeleton	GO_1903479	mitotic actomyosin contractile ring assembly actin filament organization
+RCV_000139	cytoskeleton	GO_1990274	mitotic actomyosin contractile ring disassembly
 RCV_000139	cytoskeleton	GO_1902405	mitotic actomyosin contractile ring localization
 RCV_000139	cytoskeleton	GO_0007100	mitotic centrosome separation
+RCV_000139	cytoskeleton	GO_0007079	mitotic chromosome movement towards spindle pole
 RCV_000139	cytoskeleton	GO_1903477	mitotic ring actin filament bundle assembly
 RCV_000139	cytoskeleton	GO_1903478	mitotic ring assembly actin filament bundle convergence
 RCV_000139	cytoskeleton	GO_0032151	mitotic septin complex
@@ -4416,12 +4765,15 @@ RCV_000139	cytoskeleton	GO_0072686	mitotic spindle
 RCV_000139	cytoskeleton	GO_0051228	mitotic spindle disassembly
 RCV_000139	cytoskeleton	GO_1990498	mitotic spindle microtubule
 RCV_000139	cytoskeleton	GO_1990023	mitotic spindle midzone
+RCV_000139	cytoskeleton	GO_0051256	mitotic spindle midzone assembly
 RCV_000139	cytoskeleton	GO_0007052	mitotic spindle organization
 RCV_000139	cytoskeleton	GO_0030472	mitotic spindle organization in nucleus
+RCV_000139	cytoskeleton	GO_1990537	mitotic spindle polar microtubule
 RCV_000139	cytoskeleton	GO_0097431	mitotic spindle pole
 RCV_000139	cytoskeleton	GO_0044732	mitotic spindle pole body
+RCV_000139	cytoskeleton	GO_1903087	mitotic spindle pole body duplication
 RCV_000139	cytoskeleton	GO_0090221	mitotic spindle-templated microtubule nucleation
-RCV_000139	cytoskeleton	GO_0097482	muscle cell postsynaptic density
+RCV_000139	cytoskeleton	GO_0030049	muscle filament sliding
 RCV_000139	cytoskeleton	GO_0005859	muscle myosin complex
 RCV_000139	cytoskeleton	GO_0071689	muscle thin filament assembly
 RCV_000139	cytoskeleton	GO_0005862	muscle thin filament tropomyosin
@@ -4466,13 +4818,17 @@ RCV_000139	cytoskeleton	GO_2000578	negative regulation of minus-end-directed mic
 RCV_000139	cytoskeleton	GO_2000581	negative regulation of plus-end-directed microtubule motor activity
 RCV_000139	cytoskeleton	GO_0005883	neurofilament
 RCV_000139	cytoskeleton	GO_0033693	neurofilament bundle assembly
-RCV_000139	cytoskeleton	GO_0097481	neuronal postsynaptic density
 RCV_000139	cytoskeleton	GO_0071958	new mitotic spindle pole body
 RCV_000139	cytoskeleton	GO_0005880	nuclear microtubule
+RCV_000139	cytoskeleton	GO_0031022	nuclear migration along microfilament
 RCV_000139	cytoskeleton	GO_0030473	nuclear migration along microtubule
+RCV_000139	cytoskeleton	GO_0090561	nuclear migration during mitotic telophase
+RCV_000139	cytoskeleton	GO_0000743	nuclear migration involved in conjugation with cellular fusion
+RCV_000139	cytoskeleton	GO_0021817	nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration
 RCV_000139	cytoskeleton	GO_0071957	old mitotic spindle pole body
 RCV_000139	cytoskeleton	GO_0072384	organelle transport along microtubule
 RCV_000139	cytoskeleton	GO_0036157	outer dynein arm
+RCV_000139	cytoskeleton	GO_0036158	outer dynein arm assembly
 RCV_000139	cytoskeleton	GO_0061499	outer plaque of mitotic spindle pole body
 RCV_000139	cytoskeleton	GO_0005824	outer plaque of spindle pole body
 RCV_000139	cytoskeleton	GO_0097518	parallel actin filament bundle
@@ -4486,6 +4842,7 @@ RCV_000139	cytoskeleton	GO_0070462	plus-end specific microtubule depolymerizatio
 RCV_000139	cytoskeleton	GO_0072386	plus-end-directed organelle transport along microtubule
 RCV_000139	cytoskeleton	GO_0072383	plus-end-directed vesicle transport along microtubule
 RCV_000139	cytoskeleton	GO_0002102	podosome
+RCV_000139	cytoskeleton	GO_0071800	podosome assembly
 RCV_000139	cytoskeleton	GO_0005827	polar microtubule
 RCV_000139	cytoskeleton	GO_0000133	polarisome
 RCV_000139	cytoskeleton	GO_0051987	positive regulation of attachment of spindle microtubules to kinetochore
@@ -4499,10 +4856,8 @@ RCV_000139	cytoskeleton	GO_0031112	positive regulation of microtubule polymeriza
 RCV_000139	cytoskeleton	GO_2000579	positive regulation of minus-end-directed microtubule motor activity
 RCV_000139	cytoskeleton	GO_2000582	positive regulation of plus-end-directed microtubule motor activity
 RCV_000139	cytoskeleton	GO_1990295	post-anaphase microtubule array
-RCV_000139	cytoskeleton	GO_0014069	postsynaptic density
-RCV_000139	cytoskeleton	GO_0097107	postsynaptic density assembly
-RCV_000139	cytoskeleton	GO_0097106	postsynaptic density organization
 RCV_000139	cytoskeleton	GO_0009574	preprophase band
+RCV_000139	cytoskeleton	GO_0000913	preprophase band assembly
 RCV_000139	cytoskeleton	GO_0032157	prospore contractile ring
 RCV_000139	cytoskeleton	GO_0032165	prospore septin filament array
 RCV_000139	cytoskeleton	GO_0032169	prospore septin ring
@@ -4542,6 +4897,7 @@ RCV_000139	cytoskeleton	GO_0032886	regulation of microtubule-based process
 RCV_000139	cytoskeleton	GO_2000577	regulation of minus-end-directed microtubule motor activity
 RCV_000139	cytoskeleton	GO_2000694	regulation of phragmoplast microtubule organization
 RCV_000139	cytoskeleton	GO_2000580	regulation of plus-end-directed microtubule motor activity
+RCV_000139	cytoskeleton	GO_0008090	retrograde axon cargo transport
 RCV_000139	cytoskeleton	GO_1902672	right anterior basal body
 RCV_000139	cytoskeleton	GO_1902678	right caudal basal body
 RCV_000139	cytoskeleton	GO_1902674	right posteriolateral basal body
@@ -4554,7 +4910,10 @@ RCV_000139	cytoskeleton	GO_0032173	septin collar
 RCV_000139	cytoskeleton	GO_0031105	septin complex
 RCV_000139	cytoskeleton	GO_0032160	septin filament array
 RCV_000139	cytoskeleton	GO_0005940	septin ring
+RCV_000139	cytoskeleton	GO_0000921	septin ring assembly
+RCV_000139	cytoskeleton	GO_0031107	septin ring disassembly
 RCV_000139	cytoskeleton	GO_0031106	septin ring organization
+RCV_000139	cytoskeleton	GO_0051759	sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation
 RCV_000139	cytoskeleton	GO_0030241	skeletal muscle myosin thick filament assembly
 RCV_000139	cytoskeleton	GO_0030240	skeletal muscle thin filament assembly
 RCV_000139	cytoskeleton	GO_0014866	skeletal myofibril assembly
@@ -4575,9 +4934,11 @@ RCV_000139	cytoskeleton	GO_0051653	spindle localization
 RCV_000139	cytoskeleton	GO_1990047	spindle matrix
 RCV_000139	cytoskeleton	GO_0005876	spindle microtubule
 RCV_000139	cytoskeleton	GO_0051233	spindle midzone
+RCV_000139	cytoskeleton	GO_0051255	spindle midzone assembly
 RCV_000139	cytoskeleton	GO_0007051	spindle organization
 RCV_000139	cytoskeleton	GO_0000922	spindle pole
 RCV_000139	cytoskeleton	GO_0005816	spindle pole body
+RCV_000139	cytoskeleton	GO_0030474	spindle pole body duplication
 RCV_000139	cytoskeleton	GO_0051300	spindle pole body organization
 RCV_000139	cytoskeleton	GO_0031616	spindle pole centrosome
 RCV_000139	cytoskeleton	GO_0032176	split septin rings
@@ -4588,7 +4949,9 @@ RCV_000139	cytoskeleton	GO_0071688	striated muscle myosin thick filament assembl
 RCV_000139	cytoskeleton	GO_0005865	striated muscle thin filament
 RCV_000139	cytoskeleton	GO_0020025	subpellicular microtubule
 RCV_000139	cytoskeleton	GO_0020038	subpellicular network
+RCV_000139	cytoskeleton	GO_0006932	substrate-dependent cell migration, cell contraction
 RCV_000139	cytoskeleton	GO_1990357	terminal web
+RCV_000139	cytoskeleton	GO_1902896	terminal web assembly
 RCV_000139	cytoskeleton	GO_0005861	troponin complex
 RCV_000139	cytoskeleton	GO_0045298	tubulin complex
 RCV_000139	cytoskeleton	GO_0007021	tubulin complex assembly
@@ -4597,6 +4960,760 @@ RCV_000139	cytoskeleton	GO_0090042	tubulin deacetylation
 RCV_000139	cytoskeleton	GO_0045098	type III intermediate filament
 RCV_000139	cytoskeleton	GO_0016461	unconventional myosin complex
 RCV_000139	cytoskeleton	GO_0055005	ventricular cardiac myofibril assembly
+RCV_000139	cytoskeleton	GO_0030050	vesicle transport along actin filament
+RCV_000139	cytoskeleton	GO_0047496	vesicle transport along microtubule
+RCV_000140	defense response	GO_0009307	DNA restriction-modification system
+RCV_000140	defense response	GO_0051215	DNA virus induced gene silencing
+RCV_000140	defense response	GO_0002542	Factor XII activation
+RCV_000140	defense response	GO_1903554	G-protein coupled receptor signaling pathway involved in defense response to Gram-negative bacterium
+RCV_000140	defense response	GO_0038075	MAP kinase activity involved in innate immune response
+RCV_000140	defense response	GO_0038076	MAP kinase kinase activity involved in innate immune response
+RCV_000140	defense response	GO_0038077	MAP kinase kinase kinase activity involved in innate immune response
+RCV_000140	defense response	GO_0035420	MAPK cascade involved in innate immune response
+RCV_000140	defense response	GO_0035424	MAPK import into nucleus involved in innate immune response
+RCV_000140	defense response	GO_0039530	MDA-5 signaling pathway
+RCV_000140	defense response	GO_0035661	MyD88-dependent toll-like receptor 2 signaling pathway
+RCV_000140	defense response	GO_0035660	MyD88-dependent toll-like receptor 4 signaling pathway
+RCV_000140	defense response	GO_0002755	MyD88-dependent toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0002756	MyD88-independent toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0039529	RIG-I signaling pathway
+RCV_000140	defense response	GO_0051214	RNA virus induced gene silencing
+RCV_000140	defense response	GO_0035665	TIRAP-dependent toll-like receptor 4 signaling pathway
+RCV_000140	defense response	GO_0035664	TIRAP-dependent toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0035669	TRAM-dependent toll-like receptor 4 signaling pathway
+RCV_000140	defense response	GO_0035668	TRAM-dependent toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0035667	TRIF-dependent toll-like receptor 4 signaling pathway
+RCV_000140	defense response	GO_0035666	TRIF-dependent toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0035419	activation of MAPK activity involved in innate immune response
+RCV_000140	defense response	GO_0035421	activation of MAPKK activity involved in innate immune response
+RCV_000140	defense response	GO_0035422	activation of MAPKKK activity involved in innate immune response
+RCV_000140	defense response	GO_0002543	activation of blood coagulation via clotting cascade
+RCV_000140	defense response	GO_0002218	activation of innate immune response
+RCV_000140	defense response	GO_0002541	activation of plasma proteins involved in acute inflammatory response
+RCV_000140	defense response	GO_0046737	active induction of cell-mediated immune response in host by virus
+RCV_000140	defense response	GO_0046732	active induction of host immune response by virus
+RCV_000140	defense response	GO_0046736	active induction of humoral immune response in host by virus
+RCV_000140	defense response	GO_0046738	active induction of innate immune response in host by virus
+RCV_000140	defense response	GO_0002526	acute inflammatory response
+RCV_000140	defense response	GO_0002438	acute inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002525	acute inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0006953	acute-phase response
+RCV_000140	defense response	GO_0019731	antibacterial humoral response
+RCV_000140	defense response	GO_0002780	antibacterial peptide biosynthetic process
+RCV_000140	defense response	GO_0002778	antibacterial peptide production
+RCV_000140	defense response	GO_0002779	antibacterial peptide secretion
+RCV_000140	defense response	GO_0001788	antibody-dependent cellular cytotoxicity
+RCV_000140	defense response	GO_0019732	antifungal humoral response
+RCV_000140	defense response	GO_0002783	antifungal peptide biosynthetic process
+RCV_000140	defense response	GO_0002781	antifungal peptide production
+RCV_000140	defense response	GO_0002782	antifungal peptide secretion
+RCV_000140	defense response	GO_0002538	arachidonic acid metabolite production involved in inflammatory response
+RCV_000140	defense response	GO_0002209	behavioral defense response
+RCV_000140	defense response	GO_0002211	behavioral defense response to insect
+RCV_000140	defense response	GO_0002212	behavioral defense response to nematode
+RCV_000140	defense response	GO_0001662	behavioral fear response
+RCV_000140	defense response	GO_0002812	biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+RCV_000140	defense response	GO_0002815	biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+RCV_000140	defense response	GO_0002752	cell surface pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0006968	cellular defense response
+RCV_000140	defense response	GO_0071346	cellular response to interferon-gamma
+RCV_000140	defense response	GO_0071357	cellular response to type I interferon
+RCV_000140	defense response	GO_0071358	cellular response to type III interferon
+RCV_000140	defense response	GO_0002544	chronic inflammatory response
+RCV_000140	defense response	GO_0002439	chronic inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002545	chronic inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0002247	clearance of damaged tissue involved in inflammatory response wound healing
+RCV_000140	defense response	GO_0044355	clearance of foreign intracellular DNA
+RCV_000140	defense response	GO_0044356	clearance of foreign intracellular DNA by conversion of DNA cytidine to uridine
+RCV_000140	defense response	GO_0006957	complement activation, alternative pathway
+RCV_000140	defense response	GO_0001867	complement activation, lectin pathway
+RCV_000140	defense response	GO_0002248	connective tissue replacement involved in inflammatory response wound healing
+RCV_000140	defense response	GO_0097299	cysteine-type endopeptidase activity involved in plant-type hypersensitive response
+RCV_000140	defense response	GO_0002534	cytokine production involved in inflammatory response
+RCV_000140	defense response	GO_0051838	cytolysis by host of symbiont cells
+RCV_000140	defense response	GO_0002753	cytoplasmic pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0039528	cytoplasmic pattern recognition receptor signaling pathway in response to virus
+RCV_000140	defense response	GO_0006952	defense response
+RCV_000140	defense response	GO_0052542	defense response by callose deposition
+RCV_000140	defense response	GO_0052544	defense response by callose deposition in cell wall
+RCV_000140	defense response	GO_0052482	defense response by cell wall thickening
+RCV_000140	defense response	GO_0009870	defense response signaling pathway, resistance gene-dependent
+RCV_000140	defense response	GO_0010204	defense response signaling pathway, resistance gene-independent
+RCV_000140	defense response	GO_0050829	defense response to Gram-negative bacterium
+RCV_000140	defense response	GO_0050830	defense response to Gram-positive bacterium
+RCV_000140	defense response	GO_0042742	defense response to bacterium
+RCV_000140	defense response	GO_0009816	defense response to bacterium, incompatible interaction
+RCV_000140	defense response	GO_0050832	defense response to fungus
+RCV_000140	defense response	GO_0009817	defense response to fungus, incompatible interaction
+RCV_000140	defense response	GO_0002213	defense response to insect
+RCV_000140	defense response	GO_0002215	defense response to nematode
+RCV_000140	defense response	GO_0002229	defense response to oomycetes
+RCV_000140	defense response	GO_0098542	defense response to other organism
+RCV_000140	defense response	GO_0002242	defense response to parasitic plant
+RCV_000140	defense response	GO_0042832	defense response to protozoan
+RCV_000140	defense response	GO_0009818	defense response to protozoan, incompatible interaction
+RCV_000140	defense response	GO_0002357	defense response to tumor cell
+RCV_000140	defense response	GO_0051607	defense response to virus
+RCV_000140	defense response	GO_0009814	defense response, incompatible interaction
+RCV_000140	defense response	GO_0051852	disruption by host of symbiont cells
+RCV_000140	defense response	GO_0080185	effector dependent induction by symbiont of host immune response
+RCV_000140	defense response	GO_0043272	ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance
+RCV_000140	defense response	GO_0039673	evasion by virus of host dendritic cell activity
+RCV_000140	defense response	GO_0039671	evasion by virus of host natural killer cell activity
+RCV_000140	defense response	GO_0030683	evasion or tolerance by virus of host immune response
+RCV_000140	defense response	GO_0001660	fever generation
+RCV_000140	defense response	GO_0002432	granuloma formation
+RCV_000140	defense response	GO_0042381	hemolymph coagulation
+RCV_000140	defense response	GO_0002349	histamine production involved in inflammatory response
+RCV_000140	defense response	GO_0002557	histamine secretion by basophil
+RCV_000140	defense response	GO_0002553	histamine secretion by mast cell
+RCV_000140	defense response	GO_0002555	histamine secretion by platelet
+RCV_000140	defense response	GO_0002441	histamine secretion involved in inflammatory response
+RCV_000140	defense response	GO_0097279	histamine secretion mediated by IgE immunoglobulin
+RCV_000140	defense response	GO_0097280	histamine secretion mediated by immunoglobulin
+RCV_000140	defense response	GO_0060144	host cellular process involved in virus induced gene silencing
+RCV_000140	defense response	GO_0060146	host gene silencing in virus induced gene silencing
+RCV_000140	defense response	GO_0002524	hypersensitivity
+RCV_000140	defense response	GO_0035423	inactivation of MAPK activity involved in innate immune response
+RCV_000140	defense response	GO_0009682	induced systemic resistance
+RCV_000140	defense response	GO_0009866	induced systemic resistance, ethylene mediated signaling pathway
+RCV_000140	defense response	GO_0009864	induced systemic resistance, jasmonic acid mediated signaling pathway
+RCV_000140	defense response	GO_0052393	induction by host of symbiont defense response
+RCV_000140	defense response	GO_0052251	induction by organism of defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052265	induction by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052290	induction by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052263	induction by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052264	induction by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052558	induction by organism of immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052288	induction by organism of induced systemic resistance in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052382	induction by organism of innate immune response in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052262	induction by organism of phytoalexin production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052286	induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052289	induction by organism of systemic acquired resistance in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052391	induction by symbiont of defense-related host calcium ion flux
+RCV_000140	defense response	GO_0052105	induction by symbiont of defense-related host cell wall thickening
+RCV_000140	defense response	GO_0052063	induction by symbiont of defense-related host nitric oxide production
+RCV_000140	defense response	GO_0052064	induction by symbiont of defense-related host reactive oxygen species production
+RCV_000140	defense response	GO_0044416	induction by symbiont of host defense response
+RCV_000140	defense response	GO_0052559	induction by symbiont of host immune response
+RCV_000140	defense response	GO_0052103	induction by symbiont of host induced systemic resistance
+RCV_000140	defense response	GO_0052390	induction by symbiont of host innate immune response
+RCV_000140	defense response	GO_0052062	induction by symbiont of host phytoalexin production
+RCV_000140	defense response	GO_0052101	induction by symbiont of host resistance gene-dependent defense response
+RCV_000140	defense response	GO_0052104	induction by symbiont of host systemic acquired resistance
+RCV_000140	defense response	GO_0043152	induction of bacterial agglutination
+RCV_000140	defense response	GO_0046730	induction of host immune response by virus
+RCV_000140	defense response	GO_0009689	induction of phytoalexin biosynthetic process
+RCV_000140	defense response	GO_0006954	inflammatory response
+RCV_000140	defense response	GO_0002437	inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0090594	inflammatory response to wounding
+RCV_000140	defense response	GO_0045087	innate immune response
+RCV_000140	defense response	GO_0002220	innate immune response activating cell surface receptor signaling pathway
+RCV_000140	defense response	GO_0002227	innate immune response in mucosa
+RCV_000140	defense response	GO_0002758	innate immune response-activating signal transduction
+RCV_000140	defense response	GO_0004906	interferon-gamma receptor activity
+RCV_000140	defense response	GO_0060333	interferon-gamma-mediated signaling pathway
+RCV_000140	defense response	GO_0002818	intracellular defense response
+RCV_000140	defense response	GO_0002754	intracellular vesicle pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0009861	jasmonic acid and ethylene-dependent systemic resistance
+RCV_000140	defense response	GO_0009871	jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway
+RCV_000140	defense response	GO_0009868	jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway
+RCV_000140	defense response	GO_0051873	killing by host of symbiont cells
+RCV_000140	defense response	GO_0002254	kinin cascade
+RCV_000140	defense response	GO_0002269	leukocyte activation involved in inflammatory response
+RCV_000140	defense response	GO_0002232	leukocyte chemotaxis involved in inflammatory response
+RCV_000140	defense response	GO_0002523	leukocyte migration involved in inflammatory response
+RCV_000140	defense response	GO_0002540	leukotriene production involved in inflammatory response
+RCV_000140	defense response	GO_0002393	lysosomal enzyme production involved in inflammatory response
+RCV_000140	defense response	GO_0002533	lysosomal enzyme secretion involved in inflammatory response
+RCV_000140	defense response	GO_0006962	male-specific antibacterial humoral response
+RCV_000140	defense response	GO_0050831	male-specific defense response to bacterium
+RCV_000140	defense response	GO_0035006	melanization defense response
+RCV_000140	defense response	GO_0035011	melanotic encapsulation of foreign target
+RCV_000140	defense response	GO_0052435	modulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052181	modulation by host of symbiont defense response
+RCV_000140	defense response	GO_0052293	modulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052295	modulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052294	modulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052255	modulation by organism of defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052277	modulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052301	modulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052307	modulation by organism of defense-related calcium-dependent protein kinase pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052285	modulation by organism of defense-related callose deposition of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052310	modulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052300	modulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052441	modulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052443	modulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052302	modulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052303	modulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052445	modulation by organism of defense-related salicylic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052279	modulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052552	modulation by organism of immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052298	modulation by organism of induced systemic resistance in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052256	modulation by organism of inflammatory response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052306	modulation by organism of innate immune response in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052283	modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052296	modulation by organism of microbe-associated molecular pattern-induced innate immune response in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052304	modulation by organism of phytoalexin production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052297	modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052284	modulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052299	modulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052080	modulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052162	modulation by symbiont of defense-related host calcium ion flux
+RCV_000140	defense response	GO_0052168	modulation by symbiont of defense-related host calcium-dependent protein kinase pathway
+RCV_000140	defense response	GO_0052090	modulation by symbiont of defense-related host callose deposition
+RCV_000140	defense response	GO_0052189	modulation by symbiont of defense-related host cell wall callose deposition
+RCV_000140	defense response	GO_0052161	modulation by symbiont of defense-related host cell wall thickening
+RCV_000140	defense response	GO_0052077	modulation by symbiont of defense-related host ethylene-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052082	modulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052163	modulation by symbiont of defense-related host nitric oxide production
+RCV_000140	defense response	GO_0052164	modulation by symbiont of defense-related host reactive oxygen species production
+RCV_000140	defense response	GO_0052081	modulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052154	modulation by symbiont of host B-cell mediated immune response
+RCV_000140	defense response	GO_0052156	modulation by symbiont of host T-cell mediated immune response
+RCV_000140	defense response	GO_0052155	modulation by symbiont of host cell-mediated immune response
+RCV_000140	defense response	GO_0052031	modulation by symbiont of host defense response
+RCV_000140	defense response	GO_0034053	modulation by symbiont of host defense-related programmed cell death
+RCV_000140	defense response	GO_0033662	modulation by symbiont of host defense-related protein level
+RCV_000140	defense response	GO_0052084	modulation by symbiont of host ethylene-mediated defense response
+RCV_000140	defense response	GO_0052553	modulation by symbiont of host immune response
+RCV_000140	defense response	GO_0052159	modulation by symbiont of host induced systemic resistance
+RCV_000140	defense response	GO_0052032	modulation by symbiont of host inflammatory response
+RCV_000140	defense response	GO_0052167	modulation by symbiont of host innate immune response
+RCV_000140	defense response	GO_0052088	modulation by symbiont of host jasmonic acid-mediated defense response
+RCV_000140	defense response	GO_0052165	modulation by symbiont of host phytoalexin production
+RCV_000140	defense response	GO_0052158	modulation by symbiont of host resistance gene-dependent defense response
+RCV_000140	defense response	GO_0052089	modulation by symbiont of host salicylic acid-mediated defense response
+RCV_000140	defense response	GO_0052160	modulation by symbiont of host systemic acquired resistance
+RCV_000140	defense response	GO_0052157	modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response
+RCV_000140	defense response	GO_0044831	modulation by virus of host cytokine production
+RCV_000140	defense response	GO_0075528	modulation by virus of host immune response
+RCV_000140	defense response	GO_0044645	modulation of complement activation in other organism
+RCV_000140	defense response	GO_0044633	modulation of complement activation, alternative pathway in other organism
+RCV_000140	defense response	GO_0044627	modulation of complement activation, classical pathway in other organism
+RCV_000140	defense response	GO_0044630	modulation of complement activation, lectin pathway in other organism
+RCV_000140	defense response	GO_0002370	natural killer cell cytokine production
+RCV_000140	defense response	GO_0043320	natural killer cell degranulation
+RCV_000140	defense response	GO_0042267	natural killer cell mediated cytotoxicity
+RCV_000140	defense response	GO_0002420	natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000140	defense response	GO_0002423	natural killer cell mediated immune response to tumor cell
+RCV_000140	defense response	GO_0002228	natural killer cell mediated immunity
+RCV_000140	defense response	GO_0051840	negative regulation by host of cytolysis of symbiont cells
+RCV_000140	defense response	GO_0075102	negative regulation by host of symbiont MAP kinase-mediated signal transduction
+RCV_000140	defense response	GO_0052196	negative regulation by host of symbiont defense response
+RCV_000140	defense response	GO_0052281	negative regulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052280	negative regulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052278	negative regulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052275	negative regulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052282	negative regulation by organism of defense-related callose deposition in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052311	negative regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052268	negative regulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052267	negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052252	negative regulation by organism of defense-related salicylic acid-mediated signal transduction pathway of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052254	negative regulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052561	negative regulation by organism of immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052260	negative regulation by organism of inflammatory response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052309	negative regulation by organism of innate immune response in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052266	negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052258	negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052253	negative regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052078	negative regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052087	negative regulation by symbiont of defense-related host callose deposition
+RCV_000140	defense response	GO_0052202	negative regulation by symbiont of defense-related host cell wall callose deposition
+RCV_000140	defense response	GO_0052070	negative regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052069	negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway
+RCV_000140	defense response	GO_0033661	negative regulation by symbiont of defense-related host reactive oxygen species production
+RCV_000140	defense response	GO_0052003	negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052086	negative regulation by symbiont of host B-cell mediated immune response
+RCV_000140	defense response	GO_0052085	negative regulation by symbiont of host T-cell mediated immune response
+RCV_000140	defense response	GO_0052083	negative regulation by symbiont of host cell-mediated immune response
+RCV_000140	defense response	GO_0052037	negative regulation by symbiont of host defense response
+RCV_000140	defense response	GO_0034054	negative regulation by symbiont of host defense-related programmed cell death
+RCV_000140	defense response	GO_0033663	negative regulation by symbiont of host defense-related protein level
+RCV_000140	defense response	GO_0052005	negative regulation by symbiont of host ethylene-mediated defense response
+RCV_000140	defense response	GO_0052562	negative regulation by symbiont of host immune response
+RCV_000140	defense response	GO_0052036	negative regulation by symbiont of host inflammatory response
+RCV_000140	defense response	GO_0052170	negative regulation by symbiont of host innate immune response
+RCV_000140	defense response	GO_0052068	negative regulation by symbiont of host jasmonic acid-mediated defense response
+RCV_000140	defense response	GO_1990217	negative regulation by symbiont of host phytoalexin production
+RCV_000140	defense response	GO_0033660	negative regulation by symbiont of host resistance gene-dependent defense response
+RCV_000140	defense response	GO_0052004	negative regulation by symbiont of host salicylic acid-mediated defense response
+RCV_000140	defense response	GO_0052034	negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response
+RCV_000140	defense response	GO_0002868	negative regulation of B cell deletion
+RCV_000140	defense response	GO_0039534	negative regulation of MDA-5 signaling pathway
+RCV_000140	defense response	GO_0039536	negative regulation of RIG-I signaling pathway
+RCV_000140	defense response	GO_0001971	negative regulation of activation of membrane attack complex
+RCV_000140	defense response	GO_0002674	negative regulation of acute inflammatory response
+RCV_000140	defense response	GO_0002865	negative regulation of acute inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002878	negative regulation of acute inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0002809	negative regulation of antibacterial peptide biosynthetic process
+RCV_000140	defense response	GO_0002787	negative regulation of antibacterial peptide production
+RCV_000140	defense response	GO_0002798	negative regulation of antibacterial peptide secretion
+RCV_000140	defense response	GO_0001814	negative regulation of antibody-dependent cellular cytotoxicity
+RCV_000140	defense response	GO_0002811	negative regulation of antifungal peptide biosynthetic process
+RCV_000140	defense response	GO_0002789	negative regulation of antifungal peptide production
+RCV_000140	defense response	GO_0002801	negative regulation of antifungal peptide secretion
+RCV_000140	defense response	GO_2000986	negative regulation of behavioral fear response
+RCV_000140	defense response	GO_0002814	negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+RCV_000140	defense response	GO_0002817	negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+RCV_000140	defense response	GO_0051245	negative regulation of cellular defense response
+RCV_000140	defense response	GO_0002899	negative regulation of central B cell deletion
+RCV_000140	defense response	GO_0002677	negative regulation of chronic inflammatory response
+RCV_000140	defense response	GO_0002875	negative regulation of chronic inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002881	negative regulation of chronic inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0045916	negative regulation of complement activation
+RCV_000140	defense response	GO_0045957	negative regulation of complement activation, alternative pathway
+RCV_000140	defense response	GO_0044634	negative regulation of complement activation, alternative pathway in other organism
+RCV_000140	defense response	GO_0045959	negative regulation of complement activation, classical pathway
+RCV_000140	defense response	GO_0044629	negative regulation of complement activation, classical pathway in other organism
+RCV_000140	defense response	GO_0001869	negative regulation of complement activation, lectin pathway
+RCV_000140	defense response	GO_0044632	negative regulation of complement activation, lectin pathway in other organism
+RCV_000140	defense response	GO_1900016	negative regulation of cytokine production involved in inflammatory response
+RCV_000140	defense response	GO_0031348	negative regulation of defense response
+RCV_000140	defense response	GO_1900425	negative regulation of defense response to bacterium
+RCV_000140	defense response	GO_1902478	negative regulation of defense response to bacterium, incompatible interaction
+RCV_000140	defense response	GO_1900366	negative regulation of defense response to insect
+RCV_000140	defense response	GO_1902289	negative regulation of defense response to oomycetes
+RCV_000140	defense response	GO_0050687	negative regulation of defense response to virus
+RCV_000140	defense response	GO_0050689	negative regulation of defense response to virus by host
+RCV_000140	defense response	GO_0031621	negative regulation of fever generation
+RCV_000140	defense response	GO_0002632	negative regulation of granuloma formation
+RCV_000140	defense response	GO_1903594	negative regulation of histamine secretion by mast cell
+RCV_000140	defense response	GO_0002884	negative regulation of hypersensitivity
+RCV_000140	defense response	GO_0050728	negative regulation of inflammatory response
+RCV_000140	defense response	GO_0002862	negative regulation of inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0045824	negative regulation of innate immune response
+RCV_000140	defense response	GO_0060336	negative regulation of interferon-gamma-mediated signaling pathway
+RCV_000140	defense response	GO_0002257	negative regulation of kinin cascade
+RCV_000140	defense response	GO_0035492	negative regulation of leukotriene production involved in inflammatory response
+RCV_000140	defense response	GO_0035009	negative regulation of melanization defense response
+RCV_000140	defense response	GO_0002728	negative regulation of natural killer cell cytokine production
+RCV_000140	defense response	GO_0043322	negative regulation of natural killer cell degranulation
+RCV_000140	defense response	GO_0045953	negative regulation of natural killer cell mediated cytotoxicity
+RCV_000140	defense response	GO_0002859	negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000140	defense response	GO_0002856	negative regulation of natural killer cell mediated immune response to tumor cell
+RCV_000140	defense response	GO_0002716	negative regulation of natural killer cell mediated immunity
+RCV_000140	defense response	GO_0002872	negative regulation of natural killer cell tolerance induction
+RCV_000140	defense response	GO_0070956	negative regulation of neutrophil mediated killing of bacterium
+RCV_000140	defense response	GO_0070959	negative regulation of neutrophil mediated killing of fungus
+RCV_000140	defense response	GO_0070957	negative regulation of neutrophil mediated killing of gram-negative bacterium
+RCV_000140	defense response	GO_0070958	negative regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000140	defense response	GO_0070955	negative regulation of neutrophil mediated killing of symbiont cell
+RCV_000140	defense response	GO_0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+RCV_000140	defense response	GO_0002909	negative regulation of peripheral B cell deletion
+RCV_000140	defense response	GO_0034051	negative regulation of plant-type hypersensitive response
+RCV_000140	defense response	GO_0002549	negative regulation of plasma kallikrein-kinin cascade
+RCV_000140	defense response	GO_0060266	negative regulation of respiratory burst involved in inflammatory response
+RCV_000140	defense response	GO_0060331	negative regulation of response to interferon-gamma
+RCV_000140	defense response	GO_0010113	negative regulation of systemic acquired resistance
+RCV_000140	defense response	GO_0002546	negative regulation of tissue kallikrein-kinin cascade
+RCV_000140	defense response	GO_0001811	negative regulation of type I hypersensitivity
+RCV_000140	defense response	GO_0060339	negative regulation of type I interferon-mediated signaling pathway
+RCV_000140	defense response	GO_0002893	negative regulation of type II hypersensitivity
+RCV_000140	defense response	GO_0001804	negative regulation of type III hypersensitivity
+RCV_000140	defense response	GO_0001797	negative regulation of type IIa hypersensitivity
+RCV_000140	defense response	GO_0001800	negative regulation of type IIb hypersensitivity
+RCV_000140	defense response	GO_0001808	negative regulation of type IV hypersensitivity
+RCV_000140	defense response	GO_0039532	negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0070944	neutrophil mediated killing of bacterium
+RCV_000140	defense response	GO_0070947	neutrophil mediated killing of fungus
+RCV_000140	defense response	GO_0070945	neutrophil mediated killing of gram-negative bacterium
+RCV_000140	defense response	GO_0070946	neutrophil mediated killing of gram-positive bacterium
+RCV_000140	defense response	GO_0070943	neutrophil mediated killing of symbiont cell
+RCV_000140	defense response	GO_0002537	nitric oxide production involved in inflammatory response
+RCV_000140	defense response	GO_0070427	nucleotide-binding oligomerization domain containing 1 signaling pathway
+RCV_000140	defense response	GO_0070431	nucleotide-binding oligomerization domain containing 2 signaling pathway
+RCV_000140	defense response	GO_0070423	nucleotide-binding oligomerization domain containing signaling pathway
+RCV_000140	defense response	GO_0046734	passive induction of host cell-mediated immune response by virus
+RCV_000140	defense response	GO_0046733	passive induction of host humoral immune response by virus
+RCV_000140	defense response	GO_0046731	passive induction of host immune response by virus
+RCV_000140	defense response	GO_0046735	passive induction of host innate immune response by virus
+RCV_000140	defense response	GO_0052257	pathogen-associated molecular pattern dependent induction by organism of innate immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052033	pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response
+RCV_000140	defense response	GO_0052308	pathogen-associated molecular pattern dependent modulation by organism of innate immune response in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052169	pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response
+RCV_000140	defense response	GO_0002221	pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0061057	peptidoglycan recognition protein signaling pathway
+RCV_000140	defense response	GO_0009626	plant-type hypersensitive response
+RCV_000140	defense response	GO_0002353	plasma kallikrein-kinin cascade
+RCV_000140	defense response	GO_0002391	platelet activating factor production involved in inflammatory response
+RCV_000140	defense response	GO_0002535	platelet activating factor secretion involved in inflammatory response
+RCV_000140	defense response	GO_0051841	positive regulation by host of cytolysis of symbiont cells
+RCV_000140	defense response	GO_0052502	positive regulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052197	positive regulation by host of symbiont defense response
+RCV_000140	defense response	GO_0052510	positive regulation by organism of defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052276	positive regulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052065	positive regulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052287	positive regulation by organism of defense-related calcium-dependent protein kinase pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052291	positive regulation by organism of defense-related callose deposition in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052292	positive regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052538	positive regulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052269	positive regulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052271	positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052345	positive regulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052348	positive regulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052270	positive regulation by organism of defense-related salicylic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052274	positive regulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052555	positive regulation by organism of immune response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052532	positive regulation by organism of induced systemic resistance in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052259	positive regulation by organism of inflammatory response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052305	positive regulation by organism of innate immune response in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052273	positive regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052329	positive regulation by organism of phytoalexin production in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052423	positive regulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052272	positive regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052535	positive regulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0052079	positive regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052389	positive regulation by symbiont of defense-related host calcium ion flux
+RCV_000140	defense response	GO_0052102	positive regulation by symbiont of defense-related host calcium-dependent protein kinase pathway
+RCV_000140	defense response	GO_0052107	positive regulation by symbiont of defense-related host callose deposition
+RCV_000140	defense response	GO_0052109	positive regulation by symbiont of defense-related host cell wall callose deposition
+RCV_000140	defense response	GO_0052539	positive regulation by symbiont of defense-related host cell wall thickening
+RCV_000140	defense response	GO_0052071	positive regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052073	positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052347	positive regulation by symbiont of defense-related host nitric oxide production
+RCV_000140	defense response	GO_0052369	positive regulation by symbiont of defense-related host reactive oxygen species production
+RCV_000140	defense response	GO_0052072	positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway
+RCV_000140	defense response	GO_0052509	positive regulation by symbiont of host defense response
+RCV_000140	defense response	GO_0034055	positive regulation by symbiont of host defense-related programmed cell death
+RCV_000140	defense response	GO_0033664	positive regulation by symbiont of host defense-related protein level
+RCV_000140	defense response	GO_0052076	positive regulation by symbiont of host ethylene-mediated defense response
+RCV_000140	defense response	GO_0052556	positive regulation by symbiont of host immune response
+RCV_000140	defense response	GO_0052533	positive regulation by symbiont of host induced systemic resistance
+RCV_000140	defense response	GO_0052035	positive regulation by symbiont of host inflammatory response
+RCV_000140	defense response	GO_0052166	positive regulation by symbiont of host innate immune response
+RCV_000140	defense response	GO_0052075	positive regulation by symbiont of host jasmonic acid-mediated defense response
+RCV_000140	defense response	GO_0052344	positive regulation by symbiont of host phytoalexin production
+RCV_000140	defense response	GO_0052527	positive regulation by symbiont of host resistance gene-dependent defense response
+RCV_000140	defense response	GO_0052074	positive regulation by symbiont of host salicylic acid-mediated defense response
+RCV_000140	defense response	GO_0052537	positive regulation by symbiont of host systemic acquired resistance
+RCV_000140	defense response	GO_0044832	positive regulation by virus of host cytokine production
+RCV_000140	defense response	GO_0002869	positive regulation of B cell deletion
+RCV_000140	defense response	GO_1900245	positive regulation of MDA-5 signaling pathway
+RCV_000140	defense response	GO_1900246	positive regulation of RIG-I signaling pathway
+RCV_000140	defense response	GO_0001970	positive regulation of activation of membrane attack complex
+RCV_000140	defense response	GO_0002675	positive regulation of acute inflammatory response
+RCV_000140	defense response	GO_0002866	positive regulation of acute inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002879	positive regulation of acute inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0006963	positive regulation of antibacterial peptide biosynthetic process
+RCV_000140	defense response	GO_0002803	positive regulation of antibacterial peptide production
+RCV_000140	defense response	GO_0002799	positive regulation of antibacterial peptide secretion
+RCV_000140	defense response	GO_0001815	positive regulation of antibody-dependent cellular cytotoxicity
+RCV_000140	defense response	GO_0006967	positive regulation of antifungal peptide biosynthetic process
+RCV_000140	defense response	GO_0002804	positive regulation of antifungal peptide production
+RCV_000140	defense response	GO_0002802	positive regulation of antifungal peptide secretion
+RCV_000140	defense response	GO_2000987	positive regulation of behavioral fear response
+RCV_000140	defense response	GO_0006964	positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+RCV_000140	defense response	GO_0006965	positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+RCV_000140	defense response	GO_0010186	positive regulation of cellular defense response
+RCV_000140	defense response	GO_0002900	positive regulation of central B cell deletion
+RCV_000140	defense response	GO_0002678	positive regulation of chronic inflammatory response
+RCV_000140	defense response	GO_0002876	positive regulation of chronic inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002882	positive regulation of chronic inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0045917	positive regulation of complement activation
+RCV_000140	defense response	GO_0045958	positive regulation of complement activation, alternative pathway
+RCV_000140	defense response	GO_0044635	positive regulation of complement activation, alternative pathway in other organism
+RCV_000140	defense response	GO_0045960	positive regulation of complement activation, classical pathway
+RCV_000140	defense response	GO_0044628	positive regulation of complement activation, classical pathway in other organism
+RCV_000140	defense response	GO_0001870	positive regulation of complement activation, lectin pathway
+RCV_000140	defense response	GO_0044631	positive regulation of complement activation, lectin pathway in other organism
+RCV_000140	defense response	GO_1900017	positive regulation of cytokine production involved in inflammatory response
+RCV_000140	defense response	GO_0031349	positive regulation of defense response
+RCV_000140	defense response	GO_1900426	positive regulation of defense response to bacterium
+RCV_000140	defense response	GO_1902479	positive regulation of defense response to bacterium, incompatible interaction
+RCV_000140	defense response	GO_1900367	positive regulation of defense response to insect
+RCV_000140	defense response	GO_1902290	positive regulation of defense response to oomycetes
+RCV_000140	defense response	GO_0002230	positive regulation of defense response to virus by host
+RCV_000140	defense response	GO_0031622	positive regulation of fever generation
+RCV_000140	defense response	GO_0071811	positive regulation of fever generation by positive regulation of prostaglandin biosynthesis
+RCV_000140	defense response	GO_0071812	positive regulation of fever generation by positive regulation of prostaglandin secretion
+RCV_000140	defense response	GO_0002633	positive regulation of granuloma formation
+RCV_000140	defense response	GO_1903595	positive regulation of histamine secretion by mast cell
+RCV_000140	defense response	GO_0002885	positive regulation of hypersensitivity
+RCV_000140	defense response	GO_0050729	positive regulation of inflammatory response
+RCV_000140	defense response	GO_0002863	positive regulation of inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0045089	positive regulation of innate immune response
+RCV_000140	defense response	GO_0060335	positive regulation of interferon-gamma-mediated signaling pathway
+RCV_000140	defense response	GO_0002258	positive regulation of kinin cascade
+RCV_000140	defense response	GO_0035491	positive regulation of leukotriene production involved in inflammatory response
+RCV_000140	defense response	GO_0035008	positive regulation of melanization defense response
+RCV_000140	defense response	GO_0002729	positive regulation of natural killer cell cytokine production
+RCV_000140	defense response	GO_0043323	positive regulation of natural killer cell degranulation
+RCV_000140	defense response	GO_0045954	positive regulation of natural killer cell mediated cytotoxicity
+RCV_000140	defense response	GO_0002860	positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000140	defense response	GO_0002857	positive regulation of natural killer cell mediated immune response to tumor cell
+RCV_000140	defense response	GO_0002717	positive regulation of natural killer cell mediated immunity
+RCV_000140	defense response	GO_0002873	positive regulation of natural killer cell tolerance induction
+RCV_000140	defense response	GO_0070962	positive regulation of neutrophil mediated killing of bacterium
+RCV_000140	defense response	GO_0070965	positive regulation of neutrophil mediated killing of fungus
+RCV_000140	defense response	GO_0070963	positive regulation of neutrophil mediated killing of gram-negative bacterium
+RCV_000140	defense response	GO_0070964	positive regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000140	defense response	GO_0070961	positive regulation of neutrophil mediated killing of symbiont cell
+RCV_000140	defense response	GO_0061059	positive regulation of peptidoglycan recognition protein signaling pathway
+RCV_000140	defense response	GO_0002910	positive regulation of peripheral B cell deletion
+RCV_000140	defense response	GO_0034052	positive regulation of plant-type hypersensitive response
+RCV_000140	defense response	GO_0002550	positive regulation of plasma kallikrein-kinin cascade
+RCV_000140	defense response	GO_0060265	positive regulation of respiratory burst involved in inflammatory response
+RCV_000140	defense response	GO_0060332	positive regulation of response to interferon-gamma
+RCV_000140	defense response	GO_1901672	positive regulation of systemic acquired resistance
+RCV_000140	defense response	GO_0002547	positive regulation of tissue kallikrein-kinin cascade
+RCV_000140	defense response	GO_1902097	positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium
+RCV_000140	defense response	GO_1901244	positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus
+RCV_000140	defense response	GO_0001812	positive regulation of type I hypersensitivity
+RCV_000140	defense response	GO_0060340	positive regulation of type I interferon-mediated signaling pathway
+RCV_000140	defense response	GO_0002894	positive regulation of type II hypersensitivity
+RCV_000140	defense response	GO_0001805	positive regulation of type III hypersensitivity
+RCV_000140	defense response	GO_0001798	positive regulation of type IIa hypersensitivity
+RCV_000140	defense response	GO_0001801	positive regulation of type IIb hypersensitivity
+RCV_000140	defense response	GO_0001809	positive regulation of type IV hypersensitivity
+RCV_000140	defense response	GO_0002532	production of molecular mediator involved in inflammatory response
+RCV_000140	defense response	GO_0002539	prostaglandin production involved in inflammatory response
+RCV_000140	defense response	GO_0042270	protection from natural killer cell mediated cytotoxicity
+RCV_000140	defense response	GO_0051839	regulation by host of cytolysis of symbiont cells
+RCV_000140	defense response	GO_0039533	regulation of MDA-5 signaling pathway
+RCV_000140	defense response	GO_0039535	regulation of RIG-I signaling pathway
+RCV_000140	defense response	GO_0001969	regulation of activation of membrane attack complex
+RCV_000140	defense response	GO_0002673	regulation of acute inflammatory response
+RCV_000140	defense response	GO_0002864	regulation of acute inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002877	regulation of acute inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0002808	regulation of antibacterial peptide biosynthetic process
+RCV_000140	defense response	GO_0002786	regulation of antibacterial peptide production
+RCV_000140	defense response	GO_0002797	regulation of antibacterial peptide secretion
+RCV_000140	defense response	GO_0001813	regulation of antibody-dependent cellular cytotoxicity
+RCV_000140	defense response	GO_0002810	regulation of antifungal peptide biosynthetic process
+RCV_000140	defense response	GO_0002788	regulation of antifungal peptide production
+RCV_000140	defense response	GO_0002800	regulation of antifungal peptide secretion
+RCV_000140	defense response	GO_2000822	regulation of behavioral fear response
+RCV_000140	defense response	GO_0002813	regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+RCV_000140	defense response	GO_0002816	regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+RCV_000140	defense response	GO_0010185	regulation of cellular defense response
+RCV_000140	defense response	GO_0002676	regulation of chronic inflammatory response
+RCV_000140	defense response	GO_0002874	regulation of chronic inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0002880	regulation of chronic inflammatory response to non-antigenic stimulus
+RCV_000140	defense response	GO_0030449	regulation of complement activation
+RCV_000140	defense response	GO_0030451	regulation of complement activation, alternative pathway
+RCV_000140	defense response	GO_0030450	regulation of complement activation, classical pathway
+RCV_000140	defense response	GO_0001868	regulation of complement activation, lectin pathway
+RCV_000140	defense response	GO_1900015	regulation of cytokine production involved in inflammatory response
+RCV_000140	defense response	GO_0031347	regulation of defense response
+RCV_000140	defense response	GO_2000071	regulation of defense response by callose deposition
+RCV_000140	defense response	GO_1900424	regulation of defense response to bacterium
+RCV_000140	defense response	GO_1902477	regulation of defense response to bacterium, incompatible interaction
+RCV_000140	defense response	GO_1900150	regulation of defense response to fungus
+RCV_000140	defense response	GO_2000072	regulation of defense response to fungus, incompatible interaction
+RCV_000140	defense response	GO_2000068	regulation of defense response to insect
+RCV_000140	defense response	GO_1902288	regulation of defense response to oomycetes
+RCV_000140	defense response	GO_0050688	regulation of defense response to virus
+RCV_000140	defense response	GO_0050691	regulation of defense response to virus by host
+RCV_000140	defense response	GO_0050690	regulation of defense response to virus by virus
+RCV_000140	defense response	GO_0031620	regulation of fever generation
+RCV_000140	defense response	GO_0071809	regulation of fever generation by regulation of prostaglandin biosynthesis
+RCV_000140	defense response	GO_0071810	regulation of fever generation by regulation of prostaglandin secretion
+RCV_000140	defense response	GO_0002631	regulation of granuloma formation
+RCV_000140	defense response	GO_0002531	regulation of heart contraction involved in acute-phase response
+RCV_000140	defense response	GO_1903593	regulation of histamine secretion by mast cell
+RCV_000140	defense response	GO_0002883	regulation of hypersensitivity
+RCV_000140	defense response	GO_0050727	regulation of inflammatory response
+RCV_000140	defense response	GO_0003378	regulation of inflammatory response by sphingosine-1-phosphate signaling pathway
+RCV_000140	defense response	GO_0002861	regulation of inflammatory response to antigenic stimulus
+RCV_000140	defense response	GO_0045088	regulation of innate immune response
+RCV_000140	defense response	GO_0060334	regulation of interferon-gamma-mediated signaling pathway
+RCV_000140	defense response	GO_0002256	regulation of kinin cascade
+RCV_000140	defense response	GO_0035490	regulation of leukotriene production involved in inflammatory response
+RCV_000140	defense response	GO_0035007	regulation of melanization defense response
+RCV_000140	defense response	GO_0002727	regulation of natural killer cell cytokine production
+RCV_000140	defense response	GO_0043321	regulation of natural killer cell degranulation
+RCV_000140	defense response	GO_0042269	regulation of natural killer cell mediated cytotoxicity
+RCV_000140	defense response	GO_0002858	regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000140	defense response	GO_0002855	regulation of natural killer cell mediated immune response to tumor cell
+RCV_000140	defense response	GO_0002715	regulation of natural killer cell mediated immunity
+RCV_000140	defense response	GO_0070950	regulation of neutrophil mediated killing of bacterium
+RCV_000140	defense response	GO_0070953	regulation of neutrophil mediated killing of fungus
+RCV_000140	defense response	GO_0070951	regulation of neutrophil mediated killing of gram-negative bacterium
+RCV_000140	defense response	GO_0070952	regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000140	defense response	GO_0070949	regulation of neutrophil mediated killing of symbiont cell
+RCV_000140	defense response	GO_0061058	regulation of peptidoglycan recognition protein signaling pathway
+RCV_000140	defense response	GO_0010363	regulation of plant-type hypersensitive response
+RCV_000140	defense response	GO_0002529	regulation of plasma kallikrein-kinin cascade
+RCV_000140	defense response	GO_0060264	regulation of respiratory burst involved in inflammatory response
+RCV_000140	defense response	GO_0060330	regulation of response to interferon-gamma
+RCV_000140	defense response	GO_0010112	regulation of systemic acquired resistance
+RCV_000140	defense response	GO_0002530	regulation of systemic arterial blood pressure involved in acute-phase response
+RCV_000140	defense response	GO_0002382	regulation of tissue kallikrein-kinin cascade
+RCV_000140	defense response	GO_0001810	regulation of type I hypersensitivity
+RCV_000140	defense response	GO_0060338	regulation of type I interferon-mediated signaling pathway
+RCV_000140	defense response	GO_0002892	regulation of type II hypersensitivity
+RCV_000140	defense response	GO_0001803	regulation of type III hypersensitivity
+RCV_000140	defense response	GO_0001796	regulation of type IIa hypersensitivity
+RCV_000140	defense response	GO_0001799	regulation of type IIb hypersensitivity
+RCV_000140	defense response	GO_0001807	regulation of type IV hypersensitivity
+RCV_000140	defense response	GO_0002528	regulation of vascular permeability involved in acute inflammatory response
+RCV_000140	defense response	GO_0039531	regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0045728	respiratory burst after phagocytosis
+RCV_000140	defense response	GO_0002679	respiratory burst involved in defense response
+RCV_000140	defense response	GO_0002536	respiratory burst involved in inflammatory response
+RCV_000140	defense response	GO_0034341	response to interferon-gamma
+RCV_000140	defense response	GO_0032260	response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance
+RCV_000140	defense response	GO_0034340	response to type I interferon
+RCV_000140	defense response	GO_0034342	response to type III interferon
+RCV_000140	defense response	GO_0002351	serotonin production involved in inflammatory response
+RCV_000140	defense response	GO_0002556	serotonin secretion by basophil
+RCV_000140	defense response	GO_0002552	serotonin secretion by mast cell
+RCV_000140	defense response	GO_0002554	serotonin secretion by platelet
+RCV_000140	defense response	GO_0002442	serotonin secretion involved in inflammatory response
+RCV_000140	defense response	GO_0002223	stimulatory C-type lectin receptor signaling pathway
+RCV_000140	defense response	GO_0002222	stimulatory killer cell immunoglobulin-like receptor signaling pathway
+RCV_000140	defense response	GO_0039724	suppression by virus of host IKBKE activity
+RCV_000140	defense response	GO_0039548	suppression by virus of host IRF3 activity
+RCV_000140	defense response	GO_0039550	suppression by virus of host IRF3 activity by inhibition of DNA binding
+RCV_000140	defense response	GO_0039549	suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation
+RCV_000140	defense response	GO_0039551	suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process
+RCV_000140	defense response	GO_0039557	suppression by virus of host IRF7 activity
+RCV_000140	defense response	GO_0039559	suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process
+RCV_000140	defense response	GO_0039558	suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation
+RCV_000140	defense response	GO_0039560	suppression by virus of host IRF9 activity
+RCV_000140	defense response	GO_0039561	suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus
+RCV_000140	defense response	GO_0039579	suppression by virus of host ISG15 activity
+RCV_000140	defense response	GO_0039545	suppression by virus of host MAVS activity
+RCV_000140	defense response	GO_0039546	suppression by virus of host MAVS activity by MAVS proteolysis
+RCV_000140	defense response	GO_0039554	suppression by virus of host MDA-5 activity
+RCV_000140	defense response	GO_0039555	suppression by virus of host MDA-5 activity via MDA-5 binding
+RCV_000140	defense response	GO_0039539	suppression by virus of host MDA-5 signaling pathway
+RCV_000140	defense response	GO_0039580	suppression by virus of host PKR activity
+RCV_000140	defense response	GO_0039583	suppression by virus of host PKR activity by positive regulation of PKR catabolic process
+RCV_000140	defense response	GO_0039582	suppression by virus of host PKR activity by positive regulation of PKR nuclear localization
+RCV_000140	defense response	GO_0039581	suppression by virus of host PKR activity via double-stranded RNA binding
+RCV_000140	defense response	GO_0039542	suppression by virus of host RIG-I K63-linked ubiquitination
+RCV_000140	defense response	GO_0039540	suppression by virus of host RIG-I activity
+RCV_000140	defense response	GO_0039544	suppression by virus of host RIG-I activity by RIG-I proteolysis
+RCV_000140	defense response	GO_0039543	suppression by virus of host RIG-I activity by viral RNA 5' processing
+RCV_000140	defense response	GO_0039538	suppression by virus of host RIG-I signaling pathway
+RCV_000140	defense response	GO_0039541	suppression by virus of host RIG-I via RIG-I binding
+RCV_000140	defense response	GO_0039589	suppression by virus of host TAP complex
+RCV_000140	defense response	GO_0039723	suppression by virus of host TBK1 activity
+RCV_000140	defense response	GO_0039574	suppression by virus of host TYK2 activity
+RCV_000140	defense response	GO_0039575	suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation
+RCV_000140	defense response	GO_0039504	suppression by virus of host adaptive immune response
+RCV_000140	defense response	GO_0039588	suppression by virus of host antigen processing and presentation
+RCV_000140	defense response	GO_0046776	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I
+RCV_000140	defense response	GO_0039505	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II
+RCV_000140	defense response	GO_0039573	suppression by virus of host complement activation
+RCV_000140	defense response	GO_0046775	suppression by virus of host cytokine production
+RCV_000140	defense response	GO_0039503	suppression by virus of host innate immune response
+RCV_000140	defense response	GO_0046774	suppression by virus of host intracellular interferon activity
+RCV_000140	defense response	GO_0039672	suppression by virus of host natural killer cell activation
+RCV_000140	defense response	GO_0039591	suppression by virus of host tapasin activity
+RCV_000140	defense response	GO_0039722	suppression by virus of host toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0039501	suppression by virus of host type I interferon production
+RCV_000140	defense response	GO_0039502	suppression by virus of host type I interferon-mediated signaling pathway
+RCV_000140	defense response	GO_0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+RCV_000140	defense response	GO_0052261	suppression of defense response of other organism involved in symbiotic interaction
+RCV_000140	defense response	GO_0042271	susceptibility to natural killer cell mediated cytotoxicity
+RCV_000140	defense response	GO_0009627	systemic acquired resistance
+RCV_000140	defense response	GO_0009862	systemic acquired resistance, salicylic acid mediated signaling pathway
+RCV_000140	defense response	GO_0002255	tissue kallikrein-kinin cascade
+RCV_000140	defense response	GO_0034130	toll-like receptor 1 signaling pathway
+RCV_000140	defense response	GO_0034166	toll-like receptor 10 signaling pathway
+RCV_000140	defense response	GO_0034170	toll-like receptor 11 signaling pathway
+RCV_000140	defense response	GO_0034174	toll-like receptor 12 signaling pathway
+RCV_000140	defense response	GO_0034178	toll-like receptor 13 signaling pathway
+RCV_000140	defense response	GO_0035681	toll-like receptor 15 signaling pathway
+RCV_000140	defense response	GO_0034134	toll-like receptor 2 signaling pathway
+RCV_000140	defense response	GO_0035682	toll-like receptor 21 signaling pathway
+RCV_000140	defense response	GO_0034138	toll-like receptor 3 signaling pathway
+RCV_000140	defense response	GO_0034142	toll-like receptor 4 signaling pathway
+RCV_000140	defense response	GO_0034146	toll-like receptor 5 signaling pathway
+RCV_000140	defense response	GO_0034150	toll-like receptor 6 signaling pathway
+RCV_000140	defense response	GO_0034154	toll-like receptor 7 signaling pathway
+RCV_000140	defense response	GO_0034158	toll-like receptor 8 signaling pathway
+RCV_000140	defense response	GO_0034162	toll-like receptor 9 signaling pathway
+RCV_000140	defense response	GO_0038123	toll-like receptor TLR1:TLR2 signaling pathway
+RCV_000140	defense response	GO_0038124	toll-like receptor TLR6:TLR2 signaling pathway
+RCV_000140	defense response	GO_0002224	toll-like receptor signaling pathway
+RCV_000140	defense response	GO_0016068	type I hypersensitivity
+RCV_000140	defense response	GO_0002559	type I hypersensitivity mediated by basophils
+RCV_000140	defense response	GO_0002558	type I hypersensitivity mediated by mast cells
+RCV_000140	defense response	GO_0004905	type I interferon receptor activity
+RCV_000140	defense response	GO_0060337	type I interferon signaling pathway
+RCV_000140	defense response	GO_0002445	type II hypersensitivity
+RCV_000140	defense response	GO_0001802	type III hypersensitivity
+RCV_000140	defense response	GO_0034348	type III interferon receptor activity
+RCV_000140	defense response	GO_0038196	type III interferon signaling pathway
+RCV_000140	defense response	GO_0001794	type IIa hypersensitivity
+RCV_000140	defense response	GO_0001795	type IIb hypersensitivity
+RCV_000140	defense response	GO_0001806	type IV hypersensitivity
+RCV_000140	defense response	GO_0002527	vasodilation involved in acute inflammatory response
+RCV_000140	defense response	GO_0060145	viral gene silencing in virus induced gene silencing
+RCV_000140	defense response	GO_0039699	viral mRNA cap methylation
+RCV_000140	defense response	GO_0060150	viral triggering of virus induced gene silencing
+RCV_000140	defense response	GO_0090401	viral-induced premature senescence
+RCV_000140	defense response	GO_0009616	virus induced gene silencing
+RCV_000140	defense response	GO_0002246	wound healing involved in inflammatory response
+RCV_000141	dendritic cell	GO_0002409	Langerhans cell chemotaxis
+RCV_000141	dendritic cell	GO_0061520	Langerhans cell differentiation
+RCV_000141	dendritic cell	GO_0002468	dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_0097048	dendritic cell apoptotic process
+RCV_000141	dendritic cell	GO_0002407	dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002371	dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0097026	dendritic cell dendrite assembly
+RCV_000141	dendritic cell	GO_0097028	dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0036145	dendritic cell homeostasis
+RCV_000141	dendritic cell	GO_0036336	dendritic cell migration
+RCV_000141	dendritic cell	GO_0044565	dendritic cell proliferation
+RCV_000141	dendritic cell	GO_0039673	evasion by virus of host dendritic cell activity
+RCV_000141	dendritic cell	GO_0002266	follicular dendritic cell activation
+RCV_000141	dendritic cell	GO_0002268	follicular dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0097029	mature dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0001773	myeloid dendritic cell activation
+RCV_000141	dendritic cell	GO_0002277	myeloid dendritic cell activation involved in immune response
+RCV_000141	dendritic cell	GO_0002469	myeloid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_0002408	myeloid dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002372	myeloid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0043011	myeloid dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0002284	myeloid dendritic cell differentiation involved in immune response
+RCV_000141	dendritic cell	GO_0002605	negative regulation of dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_2000669	negative regulation of dendritic cell apoptotic process
+RCV_000141	dendritic cell	GO_2000509	negative regulation of dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002731	negative regulation of dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_2000548	negative regulation of dendritic cell dendrite assembly
+RCV_000141	dendritic cell	GO_2001199	negative regulation of dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0030886	negative regulation of myeloid dendritic cell activation
+RCV_000141	dendritic cell	GO_0002608	negative regulation of myeloid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_2000528	negative regulation of myeloid dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002734	negative regulation of myeloid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0002611	negative regulation of plasmacytoid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_0002737	negative regulation of plasmacytoid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0002270	plasmacytoid dendritic cell activation
+RCV_000141	dendritic cell	GO_0002271	plasmacytoid dendritic cell activation involved in immune response
+RCV_000141	dendritic cell	GO_0002470	plasmacytoid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_0002410	plasmacytoid dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002373	plasmacytoid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0002273	plasmacytoid dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0002272	plasmacytoid dendritic cell differentiation involved in immune response
+RCV_000141	dendritic cell	GO_0002606	positive regulation of dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_2000670	positive regulation of dendritic cell apoptotic process
+RCV_000141	dendritic cell	GO_2000510	positive regulation of dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002732	positive regulation of dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_2000549	positive regulation of dendritic cell dendrite assembly
+RCV_000141	dendritic cell	GO_2001200	positive regulation of dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0030887	positive regulation of myeloid dendritic cell activation
+RCV_000141	dendritic cell	GO_0002609	positive regulation of myeloid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_2000529	positive regulation of myeloid dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002735	positive regulation of myeloid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0002612	positive regulation of plasmacytoid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_0002738	positive regulation of plasmacytoid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0002604	regulation of dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_2000668	regulation of dendritic cell apoptotic process
+RCV_000141	dendritic cell	GO_2000508	regulation of dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002730	regulation of dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_2000547	regulation of dendritic cell dendrite assembly
+RCV_000141	dendritic cell	GO_2001198	regulation of dendritic cell differentiation
+RCV_000141	dendritic cell	GO_0030885	regulation of myeloid dendritic cell activation
+RCV_000141	dendritic cell	GO_0002607	regulation of myeloid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_2000527	regulation of myeloid dendritic cell chemotaxis
+RCV_000141	dendritic cell	GO_0002733	regulation of myeloid dendritic cell cytokine production
+RCV_000141	dendritic cell	GO_0002610	regulation of plasmacytoid dendritic cell antigen processing and presentation
+RCV_000141	dendritic cell	GO_0002736	regulation of plasmacytoid dendritic cell cytokine production
 RCV_000143	digestive tract development	GO_0061353	BMP signaling pathway involved in Malpighian tubule cell chemotaxis
 RCV_000143	digestive tract development	GO_0060803	BMP signaling pathway involved in mesodermal cell fate specification
 RCV_000143	digestive tract development	GO_0061332	Malpighian tubule bud morphogenesis
@@ -4780,6 +5897,51 @@ RCV_000143	digestive tract development	GO_0060797	transforming growth factor bet
 RCV_000143	digestive tract development	GO_0090010	transforming growth factor beta receptor signaling pathway involved in primitive streak formation
 RCV_000143	digestive tract development	GO_0007370	ventral furrow formation
 RCV_000143	digestive tract development	GO_0007495	visceral mesoderm-endoderm interaction involved in midgut development
+RCV_000144	digestive tract function	GO_0001699	acetylcholine-induced gastric acid secretion
+RCV_000144	digestive tract function	GO_0007586	digestion
+RCV_000144	digestive tract function	GO_0022600	digestive system process
+RCV_000144	digestive tract function	GO_0001696	gastric acid secretion
+RCV_000144	digestive tract function	GO_0035483	gastric emptying
+RCV_000144	digestive tract function	GO_0035482	gastric motility
+RCV_000144	digestive tract function	GO_0001698	gastrin-induced gastric acid secretion
+RCV_000144	digestive tract function	GO_0043133	hindgut contraction
+RCV_000144	digestive tract function	GO_0001697	histamine-induced gastric acid secretion
+RCV_000144	digestive tract function	GO_0001951	intestinal D-glucose absorption
+RCV_000144	digestive tract function	GO_0050892	intestinal absorption
+RCV_000144	digestive tract function	GO_0030299	intestinal cholesterol absorption
+RCV_000144	digestive tract function	GO_0060729	intestinal epithelial structure maintenance
+RCV_000144	digestive tract function	GO_0060752	intestinal phytosterol absorption
+RCV_000144	digestive tract function	GO_0030277	maintenance of gastrointestinal epithelium
+RCV_000144	digestive tract function	GO_0071626	mastication
+RCV_000144	digestive tract function	GO_0044056	modulation by symbiont of host digestive system process
+RCV_000144	digestive tract function	GO_0060457	negative regulation of digestive system process
+RCV_000144	digestive tract function	GO_0060455	negative regulation of gastric acid secretion
+RCV_000144	digestive tract function	GO_0060451	negative regulation of hindgut contraction
+RCV_000144	digestive tract function	GO_0045796	negative regulation of intestinal cholesterol absorption
+RCV_000144	digestive tract function	GO_0010949	negative regulation of intestinal phytosterol absorption
+RCV_000144	digestive tract function	GO_1902277	negative regulation of pancreatic amylase secretion
+RCV_000144	digestive tract function	GO_0090188	negative regulation of pancreatic juice secretion
+RCV_000144	digestive tract function	GO_0036395	pancreatic amylase secretion
+RCV_000144	digestive tract function	GO_0030157	pancreatic juice secretion
+RCV_000144	digestive tract function	GO_0060456	positive regulation of digestive system process
+RCV_000144	digestive tract function	GO_0060454	positive regulation of gastric acid secretion
+RCV_000144	digestive tract function	GO_0060450	positive regulation of hindgut contraction
+RCV_000144	digestive tract function	GO_0045797	positive regulation of intestinal cholesterol absorption
+RCV_000144	digestive tract function	GO_0060731	positive regulation of intestinal epithelial structure maintenance
+RCV_000144	digestive tract function	GO_1902278	positive regulation of pancreatic amylase secretion
+RCV_000144	digestive tract function	GO_1902279	positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway
+RCV_000144	digestive tract function	GO_0090187	positive regulation of pancreatic juice secretion
+RCV_000144	digestive tract function	GO_0046878	positive regulation of saliva secretion
+RCV_000144	digestive tract function	GO_0044058	regulation of digestive system process
+RCV_000144	digestive tract function	GO_0060453	regulation of gastric acid secretion
+RCV_000144	digestive tract function	GO_0043134	regulation of hindgut contraction
+RCV_000144	digestive tract function	GO_0030300	regulation of intestinal cholesterol absorption
+RCV_000144	digestive tract function	GO_0060730	regulation of intestinal epithelial structure maintenance
+RCV_000144	digestive tract function	GO_1902276	regulation of pancreatic amylase secretion
+RCV_000144	digestive tract function	GO_0090186	regulation of pancreatic juice secretion
+RCV_000144	digestive tract function	GO_0046877	regulation of saliva secretion
+RCV_000144	digestive tract function	GO_0036147	rumination
+RCV_000144	digestive tract function	GO_0046541	saliva secretion
 RCV_000154	eosinophil	GO_0043307	eosinophil activation
 RCV_000154	eosinophil	GO_0002278	eosinophil activation involved in immune response
 RCV_000154	eosinophil	GO_0048245	eosinophil chemotaxis
@@ -9605,6 +10767,7 @@ RCV_000240	myoblast	GO_2000288	positive regulation of myoblast proliferation
 RCV_000240	myoblast	GO_2000690	regulation of cardiac muscle cell myoblast differentiation
 RCV_000240	myoblast	GO_0045661	regulation of myoblast differentiation
 RCV_000240	myoblast	GO_2000291	regulation of myoblast proliferation
+RCV_000244	neuron development	GO_1903616	MAPK cascade involved in axon regeneration
 RCV_000244	neuron development	GO_0048053	R1/R6 development
 RCV_000244	neuron development	GO_0048055	R2/R5 development
 RCV_000244	neuron development	GO_0048057	R3/R4 development

@@ -1,11 +1,11 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+canalicular bile acid transport	GO_0015722	1	1	1	0	0
 bile acid secretion	GO_0032782	1	1	1	0	0
 bile acid metabolic process	GO_0008206	1	1	1	0	0
 bile acid conjugation	GO_0002152	1	1	1	0	0
 bile acid catabolic process	GO_0030573	1	1	1	0	0
 bile acid biosynthetic process	GO_0006699	1	1	1	0	0
-canalicular bile acid transport	GO_0015722	1	0	1	0	0
-bile acid and bile salt transport	GO_0015721	1	0	1	0	0
+bile acid and bile salt transport	GO_0015721	1	1	1	0	0
 response to bile acid	GO_1903412	0	1	1	0	0
 lithocholic acid receptor activity	GO_0038186	0	1	1	0	0
 lithocholic acid binding	GO_1902121	0	1	1	0	0
