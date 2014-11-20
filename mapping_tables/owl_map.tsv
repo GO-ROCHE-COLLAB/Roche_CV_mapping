@@ -73,7 +73,7 @@ artery	RCV_000071	artery development	GO_0060840	is_a_OR_part_of_OR_regulates
 asparagine metabolism	RCV_000072	asparagine metabolic process	GO_0006528	Equivalence		85	closed
 aspartate metabolism	RCV_000073	aspartate metabolic process	GO_0006531	Equivalence		84	closed
 astrocyte	RCV_000074	astrocyte	CL_0000127	? occurs in or has_participant ? + dev?			
-auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	is_a_OR_part_of_OR_regulates	Manual mapping is mix of receptor cell dev and behavior.  Should these two be split?		
+auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	is_a_OR_part_of_OR_regulates	Manual mapping is mix of receptor cell dev and behavior, mostly former.  Should these two be split?		
 autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equivalence			
 auxin	RCV_000077	substance with auxin biological role	GOCHE_22676	has_participant_chemical			
 axon	RCV_000078	axon development	GO_0061564	is_a_OR_part_of_OR_regulates			
@@ -86,16 +86,16 @@ beta-amyloid	RCV_000084			?
 bile acid	RCV_000085	bile acid	CHEBI_3098	has_participant_chemical			
 blood coagulation	RCV_000086			?			
 blood pressure	RCV_000087	regulation of blood pressure	GO_0008217	Equivalence		147	open
-bone	RCV_000088			?			
-bone marrow	RCV_000089			?			
-brain	RCV_000090			?ocurs in + results in development of?			
+bone	RCV_000088	bone development	GO_0060348	is_a_OR_part_of_OR_regulates	Should cover everything apart from chondroitin sulfate terms.		
+bone marrow	RCV_000089	bone marrow development	GO_0048539	is_a_OR_part_of_OR_regulates			
+brain	RCV_000090			?	Have requested obsoletion/merge with brain development (see issue 241)		
 brain development	RCV_000091	brain development	GO_0007420	is_a_OR_part_of_OR_regulates		173	open
 cAMP metabolism	RCV_000092			?			
-calcium homeostasis	RCV_000093			?			
-calcium signalling	RCV_000094			?			
+calcium homeostasis	RCV_000093	calcium ion homeostasis	GO_0055074	Equivalence			
+calcium signalling	RCV_000094	calcium mediated signaling	GO_0019722	Equivalence	Manual mapping looks quite odd.  Some classes don't seem to be signalling at all.  Think automated may be an improvement.		
 cannabinoid	RCV_000095	cannabinoid	CHEBI_67194	has_participant_chemical		171	open
 carnitine metabolism	RCV_000096	carnitine metabolic process	GO_0009437	Equivalence		172	open
-cartilage	RCV_000097			?			
+cartilage	RCV_000097	cartilage development	GO_0051216	is_a_OR_part_of_OR_regulates			
 cell adhesion	RCV_000098			?			
 cell adhesion and motility	RCV_000099			?			
 cell aging	RCV_000100			?			
@@ -131,18 +131,18 @@ cell-cell signaling	RCV_000129			?
 cell-matrix adhesion	RCV_000130			?			
 central nervous system	RCV_000131			?			
 cerebellar stellate cell	RCV_000132	cerebellar stellate cell	CL_0010010	has_participant_cell		151	open
-cerebellum	RCV_000133			?			
-chemotaxis	RCV_000134			?			
+cerebellum	RCV_000133	cerebellum development	GO_0021549	is_a_OR_part_of_OR_regulates			
+chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	Equivalence			
 cholesterol metabolism	RCV_000135	cholesterol metabolic process	GO_0008203	Equivalence		94	open
 cholinergic	RCV_000136			?			
-circadian	RCV_000137			?			
-circulatory system	RCV_000138			?			
+circadian	RCV_000137	circadian rhythm	GO_0007623	is_a_OR_part_of_OR_regulates			
+circulatory system	RCV_000138	circulatory system process	GO_0003013	Equivalennce	Suggest having separate term for circulatory system development?		
 cytoskeleton	RCV_000139	cytoskeletal part	GO_0044430	cellular_component_and_related_processes			
-defense response	RCV_000140			?			
-dendritic cell	RCV_000141			?			
+defense response	RCV_000140	defense response	GO_0006952	is_a_OR_part_of_OR_regulates	Auto mapping *much* broader than original, but perhaps more useful?		
+dendritic cell	RCV_000141	dendritic cell	CL_0000451	has_participant_cell	Misses regulation terms.  May be possible to tweak pattern to get these in.		
 detoxification	RCV_000142			?			
 digestive tract development	RCV_000143	digestive tract development	GO_0048565	is_a_OR_part_of_OR_regulates		135	open
-digestive tract function	RCV_000144			?			
+digestive tract function	RCV_000144	digestive system process	GO_0022600	is_a_OR_part_of_OR_regulates	Massively larger auto mapping! 		
 dopamine	RCV_000145			?			
 embryo development	RCV_000146			?			
 embryonic development	RCV_000147			?			
@@ -159,7 +159,7 @@ epithelial cell proliferation	RCV_000157	epithelial cell proliferation	GO_005067
 epithelial cells	RCV_000158	epithelial cell	CL_0000066	has_participant_cell		200	open
 epithelial to mesenchymal transition	RCV_000159	epithelial to mesenchymal transition	GO_0001837	?Equivalence			
 erythrocyte	RCV_000160	erythrocyte	CL_0000232	has_participant_cell		167	open
-exocrine glands	RCV_000161			?			
+exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?results in developmental progression of	Manual mapping is much more limited than name suggests.		
 extraglomerular mesangial	RCV_000162			?			
 fat metabolism	RCV_000163	lipid metabolic process	GO_0006629	Equivalence		168	open
 fatty acid metabolism	RCV_000164	fatty acid metabolic process	GO_0006631	Equivalence		169	open
@@ -220,7 +220,7 @@ lactate metabolism	RCV_000218	lactate metabolic process	GO_0006089	Equivalence		
 leptin-mediated signaling pathway	RCV_000219			?			
 leukocyte activation	RCV_000220			?			
 lipoprotein metabolism	RCV_000221			?			
-liver	RCV_000222			?			
+liver	RCV_000222			?	No term for system process term for liver.		
 liver development	RCV_000223	liver development	GO_0001889	is_a_OR_part_of_OR_regulates		123	closed
 lung development	RCV_000224	lung development	GO_0030324	is_a_OR_part_of_OR_regulates		124	open
 lymph gland development	RCV_000225			?			
