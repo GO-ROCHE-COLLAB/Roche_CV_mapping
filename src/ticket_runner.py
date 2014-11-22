@@ -33,9 +33,12 @@ for RCV_id, rd in owlMap.rowColDict.items():
             # issue['labels'] is a list of dicts.  Check the 'name fields in each of these dicts for a label match.
             label_names = map(lambda x: x['name'],  issue['labels'])
             if 'mapping_completed' in label_names:
-                RCV.rowColDict[RCV_id]['mapping_complete'] = 1
-        owlMap.rowColDict[RCV_id]['issue'] = issue['number']
-        owlMap.rowColDict[RCV_id]['issue_state'] = issue['state']
+                owlMap.rowColDict[RCV_id]['issue_state'] = 'closed - mapping completed'
+            else:
+                owlMap.rowColDict[RCV_id]['issue_state'] = issue['state']
+        else:
+            owlMap.rowColDict[RCV_id]['issue_state'] = issue['state'] 
+        owlMap.rowColDict[RCV_id]['issue'] = issue['number']        
 owlMap_file = open("../mapping_tables/owl_map.tsv", "w")
 owlMap_file.write(owlMap.print_tab(sort_keys=('issue_state', 'RCV_ID')))
 owlMap_file.close()

@@ -9,7 +9,8 @@ from tsv2pdm import tab
 
 # Critique: why so much passing of data structures, rather than objects?
 # Which bits could most easily and cleanly done with a DB?
-# Clearly the RCV, manual mapping and owl_map files should live in a DB:
+## Clearly the RCV, manual mapping and owl_map files should live in a DB.
+## A simple pattern table could also be useful for constraint purposes.
 
 
 
@@ -83,6 +84,7 @@ class map_obj:
 		"""go = go ontology object; RochCVterm = a single term from RocheCV; manual_map = colDict of manual map; owl_map = ColRowDict of owl mapping file"""
 		self.RCV_id = RCV_id
 		self.pattern_name = owl_map['Applied pattern']
+		self.status = owl_map['issue_state']
 		dc = { 'key_class': ( owl_map['Key Class Name'], owl_map['Key Class ID'] )}
 		self.appl_pattern  = gen_applied_pattern_from_json(pattern_path + self.pattern_name + ".json", dc, self.go)
 		self.class_expression = self.appl_pattern.equivalentTo
@@ -91,7 +93,6 @@ class map_obj:
 			self.manual_list.append(m['GO_ID'])
 		self.update_map()
 		self.update_id_name()
-		# Hard wiring for now!
 
 		
 	def validate_owl_map(self):
@@ -156,14 +157,15 @@ class map_obj:
 
 
 		# Update combined mapping
-		self._append_to_combined_mapping(report_tab)
+		if self.status == 'closed - mapping completed':
+			self._append_to_combined_mapping(report_tab)
 			
 	def _append_to_combined_mapping(self, report_tab):
 		"""report_tab = results table as dict of dicts, keyed on RCV_id"""
 		# Spec:  Append to compound table - combined manual & auto mappings that are not blacklisted
 		for d in report_tab.values():
 			rd = {}
-			if not d['blacklisted']:
+			if d['checked'] and not d['blacklisted']:
 				rd['RCV_NAME'] = self.rcv[self.RCV_id]['RCV_NAME']
 				rd['RCV_ID'] = self.RCV_id
 				rd['GO_ID'] = d['ID']
