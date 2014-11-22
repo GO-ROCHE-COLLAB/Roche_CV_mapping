@@ -165,7 +165,7 @@ class map_obj:
 		# Spec:  Append to compound table - combined manual & auto mappings that are not blacklisted
 		for d in report_tab.values():
 			rd = {}
-			if d['checked'] and not d['blacklisted']:
+			if not d['blacklisted']:
 				rd['RCV_NAME'] = self.rcv[self.RCV_id]['RCV_NAME']
 				rd['RCV_ID'] = self.RCV_id
 				rd['GO_ID'] = d['ID']
