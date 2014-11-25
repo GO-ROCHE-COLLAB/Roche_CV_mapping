@@ -1,0 +1,14 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+positive regulation of lactation by mesenchymal-epithelial cell signaling	GO_0060637	1	1	1	0	0
+mesenchymal-epithelial cell signaling involved in prostate induction	GO_0060521	1	1	1	0	0
+mesenchymal-epithelial cell signaling involved in prostate gland development	GO_0060739	1	1	1	0	0
+mesenchymal-epithelial cell signaling involved in lung development	GO_0060496	1	1	1	0	0
+mesenchymal-epithelial cell signaling	GO_0060638	1	1	1	0	0
+regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	GO_0060665	0	1	0	0	0
+positive regulation of salivary gland formation by mesenchymal-epithelial signaling	GO_0060639	0	1	0	0	0
+positive regulation of mammary placode formation by mesenchymal-epithelial signaling	GO_0060617	0	1	0	0	0
+positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling	GO_0060640	0	1	0	0	0
+mesenchymal-endodermal cell signaling involved in lung induction	GO_0060493	0	1	0	0	0
+mesenchymal-endodermal cell signaling	GO_0060497	0	1	0	0	0
+fibroblast growth factor receptor signaling pathway involved in lung induction	GO_0060499	0	1	0	0	0
+creation of an inductive signal by a mesenchymal cell involved in lung induction	GO_0060511	0	1	0	0	0

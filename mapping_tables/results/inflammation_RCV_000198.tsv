@@ -1,0 +1,407 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+serotonin secretion involved in inflammatory response	GO_0002442	1	1	1	0	0
+serotonin production involved in inflammatory response	GO_0002351	1	1	1	0	0
+respiratory burst involved in inflammatory response	GO_0002536	1	1	1	0	0
+regulation of vascular permeability involved in acute inflammatory response	GO_0002528	1	1	1	0	0
+regulation of respiratory burst involved in inflammatory response	GO_0060264	1	1	1	0	0
+regulation of leukotriene production involved in inflammatory response	GO_0035490	1	1	1	0	0
+regulation of inflammatory response to antigenic stimulus	GO_0002861	1	1	1	0	0
+regulation of inflammatory response by sphingosine-1-phosphate signaling pathway	GO_0003378	1	1	1	0	0
+regulation of inflammatory response	GO_0050727	1	1	1	0	0
+regulation of cytokine production involved in inflammatory response	GO_1900015	1	1	1	0	0
+regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002880	1	1	1	0	0
+regulation of chronic inflammatory response to antigenic stimulus	GO_0002874	1	1	1	0	0
+regulation of chronic inflammatory response	GO_0002676	1	1	1	0	0
+regulation of acute inflammatory response to non-antigenic stimulus	GO_0002877	1	1	1	0	0
+regulation of acute inflammatory response to antigenic stimulus	GO_0002864	1	1	1	0	0
+regulation of acute inflammatory response	GO_0002673	1	1	1	0	0
+prostaglandin production involved in inflammatory response	GO_0002539	1	1	1	0	0
+production of molecular mediator involved in inflammatory response	GO_0002532	1	1	1	0	0
+positive regulation of respiratory burst involved in inflammatory response	GO_0060265	1	1	1	0	0
+positive regulation of leukotriene production involved in inflammatory response	GO_0035491	1	1	1	0	0
+positive regulation of inflammatory response to antigenic stimulus	GO_0002863	1	1	1	0	0
+positive regulation of inflammatory response	GO_0050729	1	1	1	0	0
+positive regulation of cytokine production involved in inflammatory response	GO_1900017	1	1	1	0	0
+positive regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002882	1	1	1	0	0
+positive regulation of chronic inflammatory response to antigenic stimulus	GO_0002876	1	1	1	0	0
+positive regulation of chronic inflammatory response	GO_0002678	1	1	1	0	0
+positive regulation of acute inflammatory response to non-antigenic stimulus	GO_0002879	1	1	1	0	0
+positive regulation of acute inflammatory response to antigenic stimulus	GO_0002866	1	1	1	0	0
+positive regulation of acute inflammatory response	GO_0002675	1	1	1	0	0
+positive regulation by symbiont of host inflammatory response	GO_0052035	1	1	1	0	0
+positive regulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052259	1	1	1	0	0
+negative regulation of respiratory burst involved in inflammatory response	GO_0060266	1	1	1	0	0
+negative regulation of leukotriene production involved in inflammatory response	GO_0035492	1	1	1	0	0
+negative regulation of inflammatory response to antigenic stimulus	GO_0002862	1	1	1	0	0
+negative regulation of inflammatory response	GO_0050728	1	1	1	0	0
+negative regulation of cytokine production involved in inflammatory response	GO_1900016	1	1	1	0	0
+negative regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002881	1	1	1	0	0
+negative regulation of chronic inflammatory response to antigenic stimulus	GO_0002875	1	1	1	0	0
+negative regulation of chronic inflammatory response	GO_0002677	1	1	1	0	0
+negative regulation of acute inflammatory response to non-antigenic stimulus	GO_0002878	1	1	1	0	0
+negative regulation of acute inflammatory response to antigenic stimulus	GO_0002865	1	1	1	0	0
+negative regulation of acute inflammatory response	GO_0002674	1	1	1	0	0
+negative regulation by symbiont of host inflammatory response	GO_0052036	1	1	1	0	0
+negative regulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052260	1	1	1	0	0
+modulation by symbiont of host inflammatory response	GO_0052032	1	1	1	0	0
+modulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052256	1	1	1	0	0
+lysosomal enzyme secretion involved in inflammatory response	GO_0002533	1	1	1	0	0
+lysosomal enzyme production involved in inflammatory response	GO_0002393	1	1	1	0	0
+leukotriene production involved in inflammatory response	GO_0002540	1	1	1	0	0
+inflammatory response to antigenic stimulus	GO_0002437	1	1	1	0	0
+inflammatory response	GO_0006954	1	1	1	0	0
+histamine secretion involved in inflammatory response	GO_0002441	1	1	1	0	0
+histamine secretion by mast cell	GO_0002553	1	1	1	0	0
+histamine production involved in inflammatory response	GO_0002349	1	1	1	0	0
+cytokine production involved in inflammatory response	GO_0002534	1	1	1	0	0
+chronic inflammatory response to non-antigenic stimulus	GO_0002545	1	1	1	0	0
+chronic inflammatory response to antigenic stimulus	GO_0002439	1	1	1	0	0
+chronic inflammatory response	GO_0002544	1	1	1	0	0
+arachidonic acid metabolite production involved in inflammatory response	GO_0002538	1	1	1	0	0
+acute inflammatory response to non-antigenic stimulus	GO_0002525	1	1	1	0	0
+acute inflammatory response to antigenic stimulus	GO_0002438	1	1	1	0	0
+acute inflammatory response	GO_0002526	1	1	1	0	0
+activation of plasma proteins involved in acute inflammatory response	GO_0002541	1	1	1	0	0
+regulation of interleukin-9 production	GO_0032678	1	0	1	0	0
+regulation of interleukin-9 biosynthetic process	GO_0045417	1	0	1	0	0
+regulation of interleukin-8 secretion	GO_2000482	1	0	1	0	0
+regulation of interleukin-8 production	GO_0032677	1	0	1	0	0
+regulation of interleukin-8 biosynthetic process	GO_0045414	1	0	1	0	0
+regulation of interleukin-7 production	GO_0032676	1	0	1	0	0
+regulation of interleukin-7 biosynthetic process	GO_0045411	1	0	1	0	0
+regulation of interleukin-6-mediated signaling pathway	GO_0070103	1	0	1	0	0
+regulation of interleukin-6 production	GO_0032675	1	0	1	0	0
+regulation of interleukin-6 biosynthetic process	GO_0045408	1	0	1	0	0
+regulation of interleukin-5 secretion	GO_2000662	1	0	1	0	0
+regulation of interleukin-5 production	GO_0032674	1	0	1	0	0
+regulation of interleukin-5 biosynthetic process	GO_0045405	1	0	1	0	0
+regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000571	1	0	1	0	0
+regulation of interleukin-4 production	GO_0032673	1	0	1	0	0
+regulation of interleukin-4 biosynthetic process	GO_0045402	1	0	1	0	0
+regulation of interleukin-35-mediated signaling pathway	GO_0070758	1	0	1	0	0
+regulation of interleukin-35 production	GO_0070754	1	0	1	0	0
+regulation of interleukin-35 biosynthetic process	GO_0070750	1	0	1	0	0
+regulation of interleukin-3 production	GO_0032672	1	0	1	0	0
+regulation of interleukin-3 biosynthetic process	GO_0045399	1	0	1	0	0
+regulation of interleukin-27-mediated signaling pathway	GO_0070107	1	0	1	0	0
+regulation of interleukin-27 production	GO_0032671	1	0	1	0	0
+regulation of interleukin-27 biosynthetic process	GO_0045531	1	0	1	0	0
+regulation of interleukin-26 production	GO_0032670	1	0	1	0	0
+regulation of interleukin-26 biosynthetic process	GO_0045530	1	0	1	0	0
+regulation of interleukin-25 production	GO_0032669	1	0	1	0	0
+regulation of interleukin-25 biosynthetic process	GO_0045529	1	0	1	0	0
+regulation of interleukin-24 production	GO_0032668	1	0	1	0	0
+regulation of interleukin-24 biosynthetic process	GO_0045528	1	0	1	0	0
+regulation of interleukin-23 production	GO_0032667	1	0	1	0	0
+regulation of interleukin-23 biosynthetic process	GO_0045396	1	0	1	0	0
+regulation of interleukin-22 production	GO_0032666	1	0	1	0	0
+regulation of interleukin-22 biosynthetic process	GO_0045393	1	0	1	0	0
+regulation of interleukin-21 production	GO_0032665	1	0	1	0	0
+regulation of interleukin-21 biosynthetic process	GO_0045390	1	0	1	0	0
+regulation of interleukin-20 production	GO_0032664	1	0	1	0	0
+regulation of interleukin-20 biosynthetic process	GO_0045387	1	0	1	0	0
+regulation of interleukin-2 secretion	GO_1900040	1	0	1	0	0
+regulation of interleukin-2 production	GO_0032663	1	0	1	0	0
+regulation of interleukin-2 biosynthetic process	GO_0045076	1	0	1	0	0
+regulation of interleukin-19 production	GO_0032662	1	0	1	0	0
+regulation of interleukin-19 biosynthetic process	GO_0045384	1	0	1	0	0
+regulation of interleukin-18-mediated signaling pathway	GO_2000492	1	0	1	0	0
+regulation of interleukin-18 production	GO_0032661	1	0	1	0	0
+regulation of interleukin-18 biosynthetic process	GO_0045381	1	0	1	0	0
+regulation of interleukin-17 production	GO_0032660	1	0	1	0	0
+regulation of interleukin-17 biosynthetic process	GO_0045378	1	0	1	0	0
+regulation of interleukin-16 production	GO_0032659	1	0	1	0	0
+regulation of interleukin-16 biosynthetic process	GO_0045375	1	0	1	0	0
+regulation of interleukin-15 production	GO_0032658	1	0	1	0	0
+regulation of interleukin-15 biosynthetic process	GO_0045372	1	0	1	0	0
+regulation of interleukin-14 production	GO_0032657	1	0	1	0	0
+regulation of interleukin-14 biosynthetic process	GO_0045369	1	0	1	0	0
+regulation of interleukin-13 secretion	GO_2000665	1	0	1	0	0
+regulation of interleukin-13 production	GO_0032656	1	0	1	0	0
+regulation of interleukin-13 biosynthetic process	GO_0045366	1	0	1	0	0
+regulation of interleukin-12 secretion	GO_2001182	1	0	1	0	0
+regulation of interleukin-12 production	GO_0032655	1	0	1	0	0
+regulation of interleukin-12 biosynthetic process	GO_0045075	1	0	1	0	0
+regulation of interleukin-11 production	GO_0032654	1	0	1	0	0
+regulation of interleukin-11 biosynthetic process	GO_0045363	1	0	1	0	0
+regulation of interleukin-10 secretion	GO_2001179	1	0	1	0	0
+regulation of interleukin-10 production	GO_0032653	1	0	1	0	0
+regulation of interleukin-10 biosynthetic process	GO_0045074	1	0	1	0	0
+regulation of interleukin-1-mediated signaling pathway	GO_2000659	1	0	1	0	0
+regulation of interleukin-1 secretion	GO_0050704	1	0	1	0	0
+regulation of interleukin-1 production	GO_0032652	1	0	1	0	0
+regulation of interleukin-1 biosynthetic process	GO_0045360	1	0	1	0	0
+regulation of interleukin-1 beta secretion	GO_0050706	1	0	1	0	0
+regulation of interleukin-1 beta production	GO_0032651	1	0	1	0	0
+regulation of interleukin-1 beta biosynthetic process	GO_0050722	1	0	1	0	0
+regulation of interleukin-1 alpha secretion	GO_0050705	1	0	1	0	0
+regulation of interleukin-1 alpha production	GO_0032650	1	0	1	0	0
+regulation of interleukin-1 alpha biosynthetic process	GO_0050721	1	0	1	0	0
+regulation of interferon-gamma-mediated signaling pathway	GO_0060334	1	0	1	0	0
+regulation of interferon-gamma production	GO_0032649	1	0	1	0	0
+regulation of interferon-gamma biosynthetic process	GO_0045072	1	0	1	0	0
+regulation of interferon-beta secretion	GO_0035547	1	0	1	0	0
+regulation of interferon-beta production	GO_0032648	1	0	1	0	0
+regulation of interferon-beta biosynthetic process	GO_0045357	1	0	1	0	0
+regulation of interferon-alpha production	GO_0032647	1	0	1	0	0
+regulation of interferon-alpha biosynthetic process	GO_0045354	1	0	1	0	0
+regulation of cytokine-mediated signaling pathway	GO_0001959	1	0	1	0	0
+regulation of cytokine secretion	GO_0050707	1	0	1	0	0
+regulation of cytokine production	GO_0001817	1	0	1	0	0
+regulation of cytokine biosynthetic process	GO_0042035	1	0	1	0	0
+regulation of cytokine activity	GO_0060300	1	0	1	0	0
+regulation of chemokine-mediated signaling pathway	GO_0070099	1	0	1	0	0
+regulation of chemokine secretion	GO_0090196	1	0	1	0	0
+regulation of chemokine production	GO_0032642	1	0	1	0	0
+regulation of chemokine biosynthetic process	GO_0045073	1	0	1	0	0
+regulation of chemokine activity	GO_1900136	1	0	1	0	0
+regulation of chemokine (C-X-C motif) ligand 9 production	GO_0035394	1	0	1	0	0
+regulation of chemokine (C-X-C motif) ligand 2 production	GO_2000341	1	0	1	0	0
+regulation of chemokine (C-X-C motif) ligand 1 production	GO_2000338	1	0	1	0	0
+regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035535	1	0	1	0	0
+regulation of chemokine (C-C motif) ligand 6 production	GO_0035531	1	0	1	0	0
+regulation of chemokine (C-C motif) ligand 5 production	GO_0071649	1	0	1	0	0
+regulation of chemokine (C-C motif) ligand 4 production	GO_0071643	1	0	1	0	0
+regulation of chemokine (C-C motif) ligand 1 production	GO_0071652	1	0	1	0	0
+regulation of NLRP3 inflammasome complex assembly	GO_1900225	1	0	1	0	0
+positive regulation of NLRP3 inflammasome complex assembly	GO_1900227	1	0	1	0	0
+positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling	GO_0071848	1	0	1	0	0
+positive regulation by organism of symbiont inflammatory response	GO_0052514	1	0	1	1	1
+negative regulation of interleukin-9 production	GO_0032718	1	0	1	0	0
+negative regulation of interleukin-9 biosynthetic process	GO_0045418	1	0	1	0	0
+negative regulation of interleukin-8 secretion	GO_2000483	1	0	1	0	0
+negative regulation of interleukin-8 production	GO_0032717	1	0	1	0	0
+negative regulation of interleukin-8 biosynthetic process	GO_0045415	1	0	1	0	0
+negative regulation of interleukin-7 production	GO_0032716	1	0	1	0	0
+negative regulation of interleukin-7 biosynthetic process	GO_0045412	1	0	1	0	0
+negative regulation of interleukin-6-mediated signaling pathway	GO_0070104	1	0	1	0	0
+negative regulation of interleukin-6 secretion	GO_1900165	1	0	1	0	0
+negative regulation of interleukin-6 production	GO_0032715	1	0	1	0	0
+negative regulation of interleukin-6 biosynthetic process	GO_0045409	1	0	1	0	0
+negative regulation of interleukin-5 secretion	GO_2000663	1	0	1	0	0
+negative regulation of interleukin-5 production	GO_0032714	1	0	1	0	0
+negative regulation of interleukin-5 biosynthetic process	GO_0045406	1	0	1	0	0
+negative regulation of interleukin-4 production	GO_0032713	1	0	1	0	0
+negative regulation of interleukin-4 biosynthetic process	GO_0045403	1	0	1	0	0
+negative regulation of interleukin-35-mediated signaling pathway	GO_0070759	1	0	1	0	0
+negative regulation of interleukin-35 production	GO_0070755	1	0	1	0	0
+negative regulation of interleukin-35 biosynthetic process	GO_0070751	1	0	1	0	0
+negative regulation of interleukin-3 production	GO_0032712	1	0	1	0	0
+negative regulation of interleukin-3 biosynthetic process	GO_0045400	1	0	1	0	0
+negative regulation of interleukin-27-mediated signaling pathway	GO_0070108	1	0	1	0	0
+negative regulation of interleukin-27 production	GO_0032711	1	0	1	0	0
+negative regulation of interleukin-27 biosynthetic process	GO_0045535	1	0	1	0	0
+negative regulation of interleukin-26 production	GO_0032710	1	0	1	0	0
+negative regulation of interleukin-26 biosynthetic process	GO_0045534	1	0	1	0	0
+negative regulation of interleukin-25 production	GO_0032709	1	0	1	0	0
+negative regulation of interleukin-25 biosynthetic process	GO_0045533	1	0	1	0	0
+negative regulation of interleukin-24 production	GO_0032708	1	0	1	0	0
+negative regulation of interleukin-24 biosynthetic process	GO_0045532	1	0	1	0	0
+negative regulation of interleukin-23 production	GO_0032707	1	0	1	0	0
+negative regulation of interleukin-23 biosynthetic process	GO_0045397	1	0	1	0	0
+negative regulation of interleukin-22 production	GO_0032706	1	0	1	0	0
+negative regulation of interleukin-22 biosynthetic process	GO_0045394	1	0	1	0	0
+negative regulation of interleukin-21 production	GO_0032705	1	0	1	0	0
+negative regulation of interleukin-21 biosynthetic process	GO_0045391	1	0	1	0	0
+negative regulation of interleukin-20 production	GO_0032704	1	0	1	0	0
+negative regulation of interleukin-20 biosynthetic process	GO_0045388	1	0	1	0	0
+negative regulation of interleukin-2 secretion	GO_1900041	1	0	1	0	0
+negative regulation of interleukin-2 production	GO_0032703	1	0	1	0	0
+negative regulation of interleukin-2 biosynthetic process	GO_0045085	1	0	1	0	0
+negative regulation of interleukin-19 production	GO_0032702	1	0	1	0	0
+negative regulation of interleukin-19 biosynthetic process	GO_0045385	1	0	1	0	0
+negative regulation of interleukin-18-mediated signaling pathway	GO_2000493	1	0	1	0	0
+negative regulation of interleukin-18 production	GO_0032701	1	0	1	0	0
+negative regulation of interleukin-18 biosynthetic process	GO_0045382	1	0	1	0	0
+negative regulation of interleukin-17 production	GO_0032700	1	0	1	0	0
+negative regulation of interleukin-17 biosynthetic process	GO_0045379	1	0	1	0	0
+negative regulation of interleukin-16 production	GO_0032699	1	0	1	0	0
+negative regulation of interleukin-16 biosynthetic process	GO_0045376	1	0	1	0	0
+negative regulation of interleukin-15 production	GO_0032698	1	0	1	0	0
+negative regulation of interleukin-15 biosynthetic process	GO_0045373	1	0	1	0	0
+negative regulation of interleukin-14 production	GO_0032697	1	0	1	0	0
+negative regulation of interleukin-14 biosynthetic process	GO_0045370	1	0	1	0	0
+negative regulation of interleukin-13 secretion	GO_2000666	1	0	1	0	0
+negative regulation of interleukin-13 production	GO_0032696	1	0	1	0	0
+negative regulation of interleukin-13 biosynthetic process	GO_0045367	1	0	1	0	0
+negative regulation of interleukin-12 secretion	GO_2001183	1	0	1	0	0
+negative regulation of interleukin-12 production	GO_0032695	1	0	1	0	0
+negative regulation of interleukin-12 biosynthetic process	GO_0045083	1	0	1	0	0
+negative regulation of interleukin-11 production	GO_0032694	1	0	1	0	0
+negative regulation of interleukin-11 biosynthetic process	GO_0045364	1	0	1	0	0
+negative regulation of interleukin-10 secretion	GO_2001180	1	0	1	0	0
+negative regulation of interleukin-10 production	GO_0032693	1	0	1	0	0
+negative regulation of interleukin-10 biosynthetic process	GO_0045081	1	0	1	0	0
+negative regulation of interleukin-1-mediated signaling pathway	GO_2000660	1	0	1	0	0
+negative regulation of interleukin-1 secretion	GO_0050711	1	0	1	0	0
+negative regulation of interleukin-1 production	GO_0032692	1	0	1	0	0
+negative regulation of interleukin-1 biosynthetic process	GO_0045361	1	0	1	0	0
+negative regulation of interleukin-1 beta secretion	GO_0050713	1	0	1	0	0
+negative regulation of interleukin-1 beta production	GO_0032691	1	0	1	0	0
+negative regulation of interleukin-1 beta biosynthetic process	GO_0050724	1	0	1	0	0
+negative regulation of interleukin-1 alpha secretion	GO_0050712	1	0	1	0	0
+negative regulation of interleukin-1 alpha production	GO_0032690	1	0	1	0	0
+negative regulation of interleukin-1 alpha biosynthetic process	GO_0050723	1	0	1	0	0
+negative regulation of interferon-gamma-mediated signaling pathway	GO_0060336	1	0	1	0	0
+negative regulation of interferon-gamma production	GO_0032689	1	0	1	0	0
+negative regulation of interferon-gamma biosynthetic process	GO_0045077	1	0	1	0	0
+negative regulation of interferon-beta secretion	GO_0035548	1	0	1	0	0
+negative regulation of interferon-beta production	GO_0032688	1	0	1	0	0
+negative regulation of interferon-beta biosynthetic process	GO_0045358	1	0	1	0	0
+negative regulation of interferon-alpha production	GO_0032687	1	0	1	0	0
+negative regulation of interferon-alpha biosynthetic process	GO_0045355	1	0	1	0	0
+negative regulation of NLRP3 inflammasome complex assembly	GO_1900226	1	0	1	0	0
+negative regulation by organism of symbiont inflammatory response	GO_0052485	1	0	1	1	1
+modulation by organism of symbiont inflammatory response	GO_0052451	1	0	1	1	1
+inflammatory cell apoptotic process	GO_0006925	1	0	1	0	0
+cytokine-mediated signaling pathway	GO_0019221	1	0	1	0	0
+chemokine-mediated signaling pathway	GO_0070098	1	0	1	0	0
+chemokine secretion	GO_0090195	1	0	1	0	0
+chemokine receptor transport within lipid bilayer	GO_0033606	1	0	1	0	0
+chemokine receptor transport out of membrane raft	GO_0032600	1	0	1	0	0
+chemokine production	GO_0032602	1	0	1	0	0
+chemokine metabolic process	GO_0050755	1	0	1	0	0
+chemokine biosynthetic process	GO_0042033	1	0	1	0	0
+chemokine (C-X-C motif) ligand 9 production	GO_0035393	1	0	1	0	0
+chemokine (C-X-C motif) ligand 2 production	GO_0072567	1	0	1	0	0
+chemokine (C-X-C motif) ligand 12 signaling pathway	GO_0038146	1	0	1	0	0
+chemokine (C-X-C motif) ligand 1 production	GO_0072566	1	0	1	0	0
+chemokine (C-C motif) ligand 6 secretion	GO_0035534	1	0	1	0	0
+chemokine (C-C motif) ligand 6 production	GO_0035530	1	0	1	0	0
+chemokine (C-C motif) ligand 5 signaling pathway	GO_0035689	1	0	1	0	0
+chemokine (C-C motif) ligand 5 production	GO_0071609	1	0	1	0	0
+chemokine (C-C motif) ligand 4 production	GO_0071606	1	0	1	0	0
+chemokine (C-C motif) ligand 22 production	GO_0071924	1	0	1	0	0
+chemokine (C-C motif) ligand 21 signaling pathway	GO_0038116	1	0	1	0	0
+chemokine (C-C motif) ligand 2 signaling pathway	GO_0038148	1	0	1	0	0
+chemokine (C-C motif) ligand 2 secretion	GO_0035926	1	0	1	0	0
+chemokine (C-C motif) ligand 19 signaling pathway	GO_0038115	1	0	1	0	0
+chemokine (C-C motif) ligand 11 production	GO_0071954	1	0	1	0	0
+chemokine (C-C motif) ligand 1 production	GO_0071610	1	0	1	0	0
+arachidonic acid secretion	GO_0050482	1	0	1	0	0
+arachidonic acid metabolic process	GO_0019369	1	0	1	0	0
+activation of NF-kappaB-inducing kinase activity	GO_0007250	1	0	1	0	0
+activated T cell proliferation	GO_0050798	1	0	1	0	0
+activated T cell autonomous cell death	GO_0070238	1	0	1	0	0
+activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	1	0	1	0	0
+activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	1	0	1	0	0
+TNFSF11-mediated signaling pathway	GO_0071847	1	0	1	0	0
+NLRP3 inflammasome complex assembly	GO_0044546	1	0	1	0	0
+C-X-C chemokine receptor CXCR4 signaling pathway	GO_0038159	1	0	1	0	0
+wound healing involved in inflammatory response	GO_0002246	0	1	0	0	0
+vasodilation involved in acute inflammatory response	GO_0002527	0	1	0	0	0
+type IV hypersensitivity	GO_0001806	0	1	0	0	0
+type IIb hypersensitivity	GO_0001795	0	1	0	0	0
+type IIa hypersensitivity	GO_0001794	0	1	0	0	0
+type III hypersensitivity	GO_0001802	0	1	0	0	0
+type II hypersensitivity	GO_0002445	0	1	0	0	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0	0
+type I hypersensitivity	GO_0016068	0	1	0	0	0
+tissue kallikrein-kinin cascade	GO_0002255	0	1	0	0	0
+suppression by virus of host complement activation	GO_0039573	0	1	0	0	0
+serotonin secretion by platelet	GO_0002554	0	1	0	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
+serotonin secretion by basophil	GO_0002556	0	1	0	0	0
+regulation of type IV hypersensitivity	GO_0001807	0	1	0	0	0
+regulation of type IIb hypersensitivity	GO_0001799	0	1	0	0	0
+regulation of type IIa hypersensitivity	GO_0001796	0	1	0	0	0
+regulation of type III hypersensitivity	GO_0001803	0	1	0	0	0
+regulation of type II hypersensitivity	GO_0002892	0	1	0	0	0
+regulation of type I hypersensitivity	GO_0001810	0	1	0	0	0
+regulation of tissue kallikrein-kinin cascade	GO_0002382	0	1	0	0	0
+regulation of systemic arterial blood pressure involved in acute-phase response	GO_0002530	0	1	0	0	0
+regulation of plasma kallikrein-kinin cascade	GO_0002529	0	1	0	0	0
+regulation of kinin cascade	GO_0002256	0	1	0	0	0
+regulation of hypersensitivity	GO_0002883	0	1	0	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
+regulation of heart contraction involved in acute-phase response	GO_0002531	0	1	0	0	0
+regulation of granuloma formation	GO_0002631	0	1	0	0	0
+regulation of fever generation by regulation of prostaglandin secretion	GO_0071810	0	1	0	0	0
+regulation of fever generation by regulation of prostaglandin biosynthesis	GO_0071809	0	1	0	0	0
+regulation of fever generation	GO_0031620	0	1	0	0	0
+regulation of complement activation, lectin pathway	GO_0001868	0	1	0	0	0
+regulation of complement activation, classical pathway	GO_0030450	0	1	0	0	0
+regulation of complement activation, alternative pathway	GO_0030451	0	1	0	0	0
+regulation of complement activation	GO_0030449	0	1	0	0	0
+regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	0	0	0
+regulation of activation of membrane attack complex	GO_0001969	0	1	0	0	0
+positive regulation of type IV hypersensitivity	GO_0001809	0	1	0	0	0
+positive regulation of type IIb hypersensitivity	GO_0001801	0	1	0	0	0
+positive regulation of type IIa hypersensitivity	GO_0001798	0	1	0	0	0
+positive regulation of type III hypersensitivity	GO_0001805	0	1	0	0	0
+positive regulation of type II hypersensitivity	GO_0002894	0	1	0	0	0
+positive regulation of type I hypersensitivity	GO_0001812	0	1	0	0	0
+positive regulation of tissue kallikrein-kinin cascade	GO_0002547	0	1	0	0	0
+positive regulation of plasma kallikrein-kinin cascade	GO_0002550	0	1	0	0	0
+positive regulation of peripheral B cell deletion	GO_0002910	0	1	0	0	0
+positive regulation of natural killer cell tolerance induction	GO_0002873	0	1	0	0	0
+positive regulation of kinin cascade	GO_0002258	0	1	0	0	0
+positive regulation of hypersensitivity	GO_0002885	0	1	0	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
+positive regulation of granuloma formation	GO_0002633	0	1	0	0	0
+positive regulation of fever generation by positive regulation of prostaglandin secretion	GO_0071812	0	1	0	0	0
+positive regulation of fever generation by positive regulation of prostaglandin biosynthesis	GO_0071811	0	1	0	0	0
+positive regulation of fever generation	GO_0031622	0	1	0	0	0
+positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	0	0	0
+positive regulation of complement activation, lectin pathway	GO_0001870	0	1	0	0	0
+positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	0	0	0
+positive regulation of complement activation, classical pathway	GO_0045960	0	1	0	0	0
+positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	0	0	0
+positive regulation of complement activation, alternative pathway	GO_0045958	0	1	0	0	0
+positive regulation of complement activation	GO_0045917	0	1	0	0	0
+positive regulation of central B cell deletion	GO_0002900	0	1	0	0	0
+positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	0	0	0
+positive regulation of activation of membrane attack complex	GO_0001970	0	1	0	0	0
+positive regulation of B cell deletion	GO_0002869	0	1	0	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	0	0	0
+platelet activating factor production involved in inflammatory response	GO_0002391	0	1	0	0	0
+plasma kallikrein-kinin cascade	GO_0002353	0	1	0	0	0
+nitric oxide production involved in inflammatory response	GO_0002537	0	1	0	0	0
+negative regulation of type IV hypersensitivity	GO_0001808	0	1	0	0	0
+negative regulation of type IIb hypersensitivity	GO_0001800	0	1	0	0	0
+negative regulation of type IIa hypersensitivity	GO_0001797	0	1	0	0	0
+negative regulation of type III hypersensitivity	GO_0001804	0	1	0	0	0
+negative regulation of type II hypersensitivity	GO_0002893	0	1	0	0	0
+negative regulation of type I hypersensitivity	GO_0001811	0	1	0	0	0
+negative regulation of tissue kallikrein-kinin cascade	GO_0002546	0	1	0	0	0
+negative regulation of plasma kallikrein-kinin cascade	GO_0002549	0	1	0	0	0
+negative regulation of peripheral B cell deletion	GO_0002909	0	1	0	0	0
+negative regulation of natural killer cell tolerance induction	GO_0002872	0	1	0	0	0
+negative regulation of kinin cascade	GO_0002257	0	1	0	0	0
+negative regulation of hypersensitivity	GO_0002884	0	1	0	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
+negative regulation of granuloma formation	GO_0002632	0	1	0	0	0
+negative regulation of fever generation	GO_0031621	0	1	0	0	0
+negative regulation of complement activation, lectin pathway in other organism	GO_0044632	0	1	0	0	0
+negative regulation of complement activation, lectin pathway	GO_0001869	0	1	0	0	0
+negative regulation of complement activation, classical pathway in other organism	GO_0044629	0	1	0	0	0
+negative regulation of complement activation, classical pathway	GO_0045959	0	1	0	0	0
+negative regulation of complement activation, alternative pathway in other organism	GO_0044634	0	1	0	0	0
+negative regulation of complement activation, alternative pathway	GO_0045957	0	1	0	0	0
+negative regulation of complement activation	GO_0045916	0	1	0	0	0
+negative regulation of central B cell deletion	GO_0002899	0	1	0	0	0
+negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	0	0	0
+negative regulation of activation of membrane attack complex	GO_0001971	0	1	0	0	0
+negative regulation of B cell deletion	GO_0002868	0	1	0	0	0
+modulation of complement activation, lectin pathway in other organism	GO_0044630	0	1	0	0	0
+modulation of complement activation, classical pathway in other organism	GO_0044627	0	1	0	0	0
+modulation of complement activation, alternative pathway in other organism	GO_0044633	0	1	0	0	0
+leukocyte migration involved in inflammatory response	GO_0002523	0	1	0	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
+leukocyte activation involved in inflammatory response	GO_0002269	0	1	0	0	0
+kinin cascade	GO_0002254	0	1	0	0	0
+inflammatory response to wounding	GO_0090594	0	1	0	0	0
+hypersensitivity	GO_0002524	0	1	0	0	0
+histamine secretion mediated by immunoglobulin	GO_0097280	0	1	0	0	0
+histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	0	0	0
+histamine secretion by platelet	GO_0002555	0	1	0	0	0
+histamine secretion by basophil	GO_0002557	0	1	0	0	0
+granuloma formation	GO_0002432	0	1	0	0	0
+fever generation	GO_0001660	0	1	0	0	0
+connective tissue replacement involved in inflammatory response wound healing	GO_0002248	0	1	0	0	0
+clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247	0	1	0	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0	0
+acute-phase response	GO_0006953	0	1	0	0	0
+activation of blood coagulation via clotting cascade	GO_0002543	0	1	0	0	0
+Factor XII activation	GO_0002542	0	1	0	0	0

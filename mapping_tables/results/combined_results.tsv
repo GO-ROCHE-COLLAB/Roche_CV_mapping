@@ -1,6 +1,56 @@
 RCV_ID	RCV_NAME	GO_ID	GO_NAME
+RCV_000008	DNA recombination	GO_0002452	B cell receptor editing
+RCV_000008	DNA recombination	GO_0006310	DNA recombination
+RCV_000008	DNA recombination	GO_0042152	RNA-mediated DNA recombination
+RCV_000008	DNA recombination	GO_0033153	T cell receptor V(D)J recombination
+RCV_000008	DNA recombination	GO_0033151	V(D)J recombination
+RCV_000008	DNA recombination	GO_0002511	central B cell receptor editing
+RCV_000008	DNA recombination	GO_0000727	double-strand break repair via break-induced replication
+RCV_000008	DNA recombination	GO_0000724	double-strand break repair via homologous recombination
+RCV_000008	DNA recombination	GO_0045003	double-strand break repair via synthesis-dependent strand annealing
+RCV_000008	DNA recombination	GO_0001311	formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging
+RCV_000008	DNA recombination	GO_0035822	gene conversion
+RCV_000008	DNA recombination	GO_0007534	gene conversion at mating-type locus
+RCV_000008	DNA recombination	GO_0002206	gene conversion of immunoglobulin genes
+RCV_000008	DNA recombination	GO_0002207	gene conversion of immunoglobulin genes involved in immune response
+RCV_000008	DNA recombination	GO_0006315	homing of group II introns
+RCV_000008	DNA recombination	GO_0033152	immunoglobulin V(D)J recombination
+RCV_000008	DNA recombination	GO_0071707	immunoglobulin heavy chain V-D-J recombination
+RCV_000008	DNA recombination	GO_0071708	immunoglobulin light chain V-J recombination
+RCV_000008	DNA recombination	GO_0035708	interleukin-4-dependent isotype switching to IgE isotypes
+RCV_000008	DNA recombination	GO_1990067	intrachromosomal DNA recombination
+RCV_000008	DNA recombination	GO_0006314	intron homing
+RCV_000008	DNA recombination	GO_0045190	isotype switching
+RCV_000008	DNA recombination	GO_0048290	isotype switching to IgA isotypes
+RCV_000008	DNA recombination	GO_0048292	isotype switching to IgD isotypes
+RCV_000008	DNA recombination	GO_0048289	isotype switching to IgE isotypes
+RCV_000008	DNA recombination	GO_0048291	isotype switching to IgG isotypes
+RCV_000008	DNA recombination	GO_0035824	long tract gene conversion
+RCV_000008	DNA recombination	GO_0006311	meiotic gene conversion
+RCV_000008	DNA recombination	GO_0097552	mitochondrial double-strand break repair via homologous recombination
+RCV_000008	DNA recombination	GO_0006312	mitotic recombination
+RCV_000008	DNA recombination	GO_1903211	mitotic recombination involved in replication fork processing
+RCV_000008	DNA recombination	GO_0006316	movement of group I intron
 RCV_000008	DNA recombination	GO_0098038	non-replicative transposition, DNA-mediated
+RCV_000008	DNA recombination	GO_0002345	peripheral B cell receptor editing
+RCV_000008	DNA recombination	GO_0042150	plasmid recombination
+RCV_000008	DNA recombination	GO_0035825	reciprocal DNA recombination
+RCV_000008	DNA recombination	GO_0007131	reciprocal meiotic recombination
+RCV_000008	DNA recombination	GO_0045458	recombination within rDNA repeats
+RCV_000008	DNA recombination	GO_0036298	recombinational interstrand cross-link repair
+RCV_000008	DNA recombination	GO_0000725	recombinational repair
+RCV_000008	DNA recombination	GO_1990414	replication-born double-strand break repair via sister chromatid exchange
+RCV_000008	DNA recombination	GO_0098039	replicative transposition, DNA-mediated
+RCV_000008	DNA recombination	GO_0035823	short tract gene conversion
+RCV_000008	DNA recombination	GO_1990396	single-strand break repair via homologous recombination
 RCV_000008	DNA recombination	GO_0016444	somatic cell DNA recombination
+RCV_000008	DNA recombination	GO_0002565	somatic diversification of immune receptors via gene conversion
+RCV_000008	DNA recombination	GO_0002562	somatic diversification of immune receptors via germline recombination within a single locus
+RCV_000008	DNA recombination	GO_0002681	somatic recombination of T cell receptor gene segments
+RCV_000008	DNA recombination	GO_0016447	somatic recombination of immunoglobulin gene segments
+RCV_000008	DNA recombination	GO_0002204	somatic recombination of immunoglobulin genes involved in immune response
+RCV_000008	DNA recombination	GO_0000722	telomere maintenance via recombination
+RCV_000008	DNA recombination	GO_0006313	transposition, DNA-mediated
 RCV_000009	DNA repair	GO_0098504	DNA 3' dephosphorylation involved in DNA repair
 RCV_000009	DNA repair	GO_0006307	DNA dealkylation involved in DNA repair
 RCV_000009	DNA repair	GO_0000729	DNA double-strand break processing
@@ -419,8 +469,12 @@ RCV_000015	ERBB signaling pathway	GO_1901184	regulation of ERBB signaling pathwa
 RCV_000015	ERBB signaling pathway	GO_0060726	regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway
 RCV_000015	ERBB signaling pathway	GO_0042058	regulation of epidermal growth factor receptor signaling pathway
 RCV_000015	ERBB signaling pathway	GO_0007176	regulation of epidermal growth factor-activated receptor activity
+RCV_000024	NF-kappaB pathway	GO_0007249	I-kappaB kinase/NF-kappaB signaling
+RCV_000024	NF-kappaB pathway	GO_0007252	I-kappaB phosphorylation
+RCV_000024	NF-kappaB pathway	GO_0008384	IkappaB kinase activity
 RCV_000024	NF-kappaB pathway	GO_0042348	NF-kappaB import into nucleus
 RCV_000024	NF-kappaB pathway	GO_0038061	NIK/NF-kappaB signaling
+RCV_000024	NF-kappaB pathway	GO_0008588	release of cytoplasmic sequestered NF-kappaB
 RCV_000029	PNS development	GO_0014044	Schwann cell development
 RCV_000029	PNS development	GO_0014037	Schwann cell differentiation
 RCV_000029	PNS development	GO_0048907	anterior lateral line ganglion development
@@ -1454,16 +1508,22 @@ RCV_000061	angiogenesis	GO_0060981	cell migration involved in coronary angiogene
 RCV_000061	angiogenesis	GO_0002042	cell migration involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0097103	endothelial stalk cell fate specification
 RCV_000061	angiogenesis	GO_0097102	endothelial tip cell fate specification
+RCV_000061	angiogenesis	GO_0072104	glomerular capillary formation
 RCV_000061	angiogenesis	GO_0002041	intussusceptive angiogenesis
 RCV_000061	angiogenesis	GO_0001946	lymphangiogenesis
+RCV_000061	angiogenesis	GO_0061249	mesonephric glomerular capillary formation
+RCV_000061	angiogenesis	GO_0072277	metanephric glomerular capillary formation
 RCV_000061	angiogenesis	GO_0016525	negative regulation of angiogenesis
+RCV_000061	angiogenesis	GO_1903588	negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0090051	negative regulation of cell migration involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0061044	negative regulation of vascular wound healing
 RCV_000061	angiogenesis	GO_0001569	patterning of blood vessels
 RCV_000061	angiogenesis	GO_0045766	positive regulation of angiogenesis
+RCV_000061	angiogenesis	GO_1903589	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0090050	positive regulation of cell migration involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0035470	positive regulation of vascular wound healing
 RCV_000061	angiogenesis	GO_0045765	regulation of angiogenesis
+RCV_000061	angiogenesis	GO_1903587	regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0002045	regulation of cell adhesion involved in intussusceptive angiogenesis
 RCV_000061	angiogenesis	GO_0090049	regulation of cell migration involved in sprouting angiogenesis
 RCV_000061	angiogenesis	GO_0061043	regulation of vascular wound healing
@@ -3400,6 +3460,7 @@ RCV_000259	organ development	GO_0060131	corticotropin hormone secreting cell dev
 RCV_000259	organ development	GO_0060128	corticotropin hormone secreting cell differentiation
 RCV_000259	organ development	GO_0090451	cotyledon boundary formation
 RCV_000259	organ development	GO_0048826	cotyledon morphogenesis
+RCV_000259	organ development	GO_0010588	cotyledon vascular tissue pattern formation
 RCV_000259	organ development	GO_0060363	cranial suture morphogenesis
 RCV_000259	organ development	GO_0097094	craniofacial suture morphogenesis
 RCV_000259	organ development	GO_0060511	creation of an inductive signal by a mesenchymal cell involved in lung induction

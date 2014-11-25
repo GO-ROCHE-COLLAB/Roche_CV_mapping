@@ -1,0 +1,61 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of epithelial cell migration, open tracheal system	GO_2000274	1	1	1	0	0
+regulation of epithelial cell migration	GO_0010632	1	1	1	0	0
+positive regulation of epithelial cell migration	GO_0010634	1	1	1	0	0
+negative regulation of epithelial cell migration	GO_0010633	1	1	1	0	0
+epithelial cell migration, open tracheal system	GO_0007427	1	1	1	0	0
+epithelial cell migration involved in proximal tubule morphogenesis	GO_0072159	1	1	1	0	0
+epithelial cell migration involved in nephron tubule morphogenesis	GO_0072155	1	1	1	0	0
+epithelial cell migration involved in metanephric proximal tubule morphogenesis	GO_0072292	1	1	1	0	0
+epithelial cell migration involved in metanephric nephron tubule morphogenesis	GO_0072290	1	1	1	0	0
+epithelial cell migration involved in metanephric distal tubule morphogenesis	GO_0072291	1	1	1	0	0
+epithelial cell migration involved in mesonephric proximal tubule morphogenesis	GO_0061280	1	1	1	0	0
+epithelial cell migration involved in mesonephric nephron tubule morphogenesis	GO_0061278	1	1	1	0	0
+epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	1	1	1	0	0
+epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	1	1	1	0	0
+epithelial cell migration	GO_0010631	1	1	1	0	0
+venous endothelial cell migration involved in lymph vessel development	GO_0060855	0	1	0	0	0
+regulation of keratinocyte migration	GO_0051547	0	1	0	0	0
+regulation of endothelial cell migration	GO_0010594	0	1	0	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
+regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	0	0	0
+regulation of blood vessel endothelial cell migration	GO_0043535	0	1	0	0	0
+positive regulation of keratinocyte migration	GO_0051549	0	1	0	0	0
+positive regulation of endothelial cell migration	GO_0010595	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
+positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	0	0	0
+positive regulation of blood vessel endothelial cell migration	GO_0043536	0	1	0	0	0
+ovarian follicle cell migration	GO_0007297	0	1	0	0	0
+negative regulation of keratinocyte migration	GO_0051548	0	1	0	0	0
+negative regulation of endothelial cell migration	GO_0010596	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
+negative regulation of cell migration involved in sprouting angiogenesis	GO_0090051	0	1	0	0	0
+negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	0	0	0
+melanocyte migration	GO_0097324	0	1	0	0	0
+main body follicle cell migration	GO_0060270	0	1	0	0	0
+lamellipodium assembly involved in mesendodermal cell migration	GO_0003364	0	1	0	0	0
+keratinocyte migration	GO_0051546	0	1	0	0	0
+intestinal epithelial cell migration	GO_0061582	0	1	0	0	0
+glomerular visceral epithelial cell migration	GO_0090521	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in mesendodermal cell migration	GO_0003372	0	1	0	0	0
+establishment of cell polarity involved in mesendodermal cell migration	GO_0003369	0	1	0	0	0
+endothelial cell migration	GO_0043542	0	1	0	0	0
+endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
+endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
+corneal epithelial cell migration	GO_0061581	0	1	0	0	0
+colon epithelial cell migration	GO_0061580	0	1	0	0	0
+colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
+centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	0	0	0
+cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0	0
+cell migration involved in prostatic bud elongation	GO_0060518	0	1	0	0	0
+cell migration involved in mesendoderm migration	GO_0090134	0	1	0	0	0
+cell migration involved in mammary placode formation	GO_0060619	0	1	0	0	0
+border follicle cell migration	GO_0007298	0	1	0	0	0
+blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0	0
+blood vessel endothelial cell migration	GO_0043534	0	1	0	0	0

@@ -1,0 +1,25 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+endodermal cell fate specification	GO_0001714	1	1	1	0	0
+endodermal cell fate determination	GO_0007493	1	1	1	0	0
+endodermal cell fate commitment	GO_0001711	1	1	1	0	0
+endodermal cell differentiation	GO_0035987	1	1	1	0	0
+endoderm formation	GO_0001706	1	1	1	0	0
+endoderm development	GO_0007492	1	1	1	0	0
+endodermal-mesodermal cell signaling involved in heart induction	GO_0003134	1	0	1	0	0
+endodermal-mesodermal cell signaling	GO_0003133	1	0	1	0	0
+endodermal digestive tract morphogenesis	GO_0061031	1	0	1	0	0
+transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification	GO_0060799	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification	GO_0060807	0	1	0	0	0
+regulation of endodermal cell fate specification	GO_0042663	0	1	0	0	0
+regulation of endodermal cell differentiation	GO_1903224	0	1	0	0	0
+positive regulation of endodermal cell differentiation	GO_1903226	0	1	0	0	0
+negative regulation of endodermal cell fate specification	GO_0042664	0	1	0	0	0
+negative regulation of endodermal cell differentiation	GO_1903225	0	1	0	0	0
+mesendoderm migration	GO_0090133	0	1	0	0	0
+mesendoderm development	GO_0048382	0	1	0	0	0
+lamellipodium assembly involved in mesendodermal cell migration	GO_0003364	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in mesendodermal cell migration	GO_0003372	0	1	0	0	0
+establishment of cell polarity involved in mesendodermal cell migration	GO_0003369	0	1	0	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	0	0	0
+cell migration involved in mesendoderm migration	GO_0090134	0	1	0	0	0

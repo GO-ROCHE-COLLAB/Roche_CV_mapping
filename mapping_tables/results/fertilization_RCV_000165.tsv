@@ -1,0 +1,41 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+acrosome reaction	GO_0007340	1	1	1	0	0
+acrosome matrix dispersal	GO_0002077	1	1	1	0	0
+acrosomal vesicle exocytosis	GO_0060478	1	1	1	0	0
+regulation of acrosome reaction	GO_0060046	1	0	1	0	0
+regulation of acrosomal vesicle exocytosis	GO_2000367	1	0	1	0	0
+acrosome assembly	GO_0001675	1	0	1	0	0
+sperm-egg recognition	GO_0035036	0	1	0	0	0
+sperm plasma membrane disassembly	GO_0035045	0	1	0	0	0
+sperm nuclear envelope removal	GO_0035040	0	1	0	0	0
+sperm entry	GO_0035037	0	1	0	0	0
+sperm chromatin decondensation	GO_0035041	0	1	0	0	0
+sperm aster formation	GO_0035044	0	1	0	0	0
+single fertilization	GO_0007338	0	1	0	0	0
+respiratory burst at fertilization	GO_0045729	0	1	0	0	0
+protein localization involved in acrosome reaction	GO_0060476	0	1	0	0	0
+pronuclear migration	GO_0035046	0	1	0	0	0
+pronuclear fusion	GO_0007344	0	1	0	0	0
+pronuclear envelope synthesis	GO_0018985	0	1	0	0	0
+prevention of polyspermy	GO_0060468	0	1	0	0	0
+positive regulation of transcription involved in egg activation	GO_0060469	0	1	0	0	0
+positive regulation of cytosolic calcium ion concentration involved in egg activation	GO_0060470	0	1	0	0	0
+positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration	GO_0060472	0	1	0	0	0
+positive regulation of actin filament polymerization involved in acrosome reaction	GO_0060475	0	1	0	0	0
+peptidyl-serine phosphorylation involved in acrosome reaction	GO_0060477	0	1	0	0	0
+penetration of zona pellucida	GO_0007341	0	1	0	0	0
+membrane fusion involved in acrosome reaction	GO_0002078	0	1	0	0	0
+male-female gamete recognition during double fertilization	GO_0080173	0	1	0	0	0
+male pronucleus assembly	GO_0035039	0	1	0	0	0
+male pronuclear envelope synthesis	GO_0035043	0	1	0	0	0
+fusion of sperm to egg plasma membrane	GO_0007342	0	1	0	0	0
+fertilization, exchange of chromosomal proteins	GO_0035042	0	1	0	0	0
+fertilization	GO_0009566	0	1	0	0	0
+female pronucleus assembly	GO_0035038	0	1	0	0	0
+egg activation	GO_0007343	0	1	0	0	0
+double fertilization forming two zygotes	GO_0009677	0	1	0	0	0
+double fertilization forming a zygote and endosperm	GO_0009567	0	1	0	0	0
+cortical granule exocytosis	GO_0060471	0	1	0	0	0
+centrosomal and pronuclear rotation	GO_0035047	0	1	0	0	0
+binding of sperm to zona pellucida	GO_0007339	0	1	0	0	0
+activation of meiosis involved in egg activation	GO_0060466	0	1	0	0	0

@@ -1,0 +1,5 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+leptin-mediated signaling pathway	GO_0033210	1	1	1	0	0
+leptin-mediated signaling pathway involved in negative regulation of appetite	GO_1900043	1	0	1	1	1
+negative regulation of appetite by leptin-mediated signaling pathway	GO_0038108	0	1	0	0	0
+leptin receptor activity	GO_0038021	0	1	0	0	0

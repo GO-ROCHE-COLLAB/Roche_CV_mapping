@@ -1,0 +1,12 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+response to glucagon	GO_0033762	1	1	1	0	0
+glucagon secretion	GO_0070091	1	1	1	0	0
+cellular response to glucagon stimulus	GO_0071377	1	1	1	0	0
+regulation of glucagon secretion	GO_0070092	1	0	1	0	0
+positive regulation of glucagon-like peptide receptor 1 activity in other organism	GO_0044516	1	0	1	0	0
+positive regulation of glucagon secretion	GO_0070094	1	0	1	0	0
+negative regulation of glucagon secretion	GO_0070093	1	0	1	0	0
+modulation of glucagon-like peptide receptor 1 activity in other organism	GO_0044506	1	0	1	0	0
+envenomation resulting in positive regulation of glucagon-like peptide receptor 1 activity in other organism	GO_0044515	1	0	1	0	0
+envenomation resulting in modulation of glucagon-like peptide receptor 1 activity in other organism	GO_0044512	1	0	1	0	0
+glucagon receptor activity	GO_0004967	0	1	0	0	0

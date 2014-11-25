@@ -1,0 +1,65 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+nucleotide binding	GO_0000166	1	1	1	0	0
+translation repressor activity, nucleic acid binding	GO_0000900	1	0	1	0	0
+translation repressor activity, non-nucleic acid binding	GO_0000901	1	0	1	0	0
+peroxisome targeting sequence binding	GO_0000268	1	0	1	0	0
+inositol hexakisphosphate binding	GO_0000822	1	0	1	0	0
+fatty-acyl-CoA binding	GO_0000062	1	0	1	0	0
+acyl binding	GO_0000035	1	0	1	0	0
+SNARE binding	GO_0000149	1	0	1	0	0
+DNA secondary structure binding	GO_0000217	1	0	1	0	0
+ribonucleotide binding	GO_0032553	0	1	0	0	0
+pyrimidine ribonucleotide binding	GO_0032557	0	1	0	0	0
+pyrimidine nucleotide binding	GO_0019103	0	1	0	0	0
+pyrimidine deoxyribonucleotide binding	GO_0032556	0	1	0	0	0
+purine ribonucleotide binding	GO_0032555	0	1	0	0	0
+purine nucleotide binding	GO_0017076	0	1	0	0	0
+purine deoxyribonucleotide binding	GO_0032554	0	1	0	0	0
+mono-ADP-D-ribose binding	GO_0072571	0	1	0	0	0
+methyl-CpNpN binding	GO_0010429	0	1	0	0	0
+methyl-CpNpG binding	GO_0010428	0	1	0	0	0
+methyl-CpG binding	GO_0008327	0	1	0	0	0
+guanyl ribonucleotide binding	GO_0032561	0	1	0	0	0
+guanyl nucleotide binding	GO_0019001	0	1	0	0	0
+guanyl deoxyribonucleotide binding	GO_0032560	0	1	0	0	0
+guanosine tetraphosphate binding	GO_0097216	0	1	0	0	0
+flavin adenine dinucleotide binding	GO_0050660	0	1	0	0	0
+deoxyribonucleotide binding	GO_0032552	0	1	0	0	0
+dGTP binding	GO_0032567	0	1	0	0	0
+dGMP binding	GO_0032565	0	1	0	0	0
+dGDP binding	GO_0032566	0	1	0	0	0
+dATP binding	GO_0032564	0	1	0	0	0
+dAMP binding	GO_0032562	0	1	0	0	0
+dADP binding	GO_0032563	0	1	0	0	0
+cyclic-di-GMP binding	GO_0035438	0	1	0	0	0
+cyclic-GMP-AMP binding	GO_0061507	0	1	0	0	0
+cyclic nucleotide binding	GO_0030551	0	1	0	0	0
+cGMP binding	GO_0030553	0	1	0	0	0
+cAMP binding	GO_0030552	0	1	0	0	0
+adenyl-nucleotide exchange factor activity	GO_0000774	0	1	0	0	0
+adenyl ribonucleotide binding	GO_0032559	0	1	0	0	0
+adenyl nucleotide binding	GO_0030554	0	1	0	0	0
+adenyl deoxyribonucleotide binding	GO_0032558	0	1	0	0	0
+XTP binding	GO_1901640	0	1	0	0	0
+UTP binding	GO_0002134	0	1	0	0	0
+NADPH binding	GO_0070402	0	1	0	0	0
+NADP+ binding	GO_0070401	0	1	0	0	0
+NADP binding	GO_0050661	0	1	0	0	0
+NADH binding	GO_0070404	0	1	0	0	0
+NAD+ binding	GO_0070403	0	1	0	0	0
+NAD binding	GO_0051287	0	1	0	0	0
+ITP binding	GO_1901641	0	1	0	0	0
+IMP binding	GO_1902249	0	1	0	0	0
+GTP binding	GO_0005525	0	1	0	0	0
+GMP binding	GO_0019002	0	1	0	0	0
+GDP binding	GO_0019003	0	1	0	0	0
+FMN binding	GO_0010181	0	1	0	0	0
+FADH2 binding	GO_0071950	0	1	0	0	0
+FAD binding	GO_0071949	0	1	0	0	0
+CTP binding	GO_0002135	0	1	0	0	0
+ATP binding	GO_0005524	0	1	0	0	0
+AMP binding	GO_0016208	0	1	0	0	0
+ADP-D-ribose binding	GO_0072570	0	1	0	0	0
+ADP binding	GO_0043531	0	1	0	0	0
+3'-phosphoadenosine 5'-phosphosulfate binding	GO_0050656	0	1	0	0	0
+2',5-3',5'-cyclic GMP-AMP binding	GO_0098546	0	1	0	0	0

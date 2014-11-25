@@ -1,0 +1,208 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+single organismal cell-cell adhesion	GO_0016337	1	1	1	0	0
+regulation of homotypic cell-cell adhesion	GO_0034110	1	1	1	0	0
+regulation of heterotypic cell-cell adhesion	GO_0034114	1	1	1	0	0
+regulation of cell-cell adhesion mediated by integrin	GO_0033632	1	1	1	0	0
+regulation of cell-cell adhesion mediated by cadherin	GO_2000047	1	1	1	0	0
+regulation of cell-cell adhesion involved in gastrulation	GO_0070587	1	1	1	0	0
+regulation of cell-cell adhesion	GO_0022407	1	1	1	0	0
+regulation of cell adhesion mediated by integrin	GO_0033628	1	1	1	0	0
+regulation of cell adhesion involved in single-species biofilm formation	GO_1900187	1	1	1	0	0
+regulation of cell adhesion involved in intussusceptive angiogenesis	GO_0002045	1	1	1	0	0
+regulation of cell adhesion involved in heart morphogenesis	GO_0061344	1	1	1	0	0
+regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	1	1	1	0	0
+regulation of cell adhesion	GO_0030155	1	1	1	0	0
+regulation of calcium-independent cell-cell adhesion	GO_0051040	1	1	1	0	0
+regulation of calcium-dependent cell-cell adhesion	GO_0046586	1	1	1	0	0
+regulation of actin cytoskeleton organization by cell-cell adhesion	GO_0090138	1	1	1	0	0
+positive regulation of homotypic cell-cell adhesion	GO_0034112	1	1	1	0	0
+positive regulation of heterotypic cell-cell adhesion	GO_0034116	1	1	1	0	0
+positive regulation of cell-cell adhesion mediated by integrin	GO_0033634	1	1	1	0	0
+positive regulation of cell-cell adhesion mediated by cadherin	GO_2000049	1	1	1	0	0
+positive regulation of cell-cell adhesion	GO_0022409	1	1	1	0	0
+positive regulation of cell adhesion mediated by integrin	GO_0033630	1	1	1	0	0
+positive regulation of cell adhesion involved in single-species biofilm formation	GO_1900189	1	1	1	0	0
+positive regulation of cell adhesion	GO_0045785	1	1	1	0	0
+positive regulation of calcium-independent cell-cell adhesion	GO_0051041	1	1	1	0	0
+positive regulation of calcium-dependent cell-cell adhesion	GO_0046587	1	1	1	0	0
+neuron cell-cell adhesion	GO_0007158	1	1	1	0	0
+negative regulation of homotypic cell-cell adhesion	GO_0034111	1	1	1	0	0
+negative regulation of heterotypic cell-cell adhesion	GO_0034115	1	1	1	0	0
+negative regulation of focal adhesion assembly	GO_0051895	1	1	1	0	0
+negative regulation of cell-cell adhesion mediated by integrin	GO_0033633	1	1	1	0	0
+negative regulation of cell-cell adhesion mediated by cadherin	GO_2000048	1	1	1	0	0
+negative regulation of cell-cell adhesion by negative regulation of transcription from RNA polymerase II promoter	GO_1900387	1	1	1	0	0
+negative regulation of cell-cell adhesion	GO_0022408	1	1	1	0	0
+negative regulation of cell adhesion mediated by integrin	GO_0033629	1	1	1	0	0
+negative regulation of cell adhesion involved in substrate-bound cell migration	GO_0006933	1	1	1	0	0
+negative regulation of cell adhesion involved in single-species biofilm formation	GO_1900188	1	1	1	0	0
+negative regulation of cell adhesion in ventricular zone	GO_0021804	1	1	1	0	0
+negative regulation of cell adhesion	GO_0007162	1	1	1	0	0
+negative regulation of calcium-independent cell-cell adhesion	GO_0051042	1	1	1	0	0
+negative regulation of calcium-dependent cell-cell adhesion	GO_0046588	1	1	1	0	0
+homotypic cell-cell adhesion	GO_0034109	1	1	1	0	0
+homophilic cell adhesion via plasma membrane adhesion molecules	GO_0007156	1	1	1	0	0
+heterotypic cell-cell adhesion	GO_0034113	1	1	1	0	0
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0007157	1	1	1	0	0
+heterophilic cell adhesion involved in cytoadherence to microvasculature, mediated by parasite protein	GO_0043706	1	1	1	0	0
+epithelial cell-cell adhesion involved in epithelium migration	GO_0090137	1	1	1	0	0
+epithelial cell-cell adhesion	GO_0090136	1	1	1	0	0
+cell-cell adhesion mediated by integrin	GO_0033631	1	1	1	0	0
+cell-cell adhesion mediated by cadherin	GO_0044331	1	1	1	0	0
+cell-cell adhesion involved in synapse maturation	GO_0090125	1	1	1	0	0
+cell-cell adhesion involved in sealing an epithelial fold	GO_0060607	1	1	1	0	0
+cell-cell adhesion involved in neural tube closure	GO_0060608	1	1	1	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	1	1	1	0	0
+cell-cell adhesion involved in gastrulation	GO_0070586	1	1	1	0	0
+cell-cell adhesion involved in flocculation via cell wall protein-carbohydrate interaction	GO_0043690	1	1	1	0	0
+cell-cell adhesion involved in flocculation	GO_0043689	1	1	1	0	0
+cell-cell adhesion involved in establishment of planar polarity	GO_0090250	1	1	1	0	0
+cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	1	1	1	0	0
+cell-cell adhesion involved in ameboidal cell migration	GO_0003367	1	1	1	0	0
+cell adhesion mediated by integrin	GO_0033627	1	1	1	0	0
+cell adhesion involved in single-species biofilm formation in or on host organism	GO_0043707	1	1	1	0	0
+cell adhesion involved in single-species biofilm formation	GO_0043709	1	1	1	0	0
+cell adhesion involved in retrograde extension	GO_0003392	1	1	1	0	0
+cell adhesion involved in prostatic bud elongation	GO_0060519	1	1	1	0	0
+cell adhesion involved in multi-species biofilm formation	GO_0043710	1	1	1	0	0
+cell adhesion involved in heart morphogenesis	GO_0061343	1	1	1	0	0
+cell adhesion involved in dendrite retrograde extension	GO_0003394	1	1	1	0	0
+cell adhesion involved in biofilm formation	GO_0043708	1	1	1	0	0
+cell adhesion involved in amphid sensory organ dendrite retrograde extension	GO_0003396	1	1	1	0	0
+cell adhesion	GO_0007155	1	1	1	0	0
+Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication	GO_0086074	1	1	1	0	0
+regulation of cell adhesion molecule production	GO_0060353	1	0	1	0	0
+positive regulation of cell adhesion molecule production	GO_0060355	1	0	1	0	0
+negative regulation of cell adhesion molecule production	GO_0060354	1	0	1	0	0
+cell adhesion molecule production	GO_0060352	1	0	1	0	0
+thymocyte aggregation	GO_0071594	0	1	0	0	0
+substrate-dependent cell migration, cell attachment to substrate	GO_0006931	0	1	0	0	0
+substrate adhesion-dependent cell spreading	GO_0034446	0	1	0	0	0
+smooth muscle cell-matrix adhesion	GO_0061302	0	1	0	0	0
+single organism cell adhesion	GO_0098602	0	1	0	0	0
+regulation of thymocyte aggregation	GO_2000398	0	1	0	0	0
+regulation of substrate adhesion-dependent cell spreading	GO_1900024	0	1	0	0	0
+regulation of smooth muscle cell-matrix adhesion	GO_2000097	0	1	0	0	0
+regulation of pre-tubular aggregate formation by cell-cell signaling	GO_0072043	0	1	0	0	0
+regulation of platelet aggregation	GO_0090330	0	1	0	0	0
+regulation of neutrophil aggregation	GO_2000428	0	1	0	0	0
+regulation of monocyte aggregation	GO_1900623	0	1	0	0	0
+regulation of leukocyte tethering or rolling	GO_1903236	0	1	0	0	0
+regulation of leukocyte cell-cell adhesion	GO_1903037	0	1	0	0	0
+regulation of homophilic cell adhesion	GO_1903385	0	1	0	0	0
+regulation of focal adhesion assembly	GO_0051893	0	1	0	0	0
+regulation of erythrocyte aggregation	GO_0034118	0	1	0	0	0
+regulation of cell-substrate adhesion	GO_0010810	0	1	0	0	0
+regulation of cell-matrix adhesion	GO_0001952	0	1	0	0	0
+regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	0	1	0	0	0
+regulation of cartilage condensation	GO_1902026	0	1	0	0	0
+protein binding involved in heterotypic cell-cell adhesion	GO_0086080	0	1	0	0	0
+protein binding involved in cell-matrix adhesion	GO_0098634	0	1	0	0	0
+protein binding involved in cell-cell adhesion	GO_0098632	0	1	0	0	0
+protein binding involved in cell adhesion	GO_0098631	0	1	0	0	0
+pre-tubular aggregate formation	GO_0072035	0	1	0	0	0
+posterior neuropore closure	GO_0021507	0	1	0	0	0
+positive regulation of thymocyte aggregation	GO_2000400	0	1	0	0	0
+positive regulation of substrate adhesion-dependent cell spreading	GO_1900026	0	1	0	0	0
+positive regulation of platelet aggregation in other organism	GO_0035894	0	1	0	0	0
+positive regulation of platelet aggregation	GO_1901731	0	1	0	0	0
+positive regulation of neutrophil aggregation	GO_2000430	0	1	0	0	0
+positive regulation of monocyte aggregation	GO_1900625	0	1	0	0	0
+positive regulation of leukocyte tethering or rolling	GO_1903238	0	1	0	0	0
+positive regulation of leukocyte cell-cell adhesion	GO_1903039	0	1	0	0	0
+positive regulation of homophilic cell adhesion	GO_1903387	0	1	0	0	0
+positive regulation of focal adhesion assembly	GO_0051894	0	1	0	0	0
+positive regulation of erythrocyte aggregation	GO_0034120	0	1	0	0	0
+positive regulation of cell-substrate adhesion	GO_0010811	0	1	0	0	0
+positive regulation of cell-matrix adhesion	GO_0001954	0	1	0	0	0
+positive regulation of cartilage condensation	GO_1902027	0	1	0	0	0
+pollen tube adhesion	GO_0009865	0	1	0	0	0
+pollen adhesion	GO_0009876	0	1	0	0	0
+platelet aggregation	GO_0070527	0	1	0	0	0
+ovarian follicle cell-cell adhesion	GO_0007299	0	1	0	0	0
+oenocyte delamination	GO_0060233	0	1	0	0	0
+neutrophil aggregation	GO_0070488	0	1	0	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	0	0	0
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	0	0	0
+neuroblast delamination	GO_0060234	0	1	0	0	0
+neural crest cell delamination	GO_0036032	0	1	0	0	0
+negative regulation of thymocyte aggregation	GO_2000399	0	1	0	0	0
+negative regulation of substrate adhesion-dependent cell spreading	GO_1900025	0	1	0	0	0
+negative regulation of smooth muscle cell-matrix adhesion	GO_2000098	0	1	0	0	0
+negative regulation of platelet aggregation in other organism	GO_0035893	0	1	0	0	0
+negative regulation of platelet aggregation	GO_0090331	0	1	0	0	0
+negative regulation of neutrophil aggregation	GO_2000429	0	1	0	0	0
+negative regulation of monocyte aggregation	GO_1900624	0	1	0	0	0
+negative regulation of leukocyte tethering or rolling	GO_1903237	0	1	0	0	0
+negative regulation of leukocyte cell-cell adhesion	GO_1903038	0	1	0	0	0
+negative regulation of homophilic cell adhesion	GO_1903386	0	1	0	0	0
+negative regulation of erythrocyte aggregation	GO_0034119	0	1	0	0	0
+negative regulation of cell-substrate adhesion	GO_0010812	0	1	0	0	0
+negative regulation of cell-matrix adhesion	GO_0001953	0	1	0	0	0
+negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	0	0	0
+multi organism cell adhesion	GO_0098740	0	1	0	0	0
+monocyte aggregation	GO_0070487	0	1	0	0	0
+modulation of platelet aggregation in other organism	GO_0035892	0	1	0	0	0
+modulation by symbiont of host erythrocyte aggregation	GO_0020013	0	1	0	0	0
+mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	0	0	0
+mesangial cell-matrix adhesion	GO_0035759	0	1	0	0	0
+melanocyte adhesion	GO_0097326	0	1	0	0	0
+lymphocyte aggregation	GO_0071593	0	1	0	0	0
+lymphocyte adhesion to endothelial cell of high endothelial venule	GO_0036339	0	1	0	0	0
+leukocyte tethering or rolling	GO_0050901	0	1	0	0	0
+leukocyte cell-cell adhesion	GO_0007159	0	1	0	0	0
+leukocyte aggregation	GO_0070486	0	1	0	0	0
+leukocyte activation-dependent arrest	GO_0050903	0	1	0	0	0
+laminin binding involved in cell-matrix adhesion	GO_0098638	0	1	0	0	0
+interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex	GO_0021839	0	1	0	0	0
+integrin binding involved in cell-matrix adhesion	GO_0098640	0	1	0	0	0
+focal adhesion assembly	GO_0048041	0	1	0	0	0
+erythrocyte aggregation	GO_0034117	0	1	0	0	0
+endothelial to hematopoietic transition	GO_0098508	0	1	0	0	0
+endothelial cell-cell adhesion	GO_0071603	0	1	0	0	0
+endocardial cushion fusion	GO_0003274	0	1	0	0	0
+delamination involved in gastrulation with mouth forming second	GO_0055112	0	1	0	0	0
+delamination	GO_0060232	0	1	0	0	0
+corneocyte desquamation	GO_0003336	0	1	0	0	0
+conjugant formation	GO_0000761	0	1	0	0	0
+collagen binding involved in cell-matrix adhesion	GO_0098639	0	1	0	0	0
+chorio-allantoic fusion	GO_0060710	0	1	0	0	0
+cell-substrate adhesion	GO_0031589	0	1	0	0	0
+cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	0	1	0	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
+cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	0	1	0	0	0
+cell-matrix adhesion	GO_0007160	0	1	0	0	0
+cell-cell adhesion via plasma-membrane adhesion molecules	GO_0098742	0	1	0	0	0
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	0	0	0
+cell-cell adhesion involved in mannose-specific flocculation	GO_0098612	0	1	0	0	0
+cell-cell adhesion involved in galactose-specific flocculation	GO_0098611	0	1	0	0	0
+cell-cell adhesion	GO_0098609	0	1	0	0	0
+cell-abiotic substrate adhesion	GO_0036164	0	1	0	0	0
+cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication	GO_0086083	0	1	0	0	0
+cell adhesive protein binding involved in atrial cardiac muscle cell-AV node cell communication	GO_0086081	0	1	0	0	0
+cell adhesive protein binding involved in SA cardiac muscle cell-atrial cardiac muscle cell communication	GO_0086085	0	1	0	0	0
+cell adhesive protein binding involved in Purkinje myocyte-ventricular cardiac muscle cell communication	GO_0086084	0	1	0	0	0
+cell adhesive protein binding involved in AV node cell-bundle of His cell communication	GO_0086082	0	1	0	0	0
+cardioblast cell midline fusion	GO_0003317	0	1	0	0	0
+cardiac neural crest cell delamination involved in outflow tract morphogenesis	GO_1900728	0	1	0	0	0
+cardiac neural crest cell delamination	GO_0036036	0	1	0	0	0
+cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	0	1	0	0	0
+calcium-independent cell-matrix adhesion	GO_0007161	0	1	0	0	0
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	GO_0016338	0	1	0	0	0
+calcium-dependent cell-matrix adhesion	GO_0016340	0	1	0	0	0
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0016339	0	1	0	0	0
+cadherin binding involved in cell-cell adhesion	GO_0098641	0	1	0	0	0
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO_0086073	0	1	0	0	0
+border follicle cell delamination	GO_0030709	0	1	0	0	0
+blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment	GO_1902354	0	1	0	0	0
+blood vessel endothelial cell delamination	GO_0097497	0	1	0	0	0
+atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	0	1	0	0	0
+agglutination involved in conjugation with mutual genetic exchange	GO_0000758	0	1	0	0	0
+agglutination involved in conjugation with cellular fusion	GO_0000752	0	1	0	0	0
+agglutination involved in conjugation	GO_0000771	0	1	0	0	0
+adhesion between unicellular organisms via cell-wall interaction	GO_0098741	0	1	0	0	0
+adhesion between unicellular organisms	GO_0098610	0	1	0	0	0
+T cell aggregation	GO_0070489	0	1	0	0	0
+SA node cell-atrial cardiac muscle cell adhesion involved in cell communication	GO_0086022	0	1	0	0	0
+B cell adhesion	GO_0097323	0	1	0	0	0
+AV node cell-bundle of His cell adhesion involved in cell communication	GO_0086072	0	1	0	0	0

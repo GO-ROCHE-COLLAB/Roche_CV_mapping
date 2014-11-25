@@ -1,0 +1,273 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+thigmotaxis	GO_0001966	1	1	1	0	0
+thermotaxis	GO_0043052	1	1	1	0	0
+taxis to electron acceptor	GO_0042334	1	1	1	0	0
+taxis	GO_0042330	1	1	1	0	0
+regulation of positive chemotaxis to cAMP by chlorinated alkylphenone	GO_0061119	1	1	1	0	0
+regulation of positive chemotaxis to cAMP by DIF-2	GO_0061121	1	1	1	0	0
+regulation of positive chemotaxis to cAMP by DIF-1	GO_0061120	1	1	1	0	0
+regulation of positive chemotaxis to cAMP	GO_0061118	1	1	1	0	0
+regulation of positive chemotaxis	GO_0050926	1	1	1	0	0
+regulation of neutrophil chemotaxis	GO_0090022	1	1	1	0	0
+regulation of negative chemotaxis	GO_0050923	1	1	1	0	0
+regulation of muscle cell chemotaxis toward tendon cell	GO_2001281	1	1	1	0	0
+regulation of monocyte chemotaxis	GO_0090025	1	1	1	0	0
+regulation of leukocyte chemotaxis	GO_0002688	1	1	1	0	0
+regulation of granulocyte chemotaxis	GO_0071622	1	1	1	0	0
+regulation of eosinophil chemotaxis	GO_2000422	1	1	1	0	0
+regulation of chemotaxis	GO_0050920	1	1	1	0	0
+regulation of astrocyte chemotaxis	GO_2000458	1	1	1	0	0
+regulation of B cell chemotaxis	GO_2000537	1	1	1	0	0
+redox taxis	GO_0009455	1	1	1	0	0
+positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone	GO_0061124	1	1	1	0	0
+positive regulation of positive chemotaxis to cAMP by DIF-1	GO_0061126	1	1	1	0	0
+positive regulation of positive chemotaxis to cAMP	GO_0061122	1	1	1	0	0
+positive regulation of positive chemotaxis	GO_0050927	1	1	1	0	0
+positive regulation of neutrophil chemotaxis	GO_0090023	1	1	1	0	0
+positive regulation of negative chemotaxis	GO_0050924	1	1	1	0	0
+positive regulation of monocyte chemotaxis	GO_0090026	1	1	1	0	0
+positive regulation of leukocyte chemotaxis	GO_0002690	1	1	1	0	0
+positive regulation of granulocyte chemotaxis	GO_0071624	1	1	1	0	0
+positive regulation of eosinophil chemotaxis	GO_2000424	1	1	1	0	0
+positive regulation of chemotaxis to cAMP by DIF-2	GO_0061128	1	1	1	0	0
+positive regulation of chemotaxis	GO_0050921	1	1	1	0	0
+positive regulation of astrocyte chemotaxis	GO_2000464	1	1	1	0	0
+positive regulation of B cell chemotaxis	GO_2000538	1	1	1	0	0
+positive phototaxis	GO_0046956	1	1	1	0	0
+positive gravitaxis	GO_0048061	1	1	1	0	0
+positive energy taxis on or near other organism involved in symbiotic interaction	GO_0052246	1	1	1	0	0
+positive energy taxis on or near host	GO_0052146	1	1	1	0	0
+positive energy taxis in other organism involved in symbiotic interaction	GO_0052247	1	1	1	0	0
+positive energy taxis in host environment	GO_0052118	1	1	1	0	0
+positive energy taxis in host	GO_0052147	1	1	1	0	0
+positive energy taxis in environment of other organism involved in symbiotic interaction	GO_0052218	1	1	1	0	0
+positive energy taxis	GO_0052128	1	1	1	0	0
+positive chemotaxis on or near other organism involved in symbiotic interaction	GO_0052241	1	1	1	0	0
+positive chemotaxis on or near host	GO_0052141	1	1	1	0	0
+positive chemotaxis in other organism involved in symbiotic interaction	GO_0052240	1	1	1	0	0
+positive chemotaxis in host environment	GO_0052121	1	1	1	0	0
+positive chemotaxis in host	GO_0052140	1	1	1	0	0
+positive chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052221	1	1	1	0	0
+positive chemotaxis	GO_0050918	1	1	1	0	0
+positive aerotaxis on or near other organism involved in symbiotic interaction	GO_0052232	1	1	1	0	0
+positive aerotaxis on or near host	GO_0052132	1	1	1	0	0
+positive aerotaxis in other organism involved in symbiotic interaction	GO_0052233	1	1	1	0	0
+positive aerotaxis in host environment	GO_0052120	1	1	1	0	0
+positive aerotaxis in host	GO_0052133	1	1	1	0	0
+positive aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052220	1	1	1	0	0
+positive aerotaxis	GO_0052131	1	1	1	0	0
+phototaxis	GO_0042331	1	1	1	0	0
+negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone	GO_0061125	1	1	1	0	0
+negative regulation of positive chemotaxis to cAMP by DIF-2	GO_0061129	1	1	1	0	0
+negative regulation of positive chemotaxis to cAMP by DIF-1	GO_0061127	1	1	1	0	0
+negative regulation of positive chemotaxis to cAMP	GO_0061123	1	1	1	0	0
+negative regulation of positive chemotaxis	GO_0050928	1	1	1	0	0
+negative regulation of neutrophil chemotaxis	GO_0090024	1	1	1	0	0
+negative regulation of negative chemotaxis	GO_0050925	1	1	1	0	0
+negative regulation of muscle cell chemotaxis toward tendon cell	GO_2001282	1	1	1	0	0
+negative regulation of monocyte chemotaxis	GO_0090027	1	1	1	0	0
+negative regulation of leukocyte chemotaxis	GO_0002689	1	1	1	0	0
+negative regulation of granulocyte chemotaxis	GO_0071623	1	1	1	0	0
+negative regulation of eosinophil chemotaxis	GO_2000423	1	1	1	0	0
+negative regulation of chemotaxis	GO_0050922	1	1	1	0	0
+negative regulation of astrocyte chemotaxis	GO_2000459	1	1	1	0	0
+negative regulation of B cell chemotaxis	GO_2000550	1	1	1	0	0
+negative phototaxis	GO_0046957	1	1	1	0	0
+negative gravitaxis	GO_0048060	1	1	1	0	0
+negative energy taxis on or near other organism involved in symbiotic interaction	GO_0052245	1	1	1	0	0
+negative energy taxis on or near host	GO_0052145	1	1	1	0	0
+negative energy taxis in other organism involved in symbiotic interaction	GO_0052244	1	1	1	0	0
+negative energy taxis in host environment	GO_0052119	1	1	1	0	0
+negative energy taxis in host	GO_0052144	1	1	1	0	0
+negative energy taxis in environment of other organism involved in symbiotic interaction	GO_0052219	1	1	1	0	0
+negative energy taxis	GO_0052129	1	1	1	0	0
+negative chemotaxis on or near other organism involved in symbiotic interaction	GO_0052236	1	1	1	0	0
+negative chemotaxis on or near host	GO_0052136	1	1	1	0	0
+negative chemotaxis in other organism involved in symbiotic interaction	GO_0052239	1	1	1	0	0
+negative chemotaxis in host environment	GO_0052123	1	1	1	0	0
+negative chemotaxis in host	GO_0052139	1	1	1	0	0
+negative chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052223	1	1	1	0	0
+negative chemotaxis	GO_0050919	1	1	1	0	0
+negative aerotaxis on or near other organism involved in symbiotic interaction	GO_0052234	1	1	1	0	0
+negative aerotaxis on or near host	GO_0052134	1	1	1	0	0
+negative aerotaxis in other organism involved in symbiotic interaction	GO_0052235	1	1	1	0	0
+negative aerotaxis in host environment	GO_0052122	1	1	1	0	0
+negative aerotaxis in host	GO_0052135	1	1	1	0	0
+negative aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052222	1	1	1	0	0
+negative aerotaxis	GO_0052130	1	1	1	0	0
+gravitaxis	GO_0042332	1	1	1	0	0
+energy taxis within host	GO_0052124	1	1	1	0	0
+energy taxis on or near other organism involved in symbiotic interaction	GO_0052225	1	1	1	0	0
+energy taxis on or near host	GO_0052125	1	1	1	0	0
+energy taxis in other organism involved in symbiotic interaction	GO_0052224	1	1	1	0	0
+energy taxis in host environment	GO_0052115	1	1	1	0	0
+energy taxis in environment of other organism involved in symbiotic interaction	GO_0052215	1	1	1	0	0
+energy taxis	GO_0009453	1	1	1	0	0
+chemotaxis within host	GO_0052142	1	1	1	0	0
+chemotaxis to oxidizable substrate	GO_0042333	1	1	1	0	0
+chemotaxis to folate	GO_0043326	1	1	1	0	0
+chemotaxis to cAMP	GO_0043327	1	1	1	0	0
+chemotaxis to arachidonic acid	GO_0034670	1	1	1	0	0
+chemotaxis on or near other organism involved in symbiotic interaction	GO_0052243	1	1	1	0	0
+chemotaxis on or near host involved in symbiotic interaction	GO_0052143	1	1	1	0	0
+chemotaxis in other organism involved in symbiotic interaction	GO_0052242	1	1	1	0	0
+chemotaxis in host environment	GO_0052116	1	1	1	0	0
+chemotaxis in environment of other organism involved in symbiotic interaction	GO_0052216	1	1	1	0	0
+chemotaxis	GO_0006935	1	1	1	0	0
+cell chemotaxis to angiotensin	GO_0071434	1	1	1	0	0
+cell chemotaxis involved in Malpighian tubule morphogenesis	GO_0061352	1	1	1	0	0
+cell chemotaxis	GO_0060326	1	1	1	0	0
+aerotaxis on or near other organism involved in symbiotic interaction	GO_0052238	1	1	1	0	0
+aerotaxis on or near host	GO_0052138	1	1	1	0	0
+aerotaxis in other organism involved in symbiotic interaction	GO_0052237	1	1	1	0	0
+aerotaxis in host environment	GO_0052117	1	1	1	0	0
+aerotaxis in host	GO_0052137	1	1	1	0	0
+aerotaxis in environment of other organism involved in symbiotic interaction	GO_0052217	1	1	1	0	0
+aerotaxis	GO_0009454	1	1	1	0	0
+Roundabout signaling pathway involved in muscle cell chemotaxis toward tendon cell	GO_2001283	1	1	1	0	0
+cellular response to potassium ion involved in chemotaxis to cAMP	GO_1900013	1	0	1	1	1
+cellular response to calcium ion involved in chemotaxis to cAMP	GO_1900014	1	0	1	1	1
+synaptic target inhibition	GO_0016201	0	1	0	0	0
+synaptic target attraction	GO_0016200	0	1	0	0	0
+sympathetic neuron projection guidance	GO_0097491	0	1	0	0	0
+sympathetic neuron axon guidance	GO_0097492	0	1	0	0	0
+suppression by virus of host chemokine activity	GO_0039553	0	1	0	0	0
+spinal sensory neuron axon guidance	GO_0097375	0	1	0	0	0
+spinal cord interneuron axon guidance	GO_0097377	0	1	0	0	0
+smooth muscle cell chemotaxis	GO_0071670	0	1	0	0	0
+sensory neuron axon guidance	GO_0097374	0	1	0	0	0
+semaphorin-plexin signaling pathway involved in neuron projection guidance	GO_1902285	0	1	0	0	0
+semaphorin-plexin signaling pathway involved in dendrite guidance	GO_1902286	0	1	0	0	0
+semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0	0
+retinal ganglion cell axon guidance	GO_0031290	0	1	0	0	0
+regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	0	0	0
+regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	0	0	0
+regulation of photoreceptor cell axon guidance	GO_2000289	0	1	0	0	0
+regulation of natural killer cell chemotaxis	GO_2000501	0	1	0	0	0
+regulation of myeloid dendritic cell chemotaxis	GO_2000527	0	1	0	0	0
+regulation of mast cell chemotaxis	GO_0060753	0	1	0	0	0
+regulation of macrophage chemotaxis	GO_0010758	0	1	0	0	0
+regulation of lymphocyte chemotaxis	GO_1901623	0	1	0	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
+regulation of dendritic cell chemotaxis	GO_2000508	0	1	0	0	0
+regulation of chemokine activity	GO_1900136	0	1	0	0	0
+regulation of axon guidance	GO_1902667	0	1	0	0	0
+regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0	0
+regulation of T cell chemotaxis	GO_0010819	0	1	0	0	0
+positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	0	0	0
+positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
+positive regulation of natural killer cell chemotaxis	GO_2000503	0	1	0	0	0
+positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	0	1	0	0	0
+positive regulation of mast cell chemotaxis	GO_0060754	0	1	0	0	0
+positive regulation of macrophage chemotaxis	GO_0010759	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
+positive regulation of dendritic cell chemotaxis	GO_2000510	0	1	0	0	0
+positive regulation of axon guidance	GO_1902669	0	1	0	0	0
+positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0	0
+positive regulation of T cell chemotaxis	GO_0010820	0	1	0	0	0
+pollen tube guidance	GO_0010183	0	1	0	0	0
+plasmacytoid dendritic cell chemotaxis	GO_0002410	0	1	0	0	0
+photoreceptor cell axon guidance	GO_0072499	0	1	0	0	0
+olfactory bulb axon guidance	GO_0071678	0	1	0	0	0
+neutrophil chemotaxis	GO_0030593	0	1	0	0	0
+neuron projection guidance	GO_0097485	0	1	0	0	0
+neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	0	0	0
+netrin receptor activity involved in chemorepulsion	GO_0005043	0	1	0	0	0
+netrin receptor activity involved in chemoattraction	GO_0038006	0	1	0	0	0
+negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	0	0	0
+negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	0	0	0
+negative regulation of natural killer cell chemotaxis	GO_2000502	0	1	0	0	0
+negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	0	1	0	0	0
+negative regulation of mast cell chemotaxis	GO_0060755	0	1	0	0	0
+negative regulation of macrophage chemotaxis	GO_0010760	0	1	0	0	0
+negative regulation of lymphocyte chemotaxis	GO_1901624	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
+negative regulation of dendritic cell chemotaxis	GO_2000509	0	1	0	0	0
+negative regulation of chemokine activity	GO_1900137	0	1	0	0	0
+negative regulation of axon guidance	GO_1902668	0	1	0	0	0
+negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0	0
+natural killer cell chemotaxis	GO_0035747	0	1	0	0	0
+myeloid dendritic cell chemotaxis	GO_0002408	0	1	0	0	0
+muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	0	0	0
+motor neuron axon guidance	GO_0008045	0	1	0	0	0
+monocyte chemotaxis	GO_0002548	0	1	0	0	0
+mature natural killer cell chemotaxis	GO_0035782	0	1	0	0	0
+mast cell chemotaxis	GO_0002551	0	1	0	0	0
+macrophage chemotaxis	GO_0048246	0	1	0	0	0
+lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0	0
+lymphocyte chemotaxis	GO_0048247	0	1	0	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
+leukocyte chemotaxis involved in immune response	GO_0002233	0	1	0	0	0
+leukocyte chemotaxis	GO_0030595	0	1	0	0	0
+interneuron sorting involved in substrate-independent cerebral cortex tangential migration	GO_0021844	0	1	0	0	0
+interneuron axon guidance	GO_0097376	0	1	0	0	0
+induction of positive chemotaxis	GO_0050930	0	1	0	0	0
+induction of negative chemotaxis	GO_0050929	0	1	0	0	0
+helper T cell chemotaxis	GO_0035704	0	1	0	0	0
+granulocyte chemotaxis	GO_0071621	0	1	0	0	0
+germ cell repulsion	GO_0035233	0	1	0	0	0
+germ cell attraction	GO_0035232	0	1	0	0	0
+eosinophil chemotaxis	GO_0048245	0	1	0	0	0
+endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
+endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
+dorsal/ventral axon guidance	GO_0033563	0	1	0	0	0
+dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0	0
+dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0	0
+dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0	0
+dendritic cell chemotaxis	GO_0002407	0	1	0	0	0
+dendrite guidance	GO_0070983	0	1	0	0	0
+corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	0	1	0	0	0
+corticospinal neuron axon guidance through the internal capsule	GO_0021968	0	1	0	0	0
+corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	0	1	0	0	0
+corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	0	1	0	0	0
+corticospinal neuron axon guidance through the basilar pons	GO_0021970	0	1	0	0	0
+corticospinal neuron axon guidance through spinal cord	GO_0021972	0	1	0	0	0
+corticospinal neuron axon guidance	GO_0021966	0	1	0	0	0
+corticospinal neuron axon decussation	GO_0021973	0	1	0	0	0
+commissural neuron axon guidance	GO_0071679	0	1	0	0	0
+colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
+chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	0	1	0	0	0
+chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	0	1	0	0	0
+chemorepulsion of branchiomotor axon	GO_0021793	0	1	0	0	0
+chemorepulsion of axon	GO_0061643	0	1	0	0	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	0	0	0
+chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	0	0	0
+chemorepulsion involved in interneuron migration from the subpallium to the cortex	GO_0021842	0	1	0	0	0
+chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	0	0	0
+chemorepellent activity	GO_0045499	0	1	0	0	0
+chemokine activity	GO_0008009	0	1	0	0	0
+chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	0	1	0	0	0
+chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	0	1	0	0	0
+chemoattraction of branchiomotor axon	GO_0021792	0	1	0	0	0
+chemoattraction of axon	GO_0061642	0	1	0	0	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	0	0	0
+chemoattraction involved in interneuron migration from the subpallium to the cortex	GO_0021841	0	1	0	0	0
+chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	0	0	0
+chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0	0
+chemoattractant activity	GO_0042056	0	1	0	0	0
+cell chemotaxis to fibroblast growth factor	GO_0035766	0	1	0	0	0
+branchiomotor neuron axon guidance in neural tube	GO_0021786	0	1	0	0	0
+branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	0	1	0	0	0
+branchiomotor neuron axon guidance	GO_0021785	0	1	0	0	0
+basophil chemotaxis	GO_0002575	0	1	0	0	0
+axon midline choice point recognition	GO_0016199	0	1	0	0	0
+axon guidance receptor activity	GO_0008046	0	1	0	0	0
+axon guidance	GO_0007411	0	1	0	0	0
+axon extension involved in axon guidance	GO_0048846	0	1	0	0	0
+axon choice point recognition	GO_0016198	0	1	0	0	0
+astrocyte chemotaxis	GO_0035700	0	1	0	0	0
+anterior/posterior axon guidance	GO_0033564	0	1	0	0	0
+VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0	0
+T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0	0
+T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0	0
+T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0	0
+T cell chemotaxis	GO_0010818	0	1	0	0	0
+Roundabout signaling pathway involved in axon guidance	GO_2001266	0	1	0	0	0
+Langerhans cell chemotaxis	GO_0002409	0	1	0	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0
+B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0	0
+B cell chemotaxis	GO_0035754	0	1	0	0	0

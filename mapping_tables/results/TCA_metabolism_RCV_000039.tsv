@@ -17,6 +17,7 @@ nicotianamine metabolic process	GO_0030417	0	1	0	0	0
 nicotianamine catabolic process	GO_0030419	0	1	0	0	0
 nicotianamine biosynthetic process	GO_0030418	0	1	0	0	0
 mitochondrial citrate transport	GO_0006843	0	1	0	0	0
+mitochondrial citrate transmembrane transport	GO_1990541	0	1	0	0	0
 isocitrate metabolic process	GO_0006102	0	1	0	0	0
 coenzyme gamma-F420-2 metabolic process	GO_0052649	0	1	0	0	0
 coenzyme gamma-F420-2 biosynthetic process	GO_2001121	0	1	0	0	0

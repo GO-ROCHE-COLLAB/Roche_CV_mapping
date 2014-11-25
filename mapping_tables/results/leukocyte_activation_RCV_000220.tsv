@@ -1,0 +1,445 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+leukocyte adhesive activation	GO_0050902	1	1	1	0	0
+leukocyte activation involved in inflammatory response	GO_0002269	1	1	1	0	0
+leukocyte activation	GO_0045321	1	1	1	0	0
+leukocyte tethering or rolling	GO_0050901	1	0	1	0	0
+leukocyte proliferation	GO_0070661	1	0	1	0	0
+leukocyte migration involved in inflammatory response	GO_0002523	1	0	1	0	0
+leukocyte migration	GO_0050900	1	0	1	0	0
+leukocyte mediated immunity	GO_0002443	1	0	1	0	0
+leukocyte mediated cytotoxicity	GO_0001909	1	0	1	0	0
+leukocyte homeostasis	GO_0001776	1	0	1	0	0
+leukocyte differentiation	GO_0002521	1	0	1	0	0
+leukocyte degranulation	GO_0043299	1	0	1	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	1	0	1	0	0
+leukocyte chemotaxis	GO_0030595	1	0	1	0	0
+leukocyte cell-cell adhesion	GO_0007159	1	0	1	0	0
+leukocyte apoptotic process	GO_0071887	1	0	1	0	0
+leukocyte aggregation	GO_0070486	1	0	1	0	0
+leukocyte activation-dependent arrest	GO_0050903	1	0	1	0	0
+transitional two stage B cell differentiation	GO_0002334	0	1	0	0	0
+transitional stage B cell differentiation	GO_0002332	0	1	0	0	0
+transitional one stage B cell differentiation	GO_0002333	0	1	0	0	0
+thymic T cell selection	GO_0045061	0	1	0	0	0
+suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0	0
+somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0	0
+somatic hypermutation of immunoglobulin genes involved in immune response	GO_0002205	0	1	0	0	0
+somatic diversification of T cell receptor genes by N region addition	GO_0002571	0	1	0	0	0
+somatic diversification of T cell receptor genes	GO_0002568	0	1	0	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
+serotonin secretion by basophil	GO_0002556	0	1	0	0	0
+regulatory T cell differentiation	GO_0045066	0	1	0	0	0
+regulation of regulatory T cell differentiation	GO_0045589	0	1	0	0	0
+regulation of pro-T cell differentiation	GO_2000174	0	1	0	0	0
+regulation of positive thymic T cell selection	GO_1902232	0	1	0	0	0
+regulation of plasma cell differentiation	GO_1900098	0	1	0	0	0
+regulation of neutrophil degranulation	GO_0043313	0	1	0	0	0
+regulation of neutrophil activation	GO_1902563	0	1	0	0	0
+regulation of natural killer cell proliferation involved in immune response	GO_0032820	0	1	0	0	0
+regulation of natural killer cell proliferation	GO_0032817	0	1	0	0	0
+regulation of natural killer cell differentiation involved in immune response	GO_0032826	0	1	0	0	0
+regulation of natural killer cell differentiation	GO_0032823	0	1	0	0	0
+regulation of natural killer cell degranulation	GO_0043321	0	1	0	0	0
+regulation of natural killer cell activation	GO_0032814	0	1	0	0	0
+regulation of myeloid dendritic cell activation	GO_0030885	0	1	0	0	0
+regulation of memory T cell differentiation	GO_0043380	0	1	0	0	0
+regulation of memory T cell activation	GO_2000567	0	1	0	0	0
+regulation of mast cell degranulation	GO_0043304	0	1	0	0	0
+regulation of mast cell activation involved in immune response	GO_0033006	0	1	0	0	0
+regulation of mast cell activation	GO_0033003	0	1	0	0	0
+regulation of macrophage activation	GO_0043030	0	1	0	0	0
+regulation of lymphocyte proliferation	GO_0050670	0	1	0	0	0
+regulation of lymphocyte differentiation	GO_0045619	0	1	0	0	0
+regulation of lymphocyte activation	GO_0051249	0	1	0	0	0
+regulation of leukocyte activation	GO_0002694	0	1	0	0	0
+regulation of isotype switching to IgG isotypes	GO_0048302	0	1	0	0	0
+regulation of isotype switching to IgE isotypes	GO_0048293	0	1	0	0	0
+regulation of isotype switching to IgD isotypes	GO_0048299	0	1	0	0	0
+regulation of isotype switching to IgA isotypes	GO_0048296	0	1	0	0	0
+regulation of isotype switching	GO_0045191	0	1	0	0	0
+regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000571	0	1	0	0	0
+regulation of immunological synapse formation	GO_2000520	0	1	0	0	0
+regulation of immature T cell proliferation in thymus	GO_0033084	0	1	0	0	0
+regulation of immature T cell proliferation	GO_0033083	0	1	0	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
+regulation of gamma-delta T cell proliferation	GO_0046646	0	1	0	0	0
+regulation of gamma-delta T cell differentiation	GO_0045586	0	1	0	0	0
+regulation of gamma-delta T cell activation involved in immune response	GO_2001191	0	1	0	0	0
+regulation of gamma-delta T cell activation	GO_0046643	0	1	0	0	0
+regulation of extrathymic T cell differentiation	GO_0033082	0	1	0	0	0
+regulation of eosinophil degranulation	GO_0043309	0	1	0	0	0
+regulation of eosinophil activation	GO_1902566	0	1	0	0	0
+regulation of cytotoxic T cell differentiation	GO_0045583	0	1	0	0	0
+regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0	0
+regulation of central B cell deletion	GO_0002898	0	1	0	0	0
+regulation of central B cell anergy	GO_0002914	0	1	0	0	0
+regulation of basophil degranulation	GO_1903581	0	1	0	0	0
+regulation of alpha-beta T cell proliferation	GO_0046640	0	1	0	0	0
+regulation of alpha-beta T cell differentiation	GO_0046637	0	1	0	0	0
+regulation of alpha-beta T cell activation	GO_0046634	0	1	0	0	0
+regulation of activated T cell proliferation	GO_0046006	0	1	0	0	0
+regulation of T-helper cell differentiation	GO_0045622	0	1	0	0	0
+regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0	0
+regulation of T-helper 2 cell activation	GO_2000569	0	1	0	0	0
+regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0	0
+regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0	0
+regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0	0
+regulation of T-helper 1 cell activation	GO_2000517	0	1	0	0	0
+regulation of T cell proliferation	GO_0042129	0	1	0	0	0
+regulation of T cell homeostatic proliferation	GO_0046013	0	1	0	0	0
+regulation of T cell differentiation in thymus	GO_0033081	0	1	0	0	0
+regulation of T cell differentiation	GO_0045580	0	1	0	0	0
+regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	0	1	0	0	0
+regulation of T cell activation	GO_0050863	0	1	0	0	0
+regulation of NK T cell proliferation	GO_0051140	0	1	0	0	0
+regulation of NK T cell differentiation	GO_0051136	0	1	0	0	0
+regulation of NK T cell activation	GO_0051133	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000564	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043376	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell activation	GO_2001185	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000561	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043370	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell activation	GO_2000514	0	1	0	0	0
+regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032832	0	1	0	0	0
+regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032829	0	1	0	0	0
+regulation of B-1 B cell differentiation	GO_0001924	0	1	0	0	0
+regulation of B cell proliferation	GO_0030888	0	1	0	0	0
+regulation of B cell differentiation	GO_0045577	0	1	0	0	0
+regulation of B cell activation	GO_0050864	0	1	0	0	0
+pro-T cell lineage commitment	GO_0002680	0	1	0	0	0
+pro-T cell differentiation	GO_0002572	0	1	0	0	0
+pre-B cell receptor expression	GO_0002330	0	1	0	0	0
+pre-B cell differentiation	GO_0002329	0	1	0	0	0
+pre-B cell allelic exclusion	GO_0002331	0	1	0	0	0
+positive thymic T cell selection	GO_0045059	0	1	0	0	0
+positive regulation of regulatory T cell differentiation	GO_0045591	0	1	0	0	0
+positive regulation of pro-T cell differentiation	GO_2000176	0	1	0	0	0
+positive regulation of positive thymic T cell selection	GO_1902234	0	1	0	0	0
+positive regulation of plasma cell differentiation	GO_1900100	0	1	0	0	0
+positive regulation of neutrophil degranulation	GO_0043315	0	1	0	0	0
+positive regulation of neutrophil activation	GO_1902565	0	1	0	0	0
+positive regulation of natural killer cell proliferation involved in immune response	GO_0032822	0	1	0	0	0
+positive regulation of natural killer cell proliferation	GO_0032819	0	1	0	0	0
+positive regulation of natural killer cell differentiation involved in immune response	GO_0032828	0	1	0	0	0
+positive regulation of natural killer cell differentiation	GO_0032825	0	1	0	0	0
+positive regulation of natural killer cell degranulation	GO_0043323	0	1	0	0	0
+positive regulation of natural killer cell activation	GO_0032816	0	1	0	0	0
+positive regulation of myeloid dendritic cell activation	GO_0030887	0	1	0	0	0
+positive regulation of memory T cell differentiation	GO_0043382	0	1	0	0	0
+positive regulation of memory T cell activation	GO_2000568	0	1	0	0	0
+positive regulation of mast cell degranulation in other organism	GO_0035896	0	1	0	0	0
+positive regulation of mast cell degranulation	GO_0043306	0	1	0	0	0
+positive regulation of mast cell activation involved in immune response	GO_0033008	0	1	0	0	0
+positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway	GO_0038097	0	1	0	0	0
+positive regulation of mast cell activation	GO_0033005	0	1	0	0	0
+positive regulation of macrophage activation	GO_0043032	0	1	0	0	0
+positive regulation of lymphocyte proliferation	GO_0050671	0	1	0	0	0
+positive regulation of lymphocyte differentiation	GO_0045621	0	1	0	0	0
+positive regulation of lymphocyte activation	GO_0051251	0	1	0	0	0
+positive regulation of leukocyte activation	GO_0002696	0	1	0	0	0
+positive regulation of isotype switching to IgG isotypes	GO_0048304	0	1	0	0	0
+positive regulation of isotype switching to IgE isotypes	GO_0048295	0	1	0	0	0
+positive regulation of isotype switching to IgD isotypes	GO_0048301	0	1	0	0	0
+positive regulation of isotype switching to IgA isotypes	GO_0048298	0	1	0	0	0
+positive regulation of isotype switching	GO_0045830	0	1	0	0	0
+positive regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000572	0	1	0	0	0
+positive regulation of immunological synapse formation	GO_2000522	0	1	0	0	0
+positive regulation of immature T cell proliferation in thymus	GO_0033092	0	1	0	0	0
+positive regulation of immature T cell proliferation	GO_0033091	0	1	0	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
+positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation	GO_2000526	0	1	0	0	0
+positive regulation of gamma-delta T cell proliferation	GO_0046648	0	1	0	0	0
+positive regulation of gamma-delta T cell differentiation	GO_0045588	0	1	0	0	0
+positive regulation of gamma-delta T cell activation involved in immune response	GO_2001193	0	1	0	0	0
+positive regulation of gamma-delta T cell activation	GO_0046645	0	1	0	0	0
+positive regulation of extrathymic T cell differentiation	GO_0033090	0	1	0	0	0
+positive regulation of eosinophil degranulation	GO_0043311	0	1	0	0	0
+positive regulation of eosinophil activation	GO_1902568	0	1	0	0	0
+positive regulation of cytotoxic T cell differentiation	GO_0045585	0	1	0	0	0
+positive regulation of cytotoxic T cell degranulation	GO_0043319	0	1	0	0	0
+positive regulation of central B cell deletion	GO_0002900	0	1	0	0	0
+positive regulation of central B cell anergy	GO_0002916	0	1	0	0	0
+positive regulation of basophil degranulation	GO_1903583	0	1	0	0	0
+positive regulation of alpha-beta T cell proliferation	GO_0046641	0	1	0	0	0
+positive regulation of alpha-beta T cell differentiation	GO_0046638	0	1	0	0	0
+positive regulation of alpha-beta T cell activation	GO_0046635	0	1	0	0	0
+positive regulation of activated T cell proliferation	GO_0042104	0	1	0	0	0
+positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0	0
+positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0	0
+positive regulation of T-helper 2 cell activation	GO_2000570	0	1	0	0	0
+positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0	0
+positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0	0
+positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0	0
+positive regulation of T-helper 1 cell activation	GO_2000519	0	1	0	0	0
+positive regulation of T cell proliferation	GO_0042102	0	1	0	0	0
+positive regulation of T cell homeostatic proliferation	GO_0042103	0	1	0	0	0
+positive regulation of T cell differentiation in thymus	GO_0033089	0	1	0	0	0
+positive regulation of T cell differentiation	GO_0045582	0	1	0	0	0
+positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001190	0	1	0	0	0
+positive regulation of T cell activation	GO_0050870	0	1	0	0	0
+positive regulation of NK T cell proliferation	GO_0051142	0	1	0	0	0
+positive regulation of NK T cell differentiation	GO_0051138	0	1	0	0	0
+positive regulation of NK T cell activation	GO_0051135	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000566	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043378	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell activation	GO_2001187	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000563	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043372	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell activation	GO_2000516	0	1	0	0	0
+positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032834	0	1	0	0	0
+positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032831	0	1	0	0	0
+positive regulation of B-1 B cell differentiation	GO_0001926	0	1	0	0	0
+positive regulation of B cell proliferation	GO_0030890	0	1	0	0	0
+positive regulation of B cell differentiation	GO_0045579	0	1	0	0	0
+positive regulation of B cell activation	GO_0050871	0	1	0	0	0
+positive extrathymic T cell selection	GO_0045067	0	1	0	0	0
+positive T cell selection	GO_0043368	0	1	0	0	0
+plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	0	1	0	0	0
+plasmacytoid dendritic cell differentiation	GO_0002273	0	1	0	0	0
+plasmacytoid dendritic cell activation involved in immune response	GO_0002271	0	1	0	0	0
+plasmacytoid dendritic cell activation	GO_0002270	0	1	0	0	0
+plasma cell differentiation	GO_0002317	0	1	0	0	0
+peripheral B cell selection	GO_0002343	0	1	0	0	0
+peripheral B cell positive selection	GO_0002350	0	1	0	0	0
+peripheral B cell negative selection	GO_0002356	0	1	0	0	0
+neutrophil degranulation	GO_0043312	0	1	0	0	0
+neutrophil activation involved in immune response	GO_0002283	0	1	0	0	0
+neutrophil activation	GO_0042119	0	1	0	0	0
+negative thymic T cell selection	GO_0045060	0	1	0	0	0
+negative regulation of regulatory T cell differentiation	GO_0045590	0	1	0	0	0
+negative regulation of pro-T cell differentiation	GO_2000175	0	1	0	0	0
+negative regulation of positive thymic T cell selection	GO_1902233	0	1	0	0	0
+negative regulation of plasma cell differentiation	GO_1900099	0	1	0	0	0
+negative regulation of neutrophil degranulation	GO_0043314	0	1	0	0	0
+negative regulation of neutrophil activation	GO_1902564	0	1	0	0	0
+negative regulation of natural killer cell proliferation involved in immune response	GO_0032821	0	1	0	0	0
+negative regulation of natural killer cell proliferation	GO_0032818	0	1	0	0	0
+negative regulation of natural killer cell differentiation involved in immune response	GO_0032827	0	1	0	0	0
+negative regulation of natural killer cell differentiation	GO_0032824	0	1	0	0	0
+negative regulation of natural killer cell degranulation	GO_0043322	0	1	0	0	0
+negative regulation of natural killer cell activation	GO_0032815	0	1	0	0	0
+negative regulation of myeloid dendritic cell activation	GO_0030886	0	1	0	0	0
+negative regulation of memory T cell differentiation	GO_0043381	0	1	0	0	0
+negative regulation of mast cell degranulation	GO_0043305	0	1	0	0	0
+negative regulation of mast cell activation involved in immune response	GO_0033007	0	1	0	0	0
+negative regulation of mast cell activation	GO_0033004	0	1	0	0	0
+negative regulation of macrophage activation	GO_0043031	0	1	0	0	0
+negative regulation of lymphocyte proliferation	GO_0050672	0	1	0	0	0
+negative regulation of lymphocyte differentiation	GO_0045620	0	1	0	0	0
+negative regulation of lymphocyte activation	GO_0051250	0	1	0	0	0
+negative regulation of leukocyte activation	GO_0002695	0	1	0	0	0
+negative regulation of isotype switching to IgG isotypes	GO_0048303	0	1	0	0	0
+negative regulation of isotype switching to IgE isotypes	GO_0048294	0	1	0	0	0
+negative regulation of isotype switching to IgD isotypes	GO_0048300	0	1	0	0	0
+negative regulation of isotype switching to IgA isotypes	GO_0048297	0	1	0	0	0
+negative regulation of isotype switching	GO_0045829	0	1	0	0	0
+negative regulation of immunological synapse formation	GO_2000521	0	1	0	0	0
+negative regulation of immature T cell proliferation in thymus	GO_0033088	0	1	0	0	0
+negative regulation of immature T cell proliferation	GO_0033087	0	1	0	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
+negative regulation of gamma-delta T cell proliferation	GO_0046647	0	1	0	0	0
+negative regulation of gamma-delta T cell differentiation	GO_0045587	0	1	0	0	0
+negative regulation of gamma-delta T cell activation involved in immune response	GO_2001192	0	1	0	0	0
+negative regulation of gamma-delta T cell activation	GO_0046644	0	1	0	0	0
+negative regulation of extrathymic T cell differentiation	GO_0033086	0	1	0	0	0
+negative regulation of eosinophil degranulation	GO_0043310	0	1	0	0	0
+negative regulation of eosinophil activation	GO_1902567	0	1	0	0	0
+negative regulation of cytotoxic T cell differentiation	GO_0045584	0	1	0	0	0
+negative regulation of cytotoxic T cell degranulation	GO_0043318	0	1	0	0	0
+negative regulation of central B cell deletion	GO_0002899	0	1	0	0	0
+negative regulation of central B cell anergy	GO_0002915	0	1	0	0	0
+negative regulation of basophil degranulation	GO_1903582	0	1	0	0	0
+negative regulation of alpha-beta T cell proliferation	GO_0046642	0	1	0	0	0
+negative regulation of alpha-beta T cell differentiation	GO_0046639	0	1	0	0	0
+negative regulation of alpha-beta T cell activation	GO_0046636	0	1	0	0	0
+negative regulation of activated T cell proliferation	GO_0046007	0	1	0	0	0
+negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0	0
+negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0	0
+negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0	0
+negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0	0
+negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0	0
+negative regulation of T-helper 1 cell activation	GO_2000518	0	1	0	0	0
+negative regulation of T cell proliferation	GO_0042130	0	1	0	0	0
+negative regulation of T cell homeostatic proliferation	GO_0046014	0	1	0	0	0
+negative regulation of T cell differentiation in thymus	GO_0033085	0	1	0	0	0
+negative regulation of T cell differentiation	GO_0045581	0	1	0	0	0
+negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	0	1	0	0	0
+negative regulation of T cell activation	GO_0050868	0	1	0	0	0
+negative regulation of NK T cell proliferation	GO_0051141	0	1	0	0	0
+negative regulation of NK T cell differentiation	GO_0051137	0	1	0	0	0
+negative regulation of NK T cell activation	GO_0051134	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000565	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043377	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell activation	GO_2001186	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000562	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043371	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell activation	GO_2000515	0	1	0	0	0
+negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032833	0	1	0	0	0
+negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032830	0	1	0	0	0
+negative regulation of B-1 B cell differentiation	GO_0001925	0	1	0	0	0
+negative regulation of B cell proliferation	GO_0030889	0	1	0	0	0
+negative regulation of B cell differentiation	GO_0045578	0	1	0	0	0
+negative regulation of B cell activation	GO_0050869	0	1	0	0	0
+negative extrathymic T cell selection	GO_0045068	0	1	0	0	0
+negative T cell selection	GO_0043383	0	1	0	0	0
+natural killer cell proliferation involved in immune response	GO_0002324	0	1	0	0	0
+natural killer cell proliferation	GO_0001787	0	1	0	0	0
+natural killer cell differentiation involved in immune response	GO_0002325	0	1	0	0	0
+natural killer cell differentiation	GO_0001779	0	1	0	0	0
+natural killer cell degranulation	GO_0043320	0	1	0	0	0
+natural killer cell activation involved in immune response	GO_0002323	0	1	0	0	0
+natural killer cell activation	GO_0030101	0	1	0	0	0
+myeloid leukocyte activation	GO_0002274	0	1	0	0	0
+myeloid dendritic cell differentiation involved in immune response	GO_0002284	0	1	0	0	0
+myeloid dendritic cell differentiation	GO_0043011	0	1	0	0	0
+myeloid dendritic cell activation involved in immune response	GO_0002277	0	1	0	0	0
+myeloid dendritic cell activation	GO_0001773	0	1	0	0	0
+myeloid cell activation involved in immune response	GO_0002275	0	1	0	0	0
+monocyte activation involved in immune response	GO_0002280	0	1	0	0	0
+monocyte activation	GO_0042117	0	1	0	0	0
+modulation of mast cell degranulation in other organism	GO_0035895	0	1	0	0	0
+microglial cell activation involved in immune response	GO_0002282	0	1	0	0	0
+microglial cell activation	GO_0001774	0	1	0	0	0
+memory T cell proliferation	GO_0061485	0	1	0	0	0
+memory T cell differentiation	GO_0043379	0	1	0	0	0
+memory T cell activation	GO_0035709	0	1	0	0	0
+memory B cell differentiation	GO_0002319	0	1	0	0	0
+mature B cell differentiation involved in immune response	GO_0002313	0	1	0	0	0
+mature B cell differentiation	GO_0002335	0	1	0	0	0
+mast cell degranulation	GO_0043303	0	1	0	0	0
+mast cell activation involved in immune response	GO_0002279	0	1	0	0	0
+mast cell activation	GO_0045576	0	1	0	0	0
+marginal zone B cell differentiation	GO_0002315	0	1	0	0	0
+macrophage activation involved in immune response	GO_0002281	0	1	0	0	0
+macrophage activation	GO_0042116	0	1	0	0	0
+lymphocyte proliferation	GO_0046651	0	1	0	0	0
+lymphocyte differentiation	GO_0030098	0	1	0	0	0
+lymphocyte costimulation	GO_0031294	0	1	0	0	0
+lymphocyte activation involved in immune response	GO_0002285	0	1	0	0	0
+lymphocyte activation	GO_0046649	0	1	0	0	0
+leukocyte activation involved in immune response	GO_0002366	0	1	0	0	0
+isotype switching to IgG isotypes	GO_0048291	0	1	0	0	0
+isotype switching to IgE isotypes	GO_0048289	0	1	0	0	0
+isotype switching to IgD isotypes	GO_0048292	0	1	0	0	0
+isotype switching to IgA isotypes	GO_0048290	0	1	0	0	0
+isotype switching	GO_0045190	0	1	0	0	0
+interleukin-4-dependent isotype switching to IgE isotypes	GO_0035708	0	1	0	0	0
+immunological synapse formation	GO_0001771	0	1	0	0	0
+immature T cell proliferation in thymus	GO_0033080	0	1	0	0	0
+immature T cell proliferation	GO_0033079	0	1	0	0	0
+immature B cell differentiation	GO_0002327	0	1	0	0	0
+histamine secretion by mast cell	GO_0002553	0	1	0	0	0
+histamine secretion by basophil	GO_0002557	0	1	0	0	0
+granulocyte activation	GO_0036230	0	1	0	0	0
+germinal center B cell differentiation	GO_0002314	0	1	0	0	0
+gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0	0
+gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0	0
+gamma-delta T cell proliferation	GO_0046630	0	1	0	0	0
+gamma-delta T cell lineage commitment	GO_0002365	0	1	0	0	0
+gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0	0
+gamma-delta T cell differentiation	GO_0042492	0	1	0	0	0
+gamma-delta T cell activation involved in immune response	GO_0002290	0	1	0	0	0
+gamma-delta T cell activation	GO_0046629	0	1	0	0	0
+follicular B cell differentiation	GO_0002316	0	1	0	0	0
+extrathymic T cell selection	GO_0045062	0	1	0	0	0
+extrathymic T cell differentiation	GO_0033078	0	1	0	0	0
+establishment of natural killer cell polarity	GO_0001770	0	1	0	0	0
+establishment of lymphocyte polarity	GO_0001767	0	1	0	0	0
+establishment of T cell polarity	GO_0001768	0	1	0	0	0
+establishment of B cell polarity	GO_0001769	0	1	0	0	0
+eosinophil degranulation	GO_0043308	0	1	0	0	0
+eosinophil activation involved in immune response	GO_0002278	0	1	0	0	0
+eosinophil activation	GO_0043307	0	1	0	0	0
+dendritic cell proliferation	GO_0044565	0	1	0	0	0
+cytotoxic T cell differentiation	GO_0045065	0	1	0	0	0
+cytotoxic T cell degranulation	GO_0043316	0	1	0	0	0
+central B cell selection	GO_0002340	0	1	0	0	0
+central B cell positive selection	GO_0002348	0	1	0	0	0
+central B cell negative selection	GO_0002354	0	1	0	0	0
+central B cell deletion	GO_0002342	0	1	0	0	0
+central B cell anergy	GO_0002341	0	1	0	0	0
+beta selection	GO_0043366	0	1	0	0	0
+basophil degranulation	GO_0002561	0	1	0	0	0
+basophil activation involved in immune response	GO_0002276	0	1	0	0	0
+basophil activation	GO_0045575	0	1	0	0	0
+alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	0	0	0
+alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	0	0	0
+alpha-beta T cell proliferation	GO_0046633	0	1	0	0	0
+alpha-beta T cell lineage commitment	GO_0002363	0	1	0	0	0
+alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0	0
+alpha-beta T cell differentiation	GO_0046632	0	1	0	0	0
+alpha-beta T cell activation involved in immune response	GO_0002287	0	1	0	0	0
+alpha-beta T cell activation by superantigen	GO_0042722	0	1	0	0	0
+alpha-beta T cell activation	GO_0046631	0	1	0	0	0
+activated T cell proliferation	GO_0050798	0	1	0	0	0
+activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0	0
+activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0	0
+T-helper cell lineage commitment	GO_0002295	0	1	0	0	0
+T-helper cell differentiation	GO_0042093	0	1	0	0	0
+T-helper 2 cell lineage commitment	GO_0002297	0	1	0	0	0
+T-helper 2 cell differentiation	GO_0045064	0	1	0	0	0
+T-helper 2 cell activation	GO_0035712	0	1	0	0	0
+T-helper 17 cell lineage commitment	GO_0072540	0	1	0	0	0
+T-helper 17 cell differentiation	GO_0072539	0	1	0	0	0
+T-helper 1 cell lineage commitment	GO_0002296	0	1	0	0	0
+T-helper 1 cell differentiation	GO_0045063	0	1	0	0	0
+T-helper 1 cell activation	GO_0035711	0	1	0	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
+T cell selection	GO_0045058	0	1	0	0	0
+T cell receptor V(D)J recombination	GO_0033153	0	1	0	0	0
+T cell proliferation involved in immune response	GO_0002309	0	1	0	0	0
+T cell proliferation	GO_0042098	0	1	0	0	0
+T cell lineage commitment	GO_0002360	0	1	0	0	0
+T cell homeostatic proliferation	GO_0001777	0	1	0	0	0
+T cell differentiation involved in immune response	GO_0002292	0	1	0	0	0
+T cell differentiation in thymus	GO_0033077	0	1	0	0	0
+T cell differentiation	GO_0030217	0	1	0	0	0
+T cell costimulation	GO_0031295	0	1	0	0	0
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
+T cell activation involved in immune response	GO_0002286	0	1	0	0	0
+T cell activation	GO_0042110	0	1	0	0	0
+NK T cell proliferation involved in immune response	GO_0002289	0	1	0	0	0
+NK T cell proliferation	GO_0001866	0	1	0	0	0
+NK T cell lineage commitment	GO_0002364	0	1	0	0	0
+NK T cell differentiation	GO_0001865	0	1	0	0	0
+NK T cell activation involved in immune response	GO_0002288	0	1	0	0	0
+NK T cell activation	GO_0051132	0	1	0	0	0
+Langerhans cell differentiation	GO_0061520	0	1	0	0	0
+CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	0	0	0
+CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	0	0	0
+CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	0	0	0
+CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	0	0	0
+CD8-positive, alpha-beta T cell proliferation	GO_0035740	0	1	0	0	0
+CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	0	1	0	0	0
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0	0
+CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	0	0	0
+CD8-positive, alpha-beta T cell activation	GO_0036037	0	1	0	0	0
+CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	0	0	0
+CD4-positive, alpha-beta T cell proliferation	GO_0035739	0	1	0	0	0
+CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	0	1	0	0	0
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0	0
+CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	0	0	0
+CD4-positive, alpha-beta T cell costimulation	GO_0035783	0	1	0	0	0
+CD4-positive, alpha-beta T cell activation	GO_0035710	0	1	0	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	0	1	0	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	0	0	0
+CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	0	1	0	0	0
+CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	0	0	0
+B-1b B cell differentiation	GO_0002338	0	1	0	0	0
+B-1a B cell differentiation	GO_0002337	0	1	0	0	0
+B-1 B cell proliferation	GO_0002359	0	1	0	0	0
+B-1 B cell lineage commitment	GO_0002336	0	1	0	0	0
+B-1 B cell differentiation	GO_0001923	0	1	0	0	0
+B cell selection	GO_0002339	0	1	0	0	0
+B cell proliferation involved in immune response	GO_0002322	0	1	0	0	0
+B cell proliferation	GO_0042100	0	1	0	0	0
+B cell positive selection	GO_0002346	0	1	0	0	0
+B cell negative selection	GO_0002352	0	1	0	0	0
+B cell lineage commitment	GO_0002326	0	1	0	0	0
+B cell homeostatic proliferation	GO_0002358	0	1	0	0	0
+B cell differentiation	GO_0030183	0	1	0	0	0
+B cell costimulation	GO_0031296	0	1	0	0	0
+B cell affinity maturation	GO_0002344	0	1	0	0	0
+B cell activation involved in immune response	GO_0002312	0	1	0	0	0
+B cell activation	GO_0042113	0	1	0	0	0

@@ -1,0 +1,18 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+vasodilation of artery involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001984	1	1	1	0	0
+vasodilation involved in acute inflammatory response	GO_0002527	1	1	1	0	0
+vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure	GO_0002025	1	1	1	0	0
+vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	1	1	1	0	0
+vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure	GO_0003069	1	1	1	0	0
+vasodilation	GO_0042311	1	1	1	0	0
+relaxation of vascular smooth muscle	GO_0060087	0	1	0	0	0
+regulation of vasodilation by norepinephrine	GO_0003122	0	1	0	0	0
+regulation of vasodilation by neuronal norepinephrine	GO_0003126	0	1	0	0	0
+regulation of vasodilation by neuronal epinephrine	GO_0003124	0	1	0	0	0
+regulation of vasodilation by epinephrine	GO_0003121	0	1	0	0	0
+regulation of vasodilation by circulating norepinephrine	GO_0003125	0	1	0	0	0
+regulation of vasodilation by circulating epinephrine	GO_0003123	0	1	0	0	0
+regulation of vasodilation	GO_0042312	0	1	0	0	0
+positive regulation of vasodilation	GO_0045909	0	1	0	0	0
+negative regulation of vasodilation	GO_0045908	0	1	0	0	0
+modulation of vasodilation in other organism	GO_0044552	0	1	0	0	0

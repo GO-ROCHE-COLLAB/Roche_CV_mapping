@@ -1,0 +1,83 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+plasma lipoprotein particle oxidation	GO_0034441	1	1	1	0	0
+lipoprotein oxidation	GO_0042161	1	1	1	0	0
+lipoprotein modification	GO_0042160	1	1	1	0	0
+lipoprotein metabolic process	GO_0042157	1	1	1	0	0
+lipoprotein lipid oxidation	GO_0034439	1	1	1	0	0
+lipoprotein catabolic process	GO_0042159	1	1	1	0	0
+lipoprotein biosynthetic process via signal peptide cleavage	GO_0097304	1	1	1	0	0
+lipoprotein biosynthetic process via diacylglyceryl transfer	GO_0097302	1	1	1	0	0
+lipoprotein biosynthetic process via N-acyl transfer	GO_0097303	1	1	1	0	0
+lipoprotein biosynthetic process	GO_0042158	1	1	1	0	0
+lipoprotein amino acid oxidation	GO_0034438	1	1	1	0	0
+response to low-density lipoprotein particle	GO_0055098	1	0	1	0	0
+response to lipoprotein particle	GO_0055094	1	0	1	0	0
+response to high density lipoprotein particle	GO_0055099	1	0	1	0	0
+regulation of very-low-density lipoprotein particle remodeling	GO_0010901	1	0	1	0	0
+regulation of very-low-density lipoprotein particle clearance	GO_0010915	1	0	1	0	0
+regulation of plasma lipoprotein particle oxidation	GO_0034444	1	0	1	0	0
+regulation of plasma lipoprotein particle levels	GO_0097006	1	0	1	0	0
+regulation of low-density lipoprotein particle receptor catabolic process	GO_0032803	1	0	1	0	0
+regulation of low-density lipoprotein particle receptor biosynthetic process	GO_0045714	1	0	1	0	0
+regulation of low-density lipoprotein particle clearance	GO_0010988	1	0	1	0	0
+regulation of lipoprotein particle clearance	GO_0010984	1	0	1	0	0
+regulation of lipoprotein oxidation	GO_0034442	1	0	1	0	0
+regulation of lipoprotein metabolic process	GO_0050746	1	0	1	0	0
+regulation of lipoprotein lipid oxidation	GO_0060587	1	0	1	0	0
+regulation of lipoprotein lipase activity	GO_0051004	1	0	1	0	0
+regulation of high-density lipoprotein particle clearance	GO_0010982	1	0	1	0	0
+regulation of high-density lipoprotein particle assembly	GO_0090107	1	0	1	0	0
+regulation of apolipoprotein binding	GO_2000656	1	0	1	0	0
+receptor-mediated endocytosis of low-density lipoprotein particle involved in cholesterol transport	GO_0090118	1	0	1	0	0
+positive regulation of very-low-density lipoprotein particle remodeling	GO_0010902	1	0	1	0	0
+positive regulation of low-density lipoprotein particle receptor catabolic process	GO_0032805	1	0	1	0	0
+positive regulation of low-density lipoprotein particle receptor biosynthetic process	GO_0045716	1	0	1	0	0
+positive regulation of lipoprotein particle clearance	GO_0010986	1	0	1	0	0
+positive regulation of lipoprotein metabolic process	GO_0050747	1	0	1	0	0
+positive regulation of lipoprotein lipase activity	GO_0051006	1	0	1	0	0
+positive regulation of high-density lipoprotein particle clearance	GO_0010983	1	0	1	0	0
+positive regulation of high-density lipoprotein particle assembly	GO_0090108	1	0	1	0	0
+positive regulation of apolipoprotein binding	GO_2000658	1	0	1	0	0
+plasma lipoprotein particle remodeling	GO_0034369	1	0	1	0	0
+plasma lipoprotein particle organization	GO_0071827	1	0	1	0	0
+plasma lipoprotein particle disassembly	GO_0071829	1	0	1	0	0
+plasma lipoprotein particle clearance	GO_0034381	1	0	1	0	0
+plasma lipoprotein particle assembly	GO_0034377	1	0	1	0	0
+oxidized low-density lipoprotein catabolic process	GO_0045194	1	0	1	1	1
+negative regulation of very-low-density lipoprotein particle remodeling	GO_0010903	1	0	1	0	0
+negative regulation of very-low-density lipoprotein particle clearance	GO_0010916	1	0	1	0	0
+negative regulation of plasma lipoprotein particle oxidation	GO_0034445	1	0	1	0	0
+negative regulation of low-density lipoprotein particle receptor catabolic process	GO_0032804	1	0	1	0	0
+negative regulation of low-density lipoprotein particle receptor biosynthetic process	GO_0045715	1	0	1	0	0
+negative regulation of low-density lipoprotein particle clearance	GO_0010989	1	0	1	0	0
+negative regulation of lipoprotein particle clearance	GO_0010985	1	0	1	0	0
+negative regulation of lipoprotein oxidation	GO_0034443	1	0	1	0	0
+negative regulation of lipoprotein metabolic process	GO_0050748	1	0	1	0	0
+negative regulation of lipoprotein lipid oxidation	GO_0060588	1	0	1	0	0
+negative regulation of lipoprotein lipase activity	GO_0051005	1	0	1	0	0
+negative regulation of high-density lipoprotein particle clearance	GO_0010987	1	0	1	0	0
+negative regulation of apolipoprotein binding	GO_2000657	1	0	1	0	0
+low-density lipoprotein receptor particle metabolic process	GO_0032799	1	0	1	0	0
+low-density lipoprotein particle remodeling	GO_0034374	1	0	1	0	0
+low-density lipoprotein particle receptor catabolic process	GO_0032802	1	0	1	0	0
+low-density lipoprotein particle receptor biosynthetic process	GO_0045713	1	0	1	0	0
+low-density lipoprotein particle mediated signaling	GO_0055096	1	0	1	0	0
+low-density lipoprotein particle disassembly involved in cholesterol transport	GO_0090121	1	0	1	0	0
+low-density lipoprotein particle clearance	GO_0034383	1	0	1	0	0
+low-density lipoprotein catabolic process	GO_0045192	1	0	1	1	1
+lipoprotein transport	GO_0042953	1	0	1	0	0
+lipoprotein particle mediated signaling	GO_0055095	1	0	1	0	0
+intermediate-density lipoprotein particle remodeling	GO_0034373	1	0	1	0	0
+intermediate-density lipoprotein particle clearance	GO_0071831	1	0	1	0	0
+high-density lipoprotein particle remodeling	GO_0034375	1	0	1	0	0
+high-density lipoprotein particle clearance	GO_0034384	1	0	1	0	0
+high-density lipoprotein particle assembly	GO_0034380	1	0	1	0	0
+high density lipoprotein particle mediated signaling	GO_0055097	1	0	1	0	0
+endosome to lysosome transport of low-density lipoprotein particle	GO_0090117	1	0	1	0	0
+conversion of discoidal high-density lipoprotein particle to spherical high-density lipoprotein particle	GO_0034376	1	0	1	0	0
+cellular response to low-density lipoprotein particle stimulus	GO_0071404	1	0	1	0	0
+cellular response to lipoprotein particle stimulus	GO_0071402	1	0	1	0	0
+cellular response to high density lipoprotein particle stimulus	GO_0071403	1	0	1	0	0
+apolipoprotein E recycling	GO_0071828	1	0	1	0	0
+apolipoprotein A-I-mediated signaling pathway	GO_0038027	1	0	1	0	0
+protein depalmitoylation	GO_0002084	0	1	0	0	0

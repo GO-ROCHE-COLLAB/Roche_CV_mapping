@@ -12,6 +12,7 @@ regulation of pancreatic amylase secretion	GO_1902276	0	1	0	0	0
 regulation of intestinal epithelial structure maintenance	GO_0060730	0	1	0	0	0
 regulation of intestinal cholesterol absorption	GO_0030300	0	1	0	0	0
 regulation of hindgut contraction	GO_0043134	0	1	0	0	0
+regulation of gastrin-induced gastric acid secretion	GO_1903639	0	1	0	0	0
 regulation of gastric acid secretion	GO_0060453	0	1	0	0	0
 positive regulation of saliva secretion	GO_0046878	0	1	0	0	0
 positive regulation of pancreatic juice secretion	GO_0090187	0	1	0	0	0
@@ -20,6 +21,7 @@ positive regulation of pancreatic amylase secretion	GO_1902278	0	1	0	0	0
 positive regulation of intestinal epithelial structure maintenance	GO_0060731	0	1	0	0	0
 positive regulation of intestinal cholesterol absorption	GO_0045797	0	1	0	0	0
 positive regulation of hindgut contraction	GO_0060450	0	1	0	0	0
+positive regulation of gastrin-induced gastric acid secretion	GO_1903641	0	1	0	0	0
 positive regulation of gastric acid secretion	GO_0060454	0	1	0	0	0
 pancreatic juice secretion	GO_0030157	0	1	0	0	0
 pancreatic amylase secretion	GO_0036395	0	1	0	0	0
@@ -28,6 +30,7 @@ negative regulation of pancreatic amylase secretion	GO_1902277	0	1	0	0	0
 negative regulation of intestinal phytosterol absorption	GO_0010949	0	1	0	0	0
 negative regulation of intestinal cholesterol absorption	GO_0045796	0	1	0	0	0
 negative regulation of hindgut contraction	GO_0060451	0	1	0	0	0
+negative regulation of gastrin-induced gastric acid secretion	GO_1903640	0	1	0	0	0
 negative regulation of gastric acid secretion	GO_0060455	0	1	0	0	0
 modulation by symbiont of host digestive system process	GO_0044056	0	1	0	0	0
 mastication	GO_0071626	0	1	0	0	0

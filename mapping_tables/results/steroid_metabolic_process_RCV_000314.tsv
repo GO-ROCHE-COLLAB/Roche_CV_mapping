@@ -1,0 +1,89 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+steroid metabolic process	GO_0008202	1	1	1	0	0
+steroid esterification	GO_0034433	1	1	1	0	0
+steroid deacetylation	GO_0034208	1	1	1	0	0
+steroid catabolic process	GO_0006706	1	1	1	0	0
+steroid biosynthetic process	GO_0006694	1	1	1	0	0
+steroid acetylation	GO_0034207	1	1	1	0	0
+steroid hormone secretion	GO_0035929	1	0	1	0	0
+steroid hormone receptor import into nucleus	GO_0002146	1	0	1	0	0
+steroid hormone receptor complex assembly	GO_0006463	1	0	1	0	0
+steroid hormone mediated signaling pathway	GO_0043401	1	0	1	0	0
+zymosterol metabolic process	GO_0036196	0	1	0	0	0
+zymosterol biosynthetic process	GO_0036197	0	1	0	0	0
+vitamin D5 metabolic process	GO_0070642	0	1	0	0	0
+vitamin D4 metabolic process	GO_0070641	0	1	0	0	0
+vitamin D3 metabolic process	GO_0070640	0	1	0	0	0
+vitamin D3 catabolic process	GO_1901754	0	1	0	0	0
+vitamin D3 biosynthetic process	GO_1901755	0	1	0	0	0
+vitamin D2 metabolic process	GO_0070639	0	1	0	0	0
+vitamin D metabolic process	GO_0042359	0	1	0	0	0
+vitamin D catabolic process	GO_0042369	0	1	0	0	0
+vitamin D biosynthetic process	GO_0042368	0	1	0	0	0
+testosterone biosynthetic process	GO_0061370	0	1	0	0	0
+sterol metabolic process	GO_0016125	0	1	0	0	0
+sterol esterification	GO_0034434	0	1	0	0	0
+sterol deacetylation	GO_0034210	0	1	0	0	0
+sterol catabolic process	GO_0016127	0	1	0	0	0
+sterol biosynthetic process	GO_0016126	0	1	0	0	0
+sterol acetylation	GO_0034209	0	1	0	0	0
+progesterone metabolic process	GO_0042448	0	1	0	0	0
+progesterone catabolic process	GO_0006709	0	1	0	0	0
+progesterone biosynthetic process	GO_0006701	0	1	0	0	0
+phytosteroid metabolic process	GO_0016128	0	1	0	0	0
+phytosteroid catabolic process	GO_0016130	0	1	0	0	0
+phytosteroid biosynthetic process	GO_0016129	0	1	0	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	0	0	0
+mineralocorticoid metabolic process	GO_0008212	0	1	0	0	0
+mineralocorticoid catabolic process	GO_0006712	0	1	0	0	0
+mineralocorticoid biosynthetic process	GO_0006705	0	1	0	0	0
+helvolic acid metabolic process	GO_1900810	0	1	0	0	0
+helvolic acid catabolic process	GO_1900811	0	1	0	0	0
+helvolic acid biosynthetic process	GO_1900812	0	1	0	0	0
+glucocorticoid metabolic process	GO_0008211	0	1	0	0	0
+glucocorticoid catabolic process	GO_0006713	0	1	0	0	0
+glucocorticoid biosynthetic process	GO_0006704	0	1	0	0	0
+estrogen metabolic process	GO_0008210	0	1	0	0	0
+estrogen catabolic process	GO_0006711	0	1	0	0	0
+estrogen biosynthetic process	GO_0006703	0	1	0	0	0
+ergosterol metabolic process	GO_0008204	0	1	0	0	0
+ergosterol biosynthetic process	GO_0006696	0	1	0	0	0
+ecdysteroid metabolic process	GO_0045455	0	1	0	0	0
+ecdysteroid catabolic process	GO_0046344	0	1	0	0	0
+ecdysteroid biosynthetic process	GO_0045456	0	1	0	0	0
+ecdysone metabolic process	GO_0008205	0	1	0	0	0
+ecdysone catabolic process	GO_0006708	0	1	0	0	0
+ecdysone biosynthetic process	GO_0006697	0	1	0	0	0
+cortisol metabolic process	GO_0034650	0	1	0	0	0
+cortisol biosynthetic process	GO_0034651	0	1	0	0	0
+cholesterol metabolic process	GO_0008203	0	1	0	0	0
+cholesterol esterification	GO_0034435	0	1	0	0	0
+cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	0	1	0	0	0
+cholesterol catabolic process	GO_0006707	0	1	0	0	0
+cholesterol biosynthetic process via lathosterol	GO_0033490	0	1	0	0	0
+cholesterol biosynthetic process via desmosterol	GO_0033489	0	1	0	0	0
+cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	0	1	0	0	0
+cholesterol biosynthetic process	GO_0006695	0	1	0	0	0
+calcitriol biosynthetic process from calciol	GO_0036378	0	1	0	0	0
+brassinosteroid metabolic process	GO_0016131	0	1	0	0	0
+brassinosteroid catabolic process	GO_0016133	0	1	0	0	0
+brassinosteroid biosynthetic process	GO_0016132	0	1	0	0	0
+bile acid metabolic process	GO_0008206	0	1	0	0	0
+bile acid conjugation	GO_0002152	0	1	0	0	0
+bile acid catabolic process	GO_0030573	0	1	0	0	0
+bile acid biosynthetic process	GO_0006699	0	1	0	0	0
+androst-4-ene-3,17-dione biosynthetic process	GO_1903449	0	1	0	0	0
+androgen metabolic process	GO_0008209	0	1	0	0	0
+androgen catabolic process	GO_0006710	0	1	0	0	0
+androgen biosynthetic process	GO_0006702	0	1	0	0	0
+aldosterone metabolic process	GO_0032341	0	1	0	0	0
+aldosterone catabolic process	GO_0032343	0	1	0	0	0
+aldosterone biosynthetic process	GO_0032342	0	1	0	0	0
+C21-steroid hormone metabolic process	GO_0008207	0	1	0	0	0
+C21-steroid hormone catabolic process	GO_0008208	0	1	0	0	0
+C21-steroid hormone biosynthetic process	GO_0006700	0	1	0	0	0
+(25S)-Delta(7)-dafachronate metabolic process	GO_1902056	0	1	0	0	0
+(25S)-Delta(4)-dafachronate metabolic process	GO_1902057	0	1	0	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol metabolic process	GO_1900579	0	1	0	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol catabolic process	GO_1900580	0	1	0	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol biosynthetic process	GO_1900581	0	1	0	0	0

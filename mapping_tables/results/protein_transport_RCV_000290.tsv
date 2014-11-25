@@ -1,0 +1,383 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+protein import into nucleus, translocation	GO_0000060	1	1	1	0	0
+protein import into nucleus, substrate release	GO_0000061	1	1	1	0	0
+protein import into nucleus, docking	GO_0000059	1	1	1	0	0
+chaperone-mediated protein transport across periplasmic space	GO_0072323	1	1	1	0	0
+chaperone-mediated protein transport	GO_0072321	1	1	1	0	0
+viral capsid precursor transport to host cell nucleus	GO_0046752	0	1	0	0	0
+ubiquitin-dependent endocytosis	GO_0070086	0	1	0	0	0
+type III interferon secretion	GO_0072644	0	1	0	0	0
+type I interferon secretion	GO_0072641	0	1	0	0	0
+translocation of peptides or proteins into symbiont	GO_0051844	0	1	0	0	0
+translocation of peptides or proteins into other organism involved in symbiotic interaction	GO_0051808	0	1	0	0	0
+translocation of peptides or proteins into host cell cytoplasm	GO_0044053	0	1	0	0	0
+translocation of peptides or proteins into host	GO_0042000	0	1	0	0	0
+transforming growth factor-beta secretion	GO_0038044	0	1	0	0	0
+transferrin transport	GO_0033572	0	1	0	0	0
+transferrin transmembrane transporter activity	GO_0033570	0	1	0	0	0
+transcription factor import into nucleus	GO_0042991	0	1	0	0	0
+symbiont intracellular protein transport in host	GO_0030581	0	1	0	0	0
+suppression by virus of host STAT2 activity by negative regulation of STAT protein import into nucleus	GO_0039570	0	1	0	0	0
+suppression by virus of host STAT1 activity by negative regulation of STAT protein import into nucleus	GO_0039567	0	1	0	0	0
+storage protein import into fat body	GO_0015032	0	1	0	0	0
+sterol regulatory element binding protein import into nucleus	GO_0035105	0	1	0	0	0
+steroid hormone receptor import into nucleus	GO_0002146	0	1	0	0	0
+splicing factor protein import into nucleus	GO_0035048	0	1	0	0	0
+snRNP protein import into nucleus	GO_0006608	0	1	0	0	0
+secretion of lysosomal enzymes	GO_0033299	0	1	0	0	0
+ribosomal protein import into nucleus	GO_0006610	0	1	0	0	0
+retrograde protein transport, ER to cytosol	GO_0030970	0	1	0	0	0
+renin secretion into blood stream	GO_0002001	0	1	0	0	0
+release of cytoplasmic sequestered NF-kappaB	GO_0008588	0	1	0	0	0
+regulation of ubiquitin-dependent endocytosis	GO_2000395	0	1	0	0	0
+regulation of transforming growth factor-beta secretion	GO_2001201	0	1	0	0	0
+regulation of transcription factor import into nucleus	GO_0042990	0	1	0	0	0
+regulation of secretion of lysosomal enzymes	GO_0090182	0	1	0	0	0
+regulation of renin secretion into blood stream	GO_1900133	0	1	0	0	0
+regulation of protein transport	GO_0051223	0	1	0	0	0
+regulation of protein targeting to vacuolar membrane	GO_1900483	0	1	0	0	0
+regulation of protein targeting to prospore membrane	GO_2001231	0	1	0	0	0
+regulation of protein targeting to mitochondrion	GO_1903214	0	1	0	0	0
+regulation of protein targeting to membrane	GO_0090313	0	1	0	0	0
+regulation of protein targeting	GO_1903533	0	1	0	0	0
+regulation of protein secretion	GO_0050708	0	1	0	0	0
+regulation of protein processing involved in protein targeting to mitochondrion	GO_1903216	0	1	0	0	0
+regulation of protein import into nucleus, translocation	GO_0033158	0	1	0	0	0
+regulation of protein import into nucleus	GO_0042306	0	1	0	0	0
+regulation of protein import into mitochondrial outer membrane	GO_1903636	0	1	0	0	0
+regulation of protein export from nucleus	GO_0046825	0	1	0	0	0
+regulation of protein exit from endoplasmic reticulum	GO_0070861	0	1	0	0	0
+regulation of pancreatic amylase secretion	GO_1902276	0	1	0	0	0
+regulation of intracellular protein transport	GO_0033157	0	1	0	0	0
+regulation of interleukin-8 secretion	GO_2000482	0	1	0	0	0
+regulation of interleukin-5 secretion	GO_2000662	0	1	0	0	0
+regulation of interleukin-2 secretion	GO_1900040	0	1	0	0	0
+regulation of interleukin-13 secretion	GO_2000665	0	1	0	0	0
+regulation of interleukin-12 secretion	GO_2001182	0	1	0	0	0
+regulation of interleukin-10 secretion	GO_2001179	0	1	0	0	0
+regulation of interleukin-1 secretion	GO_0050704	0	1	0	0	0
+regulation of interleukin-1 beta secretion	GO_0050706	0	1	0	0	0
+regulation of interleukin-1 alpha secretion	GO_0050705	0	1	0	0	0
+regulation of interferon-gamma secretion	GO_1902713	0	1	0	0	0
+regulation of interferon-beta secretion	GO_0035547	0	1	0	0	0
+regulation of interferon-alpha secretion	GO_1902739	0	1	0	0	0
+regulation of immunoglobulin secretion	GO_0051023	0	1	0	0	0
+regulation of glial cell line-derived neurotrophic factor secretion	GO_1900166	0	1	0	0	0
+regulation of cytokine secretion involved in immune response	GO_0002739	0	1	0	0	0
+regulation of cytokine secretion	GO_0050707	0	1	0	0	0
+regulation of chemokine secretion	GO_0090196	0	1	0	0	0
+regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035535	0	1	0	0	0
+regulation of catenin import into nucleus	GO_0035412	0	1	0	0	0
+regulation of Wnt signaling pathway by Wnt protein secretion	GO_0061359	0	1	0	0	0
+regulation of Wnt protein secretion	GO_0061356	0	1	0	0	0
+regulation of STAT protein import into nucleus	GO_2000364	0	1	0	0	0
+regulation of SMAD protein import into nucleus	GO_0060390	0	1	0	0	0
+regulation of NFAT protein import into nucleus	GO_0051532	0	1	0	0	0
+regulation of NF-kappaB import into nucleus	GO_0042345	0	1	0	0	0
+regulation of MAPK export from nucleus	GO_0071701	0	1	0	0	0
+regulation of Golgi to plasma membrane protein transport	GO_0042996	0	1	0	0	0
+regulation of Golgi to plasma membrane CFTR protein transport	GO_0042999	0	1	0	0	0
+regulation of CVT pathway	GO_2001159	0	1	0	0	0
+regulation of BMP secretion	GO_2001284	0	1	0	0	0
+proton motive force dependent protein transmembrane transporter activity	GO_0009977	0	1	0	0	0
+protein-transmembrane transporting ATPase activity	GO_0015462	0	1	0	0	0
+protein-exporting ATPase activity	GO_0008564	0	1	0	0	0
+protein-DNA complex transport	GO_0015869	0	1	0	0	0
+protein-DNA complex transmembrane transporter activity	GO_0015219	0	1	0	0	0
+protein transporter activity	GO_0008565	0	1	0	0	0
+protein transport within lipid bilayer	GO_0032594	0	1	0	0	0
+protein transport within extracellular region	GO_0071693	0	1	0	0	0
+protein transport out of plasma membrane raft	GO_0044862	0	1	0	0	0
+protein transport out of membrane raft	GO_0032599	0	1	0	0	0
+protein transport into plasma membrane raft	GO_0044861	0	1	0	0	0
+protein transport into membrane raft	GO_0032596	0	1	0	0	0
+protein transport from ciliary membrane to plasma membrane	GO_1903445	0	1	0	0	0
+protein transport by the Tat complex	GO_0043953	0	1	0	0	0
+protein transport by the Sec complex	GO_0043952	0	1	0	0	0
+protein transport across periplasmic space	GO_0072322	0	1	0	0	0
+protein transport	GO_0015031	0	1	0	0	0
+protein transmembrane transporter activity	GO_0008320	0	1	0	0	0
+protein transmembrane transport	GO_0071806	0	1	0	0	0
+protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043328	0	1	0	0	0
+protein targeting to vacuole involved in autophagy	GO_0071211	0	1	0	0	0
+protein targeting to vacuole	GO_0006623	0	1	0	0	0
+protein targeting to vacuolar membrane	GO_0044395	0	1	0	0	0
+protein targeting to prospore membrane	GO_0072693	0	1	0	0	0
+protein targeting to plasma membrane	GO_0072661	0	1	0	0	0
+protein targeting to peroxisome	GO_0006625	0	1	0	0	0
+protein targeting to nucleus	GO_0044744	0	1	0	0	0
+protein targeting to nuclear inner membrane	GO_0036228	0	1	0	0	0
+protein targeting to mitochondrion	GO_0006626	0	1	0	0	0
+protein targeting to membrane involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043329	0	1	0	0	0
+protein targeting to membrane	GO_0006612	0	1	0	0	0
+protein targeting to lysosome	GO_0006622	0	1	0	0	0
+protein targeting to chloroplast	GO_0045036	0	1	0	0	0
+protein targeting to Golgi	GO_0000042	0	1	0	0	0
+protein targeting to ER	GO_0045047	0	1	0	0	0
+protein targeting	GO_0006605	0	1	0	0	0
+protein secretion by the type VII secretion system	GO_0044315	0	1	0	0	0
+protein secretion by the type VI secretion system	GO_0033103	0	1	0	0	0
+protein secretion by the type V secretion system	GO_0046819	0	1	0	0	0
+protein secretion by the type IV secretion system	GO_0030255	0	1	0	0	0
+protein secretion by the type III secretion system	GO_0030254	0	1	0	0	0
+protein secretion by the type II secretion system	GO_0015628	0	1	0	0	0
+protein secretion by the type I secretion system	GO_0030253	0	1	0	0	0
+protein secretion by platelet	GO_0070560	0	1	0	0	0
+protein secretion	GO_0009306	0	1	0	0	0
+protein processing involved in protein targeting to mitochondrion	GO_0006627	0	1	0	0	0
+protein import into peroxisome membrane	GO_0045046	0	1	0	0	0
+protein import into peroxisome matrix, translocation	GO_0016561	0	1	0	0	0
+protein import into peroxisome matrix, substrate release	GO_0044721	0	1	0	0	0
+protein import into peroxisome matrix, receptor recycling	GO_0016562	0	1	0	0	0
+protein import into peroxisome matrix, docking	GO_0016560	0	1	0	0	0
+protein import into peroxisome matrix	GO_0016558	0	1	0	0	0
+protein import into nucleus	GO_0006606	0	1	0	0	0
+protein import into mitochondrial outer membrane	GO_0045040	0	1	0	0	0
+protein import into mitochondrial matrix	GO_0030150	0	1	0	0	0
+protein import into mitochondrial intermembrane space	GO_0045041	0	1	0	0	0
+protein import into mitochondrial inner membrane	GO_0045039	0	1	0	0	0
+protein import into chloroplast thylakoid membrane	GO_0045038	0	1	0	0	0
+protein import into chloroplast stroma	GO_0045037	0	1	0	0	0
+protein import	GO_0017038	0	1	0	0	0
+protein export from nucleus	GO_0006611	0	1	0	0	0
+protein exit from endoplasmic reticulum	GO_0032527	0	1	0	0	0
+protein channel activity	GO_0015266	0	1	0	0	0
+proteasome core complex import into nucleus	GO_1990236	0	1	0	0	0
+posttranslational protein targeting to membrane, translocation	GO_0031204	0	1	0	0	0
+posttranslational protein targeting to membrane, docking	GO_0031203	0	1	0	0	0
+posttranslational protein targeting to membrane	GO_0006620	0	1	0	0	0
+positive regulation of ubiquitin-dependent endocytosis	GO_2000397	0	1	0	0	0
+positive regulation of transforming growth factor-beta secretion	GO_2001203	0	1	0	0	0
+positive regulation of transcription factor import into nucleus in response to oxidative stress	GO_0036283	0	1	0	0	0
+positive regulation of transcription factor import into nucleus	GO_0042993	0	1	0	0	0
+positive regulation of secretion of lysosomal enzymes	GO_0090340	0	1	0	0	0
+positive regulation of renin secretion into blood stream	GO_1900135	0	1	0	0	0
+positive regulation of protein transport	GO_0051222	0	1	0	0	0
+positive regulation of protein targeting to vacuolar membrane	GO_1900485	0	1	0	0	0
+positive regulation of protein targeting to prospore membrane	GO_2001232	0	1	0	0	0
+positive regulation of protein targeting to membrane	GO_0090314	0	1	0	0	0
+positive regulation of protein secretion	GO_0050714	0	1	0	0	0
+positive regulation of protein import into nucleus, translocation	GO_0033160	0	1	0	0	0
+positive regulation of protein import into nucleus	GO_0042307	0	1	0	0	0
+positive regulation of protein import into mitochondrial outer membrane	GO_1903638	0	1	0	0	0
+positive regulation of protein export from nucleus in response to glucose starvation	GO_0036279	0	1	0	0	0
+positive regulation of protein export from nucleus during meiotic anaphase II	GO_1900199	0	1	0	0	0
+positive regulation of protein export from nucleus	GO_0046827	0	1	0	0	0
+positive regulation of protein exit from endoplasmic reticulum	GO_0070863	0	1	0	0	0
+positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway	GO_1902279	0	1	0	0	0
+positive regulation of pancreatic amylase secretion	GO_1902278	0	1	0	0	0
+positive regulation of intracellular protein transport	GO_0090316	0	1	0	0	0
+positive regulation of interleukin-8 secretion	GO_2000484	0	1	0	0	0
+positive regulation of interleukin-6 secretion	GO_2000778	0	1	0	0	0
+positive regulation of interleukin-5 secretion	GO_2000664	0	1	0	0	0
+positive regulation of interleukin-2 secretion	GO_1900042	0	1	0	0	0
+positive regulation of interleukin-13 secretion	GO_2000667	0	1	0	0	0
+positive regulation of interleukin-12 secretion	GO_2001184	0	1	0	0	0
+positive regulation of interleukin-10 secretion	GO_2001181	0	1	0	0	0
+positive regulation of interleukin-1 secretion	GO_0050716	0	1	0	0	0
+positive regulation of interleukin-1 beta secretion	GO_0050718	0	1	0	0	0
+positive regulation of interleukin-1 alpha secretion	GO_0050717	0	1	0	0	0
+positive regulation of interferon-gamma secretion	GO_1902715	0	1	0	0	0
+positive regulation of interferon-beta secretion	GO_0035549	0	1	0	0	0
+positive regulation of interferon-alpha secretion	GO_1902741	0	1	0	0	0
+positive regulation of immunoglobulin secretion	GO_0051024	0	1	0	0	0
+positive regulation of glial cell line-derived neurotrophic factor secretion	GO_1900168	0	1	0	0	0
+positive regulation of cytokine secretion involved in immune response	GO_0002741	0	1	0	0	0
+positive regulation of cytokine secretion	GO_0050715	0	1	0	0	0
+positive regulation of chemokine secretion	GO_0090197	0	1	0	0	0
+positive regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035537	0	1	0	0	0
+positive regulation of catenin import into nucleus	GO_0035413	0	1	0	0	0
+positive regulation of Wnt protein secretion	GO_0061357	0	1	0	0	0
+positive regulation of STAT protein import into nucleus	GO_2000366	0	1	0	0	0
+positive regulation of SMAD protein import into nucleus	GO_0060391	0	1	0	0	0
+positive regulation of NFAT protein import into nucleus	GO_0051533	0	1	0	0	0
+positive regulation of NF-kappaB import into nucleus	GO_0042346	0	1	0	0	0
+positive regulation of Golgi to plasma membrane protein transport	GO_0042998	0	1	0	0	0
+positive regulation of Golgi to plasma membrane CFTR protein transport	GO_0043003	0	1	0	0	0
+positive regulation of BMP secretion	GO_1900144	0	1	0	0	0
+polyubiquitinated protein transport	GO_0070844	0	1	0	0	0
+polyubiquitinated misfolded protein transport	GO_0070845	0	1	0	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	0	0	0
+platelet activating factor secretion	GO_0002392	0	1	0	0	0
+pancreatic amylase secretion	GO_0036395	0	1	0	0	0
+opsin transport	GO_0036372	0	1	0	0	0
+nuclear import signal receptor activity	GO_0061608	0	1	0	0	0
+nuclear export signal receptor activity	GO_0005049	0	1	0	0	0
+negative regulation of ubiquitin-dependent endocytosis	GO_2000396	0	1	0	0	0
+negative regulation of transforming growth factor-beta secretion	GO_2001202	0	1	0	0	0
+negative regulation of transcription factor import into nucleus	GO_0042992	0	1	0	0	0
+negative regulation of secretion of lysosomal enzymes	GO_0090341	0	1	0	0	0
+negative regulation of renin secretion into blood stream	GO_1900134	0	1	0	0	0
+negative regulation of protein transport	GO_0051224	0	1	0	0	0
+negative regulation of protein targeting to vacuolar membrane	GO_1900484	0	1	0	0	0
+negative regulation of protein targeting to mitochondrion	GO_1903215	0	1	0	0	0
+negative regulation of protein targeting to membrane	GO_0090315	0	1	0	0	0
+negative regulation of protein secretion	GO_0050709	0	1	0	0	0
+negative regulation of protein processing involved in protein targeting to mitochondrion	GO_1903217	0	1	0	0	0
+negative regulation of protein import into nucleus, translocation	GO_0033159	0	1	0	0	0
+negative regulation of protein import into nucleus during spindle assembly checkpoint	GO_1901925	0	1	0	0	0
+negative regulation of protein import into nucleus	GO_0042308	0	1	0	0	0
+negative regulation of protein import into mitochondrial outer membrane	GO_1903637	0	1	0	0	0
+negative regulation of protein export from nucleus	GO_0046826	0	1	0	0	0
+negative regulation of protein exit from endoplasmic reticulum	GO_0070862	0	1	0	0	0
+negative regulation of pancreatic amylase secretion	GO_1902277	0	1	0	0	0
+negative regulation of intracellular protein transport	GO_0090317	0	1	0	0	0
+negative regulation of interleukin-8 secretion	GO_2000483	0	1	0	0	0
+negative regulation of interleukin-6 secretion	GO_1900165	0	1	0	0	0
+negative regulation of interleukin-5 secretion	GO_2000663	0	1	0	0	0
+negative regulation of interleukin-2 secretion	GO_1900041	0	1	0	0	0
+negative regulation of interleukin-13 secretion	GO_2000666	0	1	0	0	0
+negative regulation of interleukin-12 secretion	GO_2001183	0	1	0	0	0
+negative regulation of interleukin-10 secretion	GO_2001180	0	1	0	0	0
+negative regulation of interleukin-1 secretion	GO_0050711	0	1	0	0	0
+negative regulation of interleukin-1 beta secretion	GO_0050713	0	1	0	0	0
+negative regulation of interleukin-1 alpha secretion	GO_0050712	0	1	0	0	0
+negative regulation of interferon-gamma secretion	GO_1902714	0	1	0	0	0
+negative regulation of interferon-beta secretion	GO_0035548	0	1	0	0	0
+negative regulation of interferon-alpha secretion	GO_1902740	0	1	0	0	0
+negative regulation of immunoglobulin secretion	GO_0051025	0	1	0	0	0
+negative regulation of glial cell line-derived neurotrophic factor secretion	GO_1900167	0	1	0	0	0
+negative regulation of cytokine secretion involved in immune response	GO_0002740	0	1	0	0	0
+negative regulation of cytokine secretion	GO_0050710	0	1	0	0	0
+negative regulation of chemokine secretion	GO_0090198	0	1	0	0	0
+negative regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035536	0	1	0	0	0
+negative regulation of catenin import into nucleus	GO_0035414	0	1	0	0	0
+negative regulation of Wnt protein secretion	GO_0061358	0	1	0	0	0
+negative regulation of STAT protein import into nucleus	GO_2000365	0	1	0	0	0
+negative regulation of SMAD protein import into nucleus	GO_0060392	0	1	0	0	0
+negative regulation of NFAT protein import into nucleus	GO_0051534	0	1	0	0	0
+negative regulation of NF-kappaB import into nucleus	GO_0042347	0	1	0	0	0
+negative regulation of Golgi to plasma membrane protein transport	GO_0042997	0	1	0	0	0
+negative regulation of Golgi to plasma membrane CFTR protein transport	GO_0043002	0	1	0	0	0
+negative regulation of BMP signaling pathway by negative regulation of BMP secretion	GO_0038056	0	1	0	0	0
+negative regulation of BMP secretion	GO_2001285	0	1	0	0	0
+modulation by virus of host protein transport	GO_0044833	0	1	0	0	0
+mitochondrial protein-transporting ATPase activity	GO_0008566	0	1	0	0	0
+misfolded protein transport	GO_0070843	0	1	0	0	0
+membrane insertase activity	GO_0032977	0	1	0	0	0
+maintenance of protein location in cell cortex of cell tip	GO_0097248	0	1	0	0	0
+mRNA-binding (hnRNP) protein import into nucleus	GO_0006609	0	1	0	0	0
+lysosomal enzyme secretion involved in inflammatory response	GO_0002533	0	1	0	0	0
+lipoprotein transporter activity	GO_0042954	0	1	0	0	0
+lipoprotein transport	GO_0042953	0	1	0	0	0
+lactoferrin transport	GO_0033571	0	1	0	0	0
+lactoferrin transmembrane transporter activity	GO_0033569	0	1	0	0	0
+intracellular transport of viral protein in host cell	GO_0019060	0	1	0	0	0
+intracellular protein transport in other organism involved in symbiotic interaction	GO_0051708	0	1	0	0	0
+intracellular protein transport	GO_0006886	0	1	0	0	0
+intracellular protein transmembrane transport	GO_0065002	0	1	0	0	0
+intracellular protein transmembrane import	GO_0044743	0	1	0	0	0
+interleukin-9 secretion	GO_0072607	0	1	0	0	0
+interleukin-8 secretion	GO_0072606	0	1	0	0	0
+interleukin-7 secretion	GO_0072605	0	1	0	0	0
+interleukin-6 secretion	GO_0072604	0	1	0	0	0
+interleukin-5 secretion	GO_0072603	0	1	0	0	0
+interleukin-4 secretion	GO_0072602	0	1	0	0	0
+interleukin-35 secretion	GO_0072626	0	1	0	0	0
+interleukin-33 secretion	GO_0072640	0	1	0	0	0
+interleukin-32 secretion	GO_0072638	0	1	0	0	0
+interleukin-31 secretion	GO_0072636	0	1	0	0	0
+interleukin-30 secretion	GO_0072634	0	1	0	0	0
+interleukin-3 secretion	GO_0072601	0	1	0	0	0
+interleukin-29 secretion	GO_0072632	0	1	0	0	0
+interleukin-28B secretion	GO_0072630	0	1	0	0	0
+interleukin-28A secretion	GO_0072628	0	1	0	0	0
+interleukin-27 secretion	GO_0072625	0	1	0	0	0
+interleukin-26 secretion	GO_0072624	0	1	0	0	0
+interleukin-25 secretion	GO_0072623	0	1	0	0	0
+interleukin-24 secretion	GO_0072622	0	1	0	0	0
+interleukin-23 secretion	GO_0072621	0	1	0	0	0
+interleukin-22 secretion	GO_0072620	0	1	0	0	0
+interleukin-21 secretion	GO_0072619	0	1	0	0	0
+interleukin-20 secretion	GO_0072618	0	1	0	0	0
+interleukin-2 secretion	GO_0070970	0	1	0	0	0
+interleukin-19 secretion	GO_0072617	0	1	0	0	0
+interleukin-18 secretion	GO_0072616	0	1	0	0	0
+interleukin-17 secretion	GO_0072615	0	1	0	0	0
+interleukin-16 secretion	GO_0072614	0	1	0	0	0
+interleukin-15 secretion	GO_0072613	0	1	0	0	0
+interleukin-14 secretion	GO_0072612	0	1	0	0	0
+interleukin-13 secretion	GO_0072611	0	1	0	0	0
+interleukin-12 secretion	GO_0072610	0	1	0	0	0
+interleukin-11 secretion	GO_0072609	0	1	0	0	0
+interleukin-10 secretion	GO_0072608	0	1	0	0	0
+interleukin-1 secretion	GO_0050701	0	1	0	0	0
+interleukin-1 beta secretion	GO_0050702	0	1	0	0	0
+interleukin-1 alpha secretion	GO_0050703	0	1	0	0	0
+interferon-tau secretion	GO_0072652	0	1	0	0	0
+interferon-omega secretion	GO_0072654	0	1	0	0	0
+interferon-kappa secretion	GO_0072650	0	1	0	0	0
+interferon-gamma secretion	GO_0072643	0	1	0	0	0
+interferon-epsilon secretion	GO_0072648	0	1	0	0	0
+interferon-delta secretion	GO_0072646	0	1	0	0	0
+interferon-beta secretion	GO_0035546	0	1	0	0	0
+interferon-alpha secretion	GO_0072642	0	1	0	0	0
+importin-alpha export receptor activity	GO_0008262	0	1	0	0	0
+immunoglobulin secretion involved in immune response	GO_0002380	0	1	0	0	0
+immunoglobulin secretion	GO_0048305	0	1	0	0	0
+hemoglobin import	GO_0020028	0	1	0	0	0
+hemaglutinin autotransporter activity	GO_0015476	0	1	0	0	0
+group A colicin transmembrane transporter activity	GO_0042913	0	1	0	0	0
+glycoprotein transporter activity	GO_0034437	0	1	0	0	0
+glycoprotein transport	GO_0034436	0	1	0	0	0
+glucocorticoid receptor import into nucleus	GO_0002147	0	1	0	0	0
+glial cell line-derived neurotrophic factor secretion	GO_0044467	0	1	0	0	0
+establishment of protein localization to mast cell secretory granule	GO_0033369	0	1	0	0	0
+establishment of protein localization to T cell secretory granule	GO_0033376	0	1	0	0	0
+establishment of protease localization to mast cell secretory granule	GO_0033372	0	1	0	0	0
+establishment of protease localization to T cell secretory granule	GO_0033378	0	1	0	0	0
+establishment of granzyme B localization to T cell secretory granule	GO_0033381	0	1	0	0	0
+endocytosed protein transport to vacuole	GO_0007038	0	1	0	0	0
+cytoplasmic sequestering of transcription factor	GO_0042994	0	1	0	0	0
+cytoplasmic sequestering of protein	GO_0051220	0	1	0	0	0
+cytoplasmic sequestering of NF-kappaB	GO_0007253	0	1	0	0	0
+cytoplasmic sequestering of CFTR protein	GO_0043004	0	1	0	0	0
+cytokine secretion involved in immune response	GO_0002374	0	1	0	0	0
+cytokine secretion	GO_0050663	0	1	0	0	0
+cotranslational protein targeting to membrane	GO_0006613	0	1	0	0	0
+cortical protein anchoring	GO_0032065	0	1	0	0	0
+colicin transmembrane transporter activity	GO_0042912	0	1	0	0	0
+chloroplast protein-transporting ATPase activity	GO_0016464	0	1	0	0	0
+chemokine secretion	GO_0090195	0	1	0	0	0
+chemokine receptor transport within lipid bilayer	GO_0033606	0	1	0	0	0
+chemokine receptor transport out of membrane raft	GO_0032600	0	1	0	0	0
+chemokine (C-C motif) ligand 6 secretion	GO_0035534	0	1	0	0	0
+chemokine (C-C motif) ligand 2 secretion	GO_0035926	0	1	0	0	0
+catenin import into nucleus	GO_0035411	0	1	0	0	0
+bacteriocin-transporting ATPase activity	GO_0043214	0	1	0	0	0
+bacteriocin transmembrane transporter activity	GO_0022885	0	1	0	0	0
+autotransporter activity	GO_0015474	0	1	0	0	0
+arginine targeting transmembrane transporter activity	GO_0015557	0	1	0	0	0
+apolipoprotein E recycling	GO_0071828	0	1	0	0	0
+amylase secretion	GO_0036394	0	1	0	0	0
+adhesin autotransporter activity	GO_0015475	0	1	0	0	0
+Wnt protein secretion	GO_0061355	0	1	0	0	0
+STAT protein import into nucleus	GO_0007262	0	1	0	0	0
+SRP-dependent cotranslational protein targeting to membrane, translocation	GO_0006616	0	1	0	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	GO_0006617	0	1	0	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	0	1	0	0	0
+SRP-dependent cotranslational protein targeting to membrane, docking	GO_0006615	0	1	0	0	0
+SRP-dependent cotranslational protein targeting to membrane	GO_0006614	0	1	0	0	0
+SMAD protein import into nucleus	GO_0007184	0	1	0	0	0
+RNA polymerase II complex import into nucleus	GO_0098738	0	1	0	0	0
+P-P-bond-hydrolysis-driven protein transmembrane transporter activity	GO_0015450	0	1	0	0	0
+NLS-bearing protein import into nucleus	GO_0006607	0	1	0	0	0
+NFAT protein import into nucleus	GO_0051531	0	1	0	0	0
+NF-kappaB import into nucleus	GO_0042348	0	1	0	0	0
+N-glycan processing to lysosome	GO_0016256	0	1	0	0	0
+MAPK phosphatase export from nucleus, leptomycin B sensitive	GO_0045209	0	1	0	0	0
+MAPK phosphatase export from nucleus	GO_0045208	0	1	0	0	0
+MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	0	1	0	0	0
+MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	0	0	0
+MAPK import into nucleus involved in conjugation with cellular fusion	GO_0071512	0	1	0	0	0
+MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	0	1	0	0	0
+MAPK import into nucleus	GO_0000189	0	1	0	0	0
+MAPK export from nucleus	GO_0045204	0	1	0	0	0
+Golgi to plasma membrane protein transport	GO_0043001	0	1	0	0	0
+Golgi to plasma membrane CFTR protein transport	GO_0043000	0	1	0	0	0
+CVT vesicle assembly	GO_0071255	0	1	0	0	0
+CVT pathway	GO_0032258	0	1	0	0	0
+BMP secretion	GO_0038055	0	1	0	0	0
+B cell receptor transport within lipid bilayer	GO_0032595	0	1	0	0	0
+B cell receptor transport into membrane raft	GO_0032597	0	1	0	0	0
+B cell receptor transport into immunological synapse	GO_0032598	0	1	0	0	0

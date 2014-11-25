@@ -1,0 +1,449 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+inductive cell migration	GO_0040039	1	1	1	0	0
+cell migration to the midline involved in heart development	GO_0003318	1	1	1	0	0
+cell migration involved in vasculogenesis	GO_0035441	1	1	1	0	0
+cell migration involved in somitogenic axis elongation	GO_0090248	1	1	1	0	0
+cell migration involved in prostatic bud elongation	GO_0060518	1	1	1	0	0
+cell migration involved in metanephros development	GO_0035788	1	1	1	0	0
+cell migration involved in mesendoderm migration	GO_0090134	1	1	1	0	0
+cell migration involved in mammary placode formation	GO_0060619	1	1	1	0	0
+cell migration involved in heart jogging	GO_0003305	1	1	1	0	0
+cell migration involved in heart formation	GO_0060974	1	1	1	0	0
+cell migration involved in heart development	GO_0060973	1	1	1	0	0
+cell migration involved in gastrulation	GO_0042074	1	1	1	0	0
+cell migration involved in endocardial cushion formation	GO_0003273	1	1	1	0	0
+cell migration involved in coronary vasculogenesis	GO_0060980	1	1	1	0	0
+cell migration in diencephalon	GO_0061381	1	1	1	0	0
+wound healing, spreading of epidermal cells	GO_0035313	0	1	0	0	0
+wound healing, spreading of cells	GO_0044319	0	1	0	0	0
+ventral trunk neural crest cell migration	GO_0036486	0	1	0	0	0
+venous endothelial cell migration involved in lymph vessel development	GO_0060855	0	1	0	0	0
+trunk neural crest cell migration	GO_0036484	0	1	0	0	0
+trophoblast cell migration	GO_0061450	0	1	0	0	0
+thymocyte migration	GO_0072679	0	1	0	0	0
+telencephalon oligodendrocyte cell migration	GO_0022032	0	1	0	0	0
+telencephalon microglial cell migration	GO_0022033	0	1	0	0	0
+telencephalon glial cell migration	GO_0022030	0	1	0	0	0
+telencephalon cell migration	GO_0022029	0	1	0	0	0
+telencephalon astrocyte cell migration	GO_0022031	0	1	0	0	0
+tangential migration from the subventricular zone to the olfactory bulb	GO_0022028	0	1	0	0	0
+suppression by virus of host chemokine activity	GO_0039553	0	1	0	0	0
+substrate-independent telencephalic tangential migration	GO_0021826	0	1	0	0	0
+substrate-independent telencephalic tangential interneuron migration	GO_0021843	0	1	0	0	0
+substrate-dependent cerebral cortex tangential migration	GO_0021825	0	1	0	0	0
+substrate-dependent cell migration, cell extension	GO_0006930	0	1	0	0	0
+substrate-dependent cell migration, cell contraction	GO_0006932	0	1	0	0	0
+substrate-dependent cell migration, cell attachment to substrate	GO_0006931	0	1	0	0	0
+substrate-dependent cell migration	GO_0006929	0	1	0	0	0
+substrate-bound cell migration, adhesion receptor recycling	GO_0006934	0	1	0	0	0
+subpallium radially oriented migration	GO_0021981	0	1	0	0	0
+subpallium cell migration	GO_0021980	0	1	0	0	0
+spinal cord motor neuron migration	GO_0097476	0	1	0	0	0
+somal translocation	GO_0021802	0	1	0	0	0
+smooth muscle cell migration	GO_0014909	0	1	0	0	0
+smooth muscle cell chemotaxis	GO_0071670	0	1	0	0	0
+skeletal muscle satellite cell migration	GO_1902766	0	1	0	0	0
+rhombomere cell migration	GO_0022035	0	1	0	0	0
+regulation of trophoblast cell migration	GO_1901163	0	1	0	0	0
+regulation of thymocyte migration	GO_2000410	0	1	0	0	0
+regulation of smooth muscle cell migration	GO_0014910	0	1	0	0	0
+regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	0	0	0
+regulation of neutrophil migration	GO_1902622	0	1	0	0	0
+regulation of neutrophil extravasation	GO_2000389	0	1	0	0	0
+regulation of neutrophil chemotaxis	GO_0090022	0	1	0	0	0
+regulation of neuron migration	GO_2001222	0	1	0	0	0
+regulation of natural killer cell chemotaxis	GO_2000501	0	1	0	0	0
+regulation of myeloid dendritic cell chemotaxis	GO_2000527	0	1	0	0	0
+regulation of muscle cell chemotaxis toward tendon cell	GO_2001281	0	1	0	0	0
+regulation of mononuclear cell migration	GO_0071675	0	1	0	0	0
+regulation of monocyte extravasation	GO_2000437	0	1	0	0	0
+regulation of monocyte chemotaxis	GO_0090025	0	1	0	0	0
+regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_1900238	0	1	0	0	0
+regulation of metanephric mesenchymal cell migration	GO_2000589	0	1	0	0	0
+regulation of mast cell chemotaxis	GO_0060753	0	1	0	0	0
+regulation of macrophage chemotaxis	GO_0010758	0	1	0	0	0
+regulation of lymphocyte migration	GO_2000401	0	1	0	0	0
+regulation of lymphocyte chemotaxis	GO_1901623	0	1	0	0	0
+regulation of leukocyte tethering or rolling	GO_1903236	0	1	0	0	0
+regulation of leukocyte migration	GO_0002685	0	1	0	0	0
+regulation of leukocyte chemotaxis	GO_0002688	0	1	0	0	0
+regulation of lateral motor column neuron migration	GO_1902076	0	1	0	0	0
+regulation of keratinocyte migration	GO_0051547	0	1	0	0	0
+regulation of hematopoietic stem cell migration	GO_2000471	0	1	0	0	0
+regulation of granulocyte chemotaxis	GO_0071622	0	1	0	0	0
+regulation of fibronectin-dependent thymocyte migration	GO_2000413	0	1	0	0	0
+regulation of fibroblast migration	GO_0010762	0	1	0	0	0
+regulation of epithelial cell migration, open tracheal system	GO_2000274	0	1	0	0	0
+regulation of epithelial cell migration	GO_0010632	0	1	0	0	0
+regulation of eosinophil migration	GO_2000416	0	1	0	0	0
+regulation of eosinophil extravasation	GO_2000419	0	1	0	0	0
+regulation of eosinophil chemotaxis	GO_2000422	0	1	0	0	0
+regulation of endothelial cell migration	GO_0010594	0	1	0	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
+regulation of distal tip cell migration	GO_1903354	0	1	0	0	0
+regulation of dendritic cell chemotaxis	GO_2000508	0	1	0	0	0
+regulation of chemokine activity	GO_1900136	0	1	0	0	0
+regulation of cellular extravasation	GO_0002691	0	1	0	0	0
+regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	0	0	0
+regulation of cell migration	GO_0030334	0	1	0	0	0
+regulation of blood vessel endothelial cell migration	GO_0043535	0	1	0	0	0
+regulation of astrocyte chemotaxis	GO_2000458	0	1	0	0	0
+regulation of angioblast cell migration involved in selective angioblast sprouting	GO_0035477	0	1	0	0	0
+regulation of T-helper 17 cell extravasation	GO_2000455	0	1	0	0	0
+regulation of T cell migration	GO_2000404	0	1	0	0	0
+regulation of T cell extravasation	GO_2000407	0	1	0	0	0
+regulation of T cell chemotaxis	GO_0010819	0	1	0	0	0
+regulation of Schwann cell migration	GO_1900147	0	1	0	0	0
+regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000452	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000449	0	1	0	0	0
+regulation of B cell chemotaxis	GO_2000537	0	1	0	0	0
+radial glia guided migration of cerebellar granule cell	GO_0021933	0	1	0	0	0
+radial glia guided migration of Purkinje cell	GO_0021942	0	1	0	0	0
+pyramidal neuron migration	GO_0021852	0	1	0	0	0
+proepicardium cell migration involved in pericardium morphogenesis	GO_0003345	0	1	0	0	0
+postnatal olfactory bulb interneuron migration	GO_0021827	0	1	0	0	0
+posterior lateral line neuromast primordium migration	GO_0048920	0	1	0	0	0
+posterior lateral line neuromast deposition	GO_0048922	0	1	0	0	0
+positive regulation of trophoblast cell migration	GO_1901165	0	1	0	0	0
+positive regulation of thymocyte migration	GO_2000412	0	1	0	0	0
+positive regulation of smooth muscle cell migration	GO_0014911	0	1	0	0	0
+positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	0	0	0
+positive regulation of neutrophil migration	GO_1902624	0	1	0	0	0
+positive regulation of neutrophil extravasation	GO_2000391	0	1	0	0	0
+positive regulation of neutrophil chemotaxis	GO_0090023	0	1	0	0	0
+positive regulation of neuron migration	GO_2001224	0	1	0	0	0
+positive regulation of natural killer cell chemotaxis	GO_2000503	0	1	0	0	0
+positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	0	1	0	0	0
+positive regulation of mononuclear cell migration	GO_0071677	0	1	0	0	0
+positive regulation of monocyte extravasation	GO_2000439	0	1	0	0	0
+positive regulation of monocyte chemotaxis	GO_0090026	0	1	0	0	0
+positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_0035793	0	1	0	0	0
+positive regulation of metanephric mesenchymal cell migration	GO_2000591	0	1	0	0	0
+positive regulation of mast cell chemotaxis	GO_0060754	0	1	0	0	0
+positive regulation of macrophage chemotaxis	GO_0010759	0	1	0	0	0
+positive regulation of lymphocyte migration	GO_2000403	0	1	0	0	0
+positive regulation of leukocyte tethering or rolling	GO_1903238	0	1	0	0	0
+positive regulation of leukocyte migration	GO_0002687	0	1	0	0	0
+positive regulation of leukocyte chemotaxis	GO_0002690	0	1	0	0	0
+positive regulation of lateral motor column neuron migration	GO_1902078	0	1	0	0	0
+positive regulation of keratinocyte migration	GO_0051549	0	1	0	0	0
+positive regulation of hematopoietic stem cell migration	GO_2000473	0	1	0	0	0
+positive regulation of granulocyte chemotaxis	GO_0071624	0	1	0	0	0
+positive regulation of fibronectin-dependent thymocyte migration	GO_2000415	0	1	0	0	0
+positive regulation of fibroblast migration	GO_0010763	0	1	0	0	0
+positive regulation of epithelial cell migration	GO_0010634	0	1	0	0	0
+positive regulation of eosinophil migration	GO_2000418	0	1	0	0	0
+positive regulation of eosinophil extravasation	GO_2000421	0	1	0	0	0
+positive regulation of eosinophil chemotaxis	GO_2000424	0	1	0	0	0
+positive regulation of endothelial cell migration	GO_0010595	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
+positive regulation of distal tip cell migration	GO_1903356	0	1	0	0	0
+positive regulation of dendritic cell chemotaxis	GO_2000510	0	1	0	0	0
+positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	0	0	0
+positive regulation of cellular extravasation	GO_0002693	0	1	0	0	0
+positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	0	0	0
+positive regulation of cell migration in other organism	GO_0044623	0	1	0	0	0
+positive regulation of cell migration by vascular endothelial growth factor signaling pathway	GO_0038089	0	1	0	0	0
+positive regulation of cell migration by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038090	0	1	0	0	0
+positive regulation of cell migration	GO_0030335	0	1	0	0	0
+positive regulation of blood vessel endothelial cell migration	GO_0043536	0	1	0	0	0
+positive regulation of astrocyte chemotaxis	GO_2000464	0	1	0	0	0
+positive regulation of T-helper 17 cell extravasation	GO_2000457	0	1	0	0	0
+positive regulation of T cell migration	GO_2000406	0	1	0	0	0
+positive regulation of T cell extravasation	GO_2000409	0	1	0	0	0
+positive regulation of T cell chemotaxis	GO_0010820	0	1	0	0	0
+positive regulation of Schwann cell migration	GO_1900149	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000454	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000451	0	1	0	0	0
+positive regulation of B cell chemotaxis	GO_2000538	0	1	0	0	0
+pole cell migration	GO_0007280	0	1	0	0	0
+plasmacytoid dendritic cell chemotaxis	GO_0002410	0	1	0	0	0
+planar cell polarity pathway involved in gastrula mediolateral intercalation	GO_0060775	0	1	0	0	0
+pial surface process extension	GO_0021803	0	1	0	0	0
+ovarian follicle cell migration	GO_0007297	0	1	0	0	0
+outward migration of deep nuclear neurons	GO_0021947	0	1	0	0	0
+oligodendrocyte cell migration from the subpallium to the cortex	GO_0021829	0	1	0	0	0
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration	GO_0021817	0	1	0	0	0
+neutrophil migration	GO_1990266	0	1	0	0	0
+neutrophil extravasation	GO_0072672	0	1	0	0	0
+neutrophil chemotaxis	GO_0030593	0	1	0	0	0
+neurotrophic factor signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021809	0	1	0	0	0
+neurotransmitter-mediated guidance of interneurons involved in substrate-independent cerebral cortex tangential migration	GO_0021845	0	1	0	0	0
+neurotransmitter signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021810	0	1	0	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	0	0	0
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	0	0	0
+neuron migration involved in retrograde extension	GO_0003393	0	1	0	0	0
+neuron migration involved in dendrite retrograde extension	GO_0003395	0	1	0	0	0
+neuron migration involved in amphid sensory organ dendrite retrograde extension	GO_0003397	0	1	0	0	0
+neuron migration	GO_0001764	0	1	0	0	0
+neuromast primordium migration	GO_0048883	0	1	0	0	0
+neuromast deposition	GO_0048885	0	1	0	0	0
+neuroblast migration	GO_0097402	0	1	0	0	0
+neural crest cell migration involved in sympathetic nervous system development	GO_1903045	0	1	0	0	0
+neural crest cell migration involved in heart formation	GO_0003147	0	1	0	0	0
+neural crest cell migration involved in autonomic nervous system development	GO_1901166	0	1	0	0	0
+neural crest cell migration	GO_0001755	0	1	0	0	0
+negative regulation of trophoblast cell migration	GO_1901164	0	1	0	0	0
+negative regulation of thymocyte migration	GO_2000411	0	1	0	0	0
+negative regulation of smooth muscle cell migration	GO_0014912	0	1	0	0	0
+negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	0	0	0
+negative regulation of neutrophil migration	GO_1902623	0	1	0	0	0
+negative regulation of neutrophil extravasation	GO_2000390	0	1	0	0	0
+negative regulation of neutrophil chemotaxis	GO_0090024	0	1	0	0	0
+negative regulation of neuron migration	GO_2001223	0	1	0	0	0
+negative regulation of natural killer cell chemotaxis	GO_2000502	0	1	0	0	0
+negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	0	1	0	0	0
+negative regulation of muscle cell chemotaxis toward tendon cell	GO_2001282	0	1	0	0	0
+negative regulation of mononuclear cell migration	GO_0071676	0	1	0	0	0
+negative regulation of monocyte extravasation	GO_2000438	0	1	0	0	0
+negative regulation of monocyte chemotaxis	GO_0090027	0	1	0	0	0
+negative regulation of metanephric mesenchymal cell migration	GO_2000590	0	1	0	0	0
+negative regulation of mast cell chemotaxis	GO_0060755	0	1	0	0	0
+negative regulation of macrophage chemotaxis	GO_0010760	0	1	0	0	0
+negative regulation of lymphocyte migration	GO_2000402	0	1	0	0	0
+negative regulation of lymphocyte chemotaxis	GO_1901624	0	1	0	0	0
+negative regulation of leukocyte tethering or rolling	GO_1903237	0	1	0	0	0
+negative regulation of leukocyte migration	GO_0002686	0	1	0	0	0
+negative regulation of leukocyte chemotaxis	GO_0002689	0	1	0	0	0
+negative regulation of lateral motor column neuron migration	GO_1902077	0	1	0	0	0
+negative regulation of keratinocyte migration	GO_0051548	0	1	0	0	0
+negative regulation of hematopoietic stem cell migration	GO_2000472	0	1	0	0	0
+negative regulation of granulocyte chemotaxis	GO_0071623	0	1	0	0	0
+negative regulation of fibronectin-dependent thymocyte migration	GO_2000414	0	1	0	0	0
+negative regulation of fibroblast migration	GO_0010764	0	1	0	0	0
+negative regulation of epithelial cell migration	GO_0010633	0	1	0	0	0
+negative regulation of eosinophil migration	GO_2000417	0	1	0	0	0
+negative regulation of eosinophil extravasation	GO_2000420	0	1	0	0	0
+negative regulation of eosinophil chemotaxis	GO_2000423	0	1	0	0	0
+negative regulation of endothelial cell migration	GO_0010596	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
+negative regulation of distal tip cell migration	GO_1903355	0	1	0	0	0
+negative regulation of dendritic cell chemotaxis	GO_2000509	0	1	0	0	0
+negative regulation of chemokine activity	GO_1900137	0	1	0	0	0
+negative regulation of cellular extravasation	GO_0002692	0	1	0	0	0
+negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	0	0	0
+negative regulation of cell motility involved in cerebral cortex radial glia guided migration	GO_0021822	0	1	0	0	0
+negative regulation of cell migration involved in sprouting angiogenesis	GO_0090051	0	1	0	0	0
+negative regulation of cell migration in other organism	GO_0044622	0	1	0	0	0
+negative regulation of cell migration	GO_0030336	0	1	0	0	0
+negative regulation of cell adhesion involved in substrate-bound cell migration	GO_0006933	0	1	0	0	0
+negative regulation of cell adhesion in ventricular zone	GO_0021804	0	1	0	0	0
+negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	0	0	0
+negative regulation of astrocyte chemotaxis	GO_2000459	0	1	0	0	0
+negative regulation of T-helper 17 cell extravasation	GO_2000456	0	1	0	0	0
+negative regulation of T cell migration	GO_2000405	0	1	0	0	0
+negative regulation of T cell extravasation	GO_2000408	0	1	0	0	0
+negative regulation of Schwann cell migration	GO_1900148	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_2000453	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell extravasation	GO_2000450	0	1	0	0	0
+negative regulation of B cell chemotaxis	GO_2000550	0	1	0	0	0
+natural killer cell chemotaxis	GO_0035747	0	1	0	0	0
+myoblast migration involved in skeletal muscle regeneration	GO_0014839	0	1	0	0	0
+myoblast migration	GO_0051451	0	1	0	0	0
+myeloid leukocyte migration	GO_0097529	0	1	0	0	0
+myeloid dendritic cell chemotaxis	GO_0002408	0	1	0	0	0
+muscle cell migration	GO_0014812	0	1	0	0	0
+muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	0	0	0
+motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve formation	GO_0035765	0	1	0	0	0
+motor neuron migration	GO_0097475	0	1	0	0	0
+motogenic signaling involved in postnatal olfactory bulb interneuron migration	GO_0021837	0	1	0	0	0
+motogenic signaling involved in interneuron migration from the subpallium to the cortex	GO_0021838	0	1	0	0	0
+motogenic signaling initiating cell movement in cerebral cortex	GO_0021807	0	1	0	0	0
+mononuclear cell migration	GO_0071674	0	1	0	0	0
+monocyte migration into blood stream	GO_0035703	0	1	0	0	0
+monocyte extravasation	GO_0035696	0	1	0	0	0
+monocyte chemotaxis	GO_0002548	0	1	0	0	0
+modulation of the microfilament cytoskeleton involved in cell locomotion in cerebral cortex radial glia guided migration	GO_0021818	0	1	0	0	0
+modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration	GO_0021815	0	1	0	0	0
+modulation of cell migration in other organism	GO_0044621	0	1	0	0	0
+metanephric mesenchymal cell migration	GO_0035789	0	1	0	0	0
+mesonephric cell migration involved in male gonad development	GO_0061457	0	1	0	0	0
+mesodermal cell migration	GO_0008078	0	1	0	0	0
+mesenchymal stem cell migration involved in uteric bud morphogenesis	GO_0061456	0	1	0	0	0
+mesenchymal cell migration involved in limb bud formation	GO_0035322	0	1	0	0	0
+mesenchymal cell migration	GO_0090497	0	1	0	0	0
+memory T cell extravasation	GO_0035683	0	1	0	0	0
+melanocyte migration	GO_0097324	0	1	0	0	0
+mediolateral intercalation	GO_0060031	0	1	0	0	0
+mature natural killer cell chemotaxis	GO_0035782	0	1	0	0	0
+mast cell migration	GO_0097531	0	1	0	0	0
+mast cell chemotaxis	GO_0002551	0	1	0	0	0
+main body follicle cell migration	GO_0060270	0	1	0	0	0
+macrophage chemotaxis	GO_0048246	0	1	0	0	0
+lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis	GO_1902550	0	1	0	0	0
+lymphoid lineage cell migration into thymus	GO_0097535	0	1	0	0	0
+lymphoid lineage cell migration	GO_0097534	0	1	0	0	0
+lymphocyte migration into lymphoid organs	GO_0097021	0	1	0	0	0
+lymphocyte migration into lymph node	GO_0097022	0	1	0	0	0
+lymphocyte migration	GO_0072676	0	1	0	0	0
+lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0	0
+lymphocyte chemotaxis	GO_0048247	0	1	0	0	0
+leukocyte tethering or rolling	GO_0050901	0	1	0	0	0
+leukocyte migration involved in inflammatory response	GO_0002523	0	1	0	0	0
+leukocyte migration involved in immune response	GO_0002522	0	1	0	0	0
+leukocyte migration	GO_0050900	0	1	0	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
+leukocyte chemotaxis involved in immune response	GO_0002233	0	1	0	0	0
+leukocyte chemotaxis	GO_0030595	0	1	0	0	0
+leukocyte adhesive activation	GO_0050902	0	1	0	0	0
+leukocyte activation-dependent arrest	GO_0050903	0	1	0	0	0
+layer formation in cerebral cortex	GO_0021819	0	1	0	0	0
+lateral motor column neuron migration	GO_0097477	0	1	0	0	0
+lateral line nerve glial cell migration	GO_0048896	0	1	0	0	0
+lamellipodium assembly involved in mesendodermal cell migration	GO_0003364	0	1	0	0	0
+lamellipodium assembly involved in ameboidal cell migration	GO_0003363	0	1	0	0	0
+keratinocyte migration	GO_0051546	0	1	0	0	0
+inward migration of deep nuclear neurons	GO_0021948	0	1	0	0	0
+intestinal epithelial cell migration	GO_0061582	0	1	0	0	0
+interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex	GO_0021839	0	1	0	0	0
+interneuron sorting involved in substrate-independent cerebral cortex tangential migration	GO_0021844	0	1	0	0	0
+interneuron migration from the subpallium to the cortex	GO_0021830	0	1	0	0	0
+initiation of movement involved in cerebral cortex radial glia guided migration	GO_0021806	0	1	0	0	0
+ingression involved in gastrulation with mouth forming second	GO_0055111	0	1	0	0	0
+hypothalamus cell migration	GO_0021855	0	1	0	0	0
+hypothalamic tangential migration using cell-axon interactions	GO_0021856	0	1	0	0	0
+hindbrain tangential cell migration	GO_0021934	0	1	0	0	0
+hindbrain radial glia guided cell migration	GO_0021932	0	1	0	0	0
+hepatocyte cell migration	GO_0002194	0	1	0	0	0
+hemocyte migration	GO_0035099	0	1	0	0	0
+hematopoietic stem cell migration to bone marrow	GO_0097241	0	1	0	0	0
+hematopoietic stem cell migration	GO_0035701	0	1	0	0	0
+helper T cell extravasation	GO_0035684	0	1	0	0	0
+helper T cell diapedesis	GO_0035685	0	1	0	0	0
+helper T cell chemotaxis	GO_0035704	0	1	0	0	0
+growth factor signaling initiating cell movement involved in cerebral cortex radial glia guided migration	GO_0021811	0	1	0	0	0
+granulocyte migration	GO_0097530	0	1	0	0	0
+granulocyte chemotaxis	GO_0071621	0	1	0	0	0
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus	GO_0021828	0	1	0	0	0
+glomerular visceral epithelial cell migration	GO_0090521	0	1	0	0	0
+glial cell migration in posterior lateral line nerve	GO_0048930	0	1	0	0	0
+glial cell migration in anterior lateral line nerve	GO_0048912	0	1	0	0	0
+glial cell migration	GO_0008347	0	1	0	0	0
+germ cell repulsion	GO_0035233	0	1	0	0	0
+germ cell migration	GO_0008354	0	1	0	0	0
+germ cell attraction	GO_0035232	0	1	0	0	0
+formation of radial glial scaffolds	GO_0021943	0	1	0	0	0
+forebrain cell migration	GO_0021885	0	1	0	0	0
+fibronectin-dependent thymocyte migration	GO_0072681	0	1	0	0	0
+fibroblast migration	GO_0010761	0	1	0	0	0
+extracellular matrix-dependent thymocyte migration	GO_0072680	0	1	0	0	0
+extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration	GO_0021820	0	1	0	0	0
+extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	GO_0021816	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in mesendodermal cell migration	GO_0003372	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in gastrulation	GO_0003380	0	1	0	0	0
+establishment or maintenance of cytoskeleton polarity involved in ameboidal cell migration	GO_0003371	0	1	0	0	0
+establishment of cell polarity involved in mesendodermal cell migration	GO_0003369	0	1	0	0	0
+establishment of cell polarity involved in gastrulation cell migration	GO_0003379	0	1	0	0	0
+establishment of cell polarity involved in ameboidal cell migration	GO_0003365	0	1	0	0	0
+epithelial cell migration, open tracheal system	GO_0007427	0	1	0	0	0
+epithelial cell migration involved in proximal tubule morphogenesis	GO_0072159	0	1	0	0	0
+epithelial cell migration involved in nephron tubule morphogenesis	GO_0072155	0	1	0	0	0
+epithelial cell migration involved in metanephric proximal tubule morphogenesis	GO_0072292	0	1	0	0	0
+epithelial cell migration involved in metanephric nephron tubule morphogenesis	GO_0072290	0	1	0	0	0
+epithelial cell migration involved in metanephric distal tubule morphogenesis	GO_0072291	0	1	0	0	0
+epithelial cell migration involved in mesonephric proximal tubule morphogenesis	GO_0061280	0	1	0	0	0
+epithelial cell migration involved in mesonephric nephron tubule morphogenesis	GO_0061278	0	1	0	0	0
+epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	0	1	0	0	0
+epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	0	1	0	0	0
+epithelial cell migration	GO_0010631	0	1	0	0	0
+epicardium-derived cell migration to the myocardium	GO_0003346	0	1	0	0	0
+eosinophil migration	GO_0072677	0	1	0	0	0
+eosinophil extravasation	GO_0072682	0	1	0	0	0
+eosinophil chemotaxis	GO_0048245	0	1	0	0	0
+endothelial cell migration	GO_0043542	0	1	0	0	0
+endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
+endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
+endocardial progenitor cell migration to the midline involved in heart field formation	GO_0003262	0	1	0	0	0
+embryonic olfactory bulb interneuron precursor migration	GO_0021831	0	1	0	0	0
+dorsolateral trunk neural crest cell migration	GO_0036485	0	1	0	0	0
+dorsal convergence	GO_0060030	0	1	0	0	0
+dorsal closure, spreading of leading edge cells	GO_0007395	0	1	0	0	0
+distal tip cell migration	GO_0097628	0	1	0	0	0
+directional guidance of interneurons involved in migration from the subpallium to the cortex	GO_0021840	0	1	0	0	0
+diapedesis	GO_0050904	0	1	0	0	0
+dendritic cell migration	GO_0036336	0	1	0	0	0
+dendritic cell chemotaxis	GO_0002407	0	1	0	0	0
+deep nuclear neuron cell migration	GO_0021946	0	1	0	0	0
+cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration	GO_0021808	0	1	0	0	0
+corneal epithelial cell migration	GO_0061581	0	1	0	0	0
+colon epithelial cell migration	GO_0061580	0	1	0	0	0
+colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
+chondrocyte intercalation involved in growth plate cartilage morphogenesis	GO_0003428	0	1	0	0	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	0	0	0
+chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	0	0	0
+chemorepulsion involved in interneuron migration from the subpallium to the cortex	GO_0021842	0	1	0	0	0
+chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	0	0	0
+chemokine activity	GO_0008009	0	1	0	0	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	0	0	0
+chemoattraction involved in interneuron migration from the subpallium to the cortex	GO_0021841	0	1	0	0	0
+chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	0	0	0
+cerebral cortex tangential migration using cell-cell interactions	GO_0021823	0	1	0	0	0
+cerebral cortex tangential migration using cell-axon interactions	GO_0021824	0	1	0	0	0
+cerebral cortex tangential migration	GO_0021800	0	1	0	0	0
+cerebral cortex radially oriented cell migration	GO_0021799	0	1	0	0	0
+cerebral cortex radial glia guided migration	GO_0021801	0	1	0	0	0
+cerebral cortex cell migration	GO_0021795	0	1	0	0	0
+cerebral cortex GABAergic interneuron migration	GO_0021853	0	1	0	0	0
+cerebellar granule cell precursor tangential migration	GO_0021935	0	1	0	0	0
+centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
+cellular extravasation	GO_0045123	0	1	0	0	0
+cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	0	1	0	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
+cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	0	1	0	0	0
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	0	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	0	0	0
+cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	0	1	0	0	0
+cell-cell adhesion involved in ameboidal cell migration	GO_0003367	0	1	0	0	0
+cell rearrangement involved in Malpighian tubule morphogenesis	GO_0061334	0	1	0	0	0
+cell movement involved in somal translocation	GO_0021805	0	1	0	0	0
+cell motility involved in cerebral cortex radial glia guided migration	GO_0021814	0	1	0	0	0
+cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0	0
+cell migration involved in kidney development	GO_0035787	0	1	0	0	0
+cell migration involved in coronary angiogenesis	GO_0060981	0	1	0	0	0
+cell migration in hindbrain	GO_0021535	0	1	0	0	0
+cell migration	GO_0016477	0	1	0	0	0
+cell chemotaxis to fibroblast growth factor	GO_0035766	0	1	0	0	0
+cell chemotaxis to angiotensin	GO_0071434	0	1	0	0	0
+cell chemotaxis involved in Malpighian tubule morphogenesis	GO_0061352	0	1	0	0	0
+cell chemotaxis	GO_0060326	0	1	0	0	0
+cardioblast migration to the midline involved in heart rudiment formation	GO_0003319	0	1	0	0	0
+cardioblast migration to the midline involved in heart field formation	GO_0060975	0	1	0	0	0
+cardioblast migration	GO_0003260	0	1	0	0	0
+cardioblast anterior-lateral migration	GO_0003259	0	1	0	0	0
+cardiac neural crest cell migration involved in outflow tract morphogenesis	GO_0003253	0	1	0	0	0
+cardiac muscle progenitor cell migration to the midline involved in heart field formation	GO_0003261	0	1	0	0	0
+brainstem precerebellar neuron precursor migration	GO_0021949	0	1	0	0	0
+border follicle cell migration	GO_0007298	0	1	0	0	0
+blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0	0
+blood vessel endothelial cell migration	GO_0043534	0	1	0	0	0
+basophil chemotaxis	GO_0002575	0	1	0	0	0
+astrocyte chemotaxis	GO_0035700	0	1	0	0	0
+astrocyte cell migration	GO_0043615	0	1	0	0	0
+anterior lateral line neuromast primordium migration	GO_0048900	0	1	0	0	0
+anterior lateral line neuromast deposition	GO_0048902	0	1	0	0	0
+angioblast cell migration involved in selective angioblast sprouting	GO_0035475	0	1	0	0	0
+angioblast cell migration from lateral mesoderm to midline	GO_0035479	0	1	0	0	0
+angioblast cell migration	GO_0035476	0	1	0	0	0
+ameboidal-type cell migration	GO_0001667	0	1	0	0	0
+Wnt signaling pathway involved in wound healing, spreading of epidermal cells	GO_0035659	0	1	0	0	0
+T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0	0
+T-helper 17 cell extravasation	GO_0035699	0	1	0	0	0
+T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0	0
+T-helper 1 cell extravasation	GO_0035687	0	1	0	0	0
+T-helper 1 cell diapedesis	GO_0035688	0	1	0	0	0
+T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0	0
+T cell migration	GO_0072678	0	1	0	0	0
+T cell extravasation	GO_0072683	0	1	0	0	0
+T cell chemotaxis	GO_0010818	0	1	0	0	0
+Schwann cell migration	GO_0036135	0	1	0	0	0
+Roundabout signaling pathway involved in muscle cell chemotaxis toward tendon cell	GO_2001283	0	1	0	0	0
+Langerhans cell chemotaxis	GO_0002409	0	1	0	0	0
+CD8-positive, alpha-beta cytotoxic T cell extravasation	GO_0035698	0	1	0	0	0
+CD8-positive, alpha-beta T cell extravasation	GO_0035697	0	1	0	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0
+B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0	0
+B cell chemotaxis	GO_0035754	0	1	0	0	0

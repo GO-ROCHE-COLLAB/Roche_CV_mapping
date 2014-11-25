@@ -1,0 +1,425 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of cell proliferation involved in tissue homeostasis	GO_0060784	1	1	1	0	0
+regulation of cell proliferation involved in mesonephros development	GO_2000606	1	1	1	0	0
+regulation of cell proliferation involved in imaginal disc-derived wing morphogenesis	GO_0090256	1	1	1	0	0
+regulation of cell proliferation involved in heart valve morphogenesis	GO_0003250	1	1	1	0	0
+regulation of cell proliferation involved in heart morphogenesis	GO_2000136	1	1	1	0	0
+regulation of cell proliferation involved in compound eye morphogenesis	GO_2000495	1	1	1	0	0
+regulation of cell proliferation in dorsal spinal cord	GO_0021921	1	1	1	0	0
+regulation of cell proliferation in bone marrow	GO_0071863	1	1	1	0	0
+regulation of cell proliferation	GO_0042127	1	1	1	0	0
+positive regulation of cell proliferation in bone marrow	GO_0071864	1	1	1	0	0
+cell proliferation involved in pronephros development	GO_0039015	1	1	1	0	0
+cell proliferation involved in outflow tract morphogenesis	GO_0061325	1	1	1	0	0
+cell proliferation involved in neural plate elongation	GO_0021992	1	1	1	0	0
+cell proliferation involved in metanephros development	GO_0072203	1	1	1	0	0
+cell proliferation involved in mesonephros development	GO_0061209	1	1	1	0	0
+cell proliferation involved in imaginal disc-derived wing morphogenesis	GO_0090255	1	1	1	0	0
+cell proliferation involved in heart valve morphogenesis	GO_0003249	1	1	1	0	0
+cell proliferation involved in heart valve development	GO_2000793	1	1	1	0	0
+cell proliferation involved in heart morphogenesis	GO_0061323	1	1	1	0	0
+cell proliferation involved in compound eye morphogenesis	GO_0035736	1	1	1	0	0
+cell proliferation involved in atrial ventricular junction remodeling	GO_0003295	1	1	1	0	0
+cell proliferation in external granule layer	GO_0021924	1	1	1	0	0
+cell proliferation in dorsal spinal cord	GO_0010456	1	1	1	0	0
+cell proliferation in bone marrow	GO_0071838	1	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow	GO_0035604	1	0	1	0	0
+white fat cell proliferation	GO_0070343	0	1	0	0	0
+ventricular zone neuroblast division	GO_0021847	0	1	0	0	0
+ventricular zone cell-producing asymmetric radial glial cell division in forebrain	GO_0021868	0	1	0	0	0
+urothelial cell proliferation	GO_0050674	0	1	0	0	0
+type B pancreatic cell proliferation	GO_0044342	0	1	0	0	0
+trophectodermal cell proliferation	GO_0001834	0	1	0	0	0
+synoviocyte proliferation	GO_0002941	0	1	0	0	0
+symmetric radial glial cell division in forebrain	GO_0021865	0	1	0	0	0
+symmetric neuroblast division	GO_0055058	0	1	0	0	0
+subpallium glioblast cell division	GO_0021850	0	1	0	0	0
+subpallium cell proliferation in forebrain	GO_0022012	0	1	0	0	0
+striated muscle cell proliferation	GO_0014855	0	1	0	0	0
+stem cell proliferation	GO_0072089	0	1	0	0	0
+stellate cell precursor proliferation	GO_0021929	0	1	0	0	0
+spongiotrophoblast cell proliferation	GO_0060720	0	1	0	0	0
+smooth muscle cell proliferation	GO_0048659	0	1	0	0	0
+skeletal muscle satellite cell proliferation	GO_0014841	0	1	0	0	0
+skeletal muscle cell proliferation	GO_0014856	0	1	0	0	0
+septal cell proliferation	GO_0022022	0	1	0	0	0
+rostral hindbrain neuronal precursor cell proliferation	GO_0021931	0	1	0	0	0
+rhombomere cell proliferation	GO_0022034	0	1	0	0	0
+regulation of white fat cell proliferation	GO_0070350	0	1	0	0	0
+regulation of urothelial cell proliferation	GO_0050675	0	1	0	0	0
+regulation of type B pancreatic cell proliferation	GO_0061469	0	1	0	0	0
+regulation of synoviocyte proliferation	GO_1901645	0	1	0	0	0
+regulation of stem cell proliferation	GO_0072091	0	1	0	0	0
+regulation of spongiotrophoblast cell proliferation	GO_0060721	0	1	0	0	0
+regulation of smooth muscle cell proliferation	GO_0048660	0	1	0	0	0
+regulation of skeletal muscle cell proliferation	GO_0014857	0	1	0	0	0
+regulation of secondary heart field cardioblast proliferation	GO_0003266	0	1	0	0	0
+regulation of satellite cell proliferation	GO_0014842	0	1	0	0	0
+regulation of primary heart field cardioblast proliferation	GO_0003265	0	1	0	0	0
+regulation of pancreatic stellate cell proliferation	GO_2000229	0	1	0	0	0
+regulation of osteoclast proliferation	GO_0090289	0	1	0	0	0
+regulation of osteoblast proliferation	GO_0033688	0	1	0	0	0
+regulation of oligodendrocyte progenitor proliferation	GO_0070445	0	1	0	0	0
+regulation of neuroblast proliferation	GO_1902692	0	1	0	0	0
+regulation of neural precursor cell proliferation	GO_2000177	0	1	0	0	0
+regulation of natural killer cell proliferation involved in immune response	GO_0032820	0	1	0	0	0
+regulation of natural killer cell proliferation	GO_0032817	0	1	0	0	0
+regulation of myoblast proliferation	GO_2000291	0	1	0	0	0
+regulation of mononuclear cell proliferation	GO_0032944	0	1	0	0	0
+regulation of metanephric glomerular mesangial cell proliferation	GO_0072301	0	1	0	0	0
+regulation of metanephric cap mesenchymal cell proliferation	GO_0090095	0	1	0	0	0
+regulation of mesonephric glomerular mesangial cell proliferation	GO_2000090	0	1	0	0	0
+regulation of mesenchymal stem cell proliferation involved in nephron morphogenesis	GO_0072042	0	1	0	0	0
+regulation of mesenchymal stem cell proliferation	GO_1902460	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in ureter development	GO_0072199	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in prostate gland development	GO_0060782	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in lung development	GO_2000790	0	1	0	0	0
+regulation of mesenchymal cell proliferation	GO_0010464	0	1	0	0	0
+regulation of mast cell proliferation	GO_0070666	0	1	0	0	0
+regulation of mammary stem cell proliferation	GO_2000101	0	1	0	0	0
+regulation of mammary gland epithelial cell proliferation	GO_0033599	0	1	0	0	0
+regulation of male germ cell proliferation	GO_2000254	0	1	0	0	0
+regulation of lymphocyte proliferation	GO_0050670	0	1	0	0	0
+regulation of leukocyte proliferation	GO_0070663	0	1	0	0	0
+regulation of lens epithelial cell proliferation	GO_2001109	0	1	0	0	0
+regulation of keratinocyte proliferation	GO_0010837	0	1	0	0	0
+regulation of immature T cell proliferation in thymus	GO_0033084	0	1	0	0	0
+regulation of immature T cell proliferation	GO_0033083	0	1	0	0	0
+regulation of hepatocyte proliferation	GO_2000345	0	1	0	0	0
+regulation of hemocyte proliferation	GO_0035206	0	1	0	0	0
+regulation of hematopoietic stem cell proliferation	GO_1902033	0	1	0	0	0
+regulation of hair follicle cell proliferation	GO_0071336	0	1	0	0	0
+regulation of growth plate cartilage chondrocyte proliferation	GO_0003420	0	1	0	0	0
+regulation of glomerular mesangial cell proliferation	GO_0072124	0	1	0	0	0
+regulation of glial cell proliferation	GO_0060251	0	1	0	0	0
+regulation of gamma-delta T cell proliferation	GO_0046646	0	1	0	0	0
+regulation of fibroblast proliferation	GO_0048145	0	1	0	0	0
+regulation of fat cell proliferation	GO_0070344	0	1	0	0	0
+regulation of epithelial cell proliferation involved in prostate gland development	GO_0060768	0	1	0	0	0
+regulation of epithelial cell proliferation involved in mammary gland bud elongation	GO_0060651	0	1	0	0	0
+regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000794	0	1	0	0	0
+regulation of epithelial cell proliferation	GO_0050678	0	1	0	0	0
+regulation of endothelial cell proliferation	GO_0001936	0	1	0	0	0
+regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	0	0	0
+regulation of chorionic trophoblast cell proliferation	GO_1901382	0	1	0	0	0
+regulation of cerebellar granule cell precursor proliferation	GO_0021936	0	1	0	0	0
+regulation of cell proliferation involved in outflow tract morphogenesis	GO_1901963	0	1	0	0	0
+regulation of cell proliferation involved in kidney morphogenesis	GO_0061006	0	1	0	0	0
+regulation of cell proliferation involved in kidney development	GO_1901722	0	1	0	0	0
+regulation of cell proliferation involved in embryonic placenta development	GO_0060723	0	1	0	0	0
+regulation of cardioblast proliferation	GO_0003264	0	1	0	0	0
+regulation of cardiac muscle cell proliferation	GO_0060043	0	1	0	0	0
+regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation	GO_2000079	0	1	0	0	0
+regulation of brown fat cell proliferation	GO_0070347	0	1	0	0	0
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	0	0	0
+regulation of alpha-beta T cell proliferation	GO_0046640	0	1	0	0	0
+regulation of activated T cell proliferation	GO_0046006	0	1	0	0	0
+regulation of T cell proliferation	GO_0042129	0	1	0	0	0
+regulation of T cell homeostatic proliferation	GO_0046013	0	1	0	0	0
+regulation of Schwann cell proliferation	GO_0010624	0	1	0	0	0
+regulation of NK T cell proliferation	GO_0051140	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000564	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000561	0	1	0	0	0
+regulation of B cell proliferation	GO_0030888	0	1	0	0	0
+radial glial cell division in subpallium	GO_0022014	0	1	0	0	0
+radial glial cell division in pallium	GO_0022015	0	1	0	0	0
+radial glial cell division in forebrain	GO_0021864	0	1	0	0	0
+positive regulation of white fat cell proliferation	GO_0070352	0	1	0	0	0
+positive regulation of urothelial cell proliferation	GO_0050677	0	1	0	0	0
+positive regulation of synoviocyte proliferation	GO_1901647	0	1	0	0	0
+positive regulation of stem cell proliferation	GO_2000648	0	1	0	0	0
+positive regulation of smooth muscle cell proliferation	GO_0048661	0	1	0	0	0
+positive regulation of skeletal muscle cell proliferation	GO_0014858	0	1	0	0	0
+positive regulation of secondary heart field cardioblast proliferation	GO_0072513	0	1	0	0	0
+positive regulation of satellite cell proliferation	GO_1902724	0	1	0	0	0
+positive regulation of pancreatic stellate cell proliferation	GO_2000231	0	1	0	0	0
+positive regulation of osteoclast proliferation	GO_0090290	0	1	0	0	0
+positive regulation of osteoblast proliferation	GO_0033690	0	1	0	0	0
+positive regulation of oligodendrocyte progenitor proliferation	GO_0070447	0	1	0	0	0
+positive regulation of neuroblast proliferation	GO_0002052	0	1	0	0	0
+positive regulation of neural precursor cell proliferation	GO_2000179	0	1	0	0	0
+positive regulation of natural killer cell proliferation involved in immune response	GO_0032822	0	1	0	0	0
+positive regulation of natural killer cell proliferation	GO_0032819	0	1	0	0	0
+positive regulation of myoblast proliferation	GO_2000288	0	1	0	0	0
+positive regulation of mononuclear cell proliferation	GO_0032946	0	1	0	0	0
+positive regulation of metanephric cap mesenchymal cell proliferation	GO_0090096	0	1	0	0	0
+positive regulation of mesonephric glomerular mesangial cell proliferation	GO_2000092	0	1	0	0	0
+positive regulation of mesenchymal stem cell proliferation	GO_1902462	0	1	0	0	0
+positive regulation of mesenchymal cell proliferation involved in ureter development	GO_2000729	0	1	0	0	0
+positive regulation of mesenchymal cell proliferation involved in lung development	GO_2000792	0	1	0	0	0
+positive regulation of mesenchymal cell proliferation	GO_0002053	0	1	0	0	0
+positive regulation of mast cell proliferation	GO_0070668	0	1	0	0	0
+positive regulation of mammary stem cell proliferation	GO_2000103	0	1	0	0	0
+positive regulation of mammary gland epithelial cell proliferation	GO_0033601	0	1	0	0	0
+positive regulation of male germ cell proliferation	GO_2000256	0	1	0	0	0
+positive regulation of lymphocyte proliferation	GO_0050671	0	1	0	0	0
+positive regulation of leukocyte proliferation	GO_0070665	0	1	0	0	0
+positive regulation of lens epithelial cell proliferation	GO_2001111	0	1	0	0	0
+positive regulation of keratinocyte proliferation	GO_0010838	0	1	0	0	0
+positive regulation of immature T cell proliferation in thymus	GO_0033092	0	1	0	0	0
+positive regulation of immature T cell proliferation	GO_0033091	0	1	0	0	0
+positive regulation of hepatocyte proliferation	GO_2000347	0	1	0	0	0
+positive regulation of hemocyte proliferation	GO_0035208	0	1	0	0	0
+positive regulation of hematopoietic stem cell proliferation	GO_1902035	0	1	0	0	0
+positive regulation of hair follicle cell proliferation	GO_0071338	0	1	0	0	0
+positive regulation of growth factor dependent skeletal muscle satellite cell proliferation	GO_1902728	0	1	0	0	0
+positive regulation of glomerular metanephric mesangial cell proliferation	GO_0072303	0	1	0	0	0
+positive regulation of glomerular mesangial cell proliferation	GO_0072126	0	1	0	0	0
+positive regulation of glial cell proliferation	GO_0060252	0	1	0	0	0
+positive regulation of gamma-delta T cell proliferation	GO_0046648	0	1	0	0	0
+positive regulation of fibroblast proliferation	GO_0048146	0	1	0	0	0
+positive regulation of fat cell proliferation	GO_0070346	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in wound healing	GO_0060054	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in prostate gland development	GO_0060769	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in lung morphogenesis	GO_0060501	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in lung bud dilation	GO_0060504	0	1	0	0	0
+positive regulation of epithelial cell proliferation	GO_0050679	0	1	0	0	0
+positive regulation of endothelial cell proliferation	GO_0001938	0	1	0	0	0
+positive regulation of chorionic trophoblast cell proliferation	GO_1901384	0	1	0	0	0
+positive regulation of chondrocyte proliferation	GO_1902732	0	1	0	0	0
+positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	0	1	0	0	0
+positive regulation of cell proliferation involved in outflow tract morphogenesis	GO_1901964	0	1	0	0	0
+positive regulation of cell proliferation involved in mesonephros development	GO_2000608	0	1	0	0	0
+positive regulation of cell proliferation involved in kidney development	GO_1901724	0	1	0	0	0
+positive regulation of cell proliferation involved in heart valve morphogenesis	GO_0003251	0	1	0	0	0
+positive regulation of cell proliferation involved in heart morphogenesis	GO_2000138	0	1	0	0	0
+positive regulation of cell proliferation involved in compound eye morphogenesis	GO_2000497	0	1	0	0	0
+positive regulation of cell proliferation in dorsal spinal cord	GO_1902833	0	1	0	0	0
+positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038091	0	1	0	0	0
+positive regulation of cell proliferation	GO_0008284	0	1	0	0	0
+positive regulation of cardiac muscle cell proliferation	GO_0060045	0	1	0	0	0
+positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation	GO_2000081	0	1	0	0	0
+positive regulation of brown fat cell proliferation	GO_0070349	0	1	0	0	0
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	0	0	0
+positive regulation of alpha-beta T cell proliferation	GO_0046641	0	1	0	0	0
+positive regulation of activated T cell proliferation	GO_0042104	0	1	0	0	0
+positive regulation of T cell proliferation	GO_0042102	0	1	0	0	0
+positive regulation of T cell homeostatic proliferation	GO_0042103	0	1	0	0	0
+positive regulation of Schwann cell proliferation	GO_0010625	0	1	0	0	0
+positive regulation of NK T cell proliferation	GO_0051142	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000566	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000563	0	1	0	0	0
+positive regulation of B cell proliferation	GO_0030890	0	1	0	0	0
+pancreatic stellate cell proliferation	GO_0072343	0	1	0	0	0
+pallium glioblast division	GO_0022016	0	1	0	0	0
+pallium cell proliferation in forebrain	GO_0022013	0	1	0	0	0
+osteoclast proliferation	GO_0002158	0	1	0	0	0
+osteoblast proliferation	GO_0033687	0	1	0	0	0
+oligodendrocyte progenitor proliferation	GO_0070444	0	1	0	0	0
+neuron-producing asymmetric radial glial cell division in forebrain	GO_0021867	0	1	0	0	0
+neuroblast proliferation	GO_0007405	0	1	0	0	0
+neuroblast division in subventricular zone	GO_0021849	0	1	0	0	0
+neuroblast division in subpallium	GO_0021848	0	1	0	0	0
+neuroblast division in pallium	GO_0022017	0	1	0	0	0
+neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	0	0	0
+neuroblast division	GO_0055057	0	1	0	0	0
+neural precursor cell proliferation	GO_0061351	0	1	0	0	0
+negative regulation of white fat cell proliferation	GO_0070351	0	1	0	0	0
+negative regulation of urothelial cell proliferation	GO_0050676	0	1	0	0	0
+negative regulation of synoviocyte proliferation	GO_1901646	0	1	0	0	0
+negative regulation of stem cell proliferation	GO_2000647	0	1	0	0	0
+negative regulation of smooth muscle cell proliferation	GO_0048662	0	1	0	0	0
+negative regulation of skeletal muscle satellite cell proliferation	GO_1902723	0	1	0	0	0
+negative regulation of skeletal muscle cell proliferation	GO_0014859	0	1	0	0	0
+negative regulation of pancreatic stellate cell proliferation	GO_2000230	0	1	0	0	0
+negative regulation of osteoclast proliferation	GO_0090291	0	1	0	0	0
+negative regulation of osteoblast proliferation	GO_0033689	0	1	0	0	0
+negative regulation of oligodendrocyte progenitor proliferation	GO_0070446	0	1	0	0	0
+negative regulation of neuroblast proliferation	GO_0007406	0	1	0	0	0
+negative regulation of neural precursor cell proliferation	GO_2000178	0	1	0	0	0
+negative regulation of natural killer cell proliferation involved in immune response	GO_0032821	0	1	0	0	0
+negative regulation of natural killer cell proliferation	GO_0032818	0	1	0	0	0
+negative regulation of myoblast proliferation	GO_2000818	0	1	0	0	0
+negative regulation of mononuclear cell proliferation	GO_0032945	0	1	0	0	0
+negative regulation of metanephric glomerular mesangial cell proliferation	GO_0072302	0	1	0	0	0
+negative regulation of mesonephric glomerular mesangial cell proliferation	GO_2000091	0	1	0	0	0
+negative regulation of mesenchymal stem cell proliferation	GO_1902461	0	1	0	0	0
+negative regulation of mesenchymal cell proliferation involved in ureter development	GO_0072200	0	1	0	0	0
+negative regulation of mesenchymal cell proliferation involved in lung development	GO_2000791	0	1	0	0	0
+negative regulation of mesenchymal cell proliferation	GO_0072201	0	1	0	0	0
+negative regulation of mast cell proliferation	GO_0070667	0	1	0	0	0
+negative regulation of mammary stem cell proliferation	GO_2000102	0	1	0	0	0
+negative regulation of mammary gland epithelial cell proliferation	GO_0033600	0	1	0	0	0
+negative regulation of male germ cell proliferation	GO_2000255	0	1	0	0	0
+negative regulation of lymphocyte proliferation	GO_0050672	0	1	0	0	0
+negative regulation of leukocyte proliferation	GO_0070664	0	1	0	0	0
+negative regulation of lens epithelial cell proliferation	GO_2001110	0	1	0	0	0
+negative regulation of keratinocyte proliferation	GO_0010839	0	1	0	0	0
+negative regulation of immature T cell proliferation in thymus	GO_0033088	0	1	0	0	0
+negative regulation of immature T cell proliferation	GO_0033087	0	1	0	0	0
+negative regulation of hepatocyte proliferation	GO_2000346	0	1	0	0	0
+negative regulation of hemocyte proliferation	GO_0035207	0	1	0	0	0
+negative regulation of hematopoietic stem cell proliferation	GO_1902034	0	1	0	0	0
+negative regulation of hair follicle cell proliferation	GO_0071337	0	1	0	0	0
+negative regulation of growth factor dependent skeletal muscle satellite cell proliferation	GO_1902727	0	1	0	0	0
+negative regulation of glomerular mesangial cell proliferation	GO_0072125	0	1	0	0	0
+negative regulation of glial cell proliferation	GO_0060253	0	1	0	0	0
+negative regulation of gamma-delta T cell proliferation	GO_0046647	0	1	0	0	0
+negative regulation of fibroblast proliferation	GO_0048147	0	1	0	0	0
+negative regulation of fat cell proliferation	GO_0070345	0	1	0	0	0
+negative regulation of establishment or maintenance of neuroblast polarity	GO_2000248	0	1	0	0	0
+negative regulation of epithelial cell proliferation involved in prostate gland development	GO_0060770	0	1	0	0	0
+negative regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000795	0	1	0	0	0
+negative regulation of epithelial cell proliferation	GO_0050680	0	1	0	0	0
+negative regulation of endothelial cell proliferation	GO_0001937	0	1	0	0	0
+negative regulation of chorionic trophoblast cell proliferation	GO_1901383	0	1	0	0	0
+negative regulation of chondrocyte proliferation	GO_1902731	0	1	0	0	0
+negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	0	1	0	0	0
+negative regulation of cell proliferation involved in mesonephros development	GO_2000607	0	1	0	0	0
+negative regulation of cell proliferation involved in kidney development	GO_1901723	0	1	0	0	0
+negative regulation of cell proliferation involved in heart valve morphogenesis	GO_0003252	0	1	0	0	0
+negative regulation of cell proliferation involved in heart morphogenesis	GO_2000137	0	1	0	0	0
+negative regulation of cell proliferation involved in contact inhibition	GO_0060244	0	1	0	0	0
+negative regulation of cell proliferation involved in compound eye morphogenesis	GO_2000496	0	1	0	0	0
+negative regulation of cell proliferation in dorsal spinal cord	GO_1902832	0	1	0	0	0
+negative regulation of cell proliferation	GO_0008285	0	1	0	0	0
+negative regulation of cardiac muscle cell proliferation	GO_0060044	0	1	0	0	0
+negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation	GO_2000080	0	1	0	0	0
+negative regulation of brown fat cell proliferation	GO_0070348	0	1	0	0	0
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	0	0	0
+negative regulation of alpha-beta T cell proliferation	GO_0046642	0	1	0	0	0
+negative regulation of activated T cell proliferation	GO_0046007	0	1	0	0	0
+negative regulation of T cell proliferation	GO_0042130	0	1	0	0	0
+negative regulation of T cell homeostatic proliferation	GO_0046014	0	1	0	0	0
+negative regulation of Schwann cell proliferation	GO_0010626	0	1	0	0	0
+negative regulation of NK T cell proliferation	GO_0051141	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000565	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000562	0	1	0	0	0
+negative regulation of B cell proliferation	GO_0030889	0	1	0	0	0
+natural killer cell proliferation involved in immune response	GO_0002324	0	1	0	0	0
+natural killer cell proliferation	GO_0001787	0	1	0	0	0
+myoblast proliferation involved in skeletal muscle regeneration	GO_0014844	0	1	0	0	0
+myoblast proliferation	GO_0051450	0	1	0	0	0
+muscle cell proliferation	GO_0033002	0	1	0	0	0
+mononuclear cell proliferation	GO_0032943	0	1	0	0	0
+monocyte proliferation	GO_0061516	0	1	0	0	0
+microglial cell proliferation	GO_0061518	0	1	0	0	0
+metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	0	0	0
+metanephric intraglomerular mesangial cell proliferation	GO_0072263	0	1	0	0	0
+metanephric glomerular mesangial cell proliferation involved in metanephros development	GO_0072262	0	1	0	0	0
+metanephric extraglomerular mesangial cell proliferation involved in metanephros development	GO_0072261	0	1	0	0	0
+metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	0	0	0
+mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	0	1	0	0	0
+mesonephric intraglomerular mesangial cell proliferation	GO_0061270	0	1	0	0	0
+mesonephric glomerular mesangial cell proliferation involved in mesonephros development	GO_0061269	0	1	0	0	0
+mesonephric extraglomerular mesangial cell proliferation involved in mesonephros development	GO_0061225	0	1	0	0	0
+mesenchymal stem cell proliferation involved in nephron morphogenesis	GO_0072090	0	1	0	0	0
+mesenchymal stem cell proliferation	GO_0097168	0	1	0	0	0
+mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	0	1	0	0	0
+mesenchymal cell proliferation involved in ureter development	GO_0072198	0	1	0	0	0
+mesenchymal cell proliferation involved in prostate gland development	GO_0060781	0	1	0	0	0
+mesenchymal cell proliferation involved in lung development	GO_0060916	0	1	0	0	0
+mesenchymal cell proliferation	GO_0010463	0	1	0	0	0
+memory T cell proliferation	GO_0061485	0	1	0	0	0
+melanocyte proliferation	GO_0097325	0	1	0	0	0
+medial ganglionic eminence cell proliferation	GO_0022020	0	1	0	0	0
+mast cell proliferation	GO_0070662	0	1	0	0	0
+mammary stem cell proliferation	GO_0002174	0	1	0	0	0
+mammary gland epithelial cell proliferation	GO_0033598	0	1	0	0	0
+male germ-line cyst formation	GO_0048136	0	1	0	0	0
+male germ cell proliferation	GO_0002176	0	1	0	0	0
+maintenance of neuroblast polarity	GO_0045201	0	1	0	0	0
+macrophage proliferation	GO_0061517	0	1	0	0	0
+lymphocyte proliferation	GO_0046651	0	1	0	0	0
+leukocyte proliferation	GO_0070661	0	1	0	0	0
+lens epithelial cell proliferation	GO_0097166	0	1	0	0	0
+lateral ganglionic eminence cell proliferation	GO_0022018	0	1	0	0	0
+kidney mesenchymal cell proliferation	GO_0072135	0	1	0	0	0
+keratinocyte proliferation	GO_0043616	0	1	0	0	0
+intraglomerular mesangial cell proliferation	GO_0072123	0	1	0	0	0
+interkinetic nuclear migration	GO_0022027	0	1	0	0	0
+inner cell mass cell proliferation	GO_0001833	0	1	0	0	0
+immature T cell proliferation in thymus	GO_0033080	0	1	0	0	0
+immature T cell proliferation	GO_0033079	0	1	0	0	0
+hepatocyte proliferation	GO_0072574	0	1	0	0	0
+hemocyte proliferation	GO_0035172	0	1	0	0	0
+hematopoietic stem cell proliferation	GO_0071425	0	1	0	0	0
+hair follicle cell proliferation	GO_0071335	0	1	0	0	0
+growth plate cartilage chondrocyte proliferation	GO_0003419	0	1	0	0	0
+growth plate cartilage chondrocyte division	GO_0003423	0	1	0	0	0
+growth factor dependent regulation of skeletal muscle satellite cell proliferation	GO_0014843	0	1	0	0	0
+glomerular mesangial cell proliferation	GO_0072110	0	1	0	0	0
+glial cell proliferation	GO_0014009	0	1	0	0	0
+germarium-derived female germ-line cyst formation	GO_0030727	0	1	0	0	0
+germarium-derived cystoblast division	GO_0048142	0	1	0	0	0
+germ-line cyst formation	GO_0048134	0	1	0	0	0
+germ cell proliferation	GO_0036093	0	1	0	0	0
+gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0	0
+gamma-delta T cell proliferation	GO_0046630	0	1	0	0	0
+forebrain ventricular zone progenitor cell division	GO_0021869	0	1	0	0	0
+forebrain neuroblast division	GO_0021873	0	1	0	0	0
+fibroblast proliferation involved in heart morphogenesis	GO_0061385	0	1	0	0	0
+fibroblast proliferation	GO_0048144	0	1	0	0	0
+fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	0	0	0
+female germ-line cyst formation	GO_0048135	0	1	0	0	0
+fat cell proliferation	GO_0070341	0	1	0	0	0
+extraglomerular mesangial cell proliferation	GO_0072122	0	1	0	0	0
+establishment or maintenance of neuroblast polarity	GO_0045196	0	1	0	0	0
+establishment of neuroblast polarity	GO_0045200	0	1	0	0	0
+establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division	GO_0003425	0	1	0	0	0
+establishment of cell polarity involved in growth plate cartilage chondrocyte division	GO_0003424	0	1	0	0	0
+epithelial cell proliferation involved in salivary gland morphogenesis	GO_0060664	0	1	0	0	0
+epithelial cell proliferation involved in renal tubule morphogenesis	GO_2001013	0	1	0	0	0
+epithelial cell proliferation involved in prostatic bud elongation	GO_0060517	0	1	0	0	0
+epithelial cell proliferation involved in prostate gland development	GO_0060767	0	1	0	0	0
+epithelial cell proliferation involved in mammary gland duct elongation	GO_0060750	0	1	0	0	0
+epithelial cell proliferation involved in mammary gland bud elongation	GO_0060650	0	1	0	0	0
+epithelial cell proliferation involved in lung morphogenesis	GO_0060502	0	1	0	0	0
+epithelial cell proliferation involved in lung bud dilation	GO_0060505	0	1	0	0	0
+epithelial cell proliferation involved in liver morphogenesis	GO_0072575	0	1	0	0	0
+epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	0	1	0	0	0
+epithelial cell proliferation	GO_0050673	0	1	0	0	0
+endothelial cell proliferation	GO_0001935	0	1	0	0	0
+dorsal lateral ganglionic eminence cell proliferation	GO_0022019	0	1	0	0	0
+dendritic cell proliferation	GO_0044565	0	1	0	0	0
+deep nuclear neuron precursor proliferation	GO_0021927	0	1	0	0	0
+cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003426	0	1	0	0	0
+condensed mesenchymal cell proliferation	GO_0072137	0	1	0	0	0
+common myeloid progenitor cell proliferation	GO_0035726	0	1	0	0	0
+chorionic trophoblast cell proliferation	GO_0097360	0	1	0	0	0
+chondrocyte proliferation	GO_0035988	0	1	0	0	0
+cerebellar granule cell precursor proliferation	GO_0021930	0	1	0	0	0
+cerebellar Purkinje cell precursor proliferation	GO_0021925	0	1	0	0	0
+cell proliferation involved in kidney development	GO_0072111	0	1	0	0	0
+cell proliferation involved in embryonic placenta development	GO_0060722	0	1	0	0	0
+cell proliferation in midbrain	GO_0033278	0	1	0	0	0
+cell proliferation in hindbrain ventricular zone	GO_0021923	0	1	0	0	0
+cell proliferation in hindbrain	GO_0021534	0	1	0	0	0
+cell proliferation in forebrain	GO_0021846	0	1	0	0	0
+cell proliferation	GO_0008283	0	1	0	0	0
+caudal ganglionic eminence cell proliferation	GO_0022021	0	1	0	0	0
+cardioblast proliferation	GO_0003263	0	1	0	0	0
+cardiac muscle cell proliferation	GO_0060038	0	1	0	0	0
+canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation	GO_0044343	0	1	0	0	0
+canonical Wnt signaling pathway involved in regulation of cell proliferation	GO_0044340	0	1	0	0	0
+canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation	GO_0003267	0	1	0	0	0
+canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation	GO_0061324	0	1	0	0	0
+canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation	GO_0061315	0	1	0	0	0
+brown fat cell proliferation	GO_0070342	0	1	0	0	0
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	0	0	0
+basket cell precursor proliferation	GO_0021928	0	1	0	0	0
+asymmetric radial glial cell division in forebrain	GO_0021866	0	1	0	0	0
+asymmetric neuroblast division resulting in ganglion mother cell formation	GO_0055060	0	1	0	0	0
+asymmetric neuroblast division	GO_0055059	0	1	0	0	0
+alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	0	0	0
+alpha-beta T cell proliferation	GO_0046633	0	1	0	0	0
+activated T cell proliferation	GO_0050798	0	1	0	0	0
+activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0	0
+activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0	0
+Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	0	0	0
+T cell proliferation involved in immune response	GO_0002309	0	1	0	0	0
+T cell proliferation	GO_0042098	0	1	0	0	0
+T cell homeostatic proliferation	GO_0001777	0	1	0	0	0
+Sertoli cell proliferation	GO_0060011	0	1	0	0	0
+Schwann cell proliferation involved in axon regeneration	GO_0014011	0	1	0	0	0
+Schwann cell proliferation	GO_0014010	0	1	0	0	0
+Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	0	0	0
+NK T cell proliferation involved in immune response	GO_0002289	0	1	0	0	0
+NK T cell proliferation	GO_0001866	0	1	0	0	0
+Golgi cell precursor proliferation	GO_0021926	0	1	0	0	0
+CD8-positive, alpha-beta T cell proliferation	GO_0035740	0	1	0	0	0
+CD4-positive, alpha-beta T cell proliferation	GO_0035739	0	1	0	0	0
+B-1 B cell proliferation	GO_0002359	0	1	0	0	0
+B cell proliferation involved in immune response	GO_0002322	0	1	0	0	0
+B cell proliferation	GO_0042100	0	1	0	0	0
+B cell homeostatic proliferation	GO_0002358	0	1	0	0	0

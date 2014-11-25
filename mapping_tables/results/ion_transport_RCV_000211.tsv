@@ -1,0 +1,1596 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+transition metal ion transport	GO_0000041	1	1	1	0	0
+low-affinity zinc ion transmembrane transporter activity	GO_0000007	1	1	1	0	0
+high-affinity zinc uptake transmembrane transporter activity	GO_0000006	1	1	1	0	0
+zinc-exporting ATPase activity	GO_0016463	0	1	0	0	0
+zinc transporting ATPase activity	GO_0015633	0	1	0	0	0
+zinc ion transport	GO_0006829	0	1	0	0	0
+zinc ion transmembrane transporter activity	GO_0005385	0	1	0	0	0
+zinc ion transmembrane transport	GO_0071577	0	1	0	0	0
+zinc ion transmembrane import	GO_0071578	0	1	0	0	0
+zinc efflux transmembrane transporter activity	GO_0022883	0	1	0	0	0
+zinc efflux active transmembrane transporter activity	GO_0015341	0	1	0	0	0
+xylem-to-phloem iron transport	GO_1990388	0	1	0	0	0
+xanthosine:hydrogen ion symporter activity	GO_0015537	0	1	0	0	0
+volume-sensitive chloride channel activity	GO_0072320	0	1	0	0	0
+volume-sensitive anion channel activity	GO_0005225	0	1	0	0	0
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential	GO_0086006	0	1	0	0	0
+voltage-gated sodium channel activity involved in bundle of His cell action potential	GO_0086061	0	1	0	0	0
+voltage-gated sodium channel activity involved in SA node cell action potential	GO_0086063	0	1	0	0	0
+voltage-gated sodium channel activity involved in Purkinje myocyte action potential	GO_0086062	0	1	0	0	0
+voltage-gated sodium channel activity involved in AV node cell action potential	GO_0086060	0	1	0	0	0
+voltage-gated sodium channel activity	GO_0005248	0	1	0	0	0
+voltage-gated proton channel activity	GO_0030171	0	1	0	0	0
+voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1902282	0	1	0	0	0
+voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization	GO_0086008	0	1	0	0	0
+voltage-gated potassium channel activity involved in bundle of His cell action potential repolarization	GO_0086087	0	1	0	0	0
+voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization	GO_0086089	0	1	0	0	0
+voltage-gated potassium channel activity involved in SA node cell action potential repolarization	GO_0086090	0	1	0	0	0
+voltage-gated potassium channel activity involved in SA node cell action potential depolarization	GO_0086041	0	1	0	0	0
+voltage-gated potassium channel activity involved in Purkinje myocyte action potential repolarization	GO_0086088	0	1	0	0	0
+voltage-gated potassium channel activity involved in AV node cell action potential repolarization	GO_0086086	0	1	0	0	0
+voltage-gated potassium channel activity	GO_0005249	0	1	0	0	0
+voltage-gated ion channel activity	GO_0005244	0	1	0	0	0
+voltage-gated chloride channel activity	GO_0005247	0	1	0	0	0
+voltage-gated cation channel activity	GO_0022843	0	1	0	0	0
+voltage-gated calcium channel activity involved in cardiac muscle cell action potential	GO_0086007	0	1	0	0	0
+voltage-gated calcium channel activity involved in bundle of His cell action potential	GO_0086057	0	1	0	0	0
+voltage-gated calcium channel activity involved in Purkinje myocyte cell action potential	GO_0086058	0	1	0	0	0
+voltage-gated calcium channel activity involved in AV node cell action potential	GO_0086056	0	1	0	0	0
+voltage-gated calcium channel activity involved SA node cell action potential	GO_0086059	0	1	0	0	0
+voltage-gated calcium channel activity	GO_0005245	0	1	0	0	0
+voltage-gated anion channel activity	GO_0008308	0	1	0	0	0
+vesicular hydrogen:amino acid antiporter activity	GO_0005276	0	1	0	0	0
+vanadium ion transport	GO_0015676	0	1	0	0	0
+vanadium ion transmembrane transporter activity	GO_0015100	0	1	0	0	0
+valine transport	GO_0015829	0	1	0	0	0
+valine import	GO_0090468	0	1	0	0	0
+vacuolar phosphate transport	GO_0007037	0	1	0	0	0
+vacuolar amino acid transmembrane transport	GO_0034487	0	1	0	0	0
+uronic acid transport	GO_0015735	0	1	0	0	0
+uronic acid transmembrane transporter activity	GO_0015133	0	1	0	0	0
+uridine:hydrogen ion symporter activity	GO_0015394	0	1	0	0	0
+urea:sodium symporter activity	GO_0015401	0	1	0	0	0
+urate transport	GO_0015747	0	1	0	0	0
+uracil:cation symporter activity	GO_0015505	0	1	0	0	0
+ubiquinol-cytochrome-c reductase activity	GO_0008121	0	1	0	0	0
+tyrosine:tyramine antiporter activity	GO_0070908	0	1	0	0	0
+tyrosine transport	GO_0015828	0	1	0	0	0
+tyramine secretion, neurotransmission	GO_0061546	0	1	0	0	0
+tyramine secretion	GO_0061545	0	1	0	0	0
+tungstate transmembrane-transporting ATPase activity	GO_1901238	0	1	0	0	0
+tungstate transmembrane transporter activity	GO_1901237	0	1	0	0	0
+tungstate ion transport	GO_0070614	0	1	0	0	0
+tryptophan transport	GO_0015827	0	1	0	0	0
+trivalent inorganic cation transport	GO_0072512	0	1	0	0	0
+trivalent inorganic cation transmembrane transporter activity	GO_0072510	0	1	0	0	0
+triose-phosphate:phosphate antiporter activity	GO_0009670	0	1	0	0	0
+tricarboxylic acid transport	GO_0006842	0	1	0	0	0
+tricarboxylic acid transmembrane transporter activity	GO_0015142	0	1	0	0	0
+tricarboxylic acid transmembrane transport	GO_0035674	0	1	0	0	0
+tricarboxylate secondary active transmembrane transporter activity	GO_0005371	0	1	0	0	0
+trehalose:proton symporter activity	GO_0044693	0	1	0	0	0
+transmitter-gated ion channel activity	GO_0022824	0	1	0	0	0
+transition metal ion transmembrane transporter activity	GO_0046915	0	1	0	0	0
+transferrin transport	GO_0033572	0	1	0	0	0
+transferrin transmembrane transporter activity	GO_0033570	0	1	0	0	0
+transepithelial chloride transport	GO_0030321	0	1	0	0	0
+transepithelial ammonium transport	GO_0070634	0	1	0	0	0
+transepithelial L-ascorbic acid transport	GO_0070904	0	1	0	0	0
+thyroid hormone transport	GO_0070327	0	1	0	0	0
+thyroid hormone transmembrane transporter activity	GO_0015349	0	1	0	0	0
+thromboxane transport	GO_0071717	0	1	0	0	0
+threonine transport	GO_0015826	0	1	0	0	0
+threonine efflux transmembrane transporter activity	GO_0015565	0	1	0	0	0
+thiosulfate transport	GO_0015709	0	1	0	0	0
+thiosulfate transmembrane-transporting ATPase activity	GO_0032146	0	1	0	0	0
+thiosulfate transmembrane transporter activity	GO_0015117	0	1	0	0	0
+thiamine:proton symporter activity	GO_0034215	0	1	0	0	0
+thiamine pyrophosphate-transporting ATPase activity	GO_0015619	0	1	0	0	0
+thiamine pyrophosphate transporter activity	GO_0090422	0	1	0	0	0
+thiamine pyrophosphate transport	GO_0030974	0	1	0	0	0
+tetracycline:proton antiporter activity	GO_0015520	0	1	0	0	0
+tetracycline transporter activity	GO_0008493	0	1	0	0	0
+tetracycline transport	GO_0015904	0	1	0	0	0
+temperature-gated ion channel activity	GO_0097603	0	1	0	0	0
+temperature-gated cation channel activity	GO_0097604	0	1	0	0	0
+tellurite uptake transmembrane transporter activity	GO_0015654	0	1	0	0	0
+tellurite transport	GO_0015710	0	1	0	0	0
+tellurite transmembrane transporter activity	GO_0015118	0	1	0	0	0
+taurine:sodium symporter activity	GO_0005369	0	1	0	0	0
+tartrate:succinate antiporter activity	GO_0015516	0	1	0	0	0
+tartrate transport	GO_0015745	0	1	0	0	0
+sulfur-containing amino acid secondary active transmembrane transporter activity	GO_1901680	0	1	0	0	0
+sulfur amino acid transport	GO_0000101	0	1	0	0	0
+sulfur amino acid transmembrane transporter activity	GO_0000099	0	1	0	0	0
+sulfite transport	GO_0000316	0	1	0	0	0
+sulfite transmembrane transporter activity	GO_0000319	0	1	0	0	0
+sulfate:proton symporter activity	GO_0008512	0	1	0	0	0
+sulfate:bicarbonate antiporter activity	GO_0015383	0	1	0	0	0
+sulfate transport	GO_0008272	0	1	0	0	0
+sulfate transmembrane-transporting ATPase activity	GO_0015419	0	1	0	0	0
+sulfate transmembrane transporter activity	GO_0015116	0	1	0	0	0
+sulfate transmembrane transport	GO_1902358	0	1	0	0	0
+sulfate import into cell	GO_1902434	0	1	0	0	0
+sugar:proton symporter activity	GO_0005351	0	1	0	0	0
+sugar efflux transmembrane transporter activity	GO_0015542	0	1	0	0	0
+sucrose:proton symporter activity	GO_0008506	0	1	0	0	0
+sucrose:monovalent cation symporter activity	GO_0009669	0	1	0	0	0
+succinate:proton symporter activity	GO_0097434	0	1	0	0	0
+succinate:fumarate antiporter activity	GO_0005469	0	1	0	0	0
+succinate transport	GO_0015744	0	1	0	0	0
+succinate transmembrane transporter activity	GO_0015141	0	1	0	0	0
+succinate transmembrane transport	GO_0071422	0	1	0	0	0
+succinate import into cell	GO_0097404	0	1	0	0	0
+succinate import across plasma membrane	GO_0098720	0	1	0	0	0
+stretch-activated, cation-selective, calcium channel activity involved in regulation of cardiac muscle cell action potential	GO_0097365	0	1	0	0	0
+stretch-activated, cation-selective, calcium channel activity involved in regulation of action potential	GO_0097364	0	1	0	0	0
+stretch-activated, cation-selective, calcium channel activity	GO_0015275	0	1	0	0	0
+store-operated calcium entry	GO_0002115	0	1	0	0	0
+store-operated calcium channel activity	GO_0015279	0	1	0	0	0
+sphingosine transmembrane transporter activity	GO_0010175	0	1	0	0	0
+spermine transport	GO_0000296	0	1	0	0	0
+spermine transmembrane transporter activity	GO_0000297	0	1	0	0	0
+spermidine-importing ATPase activity	GO_0015595	0	1	0	0	0
+spermidine transport	GO_0015848	0	1	0	0	0
+spermidine transmembrane transporter activity	GO_0015606	0	1	0	0	0
+solute:sodium symporter activity	GO_0015370	0	1	0	0	0
+solute:proton symporter activity	GO_0015295	0	1	0	0	0
+solute:proton antiporter activity	GO_0015299	0	1	0	0	0
+solute:cation symporter activity	GO_0015294	0	1	0	0	0
+solute:cation antiporter activity	GO_0015298	0	1	0	0	0
+sodium:sulfate symporter activity	GO_0015382	0	1	0	0	0
+sodium:proton antiporter activity involved in regulation of cardiac muscle cell membrane potential	GO_0086040	0	1	0	0	0
+sodium:proton antiporter activity	GO_0015385	0	1	0	0	0
+sodium:potassium:chloride symporter activity	GO_0008511	0	1	0	0	0
+sodium:potassium-exchanging ATPase activity involved in regulation of cardiac muscle cell membrane potential	GO_0086037	0	1	0	0	0
+sodium:potassium-exchanging ATPase activity	GO_0005391	0	1	0	0	0
+sodium:phosphate symporter activity	GO_0005436	0	1	0	0	0
+sodium:malonate symporter activity	GO_0044668	0	1	0	0	0
+sodium:iodide symporter activity	GO_0008507	0	1	0	0	0
+sodium:inorganic phosphate symporter activity	GO_0015319	0	1	0	0	0
+sodium:galactoside symporter activity	GO_0044669	0	1	0	0	0
+sodium:dicarboxylate symporter activity	GO_0017153	0	1	0	0	0
+sodium:chloride symporter activity	GO_0015378	0	1	0	0	0
+sodium:bicarbonate symporter activity	GO_0008510	0	1	0	0	0
+sodium:amino acid symporter activity	GO_0005283	0	1	0	0	0
+sodium:alanine symporter activity	GO_0044670	0	1	0	0	0
+sodium-transporting ATPase activity, rotational mechanism	GO_0046962	0	1	0	0	0
+sodium-transporting ATP synthase activity, rotational mechanism	GO_0046932	0	1	0	0	0
+sodium-independent thromboxane transport	GO_0071721	0	1	0	0	0
+sodium-independent prostaglandin transport	GO_0071720	0	1	0	0	0
+sodium-independent organic anion transport	GO_0043252	0	1	0	0	0
+sodium-independent organic anion transmembrane transporter activity	GO_0015347	0	1	0	0	0
+sodium-independent leukotriene transport	GO_0071719	0	1	0	0	0
+sodium-independent icosanoid transport	GO_0071718	0	1	0	0	0
+sodium-exporting ATPase activity, phosphorylative mechanism	GO_0008554	0	1	0	0	0
+sodium-dependent phosphate transport	GO_0044341	0	1	0	0	0
+sodium-dependent phosphate transmembrane transporter activity	GO_0015321	0	1	0	0	0
+sodium-dependent organic cation transport	GO_0070715	0	1	0	0	0
+sodium-dependent organic anion transport	GO_0043251	0	1	0	0	0
+sodium-dependent organic anion transmembrane transporter activity	GO_0043250	0	1	0	0	0
+sodium-dependent multivitamin transmembrane transporter activity	GO_0008523	0	1	0	0	0
+sodium-dependent L-ascorbate transmembrane transporter activity	GO_0070890	0	1	0	0	0
+sodium ion uniporter activity	GO_0022818	0	1	0	0	0
+sodium ion transport	GO_0006814	0	1	0	0	0
+sodium ion transmembrane transporter activity	GO_0015081	0	1	0	0	0
+sodium ion transmembrane transport	GO_0035725	0	1	0	0	0
+sodium ion import into cell	GO_1990118	0	1	0	0	0
+sodium ion import across plasma membrane	GO_0098719	0	1	0	0	0
+sodium ion import	GO_0097369	0	1	0	0	0
+sodium ion export from cell	GO_0036376	0	1	0	0	0
+sodium ion export	GO_0071436	0	1	0	0	0
+sodium channel regulator activity	GO_0017080	0	1	0	0	0
+sodium channel inhibitor activity	GO_0019871	0	1	0	0	0
+sodium channel activity	GO_0005272	0	1	0	0	0
+small conductance calcium-activated potassium channel activity	GO_0016286	0	1	0	0	0
+silver-exporting ATPase activity	GO_0015445	0	1	0	0	0
+silver ion transport	GO_0015673	0	1	0	0	0
+silver ion transmembrane transporter activity	GO_0015080	0	1	0	0	0
+silver ion transmembrane transport	GO_1902601	0	1	0	0	0
+silicon efflux transmembrane transporter activity	GO_0032523	0	1	0	0	0
+silicic acid import	GO_1902067	0	1	0	0	0
+silicate transport	GO_0015708	0	1	0	0	0
+silicate transmembrane transporter activity	GO_0015115	0	1	0	0	0
+siderophore uptake transmembrane transporter activity	GO_0015344	0	1	0	0	0
+siderophore transmembrane transporter activity	GO_0015343	0	1	0	0	0
+sialic acid:proton symporter activity	GO_0015538	0	1	0	0	0
+sialic acid transport	GO_0015739	0	1	0	0	0
+sialic acid transmembrane transporter activity	GO_0015136	0	1	0	0	0
+sialate:cation symporter activity	GO_0015306	0	1	0	0	0
+short-chain fatty acid uptake transporter activity	GO_0015636	0	1	0	0	0
+short-chain fatty acid transporter activity	GO_0015635	0	1	0	0	0
+short-chain fatty acid transport	GO_0015912	0	1	0	0	0
+short-chain fatty acid import	GO_0015913	0	1	0	0	0
+shikimate:proton symporter activity	GO_0015533	0	1	0	0	0
+shikimate transport	GO_0015733	0	1	0	0	0
+shikimate transmembrane transporter activity	GO_0015530	0	1	0	0	0
+serotonin:sodium symporter activity	GO_0005335	0	1	0	0	0
+serotonin-gated cation channel activity	GO_0022850	0	1	0	0	0
+serotonin-activated cation-selective channel activity	GO_0005232	0	1	0	0	0
+serotonin uptake	GO_0051610	0	1	0	0	0
+serotonin transport	GO_0006837	0	1	0	0	0
+serotonin transmembrane transporter activity	GO_0015222	0	1	0	0	0
+serotonin secretion, neurotransmission	GO_0060096	0	1	0	0	0
+serotonin secretion involved in inflammatory response	GO_0002442	0	1	0	0	0
+serotonin secretion by platelet	GO_0002554	0	1	0	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
+serotonin secretion by basophil	GO_0002556	0	1	0	0	0
+serotonin secretion	GO_0001820	0	1	0	0	0
+serine transport	GO_0032329	0	1	0	0	0
+serine transmembrane transporter activity	GO_0022889	0	1	0	0	0
+serine import into cell	GO_0061491	0	1	0	0	0
+serine import across plasma membrane	GO_0098718	0	1	0	0	0
+serine import	GO_0090478	0	1	0	0	0
+selenite:proton symporter activity	GO_0097079	0	1	0	0	0
+selenate transport	GO_0080160	0	1	0	0	0
+secondary active sulfate transmembrane transporter activity	GO_0008271	0	1	0	0	0
+secondary active organic cation transmembrane transporter activity	GO_0008513	0	1	0	0	0
+secondary active monocarboxylate transmembrane transporter activity	GO_0015355	0	1	0	0	0
+secondary active cyanate uptake transmembrane transporter activity	GO_0015541	0	1	0	0	0
+sarcoplasmic reticulum calcium ion transport	GO_0070296	0	1	0	0	0
+ryanodine-sensitive calcium-release channel activity	GO_0005219	0	1	0	0	0
+rubidium ion transport	GO_0035826	0	1	0	0	0
+rubidium ion transmembrane transporter activity	GO_0035827	0	1	0	0	0
+riboflavin transporter activity	GO_0032217	0	1	0	0	0
+riboflavin transport	GO_0032218	0	1	0	0	0
+rhamnose:proton symporter activity	GO_0015561	0	1	0	0	0
+renal sodium ion transport	GO_0003096	0	1	0	0	0
+renal sodium ion absorption involved in negative regulation of renal sodium excretion	GO_0035817	0	1	0	0	0
+renal sodium ion absorption	GO_0070294	0	1	0	0	0
+renal rubidium ion transport	GO_0035828	0	1	0	0	0
+renal rubidium ion absorption	GO_0035829	0	1	0	0	0
+release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO_0014808	0	1	0	0	0
+release of sequestered calcium ion into cytosol	GO_0051209	0	1	0	0	0
+regulation of zinc ion transport	GO_0071579	0	1	0	0	0
+regulation of zinc ion transmembrane transport	GO_0071580	0	1	0	0	0
+regulation of zinc ion transmembrane import	GO_0071581	0	1	0	0	0
+regulation of voltage-gated chloride channel activity	GO_1902941	0	1	0	0	0
+regulation of voltage-gated calcium channel activity	GO_1901385	0	1	0	0	0
+regulation of ventricular cardiac muscle cell membrane repolarization	GO_0060307	0	1	0	0	0
+regulation of sulfite transport	GO_1900071	0	1	0	0	0
+regulation of store-operated calcium entry	GO_2001256	0	1	0	0	0
+regulation of store-operated calcium channel activity	GO_1901339	0	1	0	0	0
+regulation of sodium:proton antiporter activity	GO_0032415	0	1	0	0	0
+regulation of sodium:potassium-exchanging ATPase activity	GO_1903406	0	1	0	0	0
+regulation of sodium-dependent phosphate transport	GO_2000118	0	1	0	0	0
+regulation of sodium ion transport	GO_0002028	0	1	0	0	0
+regulation of sodium ion transmembrane transporter activity	GO_2000649	0	1	0	0	0
+regulation of sodium ion transmembrane transport	GO_1902305	0	1	0	0	0
+regulation of sodium ion export from cell	GO_1903276	0	1	0	0	0
+regulation of sodium ion export	GO_1903273	0	1	0	0	0
+regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014809	0	1	0	0	0
+regulation of serotonin uptake	GO_0051611	0	1	0	0	0
+regulation of serotonin secretion	GO_0014062	0	1	0	0	0
+regulation of ryanodine-sensitive calcium-release channel activity	GO_0060314	0	1	0	0	0
+regulation of rubidium ion transport	GO_2000680	0	1	0	0	0
+regulation of rubidium ion transmembrane transporter activity	GO_2000686	0	1	0	0	0
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO_0010880	0	1	0	0	0
+regulation of release of sequestered calcium ion into cytosol	GO_0051279	0	1	0	0	0
+regulation of proton-transporting ATPase activity, rotational mechanism	GO_0010849	0	1	0	0	0
+regulation of proton transport	GO_0010155	0	1	0	0	0
+regulation of prostaglandin secretion	GO_0032306	0	1	0	0	0
+regulation of proline transport	GO_0070881	0	1	0	0	0
+regulation of proline import into cell	GO_1902834	0	1	0	0	0
+regulation of potassium ion transport	GO_0043266	0	1	0	0	0
+regulation of potassium ion transmembrane transporter activity	GO_1901016	0	1	0	0	0
+regulation of potassium ion transmembrane transport	GO_1901379	0	1	0	0	0
+regulation of potassium ion import	GO_1903286	0	1	0	0	0
+regulation of potassium ion export	GO_1902302	0	1	0	0	0
+regulation of plasma membrane long-chain fatty acid transport	GO_0010746	0	1	0	0	0
+regulation of phospholipid transport	GO_2001138	0	1	0	0	0
+regulation of phospholipid translocation	GO_0061091	0	1	0	0	0
+regulation of phospholipid scramblase activity	GO_1900161	0	1	0	0	0
+regulation of phospholipid efflux	GO_1902994	0	1	0	0	0
+regulation of phosphate transport	GO_0010966	0	1	0	0	0
+regulation of phosphate transmembrane transport	GO_2000185	0	1	0	0	0
+regulation of oxidative phosphorylation uncoupler activity	GO_2000275	0	1	0	0	0
+regulation of metal ion transport	GO_0010959	0	1	0	0	0
+regulation of membrane repolarization during action potential	GO_0098903	0	1	0	0	0
+regulation of membrane repolarization	GO_0060306	0	1	0	0	0
+regulation of lysine import	GO_0010805	0	1	0	0	0
+regulation of light-activated voltage-gated calcium channel activity	GO_0010462	0	1	0	0	0
+regulation of light-activated channel activity	GO_0016061	0	1	0	0	0
+regulation of leucine import into cell	GO_1903128	0	1	0	0	0
+regulation of leucine import	GO_0060357	0	1	0	0	0
+regulation of large conductance calcium-activated potassium channel activity	GO_1902606	0	1	0	0	0
+regulation of kainate selective glutamate receptor activity	GO_2000312	0	1	0	0	0
+regulation of iron ion transport by regulation of transcription from RNA polymerase II promoter	GO_1900393	0	1	0	0	0
+regulation of iron ion transport	GO_0034756	0	1	0	0	0
+regulation of iron ion transmembrane transport	GO_0034759	0	1	0	0	0
+regulation of iron ion import by regulation of transcription from RNA polymerase II promoter	GO_1900400	0	1	0	0	0
+regulation of iron ion import	GO_1900390	0	1	0	0	0
+regulation of ion transport	GO_0043269	0	1	0	0	0
+regulation of ion transmembrane transporter activity	GO_0032412	0	1	0	0	0
+regulation of ion transmembrane transport	GO_0034765	0	1	0	0	0
+regulation of inward rectifier potassium channel activity	GO_1901979	0	1	0	0	0
+regulation of intracellular calcium activated chloride channel activity	GO_1902938	0	1	0	0	0
+regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	GO_0031585	0	1	0	0	0
+regulation of icosanoid secretion	GO_0032303	0	1	0	0	0
+regulation of histamine uptake	GO_0051616	0	1	0	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
+regulation of high voltage-gated calcium channel activity	GO_1901841	0	1	0	0	0
+regulation of glycine import	GO_1900923	0	1	0	0	0
+regulation of glutamine transport	GO_2000485	0	1	0	0	0
+regulation of glutamate uptake involved in transmission of nerve impulse	GO_0051946	0	1	0	0	0
+regulation of glutamate secretion, neurotransmission	GO_1903294	0	1	0	0	0
+regulation of glutamate secretion	GO_0014048	0	1	0	0	0
+regulation of gluconate transport	GO_0032893	0	1	0	0	0
+regulation of gluconate transmembrane transport	GO_0035430	0	1	0	0	0
+regulation of generation of L-type calcium current	GO_1902514	0	1	0	0	0
+regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse	GO_0051947	0	1	0	0	0
+regulation of gamma-aminobutyric acid secretion	GO_0014052	0	1	0	0	0
+regulation of fever generation by regulation of prostaglandin secretion	GO_0071810	0	1	0	0	0
+regulation of fatty acid transport	GO_2000191	0	1	0	0	0
+regulation of dopamine uptake involved in synaptic transmission	GO_0051584	0	1	0	0	0
+regulation of dopamine secretion	GO_0014059	0	1	0	0	0
+regulation of delayed rectifier potassium channel activity	GO_1902259	0	1	0	0	0
+regulation of cyclic nucleotide-gated ion channel activity	GO_1902159	0	1	0	0	0
+regulation of copper ion transmembrane transport	GO_1902311	0	1	0	0	0
+regulation of chloride transport	GO_2001225	0	1	0	0	0
+regulation of cation channel activity	GO_2001257	0	1	0	0	0
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	GO_0010881	0	1	0	0	0
+regulation of calcium:sodium antiporter activity	GO_1903279	0	1	0	0	0
+regulation of calcium-transporting ATPase activity	GO_1901894	0	1	0	0	0
+regulation of calcium ion transport into cytosol	GO_0010522	0	1	0	0	0
+regulation of calcium ion transport	GO_0051924	0	1	0	0	0
+regulation of calcium ion transmembrane transporter activity	GO_1901019	0	1	0	0	0
+regulation of calcium ion transmembrane transport	GO_1903169	0	1	0	0	0
+regulation of calcium ion import into sarcoplasmic reticulum	GO_1902080	0	1	0	0	0
+regulation of calcium ion import	GO_0090279	0	1	0	0	0
+regulation of atrial cardiac muscle cell membrane repolarization	GO_0060372	0	1	0	0	0
+regulation of arachidonic acid secretion	GO_0090237	0	1	0	0	0
+regulation of anion transport	GO_0044070	0	1	0	0	0
+regulation of anion channel activity by blue light	GO_0010361	0	1	0	0	0
+regulation of anion channel activity	GO_0010359	0	1	0	0	0
+regulation of amino acid uptake involved in synaptic transmission	GO_0051941	0	1	0	0	0
+regulation of amino acid transport	GO_0051955	0	1	0	0	0
+regulation of amino acid import	GO_0010958	0	1	0	0	0
+regulation of amino acid export	GO_0080143	0	1	0	0	0
+regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity	GO_2000311	0	1	0	0	0
+regulation of acid-sensing ion channel activity	GO_1901585	0	1	0	0	0
+regulation of acetylcholine-gated cation channel activity	GO_1903048	0	1	0	0	0
+regulation of acetylcholine uptake	GO_0051631	0	1	0	0	0
+regulation of acetylcholine secretion, neurotransmission	GO_0014056	0	1	0	0	0
+regulation of N-methyl-D-aspartate selective glutamate receptor activity	GO_2000310	0	1	0	0	0
+regulation of L-tyrosine import	GO_1900929	0	1	0	0	0
+regulation of L-threonine import	GO_1900926	0	1	0	0	0
+regulation of L-glutamine import	GO_1901034	0	1	0	0	0
+regulation of L-glutamate transport	GO_0002036	0	1	0	0	0
+regulation of L-glutamate import	GO_1900920	0	1	0	0	0
+regulation of L-arginine import into cell	GO_1902826	0	1	0	0	0
+regulation of L-arginine import	GO_0010963	0	1	0	0	0
+regulation of Golgi calcium ion export	GO_1901472	0	1	0	0	0
+regulation of G-protein activated inward rectifier potassium channel activity	GO_1900128	0	1	0	0	0
+regulation of ATP:ADP antiporter activity	GO_0070926	0	1	0	0	0
+regulation of (R)-carnitine transmembrane transport	GO_1902272	0	1	0	0	0
+raffinose:proton symporter activity	GO_0015529	0	1	0	0	0
+quinolinic acid transmembrane transport	GO_1903222	0	1	0	0	0
+quaternary ammonium group:proton symporter activity	GO_0015652	0	1	0	0	0
+quaternary ammonium group transmembrane transporter activity	GO_0015651	0	1	0	0	0
+pyruvate transport	GO_0006848	0	1	0	0	0
+pyruvate transmembrane transporter activity	GO_0050833	0	1	0	0	0
+pyruvate transmembrane transport	GO_1901475	0	1	0	0	0
+pyruvate secondary active transmembrane transporter activity	GO_0005477	0	1	0	0	0
+pyrimidine- and adenine-specific:sodium symporter activity	GO_0015389	0	1	0	0	0
+pyridoxamine transport	GO_0031922	0	1	0	0	0
+pyridoxamine transmembrane transporter activity	GO_0031927	0	1	0	0	0
+pyridoxamine transmembrane transport	GO_1903091	0	1	0	0	0
+pyridoxal phosphate transport	GO_0031921	0	1	0	0	0
+pyridoxal phosphate transmembrane transporter activity	GO_0031926	0	1	0	0	0
+putrescine:ornithine antiporter activity	GO_0015496	0	1	0	0	0
+putrescine-importing ATPase activity	GO_0015594	0	1	0	0	0
+putrescine transport	GO_0015847	0	1	0	0	0
+putrescine transmembrane transporter activity	GO_0015489	0	1	0	0	0
+purine-specific nucleoside:sodium symporter activity	GO_0015390	0	1	0	0	0
+proton-transporting ATPase activity, rotational mechanism	GO_0046961	0	1	0	0	0
+proton-transporting ATP synthase activity, rotational mechanism	GO_0046933	0	1	0	0	0
+proton-dependent peptide secondary active transmembrane transporter activity	GO_0022897	0	1	0	0	0
+proton transport	GO_0015992	0	1	0	0	0
+prostaglandin transport	GO_0015732	0	1	0	0	0
+prostaglandin transmembrane transporter activity	GO_0015132	0	1	0	0	0
+prostaglandin secretion involved in immune response	GO_0090323	0	1	0	0	0
+prostaglandin secretion	GO_0032310	0	1	0	0	0
+propionate transmembrane transporter activity	GO_0015552	0	1	0	0	0
+propanoate transport	GO_0015730	0	1	0	0	0
+proline:sodium symporter activity	GO_0005298	0	1	0	0	0
+proline transport	GO_0015824	0	1	0	0	0
+proline transmembrane transport	GO_0035524	0	1	0	0	0
+proline import into cell	GO_1902825	0	1	0	0	0
+primary amine secretion, neurotransmission	GO_0061532	0	1	0	0	0
+primary amine secretion	GO_0061531	0	1	0	0	0
+potassium:sodium symporter activity	GO_0009674	0	1	0	0	0
+potassium:proton symporter activity	GO_0015387	0	1	0	0	0
+potassium:proton antiporter activity	GO_0015386	0	1	0	0	0
+potassium:chloride symporter activity	GO_0015379	0	1	0	0	0
+potassium:amino acid symporter activity	GO_0017032	0	1	0	0	0
+potassium-transporting ATPase activity	GO_0008556	0	1	0	0	0
+potassium uptake transmembrane transporter activity	GO_0015388	0	1	0	0	0
+potassium ion uniporter activity	GO_0022819	0	1	0	0	0
+potassium ion transport	GO_0006813	0	1	0	0	0
+potassium ion transmembrane transporter activity	GO_0015079	0	1	0	0	0
+potassium ion transmembrane transport	GO_0071805	0	1	0	0	0
+potassium ion symporter activity	GO_0022820	0	1	0	0	0
+potassium ion leak channel activity	GO_0022841	0	1	0	0	0
+potassium ion import	GO_0010107	0	1	0	0	0
+potassium ion export across plasma membrane	GO_0097623	0	1	0	0	0
+potassium ion export	GO_0071435	0	1	0	0	0
+potassium ion antiporter activity	GO_0022821	0	1	0	0	0
+potassium channel regulator activity	GO_0015459	0	1	0	0	0
+potassium channel inhibitor activity	GO_0019870	0	1	0	0	0
+potassium channel activity	GO_0005267	0	1	0	0	0
+positive regulation of voltage-gated chloride channel activity	GO_1902943	0	1	0	0	0
+positive regulation of voltage-gated calcium channel activity	GO_1901387	0	1	0	0	0
+positive regulation of sulfite transport by positive regulation of transcription from RNA polymerase II promoter	GO_0061426	0	1	0	0	0
+positive regulation of sulfite transport	GO_1900072	0	1	0	0	0
+positive regulation of store-operated calcium channel activity	GO_1901341	0	1	0	0	0
+positive regulation of sodium:proton antiporter activity	GO_0032417	0	1	0	0	0
+positive regulation of sodium:potassium-exchanging ATPase activity	GO_1903408	0	1	0	0	0
+positive regulation of sodium-dependent phosphate transport	GO_2000120	0	1	0	0	0
+positive regulation of sodium ion transport by positive regulation of transcription from RNA polymerase II promoter	GO_0061423	0	1	0	0	0
+positive regulation of sodium ion transport	GO_0010765	0	1	0	0	0
+positive regulation of sodium ion transmembrane transporter activity	GO_2000651	0	1	0	0	0
+positive regulation of sodium ion transmembrane transport	GO_1902307	0	1	0	0	0
+positive regulation of sodium ion export from cell	GO_1903278	0	1	0	0	0
+positive regulation of sodium ion export	GO_1903275	0	1	0	0	0
+positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014810	0	1	0	0	0
+positive regulation of serotonin uptake	GO_0051613	0	1	0	0	0
+positive regulation of serotonin secretion	GO_0014064	0	1	0	0	0
+positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction	GO_0086094	0	1	0	0	0
+positive regulation of ryanodine-sensitive calcium-release channel activity	GO_0060316	0	1	0	0	0
+positive regulation of rubidium ion transport	GO_2000682	0	1	0	0	0
+positive regulation of rubidium ion transmembrane transporter activity	GO_2000688	0	1	0	0	0
+positive regulation of release of sequestered calcium ion into cytosol	GO_0051281	0	1	0	0	0
+positive regulation of prostaglandin secretion involved in immune response	GO_0061078	0	1	0	0	0
+positive regulation of prostaglandin secretion	GO_0032308	0	1	0	0	0
+positive regulation of proline import into cell	GO_1902836	0	1	0	0	0
+positive regulation of potassium ion transport	GO_0043268	0	1	0	0	0
+positive regulation of potassium ion transmembrane transporter activity	GO_1901018	0	1	0	0	0
+positive regulation of potassium ion transmembrane transport	GO_1901381	0	1	0	0	0
+positive regulation of potassium ion import	GO_1903288	0	1	0	0	0
+positive regulation of potassium ion export	GO_1902304	0	1	0	0	0
+positive regulation of plasma membrane long-chain fatty acid transport	GO_0010747	0	1	0	0	0
+positive regulation of phospholipid transport	GO_2001140	0	1	0	0	0
+positive regulation of phospholipid translocation	GO_0061092	0	1	0	0	0
+positive regulation of phospholipid scramblase activity	GO_1900163	0	1	0	0	0
+positive regulation of phospholipid efflux	GO_1902995	0	1	0	0	0
+positive regulation of phosphate transmembrane transport	GO_2000187	0	1	0	0	0
+positive regulation of oxidative phosphorylation uncoupler activity	GO_2000277	0	1	0	0	0
+positive regulation of light-activated channel activity	GO_0045832	0	1	0	0	0
+positive regulation of leucine import into cell	GO_1903130	0	1	0	0	0
+positive regulation of large conductance calcium-activated potassium channel activity	GO_1902608	0	1	0	0	0
+positive regulation of iron ion transport	GO_0034758	0	1	0	0	0
+positive regulation of iron ion transmembrane transport	GO_0034761	0	1	0	0	0
+positive regulation of ion transport	GO_0043270	0	1	0	0	0
+positive regulation of ion transmembrane transporter activity	GO_0032414	0	1	0	0	0
+positive regulation of ion transmembrane transport	GO_0034767	0	1	0	0	0
+positive regulation of inward rectifier potassium channel activity	GO_1901980	0	1	0	0	0
+positive regulation of intracellular calcium activated chloride channel activity	GO_1902940	0	1	0	0	0
+positive regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	GO_0031587	0	1	0	0	0
+positive regulation of icosanoid secretion	GO_0032305	0	1	0	0	0
+positive regulation of histamine uptake	GO_0051618	0	1	0	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
+positive regulation of high voltage-gated calcium channel activity	GO_1901843	0	1	0	0	0
+positive regulation of glycine import	GO_1900925	0	1	0	0	0
+positive regulation of glutamine transport	GO_2000487	0	1	0	0	0
+positive regulation of glutamate uptake involved in transmission of nerve impulse	GO_0051951	0	1	0	0	0
+positive regulation of glutamate secretion, neurotransmission	GO_1903296	0	1	0	0	0
+positive regulation of glutamate secretion	GO_0014049	0	1	0	0	0
+positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization	GO_0061646	0	1	0	0	0
+positive regulation of gluconate transport	GO_0032895	0	1	0	0	0
+positive regulation of gluconate transmembrane transport	GO_0035432	0	1	0	0	0
+positive regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse	GO_0051950	0	1	0	0	0
+positive regulation of gamma-aminobutyric acid secretion	GO_0014054	0	1	0	0	0
+positive regulation of fever generation by positive regulation of prostaglandin secretion	GO_0071812	0	1	0	0	0
+positive regulation of fatty acid transport	GO_2000193	0	1	0	0	0
+positive regulation of dopamine uptake involved in synaptic transmission	GO_0051586	0	1	0	0	0
+positive regulation of dopamine secretion	GO_0033603	0	1	0	0	0
+positive regulation of delayed rectifier potassium channel activity	GO_1902261	0	1	0	0	0
+positive regulation of cyclic nucleotide-gated ion channel activity	GO_1902161	0	1	0	0	0
+positive regulation of copper ion transmembrane transport	GO_1902313	0	1	0	0	0
+positive regulation of cation channel activity	GO_2001259	0	1	0	0	0
+positive regulation of calcium:sodium antiporter activity	GO_1903281	0	1	0	0	0
+positive regulation of calcium-transporting ATPase activity	GO_1901896	0	1	0	0	0
+positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901199	0	1	0	0	0
+positive regulation of calcium ion transport into cytosol involved in cellular response to calcium ion	GO_1901198	0	1	0	0	0
+positive regulation of calcium ion transport into cytosol	GO_0010524	0	1	0	0	0
+positive regulation of calcium ion transport	GO_0051928	0	1	0	0	0
+positive regulation of calcium ion transmembrane transporter activity	GO_1901021	0	1	0	0	0
+positive regulation of calcium ion import into sarcoplasmic reticulum	GO_1902082	0	1	0	0	0
+positive regulation of calcium ion import	GO_0090280	0	1	0	0	0
+positive regulation of arachidonic acid secretion	GO_0090238	0	1	0	0	0
+positive regulation of anion channel activity	GO_1901529	0	1	0	0	0
+positive regulation of amino acid uptake involved in synaptic transmission	GO_0051943	0	1	0	0	0
+positive regulation of amino acid transport	GO_0051957	0	1	0	0	0
+positive regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity	GO_2000969	0	1	0	0	0
+positive regulation of acid-sensing ion channel activity	GO_1901587	0	1	0	0	0
+positive regulation of acetylcholine uptake	GO_0051633	0	1	0	0	0
+positive regulation of acetylcholine secretion, neurotransmission	GO_0014057	0	1	0	0	0
+positive regulation of L-tyrosine import	GO_1900931	0	1	0	0	0
+positive regulation of L-threonine import	GO_1900928	0	1	0	0	0
+positive regulation of L-glutamine import	GO_1901036	0	1	0	0	0
+positive regulation of L-glutamate transport	GO_0002038	0	1	0	0	0
+positive regulation of L-glutamate import	GO_1900922	0	1	0	0	0
+positive regulation of L-arginine import into cell	GO_1902828	0	1	0	0	0
+positive regulation of L-arginine import	GO_1901042	0	1	0	0	0
+positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	0	1	0	0	0
+positive regulation of G-protein activated inward rectifier potassium channel activity	GO_1900129	0	1	0	0	0
+positive regulation of (R)-carnitine transmembrane transport	GO_1902274	0	1	0	0	0
+polyamine:proton antiporter activity	GO_0015312	0	1	0	0	0
+polar-amino acid-transporting ATPase activity	GO_0015426	0	1	0	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	0	0	0
+platelet activating factor secretion	GO_0002392	0	1	0	0	0
+plasma membrane selenite transport	GO_0097080	0	1	0	0	0
+plasma membrane pyruvate transport	GO_0006849	0	1	0	0	0
+plasma membrane long-chain fatty acid transport	GO_0015911	0	1	0	0	0
+plasma membrane lactate transport	GO_0035879	0	1	0	0	0
+plasma membrane copper ion transport	GO_0015679	0	1	0	0	0
+plasma membrane acetate transport	GO_0006847	0	1	0	0	0
+plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	0	0	0
+phospholipid-translocating ATPase activity	GO_0004012	0	1	0	0	0
+phospholipid transporter activity	GO_0005548	0	1	0	0	0
+phospholipid transport	GO_0015914	0	1	0	0	0
+phospholipid translocation	GO_0045332	0	1	0	0	0
+phospholipid transfer to membrane	GO_0006649	0	1	0	0	0
+phospholipid scramblase activity	GO_0017128	0	1	0	0	0
+phospholipid efflux	GO_0033700	0	1	0	0	0
+phosphoglycerate transport	GO_0015713	0	1	0	0	0
+phosphoglycerate transmembrane transporter activity	GO_0015120	0	1	0	0	0
+phosphoenolpyruvate:phosphate antiporter activity	GO_0015121	0	1	0	0	0
+phosphoenolpyruvate transport	GO_0015714	0	1	0	0	0
+phosphoenolpyruvate transmembrane transporter activity	GO_0089721	0	1	0	0	0
+phosphoenolpyruvate transmembrane transport	GO_0089722	0	1	0	0	0
+phosphoenolpyruvate transmembrane import into Golgi lumen	GO_1990536	0	1	0	0	0
+phosphatidylserine-translocating ATPase activity	GO_0090556	0	1	0	0	0
+phosphatidylinositol transporter activity	GO_0008526	0	1	0	0	0
+phosphatidylethanolamine-translocating ATPase activity	GO_0090555	0	1	0	0	0
+phosphatidylcholine-translocating ATPase activity	GO_0090554	0	1	0	0	0
+phosphatidylcholine transporter activity	GO_0008525	0	1	0	0	0
+phosphatidic acid transporter activity	GO_1990050	0	1	0	0	0
+phosphate:proton symporter activity	GO_0015317	0	1	0	0	0
+phosphate ion transport	GO_0006817	0	1	0	0	0
+phosphate ion transmembrane-transporting ATPase activity	GO_0015415	0	1	0	0	0
+phosphate ion transmembrane transporter activity	GO_0015114	0	1	0	0	0
+phosphate ion transmembrane transport	GO_0035435	0	1	0	0	0
+phosphate ion carrier activity	GO_0015320	0	1	0	0	0
+phloem nitrate loading	GO_0090408	0	1	0	0	0
+phenylalanine:proton symporter activity	GO_0015492	0	1	0	0	0
+phenylalanine transport	GO_0015823	0	1	0	0	0
+phenyl propionate uptake uniporter activity	GO_0015544	0	1	0	0	0
+peroxisomal long-chain fatty acid import	GO_0015910	0	1	0	0	0
+peroxisomal fatty-acyl-CoA transporter activity	GO_0005325	0	1	0	0	0
+peptide:proton symporter activity	GO_0015333	0	1	0	0	0
+pantothenate:sodium symporter activity	GO_0015498	0	1	0	0	0
+pantothenate transmembrane transporter activity	GO_0015233	0	1	0	0	0
+pantothenate transmembrane transport	GO_0015887	0	1	0	0	0
+pantothenate import into cell	GO_0044755	0	1	0	0	0
+pantothenate import across plasma membrane	GO_0098717	0	1	0	0	0
+pantothenate import	GO_1901688	0	1	0	0	0
+p-aminobenzoyl-glutamate uptake transmembrane transporter activity	GO_0015558	0	1	0	0	0
+p-aminobenzoyl-glutamate transport	GO_0015814	0	1	0	0	0
+p-aminobenzoyl-glutamate transmembrane transporter activity	GO_0015569	0	1	0	0	0
+p-aminobenzoyl-glutamate transmembrane transport	GO_1902604	0	1	0	0	0
+oxoglutarate:malate antiporter activity	GO_0015367	0	1	0	0	0
+oxidative phosphorylation uncoupler activity	GO_0017077	0	1	0	0	0
+oxaloacetate(2-) transmembrane transport	GO_1902356	0	1	0	0	0
+oxaloacetate transport	GO_0015729	0	1	0	0	0
+oxaloacetate transmembrane transporter activity	GO_0015131	0	1	0	0	0
+oxaloacetate secondary active transmembrane transporter activity	GO_0000227	0	1	0	0	0
+oxalic acid secretion	GO_0046724	0	1	0	0	0
+oxalate transport	GO_0019532	0	1	0	0	0
+oxalate transmembrane transporter activity	GO_0019531	0	1	0	0	0
+outward rectifier potassium channel activity	GO_0015271	0	1	0	0	0
+ornithine transport	GO_0015822	0	1	0	0	0
+ornithine transmembrane import into vacuole	GO_0090455	0	1	0	0	0
+organophosphate:inorganic phosphate antiporter activity	GO_0015315	0	1	0	0	0
+organic phosphonate transmembrane-transporting ATPase activity	GO_0015416	0	1	0	0	0
+organic cation transport	GO_0015695	0	1	0	0	0
+organic cation transmembrane transporter activity	GO_0015101	0	1	0	0	0
+organic anion transport	GO_0015711	0	1	0	0	0
+organic anion transmembrane transporter activity	GO_0008514	0	1	0	0	0
+organic acid:sodium symporter activity	GO_0005343	0	1	0	0	0
+organellar voltage-gated chloride channel activity	GO_0015274	0	1	0	0	0
+open rectifier potassium channel activity	GO_0005252	0	1	0	0	0
+oleate transporter activity	GO_1901480	0	1	0	0	0
+octopamine secretion, neurotransmission	GO_0061540	0	1	0	0	0
+octopamine secretion	GO_0061539	0	1	0	0	0
+nucleotide-sulfate transport	GO_0015715	0	1	0	0	0
+nucleotide-sulfate transmembrane transporter activity	GO_0005340	0	1	0	0	0
+nucleoside:sodium symporter activity	GO_0005415	0	1	0	0	0
+nucleoside:proton symporter activity	GO_0015506	0	1	0	0	0
+nucleobase:cation symporter activity	GO_0015391	0	1	0	0	0
+norepinephrine:sodium symporter activity	GO_0005334	0	1	0	0	0
+nonpolar-amino acid-transporting ATPase activity	GO_0015425	0	1	0	0	0
+nitrite uptake transmembrane transporter activity	GO_0015513	0	1	0	0	0
+nitrite transport	GO_0015707	0	1	0	0	0
+nitrite transmembrane transporter activity	GO_0015113	0	1	0	0	0
+nitrite efflux transmembrane transporter activity	GO_0015514	0	1	0	0	0
+nitrate:proton symporter activity	GO_0009671	0	1	0	0	0
+nitrate transport	GO_0015706	0	1	0	0	0
+nitrate transmembrane-transporting ATPase activity	GO_0015414	0	1	0	0	0
+nitrate transmembrane transporter activity	GO_0015112	0	1	0	0	0
+nitrate import	GO_1902025	0	1	0	0	0
+nitrate efflux transmembrane transporter activity	GO_0010542	0	1	0	0	0
+nicotinate transporter activity	GO_0090416	0	1	0	0	0
+nicotinate transport	GO_2001142	0	1	0	0	0
+nickel-transporting ATPase activity	GO_0015413	0	1	0	0	0
+nickel cation transport	GO_0015675	0	1	0	0	0
+nickel cation transmembrane transporter activity	GO_0015099	0	1	0	0	0
+nickel cation transmembrane transport	GO_0035444	0	1	0	0	0
+nickel cation import into cell	GO_0090509	0	1	0	0	0
+nickel cation import across plasma membrane	GO_0098716	0	1	0	0	0
+neutral, basic amino acid:sodium:chloride symporter activity	GO_0015374	0	1	0	0	0
+neutral amino acid:sodium symporter activity	GO_0005295	0	1	0	0	0
+neutral amino acid transport	GO_0015804	0	1	0	0	0
+neutral amino acid transmembrane transporter activity	GO_0015175	0	1	0	0	0
+neutral amino acid transmembrane import into vacuole	GO_0034491	0	1	0	0	0
+neutral amino acid transmembrane export from vacuole	GO_0034489	0	1	0	0	0
+neutral L-amino acid secondary active transmembrane transporter activity	GO_0005294	0	1	0	0	0
+neurotransmitter:sodium symporter activity	GO_0005328	0	1	0	0	0
+negative regulation of zinc ion transport	GO_0071582	0	1	0	0	0
+negative regulation of zinc ion transmembrane transport	GO_0071583	0	1	0	0	0
+negative regulation of zinc ion transmembrane import	GO_0071584	0	1	0	0	0
+negative regulation of voltage-gated chloride channel activity	GO_1902942	0	1	0	0	0
+negative regulation of voltage-gated calcium channel activity in other organism	GO_0035918	0	1	0	0	0
+negative regulation of voltage-gated calcium channel activity	GO_1901386	0	1	0	0	0
+negative regulation of store-operated calcium channel activity	GO_1901340	0	1	0	0	0
+negative regulation of sodium:proton antiporter activity	GO_0032416	0	1	0	0	0
+negative regulation of sodium:potassium-exchanging ATPase activity	GO_1903407	0	1	0	0	0
+negative regulation of sodium-dependent phosphate transport	GO_2000119	0	1	0	0	0
+negative regulation of sodium ion transport	GO_0010766	0	1	0	0	0
+negative regulation of sodium ion transmembrane transporter activity	GO_2000650	0	1	0	0	0
+negative regulation of sodium ion transmembrane transport	GO_1902306	0	1	0	0	0
+negative regulation of sodium ion export from cell	GO_1903277	0	1	0	0	0
+negative regulation of sodium ion export	GO_1903274	0	1	0	0	0
+negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014811	0	1	0	0	0
+negative regulation of serotonin uptake	GO_0051612	0	1	0	0	0
+negative regulation of serotonin secretion	GO_0014063	0	1	0	0	0
+negative regulation of ryanodine-sensitive calcium-release channel activity	GO_0060315	0	1	0	0	0
+negative regulation of rubidium ion transport	GO_2000681	0	1	0	0	0
+negative regulation of rubidium ion transmembrane transporter activity	GO_2000687	0	1	0	0	0
+negative regulation of release of sequestered calcium ion into cytosol	GO_0051280	0	1	0	0	0
+negative regulation of prostaglandin secretion	GO_0032307	0	1	0	0	0
+negative regulation of proline import into cell	GO_1902835	0	1	0	0	0
+negative regulation of potassium ion transport	GO_0043267	0	1	0	0	0
+negative regulation of potassium ion transmembrane transporter activity	GO_1901017	0	1	0	0	0
+negative regulation of potassium ion transmembrane transport	GO_1901380	0	1	0	0	0
+negative regulation of potassium ion import	GO_1903287	0	1	0	0	0
+negative regulation of potassium ion export	GO_1902303	0	1	0	0	0
+negative regulation of plasma membrane long-chain fatty acid transport	GO_0010748	0	1	0	0	0
+negative regulation of phospholipid transport	GO_2001139	0	1	0	0	0
+negative regulation of phospholipid translocation	GO_0061093	0	1	0	0	0
+negative regulation of phospholipid scramblase activity	GO_1900162	0	1	0	0	0
+negative regulation of phospholipid efflux	GO_1902999	0	1	0	0	0
+negative regulation of phosphate transmembrane transport	GO_2000186	0	1	0	0	0
+negative regulation of oxidative phosphorylation uncoupler activity	GO_2000276	0	1	0	0	0
+negative regulation of lysine import	GO_0010806	0	1	0	0	0
+negative regulation of low voltage-gated calcium channel activity in other organism	GO_0035919	0	1	0	0	0
+negative regulation of light-activated channel activity	GO_0045831	0	1	0	0	0
+negative regulation of leucine import into cell	GO_1903129	0	1	0	0	0
+negative regulation of leucine import in response to ammonium ion	GO_0060360	0	1	0	0	0
+negative regulation of leucine import by regulation of transcription from RNA polymerase II promoter	GO_1902574	0	1	0	0	0
+negative regulation of leucine import	GO_0060358	0	1	0	0	0
+negative regulation of large conductance calcium-activated potassium channel activity	GO_1902607	0	1	0	0	0
+negative regulation of iron ion transport	GO_0034757	0	1	0	0	0
+negative regulation of iron ion transmembrane transport	GO_0034760	0	1	0	0	0
+negative regulation of ion transport	GO_0043271	0	1	0	0	0
+negative regulation of ion transmembrane transporter activity	GO_0032413	0	1	0	0	0
+negative regulation of ion transmembrane transport	GO_0034766	0	1	0	0	0
+negative regulation of inward rectifier potassium channel activity	GO_1903609	0	1	0	0	0
+negative regulation of intracellular calcium activated chloride channel activity	GO_1902939	0	1	0	0	0
+negative regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	GO_0031586	0	1	0	0	0
+negative regulation of icosanoid secretion	GO_0032304	0	1	0	0	0
+negative regulation of histamine uptake	GO_0051617	0	1	0	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
+negative regulation of high voltage-gated calcium channel activity in other organism	GO_0035920	0	1	0	0	0
+negative regulation of high voltage-gated calcium channel activity	GO_1901842	0	1	0	0	0
+negative regulation of glycine import	GO_1900924	0	1	0	0	0
+negative regulation of glutamine transport	GO_2000486	0	1	0	0	0
+negative regulation of glutamate uptake involved in transmission of nerve impulse	GO_0051948	0	1	0	0	0
+negative regulation of glutamate secretion, neurotransmission	GO_1903295	0	1	0	0	0
+negative regulation of glutamate secretion	GO_0014050	0	1	0	0	0
+negative regulation of gluconate transport	GO_0032894	0	1	0	0	0
+negative regulation of gluconate transmembrane transport	GO_0035431	0	1	0	0	0
+negative regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse	GO_0051949	0	1	0	0	0
+negative regulation of gamma-aminobutyric acid secretion	GO_0014053	0	1	0	0	0
+negative regulation of fatty acid transport	GO_2000192	0	1	0	0	0
+negative regulation of dopamine uptake involved in synaptic transmission	GO_0051585	0	1	0	0	0
+negative regulation of dopamine secretion	GO_0033602	0	1	0	0	0
+negative regulation of delayed rectifier potassium channel activity	GO_1902260	0	1	0	0	0
+negative regulation of cyclic nucleotide-gated ion channel activity	GO_1902160	0	1	0	0	0
+negative regulation of copper ion transmembrane transport	GO_1902312	0	1	0	0	0
+negative regulation of chloride transport	GO_2001226	0	1	0	0	0
+negative regulation of cation channel activity	GO_2001258	0	1	0	0	0
+negative regulation of calcium:sodium antiporter activity	GO_1903280	0	1	0	0	0
+negative regulation of calcium-transporting ATPase activity	GO_1901895	0	1	0	0	0
+negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901200	0	1	0	0	0
+negative regulation of calcium ion transport into cytosol	GO_0010523	0	1	0	0	0
+negative regulation of calcium ion transport	GO_0051926	0	1	0	0	0
+negative regulation of calcium ion transmembrane transporter activity	GO_1901020	0	1	0	0	0
+negative regulation of calcium ion transmembrane transport	GO_1903170	0	1	0	0	0
+negative regulation of calcium ion import into sarcoplasmic reticulum	GO_1902081	0	1	0	0	0
+negative regulation of calcium ion import	GO_0090281	0	1	0	0	0
+negative regulation of calcium channel activity in other organism	GO_0035917	0	1	0	0	0
+negative regulation of arachidonic acid secretion	GO_1900139	0	1	0	0	0
+negative regulation of anion channel activity by blue light	GO_0010362	0	1	0	0	0
+negative regulation of anion channel activity	GO_0010360	0	1	0	0	0
+negative regulation of amino acid uptake involved in synaptic transmission	GO_0051942	0	1	0	0	0
+negative regulation of amino acid transport	GO_0051956	0	1	0	0	0
+negative regulation of acid-sensing ion channel activity	GO_1901586	0	1	0	0	0
+negative regulation of acetylcholine-gated cation channel activity	GO_1903049	0	1	0	0	0
+negative regulation of acetylcholine uptake	GO_0051632	0	1	0	0	0
+negative regulation of acetylcholine secretion, neurotransmission	GO_0014058	0	1	0	0	0
+negative regulation of L-tyrosine import	GO_1900930	0	1	0	0	0
+negative regulation of L-threonine import	GO_1900927	0	1	0	0	0
+negative regulation of L-glutamine import	GO_1901035	0	1	0	0	0
+negative regulation of L-glutamate transport	GO_0002037	0	1	0	0	0
+negative regulation of L-glutamate import	GO_1900921	0	1	0	0	0
+negative regulation of L-arginine import into cell	GO_1902827	0	1	0	0	0
+negative regulation of ATP:ADP antiporter activity	GO_0070927	0	1	0	0	0
+negative regulation of (R)-carnitine transmembrane transport	GO_1902273	0	1	0	0	0
+nalidixic acid transporter activity	GO_0015547	0	1	0	0	0
+nalidixic acid transport	GO_0015896	0	1	0	0	0
+myo-inositol:sodium symporter activity	GO_0005367	0	1	0	0	0
+myo-inositol:proton symporter activity	GO_0005366	0	1	0	0	0
+myo-inositol phosphate transport	GO_0033271	0	1	0	0	0
+myo-inositol hexakisphosphate transport	GO_0033272	0	1	0	0	0
+monovalent inorganic cation transport	GO_0015672	0	1	0	0	0
+monovalent inorganic cation transmembrane transporter activity	GO_0015077	0	1	0	0	0
+monovalent cation:proton antiporter activity	GO_0005451	0	1	0	0	0
+monovalent anion:sodium symporter activity	GO_0015373	0	1	0	0	0
+monocarboxylic acid-transporting ATPase activity	GO_0033285	0	1	0	0	0
+monocarboxylic acid transport	GO_0015718	0	1	0	0	0
+monocarboxylic acid transmembrane transporter activity	GO_0008028	0	1	0	0	0
+monoamine:proton antiporter activity	GO_0015311	0	1	0	0	0
+molybdenum ion transmembrane transporter activity	GO_0042888	0	1	0	0	0
+molybdate transmembrane-transporting ATPase activity	GO_0015412	0	1	0	0	0
+molybdate ion transport	GO_0015689	0	1	0	0	0
+molybdate ion transmembrane transporter activity	GO_0015098	0	1	0	0	0
+molybdate ion export from vacuole	GO_0090414	0	1	0	0	0
+modulation by symbiont of host anion transport	GO_0044069	0	1	0	0	0
+modified amino acid transport	GO_0072337	0	1	0	0	0
+modified amino acid transmembrane transporter activity	GO_0072349	0	1	0	0	0
+mobile ion carrier activity	GO_0022809	0	1	0	0	0
+mitochondrial pyruvate transport	GO_0006850	0	1	0	0	0
+mitochondrial pyruvate transmembrane transport	GO_1902361	0	1	0	0	0
+mitochondrial ornithine transport	GO_0000066	0	1	0	0	0
+mitochondrial manganese ion transmembrane transport	GO_1990540	0	1	0	0	0
+mitochondrial magnesium ion transport	GO_0045016	0	1	0	0	0
+mitochondrial iron ion transport	GO_0048250	0	1	0	0	0
+mitochondrial citrate transport	GO_0006843	0	1	0	0	0
+mitochondrial citrate transmembrane transport	GO_1990541	0	1	0	0	0
+mitochondrial calcium ion transport	GO_0006851	0	1	0	0	0
+mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	0	0	0
+mevalonate transport	GO_0015728	0	1	0	0	0
+mevalonate transmembrane transporter activity	GO_0015130	0	1	0	0	0
+methylammonium transport	GO_0015843	0	1	0	0	0
+methylammonium transmembrane transporter activity	GO_0015200	0	1	0	0	0
+methylammonium transmembrane transport	GO_0072489	0	1	0	0	0
+methylammonium channel activity	GO_0015264	0	1	0	0	0
+methotrexate transporter activity	GO_0015350	0	1	0	0	0
+methotrexate transport	GO_0051958	0	1	0	0	0
+methionine-importing activity	GO_1990240	0	1	0	0	0
+methionine transport	GO_0015821	0	1	0	0	0
+methionine transmembrane-transporting ATPase activity	GO_1901243	0	1	0	0	0
+methionine transmembrane transporter activity	GO_0043865	0	1	0	0	0
+methionine import	GO_0044690	0	1	0	0	0
+metal ion:proton antiporter activity	GO_0051139	0	1	0	0	0
+metal ion transport	GO_0030001	0	1	0	0	0
+metal ion transmembrane transporter activity	GO_0046873	0	1	0	0	0
+mercury ion transport	GO_0015694	0	1	0	0	0
+mercury ion transmembrane transporter activity	GO_0015097	0	1	0	0	0
+membrane repolarization during ventricular cardiac muscle cell action potential	GO_0098915	0	1	0	0	0
+membrane repolarization during cardiac muscle cell action potential	GO_0086013	0	1	0	0	0
+membrane repolarization during bundle of His cell action potential	GO_0086050	0	1	0	0	0
+membrane repolarization during atrial cardiac muscle cell action potential	GO_0098914	0	1	0	0	0
+membrane repolarization during action potential	GO_0086011	0	1	0	0	0
+membrane repolarization during SA node cell action potential	GO_0086052	0	1	0	0	0
+membrane repolarization during Purkinje myocyte action potential	GO_0086051	0	1	0	0	0
+membrane repolarization during AV node cell action potential	GO_0086049	0	1	0	0	0
+membrane repolarization	GO_0086009	0	1	0	0	0
+melibiose:sodium symporter activity	GO_0043887	0	1	0	0	0
+melibiose:monovalent cation symporter activity	GO_0015487	0	1	0	0	0
+medium-chain fatty acid transport	GO_0001579	0	1	0	0	0
+mechanically-gated ion channel activity	GO_0008381	0	1	0	0	0
+mannosylglycerate transport	GO_0051476	0	1	0	0	0
+mannosylglycerate transmembrane transporter activity	GO_0051477	0	1	0	0	0
+mannose:proton symporter activity	GO_0055053	0	1	0	0	0
+manganese:proton antiporter activity	GO_0010486	0	1	0	0	0
+manganese-transporting ATPase activity	GO_0015410	0	1	0	0	0
+manganese ion transport	GO_0006828	0	1	0	0	0
+manganese ion transmembrane transporter activity	GO_0005384	0	1	0	0	0
+manganese ion transmembrane transport	GO_0071421	0	1	0	0	0
+maltose:proton symporter activity	GO_0005364	0	1	0	0	0
+malonic acid uptake transmembrane transporter activity	GO_1901549	0	1	0	0	0
+malonic acid transport	GO_1900752	0	1	0	0	0
+malonic acid transmembrane transport	GO_1901553	0	1	0	0	0
+malonic acid import into cell	GO_0097406	0	1	0	0	0
+malonic acid import across plasma membrane	GO_0098715	0	1	0	0	0
+malonate(1-) transmembrane transporter activity	GO_1901239	0	1	0	0	0
+malic acid secretion	GO_0046723	0	1	0	0	0
+malate:sodium symporter activity	GO_0043882	0	1	0	0	0
+malate:proton symporter activity	GO_0015366	0	1	0	0	0
+malate transport	GO_0015743	0	1	0	0	0
+malate transmembrane transporter activity	GO_0015140	0	1	0	0	0
+malate transmembrane transport	GO_0071423	0	1	0	0	0
+malate import into cell	GO_0097405	0	1	0	0	0
+malate import across plasma membrane	GO_0098714	0	1	0	0	0
+magnesium-importing ATPase activity	GO_0015444	0	1	0	0	0
+magnesium ion transport	GO_0015693	0	1	0	0	0
+magnesium ion transmembrane transporter activity	GO_0015095	0	1	0	0	0
+lysophospholipid transporter activity	GO_0051978	0	1	0	0	0
+lysophospholipid transport	GO_0051977	0	1	0	0	0
+lysine:proton symporter activity	GO_0015493	0	1	0	0	0
+lysine:cadaverine antiporter activity	GO_0043872	0	1	0	0	0
+lysine transport	GO_0015819	0	1	0	0	0
+lysine transmembrane import into vacuole	GO_0090456	0	1	0	0	0
+lysine import	GO_0034226	0	1	0	0	0
+low-affinity zinc ion transport	GO_0006831	0	1	0	0	0
+low-affinity tryptophan transmembrane transporter activity	GO_0022893	0	1	0	0	0
+low-affinity sulfate:proton symporter activity	GO_0009676	0	1	0	0	0
+low-affinity sodium:dicarboxylate symporter activity	GO_0015361	0	1	0	0	0
+low-affinity secondary active ammonium transmembrane transporter activity	GO_0015400	0	1	0	0	0
+low-affinity phosphate transmembrane transporter activity	GO_0009673	0	1	0	0	0
+low-affinity nitrate transport	GO_0080055	0	1	0	0	0
+low-affinity nitrate transmembrane transporter activity	GO_0080054	0	1	0	0	0
+low-affinity iron ion transmembrane transporter activity	GO_0015090	0	1	0	0	0
+low-affinity iron ion transmembrane transport	GO_0000040	0	1	0	0	0
+low-affinity hydrogen:glucose symporter activity	GO_0005359	0	1	0	0	0
+low-affinity glucose:sodium symporter activity	GO_0005362	0	1	0	0	0
+low-affinity basic amino acid transmembrane transporter activity	GO_0097625	0	1	0	0	0
+low-affinity L-arginine transmembrane transporter activity	GO_0097626	0	1	0	0	0
+low voltage-gated calcium channel activity	GO_0008332	0	1	0	0	0
+long-chain fatty acid transporting porin activity	GO_0015483	0	1	0	0	0
+long-chain fatty acid transporter activity	GO_0005324	0	1	0	0	0
+long-chain fatty acid transport	GO_0015909	0	1	0	0	0
+long-chain fatty acid import	GO_0044539	0	1	0	0	0
+lithium:proton antiporter activity	GO_0010348	0	1	0	0	0
+lithium ion transport	GO_0010351	0	1	0	0	0
+lithium ion import	GO_0090452	0	1	0	0	0
+lithium ion export	GO_0010352	0	1	0	0	0
+light-driven proton transport	GO_0015989	0	1	0	0	0
+light-activated voltage-gated calcium channel activity	GO_0008086	0	1	0	0	0
+light-activated ion channel activity	GO_0010461	0	1	0	0	0
+ligand-gated sodium channel activity	GO_0015280	0	1	0	0	0
+ligand-gated ion channel activity	GO_0015276	0	1	0	0	0
+leukotriene transport	GO_0071716	0	1	0	0	0
+leucine transport	GO_0015820	0	1	0	0	0
+leucine import into cell	GO_1990122	0	1	0	0	0
+leucine import across plasma membrane	GO_0098713	0	1	0	0	0
+leucine import	GO_0060356	0	1	0	0	0
+lead ion transport	GO_0015692	0	1	0	0	0
+lead ion transmembrane transporter activity	GO_0015094	0	1	0	0	0
+large conductance calcium-activated potassium channel activity	GO_0060072	0	1	0	0	0
+lactose:proton symporter activity	GO_0015528	0	1	0	0	0
+lactoferrin transport	GO_0033571	0	1	0	0	0
+lactoferrin transmembrane transporter activity	GO_0033569	0	1	0	0	0
+lactic acid secretion	GO_0046722	0	1	0	0	0
+lactate:proton symporter activity	GO_0015650	0	1	0	0	0
+lactate transport	GO_0015727	0	1	0	0	0
+lactate transmembrane transporter activity	GO_0015129	0	1	0	0	0
+lactate transmembrane transport	GO_0035873	0	1	0	0	0
+kainate selective glutamate receptor activity	GO_0015277	0	1	0	0	0
+isopropylmalate transport	GO_0034659	0	1	0	0	0
+isopropylmalate transmembrane transporter activity	GO_0034658	0	1	0	0	0
+isoleucine transport	GO_0015818	0	1	0	0	0
+isoleucine import	GO_0090476	0	1	0	0	0
+iron ion transport	GO_0006826	0	1	0	0	0
+iron ion transmembrane transporter activity	GO_0005381	0	1	0	0	0
+iron ion transmembrane transport	GO_0034755	0	1	0	0	0
+iron ion import into cell	GO_0097459	0	1	0	0	0
+iron ion import across plasma membrane	GO_0098711	0	1	0	0	0
+iron ion import	GO_0097286	0	1	0	0	0
+iron cation export	GO_1903414	0	1	0	0	0
+ionotropic glutamate receptor activity	GO_0004970	0	1	0	0	0
+ion transport	GO_0006811	0	1	0	0	0
+ion transmembrane transporter activity	GO_0015075	0	1	0	0	0
+ion transmembrane transport	GO_0034220	0	1	0	0	0
+ion channel inhibitor activity	GO_0008200	0	1	0	0	0
+ion channel activity	GO_0005216	0	1	0	0	0
+iodide transport	GO_0015705	0	1	0	0	0
+iodide transmembrane transporter activity	GO_0015111	0	1	0	0	0
+inward rectifier potassium channel inhibitor activity	GO_0070320	0	1	0	0	0
+inward rectifier potassium channel activity	GO_0005242	0	1	0	0	0
+intracellular sodium activated potassium channel activity	GO_0005228	0	1	0	0	0
+intracellular ligand-gated ion channel activity	GO_0005217	0	1	0	0	0
+intracellular ligand-gated calcium channel activity	GO_0005218	0	1	0	0	0
+intracellular cyclic nucleotide activated cation channel activity	GO_0005221	0	1	0	0	0
+intracellular copper ion transport	GO_0015680	0	1	0	0	0
+intracellular calcium activated chloride channel activity	GO_0005229	0	1	0	0	0
+intracellular cGMP activated cation channel activity	GO_0005223	0	1	0	0	0
+intracellular cAMP activated cation channel activity	GO_0005222	0	1	0	0	0
+intermediate voltage-gated calcium channel activity	GO_1990028	0	1	0	0	0
+insulin-responsive hydrogen:glucose symporter activity	GO_0005360	0	1	0	0	0
+inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	GO_0005220	0	1	0	0	0
+inorganic solute uptake transmembrane transporter activity	GO_0015318	0	1	0	0	0
+inorganic ion transmembrane transport	GO_0098660	0	1	0	0	0
+inorganic ion import into cell	GO_0099587	0	1	0	0	0
+inorganic diphosphate transport	GO_0030505	0	1	0	0	0
+inorganic diphosphate transmembrane transporter activity	GO_0030504	0	1	0	0	0
+inorganic cation transmembrane transporter activity	GO_0022890	0	1	0	0	0
+inorganic cation transmembrane transport	GO_0098662	0	1	0	0	0
+inorganic cation import into cell	GO_0098659	0	1	0	0	0
+inorganic anion transport	GO_0015698	0	1	0	0	0
+inorganic anion transmembrane transporter activity	GO_0015103	0	1	0	0	0
+inorganic anion transmembrane transport	GO_0098661	0	1	0	0	0
+inorganic anion import into cell	GO_0098658	0	1	0	0	0
+inorganic anion exchanger activity	GO_0005452	0	1	0	0	0
+inhibitory extracellular ligand-gated ion channel activity	GO_0005237	0	1	0	0	0
+inhibition of serotonin uptake	GO_0051614	0	1	0	0	0
+inhibition of histamine uptake	GO_0051619	0	1	0	0	0
+inhibition of dopamine uptake involved in synaptic transmission	GO_0051587	0	1	0	0	0
+inhibition of acetylcholine uptake	GO_0051634	0	1	0	0	0
+icosanoid transport	GO_0071715	0	1	0	0	0
+icosanoid transmembrane transporter activity	GO_0071714	0	1	0	0	0
+icosanoid secretion	GO_0032309	0	1	0	0	0
+hydroxyproline transport	GO_0034589	0	1	0	0	0
+hydroxyectoine-transporting ATPase activity	GO_0033288	0	1	0	0	0
+hydroxyectoine transport	GO_0033308	0	1	0	0	0
+hydroxyectoine transmembrane transporter activity	GO_0033287	0	1	0	0	0
+hydrophobic uncoupler:proton antiporter activity	GO_0015522	0	1	0	0	0
+hydrogen:proline symporter activity	GO_0005297	0	1	0	0	0
+hydrogen:potassium-exchanging ATPase activity	GO_0008900	0	1	0	0	0
+hydrogen:glucose symporter activity	GO_0005356	0	1	0	0	0
+hydrogen:amino acid symporter activity	GO_0005280	0	1	0	0	0
+hydrogen-exporting ATPase activity, phosphorylative mechanism	GO_0008553	0	1	0	0	0
+hydrogen-exporting ATPase activity	GO_0036442	0	1	0	0	0
+hydrogen ion transmembrane transporter activity	GO_0015078	0	1	0	0	0
+hydrogen ion transmembrane transport	GO_1902600	0	1	0	0	0
+hydrogen ion channel activity	GO_0015252	0	1	0	0	0
+homoserine transport	GO_0042968	0	1	0	0	0
+homoserine transmembrane transporter activity	GO_0042970	0	1	0	0	0
+histidine:histamine antiporter activity	GO_0070907	0	1	0	0	0
+histidine transport	GO_0015817	0	1	0	0	0
+histidine transmembrane import into vacuole	GO_0090457	0	1	0	0	0
+histidine import	GO_0090466	0	1	0	0	0
+histamine-gated chloride channel activity	GO_0019182	0	1	0	0	0
+histamine uptake	GO_0051615	0	1	0	0	0
+histamine transport	GO_0051608	0	1	0	0	0
+histamine secretion, neurotransmission	GO_0061538	0	1	0	0	0
+histamine secretion mediated by immunoglobulin	GO_0097280	0	1	0	0	0
+histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	0	0	0
+histamine secretion involved in inflammatory response	GO_0002441	0	1	0	0	0
+histamine secretion by platelet	GO_0002555	0	1	0	0	0
+histamine secretion by mast cell	GO_0002553	0	1	0	0	0
+histamine secretion by basophil	GO_0002557	0	1	0	0	0
+histamine secretion	GO_0001821	0	1	0	0	0
+high-affinity zinc ion transport	GO_0006830	0	1	0	0	0
+high-affinity zinc ion transmembrane import	GO_0044749	0	1	0	0	0
+high-affinity tryptophan transmembrane transporter activity	GO_0005300	0	1	0	0	0
+high-affinity thiamine:proton symporter activity	GO_0034216	0	1	0	0	0
+high-affinity sulfate:proton symporter activity	GO_0009675	0	1	0	0	0
+high-affinity sulfate transmembrane transporter activity	GO_0015381	0	1	0	0	0
+high-affinity sodium:dicarboxylate symporter activity	GO_0015362	0	1	0	0	0
+high-affinity secondary active ammonium transmembrane transporter activity	GO_0015398	0	1	0	0	0
+high-affinity potassium ion import	GO_0010163	0	1	0	0	0
+high-affinity phosphate transmembrane transporter activity	GO_0048249	0	1	0	0	0
+high-affinity nickel cation transmembrane transporter activity	GO_0044750	0	1	0	0	0
+high-affinity lysine transmembrane transporter activity	GO_0005292	0	1	0	0	0
+high-affinity iron ion transmembrane transport	GO_0006827	0	1	0	0	0
+high-affinity inorganic phosphate:sodium symporter activity	GO_0005316	0	1	0	0	0
+high-affinity hydrogen:glucose symporter activity	GO_0005358	0	1	0	0	0
+high-affinity glutamine transmembrane transporter activity	GO_0015330	0	1	0	0	0
+high-affinity glutamate transmembrane transporter activity	GO_0005314	0	1	0	0	0
+high-affinity ferric uptake transmembrane transporter activity	GO_0015092	0	1	0	0	0
+high-affinity ferric iron transport	GO_0015683	0	1	0	0	0
+high-affinity copper ion transport	GO_0015678	0	1	0	0	0
+high-affinity copper ion transmembrane transporter activity	GO_0015089	0	1	0	0	0
+high-affinity basic amino acid transmembrane transporter activity	GO_0005287	0	1	0	0	0
+high-affinity arginine transmembrane transporter activity	GO_0005289	0	1	0	0	0
+high-affinity L-ornithine transmembrane transporter activity	GO_0097627	0	1	0	0	0
+high-affinity L-histidine transmembrane transporter activity	GO_0005291	0	1	0	0	0
+high voltage-gated calcium channel activity	GO_0008331	0	1	0	0	0
+hexuronate:cation symporter activity	GO_0015539	0	1	0	0	0
+hexuronate transport	GO_0015736	0	1	0	0	0
+hexuronate transmembrane transporter activity	GO_0015134	0	1	0	0	0
+hexose:proton symporter activity	GO_0009679	0	1	0	0	0
+hexose-phosphate:inorganic phosphate antiporter activity	GO_0015526	0	1	0	0	0
+glycoside-pentoside-hexuronide:cation symporter activity	GO_0015486	0	1	0	0	0
+glycolate transport	GO_1900866	0	1	0	0	0
+glycolate transmembrane transporter activity	GO_0043879	0	1	0	0	0
+glycolate transmembrane transport	GO_0097339	0	1	0	0	0
+glycine:sodium symporter activity	GO_0015375	0	1	0	0	0
+glycine-gated chloride ion channel activity	GO_0022852	0	1	0	0	0
+glycine transport	GO_0015816	0	1	0	0	0
+glycine transmembrane transporter activity	GO_0015187	0	1	0	0	0
+glycine secretion, neurotransmission	GO_0061537	0	1	0	0	0
+glycine secretion	GO_0061536	0	1	0	0	0
+glycine import	GO_0036233	0	1	0	0	0
+glycine betaine:proton symporter activity	GO_0015653	0	1	0	0	0
+glycine betaine-transporting ATPase activity	GO_0031459	0	1	0	0	0
+glycine betaine transport	GO_0031460	0	1	0	0	0
+glycerophosphodiester transport	GO_0001407	0	1	0	0	0
+glycerophosphodiester transmembrane transporter activity	GO_0001406	0	1	0	0	0
+glycerone phosphate:inorganic phosphate antiporter activity	GO_0051407	0	1	0	0	0
+glycerol-phosphate:inorganic phosphate antiporter activity	GO_0015527	0	1	0	0	0
+glycerol-3-phosphate-transporting ATPase activity	GO_0015430	0	1	0	0	0
+glycerol-3-phosphate transport	GO_0015794	0	1	0	0	0
+glycerol-3-phosphate transmembrane transporter activity	GO_0015169	0	1	0	0	0
+glycerol-2-phosphate-transporting ATPase activity	GO_0070812	0	1	0	0	0
+glycerol-2-phosphate transport	GO_0070811	0	1	0	0	0
+glycerol phosphate-importing ATPase activity	GO_0015610	0	1	0	0	0
+glycerate transmembrane transporter activity	GO_1901974	0	1	0	0	0
+glycerate transmembrane transport	GO_1901975	0	1	0	0	0
+glyceraldehyde 3-phosphate:inorganic phosphate antiporter activity	GO_0051408	0	1	0	0	0
+glutathione-regulated potassium exporter activity	GO_0015503	0	1	0	0	0
+glutathione transport	GO_0034635	0	1	0	0	0
+glutathione transmembrane transporter activity	GO_0034634	0	1	0	0	0
+glutathione transmembrane transport	GO_0034775	0	1	0	0	0
+glutathione transmembrane import into vacuole	GO_0071996	0	1	0	0	0
+glutathione import into cell	GO_0036347	0	1	0	0	0
+glutathione import across plasma membrane	GO_0098709	0	1	0	0	0
+glutamine-importing ATPase activity	GO_0015599	0	1	0	0	0
+glutamine transport	GO_0006868	0	1	0	0	0
+glutamine secretion	GO_0010585	0	1	0	0	0
+glutamate:sodium symporter activity	GO_0015501	0	1	0	0	0
+glutamate:gamma-aminobutyric acid antiporter activity	GO_0070909	0	1	0	0	0
+glutamate-gated calcium ion channel activity	GO_0022849	0	1	0	0	0
+glutamate transmembrane import into vacuole	GO_0090454	0	1	0	0	0
+glutamate secretion, neurotransmission	GO_0061535	0	1	0	0	0
+glutamate secretion	GO_0014047	0	1	0	0	0
+glucuronoside transport	GO_0015779	0	1	0	0	0
+glucuronoside transmembrane transporter activity	GO_0015164	0	1	0	0	0
+glucuronide:monovalent cation symporter activity	GO_0015488	0	1	0	0	0
+glucuronate transport	GO_0015738	0	1	0	0	0
+glucuronate transmembrane transporter activity	GO_0015135	0	1	0	0	0
+glucosinolate:proton symporter activity	GO_0090448	0	1	0	0	0
+glucosinolate transport	GO_1901349	0	1	0	0	0
+glucose:sodium symporter activity	GO_0005412	0	1	0	0	0
+glucose 6-phosphate:phosphate antiporter activity	GO_0008524	0	1	0	0	0
+glucose 6-phosphate:inorganic phosphate antiporter activity	GO_0061513	0	1	0	0	0
+gluconate transport	GO_0015725	0	1	0	0	0
+gluconate transmembrane transporter activity	GO_0015128	0	1	0	0	0
+gluconate transmembrane transport	GO_0035429	0	1	0	0	0
+generation of L-type calcium current	GO_0061577	0	1	0	0	0
+gamma-aminobutyric acid:sodium symporter activity	GO_0005332	0	1	0	0	0
+gamma-aminobutyric acid:proton symporter activity	GO_0015495	0	1	0	0	0
+gamma-aminobutyric acid uptake involved in synaptic transmission	GO_0051936	0	1	0	0	0
+gamma-aminobutyric acid transport	GO_0015812	0	1	0	0	0
+gamma-aminobutyric acid transmembrane transporter activity	GO_0015185	0	1	0	0	0
+gamma-aminobutyric acid secretion, neurotransmission	GO_0061534	0	1	0	0	0
+gamma-aminobutyric acid secretion	GO_0014051	0	1	0	0	0
+gamma-aminobutyric acid import	GO_0051939	0	1	0	0	0
+galacturonate transport	GO_0015737	0	1	0	0	0
+galacturonate transmembrane transporter activity	GO_0015550	0	1	0	0	0
+galactose:sodium symporter activity	GO_0015371	0	1	0	0	0
+galactose:proton symporter activity	GO_0015517	0	1	0	0	0
+galactarate transport	GO_1902300	0	1	0	0	0
+galactarate transmembrane transporter activity	GO_1902301	0	1	0	0	0
+fumarate transport	GO_0015741	0	1	0	0	0
+fumarate transmembrane transporter activity	GO_0015138	0	1	0	0	0
+fucose:proton symporter activity	GO_0015535	0	1	0	0	0
+fructose:proton symporter activity	GO_0055054	0	1	0	0	0
+formic acid secretion	GO_0046721	0	1	0	0	0
+formate uptake transmembrane transporter activity	GO_0015659	0	1	0	0	0
+formate transport	GO_0015724	0	1	0	0	0
+formate transmembrane transporter activity	GO_0015499	0	1	0	0	0
+formate efflux transmembrane transporter activity	GO_0015660	0	1	0	0	0
+folic acid transporter activity	GO_0008517	0	1	0	0	0
+folic acid transport	GO_0015884	0	1	0	0	0
+fluoride transmembrane transporter activity	GO_1903425	0	1	0	0	0
+fluoride transmembrane transport	GO_1903424	0	1	0	0	0
+fluconazole:proton antiporter activity	GO_0015313	0	1	0	0	0
+ferrous iron uptake transmembrane transporter activity	GO_0015639	0	1	0	0	0
+ferrous iron transport	GO_0015684	0	1	0	0	0
+ferrous iron transmembrane transporter activity	GO_0015093	0	1	0	0	0
+ferrous iron import into cell	GO_0097460	0	1	0	0	0
+ferrous iron import across plasma membrane	GO_0098707	0	1	0	0	0
+ferrous iron import	GO_0070627	0	1	0	0	0
+ferric-vibriobactin transmembrane transporter activity	GO_0019535	0	1	0	0	0
+ferric-transporting ATPase activity	GO_0015408	0	1	0	0	0
+ferric-hydroxamate-transporting ATPase activity	GO_0015625	0	1	0	0	0
+ferric-hydroxamate transport	GO_0015687	0	1	0	0	0
+ferric-hydroxamate transmembrane transporter activity	GO_0015622	0	1	0	0	0
+ferric-enterobactin-transporting ATPase activity	GO_0015624	0	1	0	0	0
+ferric-enterobactin transport	GO_0015685	0	1	0	0	0
+ferric-enterobactin transmembrane transporter activity	GO_0015620	0	1	0	0	0
+ferric triacetylfusarinine C:proton symporter activity	GO_0015346	0	1	0	0	0
+ferric triacetylfusarinine C transmembrane transporter activity	GO_0015621	0	1	0	0	0
+ferric iron transport	GO_0015682	0	1	0	0	0
+ferric iron transmembrane transporter activity	GO_0015091	0	1	0	0	0
+ferric iron import into cell	GO_0097461	0	1	0	0	0
+ferric iron import across plasma membrane	GO_0098706	0	1	0	0	0
+ferric iron import	GO_0033216	0	1	0	0	0
+ferric enterobactin:proton symporter activity	GO_0015345	0	1	0	0	0
+fatty-acyl-CoA transporter activity	GO_0015607	0	1	0	0	0
+fatty-acyl-CoA transport	GO_0015916	0	1	0	0	0
+fatty acid transporter activity	GO_0015245	0	1	0	0	0
+fatty acid transport	GO_0015908	0	1	0	0	0
+fatty acid transmembrane transport	GO_1902001	0	1	0	0	0
+extracellular-glycine-gated ion channel activity	GO_0016933	0	1	0	0	0
+extracellular-glycine-gated chloride channel activity	GO_0016934	0	1	0	0	0
+extracellular-glutamate-gated ion channel activity	GO_0005234	0	1	0	0	0
+extracellular-glutamate-gated chloride channel activity	GO_0008068	0	1	0	0	0
+extracellular phenylacetaldehyde-gated ion channel activity	GO_0036082	0	1	0	0	0
+extracellular ligand-gated ion channel activity	GO_0005230	0	1	0	0	0
+extracellular ammonia-gated ion channel activity	GO_0036081	0	1	0	0	0
+extracellular amino acid transport	GO_0006860	0	1	0	0	0
+extracellular ATP-gated cation channel activity	GO_0004931	0	1	0	0	0
+excitatory extracellular ligand-gated ion channel activity	GO_0005231	0	1	0	0	0
+ethanolamine transport	GO_0034229	0	1	0	0	0
+ethanolamine transmembrane transporter activity	GO_0034228	0	1	0	0	0
+establishment or maintenance of transmembrane electrochemical gradient	GO_0010248	0	1	0	0	0
+enterobactin transporter activity	GO_0042931	0	1	0	0	0
+enterobactin transport	GO_0042930	0	1	0	0	0
+energy coupled proton transport, down electrochemical gradient	GO_0015985	0	1	0	0	0
+energy coupled proton transmembrane transport, against electrochemical gradient	GO_0015988	0	1	0	0	0
+electron transport coupled proton transport	GO_0015990	0	1	0	0	0
+ectoine-transporting ATPase activity	GO_0033286	0	1	0	0	0
+ectoine transport	GO_0051470	0	1	0	0	0
+ectoine transmembrane transporter activity	GO_0051471	0	1	0	0	0
+drug:proton antiporter activity	GO_0015307	0	1	0	0	0
+doxorubicin transport	GO_1900753	0	1	0	0	0
+doxorubicin transmembrane-transporting ATPase activity	GO_1901242	0	1	0	0	0
+dopamine:sodium symporter activity	GO_0005330	0	1	0	0	0
+dopamine uptake involved in synaptic transmission	GO_0051583	0	1	0	0	0
+dopamine uptake	GO_0090494	0	1	0	0	0
+dopamine transport	GO_0015872	0	1	0	0	0
+dopamine transmembrane transporter activity	GO_0005329	0	1	0	0	0
+dopamine secretion, neurotransmission	GO_0061527	0	1	0	0	0
+dopamine secretion	GO_0014046	0	1	0	0	0
+divalent metal ion transport	GO_0070838	0	1	0	0	0
+divalent metal ion export	GO_0070839	0	1	0	0	0
+divalent inorganic cation transport	GO_0072511	0	1	0	0	0
+divalent inorganic cation transmembrane transporter activity	GO_0072509	0	1	0	0	0
+dicarboxylic acid transport	GO_0006835	0	1	0	0	0
+dicarboxylic acid transmembrane transporter activity	GO_0005310	0	1	0	0	0
+dicarboxylate:inorganic phosphate antiporter activity	GO_0015364	0	1	0	0	0
+diaminopimelate transport	GO_0015830	0	1	0	0	0
+dethiobiotin transmembrane transporter activity	GO_1901604	0	1	0	0	0
+dethiobiotin import into cell	GO_0044757	0	1	0	0	0
+dethiobiotin import	GO_1901690	0	1	0	0	0
+delayed rectifier potassium channel activity	GO_0005251	0	1	0	0	0
+dehydroascorbic acid transporter activity	GO_0033300	0	1	0	0	0
+dehydroascorbic acid transport	GO_0070837	0	1	0	0	0
+daunorubicin-transporting ATPase activity	GO_0043216	0	1	0	0	0
+daunorubicin transport	GO_0043215	0	1	0	0	0
+cytosolic calcium ion transport	GO_0060401	0	1	0	0	0
+cytosine:hydrogen ion symporter activity	GO_0015504	0	1	0	0	0
+cytochrome-c oxidase activity	GO_0004129	0	1	0	0	0
+cystine:glutamate antiporter activity	GO_0015327	0	1	0	0	0
+cystine secondary active transmembrane transporter activity	GO_0015328	0	1	0	0	0
+cysteine-transporting ATPase activity	GO_0033230	0	1	0	0	0
+cysteine-exporting ATPase activity	GO_0032519	0	1	0	0	0
+cysteine transport	GO_0042883	0	1	0	0	0
+cysteine transmembrane transporter activity	GO_0033229	0	1	0	0	0
+cysteine export	GO_0033228	0	1	0	0	0
+cycloheximide:proton antiporter activity	GO_0015309	0	1	0	0	0
+cyclic nucleotide-gated mechanosensitive ion channel activity	GO_0043854	0	1	0	0	0
+cyclic nucleotide-gated ion channel activity	GO_0043855	0	1	0	0	0
+cyanate transport	GO_0015704	0	1	0	0	0
+cyanate transmembrane transporter activity	GO_0015110	0	1	0	0	0
+creatine:sodium symporter activity	GO_0005309	0	1	0	0	0
+creatine transport	GO_0015881	0	1	0	0	0
+creatine transmembrane transporter activity	GO_0005308	0	1	0	0	0
+creatine transmembrane transport	GO_1902598	0	1	0	0	0
+copper-transporting ATPase activity	GO_0043682	0	1	0	0	0
+copper-nicotianamine transmembrane transporter activity	GO_0051982	0	1	0	0	0
+copper-exporting ATPase activity	GO_0004008	0	1	0	0	0
+copper uptake transmembrane transporter activity	GO_0015088	0	1	0	0	0
+copper ion transport	GO_0006825	0	1	0	0	0
+copper ion transmembrane transporter activity	GO_0005375	0	1	0	0	0
+copper ion transmembrane transport	GO_0035434	0	1	0	0	0
+copper ion import into cell	GO_1902861	0	1	0	0	0
+copper ion import into ascospore-type prospore	GO_0097430	0	1	0	0	0
+copper ion import across plasma membrane	GO_0098705	0	1	0	0	0
+copper ion import	GO_0015677	0	1	0	0	0
+copper ion export	GO_0060003	0	1	0	0	0
+copper chelate transmembrane transporter activity	GO_0051981	0	1	0	0	0
+constitutive hydrogen:glucose symporter activity	GO_0005357	0	1	0	0	0
+coenzyme A transport	GO_0015880	0	1	0	0	0
+coenzyme A transmembrane transporter activity	GO_0015228	0	1	0	0	0
+coenzyme A transmembrane transport	GO_0035349	0	1	0	0	0
+cobalt-transporting ATPase activity	GO_0032778	0	1	0	0	0
+cobalt ion transport	GO_0006824	0	1	0	0	0
+cobalt ion transmembrane transporter activity	GO_0015087	0	1	0	0	0
+citric acid secretion	GO_0046720	0	1	0	0	0
+citrate:succinate antiporter activity	GO_0015515	0	1	0	0	0
+citrate:proton symporter activity	GO_0015531	0	1	0	0	0
+citrate transport	GO_0015746	0	1	0	0	0
+citrate transmembrane transporter activity	GO_0015137	0	1	0	0	0
+citrate secondary active transmembrane transporter activity	GO_0071913	0	1	0	0	0
+chromium ion transmembrane transporter activity	GO_0070835	0	1	0	0	0
+chromate transport	GO_0015703	0	1	0	0	0
+chromate transmembrane transporter activity	GO_0015109	0	1	0	0	0
+choline:sodium symporter activity	GO_0005307	0	1	0	0	0
+choline-transporting ATPase activity	GO_0033266	0	1	0	0	0
+choline transport	GO_0015871	0	1	0	0	0
+choline transmembrane transporter activity	GO_0015220	0	1	0	0	0
+chloride-transporting ATPase activity	GO_0008555	0	1	0	0	0
+chloride-activated potassium channel activity	GO_0070089	0	1	0	0	0
+chloride transport	GO_0006821	0	1	0	0	0
+chloride transmembrane transporter activity	GO_0015108	0	1	0	0	0
+chloride transmembrane transport	GO_1902476	0	1	0	0	0
+chloride channel regulator activity	GO_0017081	0	1	0	0	0
+chloride channel inhibitor activity	GO_0019869	0	1	0	0	0
+chloride channel activity	GO_0005254	0	1	0	0	0
+chlorate transport	GO_0015702	0	1	0	0	0
+chlorate transmembrane transporter activity	GO_0015107	0	1	0	0	0
+channel-conductance-controlling ATPase activity	GO_0005260	0	1	0	0	0
+ceramide 1-phosphate transporter activity	GO_1902388	0	1	0	0	0
+ceramide 1-phosphate transport	GO_1902389	0	1	0	0	0
+cellular potassium ion transport	GO_0071804	0	1	0	0	0
+cation:sugar symporter activity	GO_0005402	0	1	0	0	0
+cation:chloride symporter activity	GO_0015377	0	1	0	0	0
+cation:cation antiporter activity	GO_0015491	0	1	0	0	0
+cation:amino acid symporter activity	GO_0005416	0	1	0	0	0
+cation-transporting ATPase activity	GO_0019829	0	1	0	0	0
+cation transport	GO_0006812	0	1	0	0	0
+cation transmembrane transporter activity	GO_0008324	0	1	0	0	0
+cation transmembrane transport	GO_0098655	0	1	0	0	0
+cation efflux transmembrane transporter activity	GO_0046583	0	1	0	0	0
+cation channel activity	GO_0005261	0	1	0	0	0
+carnitine transport	GO_0015879	0	1	0	0	0
+carnitine transmembrane transporter activity	GO_0015226	0	1	0	0	0
+carnitine transmembrane transport	GO_1902603	0	1	0	0	0
+carnitine shuttle	GO_0006853	0	1	0	0	0
+carboxylic acid-transporting ATPase activity	GO_0033284	0	1	0	0	0
+carboxylic acid transport	GO_0046942	0	1	0	0	0
+carboxylic acid transmembrane transporter activity	GO_0046943	0	1	0	0	0
+canalicular bile acid transport	GO_0015722	0	1	0	0	0
+canalicular bile acid transmembrane transporter activity	GO_0015126	0	1	0	0	0
+calcium:sodium antiporter activity involved in regulation of cardiac muscle cell membrane potential	GO_0086038	0	1	0	0	0
+calcium:sodium antiporter activity	GO_0005432	0	1	0	0	0
+calcium:proton antiporter activity	GO_0015369	0	1	0	0	0
+calcium:cation antiporter activity	GO_0015368	0	1	0	0	0
+calcium-transporting ATPase activity involved in regulation of cardiac muscle cell membrane potential	GO_0086039	0	1	0	0	0
+calcium-transporting ATPase activity	GO_0005388	0	1	0	0	0
+calcium-release channel activity	GO_0015278	0	1	0	0	0
+calcium-induced calcium release activity	GO_0048763	0	1	0	0	0
+calcium-activated potassium channel activity	GO_0015269	0	1	0	0	0
+calcium, potassium:sodium antiporter activity	GO_0008273	0	1	0	0	0
+calcium ion transport into cytosol	GO_0060402	0	1	0	0	0
+calcium ion transport from endoplasmic reticulum to cytosol	GO_1903514	0	1	0	0	0
+calcium ion transport from cytosol to endoplasmic reticulum	GO_1903515	0	1	0	0	0
+calcium ion transport	GO_0006816	0	1	0	0	0
+calcium ion transmembrane transporter activity	GO_0015085	0	1	0	0	0
+calcium ion transmembrane transport	GO_0070588	0	1	0	0	0
+calcium ion transmembrane import into mitochondrion	GO_0036444	0	1	0	0	0
+calcium ion transmembrane import into cytosol	GO_0097553	0	1	0	0	0
+calcium ion import into sarcoplasmic reticulum	GO_1990036	0	1	0	0	0
+calcium ion import into cytosol	GO_1902656	0	1	0	0	0
+calcium ion import into cell	GO_1990035	0	1	0	0	0
+calcium ion import across plasma membrane	GO_0098703	0	1	0	0	0
+calcium ion import	GO_0070509	0	1	0	0	0
+calcium ion export from cell	GO_1990034	0	1	0	0	0
+calcium ion export	GO_1901660	0	1	0	0	0
+calcium channel regulator activity	GO_0005246	0	1	0	0	0
+calcium channel inhibitor activity	GO_0019855	0	1	0	0	0
+calcium channel activity	GO_0005262	0	1	0	0	0
+calcium activated cation channel activity	GO_0005227	0	1	0	0	0
+cadmium-transporting ATPase activity	GO_0015434	0	1	0	0	0
+cadmium-exporting ATPase activity	GO_0008551	0	1	0	0	0
+cadmium ion transport	GO_0015691	0	1	0	0	0
+cadmium ion transmembrane transporter activity	GO_0015086	0	1	0	0	0
+cadmium ion transmembrane transport	GO_0070574	0	1	0	0	0
+cadmium ion import into vacuole	GO_0036249	0	1	0	0	0
+cadaverine transport	GO_0015839	0	1	0	0	0
+cadaverine transmembrane transporter activity	GO_0015490	0	1	0	0	0
+cGMP transport	GO_0070731	0	1	0	0	0
+cAMP transport	GO_0070730	0	1	0	0	0
+cADPR-sensitive calcium-release channel activity	GO_0072346	0	1	0	0	0
+branched-chain amino acid:sodium symporter activity	GO_0015657	0	1	0	0	0
+branched-chain amino acid transport	GO_0015803	0	1	0	0	0
+branched-chain amino acid transmembrane transporter activity	GO_0015658	0	1	0	0	0
+borate uptake transmembrane transporter activity	GO_0080138	0	1	0	0	0
+borate transport	GO_0046713	0	1	0	0	0
+borate transmembrane transporter activity	GO_0046715	0	1	0	0	0
+borate transmembrane transport	GO_0035445	0	1	0	0	0
+borate efflux transmembrane transporter activity	GO_0080139	0	1	0	0	0
+biotin transporter activity	GO_0015225	0	1	0	0	0
+biotin transport	GO_0015878	0	1	0	0	0
+biotin transmembrane transporter activity	GO_1901603	0	1	0	0	0
+biotin import into cell	GO_0044756	0	1	0	0	0
+biotin import	GO_1901689	0	1	0	0	0
+bilirubin transport	GO_0015723	0	1	0	0	0
+bilirubin transmembrane transporter activity	GO_0015127	0	1	0	0	0
+bilirubin secondary active transmembrane transporter activity	GO_0015351	0	1	0	0	0
+bile acid:sodium symporter activity	GO_0008508	0	1	0	0	0
+bile acid-exporting ATPase activity	GO_0015432	0	1	0	0	0
+bile acid transmembrane transporter activity	GO_0015125	0	1	0	0	0
+bile acid secretion	GO_0032782	0	1	0	0	0
+bile acid and bile salt transport	GO_0015721	0	1	0	0	0
+bicarbonate transport	GO_0015701	0	1	0	0	0
+bicarbonate transmembrane transporter activity	GO_0015106	0	1	0	0	0
+betaine-transporting ATPase activity	GO_0031458	0	1	0	0	0
+beta-hydroxybutyrate transmembrane transporter activity	GO_0097253	0	1	0	0	0
+beta-alanine transport	GO_0001762	0	1	0	0	0
+beta-alanine transmembrane transporter activity	GO_0001761	0	1	0	0	0
+benzoate transporter activity	GO_0042925	0	1	0	0	0
+benzoate transport	GO_0042919	0	1	0	0	0
+benomyl:proton antiporter activity	GO_0015310	0	1	0	0	0
+basic amino acid transport	GO_0015802	0	1	0	0	0
+basic amino acid transmembrane transporter activity	GO_0015174	0	1	0	0	0
+basic amino acid transmembrane import into vacuole	GO_0034490	0	1	0	0	0
+basic amino acid transmembrane export from vacuole	GO_0034488	0	1	0	0	0
+azole:proton antiporter activity	GO_0045119	0	1	0	0	0
+auxin:proton symporter activity	GO_0009672	0	1	0	0	0
+aspartate:alanine antiporter activity	GO_0070906	0	1	0	0	0
+aspartate transport	GO_0015810	0	1	0	0	0
+aspartate transmembrane import into vacuole	GO_0090453	0	1	0	0	0
+aspartate secretion, neurotransmission	GO_0061530	0	1	0	0	0
+aspartate secretion	GO_0061528	0	1	0	0	0
+asparagine transport	GO_0006867	0	1	0	0	0
+asparagine import	GO_0090469	0	1	0	0	0
+arsenite-transmembrane transporting ATPase activity	GO_0015446	0	1	0	0	0
+arsenite transport	GO_0015700	0	1	0	0	0
+arsenite transmembrane transporter activity	GO_0015105	0	1	0	0	0
+arsenite secondary active transmembrane transporter activity	GO_0008490	0	1	0	0	0
+arsenate ion transmembrane transporter activity	GO_1901683	0	1	0	0	0
+arsenate ion transmembrane transport	GO_1901684	0	1	0	0	0
+aromatic amino acid:proton symporter activity	GO_0015494	0	1	0	0	0
+aromatic amino acid transport	GO_0015801	0	1	0	0	0
+aromatic amino acid transmembrane transporter activity	GO_0015173	0	1	0	0	0
+arginine:ornithine antiporter activity	GO_0043858	0	1	0	0	0
+arginine:agmatine antiporter activity	GO_0043862	0	1	0	0	0
+arginine-importing ATPase activity	GO_0015598	0	1	0	0	0
+arginine transport	GO_0015809	0	1	0	0	0
+arginine transmembrane transporter activity	GO_0015181	0	1	0	0	0
+arginine transmembrane import into vacuole	GO_0090458	0	1	0	0	0
+arginine import	GO_0090467	0	1	0	0	0
+arachidonic acid secretion	GO_0050482	0	1	0	0	0
+arabinose:proton symporter activity	GO_0015518	0	1	0	0	0
+arabinose efflux transmembrane transporter activity	GO_0015523	0	1	0	0	0
+antimonite-transporting ATPase activity	GO_0042961	0	1	0	0	0
+antimonite transport	GO_0015699	0	1	0	0	0
+antimonite transmembrane transporter activity	GO_0015104	0	1	0	0	0
+antimonite secondary active transmembrane transporter activity	GO_0042960	0	1	0	0	0
+anion:cation symporter activity	GO_0015296	0	1	0	0	0
+anion:anion antiporter activity	GO_0015301	0	1	0	0	0
+anion transport	GO_0006820	0	1	0	0	0
+anion transmembrane-transporting ATPase activity	GO_0043225	0	1	0	0	0
+anion transmembrane transporter activity	GO_0008509	0	1	0	0	0
+anion transmembrane transport	GO_0098656	0	1	0	0	0
+anion channel activity	GO_0005253	0	1	0	0	0
+ammonium transport	GO_0015696	0	1	0	0	0
+ammonium transmembrane transporter activity	GO_0008519	0	1	0	0	0
+ammonium transmembrane transport	GO_0072488	0	1	0	0	0
+ammonium channel activity	GO_0015251	0	1	0	0	0
+aminotriazole:proton antiporter activity	GO_0015314	0	1	0	0	0
+aminophospholipid transporter activity	GO_0015247	0	1	0	0	0
+aminophospholipid transport	GO_0015917	0	1	0	0	0
+amino-acid betaine transmembrane transporter activity	GO_0015199	0	1	0	0	0
+amino acid-transporting ATPase activity	GO_0015424	0	1	0	0	0
+amino acid-importing ATPase activity	GO_0032520	0	1	0	0	0
+amino acid-exporting ATPase activity	GO_0032518	0	1	0	0	0
+amino acid uptake involved in synaptic transmission	GO_0051933	0	1	0	0	0
+amino acid transport	GO_0006865	0	1	0	0	0
+amino acid transmembrane transporter activity	GO_0015171	0	1	0	0	0
+amino acid transmembrane transport	GO_0003333	0	1	0	0	0
+amino acid transmembrane import into vacuole	GO_0032975	0	1	0	0	0
+amino acid transmembrane import	GO_0044745	0	1	0	0	0
+amino acid transmembrane export from vacuole	GO_0032974	0	1	0	0	0
+amino acid transmembrane export	GO_0044746	0	1	0	0	0
+amino acid import into cell	GO_1902837	0	1	0	0	0
+amino acid import across plasma membrane	GO_0089718	0	1	0	0	0
+amino acid import	GO_0043090	0	1	0	0	0
+amino acid export	GO_0032973	0	1	0	0	0
+amiloride:proton antiporter activity	GO_0015308	0	1	0	0	0
+aluminum ion transmembrane transporter activity	GO_0015083	0	1	0	0	0
+aluminum ion transmembrane transport	GO_1902602	0	1	0	0	0
+aluminum cation transport	GO_0015690	0	1	0	0	0
+alpha-ketoglutarate:proton symporter activity	GO_0015532	0	1	0	0	0
+alpha-ketoglutarate transport	GO_0015742	0	1	0	0	0
+alpha-ketoglutarate transmembrane transporter activity	GO_0015139	0	1	0	0	0
+alpha-glucoside:proton symporter activity	GO_0005352	0	1	0	0	0
+alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity	GO_0004971	0	1	0	0	0
+allantoin uptake transmembrane transporter activity	GO_0005274	0	1	0	0	0
+allantoate transport	GO_0015719	0	1	0	0	0
+allantoate transmembrane transporter activity	GO_0015124	0	1	0	0	0
+alkanesulfonate transporter activity	GO_0042959	0	1	0	0	0
+alkanesulfonate transport	GO_0042918	0	1	0	0	0
+aldonate transport	GO_0042873	0	1	0	0	0
+aldonate transmembrane transporter activity	GO_0042879	0	1	0	0	0
+aldarate transport	GO_0042869	0	1	0	0	0
+aldarate transmembrane transporter activity	GO_0042876	0	1	0	0	0
+alanine:sodium symporter activity	GO_0015655	0	1	0	0	0
+alanine transport	GO_0032328	0	1	0	0	0
+alanine transmembrane transporter activity	GO_0022858	0	1	0	0	0
+agmatine:putrescine antiporter activity	GO_0043861	0	1	0	0	0
+aerobactin transport	GO_0019271	0	1	0	0	0
+acyl carnitine transmembrane transporter activity	GO_0015227	0	1	0	0	0
+active ion transmembrane transporter activity	GO_0022853	0	1	0	0	0
+activation of store-operated calcium channel activity	GO_0032237	0	1	0	0	0
+acridine:proton antiporter activity	GO_0042962	0	1	0	0	0
+acidic amino acid transport	GO_0015800	0	1	0	0	0
+acidic amino acid transmembrane transporter activity	GO_0015172	0	1	0	0	0
+acid-sensing ion channel activity	GO_0044736	0	1	0	0	0
+achromobactin transporter activity	GO_0042934	0	1	0	0	0
+achromobactin transport	GO_0042935	0	1	0	0	0
+acetylcholine:proton antiporter activity	GO_0005278	0	1	0	0	0
+acetylcholine-gated cation channel activity	GO_0022848	0	1	0	0	0
+acetylcholine-activated cation-selective channel activity	GO_0004889	0	1	0	0	0
+acetylcholine uptake	GO_0051630	0	1	0	0	0
+acetylcholine transport	GO_0015870	0	1	0	0	0
+acetylcholine transmembrane transporter activity	GO_0005277	0	1	0	0	0
+acetylcholine secretion, neurotransmission	GO_0014055	0	1	0	0	0
+acetylcholine secretion	GO_0061526	0	1	0	0	0
+acetyl-CoA:CoA antiporter activity	GO_0015325	0	1	0	0	0
+acetyl-CoA transporter activity	GO_0008521	0	1	0	0	0
+acetyl-CoA transport	GO_0015876	0	1	0	0	0
+acetyl-CoA transmembrane transport	GO_0035348	0	1	0	0	0
+acetate:proton symporter activity	GO_0015360	0	1	0	0	0
+acetate:cation symporter activity	GO_0043893	0	1	0	0	0
+acetate transport	GO_0006846	0	1	0	0	0
+acetate transmembrane transporter activity	GO_0015123	0	1	0	0	0
+acetate transmembrane transport	GO_0035433	0	1	0	0	0
+abscisic acid transporter activity	GO_0090440	0	1	0	0	0
+abscisic acid transport	GO_0080168	0	1	0	0	0
+UDP-xylose transport	GO_0015790	0	1	0	0	0
+UDP-xylose transmembrane transporter activity	GO_0005464	0	1	0	0	0
+UDP-glucuronic acid transport	GO_0015787	0	1	0	0	0
+UDP-glucuronic acid transmembrane transporter activity	GO_0005461	0	1	0	0	0
+UDP-glucose transport	GO_0015786	0	1	0	0	0
+UDP-glucose transmembrane transporter activity	GO_0005460	0	1	0	0	0
+UDP-galactose transport	GO_0015785	0	1	0	0	0
+UDP-galactose transmembrane transporter activity	GO_0005459	0	1	0	0	0
+UDP-galactose transmembrane transport	GO_0072334	0	1	0	0	0
+UDP-galactose transmembrane import into Golgi lumen	GO_0097624	0	1	0	0	0
+UDP-N-acetylglucosamine transport	GO_0015788	0	1	0	0	0
+UDP-N-acetylglucosamine transmembrane transporter activity	GO_0005462	0	1	0	0	0
+UDP-N-acetylgalactosamine transport	GO_0015789	0	1	0	0	0
+UDP-N-acetylgalactosamine transmembrane transporter activity	GO_0005463	0	1	0	0	0
+S-methylmethionine transport	GO_0015806	0	1	0	0	0
+S-methylmethionine transmembrane transporter activity	GO_0000100	0	1	0	0	0
+S-adenosyl-L-methionine transport	GO_0015805	0	1	0	0	0
+S-adenosyl-L-methionine transmembrane transporter activity	GO_0000095	0	1	0	0	0
+S-adenosyl-L-methionine transmembrane transport	GO_1901962	0	1	0	0	0
+NAD(P)+ transhydrogenase (B-specific) activity	GO_0003957	0	1	0	0	0
+NAADP-sensitive calcium-release channel activity	GO_0072345	0	1	0	0	0
+N-methylnicotinate transporter activity	GO_0090417	0	1	0	0	0
+N-methylnicotinate transport	GO_2001143	0	1	0	0	0
+N-methyl-D-aspartate selective glutamate receptor activity	GO_0004972	0	1	0	0	0
+L-valine transmembrane transporter activity	GO_0005304	0	1	0	0	0
+L-tyrosine transmembrane transporter activity	GO_0005302	0	1	0	0	0
+L-tyrosine transmembrane import into vacuole	GO_0090514	0	1	0	0	0
+L-tyrosine import	GO_0036232	0	1	0	0	0
+L-tryptophan transmembrane transporter activity	GO_0015196	0	1	0	0	0
+L-threonine transmembrane transporter activity	GO_0015195	0	1	0	0	0
+L-threonine import	GO_0036231	0	1	0	0	0
+L-serine transport	GO_0015825	0	1	0	0	0
+L-serine transmembrane transporter activity	GO_0015194	0	1	0	0	0
+L-serine transmembrane import into vacuole	GO_0090516	0	1	0	0	0
+L-serine import	GO_0090479	0	1	0	0	0
+L-proline transmembrane transporter activity	GO_0015193	0	1	0	0	0
+L-phenylalanine transmembrane transporter activity	GO_0015192	0	1	0	0	0
+L-ornithine transmembrane transporter activity	GO_0000064	0	1	0	0	0
+L-ornithine transmembrane transport	GO_1903352	0	1	0	0	0
+L-ornithine transmembrane export from vacuole	GO_0089706	0	1	0	0	0
+L-ornithine import into cell	GO_1903411	0	1	0	0	0
+L-ornithine import across plasma membrane	GO_0097640	0	1	0	0	0
+L-methionine transmembrane transporter activity	GO_0015191	0	1	0	0	0
+L-methionine secondary active transmembrane transporter activity	GO_0000102	0	1	0	0	0
+L-lysine transport	GO_1902022	0	1	0	0	0
+L-lysine transmembrane transporter activity	GO_0015189	0	1	0	0	0
+L-lysine transmembrane transport	GO_1903401	0	1	0	0	0
+L-lysine transmembrane import into vacuole	GO_0090517	0	1	0	0	0
+L-lysine transmembrane export from vacuole	GO_0089707	0	1	0	0	0
+L-lysine import involved in cellular response to nitrogen starvation	GO_1901482	0	1	0	0	0
+L-lysine import into cell	GO_1903410	0	1	0	0	0
+L-lysine import across plasma membrane	GO_0097639	0	1	0	0	0
+L-lysine import	GO_0061461	0	1	0	0	0
+L-lysine efflux transmembrane transporter activity	GO_0015661	0	1	0	0	0
+L-leucine transmembrane transporter activity	GO_0015190	0	1	0	0	0
+L-isoleucine transmembrane transporter activity	GO_0015188	0	1	0	0	0
+L-isoleucine import	GO_0090477	0	1	0	0	0
+L-idonate transport	GO_0015726	0	1	0	0	0
+L-idonate transmembrane transporter activity	GO_0015568	0	1	0	0	0
+L-hydroxyproline transmembrane transporter activity	GO_0034590	0	1	0	0	0
+L-histidine transport	GO_1902024	0	1	0	0	0
+L-histidine transmembrane transporter activity	GO_0005290	0	1	0	0	0
+L-histidine transmembrane transport	GO_0089709	0	1	0	0	0
+L-histidine transmembrane import into vacuole	GO_0090513	0	1	0	0	0
+L-histidine transmembrane export from vacuole	GO_0089708	0	1	0	0	0
+L-histidine import	GO_0061460	0	1	0	0	0
+L-glutamine transmembrane transporter activity	GO_0015186	0	1	0	0	0
+L-glutamine import	GO_0036229	0	1	0	0	0
+L-glutamate uptake involved in synaptic transmission	GO_0051935	0	1	0	0	0
+L-glutamate transport	GO_0015813	0	1	0	0	0
+L-glutamate transmembrane transporter activity	GO_0005313	0	1	0	0	0
+L-glutamate transmembrane transport	GO_0089711	0	1	0	0	0
+L-glutamate transmembrane import into vacuole	GO_0090515	0	1	0	0	0
+L-glutamate transmembrane export from vacuole	GO_0089704	0	1	0	0	0
+L-glutamate import involved in cellular response to nitrogen starvation	GO_1901481	0	1	0	0	0
+L-glutamate import into cell	GO_1990123	0	1	0	0	0
+L-glutamate import across plasma membrane	GO_0098712	0	1	0	0	0
+L-glutamate import	GO_0051938	0	1	0	0	0
+L-diaminopimelate transmembrane transporter activity	GO_0015626	0	1	0	0	0
+L-cystine transport	GO_0015811	0	1	0	0	0
+L-cystine transmembrane transporter activity	GO_0015184	0	1	0	0	0
+L-aspartate transport	GO_0070778	0	1	0	0	0
+L-aspartate transmembrane transporter activity	GO_0015183	0	1	0	0	0
+L-aspartate transmembrane transport	GO_0089712	0	1	0	0	0
+L-aspartate transmembrane export from vacuole	GO_0089703	0	1	0	0	0
+L-asparagine transmembrane transporter activity	GO_0015182	0	1	0	0	0
+L-ascorbic acid transporter activity	GO_0015229	0	1	0	0	0
+L-ascorbic acid transport	GO_0015882	0	1	0	0	0
+L-ascorbate:sodium symporter activity	GO_0008520	0	1	0	0	0
+L-arginine transport	GO_1902023	0	1	0	0	0
+L-arginine transmembrane transporter activity	GO_0061459	0	1	0	0	0
+L-arginine transmembrane transport	GO_1903400	0	1	0	0	0
+L-arginine transmembrane import into vacuole	GO_0090518	0	1	0	0	0
+L-arginine import into cell	GO_1902765	0	1	0	0	0
+L-arginine import across plasma membrane	GO_0097638	0	1	0	0	0
+L-arginine import	GO_0043091	0	1	0	0	0
+L-amino acid transport	GO_0015807	0	1	0	0	0
+L-amino acid transmembrane transporter activity	GO_0015179	0	1	0	0	0
+L-amino acid import	GO_0043092	0	1	0	0	0
+L-amino acid efflux transmembrane transporter activity	GO_0034639	0	1	0	0	0
+L-alpha-amino acid transmembrane transport	GO_1902475	0	1	0	0	0
+L-alanine transport	GO_0015808	0	1	0	0	0
+L-alanine transmembrane transporter activity	GO_0015180	0	1	0	0	0
+Intermediate conductance calcium-activated potassium channel activity	GO_0022894	0	1	0	0	0
+Golgi calcium ion transport	GO_0032472	0	1	0	0	0
+Golgi calcium ion export	GO_0061454	0	1	0	0	0
+GTP:GDP antiporter activity	GO_0010292	0	1	0	0	0
+GTP synthesis coupled proton transport	GO_0015987	0	1	0	0	0
+GABA-gated chloride ion channel activity	GO_0022851	0	1	0	0	0
+G-protein activated inward rectifier potassium channel activity	GO_0015467	0	1	0	0	0
+FMN transmembrane transporter activity	GO_0044610	0	1	0	0	0
+FAD transport	GO_0015883	0	1	0	0	0
+FAD transmembrane transporter activity	GO_0015230	0	1	0	0	0
+FAD transmembrane transport	GO_0035350	0	1	0	0	0
+FAD carrier activity	GO_0005472	0	1	0	0	0
+D-xylose:proton symporter activity	GO_0015519	0	1	0	0	0
+D-serine transport	GO_0042942	0	1	0	0	0
+D-serine transmembrane transporter activity	GO_0042945	0	1	0	0	0
+D-methionine-transporting ATPase activity	GO_0033232	0	1	0	0	0
+D-methionine-importing ATPase activity	GO_0032522	0	1	0	0	0
+D-methionine-exporting ATPase activity	GO_0032521	0	1	0	0	0
+D-methionine transport	GO_0048473	0	1	0	0	0
+D-methionine transmembrane transporter activity	GO_0048474	0	1	0	0	0
+D-glucuronate transport	GO_0042874	0	1	0	0	0
+D-glucuronate transmembrane transporter activity	GO_0042880	0	1	0	0	0
+D-glucose:proton symporter activity	GO_0055055	0	1	0	0	0
+D-glucarate transport	GO_0042870	0	1	0	0	0
+D-glucarate transmembrane transporter activity	GO_0042878	0	1	0	0	0
+D-galactonate transport	GO_0042875	0	1	0	0	0
+D-galactonate transmembrane transporter activity	GO_0042881	0	1	0	0	0
+D-aspartate transport	GO_0070777	0	1	0	0	0
+D-aspartate import	GO_0070779	0	1	0	0	0
+D-amino acid transport	GO_0042940	0	1	0	0	0
+D-amino acid transmembrane transporter activity	GO_0042943	0	1	0	0	0
+D-alanine transport	GO_0042941	0	1	0	0	0
+D-alanine transmembrane transporter activity	GO_0042944	0	1	0	0	0
+CMP-N-acetylneuraminate transport	GO_0015782	0	1	0	0	0
+CMP-N-acetylneuraminate transmembrane transporter activity	GO_0005456	0	1	0	0	0
+C4-dicarboxylate transport	GO_0015740	0	1	0	0	0
+C4-dicarboxylate transmembrane transporter activity	GO_0015556	0	1	0	0	0
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	GO_0044769	0	1	0	0	0
+ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism	GO_0015662	0	1	0	0	0
+ATPase activity, coupled to transmembrane movement of ions	GO_0042625	0	1	0	0	0
+ATP:ADP antiporter activity	GO_0005471	0	1	0	0	0
+ATP-gated ion channel activity	GO_0035381	0	1	0	0	0
+ATP-binding and phosphorylation-dependent chloride channel activity	GO_0005224	0	1	0	0	0
+ATP-activated inward rectifier potassium channel activity	GO_0015272	0	1	0	0	0
+ATP transport	GO_0015867	0	1	0	0	0
+ATP transmembrane transporter activity	GO_0005347	0	1	0	0	0
+ATP synthesis coupled proton transport	GO_0015986	0	1	0	0	0
+ATP hydrolysis coupled proton transport	GO_0015991	0	1	0	0	0
+AMP transport	GO_0080121	0	1	0	0	0
+AMP transmembrane transporter activity	GO_0080122	0	1	0	0	0
+ADP transport	GO_0015866	0	1	0	0	0
+ADP transmembrane transporter activity	GO_0015217	0	1	0	0	0
+A-type (transient outward) potassium channel activity	GO_0005250	0	1	0	0	0
+5-formyltetrahydrofolate transporter activity	GO_0015231	0	1	0	0	0
+5-formyltetrahydrofolate transport	GO_0015885	0	1	0	0	0
+5'-adenylyl sulfate transmembrane transporter activity	GO_1902557	0	1	0	0	0
+5'-adenylyl sulfate transmembrane transport	GO_1902558	0	1	0	0	0
+4-hydroxyphenylacetate transport	GO_1900754	0	1	0	0	0
+4-hydroxyphenylacetate transmembrane transporter activity	GO_1901241	0	1	0	0	0
+4-(trimethylammonio)butanoate transport	GO_1900751	0	1	0	0	0
+4-(trimethylammonio)butanoate transmembrane transporter activity	GO_1901236	0	1	0	0	0
+3-phenylpropionic acid transport	GO_0042889	0	1	0	0	0
+3-phenylpropionic acid transmembrane transporter activity	GO_0042890	0	1	0	0	0
+3-hydroxyphenylpropionic acid transporter activity	GO_0042926	0	1	0	0	0
+3-hydroxyphenylpropionic acid transport	GO_0042920	0	1	0	0	0
+3'-phosphoadenosine 5'-phosphosulfate transport	GO_0046963	0	1	0	0	0
+3'-phosphoadenosine 5'-phosphosulfate transmembrane transporter activity	GO_0046964	0	1	0	0	0
+3'-phospho-5'-adenylyl sulfate transmembrane transport	GO_1902559	0	1	0	0	0
+2-keto-3-deoxygluconate:proton symporter activity	GO_0015649	0	1	0	0	0
+2-keto-3-deoxygluconate transport	GO_0046411	0	1	0	0	0
+2-isopropylmalate(2-) transmembrane transport	GO_1902357	0	1	0	0	0
+(R)-carnitine:4-(trimethylammonio)butanoate antiporter activity	GO_0044667	0	1	0	0	0
+(R)-carnitine transport	GO_1900749	0	1	0	0	0
+(R)-carnitine transmembrane transporter activity	GO_1901235	0	1	0	0	0
+(R)-carnitine transmembrane transport	GO_1902270	0	1	0	0	0

@@ -1,0 +1,190 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+magnesium ion binding	GO_0000287	1	1	1	0	0
+zinc ion binding	GO_0008270	0	1	0	0	0
+vanadium ion binding	GO_0051212	0	1	0	0	0
+tyrosine binding	GO_0072545	0	1	0	0	0
+tungstate binding	GO_1901359	0	1	0	0	0
+transition metal ion binding	GO_0046914	0	1	0	0	0
+thiosulfate binding	GO_0036173	0	1	0	0	0
+thiamine pyrophosphate binding	GO_0030976	0	1	0	0	0
+superoxide dismutase copper chaperone activity	GO_0016532	0	1	0	0	0
+sulfate binding	GO_0043199	0	1	0	0	0
+stearic acid binding	GO_0070540	0	1	0	0	0
+spermidine binding	GO_0019809	0	1	0	0	0
+sodium ion binding	GO_0031402	0	1	0	0	0
+sn-glycerol 3-phosphate binding	GO_1902516	0	1	0	0	0
+sialic acid binding	GO_0033691	0	1	0	0	0
+serotonin binding	GO_0051378	0	1	0	0	0
+serine binding	GO_0070905	0	1	0	0	0
+salicylic acid binding	GO_1901149	0	1	0	0	0
+riboflavin binding	GO_1902444	0	1	0	0	0
+retinoic acid binding	GO_0001972	0	1	0	0	0
+quercitrin binding	GO_2001227	0	1	0	0	0
+pyrroloquinoline quinone binding	GO_0070968	0	1	0	0	0
+pyridoxamine binding	GO_0070281	0	1	0	0	0
+pyridoxal phosphate binding	GO_0030170	0	1	0	0	0
+putrescine binding	GO_0019810	0	1	0	0	0
+purine ribonucleoside triphosphate binding	GO_0035639	0	1	0	0	0
+proton binding	GO_1901691	0	1	0	0	0
+proline binding	GO_1901973	0	1	0	0	0
+potassium ion binding	GO_0030955	0	1	0	0	0
+phthalate binding	GO_0035273	0	1	0	0	0
+phosphoserine binding	GO_0050815	0	1	0	0	0
+phosphopantetheine binding	GO_0031177	0	1	0	0	0
+phospholipid binding	GO_0005543	0	1	0	0	0
+phosphatidylserine binding	GO_0001786	0	1	0	0	0
+phosphatidylinositol-5-phosphate binding	GO_0010314	0	1	0	0	0
+phosphatidylinositol-4-phosphate binding	GO_0070273	0	1	0	0	0
+phosphatidylinositol-4,5-bisphosphate binding	GO_0005546	0	1	0	0	0
+phosphatidylinositol-3-phosphate binding	GO_0032266	0	1	0	0	0
+phosphatidylinositol-3,5-bisphosphate binding	GO_0080025	0	1	0	0	0
+phosphatidylinositol-3,4-bisphosphate binding	GO_0043325	0	1	0	0	0
+phosphatidylinositol-3,4,5-trisphosphate binding	GO_0005547	0	1	0	0	0
+phosphatidylinositol phosphate binding	GO_1901981	0	1	0	0	0
+phosphatidylinositol bisphosphate binding	GO_1902936	0	1	0	0	0
+phosphatidylinositol binding	GO_0035091	0	1	0	0	0
+phosphatidylglycerol binding	GO_1901611	0	1	0	0	0
+phosphatidylethanolamine binding	GO_0008429	0	1	0	0	0
+phosphatidylcholine binding	GO_0031210	0	1	0	0	0
+phosphatidic acid binding	GO_0070300	0	1	0	0	0
+phosphate ion binding	GO_0042301	0	1	0	0	0
+penicillin binding	GO_0008658	0	1	0	0	0
+oleic acid binding	GO_0070538	0	1	0	0	0
+nickel cation binding	GO_0016151	0	1	0	0	0
+monocarboxylic acid binding	GO_0033293	0	1	0	0	0
+mono-ADP-D-ribose binding	GO_0072571	0	1	0	0	0
+molybdenum ion binding	GO_0030151	0	1	0	0	0
+molybdate ion binding	GO_0030973	0	1	0	0	0
+modified amino acid binding	GO_0072341	0	1	0	0	0
+methotrexate binding	GO_0051870	0	1	0	0	0
+metal ion binding	GO_0046872	0	1	0	0	0
+metal chelating activity	GO_0046911	0	1	0	0	0
+mercury ion binding	GO_0045340	0	1	0	0	0
+manganese ion binding	GO_0030145	0	1	0	0	0
+lysophosphatidic acid binding	GO_0035727	0	1	0	0	0
+long-chain fatty acyl-CoA binding	GO_0036042	0	1	0	0	0
+long-chain fatty acid binding	GO_0036041	0	1	0	0	0
+lithocholic acid binding	GO_1902121	0	1	0	0	0
+lithium ion binding	GO_0031403	0	1	0	0	0
+lipoic acid binding	GO_0031405	0	1	0	0	0
+lipoarabinomannan binding	GO_0001876	0	1	0	0	0
+linoleic acid binding	GO_0070539	0	1	0	0	0
+leucine binding	GO_0070728	0	1	0	0	0
+leptomycin B binding	GO_1901707	0	1	0	0	0
+lead ion binding	GO_0032791	0	1	0	0	0
+iron ion binding	GO_0005506	0	1	0	0	0
+iron chaperone activity	GO_0034986	0	1	0	0	0
+ion binding	GO_0043167	0	1	0	0	0
+inositol hexakisphosphate binding	GO_0000822	0	1	0	0	0
+inositol 1,4,5 trisphosphate binding	GO_0070679	0	1	0	0	0
+inositol 1,3,4,5 tetrakisphosphate binding	GO_0043533	0	1	0	0	0
+icosatetraenoic acid binding	GO_0050543	0	1	0	0	0
+icosanoid binding	GO_0050542	0	1	0	0	0
+hypochlorite binding	GO_1901531	0	1	0	0	0
+hydroxyectoine binding	GO_0033295	0	1	0	0	0
+histamine binding	GO_0051381	0	1	0	0	0
+heparin binding	GO_0008201	0	1	0	0	0
+heparan sulfate proteoglycan binding	GO_0043395	0	1	0	0	0
+guanyl deoxyribonucleotide binding	GO_0032560	0	1	0	0	0
+guanosine tetraphosphate binding	GO_0097216	0	1	0	0	0
+glycine binding	GO_0016594	0	1	0	0	0
+glutathione binding	GO_0043295	0	1	0	0	0
+glutamine binding	GO_0070406	0	1	0	0	0
+glutamate binding	GO_0016595	0	1	0	0	0
+gibberellin binding	GO_0010331	0	1	0	0	0
+galacturonate binding	GO_0048032	0	1	0	0	0
+fructose-6-phosphate binding	GO_0070095	0	1	0	0	0
+folic acid binding	GO_0005542	0	1	0	0	0
+flavonol binding	GO_0097244	0	1	0	0	0
+flavin adenine dinucleotide binding	GO_0050660	0	1	0	0	0
+ferrous iron binding	GO_0008198	0	1	0	0	0
+ferric iron binding	GO_0008199	0	1	0	0	0
+fatty-acyl-CoA binding	GO_0000062	0	1	0	0	0
+fatty acid binding	GO_0005504	0	1	0	0	0
+ethanol binding	GO_0035276	0	1	0	0	0
+ectoine binding	GO_0033294	0	1	0	0	0
+dopamine binding	GO_0035240	0	1	0	0	0
+dihydrofolic acid binding	GO_0051871	0	1	0	0	0
+dethiobiotin binding	GO_1901602	0	1	0	0	0
+dGTP binding	GO_0032567	0	1	0	0	0
+dGMP binding	GO_0032565	0	1	0	0	0
+dGDP binding	GO_0032566	0	1	0	0	0
+dATP binding	GO_0032564	0	1	0	0	0
+dAMP binding	GO_0032562	0	1	0	0	0
+dADP binding	GO_0032563	0	1	0	0	0
+cyclic-di-GMP binding	GO_0035438	0	1	0	0	0
+cyclic-GMP-AMP binding	GO_0061507	0	1	0	0	0
+cuprous ion binding	GO_1903136	0	1	0	0	0
+cupric ion binding	GO_1903135	0	1	0	0	0
+copper ion sensor activity	GO_0097077	0	1	0	0	0
+copper ion binding	GO_0005507	0	1	0	0	0
+copper chaperone activity	GO_0016531	0	1	0	0	0
+coenzyme F420 binding	GO_0070967	0	1	0	0	0
+cocaine binding	GO_0019811	0	1	0	0	0
+cobalt ion binding	GO_0050897	0	1	0	0	0
+chondroitin sulfate proteoglycan binding	GO_0035373	0	1	0	0	0
+chondroitin sulfate binding	GO_0035374	0	1	0	0	0
+choline binding	GO_0033265	0	1	0	0	0
+chloride ion binding	GO_0031404	0	1	0	0	0
+chitosan binding	GO_2001080	0	1	0	0	0
+chenodeoxycholic acid binding	GO_1902122	0	1	0	0	0
+ceramide 1-phosphate binding	GO_1902387	0	1	0	0	0
+cation binding	GO_0043169	0	1	0	0	0
+cardiolipin binding	GO_1901612	0	1	0	0	0
+carboxylic acid binding	GO_0031406	0	1	0	0	0
+carbon monoxide sensor activity	GO_0070027	0	1	0	0	0
+carbon monoxide binding	GO_0070025	0	1	0	0	0
+calcium-dependent phospholipid binding	GO_0005544	0	1	0	0	0
+calcium ion binding	GO_0005509	0	1	0	0	0
+cadmium ion sensor activity	GO_0097063	0	1	0	0	0
+cadmium ion binding	GO_0046870	0	1	0	0	0
+cGMP binding	GO_0030553	0	1	0	0	0
+cAMP binding	GO_0030552	0	1	0	0	0
+borate binding	GO_0046714	0	1	0	0	0
+biotin binding	GO_0009374	0	1	0	0	0
+bile acid binding	GO_0032052	0	1	0	0	0
+bicarbonate binding	GO_0071890	0	1	0	0	0
+aspartate binding	GO_0070335	0	1	0	0	0
+arginine binding	GO_0034618	0	1	0	0	0
+arachidonic acid binding	GO_0050544	0	1	0	0	0
+anion binding	GO_0043168	0	1	0	0	0
+ammonium ion binding	GO_0070405	0	1	0	0	0
+amino acid binding	GO_0016597	0	1	0	0	0
+alkanesulfonate binding	GO_0043210	0	1	0	0	0
+alkali metal ion binding	GO_0031420	0	1	0	0	0
+acetylcholine binding	GO_0042166	0	1	0	0	0
+abscisic acid binding	GO_0010427	0	1	0	0	0
+XTP binding	GO_1901640	0	1	0	0	0
+UTP binding	GO_0002134	0	1	0	0	0
+RNA polymerase II C-terminal domain phosphoserine binding	GO_1990269	0	1	0	0	0
+NADPH binding	GO_0070402	0	1	0	0	0
+NADP+ binding	GO_0070401	0	1	0	0	0
+NADH binding	GO_0070404	0	1	0	0	0
+NAD+ binding	GO_0070403	0	1	0	0	0
+N-1-naphthylphthalamic acid binding	GO_0010013	0	1	0	0	0
+L-cysteine binding	GO_1902485	0	1	0	0	0
+L-ascorbic acid binding	GO_0031418	0	1	0	0	0
+L-DOPA binding	GO_0072544	0	1	0	0	0
+ITP binding	GO_1901641	0	1	0	0	0
+IMP binding	GO_1902249	0	1	0	0	0
+GTP binding	GO_0005525	0	1	0	0	0
+GPI anchor binding	GO_0034235	0	1	0	0	0
+GMP binding	GO_0019002	0	1	0	0	0
+GDP binding	GO_0019003	0	1	0	0	0
+FMN binding	GO_0010181	0	1	0	0	0
+FADH2 binding	GO_0071950	0	1	0	0	0
+FAD binding	GO_0071949	0	1	0	0	0
+CTP binding	GO_0002135	0	1	0	0	0
+ATP binding	GO_0005524	0	1	0	0	0
+AMP binding	GO_0016208	0	1	0	0	0
+ADP-D-ribose binding	GO_0072570	0	1	0	0	0
+ADP binding	GO_0043531	0	1	0	0	0
+5-oxo-6E,8Z,11Z,14Z-icosatetraenoic acid binding	GO_0050646	0	1	0	0	0
+5-hydroxy-6E,8Z,11Z,14Z-icosatetraenoic acid binding	GO_0050647	0	1	0	0	0
+5-O-phosphono-alpha-D-ribofuranosyl diphosphate binding	GO_1902248	0	1	0	0	0
+5(S)-hydroxyperoxy-6E,8Z,11Z,14Z-icosatetraenoic acid binding	GO_0050648	0	1	0	0	0
+3-sulfino-L-alanine binding	GO_0036127	0	1	0	0	0
+3'-phosphoadenosine 5'-phosphosulfate binding	GO_0050656	0	1	0	0	0
+1-phosphatidylinositol binding	GO_0005545	0	1	0	0	0
+(25S)-Delta(7)-dafachronate binding	GO_1902052	0	1	0	0	0
+(25S)-Delta(4)-dafachronate binding	GO_1902051	0	1	0	0	0

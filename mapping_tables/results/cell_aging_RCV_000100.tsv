@@ -1,0 +1,16 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging	GO_0001311	1	0	1	0	0
+formation of extrachromosomal circular DNA involved in replicative cell aging	GO_0001313	1	0	1	0	0
+extrachromosomal rDNA circle accumulation involved in replicative cell aging	GO_0001310	1	0	1	0	0
+extrachromosomal circular DNA localization involved in cell aging	GO_0034652	1	0	1	0	0
+extrachromosomal circular DNA accumulation involved in replicative cell aging	GO_0001307	1	0	1	0	0
+extrachromosomal circular DNA accumulation involved in cell aging	GO_0007580	1	0	1	0	0
+viral-induced premature senescence	GO_0090401	0	1	0	0	0
+stress-induced premature senescence	GO_0090400	0	1	0	0	0
+replicative senescence	GO_0090399	0	1	0	0	0
+replicative cell aging	GO_0001302	0	1	0	0	0
+oxidative stress-induced premature senescence	GO_0090403	0	1	0	0	0
+oncogene-induced cell senescence	GO_0090402	0	1	0	0	0
+chronological cell aging	GO_0001300	0	1	0	0	0
+cellular senescence	GO_0090398	0	1	0	0	0
+cell aging	GO_0007569	0	1	0	0	0

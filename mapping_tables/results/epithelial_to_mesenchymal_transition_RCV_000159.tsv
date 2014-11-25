@@ -1,0 +1,27 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of epithelial to mesenchymal transition	GO_0010717	1	1	1	0	0
+positive regulation of epithelial to mesenchymal transition	GO_0010718	1	1	1	0	0
+negative regulation of epithelial to mesenchymal transition	GO_0010719	1	1	1	0	0
+epithelial to mesenchymal transition involved in endocardial cushion formation	GO_0003198	1	1	1	0	0
+epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	1	1	1	0	0
+epithelial to mesenchymal transition involved in cardiac fibroblast development	GO_0060940	1	1	1	0	0
+epithelial to mesenchymal transition	GO_0001837	1	1	1	0	0
+clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	1	1	1	0	0
+cardiac epithelial to mesenchymal transition	GO_0060317	1	1	1	0	0
+regulation of neural crest formation	GO_0090299	0	1	0	0	0
+regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	0	0	0
+positive regulation of neural crest formation	GO_0090300	0	1	0	0	0
+positive regulation of mesodermal to mesenchymal transition involved in gastrulation	GO_0060808	0	1	0	0	0
+positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	0	0	0
+neural crest formation	GO_0014029	0	1	0	0	0
+neural crest cell fate specification	GO_0014036	0	1	0	0	0
+neural crest cell fate determination	GO_0014035	0	1	0	0	0
+neural crest cell fate commitment	GO_0014034	0	1	0	0	0
+negative regulation of neural crest formation	GO_0090301	0	1	0	0	0
+negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	0	0	0
+mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	0	0	0
+epicardial cell to mesenchymal cell transition	GO_0003347	0	1	0	0	0
+endocardial cushion to mesenchymal transition involved in heart valve formation	GO_0003199	0	1	0	0	0
+endocardial cushion to mesenchymal transition involved in heart chamber septation	GO_0003200	0	1	0	0	0
+endocardial cushion to mesenchymal transition involved in cardiac skeleton development	GO_0003202	0	1	0	0	0
+endocardial cushion to mesenchymal transition	GO_0090500	0	1	0	0	0

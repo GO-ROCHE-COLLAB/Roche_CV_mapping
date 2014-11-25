@@ -1,0 +1,190 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+pyrimidine-containing compound salvage	GO_0008655	1	1	1	0	0
+pyrimidine-containing compound metabolic process	GO_0072527	1	1	1	0	0
+pyrimidine-containing compound catabolic process	GO_0072529	1	1	1	0	0
+pyrimidine-containing compound biosynthetic process	GO_0072528	1	1	1	0	0
+pyrimidine ribonucleotide salvage	GO_0010138	1	1	1	0	0
+pyrimidine ribonucleotide metabolic process	GO_0009218	1	1	1	0	0
+pyrimidine ribonucleotide interconversion	GO_0015954	1	1	1	0	0
+pyrimidine ribonucleotide catabolic process	GO_0009222	1	1	1	0	0
+pyrimidine ribonucleotide biosynthetic process	GO_0009220	1	1	1	0	0
+pyrimidine ribonucleoside metabolic process	GO_0046131	1	1	1	0	0
+pyrimidine ribonucleoside catabolic process	GO_0046133	1	1	1	0	0
+pyrimidine ribonucleoside biosynthetic process	GO_0046132	1	1	1	0	0
+pyrimidine nucleotide salvage	GO_0032262	1	1	1	0	0
+pyrimidine nucleotide metabolic process	GO_0006220	1	1	1	0	0
+pyrimidine nucleotide interconversion	GO_0015953	1	1	1	0	0
+pyrimidine nucleotide catabolic process	GO_0006244	1	1	1	0	0
+pyrimidine nucleotide biosynthetic process	GO_0006221	1	1	1	0	0
+pyrimidine nucleoside salvage	GO_0043097	1	1	1	0	0
+pyrimidine nucleoside metabolic process	GO_0006213	1	1	1	0	0
+pyrimidine nucleoside interconversion	GO_0019689	1	1	1	0	0
+pyrimidine nucleoside catabolic process	GO_0046135	1	1	1	0	0
+pyrimidine nucleoside biosynthetic process	GO_0046134	1	1	1	0	0
+pyrimidine nucleobase salvage	GO_0043100	1	1	1	0	0
+pyrimidine nucleobase metabolic process	GO_0006206	1	1	1	0	0
+pyrimidine nucleobase fermentation	GO_0043466	1	1	1	0	0
+pyrimidine nucleobase catabolic process	GO_0006208	1	1	1	0	0
+pyrimidine nucleobase biosynthetic process	GO_0019856	1	1	1	0	0
+pyrimidine deoxyribonucleotide salvage	GO_0010139	1	1	1	0	0
+pyrimidine deoxyribonucleotide metabolic process	GO_0009219	1	1	1	0	0
+pyrimidine deoxyribonucleotide interconversion	GO_0015955	1	1	1	0	0
+pyrimidine deoxyribonucleotide catabolic process	GO_0009223	1	1	1	0	0
+pyrimidine deoxyribonucleotide biosynthetic process	GO_0009221	1	1	1	0	0
+pyrimidine deoxyribonucleoside salvage	GO_0043099	1	1	1	0	0
+pyrimidine deoxyribonucleoside metabolic process	GO_0046125	1	1	1	0	0
+pyrimidine deoxyribonucleoside interconversion	GO_0019690	1	1	1	0	0
+pyrimidine deoxyribonucleoside catabolic process	GO_0046127	1	1	1	0	0
+pyrimidine deoxyribonucleoside biosynthetic process	GO_0046126	1	1	1	0	0
+'de novo' pyrimidine nucleobase biosynthetic process	GO_0006207	1	1	1	0	0
+regulation of pyrimidine nucleotide biosynthetic process	GO_1900397	1	0	1	0	0
+regulation of pyrimidine nucleoside transport	GO_0032246	1	0	1	0	0
+regulation of pyrimidine nucleobase metabolic process	GO_0006142	1	0	1	0	0
+pyrimidine-containing compound transmembrane transport	GO_0072531	1	0	1	0	0
+pyrimidine ribonucleoside triphosphate metabolic process	GO_0009208	1	0	1	0	0
+pyrimidine ribonucleoside triphosphate catabolic process	GO_0009210	1	0	1	0	0
+pyrimidine ribonucleoside triphosphate biosynthetic process	GO_0009209	1	0	1	0	0
+pyrimidine ribonucleoside monophosphate metabolic process	GO_0009173	1	0	1	0	0
+pyrimidine ribonucleoside monophosphate catabolic process	GO_0009175	1	0	1	0	0
+pyrimidine ribonucleoside monophosphate biosynthetic process	GO_0009174	1	0	1	0	0
+pyrimidine ribonucleoside diphosphate metabolic process	GO_0009193	1	0	1	0	0
+pyrimidine ribonucleoside diphosphate catabolic process	GO_0009195	1	0	1	0	0
+pyrimidine ribonucleoside diphosphate biosynthetic process	GO_0009194	1	0	1	0	0
+pyrimidine nucleotide-sugar transport	GO_0015781	1	0	1	0	0
+pyrimidine nucleotide transport	GO_0006864	1	0	1	0	0
+pyrimidine nucleoside triphosphate metabolic process	GO_0009147	1	0	1	0	0
+pyrimidine nucleoside triphosphate catabolic process	GO_0009149	1	0	1	0	0
+pyrimidine nucleoside triphosphate biosynthetic process	GO_0009148	1	0	1	0	0
+pyrimidine nucleoside transport	GO_0015864	1	0	1	0	0
+pyrimidine nucleoside monophosphate metabolic process	GO_0009129	1	0	1	0	0
+pyrimidine nucleoside monophosphate catabolic process	GO_0009131	1	0	1	0	0
+pyrimidine nucleoside monophosphate biosynthetic process	GO_0009130	1	0	1	0	0
+pyrimidine nucleoside diphosphate metabolic process	GO_0009138	1	0	1	0	0
+pyrimidine nucleoside diphosphate catabolic process	GO_0009140	1	0	1	0	0
+pyrimidine nucleoside diphosphate biosynthetic process	GO_0009139	1	0	1	0	0
+pyrimidine nucleobase transport	GO_0015855	1	0	1	0	0
+pyrimidine metabolic process	GO_0006205	1	0	1	1	1
+pyrimidine dimer repair by nucleotide-excision repair	GO_0000720	1	0	1	0	0
+pyrimidine dimer repair	GO_0006290	1	0	1	0	0
+pyrimidine deoxyribonucleoside triphosphate metabolic process	GO_0009211	1	0	1	0	0
+pyrimidine deoxyribonucleoside triphosphate catabolic process	GO_0009213	1	0	1	0	0
+pyrimidine deoxyribonucleoside triphosphate biosynthetic process	GO_0009212	1	0	1	0	0
+pyrimidine deoxyribonucleoside monophosphate metabolic process	GO_0009176	1	0	1	0	0
+pyrimidine deoxyribonucleoside monophosphate catabolic process	GO_0009178	1	0	1	0	0
+pyrimidine deoxyribonucleoside monophosphate biosynthetic process	GO_0009177	1	0	1	0	0
+pyrimidine deoxyribonucleoside diphosphate metabolic process	GO_0009196	1	0	1	0	0
+pyrimidine deoxyribonucleoside diphosphate catabolic process	GO_0009198	1	0	1	0	0
+pyrimidine deoxyribonucleoside diphosphate biosynthetic process	GO_0009197	1	0	1	0	0
+positive regulation of pyrimidine nucleotide biosynthetic process	GO_1900399	1	0	1	0	0
+positive regulation of pyrimidine nucleobase metabolic process	GO_0045985	1	0	1	0	0
+negative regulation of pyrimidine nucleotide biosynthetic process	GO_1900398	1	0	1	0	0
+negative regulation of pyrimidine nucleobase metabolic process	GO_0045984	1	0	1	0	0
+uridine metabolic process	GO_0046108	0	1	0	0	0
+uridine catabolic process	GO_0006218	0	1	0	0	0
+uridine biosynthetic process	GO_0046109	0	1	0	0	0
+uracil salvage	GO_0006223	0	1	0	0	0
+uracil metabolic process	GO_0019860	0	1	0	0	0
+uracil catabolic process	GO_0006212	0	1	0	0	0
+uracil biosynthetic process	GO_0046107	0	1	0	0	0
+thymine metabolic process	GO_0019859	0	1	0	0	0
+thymine catabolic process	GO_0006210	0	1	0	0	0
+thymine biosynthetic process	GO_0046106	0	1	0	0	0
+thymidine metabolic process	GO_0046104	0	1	0	0	0
+thymidine catabolic process	GO_0006214	0	1	0	0	0
+thymidine biosynthetic process	GO_0046105	0	1	0	0	0
+thiamine-containing compound metabolic process	GO_0042723	0	1	0	0	0
+thiamine-containing compound catabolic process	GO_0042725	0	1	0	0	0
+thiamine-containing compound biosynthetic process	GO_0042724	0	1	0	0	0
+thiamine salvage	GO_0036172	0	1	0	0	0
+thiamine metabolic process	GO_0006772	0	1	0	0	0
+thiamine diphosphate metabolic process	GO_0042357	0	1	0	0	0
+thiamine diphosphate dephosphorylation	GO_0042370	0	1	0	0	0
+thiamine diphosphate catabolic process	GO_0042358	0	1	0	0	0
+thiamine diphosphate biosynthetic process	GO_0009229	0	1	0	0	0
+thiamine catabolic process	GO_0009230	0	1	0	0	0
+thiamine biosynthetic process	GO_0009228	0	1	0	0	0
+orotic acid metabolic process	GO_1903511	0	1	0	0	0
+ectoine metabolic process	GO_0042399	0	1	0	0	0
+ectoine catabolic process	GO_0042400	0	1	0	0	0
+ectoine biosynthetic process	GO_0019491	0	1	0	0	0
+depyrimidination	GO_0045008	0	1	0	0	0
+deoxyuridine metabolic process	GO_0046096	0	1	0	0	0
+deoxyuridine catabolic process	GO_0006219	0	1	0	0	0
+deoxyuridine biosynthetic process	GO_0046097	0	1	0	0	0
+deoxycytidine salvage	GO_0006237	0	1	0	0	0
+deoxycytidine metabolic process	GO_0046092	0	1	0	0	0
+deoxycytidine catabolic process	GO_0006217	0	1	0	0	0
+deoxycytidine biosynthetic process	GO_0046093	0	1	0	0	0
+dUTP metabolic process	GO_0046080	0	1	0	0	0
+dUTP catabolic process	GO_0046081	0	1	0	0	0
+dUTP biosynthetic process	GO_0006229	0	1	0	0	0
+dUMP metabolic process	GO_0046078	0	1	0	0	0
+dUMP catabolic process	GO_0046079	0	1	0	0	0
+dUMP biosynthetic process	GO_0006226	0	1	0	0	0
+dUDP metabolic process	GO_0046077	0	1	0	0	0
+dUDP catabolic process	GO_0006257	0	1	0	0	0
+dUDP biosynthetic process	GO_0006227	0	1	0	0	0
+dTTP metabolic process	GO_0046075	0	1	0	0	0
+dTTP catabolic process	GO_0046076	0	1	0	0	0
+dTTP biosynthetic process	GO_0006235	0	1	0	0	0
+dTMP salvage	GO_0036198	0	1	0	0	0
+dTMP metabolic process	GO_0046073	0	1	0	0	0
+dTMP catabolic process	GO_0046074	0	1	0	0	0
+dTMP biosynthetic process	GO_0006231	0	1	0	0	0
+dTDP metabolic process	GO_0046072	0	1	0	0	0
+dTDP catabolic process	GO_0006246	0	1	0	0	0
+dTDP biosynthetic process	GO_0006233	0	1	0	0	0
+dCTP metabolic process	GO_0046065	0	1	0	0	0
+dCTP catabolic process	GO_0006253	0	1	0	0	0
+dCTP biosynthetic process	GO_0006242	0	1	0	0	0
+dCMP salvage	GO_0006239	0	1	0	0	0
+dCMP metabolic process	GO_0046063	0	1	0	0	0
+dCMP catabolic process	GO_0006249	0	1	0	0	0
+dCMP biosynthetic process	GO_0046064	0	1	0	0	0
+dCDP metabolic process	GO_0046062	0	1	0	0	0
+dCDP catabolic process	GO_0006251	0	1	0	0	0
+dCDP biosynthetic process	GO_0006240	0	1	0	0	0
+cytosine metabolic process	GO_0019858	0	1	0	0	0
+cytosine catabolic process	GO_0006209	0	1	0	0	0
+cytosine biosynthetic process	GO_0046089	0	1	0	0	0
+cytidine salvage	GO_0006236	0	1	0	0	0
+cytidine metabolic process	GO_0046087	0	1	0	0	0
+cytidine deamination	GO_0009972	0	1	0	0	0
+cytidine catabolic process	GO_0006216	0	1	0	0	0
+cytidine biosynthetic process	GO_0046088	0	1	0	0	0
+UTP metabolic process	GO_0046051	0	1	0	0	0
+UTP catabolic process	GO_0046052	0	1	0	0	0
+UTP biosynthetic process	GO_0006228	0	1	0	0	0
+UMP salvage	GO_0044206	0	1	0	0	0
+UMP metabolic process	GO_0046049	0	1	0	0	0
+UMP catabolic process	GO_0046050	0	1	0	0	0
+UMP biosynthetic process	GO_0006222	0	1	0	0	0
+UDP metabolic process	GO_0046048	0	1	0	0	0
+UDP catabolic process	GO_0006256	0	1	0	0	0
+UDP biosynthetic process	GO_0006225	0	1	0	0	0
+TTP metabolic process	GO_0046046	0	1	0	0	0
+TTP catabolic process	GO_0046047	0	1	0	0	0
+TTP biosynthetic process	GO_0006234	0	1	0	0	0
+TMP metabolic process	GO_0046044	0	1	0	0	0
+TMP catabolic process	GO_0046045	0	1	0	0	0
+TMP biosynthetic process	GO_0006230	0	1	0	0	0
+TDP metabolic process	GO_0046043	0	1	0	0	0
+TDP catabolic process	GO_0006245	0	1	0	0	0
+TDP biosynthetic process	GO_0006232	0	1	0	0	0
+CTP salvage	GO_0044211	0	1	0	0	0
+CTP metabolic process	GO_0046036	0	1	0	0	0
+CTP catabolic process	GO_0006254	0	1	0	0	0
+CTP biosynthetic process	GO_0006241	0	1	0	0	0
+CMP salvage	GO_0006238	0	1	0	0	0
+CMP metabolic process	GO_0046035	0	1	0	0	0
+CMP catabolic process	GO_0006248	0	1	0	0	0
+CMP biosynthetic process	GO_0009224	0	1	0	0	0
+CDP metabolic process	GO_0046704	0	1	0	0	0
+CDP catabolic process	GO_0046706	0	1	0	0	0
+CDP biosynthetic process	GO_0046705	0	1	0	0	0
+5-methylcytosine metabolic process	GO_0019857	0	1	0	0	0
+5-methylcytosine catabolic process	GO_0006211	0	1	0	0	0
+5-methylcytosine biosynthetic process	GO_0046082	0	1	0	0	0
+5-carbamoylmethyluridine metabolic process	GO_0080178	0	1	0	0	0
+'de novo' UMP biosynthetic process	GO_0044205	0	1	0	0	0
+'de novo' CTP biosynthetic process	GO_0044210	0	1	0	0	0

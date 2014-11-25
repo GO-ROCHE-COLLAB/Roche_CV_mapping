@@ -1,0 +1,75 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+renal water transport	GO_0003097	1	1	1	0	0
+renal water retention	GO_0003092	1	1	1	0	0
+renal water homeostasis	GO_0003091	1	1	1	0	0
+renal water absorption involved in negative regulation of urine volume	GO_0035816	1	1	1	0	0
+renal water absorption	GO_0070295	1	1	1	0	0
+renal vasodilation of the peripheral vascular system involved in regulation of systemic arterial blood pressure	GO_0003075	1	1	1	0	0
+renal tubular secretion	GO_0097254	1	1	1	0	0
+renal system process involved in regulation of systemic arterial blood pressure	GO_0003071	1	1	1	0	0
+renal system process involved in regulation of blood volume	GO_0001977	1	1	1	0	0
+renal system process	GO_0003014	1	1	1	0	0
+renal sodium ion transport	GO_0003096	1	1	1	0	0
+renal sodium ion absorption involved in negative regulation of renal sodium excretion	GO_0035817	1	1	1	0	0
+renal sodium ion absorption	GO_0070294	1	1	1	0	0
+renal sodium excretion	GO_0035812	1	1	1	0	0
+renal rubidium ion transport	GO_0035828	1	1	1	0	0
+renal rubidium ion absorption	GO_0035829	1	1	1	0	0
+renal response to blood flow involved in circulatory renin-angiotensin regulation of systemic arterial blood pressure	GO_0001999	1	1	1	0	0
+renal protein absorption	GO_0097017	1	1	1	0	0
+renal phosphate ion absorption	GO_0097291	1	1	1	0	0
+renal filtration	GO_0097205	1	1	1	0	0
+renal control of peripheral vascular resistance involved in regulation of systemic arterial blood pressure	GO_0003072	1	1	1	0	0
+renal albumin absorption	GO_0097018	1	1	1	0	0
+renal absorption	GO_0070293	1	1	1	0	0
+regulation of renal water transport	GO_2001151	1	1	1	0	0
+regulation of renal sodium excretion	GO_0035813	1	1	1	0	0
+regulation of renal albumin absorption	GO_2000532	1	1	1	0	0
+regulation of glomerular filtration	GO_0003093	1	1	1	0	0
+regulation of blood volume by renal aldosterone	GO_0002017	1	1	1	0	0
+positive regulation of renal water transport	GO_2001153	1	1	1	0	0
+positive regulation of renal sodium excretion by pressure natriuresis	GO_0035819	1	1	1	0	0
+positive regulation of renal sodium excretion	GO_0035815	1	1	1	0	0
+positive regulation of renal albumin absorption	GO_2000534	1	1	1	0	0
+positive regulation of glomerular filtration	GO_0003104	1	1	1	0	0
+negative regulation of renal water transport	GO_2001152	1	1	1	0	0
+negative regulation of renal sodium excretion by angiotensin	GO_0035820	1	1	1	0	0
+negative regulation of renal sodium excretion	GO_0035814	1	1	1	0	0
+negative regulation of renal albumin absorption	GO_2000533	1	1	1	0	0
+negative regulation of glomerular filtration by angiotensin	GO_0003106	1	1	1	0	0
+negative regulation of glomerular filtration	GO_0003105	1	1	1	0	0
+glomerular filtration	GO_0003094	1	1	1	0	0
+detection of renal blood flow	GO_0002000	1	1	1	0	0
+renal filtration cell differentiation	GO_0061318	1	0	1	0	0
+regulation of renal output by angiotensin	GO_0002019	1	0	1	0	0
+positive regulation of renal output by angiotensin	GO_0003082	1	0	1	1	1
+negative regulation of renal output by angiotensin	GO_0003083	1	0	1	0	0
+vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	0	1	0	0	0
+tubuloglomerular feedback	GO_0003098	0	1	0	0	0
+synaptic transmission involved in micturition	GO_0060084	0	1	0	0	0
+smooth muscle relaxation of the bladder outlet	GO_0060085	0	1	0	0	0
+smooth muscle contraction involved in micturition	GO_0060083	0	1	0	0	0
+renin-angiotensin regulation of aldosterone production	GO_0002018	0	1	0	0	0
+renin secretion into blood stream	GO_0002001	0	1	0	0	0
+renal potassium excretion	GO_0036359	0	1	0	0	0
+renal phosphate excretion	GO_0044722	0	1	0	0	0
+renal glucose absorption	GO_0035623	0	1	0	0	0
+renal amino acid absorption	GO_1990297	0	1	0	0	0
+regulation of urine volume	GO_0035809	0	1	0	0	0
+regulation of renin secretion into blood stream	GO_1900133	0	1	0	0	0
+regulation of renal phosphate excretion	GO_1903402	0	1	0	0	0
+regulation of renal amino acid absorption	GO_1902752	0	1	0	0	0
+regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	0	0	0
+pressure natriuresis	GO_0003095	0	1	0	0	0
+positive regulation of urine volume by pressure natriuresis	GO_0035818	0	1	0	0	0
+positive regulation of urine volume	GO_0035810	0	1	0	0	0
+positive regulation of renin secretion into blood stream	GO_1900135	0	1	0	0	0
+positive regulation of renal phosphate excretion	GO_1903404	0	1	0	0	0
+positive regulation of renal amino acid absorption	GO_1902754	0	1	0	0	0
+nephrocyte filtration	GO_0097206	0	1	0	0	0
+negative regulation of urine volume	GO_0035811	0	1	0	0	0
+negative regulation of renin secretion into blood stream	GO_1900134	0	1	0	0	0
+negative regulation of renal phosphate excretion	GO_1903403	0	1	0	0	0
+negative regulation of renal amino acid absorption	GO_1902753	0	1	0	0	0
+micturition	GO_0060073	0	1	0	0	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	0	0	0

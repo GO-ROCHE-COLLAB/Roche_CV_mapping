@@ -1,0 +1,47 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+protein targeting to peroxisome	GO_0006625	1	1	1	0	0
+protein localization to peroxisome	GO_0072662	1	1	1	0	0
+protein import into peroxisome membrane	GO_0045046	1	1	1	0	0
+protein import into peroxisome matrix	GO_0016558	1	1	1	0	0
+peroxisome organization	GO_0007031	1	1	1	0	0
+peroxisome localization	GO_0060151	1	1	1	0	0
+peroxisome inheritance	GO_0045033	1	1	1	0	0
+peroxisome degradation	GO_0030242	1	1	1	0	0
+micropexophagy	GO_0000426	1	1	1	0	0
+macropexophagy	GO_0000425	1	1	1	0	0
+ER-dependent peroxisome organization	GO_0032581	1	1	1	0	0
+regulation of peroxisome size	GO_0044375	1	0	1	0	0
+regulation of peroxisome organization	GO_1900063	1	0	1	0	0
+protein import into peroxisome matrix, translocation	GO_0016561	1	0	1	0	0
+protein import into peroxisome matrix, receptor recycling	GO_0016562	1	0	1	0	0
+protein import into peroxisome matrix, docking	GO_0016560	1	0	1	0	0
+positive regulation of peroxisome organization	GO_1900064	1	0	1	0	0
+peroxisome membrane biogenesis	GO_0016557	1	0	1	0	0
+peroxisome fission	GO_0016559	1	0	1	0	0
+peroxisomal transport	GO_0043574	1	0	1	0	0
+peroxisomal membrane transport	GO_0015919	1	0	1	0	0
+peroxisomal membrane disassembly	GO_0030398	1	0	1	0	0
+establishment of protein localization to peroxisome	GO_0072663	1	0	1	0	0
+attachment of peroxisome to chloroplast	GO_0010381	1	0	1	0	0
+peroxisome	GO_0005777	0	1	0	0	0
+peroxisomal part	GO_0044439	0	1	0	0	0
+peroxisomal membrane	GO_0005778	0	1	0	0	0
+peroxisomal matrix	GO_0005782	0	1	0	0	0
+microtubule-based peroxisome localization	GO_0060152	0	1	0	0	0
+mannosome	GO_0042580	0	1	0	0	0
+intrinsic component of peroxisomal membrane	GO_0031231	0	1	0	0	0
+integral component of peroxisomal membrane	GO_0005779	0	1	0	0	0
+glyoxysome organization	GO_0010111	0	1	0	0	0
+glyoxysome	GO_0009514	0	1	0	0	0
+glyoxysomal membrane	GO_0046861	0	1	0	0	0
+glyoxysomal lumen	GO_0031908	0	1	0	0	0
+glycosome membrane	GO_0046860	0	1	0	0	0
+glycosome lumen	GO_0034468	0	1	0	0	0
+glycosome	GO_0020015	0	1	0	0	0
+extrinsic component of intraperoxisomal membrane	GO_0005780	0	1	0	0	0
+P6 peroxisome	GO_0019824	0	1	0	0	0
+P5 peroxisome	GO_0019823	0	1	0	0	0
+P4 peroxisome	GO_0019822	0	1	0	0	0
+P3 peroxisome	GO_0019821	0	1	0	0	0
+P2 peroxisome	GO_0019820	0	1	0	0	0
+P1 peroxisome	GO_0019819	0	1	0	0	0

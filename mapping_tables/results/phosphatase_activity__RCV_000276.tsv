@@ -1,0 +1,165 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+endopolyphosphatase activity	GO_0000298	1	0	1	0	0
+trehalose-phosphatase activity	GO_0004805	0	1	0	0	0
+transmembrane receptor protein tyrosine phosphatase activity	GO_0005001	0	1	0	0	0
+transmembrane receptor protein phosphatase activity	GO_0019198	0	1	0	0	0
+thymidylate 5'-phosphatase activity	GO_0050340	0	1	0	0	0
+thiamine phosphate phosphatase activity	GO_0042131	0	1	0	0	0
+sugar-terminal-phosphatase activity	GO_0050309	0	1	0	0	0
+sugar-phosphatase activity	GO_0050308	0	1	0	0	0
+sucrose-phosphate phosphatase activity	GO_0050307	0	1	0	0	0
+streptomycin-6-phosphatase activity	GO_0050301	0	1	0	0	0
+sphingosine-1-phosphate phosphatase activity	GO_0042392	0	1	0	0	0
+sorbitol-6-phosphatase activity	GO_0050286	0	1	0	0	0
+sedoheptulose-bisphosphatase activity	GO_0050278	0	1	0	0	0
+receptor signaling protein tyrosine phosphatase activity	GO_0004728	0	1	0	0	0
+receptor signaling protein serine/threonine phosphatase activity	GO_0009400	0	1	0	0	0
+pyridoxal phosphatase activity	GO_0033883	0	1	0	0	0
+protein tyrosine/threonine phosphatase activity	GO_0008330	0	1	0	0	0
+protein tyrosine/serine/threonine phosphatase activity	GO_0008138	0	1	0	0	0
+protein tyrosine phosphatase activity, via thiol-phosphate intermediate	GO_0030945	0	1	0	0	0
+protein tyrosine phosphatase activity, metal-dependent	GO_0030946	0	1	0	0	0
+protein tyrosine phosphatase activity	GO_0004725	0	1	0	0	0
+protein serine/threonine phosphatase activity	GO_0004722	0	1	0	0	0
+protein arginine phosphatase activity	GO_0098627	0	1	0	0	0
+prenylated protein tyrosine phosphatase activity	GO_0004727	0	1	0	0	0
+polynucleotide phosphatase activity	GO_0098518	0	1	0	0	0
+polynucleotide 5'-phosphatase activity	GO_0004651	0	1	0	0	0
+polynucleotide 3'-phosphatase activity	GO_0046403	0	1	0	0	0
+phosphoserine phosphatase activity	GO_0004647	0	1	0	0	0
+phosphoprotein phosphatase activity	GO_0004721	0	1	0	0	0
+phosphohistidine phosphatase activity	GO_0008969	0	1	0	0	0
+phosphoglycolate phosphatase activity	GO_0008967	0	1	0	0	0
+phosphoglycerate phosphatase activity	GO_0050192	0	1	0	0	0
+phosphoethanolamine phosphatase activity	GO_0052732	0	1	0	0	0
+phosphoenolpyruvate phosphatase activity	GO_0050189	0	1	0	0	0
+phosphocholine phosphatase activity	GO_0052731	0	1	0	0	0
+phosphatidylinositol-4-phosphate phosphatase activity	GO_0043812	0	1	0	0	0
+phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	GO_0004439	0	1	0	0	0
+phosphatidylinositol-4,5-bisphosphate 4-phosphatase activity	GO_0034597	0	1	0	0	0
+phosphatidylinositol-3-phosphatase activity	GO_0004438	0	1	0	0	0
+phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity	GO_0043813	0	1	0	0	0
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	GO_0052629	0	1	0	0	0
+phosphatidylinositol-3,4-bisphosphate 4-phosphatase activity	GO_0016316	0	1	0	0	0
+phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity	GO_0051800	0	1	0	0	0
+phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	GO_0034485	0	1	0	0	0
+phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity	GO_0016314	0	1	0	0	0
+phosphatidylinositol-1,4,5-trisphosphate 5-phosphatase activity	GO_0052867	0	1	0	0	0
+phosphatidylinositol trisphosphate phosphatase activity	GO_0034594	0	1	0	0	0
+phosphatidylinositol phosphate phosphatase activity	GO_0052866	0	1	0	0	0
+phosphatidylinositol phosphate 5-phosphatase activity	GO_0034595	0	1	0	0	0
+phosphatidylinositol phosphate 4-phosphatase activity	GO_0034596	0	1	0	0	0
+phosphatidylinositol monophosphate phosphatase activity	GO_0052744	0	1	0	0	0
+phosphatidylinositol bisphosphate phosphatase activity	GO_0034593	0	1	0	0	0
+phosphatidylglycerophosphatase activity	GO_0008962	0	1	0	0	0
+phosphatidate phosphatase activity	GO_0008195	0	1	0	0	0
+phosphatase activity	GO_0016791	0	1	0	0	0
+nucleotide phosphatase activity, acting on free nucleotides	GO_0098519	0	1	0	0	0
+nucleotidase activity	GO_0008252	0	1	0	0	0
+non-membrane spanning protein tyrosine phosphatase activity	GO_0004726	0	1	0	0	0
+myosin-light-chain-phosphatase activity	GO_0050115	0	1	0	0	0
+myosin phosphatase activity	GO_0017018	0	1	0	0	0
+methylphosphothioglycerate phosphatase activity	GO_0047382	0	1	0	0	0
+mannosyl-3-phosphoglycerate phosphatase activity	GO_0050531	0	1	0	0	0
+mannitol-1-phosphatase activity	GO_0050084	0	1	0	0	0
+magnesium-dependent protein serine/threonine phosphatase activity	GO_0004724	0	1	0	0	0
+lysophosphatidic acid phosphatase activity	GO_0052642	0	1	0	0	0
+lipid phosphatase activity	GO_0042577	0	1	0	0	0
+inositol-polyphosphate 5-phosphatase activity	GO_0004445	0	1	0	0	0
+inositol-hexakisphosphate phosphatase activity	GO_0004446	0	1	0	0	0
+inositol-4,5-bisphosphate 5-phosphatase activity	GO_0030487	0	1	0	0	0
+inositol-3,4-bisphosphate 4-phosphatase activity	GO_0052828	0	1	0	0	0
+inositol-1,4-bisphosphate 1-phosphatase activity	GO_0004441	0	1	0	0	0
+inositol-1,4,5-trisphosphate 5-phosphatase activity	GO_0052658	0	1	0	0	0
+inositol-1,4,5,6-tetrakisphosphate 6-phosphatase activity	GO_0030352	0	1	0	0	0
+inositol-1,3,4-trisphosphate 4-phosphatase activity	GO_0017161	0	1	0	0	0
+inositol-1,3,4-trisphosphate 1-phosphatase activity	GO_0052829	0	1	0	0	0
+inositol-1,3,4,6-tetrakisphosphate 6-phosphatase activity	GO_0052830	0	1	0	0	0
+inositol-1,3,4,6-tetrakisphosphate 1-phosphatase activity	GO_0052831	0	1	0	0	0
+inositol-1,3,4,5-tetrakisphosphate 5-phosphatase activity	GO_0052659	0	1	0	0	0
+inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity	GO_0051717	0	1	0	0	0
+inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity	GO_0030351	0	1	0	0	0
+inositol-1,3,4,5,6-pentakisphosphate 1-phosphatase activity	GO_0052825	0	1	0	0	0
+inositol trisphosphate phosphatase activity	GO_0046030	0	1	0	0	0
+inositol tetrakisphosphate phosphatase activity	GO_0052743	0	1	0	0	0
+inositol phosphate phosphatase activity	GO_0052745	0	1	0	0	0
+inositol pentakisphosphate phosphatase activity	GO_0052827	0	1	0	0	0
+inositol monophosphate phosphatase activity	GO_0052834	0	1	0	0	0
+inositol monophosphate 4-phosphatase activity	GO_0052833	0	1	0	0	0
+inositol monophosphate 3-phosphatase activity	GO_0052832	0	1	0	0	0
+inositol monophosphate 1-phosphatase activity	GO_0008934	0	1	0	0	0
+inositol hexakisphosphate 2-phosphatase activity	GO_0052826	0	1	0	0	0
+inositol bisphosphate phosphatase activity	GO_0016312	0	1	0	0	0
+histidinol-phosphatase activity	GO_0004401	0	1	0	0	0
+guanidinodeoxy-scyllo-inositol-4-phosphatase activity	GO_0047383	0	1	0	0	0
+glycerol-3-phosphatase activity	GO_0043136	0	1	0	0	0
+glycerol-2-phosphatase activity	GO_0047954	0	1	0	0	0
+glycerol-1-phosphatase activity	GO_0000121	0	1	0	0	0
+glucosylglycerol 3-phosphatase activity	GO_0050530	0	1	0	0	0
+glucose-6-phosphatase activity	GO_0004346	0	1	0	0	0
+glucose-1-phosphatase activity	GO_0008877	0	1	0	0	0
+galactose-1-phosphate phosphatase activity	GO_0070456	0	1	0	0	0
+fructose-2,6-bisphosphate 6-phosphatase activity	GO_0047386	0	1	0	0	0
+fructose-2,6-bisphosphate 2-phosphatase activity	GO_0004331	0	1	0	0	0
+fructose 1,6-bisphosphate 1-phosphatase activity	GO_0042132	0	1	0	0	0
+dolichyl-phosphatase activity	GO_0047873	0	1	0	0	0
+dihydrosphingosine-1-phosphate phosphatase activity	GO_0070780	0	1	0	0	0
+deoxynucleotide 3'-phosphatase activity	GO_0047846	0	1	0	0	0
+carbohydrate phosphatase activity	GO_0019203	0	1	0	0	0
+calmodulin-dependent protein phosphatase activity	GO_0033192	0	1	0	0	0
+caldesmon-phosphatase activity	GO_0047765	0	1	0	0	0
+calcium-dependent protein serine/threonine phosphatase activity	GO_0004723	0	1	0	0	0
+bisphosphoglycerate phosphatase activity	GO_0034416	0	1	0	0	0
+bisphosphoglycerate 3-phosphatase activity	GO_0034417	0	1	0	0	0
+bisphosphoglycerate 2-phosphatase activity	GO_0004083	0	1	0	0	0
+aryldialkylphosphatase activity	GO_0004063	0	1	0	0	0
+alpha-ribazole phosphatase activity	GO_0043755	0	1	0	0	0
+alkylacetylglycerophosphatase activity	GO_0047647	0	1	0	0	0
+alkaline phosphatase activity	GO_0004035	0	1	0	0	0
+acireductone synthase activity	GO_0043874	0	1	0	0	0
+acid phosphatase activity	GO_0003993	0	1	0	0	0
+[pyruvate kinase]-phosphatase activity	GO_0050408	0	1	0	0	0
+[pyruvate dehydrogenase (lipoamide)] phosphatase activity	GO_0004741	0	1	0	0	0
+[phosphorylase] phosphatase activity	GO_0050196	0	1	0	0	0
+[hydroxymethylglutaryl-CoA reductase (NADPH)]-phosphatase activity	GO_0047384	0	1	0	0	0
+[glycogen-synthase-D] phosphatase activity	GO_0050407	0	1	0	0	0
+[acetyl-CoA carboxylase]-phosphatase activity	GO_0050406	0	1	0	0	0
+[3-methyl-2-oxobutanoate dehydrogenase (lipoamide)]-phosphatase activity	GO_0047385	0	1	0	0	0
+XDP phosphatase activity	GO_1990004	0	1	0	0	0
+NMN phosphatase activity	GO_1990224	0	1	0	0	0
+NADP phosphatase activity	GO_0019178	0	1	0	0	0
+N-acylneuraminate-9-phosphatase activity	GO_0050124	0	1	0	0	0
+MAP kinase tyrosine/serine/threonine phosphatase activity	GO_0017017	0	1	0	0	0
+MAP kinase tyrosine phosphatase activity	GO_0033550	0	1	0	0	0
+MAP kinase threonine phosphatase activity	GO_1990439	0	1	0	0	0
+MAP kinase phosphatase activity involved in regulation of osmosensory signaling pathway	GO_0038082	0	1	0	0	0
+MAP kinase phosphatase activity involved in regulation of innate immune response	GO_0038078	0	1	0	0	0
+MAP kinase phosphatase activity involved in regulation of conjugation with cellular fusion	GO_0038074	0	1	0	0	0
+MAP kinase phosphatase activity involved in regulation of cell wall biogenesis	GO_0038069	0	1	0	0	0
+MAP kinase phosphatase activity	GO_0033549	0	1	0	0	0
+L-phosphoserine phosphatase activity	GO_0036424	0	1	0	0	0
+L-galactose-1-phosphate phosphatase activity	GO_0010347	0	1	0	0	0
+JUN kinase phosphatase activity	GO_0008579	0	1	0	0	0
+IMP 5'-nucleotidase activity	GO_0050483	0	1	0	0	0
+IDP phosphatase activity	GO_1990003	0	1	0	0	0
+GMP 5'-nucleotidase activity	GO_0050484	0	1	0	0	0
+D-phosphoserine phosphatase activity	GO_0036425	0	1	0	0	0
+D-galactose-1-phosphate phosphatase activity	GO_0070457	0	1	0	0	0
+D,D-heptose 1,7-bisphosphate phosphatase activity	GO_0034200	0	1	0	0	0
+CTD phosphatase activity	GO_0008420	0	1	0	0	0
+ADP-phosphoglycerate phosphatase activity	GO_0047630	0	1	0	0	0
+5-phytase activity	GO_0050533	0	1	0	0	0
+5-amino-6-(5-phosphoribitylamino)uracil phosphatase activity	GO_0043726	0	1	0	0	0
+5'-nucleotidase activity	GO_0008253	0	1	0	0	0
+4-phytase activity	GO_0008707	0	1	0	0	0
+3-phytase activity	GO_0016158	0	1	0	0	0
+3-phosphoglycerate phosphatase activity	GO_0047572	0	1	0	0	0
+3-deoxy-manno-octulosonate-8-phosphatase activity	GO_0019143	0	1	0	0	0
+3'-nucleotidase activity	GO_0008254	0	1	0	0	0
+3',5'-nucleotide bisphosphate phosphatase activity	GO_0097657	0	1	0	0	0
+3'(2'),5'-bisphosphate nucleotidase activity	GO_0008441	0	1	0	0	0
+2-phosphosulfolactate phosphatase activity	GO_0050532	0	1	0	0	0
+2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase activity	GO_0043716	0	1	0	0	0
+2-deoxyglucose-6-phosphatase activity	GO_0003850	0	1	0	0	0
+2-carboxy-D-arabinitol-1-phosphatase activity	GO_0047538	0	1	0	0	0
+10-hydroxy-9-(phosphonooxy)octadecanoate phosphatase activity	GO_0033885	0	1	0	0	0
