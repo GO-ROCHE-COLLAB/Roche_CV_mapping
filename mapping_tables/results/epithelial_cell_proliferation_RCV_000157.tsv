@@ -29,26 +29,26 @@ epithelial cell proliferation involved in lung bud dilation	GO_0060505	1	1	1	0	0
 epithelial cell proliferation involved in liver morphogenesis	GO_0072575	1	1	1	0	0
 epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	1	1	1	0	0
 epithelial cell proliferation	GO_0050673	1	1	1	0	0
-urothelial cell proliferation	GO_0050674	0	1	0	0	0
-regulation of urothelial cell proliferation	GO_0050675	0	1	0	0	0
-regulation of lens epithelial cell proliferation	GO_2001109	0	1	0	0	0
-regulation of keratinocyte proliferation	GO_0010837	0	1	0	0	0
-regulation of hepatocyte proliferation	GO_2000345	0	1	0	0	0
-regulation of endothelial cell proliferation	GO_0001936	0	1	0	0	0
-regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	0	0	0
-positive regulation of urothelial cell proliferation	GO_0050677	0	1	0	0	0
-positive regulation of keratinocyte proliferation	GO_0010838	0	1	0	0	0
-positive regulation of hepatocyte proliferation	GO_2000347	0	1	0	0	0
-positive regulation of endothelial cell proliferation	GO_0001938	0	1	0	0	0
-positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	0	0	0
-negative regulation of urothelial cell proliferation	GO_0050676	0	1	0	0	0
-negative regulation of keratinocyte proliferation	GO_0010839	0	1	0	0	0
-negative regulation of hepatocyte proliferation	GO_2000346	0	1	0	0	0
-negative regulation of endothelial cell proliferation	GO_0001937	0	1	0	0	0
-negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	0	0	0
-melanocyte proliferation	GO_0097325	0	1	0	0	0
-keratinocyte proliferation	GO_0043616	0	1	0	0	0
-hepatocyte proliferation	GO_0072574	0	1	0	0	0
-endothelial cell proliferation	GO_0001935	0	1	0	0	0
-blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	0	0	0
-Sertoli cell proliferation	GO_0060011	0	1	0	0	0
+urothelial cell proliferation	GO_0050674	0	1	1	0	0
+regulation of urothelial cell proliferation	GO_0050675	0	1	1	0	0
+regulation of lens epithelial cell proliferation	GO_2001109	0	1	1	0	0
+regulation of keratinocyte proliferation	GO_0010837	0	1	1	0	0
+regulation of hepatocyte proliferation	GO_2000345	0	1	1	0	0
+regulation of endothelial cell proliferation	GO_0001936	0	1	1	0	0
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	1	0	0
+positive regulation of urothelial cell proliferation	GO_0050677	0	1	1	0	0
+positive regulation of keratinocyte proliferation	GO_0010838	0	1	1	0	0
+positive regulation of hepatocyte proliferation	GO_2000347	0	1	1	0	0
+positive regulation of endothelial cell proliferation	GO_0001938	0	1	1	0	0
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	1	0	0
+negative regulation of urothelial cell proliferation	GO_0050676	0	1	1	0	0
+negative regulation of keratinocyte proliferation	GO_0010839	0	1	1	0	0
+negative regulation of hepatocyte proliferation	GO_2000346	0	1	1	0	0
+negative regulation of endothelial cell proliferation	GO_0001937	0	1	1	0	0
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	1	0	0
+melanocyte proliferation	GO_0097325	0	1	1	0	0
+keratinocyte proliferation	GO_0043616	0	1	1	0	0
+hepatocyte proliferation	GO_0072574	0	1	1	0	0
+endothelial cell proliferation	GO_0001935	0	1	1	0	0
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	1	0	0
+Sertoli cell proliferation	GO_0060011	0	1	1	0	0
