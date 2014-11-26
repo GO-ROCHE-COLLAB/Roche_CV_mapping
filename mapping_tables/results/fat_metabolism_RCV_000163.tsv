@@ -38,636 +38,636 @@ lipid binding	GO_0006630	1	0	1	1	1
 lipid antigen transport	GO_0002494	1	0	1	0	0
 lipid antigen assembly with MHC class Ib protein complex	GO_0002493	1	0	1	0	0
 lipid X metabolic process	GO_2001289	1	0	1	0	0
-zymosterol metabolic process	GO_0036196	0	1	0	0	0
-zymosterol biosynthetic process	GO_0036197	0	1	0	0	0
-zeaxanthin metabolic process	GO_1901825	0	1	0	0	0
-zeaxanthin catabolic process	GO_1901826	0	1	0	0	0
-zeaxanthin bis(beta-D-glucoside) metabolic process	GO_1901828	0	1	0	0	0
-zeaxanthin bis(beta-D-glucoside) catabolic process	GO_1901829	0	1	0	0	0
-zeaxanthin bis(beta-D-glucoside) biosynthetic process	GO_1901830	0	1	0	0	0
-zeaxanthin biosynthetic process	GO_1901827	0	1	0	0	0
-xanthophyll metabolic process	GO_0016122	0	1	0	0	0
-xanthophyll cycle	GO_0010028	0	1	0	0	0
-xanthophyll catabolic process	GO_0016124	0	1	0	0	0
-xanthophyll biosynthetic process	GO_0016123	0	1	0	0	0
-vitamin D5 metabolic process	GO_0070642	0	1	0	0	0
-vitamin D4 metabolic process	GO_0070641	0	1	0	0	0
-vitamin D3 metabolic process	GO_0070640	0	1	0	0	0
-vitamin D3 catabolic process	GO_1901754	0	1	0	0	0
-vitamin D3 biosynthetic process	GO_1901755	0	1	0	0	0
-vitamin D2 metabolic process	GO_0070639	0	1	0	0	0
-vitamin D metabolic process	GO_0042359	0	1	0	0	0
-vitamin D catabolic process	GO_0042369	0	1	0	0	0
-vitamin D biosynthetic process	GO_0042368	0	1	0	0	0
-vitamin A metabolic process	GO_0006776	0	1	0	0	0
-vitamin A biosynthetic process	GO_0035238	0	1	0	0	0
-very long-chain fatty acid metabolic process	GO_0000038	0	1	0	0	0
-very long-chain fatty acid catabolic process	GO_0042760	0	1	0	0	0
-very long-chain fatty acid biosynthetic process	GO_0042761	0	1	0	0	0
-unsaturated fatty acid metabolic process	GO_0033559	0	1	0	0	0
-unsaturated fatty acid biosynthetic process	GO_0006636	0	1	0	0	0
-tuberculosinol biosynthetic process	GO_0035440	0	1	0	0	0
-triterpenoid metabolic process	GO_0006722	0	1	0	0	0
-triterpenoid catabolic process	GO_0016105	0	1	0	0	0
-triterpenoid biosynthetic process	GO_0016104	0	1	0	0	0
-triglyceride mobilization	GO_0006642	0	1	0	0	0
-triglyceride metabolic process	GO_0006641	0	1	0	0	0
-triglyceride catabolic process	GO_0019433	0	1	0	0	0
-triglyceride biosynthetic process	GO_0019432	0	1	0	0	0
-triglyceride acyl-chain remodeling	GO_0036153	0	1	0	0	0
-tricyclic triterpenoid metabolic process	GO_0010683	0	1	0	0	0
-tricyclic triterpenoid catabolic process	GO_0010684	0	1	0	0	0
-tricyclic triterpenoid biosynthetic process	GO_0010263	0	1	0	0	0
-thalianol metabolic process	GO_0080003	0	1	0	0	0
-tetraterpenoid metabolic process	GO_0016108	0	1	0	0	0
-tetraterpenoid catabolic process	GO_0016110	0	1	0	0	0
-tetraterpenoid biosynthetic process	GO_0016109	0	1	0	0	0
-tetracyclic triterpenoid metabolic process	GO_0010685	0	1	0	0	0
-tetracyclic triterpenoid biosynthetic process	GO_0010686	0	1	0	0	0
-testosterone biosynthetic process	GO_0061370	0	1	0	0	0
-terpenoid metabolic process	GO_0006721	0	1	0	0	0
-terpenoid catabolic process	GO_0016115	0	1	0	0	0
-terpenoid biosynthetic process, mevalonate-independent	GO_0051483	0	1	0	0	0
-terpenoid biosynthetic process, mevalonate-dependent	GO_0051485	0	1	0	0	0
-terpenoid biosynthetic process	GO_0016114	0	1	0	0	0
-terpene metabolic process	GO_0042214	0	1	0	0	0
-terpene catabolic process	GO_0046247	0	1	0	0	0
-terpene biosynthetic process	GO_0046246	0	1	0	0	0
-sulfolipid metabolic process	GO_0046505	0	1	0	0	0
-sulfolipid biosynthetic process	GO_0046506	0	1	0	0	0
-strigolactone metabolic process	GO_1901600	0	1	0	0	0
-strigolactone biosynthetic process	GO_1901601	0	1	0	0	0
-sterol metabolic process	GO_0016125	0	1	0	0	0
-sterol esterification	GO_0034434	0	1	0	0	0
-sterol deacetylation	GO_0034210	0	1	0	0	0
-sterol catabolic process	GO_0016127	0	1	0	0	0
-sterol biosynthetic process	GO_0016126	0	1	0	0	0
-sterol acetylation	GO_0034209	0	1	0	0	0
-steroid metabolic process	GO_0008202	0	1	0	0	0
-steroid esterification	GO_0034433	0	1	0	0	0
-steroid deacetylation	GO_0034208	0	1	0	0	0
-steroid catabolic process	GO_0006706	0	1	0	0	0
-steroid biosynthetic process	GO_0006694	0	1	0	0	0
-steroid acetylation	GO_0034207	0	1	0	0	0
-sphingosine metabolic process	GO_0006670	0	1	0	0	0
-sphingosine catabolic process	GO_0051872	0	1	0	0	0
-sphingosine biosynthetic process	GO_0046512	0	1	0	0	0
-sphingomyelin metabolic process	GO_0006684	0	1	0	0	0
-sphingomyelin catabolic process	GO_0006685	0	1	0	0	0
-sphingomyelin biosynthetic process	GO_0006686	0	1	0	0	0
-sphingolipid metabolic process	GO_0006665	0	1	0	0	0
-sphingolipid catabolic process	GO_0030149	0	1	0	0	0
-sphingolipid biosynthetic process	GO_0030148	0	1	0	0	0
-sphingolipid biosynthesis involved in endoplasmic reticulum membrane organization	GO_0090159	0	1	0	0	0
-sphingoid metabolic process	GO_0046519	0	1	0	0	0
-sphingoid catabolic process	GO_0046521	0	1	0	0	0
-sphingoid biosynthetic process	GO_0046520	0	1	0	0	0
-sphinganine-1-phosphate metabolic process	GO_0006668	0	1	0	0	0
-sphinganine-1-phosphate catabolic process	GO_0051874	0	1	0	0	0
-sphinganine-1-phosphate biosynthetic process	GO_0006669	0	1	0	0	0
-sphinganine metabolic process	GO_0006667	0	1	0	0	0
-sphinganine biosynthetic process	GO_0046511	0	1	0	0	0
-spheroidene metabolic process	GO_1901178	0	1	0	0	0
-spheroidene catabolic process	GO_1901179	0	1	0	0	0
-spheroidene biosynthetic process	GO_1901180	0	1	0	0	0
-sophorosyloxydocosanoate metabolic process	GO_0019434	0	1	0	0	0
-sophorosyloxydocosanoate catabolic process	GO_0019436	0	1	0	0	0
-sophorosyloxydocosanoate biosynthetic process	GO_0019435	0	1	0	0	0
-short-chain fatty acid metabolic process	GO_0046459	0	1	0	0	0
-short-chain fatty acid catabolic process	GO_0019626	0	1	0	0	0
-short-chain fatty acid biosynthetic process	GO_0051790	0	1	0	0	0
-sesquiterpenoid metabolic process	GO_0006714	0	1	0	0	0
-sesquiterpenoid catabolic process	GO_0016107	0	1	0	0	0
-sesquiterpenoid biosynthetic process	GO_0016106	0	1	0	0	0
-sesquiterpene metabolic process	GO_0051761	0	1	0	0	0
-sesquiterpene catabolic process	GO_0051763	0	1	0	0	0
-sesquiterpene biosynthetic process	GO_0051762	0	1	0	0	0
-sesquarterpene metabolic process	GO_1903192	0	1	0	0	0
-sesquarterpene biosynthetic process	GO_1903193	0	1	0	0	0
-retinol metabolic process	GO_0042572	0	1	0	0	0
-retinoid metabolic process	GO_0001523	0	1	0	0	0
-retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	0	0	0
-retinoic acid metabolic process	GO_0042573	0	1	0	0	0
-retinoic acid catabolic process	GO_0034653	0	1	0	0	0
-retinoic acid biosynthetic process	GO_0002138	0	1	0	0	0
-retinal metabolic process	GO_0042574	0	1	0	0	0
-pyruvate fermentation to propionate	GO_0019657	0	1	0	0	0
-prostanoid metabolic process	GO_0006692	0	1	0	0	0
-prostanoid biosynthetic process	GO_0046457	0	1	0	0	0
-prostaglandin metabolic process	GO_0006693	0	1	0	0	0
-prostaglandin biosynthetic process	GO_0001516	0	1	0	0	0
-propionate metabolic process, methylmalonyl pathway	GO_0019678	0	1	0	0	0
-propionate metabolic process, methylcitrate cycle	GO_0019679	0	1	0	0	0
-propionate metabolic process	GO_0019541	0	1	0	0	0
-propionate catabolic process, 2-methylcitrate cycle	GO_0019629	0	1	0	0	0
-propionate catabolic process	GO_0019543	0	1	0	0	0
-propionate biosynthetic process	GO_0019542	0	1	0	0	0
-progesterone metabolic process	GO_0042448	0	1	0	0	0
-progesterone catabolic process	GO_0006709	0	1	0	0	0
-progesterone biosynthetic process	GO_0006701	0	1	0	0	0
-prenol metabolic process	GO_0016090	0	1	0	0	0
-prenol catabolic process	GO_0016092	0	1	0	0	0
-prenol biosynthetic process	GO_0016091	0	1	0	0	0
-preassembly of GPI anchor in ER membrane	GO_0016254	0	1	0	0	0
-polyterpenoid metabolic process	GO_0016111	0	1	0	0	0
-polyterpenoid catabolic process	GO_0016113	0	1	0	0	0
-polyterpenoid biosynthetic process	GO_0016112	0	1	0	0	0
-polyprenol metabolic process	GO_0016093	0	1	0	0	0
-polyprenol catabolic process	GO_0016095	0	1	0	0	0
-polyprenol biosynthetic process	GO_0016094	0	1	0	0	0
-polyacyltrehalose metabolic process	GO_0097092	0	1	0	0	0
-polyacyltrehalose biosynthetic process	GO_0097093	0	1	0	0	0
-poly(hydroxyalkanoate) biosynthetic process from fatty acid	GO_1902925	0	1	0	0	0
-platelet activating factor metabolic process	GO_0046469	0	1	0	0	0
-platelet activating factor biosynthetic process	GO_0006663	0	1	0	0	0
-pinene metabolic process	GO_0033073	0	1	0	0	0
-pinene catabolic process	GO_0033074	0	1	0	0	0
-phytyl diphosphate metabolic process	GO_0033519	0	1	0	0	0
-phytyl diphosphate biosynthetic process	GO_0033521	0	1	0	0	0
-phytosteroid metabolic process	GO_0016128	0	1	0	0	0
-phytosteroid catabolic process	GO_0016130	0	1	0	0	0
-phytosteroid biosynthetic process	GO_0016129	0	1	0	0	0
-phytosphingosine metabolic process	GO_0006671	0	1	0	0	0
-phytosphingosine biosynthetic process	GO_0071602	0	1	0	0	0
-phytol salvage	GO_0033307	0	1	0	0	0
-phytol metabolic process	GO_0033306	0	1	0	0	0
-phytol biosynthetic process	GO_0033520	0	1	0	0	0
-phytoene metabolic process	GO_1901172	0	1	0	0	0
-phytoene catabolic process	GO_1901173	0	1	0	0	0
-phytoene biosynthetic process	GO_1901174	0	1	0	0	0
-phytanic acid metabolic process	GO_1903512	0	1	0	0	0
-phthiocerol biosynthetic process	GO_0097040	0	1	0	0	0
-phospholipid metabolic process	GO_0006644	0	1	0	0	0
-phospholipid dephosphorylation	GO_0046839	0	1	0	0	0
-phospholipid catabolic process	GO_0009395	0	1	0	0	0
-phospholipid biosynthetic process	GO_0008654	0	1	0	0	0
-phosphatidylserine metabolic process	GO_0006658	0	1	0	0	0
-phosphatidylserine catabolic process	GO_0006660	0	1	0	0	0
-phosphatidylserine biosynthetic process	GO_0006659	0	1	0	0	0
-phosphatidylserine acyl-chain remodeling	GO_0036150	0	1	0	0	0
-phosphatidylinositol-3-phosphate biosynthetic process	GO_0036092	0	1	0	0	0
-phosphatidylinositol phosphorylation	GO_0046854	0	1	0	0	0
-phosphatidylinositol metabolic process	GO_0046488	0	1	0	0	0
-phosphatidylinositol dephosphorylation	GO_0046856	0	1	0	0	0
-phosphatidylinositol catabolic process	GO_0031161	0	1	0	0	0
-phosphatidylinositol biosynthetic process	GO_0006661	0	1	0	0	0
-phosphatidylinositol acyl-chain remodeling	GO_0036149	0	1	0	0	0
-phosphatidylglycerol metabolic process	GO_0046471	0	1	0	0	0
-phosphatidylglycerol catabolic process	GO_0034478	0	1	0	0	0
-phosphatidylglycerol biosynthetic process	GO_0006655	0	1	0	0	0
-phosphatidylglycerol acyl-chain remodeling	GO_0036148	0	1	0	0	0
-phosphatidylethanolamine metabolic process	GO_0046337	0	1	0	0	0
-phosphatidylethanolamine catabolic process	GO_0046338	0	1	0	0	0
-phosphatidylethanolamine biosynthetic process	GO_0006646	0	1	0	0	0
-phosphatidylethanolamine acyl-chain remodeling	GO_0036152	0	1	0	0	0
-phosphatidylcholine metabolic process	GO_0046470	0	1	0	0	0
-phosphatidylcholine catabolic process	GO_0034638	0	1	0	0	0
-phosphatidylcholine biosynthetic process	GO_0006656	0	1	0	0	0
-phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-choline	GO_0070832	0	1	0	0	0
-phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-N-dimethylethanolamine	GO_0070834	0	1	0	0	0
-phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via CDP-N-methylethanolamine	GO_0070833	0	1	0	0	0
-phosphatidylcholine acyl-chain remodeling	GO_0036151	0	1	0	0	0
-phosphatidyl-N-monomethylethanolamine metabolic process	GO_0046468	0	1	0	0	0
-phosphatidyl-N-monomethylethanolamine biosynthetic process	GO_0006647	0	1	0	0	0
-phosphatidic acid metabolic process	GO_0046473	0	1	0	0	0
-phosphatidic acid biosynthetic process	GO_0006654	0	1	0	0	0
-phenolic phthiocerol biosynthetic process	GO_0097041	0	1	0	0	0
-phaseic acid biosynthetic process	GO_0010379	0	1	0	0	0
-peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	0	0	0
-pentose catabolic process to butyrate	GO_1902698	0	1	0	0	0
-pentalenolactone metabolic process	GO_1901778	0	1	0	0	0
-pentalenolactone catabolic process	GO_1901779	0	1	0	0	0
-pentalenolactone biosynthetic process	GO_1901780	0	1	0	0	0
-pentacyclic triterpenoid metabolic process	GO_0019742	0	1	0	0	0
-pentacyclic triterpenoid catabolic process	GO_0019741	0	1	0	0	0
-pentacyclic triterpenoid biosynthetic process	GO_0019745	0	1	0	0	0
-palmitic acid metabolic process	GO_1900533	0	1	0	0	0
-palmitic acid catabolic process	GO_1900534	0	1	0	0	0
-palmitic acid biosynthetic process	GO_1900535	0	1	0	0	0
-paclitaxel metabolic process	GO_0042616	0	1	0	0	0
-paclitaxel biosynthetic process	GO_0042617	0	1	0	0	0
-p-cymene metabolic process	GO_0018953	0	1	0	0	0
-p-cymene catabolic process	GO_0019334	0	1	0	0	0
-oxylipin metabolic process	GO_0031407	0	1	0	0	0
-oxylipin biosynthetic process	GO_0031408	0	1	0	0	0
-omega-hydroxylase P450 pathway	GO_0097267	0	1	0	0	0
-oligosaccharide-lipid intermediate biosynthetic process	GO_0006490	0	1	0	0	0
-octanol metabolic process	GO_0006070	0	1	0	0	0
-octanol catabolic process	GO_0046172	0	1	0	0	0
-octanol biosynthetic process	GO_0046171	0	1	0	0	0
-neutral lipid metabolic process	GO_0006638	0	1	0	0	0
-neutral lipid catabolic process	GO_0046461	0	1	0	0	0
-neutral lipid biosynthetic process	GO_0046460	0	1	0	0	0
-mycolic acid metabolic process	GO_0071767	0	1	0	0	0
-mycolic acid biosynthetic process	GO_0071768	0	1	0	0	0
-multicellular organismal lipid catabolic process	GO_0044240	0	1	0	0	0
-monoterpenoid metabolic process	GO_0016098	0	1	0	0	0
-monoterpenoid catabolic process	GO_0016100	0	1	0	0	0
-monoterpenoid biosynthetic process	GO_0016099	0	1	0	0	0
-monoterpene metabolic process	GO_0043692	0	1	0	0	0
-monoterpene catabolic process	GO_0043694	0	1	0	0	0
-monoterpene biosynthetic process	GO_0043693	0	1	0	0	0
-monoacylglycerol metabolic process	GO_0046462	0	1	0	0	0
-monoacylglycerol catabolic process	GO_0052651	0	1	0	0	0
-monoacylglycerol biosynthetic process	GO_0006640	0	1	0	0	0
-mineralocorticoid metabolic process	GO_0008212	0	1	0	0	0
-mineralocorticoid catabolic process	GO_0006712	0	1	0	0	0
-mineralocorticoid biosynthetic process	GO_0006705	0	1	0	0	0
-miltiradiene metabolic process	GO_1901944	0	1	0	0	0
-miltiradiene catabolic process	GO_1901945	0	1	0	0	0
-miltiradiene biosynthetic process	GO_1901946	0	1	0	0	0
-methyl-branched fatty acid metabolic process	GO_0097089	0	1	0	0	0
-methyl-branched fatty acid biosynthetic process	GO_1902321	0	1	0	0	0
-methionine catabolic process to 3-methylthiopropanoate	GO_0000954	0	1	0	0	0
-methane biosynthetic process from 3-(methylthio)propionic acid	GO_2001132	0	1	0	0	0
-menthol metabolic process	GO_0031524	0	1	0	0	0
-menthol biosynthetic process	GO_0031525	0	1	0	0	0
-membrane lipid metabolic process	GO_0006643	0	1	0	0	0
-membrane lipid catabolic process	GO_0046466	0	1	0	0	0
-membrane lipid biosynthetic process	GO_0046467	0	1	0	0	0
-medium-chain fatty acid metabolic process	GO_0051791	0	1	0	0	0
-medium-chain fatty acid catabolic process	GO_0051793	0	1	0	0	0
-medium-chain fatty acid biosynthetic process	GO_0051792	0	1	0	0	0
-mannosyl-inositol phosphorylceramide metabolic process	GO_0006675	0	1	0	0	0
-mannosyl-inositol phosphorylceramide biosynthetic process	GO_0051999	0	1	0	0	0
-mannosyl diphosphorylinositol ceramide metabolic process	GO_0006676	0	1	0	0	0
-lysobisphosphatidic acid metabolic process	GO_2001311	0	1	0	0	0
-lysobisphosphatidic acid biosynthetic process	GO_2001312	0	1	0	0	0
-lycopene metabolic process	GO_1901175	0	1	0	0	0
-lycopene catabolic process	GO_1901176	0	1	0	0	0
-lycopene biosynthetic process	GO_1901177	0	1	0	0	0
-lipoxygenase pathway	GO_0019372	0	1	0	0	0
-lipoxin metabolic process	GO_2001300	0	1	0	0	0
-lipoxin biosynthetic process	GO_2001301	0	1	0	0	0
-lipoxin B4 metabolic process	GO_2001304	0	1	0	0	0
-lipoxin B4 biosynthetic process	GO_2001306	0	1	0	0	0
-lipoxin A4 metabolic process	GO_2001302	0	1	0	0	0
-lipoxin A4 biosynthetic process	GO_2001303	0	1	0	0	0
-liposaccharide metabolic process	GO_1903509	0	1	0	0	0
-lipoprotein lipid oxidation	GO_0034439	0	1	0	0	0
-lipopolysaccharide metabolic process	GO_0008653	0	1	0	0	0
-lipopolysaccharide catabolic process	GO_0009104	0	1	0	0	0
-lipopolysaccharide biosynthetic process	GO_0009103	0	1	0	0	0
-lipoate metabolic process	GO_0009106	0	1	0	0	0
-lipoate catabolic process	GO_0032323	0	1	0	0	0
-lipoate biosynthetic process	GO_0009107	0	1	0	0	0
-linoleic acid metabolic process	GO_0043651	0	1	0	0	0
-limonene metabolic process	GO_0018923	0	1	0	0	0
-limonene catabolic process	GO_0046251	0	1	0	0	0
-limonene biosynthetic process	GO_0046250	0	1	0	0	0
-leukotriene metabolic process	GO_0006691	0	1	0	0	0
-leukotriene catabolic process	GO_0036100	0	1	0	0	0
-leukotriene biosynthetic process	GO_0019370	0	1	0	0	0
-leukotriene D4 metabolic process	GO_1901748	0	1	0	0	0
-leukotriene D4 catabolic process	GO_1901749	0	1	0	0	0
-leukotriene D4 biosynthetic process	GO_1901750	0	1	0	0	0
-leukotriene B4 metabolic process	GO_0036102	0	1	0	0	0
-leukotriene B4 catabolic process	GO_0036101	0	1	0	0	0
-leukotriene B4 biosynthetic process	GO_0097251	0	1	0	0	0
-leukotriene A4 metabolic process	GO_1901751	0	1	0	0	0
-leukotriene A4 catabolic process	GO_1901752	0	1	0	0	0
-leukotriene A4 biosynthetic process	GO_1901753	0	1	0	0	0
-lauric acid metabolic process	GO_0048252	0	1	0	0	0
-lactosylceramide metabolic process	GO_0046478	0	1	0	0	0
-lactosylceramide biosynthetic process	GO_0001572	0	1	0	0	0
-lactate fermentation to propionate and acetate	GO_0019652	0	1	0	0	0
-juvenile hormone metabolic process	GO_0006716	0	1	0	0	0
-juvenile hormone catabolic process	GO_0006719	0	1	0	0	0
-juvenile hormone biosynthetic process	GO_0006718	0	1	0	0	0
-isoprenoid metabolic process	GO_0006720	0	1	0	0	0
-isoprenoid catabolic process	GO_0008300	0	1	0	0	0
-isoprenoid biosynthetic process via mevalonate	GO_1902767	0	1	0	0	0
-isoprenoid biosynthetic process via 1-deoxy-D-xylulose 5-phosphate	GO_1902768	0	1	0	0	0
-isoprenoid biosynthetic process	GO_0008299	0	1	0	0	0
-isoprene metabolic process	GO_0043611	0	1	0	0	0
-isoprene catabolic process	GO_0043613	0	1	0	0	0
-isoprene biosynthetic process	GO_0043612	0	1	0	0	0
-isopentenyl diphosphate metabolic process	GO_0046490	0	1	0	0	0
-isopentenyl diphosphate biosynthetic process, mevalonate pathway involved in terpenoid biosynthetic process	GO_0051486	0	1	0	0	0
-isopentenyl diphosphate biosynthetic process, mevalonate pathway	GO_0019287	0	1	0	0	0
-isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	GO_0051484	0	1	0	0	0
-isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	GO_0019288	0	1	0	0	0
-isopentenyl diphosphate biosynthetic process	GO_0009240	0	1	0	0	0
-isogloboside biosynthetic process	GO_1990387	0	1	0	0	0
-intestinal lipid catabolic process	GO_0044258	0	1	0	0	0
-inositolphosphoceramide metabolic process	GO_0006673	0	1	0	0	0
-hopanoid metabolic process	GO_0019744	0	1	0	0	0
-hopanoid catabolic process	GO_0019743	0	1	0	0	0
-hopanoid biosynthetic process	GO_0019746	0	1	0	0	0
-hexose catabolic process to butyrate	GO_1902705	0	1	0	0	0
-hepoxilin metabolic process	GO_0051121	0	1	0	0	0
-hepoxilin biosynthetic process	GO_0051122	0	1	0	0	0
-helvolic acid metabolic process	GO_1900810	0	1	0	0	0
-helvolic acid catabolic process	GO_1900811	0	1	0	0	0
-helvolic acid biosynthetic process	GO_1900812	0	1	0	0	0
-green leaf volatile biosynthetic process	GO_0010597	0	1	0	0	0
-glycyrrhetinate metabolic process	GO_1902384	0	1	0	0	0
-glycyrrhetinate catabolic process	GO_1902385	0	1	0	0	0
-glycyrrhetinate biosynthetic process	GO_1902386	0	1	0	0	0
-glycosylceramide metabolic process	GO_0006677	0	1	0	0	0
-glycosylceramide catabolic process	GO_0046477	0	1	0	0	0
-glycosylceramide biosynthetic process	GO_0046476	0	1	0	0	0
-glycosphingolipid metabolic process	GO_0006687	0	1	0	0	0
-glycosphingolipid catabolic process	GO_0046479	0	1	0	0	0
-glycosphingolipid biosynthetic process	GO_0006688	0	1	0	0	0
-glycolipid metabolic process	GO_0006664	0	1	0	0	0
-glycolipid catabolic process	GO_0019377	0	1	0	0	0
-glycolipid biosynthetic process	GO_0009247	0	1	0	0	0
-glycerophospholipid metabolic process	GO_0006650	0	1	0	0	0
-glycerophospholipid catabolic process	GO_0046475	0	1	0	0	0
-glycerophospholipid biosynthetic process	GO_0046474	0	1	0	0	0
-glycerolipid metabolic process	GO_0046486	0	1	0	0	0
-glycerolipid catabolic process	GO_0046503	0	1	0	0	0
-glycerolipid biosynthetic process	GO_0045017	0	1	0	0	0
-glutamate catabolic process to propionate	GO_0033509	0	1	0	0	0
-glutamate catabolic process to butyrate	GO_0033508	0	1	0	0	0
-glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	0	0	0
-glucosylceramide metabolic process	GO_0006678	0	1	0	0	0
-glucosylceramide catabolic process	GO_0006680	0	1	0	0	0
-glucosylceramide biosynthetic process	GO_0006679	0	1	0	0	0
-glucose catabolic process to butyrate	GO_0030645	0	1	0	0	0
-glucocorticoid metabolic process	GO_0008211	0	1	0	0	0
-glucocorticoid catabolic process	GO_0006713	0	1	0	0	0
-glucocorticoid biosynthetic process	GO_0006704	0	1	0	0	0
-globoside metabolic process	GO_0001575	0	1	0	0	0
-globoside biosynthetic process via lactosylceramide	GO_0010707	0	1	0	0	0
-globoside biosynthetic process	GO_0001576	0	1	0	0	0
-gibberellin metabolic process	GO_0009685	0	1	0	0	0
-gibberellin catabolic process	GO_0045487	0	1	0	0	0
-gibberellin biosynthetic process	GO_0009686	0	1	0	0	0
-gibberellin 12 metabolic process	GO_0033469	0	1	0	0	0
-gibberellin 12 biosynthetic process	GO_0033470	0	1	0	0	0
-geranylgeranyl diphosphate metabolic process	GO_0033385	0	1	0	0	0
-geranylgeranyl diphosphate catabolic process	GO_1902247	0	1	0	0	0
-geranylgeranyl diphosphate biosynthetic process	GO_0033386	0	1	0	0	0
-geranyl diphosphate metabolic process	GO_0033383	0	1	0	0	0
-geranyl diphosphate biosynthetic process	GO_0033384	0	1	0	0	0
-geraniol metabolic process	GO_1903446	0	1	0	0	0
-geraniol catabolic process	GO_1903447	0	1	0	0	0
-geraniol biosynthetic process	GO_1903448	0	1	0	0	0
-ganglioside metabolic process	GO_0001573	0	1	0	0	0
-ganglioside catabolic process	GO_0006689	0	1	0	0	0
-ganglioside biosynthetic process via lactosylceramide	GO_0010706	0	1	0	0	0
-ganglioside biosynthetic process	GO_0001574	0	1	0	0	0
-galactosylceramide metabolic process	GO_0006681	0	1	0	0	0
-galactosylceramide catabolic process	GO_0006683	0	1	0	0	0
-galactosylceramide biosynthetic process	GO_0006682	0	1	0	0	0
-galactolipid metabolic process	GO_0019374	0	1	0	0	0
-galactolipid catabolic process	GO_0019376	0	1	0	0	0
-galactolipid biosynthetic process	GO_0019375	0	1	0	0	0
-fatty alcohol metabolic process	GO_1903173	0	1	0	0	0
-fatty alcohol catabolic process	GO_1903174	0	1	0	0	0
-fatty alcohol biosynthetic process	GO_1903175	0	1	0	0	0
-fatty acid oxidation	GO_0019395	0	1	0	0	0
-fatty acid omega-oxidation	GO_0010430	0	1	0	0	0
-fatty acid methyl ester metabolic process	GO_1902898	0	1	0	0	0
-fatty acid methyl ester biosynthetic process	GO_1902899	0	1	0	0	0
-fatty acid metabolic process	GO_0006631	0	1	0	0	0
-fatty acid elongation, unsaturated fatty acid	GO_0019368	0	1	0	0	0
-fatty acid elongation, saturated fatty acid	GO_0019367	0	1	0	0	0
-fatty acid elongation, polyunsaturated fatty acid	GO_0034626	0	1	0	0	0
-fatty acid elongation, monounsaturated fatty acid	GO_0034625	0	1	0	0	0
-fatty acid elongation	GO_0030497	0	1	0	0	0
-fatty acid catabolic process	GO_0009062	0	1	0	0	0
-fatty acid biosynthetic process	GO_0006633	0	1	0	0	0
-fatty acid beta-oxidation, unsaturated, odd number	GO_0033541	0	1	0	0	0
-fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway	GO_0033543	0	1	0	0	0
-fatty acid beta-oxidation, unsaturated, even number, epimerase pathway	GO_0033544	0	1	0	0	0
-fatty acid beta-oxidation, unsaturated, even number	GO_0033542	0	1	0	0	0
-fatty acid beta-oxidation using acyl-CoA oxidase	GO_0033540	0	1	0	0	0
-fatty acid beta-oxidation using acyl-CoA dehydrogenase	GO_0033539	0	1	0	0	0
-fatty acid beta-oxidation	GO_0006635	0	1	0	0	0
-fatty acid alpha-oxidation	GO_0001561	0	1	0	0	0
-farnesyl diphosphate metabolic process	GO_0045338	0	1	0	0	0
-farnesyl diphosphate catabolic process	GO_0045339	0	1	0	0	0
-farnesyl diphosphate biosynthetic process, mevalonate pathway	GO_0010142	0	1	0	0	0
-farnesyl diphosphate biosynthetic process	GO_0045337	0	1	0	0	0
-farnesol metabolic process	GO_0016487	0	1	0	0	0
-farnesol catabolic process	GO_0016488	0	1	0	0	0
-farnesol biosynthetic process	GO_0006715	0	1	0	0	0
-ether lipid metabolic process	GO_0046485	0	1	0	0	0
-ether lipid biosynthetic process	GO_0008611	0	1	0	0	0
-estrogen metabolic process	GO_0008210	0	1	0	0	0
-estrogen catabolic process	GO_0006711	0	1	0	0	0
-estrogen biosynthetic process	GO_0006703	0	1	0	0	0
-ergosterol metabolic process	GO_0008204	0	1	0	0	0
-ergosterol biosynthetic process	GO_0006696	0	1	0	0	0
-epoxygenase P450 pathway	GO_0019373	0	1	0	0	0
-ent-pimara-8(14),15-diene metabolic process	GO_1901539	0	1	0	0	0
-ent-pimara-8(14),15-diene catabolic process	GO_1901540	0	1	0	0	0
-ent-pimara-8(14),15-diene biosynthetic process	GO_1901541	0	1	0	0	0
-ent-kaurene oxidation to kaurenoic acid	GO_0010241	0	1	0	0	0
-ent-kaurene metabolic process	GO_0033331	0	1	0	0	0
-ent-kaurene biosynthetic process	GO_0033332	0	1	0	0	0
-emericellamide metabolic process	GO_1900555	0	1	0	0	0
-emericellamide catabolic process	GO_1900556	0	1	0	0	0
-emericellamide biosynthetic process	GO_1900557	0	1	0	0	0
-emericellamide A metabolic process	GO_1900615	0	1	0	0	0
-emericellamide A catabolic process	GO_1900616	0	1	0	0	0
-emericellamide A biosynthetic process	GO_1900617	0	1	0	0	0
-ecdysteroid metabolic process	GO_0045455	0	1	0	0	0
-ecdysteroid catabolic process	GO_0046344	0	1	0	0	0
-ecdysteroid biosynthetic process	GO_0045456	0	1	0	0	0
-ecdysone metabolic process	GO_0008205	0	1	0	0	0
-ecdysone catabolic process	GO_0006708	0	1	0	0	0
-ecdysone biosynthetic process	GO_0006697	0	1	0	0	0
-dolichyl monophosphate biosynthetic process	GO_0043048	0	1	0	0	0
-dolichyl diphosphate metabolic process	GO_0046465	0	1	0	0	0
-dolichyl diphosphate biosynthetic process	GO_0006489	0	1	0	0	0
-dolichol metabolic process	GO_0019348	0	1	0	0	0
-dolichol biosynthetic process	GO_0019408	0	1	0	0	0
-diterpenoid metabolic process	GO_0016101	0	1	0	0	0
-diterpenoid catabolic process	GO_0016103	0	1	0	0	0
-diterpenoid biosynthetic process	GO_0016102	0	1	0	0	0
-diterpene phytoalexin precursor biosynthetic process pathway	GO_0051504	0	1	0	0	0
-diterpene phytoalexin metabolic process	GO_0051501	0	1	0	0	0
-diterpene phytoalexin biosynthetic process	GO_0051502	0	1	0	0	0
-dimethylallyl diphosphate metabolic process	GO_0050993	0	1	0	0	0
-dimethylallyl diphosphate biosynthetic process	GO_0050992	0	1	0	0	0
-dihydrosphingosine-1-P pathway	GO_0006648	0	1	0	0	0
-diacylglycerol metabolic process	GO_0046339	0	1	0	0	0
-diacylglycerol catabolic process	GO_0046340	0	1	0	0	0
-diacylglycerol biosynthetic process	GO_0006651	0	1	0	0	0
-diacylglycerol acyl-chain remodeling	GO_0036154	0	1	0	0	0
-delta-carotene metabolic process	GO_1901822	0	1	0	0	0
-delta-carotene catabolic process	GO_1901823	0	1	0	0	0
-delta-carotene biosynthetic process	GO_1901824	0	1	0	0	0
-cyclooxygenase pathway	GO_0019371	0	1	0	0	0
-cortisol metabolic process	GO_0034650	0	1	0	0	0
-cortisol biosynthetic process	GO_0034651	0	1	0	0	0
-copal-8-ol diphosphate(3-) metabolic process	GO_1902241	0	1	0	0	0
-copal-8-ol diphosphate(3-) catabolic process	GO_1902242	0	1	0	0	0
-copal-8-ol diphosphate(3-) biosynthetic process	GO_1902243	0	1	0	0	0
-cis-abienol metabolic process	GO_1902244	0	1	0	0	0
-cis-abienol catabolic process	GO_1902245	0	1	0	0	0
-cis-abienol biosynthetic process	GO_1902246	0	1	0	0	0
-cholesterol metabolic process	GO_0008203	0	1	0	0	0
-cholesterol esterification	GO_0034435	0	1	0	0	0
-cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	0	1	0	0	0
-cholesterol catabolic process	GO_0006707	0	1	0	0	0
-cholesterol biosynthetic process via lathosterol	GO_0033490	0	1	0	0	0
-cholesterol biosynthetic process via desmosterol	GO_0033489	0	1	0	0	0
-cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	0	1	0	0	0
-cholesterol biosynthetic process	GO_0006695	0	1	0	0	0
-ceramide metabolic process	GO_0006672	0	1	0	0	0
-ceramide catabolic process	GO_0046514	0	1	0	0	0
-ceramide biosynthetic process	GO_0046513	0	1	0	0	0
-cellular lipid biosynthetic process	GO_0097384	0	1	0	0	0
-carotenoid metabolic process	GO_0016116	0	1	0	0	0
-carotenoid catabolic process	GO_0016118	0	1	0	0	0
-carotenoid biosynthetic process	GO_0016117	0	1	0	0	0
-carotene metabolic process	GO_0016119	0	1	0	0	0
-carotene catabolic process	GO_0016121	0	1	0	0	0
-carotene biosynthetic process	GO_0016120	0	1	0	0	0
-cardiolipin metabolic process	GO_0032048	0	1	0	0	0
-cardiolipin biosynthetic process	GO_0032049	0	1	0	0	0
-cardiolipin acyl-chain remodeling	GO_0035965	0	1	0	0	0
-capsorubin metabolic process	GO_1901864	0	1	0	0	0
-capsorubin catabolic process	GO_1901865	0	1	0	0	0
-capsorubin biosynthetic process	GO_1901866	0	1	0	0	0
-capsanthin metabolic process	GO_1901807	0	1	0	0	0
-capsanthin catabolic process	GO_1901808	0	1	0	0	0
-capsanthin biosynthetic process	GO_1901809	0	1	0	0	0
-calcitriol biosynthetic process from calciol	GO_0036378	0	1	0	0	0
-cadinene metabolic process	GO_1901926	0	1	0	0	0
-cadinene catabolic process	GO_1901927	0	1	0	0	0
-cadinene biosynthetic process	GO_1901928	0	1	0	0	0
-butyryl-CoA catabolic process to butyrate	GO_0044581	0	1	0	0	0
-butyryl-CoA catabolic process to butanol	GO_0044582	0	1	0	0	0
-butyryl-CoA catabolic process	GO_0044580	0	1	0	0	0
-butyryl-CoA biosynthetic process from acetyl-CoA	GO_0044579	0	1	0	0	0
-butyryl-CoA biosynthetic process	GO_0044578	0	1	0	0	0
-butyrate metabolic process	GO_0019605	0	1	0	0	0
-butyrate catabolic process	GO_0046359	0	1	0	0	0
-butyrate biosynthetic process	GO_0046358	0	1	0	0	0
-brassinosteroid metabolic process	GO_0016131	0	1	0	0	0
-brassinosteroid catabolic process	GO_0016133	0	1	0	0	0
-brassinosteroid biosynthetic process	GO_0016132	0	1	0	0	0
-bile acid metabolic process	GO_0008206	0	1	0	0	0
-bile acid conjugation	GO_0002152	0	1	0	0	0
-bile acid catabolic process	GO_0030573	0	1	0	0	0
-bile acid biosynthetic process	GO_0006699	0	1	0	0	0
-bicyclogermacrene metabolic process	GO_1901932	0	1	0	0	0
-bicyclogermacrene catabolic process	GO_1901933	0	1	0	0	0
-bicyclogermacrene biosynthetic process	GO_1901934	0	1	0	0	0
-beta-zeacarotene metabolic process	GO_1901816	0	1	0	0	0
-beta-zeacarotene catabolic process	GO_1901817	0	1	0	0	0
-beta-zeacarotene biosynthetic process	GO_1901818	0	1	0	0	0
-beta-caryophyllene metabolic process	GO_1901935	0	1	0	0	0
-beta-caryophyllene catabolic process	GO_1901936	0	1	0	0	0
-beta-caryophyllene biosynthetic process	GO_1901937	0	1	0	0	0
-beta-carotene metabolic process	GO_1901810	0	1	0	0	0
-beta-carotene catabolic process	GO_1901811	0	1	0	0	0
-beta-carotene biosynthetic process	GO_1901812	0	1	0	0	0
-beta-L-Ara4N-lipid A metabolic process	GO_1901759	0	1	0	0	0
-beta-L-Ara4N-lipid A biosynthetic process	GO_1901760	0	1	0	0	0
-astaxanthin metabolic process	GO_1901813	0	1	0	0	0
-astaxanthin catabolic process	GO_1901814	0	1	0	0	0
-astaxanthin biosynthetic process	GO_1901815	0	1	0	0	0
-arachidonic acid metabolic process	GO_0019369	0	1	0	0	0
-apocarotenoid metabolic process	GO_0043288	0	1	0	0	0
-apocarotenoid catabolic process	GO_0043290	0	1	0	0	0
-apocarotenoid biosynthetic process	GO_0043289	0	1	0	0	0
-androst-4-ene-3,17-dione biosynthetic process	GO_1903449	0	1	0	0	0
-androgen metabolic process	GO_0008209	0	1	0	0	0
-androgen catabolic process	GO_0006710	0	1	0	0	0
-androgen biosynthetic process	GO_0006702	0	1	0	0	0
-anaerobic fatty acid catabolic process	GO_1990486	0	1	0	0	0
-alpha-zeacarotene metabolic process	GO_1901819	0	1	0	0	0
-alpha-zeacarotene catabolic process	GO_1901820	0	1	0	0	0
-alpha-zeacarotene biosynthetic process	GO_1901821	0	1	0	0	0
-alpha-pinene metabolic process	GO_0018867	0	1	0	0	0
-alpha-pinene catabolic process	GO_0046249	0	1	0	0	0
-alpha-pinene biosynthetic process	GO_0046248	0	1	0	0	0
-alpha-linolenic acid metabolic process	GO_0036109	0	1	0	0	0
-alpha-copaene metabolic process	GO_1901929	0	1	0	0	0
-alpha-copaene catabolic process	GO_1901930	0	1	0	0	0
-alpha-copaene biosynthetic process	GO_1901931	0	1	0	0	0
-all-trans-neoxanthin metabolic process	GO_1901831	0	1	0	0	0
-all-trans-neoxanthin catabolic process	GO_1901832	0	1	0	0	0
-all-trans-neoxanthin biosynthetic process	GO_1901833	0	1	0	0	0
-aldosterone metabolic process	GO_0032341	0	1	0	0	0
-aldosterone catabolic process	GO_0032343	0	1	0	0	0
-aldosterone biosynthetic process	GO_0032342	0	1	0	0	0
-acylglycerol metabolic process	GO_0006639	0	1	0	0	0
-acylglycerol catabolic process	GO_0046464	0	1	0	0	0
-acylglycerol biosynthetic process	GO_0046463	0	1	0	0	0
-acylglycerol acyl-chain remodeling	GO_0036155	0	1	0	0	0
-acetoacetic acid metabolic process	GO_0043438	0	1	0	0	0
-acetoacetic acid catabolic process	GO_0043442	0	1	0	0	0
-acetoacetic acid biosynthetic process	GO_0043441	0	1	0	0	0
-acetate catabolic process to butyrate, ethanol, acetone and butanol	GO_0010123	0	1	0	0	0
-abscisic acid metabolic process	GO_0009687	0	1	0	0	0
-abscisic acid catabolic process	GO_0046345	0	1	0	0	0
-abscisic acid biosynthetic process	GO_0009688	0	1	0	0	0
-N-acylphosphatidylethanolamine metabolic process	GO_0070292	0	1	0	0	0
-L-threonine catabolic process to propionate	GO_0070689	0	1	0	0	0
-Kdo2-lipid A metabolic process	GO_0036103	0	1	0	0	0
-Kdo2-lipid A biosynthetic process	GO_0036104	0	1	0	0	0
-GSI anchor metabolic process	GO_0042081	0	1	0	0	0
-GSI anchor biosynthetic process via N-seryl-glycosylsphingolipidinositolethanolamine	GO_0018281	0	1	0	0	0
-GSI anchor biosynthetic process via N-glycyl-glycosylsphingolipidinositolethanolamine	GO_0050494	0	1	0	0	0
-GSI anchor biosynthetic process	GO_0042082	0	1	0	0	0
-GPI anchor release	GO_0006507	0	1	0	0	0
-GPI anchor metabolic process	GO_0006505	0	1	0	0	0
-GPI anchor biosynthetic process via N-threonyl-glycosylphosphatidylinositolethanolamine	GO_0050493	0	1	0	0	0
-GPI anchor biosynthetic process via N-seryl-glycosylphosphatidylinositolethanolamine	GO_0018269	0	1	0	0	0
-GPI anchor biosynthetic process via N-glycyl-glycosylphosphatidylinositolethanolamine	GO_0018268	0	1	0	0	0
-GPI anchor biosynthetic process via N-cysteinyl-glycosylphosphatidylinositolethanolamine	GO_0018267	0	1	0	0	0
-GPI anchor biosynthetic process via N-aspartyl-glycosylphosphatidylinositolethanolamine	GO_0018266	0	1	0	0	0
-GPI anchor biosynthetic process via N-asparaginyl-glycosylphosphatidylinositolethanolamine	GO_0018265	0	1	0	0	0
-GPI anchor biosynthetic process via N-alanyl-glycosylphosphatidylinositolethanolamine	GO_0018270	0	1	0	0	0
-GPI anchor biosynthetic process	GO_0006506	0	1	0	0	0
-GDP-alpha-D-mannosylchitobiosyldiphosphodolichol metabolic process	GO_0046376	0	1	0	0	0
-GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthetic process	GO_0019347	0	1	0	0	0
-CDP-diacylglycerol metabolic process	GO_0046341	0	1	0	0	0
-CDP-diacylglycerol catabolic process	GO_0046342	0	1	0	0	0
-CDP-diacylglycerol biosynthetic process	GO_0016024	0	1	0	0	0
-CDP-choline pathway	GO_0006657	0	1	0	0	0
-C21-steroid hormone metabolic process	GO_0008207	0	1	0	0	0
-C21-steroid hormone catabolic process	GO_0008208	0	1	0	0	0
-C21-steroid hormone biosynthetic process	GO_0006700	0	1	0	0	0
-9-cis-retinoic acid metabolic process	GO_0042905	0	1	0	0	0
-9-cis-retinoic acid biosynthetic process	GO_0042904	0	1	0	0	0
-9,9'-di-cis-zeta-carotene desaturation to 7,9,7',9'-tetra-cis-lycopene	GO_0052889	0	1	0	0	0
-6-hydroxycineole metabolic process	GO_0019638	0	1	0	0	0
-6-hydroxycineole catabolic process	GO_0019639	0	1	0	0	0
-5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate metabolic process	GO_1901947	0	1	0	0	0
-5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate catabolic process	GO_1901948	0	1	0	0	0
-5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate biosynthetic process	GO_1901949	0	1	0	0	0
-4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process	GO_0036107	0	1	0	0	0
-4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process	GO_0036108	0	1	0	0	0
-4-alpha-methyl-delta7-sterol oxidation	GO_0080065	0	1	0	0	0
-4,4-dimethyl-9beta,19-cyclopropylsterol oxidation	GO_0080064	0	1	0	0	0
-3-keto-sphinganine metabolic process	GO_0006666	0	1	0	0	0
-2-oxobutyrate metabolic process	GO_0046361	0	1	0	0	0
-2-oxobutyrate catabolic process	GO_0019606	0	1	0	0	0
-2-oxobutyrate biosynthetic process	GO_0046360	0	1	0	0	0
-11-oxo-beta-amyrin metabolic process	GO_1902381	0	1	0	0	0
-11-oxo-beta-amyrin catabolic process	GO_1902382	0	1	0	0	0
-11-oxo-beta-amyrin biosynthetic process	GO_1902383	0	1	0	0	0
-1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate metabolic process	GO_1902633	0	1	0	0	0
-1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate catabolic process	GO_1902634	0	1	0	0	0
-1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	GO_1902635	0	1	0	0	0
-1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate metabolic process	GO_1903100	0	1	0	0	0
-1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate catabolic process	GO_1903101	0	1	0	0	0
-1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate biosynthetic process	GO_1903102	0	1	0	0	0
-1,2-diacyl-sn-glycero-3-phosphocholine metabolic process	GO_0006653	0	1	0	0	0
-(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	GO_1902609	0	1	0	0	0
-(25S)-Delta(7)-dafachronate metabolic process	GO_1902056	0	1	0	0	0
-(25S)-Delta(4)-dafachronate metabolic process	GO_1902057	0	1	0	0	0
-(17Z)-protosta-17(20),24-dien-3beta-ol metabolic process	GO_1900579	0	1	0	0	0
-(17Z)-protosta-17(20),24-dien-3beta-ol catabolic process	GO_1900580	0	1	0	0	0
-(17Z)-protosta-17(20),24-dien-3beta-ol biosynthetic process	GO_1900581	0	1	0	0	0
-(-)-secologanin metabolic process	GO_1900992	0	1	0	0	0
-(-)-secologanin catabolic process	GO_1900993	0	1	0	0	0
-(-)-secologanin biosynthetic process	GO_1900994	0	1	0	0	0
-(-)-exo-alpha-bergamotene metabolic process	GO_1901938	0	1	0	0	0
-(-)-exo-alpha-bergamotene catabolic process	GO_1901939	0	1	0	0	0
-(-)-exo-alpha-bergamotene biosynthetic process	GO_1901940	0	1	0	0	0
-(+)-epi-alpha-bisabolol metabolic process	GO_1901941	0	1	0	0	0
-(+)-epi-alpha-bisabolol catabolic process	GO_1901942	0	1	0	0	0
-(+)-epi-alpha-bisabolol biosynthetic process	GO_1901943	0	1	0	0	0
-(+)-camphor metabolic process	GO_0018882	0	1	0	0	0
-(+)-camphor catabolic process	GO_0019383	0	1	0	0	0
-(+)-camphor biosynthetic process	GO_0046211	0	1	0	0	0
+zymosterol metabolic process	GO_0036196	0	1	1	0	0
+zymosterol biosynthetic process	GO_0036197	0	1	1	0	0
+zeaxanthin metabolic process	GO_1901825	0	1	1	0	0
+zeaxanthin catabolic process	GO_1901826	0	1	1	0	0
+zeaxanthin bis(beta-D-glucoside) metabolic process	GO_1901828	0	1	1	0	0
+zeaxanthin bis(beta-D-glucoside) catabolic process	GO_1901829	0	1	1	0	0
+zeaxanthin bis(beta-D-glucoside) biosynthetic process	GO_1901830	0	1	1	0	0
+zeaxanthin biosynthetic process	GO_1901827	0	1	1	0	0
+xanthophyll metabolic process	GO_0016122	0	1	1	0	0
+xanthophyll cycle	GO_0010028	0	1	1	0	0
+xanthophyll catabolic process	GO_0016124	0	1	1	0	0
+xanthophyll biosynthetic process	GO_0016123	0	1	1	0	0
+vitamin D5 metabolic process	GO_0070642	0	1	1	0	0
+vitamin D4 metabolic process	GO_0070641	0	1	1	0	0
+vitamin D3 metabolic process	GO_0070640	0	1	1	0	0
+vitamin D3 catabolic process	GO_1901754	0	1	1	0	0
+vitamin D3 biosynthetic process	GO_1901755	0	1	1	0	0
+vitamin D2 metabolic process	GO_0070639	0	1	1	0	0
+vitamin D metabolic process	GO_0042359	0	1	1	0	0
+vitamin D catabolic process	GO_0042369	0	1	1	0	0
+vitamin D biosynthetic process	GO_0042368	0	1	1	0	0
+vitamin A metabolic process	GO_0006776	0	1	1	0	0
+vitamin A biosynthetic process	GO_0035238	0	1	1	0	0
+very long-chain fatty acid metabolic process	GO_0000038	0	1	1	0	0
+very long-chain fatty acid catabolic process	GO_0042760	0	1	1	0	0
+very long-chain fatty acid biosynthetic process	GO_0042761	0	1	1	0	0
+unsaturated fatty acid metabolic process	GO_0033559	0	1	1	0	0
+unsaturated fatty acid biosynthetic process	GO_0006636	0	1	1	0	0
+tuberculosinol biosynthetic process	GO_0035440	0	1	1	0	0
+triterpenoid metabolic process	GO_0006722	0	1	1	0	0
+triterpenoid catabolic process	GO_0016105	0	1	1	0	0
+triterpenoid biosynthetic process	GO_0016104	0	1	1	0	0
+triglyceride mobilization	GO_0006642	0	1	1	0	0
+triglyceride metabolic process	GO_0006641	0	1	1	0	0
+triglyceride catabolic process	GO_0019433	0	1	1	0	0
+triglyceride biosynthetic process	GO_0019432	0	1	1	0	0
+triglyceride acyl-chain remodeling	GO_0036153	0	1	1	0	0
+tricyclic triterpenoid metabolic process	GO_0010683	0	1	1	0	0
+tricyclic triterpenoid catabolic process	GO_0010684	0	1	1	0	0
+tricyclic triterpenoid biosynthetic process	GO_0010263	0	1	1	0	0
+thalianol metabolic process	GO_0080003	0	1	1	0	0
+tetraterpenoid metabolic process	GO_0016108	0	1	1	0	0
+tetraterpenoid catabolic process	GO_0016110	0	1	1	0	0
+tetraterpenoid biosynthetic process	GO_0016109	0	1	1	0	0
+tetracyclic triterpenoid metabolic process	GO_0010685	0	1	1	0	0
+tetracyclic triterpenoid biosynthetic process	GO_0010686	0	1	1	0	0
+testosterone biosynthetic process	GO_0061370	0	1	1	0	0
+terpenoid metabolic process	GO_0006721	0	1	1	0	0
+terpenoid catabolic process	GO_0016115	0	1	1	0	0
+terpenoid biosynthetic process, mevalonate-independent	GO_0051483	0	1	1	0	0
+terpenoid biosynthetic process, mevalonate-dependent	GO_0051485	0	1	1	0	0
+terpenoid biosynthetic process	GO_0016114	0	1	1	0	0
+terpene metabolic process	GO_0042214	0	1	1	0	0
+terpene catabolic process	GO_0046247	0	1	1	0	0
+terpene biosynthetic process	GO_0046246	0	1	1	0	0
+sulfolipid metabolic process	GO_0046505	0	1	1	0	0
+sulfolipid biosynthetic process	GO_0046506	0	1	1	0	0
+strigolactone metabolic process	GO_1901600	0	1	1	0	0
+strigolactone biosynthetic process	GO_1901601	0	1	1	0	0
+sterol metabolic process	GO_0016125	0	1	1	0	0
+sterol esterification	GO_0034434	0	1	1	0	0
+sterol deacetylation	GO_0034210	0	1	1	0	0
+sterol catabolic process	GO_0016127	0	1	1	0	0
+sterol biosynthetic process	GO_0016126	0	1	1	0	0
+sterol acetylation	GO_0034209	0	1	1	0	0
+steroid metabolic process	GO_0008202	0	1	1	0	0
+steroid esterification	GO_0034433	0	1	1	0	0
+steroid deacetylation	GO_0034208	0	1	1	0	0
+steroid catabolic process	GO_0006706	0	1	1	0	0
+steroid biosynthetic process	GO_0006694	0	1	1	0	0
+steroid acetylation	GO_0034207	0	1	1	0	0
+sphingosine metabolic process	GO_0006670	0	1	1	0	0
+sphingosine catabolic process	GO_0051872	0	1	1	0	0
+sphingosine biosynthetic process	GO_0046512	0	1	1	0	0
+sphingomyelin metabolic process	GO_0006684	0	1	1	0	0
+sphingomyelin catabolic process	GO_0006685	0	1	1	0	0
+sphingomyelin biosynthetic process	GO_0006686	0	1	1	0	0
+sphingolipid metabolic process	GO_0006665	0	1	1	0	0
+sphingolipid catabolic process	GO_0030149	0	1	1	0	0
+sphingolipid biosynthetic process	GO_0030148	0	1	1	0	0
+sphingolipid biosynthesis involved in endoplasmic reticulum membrane organization	GO_0090159	0	1	1	0	0
+sphingoid metabolic process	GO_0046519	0	1	1	0	0
+sphingoid catabolic process	GO_0046521	0	1	1	0	0
+sphingoid biosynthetic process	GO_0046520	0	1	1	0	0
+sphinganine-1-phosphate metabolic process	GO_0006668	0	1	1	0	0
+sphinganine-1-phosphate catabolic process	GO_0051874	0	1	1	0	0
+sphinganine-1-phosphate biosynthetic process	GO_0006669	0	1	1	0	0
+sphinganine metabolic process	GO_0006667	0	1	1	0	0
+sphinganine biosynthetic process	GO_0046511	0	1	1	0	0
+spheroidene metabolic process	GO_1901178	0	1	1	0	0
+spheroidene catabolic process	GO_1901179	0	1	1	0	0
+spheroidene biosynthetic process	GO_1901180	0	1	1	0	0
+sophorosyloxydocosanoate metabolic process	GO_0019434	0	1	1	0	0
+sophorosyloxydocosanoate catabolic process	GO_0019436	0	1	1	0	0
+sophorosyloxydocosanoate biosynthetic process	GO_0019435	0	1	1	0	0
+short-chain fatty acid metabolic process	GO_0046459	0	1	1	0	0
+short-chain fatty acid catabolic process	GO_0019626	0	1	1	0	0
+short-chain fatty acid biosynthetic process	GO_0051790	0	1	1	0	0
+sesquiterpenoid metabolic process	GO_0006714	0	1	1	0	0
+sesquiterpenoid catabolic process	GO_0016107	0	1	1	0	0
+sesquiterpenoid biosynthetic process	GO_0016106	0	1	1	0	0
+sesquiterpene metabolic process	GO_0051761	0	1	1	0	0
+sesquiterpene catabolic process	GO_0051763	0	1	1	0	0
+sesquiterpene biosynthetic process	GO_0051762	0	1	1	0	0
+sesquarterpene metabolic process	GO_1903192	0	1	1	0	0
+sesquarterpene biosynthetic process	GO_1903193	0	1	1	0	0
+retinol metabolic process	GO_0042572	0	1	1	0	0
+retinoid metabolic process	GO_0001523	0	1	1	0	0
+retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	1	0	0
+retinoic acid metabolic process	GO_0042573	0	1	1	0	0
+retinoic acid catabolic process	GO_0034653	0	1	1	0	0
+retinoic acid biosynthetic process	GO_0002138	0	1	1	0	0
+retinal metabolic process	GO_0042574	0	1	1	0	0
+pyruvate fermentation to propionate	GO_0019657	0	1	1	0	0
+prostanoid metabolic process	GO_0006692	0	1	1	0	0
+prostanoid biosynthetic process	GO_0046457	0	1	1	0	0
+prostaglandin metabolic process	GO_0006693	0	1	1	0	0
+prostaglandin biosynthetic process	GO_0001516	0	1	1	0	0
+propionate metabolic process, methylmalonyl pathway	GO_0019678	0	1	1	0	0
+propionate metabolic process, methylcitrate cycle	GO_0019679	0	1	1	0	0
+propionate metabolic process	GO_0019541	0	1	1	0	0
+propionate catabolic process, 2-methylcitrate cycle	GO_0019629	0	1	1	0	0
+propionate catabolic process	GO_0019543	0	1	1	0	0
+propionate biosynthetic process	GO_0019542	0	1	1	0	0
+progesterone metabolic process	GO_0042448	0	1	1	0	0
+progesterone catabolic process	GO_0006709	0	1	1	0	0
+progesterone biosynthetic process	GO_0006701	0	1	1	0	0
+prenol metabolic process	GO_0016090	0	1	1	0	0
+prenol catabolic process	GO_0016092	0	1	1	0	0
+prenol biosynthetic process	GO_0016091	0	1	1	0	0
+preassembly of GPI anchor in ER membrane	GO_0016254	0	1	1	0	0
+polyterpenoid metabolic process	GO_0016111	0	1	1	0	0
+polyterpenoid catabolic process	GO_0016113	0	1	1	0	0
+polyterpenoid biosynthetic process	GO_0016112	0	1	1	0	0
+polyprenol metabolic process	GO_0016093	0	1	1	0	0
+polyprenol catabolic process	GO_0016095	0	1	1	0	0
+polyprenol biosynthetic process	GO_0016094	0	1	1	0	0
+polyacyltrehalose metabolic process	GO_0097092	0	1	1	0	0
+polyacyltrehalose biosynthetic process	GO_0097093	0	1	1	0	0
+poly(hydroxyalkanoate) biosynthetic process from fatty acid	GO_1902925	0	1	1	0	0
+platelet activating factor metabolic process	GO_0046469	0	1	1	0	0
+platelet activating factor biosynthetic process	GO_0006663	0	1	1	0	0
+pinene metabolic process	GO_0033073	0	1	1	0	0
+pinene catabolic process	GO_0033074	0	1	1	0	0
+phytyl diphosphate metabolic process	GO_0033519	0	1	1	0	0
+phytyl diphosphate biosynthetic process	GO_0033521	0	1	1	0	0
+phytosteroid metabolic process	GO_0016128	0	1	1	0	0
+phytosteroid catabolic process	GO_0016130	0	1	1	0	0
+phytosteroid biosynthetic process	GO_0016129	0	1	1	0	0
+phytosphingosine metabolic process	GO_0006671	0	1	1	0	0
+phytosphingosine biosynthetic process	GO_0071602	0	1	1	0	0
+phytol salvage	GO_0033307	0	1	1	0	0
+phytol metabolic process	GO_0033306	0	1	1	0	0
+phytol biosynthetic process	GO_0033520	0	1	1	0	0
+phytoene metabolic process	GO_1901172	0	1	1	0	0
+phytoene catabolic process	GO_1901173	0	1	1	0	0
+phytoene biosynthetic process	GO_1901174	0	1	1	0	0
+phytanic acid metabolic process	GO_1903512	0	1	1	0	0
+phthiocerol biosynthetic process	GO_0097040	0	1	1	0	0
+phospholipid metabolic process	GO_0006644	0	1	1	0	0
+phospholipid dephosphorylation	GO_0046839	0	1	1	0	0
+phospholipid catabolic process	GO_0009395	0	1	1	0	0
+phospholipid biosynthetic process	GO_0008654	0	1	1	0	0
+phosphatidylserine metabolic process	GO_0006658	0	1	1	0	0
+phosphatidylserine catabolic process	GO_0006660	0	1	1	0	0
+phosphatidylserine biosynthetic process	GO_0006659	0	1	1	0	0
+phosphatidylserine acyl-chain remodeling	GO_0036150	0	1	1	0	0
+phosphatidylinositol-3-phosphate biosynthetic process	GO_0036092	0	1	1	0	0
+phosphatidylinositol phosphorylation	GO_0046854	0	1	1	0	0
+phosphatidylinositol metabolic process	GO_0046488	0	1	1	0	0
+phosphatidylinositol dephosphorylation	GO_0046856	0	1	1	0	0
+phosphatidylinositol catabolic process	GO_0031161	0	1	1	0	0
+phosphatidylinositol biosynthetic process	GO_0006661	0	1	1	0	0
+phosphatidylinositol acyl-chain remodeling	GO_0036149	0	1	1	0	0
+phosphatidylglycerol metabolic process	GO_0046471	0	1	1	0	0
+phosphatidylglycerol catabolic process	GO_0034478	0	1	1	0	0
+phosphatidylglycerol biosynthetic process	GO_0006655	0	1	1	0	0
+phosphatidylglycerol acyl-chain remodeling	GO_0036148	0	1	1	0	0
+phosphatidylethanolamine metabolic process	GO_0046337	0	1	1	0	0
+phosphatidylethanolamine catabolic process	GO_0046338	0	1	1	0	0
+phosphatidylethanolamine biosynthetic process	GO_0006646	0	1	1	0	0
+phosphatidylethanolamine acyl-chain remodeling	GO_0036152	0	1	1	0	0
+phosphatidylcholine metabolic process	GO_0046470	0	1	1	0	0
+phosphatidylcholine catabolic process	GO_0034638	0	1	1	0	0
+phosphatidylcholine biosynthetic process	GO_0006656	0	1	1	0	0
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-choline	GO_0070832	0	1	1	0	0
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-N-dimethylethanolamine	GO_0070834	0	1	1	0	0
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via CDP-N-methylethanolamine	GO_0070833	0	1	1	0	0
+phosphatidylcholine acyl-chain remodeling	GO_0036151	0	1	1	0	0
+phosphatidyl-N-monomethylethanolamine metabolic process	GO_0046468	0	1	1	0	0
+phosphatidyl-N-monomethylethanolamine biosynthetic process	GO_0006647	0	1	1	0	0
+phosphatidic acid metabolic process	GO_0046473	0	1	1	0	0
+phosphatidic acid biosynthetic process	GO_0006654	0	1	1	0	0
+phenolic phthiocerol biosynthetic process	GO_0097041	0	1	1	0	0
+phaseic acid biosynthetic process	GO_0010379	0	1	1	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	1	0	0
+pentose catabolic process to butyrate	GO_1902698	0	1	1	0	0
+pentalenolactone metabolic process	GO_1901778	0	1	1	0	0
+pentalenolactone catabolic process	GO_1901779	0	1	1	0	0
+pentalenolactone biosynthetic process	GO_1901780	0	1	1	0	0
+pentacyclic triterpenoid metabolic process	GO_0019742	0	1	1	0	0
+pentacyclic triterpenoid catabolic process	GO_0019741	0	1	1	0	0
+pentacyclic triterpenoid biosynthetic process	GO_0019745	0	1	1	0	0
+palmitic acid metabolic process	GO_1900533	0	1	1	0	0
+palmitic acid catabolic process	GO_1900534	0	1	1	0	0
+palmitic acid biosynthetic process	GO_1900535	0	1	1	0	0
+paclitaxel metabolic process	GO_0042616	0	1	1	0	0
+paclitaxel biosynthetic process	GO_0042617	0	1	1	0	0
+p-cymene metabolic process	GO_0018953	0	1	1	0	0
+p-cymene catabolic process	GO_0019334	0	1	1	0	0
+oxylipin metabolic process	GO_0031407	0	1	1	0	0
+oxylipin biosynthetic process	GO_0031408	0	1	1	0	0
+omega-hydroxylase P450 pathway	GO_0097267	0	1	1	0	0
+oligosaccharide-lipid intermediate biosynthetic process	GO_0006490	0	1	1	0	0
+octanol metabolic process	GO_0006070	0	1	1	0	0
+octanol catabolic process	GO_0046172	0	1	1	0	0
+octanol biosynthetic process	GO_0046171	0	1	1	0	0
+neutral lipid metabolic process	GO_0006638	0	1	1	0	0
+neutral lipid catabolic process	GO_0046461	0	1	1	0	0
+neutral lipid biosynthetic process	GO_0046460	0	1	1	0	0
+mycolic acid metabolic process	GO_0071767	0	1	1	0	0
+mycolic acid biosynthetic process	GO_0071768	0	1	1	0	0
+multicellular organismal lipid catabolic process	GO_0044240	0	1	1	0	0
+monoterpenoid metabolic process	GO_0016098	0	1	1	0	0
+monoterpenoid catabolic process	GO_0016100	0	1	1	0	0
+monoterpenoid biosynthetic process	GO_0016099	0	1	1	0	0
+monoterpene metabolic process	GO_0043692	0	1	1	0	0
+monoterpene catabolic process	GO_0043694	0	1	1	0	0
+monoterpene biosynthetic process	GO_0043693	0	1	1	0	0
+monoacylglycerol metabolic process	GO_0046462	0	1	1	0	0
+monoacylglycerol catabolic process	GO_0052651	0	1	1	0	0
+monoacylglycerol biosynthetic process	GO_0006640	0	1	1	0	0
+mineralocorticoid metabolic process	GO_0008212	0	1	1	0	0
+mineralocorticoid catabolic process	GO_0006712	0	1	1	0	0
+mineralocorticoid biosynthetic process	GO_0006705	0	1	1	0	0
+miltiradiene metabolic process	GO_1901944	0	1	1	0	0
+miltiradiene catabolic process	GO_1901945	0	1	1	0	0
+miltiradiene biosynthetic process	GO_1901946	0	1	1	0	0
+methyl-branched fatty acid metabolic process	GO_0097089	0	1	1	0	0
+methyl-branched fatty acid biosynthetic process	GO_1902321	0	1	1	0	0
+methionine catabolic process to 3-methylthiopropanoate	GO_0000954	0	1	1	0	0
+methane biosynthetic process from 3-(methylthio)propionic acid	GO_2001132	0	1	1	0	0
+menthol metabolic process	GO_0031524	0	1	1	0	0
+menthol biosynthetic process	GO_0031525	0	1	1	0	0
+membrane lipid metabolic process	GO_0006643	0	1	1	0	0
+membrane lipid catabolic process	GO_0046466	0	1	1	0	0
+membrane lipid biosynthetic process	GO_0046467	0	1	1	0	0
+medium-chain fatty acid metabolic process	GO_0051791	0	1	1	0	0
+medium-chain fatty acid catabolic process	GO_0051793	0	1	1	0	0
+medium-chain fatty acid biosynthetic process	GO_0051792	0	1	1	0	0
+mannosyl-inositol phosphorylceramide metabolic process	GO_0006675	0	1	1	0	0
+mannosyl-inositol phosphorylceramide biosynthetic process	GO_0051999	0	1	1	0	0
+mannosyl diphosphorylinositol ceramide metabolic process	GO_0006676	0	1	1	0	0
+lysobisphosphatidic acid metabolic process	GO_2001311	0	1	1	0	0
+lysobisphosphatidic acid biosynthetic process	GO_2001312	0	1	1	0	0
+lycopene metabolic process	GO_1901175	0	1	1	0	0
+lycopene catabolic process	GO_1901176	0	1	1	0	0
+lycopene biosynthetic process	GO_1901177	0	1	1	0	0
+lipoxygenase pathway	GO_0019372	0	1	1	0	0
+lipoxin metabolic process	GO_2001300	0	1	1	0	0
+lipoxin biosynthetic process	GO_2001301	0	1	1	0	0
+lipoxin B4 metabolic process	GO_2001304	0	1	1	0	0
+lipoxin B4 biosynthetic process	GO_2001306	0	1	1	0	0
+lipoxin A4 metabolic process	GO_2001302	0	1	1	0	0
+lipoxin A4 biosynthetic process	GO_2001303	0	1	1	0	0
+liposaccharide metabolic process	GO_1903509	0	1	1	0	0
+lipoprotein lipid oxidation	GO_0034439	0	1	1	0	0
+lipopolysaccharide metabolic process	GO_0008653	0	1	1	0	0
+lipopolysaccharide catabolic process	GO_0009104	0	1	1	0	0
+lipopolysaccharide biosynthetic process	GO_0009103	0	1	1	0	0
+lipoate metabolic process	GO_0009106	0	1	1	0	0
+lipoate catabolic process	GO_0032323	0	1	1	0	0
+lipoate biosynthetic process	GO_0009107	0	1	1	0	0
+linoleic acid metabolic process	GO_0043651	0	1	1	0	0
+limonene metabolic process	GO_0018923	0	1	1	0	0
+limonene catabolic process	GO_0046251	0	1	1	0	0
+limonene biosynthetic process	GO_0046250	0	1	1	0	0
+leukotriene metabolic process	GO_0006691	0	1	1	0	0
+leukotriene catabolic process	GO_0036100	0	1	1	0	0
+leukotriene biosynthetic process	GO_0019370	0	1	1	0	0
+leukotriene D4 metabolic process	GO_1901748	0	1	1	0	0
+leukotriene D4 catabolic process	GO_1901749	0	1	1	0	0
+leukotriene D4 biosynthetic process	GO_1901750	0	1	1	0	0
+leukotriene B4 metabolic process	GO_0036102	0	1	1	0	0
+leukotriene B4 catabolic process	GO_0036101	0	1	1	0	0
+leukotriene B4 biosynthetic process	GO_0097251	0	1	1	0	0
+leukotriene A4 metabolic process	GO_1901751	0	1	1	0	0
+leukotriene A4 catabolic process	GO_1901752	0	1	1	0	0
+leukotriene A4 biosynthetic process	GO_1901753	0	1	1	0	0
+lauric acid metabolic process	GO_0048252	0	1	1	0	0
+lactosylceramide metabolic process	GO_0046478	0	1	1	0	0
+lactosylceramide biosynthetic process	GO_0001572	0	1	1	0	0
+lactate fermentation to propionate and acetate	GO_0019652	0	1	1	0	0
+juvenile hormone metabolic process	GO_0006716	0	1	1	0	0
+juvenile hormone catabolic process	GO_0006719	0	1	1	0	0
+juvenile hormone biosynthetic process	GO_0006718	0	1	1	0	0
+isoprenoid metabolic process	GO_0006720	0	1	1	0	0
+isoprenoid catabolic process	GO_0008300	0	1	1	0	0
+isoprenoid biosynthetic process via mevalonate	GO_1902767	0	1	1	0	0
+isoprenoid biosynthetic process via 1-deoxy-D-xylulose 5-phosphate	GO_1902768	0	1	1	0	0
+isoprenoid biosynthetic process	GO_0008299	0	1	1	0	0
+isoprene metabolic process	GO_0043611	0	1	1	0	0
+isoprene catabolic process	GO_0043613	0	1	1	0	0
+isoprene biosynthetic process	GO_0043612	0	1	1	0	0
+isopentenyl diphosphate metabolic process	GO_0046490	0	1	1	0	0
+isopentenyl diphosphate biosynthetic process, mevalonate pathway involved in terpenoid biosynthetic process	GO_0051486	0	1	1	0	0
+isopentenyl diphosphate biosynthetic process, mevalonate pathway	GO_0019287	0	1	1	0	0
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	GO_0051484	0	1	1	0	0
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	GO_0019288	0	1	1	0	0
+isopentenyl diphosphate biosynthetic process	GO_0009240	0	1	1	0	0
+isogloboside biosynthetic process	GO_1990387	0	1	1	0	0
+intestinal lipid catabolic process	GO_0044258	0	1	1	0	0
+inositolphosphoceramide metabolic process	GO_0006673	0	1	1	0	0
+hopanoid metabolic process	GO_0019744	0	1	1	0	0
+hopanoid catabolic process	GO_0019743	0	1	1	0	0
+hopanoid biosynthetic process	GO_0019746	0	1	1	0	0
+hexose catabolic process to butyrate	GO_1902705	0	1	1	0	0
+hepoxilin metabolic process	GO_0051121	0	1	1	0	0
+hepoxilin biosynthetic process	GO_0051122	0	1	1	0	0
+helvolic acid metabolic process	GO_1900810	0	1	1	0	0
+helvolic acid catabolic process	GO_1900811	0	1	1	0	0
+helvolic acid biosynthetic process	GO_1900812	0	1	1	0	0
+green leaf volatile biosynthetic process	GO_0010597	0	1	1	0	0
+glycyrrhetinate metabolic process	GO_1902384	0	1	1	0	0
+glycyrrhetinate catabolic process	GO_1902385	0	1	1	0	0
+glycyrrhetinate biosynthetic process	GO_1902386	0	1	1	0	0
+glycosylceramide metabolic process	GO_0006677	0	1	1	0	0
+glycosylceramide catabolic process	GO_0046477	0	1	1	0	0
+glycosylceramide biosynthetic process	GO_0046476	0	1	1	0	0
+glycosphingolipid metabolic process	GO_0006687	0	1	1	0	0
+glycosphingolipid catabolic process	GO_0046479	0	1	1	0	0
+glycosphingolipid biosynthetic process	GO_0006688	0	1	1	0	0
+glycolipid metabolic process	GO_0006664	0	1	1	0	0
+glycolipid catabolic process	GO_0019377	0	1	1	0	0
+glycolipid biosynthetic process	GO_0009247	0	1	1	0	0
+glycerophospholipid metabolic process	GO_0006650	0	1	1	0	0
+glycerophospholipid catabolic process	GO_0046475	0	1	1	0	0
+glycerophospholipid biosynthetic process	GO_0046474	0	1	1	0	0
+glycerolipid metabolic process	GO_0046486	0	1	1	0	0
+glycerolipid catabolic process	GO_0046503	0	1	1	0	0
+glycerolipid biosynthetic process	GO_0045017	0	1	1	0	0
+glutamate catabolic process to propionate	GO_0033509	0	1	1	0	0
+glutamate catabolic process to butyrate	GO_0033508	0	1	1	0	0
+glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	1	0	0
+glucosylceramide metabolic process	GO_0006678	0	1	1	0	0
+glucosylceramide catabolic process	GO_0006680	0	1	1	0	0
+glucosylceramide biosynthetic process	GO_0006679	0	1	1	0	0
+glucose catabolic process to butyrate	GO_0030645	0	1	1	0	0
+glucocorticoid metabolic process	GO_0008211	0	1	1	0	0
+glucocorticoid catabolic process	GO_0006713	0	1	1	0	0
+glucocorticoid biosynthetic process	GO_0006704	0	1	1	0	0
+globoside metabolic process	GO_0001575	0	1	1	0	0
+globoside biosynthetic process via lactosylceramide	GO_0010707	0	1	1	0	0
+globoside biosynthetic process	GO_0001576	0	1	1	0	0
+gibberellin metabolic process	GO_0009685	0	1	1	0	0
+gibberellin catabolic process	GO_0045487	0	1	1	0	0
+gibberellin biosynthetic process	GO_0009686	0	1	1	0	0
+gibberellin 12 metabolic process	GO_0033469	0	1	1	0	0
+gibberellin 12 biosynthetic process	GO_0033470	0	1	1	0	0
+geranylgeranyl diphosphate metabolic process	GO_0033385	0	1	1	0	0
+geranylgeranyl diphosphate catabolic process	GO_1902247	0	1	1	0	0
+geranylgeranyl diphosphate biosynthetic process	GO_0033386	0	1	1	0	0
+geranyl diphosphate metabolic process	GO_0033383	0	1	1	0	0
+geranyl diphosphate biosynthetic process	GO_0033384	0	1	1	0	0
+geraniol metabolic process	GO_1903446	0	1	1	0	0
+geraniol catabolic process	GO_1903447	0	1	1	0	0
+geraniol biosynthetic process	GO_1903448	0	1	1	0	0
+ganglioside metabolic process	GO_0001573	0	1	1	0	0
+ganglioside catabolic process	GO_0006689	0	1	1	0	0
+ganglioside biosynthetic process via lactosylceramide	GO_0010706	0	1	1	0	0
+ganglioside biosynthetic process	GO_0001574	0	1	1	0	0
+galactosylceramide metabolic process	GO_0006681	0	1	1	0	0
+galactosylceramide catabolic process	GO_0006683	0	1	1	0	0
+galactosylceramide biosynthetic process	GO_0006682	0	1	1	0	0
+galactolipid metabolic process	GO_0019374	0	1	1	0	0
+galactolipid catabolic process	GO_0019376	0	1	1	0	0
+galactolipid biosynthetic process	GO_0019375	0	1	1	0	0
+fatty alcohol metabolic process	GO_1903173	0	1	1	0	0
+fatty alcohol catabolic process	GO_1903174	0	1	1	0	0
+fatty alcohol biosynthetic process	GO_1903175	0	1	1	0	0
+fatty acid oxidation	GO_0019395	0	1	1	0	0
+fatty acid omega-oxidation	GO_0010430	0	1	1	0	0
+fatty acid methyl ester metabolic process	GO_1902898	0	1	1	0	0
+fatty acid methyl ester biosynthetic process	GO_1902899	0	1	1	0	0
+fatty acid metabolic process	GO_0006631	0	1	1	0	0
+fatty acid elongation, unsaturated fatty acid	GO_0019368	0	1	1	0	0
+fatty acid elongation, saturated fatty acid	GO_0019367	0	1	1	0	0
+fatty acid elongation, polyunsaturated fatty acid	GO_0034626	0	1	1	0	0
+fatty acid elongation, monounsaturated fatty acid	GO_0034625	0	1	1	0	0
+fatty acid elongation	GO_0030497	0	1	1	0	0
+fatty acid catabolic process	GO_0009062	0	1	1	0	0
+fatty acid biosynthetic process	GO_0006633	0	1	1	0	0
+fatty acid beta-oxidation, unsaturated, odd number	GO_0033541	0	1	1	0	0
+fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway	GO_0033543	0	1	1	0	0
+fatty acid beta-oxidation, unsaturated, even number, epimerase pathway	GO_0033544	0	1	1	0	0
+fatty acid beta-oxidation, unsaturated, even number	GO_0033542	0	1	1	0	0
+fatty acid beta-oxidation using acyl-CoA oxidase	GO_0033540	0	1	1	0	0
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	GO_0033539	0	1	1	0	0
+fatty acid beta-oxidation	GO_0006635	0	1	1	0	0
+fatty acid alpha-oxidation	GO_0001561	0	1	1	0	0
+farnesyl diphosphate metabolic process	GO_0045338	0	1	1	0	0
+farnesyl diphosphate catabolic process	GO_0045339	0	1	1	0	0
+farnesyl diphosphate biosynthetic process, mevalonate pathway	GO_0010142	0	1	1	0	0
+farnesyl diphosphate biosynthetic process	GO_0045337	0	1	1	0	0
+farnesol metabolic process	GO_0016487	0	1	1	0	0
+farnesol catabolic process	GO_0016488	0	1	1	0	0
+farnesol biosynthetic process	GO_0006715	0	1	1	0	0
+ether lipid metabolic process	GO_0046485	0	1	1	0	0
+ether lipid biosynthetic process	GO_0008611	0	1	1	0	0
+estrogen metabolic process	GO_0008210	0	1	1	0	0
+estrogen catabolic process	GO_0006711	0	1	1	0	0
+estrogen biosynthetic process	GO_0006703	0	1	1	0	0
+ergosterol metabolic process	GO_0008204	0	1	1	0	0
+ergosterol biosynthetic process	GO_0006696	0	1	1	0	0
+epoxygenase P450 pathway	GO_0019373	0	1	1	0	0
+ent-pimara-8(14),15-diene metabolic process	GO_1901539	0	1	1	0	0
+ent-pimara-8(14),15-diene catabolic process	GO_1901540	0	1	1	0	0
+ent-pimara-8(14),15-diene biosynthetic process	GO_1901541	0	1	1	0	0
+ent-kaurene oxidation to kaurenoic acid	GO_0010241	0	1	1	0	0
+ent-kaurene metabolic process	GO_0033331	0	1	1	0	0
+ent-kaurene biosynthetic process	GO_0033332	0	1	1	0	0
+emericellamide metabolic process	GO_1900555	0	1	1	0	0
+emericellamide catabolic process	GO_1900556	0	1	1	0	0
+emericellamide biosynthetic process	GO_1900557	0	1	1	0	0
+emericellamide A metabolic process	GO_1900615	0	1	1	0	0
+emericellamide A catabolic process	GO_1900616	0	1	1	0	0
+emericellamide A biosynthetic process	GO_1900617	0	1	1	0	0
+ecdysteroid metabolic process	GO_0045455	0	1	1	0	0
+ecdysteroid catabolic process	GO_0046344	0	1	1	0	0
+ecdysteroid biosynthetic process	GO_0045456	0	1	1	0	0
+ecdysone metabolic process	GO_0008205	0	1	1	0	0
+ecdysone catabolic process	GO_0006708	0	1	1	0	0
+ecdysone biosynthetic process	GO_0006697	0	1	1	0	0
+dolichyl monophosphate biosynthetic process	GO_0043048	0	1	1	0	0
+dolichyl diphosphate metabolic process	GO_0046465	0	1	1	0	0
+dolichyl diphosphate biosynthetic process	GO_0006489	0	1	1	0	0
+dolichol metabolic process	GO_0019348	0	1	1	0	0
+dolichol biosynthetic process	GO_0019408	0	1	1	0	0
+diterpenoid metabolic process	GO_0016101	0	1	1	0	0
+diterpenoid catabolic process	GO_0016103	0	1	1	0	0
+diterpenoid biosynthetic process	GO_0016102	0	1	1	0	0
+diterpene phytoalexin precursor biosynthetic process pathway	GO_0051504	0	1	1	0	0
+diterpene phytoalexin metabolic process	GO_0051501	0	1	1	0	0
+diterpene phytoalexin biosynthetic process	GO_0051502	0	1	1	0	0
+dimethylallyl diphosphate metabolic process	GO_0050993	0	1	1	0	0
+dimethylallyl diphosphate biosynthetic process	GO_0050992	0	1	1	0	0
+dihydrosphingosine-1-P pathway	GO_0006648	0	1	1	0	0
+diacylglycerol metabolic process	GO_0046339	0	1	1	0	0
+diacylglycerol catabolic process	GO_0046340	0	1	1	0	0
+diacylglycerol biosynthetic process	GO_0006651	0	1	1	0	0
+diacylglycerol acyl-chain remodeling	GO_0036154	0	1	1	0	0
+delta-carotene metabolic process	GO_1901822	0	1	1	0	0
+delta-carotene catabolic process	GO_1901823	0	1	1	0	0
+delta-carotene biosynthetic process	GO_1901824	0	1	1	0	0
+cyclooxygenase pathway	GO_0019371	0	1	1	0	0
+cortisol metabolic process	GO_0034650	0	1	1	0	0
+cortisol biosynthetic process	GO_0034651	0	1	1	0	0
+copal-8-ol diphosphate(3-) metabolic process	GO_1902241	0	1	1	0	0
+copal-8-ol diphosphate(3-) catabolic process	GO_1902242	0	1	1	0	0
+copal-8-ol diphosphate(3-) biosynthetic process	GO_1902243	0	1	1	0	0
+cis-abienol metabolic process	GO_1902244	0	1	1	0	0
+cis-abienol catabolic process	GO_1902245	0	1	1	0	0
+cis-abienol biosynthetic process	GO_1902246	0	1	1	0	0
+cholesterol metabolic process	GO_0008203	0	1	1	0	0
+cholesterol esterification	GO_0034435	0	1	1	0	0
+cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	0	1	1	0	0
+cholesterol catabolic process	GO_0006707	0	1	1	0	0
+cholesterol biosynthetic process via lathosterol	GO_0033490	0	1	1	0	0
+cholesterol biosynthetic process via desmosterol	GO_0033489	0	1	1	0	0
+cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	0	1	1	0	0
+cholesterol biosynthetic process	GO_0006695	0	1	1	0	0
+ceramide metabolic process	GO_0006672	0	1	1	0	0
+ceramide catabolic process	GO_0046514	0	1	1	0	0
+ceramide biosynthetic process	GO_0046513	0	1	1	0	0
+cellular lipid biosynthetic process	GO_0097384	0	1	1	0	0
+carotenoid metabolic process	GO_0016116	0	1	1	0	0
+carotenoid catabolic process	GO_0016118	0	1	1	0	0
+carotenoid biosynthetic process	GO_0016117	0	1	1	0	0
+carotene metabolic process	GO_0016119	0	1	1	0	0
+carotene catabolic process	GO_0016121	0	1	1	0	0
+carotene biosynthetic process	GO_0016120	0	1	1	0	0
+cardiolipin metabolic process	GO_0032048	0	1	1	0	0
+cardiolipin biosynthetic process	GO_0032049	0	1	1	0	0
+cardiolipin acyl-chain remodeling	GO_0035965	0	1	1	0	0
+capsorubin metabolic process	GO_1901864	0	1	1	0	0
+capsorubin catabolic process	GO_1901865	0	1	1	0	0
+capsorubin biosynthetic process	GO_1901866	0	1	1	0	0
+capsanthin metabolic process	GO_1901807	0	1	1	0	0
+capsanthin catabolic process	GO_1901808	0	1	1	0	0
+capsanthin biosynthetic process	GO_1901809	0	1	1	0	0
+calcitriol biosynthetic process from calciol	GO_0036378	0	1	1	0	0
+cadinene metabolic process	GO_1901926	0	1	1	0	0
+cadinene catabolic process	GO_1901927	0	1	1	0	0
+cadinene biosynthetic process	GO_1901928	0	1	1	0	0
+butyryl-CoA catabolic process to butyrate	GO_0044581	0	1	1	0	0
+butyryl-CoA catabolic process to butanol	GO_0044582	0	1	1	0	0
+butyryl-CoA catabolic process	GO_0044580	0	1	1	0	0
+butyryl-CoA biosynthetic process from acetyl-CoA	GO_0044579	0	1	1	0	0
+butyryl-CoA biosynthetic process	GO_0044578	0	1	1	0	0
+butyrate metabolic process	GO_0019605	0	1	1	0	0
+butyrate catabolic process	GO_0046359	0	1	1	0	0
+butyrate biosynthetic process	GO_0046358	0	1	1	0	0
+brassinosteroid metabolic process	GO_0016131	0	1	1	0	0
+brassinosteroid catabolic process	GO_0016133	0	1	1	0	0
+brassinosteroid biosynthetic process	GO_0016132	0	1	1	0	0
+bile acid metabolic process	GO_0008206	0	1	1	0	0
+bile acid conjugation	GO_0002152	0	1	1	0	0
+bile acid catabolic process	GO_0030573	0	1	1	0	0
+bile acid biosynthetic process	GO_0006699	0	1	1	0	0
+bicyclogermacrene metabolic process	GO_1901932	0	1	1	0	0
+bicyclogermacrene catabolic process	GO_1901933	0	1	1	0	0
+bicyclogermacrene biosynthetic process	GO_1901934	0	1	1	0	0
+beta-zeacarotene metabolic process	GO_1901816	0	1	1	0	0
+beta-zeacarotene catabolic process	GO_1901817	0	1	1	0	0
+beta-zeacarotene biosynthetic process	GO_1901818	0	1	1	0	0
+beta-caryophyllene metabolic process	GO_1901935	0	1	1	0	0
+beta-caryophyllene catabolic process	GO_1901936	0	1	1	0	0
+beta-caryophyllene biosynthetic process	GO_1901937	0	1	1	0	0
+beta-carotene metabolic process	GO_1901810	0	1	1	0	0
+beta-carotene catabolic process	GO_1901811	0	1	1	0	0
+beta-carotene biosynthetic process	GO_1901812	0	1	1	0	0
+beta-L-Ara4N-lipid A metabolic process	GO_1901759	0	1	1	0	0
+beta-L-Ara4N-lipid A biosynthetic process	GO_1901760	0	1	1	0	0
+astaxanthin metabolic process	GO_1901813	0	1	1	0	0
+astaxanthin catabolic process	GO_1901814	0	1	1	0	0
+astaxanthin biosynthetic process	GO_1901815	0	1	1	0	0
+arachidonic acid metabolic process	GO_0019369	0	1	1	0	0
+apocarotenoid metabolic process	GO_0043288	0	1	1	0	0
+apocarotenoid catabolic process	GO_0043290	0	1	1	0	0
+apocarotenoid biosynthetic process	GO_0043289	0	1	1	0	0
+androst-4-ene-3,17-dione biosynthetic process	GO_1903449	0	1	1	0	0
+androgen metabolic process	GO_0008209	0	1	1	0	0
+androgen catabolic process	GO_0006710	0	1	1	0	0
+androgen biosynthetic process	GO_0006702	0	1	1	0	0
+anaerobic fatty acid catabolic process	GO_1990486	0	1	1	0	0
+alpha-zeacarotene metabolic process	GO_1901819	0	1	1	0	0
+alpha-zeacarotene catabolic process	GO_1901820	0	1	1	0	0
+alpha-zeacarotene biosynthetic process	GO_1901821	0	1	1	0	0
+alpha-pinene metabolic process	GO_0018867	0	1	1	0	0
+alpha-pinene catabolic process	GO_0046249	0	1	1	0	0
+alpha-pinene biosynthetic process	GO_0046248	0	1	1	0	0
+alpha-linolenic acid metabolic process	GO_0036109	0	1	1	0	0
+alpha-copaene metabolic process	GO_1901929	0	1	1	0	0
+alpha-copaene catabolic process	GO_1901930	0	1	1	0	0
+alpha-copaene biosynthetic process	GO_1901931	0	1	1	0	0
+all-trans-neoxanthin metabolic process	GO_1901831	0	1	1	0	0
+all-trans-neoxanthin catabolic process	GO_1901832	0	1	1	0	0
+all-trans-neoxanthin biosynthetic process	GO_1901833	0	1	1	0	0
+aldosterone metabolic process	GO_0032341	0	1	1	0	0
+aldosterone catabolic process	GO_0032343	0	1	1	0	0
+aldosterone biosynthetic process	GO_0032342	0	1	1	0	0
+acylglycerol metabolic process	GO_0006639	0	1	1	0	0
+acylglycerol catabolic process	GO_0046464	0	1	1	0	0
+acylglycerol biosynthetic process	GO_0046463	0	1	1	0	0
+acylglycerol acyl-chain remodeling	GO_0036155	0	1	1	0	0
+acetoacetic acid metabolic process	GO_0043438	0	1	1	0	0
+acetoacetic acid catabolic process	GO_0043442	0	1	1	0	0
+acetoacetic acid biosynthetic process	GO_0043441	0	1	1	0	0
+acetate catabolic process to butyrate, ethanol, acetone and butanol	GO_0010123	0	1	1	0	0
+abscisic acid metabolic process	GO_0009687	0	1	1	0	0
+abscisic acid catabolic process	GO_0046345	0	1	1	0	0
+abscisic acid biosynthetic process	GO_0009688	0	1	1	0	0
+N-acylphosphatidylethanolamine metabolic process	GO_0070292	0	1	1	0	0
+L-threonine catabolic process to propionate	GO_0070689	0	1	1	0	0
+Kdo2-lipid A metabolic process	GO_0036103	0	1	1	0	0
+Kdo2-lipid A biosynthetic process	GO_0036104	0	1	1	0	0
+GSI anchor metabolic process	GO_0042081	0	1	1	0	0
+GSI anchor biosynthetic process via N-seryl-glycosylsphingolipidinositolethanolamine	GO_0018281	0	1	1	0	0
+GSI anchor biosynthetic process via N-glycyl-glycosylsphingolipidinositolethanolamine	GO_0050494	0	1	1	0	0
+GSI anchor biosynthetic process	GO_0042082	0	1	1	0	0
+GPI anchor release	GO_0006507	0	1	1	0	0
+GPI anchor metabolic process	GO_0006505	0	1	1	0	0
+GPI anchor biosynthetic process via N-threonyl-glycosylphosphatidylinositolethanolamine	GO_0050493	0	1	1	0	0
+GPI anchor biosynthetic process via N-seryl-glycosylphosphatidylinositolethanolamine	GO_0018269	0	1	1	0	0
+GPI anchor biosynthetic process via N-glycyl-glycosylphosphatidylinositolethanolamine	GO_0018268	0	1	1	0	0
+GPI anchor biosynthetic process via N-cysteinyl-glycosylphosphatidylinositolethanolamine	GO_0018267	0	1	1	0	0
+GPI anchor biosynthetic process via N-aspartyl-glycosylphosphatidylinositolethanolamine	GO_0018266	0	1	1	0	0
+GPI anchor biosynthetic process via N-asparaginyl-glycosylphosphatidylinositolethanolamine	GO_0018265	0	1	1	0	0
+GPI anchor biosynthetic process via N-alanyl-glycosylphosphatidylinositolethanolamine	GO_0018270	0	1	1	0	0
+GPI anchor biosynthetic process	GO_0006506	0	1	1	0	0
+GDP-alpha-D-mannosylchitobiosyldiphosphodolichol metabolic process	GO_0046376	0	1	1	0	0
+GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthetic process	GO_0019347	0	1	1	0	0
+CDP-diacylglycerol metabolic process	GO_0046341	0	1	1	0	0
+CDP-diacylglycerol catabolic process	GO_0046342	0	1	1	0	0
+CDP-diacylglycerol biosynthetic process	GO_0016024	0	1	1	0	0
+CDP-choline pathway	GO_0006657	0	1	1	0	0
+C21-steroid hormone metabolic process	GO_0008207	0	1	1	0	0
+C21-steroid hormone catabolic process	GO_0008208	0	1	1	0	0
+C21-steroid hormone biosynthetic process	GO_0006700	0	1	1	0	0
+9-cis-retinoic acid metabolic process	GO_0042905	0	1	1	0	0
+9-cis-retinoic acid biosynthetic process	GO_0042904	0	1	1	0	0
+9,9'-di-cis-zeta-carotene desaturation to 7,9,7',9'-tetra-cis-lycopene	GO_0052889	0	1	1	0	0
+6-hydroxycineole metabolic process	GO_0019638	0	1	1	0	0
+6-hydroxycineole catabolic process	GO_0019639	0	1	1	0	0
+5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate metabolic process	GO_1901947	0	1	1	0	0
+5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate catabolic process	GO_1901948	0	1	1	0	0
+5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate biosynthetic process	GO_1901949	0	1	1	0	0
+4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process	GO_0036107	0	1	1	0	0
+4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process	GO_0036108	0	1	1	0	0
+4-alpha-methyl-delta7-sterol oxidation	GO_0080065	0	1	1	0	0
+4,4-dimethyl-9beta,19-cyclopropylsterol oxidation	GO_0080064	0	1	1	0	0
+3-keto-sphinganine metabolic process	GO_0006666	0	1	1	0	0
+2-oxobutyrate metabolic process	GO_0046361	0	1	1	0	0
+2-oxobutyrate catabolic process	GO_0019606	0	1	1	0	0
+2-oxobutyrate biosynthetic process	GO_0046360	0	1	1	0	0
+11-oxo-beta-amyrin metabolic process	GO_1902381	0	1	1	0	0
+11-oxo-beta-amyrin catabolic process	GO_1902382	0	1	1	0	0
+11-oxo-beta-amyrin biosynthetic process	GO_1902383	0	1	1	0	0
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate metabolic process	GO_1902633	0	1	1	0	0
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate catabolic process	GO_1902634	0	1	1	0	0
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	GO_1902635	0	1	1	0	0
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate metabolic process	GO_1903100	0	1	1	0	0
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate catabolic process	GO_1903101	0	1	1	0	0
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate biosynthetic process	GO_1903102	0	1	1	0	0
+1,2-diacyl-sn-glycero-3-phosphocholine metabolic process	GO_0006653	0	1	1	0	0
+(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	GO_1902609	0	1	1	0	0
+(25S)-Delta(7)-dafachronate metabolic process	GO_1902056	0	1	1	0	0
+(25S)-Delta(4)-dafachronate metabolic process	GO_1902057	0	1	1	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol metabolic process	GO_1900579	0	1	1	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol catabolic process	GO_1900580	0	1	1	0	0
+(17Z)-protosta-17(20),24-dien-3beta-ol biosynthetic process	GO_1900581	0	1	1	0	0
+(-)-secologanin metabolic process	GO_1900992	0	1	1	0	0
+(-)-secologanin catabolic process	GO_1900993	0	1	1	0	0
+(-)-secologanin biosynthetic process	GO_1900994	0	1	1	0	0
+(-)-exo-alpha-bergamotene metabolic process	GO_1901938	0	1	1	0	0
+(-)-exo-alpha-bergamotene catabolic process	GO_1901939	0	1	1	0	0
+(-)-exo-alpha-bergamotene biosynthetic process	GO_1901940	0	1	1	0	0
+(+)-epi-alpha-bisabolol metabolic process	GO_1901941	0	1	1	0	0
+(+)-epi-alpha-bisabolol catabolic process	GO_1901942	0	1	1	0	0
+(+)-epi-alpha-bisabolol biosynthetic process	GO_1901943	0	1	1	0	0
+(+)-camphor metabolic process	GO_0018882	0	1	1	0	0
+(+)-camphor catabolic process	GO_0019383	0	1	1	0	0
+(+)-camphor biosynthetic process	GO_0046211	0	1	1	0	0
