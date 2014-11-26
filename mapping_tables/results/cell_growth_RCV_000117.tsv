@@ -19,104 +19,104 @@ invasive growth	GO_0007125	1	0	1	1	1
 invasive growth	GO_0001404	1	0	1	1	1
 cell growth mode switching, filamentous to budding	GO_0097321	1	0	1	0	0
 cell growth mode switching, budding to filamentous	GO_0036187	1	0	1	0	0
-zygote elongation	GO_0080159	0	1	0	0	0
-unidimensional cell growth	GO_0009826	0	1	0	0	0
-termination of monopolar cell growth	GO_0051521	0	1	0	0	0
-termination of bipolar cell growth	GO_0051520	0	1	0	0	0
-sympathetic neuron projection extension	GO_0097490	0	1	0	0	0
-sprouting of injured axon	GO_0048682	0	1	0	0	0
-seed trichome elongation	GO_0090378	0	1	0	0	0
-root hair elongation	GO_0048767	0	1	0	0	0
-root hair cell tip growth	GO_0048768	0	1	0	0	0
-regulation of unidimensional cell growth	GO_0051510	0	1	0	0	0
-regulation of sprouting of injured axon	GO_0048686	0	1	0	0	0
-regulation of root hair elongation	GO_1902890	0	1	0	0	0
-regulation of rate of cell growth	GO_0061388	0	1	0	0	0
-regulation of pseudohyphal growth	GO_2000220	0	1	0	0	0
-regulation of pollen tube growth	GO_0080092	0	1	0	0	0
-regulation of monopolar cell growth	GO_0051513	0	1	0	0	0
-regulation of extent of cell growth	GO_0061387	0	1	0	0	0
-regulation of direction of cell growth	GO_0061389	0	1	0	0	0
-regulation of collateral sprouting of intact axon in response to injury	GO_0048683	0	1	0	0	0
-regulation of collateral sprouting of injured axon	GO_0048693	0	1	0	0	0
-regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0	0
-regulation of collateral sprouting	GO_0048670	0	1	0	0	0
-regulation of chondrocyte hypertrophy	GO_1903041	0	1	0	0	0
-regulation of bipolar cell growth	GO_0051516	0	1	0	0	0
-regulation of axon extension involved in regeneration	GO_0048690	0	1	0	0	0
-regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0	0
-regulation of axon extension	GO_0030516	0	1	0	0	0
-pseudohyphal growth	GO_0007124	0	1	0	0	0
-primary spermatocyte growth	GO_0007285	0	1	0	0	0
-post-embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003247	0	1	0	0	0
-positive regulation of unidimensional cell growth	GO_0051512	0	1	0	0	0
-positive regulation of sprouting of injured axon	GO_0048687	0	1	0	0	0
-positive regulation of root hair elongation	GO_1902892	0	1	0	0	0
-positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter	GO_1900461	0	1	0	0	0
-positive regulation of pseudohyphal growth	GO_2000222	0	1	0	0	0
-positive regulation of monopolar cell growth	GO_0051515	0	1	0	0	0
-positive regulation of direction of cell growth	GO_0061390	0	1	0	0	0
-positive regulation of collateral sprouting of intact axon in response to injury	GO_0048684	0	1	0	0	0
-positive regulation of collateral sprouting of injured axon	GO_0048694	0	1	0	0	0
-positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0	0
-positive regulation of collateral sprouting	GO_0048672	0	1	0	0	0
-positive regulation of chondrocyte hypertrophy	GO_1903043	0	1	0	0	0
-positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	0	1	0	0	0
-positive regulation of cell growth	GO_0030307	0	1	0	0	0
-positive regulation of bipolar cell growth	GO_0051518	0	1	0	0	0
-positive regulation of axon extension involved in regeneration	GO_0048691	0	1	0	0	0
-positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0	0
-positive regulation of axon extension	GO_0045773	0	1	0	0	0
-pollen tube growth	GO_0009860	0	1	0	0	0
-plant-type cell wall modification involved in multidimensional cell growth	GO_0009831	0	1	0	0	0
-perineurial glial growth	GO_0042066	0	1	0	0	0
-oocyte growth in germarium-derived egg chamber	GO_0030715	0	1	0	0	0
-oocyte growth	GO_0001555	0	1	0	0	0
-neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	0	0	0
-neuron projection extension	GO_1990138	0	1	0	0	0
-negative regulation of unidimensional cell growth	GO_0051511	0	1	0	0	0
-negative regulation of sprouting of injured axon	GO_0048688	0	1	0	0	0
-negative regulation of root hair elongation	GO_1902891	0	1	0	0	0
-negative regulation of pseudohyphal growth by negative regulation of transcription from RNA polymerase II promoter	GO_1900462	0	1	0	0	0
-negative regulation of pseudohyphal growth	GO_2000221	0	1	0	0	0
-negative regulation of monopolar cell growth	GO_0051514	0	1	0	0	0
-negative regulation of direction of cell growth	GO_0061391	0	1	0	0	0
-negative regulation of collateral sprouting of intact axon in response to injury	GO_0048685	0	1	0	0	0
-negative regulation of collateral sprouting of injured axon	GO_0048695	0	1	0	0	0
-negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0	0
-negative regulation of collateral sprouting	GO_0048671	0	1	0	0	0
-negative regulation of chondrocyte hypertrophy	GO_1903042	0	1	0	0	0
-negative regulation of cell growth involved in contact inhibition	GO_0060243	0	1	0	0	0
-negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	0	1	0	0	0
-negative regulation of cell growth	GO_0030308	0	1	0	0	0
-negative regulation of bipolar cell growth	GO_0051517	0	1	0	0	0
-negative regulation of axon extension involved in regeneration	GO_0048692	0	1	0	0	0
-negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0	0
-negative regulation of axon extension	GO_0030517	0	1	0	0	0
-multidimensional cell growth	GO_0009825	0	1	0	0	0
-monopolar cell growth	GO_0042814	0	1	0	0	0
-isotropic cell growth	GO_0051210	0	1	0	0	0
-growth plate cartilage chondrocyte growth	GO_0003430	0	1	0	0	0
-glial cell growth	GO_0042065	0	1	0	0	0
-formation of growth cone in injured axon	GO_0048689	0	1	0	0	0
-embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003246	0	1	0	0	0
-dorsal closure, elongation of leading edge cells	GO_0007394	0	1	0	0	0
-developmental cell growth	GO_0048588	0	1	0	0	0
-detection of nuclear:cytoplasmic ratio	GO_0016475	0	1	0	0	0
-dendrite extension	GO_0097484	0	1	0	0	0
-collateral sprouting of intact axon in response to injury	GO_0048673	0	1	0	0	0
-collateral sprouting of injured axon	GO_0048674	0	1	0	0	0
-collateral sprouting in absence of injury	GO_0048669	0	1	0	0	0
-collateral sprouting	GO_0048668	0	1	0	0	0
-chondrocyte hypertrophy	GO_0003415	0	1	0	0	0
-cell wall modification involved in multidimensional cell growth	GO_0042547	0	1	0	0	0
-cell tip growth	GO_0009932	0	1	0	0	0
-cell growth	GO_0016049	0	1	0	0	0
-cell elongation involved in imaginal disc-derived wing morphogenesis	GO_0090254	0	1	0	0	0
-bipolar cell growth	GO_0042815	0	1	0	0	0
-axon extension involved in regeneration	GO_0048677	0	1	0	0	0
-axon extension involved in axon guidance	GO_0048846	0	1	0	0	0
-axon extension	GO_0048675	0	1	0	0	0
-anisotropic cell growth	GO_0051211	0	1	0	0	0
-activation of monopolar cell growth	GO_0051522	0	1	0	0	0
-activation of bipolar cell growth	GO_0051519	0	1	0	0	0
+zygote elongation	GO_0080159	0	1	1	0	0
+unidimensional cell growth	GO_0009826	0	1	1	0	0
+termination of monopolar cell growth	GO_0051521	0	1	1	0	0
+termination of bipolar cell growth	GO_0051520	0	1	1	0	0
+sympathetic neuron projection extension	GO_0097490	0	1	1	0	0
+sprouting of injured axon	GO_0048682	0	1	1	0	0
+seed trichome elongation	GO_0090378	0	1	1	0	0
+root hair elongation	GO_0048767	0	1	1	0	0
+root hair cell tip growth	GO_0048768	0	1	1	0	0
+regulation of unidimensional cell growth	GO_0051510	0	1	1	0	0
+regulation of sprouting of injured axon	GO_0048686	0	1	1	0	0
+regulation of root hair elongation	GO_1902890	0	1	1	0	0
+regulation of rate of cell growth	GO_0061388	0	1	1	0	0
+regulation of pseudohyphal growth	GO_2000220	0	1	1	0	0
+regulation of pollen tube growth	GO_0080092	0	1	1	0	0
+regulation of monopolar cell growth	GO_0051513	0	1	1	0	0
+regulation of extent of cell growth	GO_0061387	0	1	1	0	0
+regulation of direction of cell growth	GO_0061389	0	1	1	0	0
+regulation of collateral sprouting of intact axon in response to injury	GO_0048683	0	1	1	0	0
+regulation of collateral sprouting of injured axon	GO_0048693	0	1	1	0	0
+regulation of collateral sprouting in absence of injury	GO_0048696	0	1	1	0	0
+regulation of collateral sprouting	GO_0048670	0	1	1	0	0
+regulation of chondrocyte hypertrophy	GO_1903041	0	1	1	0	0
+regulation of bipolar cell growth	GO_0051516	0	1	1	0	0
+regulation of axon extension involved in regeneration	GO_0048690	0	1	1	0	0
+regulation of axon extension involved in axon guidance	GO_0048841	0	1	1	0	0
+regulation of axon extension	GO_0030516	0	1	1	0	0
+pseudohyphal growth	GO_0007124	0	1	1	0	0
+primary spermatocyte growth	GO_0007285	0	1	1	0	0
+post-embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003247	0	1	1	0	0
+positive regulation of unidimensional cell growth	GO_0051512	0	1	1	0	0
+positive regulation of sprouting of injured axon	GO_0048687	0	1	1	0	0
+positive regulation of root hair elongation	GO_1902892	0	1	1	0	0
+positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter	GO_1900461	0	1	1	0	0
+positive regulation of pseudohyphal growth	GO_2000222	0	1	1	0	0
+positive regulation of monopolar cell growth	GO_0051515	0	1	1	0	0
+positive regulation of direction of cell growth	GO_0061390	0	1	1	0	0
+positive regulation of collateral sprouting of intact axon in response to injury	GO_0048684	0	1	1	0	0
+positive regulation of collateral sprouting of injured axon	GO_0048694	0	1	1	0	0
+positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	1	0	0
+positive regulation of collateral sprouting	GO_0048672	0	1	1	0	0
+positive regulation of chondrocyte hypertrophy	GO_1903043	0	1	1	0	0
+positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	0	1	1	0	0
+positive regulation of cell growth	GO_0030307	0	1	1	0	0
+positive regulation of bipolar cell growth	GO_0051518	0	1	1	0	0
+positive regulation of axon extension involved in regeneration	GO_0048691	0	1	1	0	0
+positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	1	0	0
+positive regulation of axon extension	GO_0045773	0	1	1	0	0
+pollen tube growth	GO_0009860	0	1	1	0	0
+plant-type cell wall modification involved in multidimensional cell growth	GO_0009831	0	1	1	0	0
+perineurial glial growth	GO_0042066	0	1	1	0	0
+oocyte growth in germarium-derived egg chamber	GO_0030715	0	1	1	0	0
+oocyte growth	GO_0001555	0	1	1	0	0
+neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	1	0	0
+neuron projection extension	GO_1990138	0	1	1	0	0
+negative regulation of unidimensional cell growth	GO_0051511	0	1	1	0	0
+negative regulation of sprouting of injured axon	GO_0048688	0	1	1	0	0
+negative regulation of root hair elongation	GO_1902891	0	1	1	0	0
+negative regulation of pseudohyphal growth by negative regulation of transcription from RNA polymerase II promoter	GO_1900462	0	1	1	0	0
+negative regulation of pseudohyphal growth	GO_2000221	0	1	1	0	0
+negative regulation of monopolar cell growth	GO_0051514	0	1	1	0	0
+negative regulation of direction of cell growth	GO_0061391	0	1	1	0	0
+negative regulation of collateral sprouting of intact axon in response to injury	GO_0048685	0	1	1	0	0
+negative regulation of collateral sprouting of injured axon	GO_0048695	0	1	1	0	0
+negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	1	0	0
+negative regulation of collateral sprouting	GO_0048671	0	1	1	0	0
+negative regulation of chondrocyte hypertrophy	GO_1903042	0	1	1	0	0
+negative regulation of cell growth involved in contact inhibition	GO_0060243	0	1	1	0	0
+negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	0	1	1	0	0
+negative regulation of cell growth	GO_0030308	0	1	1	0	0
+negative regulation of bipolar cell growth	GO_0051517	0	1	1	0	0
+negative regulation of axon extension involved in regeneration	GO_0048692	0	1	1	0	0
+negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	1	0	0
+negative regulation of axon extension	GO_0030517	0	1	1	0	0
+multidimensional cell growth	GO_0009825	0	1	1	0	0
+monopolar cell growth	GO_0042814	0	1	1	0	0
+isotropic cell growth	GO_0051210	0	1	1	0	0
+growth plate cartilage chondrocyte growth	GO_0003430	0	1	1	0	0
+glial cell growth	GO_0042065	0	1	1	0	0
+formation of growth cone in injured axon	GO_0048689	0	1	1	0	0
+embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003246	0	1	1	0	0
+dorsal closure, elongation of leading edge cells	GO_0007394	0	1	1	0	0
+developmental cell growth	GO_0048588	0	1	1	0	0
+detection of nuclear:cytoplasmic ratio	GO_0016475	0	1	1	0	0
+dendrite extension	GO_0097484	0	1	1	0	0
+collateral sprouting of intact axon in response to injury	GO_0048673	0	1	1	0	0
+collateral sprouting of injured axon	GO_0048674	0	1	1	0	0
+collateral sprouting in absence of injury	GO_0048669	0	1	1	0	0
+collateral sprouting	GO_0048668	0	1	1	0	0
+chondrocyte hypertrophy	GO_0003415	0	1	1	0	0
+cell wall modification involved in multidimensional cell growth	GO_0042547	0	1	1	0	0
+cell tip growth	GO_0009932	0	1	1	0	0
+cell growth	GO_0016049	0	1	1	0	0
+cell elongation involved in imaginal disc-derived wing morphogenesis	GO_0090254	0	1	1	0	0
+bipolar cell growth	GO_0042815	0	1	1	0	0
+axon extension involved in regeneration	GO_0048677	0	1	1	0	0
+axon extension involved in axon guidance	GO_0048846	0	1	1	0	0
+axon extension	GO_0048675	0	1	1	0	0
+anisotropic cell growth	GO_0051211	0	1	1	0	0
+activation of monopolar cell growth	GO_0051522	0	1	1	0	0
+activation of bipolar cell growth	GO_0051519	0	1	1	0	0
