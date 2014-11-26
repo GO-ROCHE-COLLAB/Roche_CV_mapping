@@ -45,5 +45,5 @@ negative regulation of neutrophil differentiation	GO_0045659	1	0	1	0	0
 negative regulation of neutrophil degranulation	GO_0043314	1	0	1	0	0
 negative regulation of neutrophil apoptotic process	GO_0033030	1	0	1	0	0
 negative regulation of neutrophil aggregation	GO_2000429	1	0	1	0	0
-neutrophil migration	GO_1990266	0	1	0	0	0
-neutrophil activation involved in immune response	GO_0002283	0	1	0	0	0
+neutrophil migration	GO_1990266	0	1	1	0	0
+neutrophil activation involved in immune response	GO_0002283	0	1	1	0	0
