@@ -25,8 +25,8 @@ cell growth	RCV_000117	cell growth	GO_0016049	is_a_OR_part_of_OR_regulates
 sterol metabolic process	RCV_000315	sterol metabolic process	GO_0016125	Equivalence			
 cell migration	RCV_000120	cell migration	GO_0016477	is_a_OR_part_of_OR_regulates			
 phosphatase activity 	RCV_000276	phosphatase activity 	GO_0016791	Equivalence			
-cell differentiation	RCV_000115	cell differentiation	GO_0030154	is_a_OR_part_of_OR_regulates			
-neuron differentiation	RCV_000245	neuron differentiation	GO_0030182	is_a_OR_part_of_OR_regulates			
+cell differentiation	RCV_000115	cell differentiation	GO_0030154	Equivalence			
+neuron differentiation	RCV_000245	neuron differentiation	GO_0030182	Equivalence			
 leptin-mediated signaling pathway	RCV_000219	leptin-mediated signaling pathway	GO_0033210	is_a_OR_part_of_OR_regulates			
 lipoprotein metabolism	RCV_000221	lipoprotein metabolic process	GO_0042157	Equivalence			
 vasoconstriction	RCV_000345	vasoconstriction	GO_0042310	is_a_OR_part_of_OR_regulates			
@@ -43,7 +43,7 @@ mesenchymal-epithelial cell signaling	RCV_000234	mesenchymal-epithelial cell sig
 pyrimidine metabolism	RCV_000292	pyrimidine-containing compound metabolic process	GO_0072527	Equivalence	Manual mapping a little narrower - seems to include only pyramindine nueclo(tide/base)		
 cell-cell adhesion	RCV_000127	cell-cell adhesion	GO_0098609	Equivalence			
 virus	RCV_000350	Viruses	NCBITaxon_10239	?			
-CTGF	RCV_000004	connective tissue growth factor	PRO?	?	Internal: No axioms on key class.  Look into adding from Pro?	27	open
+CTGF	RCV_000004	connective tissue growth factor	GO_0045189	is_a_OR_part_of_OR_regulates		27	open
 DNA dynamics	RCV_000007	?		?		26	closed
 G-protein	RCV_000017	?		?	Laura: Having trouble automating this as its meaning seems much more constrained than implied my the name.  Manual mapping is only regulation of GPCR signaling pathway terms whose names explicilty reference  activity GPCR signaling. Is a broad interpretation correct, or should change the name to positive 	31	open
 GABAergic	RCV_000018	?		?		30	open
@@ -190,14 +190,14 @@ apoptosis glands	RCV_000067	apoptotic process that part of some gland developmen
 fibroblast	RCV_000166	fibroblast	CL_0000057	has_participant_cell			
 epithelial to mesenchymal transition	RCV_000159	epithelial to mesenchymal transition	GO_0001837	is_a_OR_part_of_OR_regulates			
 epithelial cell migration	RCV_000156	epithelial cell migration	GO_0010631	is_a_OR_part_of_OR_regulates			
-epithelial cell differentiation	RCV_000155	epithelial cell differentiation	GO_0030855	is_a_OR_part_of_OR_regulates			
+epithelial cell differentiation	RCV_000155	epithelial cell differentiation	GO_0030855	Equivalence			
 taxis	RCV_000323	taxis	GO_0042330	is_a_OR_part_of_OR_regulates			
 epithelial cell proliferation	RCV_000157	epithelial cell proliferation	GO_0050673	is_a_OR_part_of_OR_regulates			
 glands	RCV_000169	gland	UBERON_0002530	?has_participant / occurs in ?			
 T helper	RCV_000038	helper T cell	CL_0000912	has_participant_cell		32	open
 glucocorticoid	RCV_000173	glucocorticoid	CHEBI_24261	has_participant_chemical			
 glucagon	RCV_000172	glucagon	CHEBI_5391	has_participant_chemical			
-nervous development	RCV_000243	nervous system development	GO_0007399	is_a_OR_part_of_OR_regulates			
+nervous development	RCV_000243	nervous system development	GO_0007399	is_a_OR_part_of			
 Ser-Thr kinase signaling	RCV_000036	transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	?is_a_OR_regulates		29	open
 PDGF pathway	RCV_000028	platelet-derived growth factor receptor signaling pathway	GO_0048008	?is_a_OR_regulates		28	open
 exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?results in developmental progression of	Manual mapping is much more limited than name suggests.		
@@ -248,7 +248,7 @@ amyloid metabolism	RCV_000059	amyloid precursor protein metabolic process	GO_004
 MAPK inactivation	RCV_000021	negative regulation of MAP kinase activity	GO_0043407	Equivalence		34	open
 TRAIL production	RCV_000043	TRAIL biosynthetic process	GO_0045553	Equivalence		67	open
 adenine metabolism	RCV_000048	adenine metabolic process	GO_0046083	Equivalence		76	open
-nitric oxide metabolism	RCV_000249	nitric oxide metabolic process	GO_0046209	Equivalence		104	open
+nitric oxide metabolism	RCV_000249	nitric oxide	CHEBI_16480	has_participant_chemical	Manual mapping is broader than metabolism - including signalling.	104	open
 calcium homeostasis	RCV_000093	calcium ion homeostasis	GO_0055074	Equivalence		254	open
 chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	Equivalence		249	open
 purine metabolism	RCV_000291	purine-containing compound metabolic process	GO_0072521	Equivalence	Manual mapping includes regulation terms - doesn't fit pattern for other metabolism terms.  Could switch pattern to include regulation terms, but should I?	96	open
@@ -286,7 +286,7 @@ vitamin A	RCV_000351	vitamin A	CHEBI_12777	has_participant_chemical		206	open
 acetylcholine	RCV_000047	acetylcholine	CHEBI_15355	has_participant_chemical		74	closed
 UDP metabolism	RCV_000044	UDP-sugar	CHEBI_17297	has_participant_chemical		69	closed - mapping completed
 triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical		43	open
-vitamin C	RCV_000352	vitamin C	CHEBI_21241	has_participant_chemical		116	open
+vitamin C	RCV_000352	L-ascorbic acid	CHEBI_29073	has_participant_chemical		116	open
 terpenoid	RCV_000325	terpenoid	CHEBI_26873	has_participant_chemical		113	open
 vitamin D	RCV_000353	vitamin D	CHEBI_27300	has_participant_chemical		117	closed - mapping completed
 vitamin K	RCV_000354	vitamin K	CHEBI_28384	has_participant_chemical		118	closed - mapping completed
@@ -316,7 +316,7 @@ EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_00
 brain development	RCV_000091	brain development	GO_0007420	is_a_OR_part_of_OR_regulates		72	closed - mapping completed
 endoderm development	RCV_000150	endoderm development	GO_0007492	is_a_OR_part_of_OR_regulates			
 heart development	RCV_000184	heart development	GO_0007507	is_a_OR_part_of_OR_regulates		213	open
-aging	RCV_000055	cell aging	GO_0007569	is_a_OR_part_of_OR_regulates	Could map to more general 'aging' term in GO, but this would bring in plant aging terms, including fruit ripening!	238	open
+aging	RCV_000055	aging	GO_0007568	is_a_OR_part_of_OR_regulates	Could map to more general 'aging' term in GO, but this would bring in plant aging terms, including fruit ripening!	238	open
 blood coagulation	RCV_000086	blood coagulation	GO_0007596	is_a_OR_part_of_OR_regulates			
 circadian	RCV_000137	circadian rhythm	GO_0007623	is_a_OR_part_of_OR_regulates		248	open
 RNA splicing	RCV_000032	RNA splicing	GO_0008380	is_a_OR_part_of_OR_regulates		52	closed - mapping completed
@@ -339,7 +339,7 @@ aorta development	RCV_000065	aorta development	GO_0035904	is_a_OR_part_of_OR_reg
 VEGF pathway	RCV_000045	vascular endothelial growth factor signaling pathway	GO_0038084	is_a_OR_part_of_OR_regulates		75	closed - mapping completed
 ERBB signaling pathway	RCV_000015	ERBB signaling pathway	GO_0038127	is_a_OR_part_of_OR_regulates		55	closed - mapping completed
 angiotensin-mediated signaling pathway	RCV_000062	angiotensin-activated signaling pathway	GO_0038166	is_a_OR_part_of_OR_regulates		240	open
-neurotrophin signaling	RCV_000025	neurotrophin signaling pathway	GO_0038180	is_a_OR_part_of_OR_regulates		65	open
+neurotrophin signaling	RCV_000025	neurotrophin signaling pathway	GO_0038179	is_a_OR_part_of_OR_regulates		65	open
 wound healing	RCV_000356	wound healing	GO_0042060	is_a_OR_part_of_OR_regulates		23	open
 spore formation	RCV_000360	sporulation	GO_0043934	is_a_OR_part_of_OR_regulates		218	open
 oogenesis	RCV_000257	oogenesis	GO_0048477	is_a_OR_part_of_OR_regulates		121	open

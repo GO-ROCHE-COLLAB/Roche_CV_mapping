@@ -67,9 +67,9 @@
 
 #### neuron differentiation RCV_000245
 * Key class: [neuron differentiation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030182)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: neuron differentiation OR a part of neuron differentiation OR a process that regulates neuron differentiation
-* map summary: Roche_cvt: RCV_000245; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030182; manual_list_count 2, generated_list_count 431
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for neuron differentiation.
+* map summary: Roche_cvt: RCV_000245; class_expression GO_0030182; manual_list_count 2, generated_list_count 67
 * [Results](neuron_differentiation_RCV_000245.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -104,9 +104,9 @@
 
 #### cell differentiation RCV_000115
 * Key class: [cell differentiation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030154)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: cell differentiation OR a part of cell differentiation OR a process that regulates cell differentiation
-* map summary: Roche_cvt: RCV_000115; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030154; manual_list_count 17, generated_list_count 2252
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for cell differentiation.
+* map summary: Roche_cvt: RCV_000115; class_expression GO_0030154; manual_list_count 17, generated_list_count 481
 * [Results](cell_differentiation_RCV_000115.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -372,10 +372,10 @@
 * Status: closed
 
 #### NGF pathway RCV_000025
-* Key class: [neurotrophin signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0038180)
+* Key class: [neurotrophin signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0038179)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: neurotrophin signaling pathway OR a part of neurotrophin signaling pathway OR a process that regulates neurotrophin signaling pathway
-* map summary: Roche_cvt: RCV_000025; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038180; manual_list_count 3, generated_list_count 5
+* map summary: Roche_cvt: RCV_000025; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0038179; manual_list_count 3, generated_list_count 15
 * [Results](NGF_pathway_RCV_000025.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/65)
 * Status: open
@@ -713,10 +713,10 @@
 * Status: open
 
 #### vitamin C RCV_000352
-* Key class: [vitamin C](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:21241)
+* Key class: [L-ascorbic acid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:29073)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some vitamin C participates.
-* map summary: Roche_cvt: RCV_000352; class_expression RO_0000057 some CHEBI_21241; manual_list_count 1, generated_list_count 0
+* Definition: A process in which some L-ascorbic acid participates.
+* map summary: Roche_cvt: RCV_000352; class_expression RO_0000057 some CHEBI_29073; manual_list_count 1, generated_list_count 14
 * [Results](vitamin_C_RCV_000352.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/116)
 * Status: open
@@ -776,10 +776,11 @@
 * Status: open
 
 #### nitric oxide metabolism RCV_000249
-* Key class: [nitric oxide metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046209)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for nitric oxide metabolic process.
-* map summary: Roche_cvt: RCV_000249; class_expression GO_0046209; manual_list_count 10, generated_list_count 3
+* Key class: [nitric oxide](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:16480)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some nitric oxide participates.
+* map summary: Roche_cvt: RCV_000249; class_expression RO_0000057 some CHEBI_16480; manual_list_count 10, generated_list_count 3
+* Notes: Manual mapping is broader than metabolism - including signalling.
 * [Results](nitric_oxide_metabolism_RCV_000249.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/104)
 * Status: open
@@ -823,9 +824,9 @@
 
 #### nervous development RCV_000243
 * Key class: [nervous system development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007399)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: nervous system development OR a part of nervous system development OR a process that regulates nervous system development
-* map summary: Roche_cvt: RCV_000243; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007399; manual_list_count 58, generated_list_count 1128
+* Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
+* Definition: nervous system development OR a part of (some) nervous system development.
+* map summary: Roche_cvt: RCV_000243; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0007399; manual_list_count 58, generated_list_count 1095
 * [Results](nervous_development_RCV_000243.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1209,9 +1210,9 @@
 
 #### epithelial cell differentiation RCV_000155
 * Key class: [epithelial cell differentiation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030855)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: epithelial cell differentiation OR a part of epithelial cell differentiation OR a process that regulates epithelial cell differentiation
-* map summary: Roche_cvt: RCV_000155; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030855; manual_list_count 46, generated_list_count 355
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for epithelial cell differentiation.
+* map summary: Roche_cvt: RCV_000155; class_expression GO_0030855; manual_list_count 46, generated_list_count 100
 * [Results](epithelial_cell_differentiation_RCV_000155.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1298,8 +1299,13 @@
 * Status: open
 
 #### CTGF RCV_000004
-* Notes: Internal: No axioms on key class.  Look into adding from Pro?
-* Results: N/A Job not run. Specification marked as preliminary or missing.
+* Key class: [connective tissue growth factor](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045189)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: connective tissue growth factor OR a part of connective tissue growth factor OR a process that regulates connective tissue growth factor
+* map summary: Roche_cvt: RCV_000004; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0045189; manual_list_count 2, generated_list_count 4
+* [Results](CTGF_RCV_000004.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/27)
+* Status: open
 
 #### cell migration RCV_000120
 * Key class: [cell migration](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016477)
@@ -1348,10 +1354,10 @@
 * Status: 
 
 #### aging RCV_000055
-* Key class: [cell aging](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007569)
+* Key class: [aging](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007568)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: cell aging OR a part of cell aging OR a process that regulates cell aging
-* map summary: Roche_cvt: RCV_000055; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007569; manual_list_count 25, generated_list_count 45
+* Definition: aging OR a part of aging OR a process that regulates aging
+* map summary: Roche_cvt: RCV_000055; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007568; manual_list_count 25, generated_list_count 68
 * Notes: Could map to more general 'aging' term in GO, but this would bring in plant aging terms, including fruit ripening!
 * [Results](aging_RCV_000055.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/238)

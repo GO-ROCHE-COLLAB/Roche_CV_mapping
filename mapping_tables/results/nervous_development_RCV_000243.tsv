@@ -21,7 +21,6 @@ sympathetic nervous system development	GO_0048485	1	1	1	0	0
 symmetric neuroblast division	GO_0055058	1	1	1	0	0
 striatal medium spiny neuron differentiation	GO_0021773	1	1	1	0	0
 stomatogastric nervous system development	GO_0007421	1	1	1	0	0
-regulation of nervous system development	GO_0051960	1	1	1	0	0
 regulation of dendritic spine morphogenesis	GO_0061001	1	1	1	0	0
 regulation of dendritic spine development	GO_0060998	1	1	1	0	0
 regulation of dendrite morphogenesis	GO_0048814	1	1	1	0	0
@@ -30,11 +29,9 @@ preganglionic parasympathetic nervous system development	GO_0021783	1	1	1	0	0
 postganglionic parasympathetic nervous system development	GO_0021784	1	1	1	0	0
 posterior lateral line ganglion neuron differentiation	GO_0048928	1	1	1	0	0
 posterior lateral line ganglion development	GO_0048917	1	1	1	0	0
-positive regulation of nervous system development	GO_0051962	1	1	1	0	0
 parasympathetic nervous system development	GO_0048486	1	1	1	0	0
 neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	1	1	1	0	0
 nervous system development	GO_0007399	1	1	1	0	0
-negative regulation of nervous system development	GO_0051961	1	1	1	0	0
 myelination in peripheral nervous system	GO_0022011	1	1	1	0	0
 medial ganglionic eminence cell proliferation	GO_0022020	1	1	1	0	0
 lateral line ganglion neuron differentiation	GO_0048891	1	1	1	0	0
@@ -56,6 +53,9 @@ abducens nerve morphogenesis	GO_0021598	1	1	1	0	0
 abducens nerve maturation	GO_0021601	1	1	1	0	0
 abducens nerve formation	GO_0021599	1	1	1	0	0
 abducens nerve development	GO_0021560	1	1	1	0	0
+regulation of nervous system development	GO_0051960	1	0	1	0	0
+positive regulation of nervous system development	GO_0051962	1	0	1	0	0
+negative regulation of nervous system development	GO_0051961	1	0	1	0	0
 ganglion mother cell fate determination	GO_0007402	1	0	1	0	0
 zona limitans intrathalamica formation	GO_0022006	0	1	0	0	0
 visceral motor neuron differentiation	GO_0021524	0	1	0	0	0
@@ -251,22 +251,16 @@ regulation of transcription from RNA polymerase II promoter involved in somatic 
 regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	GO_0021882	0	1	0	0	0
 regulation of timing of subpallium neuron differentiation	GO_0060165	0	1	0	0	0
 regulation of timing of neuron differentiation	GO_0060164	0	1	0	0	0
-regulation of synaptic growth at neuromuscular junction	GO_0008582	0	1	0	0	0
-regulation of synapse maturation	GO_0090128	0	1	0	0	0
-regulation of synapse assembly	GO_0051963	0	1	0	0	0
 regulation of sprouting of injured axon	GO_0048686	0	1	0	0	0
 regulation of spinal cord association neuron differentiation	GO_1902829	0	1	0	0	0
-regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901620	0	1	0	0	0
 regulation of sevenless signaling pathway	GO_0045501	0	1	0	0	0
 regulation of rhodopsin gene expression	GO_0007468	0	1	0	0	0
 regulation of retinal rod cell fate commitment	GO_0060224	0	1	0	0	0
 regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	0	0	0
 regulation of retinal cone cell fate specification	GO_0042673	0	1	0	0	0
 regulation of retinal cone cell fate commitment	GO_0060222	0	1	0	0	0
-regulation of planar cell polarity pathway involved in neural tube closure	GO_2000167	0	1	0	0	0
 regulation of photoreceptor cell differentiation	GO_0046532	0	1	0	0	0
 regulation of photoreceptor cell axon guidance	GO_2000289	0	1	0	0	0
-regulation of optic nerve formation	GO_2000595	0	1	0	0	0
 regulation of oligodendrocyte progenitor proliferation	GO_0070445	0	1	0	0	0
 regulation of oligodendrocyte differentiation	GO_0048713	0	1	0	0	0
 regulation of neuron projection regeneration	GO_0070570	0	1	0	0	0
@@ -276,7 +270,6 @@ regulation of neuron maturation	GO_0014041	0	1	0	0	0
 regulation of neuron differentiation	GO_0045664	0	1	0	0	0
 regulation of neurogenesis	GO_0050767	0	1	0	0	0
 regulation of neuroblast proliferation	GO_1902692	0	1	0	0	0
-regulation of myelination	GO_0031641	0	1	0	0	0
 regulation of microglia differentiation	GO_0014006	0	1	0	0	0
 regulation of mechanoreceptor differentiation	GO_0045631	0	1	0	0	0
 regulation of lateral motor column neuron migration	GO_1902076	0	1	0	0	0
@@ -286,15 +279,12 @@ regulation of glial cell proliferation	GO_0060251	0	1	0	0	0
 regulation of glial cell differentiation	GO_0045685	0	1	0	0	0
 regulation of forebrain neuron differentiation	GO_2000977	0	1	0	0	0
 regulation of eye photoreceptor cell development	GO_0042478	0	1	0	0	0
-regulation of establishment of planar polarity involved in neural tube closure	GO_0090178	0	1	0	0	0
 regulation of compound eye photoreceptor development	GO_0045314	0	1	0	0	0
 regulation of collateral sprouting of intact axon in response to injury	GO_0048683	0	1	0	0	0
 regulation of collateral sprouting of injured axon	GO_0048693	0	1	0	0	0
 regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0	0
 regulation of collateral sprouting	GO_0048670	0	1	0	0	0
-regulation of cerebellar granule cell precursor proliferation	GO_0021936	0	1	0	0	0
 regulation of cell proliferation in dorsal spinal cord	GO_0021921	0	1	0	0	0
-regulation of branching morphogenesis of a nerve	GO_2000172	0	1	0	0	0
 regulation of axonogenesis	GO_0050770	0	1	0	0	0
 regulation of axon regeneration	GO_0048679	0	1	0	0	0
 regulation of axon guidance	GO_1902667	0	1	0	0	0
@@ -343,20 +333,14 @@ posterior lateral line nerve glial cell differentiation	GO_0048931	0	1	0	0	0
 posterior lateral line nerve glial cell development	GO_0048941	0	1	0	0	0
 posterior lateral line nerve development	GO_0048918	0	1	0	0	0
 posterior commissure morphogenesis	GO_0021961	0	1	0	0	0
-positive regulation of synaptic growth at neuromuscular junction	GO_0045887	0	1	0	0	0
-positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	0	0	0
-positive regulation of synapse maturation	GO_0090129	0	1	0	0	0
-positive regulation of synapse assembly	GO_0051965	0	1	0	0	0
 positive regulation of sprouting of injured axon	GO_0048687	0	1	0	0	0
 positive regulation of spinal cord association neuron differentiation	GO_1902831	0	1	0	0	0
-positive regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901622	0	1	0	0	0
 positive regulation of short-term neuronal synaptic plasticity	GO_0048173	0	1	0	0	0
 positive regulation of sevenless signaling pathway	GO_0045874	0	1	0	0	0
 positive regulation of rhodopsin gene expression	GO_0045872	0	1	0	0	0
 positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	0	0	0
 positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
 positive regulation of photoreceptor cell differentiation	GO_0046534	0	1	0	0	0
-positive regulation of optic nerve formation	GO_2000597	0	1	0	0	0
 positive regulation of oligodendrocyte progenitor proliferation	GO_0070447	0	1	0	0	0
 positive regulation of oligodendrocyte differentiation	GO_0048714	0	1	0	0	0
 positive regulation of neuron projection regeneration	GO_0070572	0	1	0	0	0
@@ -366,7 +350,6 @@ positive regulation of neuron maturation	GO_0014042	0	1	0	0	0
 positive regulation of neuron differentiation	GO_0045666	0	1	0	0	0
 positive regulation of neurogenesis	GO_0050769	0	1	0	0	0
 positive regulation of neuroblast proliferation	GO_0002052	0	1	0	0	0
-positive regulation of myelination	GO_0031643	0	1	0	0	0
 positive regulation of microglia differentiation	GO_0014008	0	1	0	0	0
 positive regulation of mechanoreceptor differentiation	GO_0045633	0	1	0	0	0
 positive regulation of long-term neuronal synaptic plasticity	GO_0048170	0	1	0	0	0
@@ -386,7 +369,6 @@ positive regulation of collateral sprouting of intact axon in response to injury
 positive regulation of collateral sprouting of injured axon	GO_0048694	0	1	0	0	0
 positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0	0
 positive regulation of collateral sprouting	GO_0048672	0	1	0	0	0
-positive regulation of cerebellar granule cell precursor proliferation	GO_0021940	0	1	0	0	0
 positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	0	0	0
 positive regulation of cell proliferation in dorsal spinal cord	GO_1902833	0	1	0	0	0
 positive regulation of axonogenesis	GO_0050772	0	1	0	0	0
@@ -553,22 +535,16 @@ neural crest cell migration involved in sympathetic nervous system development	G
 neural crest cell migration involved in autonomic nervous system development	GO_1901166	0	1	0	0	0
 nerve maturation	GO_0021682	0	1	0	0	0
 nerve development	GO_0021675	0	1	0	0	0
-negative regulation of synaptic growth at neuromuscular junction	GO_0045886	0	1	0	0	0
-negative regulation of synapse maturation	GO_2000297	0	1	0	0	0
-negative regulation of synapse assembly	GO_0051964	0	1	0	0	0
 negative regulation of sprouting of injured axon	GO_0048688	0	1	0	0	0
 negative regulation of spinal cord association neuron differentiation	GO_1902830	0	1	0	0	0
 negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021914	0	1	0	0	0
-negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901621	0	1	0	0	0
 negative regulation of short-term neuronal synaptic plasticity	GO_0048174	0	1	0	0	0
 negative regulation of sevenless signaling pathway	GO_0045873	0	1	0	0	0
 negative regulation of rhodopsin gene expression	GO_0045871	0	1	0	0	0
 negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	0	0	0
 negative regulation of retinal cone cell fate specification	GO_0009998	0	1	0	0	0
 negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in neural tube closure	GO_2000168	0	1	0	0	0
 negative regulation of photoreceptor cell differentiation	GO_0046533	0	1	0	0	0
-negative regulation of optic nerve formation	GO_2000596	0	1	0	0	0
 negative regulation of oligodendrocyte progenitor proliferation	GO_0070446	0	1	0	0	0
 negative regulation of oligodendrocyte differentiation	GO_0048715	0	1	0	0	0
 negative regulation of neuron projection regeneration	GO_0070571	0	1	0	0	0
@@ -578,7 +554,6 @@ negative regulation of neuron maturation	GO_0014043	0	1	0	0	0
 negative regulation of neuron differentiation	GO_0045665	0	1	0	0	0
 negative regulation of neurogenesis	GO_0050768	0	1	0	0	0
 negative regulation of neuroblast proliferation	GO_0007406	0	1	0	0	0
-negative regulation of myelination	GO_0031642	0	1	0	0	0
 negative regulation of microglia differentiation	GO_0014007	0	1	0	0	0
 negative regulation of mechanoreceptor differentiation	GO_0045632	0	1	0	0	0
 negative regulation of long-term neuronal synaptic plasticity	GO_0048171	0	1	0	0	0
@@ -599,12 +574,10 @@ negative regulation of collateral sprouting of intact axon in response to injury
 negative regulation of collateral sprouting of injured axon	GO_0048695	0	1	0	0	0
 negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0	0
 negative regulation of collateral sprouting	GO_0048671	0	1	0	0	0
-negative regulation of cerebellar granule cell precursor proliferation	GO_0021941	0	1	0	0	0
 negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	0	0	0
 negative regulation of cell proliferation in dorsal spinal cord	GO_1902832	0	1	0	0	0
 negative regulation of cell motility involved in cerebral cortex radial glia guided migration	GO_0021822	0	1	0	0	0
 negative regulation of cell adhesion in ventricular zone	GO_0021804	0	1	0	0	0
-negative regulation of branching morphogenesis of a nerve	GO_2000173	0	1	0	0	0
 negative regulation of axonogenesis	GO_0050771	0	1	0	0	0
 negative regulation of axon regeneration	GO_0048681	0	1	0	0	0
 negative regulation of axon guidance	GO_1902668	0	1	0	0	0
@@ -614,9 +587,6 @@ negative regulation of axon extension	GO_0030517	0	1	0	0	0
 negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	0	0	0
 negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	0	0	0
 negative regulation of astrocyte differentiation	GO_0048712	0	1	0	0	0
-negative regulation of anterior neural cell fate commitment of the neural plate by fibroblast growth factor receptor signaling pathway	GO_0022003	0	1	0	0	0
-negative regulation of anterior neural cell fate commitment of the neural plate by Wnt signaling pathway	GO_0022002	0	1	0	0	0
-negative regulation of anterior neural cell fate commitment of the neural plate	GO_0022001	0	1	0	0	0
 negative regulation of amacrine cell differentiation	GO_1902870	0	1	0	0	0
 negative regulation of Schwann cell proliferation	GO_0010626	0	1	0	0	0
 negative regulation of Schwann cell migration	GO_1900148	0	1	0	0	0

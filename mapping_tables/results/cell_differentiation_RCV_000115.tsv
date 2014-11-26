@@ -1,12 +1,4 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-cell maturation	GO_0048469	1	1	1	0	0
-cell fate specification involved in pattern specification	GO_0060573	1	1	1	0	0
-cell fate specification	GO_0001708	1	1	1	0	0
-cell fate determination involved in pattern specification	GO_0060582	1	1	1	0	0
-cell fate determination	GO_0001709	1	1	1	0	0
-cell fate commitment involved in pattern specification	GO_0060581	1	1	1	0	0
-cell fate commitment involved in formation of primary germ layer	GO_0060795	1	1	1	0	0
-cell fate commitment	GO_0045165	1	1	1	0	0
 cell differentiation involved in spore germination	GO_0075301	1	1	1	0	0
 cell differentiation involved in salivary gland development	GO_0060689	1	1	1	0	0
 cell differentiation involved in pronephros development	GO_0039014	1	1	1	0	0
@@ -14,1271 +6,164 @@ cell differentiation involved in metanephros development	GO_0072202	1	1	1	0	0
 cell differentiation involved in mesonephros development	GO_0061208	1	1	1	0	0
 cell differentiation in spinal cord	GO_0021515	1	1	1	0	0
 cell differentiation	GO_0030154	1	1	1	0	0
-cell development	GO_0048468	1	1	1	0	0
+cell maturation	GO_0048469	1	0	1	0	0
+cell fate specification involved in pattern specification	GO_0060573	1	0	1	0	0
+cell fate specification	GO_0001708	1	0	1	0	0
+cell fate determination involved in pattern specification	GO_0060582	1	0	1	0	0
+cell fate determination	GO_0001709	1	0	1	0	0
+cell fate commitment involved in pattern specification	GO_0060581	1	0	1	0	0
+cell fate commitment involved in formation of primary germ layer	GO_0060795	1	0	1	0	0
+cell fate commitment	GO_0045165	1	0	1	0	0
+cell development	GO_0048468	1	0	1	0	0
 cell dedifferentiation	GO_0043697	1	0	1	0	0
 zygospore formation	GO_0034296	0	1	0	0	0
 zoospore formation	GO_0075239	0	1	0	0	0
 xylem vessel member cell differentiation	GO_0048759	0	1	0	0	0
 xanthophore differentiation	GO_0050936	0	1	0	0	0
-wing cell fate specification	GO_0035311	0	1	0	0	0
 white fat cell differentiation involved in mammary gland fat development	GO_0060642	0	1	0	0	0
 white fat cell differentiation	GO_0050872	0	1	0	0	0
-vulval cell fate specification	GO_0072327	0	1	0	0	0
-vulval cell fate determination	GO_0072326	0	1	0	0	0
-vulval cell fate commitment	GO_0072325	0	1	0	0	0
-vitelline membrane formation involved in chorion-containing eggshell formation	GO_0007305	0	1	0	0	0
-vitelline membrane formation	GO_0030704	0	1	0	0	0
 visceral motor neuron differentiation	GO_0021524	0	1	0	0	0
-vestibulospinal tract morphogenesis	GO_0021962	0	1	0	0	0
-vestibular receptor cell stereocilium organization	GO_0060121	0	1	0	0	0
-vestibular receptor cell morphogenesis	GO_0060116	0	1	0	0	0
-vestibular receptor cell fate commitment	GO_0060115	0	1	0	0	0
 vestibular receptor cell differentiation	GO_0060114	0	1	0	0	0
-vestibular receptor cell development	GO_0060118	0	1	0	0	0
-ventricular zone neuroblast division	GO_0021847	0	1	0	0	0
-ventricular zone cell fate commitment	GO_0021900	0	1	0	0	0
-ventricular cardiac myofibril assembly	GO_0055005	0	1	0	0	0
-ventricular cardiac muscle cell fate commitment	GO_0060925	0	1	0	0	0
 ventricular cardiac muscle cell differentiation	GO_0055012	0	1	0	0	0
-ventricular cardiac muscle cell development	GO_0055015	0	1	0	0	0
-ventral trunk neural crest cell migration	GO_0036486	0	1	0	0	0
-ventral spinal cord interneuron specification	GO_0021521	0	1	0	0	0
-ventral spinal cord interneuron fate determination	GO_0060580	0	1	0	0	0
-ventral spinal cord interneuron fate commitment	GO_0060579	0	1	0	0	0
 ventral spinal cord interneuron differentiation	GO_0021514	0	1	0	0	0
-venous endothelial cell fate commitment	GO_0060845	0	1	0	0	0
 venous endothelial cell differentiation	GO_0060843	0	1	0	0	0
 vegetative cell differentiation	GO_0022620	0	1	0	0	0
 vasculogenesis involved in coronary vascular morphogenesis	GO_0060979	0	1	0	0	0
 vasculogenesis	GO_0001570	0	1	0	0	0
-vascular smooth muscle cell fate specification	GO_0097082	0	1	0	0	0
-vascular smooth muscle cell fate determination	GO_0097083	0	1	0	0	0
-vascular smooth muscle cell fate commitment	GO_0097081	0	1	0	0	0
 vascular smooth muscle cell differentiation	GO_0035886	0	1	0	0	0
-vascular smooth muscle cell development	GO_0097084	0	1	0	0	0
-vascular endothelial growth factor receptor signaling pathway involved in lymphatic endothelial cell fate commitment	GO_0060851	0	1	0	0	0
 ureter smooth muscle cell differentiation	GO_0072193	0	1	0	0	0
 ureter epithelial cell differentiation	GO_0072192	0	1	0	0	0
 uredospore formation	GO_0075251	0	1	0	0	0
-type B pancreatic cell maturation	GO_0072560	0	1	0	0	0
-type B pancreatic cell fate commitment	GO_0003327	0	1	0	0	0
 type B pancreatic cell differentiation	GO_0003309	0	1	0	0	0
-type B pancreatic cell development	GO_0003323	0	1	0	0	0
-trunk neural crest cell migration	GO_0036484	0	1	0	0	0
 trophoblast giant cell differentiation	GO_0060707	0	1	0	0	0
-trophectodermal cellular morphogenesis	GO_0001831	0	1	0	0	0
-trophectodermal cell fate commitment	GO_0001830	0	1	0	0	0
 trophectodermal cell differentiation	GO_0001829	0	1	0	0	0
-trigeminothalamic tract morphogenesis	GO_0021974	0	1	0	0	0
-trichome patterning	GO_0048629	0	1	0	0	0
-trichome morphogenesis	GO_0010090	0	1	0	0	0
 trichome differentiation	GO_0010026	0	1	0	0	0
-trichome branching	GO_0010091	0	1	0	0	0
-trichoblast maturation	GO_0048764	0	1	0	0	0
-trichoblast fate specification	GO_0010057	0	1	0	0	0
 trichoblast differentiation	GO_0010054	0	1	0	0	0
-trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	0	0	0
 transitional two stage B cell differentiation	GO_0002334	0	1	0	0	0
 transitional stage B cell differentiation	GO_0002332	0	1	0	0	0
 transitional one stage B cell differentiation	GO_0002333	0	1	0	0	0
-transforming growth factor beta receptor signaling pathway involved in primary germ layer cell fate commitment	GO_0060797	0	1	0	0	0
-transforming growth factor beta receptor signaling pathway involved in mesodermal cell fate specification	GO_0060798	0	1	0	0	0
-transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification	GO_0060799	0	1	0	0	0
-transforming growth factor beta receptor signaling pathway involved in axial mesodermal cell fate specification	GO_0060822	0	1	0	0	0
 transdifferentiation	GO_0060290	0	1	0	0	0
 tongue muscle cell differentiation	GO_0035981	0	1	0	0	0
 thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	0	0	0
-thyroid-stimulating hormone-secreting cell development	GO_0060130	0	1	0	0	0
-thymic T cell selection	GO_0045061	0	1	0	0	0
 thrombocyte differentiation	GO_0002574	0	1	0	0	0
-terminal cell fate specification, open tracheal system	GO_0035154	0	1	0	0	0
 tendon cell differentiation	GO_0035990	0	1	0	0	0
 teliospore formation	GO_0075255	0	1	0	0	0
-telencephalon oligodendrocyte cell migration	GO_0022032	0	1	0	0	0
-telencephalon microglial cell migration	GO_0022033	0	1	0	0	0
-telencephalon glial cell migration	GO_0022030	0	1	0	0	0
-telencephalon astrocyte cell migration	GO_0022031	0	1	0	0	0
-tectospinal tract morphogenesis	GO_0021977	0	1	0	0	0
-tectobulbar tract morphogenesis	GO_0034429	0	1	0	0	0
 synergid differentiation	GO_0009563	0	1	0	0	0
-synergid death	GO_0010198	0	1	0	0	0
 syncytiotrophoblast cell differentiation involved in labyrinthine layer development	GO_0060715	0	1	0	0	0
-synaptic target recognition	GO_0008039	0	1	0	0	0
-synaptic target inhibition	GO_0016201	0	1	0	0	0
-synaptic target attraction	GO_0016200	0	1	0	0	0
-sympathetic neuron projection guidance	GO_0097491	0	1	0	0	0
-sympathetic neuron projection extension	GO_0097490	0	1	0	0	0
-sympathetic neuron axon guidance	GO_0097492	0	1	0	0	0
-symmetric neuroblast division	GO_0055058	0	1	0	0	0
-substrate adhesion-dependent cell spreading	GO_0034446	0	1	0	0	0
-subpallium neuron fate commitment	GO_0060163	0	1	0	0	0
-striated muscle paramyosin thick filament assembly	GO_0061203	0	1	0	0	0
-striated muscle myosin thick filament assembly	GO_0071688	0	1	0	0	0
 striated muscle cell differentiation	GO_0051146	0	1	0	0	0
-striated muscle cell development	GO_0055002	0	1	0	0	0
 striatal medium spiny neuron differentiation	GO_0021773	0	1	0	0	0
-strand invasion involved in gene conversion at mating-type locus	GO_0034636	0	1	0	0	0
 stomach neuroendocrine cell differentiation	GO_0061102	0	1	0	0	0
-stem cell maintenance	GO_0019827	0	1	0	0	0
-stem cell fate specification	GO_0048866	0	1	0	0	0
-stem cell fate determination	GO_0048867	0	1	0	0	0
-stem cell fate commitment	GO_0048865	0	1	0	0	0
 stem cell differentiation	GO_0048863	0	1	0	0	0
-stem cell development	GO_0048864	0	1	0	0	0
 squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	0	0	0
-sprouting of injured axon	GO_0048682	0	1	0	0	0
 sporulation resulting in formation of a cellular spore	GO_0030435	0	1	0	0	0
 sporocyte differentiation	GO_0048533	0	1	0	0	0
-spore wall biogenesis	GO_0070590	0	1	0	0	0
-spore wall assembly	GO_0042244	0	1	0	0	0
-spore membrane bending pathway	GO_0070583	0	1	0	0	0
 sporangiospore formation	GO_0034300	0	1	0	0	0
 spongiotrophoblast differentiation	GO_0060708	0	1	0	0	0
-spinothalamic tract morphogenesis	GO_0021963	0	1	0	0	0
-spinal sensory neuron axon guidance	GO_0097375	0	1	0	0	0
-spinal cord ventral commissure morphogenesis	GO_0021965	0	1	0	0	0
 spinal cord radial glial cell differentiation	GO_0021531	0	1	0	0	0
-spinal cord oligodendrocyte cell fate specification	GO_0021530	0	1	0	0	0
 spinal cord oligodendrocyte cell differentiation	GO_0021529	0	1	0	0	0
-spinal cord motor neuron migration	GO_0097476	0	1	0	0	0
 spinal cord motor neuron differentiation	GO_0021522	0	1	0	0	0
-spinal cord motor neuron cell fate specification	GO_0021520	0	1	0	0	0
-spinal cord interneuron axon guidance	GO_0097377	0	1	0	0	0
-spinal cord commissural neuron specification	GO_0021518	0	1	0	0	0
-spinal cord association neuron specification	GO_0021519	0	1	0	0	0
 spinal cord association neuron differentiation	GO_0021527	0	1	0	0	0
-spermatogenesis, exchange of chromosomal proteins	GO_0035093	0	1	0	0	0
-spermatid nucleus elongation	GO_0007290	0	1	0	0	0
-spermatid nucleus differentiation	GO_0007289	0	1	0	0	0
 spermatid differentiation	GO_0048515	0	1	0	0	0
-spermatid development	GO_0007286	0	1	0	0	0
-sperm individualization	GO_0007291	0	1	0	0	0
-sperm chromatin condensation	GO_0035092	0	1	0	0	0
-sperm capacitation	GO_0048240	0	1	0	0	0
-sperm axoneme assembly	GO_0007288	0	1	0	0	0
 sorocarp stalk cell differentiation	GO_0031149	0	1	0	0	0
 sorocarp spore cell differentiation	GO_0044671	0	1	0	0	0
 somatotropin secreting cell differentiation	GO_0060126	0	1	0	0	0
-somatotropin secreting cell development	GO_0060133	0	1	0	0	0
-somatic stem cell maintenance	GO_0035019	0	1	0	0	0
-somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0	0
-somatic motor neuron fate commitment	GO_0021917	0	1	0	0	0
 somatic motor neuron differentiation	GO_0021523	0	1	0	0	0
-somatic hypermutation of immunoglobulin genes involved in immune response	GO_0002205	0	1	0	0	0
-somatic diversification of T cell receptor genes by N region addition	GO_0002571	0	1	0	0	0
-somatic diversification of T cell receptor genes	GO_0002568	0	1	0	0	0
 socket cell differentiation	GO_0090437	0	1	0	0	0
-smoothened signaling pathway involved in ventral spinal cord interneuron specification	GO_0021775	0	1	0	0	0
-smoothened signaling pathway involved in spinal cord motor neuron cell fate specification	GO_0021776	0	1	0	0	0
-smoothened signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003435	0	1	0	0	0
 smooth muscle derived foam cell differentiation	GO_0090078	0	1	0	0	0
 smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	0	1	0	0	0
 smooth muscle cell differentiation	GO_0051145	0	1	0	0	0
-skeletal myofibril assembly	GO_0014866	0	1	0	0	0
-skeletal muscle thin filament assembly	GO_0030240	0	1	0	0	0
-skeletal muscle satellite stem cell maintenance involved in skeletal muscle regeneration	GO_0098731	0	1	0	0	0
-skeletal muscle satellite cell fate determination	GO_0014818	0	1	0	0	0
 skeletal muscle satellite cell differentiation	GO_0014816	0	1	0	0	0
-skeletal muscle satellite cell commitment	GO_0014813	0	1	0	0	0
-skeletal muscle myosin thick filament assembly	GO_0030241	0	1	0	0	0
 skeletal muscle fiber differentiation	GO_0098528	0	1	0	0	0
-skeletal muscle fiber development	GO_0048741	0	1	0	0	0
 skeletal muscle cell differentiation	GO_0035914	0	1	0	0	0
-sinoatrial node cell fate commitment	GO_0060930	0	1	0	0	0
 sinoatrial node cell differentiation	GO_0060921	0	1	0	0	0
-sinoatrial node cell development	GO_0060931	0	1	0	0	0
-sieve element enucleation	GO_0090602	0	1	0	0	0
 sieve element differentiation	GO_0090603	0	1	0	0	0
 sieve cell differentiation	GO_0048756	0	1	0	0	0
 sexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075285	0	1	0	0	0
 sexual sporulation resulting in formation of a cellular spore	GO_0043935	0	1	0	0	0
 sexual sporulation	GO_0034293	0	1	0	0	0
-sexual spore wall assembly	GO_0034294	0	1	0	0	0
-sevenless signaling pathway	GO_0045500	0	1	0	0	0
 sepal giant cell differentiation	GO_0090392	0	1	0	0	0
-sepal giant cell development	GO_0090393	0	1	0	0	0
-sensory organ precursor cell fate determination	GO_0016360	0	1	0	0	0
-sensory neuron axon guidance	GO_0097374	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance	GO_2000305	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in neuron projection guidance	GO_1902285	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in dendrite guidance	GO_1902286	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0	0
-seed trichome maturation	GO_0090380	0	1	0	0	0
-seed trichome initiation	GO_0090377	0	1	0	0	0
-seed trichome elongation	GO_0090378	0	1	0	0	0
 seed trichome differentiation	GO_0090376	0	1	0	0	0
 secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	0	1	0	0	0
-secondary cell wall biogenesis involved in seed trichome differentiation	GO_0090379	0	1	0	0	0
 sebaceous gland cell differentiation	GO_0001949	0	1	0	0	0
 sclerenchyma cell differentiation	GO_0014001	0	1	0	0	0
-scattered antral spaces stage	GO_0048163	0	1	0	0	0
-satellite cell fate specification	GO_0014817	0	1	0	0	0
-sarcomerogenesis	GO_0048769	0	1	0	0	0
-sarcomere organization	GO_0045214	0	1	0	0	0
-salivary gland cell autophagic cell death	GO_0035071	0	1	0	0	0
-rubrospinal tract morphogenesis	GO_0021964	0	1	0	0	0
-root hair initiation	GO_0048766	0	1	0	0	0
-root hair elongation	GO_0048767	0	1	0	0	0
-root hair cell tip growth	GO_0048768	0	1	0	0	0
 root hair cell differentiation	GO_0048765	0	1	0	0	0
-root hair cell development	GO_0080147	0	1	0	0	0
 root epidermal cell differentiation	GO_0010053	0	1	0	0	0
 rhombomere cell differentiation	GO_0022036	0	1	0	0	0
-rhabdomere morphogenesis	GO_0061541	0	1	0	0	0
-rhabdomere membrane biogenesis	GO_0045313	0	1	0	0	0
-rhabdomere development	GO_0042052	0	1	0	0	0
 retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	0	0	0
-retrograde extension	GO_0003389	0	1	0	0	0
-retinoic acid receptor signaling pathway involved in ventral spinal cord interneuron specification	GO_0021774	0	1	0	0	0
-retinal rod cell fate commitment	GO_0060223	0	1	0	0	0
 retinal rod cell differentiation	GO_0060221	0	1	0	0	0
-retinal rod cell development	GO_0046548	0	1	0	0	0
-retinal ganglion cell axon guidance	GO_0031290	0	1	0	0	0
-retinal cone cell fate specification	GO_0042672	0	1	0	0	0
-retinal cone cell fate determination	GO_0042671	0	1	0	0	0
-retinal cone cell fate commitment	GO_0046551	0	1	0	0	0
 retinal cone cell differentiation	GO_0042670	0	1	0	0	0
-retinal cone cell development	GO_0046549	0	1	0	0	0
-retinal cell programmed cell death	GO_0046666	0	1	0	0	0
 retinal bipolar neuron differentiation	GO_0060040	0	1	0	0	0
 respiratory basal cell differentiation	GO_1902691	0	1	0	0	0
 renal vesicle progenitor cell differentiation	GO_0072184	0	1	0	0	0
-renal vesicle induction	GO_0072034	0	1	0	0	0
-renal interstitial fibroblast fate commitment	GO_0072153	0	1	0	0	0
-renal interstitial fibroblast development	GO_0072141	0	1	0	0	0
 renal filtration cell differentiation	GO_0061318	0	1	0	0	0
-removal of nonhomologous ends	GO_0000735	0	1	0	0	0
 regulatory T cell differentiation	GO_0045066	0	1	0	0	0
-regulation of zygospore formation	GO_0075298	0	1	0	0	0
-regulation of zoospore formation	GO_0075240	0	1	0	0	0
-regulation of xanthophore differentiation	GO_0050938	0	1	0	0	0
-regulation of venous endothelial cell fate commitment	GO_2000787	0	1	0	0	0
-regulation of vasculogenesis	GO_2001212	0	1	0	0	0
-regulation of ureter smooth muscle cell differentiation	GO_2000061	0	1	0	0	0
-regulation of uredospore formation	GO_0075252	0	1	0	0	0
-regulation of type B pancreatic cell development	GO_2000074	0	1	0	0	0
-regulation of trichome patterning	GO_1900032	0	1	0	0	0
-regulation of trichome morphogenesis	GO_2000039	0	1	0	0	0
-regulation of trichoblast fate specification	GO_0010061	0	1	0	0	0
-regulation of transdifferentiation	GO_1903618	0	1	0	0	0
-regulation of transcription involved in venous endothelial cell fate commitment	GO_0060852	0	1	0	0	0
-regulation of transcription involved in primary germ layer cell fate commitment	GO_0060796	0	1	0	0	0
-regulation of transcription involved in lymphatic endothelial cell fate commitment	GO_0060849	0	1	0	0	0
-regulation of transcription involved in eye field cell fate commitment of camera-type eye	GO_0060899	0	1	0	0	0
-regulation of transcription involved in cell fate commitment	GO_0060850	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification	GO_0021913	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification	GO_0021912	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in spinal cord association neuron specification	GO_0021920	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment	GO_0021918	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	GO_0003256	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	GO_0021882	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in endocardial precursor cell differentiation	GO_0003258	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification	GO_0060807	0	1	0	0	0
-regulation of tongue muscle cell differentiation	GO_2001035	0	1	0	0	0
-regulation of timing of subpallium neuron differentiation	GO_0060165	0	1	0	0	0
-regulation of timing of neuron differentiation	GO_0060164	0	1	0	0	0
-regulation of timing of cell differentiation	GO_0048505	0	1	0	0	0
-regulation of tendon cell differentiation	GO_2001049	0	1	0	0	0
-regulation of teliospore formation	GO_0075256	0	1	0	0	0
-regulation of synergid differentiation	GO_0045697	0	1	0	0	0
-regulation of substrate adhesion-dependent cell spreading	GO_1900024	0	1	0	0	0
-regulation of striated muscle cell differentiation	GO_0051153	0	1	0	0	0
-regulation of stomach neuroendocrine cell differentiation	GO_0061105	0	1	0	0	0
-regulation of stem cell maintenance	GO_2000036	0	1	0	0	0
-regulation of stem cell differentiation	GO_2000736	0	1	0	0	0
-regulation of sprouting of injured axon	GO_0048686	0	1	0	0	0
-regulation of sporulation resulting in formation of a cellular spore	GO_0042173	0	1	0	0	0
-regulation of sporangiospore formation	GO_0075286	0	1	0	0	0
-regulation of spinal cord association neuron differentiation	GO_1902829	0	1	0	0	0
-regulation of spermatid nuclear differentiation	GO_0045700	0	1	0	0	0
-regulation of sperm capacitation	GO_1902490	0	1	0	0	0
-regulation of sorocarp stalk cell differentiation	GO_0031285	0	1	0	0	0
-regulation of sorocarp spore cell differentiation	GO_1901261	0	1	0	0	0
-regulation of smooth muscle cell differentiation	GO_0051150	0	1	0	0	0
-regulation of skeletal muscle fiber differentiation	GO_1902809	0	1	0	0	0
-regulation of skeletal muscle fiber development	GO_0048742	0	1	0	0	0
-regulation of skeletal muscle cell differentiation	GO_2001014	0	1	0	0	0
-regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043940	0	1	0	0	0
-regulation of sexual sporulation	GO_0034306	0	1	0	0	0
-regulation of sevenless signaling pathway	GO_0045501	0	1	0	0	0
-regulation of sarcomere organization	GO_0060297	0	1	0	0	0
-regulation of root hair elongation	GO_1902890	0	1	0	0	0
-regulation of rhodopsin gene expression	GO_0007468	0	1	0	0	0
-regulation of retinal rod cell fate commitment	GO_0060224	0	1	0	0	0
-regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	0	0	0
-regulation of retinal cone cell fate specification	GO_0042673	0	1	0	0	0
-regulation of retinal cone cell fate commitment	GO_0060222	0	1	0	0	0
-regulation of retinal cell programmed cell death	GO_0046668	0	1	0	0	0
-regulation of regulatory T cell differentiation	GO_0045589	0	1	0	0	0
-regulation of pro-T cell differentiation	GO_2000174	0	1	0	0	0
-regulation of pro-B cell differentiation	GO_2000973	0	1	0	0	0
-regulation of primitive erythrocyte differentiation	GO_0010725	0	1	0	0	0
-regulation of positive thymic T cell selection	GO_1902232	0	1	0	0	0
-regulation of pollen tube growth	GO_0080092	0	1	0	0	0
-regulation of pole plasm oskar mRNA localization	GO_0007317	0	1	0	0	0
-regulation of polarized epithelial cell differentiation	GO_0030860	0	1	0	0	0
-regulation of plasmatocyte differentiation	GO_0045613	0	1	0	0	0
-regulation of plasma cell differentiation	GO_1900098	0	1	0	0	0
-regulation of pigment cell differentiation	GO_0050932	0	1	0	0	0
-regulation of photoreceptor cell differentiation	GO_0046532	0	1	0	0	0
-regulation of photoreceptor cell axon guidance	GO_2000289	0	1	0	0	0
-regulation of phialide development	GO_0070805	0	1	0	0	0
-regulation of paraxial mesodermal cell fate specification	GO_0048349	0	1	0	0	0
-regulation of paraxial mesodermal cell fate determination	GO_0048345	0	1	0	0	0
-regulation of pancreatic A cell differentiation	GO_2000226	0	1	0	0	0
-regulation of osteoclast differentiation	GO_0045670	0	1	0	0	0
-regulation of osteoclast development	GO_2001204	0	1	0	0	0
-regulation of osteoblast differentiation	GO_0045667	0	1	0	0	0
-regulation of oospore formation	GO_0075244	0	1	0	0	0
-regulation of oocyte maturation	GO_1900193	0	1	0	0	0
-regulation of oocyte development	GO_0060281	0	1	0	0	0
-regulation of oligodendrocyte progenitor proliferation	GO_0070445	0	1	0	0	0
-regulation of oligodendrocyte differentiation	GO_0048713	0	1	0	0	0
-regulation of odontoblast differentiation	GO_1901329	0	1	0	0	0
-regulation of nurse cell apoptotic process	GO_0045477	0	1	0	0	0
-regulation of neutrophil differentiation	GO_0045658	0	1	0	0	0
-regulation of neuron projection regeneration	GO_0070570	0	1	0	0	0
-regulation of neuron projection development	GO_0010975	0	1	0	0	0
-regulation of neuron migration	GO_2001222	0	1	0	0	0
-regulation of neuron maturation	GO_0014041	0	1	0	0	0
-regulation of neuron differentiation	GO_0045664	0	1	0	0	0
-regulation of neurogenesis	GO_0050767	0	1	0	0	0
-regulation of neuroblast proliferation	GO_1902692	0	1	0	0	0
-regulation of neural crest formation	GO_0090299	0	1	0	0	0
-regulation of nephron tubule epithelial cell differentiation	GO_0072182	0	1	0	0	0
-regulation of natural killer cell differentiation involved in immune response	GO_0032826	0	1	0	0	0
-regulation of natural killer cell differentiation	GO_0032823	0	1	0	0	0
-regulation of myotube differentiation	GO_0010830	0	1	0	0	0
-regulation of myoblast fusion	GO_1901739	0	1	0	0	0
-regulation of myoblast differentiation	GO_0045661	0	1	0	0	0
-regulation of myeloid leukocyte differentiation	GO_0002761	0	1	0	0	0
-regulation of myeloid cell differentiation	GO_0045637	0	1	0	0	0
-regulation of muscle cell differentiation	GO_0051147	0	1	0	0	0
-regulation of monocyte differentiation	GO_0045655	0	1	0	0	0
-regulation of microglia differentiation	GO_0014006	0	1	0	0	0
-regulation of metula development	GO_0070802	0	1	0	0	0
-regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072307	0	1	0	0	0
-regulation of metanephric glomerular visceral epithelial cell development	GO_2000477	0	1	0	0	0
-regulation of metanephric DCT cell differentiation	GO_2000592	0	1	0	0	0
-regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000093	0	1	0	0	0
-regulation of mesodermal cell fate specification	GO_0042661	0	1	0	0	0
-regulation of mesodermal cell fate determination	GO_0048334	0	1	0	0	0
-regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	0	1	0	0	0
-regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	0	1	0	0	0
-regulation of mesenchymal stem cell differentiation	GO_2000739	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	0	1	0	0	0
-regulation of memory T cell differentiation	GO_0043380	0	1	0	0	0
-regulation of melanocyte differentiation	GO_0045634	0	1	0	0	0
-regulation of meiotic cell cycle process involved in oocyte maturation	GO_1903538	0	1	0	0	0
-regulation of megakaryocyte differentiation	GO_0045652	0	1	0	0	0
-regulation of mechanoreceptor differentiation	GO_0045631	0	1	0	0	0
-regulation of mating-type specific transcription, DNA-templated	GO_0007532	0	1	0	0	0
-regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001196	0	1	0	0	0
-regulation of mating type switching	GO_0031494	0	1	0	0	0
-regulation of mast cell differentiation	GO_0060375	0	1	0	0	0
-regulation of macrophage differentiation	GO_0045649	0	1	0	0	0
-regulation of macrophage derived foam cell differentiation	GO_0010743	0	1	0	0	0
-regulation of lymphocyte differentiation	GO_0045619	0	1	0	0	0
-regulation of lung goblet cell differentiation	GO_1901249	0	1	0	0	0
-regulation of lung ciliated cell differentiation	GO_1901246	0	1	0	0	0
-regulation of leukocyte differentiation	GO_1902105	0	1	0	0	0
-regulation of leucophore differentiation	GO_0048775	0	1	0	0	0
-regulation of lens fiber cell differentiation	GO_1902746	0	1	0	0	0
-regulation of lateral motor column neuron migration	GO_1902076	0	1	0	0	0
-regulation of lateral mesodermal cell fate specification	GO_0048378	0	1	0	0	0
-regulation of lateral mesodermal cell fate determination	GO_0048374	0	1	0	0	0
-regulation of late stripe melanocyte differentiation	GO_0050940	0	1	0	0	0
-regulation of lamellocyte differentiation	GO_0035203	0	1	0	0	0
-regulation of kidney smooth muscle cell differentiation	GO_2000356	0	1	0	0	0
-regulation of keratinocyte differentiation	GO_0045616	0	1	0	0	0
-regulation of iridophore differentiation	GO_0050937	0	1	0	0	0
-regulation of intermediate mesodermal cell fate specification	GO_0048399	0	1	0	0	0
-regulation of intermediate mesodermal cell fate determination	GO_0048395	0	1	0	0	0
-regulation of inner ear receptor cell differentiation	GO_2000980	0	1	0	0	0
-regulation of immature T cell proliferation in thymus	GO_0033084	0	1	0	0	0
-regulation of hepatocyte differentiation	GO_0070366	0	1	0	0	0
-regulation of hemocyte differentiation	GO_0045610	0	1	0	0	0
-regulation of hematopoietic stem cell differentiation	GO_1902036	0	1	0	0	0
-regulation of hematopoietic progenitor cell differentiation	GO_1901532	0	1	0	0	0
-regulation of heart induction by regulation of canonical Wnt signaling pathway	GO_0090081	0	1	0	0	0
-regulation of heart induction	GO_0090381	0	1	0	0	0
-regulation of growth plate cartilage chondrocyte differentiation	GO_1902733	0	1	0	0	0
-regulation of granulocyte differentiation	GO_0030852	0	1	0	0	0
-regulation of gliogenesis	GO_0014013	0	1	0	0	0
-regulation of glial cell proliferation	GO_0060251	0	1	0	0	0
-regulation of glial cell differentiation	GO_0045685	0	1	0	0	0
-regulation of gamma-delta T cell differentiation	GO_0045586	0	1	0	0	0
-regulation of forebrain neuron differentiation	GO_2000977	0	1	0	0	0
-regulation of fat cell differentiation	GO_0045598	0	1	0	0	0
-regulation of eye photoreceptor cell development	GO_0042478	0	1	0	0	0
-regulation of extrathymic T cell differentiation	GO_0033082	0	1	0	0	0
-regulation of establishment of endothelial barrier	GO_1903140	0	1	0	0	0
-regulation of establishment of blood-brain barrier	GO_0090210	0	1	0	0	0
-regulation of erythrophore differentiation	GO_0048778	0	1	0	0	0
-regulation of erythrocyte differentiation	GO_0045646	0	1	0	0	0
-regulation of epithelial to mesenchymal transition	GO_0010717	0	1	0	0	0
-regulation of epithelial cell differentiation involved in kidney development	GO_2000696	0	1	0	0	0
-regulation of epithelial cell differentiation	GO_0030856	0	1	0	0	0
-regulation of epidermal cell differentiation	GO_0045604	0	1	0	0	0
-regulation of eosinophil differentiation	GO_0045643	0	1	0	0	0
-regulation of endothelial cell differentiation	GO_0045601	0	1	0	0	0
-regulation of endothelial cell development	GO_1901550	0	1	0	0	0
-regulation of endodermal cell fate specification	GO_0042663	0	1	0	0	0
-regulation of endodermal cell differentiation	GO_1903224	0	1	0	0	0
-regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	0	0	0
-regulation of embryo sac egg cell differentiation	GO_0045694	0	1	0	0	0
-regulation of embryo sac central cell differentiation	GO_0045691	0	1	0	0	0
-regulation of ectodermal cell fate specification	GO_0042665	0	1	0	0	0
-regulation of early stripe melanocyte differentiation	GO_0050939	0	1	0	0	0
-regulation of dendritic spine morphogenesis	GO_0061001	0	1	0	0	0
-regulation of dendritic spine development	GO_0060998	0	1	0	0	0
-regulation of dendritic cell differentiation	GO_2001198	0	1	0	0	0
-regulation of dendrite morphogenesis	GO_0048814	0	1	0	0	0
-regulation of dendrite development	GO_0050773	0	1	0	0	0
-regulation of definitive erythrocyte differentiation	GO_0010724	0	1	0	0	0
-regulation of cytotoxic T cell differentiation	GO_0045583	0	1	0	0	0
-regulation of cyanophore differentiation	GO_0048781	0	1	0	0	0
-regulation of cumulus cell differentiation	GO_0045592	0	1	0	0	0
-regulation of crystal cell differentiation	GO_0042689	0	1	0	0	0
-regulation of compound eye retinal cell programmed cell death	GO_0046669	0	1	0	0	0
-regulation of compound eye photoreceptor development	GO_0045314	0	1	0	0	0
-regulation of compound eye cone cell fate specification	GO_0042682	0	1	0	0	0
-regulation of collateral sprouting of intact axon in response to injury	GO_0048683	0	1	0	0	0
-regulation of collateral sprouting of injured axon	GO_0048693	0	1	0	0	0
-regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0	0
-regulation of collateral sprouting	GO_0048670	0	1	0	0	0
-regulation of chondrocyte hypertrophy	GO_1903041	0	1	0	0	0
-regulation of chondrocyte differentiation involved in endochondral bone morphogenesis	GO_1902738	0	1	0	0	0
-regulation of chondrocyte differentiation	GO_0032330	0	1	0	0	0
-regulation of chondrocyte development	GO_0061181	0	1	0	0	0
-regulation of central B cell deletion	GO_0002898	0	1	0	0	0
-regulation of central B cell anergy	GO_0002914	0	1	0	0	0
-regulation of cell morphogenesis involved in differentiation	GO_0010769	0	1	0	0	0
-regulation of cell maturation	GO_1903429	0	1	0	0	0
-regulation of cell growth involved in cardiac muscle cell development	GO_0061050	0	1	0	0	0
-regulation of cell fate specification	GO_0042659	0	1	0	0	0
-regulation of cell fate commitment	GO_0010453	0	1	0	0	0
-regulation of cell differentiation involved in tissue homeostasis	GO_0060786	0	1	0	0	0
-regulation of cell differentiation involved in embryonic placenta development	GO_0060800	0	1	0	0	0
-regulation of cell differentiation	GO_0045595	0	1	0	0	0
-regulation of cell development	GO_0060284	0	1	0	0	0
-regulation of cardioblast differentiation	GO_0051890	0	1	0	0	0
-regulation of cardioblast cell fate specification	GO_0042686	0	1	0	0	0
-regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	0	1	0	0	0
-regulation of cardiac muscle fiber development	GO_0055018	0	1	0	0	0
-regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0	0
-regulation of cardiac muscle cell differentiation	GO_2000725	0	1	0	0	0
-regulation of cardiac cell fate specification	GO_2000043	0	1	0	0	0
-regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072335	0	1	0	0	0
-regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901295	0	1	0	0	0
-regulation of brown fat cell differentiation	GO_0090335	0	1	0	0	0
-regulation of border follicle cell delamination	GO_0030710	0	1	0	0	0
-regulation of bicoid mRNA localization	GO_0008359	0	1	0	0	0
-regulation of basophil differentiation	GO_0045640	0	1	0	0	0
-regulation of basidiospore formation	GO_0075302	0	1	0	0	0
-regulation of axonogenesis	GO_0050770	0	1	0	0	0
-regulation of axon regeneration	GO_0048679	0	1	0	0	0
-regulation of axon guidance	GO_1902667	0	1	0	0	0
-regulation of axon extension involved in regeneration	GO_0048690	0	1	0	0	0
-regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0	0
-regulation of axon extension	GO_0030516	0	1	0	0	0
-regulation of axon diameter	GO_0031133	0	1	0	0	0
-regulation of axial mesodermal cell fate specification	GO_0048328	0	1	0	0	0
-regulation of axial mesodermal cell fate determination	GO_0048324	0	1	0	0	0
-regulation of auditory receptor cell fate specification	GO_0042669	0	1	0	0	0
-regulation of auditory receptor cell differentiation	GO_0045607	0	1	0	0	0
-regulation of atrichoblast fate specification	GO_0010058	0	1	0	0	0
-regulation of astrocyte differentiation	GO_0048710	0	1	0	0	0
-regulation of asexual sporulation resulting in formation of a cellular spore	GO_0043943	0	1	0	0	0
-regulation of ascospore-type prospore membrane assembly	GO_1903023	0	1	0	0	0
-regulation of ascospore wall chitin biosynthetic process	GO_0034223	0	1	0	0	0
-regulation of ascospore wall beta-glucan biosynthetic process	GO_0060622	0	1	0	0	0
-regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0060624	0	1	0	0	0
-regulation of ascospore formation	GO_0034307	0	1	0	0	0
-regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902256	0	1	0	0	0
-regulation of apoptotic process involved in morphogenesis	GO_1902337	0	1	0	0	0
-regulation of aplanospore formation	GO_0075290	0	1	0	0	0
-regulation of antipodal cell differentiation	GO_0045688	0	1	0	0	0
-regulation of amniotic stem cell differentiation	GO_2000797	0	1	0	0	0
-regulation of amacrine cell differentiation	GO_1902869	0	1	0	0	0
-regulation of alpha-beta T cell differentiation	GO_0046637	0	1	0	0	0
-regulation of aeciospore formation	GO_0075248	0	1	0	0	0
-regulation of T-helper cell differentiation	GO_0045622	0	1	0	0	0
-regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0	0
-regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0	0
-regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0	0
-regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0	0
-regulation of T cell differentiation in thymus	GO_0033081	0	1	0	0	0
-regulation of T cell differentiation	GO_0045580	0	1	0	0	0
-regulation of Schwann cell proliferation	GO_0010624	0	1	0	0	0
-regulation of Schwann cell migration	GO_1900147	0	1	0	0	0
-regulation of Schwann cell differentiation	GO_0014038	0	1	0	0	0
-regulation of R8 cell differentiation	GO_0045679	0	1	0	0	0
-regulation of R7 cell differentiation	GO_0045676	0	1	0	0	0
-regulation of Notch signaling pathway involved in heart induction	GO_0035480	0	1	0	0	0
-regulation of NK T cell differentiation	GO_0051136	0	1	0	0	0
-regulation of Hulle cell development	GO_0070808	0	1	0	0	0
-regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043376	0	1	0	0	0
-regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043370	0	1	0	0	0
-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032832	0	1	0	0	0
-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032829	0	1	0	0	0
-regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	0	0	0
-regulation of B-1 B cell differentiation	GO_0001924	0	1	0	0	0
-regulation of B cell differentiation	GO_0045577	0	1	0	0	0
-reception of an inductive signal	GO_0031131	0	1	0	0	0
-radial glial cell fate commitment in forebrain	GO_0022023	0	1	0	0	0
 radial glial cell differentiation	GO_0060019	0	1	0	0	0
-pyramidal neuron migration	GO_0021852	0	1	0	0	0
 pyramidal neuron differentiation	GO_0021859	0	1	0	0	0
-pyramidal neuron development	GO_0021860	0	1	0	0	0
-proximal convoluted tubule segment 1 cell fate commitment	GO_0072154	0	1	0	0	0
 proximal convoluted tubule segment 1 cell differentiation	GO_0072062	0	1	0	0	0
-proximal convoluted tubule segment 1 cell development	GO_0072145	0	1	0	0	0
-prostate induction	GO_0060514	0	1	0	0	0
 pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	0	0	0
 prolactin secreting cell differentiation	GO_0060127	0	1	0	0	0
-prolactin secreting cell development	GO_0060132	0	1	0	0	0
-pro-T cell lineage commitment	GO_0002680	0	1	0	0	0
 pro-T cell differentiation	GO_0002572	0	1	0	0	0
 pro-B cell differentiation	GO_0002328	0	1	0	0	0
 primitive erythrocyte differentiation	GO_0060319	0	1	0	0	0
-primary spermatocyte growth	GO_0007285	0	1	0	0	0
-primary ovarian follicle growth involved in primary follicle stage	GO_0043930	0	1	0	0	0
-primary ovarian follicle growth involved in double layer follicle stage	GO_0043929	0	1	0	0	0
-primary oocyte stage	GO_0048159	0	1	0	0	0
-primary follicle stage	GO_0048160	0	1	0	0	0
-preantral ovarian follicle growth	GO_0001546	0	1	0	0	0
-pre-B cell receptor expression	GO_0002330	0	1	0	0	0
 pre-B cell differentiation	GO_0002329	0	1	0	0	0
-pre-B cell allelic exclusion	GO_0002331	0	1	0	0	0
-postnatal olfactory bulb interneuron migration	GO_0021827	0	1	0	0	0
 posterior lateral line neuromast support cell differentiation	GO_0048927	0	1	0	0	0
 posterior lateral line neuromast mantle cell differentiation	GO_0048924	0	1	0	0	0
-posterior lateral line neuromast hair cell morphogenesis	GO_0035680	0	1	0	0	0
 posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	0	0	0
-posterior lateral line neuromast hair cell development	GO_0035677	0	1	0	0	0
-posterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048942	0	1	0	0	0
 posterior lateral line nerve glial cell differentiation	GO_0048931	0	1	0	0	0
-posterior lateral line nerve glial cell development	GO_0048941	0	1	0	0	0
 posterior lateral line ganglion neuron differentiation	GO_0048928	0	1	0	0	0
-posterior commissure morphogenesis	GO_0021961	0	1	0	0	0
-post-embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003247	0	1	0	0	0
-positive thymic T cell selection	GO_0045059	0	1	0	0	0
-positive regulation of zygospore formation	GO_0075299	0	1	0	0	0
-positive regulation of zoospore formation	GO_0075241	0	1	0	0	0
-positive regulation of xanthophore differentiation	GO_0050946	0	1	0	0	0
-positive regulation of venous endothelial cell fate commitment	GO_2000789	0	1	0	0	0
-positive regulation of vasculogenesis	GO_2001214	0	1	0	0	0
-positive regulation of ureter smooth muscle cell differentiation	GO_2000063	0	1	0	0	0
-positive regulation of uredospore formation	GO_0075253	0	1	0	0	0
-positive regulation of type B pancreatic cell development	GO_2000078	0	1	0	0	0
-positive regulation of trichoblast fate specification	GO_0010063	0	1	0	0	0
-positive regulation of transdifferentiation	GO_1903620	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	GO_2000721	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	GO_0003257	0	1	0	0	0
-positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	0	0	0
-positive regulation of tendon cell differentiation	GO_2001051	0	1	0	0	0
-positive regulation of teliospore formation	GO_0075257	0	1	0	0	0
-positive regulation of synergid differentiation	GO_0045699	0	1	0	0	0
-positive regulation of substrate adhesion-dependent cell spreading	GO_1900026	0	1	0	0	0
-positive regulation of striated muscle cell differentiation	GO_0051155	0	1	0	0	0
-positive regulation of stem cell maintenance	GO_1902459	0	1	0	0	0
-positive regulation of stem cell differentiation	GO_2000738	0	1	0	0	0
-positive regulation of sprouting of injured axon	GO_0048687	0	1	0	0	0
-positive regulation of sporulation resulting in formation of a cellular spore	GO_0045881	0	1	0	0	0
-positive regulation of sporangiospore formation	GO_0075287	0	1	0	0	0
-positive regulation of spinal cord association neuron differentiation	GO_1902831	0	1	0	0	0
-positive regulation of spermatid nuclear differentiation	GO_0045702	0	1	0	0	0
-positive regulation of sperm motility involved in capacitation	GO_0060474	0	1	0	0	0
-positive regulation of sperm capacitation	GO_1902492	0	1	0	0	0
-positive regulation of sorocarp stalk cell differentiation	GO_0031287	0	1	0	0	0
-positive regulation of sorocarp spore cell differentiation	GO_1901263	0	1	0	0	0
-positive regulation of smooth muscle cell differentiation	GO_0051152	0	1	0	0	0
-positive regulation of skeletal muscle satellite cell differentiation	GO_1902726	0	1	0	0	0
-positive regulation of skeletal muscle fiber differentiation	GO_1902811	0	1	0	0	0
-positive regulation of skeletal muscle fiber development	GO_0048743	0	1	0	0	0
-positive regulation of skeletal muscle cell differentiation	GO_2001016	0	1	0	0	0
-positive regulation of short-term neuronal synaptic plasticity	GO_0048173	0	1	0	0	0
-positive regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043941	0	1	0	0	0
-positive regulation of sevenless signaling pathway	GO_0045874	0	1	0	0	0
-positive regulation of sarcomere organization	GO_0060298	0	1	0	0	0
-positive regulation of root hair elongation	GO_1902892	0	1	0	0	0
-positive regulation of rhodopsin gene expression	GO_0045872	0	1	0	0	0
-positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	0	0	0
-positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
-positive regulation of retinal cell programmed cell death	GO_0046670	0	1	0	0	0
-positive regulation of regulatory T cell differentiation	GO_0045591	0	1	0	0	0
-positive regulation of pro-T cell differentiation	GO_2000176	0	1	0	0	0
-positive regulation of pro-B cell differentiation	GO_2000975	0	1	0	0	0
-positive regulation of positive thymic T cell selection	GO_1902234	0	1	0	0	0
-positive regulation of pole plasm oskar mRNA localization	GO_0045856	0	1	0	0	0
-positive regulation of polarized epithelial cell differentiation	GO_0030862	0	1	0	0	0
-positive regulation of plasmatocyte differentiation	GO_0045615	0	1	0	0	0
-positive regulation of plasma cell differentiation	GO_1900100	0	1	0	0	0
-positive regulation of pigment cell differentiation	GO_0050942	0	1	0	0	0
-positive regulation of photoreceptor cell differentiation	GO_0046534	0	1	0	0	0
-positive regulation of phialide development	GO_0070807	0	1	0	0	0
-positive regulation of paraxial mesodermal cell fate specification	GO_0048350	0	1	0	0	0
-positive regulation of paraxial mesodermal cell fate determination	GO_0048346	0	1	0	0	0
-positive regulation of pancreatic A cell differentiation	GO_2000228	0	1	0	0	0
-positive regulation of osteoclast differentiation	GO_0045672	0	1	0	0	0
-positive regulation of osteoclast development	GO_2001206	0	1	0	0	0
-positive regulation of osteoblast differentiation	GO_0045669	0	1	0	0	0
-positive regulation of oospore formation	GO_0075245	0	1	0	0	0
-positive regulation of oocyte maturation	GO_1900195	0	1	0	0	0
-positive regulation of oocyte development	GO_0060282	0	1	0	0	0
-positive regulation of oligodendrocyte progenitor proliferation	GO_0070447	0	1	0	0	0
-positive regulation of oligodendrocyte differentiation	GO_0048714	0	1	0	0	0
-positive regulation of odontoblast differentiation	GO_1901331	0	1	0	0	0
-positive regulation of nurse cell apoptotic process	GO_0045850	0	1	0	0	0
-positive regulation of neutrophil differentiation	GO_0045660	0	1	0	0	0
-positive regulation of neuron projection regeneration	GO_0070572	0	1	0	0	0
-positive regulation of neuron projection development	GO_0010976	0	1	0	0	0
-positive regulation of neuron migration	GO_2001224	0	1	0	0	0
-positive regulation of neuron maturation	GO_0014042	0	1	0	0	0
-positive regulation of neuron differentiation	GO_0045666	0	1	0	0	0
-positive regulation of neurogenesis	GO_0050769	0	1	0	0	0
-positive regulation of neuroepithelial cell differentiation	GO_1902913	0	1	0	0	0
-positive regulation of neuroblast proliferation	GO_0002052	0	1	0	0	0
-positive regulation of neural crest formation	GO_0090300	0	1	0	0	0
-positive regulation of nephron tubule epithelial cell differentiation	GO_2000768	0	1	0	0	0
-positive regulation of natural killer cell differentiation involved in immune response	GO_0032828	0	1	0	0	0
-positive regulation of natural killer cell differentiation	GO_0032825	0	1	0	0	0
-positive regulation of myotube differentiation	GO_0010831	0	1	0	0	0
-positive regulation of myoblast fusion	GO_1901741	0	1	0	0	0
-positive regulation of myoblast differentiation	GO_0045663	0	1	0	0	0
-positive regulation of myeloid leukocyte differentiation	GO_0002763	0	1	0	0	0
-positive regulation of myeloid cell differentiation	GO_0045639	0	1	0	0	0
-positive regulation of muscle cell differentiation	GO_0051149	0	1	0	0	0
-positive regulation of monocyte differentiation	GO_0045657	0	1	0	0	0
-positive regulation of microglia differentiation	GO_0014008	0	1	0	0	0
-positive regulation of metula development	GO_0070804	0	1	0	0	0
-positive regulation of metanephric glomerular visceral epithelial cell development	GO_2000478	0	1	0	0	0
-positive regulation of metanephric DCT cell differentiation	GO_2000594	0	1	0	0	0
-positive regulation of mesodermal to mesenchymal transition involved in gastrulation	GO_0060808	0	1	0	0	0
-positive regulation of mesodermal cell fate specification	GO_0048337	0	1	0	0	0
-positive regulation of mesodermal cell fate determination	GO_0048336	0	1	0	0	0
-positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	0	1	0	0	0
-positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	0	1	0	0	0
-positive regulation of mesenchymal stem cell differentiation	GO_2000741	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	0	1	0	0	0
-positive regulation of memory T cell differentiation	GO_0043382	0	1	0	0	0
-positive regulation of melanocyte differentiation	GO_0045636	0	1	0	0	0
-positive regulation of megakaryocyte differentiation	GO_0045654	0	1	0	0	0
-positive regulation of mechanoreceptor differentiation	GO_0045633	0	1	0	0	0
-positive regulation of mating-type specific transcription, DNA-templated	GO_0045895	0	1	0	0	0
-positive regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001197	0	1	0	0	0
-positive regulation of mating type switching by regulation of transcription from RNA polymerase II promoter	GO_1900374	0	1	0	0	0
-positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter	GO_1900423	0	1	0	0	0
-positive regulation of mating type switching	GO_0031496	0	1	0	0	0
-positive regulation of mast cell differentiation	GO_0060376	0	1	0	0	0
-positive regulation of macrophage differentiation	GO_0045651	0	1	0	0	0
-positive regulation of macrophage derived foam cell differentiation	GO_0010744	0	1	0	0	0
-positive regulation of lymphocyte differentiation	GO_0045621	0	1	0	0	0
-positive regulation of lung goblet cell differentiation	GO_1901251	0	1	0	0	0
-positive regulation of lung ciliated cell differentiation	GO_1901248	0	1	0	0	0
-positive regulation of long-term neuronal synaptic plasticity	GO_0048170	0	1	0	0	0
-positive regulation of leukocyte differentiation	GO_1902107	0	1	0	0	0
-positive regulation of leucophore differentiation	GO_0048777	0	1	0	0	0
-positive regulation of lens fiber cell differentiation	GO_1902748	0	1	0	0	0
-positive regulation of lateral motor column neuron migration	GO_1902078	0	1	0	0	0
-positive regulation of lateral mesodermal cell fate specification	GO_0048379	0	1	0	0	0
-positive regulation of lateral mesodermal cell fate determination	GO_0048376	0	1	0	0	0
-positive regulation of late stripe melanocyte differentiation	GO_0050950	0	1	0	0	0
-positive regulation of lamellocyte differentiation	GO_0035205	0	1	0	0	0
-positive regulation of kidney smooth muscle cell differentiation	GO_2000358	0	1	0	0	0
-positive regulation of keratinocyte differentiation	GO_0045618	0	1	0	0	0
-positive regulation of iridophore differentiation	GO_0050945	0	1	0	0	0
-positive regulation of intermediate mesodermal cell fate specification	GO_0048400	0	1	0	0	0
-positive regulation of intermediate mesodermal cell fate determination	GO_0048397	0	1	0	0	0
-positive regulation of inner ear receptor cell differentiation	GO_2000982	0	1	0	0	0
-positive regulation of immature T cell proliferation in thymus	GO_0033092	0	1	0	0	0
-positive regulation of hepatocyte differentiation	GO_0070368	0	1	0	0	0
-positive regulation of hemocyte differentiation	GO_0045612	0	1	0	0	0
-positive regulation of hematopoietic stem cell differentiation	GO_1902038	0	1	0	0	0
-positive regulation of hematopoietic progenitor cell differentiation	GO_1901534	0	1	0	0	0
-positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway	GO_0090082	0	1	0	0	0
-positive regulation of heart induction	GO_1901321	0	1	0	0	0
-positive regulation of granulocyte differentiation	GO_0030854	0	1	0	0	0
-positive regulation of gliogenesis	GO_0014015	0	1	0	0	0
-positive regulation of glial cell proliferation	GO_0060252	0	1	0	0	0
-positive regulation of glial cell differentiation	GO_0045687	0	1	0	0	0
-positive regulation of gamma-delta T cell differentiation	GO_0045588	0	1	0	0	0
-positive regulation of forebrain neuron differentiation	GO_2000979	0	1	0	0	0
-positive regulation of fat cell differentiation	GO_0045600	0	1	0	0	0
-positive regulation of eye photoreceptor cell development	GO_0042479	0	1	0	0	0
-positive regulation of extrathymic T cell differentiation	GO_0033090	0	1	0	0	0
-positive regulation of establishment of endothelial barrier	GO_1903142	0	1	0	0	0
-positive regulation of establishment of blood-brain barrier	GO_0090211	0	1	0	0	0
-positive regulation of erythrophore differentiation	GO_0048780	0	1	0	0	0
-positive regulation of erythrocyte differentiation	GO_0045648	0	1	0	0	0
-positive regulation of epithelial to mesenchymal transition	GO_0010718	0	1	0	0	0
-positive regulation of epithelial cell differentiation involved in kidney development	GO_2000698	0	1	0	0	0
-positive regulation of epithelial cell differentiation	GO_0030858	0	1	0	0	0
-positive regulation of epidermal cell differentiation	GO_0045606	0	1	0	0	0
-positive regulation of eosinophil differentiation	GO_0045645	0	1	0	0	0
-positive regulation of endothelial cell differentiation	GO_0045603	0	1	0	0	0
-positive regulation of endothelial cell development	GO_1901552	0	1	0	0	0
-positive regulation of endodermal cell differentiation	GO_1903226	0	1	0	0	0
-positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	0	0	0
-positive regulation of embryo sac egg cell differentiation	GO_0045696	0	1	0	0	0
-positive regulation of embryo sac central cell differentiation	GO_0045693	0	1	0	0	0
-positive regulation of early stripe melanocyte differentiation	GO_0050948	0	1	0	0	0
-positive regulation of dendritic spine morphogenesis	GO_0061003	0	1	0	0	0
-positive regulation of dendritic spine development	GO_0060999	0	1	0	0	0
-positive regulation of dendritic cell differentiation	GO_2001200	0	1	0	0	0
-positive regulation of dendrite morphogenesis	GO_0050775	0	1	0	0	0
-positive regulation of dendrite development	GO_1900006	0	1	0	0	0
-positive regulation of cytotoxic T cell differentiation	GO_0045585	0	1	0	0	0
-positive regulation of cyanophore differentiation	GO_0048783	0	1	0	0	0
-positive regulation of cumulus cell differentiation	GO_0045594	0	1	0	0	0
-positive regulation of crystal cell differentiation	GO_0042691	0	1	0	0	0
-positive regulation of compound eye retinal cell programmed cell death	GO_0046672	0	1	0	0	0
-positive regulation of compound eye retinal cell apoptotic process	GO_1901694	0	1	0	0	0
-positive regulation of compound eye photoreceptor development	GO_0045315	0	1	0	0	0
-positive regulation of collateral sprouting of intact axon in response to injury	GO_0048684	0	1	0	0	0
-positive regulation of collateral sprouting of injured axon	GO_0048694	0	1	0	0	0
-positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0	0
-positive regulation of collateral sprouting	GO_0048672	0	1	0	0	0
-positive regulation of chondrocyte hypertrophy	GO_1903043	0	1	0	0	0
-positive regulation of chondrocyte differentiation	GO_0032332	0	1	0	0	0
-positive regulation of chondrocyte development	GO_1902761	0	1	0	0	0
-positive regulation of central B cell deletion	GO_0002900	0	1	0	0	0
-positive regulation of central B cell anergy	GO_0002916	0	1	0	0	0
-positive regulation of cell morphogenesis involved in differentiation	GO_0010770	0	1	0	0	0
-positive regulation of cell maturation	GO_1903431	0	1	0	0	0
-positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	0	1	0	0	0
-positive regulation of cell fate specification	GO_0042660	0	1	0	0	0
-positive regulation of cell fate commitment	GO_0010455	0	1	0	0	0
-positive regulation of cell differentiation	GO_0045597	0	1	0	0	0
-positive regulation of cell development	GO_0010720	0	1	0	0	0
-positive regulation of cardioblast differentiation	GO_0051891	0	1	0	0	0
-positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	0	1	0	0	0
-positive regulation of cardiac muscle fiber development	GO_0055020	0	1	0	0	0
-positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0	0
-positive regulation of cardiac muscle cell differentiation	GO_2000727	0	1	0	0	0
-positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072381	0	1	0	0	0
-positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901297	0	1	0	0	0
-positive regulation of brown fat cell differentiation	GO_0090336	0	1	0	0	0
-positive regulation of border follicle cell delamination	GO_0030711	0	1	0	0	0
-positive regulation of bicoid mRNA localization	GO_0045854	0	1	0	0	0
-positive regulation of basophil differentiation	GO_0045642	0	1	0	0	0
-positive regulation of basidiospore formation	GO_0075303	0	1	0	0	0
-positive regulation of axonogenesis	GO_0050772	0	1	0	0	0
-positive regulation of axon regeneration	GO_0048680	0	1	0	0	0
-positive regulation of axon guidance	GO_1902669	0	1	0	0	0
-positive regulation of axon extension involved in regeneration	GO_0048691	0	1	0	0	0
-positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0	0
-positive regulation of axon extension	GO_0045773	0	1	0	0	0
-positive regulation of axial mesodermal cell fate specification	GO_0048330	0	1	0	0	0
-positive regulation of axial mesodermal cell fate determination	GO_0048326	0	1	0	0	0
-positive regulation of auditory receptor cell differentiation	GO_0045609	0	1	0	0	0
-positive regulation of atrichoblast fate specification	GO_0010059	0	1	0	0	0
-positive regulation of astrocyte differentiation	GO_0048711	0	1	0	0	0
-positive regulation of asexual sporulation resulting in formation of a cellular spore	GO_0043945	0	1	0	0	0
-positive regulation of ascospore-type prospore membrane assembly	GO_1903024	0	1	0	0	0
-positive regulation of ascospore formation	GO_0075296	0	1	0	0	0
-positive regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902258	0	1	0	0	0
-positive regulation of apoptotic process involved in morphogenesis	GO_1902339	0	1	0	0	0
-positive regulation of apoptotic process involved in mammary gland involution	GO_0060058	0	1	0	0	0
-positive regulation of aplanospore formation	GO_0075291	0	1	0	0	0
-positive regulation of antipodal cell differentiation	GO_0045690	0	1	0	0	0
-positive regulation of amniotic stem cell differentiation	GO_2000799	0	1	0	0	0
-positive regulation of amacrine cell differentiation	GO_1902871	0	1	0	0	0
-positive regulation of alpha-beta T cell differentiation	GO_0046638	0	1	0	0	0
-positive regulation of aeciospore formation	GO_0075249	0	1	0	0	0
-positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0	0
-positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0	0
-positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0	0
-positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0	0
-positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0	0
-positive regulation of T cell differentiation in thymus	GO_0033089	0	1	0	0	0
-positive regulation of T cell differentiation	GO_0045582	0	1	0	0	0
-positive regulation of Schwann cell proliferation	GO_0010625	0	1	0	0	0
-positive regulation of Schwann cell migration	GO_1900149	0	1	0	0	0
-positive regulation of Schwann cell differentiation	GO_0014040	0	1	0	0	0
-positive regulation of R8 cell differentiation	GO_0045681	0	1	0	0	0
-positive regulation of R7 cell differentiation	GO_0045678	0	1	0	0	0
-positive regulation of Notch signaling pathway involved in heart induction	GO_0035481	0	1	0	0	0
-positive regulation of NK T cell differentiation	GO_0051138	0	1	0	0	0
-positive regulation of Hulle cell development	GO_0070810	0	1	0	0	0
-positive regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043378	0	1	0	0	0
-positive regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043372	0	1	0	0	0
-positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032834	0	1	0	0	0
-positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032831	0	1	0	0	0
-positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	0	0	0
-positive regulation of B-1 B cell differentiation	GO_0001926	0	1	0	0	0
-positive regulation of B cell differentiation	GO_0045579	0	1	0	0	0
-positive extrathymic T cell selection	GO_0045067	0	1	0	0	0
-positive T cell selection	GO_0043368	0	1	0	0	0
-pons reticulospinal tract morphogenesis	GO_0021975	0	1	0	0	0
-pollen tube growth	GO_0009860	0	1	0	0	0
 pollen sperm cell differentiation	GO_0048235	0	1	0	0	0
-pole plasm protein localization	GO_0007318	0	1	0	0	0
-pole plasm oskar mRNA localization	GO_0045451	0	1	0	0	0
-pole plasm mitochondrial srRNA localization	GO_0019097	0	1	0	0	0
-pole plasm mitochondrial rRNA localization	GO_0019095	0	1	0	0	0
-pole plasm mitochondrial lrRNA localization	GO_0019096	0	1	0	0	0
-pole plasm mRNA localization	GO_0019094	0	1	0	0	0
-pole plasm assembly	GO_0007315	0	1	0	0	0
-pole plasm RNA localization	GO_0007316	0	1	0	0	0
-pole cell formation	GO_0007279	0	1	0	0	0
-pole cell fate determination	GO_0007278	0	1	0	0	0
-pole cell development	GO_0007277	0	1	0	0	0
 polarized epithelial cell differentiation	GO_0030859	0	1	0	0	0
-polar nucleus fusion	GO_0010197	0	1	0	0	0
-platelet morphogenesis	GO_0036344	0	1	0	0	0
-platelet maturation	GO_0036345	0	1	0	0	0
 platelet formation	GO_0030220	0	1	0	0	0
 plasmatocyte differentiation	GO_0042387	0	1	0	0	0
 plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	0	1	0	0	0
 plasmacytoid dendritic cell differentiation	GO_0002273	0	1	0	0	0
 plasma cell differentiation	GO_0002317	0	1	0	0	0
 plant parenchymal cell differentiation	GO_0048760	0	1	0	0	0
-pigment granule maturation	GO_0048757	0	1	0	0	0
 pigment cell precursor differentiation	GO_0048824	0	1	0	0	0
 pigment cell differentiation	GO_0050931	0	1	0	0	0
-pigment cell development	GO_0070285	0	1	0	0	0
-pigment biosynthetic process involved in pigment granule maturation	GO_0048784	0	1	0	0	0
-photoreceptor cell outer segment organization	GO_0035845	0	1	0	0	0
-photoreceptor cell morphogenesis	GO_0008594	0	1	0	0	0
-photoreceptor cell fate specification	GO_0043704	0	1	0	0	0
-photoreceptor cell fate determination	GO_0043703	0	1	0	0	0
-photoreceptor cell fate commitment	GO_0046552	0	1	0	0	0
 photoreceptor cell differentiation	GO_0046530	0	1	0	0	0
-photoreceptor cell development	GO_0042461	0	1	0	0	0
-photoreceptor cell axon guidance	GO_0072499	0	1	0	0	0
-phialide development	GO_0070790	0	1	0	0	0
 peripheral nervous system neuron differentiation	GO_0048934	0	1	0	0	0
-peripheral nervous system neuron development	GO_0048935	0	1	0	0	0
-peripheral nervous system neuron axonogenesis	GO_0048936	0	1	0	0	0
-peripheral nervous system myelin maintenance	GO_0032287	0	1	0	0	0
-peripheral nervous system myelin formation	GO_0032290	0	1	0	0	0
-peripheral nervous system axon regeneration	GO_0014012	0	1	0	0	0
 peripheral mammary gland bud epithelial cell differentiation	GO_0060645	0	1	0	0	0
-peripheral B cell selection	GO_0002343	0	1	0	0	0
-peripheral B cell positive selection	GO_0002350	0	1	0	0	0
-peripheral B cell negative selection	GO_0002356	0	1	0	0	0
-perineurial glial growth	GO_0042066	0	1	0	0	0
 pericardial nephrocyte differentiation	GO_0061320	0	1	0	0	0
-paraxial mesodermal cell fate specification	GO_0048348	0	1	0	0	0
-paraxial mesodermal cell fate determination	GO_0048344	0	1	0	0	0
-paraxial mesodermal cell fate commitment	GO_0048343	0	1	0	0	0
 paraxial mesodermal cell differentiation	GO_0048342	0	1	0	0	0
 pancreatic epsilon cell differentiation	GO_0090104	0	1	0	0	0
-pancreatic PP cell fate commitment	GO_0003329	0	1	0	0	0
 pancreatic PP cell differentiation	GO_0003312	0	1	0	0	0
-pancreatic PP cell development	GO_0003325	0	1	0	0	0
-pancreatic E cell fate commitment	GO_0090106	0	1	0	0	0
-pancreatic E cell development	GO_0090105	0	1	0	0	0
-pancreatic D cell fate commitment	GO_0003328	0	1	0	0	0
 pancreatic D cell differentiation	GO_0003311	0	1	0	0	0
-pancreatic D cell development	GO_0003324	0	1	0	0	0
-pancreatic A cell fate commitment	GO_0003326	0	1	0	0	0
 pancreatic A cell differentiation	GO_0003310	0	1	0	0	0
-pancreatic A cell development	GO_0003322	0	1	0	0	0
-pancreas induction	GO_0061132	0	1	0	0	0
-ovarian nurse cell to oocyte transport	GO_0007300	0	1	0	0	0
-ovarian fusome organization	GO_0030723	0	1	0	0	0
-ovarian follicle cell-cell adhesion	GO_0007299	0	1	0	0	0
-ovarian follicle cell stalk formation	GO_0030713	0	1	0	0	0
-ovarian follicle cell migration	GO_0007297	0	1	0	0	0
-ovarian follicle cell development	GO_0030707	0	1	0	0	0
-ovarian cumulus expansion	GO_0001550	0	1	0	0	0
-outward migration of deep nuclear neurons	GO_0021947	0	1	0	0	0
-osteoclast maturation	GO_0036179	0	1	0	0	0
-osteoclast fusion	GO_0072675	0	1	0	0	0
 osteoclast differentiation	GO_0030316	0	1	0	0	0
-osteoclast development	GO_0036035	0	1	0	0	0
-osteoblast fate commitment	GO_0002051	0	1	0	0	0
 osteoblast differentiation	GO_0001649	0	1	0	0	0
-osteoblast development	GO_0002076	0	1	0	0	0
-organ induction	GO_0001759	0	1	0	0	0
 oospore formation	GO_0075243	0	1	0	0	0
-oogonium stage	GO_0048158	0	1	0	0	0
-oogenesis stage	GO_0022605	0	1	0	0	0
-oogenesis	GO_0048477	0	1	0	0	0
-oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	0	1	0	0	0
-oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	0	1	0	0	0
-oocyte morphogenesis	GO_0048601	0	1	0	0	0
-oocyte microtubule cytoskeleton polarization	GO_0008103	0	1	0	0	0
-oocyte microtubule cytoskeleton organization	GO_0016325	0	1	0	0	0
-oocyte maturation	GO_0001556	0	1	0	0	0
-oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	0	1	0	0	0
-oocyte growth in germarium-derived egg chamber	GO_0030715	0	1	0	0	0
-oocyte growth	GO_0001555	0	1	0	0	0
-oocyte fate determination	GO_0030716	0	1	0	0	0
-oocyte fate commitment	GO_0048600	0	1	0	0	0
-oocyte dorsal/ventral axis specification	GO_0007310	0	1	0	0	0
 oocyte differentiation	GO_0009994	0	1	0	0	0
-oocyte development	GO_0048599	0	1	0	0	0
-oocyte construction	GO_0007308	0	1	0	0	0
-oocyte axis specification	GO_0007309	0	1	0	0	0
-oocyte anterior/posterior axis specification	GO_0007314	0	1	0	0	0
-oocyte animal/vegetal axis specification	GO_0060832	0	1	0	0	0
-oligodendrocyte progenitor proliferation	GO_0070444	0	1	0	0	0
 oligodendrocyte differentiation	GO_0048709	0	1	0	0	0
-oligodendrocyte development	GO_0014003	0	1	0	0	0
-oligodendrocyte cell fate specification	GO_0021778	0	1	0	0	0
 oligodendrocyte cell fate commitment	GO_0021779	0	1	0	0	0
-olfactory bulb tufted cell development	GO_0061449	0	1	0	0	0
-olfactory bulb interneuron fate commitment	GO_0021890	0	1	0	0	0
 olfactory bulb interneuron differentiation	GO_0021889	0	1	0	0	0
-olfactory bulb interneuron development	GO_0021891	0	1	0	0	0
-olfactory bulb axon guidance	GO_0071678	0	1	0	0	0
 oenocyte differentiation	GO_0001742	0	1	0	0	0
-oenocyte development	GO_0007438	0	1	0	0	0
 odontoblast differentiation	GO_0071895	0	1	0	0	0
-ocellus photoreceptor cell fate commitment	GO_0042707	0	1	0	0	0
 ocellus photoreceptor cell differentiation	GO_0042705	0	1	0	0	0
-ocellus photoreceptor cell development	GO_0042463	0	1	0	0	0
-nurse cell nucleus anchoring	GO_0007302	0	1	0	0	0
-nurse cell apoptotic process	GO_0045476	0	1	0	0	0
-nucleate erythrocyte maturation	GO_0043362	0	1	0	0	0
 nucleate erythrocyte differentiation	GO_0043363	0	1	0	0	0
-nucleate erythrocyte development	GO_0048823	0	1	0	0	0
-notum cell fate specification	GO_0035310	0	1	0	0	0
-notochord cell vacuolation	GO_0060036	0	1	0	0	0
 notochord cell differentiation	GO_0060034	0	1	0	0	0
-notochord cell development	GO_0060035	0	1	0	0	0
-noradrenergic neuron fate commitment involved in brainstem development	GO_0003362	0	1	0	0	0
-noradrenergic neuron fate commitment	GO_0003359	0	1	0	0	0
 noradrenergic neuron differentiation involved in brainstem development	GO_0003361	0	1	0	0	0
 noradrenergic neuron differentiation	GO_0003357	0	1	0	0	0
-noradrenergic neuron development	GO_0003358	0	1	0	0	0
-non-sensory hair organization	GO_0035316	0	1	0	0	0
 neutrophil differentiation	GO_0030223	0	1	0	0	0
-neuronal stem cell maintenance	GO_0097150	0	1	0	0	0
-neuronal ion channel clustering	GO_0045161	0	1	0	0	0
-neuron remodeling	GO_0016322	0	1	0	0	0
-neuron recognition	GO_0008038	0	1	0	0	0
-neuron projection regeneration	GO_0031102	0	1	0	0	0
-neuron projection morphogenesis	GO_0048812	0	1	0	0	0
-neuron projection guidance	GO_0097485	0	1	0	0	0
-neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	0	0	0
-neuron projection extension	GO_1990138	0	1	0	0	0
-neuron projection development	GO_0031175	0	1	0	0	0
-neuron migration involved in retrograde extension	GO_0003393	0	1	0	0	0
-neuron migration involved in dendrite retrograde extension	GO_0003395	0	1	0	0	0
-neuron migration involved in amphid sensory organ dendrite retrograde extension	GO_0003397	0	1	0	0	0
-neuron migration	GO_0001764	0	1	0	0	0
-neuron maturation	GO_0042551	0	1	0	0	0
-neuron fate specification	GO_0048665	0	1	0	0	0
-neuron fate determination	GO_0048664	0	1	0	0	0
-neuron fate commitment	GO_0048663	0	1	0	0	0
 neuron differentiation involved in salivary gland development	GO_0060705	0	1	0	0	0
 neuron differentiation involved in amphid sensory organ development	GO_0003387	0	1	0	0	0
 neuron differentiation	GO_0030182	0	1	0	0	0
-neuron development involved in amphid sensory organ development	GO_0003388	0	1	0	0	0
-neuron development	GO_0048666	0	1	0	0	0
-neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	0	0	0
 neuromast support cell differentiation	GO_0048889	0	1	0	0	0
 neuromast mantle cell differentiation	GO_0048888	0	1	0	0	0
-neuromast hair cell morphogenesis	GO_0035678	0	1	0	0	0
 neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	0	0	0
 neuromast hair cell differentiation	GO_0048886	0	1	0	0	0
-neuromast hair cell development	GO_0035675	0	1	0	0	0
 neurogenesis	GO_0022008	0	1	0	0	0
 neuroepithelial cell differentiation	GO_0060563	0	1	0	0	0
 neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	0	0	0
 neuroendocrine cell differentiation	GO_0061101	0	1	0	0	0
-neuroblast proliferation	GO_0007405	0	1	0	0	0
-neuroblast fate specification	GO_0014018	0	1	0	0	0
-neuroblast fate determination	GO_0007400	0	1	0	0	0
-neuroblast fate commitment	GO_0014017	0	1	0	0	0
-neuroblast division in subventricular zone	GO_0021849	0	1	0	0	0
-neuroblast division in subpallium	GO_0021848	0	1	0	0	0
-neuroblast division in pallium	GO_0022017	0	1	0	0	0
-neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	0	0	0
-neuroblast division	GO_0055057	0	1	0	0	0
 neuroblast differentiation	GO_0014016	0	1	0	0	0
-neuroblast development	GO_0014019	0	1	0	0	0
-neuroblast activation	GO_0007407	0	1	0	0	0
-neural crest-derived cardiac glial cell fate commitment	GO_0060955	0	1	0	0	0
 neural crest-derived cardiac glial cell differentiation	GO_0060951	0	1	0	0	0
-neural crest-derived cardiac glial cell development	GO_0060954	0	1	0	0	0
-neural crest-derived cardiac fibroblast cell fate commitment	GO_0060944	0	1	0	0	0
 neural crest-derived cardiac fibroblast cell differentiation	GO_0060942	0	1	0	0	0
-neural crest-derived cardiac fibroblast cell development	GO_0060943	0	1	0	0	0
-neural crest formation	GO_0014029	0	1	0	0	0
-neural crest cell migration involved in sympathetic nervous system development	GO_1903045	0	1	0	0	0
-neural crest cell migration involved in heart formation	GO_0003147	0	1	0	0	0
-neural crest cell migration involved in autonomic nervous system development	GO_1901166	0	1	0	0	0
-neural crest cell migration	GO_0001755	0	1	0	0	0
-neural crest cell fate specification	GO_0014036	0	1	0	0	0
-neural crest cell fate determination	GO_0014035	0	1	0	0	0
-neural crest cell fate commitment	GO_0014034	0	1	0	0	0
 neural crest cell differentiation involved in thymus development	GO_1902637	0	1	0	0	0
 neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	0	0	0
 neural crest cell differentiation	GO_0014033	0	1	0	0	0
-neural crest cell development	GO_0014032	0	1	0	0	0
 nephron tubule epithelial cell differentiation	GO_0072160	0	1	0	0	0
 nephrocyte differentiation	GO_0061319	0	1	0	0	0
-negative thymic T cell selection	GO_0045060	0	1	0	0	0
-negative regulation of zygospore formation	GO_0075300	0	1	0	0	0
-negative regulation of zoospore formation	GO_0075242	0	1	0	0	0
-negative regulation of xanthophore differentiation	GO_0050944	0	1	0	0	0
-negative regulation of venous endothelial cell fate commitment	GO_2000788	0	1	0	0	0
-negative regulation of vasculogenesis	GO_2001213	0	1	0	0	0
-negative regulation of ureter smooth muscle cell differentiation	GO_2000062	0	1	0	0	0
-negative regulation of uredospore formation	GO_0075254	0	1	0	0	0
-negative regulation of type B pancreatic cell development	GO_2000077	0	1	0	0	0
-negative regulation of trophoblast cell differentiation by transforming growth factor beta signaling pathway	GO_0060801	0	1	0	0	0
-negative regulation of trophoblast cell differentiation by transcription regulation from RNA polymerase II promoter	GO_0060805	0	1	0	0	0
-negative regulation of trichome patterning	GO_1900033	0	1	0	0	0
-negative regulation of trichoblast fate specification	GO_0010062	0	1	0	0	0
-negative regulation of transdifferentiation	GO_1903619	0	1	0	0	0
-negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	GO_2000820	0	1	0	0	0
-negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	0	0	0
-negative regulation of terminal cell fate specification, open tracheal system	GO_0035155	0	1	0	0	0
-negative regulation of tendon cell differentiation	GO_2001050	0	1	0	0	0
-negative regulation of teliospore formation	GO_0075258	0	1	0	0	0
-negative regulation of synergid differentiation	GO_0045698	0	1	0	0	0
-negative regulation of substrate adhesion-dependent cell spreading	GO_1900025	0	1	0	0	0
-negative regulation of striated muscle cell differentiation	GO_0051154	0	1	0	0	0
-negative regulation of stomach neuroendocrine cell differentiation	GO_0061106	0	1	0	0	0
-negative regulation of stem cell maintenance	GO_1902455	0	1	0	0	0
-negative regulation of stem cell differentiation	GO_2000737	0	1	0	0	0
-negative regulation of sprouting of injured axon	GO_0048688	0	1	0	0	0
-negative regulation of sporulation resulting in formation of a cellular spore	GO_0042174	0	1	0	0	0
-negative regulation of sporangiospore formation	GO_0075288	0	1	0	0	0
-negative regulation of spinal cord association neuron differentiation	GO_1902830	0	1	0	0	0
-negative regulation of spermatid nuclear differentiation	GO_0045701	0	1	0	0	0
-negative regulation of sperm capacitation	GO_1902491	0	1	0	0	0
-negative regulation of sorocarp stalk cell differentiation	GO_0031286	0	1	0	0	0
-negative regulation of sorocarp spore cell differentiation	GO_1901262	0	1	0	0	0
-negative regulation of smooth muscle cell differentiation	GO_0051151	0	1	0	0	0
-negative regulation of skeletal muscle fiber differentiation	GO_1902810	0	1	0	0	0
-negative regulation of skeletal muscle fiber development	GO_0048744	0	1	0	0	0
-negative regulation of skeletal muscle cell differentiation	GO_2001015	0	1	0	0	0
-negative regulation of short-term neuronal synaptic plasticity	GO_0048174	0	1	0	0	0
-negative regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043942	0	1	0	0	0
-negative regulation of sevenless signaling pathway	GO_0045873	0	1	0	0	0
-negative regulation of satellite cell differentiation	GO_1902725	0	1	0	0	0
-negative regulation of sarcomere organization	GO_0060299	0	1	0	0	0
-negative regulation of root hair elongation	GO_1902891	0	1	0	0	0
-negative regulation of rhodopsin gene expression	GO_0045871	0	1	0	0	0
-negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	0	0	0
-negative regulation of retinal cone cell fate specification	GO_0009998	0	1	0	0	0
-negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	0	0	0
-negative regulation of retinal cell programmed cell death	GO_0046671	0	1	0	0	0
-negative regulation of respiratory burst involved in inflammatory response	GO_0060266	0	1	0	0	0
-negative regulation of regulatory T cell differentiation	GO_0045590	0	1	0	0	0
-negative regulation of pro-T cell differentiation	GO_2000175	0	1	0	0	0
-negative regulation of pro-B cell differentiation	GO_2000974	0	1	0	0	0
-negative regulation of positive thymic T cell selection	GO_1902233	0	1	0	0	0
-negative regulation of pole plasm oskar mRNA localization	GO_0045855	0	1	0	0	0
-negative regulation of polarized epithelial cell differentiation	GO_0030861	0	1	0	0	0
-negative regulation of plasmatocyte differentiation	GO_0045614	0	1	0	0	0
-negative regulation of plasma cell differentiation	GO_1900099	0	1	0	0	0
-negative regulation of pigment cell differentiation	GO_0050941	0	1	0	0	0
-negative regulation of photoreceptor cell differentiation	GO_0046533	0	1	0	0	0
-negative regulation of phialide development	GO_0070806	0	1	0	0	0
-negative regulation of paraxial mesodermal cell fate specification	GO_0048351	0	1	0	0	0
-negative regulation of paraxial mesodermal cell fate determination	GO_0048347	0	1	0	0	0
-negative regulation of pancreatic A cell differentiation	GO_2000227	0	1	0	0	0
-negative regulation of osteoclast differentiation	GO_0045671	0	1	0	0	0
-negative regulation of osteoclast development	GO_2001205	0	1	0	0	0
-negative regulation of osteoblast differentiation	GO_0045668	0	1	0	0	0
-negative regulation of oospore formation	GO_0075246	0	1	0	0	0
-negative regulation of oocyte maturation	GO_1900194	0	1	0	0	0
-negative regulation of oocyte development	GO_0060283	0	1	0	0	0
-negative regulation of oligodendrocyte progenitor proliferation	GO_0070446	0	1	0	0	0
-negative regulation of oligodendrocyte differentiation	GO_0048715	0	1	0	0	0
-negative regulation of odontoblast differentiation	GO_1901330	0	1	0	0	0
-negative regulation of nurse cell apoptotic process	GO_0045849	0	1	0	0	0
-negative regulation of neutrophil differentiation	GO_0045659	0	1	0	0	0
-negative regulation of neuron projection regeneration	GO_0070571	0	1	0	0	0
-negative regulation of neuron projection development	GO_0010977	0	1	0	0	0
-negative regulation of neuron migration	GO_2001223	0	1	0	0	0
-negative regulation of neuron maturation	GO_0014043	0	1	0	0	0
-negative regulation of neuron differentiation	GO_0045665	0	1	0	0	0
-negative regulation of neurogenesis	GO_0050768	0	1	0	0	0
-negative regulation of neuroblast proliferation	GO_0007406	0	1	0	0	0
-negative regulation of neural crest formation	GO_0090301	0	1	0	0	0
-negative regulation of nephron tubule epithelial cell differentiation	GO_0072183	0	1	0	0	0
-negative regulation of natural killer cell differentiation involved in immune response	GO_0032827	0	1	0	0	0
-negative regulation of natural killer cell differentiation	GO_0032824	0	1	0	0	0
-negative regulation of myotube differentiation	GO_0010832	0	1	0	0	0
-negative regulation of myoblast fusion	GO_1901740	0	1	0	0	0
-negative regulation of myoblast differentiation	GO_0045662	0	1	0	0	0
-negative regulation of myeloid leukocyte differentiation	GO_0002762	0	1	0	0	0
-negative regulation of myeloid cell differentiation	GO_0045638	0	1	0	0	0
-negative regulation of muscle cell differentiation	GO_0051148	0	1	0	0	0
-negative regulation of monocyte differentiation	GO_0045656	0	1	0	0	0
-negative regulation of microglia differentiation	GO_0014007	0	1	0	0	0
-negative regulation of metula development	GO_0070803	0	1	0	0	0
-negative regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072308	0	1	0	0	0
-negative regulation of metanephric DCT cell differentiation	GO_2000593	0	1	0	0	0
-negative regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000094	0	1	0	0	0
-negative regulation of mesodermal cell fate specification	GO_0042662	0	1	0	0	0
-negative regulation of mesodermal cell fate determination	GO_0048335	0	1	0	0	0
-negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	0	1	0	0	0
-negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	0	1	0	0	0
-negative regulation of mesenchymal stem cell differentiation	GO_2000740	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	0	1	0	0	0
-negative regulation of memory T cell differentiation	GO_0043381	0	1	0	0	0
-negative regulation of melanocyte differentiation	GO_0045635	0	1	0	0	0
-negative regulation of megakaryocyte differentiation	GO_0045653	0	1	0	0	0
-negative regulation of mechanoreceptor differentiation	GO_0045632	0	1	0	0	0
-negative regulation of mating-type specific transcription, DNA-templated	GO_0045894	0	1	0	0	0
-negative regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001198	0	1	0	0	0
-negative regulation of mating type switching by negative regulation of transcription from RNA polymerase II promoter	GO_1900474	0	1	0	0	0
-negative regulation of mating type switching	GO_0031495	0	1	0	0	0
-negative regulation of mast cell differentiation	GO_0060377	0	1	0	0	0
-negative regulation of macrophage differentiation	GO_0045650	0	1	0	0	0
-negative regulation of macrophage derived foam cell differentiation	GO_0010745	0	1	0	0	0
-negative regulation of lymphocyte differentiation	GO_0045620	0	1	0	0	0
-negative regulation of lung goblet cell differentiation	GO_1901250	0	1	0	0	0
-negative regulation of lung ciliated cell differentiation	GO_1901247	0	1	0	0	0
-negative regulation of long-term neuronal synaptic plasticity	GO_0048171	0	1	0	0	0
-negative regulation of leukocyte differentiation	GO_1902106	0	1	0	0	0
-negative regulation of leucophore differentiation	GO_0048776	0	1	0	0	0
-negative regulation of lens fiber cell differentiation	GO_1902747	0	1	0	0	0
-negative regulation of lateral motor column neuron migration	GO_1902077	0	1	0	0	0
-negative regulation of lateral mesodermal cell fate specification	GO_0048380	0	1	0	0	0
-negative regulation of lateral mesodermal cell fate determination	GO_0048375	0	1	0	0	0
-negative regulation of late stripe melanocyte differentiation	GO_0050949	0	1	0	0	0
-negative regulation of lamellocyte differentiation	GO_0035204	0	1	0	0	0
-negative regulation of kidney smooth muscle cell differentiation	GO_2000357	0	1	0	0	0
-negative regulation of keratinocyte differentiation	GO_0045617	0	1	0	0	0
-negative regulation of iridophore differentiation	GO_0050943	0	1	0	0	0
-negative regulation of intermediate mesodermal cell fate specification	GO_0048401	0	1	0	0	0
-negative regulation of intermediate mesodermal cell fate determination	GO_0048396	0	1	0	0	0
-negative regulation of inner ear receptor cell differentiation	GO_2000981	0	1	0	0	0
-negative regulation of immature T cell proliferation in thymus	GO_0033088	0	1	0	0	0
-negative regulation of hepatocyte differentiation	GO_0070367	0	1	0	0	0
-negative regulation of hemocyte differentiation	GO_0045611	0	1	0	0	0
-negative regulation of hematopoietic stem cell differentiation	GO_1902037	0	1	0	0	0
-negative regulation of hematopoietic progenitor cell differentiation	GO_1901533	0	1	0	0	0
-negative regulation of heart induction by canonical Wnt signaling pathway	GO_0003136	0	1	0	0	0
-negative regulation of heart induction	GO_1901320	0	1	0	0	0
-negative regulation of granulocyte differentiation	GO_0030853	0	1	0	0	0
-negative regulation of gliogenesis	GO_0014014	0	1	0	0	0
-negative regulation of glial cell proliferation	GO_0060253	0	1	0	0	0
-negative regulation of glial cell differentiation	GO_0045686	0	1	0	0	0
-negative regulation of gamma-delta T cell differentiation	GO_0045587	0	1	0	0	0
-negative regulation of fusion cell fate specification	GO_0035157	0	1	0	0	0
-negative regulation of forebrain neuron differentiation	GO_2000978	0	1	0	0	0
-negative regulation of fat cell differentiation	GO_0045599	0	1	0	0	0
-negative regulation of eye photoreceptor cell development	GO_0042480	0	1	0	0	0
-negative regulation of extrathymic T cell differentiation	GO_0033086	0	1	0	0	0
-negative regulation of establishment or maintenance of neuroblast polarity	GO_2000248	0	1	0	0	0
-negative regulation of establishment of endothelial barrier	GO_1903141	0	1	0	0	0
-negative regulation of establishment of blood-brain barrier	GO_0090212	0	1	0	0	0
-negative regulation of erythrophore differentiation	GO_0048779	0	1	0	0	0
-negative regulation of erythrocyte differentiation	GO_0045647	0	1	0	0	0
-negative regulation of epithelial to mesenchymal transition	GO_0010719	0	1	0	0	0
-negative regulation of epithelial cell differentiation involved in kidney development	GO_2000697	0	1	0	0	0
-negative regulation of epithelial cell differentiation	GO_0030857	0	1	0	0	0
-negative regulation of epidermal cell differentiation	GO_0045605	0	1	0	0	0
-negative regulation of eosinophil differentiation	GO_0045644	0	1	0	0	0
-negative regulation of endothelial cell differentiation	GO_0045602	0	1	0	0	0
-negative regulation of endothelial cell development	GO_1901551	0	1	0	0	0
-negative regulation of endodermal cell fate specification	GO_0042664	0	1	0	0	0
-negative regulation of endodermal cell differentiation	GO_1903225	0	1	0	0	0
-negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	0	0	0
-negative regulation of embryo sac egg cell differentiation	GO_0045695	0	1	0	0	0
-negative regulation of embryo sac central cell differentiation	GO_0045692	0	1	0	0	0
-negative regulation of ectodermal cell fate specification	GO_0042666	0	1	0	0	0
-negative regulation of early stripe melanocyte differentiation	GO_0050947	0	1	0	0	0
-negative regulation of dendritic spine morphogenesis	GO_0061002	0	1	0	0	0
-negative regulation of dendritic spine development	GO_0061000	0	1	0	0	0
-negative regulation of dendritic cell differentiation	GO_2001199	0	1	0	0	0
-negative regulation of dendrite morphogenesis	GO_0050774	0	1	0	0	0
-negative regulation of dendrite development	GO_2000171	0	1	0	0	0
-negative regulation of cytotoxic T cell differentiation	GO_0045584	0	1	0	0	0
-negative regulation of cyanophore differentiation	GO_0048782	0	1	0	0	0
-negative regulation of cumulus cell differentiation	GO_0045593	0	1	0	0	0
-negative regulation of crystal cell differentiation	GO_0042690	0	1	0	0	0
-negative regulation of compound eye retinal cell programmed cell death	GO_0046673	0	1	0	0	0
-negative regulation of compound eye photoreceptor development	GO_0045316	0	1	0	0	0
-negative regulation of compound eye cone cell fate specification	GO_0042683	0	1	0	0	0
-negative regulation of collateral sprouting of intact axon in response to injury	GO_0048685	0	1	0	0	0
-negative regulation of collateral sprouting of injured axon	GO_0048695	0	1	0	0	0
-negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0	0
-negative regulation of collateral sprouting	GO_0048671	0	1	0	0	0
-negative regulation of chondrocyte hypertrophy	GO_1903042	0	1	0	0	0
-negative regulation of chondrocyte differentiation	GO_0032331	0	1	0	0	0
-negative regulation of chondrocyte development	GO_0061182	0	1	0	0	0
-negative regulation of central B cell deletion	GO_0002899	0	1	0	0	0
-negative regulation of central B cell anergy	GO_0002915	0	1	0	0	0
-negative regulation of cell morphogenesis involved in differentiation	GO_0010771	0	1	0	0	0
-negative regulation of cell maturation	GO_1903430	0	1	0	0	0
-negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	0	1	0	0	0
-negative regulation of cell fate specification	GO_0009996	0	1	0	0	0
-negative regulation of cell fate commitment	GO_0010454	0	1	0	0	0
-negative regulation of cell differentiation involved in embryonic placenta development	GO_0060806	0	1	0	0	0
-negative regulation of cell differentiation	GO_0045596	0	1	0	0	0
-negative regulation of cell development	GO_0010721	0	1	0	0	0
-negative regulation of cardioblast differentiation	GO_0051892	0	1	0	0	0
-negative regulation of cardioblast cell fate specification	GO_0009997	0	1	0	0	0
-negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	0	1	0	0	0
-negative regulation of cardiac muscle fiber development	GO_0055019	0	1	0	0	0
-negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0	0
-negative regulation of cardiac muscle cell differentiation	GO_2000726	0	1	0	0	0
-negative regulation of cardiac cell fate specification	GO_2000044	0	1	0	0	0
-negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072336	0	1	0	0	0
-negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901296	0	1	0	0	0
-negative regulation of brown fat cell differentiation	GO_1903444	0	1	0	0	0
-negative regulation of border follicle cell delamination	GO_0030712	0	1	0	0	0
-negative regulation of bicoid mRNA localization	GO_0045853	0	1	0	0	0
-negative regulation of basophil differentiation	GO_0045641	0	1	0	0	0
-negative regulation of basidiospore formation	GO_0075304	0	1	0	0	0
-negative regulation of axonogenesis	GO_0050771	0	1	0	0	0
-negative regulation of axon regeneration	GO_0048681	0	1	0	0	0
-negative regulation of axon guidance	GO_1902668	0	1	0	0	0
-negative regulation of axon extension involved in regeneration	GO_0048692	0	1	0	0	0
-negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0	0
-negative regulation of axon extension	GO_0030517	0	1	0	0	0
-negative regulation of axial mesodermal cell fate specification	GO_0048329	0	1	0	0	0
-negative regulation of axial mesodermal cell fate determination	GO_0048325	0	1	0	0	0
-negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	0	0	0
-negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	0	0	0
-negative regulation of atrichoblast fate specification	GO_0010060	0	1	0	0	0
-negative regulation of astrocyte differentiation	GO_0048712	0	1	0	0	0
-negative regulation of asexual sporulation resulting in formation of a cellular spore	GO_0043944	0	1	0	0	0
-negative regulation of ascospore formation	GO_0075297	0	1	0	0	0
-negative regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902257	0	1	0	0	0
-negative regulation of apoptotic process involved in morphogenesis	GO_1902338	0	1	0	0	0
-negative regulation of aplanospore formation	GO_0075292	0	1	0	0	0
-negative regulation of antipodal cell differentiation	GO_0045689	0	1	0	0	0
-negative regulation of anterior neural cell fate commitment of the neural plate by fibroblast growth factor receptor signaling pathway	GO_0022003	0	1	0	0	0
-negative regulation of anterior neural cell fate commitment of the neural plate by Wnt signaling pathway	GO_0022002	0	1	0	0	0
-negative regulation of anterior neural cell fate commitment of the neural plate	GO_0022001	0	1	0	0	0
-negative regulation of amniotic stem cell differentiation	GO_2000798	0	1	0	0	0
-negative regulation of amacrine cell differentiation	GO_1902870	0	1	0	0	0
-negative regulation of alpha-beta T cell differentiation	GO_0046639	0	1	0	0	0
-negative regulation of aeciospore formation	GO_0075250	0	1	0	0	0
-negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0	0
-negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0	0
-negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0	0
-negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0	0
-negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0	0
-negative regulation of T cell differentiation in thymus	GO_0033085	0	1	0	0	0
-negative regulation of T cell differentiation	GO_0045581	0	1	0	0	0
-negative regulation of Schwann cell proliferation	GO_0010626	0	1	0	0	0
-negative regulation of Schwann cell migration	GO_1900148	0	1	0	0	0
-negative regulation of Schwann cell differentiation	GO_0014039	0	1	0	0	0
-negative regulation of R8 cell differentiation	GO_0045680	0	1	0	0	0
-negative regulation of R7 cell differentiation	GO_0045677	0	1	0	0	0
-negative regulation of NK T cell differentiation	GO_0051137	0	1	0	0	0
-negative regulation of Hulle cell development	GO_0070809	0	1	0	0	0
-negative regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043377	0	1	0	0	0
-negative regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043371	0	1	0	0	0
-negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032833	0	1	0	0	0
-negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032830	0	1	0	0	0
-negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	0	0	0
-negative regulation of B-1 B cell differentiation	GO_0001925	0	1	0	0	0
-negative regulation of B cell differentiation	GO_0045578	0	1	0	0	0
-negative extrathymic T cell selection	GO_0045068	0	1	0	0	0
-negative T cell selection	GO_0043383	0	1	0	0	0
 natural killer cell progenitor differentiation	GO_0002321	0	1	0	0	0
 natural killer cell differentiation involved in immune response	GO_0002325	0	1	0	0	0
 natural killer cell differentiation	GO_0001779	0	1	0	0	0
@@ -1286,125 +171,45 @@ myxospore formation	GO_0034303	0	1	0	0	0
 mystery cell differentiation	GO_0008583	0	1	0	0	0
 myotube differentiation involved in skeletal muscle regeneration	GO_0014908	0	1	0	0	0
 myotube differentiation	GO_0014902	0	1	0	0	0
-myotube cell development involved in skeletal muscle regeneration	GO_0014906	0	1	0	0	0
-myotube cell development	GO_0014904	0	1	0	0	0
 myofibroblast differentiation	GO_0036446	0	1	0	0	0
-myofibril assembly	GO_0030239	0	1	0	0	0
-myoblast maturation involved in muscle regeneration	GO_0014914	0	1	0	0	0
-myoblast maturation	GO_0048628	0	1	0	0	0
-myoblast fusion involved in skeletal muscle regeneration	GO_0014905	0	1	0	0	0
-myoblast fusion	GO_0007520	0	1	0	0	0
-myoblast fate specification involved in skeletal muscle regeneration	GO_0014838	0	1	0	0	0
-myoblast fate specification	GO_0048626	0	1	0	0	0
-myoblast fate determination involved in skeletal muscle regeneration	GO_0014837	0	1	0	0	0
-myoblast fate determination	GO_0007518	0	1	0	0	0
-myoblast fate commitment involved in skeletal muscle regeneration	GO_0014836	0	1	0	0	0
-myoblast fate commitment in trunk	GO_0014715	0	1	0	0	0
-myoblast fate commitment in head	GO_0014714	0	1	0	0	0
-myoblast fate commitment	GO_0048625	0	1	0	0	0
 myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	0	1	0	0	0
 myoblast differentiation	GO_0045445	0	1	0	0	0
-myoblast development	GO_0048627	0	1	0	0	0
 myeloid progenitor cell differentiation	GO_0002318	0	1	0	0	0
 myeloid leukocyte differentiation	GO_0002573	0	1	0	0	0
 myeloid dendritic cell differentiation involved in immune response	GO_0002284	0	1	0	0	0
 myeloid dendritic cell differentiation	GO_0043011	0	1	0	0	0
 myeloid cell differentiation	GO_0030099	0	1	0	0	0
-myeloid cell development	GO_0061515	0	1	0	0	0
-myelination of posterior lateral line nerve axons	GO_0048932	0	1	0	0	0
-myelination of lateral line nerve axons	GO_0048897	0	1	0	0	0
-myelination of anterior lateral line nerve axons	GO_0048914	0	1	0	0	0
-myelination in peripheral nervous system	GO_0022011	0	1	0	0	0
-muscle thin filament assembly	GO_0071689	0	1	0	0	0
-muscle fiber development	GO_0048747	0	1	0	0	0
-muscle cell fate specification	GO_0042694	0	1	0	0	0
-muscle cell fate determination	GO_0007521	0	1	0	0	0
-muscle cell fate commitment	GO_0042693	0	1	0	0	0
 muscle cell differentiation	GO_0042692	0	1	0	0	0
-muscle cell development	GO_0055001	0	1	0	0	0
 multinuclear osteoclast differentiation	GO_0072674	0	1	0	0	0
-multi-layer follicle stage	GO_0048162	0	1	0	0	0
 multi-ciliated epithelial cell differentiation	GO_1903251	0	1	0	0	0
-motor neuron migration	GO_0097475	0	1	0	0	0
-motor neuron axon guidance	GO_0008045	0	1	0	0	0
-motogenic signaling involved in postnatal olfactory bulb interneuron migration	GO_0021837	0	1	0	0	0
 mononuclear cell differentiation	GO_1903131	0	1	0	0	0
 monocyte differentiation	GO_0030224	0	1	0	0	0
 microsporocyte differentiation	GO_0010480	0	1	0	0	0
-micropyle formation	GO_0046844	0	1	0	0	0
-microglial cell proliferation	GO_0061518	0	1	0	0	0
 microglia differentiation	GO_0014004	0	1	0	0	0
-microglia development	GO_0014005	0	1	0	0	0
-metula development	GO_0070789	0	1	0	0	0
-metanephric renal vesicle induction	GO_0072094	0	1	0	0	0
 metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	0	0	0
 metanephric mesenchymal cell differentiation	GO_0072162	0	1	0	0	0
 metanephric mesangial cell differentiation	GO_0072209	0	1	0	0	0
-metanephric juxtaglomerulus cell fate commitment	GO_0072253	0	1	0	0	0
 metanephric juxtaglomerulus cell differentiation	GO_0072251	0	1	0	0	0
-metanephric juxtaglomerulus cell development	GO_0072252	0	1	0	0	0
-metanephric interstitial fibroblast fate commitment	GO_0072260	0	1	0	0	0
 metanephric interstitial fibroblast differentiation	GO_0072258	0	1	0	0	0
-metanephric interstitial fibroblast development	GO_0072259	0	1	0	0	0
-metanephric glomerular visceral epithelial cell fate commitment	GO_0072250	0	1	0	0	0
 metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	0	0	0
-metanephric glomerular visceral epithelial cell development	GO_0072249	0	1	0	0	0
-metanephric glomerular parietal epithelial cell fate commitment	GO_0072247	0	1	0	0	0
 metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	0	0	0
-metanephric glomerular parietal epithelial cell development	GO_0072246	0	1	0	0	0
-metanephric glomerular mesangial cell fate commitment	GO_0072256	0	1	0	0	0
 metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	0	0	0
-metanephric glomerular mesangial cell development	GO_0072255	0	1	0	0	0
-metanephric glomerular epithelial cell fate commitment	GO_0072315	0	1	0	0	0
 metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	0	0	0
-metanephric glomerular epithelial cell development	GO_0072313	0	1	0	0	0
-metanephric DCT cell fate commitment	GO_0072242	0	1	0	0	0
 metanephric DCT cell differentiation	GO_0072240	0	1	0	0	0
-metanephric DCT cell development	GO_0072241	0	1	0	0	0
-mesonephric renal vesicle induction	GO_0061294	0	1	0	0	0
 mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	0	0	0
 mesonephric mesenchymal cell differentiation	GO_0061223	0	1	0	0	0
 mesonephric mesangial cell differentiation	GO_0061260	0	1	0	0	0
-mesonephric juxtaglomerulus cell fate commitment	GO_0061230	0	1	0	0	0
 mesonephric juxtaglomerulus cell differentiation	GO_0061207	0	1	0	0	0
-mesonephric juxtaglomerulus cell development	GO_0061229	0	1	0	0	0
-mesonephric interstitial fibroblast fate commitment	GO_0061268	0	1	0	0	0
 mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	0	0	0
-mesonephric interstitial fibroblast development	GO_0061267	0	1	0	0	0
-mesonephric glomerular visceral epithelial cell fate commitment	GO_0061258	0	1	0	0	0
 mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	0	0	0
-mesonephric glomerular visceral epithelial cell development	GO_0061257	0	1	0	0	0
-mesonephric glomerular parietal epithelial cell fate commitment	GO_0061255	0	1	0	0	0
 mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	0	0	0
-mesonephric glomerular parietal epithelial cell development	GO_0061254	0	1	0	0	0
-mesonephric glomerular mesangial cell fate commitment	GO_0061264	0	1	0	0	0
 mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	0	0	0
-mesonephric glomerular mesangial cell development	GO_0061263	0	1	0	0	0
-mesonephric glomerular epithelial cell fate commitment	GO_0061252	0	1	0	0	0
 mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	0	0	0
-mesonephric glomerular epithelial cell development	GO_0061251	0	1	0	0	0
-mesodermal-endodermal cell signaling involved in heart induction	GO_0003132	0	1	0	0	0
-mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	0	0	0
-mesodermal cell fate specification	GO_0007501	0	1	0	0	0
-mesodermal cell fate determination	GO_0007500	0	1	0	0	0
-mesodermal cell fate commitment	GO_0001710	0	1	0	0	0
 mesodermal cell differentiation	GO_0048333	0	1	0	0	0
-mesenchymal-epithelial cell signaling involved in prostate induction	GO_0060521	0	1	0	0	0
-mesenchymal-endodermal cell signaling involved in lung induction	GO_0060493	0	1	0	0	0
-mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	0	0	0
-mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	0	1	0	0	0
-mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	0	1	0	0	0
-mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	0	0	0
-mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	0	0	0
-mesenchymal to epithelial transition	GO_0060231	0	1	0	0	0
-mesenchymal stem cell maintenance involved in nephron morphogenesis	GO_0072038	0	1	0	0	0
-mesenchymal stem cell maintenance involved in metanephric nephron morphogenesis	GO_0072309	0	1	0	0	0
-mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis	GO_0061235	0	1	0	0	0
 mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	0	0	0
 mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis	GO_0072281	0	1	0	0	0
 mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	0	0	0
 mesenchymal stem cell differentiation	GO_0072497	0	1	0	0	0
-mesenchymal cell fate commitment	GO_0014030	0	1	0	0	0
 mesenchymal cell differentiation involved in salivary gland development	GO_0060692	0	1	0	0	0
 mesenchymal cell differentiation involved in renal system development	GO_2001012	0	1	0	0	0
 mesenchymal cell differentiation involved in mammary gland development	GO_0060610	0	1	0	0	0
@@ -1412,312 +217,114 @@ mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	0	0
 mesenchymal cell differentiation involved in kidney development	GO_0072161	0	1	0	0	0
 mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	0	0	0
 mesenchymal cell differentiation	GO_0048762	0	1	0	0	0
-mesenchymal cell development	GO_0014031	0	1	0	0	0
-mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	0	0	0
-mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	0	0	0
-mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	0	0	0
-mesangial cell fate commitment	GO_0072151	0	1	0	0	0
 mesangial cell differentiation	GO_0072007	0	1	0	0	0
-mesangial cell development	GO_0072143	0	1	0	0	0
 memory T cell differentiation	GO_0043379	0	1	0	0	0
 memory B cell differentiation	GO_0002319	0	1	0	0	0
 melanocyte differentiation	GO_0030318	0	1	0	0	0
-meiotic cell cycle process involved in oocyte maturation	GO_1903537	0	1	0	0	0
 megakaryocyte differentiation	GO_0030219	0	1	0	0	0
-megakaryocyte development	GO_0035855	0	1	0	0	0
-medulla reticulospinal tract morphogenesis	GO_0021976	0	1	0	0	0
 medial motor column neuron differentiation	GO_0021526	0	1	0	0	0
 mechanoreceptor differentiation involved in mechanosensory epithelium regeneration	GO_0070656	0	1	0	0	0
 mechanoreceptor differentiation	GO_0042490	0	1	0	0	0
-mature follicle stage	GO_0048166	0	1	0	0	0
 mature dendritic cell differentiation	GO_0097029	0	1	0	0	0
 mature B cell differentiation involved in immune response	GO_0002313	0	1	0	0	0
 mature B cell differentiation	GO_0002335	0	1	0	0	0
-mating type switching	GO_0007533	0	1	0	0	0
-mating type determination	GO_0007531	0	1	0	0	0
-maternal specification of dorsal/ventral axis, oocyte, soma encoded	GO_0007313	0	1	0	0	0
-maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	GO_0007311	0	1	0	0	0
-maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded	GO_0008071	0	1	0	0	0
-maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded	GO_0008070	0	1	0	0	0
 mast cell differentiation	GO_0060374	0	1	0	0	0
 marginal zone B cell differentiation	GO_0002315	0	1	0	0	0
 mammary gland epithelial cell differentiation	GO_0060644	0	1	0	0	0
-male germline stem cell symmetric division	GO_0098730	0	1	0	0	0
-male germ-line stem cell maintenance	GO_0036098	0	1	0	0	0
-male germ-line stem cell asymmetric division	GO_0048133	0	1	0	0	0
-male germ-line cyst formation	GO_0048136	0	1	0	0	0
-maintenance of vegetative meristem identity	GO_0010079	0	1	0	0	0
-maintenance of shoot apical meristem identity	GO_0010492	0	1	0	0	0
-maintenance of root meristem identity	GO_0010078	0	1	0	0	0
-maintenance of pole plasm mRNA location	GO_0046594	0	1	0	0	0
-maintenance of organ identity	GO_0048496	0	1	0	0	0
-maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification	GO_0042070	0	1	0	0	0
-maintenance of neuroblast polarity	GO_0045201	0	1	0	0	0
-maintenance of meristem identity	GO_0010074	0	1	0	0	0
-maintenance of kidney identity	GO_0072005	0	1	0	0	0
-maintenance of inflorescence meristem identity	GO_0010077	0	1	0	0	0
-maintenance of imaginal histoblast diploidy	GO_0007489	0	1	0	0	0
-maintenance of imaginal disc-derived wing hair orientation	GO_0035321	0	1	0	0	0
-maintenance of floral organ identity	GO_0048497	0	1	0	0	0
-maintenance of floral meristem identity	GO_0010076	0	1	0	0	0
-main body follicle cell migration	GO_0060270	0	1	0	0	0
 macrophage differentiation	GO_0030225	0	1	0	0	0
 macrophage derived foam cell differentiation	GO_0010742	0	1	0	0	0
 lymphoid progenitor cell differentiation	GO_0002320	0	1	0	0	0
 lymphocyte differentiation	GO_0030098	0	1	0	0	0
-lymphatic endothelial cell fate commitment	GO_0060838	0	1	0	0	0
 lymphatic endothelial cell differentiation	GO_0060836	0	1	0	0	0
 lymph gland plasmatocyte differentiation	GO_0035169	0	1	0	0	0
 lymph gland crystal cell differentiation	GO_0035170	0	1	0	0	0
 lung secretory cell differentiation	GO_0061140	0	1	0	0	0
 lung neuroendocrine cell differentiation	GO_0061100	0	1	0	0	0
-lung induction	GO_0060492	0	1	0	0	0
 lung goblet cell differentiation	GO_0060480	0	1	0	0	0
 lung epithelial cell differentiation	GO_0060487	0	1	0	0	0
 lung ciliated cell differentiation	GO_0061141	0	1	0	0	0
 lung cell differentiation	GO_0060479	0	1	0	0	0
 lung basal cell differentiation	GO_0060508	0	1	0	0	0
-limb spinous cell fate specification	GO_0060894	0	1	0	0	0
 limb spinous cell differentiation	GO_0060890	0	1	0	0	0
-limb granular cell fate specification	GO_0060893	0	1	0	0	0
 limb granular cell differentiation	GO_0060891	0	1	0	0	0
-limb basal epidermal cell fate specification	GO_0060892	0	1	0	0	0
 limb basal epidermal cell differentiation	GO_0060889	0	1	0	0	0
 leukocyte differentiation	GO_0002521	0	1	0	0	0
-leukemia inhibitory factor signaling pathway involved in forebrain neuron fate commitment	GO_0022025	0	1	0	0	0
 leucophore differentiation	GO_0048772	0	1	0	0	0
-lens induction in camera-type eye	GO_0060235	0	1	0	0	0
-lens fiber cell morphogenesis	GO_0070309	0	1	0	0	0
-lens fiber cell fate commitment	GO_0070308	0	1	0	0	0
 lens fiber cell differentiation	GO_0070306	0	1	0	0	0
-lens fiber cell development	GO_0070307	0	1	0	0	0
-leaf pavement cell development	GO_0090436	0	1	0	0	0
-leading edge cell fate determination	GO_0035028	0	1	0	0	0
-leading edge cell fate commitment	GO_0035027	0	1	0	0	0
 leading edge cell differentiation	GO_0035026	0	1	0	0	0
-lateral motor column neuron migration	GO_0097477	0	1	0	0	0
 lateral motor column neuron differentiation	GO_0021525	0	1	0	0	0
-lateral mesodermal cell fate specification	GO_0048377	0	1	0	0	0
-lateral mesodermal cell fate determination	GO_0048373	0	1	0	0	0
-lateral mesodermal cell fate commitment	GO_0048372	0	1	0	0	0
 lateral mesodermal cell differentiation	GO_0048371	0	1	0	0	0
-lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048938	0	1	0	0	0
-lateral line nerve glial cell migration	GO_0048896	0	1	0	0	0
 lateral line nerve glial cell differentiation	GO_0048895	0	1	0	0	0
-lateral line nerve glial cell development	GO_0048937	0	1	0	0	0
 lateral line ganglion neuron differentiation	GO_0048891	0	1	0	0	0
-lateral inhibition	GO_0046331	0	1	0	0	0
 late stripe melanocyte differentiation	GO_0050934	0	1	0	0	0
-larval midgut cell programmed cell death	GO_0035096	0	1	0	0	0
 larval lymph gland hemocyte differentiation	GO_0035168	0	1	0	0	0
 lamellocyte differentiation	GO_0035171	0	1	0	0	0
 kidney smooth muscle cell differentiation	GO_0072195	0	1	0	0	0
 kidney interstitial fibroblast differentiation	GO_0072071	0	1	0	0	0
 keratinocyte differentiation	GO_0030216	0	1	0	0	0
-keratinocyte development	GO_0003334	0	1	0	0	0
-keratinization	GO_0031424	0	1	0	0	0
-karyosome formation	GO_0030717	0	1	0	0	0
-juxtaglomerulus cell fate commitment	GO_0072150	0	1	0	0	0
 juxtaglomerulus cell differentiation	GO_0072052	0	1	0	0	0
-juxtaglomerulus cell development	GO_0072142	0	1	0	0	0
 iridophore differentiation	GO_0050935	0	1	0	0	0
-inward migration of deep nuclear neurons	GO_0021948	0	1	0	0	0
-intestinal epithelial cell maturation	GO_0060574	0	1	0	0	0
 intestinal epithelial cell differentiation	GO_0060575	0	1	0	0	0
-intestinal epithelial cell development	GO_0060576	0	1	0	0	0
 interstitial cell of Cajal differentiation	GO_0061453	0	1	0	0	0
-interneuron axon guidance	GO_0097376	0	1	0	0	0
 internal mammary gland bud epithelial cell differentiation	GO_0060646	0	1	0	0	0
-intermediate mesodermal cell fate specification	GO_0048398	0	1	0	0	0
-intermediate mesodermal cell fate determination	GO_0048394	0	1	0	0	0
-intermediate mesodermal cell fate commitment	GO_0048393	0	1	0	0	0
 intermediate mesodermal cell differentiation	GO_0048392	0	1	0	0	0
-inner ear receptor stereocilium organization	GO_0060122	0	1	0	0	0
-inner ear receptor cell fate commitment	GO_0060120	0	1	0	0	0
 inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	0	1	0	0	0
 inner ear receptor cell differentiation	GO_0060113	0	1	0	0	0
-inner ear receptor cell development	GO_0060119	0	1	0	0	0
-inner cell mass cellular morphogenesis	GO_0001828	0	1	0	0	0
-inner cell mass cell fate commitment	GO_0001827	0	1	0	0	0
 inner cell mass cell differentiation	GO_0001826	0	1	0	0	0
-inhibition of neuroepithelial cell differentiation	GO_0002085	0	1	0	0	0
-inductive mesenchymal-endodermal cell signaling	GO_0060494	0	1	0	0	0
-inductive mesenchymal to epithelial cell signaling	GO_0060522	0	1	0	0	0
-inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors	GO_0021916	0	1	0	0	0
-inductive cell-cell signaling	GO_0031129	0	1	0	0	0
-inactivation of recombination (HML)	GO_0007537	0	1	0	0	0
-immature T cell proliferation in thymus	GO_0033080	0	1	0	0	0
 immature B cell differentiation	GO_0002327	0	1	0	0	0
-imaginal disc-derived wing hair site selection	GO_0035320	0	1	0	0	0
-imaginal disc-derived wing hair outgrowth	GO_0035318	0	1	0	0	0
-imaginal disc-derived wing hair organization	GO_0035317	0	1	0	0	0
-imaginal disc-derived wing hair elongation	GO_0035319	0	1	0	0	0
-hypothalamus gonadotrophin-releasing hormone neuron fate commitment	GO_0021887	0	1	0	0	0
 hypothalamus gonadotrophin-releasing hormone neuron differentiation	GO_0021886	0	1	0	0	0
-hypothalamus gonadotrophin-releasing hormone neuron development	GO_0021888	0	1	0	0	0
 hypothalamus cell differentiation	GO_0021979	0	1	0	0	0
 hippocampal pyramidal neuron differentiation	GO_0097432	0	1	0	0	0
 hippocampal interneuron differentiation	GO_0097410	0	1	0	0	0
-heteroduplex formation involved in gene conversion at mating-type locus	GO_0010708	0	1	0	0	0
 heterocyst differentiation	GO_0043158	0	1	0	0	0
 hepatocyte differentiation	GO_0070365	0	1	0	0	0
 hepatoblast differentiation	GO_0061017	0	1	0	0	0
 hepatic stellate cell differentiation	GO_0061521	0	1	0	0	0
 hemocyte differentiation	GO_0042386	0	1	0	0	0
-hemocyte development	GO_0007516	0	1	0	0	0
 hematopoietic stem cell differentiation	GO_0060218	0	1	0	0	0
 hematopoietic progenitor cell differentiation	GO_0002244	0	1	0	0	0
 hemangioblast cell differentiation	GO_0060217	0	1	0	0	0
 heart valve cell differentiation	GO_0003293	0	1	0	0	0
-heart induction	GO_0003129	0	1	0	0	0
 hair cell differentiation	GO_0035315	0	1	0	0	0
 guard mother cell differentiation	GO_0010444	0	1	0	0	0
-guard cell morphogenesis	GO_0010442	0	1	0	0	0
-guard cell fate commitment	GO_0010377	0	1	0	0	0
 guard cell differentiation	GO_0010052	0	1	0	0	0
-guard cell development	GO_0010441	0	1	0	0	0
-growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	0	0	0
-growth plate cartilage chondrocyte growth	GO_0003430	0	1	0	0	0
 growth plate cartilage chondrocyte differentiation	GO_0003418	0	1	0	0	0
-growth plate cartilage chondrocyte development	GO_0003431	0	1	0	0	0
-growth of a germarium-derived egg chamber	GO_0007295	0	1	0	0	0
-granulosa cell fate commitment	GO_0060015	0	1	0	0	0
 granulosa cell differentiation	GO_0060014	0	1	0	0	0
-granulosa cell development	GO_0060016	0	1	0	0	0
 granulocyte differentiation	GO_0030851	0	1	0	0	0
-gracilis tract morphogenesis	GO_0021958	0	1	0	0	0
-gonadotrophin-releasing hormone neuronal migration to the hypothalamus	GO_0021828	0	1	0	0	0
 glycogen cell differentiation involved in embryonic placenta development	GO_0060709	0	1	0	0	0
-glucan endo-1,3-beta-D-glucosidase activity involved in ascospore release from ascus	GO_0072317	0	1	0	0	0
-glomerular visceral epithelial cell fate commitment	GO_0072149	0	1	0	0	0
 glomerular visceral epithelial cell differentiation	GO_0072112	0	1	0	0	0
-glomerular visceral epithelial cell development	GO_0072015	0	1	0	0	0
-glomerular parietal epithelial cell fate commitment	GO_0072147	0	1	0	0	0
 glomerular parietal epithelial cell differentiation	GO_0072139	0	1	0	0	0
-glomerular parietal epithelial cell development	GO_0072016	0	1	0	0	0
-glomerular mesangial cell fate commitment	GO_0072152	0	1	0	0	0
 glomerular mesangial cell differentiation	GO_0072008	0	1	0	0	0
-glomerular mesangial cell development	GO_0072144	0	1	0	0	0
-glomerular epithelial cell fate commitment	GO_0072314	0	1	0	0	0
 glomerular epithelial cell differentiation	GO_0072311	0	1	0	0	0
-glomerular epithelial cell development	GO_0072310	0	1	0	0	0
 gliogenesis	GO_0042063	0	1	0	0	0
-glial cell proliferation	GO_0014009	0	1	0	0	0
-glial cell migration in posterior lateral line nerve	GO_0048930	0	1	0	0	0
-glial cell migration in anterior lateral line nerve	GO_0048912	0	1	0	0	0
-glial cell migration	GO_0008347	0	1	0	0	0
-glial cell growth	GO_0042065	0	1	0	0	0
-glial cell fate specification	GO_0021780	0	1	0	0	0
-glial cell fate determination	GO_0007403	0	1	0	0	0
-glial cell fate commitment	GO_0021781	0	1	0	0	0
 glial cell differentiation involved in amphid sensory organ development	GO_0003398	0	1	0	0	0
 glial cell differentiation	GO_0010001	0	1	0	0	0
-glial cell development	GO_0021782	0	1	0	0	0
-glandular epithelial cell maturation	GO_0002071	0	1	0	0	0
 glandular epithelial cell differentiation	GO_0002067	0	1	0	0	0
-glandular epithelial cell development	GO_0002068	0	1	0	0	0
-germline stem cell symmetric division	GO_0098729	0	1	0	0	0
-germline stem cell asymmetric division	GO_0098728	0	1	0	0	0
 germinal center B cell differentiation	GO_0002314	0	1	0	0	0
-germarium-derived oocyte fate determination	GO_0007294	0	1	0	0	0
 germarium-derived oocyte differentiation	GO_0030706	0	1	0	0	0
-germarium-derived female germ-line cyst formation	GO_0030727	0	1	0	0	0
-germarium-derived female germ-line cyst encapsulation	GO_0030708	0	1	0	0	0
-germarium-derived egg chamber formation	GO_0007293	0	1	0	0	0
-germarium-derived cystoblast division	GO_0048142	0	1	0	0	0
-germ-line stem cell maintenance	GO_0030718	0	1	0	0	0
-germ-line stem cell division	GO_0042078	0	1	0	0	0
-germ-line cyst formation	GO_0048134	0	1	0	0	0
-germ cell development	GO_0007281	0	1	0	0	0
-genetic imprinting at mating-type locus	GO_0071515	0	1	0	0	0
 generative cell differentiation	GO_0022619	0	1	0	0	0
 generation of neurons	GO_0048699	0	1	0	0	0
-gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0	0
-gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	0	0	0
-gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0	0
-gene conversion at mating-type locus, DNA double-strand break formation	GO_0000728	0	1	0	0	0
-gene conversion at mating-type locus	GO_0007534	0	1	0	0	0
 garland nephrocyte differentiation	GO_0061321	0	1	0	0	0
-ganglion mother cell fate determination	GO_0007402	0	1	0	0	0
 gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0	0
-gamma-delta T cell lineage commitment	GO_0002365	0	1	0	0	0
 gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0	0
 gamma-delta T cell differentiation	GO_0042492	0	1	0	0	0
-fusion cell fate specification	GO_0035156	0	1	0	0	0
-fused antrum stage	GO_0048165	0	1	0	0	0
-formation of radial glial scaffolds	GO_0021943	0	1	0	0	0
-formation of growth cone in injured axon	GO_0048689	0	1	0	0	0
 forebrain radial glial cell differentiation	GO_0021861	0	1	0	0	0
-forebrain neuron fate commitment	GO_0021877	0	1	0	0	0
 forebrain neuron differentiation	GO_0021879	0	1	0	0	0
-forebrain neuron development	GO_0021884	0	1	0	0	0
-forebrain neuroblast division	GO_0021873	0	1	0	0	0
 forebrain neuroblast differentiation	GO_0021863	0	1	0	0	0
-forebrain induction by the anterior neural ridge	GO_0022000	0	1	0	0	0
 forebrain generation of neurons	GO_0021872	0	1	0	0	0
-forebrain astrocyte fate commitment	GO_0021878	0	1	0	0	0
 forebrain astrocyte differentiation	GO_0021896	0	1	0	0	0
-forebrain astrocyte development	GO_0021897	0	1	0	0	0
-follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage	GO_0003005	0	1	0	0	0
-follicular fluid formation in ovarian follicle antrum involved in fused antrum stage	GO_0003003	0	1	0	0	0
-follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage	GO_0003004	0	1	0	0	0
 follicular dendritic cell differentiation	GO_0002268	0	1	0	0	0
 follicular B cell differentiation	GO_0002316	0	1	0	0	0
 foam cell differentiation	GO_0090077	0	1	0	0	0
-fibroblast growth factor receptor signaling pathway involved in lung induction	GO_0060499	0	1	0	0	0
-fibroblast growth factor receptor signaling pathway involved in heart induction	GO_0003135	0	1	0	0	0
-fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment	GO_0021899	0	1	0	0	0
-fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	0	0	0
-female germline ring canal stabilization	GO_0008335	0	1	0	0	0
-female germline ring canal formation, actin assembly	GO_0008302	0	1	0	0	0
-female germline ring canal formation	GO_0007301	0	1	0	0	0
-female germ-line stem cell maintenance	GO_0036099	0	1	0	0	0
-female germ-line stem cell asymmetric division	GO_0048132	0	1	0	0	0
-female germ-line cyst formation	GO_0048135	0	1	0	0	0
 fat cell differentiation	GO_0045444	0	1	0	0	0
-fasciculation of sensory neuron axon	GO_0097155	0	1	0	0	0
-fasciculation of motor neuron axon	GO_0097156	0	1	0	0	0
-eye photoreceptor cell fate commitment	GO_0042706	0	1	0	0	0
 eye photoreceptor cell differentiation	GO_0001754	0	1	0	0	0
-eye photoreceptor cell development	GO_0042462	0	1	0	0	0
-eye field cell fate commitment involved in camera-type eye formation	GO_0060898	0	1	0	0	0
-extrathymic T cell selection	GO_0045062	0	1	0	0	0
 extrathymic T cell differentiation	GO_0033078	0	1	0	0	0
-extracellular polysaccharide catabolic process involved in ascospore release from ascus	GO_0072000	0	1	0	0	0
 eurydendroid cell differentiation	GO_0021755	0	1	0	0	0
-establishment or maintenance of neuroblast polarity	GO_0045196	0	1	0	0	0
-establishment of pole plasm mRNA localization	GO_0046595	0	1	0	0	0
-establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0030722	0	1	0	0	0
-establishment of neuroblast polarity	GO_0045200	0	1	0	0	0
 establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	0	0	0
-establishment of imaginal disc-derived wing hair orientation	GO_0001737	0	1	0	0	0
-establishment of glial blood-brain barrier	GO_0060857	0	1	0	0	0
 establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	0	1	0	0	0
 establishment of epithelial cell apical/basal polarity	GO_0045198	0	1	0	0	0
-establishment of endothelial intestinal barrier	GO_0090557	0	1	0	0	0
-establishment of endothelial blood-brain barrier	GO_0014045	0	1	0	0	0
-establishment of endothelial barrier	GO_0061028	0	1	0	0	0
-establishment of blood-nerve barrier	GO_0008065	0	1	0	0	0
-establishment of blood-brain barrier	GO_0060856	0	1	0	0	0
-establishment of Sertoli cell barrier	GO_0097368	0	1	0	0	0
 erythrophore differentiation	GO_0048773	0	1	0	0	0
-erythrocyte maturation	GO_0043249	0	1	0	0	0
-erythrocyte enucleation	GO_0043131	0	1	0	0	0
 erythrocyte differentiation	GO_0030218	0	1	0	0	0
-erythrocyte development	GO_0048821	0	1	0	0	0
-epithelial to mesenchymal transition involved in endocardial cushion formation	GO_0003198	0	1	0	0	0
-epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	0	1	0	0	0
-epithelial to mesenchymal transition involved in cardiac fibroblast development	GO_0060940	0	1	0	0	0
-epithelial to mesenchymal transition	GO_0001837	0	1	0	0	0
-epithelial cell type specification, open tracheal system	GO_0035153	0	1	0	0	0
-epithelial cell morphogenesis involved in placental branching	GO_0060672	0	1	0	0	0
-epithelial cell morphogenesis involved in gastrulation	GO_0003381	0	1	0	0	0
-epithelial cell morphogenesis	GO_0003382	0	1	0	0	0
-epithelial cell maturation involved in salivary gland development	GO_0060691	0	1	0	0	0
-epithelial cell maturation involved in prostate gland development	GO_0060743	0	1	0	0	0
-epithelial cell maturation	GO_0002070	0	1	0	0	0
-epithelial cell fate determination, open tracheal system	GO_0007425	0	1	0	0	0
-epithelial cell fate commitment	GO_0072148	0	1	0	0	0
 epithelial cell differentiation involved in salivary gland development	GO_0060690	0	1	0	0	0
 epithelial cell differentiation involved in prostate gland development	GO_0060742	0	1	0	0	0
 epithelial cell differentiation involved in mammary gland cord morphogenesis	GO_0060653	0	1	0	0	0
@@ -1726,529 +333,160 @@ epithelial cell differentiation involved in mammary gland alveolus development	G
 epithelial cell differentiation involved in kidney development	GO_0035850	0	1	0	0	0
 epithelial cell differentiation involved in embryonic placenta development	GO_0060671	0	1	0	0	0
 epithelial cell differentiation	GO_0030855	0	1	0	0	0
-epithelial cell development	GO_0002064	0	1	0	0	0
-epithelial cell apoptotic process involved in palatal shelf morphogenesis	GO_1990134	0	1	0	0	0
-epidermal growth factor signaling pathway involved in forebrain neuron fate commitment	GO_0022026	0	1	0	0	0
-epidermal cell fate specification	GO_0009957	0	1	0	0	0
 epidermal cell differentiation	GO_0009913	0	1	0	0	0
-epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	0	1	0	0	0
 epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	0	0	0
-epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	0	1	0	0	0
-epicardium-derived cardiac fibroblast cell fate commitment	GO_0060941	0	1	0	0	0
 epicardium-derived cardiac fibroblast cell differentiation	GO_0060938	0	1	0	0	0
-epicardium-derived cardiac fibroblast cell development	GO_0060939	0	1	0	0	0
 epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	0	0	0
-epicardial cell to mesenchymal cell transition	GO_0003347	0	1	0	0	0
-eosinophil fate specification	GO_0035857	0	1	0	0	0
-eosinophil fate determination	GO_0035858	0	1	0	0	0
-eosinophil fate commitment	GO_0035854	0	1	0	0	0
 eosinophil differentiation	GO_0030222	0	1	0	0	0
-enucleate erythrocyte maturation	GO_0043354	0	1	0	0	0
 enucleate erythrocyte differentiation	GO_0043353	0	1	0	0	0
-enucleate erythrocyte development	GO_0048822	0	1	0	0	0
 enteroendocrine cell differentiation	GO_0035883	0	1	0	0	0
 enteric smooth muscle cell differentiation	GO_0035645	0	1	0	0	0
-endothelial to hematopoietic transition	GO_0098508	0	1	0	0	0
-endothelial tip cell fate specification	GO_0097102	0	1	0	0	0
-endothelial stalk cell fate specification	GO_0097103	0	1	0	0	0
-endothelial cell morphogenesis	GO_0001886	0	1	0	0	0
-endothelial cell fate specification	GO_0060847	0	1	0	0	0
-endothelial cell fate determination	GO_0060848	0	1	0	0	0
-endothelial cell fate commitment	GO_0060839	0	1	0	0	0
 endothelial cell differentiation	GO_0045446	0	1	0	0	0
-endothelial cell development	GO_0001885	0	1	0	0	0
 endospore formation	GO_0034301	0	1	0	0	0
-endosome to pigment granule transport	GO_0043485	0	1	0	0	0
-endosome to melanosome transport	GO_0035646	0	1	0	0	0
-endodermal-mesodermal cell signaling involved in heart induction	GO_0003134	0	1	0	0	0
-endodermal cell fate specification	GO_0001714	0	1	0	0	0
-endodermal cell fate determination	GO_0007493	0	1	0	0	0
-endodermal cell fate commitment	GO_0001711	0	1	0	0	0
 endodermal cell differentiation	GO_0035987	0	1	0	0	0
 endocardial precursor cell differentiation	GO_0003255	0	1	0	0	0
-endocardial cushion to mesenchymal transition involved in heart valve formation	GO_0003199	0	1	0	0	0
-endocardial cushion to mesenchymal transition involved in heart chamber septation	GO_0003200	0	1	0	0	0
-endocardial cushion to mesenchymal transition involved in cardiac skeleton development	GO_0003202	0	1	0	0	0
-endocardial cushion to mesenchymal transition	GO_0090500	0	1	0	0	0
-endocardial cushion cell fate specification	GO_0061447	0	1	0	0	0
-endocardial cushion cell fate determination	GO_0061446	0	1	0	0	0
-endocardial cushion cell fate commitment	GO_0061445	0	1	0	0	0
 endocardial cushion cell differentiation	GO_0061443	0	1	0	0	0
-endocardial cushion cell development	GO_0061444	0	1	0	0	0
-endocardial cell fate commitment	GO_0060957	0	1	0	0	0
 endocardial cell differentiation	GO_0060956	0	1	0	0	0
-endocardial cell development	GO_0060958	0	1	0	0	0
 embryonic plasmatocyte differentiation	GO_0035164	0	1	0	0	0
-embryonic olfactory bulb interneuron precursor migration	GO_0021831	0	1	0	0	0
 embryonic hemocyte differentiation	GO_0035163	0	1	0	0	0
 embryonic crystal cell differentiation	GO_0035165	0	1	0	0	0
-embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003246	0	1	0	0	0
 embryo sac egg cell differentiation	GO_0009560	0	1	0	0	0
 embryo sac central cell differentiation	GO_0009559	0	1	0	0	0
-eggshell formation	GO_0030703	0	1	0	0	0
-eggshell chorion gene amplification	GO_0007307	0	1	0	0	0
-eggshell chorion assembly	GO_0007306	0	1	0	0	0
-egg coat formation	GO_0035803	0	1	0	0	0
-efferent axon development in posterior lateral line nerve	GO_0048929	0	1	0	0	0
-efferent axon development in anterior lateral line nerve	GO_0048911	0	1	0	0	0
-efferent axon development in a lateral line nerve	GO_0048894	0	1	0	0	0
-ectopic germ cell programmed cell death	GO_0035234	0	1	0	0	0
-ectodermal cell fate specification	GO_0001715	0	1	0	0	0
-ectodermal cell fate determination	GO_0001713	0	1	0	0	0
-ectodermal cell fate commitment	GO_0001712	0	1	0	0	0
 ectodermal cell differentiation	GO_0010668	0	1	0	0	0
-ecdysone-mediated induction of salivary gland cell autophagic cell death	GO_0035072	0	1	0	0	0
 early stripe melanocyte differentiation	GO_0050933	0	1	0	0	0
-early neuron fate commitment in forebrain	GO_0021901	0	1	0	0	0
 early neuron differentiation in forebrain	GO_0021862	0	1	0	0	0
-double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_0000736	0	1	0	0	0
-double layer follicle stage	GO_0048161	0	1	0	0	0
-dorsolateral trunk neural crest cell migration	GO_0036485	0	1	0	0	0
-dorsal/ventral axon guidance	GO_0033563	0	1	0	0	0
-dorsal/ventral axis specification, ovarian follicular epithelium	GO_0008069	0	1	0	0	0
-dorsal vessel heart proper cell fate commitment	GO_0035053	0	1	0	0	0
-dorsal vessel aortic cell fate commitment	GO_0035052	0	1	0	0	0
-dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0	0
-dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0	0
-dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0	0
-dorsal closure, leading edge cell fate determination	GO_0007393	0	1	0	0	0
-dorsal closure, leading edge cell fate commitment	GO_0035029	0	1	0	0	0
 dorsal closure, leading edge cell differentiation	GO_0046663	0	1	0	0	0
-dorsal appendage formation	GO_0046843	0	1	0	0	0
 dopaminergic neuron differentiation	GO_0071542	0	1	0	0	0
-donor selection	GO_0007535	0	1	0	0	0
-distinct antral spaces stage	GO_0048164	0	1	0	0	0
 disseminated nephrocyte differentiation	GO_0061322	0	1	0	0	0
-developmental programmed cell death	GO_0010623	0	1	0	0	0
-developmental induction	GO_0031128	0	1	0	0	0
-developmental cell growth	GO_0048588	0	1	0	0	0
-determination of wing disc primordium	GO_0035294	0	1	0	0	0
-determination of imaginal disc primordium	GO_0007445	0	1	0	0	0
-determination of genital disc primordium	GO_0035225	0	1	0	0	0
-dendritic spine morphogenesis	GO_0060997	0	1	0	0	0
-dendritic spine development	GO_0060996	0	1	0	0	0
 dendritic cell differentiation	GO_0097028	0	1	0	0	0
-dendrite self-avoidance	GO_0070593	0	1	0	0	0
-dendrite regeneration	GO_0031104	0	1	0	0	0
-dendrite morphogenesis	GO_0048813	0	1	0	0	0
-dendrite guidance	GO_0070983	0	1	0	0	0
-dendrite extension	GO_0097484	0	1	0	0	0
-dendrite development by retrograde extension	GO_0003390	0	1	0	0	0
-dendrite development	GO_0016358	0	1	0	0	0
 definitive erythrocyte differentiation	GO_0060318	0	1	0	0	0
-defasciculation of motor neuron axon	GO_0007415	0	1	0	0	0
 cytotoxic T cell differentiation	GO_0045065	0	1	0	0	0
-cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte	GO_0019749	0	1	0	0	0
-cytoplasmic transport, nurse cell to oocyte	GO_0007303	0	1	0	0	0
-cystoblast division	GO_0007282	0	1	0	0	0
 cyanophore differentiation	GO_0048774	0	1	0	0	0
-cuneatus tract morphogenesis	GO_0021959	0	1	0	0	0
 cumulus cell differentiation	GO_0001549	0	1	0	0	0
 crystal cell differentiation	GO_0042688	0	1	0	0	0
-creation of an inductive signal by a mesenchymal cell involved in lung induction	GO_0060511	0	1	0	0	0
-creation of an inductive signal	GO_0031130	0	1	0	0	0
 corticotropin hormone secreting cell differentiation	GO_0060128	0	1	0	0	0
-corticotropin hormone secreting cell development	GO_0060131	0	1	0	0	0
-corticospinal tract morphogenesis	GO_0021957	0	1	0	0	0
-corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	0	1	0	0	0
-corticospinal neuron axon guidance through the internal capsule	GO_0021968	0	1	0	0	0
-corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	0	1	0	0	0
-corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	0	1	0	0	0
-corticospinal neuron axon guidance through the basilar pons	GO_0021970	0	1	0	0	0
-corticospinal neuron axon guidance through spinal cord	GO_0021972	0	1	0	0	0
-corticospinal neuron axon guidance	GO_0021966	0	1	0	0	0
-corticospinal neuron axon decussation	GO_0021973	0	1	0	0	0
-corpus callosum morphogenesis	GO_0021540	0	1	0	0	0
-cornification	GO_0070268	0	1	0	0	0
-corneocyte development	GO_0003335	0	1	0	0	0
-corneocyte desquamation	GO_0003336	0	1	0	0	0
-compound eye retinal cell programmed cell death	GO_0046667	0	1	0	0	0
-compound eye photoreceptor fate commitment	GO_0001752	0	1	0	0	0
-compound eye photoreceptor development	GO_0042051	0	1	0	0	0
 compound eye photoreceptor cell differentiation	GO_0001751	0	1	0	0	0
-compound eye cone cell fate specification	GO_0042679	0	1	0	0	0
-compound eye cone cell fate determination	GO_0042680	0	1	0	0	0
-compound eye cone cell fate commitment	GO_0042676	0	1	0	0	0
 compound eye cone cell differentiation	GO_0042675	0	1	0	0	0
 companion cell differentiation	GO_0048758	0	1	0	0	0
-commitment of neuronal cell to specific neuron type in forebrain	GO_0021902	0	1	0	0	0
-commitment of multipotent stem cells to neuronal lineage in forebrain	GO_0021898	0	1	0	0	0
 commissural neuron differentiation in spinal cord	GO_0021528	0	1	0	0	0
-commissural neuron axon guidance	GO_0071679	0	1	0	0	0
-columnar/cuboidal epithelial cell maturation	GO_0002069	0	1	0	0	0
 columnar/cuboidal epithelial cell differentiation	GO_0002065	0	1	0	0	0
-columnar/cuboidal epithelial cell development	GO_0002066	0	1	0	0	0
 collenchyma cell differentiation	GO_0048761	0	1	0	0	0
-collateral sprouting of intact axon in response to injury	GO_0048673	0	1	0	0	0
-collateral sprouting of injured axon	GO_0048674	0	1	0	0	0
-collateral sprouting in absence of injury	GO_0048669	0	1	0	0	0
-collateral sprouting	GO_0048668	0	1	0	0	0
-clustering of voltage-gated sodium channels	GO_0045162	0	1	0	0	0
-clustering of voltage-gated potassium channels	GO_0045163	0	1	0	0	0
-clustering of voltage-gated calcium channels	GO_0070073	0	1	0	0	0
-clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	0	0	0
-clearance of cells from fusion plate by apoptotic process	GO_0060885	0	1	0	0	0
 chorionic trophoblast cell differentiation	GO_0060718	0	1	0	0	0
-chorionic trophoblast cell development	GO_0060719	0	1	0	0	0
-chorion-containing eggshell pattern formation	GO_0030381	0	1	0	0	0
-chorion-containing eggshell formation	GO_0007304	0	1	0	0	0
-chondrocyte morphogenesis involved in endochondral bone morphogenesis	GO_0003414	0	1	0	0	0
-chondrocyte morphogenesis	GO_0090171	0	1	0	0	0
-chondrocyte hypertrophy	GO_0003415	0	1	0	0	0
 chondrocyte differentiation involved in endochondral bone morphogenesis	GO_0003413	0	1	0	0	0
 chondrocyte differentiation	GO_0002062	0	1	0	0	0
-chondrocyte development involved in endochondral bone morphogenesis	GO_0003433	0	1	0	0	0
-chondrocyte development	GO_0002063	0	1	0	0	0
 chondroblast differentiation	GO_0060591	0	1	0	0	0
 chlamydospore formation	GO_0001410	0	1	0	0	0
-chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	0	1	0	0	0
-chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	0	1	0	0	0
-chemorepulsion of branchiomotor axon	GO_0021793	0	1	0	0	0
-chemorepulsion of axon	GO_0061643	0	1	0	0	0
-chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	0	0	0
-chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	0	0	0
-chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	0	1	0	0	0
-chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	0	1	0	0	0
-chemoattraction of branchiomotor axon	GO_0021792	0	1	0	0	0
-chemoattraction of axon	GO_0061642	0	1	0	0	0
-chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	0	0	0
-chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0	0
 cerebral cortex neuron differentiation	GO_0021895	0	1	0	0	0
-cerebral cortex GABAergic interneuron migration	GO_0021853	0	1	0	0	0
-cerebral cortex GABAergic interneuron fate commitment	GO_0021893	0	1	0	0	0
 cerebral cortex GABAergic interneuron differentiation	GO_0021892	0	1	0	0	0
-cerebral cortex GABAergic interneuron development	GO_0021894	0	1	0	0	0
 cerebellar unipolar brush cell differentiation	GO_0021711	0	1	0	0	0
 cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0
 cerebellar granule cell differentiation	GO_0021707	0	1	0	0	0
 cerebellar basket cell differentiation	GO_0021709	0	1	0	0	0
 cerebellar Purkinje cell differentiation	GO_0021702	0	1	0	0	0
 cerebellar Golgi cell differentiation	GO_0021701	0	1	0	0	0
-centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
 central nervous system vasculogenesis	GO_0022009	0	1	0	0	0
-central nervous system projection neuron axonogenesis	GO_0021952	0	1	0	0	0
 central nervous system neuron differentiation	GO_0021953	0	1	0	0	0
-central nervous system neuron development	GO_0021954	0	1	0	0	0
-central nervous system neuron axonogenesis	GO_0021955	0	1	0	0	0
-central nervous system myelination	GO_0022010	0	1	0	0	0
-central nervous system myelin maintenance	GO_0032286	0	1	0	0	0
-central nervous system myelin formation	GO_0032289	0	1	0	0	0
-central nervous system interneuron axonogenesis	GO_0021956	0	1	0	0	0
-central B cell selection	GO_0002340	0	1	0	0	0
-central B cell positive selection	GO_0002348	0	1	0	0	0
-central B cell negative selection	GO_0002354	0	1	0	0	0
-central B cell deletion	GO_0002342	0	1	0	0	0
-central B cell anergy	GO_0002341	0	1	0	0	0
-cell-cell signaling involved in cell fate commitment	GO_0045168	0	1	0	0	0
-cell morphogenesis involved in semicircular canal fusion	GO_0060880	0	1	0	0	0
-cell morphogenesis involved in neuron differentiation	GO_0048667	0	1	0	0	0
-cell morphogenesis involved in differentiation	GO_0000904	0	1	0	0	0
-cell morphogenesis involved in Malpighian tubule morphogenesis	GO_0061336	0	1	0	0	0
-cell migration involved in vasculogenesis	GO_0035441	0	1	0	0	0
-cell migration involved in coronary vasculogenesis	GO_0060980	0	1	0	0	0
-cell growth involved in growth plate cartilage chondrocyte morphogenesis	GO_0003432	0	1	0	0	0
-cell growth involved in cardiac muscle cell development	GO_0061049	0	1	0	0	0
-cell growth involved in Malpighian tubule morphogenesis	GO_0061335	0	1	0	0	0
 cell differentiation involved in kidney development	GO_0061005	0	1	0	0	0
 cell differentiation involved in embryonic placenta development	GO_0060706	0	1	0	0	0
 cell differentiation in hindbrain	GO_0021533	0	1	0	0	0
-cell cycle arrest of committed forebrain neuronal progenitor cell	GO_0021883	0	1	0	0	0
-cell adhesion involved in retrograde extension	GO_0003392	0	1	0	0	0
-cell adhesion involved in dendrite retrograde extension	GO_0003394	0	1	0	0	0
-cell adhesion involved in amphid sensory organ dendrite retrograde extension	GO_0003396	0	1	0	0	0
 carotid body glomus cell differentiation	GO_0061103	0	1	0	0	0
 cardiocyte differentiation	GO_0035051	0	1	0	0	0
 cardioblast differentiation	GO_0010002	0	1	0	0	0
-cardioblast cell fate specification	GO_0042685	0	1	0	0	0
-cardioblast cell fate determination	GO_0007510	0	1	0	0	0
-cardioblast cell fate commitment	GO_0042684	0	1	0	0	0
-cardiac vascular smooth muscle cell fate commitment	GO_0060949	0	1	0	0	0
 cardiac vascular smooth muscle cell differentiation	GO_0060947	0	1	0	0	0
-cardiac vascular smooth muscle cell development	GO_0060948	0	1	0	0	0
 cardiac septum cell differentiation	GO_0003292	0	1	0	0	0
-cardiac pacemaker cell fate commitment	GO_0060927	0	1	0	0	0
 cardiac pacemaker cell differentiation	GO_0060920	0	1	0	0	0
-cardiac pacemaker cell development	GO_0060926	0	1	0	0	0
-cardiac neuron fate commitment	GO_0060960	0	1	0	0	0
 cardiac neuron differentiation	GO_0060945	0	1	0	0	0
-cardiac neuron development	GO_0060959	0	1	0	0	0
-cardiac neural crest cell migration involved in outflow tract morphogenesis	GO_0003253	0	1	0	0	0
 cardiac neural crest cell differentiation involved in heart development	GO_0061307	0	1	0	0	0
-cardiac neural crest cell development involved in outflow tract morphogenesis	GO_0061309	0	1	0	0	0
-cardiac neural crest cell development involved in heart development	GO_0061308	0	1	0	0	0
-cardiac myofibril assembly	GO_0055003	0	1	0	0	0
-cardiac muscle thin filament assembly	GO_0071691	0	1	0	0	0
-cardiac muscle myosin thick filament assembly	GO_0071690	0	1	0	0	0
-cardiac muscle fiber development	GO_0048739	0	1	0	0	0
 cardiac muscle cell myoblast differentiation	GO_0060379	0	1	0	0	0
-cardiac muscle cell fate determination	GO_0061442	0	1	0	0	0
-cardiac muscle cell fate commitment	GO_0060923	0	1	0	0	0
 cardiac muscle cell differentiation	GO_0055007	0	1	0	0	0
-cardiac muscle cell development	GO_0055013	0	1	0	0	0
-cardiac glial cell fate commitment	GO_0060953	0	1	0	0	0
 cardiac glial cell differentiation	GO_0060950	0	1	0	0	0
-cardiac glial cell development	GO_0060952	0	1	0	0	0
-cardiac fibroblast cell fate commitment	GO_0060937	0	1	0	0	0
 cardiac fibroblast cell differentiation	GO_0060935	0	1	0	0	0
-cardiac fibroblast cell development	GO_0060936	0	1	0	0	0
-cardiac epithelial to mesenchymal transition	GO_0060317	0	1	0	0	0
 cardiac endothelial cell differentiation	GO_0003348	0	1	0	0	0
-cardiac cell fate specification	GO_0060912	0	1	0	0	0
-cardiac cell fate determination	GO_0060913	0	1	0	0	0
-cardiac cell fate commitment	GO_0060911	0	1	0	0	0
-cardiac cell development	GO_0055006	0	1	0	0	0
 cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	0	0	0
-canonical Wnt signaling pathway involved in osteoblast differentiation	GO_0044339	0	1	0	0	0
-canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0044335	0	1	0	0	0
-canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation	GO_0044338	0	1	0	0	0
-canonical Wnt signaling pathway involved in cardiac neural crest cell differentiation involved in heart development	GO_0061310	0	1	0	0	0
-canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_0061317	0	1	0	0	0
 candelabrum cell differentiation	GO_0021712	0	1	0	0	0
-camera-type eye photoreceptor cell fate commitment	GO_0060220	0	1	0	0	0
 camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0	0
-bundle sheath cell fate specification	GO_0090610	0	1	0	0	0
 bundle sheath cell differentiation	GO_1903498	0	1	0	0	0
 brown fat cell differentiation	GO_0050873	0	1	0	0	0
-branchiomotor neuron axon guidance in neural tube	GO_0021786	0	1	0	0	0
-branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	0	1	0	0	0
-branchiomotor neuron axon guidance	GO_0021785	0	1	0	0	0
-branched duct epithelial cell fate determination, open tracheal system	GO_0046845	0	1	0	0	0
-border follicle cell migration	GO_0007298	0	1	0	0	0
-border follicle cell delamination	GO_0030709	0	1	0	0	0
-blood vessel endothelial cell fate specification	GO_0097101	0	1	0	0	0
-blood vessel endothelial cell fate commitment	GO_0060846	0	1	0	0	0
 blood vessel endothelial cell differentiation	GO_0060837	0	1	0	0	0
-bicoid mRNA localization	GO_0045450	0	1	0	0	0
-beta selection	GO_0043366	0	1	0	0	0
 basophil differentiation	GO_0030221	0	1	0	0	0
 basidiospore formation	GO_0034295	0	1	0	0	0
-axonogenesis involved in innervation	GO_0060385	0	1	0	0	0
-axonogenesis	GO_0007409	0	1	0	0	0
-axonal fasciculation	GO_0007413	0	1	0	0	0
-axonal defasciculation	GO_0007414	0	1	0	0	0
-axon target recognition	GO_0007412	0	1	0	0	0
-axon regeneration at neuromuscular junction	GO_0014814	0	1	0	0	0
-axon regeneration	GO_0031103	0	1	0	0	0
-axon midline choice point recognition	GO_0016199	0	1	0	0	0
-axon guidance receptor activity	GO_0008046	0	1	0	0	0
-axon guidance	GO_0007411	0	1	0	0	0
-axon extension involved in regeneration	GO_0048677	0	1	0	0	0
-axon extension involved in axon guidance	GO_0048846	0	1	0	0	0
-axon extension	GO_0048675	0	1	0	0	0
-axon development	GO_0061564	0	1	0	0	0
-axon choice point recognition	GO_0016198	0	1	0	0	0
-axial mesodermal cell fate specification	GO_0048327	0	1	0	0	0
-axial mesodermal cell fate determination	GO_0048323	0	1	0	0	0
-axial mesodermal cell fate commitment	GO_0048322	0	1	0	0	0
 axial mesodermal cell differentiation	GO_0048321	0	1	0	0	0
-auditory receptor cell stereocilium organization	GO_0060088	0	1	0	0	0
-auditory receptor cell morphogenesis	GO_0002093	0	1	0	0	0
-auditory receptor cell fate specification	GO_0042667	0	1	0	0	0
-auditory receptor cell fate determination	GO_0042668	0	1	0	0	0
-auditory receptor cell fate commitment	GO_0009912	0	1	0	0	0
 auditory receptor cell differentiation	GO_0042491	0	1	0	0	0
-auditory receptor cell development	GO_0060117	0	1	0	0	0
-atrioventricular node cell fate commitment	GO_0060929	0	1	0	0	0
 atrioventricular node cell differentiation	GO_0060922	0	1	0	0	0
-atrioventricular node cell development	GO_0060928	0	1	0	0	0
 atrioventricular bundle cell differentiation	GO_0003167	0	1	0	0	0
-atrichoblast fate specification	GO_0010056	0	1	0	0	0
 atrichoblast differentiation	GO_0010055	0	1	0	0	0
-atrial cardiac myofibril assembly	GO_0055004	0	1	0	0	0
-atrial cardiac muscle cell fate commitment	GO_0060924	0	1	0	0	0
 atrial cardiac muscle cell differentiation	GO_0055011	0	1	0	0	0
-atrial cardiac muscle cell development	GO_0055014	0	1	0	0	0
-asymmetric protein localization involved in cell fate determination	GO_0045167	0	1	0	0	0
-asymmetric neuroblast division resulting in ganglion mother cell formation	GO_0055060	0	1	0	0	0
-asymmetric neuroblast division	GO_0055059	0	1	0	0	0
-astrocyte fate commitment	GO_0060018	0	1	0	0	0
 astrocyte differentiation	GO_0048708	0	1	0	0	0
-astrocyte development	GO_0014002	0	1	0	0	0
-astrocyte cell migration	GO_0043615	0	1	0	0	0
-astrocyte activation involved in immune response	GO_0002265	0	1	0	0	0
-astrocyte activation	GO_0048143	0	1	0	0	0
 asexual sporulation resulting in formation of a cellular spore	GO_0043936	0	1	0	0	0
-asexual spore wall assembly	GO_0042243	0	1	0	0	0
-ascospore-type prospore-specific spindle pole body remodeling	GO_0031322	0	1	0	0	0
-ascospore-type prospore membrane assembly	GO_0032120	0	1	0	0	0
-ascospore-type prospore assembly	GO_0031321	0	1	0	0	0
-ascospore wall chitin biosynthetic process	GO_0034217	0	1	0	0	0
-ascospore wall biogenesis	GO_0070591	0	1	0	0	0
-ascospore wall beta-glucan metabolic process	GO_0034408	0	1	0	0	0
-ascospore wall beta-glucan biosynthetic process	GO_0034412	0	1	0	0	0
-ascospore wall assembly	GO_0030476	0	1	0	0	0
-ascospore wall (1->3)-beta-D-glucan metabolic process	GO_0034409	0	1	0	0	0
-ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0034413	0	1	0	0	0
-ascospore release from ascus	GO_0071998	0	1	0	0	0
 ascospore formation	GO_0030437	0	1	0	0	0
-arterial endothelial cell fate commitment	GO_0060844	0	1	0	0	0
 arterial endothelial cell differentiation	GO_0060842	0	1	0	0	0
-apoptotic process involved in tube lumen cavitation	GO_0060609	0	1	0	0	0
-apoptotic process involved in salivary gland cavitation	GO_0060663	0	1	0	0	0
-apoptotic process involved in patterning of blood vessels	GO_1902262	0	1	0	0	0
-apoptotic process involved in outflow tract morphogenesis	GO_0003275	0	1	0	0	0
-apoptotic process involved in morphogenesis	GO_0060561	0	1	0	0	0
-apoptotic process involved in mammary gland involution	GO_0060057	0	1	0	0	0
-apoptotic process involved in heart valve morphogenesis	GO_0003276	0	1	0	0	0
-apoptotic process involved in heart morphogenesis	GO_0003278	0	1	0	0	0
-apoptotic process involved in endocardial cushion morphogenesis	GO_0003277	0	1	0	0	0
-apoptotic process involved in embryonic digit morphogenesis	GO_1902263	0	1	0	0	0
-apoptotic process involved in atrial ventricular junction remodeling	GO_0003296	0	1	0	0	0
 aplanospore formation	GO_0075289	0	1	0	0	0
-apical constriction involved in gastrulation	GO_0003384	0	1	0	0	0
-apical constriction	GO_0003383	0	1	0	0	0
-apical cell fate commitment	GO_0010654	0	1	0	0	0
 aortic smooth muscle cell differentiation	GO_0035887	0	1	0	0	0
 antipodal cell differentiation	GO_0009557	0	1	0	0	0
-antipodal cell degeneration	GO_0055045	0	1	0	0	0
-anther wall tapetum cell fate specification	GO_0010234	0	1	0	0	0
 anther wall tapetum cell differentiation	GO_0048657	0	1	0	0	0
-anterior/posterior axon guidance	GO_0033564	0	1	0	0	0
-anterior/posterior axis specification, follicular epithelium	GO_0030714	0	1	0	0	0
 anterior lateral line neuromast support cell differentiation	GO_0048906	0	1	0	0	0
 anterior lateral line neuromast mantle cell differentiation	GO_0048905	0	1	0	0	0
-anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	0	0	0
 anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	0	0	0
-anterior lateral line neuromast hair cell development	GO_0035676	0	1	0	0	0
-anterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048940	0	1	0	0	0
 anterior lateral line nerve glial cell differentiation	GO_0048913	0	1	0	0	0
-anterior lateral line nerve glial cell development	GO_0048939	0	1	0	0	0
 anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	0	0	0
-anterior commissure morphogenesis	GO_0021960	0	1	0	0	0
 angioblast cell differentiation	GO_0035779	0	1	0	0	0
-amphid sensory organ dendrite retrograde extension	GO_0003391	0	1	0	0	0
 amniotic stem cell differentiation	GO_0097086	0	1	0	0	0
 ameloblast differentiation	GO_0036305	0	1	0	0	0
 amacrine cell differentiation	GO_0035881	0	1	0	0	0
-alpha-glucan catabolic process involved in ascospore release from ascus	GO_0072316	0	1	0	0	0
 alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	0	0	0
-alpha-beta T cell lineage commitment	GO_0002363	0	1	0	0	0
 alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0	0
 alpha-beta T cell differentiation	GO_0046632	0	1	0	0	0
 akinete formation	GO_0034302	0	1	0	0	0
-afferent axon development in posterior lateral line nerve	GO_0048933	0	1	0	0	0
-afferent axon development in lateral line nerve	GO_0048893	0	1	0	0	0
-afferent axon development in anterior lateral line nerve	GO_0048910	0	1	0	0	0
 aeciospore formation	GO_0075247	0	1	0	0	0
 adrenal chromaffin cell differentiation	GO_0061104	0	1	0	0	0
-activation of recombination (HML)	GO_0007536	0	1	0	0	0
-activation of prostate induction by androgen receptor signaling pathway	GO_0060520	0	1	0	0	0
 actinomycete-type spore formation	GO_0034304	0	1	0	0	0
-acrosome assembly	GO_0001675	0	1	0	0	0
 acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	0	0	0
 acinar cell differentiation	GO_0090425	0	1	0	0	0
-abaxial cell fate specification	GO_0010158	0	1	0	0	0
-Wnt-activated signaling pathway involved in forebrain neuron fate commitment	GO_0021881	0	1	0	0	0
-Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	0	0	0
-Wnt signaling pathway involved in animal/vegetal axis specification	GO_0060833	0	1	0	0	0
-VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0	0
 Type II pneumocyte differentiation	GO_0060510	0	1	0	0	0
 Type I pneumocyte differentiation	GO_0060509	0	1	0	0	0
-T-tubule organization	GO_0033292	0	1	0	0	0
-T-helper cell lineage commitment	GO_0002295	0	1	0	0	0
 T-helper cell differentiation	GO_0042093	0	1	0	0	0
-T-helper 2 cell lineage commitment	GO_0002297	0	1	0	0	0
 T-helper 2 cell differentiation	GO_0045064	0	1	0	0	0
-T-helper 17 cell lineage commitment	GO_0072540	0	1	0	0	0
 T-helper 17 cell differentiation	GO_0072539	0	1	0	0	0
-T-helper 1 cell lineage commitment	GO_0002296	0	1	0	0	0
 T-helper 1 cell differentiation	GO_0045063	0	1	0	0	0
 T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
-T cell selection	GO_0045058	0	1	0	0	0
-T cell receptor V(D)J recombination	GO_0033153	0	1	0	0	0
-T cell lineage commitment	GO_0002360	0	1	0	0	0
 T cell differentiation involved in immune response	GO_0002292	0	1	0	0	0
 T cell differentiation in thymus	GO_0033077	0	1	0	0	0
 T cell differentiation	GO_0030217	0	1	0	0	0
-Spemann organizer formation at the embryonic shield	GO_0060063	0	1	0	0	0
-Spemann organizer formation at the dorsal lip of the blastopore	GO_0060062	0	1	0	0	0
-Spemann organizer formation at the anterior end of the primitive streak	GO_0060064	0	1	0	0	0
-Spemann organizer formation	GO_0060061	0	1	0	0	0
-Sertoli cell fate commitment	GO_0060010	0	1	0	0	0
 Sertoli cell differentiation	GO_0060008	0	1	0	0	0
-Sertoli cell development	GO_0060009	0	1	0	0	0
-Schwann cell proliferation involved in axon regeneration	GO_0014011	0	1	0	0	0
-Schwann cell proliferation	GO_0014010	0	1	0	0	0
-Schwann cell migration	GO_0036135	0	1	0	0	0
 Schwann cell differentiation	GO_0014037	0	1	0	0	0
-Schwann cell development	GO_0014044	0	1	0	0	0
-Roundabout signaling pathway involved in axon guidance	GO_2001266	0	1	0	0	0
-R8 cell-mediated photoreceptor organization	GO_0045470	0	1	0	0	0
-R8 cell fate specification	GO_0045464	0	1	0	0	0
-R8 cell fate commitment	GO_0007460	0	1	0	0	0
 R8 cell differentiation	GO_0045465	0	1	0	0	0
-R8 cell development	GO_0045463	0	1	0	0	0
-R7 cell fate commitment	GO_0007465	0	1	0	0	0
 R7 cell differentiation	GO_0045466	0	1	0	0	0
-R7 cell development	GO_0045467	0	1	0	0	0
-R3/R4 development	GO_0048057	0	1	0	0	0
-R3/R4 cell fate commitment	GO_0007464	0	1	0	0	0
 R3/R4 cell differentiation	GO_0048056	0	1	0	0	0
-R2/R5 development	GO_0048055	0	1	0	0	0
-R2/R5 cell fate commitment	GO_0007463	0	1	0	0	0
 R2/R5 cell differentiation	GO_0048054	0	1	0	0	0
-R1/R6 development	GO_0048053	0	1	0	0	0
-R1/R6 cell fate commitment	GO_0007462	0	1	0	0	0
 R1/R6 cell differentiation	GO_0048052	0	1	0	0	0
 Purkinje myocyte differentiation	GO_0003168	0	1	0	0	0
-P granule organization	GO_0030719	0	1	0	0	0
-Notch signaling pathway involved in heart induction	GO_0003137	0	1	0	0	0
-Notch signaling pathway involved in forebrain neuron fate commitment	GO_0021880	0	1	0	0	0
-Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	0	0	0
-Notch signaling pathway involved in camera-type eye photoreceptor fate commitment	GO_0060227	0	1	0	0	0
-Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	0	0	0
-Nebenkern assembly	GO_0007287	0	1	0	0	0
-NK T cell lineage commitment	GO_0002364	0	1	0	0	0
 NK T cell differentiation	GO_0001865	0	1	0	0	0
 Malpighian tubule tip cell differentiation	GO_0061382	0	1	0	0	0
 Malpighian tubule stellate cell differentiation	GO_0061330	0	1	0	0	0
 Malpighian tubule principal cell differentiation	GO_0061329	0	1	0	0	0
-MAPK cascade involved in axon regeneration	GO_1903616	0	1	0	0	0
 Lugaro cell differentiation	GO_0021708	0	1	0	0	0
 Leydig cell differentiation	GO_0033327	0	1	0	0	0
 Langerhans cell differentiation	GO_0061520	0	1	0	0	0
-Hulle cell development	GO_0070792	0	1	0	0	0
-His-Purkinje system cell fate commitment	GO_0060934	0	1	0	0	0
 His-Purkinje system cell differentiation	GO_0060932	0	1	0	0	0
-His-Purkinje system cell development	GO_0060933	0	1	0	0	0
 GABAergic neuron differentiation in basal ganglia	GO_0021858	0	1	0	0	0
 GABAergic neuron differentiation	GO_0097154	0	1	0	0	0
-G1 to G0 transition involved in cell differentiation	GO_0070315	0	1	0	0	0
-DNA recombinase assembly involved in gene conversion at mating-type locus	GO_0034624	0	1	0	0	0
-DCT cell fate commitment	GO_0072146	0	1	0	0	0
 DCT cell differentiation	GO_0072069	0	1	0	0	0
-DCT cell development	GO_0072140	0	1	0	0	0
 Clara cell differentiation	GO_0060486	0	1	0	0	0
 Cajal-Retzius cell differentiation	GO_0021870	0	1	0	0	0
 CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	0	0	0
 CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	0	0	0
 CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	0	0	0
 CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	0	0	0
-CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	0	1	0	0	0
 CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0	0
 CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	0	0	0
 CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	0	0	0
-CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	0	1	0	0	0
 CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0	0
 CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	0	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	0	1	0	0	0
 CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0	0
 CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	0	0	0
-CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	0	1	0	0	0
 CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	0	0	0
 Bergmann glial cell differentiation	GO_0060020	0	1	0	0	0
-BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	0	1	0	0	0
-BMP signaling pathway involved in mesodermal cell fate specification	GO_0060803	0	1	0	0	0
-BMP signaling pathway involved in heart induction	GO_0003130	0	1	0	0	0
-BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	0	0	0
-BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	0	1	0	0	0
 B-1b B cell differentiation	GO_0002338	0	1	0	0	0
 B-1a B cell differentiation	GO_0002337	0	1	0	0	0
-B-1 B cell lineage commitment	GO_0002336	0	1	0	0	0
 B-1 B cell differentiation	GO_0001923	0	1	0	0	0
-B cell selection	GO_0002339	0	1	0	0	0
-B cell positive selection	GO_0002346	0	1	0	0	0
-B cell negative selection	GO_0002352	0	1	0	0	0
-B cell lineage commitment	GO_0002326	0	1	0	0	0
 B cell differentiation	GO_0030183	0	1	0	0	0
-B cell affinity maturation	GO_0002344	0	1	0	0	0
