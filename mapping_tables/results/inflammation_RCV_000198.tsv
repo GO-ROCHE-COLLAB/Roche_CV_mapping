@@ -288,120 +288,120 @@ activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	1	0	1	0	0
 TNFSF11-mediated signaling pathway	GO_0071847	1	0	1	0	0
 NLRP3 inflammasome complex assembly	GO_0044546	1	0	1	0	0
 C-X-C chemokine receptor CXCR4 signaling pathway	GO_0038159	1	0	1	0	0
-wound healing involved in inflammatory response	GO_0002246	0	1	0	0	0
-vasodilation involved in acute inflammatory response	GO_0002527	0	1	0	0	0
-type IV hypersensitivity	GO_0001806	0	1	0	0	0
-type IIb hypersensitivity	GO_0001795	0	1	0	0	0
-type IIa hypersensitivity	GO_0001794	0	1	0	0	0
-type III hypersensitivity	GO_0001802	0	1	0	0	0
-type II hypersensitivity	GO_0002445	0	1	0	0	0
-type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0	0
-type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0	0
-type I hypersensitivity	GO_0016068	0	1	0	0	0
-tissue kallikrein-kinin cascade	GO_0002255	0	1	0	0	0
-suppression by virus of host complement activation	GO_0039573	0	1	0	0	0
-serotonin secretion by platelet	GO_0002554	0	1	0	0	0
-serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
-serotonin secretion by basophil	GO_0002556	0	1	0	0	0
-regulation of type IV hypersensitivity	GO_0001807	0	1	0	0	0
-regulation of type IIb hypersensitivity	GO_0001799	0	1	0	0	0
-regulation of type IIa hypersensitivity	GO_0001796	0	1	0	0	0
-regulation of type III hypersensitivity	GO_0001803	0	1	0	0	0
-regulation of type II hypersensitivity	GO_0002892	0	1	0	0	0
-regulation of type I hypersensitivity	GO_0001810	0	1	0	0	0
-regulation of tissue kallikrein-kinin cascade	GO_0002382	0	1	0	0	0
-regulation of systemic arterial blood pressure involved in acute-phase response	GO_0002530	0	1	0	0	0
-regulation of plasma kallikrein-kinin cascade	GO_0002529	0	1	0	0	0
-regulation of kinin cascade	GO_0002256	0	1	0	0	0
-regulation of hypersensitivity	GO_0002883	0	1	0	0	0
-regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
-regulation of heart contraction involved in acute-phase response	GO_0002531	0	1	0	0	0
-regulation of granuloma formation	GO_0002631	0	1	0	0	0
-regulation of fever generation by regulation of prostaglandin secretion	GO_0071810	0	1	0	0	0
-regulation of fever generation by regulation of prostaglandin biosynthesis	GO_0071809	0	1	0	0	0
-regulation of fever generation	GO_0031620	0	1	0	0	0
-regulation of complement activation, lectin pathway	GO_0001868	0	1	0	0	0
-regulation of complement activation, classical pathway	GO_0030450	0	1	0	0	0
-regulation of complement activation, alternative pathway	GO_0030451	0	1	0	0	0
-regulation of complement activation	GO_0030449	0	1	0	0	0
-regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	0	0	0
-regulation of activation of membrane attack complex	GO_0001969	0	1	0	0	0
-positive regulation of type IV hypersensitivity	GO_0001809	0	1	0	0	0
-positive regulation of type IIb hypersensitivity	GO_0001801	0	1	0	0	0
-positive regulation of type IIa hypersensitivity	GO_0001798	0	1	0	0	0
-positive regulation of type III hypersensitivity	GO_0001805	0	1	0	0	0
-positive regulation of type II hypersensitivity	GO_0002894	0	1	0	0	0
-positive regulation of type I hypersensitivity	GO_0001812	0	1	0	0	0
-positive regulation of tissue kallikrein-kinin cascade	GO_0002547	0	1	0	0	0
-positive regulation of plasma kallikrein-kinin cascade	GO_0002550	0	1	0	0	0
-positive regulation of peripheral B cell deletion	GO_0002910	0	1	0	0	0
-positive regulation of natural killer cell tolerance induction	GO_0002873	0	1	0	0	0
-positive regulation of kinin cascade	GO_0002258	0	1	0	0	0
-positive regulation of hypersensitivity	GO_0002885	0	1	0	0	0
-positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
-positive regulation of granuloma formation	GO_0002633	0	1	0	0	0
-positive regulation of fever generation by positive regulation of prostaglandin secretion	GO_0071812	0	1	0	0	0
-positive regulation of fever generation by positive regulation of prostaglandin biosynthesis	GO_0071811	0	1	0	0	0
-positive regulation of fever generation	GO_0031622	0	1	0	0	0
-positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	0	0	0
-positive regulation of complement activation, lectin pathway	GO_0001870	0	1	0	0	0
-positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	0	0	0
-positive regulation of complement activation, classical pathway	GO_0045960	0	1	0	0	0
-positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	0	0	0
-positive regulation of complement activation, alternative pathway	GO_0045958	0	1	0	0	0
-positive regulation of complement activation	GO_0045917	0	1	0	0	0
-positive regulation of central B cell deletion	GO_0002900	0	1	0	0	0
-positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	0	0	0
-positive regulation of activation of membrane attack complex	GO_0001970	0	1	0	0	0
-positive regulation of B cell deletion	GO_0002869	0	1	0	0	0
-platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	0	0	0
-platelet activating factor production involved in inflammatory response	GO_0002391	0	1	0	0	0
-plasma kallikrein-kinin cascade	GO_0002353	0	1	0	0	0
-nitric oxide production involved in inflammatory response	GO_0002537	0	1	0	0	0
-negative regulation of type IV hypersensitivity	GO_0001808	0	1	0	0	0
-negative regulation of type IIb hypersensitivity	GO_0001800	0	1	0	0	0
-negative regulation of type IIa hypersensitivity	GO_0001797	0	1	0	0	0
-negative regulation of type III hypersensitivity	GO_0001804	0	1	0	0	0
-negative regulation of type II hypersensitivity	GO_0002893	0	1	0	0	0
-negative regulation of type I hypersensitivity	GO_0001811	0	1	0	0	0
-negative regulation of tissue kallikrein-kinin cascade	GO_0002546	0	1	0	0	0
-negative regulation of plasma kallikrein-kinin cascade	GO_0002549	0	1	0	0	0
-negative regulation of peripheral B cell deletion	GO_0002909	0	1	0	0	0
-negative regulation of natural killer cell tolerance induction	GO_0002872	0	1	0	0	0
-negative regulation of kinin cascade	GO_0002257	0	1	0	0	0
-negative regulation of hypersensitivity	GO_0002884	0	1	0	0	0
-negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
-negative regulation of granuloma formation	GO_0002632	0	1	0	0	0
-negative regulation of fever generation	GO_0031621	0	1	0	0	0
-negative regulation of complement activation, lectin pathway in other organism	GO_0044632	0	1	0	0	0
-negative regulation of complement activation, lectin pathway	GO_0001869	0	1	0	0	0
-negative regulation of complement activation, classical pathway in other organism	GO_0044629	0	1	0	0	0
-negative regulation of complement activation, classical pathway	GO_0045959	0	1	0	0	0
-negative regulation of complement activation, alternative pathway in other organism	GO_0044634	0	1	0	0	0
-negative regulation of complement activation, alternative pathway	GO_0045957	0	1	0	0	0
-negative regulation of complement activation	GO_0045916	0	1	0	0	0
-negative regulation of central B cell deletion	GO_0002899	0	1	0	0	0
-negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	0	0	0
-negative regulation of activation of membrane attack complex	GO_0001971	0	1	0	0	0
-negative regulation of B cell deletion	GO_0002868	0	1	0	0	0
-modulation of complement activation, lectin pathway in other organism	GO_0044630	0	1	0	0	0
-modulation of complement activation, classical pathway in other organism	GO_0044627	0	1	0	0	0
-modulation of complement activation, alternative pathway in other organism	GO_0044633	0	1	0	0	0
-leukocyte migration involved in inflammatory response	GO_0002523	0	1	0	0	0
-leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
-leukocyte activation involved in inflammatory response	GO_0002269	0	1	0	0	0
-kinin cascade	GO_0002254	0	1	0	0	0
-inflammatory response to wounding	GO_0090594	0	1	0	0	0
-hypersensitivity	GO_0002524	0	1	0	0	0
-histamine secretion mediated by immunoglobulin	GO_0097280	0	1	0	0	0
-histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	0	0	0
-histamine secretion by platelet	GO_0002555	0	1	0	0	0
-histamine secretion by basophil	GO_0002557	0	1	0	0	0
-granuloma formation	GO_0002432	0	1	0	0	0
-fever generation	GO_0001660	0	1	0	0	0
-connective tissue replacement involved in inflammatory response wound healing	GO_0002248	0	1	0	0	0
-clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247	0	1	0	0	0
-antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0	0
-acute-phase response	GO_0006953	0	1	0	0	0
-activation of blood coagulation via clotting cascade	GO_0002543	0	1	0	0	0
-Factor XII activation	GO_0002542	0	1	0	0	0
+wound healing involved in inflammatory response	GO_0002246	0	1	1	0	0
+vasodilation involved in acute inflammatory response	GO_0002527	0	1	1	0	0
+type IV hypersensitivity	GO_0001806	0	1	1	0	0
+type IIb hypersensitivity	GO_0001795	0	1	1	0	0
+type IIa hypersensitivity	GO_0001794	0	1	1	0	0
+type III hypersensitivity	GO_0001802	0	1	1	0	0
+type II hypersensitivity	GO_0002445	0	1	1	0	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	1	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
+type I hypersensitivity	GO_0016068	0	1	1	0	0
+tissue kallikrein-kinin cascade	GO_0002255	0	1	1	0	0
+suppression by virus of host complement activation	GO_0039573	0	1	1	0	0
+serotonin secretion by platelet	GO_0002554	0	1	1	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	1	0	0
+serotonin secretion by basophil	GO_0002556	0	1	1	0	0
+regulation of type IV hypersensitivity	GO_0001807	0	1	1	0	0
+regulation of type IIb hypersensitivity	GO_0001799	0	1	1	0	0
+regulation of type IIa hypersensitivity	GO_0001796	0	1	1	0	0
+regulation of type III hypersensitivity	GO_0001803	0	1	1	0	0
+regulation of type II hypersensitivity	GO_0002892	0	1	1	0	0
+regulation of type I hypersensitivity	GO_0001810	0	1	1	0	0
+regulation of tissue kallikrein-kinin cascade	GO_0002382	0	1	1	0	0
+regulation of systemic arterial blood pressure involved in acute-phase response	GO_0002530	0	1	1	0	0
+regulation of plasma kallikrein-kinin cascade	GO_0002529	0	1	1	0	0
+regulation of kinin cascade	GO_0002256	0	1	1	0	0
+regulation of hypersensitivity	GO_0002883	0	1	1	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	1	0	0
+regulation of heart contraction involved in acute-phase response	GO_0002531	0	1	1	0	0
+regulation of granuloma formation	GO_0002631	0	1	1	0	0
+regulation of fever generation by regulation of prostaglandin secretion	GO_0071810	0	1	1	0	0
+regulation of fever generation by regulation of prostaglandin biosynthesis	GO_0071809	0	1	1	0	0
+regulation of fever generation	GO_0031620	0	1	1	0	0
+regulation of complement activation, lectin pathway	GO_0001868	0	1	1	0	0
+regulation of complement activation, classical pathway	GO_0030450	0	1	1	0	0
+regulation of complement activation, alternative pathway	GO_0030451	0	1	1	0	0
+regulation of complement activation	GO_0030449	0	1	1	0	0
+regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	1	0	0
+regulation of activation of membrane attack complex	GO_0001969	0	1	1	0	0
+positive regulation of type IV hypersensitivity	GO_0001809	0	1	1	0	0
+positive regulation of type IIb hypersensitivity	GO_0001801	0	1	1	0	0
+positive regulation of type IIa hypersensitivity	GO_0001798	0	1	1	0	0
+positive regulation of type III hypersensitivity	GO_0001805	0	1	1	0	0
+positive regulation of type II hypersensitivity	GO_0002894	0	1	1	0	0
+positive regulation of type I hypersensitivity	GO_0001812	0	1	1	0	0
+positive regulation of tissue kallikrein-kinin cascade	GO_0002547	0	1	1	0	0
+positive regulation of plasma kallikrein-kinin cascade	GO_0002550	0	1	1	0	0
+positive regulation of peripheral B cell deletion	GO_0002910	0	1	1	0	0
+positive regulation of natural killer cell tolerance induction	GO_0002873	0	1	1	0	0
+positive regulation of kinin cascade	GO_0002258	0	1	1	0	0
+positive regulation of hypersensitivity	GO_0002885	0	1	1	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	1	0	0
+positive regulation of granuloma formation	GO_0002633	0	1	1	0	0
+positive regulation of fever generation by positive regulation of prostaglandin secretion	GO_0071812	0	1	1	0	0
+positive regulation of fever generation by positive regulation of prostaglandin biosynthesis	GO_0071811	0	1	1	0	0
+positive regulation of fever generation	GO_0031622	0	1	1	0	0
+positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	1	0	0
+positive regulation of complement activation, lectin pathway	GO_0001870	0	1	1	0	0
+positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	1	0	0
+positive regulation of complement activation, classical pathway	GO_0045960	0	1	1	0	0
+positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	1	0	0
+positive regulation of complement activation, alternative pathway	GO_0045958	0	1	1	0	0
+positive regulation of complement activation	GO_0045917	0	1	1	0	0
+positive regulation of central B cell deletion	GO_0002900	0	1	1	0	0
+positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	1	0	0
+positive regulation of activation of membrane attack complex	GO_0001970	0	1	1	0	0
+positive regulation of B cell deletion	GO_0002869	0	1	1	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	1	0	0
+platelet activating factor production involved in inflammatory response	GO_0002391	0	1	1	0	0
+plasma kallikrein-kinin cascade	GO_0002353	0	1	1	0	0
+nitric oxide production involved in inflammatory response	GO_0002537	0	1	1	0	0
+negative regulation of type IV hypersensitivity	GO_0001808	0	1	1	0	0
+negative regulation of type IIb hypersensitivity	GO_0001800	0	1	1	0	0
+negative regulation of type IIa hypersensitivity	GO_0001797	0	1	1	0	0
+negative regulation of type III hypersensitivity	GO_0001804	0	1	1	0	0
+negative regulation of type II hypersensitivity	GO_0002893	0	1	1	0	0
+negative regulation of type I hypersensitivity	GO_0001811	0	1	1	0	0
+negative regulation of tissue kallikrein-kinin cascade	GO_0002546	0	1	1	0	0
+negative regulation of plasma kallikrein-kinin cascade	GO_0002549	0	1	1	0	0
+negative regulation of peripheral B cell deletion	GO_0002909	0	1	1	0	0
+negative regulation of natural killer cell tolerance induction	GO_0002872	0	1	1	0	0
+negative regulation of kinin cascade	GO_0002257	0	1	1	0	0
+negative regulation of hypersensitivity	GO_0002884	0	1	1	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	1	0	0
+negative regulation of granuloma formation	GO_0002632	0	1	1	0	0
+negative regulation of fever generation	GO_0031621	0	1	1	0	0
+negative regulation of complement activation, lectin pathway in other organism	GO_0044632	0	1	1	0	0
+negative regulation of complement activation, lectin pathway	GO_0001869	0	1	1	0	0
+negative regulation of complement activation, classical pathway in other organism	GO_0044629	0	1	1	0	0
+negative regulation of complement activation, classical pathway	GO_0045959	0	1	1	0	0
+negative regulation of complement activation, alternative pathway in other organism	GO_0044634	0	1	1	0	0
+negative regulation of complement activation, alternative pathway	GO_0045957	0	1	1	0	0
+negative regulation of complement activation	GO_0045916	0	1	1	0	0
+negative regulation of central B cell deletion	GO_0002899	0	1	1	0	0
+negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	1	0	0
+negative regulation of activation of membrane attack complex	GO_0001971	0	1	1	0	0
+negative regulation of B cell deletion	GO_0002868	0	1	1	0	0
+modulation of complement activation, lectin pathway in other organism	GO_0044630	0	1	1	0	0
+modulation of complement activation, classical pathway in other organism	GO_0044627	0	1	1	0	0
+modulation of complement activation, alternative pathway in other organism	GO_0044633	0	1	1	0	0
+leukocyte migration involved in inflammatory response	GO_0002523	0	1	1	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	1	0	0
+leukocyte activation involved in inflammatory response	GO_0002269	0	1	1	0	0
+kinin cascade	GO_0002254	0	1	1	0	0
+inflammatory response to wounding	GO_0090594	0	1	1	0	0
+hypersensitivity	GO_0002524	0	1	1	0	0
+histamine secretion mediated by immunoglobulin	GO_0097280	0	1	1	0	0
+histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	1	0	0
+histamine secretion by platelet	GO_0002555	0	1	1	0	0
+histamine secretion by basophil	GO_0002557	0	1	1	0	0
+granuloma formation	GO_0002432	0	1	1	0	0
+fever generation	GO_0001660	0	1	1	0	0
+connective tissue replacement involved in inflammatory response wound healing	GO_0002248	0	1	1	0	0
+clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247	0	1	1	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	0	1	1	0	0
+acute-phase response	GO_0006953	0	1	1	0	0
+activation of blood coagulation via clotting cascade	GO_0002543	0	1	1	0	0
+Factor XII activation	GO_0002542	0	1	1	0	0
