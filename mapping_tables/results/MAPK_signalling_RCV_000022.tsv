@@ -20,7 +20,7 @@ MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	1	
 MAPK import into nucleus	GO_0000189	1	1	1	0	0
 MAPK cascade involved in osmosensory signaling pathway	GO_0000161	1	1	1	0	0
 MAPK cascade	GO_0000165	1	1	1	0	0
-stress-activated protein kinase signaling cascade	GO_0031098	1	0	1	0	0
+stress-activated protein kinase signaling cascade	GO_0031098	1	1	1	0	0
 activation of MAPKKK during sporulation (sensu Saccharomyces)	GO_0000203	1	0	1	1	1
 activation of MAPKKK during sporulation (sensu Fungi)	GO_0030441	1	0	1	1	1
 activation of MAPKKK (pseudohyphal growth)	GO_0000191	1	0	1	1	1
@@ -82,7 +82,7 @@ MAPK import into nucleus involved in cell wall organization or biogenesis	GO_000
 MAPK cascade involved in innate immune response	GO_0035420	0	1	1	0	0
 MAPK cascade involved in conjugation with cellular fusion	GO_0071507	0	1	1	0	0
 MAPK cascade involved in cell wall organization or biogenesis	GO_0000196	0	1	1	0	0
-MAPK cascade involved in axon regeneration	GO_1903616	0	1	0	0	0
+MAPK cascade involved in axon regeneration	GO_1903616	0	1	1	0	0
 MAPK cascade in response to starvation	GO_1990263	0	1	1	0	0
 MAP kinase kinase kinase kinase activity	GO_0008349	0	1	1	0	0
 MAP kinase kinase kinase activity involved in osmosensory signaling pathway	GO_0038081	0	1	1	0	0
