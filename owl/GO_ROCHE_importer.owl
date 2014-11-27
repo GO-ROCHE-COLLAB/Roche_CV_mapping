@@ -83,6 +83,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/BFO_0000066 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000066">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8"/>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GOREL_0002006 -->
 
     <rdf:Description rdf:about="&obo;GOREL_0002006">
@@ -94,6 +102,7 @@
     <!-- http://purl.obolibrary.org/obo/RO_0000057 -->
 
     <rdf:Description rdf:about="&obo;RO_0000057">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
     </rdf:Description>
     
@@ -123,9 +132,34 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/RO_0002295 -->
+
+    <rdf:Description rdf:about="&obo;RO_0002295">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5"/>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/RO_0002328 -->
 
     <owl:ObjectProperty rdf:about="&obo;RO_0002328"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8">
+        <rdfs:label>has_participant_OR_occurs_in</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5">
+        <rdfs:label>CL-anat_super_query</rdfs:label>
+    </owl:ObjectProperty>
     
 
 
