@@ -1,69 +1,69 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 somatic motor neuron differentiation	GO_0021523	1	1	1	0	0
 somatic motor neuron fate commitment	GO_0021917	1	0	1	0	0
-visceral motor neuron differentiation	GO_0021524	0	1	0	0	0
-vestibular receptor cell differentiation	GO_0060114	0	1	0	0	0
-ventral spinal cord interneuron differentiation	GO_0021514	0	1	0	0	0
-striatal medium spiny neuron differentiation	GO_0021773	0	1	0	0	0
-spinal cord motor neuron differentiation	GO_0021522	0	1	0	0	0
-spinal cord association neuron differentiation	GO_0021527	0	1	0	0	0
-retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	0	0	0
-retinal rod cell differentiation	GO_0060221	0	1	0	0	0
-retinal cone cell differentiation	GO_0042670	0	1	0	0	0
-retinal bipolar neuron differentiation	GO_0060040	0	1	0	0	0
-pyramidal neuron differentiation	GO_0021859	0	1	0	0	0
-posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	0	0	0
-posterior lateral line ganglion neuron differentiation	GO_0048928	0	1	0	0	0
-photoreceptor cell differentiation	GO_0046530	0	1	0	0	0
-peripheral nervous system neuron differentiation	GO_0048934	0	1	0	0	0
-olfactory bulb interneuron differentiation	GO_0021889	0	1	0	0	0
-ocellus photoreceptor cell differentiation	GO_0042705	0	1	0	0	0
-noradrenergic neuron differentiation involved in brainstem development	GO_0003361	0	1	0	0	0
-noradrenergic neuron differentiation	GO_0003357	0	1	0	0	0
-neuron differentiation involved in salivary gland development	GO_0060705	0	1	0	0	0
-neuron differentiation involved in amphid sensory organ development	GO_0003387	0	1	0	0	0
-neuron differentiation	GO_0030182	0	1	0	0	0
-neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	0	0	0
-neuromast hair cell differentiation	GO_0048886	0	1	0	0	0
-medial motor column neuron differentiation	GO_0021526	0	1	0	0	0
-mechanoreceptor differentiation involved in mechanosensory epithelium regeneration	GO_0070656	0	1	0	0	0
-mechanoreceptor differentiation	GO_0042490	0	1	0	0	0
-lateral motor column neuron differentiation	GO_0021525	0	1	0	0	0
-lateral line ganglion neuron differentiation	GO_0048891	0	1	0	0	0
-inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	0	1	0	0	0
-inner ear receptor cell differentiation	GO_0060113	0	1	0	0	0
-hippocampal pyramidal neuron differentiation	GO_0097432	0	1	0	0	0
-hippocampal interneuron differentiation	GO_0097410	0	1	0	0	0
-hair cell differentiation	GO_0035315	0	1	0	0	0
-forebrain neuron differentiation	GO_0021879	0	1	0	0	0
-eye photoreceptor cell differentiation	GO_0001754	0	1	0	0	0
-eurydendroid cell differentiation	GO_0021755	0	1	0	0	0
-early neuron differentiation in forebrain	GO_0021862	0	1	0	0	0
-dopaminergic neuron differentiation	GO_0071542	0	1	0	0	0
-compound eye photoreceptor cell differentiation	GO_0001751	0	1	0	0	0
-commissural neuron differentiation in spinal cord	GO_0021528	0	1	0	0	0
-cerebral cortex neuron differentiation	GO_0021895	0	1	0	0	0
-cerebral cortex GABAergic interneuron differentiation	GO_0021892	0	1	0	0	0
-cerebellar unipolar brush cell differentiation	GO_0021711	0	1	0	0	0
-cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0
-cerebellar granule cell differentiation	GO_0021707	0	1	0	0	0
-cerebellar basket cell differentiation	GO_0021709	0	1	0	0	0
-cerebellar Purkinje cell differentiation	GO_0021702	0	1	0	0	0
-cerebellar Golgi cell differentiation	GO_0021701	0	1	0	0	0
-central nervous system neuron differentiation	GO_0021953	0	1	0	0	0
-cardiac neuron differentiation	GO_0060945	0	1	0	0	0
-candelabrum cell differentiation	GO_0021712	0	1	0	0	0
-camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0	0
-auditory receptor cell differentiation	GO_0042491	0	1	0	0	0
-anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	0	0	0
-anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	0	0	0
-amacrine cell differentiation	GO_0035881	0	1	0	0	0
-R8 cell differentiation	GO_0045465	0	1	0	0	0
-R7 cell differentiation	GO_0045466	0	1	0	0	0
-R3/R4 cell differentiation	GO_0048056	0	1	0	0	0
-R2/R5 cell differentiation	GO_0048054	0	1	0	0	0
-R1/R6 cell differentiation	GO_0048052	0	1	0	0	0
-Lugaro cell differentiation	GO_0021708	0	1	0	0	0
-GABAergic neuron differentiation in basal ganglia	GO_0021858	0	1	0	0	0
-GABAergic neuron differentiation	GO_0097154	0	1	0	0	0
-Cajal-Retzius cell differentiation	GO_0021870	0	1	0	0	0
+visceral motor neuron differentiation	GO_0021524	0	1	1	0	0
+vestibular receptor cell differentiation	GO_0060114	0	1	1	0	0
+ventral spinal cord interneuron differentiation	GO_0021514	0	1	1	0	0
+striatal medium spiny neuron differentiation	GO_0021773	0	1	1	0	0
+spinal cord motor neuron differentiation	GO_0021522	0	1	1	0	0
+spinal cord association neuron differentiation	GO_0021527	0	1	1	0	0
+retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	1	0	0
+retinal rod cell differentiation	GO_0060221	0	1	1	0	0
+retinal cone cell differentiation	GO_0042670	0	1	1	0	0
+retinal bipolar neuron differentiation	GO_0060040	0	1	1	0	0
+pyramidal neuron differentiation	GO_0021859	0	1	1	0	0
+posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	1	0	0
+posterior lateral line ganglion neuron differentiation	GO_0048928	0	1	1	0	0
+photoreceptor cell differentiation	GO_0046530	0	1	1	0	0
+peripheral nervous system neuron differentiation	GO_0048934	0	1	1	0	0
+olfactory bulb interneuron differentiation	GO_0021889	0	1	1	0	0
+ocellus photoreceptor cell differentiation	GO_0042705	0	1	1	0	0
+noradrenergic neuron differentiation involved in brainstem development	GO_0003361	0	1	1	0	0
+noradrenergic neuron differentiation	GO_0003357	0	1	1	0	0
+neuron differentiation involved in salivary gland development	GO_0060705	0	1	1	0	0
+neuron differentiation involved in amphid sensory organ development	GO_0003387	0	1	1	0	0
+neuron differentiation	GO_0030182	0	1	1	0	0
+neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0	0
+neuromast hair cell differentiation	GO_0048886	0	1	1	0	0
+medial motor column neuron differentiation	GO_0021526	0	1	1	0	0
+mechanoreceptor differentiation involved in mechanosensory epithelium regeneration	GO_0070656	0	1	1	0	0
+mechanoreceptor differentiation	GO_0042490	0	1	1	0	0
+lateral motor column neuron differentiation	GO_0021525	0	1	1	0	0
+lateral line ganglion neuron differentiation	GO_0048891	0	1	1	0	0
+inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	0	1	1	0	0
+inner ear receptor cell differentiation	GO_0060113	0	1	1	0	0
+hippocampal pyramidal neuron differentiation	GO_0097432	0	1	1	0	0
+hippocampal interneuron differentiation	GO_0097410	0	1	1	0	0
+hair cell differentiation	GO_0035315	0	1	1	0	0
+forebrain neuron differentiation	GO_0021879	0	1	1	0	0
+eye photoreceptor cell differentiation	GO_0001754	0	1	1	0	0
+eurydendroid cell differentiation	GO_0021755	0	1	1	0	0
+early neuron differentiation in forebrain	GO_0021862	0	1	1	0	0
+dopaminergic neuron differentiation	GO_0071542	0	1	1	0	0
+compound eye photoreceptor cell differentiation	GO_0001751	0	1	1	0	0
+commissural neuron differentiation in spinal cord	GO_0021528	0	1	1	0	0
+cerebral cortex neuron differentiation	GO_0021895	0	1	1	0	0
+cerebral cortex GABAergic interneuron differentiation	GO_0021892	0	1	1	0	0
+cerebellar unipolar brush cell differentiation	GO_0021711	0	1	1	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	1	0	0
+cerebellar granule cell differentiation	GO_0021707	0	1	1	0	0
+cerebellar basket cell differentiation	GO_0021709	0	1	1	0	0
+cerebellar Purkinje cell differentiation	GO_0021702	0	1	1	0	0
+cerebellar Golgi cell differentiation	GO_0021701	0	1	1	0	0
+central nervous system neuron differentiation	GO_0021953	0	1	1	0	0
+cardiac neuron differentiation	GO_0060945	0	1	1	0	0
+candelabrum cell differentiation	GO_0021712	0	1	1	0	0
+camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	1	0	0
+auditory receptor cell differentiation	GO_0042491	0	1	1	0	0
+anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	1	0	0
+anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	1	0	0
+amacrine cell differentiation	GO_0035881	0	1	1	0	0
+R8 cell differentiation	GO_0045465	0	1	1	0	0
+R7 cell differentiation	GO_0045466	0	1	1	0	0
+R3/R4 cell differentiation	GO_0048056	0	1	1	0	0
+R2/R5 cell differentiation	GO_0048054	0	1	1	0	0
+R1/R6 cell differentiation	GO_0048052	0	1	1	0	0
+Lugaro cell differentiation	GO_0021708	0	1	1	0	0
+GABAergic neuron differentiation in basal ganglia	GO_0021858	0	1	1	0	0
+GABAergic neuron differentiation	GO_0097154	0	1	1	0	0
+Cajal-Retzius cell differentiation	GO_0021870	0	1	1	0	0
