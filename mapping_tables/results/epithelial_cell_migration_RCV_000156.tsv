@@ -37,12 +37,9 @@ negative regulation of cell migration involved in sprouting angiogenesis	GO_0090
 negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	0	0	0
 melanocyte migration	GO_0097324	0	1	0	0	0
 main body follicle cell migration	GO_0060270	0	1	0	0	0
-lamellipodium assembly involved in mesendodermal cell migration	GO_0003364	0	1	0	0	0
 keratinocyte migration	GO_0051546	0	1	0	0	0
 intestinal epithelial cell migration	GO_0061582	0	1	0	0	0
 glomerular visceral epithelial cell migration	GO_0090521	0	1	0	0	0
-establishment or maintenance of cytoskeleton polarity involved in mesendodermal cell migration	GO_0003372	0	1	0	0	0
-establishment of cell polarity involved in mesendodermal cell migration	GO_0003369	0	1	0	0	0
 endothelial cell migration	GO_0043542	0	1	0	0	0
 endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
 endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
@@ -50,11 +47,8 @@ corneal epithelial cell migration	GO_0061581	0	1	0	0	0
 colon epithelial cell migration	GO_0061580	0	1	0	0	0
 colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
 centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
-cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
-cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	0	0	0
 cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0	0
 cell migration involved in prostatic bud elongation	GO_0060518	0	1	0	0	0
-cell migration involved in mesendoderm migration	GO_0090134	0	1	0	0	0
 cell migration involved in mammary placode formation	GO_0060619	0	1	0	0	0
 border follicle cell migration	GO_0007298	0	1	0	0	0
 blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0	0

@@ -58,9 +58,9 @@
 
 #### hypoxia RCV_000194
 * Key class: [response to hypoxia](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0001666)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for response to hypoxia.
-* map summary: Roche_cvt: RCV_000194; class_expression GO_0001666; manual_list_count 10, generated_list_count 11
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: response to hypoxia OR a part of response to hypoxia OR a process that regulates response to hypoxia
+* map summary: Roche_cvt: RCV_000194; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0001666; manual_list_count 10, generated_list_count 20
 * [Results](hypoxia_RCV_000194.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -226,9 +226,9 @@
 
 #### interaction with host RCV_000204
 * Key class: [interaction with host](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0051701)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: interaction with host OR a part of interaction with host OR a process that regulates interaction with host
-* map summary: Roche_cvt: RCV_000204; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0051701; manual_list_count 26, generated_list_count 716
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for interaction with host.
+* map summary: Roche_cvt: RCV_000204; class_expression GO_0051701; manual_list_count 26, generated_list_count 628
 * [Results](interaction_with_host_RCV_000204.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -670,7 +670,7 @@
 * Key class: [ion transport](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006811)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: ion transport OR a part of ion transport OR a process that regulates ion transport
-* map summary: Roche_cvt: RCV_000211; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006811; manual_list_count 3, generated_list_count 1595
+* map summary: Roche_cvt: RCV_000211; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006811; manual_list_count 3, generated_list_count 1610
 * [Results](ion_transport_RCV_000211.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -787,9 +787,9 @@
 
 #### interaction with symbiont RCV_000205
 * Key class: [interaction with symbiont](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0051702)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: interaction with symbiont OR a part of interaction with symbiont OR a process that regulates interaction with symbiont
-* map summary: Roche_cvt: RCV_000205; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0051702; manual_list_count 9, generated_list_count 177
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for interaction with symbiont.
+* map summary: Roche_cvt: RCV_000205; class_expression GO_0051702; manual_list_count 9, generated_list_count 158
 * [Results](interaction_with_symbiont_RCV_000205.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -931,7 +931,7 @@
 * Key class: [neutrophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000775)
 * Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
 * Definition: A process in which a neutrophil participates.
-* map summary: Roche_cvt: RCV_000248; class_expression RO_0000057 some CL_0000775; manual_list_count 46, generated_list_count 13
+* map summary: Roche_cvt: RCV_000248; class_expression RO_0000057 some CL_0000775; manual_list_count 46, generated_list_count 15
 * [Results](neutrophil_RCV_000248.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -967,7 +967,7 @@
 * Key class: [glucose metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006006)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for glucose metabolic process.
-* map summary: Roche_cvt: RCV_000176; class_expression GO_0006006; manual_list_count 10, generated_list_count 22
+* map summary: Roche_cvt: RCV_000176; class_expression GO_0006006; manual_list_count 10, generated_list_count 18
 * [Results](glucose_metabolism_RCV_000176.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/90)
 * Status: open
@@ -1039,7 +1039,7 @@
 * Key class: [organic acid metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006082)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for organic acid metabolic process.
-* map summary: Roche_cvt: RCV_000260; class_expression GO_0006082; manual_list_count 5, generated_list_count 1132
+* map summary: Roche_cvt: RCV_000260; class_expression GO_0006082; manual_list_count 5, generated_list_count 1629
 * [Results](organic_acid_metabolism_RCV_000260.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/95)
 * Status: open
@@ -1185,7 +1185,7 @@
 * Key class: [tricarboxylic acid anion](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:35753)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some tricarboxylic acid anion participates.
-* map summary: Roche_cvt: RCV_000039; class_expression RO_0000057 some CHEBI_35753; manual_list_count 7, generated_list_count 38
+* map summary: Roche_cvt: RCV_000039; class_expression RO_0000057 some CHEBI_35753; manual_list_count 7, generated_list_count 39
 * [Results](TCA_metabolism_RCV_000039.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/62)
 * Status: open
@@ -1330,7 +1330,7 @@
 * Key class: [epithelial cell migration](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0010631)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: epithelial cell migration OR a part of epithelial cell migration OR a process that regulates epithelial cell migration
-* map summary: Roche_cvt: RCV_000156; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0010631; manual_list_count 15, generated_list_count 60
+* map summary: Roche_cvt: RCV_000156; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0010631; manual_list_count 15, generated_list_count 54
 * [Results](epithelial_cell_migration_RCV_000156.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1394,7 +1394,7 @@
 * Key class: [granulocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000094)
 * Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
 * Definition: A process in which a granulocyte participates.
-* map summary: Roche_cvt: RCV_000183; class_expression RO_0000057 some CL_0000094; manual_list_count 12, generated_list_count 31
+* map summary: Roche_cvt: RCV_000183; class_expression RO_0000057 some CL_0000094; manual_list_count 12, generated_list_count 33
 * [Results](granulocyte_RCV_000183.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/190)
 * Status: open
@@ -1464,10 +1464,10 @@
 * Status: 
 
 #### ion binding RCV_000209
-* Key class: [ion binding](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0043167)
+* Key class: [metal ion binding](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046872)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for ion binding.
-* map summary: Roche_cvt: RCV_000209; class_expression GO_0043167; manual_list_count 1, generated_list_count 189
+* Definition: As for metal ion binding.
+* map summary: Roche_cvt: RCV_000209; class_expression GO_0046872; manual_list_count 1, generated_list_count 29
 * [Results](ion_binding_RCV_000209.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1978,7 +1978,7 @@
 * Key class: [peptide metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006518)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for peptide metabolic process.
-* map summary: Roche_cvt: RCV_000274; class_expression GO_0006518; manual_list_count 327, generated_list_count 84
+* map summary: Roche_cvt: RCV_000274; class_expression GO_0006518; manual_list_count 327, generated_list_count 85
 * [Results](peptide_metabolism_RCV_000274.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/101)
 * Status: open
@@ -1987,7 +1987,7 @@
 * Key class: [epithelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000066)
 * Pattern: [has_participant_cell](../../patterns/has_participant_cell.md)
 * Definition: A process in which a epithelial cell participates.
-* map summary: Roche_cvt: RCV_000158; class_expression RO_0000057 some CL_0000066; manual_list_count 99, generated_list_count 57
+* map summary: Roche_cvt: RCV_000158; class_expression RO_0000057 some CL_0000066; manual_list_count 99, generated_list_count 56
 * [Results](epithelial_cells_RCV_000158.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/200)
 * Status: open

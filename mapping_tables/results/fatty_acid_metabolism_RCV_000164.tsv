@@ -81,7 +81,6 @@ C-22 sterol desaturase activity	GO_0000249	1	0	1	0	0
 ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process	GO_0000036	1	0	1	0	0
 3-keto sterol reductase activity	GO_0000253	1	0	1	0	0
 (R,R)-butanediol dehydrogenase activity	GO_0000721	1	0	1	0	0
-pyruvate fermentation to propionate	GO_0019657	0	1	1	0	0
 prostanoid metabolic process	GO_0006692	0	1	1	0	0
 prostanoid biosynthetic process	GO_0046457	0	1	1	0	0
 prostaglandin metabolic process	GO_0006693	0	1	1	0	0
@@ -138,6 +137,7 @@ hexose catabolic process to butyrate	GO_1902705	0	1	1	0	0
 hepoxilin metabolic process	GO_0051121	0	1	1	0	0
 hepoxilin biosynthetic process	GO_0051122	0	1	1	0	0
 green leaf volatile biosynthetic process	GO_0010597	0	1	1	0	0
+glycolytic fermentation to propionate	GO_0019657	0	1	1	0	0
 glutamate catabolic process to propionate	GO_0033509	0	1	1	0	0
 glutamate catabolic process to butyrate	GO_0033508	0	1	1	0	0
 glutamate catabolic process to 4-hydroxybutyrate	GO_0036241	0	1	1	0	0

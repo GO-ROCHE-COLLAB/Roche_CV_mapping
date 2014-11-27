@@ -151,7 +151,6 @@ retinoic acid metabolic process	GO_0042573	0	1	1	0	0
 retinoic acid catabolic process	GO_0034653	0	1	1	0	0
 retinoic acid biosynthetic process	GO_0002138	0	1	1	0	0
 retinal metabolic process	GO_0042574	0	1	1	0	0
-pyruvate fermentation to propionate	GO_0019657	0	1	1	0	0
 prostanoid metabolic process	GO_0006692	0	1	1	0	0
 prostanoid biosynthetic process	GO_0046457	0	1	1	0	0
 prostaglandin metabolic process	GO_0006693	0	1	1	0	0
@@ -370,6 +369,7 @@ glycosylceramide biosynthetic process	GO_0046476	0	1	1	0	0
 glycosphingolipid metabolic process	GO_0006687	0	1	1	0	0
 glycosphingolipid catabolic process	GO_0046479	0	1	1	0	0
 glycosphingolipid biosynthetic process	GO_0006688	0	1	1	0	0
+glycolytic fermentation to propionate	GO_0019657	0	1	1	0	0
 glycolipid metabolic process	GO_0006664	0	1	1	0	0
 glycolipid catabolic process	GO_0019377	0	1	1	0	0
 glycolipid biosynthetic process	GO_0009247	0	1	1	0	0

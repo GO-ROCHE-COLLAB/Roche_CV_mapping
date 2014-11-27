@@ -315,7 +315,6 @@ rhamnogalacturonan I backbone metabolic process	GO_0010399	0	1	1	0	0
 reuteran metabolic process	GO_0052783	0	1	1	0	0
 reuteran biosynthetic process	GO_0052784	0	1	1	0	0
 reductive pentose-phosphate cycle	GO_0019253	0	1	1	0	0
-pyruvate fermentation to propionate	GO_0019657	0	1	1	0	0
 pullulan metabolic process	GO_0051676	0	1	1	0	0
 pullulan catabolic process	GO_0051678	0	1	1	0	0
 pullulan biosynthetic process	GO_0051677	0	1	1	0	0
@@ -498,6 +497,7 @@ glycolytic process from fructose through fructose-6-phosphate	GO_0061616	0	1	1	0
 glycolytic process	GO_0006096	0	1	1	0	0
 glycolytic fermentation via PFOR pathway	GO_0044813	0	1	1	0	0
 glycolytic fermentation via PFL pathway	GO_0044814	0	1	1	0	0
+glycolytic fermentation to propionate	GO_0019657	0	1	1	0	0
 glycolytic fermentation	GO_0019660	0	1	1	0	0
 glycolysis from storage polysaccharide	GO_0093001	0	1	1	0	0
 glycogen metabolic process	GO_0005977	0	1	1	0	0

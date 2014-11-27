@@ -4,7 +4,7 @@ neutrophil	RCV_000248	neutrophil	CL_0000775	has_participant_cell
 pancreatic stellate cell	RCV_000273	pancreatic stellate cell	CL_0002410	has_participant_cell			
 cell morphogenesis	RCV_000121	cell morphogenesis	GO_0000902	is_a_OR_part_of_OR_regulates			
 vessel development	RCV_000349	blood vessel development	GO_0001568	is_a_OR_part_of_OR_regulates			
-hypoxia	RCV_000194	response to hypoxia	GO_0001666	Equivalence			
+hypoxia	RCV_000194	response to hypoxia	GO_0001666	is_a_OR_part_of_OR_regulates			
 kidney function	RCV_000215	renal system process	GO_0003014	is_a_OR_part_of_OR_regulates			
 enzyme	RCV_000153	catalytic activity	GO_0003824	Equivalence			
 sphingolipid metabolic process	RCV_000309	sphingolipid metabolic process	GO_0006665	Equivalence			
@@ -31,14 +31,14 @@ leptin-mediated signaling pathway	RCV_000219	leptin-mediated signaling pathway	G
 lipoprotein metabolism	RCV_000221	lipoprotein metabolic process	GO_0042157	Equivalence			
 vasoconstriction	RCV_000345	vasoconstriction	GO_0042310	is_a_OR_part_of_OR_regulates			
 vasodilation	RCV_000346	vasodilation	GO_0042311	is_a_OR_part_of_OR_regulates			
-ion binding	RCV_000209	ion binding	GO_0043167	Equivalence			
+ion binding	RCV_000209	metal ion binding	GO_0046872	Equivalence			
 leukocyte activation	RCV_000220	leukocyte activation	GO_0045321	is_a_OR_part_of_OR_regulates			
 secretion	RCV_000297	secretion	GO_0046903	is_a_OR_part_of_OR_regulates			
 lymph gland development	RCV_000225	lymph gland development	GO_0048542	is_a_OR_part_of_OR_regulates			
 cell motility	RCV_000122	cell motility	GO_0048870	is_a_OR_part_of_OR_regulates			
 cell division	RCV_000116	cell division	GO_0051301	is_a_OR_part_of_OR_regulates	Or map to cytokinesis?		
-interaction with host	RCV_000204	interaction with host	GO_0051701	is_a_OR_part_of_OR_regulates			
-interaction with symbiont	RCV_000205	interaction with symbiont	GO_0051702	is_a_OR_part_of_OR_regulates			
+interaction with host	RCV_000204	interaction with host	GO_0051701	Equivalence			
+interaction with symbiont	RCV_000205	interaction with symbiont	GO_0051702	Equivalence			
 mesenchymal-epithelial cell signaling	RCV_000234	mesenchymal-epithelial cell signaling	GO_0060638	is_a_OR_part_of_OR_regulates			
 pyrimidine metabolism	RCV_000292	pyrimidine-containing compound metabolic process	GO_0072527	Equivalence	Manual mapping a little narrower - seems to include only pyramindine nueclo(tide/base)		
 cell-cell adhesion	RCV_000127	cell-cell adhesion	GO_0098609	Equivalence			

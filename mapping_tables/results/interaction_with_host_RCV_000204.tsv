@@ -27,11 +27,9 @@ interaction with host mediated by secreted substance entering host via endocytos
 interaction with host	GO_0051701	1	1	1	0	0
 zoospore movement on or near host	GO_0075234	0	1	0	0	0
 virus induced gene silencing	GO_0009616	0	1	0	0	0
-viral triggering of virus induced gene silencing	GO_0060150	0	1	0	0	0
 viral transmission by vector	GO_0044009	0	1	0	0	0
 viral mRNA cap methylation	GO_0039699	0	1	0	0	0
 viral genome ejection through host cell envelope	GO_0039678	0	1	0	0	0
-viral gene silencing in virus induced gene silencing	GO_0060145	0	1	0	0	0
 viral entry into host cell via pilus retraction and membrane fusion	GO_0039669	0	1	0	0	0
 viral entry into host cell via pilus retraction	GO_0039667	0	1	0	0	0
 viral entry into host cell via pilus basal pore	GO_0039668	0	1	0	0	0
@@ -87,7 +85,6 @@ suppression by virus of host cysteine-type endopeptidase activity involved in ap
 suppression by virus of host complement activation	GO_0039573	0	1	0	0	0
 suppression by virus of host chemokine activity	GO_0039553	0	1	0	0	0
 suppression by virus of host cell wall biogenesis	GO_0039636	0	1	0	0	0
-suppression by virus of host cell lysis in response to superinfection	GO_0039639	0	1	0	0	0
 suppression by virus of host cell cycle arrest	GO_0046792	0	1	0	0	0
 suppression by virus of host catalytic activity	GO_0039513	0	1	0	0	0
 suppression by virus of host autophagy	GO_0039521	0	1	0	0	0
@@ -152,7 +149,6 @@ suppression by virus of G2/M transition of host mitotic cell cycle	GO_0039592	0	
 spore movement on or near host	GO_0075230	0	1	0	0	0
 spore germination on or near host	GO_0075005	0	1	0	0	0
 spore dispersal on or near host	GO_0075325	0	1	0	0	0
-spore autophagy involved in appressorium formation on or near host	GO_0075074	0	1	0	0	0
 rounding by symbiont of host cells	GO_0044054	0	1	0	0	0
 response to host redox environment	GO_0075137	0	1	0	0	0
 response to host phytoalexin production	GO_0052566	0	1	0	0	0
@@ -166,53 +162,31 @@ response to host defense molecules	GO_0075140	0	1	0	0	0
 response to host	GO_0075136	0	1	0	0	0
 response to defense-related host reactive oxygen species production	GO_0052567	0	1	0	0	0
 response to defense-related host nitric oxide production	GO_0052565	0	1	0	0	0
-regulation of viral entry into host cell	GO_0046596	0	1	0	0	0
 regulation of transmembrane receptor-mediated signal transduction in response to host	GO_0075153	0	1	0	0	0
 regulation of transmembrane receptor-mediated cAMP signaling in response to host	GO_0075211	0	1	0	0	0
 regulation of transcription in response to host	GO_0075180	0	1	0	0	0
 regulation of signal transduction in response to host	GO_0075147	0	1	0	0	0
 regulation of receptor-mediated signal transduction in response to host	GO_0075150	0	1	0	0	0
 regulation of protein kinase-mediated signal transduction in response to host	GO_0075168	0	1	0	0	0
-regulation of holin activity	GO_1901217	0	1	0	0	0
-regulation of formation by symbiont of haustorium for nutrient acquisition from host	GO_0075045	0	1	0	0	0
-regulation of entry of bacterium into host cell	GO_2000535	0	1	0	0	0
-regulation of cytolysis by symbiont of host cells	GO_0001898	0	1	0	0	0
 regulation of calcium or calmodulin-mediated signal transduction in response to host	GO_0075177	0	1	0	0	0
 regulation of cAMP-mediated signaling in response to host	GO_0075174	0	1	0	0	0
-regulation of arbuscule formation for nutrient acquisition from host	GO_0075329	0	1	0	0	0
 regulation of MAP kinase-mediated signal transduction in response to host	GO_0075171	0	1	0	0	0
 regulation of G-protein gamma subunit-mediated signal transduction in response to host	GO_0075165	0	1	0	0	0
 regulation of G-protein coupled receptor protein signaling pathway in response to host	GO_0075156	0	1	0	0	0
 regulation of G-protein beta subunit-mediated signal transduction in response to host	GO_0075162	0	1	0	0	0
 regulation of G-protein alpha subunit-mediated signal transduction in response to host	GO_0075159	0	1	0	0	0
 recognition of host	GO_0044405	0	1	0	0	0
-receptor-mediated endocytosis of virus by host cell	GO_0019065	0	1	0	0	0
-quorum sensing involved in interaction with host	GO_0052106	0	1	0	0	0
 proteolysis by virus of host translation initiation factor	GO_0039607	0	1	0	0	0
-positive regulation of zoospore movement on or near host	GO_0075236	0	1	0	0	0
-positive regulation of viral entry into host cell	GO_0046598	0	1	0	0	0
 positive regulation of transmembrane receptor-mediated signal transduction in response to host	GO_0075154	0	1	0	0	0
 positive regulation of transmembrane receptor-mediated cAMP signal transduction in response to host	GO_0075212	0	1	0	0	0
 positive regulation of syncytium formation by virus	GO_0060141	0	1	0	0	0
 positive regulation of symbiont transcription in response to host	GO_0075181	0	1	0	0	0
 positive regulation of symbiont protein kinase-mediated signal transduction in response to host	GO_0075169	0	1	0	0	0
-positive regulation of symbiont penetration peg initiation	GO_0075059	0	1	0	0	0
-positive regulation of symbiont penetration peg formation for entry into host	GO_0075055	0	1	0	0	0
-positive regulation of symbiont penetration hypha formation for entry into host	GO_0075203	0	1	0	0	0
-positive regulation of symbiont haustorium neck formation for entry into host	GO_0075199	0	1	0	0	0
-positive regulation of symbiont cell wall strengthening involved in entry into host	GO_0075050	0	1	0	0	0
 positive regulation of symbiont adenylate cyclase-mediated signal transduction in response to host	GO_0075335	0	1	0	0	0
-positive regulation of spore movement on or near host	GO_0075232	0	1	0	0	0
-positive regulation of spore germination on or near host	GO_0075007	0	1	0	0	0
 positive regulation of signal transduction in response to host	GO_0075148	0	1	0	0	0
 positive regulation of receptor-mediated signal transduction in response to host	GO_0075151	0	1	0	0	0
-positive regulation of germ tube formation on or near host	GO_0075011	0	1	0	0	0
-positive regulation of formation by symbiont of haustorium for nutrient acquisition from host	GO_0075046	0	1	0	0	0
-positive regulation of encysted zoospore germination on or near host	GO_0075228	0	1	0	0	0
-positive regulation of cytolysis by symbiont of host cells	GO_0001900	0	1	0	0	0
 positive regulation of calcium or calmodulin-mediated signal transduction in response to host	GO_0075178	0	1	0	0	0
 positive regulation of cAMP-mediated signaling in response to host	GO_0075175	0	1	0	0	0
-positive regulation of arbuscule formation for nutrient acquisition from host	GO_0075330	0	1	0	0	0
 positive regulation of apoptotic process by virus	GO_0060139	0	1	0	0	0
 positive regulation of MAP kinase-mediated signal transduction in response to host	GO_0075172	0	1	0	0	0
 positive regulation of G-protein gamma subunit-mediated signal transduction in response to host	GO_0075166	0	1	0	0	0
@@ -290,9 +264,7 @@ pore-mediated entry of viral genome into host cell	GO_0044694	0	1	0	0	0
 pore formation in membrane of other organism during symbiotic interaction	GO_0044657	0	1	0	0	0
 pore formation in membrane of host by symbiont	GO_0044658	0	1	0	0	0
 pore formation by virus in membrane of host cell	GO_0039707	0	1	0	0	0
-pinholin activity	GO_0034292	0	1	0	0	0
 phenotypic switching in response to host	GO_0036167	0	1	0	0	0
-permeabilization of host organelle membrane involved in viral entry into host cell	GO_0039665	0	1	0	0	0
 pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response	GO_0052169	0	1	0	0	0
 pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	GO_0052033	0	1	0	0	0
 passive spore dispersal on or near host	GO_0075327	0	1	0	0	0
@@ -303,31 +275,15 @@ passive induction of host cell-mediated immune response by virus	GO_0046734	0	1	
 passive evasion of host immune response	GO_0042782	0	1	0	0	0
 occlusion by symbiont of host xylem	GO_0052112	0	1	0	0	0
 occlusion by symbiont of host vascular system	GO_0052110	0	1	0	0	0
-negative regulation of zoospore movement on or near host	GO_0075237	0	1	0	0	0
-negative regulation of viral entry into host cell	GO_0046597	0	1	0	0	0
 negative regulation of transmembrane receptor-mediated signal transduction in response to host	GO_0075155	0	1	0	0	0
 negative regulation of transmembrane receptor-mediated cAMP signal transduction in response to host	GO_0075213	0	1	0	0	0
 negative regulation of symbiont transcription in response to host	GO_0075182	0	1	0	0	0
-negative regulation of symbiont penetration peg initiation	GO_0075060	0	1	0	0	0
-negative regulation of symbiont penetration peg formation for entry into host	GO_0075056	0	1	0	0	0
-negative regulation of symbiont penetration hypha formation for entry into host	GO_0075204	0	1	0	0	0
-negative regulation of symbiont haustorium neck formation for entry into host	GO_0075200	0	1	0	0	0
-negative regulation of symbiont cell wall strengthening involved in entry into host	GO_0075051	0	1	0	0	0
 negative regulation of symbiont adenylate cyclase-mediated signal transduction in response to host	GO_0075336	0	1	0	0	0
-negative regulation of spore movement on or near host	GO_0075233	0	1	0	0	0
-negative regulation of spore germination on or near host	GO_0075008	0	1	0	0	0
 negative regulation of signal transduction in response to host	GO_0075149	0	1	0	0	0
 negative regulation of receptor-mediated signal transduction in response to host	GO_0075152	0	1	0	0	0
 negative regulation of protein kinase-mediated signal transduction in response to host	GO_0075170	0	1	0	0	0
-negative regulation of holin activity	GO_1901218	0	1	0	0	0
-negative regulation of germ tube formation on or near host	GO_0075012	0	1	0	0	0
-negative regulation of formation by symbiont of haustorium for nutrient acquisition from host	GO_0075047	0	1	0	0	0
-negative regulation of entry of bacterium into host cell	GO_2000536	0	1	0	0	0
-negative regulation of encysted zoospore germination on or near host	GO_0075229	0	1	0	0	0
-negative regulation of cytolysis by symbiont of host cells	GO_0001899	0	1	0	0	0
 negative regulation of calcium or calmodulin-mediated signal transduction in response to host	GO_0075179	0	1	0	0	0
 negative regulation of cAMP-mediated signaling in response to host	GO_0075176	0	1	0	0	0
-negative regulation of arbuscule formation for nutrient acquisition from host	GO_0075331	0	1	0	0	0
 negative regulation of MAP kinase-mediated signal transduction in response to host	GO_0075173	0	1	0	0	0
 negative regulation of G-protein gamma subunit-mediated signal transduction in response to host	GO_0075167	0	1	0	0	0
 negative regulation of G-protein coupled receptor protein signaling pathway in response to host	GO_0075158	0	1	0	0	0
@@ -401,18 +357,7 @@ negative aerotaxis in host	GO_0052135	0	1	0	0	0
 movement on or near host	GO_0052127	0	1	0	0	0
 movement in host environment	GO_0052126	0	1	0	0	0
 movement in host	GO_0044000	0	1	0	0	0
-modulation of zoospore movement on or near host	GO_0075235	0	1	0	0	0
-modulation of symbiont penetration peg initiation	GO_0075058	0	1	0	0	0
-modulation of symbiont penetration peg formation for entry into host	GO_0075054	0	1	0	0	0
-modulation of symbiont penetration hypha formation for entry into host	GO_0075202	0	1	0	0	0
-modulation of symbiont haustorium neck formation for entry into host	GO_0075198	0	1	0	0	0
-modulation of symbiont cell wall strengthening involved in entry into host	GO_0075049	0	1	0	0	0
 modulation of symbiont adenylate cyclase-mediated signal transduction in response to host	GO_0075334	0	1	0	0	0
-modulation of spore movement on or near host	GO_0075231	0	1	0	0	0
-modulation of spore germination on or near host	GO_0075006	0	1	0	0	0
-modulation of germ tube formation on or near host	GO_0075010	0	1	0	0	0
-modulation of encysted zoospore germination on or near host	GO_0075227	0	1	0	0	0
-modulation by virus of syncytium formation via plasma membrane fusion	GO_0060140	0	1	0	0	0
 modulation by virus of host ubiquitin-protein ligase activity	GO_0039649	0	1	0	0	0
 modulation by virus of host translation	GO_0019057	0	1	0	0	0
 modulation by virus of host transcription	GO_0019056	0	1	0	0	0
@@ -426,6 +371,7 @@ modulation by virus of host morphology or physiology	GO_0019048	0	1	0	0	0
 modulation by virus of host molecular function	GO_0039506	0	1	0	0	0
 modulation by virus of host immune response	GO_0075528	0	1	0	0	0
 modulation by virus of host gene expression	GO_0039656	0	1	0	0	0
+modulation by virus of host cytoplasmic transport	GO_1903652	0	1	0	0	0
 modulation by virus of host cytokine production	GO_0044831	0	1	0	0	0
 modulation by virus of host chromatin organization	GO_0039525	0	1	0	0	0
 modulation by virus of host cell division	GO_0044863	0	1	0	0	0
@@ -494,6 +440,7 @@ modulation by symbiont of host defense response	GO_0052031	0	1	0	0	0
 modulation by symbiont of host cholinergic synaptic transmission	GO_0044760	0	1	0	0	0
 modulation by symbiont of host cellular process	GO_0044068	0	1	0	0	0
 modulation by symbiont of host cell-mediated immune response	GO_0052155	0	1	0	0	0
+modulation by symbiont of host cell motility	GO_1903653	0	1	0	0	0
 modulation by symbiont of host cell cycle	GO_0044071	0	1	0	0	0
 modulation by symbiont of host catalytic activity	GO_0052148	0	1	0	0	0
 modulation by symbiont of host calcium or calmodulin-mediated signal transduction	GO_0075133	0	1	0	0	0
@@ -566,7 +513,6 @@ metabolism by symbiont of host cell wall pectin	GO_0052179	0	1	0	0	0
 metabolism by symbiont of host cell wall chitin	GO_0052178	0	1	0	0	0
 metabolism by symbiont of host cell wall cellulose	GO_0052172	0	1	0	0	0
 metabolism by symbiont of host carbohydrate	GO_0052175	0	1	0	0	0
-membrane fusion involved in viral entry into host cell	GO_0039663	0	1	0	0	0
 maintenance of symbiont tolerance to host redox environment	GO_0075143	0	1	0	0	0
 maintenance of symbiont tolerance to host pH environment	GO_0075238	0	1	0	0	0
 maintenance of symbiont tolerance to host oxygen tension environment	GO_0075142	0	1	0	0	0
@@ -574,17 +520,12 @@ maintenance of symbiont tolerance to host osmotic environment	GO_0075146	0	1	0	0
 maintenance of symbiont tolerance to host iron concentration	GO_0075144	0	1	0	0	0
 maintenance of symbiont tolerance to host environment	GO_0075141	0	1	0	0	0
 maintenance of symbiont tolerance to host defense molecules	GO_0075145	0	1	0	0	0
-macropinosome lysis involved in viral entry into host cell	GO_0075511	0	1	0	0	0
-macropinosomal membrane permeabilization involved in viral entry into host cell	GO_0075504	0	1	0	0	0
-macropinocytosis involved in viral entry into host cell	GO_0075510	0	1	0	0	0
-lysis of host organelle involved in viral entry into host cell	GO_0039664	0	1	0	0	0
 killing by virus of host cell during superinfection exclusion	GO_0039634	0	1	0	0	0
 killing by virus of host cell by post-segregational killing	GO_0044696	0	1	0	0	0
 killing by virus of host cell	GO_0039633	0	1	0	0	0
 killing by symbiont of host cells	GO_0001907	0	1	0	0	0
 iron acquisition by symbiont from host	GO_0044847	0	1	0	0	0
 intracellular transport of viral protein in host cell	GO_0019060	0	1	0	0	0
-initiation of symbiont penetration peg	GO_0075057	0	1	0	0	0
 induction of host immune response by virus	GO_0046730	0	1	0	0	0
 induction by virus of phosphorylation of host RNA polymerase II	GO_0046793	0	1	0	0	0
 induction by virus of host protein phosphorylation	GO_0039614	0	1	0	0	0
@@ -611,23 +552,7 @@ induction by symbiont in host of tumor, nodule, or growth containing transformed
 induction by symbiont in host of tumor, nodule, or growth	GO_0044005	0	1	0	0	0
 immortalization of host cell by virus	GO_0019088	0	1	0	0	0
 immortalization of host cell	GO_0020021	0	1	0	0	0
-host gene silencing in virus induced gene silencing	GO_0060146	0	1	0	0	0
-host cellular process involved in virus induced gene silencing	GO_0060144	0	1	0	0	0
-holin activity	GO_0034290	0	1	0	0	0
 hemolysis by symbiont of host erythrocytes	GO_0019836	0	1	0	0	0
-germ tube formation on or near host	GO_0075009	0	1	0	0	0
-fusion of virus membrane with host plasma membrane	GO_0019064	0	1	0	0	0
-fusion of virus membrane with host macropinosome membrane	GO_0075503	0	1	0	0	0
-fusion of virus membrane with host endosome membrane	GO_0039654	0	1	0	0	0
-formation of symbiont penetration peg for entry into host	GO_0075053	0	1	0	0	0
-formation of symbiont penetration hypha for entry into host	GO_0075201	0	1	0	0	0
-formation of symbiont haustorium neck for entry into host	GO_0075197	0	1	0	0	0
-formation of specialized structure for nutrient acquisition from host	GO_0052093	0	1	0	0	0
-formation by symbiont of syncytium involving giant cell for nutrient acquisition from host	GO_0052096	0	1	0	0	0
-formation by symbiont of stylet for nutrient acquisition from host	GO_0085001	0	1	0	0	0
-formation by symbiont of haustorium for nutrient acquisition from host	GO_0052094	0	1	0	0	0
-formation by symbiont of arbuscule for nutrient acquisition from host	GO_0075328	0	1	0	0	0
-formation by symbiont of a tubovesicular network for nutrient acquisition from host	GO_0085019	0	1	0	0	0
 exit from host cell	GO_0035891	0	1	0	0	0
 exit from host	GO_0035890	0	1	0	0	0
 evasion or tolerance of host immune response	GO_0020012	0	1	0	0	0
@@ -652,10 +577,6 @@ entry into host	GO_0044409	0	1	0	0	0
 energy taxis within host	GO_0052124	0	1	0	0	0
 energy taxis on or near host	GO_0052125	0	1	0	0	0
 energy taxis in host environment	GO_0052115	0	1	0	0	0
-endosome membrane permeabilization involved in viral entry into host cell	GO_0075502	0	1	0	0	0
-endosome lysis involved in viral entry into host cell	GO_0075514	0	1	0	0	0
-endoribonuclease activity involved in viral induction of host mRNA catabolic process	GO_0039594	0	1	0	0	0
-endocytosis involved in viral entry into host cell	GO_0075509	0	1	0	0	0
 encysted zoospore germination on or near host	GO_0075226	0	1	0	0	0
 effector dependent induction by symbiont of host immune response	GO_0080185	0	1	0	0	0
 dissemination or transmission of symbiont from host by vector	GO_0044008	0	1	0	0	0
@@ -673,12 +594,9 @@ cytolysis by virus via pore formation in host cell membrane	GO_0044660	0	1	0	0	0
 cytolysis by virus of host cell	GO_0044659	0	1	0	0	0
 cytolysis by symbiont of host cells	GO_0001897	0	1	0	0	0
 cleavage by virus of host mRNA	GO_0039599	0	1	0	0	0
-clathrin-mediated endocytosis of virus by host cell	GO_0075512	0	1	0	0	0
 chemotaxis within host	GO_0052142	0	1	0	0	0
 chemotaxis on or near host involved in symbiotic interaction	GO_0052143	0	1	0	0	0
 chemotaxis in host environment	GO_0052116	0	1	0	0	0
-cell wall strengthening in symbiont involved in entry into host	GO_0075048	0	1	0	0	0
-caveolin-mediated endocytosis of virus by host cell	GO_0075513	0	1	0	0	0
 catabolism by virus of host DNA	GO_0039637	0	1	0	0	0
 catabolism by symbiont of substance in host	GO_0052006	0	1	0	0	0
 catabolism by symbiont of host xylan	GO_0052017	0	1	0	0	0
@@ -689,11 +607,8 @@ catabolism by symbiont of host cell wall pectin	GO_0052011	0	1	0	0	0
 catabolism by symbiont of host cell wall chitin	GO_0052012	0	1	0	0	0
 catabolism by symbiont of host cell wall cellulose	GO_0052010	0	1	0	0	0
 catabolism by symbiont of host carbohydrate	GO_0052015	0	1	0	0	0
-canonical holin activity	GO_0034291	0	1	0	0	0
 biosynthesis by symbiont of substance in host	GO_0052007	0	1	0	0	0
 avoidance of host defenses	GO_0044413	0	1	0	0	0
-autophagy of symbiont cells on or near host surface	GO_0075073	0	1	0	0	0
-autophagy of symbiont cells involved in interaction with host	GO_0075072	0	1	0	0	0
 aerotaxis on or near host	GO_0052138	0	1	0	0	0
 aerotaxis in host environment	GO_0052117	0	1	0	0	0
 aerotaxis in host	GO_0052137	0	1	0	0	0
@@ -708,10 +623,7 @@ active evasion of host immune response via regulation of host complement system	
 active evasion of host immune response via regulation of host antigen processing and presentation	GO_0042786	0	1	0	0	0
 active evasion of host immune response	GO_0042783	0	1	0	0	0
 activation by virus of host NF-kappaB transcription factor activity	GO_0039652	0	1	0	0	0
-actin polymerization-dependent cell motility involved in migration of symbiont in host	GO_0070359	0	1	0	0	0
 acquisition of nutrients from host	GO_0044002	0	1	0	0	0
 acquisition by symbiont of nutrients from host via siderophores	GO_0052099	0	1	0	0	0
-TFIIB-class transcription factor binding involved in viral suppression of host transcription initiation from RNA polymerase II promoter	GO_0039605	0	1	0	0	0
-TBP-class protein binding involved in viral suppression of host transcription initiation from RNA polymerase II promoter	GO_0039603	0	1	0	0	0
 RNA virus induced gene silencing	GO_0051214	0	1	0	0	0
 DNA virus induced gene silencing	GO_0051215	0	1	0	0	0

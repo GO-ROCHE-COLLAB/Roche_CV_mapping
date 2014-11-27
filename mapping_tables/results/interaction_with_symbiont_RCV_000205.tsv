@@ -26,18 +26,7 @@ suppression by virus of host JAK1 activity via JAK1 binding	GO_0039578	0	1	0	0	0
 suppression by virus of host JAK1 activity by negative regulation of JAK1 phosphorylation	GO_0039577	0	1	0	0	0
 suppression by virus of host JAK1 activity	GO_0039576	0	1	0	0	0
 suppression by virus of host ATP-dependent RNA helicase activity	GO_0039510	0	1	0	0	0
-regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	0	0	0
-regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	0	1	0	0	0
-regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	0	1	0	0	0
-regulation of neutrophil mediated killing of fungus	GO_0070953	0	1	0	0	0
-regulation of neutrophil mediated killing of bacterium	GO_0070950	0	1	0	0	0
-regulation by host of cytolysis of symbiont cells	GO_0051839	0	1	0	0	0
 recognition of symbiont	GO_0051855	0	1	0	0	0
-positive regulation of neutrophil mediated killing of symbiont cell	GO_0070961	0	1	0	0	0
-positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	0	1	0	0	0
-positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	0	1	0	0	0
-positive regulation of neutrophil mediated killing of fungus	GO_0070965	0	1	0	0	0
-positive regulation of neutrophil mediated killing of bacterium	GO_0070962	0	1	0	0	0
 positive regulation by symbiont of host catalytic activity	GO_0043948	0	1	0	0	0
 positive regulation by symbiont of host adenylate cyclase activity	GO_0075107	0	1	0	0	0
 positive regulation by host of viral transcription	GO_0043923	0	1	0	0	0
@@ -62,7 +51,6 @@ positive regulation by host of symbiont adenylate cyclase activity	GO_0075076	0	
 positive regulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075088	0	1	0	0	0
 positive regulation by host of nutrient release from symbiont	GO_0052519	0	1	0	0	0
 positive regulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052502	0	1	0	0	0
-positive regulation by host of cytolysis of symbiont cells	GO_0051841	0	1	0	0	0
 occlusion by host of symbiont xylem	GO_0052496	0	1	0	0	0
 occlusion by host of symbiont vascular system	GO_0052494	0	1	0	0	0
 neutrophil mediated killing of symbiont cell	GO_0070943	0	1	0	0	0
@@ -70,11 +58,6 @@ neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	0	0	0
 neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	0	0	0
 neutrophil mediated killing of fungus	GO_0070947	0	1	0	0	0
 neutrophil mediated killing of bacterium	GO_0070944	0	1	0	0	0
-negative regulation of neutrophil mediated killing of symbiont cell	GO_0070955	0	1	0	0	0
-negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	0	1	0	0	0
-negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	0	1	0	0	0
-negative regulation of neutrophil mediated killing of fungus	GO_0070959	0	1	0	0	0
-negative regulation of neutrophil mediated killing of bacterium	GO_0070956	0	1	0	0	0
 negative regulation by symbiont of host peptidase activity	GO_0052054	0	1	0	0	0
 negative regulation by symbiont of host catalytic activity	GO_0052053	0	1	0	0	0
 negative regulation by symbiont of host adenylate cyclase activity	GO_0075108	0	1	0	0	0
@@ -102,7 +85,6 @@ negative regulation by host of symbiont adenylate cyclase-mediated signal transd
 negative regulation by host of symbiont adenylate cyclase activity	GO_0075077	0	1	0	0	0
 negative regulation by host of symbiont MAP kinase-mediated signal transduction	GO_0075102	0	1	0	0	0
 negative regulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075089	0	1	0	0	0
-negative regulation by host of cytolysis of symbiont cells	GO_0051840	0	1	0	0	0
 movement on or near symbiont	GO_0052194	0	1	0	0	0
 movement in symbiont environment	GO_0052193	0	1	0	0	0
 modulation by virus of host ubiquitin-protein ligase activity	GO_0039649	0	1	0	0	0
@@ -165,7 +147,6 @@ induction by virus of host endoribonuclease activity	GO_0039597	0	1	0	0	0
 induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039651	0	1	0	0	0
 induction by virus of host catalytic activity	GO_0039712	0	1	0	0	0
 host cellular process involved in virus induced gene silencing	GO_0060144	0	1	0	0	0
-formation by host of specialized structure for nutrient acquisition from symbiont	GO_0052098	0	1	0	0	0
 evasion or tolerance of symbiont defenses	GO_0051860	0	1	0	0	0
 disruption by host of symbiont cellular component	GO_0052367	0	1	0	0	0
 disruption by host of symbiont cells	GO_0051852	0	1	0	0	0

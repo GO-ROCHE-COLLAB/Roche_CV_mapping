@@ -751,16 +751,31 @@ modulation by symbiont of host anion transport	GO_0044069	0	1	0	0	0
 modified amino acid transport	GO_0072337	0	1	0	0	0
 modified amino acid transmembrane transporter activity	GO_0072349	0	1	0	0	0
 mobile ion carrier activity	GO_0022809	0	1	0	0	0
+mitochondrial tricarboxylic acid transmembrane transport	GO_1990546	0	1	0	0	0
+mitochondrial thiamine pyrophosphate transmembrane transport	GO_1990545	0	1	0	0	0
+mitochondrial sulfate transmembrane transport	GO_1990557	0	1	0	0	0
 mitochondrial pyruvate transport	GO_0006850	0	1	0	0	0
 mitochondrial pyruvate transmembrane transport	GO_1902361	0	1	0	0	0
+mitochondrial phosphate ion transmembrane transport	GO_1990547	0	1	0	0	0
+mitochondrial oxaloacetate transmembrane transport	GO_1990555	0	1	0	0	0
 mitochondrial ornithine transport	GO_0000066	0	1	0	0	0
 mitochondrial manganese ion transmembrane transport	GO_1990540	0	1	0	0	0
+mitochondrial malonate(1-) transmembrane transport	GO_1990558	0	1	0	0	0
 mitochondrial magnesium ion transport	GO_0045016	0	1	0	0	0
+mitochondrial isopropylmalate transmembrane transport	GO_1990556	0	1	0	0	0
 mitochondrial iron ion transport	GO_0048250	0	1	0	0	0
+mitochondrial coenzyme A transmembrane transport	GO_1990559	0	1	0	0	0
 mitochondrial citrate transport	GO_0006843	0	1	0	0	0
 mitochondrial citrate transmembrane transport	GO_1990541	0	1	0	0	0
 mitochondrial calcium ion transport	GO_0006851	0	1	0	0	0
+mitochondrial alpha-ketoglutarate transmembrane transport	GO_1990550	0	1	0	0	0
+mitochondrial S-adenosyl-L-methionine transmembrane transport	GO_1990543	0	1	0	0	0
+mitochondrial FAD transmembrane transport	GO_1990548	0	1	0	0	0
+mitochondrial ATP transmembrane transport	GO_1990544	0	1	0	0	0
 mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	0	0	0
+mitochondrial 5'-adenylyl sulfate transmembrane transport	GO_1990553	0	1	0	0	0
+mitochondrial 3'-phospho-5'-adenylyl sulfate transmembrane transport	GO_1990554	0	1	0	0	0
+mitochondrial 2-oxoadipate transmembrane transport	GO_1990551	0	1	0	0	0
 mevalonate transport	GO_0015728	0	1	0	0	0
 mevalonate transmembrane transporter activity	GO_0015130	0	1	0	0	0
 methylammonium transport	GO_0015843	0	1	0	0	0

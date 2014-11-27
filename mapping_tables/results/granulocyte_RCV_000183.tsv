@@ -22,8 +22,10 @@ neutrophil mediated killing of bacterium	GO_0070944	0	1	1	0	0
 neutrophil mediated immunity	GO_0002446	0	1	1	0	0
 neutrophil mediated cytotoxicity	GO_0070942	0	1	1	0	0
 neutrophil homeostasis	GO_0001780	0	1	1	0	0
+neutrophil extravasation	GO_0072672	0	1	0	0	0
 neutrophil degranulation	GO_0043312	0	1	1	0	0
 neutrophil chemotaxis	GO_0030593	0	1	1	0	0
+neutrophil aggregation	GO_0070488	0	1	0	0	0
 neutrophil activation involved in immune response	GO_0002283	0	1	1	0	0
 neutrophil activation	GO_0042119	0	1	1	0	0
 histamine secretion by basophil	GO_0002557	0	1	1	0	0
