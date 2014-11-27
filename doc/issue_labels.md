@@ -18,3 +18,6 @@ Please don't review yet.
 
 * [Ready_for_review_by_Roche](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/labels/Ready_for_review_by_Roche)
 Please review ASAP and close with mapping_completed tag if OK.
+
+* [question](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/labels/question)
+What is says on the tin.  Typically a question for Roche that needs answering in order to determine the best key class and pattern to use for auto-mapping.
