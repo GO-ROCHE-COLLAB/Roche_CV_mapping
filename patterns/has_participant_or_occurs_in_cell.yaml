@@ -1,0 +1,29 @@
+pattern_name: has_participant_cell
+
+classes: 
+  "cell": CL_0000000
+  
+relations:
+   has participant or occurs in: ""
+
+vars: 
+  key_class: "'cell'"
+
+name: 
+  text: "process occurring in or involving %s"
+  vars: 
+    - key_class
+    
+def: 
+  text: "Any process that has %s as a participant or that occurs in %s."
+  vars:
+    - key_class
+    - key_class
+    
+    
+equivalentTo: 
+  text: "'has participant or occurs in' some %s"
+  vars:
+    - key_class
+
+
