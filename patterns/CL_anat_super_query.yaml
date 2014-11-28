@@ -1,0 +1,34 @@
+pattern_name: has_participant_or_occurs_in
+
+classes: 
+  "cell": CL_0000000
+  "anatomical entity": UBERON_0001062
+  "cellular_component": GO_0005575
+  
+
+relations:
+  "CL-anat_super_query": scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5
+  
+vars: 
+  key_class: "'cell' or 'anatomical entity' or 'cellular_component'"
+
+name: 
+  text: "Process involving %s or its development"
+  vars: 
+    - key_class
+    
+def: 
+  text: "A process in which a %s participates or that occur in %s or which results in the developmental progression of a structure that will form %s"
+  vars:
+    - key_class
+    - key_class
+    - key_class
+
+
+    
+equivalentTo: 
+  text: "'scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5' some %s"
+  vars:
+    - key_class
+
+

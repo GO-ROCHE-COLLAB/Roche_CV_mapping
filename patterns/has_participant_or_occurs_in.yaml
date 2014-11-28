@@ -1,0 +1,31 @@
+pattern_name: has_participant_or_occurs_in
+
+classes: 
+  "cell": CL_0000000
+  "anatomical entity": UBERON_0001062
+  "cellular_component": GO_0005575
+  
+relations:
+  "has_participant_OR_occurs_in": scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8
+
+vars: 
+  key_class: "'cell' or 'anatomical entity' or 'cellular_component'"
+
+name: 
+  text: "process involving %s"
+  vars: 
+    - key_class
+    
+def: 
+  text: "A process in which a %s participates or that occur in %s"
+  vars:
+    - key_class
+    - key class
+    
+    
+equivalentTo: 
+  text: "'has_participant_OR_occurs_in' some %s"
+  vars:
+    - key_class
+
+
