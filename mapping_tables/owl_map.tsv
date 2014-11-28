@@ -1,14 +1,14 @@
 RCV_NAME	RCV_ID	Key Class Name	Key Class ID	Applied pattern	Notes	issue	issue_state
 nucleotide binding process	RCV_000253	nucleotide binding	GO_0000166	Equivalence	The manual mappings for this class are an odd Gimish. Ask for clarification of intent.		
-neutrophil	RCV_000248	neutrophil	CL_0000775	has_participant_cell			
-pancreatic stellate cell	RCV_000273	pancreatic stellate cell	CL_0002410	has_participant_cell			
+neutrophil	RCV_000248	neutrophil	CL_0000775	has_participant_OR_occurs_in			
+pancreatic stellate cell	RCV_000273	pancreatic stellate cell	CL_0002410	has_participant_OR_occurs_in			
 cell morphogenesis	RCV_000121	cell morphogenesis	GO_0000902	is_a_OR_part_of_OR_regulates			
 vessel development	RCV_000349	blood vessel development	GO_0001568	is_a_OR_part_of_OR_regulates			
 hypoxia	RCV_000194	response to hypoxia	GO_0001666	is_a_OR_part_of_OR_regulates			
 kidney function	RCV_000215	renal system process	GO_0003014	is_a_OR_part_of_OR_regulates			
 enzyme	RCV_000153	catalytic activity	GO_0003824	Equivalence			
 sphingolipid metabolic process	RCV_000309	sphingolipid metabolic process	GO_0006665	Equivalence			
-ion transport	RCV_000211	ion transport	GO_0006811	is_a_OR_part_of_OR_regulates			
+ion transport	RCV_000211	metal ion transport	GO_0030001	is_a_OR_part_of_OR_regulates			
 apoptosis	RCV_000066	apoptotic process	GO_0006915	is_a_OR_part_of_OR_regulates			
 syncytium formation	RCV_000322	syncytium formation	GO_0006949	is_a_OR_part_of_OR_regulates			
 inflammation	RCV_000198	inflammatory response	GO_0006954	is_a_OR_part_of_OR_regulates			
@@ -187,14 +187,14 @@ autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equiv
 apoptosis kidney	RCV_000069	apoptotic process that part of some kidney development'	(GO_0006915 that BFO_0000050 some GO_0001822)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 apoptosis heart	RCV_000068	apoptotic process that part of some heart development'	(GO_0006915 that BFO_0000050 some GO_0007507)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 apoptosis glands	RCV_000067	apoptotic process that part of some gland development'	(GO_0006915 that BFO_0000050 some GO_0048732)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
-fibroblast	RCV_000166	fibroblast	CL_0000057	has_participant_cell			
+fibroblast	RCV_000166	fibroblast	CL_0000057	CL-anat_super_query			
 epithelial to mesenchymal transition	RCV_000159	epithelial to mesenchymal transition	GO_0001837	is_a_OR_part_of_OR_regulates			
 epithelial cell migration	RCV_000156	epithelial cell migration	GO_0010631	is_a_OR_part_of_OR_regulates			
 epithelial cell differentiation	RCV_000155	epithelial cell differentiation	GO_0030855	Equivalence			
 taxis	RCV_000323	taxis	GO_0042330	is_a_OR_part_of_OR_regulates			
 epithelial cell proliferation	RCV_000157	epithelial cell proliferation	GO_0050673	is_a_OR_part_of_OR_regulates			
 glands	RCV_000169	gland	UBERON_0002530	?has_participant / occurs in ?			
-T helper	RCV_000038	helper T cell	CL_0000912	has_participant_cell		32	open
+T helper	RCV_000038	helper T cell	CL_0000912	CL_anat_super_query		32	open
 glucocorticoid	RCV_000173	glucocorticoid	CHEBI_24261	has_participant_chemical			
 glucagon	RCV_000172	glucagon	CHEBI_5391	has_participant_chemical			
 nervous development	RCV_000243	nervous system development	GO_0007399	is_a_OR_part_of			
@@ -254,34 +254,34 @@ chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	Equivalence		249	open
 purine metabolism	RCV_000291	purine-containing compound metabolic process	GO_0072521	Equivalence	Manual mapping includes regulation terms - doesn't fit pattern for other metabolism terms.  Could switch pattern to include regulation terms, but should I?	96	open
 insulin metabolism	RCV_000202	insulin metabolic process	GO_1901142	Equivalence		103	open
 aminoacid metabolism	RCV_000058	alpha-amino acid metabolic process	GO_1901605	Equivalence		81	closed - mapping completed
-oocyte	RCV_000256	oocyte	CL_0000023	has_participant_cell		144	open
-stem cell	RCV_000313	stem cell	CL_0000034	has_participant_cell		146	open
-myoblast	RCV_000240	myoblast	CL_0000056	has_participant_cell		215	open
-epithelial cells	RCV_000158	epithelial cell	CL_0000066	has_participant_cell		200	open
-T cells	RCV_000037	T cell	CL_0000084	has_participant_cell	Also need inference of regulation of processes in which T cells participate?	49	closed
-granulocyte	RCV_000183	granulocyte	CL_0000094	has_participant_cell		190	open
-mast cell	RCV_000230	mast cell	CL_0000097	has_participant_cell		176	open
-stellate cell	RCV_000312	stellate cell	CL_0000122	has_participant_cell		145	open
-pancreas B cells	RCV_000265	type B pancreatic cell	CL_0000169	has_participant_cell		155	open
-pancreatic A cell	RCV_000269	pancreatic A cell	CL_0000171	has_participant_cell		157	open
-pancreatic D cell	RCV_000270	pancreatic D cell	CL_0000173	has_participant_cell		188	open
-hepatocyte	RCV_000189	hepatocyte	CL_0000182	has_participant_cell		211	open
-erythrocyte	RCV_000160	erythrocyte	CL_0000232	has_participant_cell		167	open
-platelet	RCV_000281	platelet	CL_0000233	has_participant_cell		141	open
-macrophage	RCV_000229	macrophage	CL_0000235	has_participant_cell		149	open
-B cells	RCV_000001	B cell	CL_0000236	has_participant_cell	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.	44	closed
-keratinocyte	RCV_000213	keratinocyte	CL_0000312	has_participant_cell		142	open
-dendritic cell	RCV_000141	dendritic cell	CL_0000451	has_participant_cell	Misses regulation terms.  May be possible to tweak pattern to get these in.	242	open
-lymphocyte	RCV_000226	lymphocyte	CL_0000542	has_participant_cell		150	open
-monocyte	RCV_000238	monocyte	CL_0000576	has_participant_cell		174	open
-NK cells	RCV_000026	natural killer cell	CL_0000623	has_participant_cell		47	open
-hepatic stellate cell	RCV_000188	hepatic stellate cell	CL_0000632	has_participant_cell		212	open
-mesangial cell	RCV_000232	mesangial cell	CL_0000650	has_participant_cell		178	open
-basophil	RCV_000081	basophil	CL_0000767	has_participant_cell		148	open
-eosinophil	RCV_000154	eosinophil	CL_0000771	has_participant_cell		199	open
-pancreatic PP cell	RCV_000272	pancreatic PP cell	CL_0002275	has_participant_cell		189	open
-pancreatic E cell	RCV_000271	pancreatic epsilon cell	CL_0005019	has_participant_cell		187	open
-cerebellar stellate cell	RCV_000132	cerebellar stellate cell	CL_0010010	has_participant_cell		151	open
+oocyte	RCV_000256	oocyte	CL_0000023	has_participant_OR_occurs_in		144	open
+stem cell	RCV_000313	stem cell	CL_0000034	has_participant_OR_occurs_in		146	open
+myoblast	RCV_000240	myoblast	CL_0000056	has_participant_OR_occurs_in		215	open
+epithelial cells	RCV_000158	epithelial cell	CL_0000066	has_participant_OR_occurs_in		200	open
+T cells	RCV_000037	T cell	CL_0000084	has_participant_OR_occurs_in	Also need inference of regulation of processes in which T cells participate?	49	closed
+granulocyte	RCV_000183	granulocyte	CL_0000094	has_participant_OR_occurs_in		190	open
+mast cell	RCV_000230	mast cell	CL_0000097	has_participant_OR_occurs_in		176	open
+stellate cell	RCV_000312	stellate cell	CL_0000122	has_participant_OR_occurs_in		145	open
+pancreas B cells	RCV_000265	type B pancreatic cell	CL_0000169	has_participant_OR_occurs_in		155	open
+pancreatic A cell	RCV_000269	pancreatic A cell	CL_0000171	has_participant_OR_occurs_in		157	open
+pancreatic D cell	RCV_000270	pancreatic D cell	CL_0000173	has_participant_OR_occurs_in		188	open
+hepatocyte	RCV_000189	hepatocyte	CL_0000182	has_participant_OR_occurs_in		211	open
+erythrocyte	RCV_000160	erythrocyte	CL_0000232	has_participant_OR_occurs_in		167	open
+platelet	RCV_000281	platelet	CL_0000233	has_participant_OR_occurs_in		141	open
+macrophage	RCV_000229	macrophage	CL_0000235	has_participant_OR_occurs_in		149	open
+B cells	RCV_000001	B cell	CL_0000236	has_participant_OR_occurs_in	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.	44	closed
+keratinocyte	RCV_000213	keratinocyte	CL_0000312	has_participant_OR_occurs_in		142	open
+dendritic cell	RCV_000141	dendritic cell	CL_0000451	has_participant_OR_occurs_in	Misses regulation terms.  May be possible to tweak pattern to get these in.	242	open
+lymphocyte	RCV_000226	lymphocyte	CL_0000542	has_participant_OR_occurs_in		150	open
+monocyte	RCV_000238	monocyte	CL_0000576	has_participant_OR_occurs_in		174	open
+NK cells	RCV_000026	natural killer cell	CL_0000623	has_participant_OR_occurs_in		47	open
+hepatic stellate cell	RCV_000188	hepatic stellate cell	CL_0000632	has_participant_OR_occurs_in		212	open
+mesangial cell	RCV_000232	mesangial cell	CL_0000650	has_participant_OR_occurs_in		178	open
+basophil	RCV_000081	basophil	CL_0000767	has_participant_OR_occurs_in		148	open
+eosinophil	RCV_000154	eosinophil	CL_0000771	has_participant_OR_occurs_in		199	open
+pancreatic PP cell	RCV_000272	pancreatic PP cell	CL_0002275	has_participant_OR_occurs_in		189	open
+pancreatic E cell	RCV_000271	pancreatic epsilon cell	CL_0005019	has_participant_OR_occurs_in		187	open
+cerebellar stellate cell	RCV_000132	cerebellar stellate cell	CL_0010010	has_participant_OR_occurs_in		151	open
 vitamin A	RCV_000351	vitamin A	CHEBI_12777	has_participant_chemical		206	open
 acetylcholine	RCV_000047	acetylcholine	CHEBI_15355	has_participant_chemical		74	closed
 UDP metabolism	RCV_000044	UDP-sugar	CHEBI_17297	has_participant_chemical		69	closed - mapping completed
@@ -291,14 +291,14 @@ terpenoid	RCV_000325	terpenoid	CHEBI_26873	has_participant_chemical		113	open
 vitamin D	RCV_000353	vitamin D	CHEBI_27300	has_participant_chemical		117	closed - mapping completed
 vitamin K	RCV_000354	vitamin K	CHEBI_28384	has_participant_chemical		118	closed - mapping completed
 bile acid	RCV_000085	bile acid	CHEBI_3098	has_participant_chemical		231	open
-TCA metabolism	RCV_000039	tricarboxylic acid anion	CHEBI_35753	has_participant_chemical		62	open
+TCA metabolism	RCV_000039	citric acid	CHEBI_30769	has_participant_chemical		62	open
 beta-amyloid	RCV_000084	beta-amyloid	CHEBI_64645	has_participant_chemical			
 cannabinoid	RCV_000095	cannabinoid	CHEBI_67194	has_participant_chemical		171	open
 auxin	RCV_000077	substance with auxin biological role	GOCHE_22676	has_participant_chemical		228	closed - mapping completed
 NF-kappaB pathway	RCV_000024	I-kappaB kinase/NF-kappaB signaling	GO_0007249	is_a_OR_part_of		16	closed - mapping completed
 PNS development	RCV_000029	peripheral nervous system development	GO_0007422	is_a_OR_part_of		39	closed - mapping completed
 RNA interference	RCV_000031	RNA interference	GO_0016246	is_a_OR_part_of	Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?	53	closed - mapping completed
-DNA damage	RCV_000006	DNA damage response, detection of DNA damage	GO_0042769	is_a_OR_part_of		38	open
+DNA damage	RCV_000006	cellular response to DNA damage stimulus	GO_0006974	is_a_OR_part_of_OR_regulates		38	open
 zinc ion homeostasis	RCV_000359	zinc ion homeostasis	GO_0055069	is_a_OR_part_of	Internal: GO axiomatisation insufficient?	73	open
 SMAD pathway	RCV_000033	SMAD protein signal transduction	GO_0060395	is_a_OR_part_of		46	open
 MAPK signalling	RCV_000022	MAPK cascade	GO_0000165	is_a_OR_part_of_OR_regulates		35	open
@@ -324,7 +324,7 @@ FGF pathway	RCV_000016	fibroblast growth factor receptor signaling pathway	GO_00
 Wnt pathway	RCV_000046	Wnt signaling pathway	GO_0016055	is_a_OR_part_of_OR_regulates	better to choose cannonical wnt pathway? Non-cannonical appears to be missing from manual mapping.	251	open
 cerebellum	RCV_000133	cerebellum development	GO_0021549	is_a_OR_part_of_OR_regulates		250	open
 optic nerve development	RCV_000258	optic nerve development	GO_0021554	is_a_OR_part_of_OR_regulates		120	closed - mapping completed
-digestive tract function	RCV_000144	digestive system process	GO_0022600	is_a_OR_part_of_OR_regulates	Massively larger auto mapping! 	244	open
+digestive tract function	RCV_000144	digestion	GO_0007586	is_a_OR_part_of_OR_regulates	Massively larger auto mapping! 	244	open
 protein degradation	RCV_000283	protein catabolic process	GO_0030163	is_a_OR_part_of_OR_regulates			
 lung development	RCV_000224	lung development	GO_0030324	is_a_OR_part_of_OR_regulates		124	open
 adrenal	RCV_000052	adrenal gland development	GO_0030325	is_a_OR_part_of_OR_regulates		237	closed - mapping completed
