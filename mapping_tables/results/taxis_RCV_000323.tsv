@@ -151,6 +151,7 @@ regulation of lymphocyte chemotaxis	GO_1901623	0	1	0	0	0
 regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
 regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
 regulation of dendritic cell chemotaxis	GO_2000508	0	1	0	0	0
+regulation of chemorepellent activity	GO_1903667	0	1	0	0	0
 regulation of chemokine activity	GO_1900136	0	1	0	0	0
 regulation of axon guidance	GO_1902667	0	1	0	0	0
 regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0	0
@@ -165,6 +166,7 @@ positive regulation of endothelial cell chemotaxis to fibroblast growth factor	G
 positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
 positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
 positive regulation of dendritic cell chemotaxis	GO_2000510	0	1	0	0	0
+positive regulation of chemorepellent activity	GO_1903669	0	1	0	0	0
 positive regulation of axon guidance	GO_1902669	0	1	0	0	0
 positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0	0
 positive regulation of T cell chemotaxis	GO_0010820	0	1	0	0	0
@@ -187,6 +189,7 @@ negative regulation of lymphocyte chemotaxis	GO_1901624	0	1	0	0	0
 negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
 negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
 negative regulation of dendritic cell chemotaxis	GO_2000509	0	1	0	0	0
+negative regulation of chemorepellent activity	GO_1903668	0	1	0	0	0
 negative regulation of chemokine activity	GO_1900137	0	1	0	0	0
 negative regulation of axon guidance	GO_1902668	0	1	0	0	0
 negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0	0

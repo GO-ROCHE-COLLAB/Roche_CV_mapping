@@ -1,5 +1,9 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+macrophage tolerance induction	GO_0010931	1	1	1	0	0
+macrophage cytokine production	GO_0010934	1	1	1	0	0
 macrophage chemotaxis	GO_0048246	1	1	1	0	0
+macrophage apoptotic process	GO_0071888	1	1	1	0	0
+macrophage antigen processing and presentation	GO_0002472	1	1	1	0	0
 macrophage activation	GO_0042116	1	1	1	0	0
 response to macrophage colony-stimulating factor	GO_0036005	1	0	1	0	0
 response to granulocyte macrophage colony-stimulating factor	GO_0097012	1	0	1	0	0
@@ -49,18 +53,14 @@ negative regulation of macrophage antigen processing and presentation	GO_0002617
 negative regulation of macrophage activation	GO_0043031	1	0	1	0	0
 negative regulation of granulocyte macrophage colony-stimulating factor production	GO_0032685	1	0	1	0	0
 negative regulation of granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0045424	1	0	1	0	0
-macrophage tolerance induction	GO_0010931	1	0	1	0	0
 macrophage migration inhibitory factor signaling pathway	GO_0035691	1	0	1	0	0
 macrophage inflammatory protein-1 gamma production	GO_0071607	1	0	1	0	0
 macrophage inflammatory protein-1 alpha production	GO_0071608	1	0	1	0	0
 macrophage fusion	GO_0034238	1	0	1	0	0
 macrophage differentiation	GO_0030225	1	0	1	0	0
 macrophage derived foam cell differentiation	GO_0010742	1	0	1	0	0
-macrophage cytokine production	GO_0010934	1	0	1	0	0
 macrophage colony-stimulating factor signaling pathway	GO_0038145	1	0	1	0	0
 macrophage colony-stimulating factor production	GO_0036301	1	0	1	0	0
-macrophage apoptotic process	GO_0071888	1	0	1	0	0
-macrophage antigen processing and presentation	GO_0002472	1	0	1	0	0
 granulocyte-macrophage colony-stimulating factor signaling pathway	GO_0038157	1	0	1	0	0
 granulocyte macrophage colony-stimulating factor production	GO_0032604	1	0	1	0	0
 granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0042253	1	0	1	0	0

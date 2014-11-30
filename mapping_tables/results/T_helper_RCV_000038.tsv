@@ -1,22 +1,23 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+T-helper cell lineage commitment	GO_0002295	1	1	1	0	0
+T-helper cell differentiation	GO_0042093	1	1	1	0	0
+T-helper 2 cell lineage commitment	GO_0002297	1	1	1	0	0
+T-helper 2 cell differentiation	GO_0045064	1	1	1	0	0
 T-helper 2 cell activation	GO_0035712	1	1	1	0	0
+T-helper 17 cell lineage commitment	GO_0072540	1	1	1	0	0
+T-helper 17 cell differentiation	GO_0072539	1	1	1	0	0
+T-helper 1 cell lineage commitment	GO_0002296	1	1	1	0	0
+T-helper 1 cell differentiation	GO_0045063	1	1	1	0	0
 T-helper 1 cell activation	GO_0035711	1	1	1	0	0
 helper T cell extravasation	GO_0035684	1	0	1	0	0
 helper T cell diapedesis	GO_0035685	1	0	1	0	0
 helper T cell chemotaxis	GO_0035704	1	0	1	0	0
-T-helper cell lineage commitment	GO_0002295	1	0	1	0	0
-T-helper cell differentiation	GO_0042093	1	0	1	0	0
-T-helper 2 cell lineage commitment	GO_0002297	1	0	1	0	0
-T-helper 2 cell differentiation	GO_0045064	1	0	1	0	0
 T-helper 2 cell cytokine production	GO_0035745	1	0	1	0	0
 T-helper 2 cell chemotaxis	GO_0035707	1	0	1	0	0
-T-helper 17 cell lineage commitment	GO_0072540	1	0	1	0	0
 T-helper 17 cell extravasation	GO_0035699	1	0	1	0	0
-T-helper 17 cell differentiation	GO_0072539	1	0	1	0	0
 T-helper 17 cell chemotaxis	GO_0035705	1	0	1	0	0
-T-helper 1 cell lineage commitment	GO_0002296	1	0	1	0	0
 T-helper 1 cell extravasation	GO_0035687	1	0	1	0	0
-T-helper 1 cell differentiation	GO_0045063	1	0	1	0	0
 T-helper 1 cell diapedesis	GO_0035688	1	0	1	0	0
 T-helper 1 cell cytokine production	GO_0035744	1	0	1	0	0
 T-helper 1 cell chemotaxis	GO_0035706	1	0	1	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	0	0	0

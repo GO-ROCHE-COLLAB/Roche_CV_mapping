@@ -1465,6 +1465,8 @@ L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate	GO_0090532	0	1	
 L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose	GO_0090531	0	1	1	0	0
 L-ascorbic acid biosynthetic process	GO_0019853	0	1	1	0	0
 L-arabinose catabolic process to 2-oxoglutarate	GO_0019570	0	1	1	0	0
+L-altrarate metabolic process	GO_1903662	0	1	0	0	0
+L-altrarate catabolic process	GO_1903663	0	1	0	0	0
 L-alanine oxidation to pyruvate via D-alanine	GO_0019480	0	1	1	0	0
 L-alanine oxidation to D-lactate and ammonia	GO_0019479	0	1	1	0	0
 L-alanine metabolic process	GO_0042851	0	1	1	0	0

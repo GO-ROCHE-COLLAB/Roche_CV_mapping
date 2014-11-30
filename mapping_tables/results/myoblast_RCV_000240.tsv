@@ -3,6 +3,7 @@ myoblast proliferation involved in skeletal muscle regeneration	GO_0014844	1	1	1
 myoblast proliferation	GO_0051450	1	1	1	0	0
 myoblast migration involved in skeletal muscle regeneration	GO_0014839	1	1	1	0	0
 myoblast migration	GO_0051451	1	1	1	0	0
+myoblast division	GO_0014872	1	1	1	0	0
 regulation of myoblast proliferation	GO_2000291	1	0	1	0	0
 regulation of myoblast differentiation	GO_0045661	1	0	1	0	0
 regulation of cardiac muscle cell myoblast differentiation	GO_2000690	1	0	1	0	0
@@ -25,7 +26,6 @@ myoblast fate commitment involved in skeletal muscle regeneration	GO_0014836	1	0
 myoblast fate commitment in trunk	GO_0014715	1	0	1	0	0
 myoblast fate commitment in head	GO_0014714	1	0	1	0	0
 myoblast fate commitment	GO_0048625	1	0	1	0	0
-myoblast division	GO_0014872	1	0	1	0	0
 myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	1	0	1	0	0
 myoblast differentiation	GO_0045445	1	0	1	0	0
 myoblast development	GO_0048627	1	0	1	0	0

@@ -79,6 +79,7 @@ negative regulation of maintenance of meiotic sister chromatid cohesion	GO_00340
 negative regulation of basidiospore formation	GO_0075304	0	1	0	0	0
 negative regulation of ascospore formation	GO_0075297	0	1	0	0	0
 microtubule cytoskeleton organization involved in synapsis	GO_0090172	0	1	0	0	0
+microtubule bundle formation involved in horsetail-astral microtubule organization	GO_1903563	0	1	0	0	0
 meiotic telomere tethering at nuclear periphery	GO_0044821	0	1	0	0	0
 meiotic telomere clustering	GO_0045141	0	1	0	0	0
 meiotic strand invasion involved in reciprocal meiotic recombination	GO_0010774	0	1	0	0	0
@@ -148,6 +149,7 @@ maintenance of meiotic sister chromatid cohesion	GO_0034090	0	1	0	0	0
 linear element assembly	GO_0030999	0	1	0	0	0
 lateral element assembly	GO_0051878	0	1	0	0	0
 late meiotic recombination nodule assembly	GO_0042140	0	1	0	0	0
+horsetail-astral microtubule organization	GO_0032118	0	1	0	0	0
 homologous chromosome segregation	GO_0045143	0	1	0	0	0
 homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
 homologous chromosome movement towards spindle pole involved in homologous chromosome segregation	GO_0051758	0	1	0	0	0

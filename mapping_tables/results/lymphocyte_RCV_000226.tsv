@@ -7,9 +7,9 @@ lymphocyte mediated immunity	GO_0002449	1	1	1	0	0
 lymphocyte homeostasis	GO_0002260	1	1	1	0	0
 lymphocyte differentiation	GO_0030098	1	1	1	0	0
 lymphocyte chemotaxis	GO_0048247	1	1	1	0	0
+lymphocyte apoptotic process	GO_0070227	1	1	1	0	0
 lymphocyte activation	GO_0046649	1	1	1	0	0
 lymphocyte costimulation	GO_0031294	1	0	1	0	0
-lymphocyte apoptotic process	GO_0070227	1	0	1	0	0
 lymphocyte anergy	GO_0002249	1	0	1	0	0
 lymphocyte aggregation	GO_0071593	1	0	1	0	0
 type IV hypersensitivity	GO_0001806	0	1	0	0	0
@@ -24,9 +24,14 @@ transitional two stage B cell differentiation	GO_0002334	0	1	0	0	0
 transitional stage B cell differentiation	GO_0002332	0	1	0	0	0
 transitional one stage B cell differentiation	GO_0002333	0	1	0	0	0
 thymocyte migration	GO_0072679	0	1	0	0	0
+thymocyte apoptotic process	GO_0070242	0	1	0	0	0
 thymic T cell selection	GO_0045061	0	1	0	0	0
+termination of T cell signal transduction	GO_0023022	0	1	0	0	0
 suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0	0
 regulatory T cell differentiation	GO_0045066	0	1	0	0	0
+regulatory T cell apoptotic process	GO_1902482	0	1	0	0	0
+protein localization to T cell secretory granule	GO_0033374	0	1	0	0	0
+protease localization to T cell secretory granule	GO_0033375	0	1	0	0	0
 pre-B cell differentiation	GO_0002329	0	1	0	0	0
 positive thymic T cell selection	GO_0045059	0	1	0	0	0
 positive extrathymic T cell selection	GO_0045067	0	1	0	0	0
@@ -37,10 +42,12 @@ peripheral B cell tolerance induction	GO_0002451	0	1	0	0	0
 peripheral B cell selection	GO_0002343	0	1	0	0	0
 peripheral B cell positive selection	GO_0002350	0	1	0	0	0
 peripheral B cell negative selection	GO_0002356	0	1	0	0	0
+peripheral B cell deletion	GO_0002454	0	1	0	0	0
 peripheral B cell anergy	GO_0002453	0	1	0	0	0
 negative thymic T cell selection	GO_0045060	0	1	0	0	0
 negative extrathymic T cell selection	GO_0045068	0	1	0	0	0
 negative T cell selection	GO_0043383	0	1	0	0	0
+natural killer cell tolerance induction	GO_0002519	0	1	0	0	0
 natural killer cell proliferation involved in immune response	GO_0002324	0	1	0	0	0
 natural killer cell proliferation	GO_0001787	0	1	0	0	0
 natural killer cell mediated immunity	GO_0002228	0	1	0	0	0
@@ -52,6 +59,7 @@ natural killer cell differentiation	GO_0001779	0	1	0	0	0
 natural killer cell degranulation	GO_0043320	0	1	0	0	0
 natural killer cell cytokine production	GO_0002370	0	1	0	0	0
 natural killer cell chemotaxis	GO_0035747	0	1	0	0	0
+natural killer cell apoptotic process	GO_0070246	0	1	0	0	0
 natural killer cell activation involved in immune response	GO_0002323	0	1	0	0	0
 natural killer cell activation	GO_0030101	0	1	0	0	0
 mucosal lymphocyte homeostasis	GO_0002261	0	1	0	0	0
@@ -63,7 +71,11 @@ memory B cell differentiation	GO_0002319	0	1	0	0	0
 mature natural killer cell chemotaxis	GO_0035782	0	1	0	0	0
 mature B cell differentiation involved in immune response	GO_0002313	0	1	0	0	0
 mature B cell differentiation	GO_0002335	0	1	0	0	0
+mature B cell apoptotic process	GO_0002901	0	1	0	0	0
 marginal zone B cell differentiation	GO_0002315	0	1	0	0	0
+maintenance of protein location in T cell secretory granule	GO_0033377	0	1	0	0	0
+maintenance of protease location in T cell secretory granule	GO_0033379	0	1	0	0	0
+maintenance of granzyme B location in T cell secretory granule	GO_0033382	0	1	0	0	0
 lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0	0
 lymphocyte activation involved in immune response	GO_0002285	0	1	0	0	0
 isotype switching to IgG isotypes	GO_0048291	0	1	0	0	0
@@ -81,6 +93,7 @@ immature B cell differentiation	GO_0002327	0	1	0	0	0
 humoral immune response mediated by circulating immunoglobulin	GO_0002455	0	1	0	0	0
 helper T cell extravasation	GO_0035684	0	1	0	0	0
 helper T cell chemotaxis	GO_0035704	0	1	0	0	0
+granzyme B localization to T cell secretory granule	GO_0033380	0	1	0	0	0
 germinal center B cell differentiation	GO_0002314	0	1	0	0	0
 gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0	0
 gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0	0
@@ -95,12 +108,23 @@ extrathymic T cell selection	GO_0045062	0	1	0	0	0
 extrathymic T cell differentiation	GO_0033078	0	1	0	0	0
 extracellular matrix-dependent thymocyte migration	GO_0072680	0	1	0	0	0
 evasion by virus of host natural killer cell activity	GO_0039671	0	1	0	0	0
+establishment of protein localization to T cell secretory granule	GO_0033376	0	1	0	0	0
+establishment of protease localization to T cell secretory granule	GO_0033378	0	1	0	0	0
+establishment of natural killer cell polarity	GO_0001770	0	1	0	0	0
+establishment of lymphocyte polarity	GO_0001767	0	1	0	0	0
+establishment of granzyme B localization to T cell secretory granule	GO_0033381	0	1	0	0	0
+establishment of T cell polarity	GO_0001768	0	1	0	0	0
+establishment of B cell polarity	GO_0001769	0	1	0	0	0
 dendritic cell proliferation	GO_0044565	0	1	0	0	0
 cytotoxic T cell differentiation	GO_0045065	0	1	0	0	0
 cytotoxic T cell degranulation	GO_0043316	0	1	0	0	0
+cytotoxic T cell apoptotic process	GO_1902483	0	1	0	0	0
+central T cell tolerance induction	GO_0002512	0	1	0	0	0
+central B cell tolerance induction	GO_0002510	0	1	0	0	0
 central B cell selection	GO_0002340	0	1	0	0	0
 central B cell positive selection	GO_0002348	0	1	0	0	0
 central B cell negative selection	GO_0002354	0	1	0	0	0
+central B cell deletion	GO_0002342	0	1	0	0	0
 central B cell anergy	GO_0002341	0	1	0	0	0
 beta selection	GO_0043366	0	1	0	0	0
 antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0	0
@@ -112,7 +136,10 @@ alpha-beta T cell differentiation	GO_0046632	0	1	0	0	0
 alpha-beta T cell activation involved in immune response	GO_0002287	0	1	0	0	0
 alpha-beta T cell activation by superantigen	GO_0042722	0	1	0	0	0
 alpha-beta T cell activation	GO_0046631	0	1	0	0	0
+activation-induced cell death of T cells	GO_0006924	0	1	0	0	0
+activation-induced B cell apoptotic process	GO_0071948	0	1	0	0	0
 activated T cell proliferation	GO_0050798	0	1	0	0	0
+activated T cell autonomous cell death	GO_0070238	0	1	0	0	0
 activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0	0
 activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0	0
 T-helper cell differentiation	GO_0042093	0	1	0	0	0
@@ -131,7 +158,10 @@ T-helper 1 cell activation	GO_0035711	0	1	0	0	0
 T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
 T cell tolerance induction to tumor cell	GO_0002411	0	1	0	0	0
 T cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002403	0	1	0	0	0
+T cell tolerance induction	GO_0002517	0	1	0	0	0
 T cell selection	GO_0045058	0	1	0	0	0
+T cell secretory granule organization	GO_0033371	0	1	0	0	0
+T cell receptor signaling pathway	GO_0050852	0	1	0	0	0
 T cell proliferation involved in immune response	GO_0002309	0	1	0	0	0
 T cell proliferation	GO_0042098	0	1	0	0	0
 T cell migration	GO_0072678	0	1	0	0	0
@@ -148,6 +178,8 @@ T cell differentiation	GO_0030217	0	1	0	0	0
 T cell cytokine production	GO_0002369	0	1	0	0	0
 T cell costimulation	GO_0031295	0	1	0	0	0
 T cell chemotaxis	GO_0010818	0	1	0	0	0
+T cell apoptotic process	GO_0070231	0	1	0	0	0
+T cell antigen processing and presentation	GO_0002457	0	1	0	0	0
 T cell anergy	GO_0002870	0	1	0	0	0
 T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
 T cell activation involved in immune response	GO_0002286	0	1	0	0	0
@@ -183,7 +215,10 @@ B-1 B cell proliferation	GO_0002359	0	1	0	0	0
 B-1 B cell homeostasis	GO_0001922	0	1	0	0	0
 B-1 B cell differentiation	GO_0001923	0	1	0	0	0
 B cell tolerance induction in mucosal-associated lymphoid tissue	GO_0002402	0	1	0	0	0
+B cell tolerance induction	GO_0002514	0	1	0	0	0
 B cell selection	GO_0002339	0	1	0	0	0
+B cell receptor signaling pathway	GO_0050853	0	1	0	0	0
+B cell receptor apoptotic signaling pathway	GO_1990117	0	1	0	0	0
 B cell proliferation involved in immune response	GO_0002322	0	1	0	0	0
 B cell proliferation	GO_0042100	0	1	0	0	0
 B cell positive selection	GO_0002346	0	1	0	0	0
@@ -192,10 +227,15 @@ B cell mediated immunity	GO_0019724	0	1	0	0	0
 B cell homeostatic proliferation	GO_0002358	0	1	0	0	0
 B cell homeostasis	GO_0001782	0	1	0	0	0
 B cell differentiation	GO_0030183	0	1	0	0	0
+B cell deletion	GO_0002516	0	1	0	0	0
 B cell cytokine production	GO_0002368	0	1	0	0	0
 B cell costimulation	GO_0031296	0	1	0	0	0
 B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0	0
 B cell chemotaxis	GO_0035754	0	1	0	0	0
+B cell apoptotic process	GO_0001783	0	1	0	0	0
+B cell antigen processing and presentation mediated by B cell receptor uptake of antigen	GO_0002417	0	1	0	0	0
+B cell antigen processing and presentation following pinocytosis	GO_0002421	0	1	0	0	0
+B cell antigen processing and presentation	GO_0002450	0	1	0	0	0
 B cell anergy	GO_0002515	0	1	0	0	0
 B cell affinity maturation	GO_0002344	0	1	0	0	0
 B cell activation involved in immune response	GO_0002312	0	1	0	0	0

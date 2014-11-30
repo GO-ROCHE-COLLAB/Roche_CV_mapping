@@ -1,2 +1,3 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 islet amyloid polypeptide processing	GO_0034231	1	0	1	0	0
+type B pancreatic cell apoptotic process	GO_0097050	0	1	0	0	0

@@ -3,7 +3,8 @@ regulation of digestive system process	GO_0044058	1	1	1	0	0
 positive regulation of digestive system process	GO_0060456	1	1	1	0	0
 negative regulation of digestive system process	GO_0060457	1	1	1	0	0
 digestive system process	GO_0022600	1	1	1	0	0
-digestion	GO_0007586	1	0	1	0	0
+digestion	GO_0007586	1	1	1	0	0
+salivary polysaccharide catabolic process	GO_0044239	0	1	0	0	0
 saliva secretion	GO_0046541	0	1	0	0	0
 rumination	GO_0036147	0	1	0	0	0
 regulation of saliva secretion	GO_0046877	0	1	0	0	0
@@ -14,6 +15,8 @@ regulation of intestinal cholesterol absorption	GO_0030300	0	1	0	0	0
 regulation of hindgut contraction	GO_0043134	0	1	0	0	0
 regulation of gastrin-induced gastric acid secretion	GO_1903639	0	1	0	0	0
 regulation of gastric acid secretion	GO_0060453	0	1	0	0	0
+protein digestion	GO_0044256	0	1	0	0	0
+protein catabolic process by pepsin	GO_0044251	0	1	0	0	0
 positive regulation of saliva secretion	GO_0046878	0	1	0	0	0
 positive regulation of pancreatic juice secretion	GO_0090187	0	1	0	0	0
 positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway	GO_1902279	0	1	0	0	0
@@ -23,6 +26,7 @@ positive regulation of intestinal cholesterol absorption	GO_0045797	0	1	0	0	0
 positive regulation of hindgut contraction	GO_0060450	0	1	0	0	0
 positive regulation of gastrin-induced gastric acid secretion	GO_1903641	0	1	0	0	0
 positive regulation of gastric acid secretion	GO_0060454	0	1	0	0	0
+polysaccharide digestion	GO_0044245	0	1	0	0	0
 pancreatic juice secretion	GO_0030157	0	1	0	0	0
 pancreatic amylase secretion	GO_0036395	0	1	0	0	0
 negative regulation of pancreatic juice secretion	GO_0090188	0	1	0	0	0
@@ -32,10 +36,15 @@ negative regulation of intestinal cholesterol absorption	GO_0045796	0	1	0	0	0
 negative regulation of hindgut contraction	GO_0060451	0	1	0	0	0
 negative regulation of gastrin-induced gastric acid secretion	GO_1903640	0	1	0	0	0
 negative regulation of gastric acid secretion	GO_0060455	0	1	0	0	0
+multicellular organismal protein catabolic process	GO_0044254	0	1	0	0	0
+multicellular organismal polysaccharide catabolic process	GO_0044244	0	1	0	0	0
+multicellular organismal lipid catabolic process	GO_0044240	0	1	0	0	0
 modulation by symbiont of host digestive system process	GO_0044056	0	1	0	0	0
 mastication	GO_0071626	0	1	0	0	0
 maintenance of gastrointestinal epithelium	GO_0030277	0	1	0	0	0
+lipid digestion	GO_0044241	0	1	0	0	0
 intestinal phytosterol absorption	GO_0060752	0	1	0	0	0
+intestinal lipid catabolic process	GO_0044258	0	1	0	0	0
 intestinal epithelial structure maintenance	GO_0060729	0	1	0	0	0
 intestinal cholesterol absorption	GO_0030299	0	1	0	0	0
 intestinal absorption	GO_0050892	0	1	0	0	0
@@ -46,4 +55,5 @@ gastrin-induced gastric acid secretion	GO_0001698	0	1	0	0	0
 gastric motility	GO_0035482	0	1	0	0	0
 gastric emptying	GO_0035483	0	1	0	0	0
 gastric acid secretion	GO_0001696	0	1	0	0	0
+angiotensin catabolic process in blood	GO_0002005	0	1	0	0	0
 acetylcholine-induced gastric acid secretion	GO_0001699	0	1	0	0	0

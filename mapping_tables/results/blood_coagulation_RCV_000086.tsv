@@ -1,5 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 thrombocyte activation	GO_0071892	1	1	1	0	0
+thrombin receptor signaling pathway	GO_0070493	1	1	1	0	0
 regulation of blood coagulation, intrinsic pathway	GO_2000266	1	1	1	0	0
 regulation of blood coagulation, extrinsic pathway	GO_2000263	1	1	1	0	0
 regulation of blood coagulation, common pathway	GO_2000260	1	1	1	0	0
@@ -24,12 +25,14 @@ activation of blood coagulation via clotting cascade	GO_0002543	1	1	1	0	0
 thromboxane transport	GO_0071717	1	0	1	0	0
 thrombopoietin-mediated signaling pathway	GO_0038163	1	0	1	0	0
 thrombocyte differentiation	GO_0002574	1	0	1	0	0
-thrombin receptor signaling pathway	GO_0070493	1	0	1	0	0
 envenomation resulting in positive regulation of blood coagulation in other organism	GO_0044469	1	0	1	0	0
 envenomation resulting in negative regulation of blood coagulation in other organism	GO_0044470	1	0	1	0	0
 envenomation resulting in modulation of blood coagulation in other organism	GO_0044468	1	0	1	0	0
+thrombin receptor activity	GO_0015057	0	1	0	0	0
+regulation of thrombin receptor signaling pathway	GO_0070494	0	1	0	0	0
 regulation of platelet aggregation	GO_0090330	0	1	1	0	0
 regulation of platelet activation	GO_0010543	0	1	1	0	0
+positive regulation of thrombin receptor signaling pathway	GO_0070496	0	1	0	0	0
 positive regulation of platelet aggregation in other organism	GO_0035894	0	1	1	0	0
 positive regulation of platelet aggregation	GO_1901731	0	1	1	0	0
 positive regulation of platelet activation	GO_0010572	0	1	1	0	0
@@ -37,6 +40,7 @@ positive regulation of fibrinolysis	GO_0051919	0	1	1	0	0
 platelet aggregation	GO_0070527	0	1	1	0	0
 platelet activation	GO_0030168	0	1	1	0	0
 phosphatidylserine exposure on blood platelet	GO_0097045	0	1	1	0	0
+negative regulation of thrombin receptor signaling pathway	GO_0070495	0	1	0	0	0
 negative regulation of platelet aggregation in other organism	GO_0035893	0	1	1	0	0
 negative regulation of platelet aggregation	GO_0090331	0	1	1	0	0
 negative regulation of platelet activation	GO_0010544	0	1	1	0	0

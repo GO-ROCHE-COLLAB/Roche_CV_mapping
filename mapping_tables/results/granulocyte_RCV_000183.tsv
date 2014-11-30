@@ -25,6 +25,7 @@ neutrophil homeostasis	GO_0001780	0	1	1	0	0
 neutrophil extravasation	GO_0072672	0	1	0	0	0
 neutrophil degranulation	GO_0043312	0	1	1	0	0
 neutrophil chemotaxis	GO_0030593	0	1	1	0	0
+neutrophil apoptotic process	GO_0001781	0	1	0	0	0
 neutrophil aggregation	GO_0070488	0	1	0	0	0
 neutrophil activation involved in immune response	GO_0002283	0	1	1	0	0
 neutrophil activation	GO_0042119	0	1	1	0	0

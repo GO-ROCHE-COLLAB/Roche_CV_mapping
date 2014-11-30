@@ -697,6 +697,8 @@ L-ascorbic acid biosynthetic process	GO_0019853	0	1	1	0	0
 L-arabitol metabolic process	GO_0051162	0	1	1	0	0
 L-arabitol catabolic process to xylulose 5-phosphate	GO_0019590	0	1	1	0	0
 L-arabitol catabolic process	GO_0051158	0	1	1	0	0
+L-altrarate metabolic process	GO_1903662	0	1	0	0	0
+L-altrarate catabolic process	GO_1903663	0	1	0	0	0
 Kdo2-lipid A metabolic process	GO_0036103	0	1	1	0	0
 Kdo2-lipid A biosynthetic process	GO_0036104	0	1	1	0	0
 K antigen metabolic process	GO_0046375	0	1	1	0	0

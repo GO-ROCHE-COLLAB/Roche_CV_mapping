@@ -1,4 +1,5 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+natural killer cell tolerance induction	GO_0002519	1	1	1	0	0
 natural killer cell proliferation	GO_0001787	1	1	1	0	0
 natural killer cell mediated immunity	GO_0002228	1	1	1	0	0
 natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	1	1	1	0	0
@@ -6,7 +7,9 @@ natural killer cell mediated cytotoxicity	GO_0042267	1	1	1	0	0
 natural killer cell differentiation	GO_0001779	1	1	1	0	0
 natural killer cell degranulation	GO_0043320	1	1	1	0	0
 natural killer cell cytokine production	GO_0002370	1	1	1	0	0
+natural killer cell apoptotic process	GO_0070246	1	1	1	0	0
 natural killer cell activation	GO_0030101	1	1	1	0	0
+establishment of natural killer cell polarity	GO_0001770	1	1	1	0	0
 regulation of natural killer cell tolerance induction	GO_0002871	1	0	1	0	0
 regulation of natural killer cell proliferation	GO_0032817	1	0	1	0	0
 regulation of natural killer cell mediated immunity	GO_0002715	1	0	1	0	0
@@ -50,13 +53,10 @@ negative regulation of natural killer cell activation	GO_0032815	1	0	1	0	0
 negative regulation of NK T cell proliferation	GO_0051141	1	0	1	0	0
 negative regulation of NK T cell differentiation	GO_0051137	1	0	1	0	0
 negative regulation of NK T cell activation	GO_0051134	1	0	1	0	0
-natural killer cell tolerance induction	GO_0002519	1	0	1	0	0
 natural killer cell progenitor differentiation	GO_0002321	1	0	1	0	0
 natural killer cell inhibitory signaling pathway	GO_0002769	1	0	1	0	0
 natural killer cell chemotaxis	GO_0035747	1	0	1	0	0
-natural killer cell apoptotic process	GO_0070246	1	0	1	0	0
 mature natural killer cell chemotaxis	GO_0035782	1	0	1	0	0
-establishment of natural killer cell polarity	GO_0001770	1	0	1	0	0
 NK T cell proliferation	GO_0001866	1	0	1	0	0
 NK T cell lineage commitment	GO_0002364	1	0	1	0	0
 NK T cell differentiation	GO_0001865	1	0	1	0	0

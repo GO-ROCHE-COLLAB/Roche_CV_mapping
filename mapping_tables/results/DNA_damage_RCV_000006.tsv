@@ -1,16 +1,37 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	1	1	1	0	0
+signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	1	1	1	0	0
+signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	1	1	1	0	0
+signal transduction involved in G2 DNA damage checkpoint	GO_0072425	1	1	1	0	0
+signal transduction involved in DNA damage checkpoint	GO_0072422	1	1	1	0	0
+signal transduction in response to DNA damage	GO_0042770	1	1	1	0	0
+regulation of response to DNA damage stimulus	GO_2001020	1	1	1	0	0
+regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	1	1	1	0	0
+regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043516	1	1	1	0	0
+regulation of DNA damage checkpoint	GO_2000001	1	1	1	0	0
+positive regulation of response to DNA damage stimulus	GO_2001022	1	1	1	0	0
+positive regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043517	1	1	1	0	0
+positive regulation of DNA damage checkpoint	GO_2000003	1	1	1	0	0
+negative regulation of response to DNA damage stimulus	GO_2001021	1	1	1	0	0
+negative regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043518	1	1	1	0	0
+negative regulation of DNA damage checkpoint	GO_2000002	1	1	1	0	0
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_0042771	1	1	1	0	0
+intrinsic apoptotic signaling pathway in response to DNA damage	GO_0008630	1	1	1	0	0
+intra-S DNA damage checkpoint	GO_0031573	1	1	1	0	0
 detection of DNA damage stimulus involved in mitotic G2 DNA damage checkpoint	GO_0072433	1	1	1	0	0
 detection of DNA damage stimulus involved in mitotic G1 DNA damage checkpoint	GO_0072430	1	1	1	0	0
 detection of DNA damage stimulus involved in intra-S DNA damage checkpoint	GO_0072427	1	1	1	0	0
 detection of DNA damage stimulus involved in G2 DNA damage checkpoint	GO_0072424	1	1	1	0	0
 detection of DNA damage stimulus involved in DNA damage checkpoint	GO_0072421	1	1	1	0	0
+cellular response to DNA damage stimulus	GO_0006974	1	1	1	0	0
+G1 DNA damage checkpoint	GO_0044783	1	1	1	0	0
+DNA damage response, signal transduction resulting in transcription	GO_0042772	1	1	1	0	0
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_0006978	1	1	1	0	0
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	1	1	1	0	0
+DNA damage response, signal transduction by p53 class mediator	GO_0030330	1	1	1	0	0
 DNA damage response, detection of DNA damage	GO_0042769	1	1	1	0	0
-signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	1	0	1	0	0
-signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	1	0	1	0	0
-signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	1	0	1	0	0
-signal transduction involved in G2 DNA damage checkpoint	GO_0072425	1	0	1	0	0
-signal transduction involved in DNA damage checkpoint	GO_0072422	1	0	1	0	0
-signal transduction in response to DNA damage	GO_0042770	1	0	1	0	0
+DNA damage induced protein phosphorylation	GO_0006975	1	1	1	0	0
+DNA damage checkpoint	GO_0000077	1	1	1	0	0
 signal initiation by physical damage	GO_0023039	1	0	1	1	1
 response to mitotic G2 DNA damage checkpoint signaling	GO_0072435	1	0	1	0	0
 response to intra-S DNA damage checkpoint signaling	GO_0072429	1	0	1	0	0
@@ -18,28 +39,153 @@ response to G2 DNA damage checkpoint signaling	GO_0072426	1	0	1	0	0
 response to G1 DNA damage checkpoint signaling	GO_0072432	1	0	1	0	0
 response to DNA damage checkpoint signaling	GO_0072423	1	0	1	0	0
 regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010767	1	0	1	0	0
-regulation of response to DNA damage stimulus	GO_2001020	1	0	1	0	0
-regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	1	0	1	0	0
-regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043516	1	0	1	0	0
-regulation of DNA damage checkpoint	GO_2000001	1	0	1	0	0
-positive regulation of response to DNA damage stimulus	GO_2001022	1	0	1	0	0
-positive regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043517	1	0	1	0	0
-positive regulation of DNA damage checkpoint	GO_2000003	1	0	1	0	0
 negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010768	1	0	1	0	0
-negative regulation of response to DNA damage stimulus	GO_2001021	1	0	1	0	0
-negative regulation of DNA damage response, signal transduction by p53 class mediator	GO_0043518	1	0	1	0	0
-negative regulation of DNA damage checkpoint	GO_2000002	1	0	1	0	0
-intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_0042771	1	0	1	0	0
-intrinsic apoptotic signaling pathway in response to DNA damage	GO_0008630	1	0	1	0	0
-intra-S DNA damage checkpoint	GO_0031573	1	0	1	0	0
-cellular response to DNA damage stimulus	GO_0006974	1	0	1	0	0
-G1 DNA damage checkpoint	GO_0044783	1	0	1	0	0
-DNA damage response, signal transduction resulting in transcription	GO_0042772	1	0	1	0	0
-DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_0006978	1	0	1	0	0
-DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	1	0	1	0	0
-DNA damage response, signal transduction by p53 class mediator	GO_0030330	1	0	1	0	0
-DNA damage induced protein phosphorylation	GO_0006975	1	0	1	0	0
-DNA damage checkpoint	GO_0000077	1	0	1	0	0
+viral DNA repair	GO_0046787	0	1	0	0	0
+translesion synthesis	GO_0019985	0	1	0	0	0
+transcription-coupled nucleotide-excision repair, DNA damage recognition	GO_0000716	0	1	0	0	0
+transcription-coupled nucleotide-excision repair	GO_0006283	0	1	0	0	0
+telomere maintenance in response to DNA damage	GO_0043247	0	1	0	0	0
+single-strand break repair via homologous recombination	GO_1990396	0	1	0	0	0
+single strand break repair	GO_0000012	0	1	0	0	0
+signal transduction involved in mitotic DNA damage checkpoint	GO_1902402	0	1	0	0	0
+ribonucleotide excision repair	GO_1990516	0	1	0	0	0
+replication-born double-strand break repair via sister chromatid exchange	GO_1990414	0	1	0	0	0
+replication fork reversal	GO_0071932	0	1	0	0	0
+replication fork processing at rDNA locus	GO_0034065	0	1	0	0	0
+replication fork processing	GO_0031297	0	1	0	0	0
+regulation of transcription-coupled nucleotide-excision repair	GO_0090262	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter in response to DNA damage	GO_1990248	0	1	0	0	0
+regulation of single-strand break repair via homologous recombination	GO_1903110	0	1	0	0	0
+regulation of single strand break repair	GO_1903516	0	1	0	0	0
+regulation of signal transduction involved in mitotic G2 DNA damage checkpoint	GO_1902504	0	1	0	0	0
+regulation of nucleotide-excision repair	GO_2000819	0	1	0	0	0
+regulation of mitotic recombination involved in replication fork processing	GO_1903221	0	1	0	0	0
+regulation of mismatch repair	GO_0032423	0	1	0	0	0
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902165	0	1	0	0	0
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902229	0	1	0	0	0
+regulation of double-strand break repair via nonhomologous end joining	GO_2001032	0	1	0	0	0
+regulation of double-strand break repair via homologous recombination	GO_0010569	0	1	0	0	0
+regulation of double-strand break repair via break-induced replication	GO_1901591	0	1	0	0	0
+regulation of double-strand break repair	GO_2000779	0	1	0	0	0
+regulation of DNA repair	GO_0006282	0	1	0	0	0
+regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_1902162	0	1	0	0	0
+recruitment of helicase-primase complex to DNA lesions	GO_0046799	0	1	0	0	0
+recombinational repair	GO_0000725	0	1	0	0	0
+recombinational interstrand cross-link repair	GO_0036298	0	1	0	0	0
+pyrimidine dimer repair by nucleotide-excision repair	GO_0000720	0	1	0	0	0
+pyrimidine dimer repair	GO_0006290	0	1	0	0	0
+protection from non-homologous end joining at telomere	GO_0031848	0	1	0	0	0
+postreplication repair	GO_0006301	0	1	0	0	0
+positive regulation of single-strand break repair via homologous recombination	GO_1903112	0	1	0	0	0
+positive regulation of single strand break repair	GO_1903518	0	1	0	0	0
+positive regulation of signal transduction involved in mitotic G2 DNA damage checkpoint	GO_1902506	0	1	0	0	0
+positive regulation of mismatch repair	GO_0032425	0	1	0	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902167	0	1	0	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902231	0	1	0	0	0
+positive regulation of double-strand break repair via nonhomologous end joining	GO_2001034	0	1	0	0	0
+positive regulation of double-strand break repair	GO_2000781	0	1	0	0	0
+positive regulation of DNA repair by positive regulation of transcription from RNA polymerase II promoter	GO_1900404	0	1	0	0	0
+positive regulation of DNA repair	GO_0045739	0	1	0	0	0
+positive regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_1902164	0	1	0	0	0
+photoreactive repair	GO_0000719	0	1	0	0	0
+nucleotide-excision repair, preincision complex stabilization	GO_0006293	0	1	0	0	0
+nucleotide-excision repair, preincision complex assembly	GO_0006294	0	1	0	0	0
+nucleotide-excision repair, DNA incision, 5'-to lesion	GO_0006296	0	1	0	0	0
+nucleotide-excision repair, DNA incision, 3'-to lesion	GO_0006295	0	1	0	0	0
+nucleotide-excision repair, DNA incision	GO_0033683	0	1	0	0	0
+nucleotide-excision repair, DNA gap filling	GO_0006297	0	1	0	0	0
+nucleotide-excision repair, DNA duplex unwinding	GO_0000717	0	1	0	0	0
+nucleotide-excision repair, DNA damage removal	GO_0000718	0	1	0	0	0
+nucleotide-excision repair, DNA damage recognition	GO_0000715	0	1	0	0	0
+nucleotide-excision repair involved in interstrand cross-link repair	GO_1901255	0	1	0	0	0
+nucleotide-excision repair	GO_0006289	0	1	0	0	0
+nucleotide phosphorylation involved in DNA repair	GO_1902113	0	1	0	0	0
+non-recombinational repair	GO_0000726	0	1	0	0	0
+non-recombinational interstrand cross-link repair	GO_0036299	0	1	0	0	0
+non-photoreactive DNA repair	GO_0010213	0	1	0	0	0
+negative regulation of single-strand break repair via homologous recombination	GO_1903111	0	1	0	0	0
+negative regulation of single strand break repair	GO_1903517	0	1	0	0	0
+negative regulation of signal transduction involved in mitotic G2 DNA damage checkpoint	GO_1902505	0	1	0	0	0
+negative regulation of mismatch repair	GO_0032424	0	1	0	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902166	0	1	0	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902230	0	1	0	0	0
+negative regulation of double-strand break repair via single-strand annealing	GO_1901291	0	1	0	0	0
+negative regulation of double-strand break repair via nonhomologous end joining	GO_2001033	0	1	0	0	0
+negative regulation of double-strand break repair via homologous recombination	GO_2000042	0	1	0	0	0
+negative regulation of double-strand break repair via break-induced replication	GO_1901592	0	1	0	0	0
+negative regulation of double-strand break repair	GO_2000780	0	1	0	0	0
+negative regulation of DNA repair	GO_0045738	0	1	0	0	0
+negative regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_1902163	0	1	0	0	0
+mitotic recombination involved in replication fork processing	GO_1903211	0	1	0	0	0
+mitotic G2 DNA damage checkpoint	GO_0007095	0	1	0	0	0
+mitotic G1 DNA damage checkpoint	GO_0031571	0	1	0	0	0
+mitotic DNA damage checkpoint	GO_0044773	0	1	0	0	0
+mitochondrial double-strand break repair via homologous recombination	GO_0097552	0	1	0	0	0
+mitochondrial double-strand break repair	GO_0097551	0	1	0	0	0
+mitochondrial DNA repair	GO_0043504	0	1	0	0	0
+mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	GO_0070716	0	1	0	0	0
+mismatch repair	GO_0006298	0	1	0	0	0
+meiotic strand displacement involved in double-strand break repair via SDSA	GO_1902346	0	1	0	0	0
+meiotic recombination nodule assembly	GO_0007146	0	1	0	0	0
+meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0	0
+meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	0	0	0
+meiotic mismatch repair	GO_0000710	0	1	0	0	0
+meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0	0
+meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0	0
+meiotic DNA repair synthesis	GO_0000711	0	1	0	0	0
+meiotic DNA recombinase assembly involved in reciprocal meiotic recombination	GO_0010772	0	1	0	0	0
+meiotic DNA recombinase assembly involved in meiotic gene conversion	GO_0010773	0	1	0	0	0
+meiotic DNA recombinase assembly	GO_0000707	0	1	0	0	0
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination	GO_0010705	0	1	0	0	0
+meiotic DNA double-strand break processing involved in meiotic gene conversion	GO_0010704	0	1	0	0	0
+meiotic DNA double-strand break processing	GO_0000706	0	1	0	0	0
+late meiotic recombination nodule assembly	GO_0042140	0	1	0	0	0
+intracellular signal transduction involved in G1 DNA damage checkpoint	GO_1902400	0	1	0	0	0
+interstrand cross-link repair	GO_0036297	0	1	0	0	0
+homologous recombination-dependent replication fork processing	GO_1990426	0	1	0	0	0
+histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	0	1	0	0	0
+histone H3-K56 acetylation in response to DNA damage	GO_0097044	0	1	0	0	0
+heteroduplex formation involved in double-strand break repair via synthesis-dependent strand annealing	GO_0010709	0	1	0	0	0
+global genome nucleotide-excision repair	GO_0070911	0	1	0	0	0
+gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	0	0	0
+gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0	0
+error-prone translesion synthesis	GO_0042276	0	1	0	0	0
+error-free translesion synthesis	GO_0070987	0	1	0	0	0
+error-free postreplication DNA repair	GO_0042275	0	1	0	0	0
+early meiotic recombination nodule assembly	GO_0042139	0	1	0	0	0
+double-strand break repair via synthesis-dependent strand annealing	GO_0045003	0	1	0	0	0
+double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_0000736	0	1	0	0	0
+double-strand break repair via single-strand annealing	GO_0045002	0	1	0	0	0
+double-strand break repair via nonhomologous end joining	GO_0006303	0	1	0	0	0
+double-strand break repair via homologous recombination	GO_0000724	0	1	0	0	0
+double-strand break repair via break-induced replication	GO_0000727	0	1	0	0	0
+double-strand break repair	GO_0006302	0	1	0	0	0
 detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	1	1	0
+detection of stimulus involved in mitotic DNA damage checkpoint	GO_1902401	0	1	0	0	0
 detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	1	1	0
+detection of stimulus involved in G1 DNA damage checkpoint	GO_1902399	0	1	0	0	0
 detection of stimulus involved in DNA replication checkpoint	GO_0072436	0	1	1	1	0
+depyrimidination	GO_0045008	0	1	0	0	0
+depurination	GO_0045007	0	1	0	0	0
+base-excision repair, gap-filling	GO_0006287	0	1	0	0	0
+base-excision repair, base-free sugar-phosphate removal	GO_0006286	0	1	0	0	0
+base-excision repair, DNA ligation	GO_0006288	0	1	0	0	0
+base-excision repair, AP site formation via deaminated base removal	GO_0097510	0	1	0	0	0
+base-excision repair, AP site formation	GO_0006285	0	1	0	0	0
+base-excision repair	GO_0006284	0	1	0	0	0
+UV-damage excision repair	GO_0070914	0	1	0	0	0
+G2 DNA damage checkpoint	GO_0031572	0	1	0	0	0
+DNA synthesis involved in double-strand break repair via single-strand annealing	GO_0043151	0	1	0	0	0
+DNA synthesis involved in double-strand break repair via homologous recombination	GO_0043150	0	1	0	0	0
+DNA synthesis involved in DNA repair	GO_0000731	0	1	0	0	0
+DNA strand renaturation involved in double-strand break repair	GO_0061306	0	1	0	0	0
+DNA replication proofreading	GO_0045004	0	1	0	0	0
+DNA repair	GO_0006281	0	1	0	0	0
+DNA recombinase assembly involved in gene conversion at mating-type locus	GO_0034624	0	1	0	0	0
+DNA recombinase assembly	GO_0000730	0	1	0	0	0
+DNA ligation involved in DNA repair	GO_0051103	0	1	0	0	0
+DNA double-strand break processing involved in repair via synthesis-dependent strand annealing	GO_0010791	0	1	0	0	0
+DNA double-strand break processing involved in repair via single-strand annealing	GO_0010792	0	1	0	0	0
+DNA double-strand break processing	GO_0000729	0	1	0	0	0
+DNA dealkylation involved in DNA repair	GO_0006307	0	1	0	0	0
+DNA 3' dephosphorylation involved in DNA repair	GO_0098504	0	1	0	0	0

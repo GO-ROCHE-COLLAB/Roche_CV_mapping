@@ -22,6 +22,7 @@ regulation of venous endothelial cell fate commitment	GO_2000787	0	1	0	0	0
 regulation of vasculogenesis	GO_2001212	0	1	0	0	0
 regulation of vascular wound healing	GO_0061043	0	1	0	0	0
 regulation of transcription involved in venous endothelial cell fate commitment	GO_0060852	0	1	0	0	0
+regulation of sprouting angiogenesis	GO_1903670	0	1	0	0	0
 regulation of metanephric glomerular mesangial cell proliferation	GO_0072301	0	1	0	0	0
 regulation of mesonephric glomerular mesangial cell proliferation	GO_2000090	0	1	0	0	0
 regulation of glomerular mesangial cell proliferation	GO_0072124	0	1	0	0	0
@@ -38,6 +39,7 @@ pulmonary artery endothelial tube morphogenesis	GO_0061155	0	1	0	0	0
 positive regulation of venous endothelial cell fate commitment	GO_2000789	0	1	0	0	0
 positive regulation of vasculogenesis	GO_2001214	0	1	0	0	0
 positive regulation of vascular wound healing	GO_0035470	0	1	0	0	0
+positive regulation of sprouting angiogenesis	GO_1903672	0	1	0	0	0
 positive regulation of mesonephric glomerular mesangial cell proliferation	GO_2000092	0	1	0	0	0
 positive regulation of glomerular metanephric mesangial cell proliferation	GO_0072303	0	1	0	0	0
 positive regulation of glomerular mesangial cell proliferation	GO_0072126	0	1	0	0	0
@@ -52,6 +54,7 @@ negative regulation of venous endothelial cell fate commitment	GO_2000788	0	1	0	
 negative regulation of vasculogenesis	GO_2001213	0	1	0	0	0
 negative regulation of vascular wound healing	GO_0061044	0	1	0	0	0
 negative regulation of testicular blood vessel morphogenesis	GO_0061369	0	1	0	0	0
+negative regulation of sprouting angiogenesis	GO_1903671	0	1	0	0	0
 negative regulation of metanephric glomerular mesangial cell proliferation	GO_0072302	0	1	0	0	0
 negative regulation of mesonephric glomerular mesangial cell proliferation	GO_2000091	0	1	0	0	0
 negative regulation of glomerular mesangial cell proliferation	GO_0072125	0	1	0	0	0

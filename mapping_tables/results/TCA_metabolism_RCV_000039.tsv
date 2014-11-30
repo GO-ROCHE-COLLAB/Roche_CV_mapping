@@ -1,28 +1,13 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-tricarboxylic acid transport	GO_0006842	1	1	1	0	0
-tricarboxylic acid transmembrane transport	GO_0035674	1	1	1	0	0
-tricarboxylic acid metabolic process	GO_0072350	1	1	1	0	0
-tricarboxylic acid catabolic process	GO_0072352	1	1	1	0	0
-tricarboxylic acid biosynthetic process	GO_0072351	1	1	1	0	0
+tricarboxylic acid transport	GO_0006842	1	0	1	0	0
+tricarboxylic acid transmembrane transport	GO_0035674	1	0	1	0	0
+tricarboxylic acid metabolic process	GO_0072350	1	0	1	0	0
 tricarboxylic acid cycle intermediate metabolic process	GO_0006100	1	0	1	1	1
 tricarboxylic acid cycle	GO_0006099	1	0	1	0	0
-tricarboxylic acid transmembrane transporter activity	GO_0015142	0	1	0	0	0
-tricarboxylate secondary active transmembrane transporter activity	GO_0005371	0	1	0	0	0
-sarcinapterin metabolic process	GO_1900867	0	1	0	0	0
-sarcinapterin biosynthetic process	GO_1900868	0	1	0	0	0
-pyrroloquinoline quinone biosynthetic process	GO_0018189	0	1	0	0	0
-pyrroloquinoline quinone binding	GO_0070968	0	1	0	0	0
-nitrilotriacetate metabolic process	GO_0018934	0	1	0	0	0
-nicotianamine metabolic process	GO_0030417	0	1	0	0	0
-nicotianamine catabolic process	GO_0030419	0	1	0	0	0
-nicotianamine biosynthetic process	GO_0030418	0	1	0	0	0
-mitochondrial tricarboxylic acid transmembrane transport	GO_1990546	0	1	0	0	0
+tricarboxylic acid catabolic process	GO_0072352	1	0	1	0	0
+tricarboxylic acid biosynthetic process	GO_0072351	1	0	1	0	0
 mitochondrial citrate transport	GO_0006843	0	1	0	0	0
 mitochondrial citrate transmembrane transport	GO_1990541	0	1	0	0	0
-isocitrate metabolic process	GO_0006102	0	1	0	0	0
-coenzyme gamma-F420-2 metabolic process	GO_0052649	0	1	0	0	0
-coenzyme gamma-F420-2 biosynthetic process	GO_2001121	0	1	0	0	0
-coenzyme F420 binding	GO_0070967	0	1	0	0	0
 citric acid secretion	GO_0046720	0	1	0	0	0
 citrate:succinate antiporter activity	GO_0015515	0	1	0	0	0
 citrate:proton symporter activity	GO_0015531	0	1	0	0	0
@@ -31,12 +16,3 @@ citrate transmembrane transporter activity	GO_0015137	0	1	0	0	0
 citrate secondary active transmembrane transporter activity	GO_0071913	0	1	0	0	0
 citrate metabolic process	GO_0006101	0	1	0	0	0
 citrate catabolic process to diacetyl	GO_0019651	0	1	0	0	0
-argininosuccinate metabolic process	GO_0000053	0	1	0	0	0
-anaerobic nitrilotriacetate metabolic process	GO_0018936	0	1	0	0	0
-aerobic nitrilotriacetate metabolic process	GO_0018935	0	1	0	0	0
-aerobactin transport	GO_0019271	0	1	0	0	0
-aerobactin metabolic process	GO_0046442	0	1	0	0	0
-aerobactin biosynthetic process	GO_0019270	0	1	0	0	0
-5,6,7,8-tetrahydrosarcinapterin metabolic process	GO_1901853	0	1	0	0	0
-5,6,7,8-tetrahydrosarcinapterin catabolic process	GO_1901854	0	1	0	0	0
-5,6,7,8-tetrahydrosarcinapterin biosynthetic process	GO_1901855	0	1	0	0	0

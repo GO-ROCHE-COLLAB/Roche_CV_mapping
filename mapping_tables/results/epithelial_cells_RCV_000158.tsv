@@ -1,4 +1,8 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+establishment of epithelial cell polarity	GO_0090162	1	1	1	0	0
+establishment of epithelial cell planar polarity	GO_0090163	1	1	1	0	0
+establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	1	1	1	0	0
+establishment of epithelial cell apical/basal polarity	GO_0045198	1	1	1	0	0
 urethra epithelium development	GO_0061071	1	0	1	0	0
 stromal-epithelial cell signaling involved in prostate gland development	GO_0044345	1	0	1	0	0
 sensory epithelium regeneration	GO_0070654	1	0	1	0	0
@@ -70,10 +74,6 @@ establishment or maintenance of polarity of follicular epithelium	GO_0016334	1	0
 establishment or maintenance of epithelial cell apical/basal polarity	GO_0045197	1	0	1	0	0
 establishment of planar polarity of larval imaginal disc epithelium	GO_0042252	1	0	1	0	0
 establishment of planar polarity of follicular epithelium	GO_0042247	1	0	1	0	0
-establishment of epithelial cell polarity	GO_0090162	1	0	1	0	0
-establishment of epithelial cell planar polarity	GO_0090163	1	0	1	0	0
-establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	1	0	1	0	0
-establishment of epithelial cell apical/basal polarity	GO_0045198	1	0	1	0	0
 epithelium migration involved in imaginal disc-derived wing morphogenesis	GO_0090252	1	0	1	0	0
 epithelium migration	GO_0090132	1	0	1	0	0
 epithelium development	GO_0060429	1	0	1	0	0
@@ -100,19 +100,29 @@ branch elongation of an epithelium	GO_0060602	1	0	1	0	0
 adhesion of symbiont to host epithelial cell	GO_0044651	1	0	1	0	0
 venous endothelial cell migration involved in lymph vessel development	GO_0060855	0	1	0	0	0
 urothelial cell proliferation	GO_0050674	0	1	0	0	0
+type B pancreatic cell apoptotic process	GO_0097050	0	1	0	0	0
+regulation of secretion by asymmetric Golgi ribbon formation	GO_0090165	0	1	0	0	0
 ovarian follicle cell migration	GO_0007297	0	1	0	0	0
 melanocyte proliferation	GO_0097325	0	1	0	0	0
 melanocyte migration	GO_0097324	0	1	0	0	0
+melanocyte apoptotic process	GO_1902362	0	1	0	0	0
 mammary gland epithelial cell proliferation	GO_0033598	0	1	0	0	0
 main body follicle cell migration	GO_0060270	0	1	0	0	0
+lens fiber cell apoptotic process	GO_1990086	0	1	0	0	0
 lens epithelial cell proliferation	GO_0097166	0	1	0	0	0
 keratinocyte proliferation	GO_0043616	0	1	0	0	0
 keratinocyte migration	GO_0051546	0	1	0	0	0
+keratinocyte apoptotic process	GO_0097283	0	1	0	0	0
 keratinocyte activation	GO_0032980	0	1	0	0	0
+keratinization	GO_0031424	0	1	0	0	0
 intestinal epithelial cell migration	GO_0061582	0	1	0	0	0
 hepatocyte proliferation	GO_0072574	0	1	0	0	0
 hepatocyte homeostasis	GO_0036333	0	1	0	0	0
+hepatocyte apoptotic process	GO_0097284	0	1	0	0	0
 glomerular visceral epithelial cell migration	GO_0090521	0	1	0	0	0
+glomerular visceral epithelial cell apoptotic process	GO_1903210	0	1	0	0	0
+follicle cell microvillus organization	GO_0032529	0	1	0	0	0
+establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	0	0	0
 epithelial cell proliferation involved in salivary gland morphogenesis	GO_0060664	0	1	0	0	0
 epithelial cell proliferation involved in renal tubule morphogenesis	GO_2001013	0	1	0	0	0
 epithelial cell proliferation involved in prostatic bud elongation	GO_0060517	0	1	0	0	0
@@ -135,22 +145,31 @@ epithelial cell migration involved in mesonephric nephron tubule morphogenesis	G
 epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	0	1	0	0	0
 epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	0	1	0	0	0
 epithelial cell migration	GO_0010631	0	1	0	0	0
+epidermal cell division	GO_0010481	0	1	0	0	0
 endothelial cell proliferation	GO_0001935	0	1	0	0	0
 endothelial cell migration	GO_0043542	0	1	0	0	0
 endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
 endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
+endothelial cell apoptotic process	GO_0072577	0	1	0	0	0
 endothelial cell activation within high endothelial venule involved in immune response	GO_0002259	0	1	0	0	0
 endothelial cell activation involved in immune response	GO_0002264	0	1	0	0	0
 endothelial cell activation	GO_0042118	0	1	0	0	0
+cornification	GO_0070268	0	1	0	0	0
 corneal epithelial cell migration	GO_0061581	0	1	0	0	0
 colon epithelial cell migration	GO_0061580	0	1	0	0	0
 colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
+cholangiocyte apoptotic process	GO_1902488	0	1	0	0	0
 centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
 cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0	0
 cell migration involved in prostatic bud elongation	GO_0060518	0	1	0	0	0
 cell migration involved in mammary placode formation	GO_0060619	0	1	0	0	0
 border follicle cell migration	GO_0007298	0	1	0	0	0
+border follicle cell delamination	GO_0030709	0	1	0	0	0
 blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	0	0	0
 blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0	0
 blood vessel endothelial cell migration	GO_0043534	0	1	0	0	0
+blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment	GO_1902354	0	1	0	0	0
+blood vessel endothelial cell delamination	GO_0097497	0	1	0	0	0
+asymmetric Golgi ribbon formation	GO_0090164	0	1	0	0	0
 Sertoli cell proliferation	GO_0060011	0	1	0	0	0
+Sertoli cell apoptotic process	GO_1902484	0	1	0	0	0

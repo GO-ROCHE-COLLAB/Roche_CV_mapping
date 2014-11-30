@@ -540,6 +540,7 @@ mitotic DNA damage checkpoint	GO_0044773	0	1	0	0	0
 microtubule cytoskeleton organization involved in synapsis	GO_0090172	0	1	0	0	0
 microtubule cytoskeleton organization involved in mitosis	GO_1902850	0	1	0	0	0
 microtubule bundle formation involved in mitotic spindle midzone assembly	GO_1903562	0	1	0	0	0
+microtubule bundle formation involved in horsetail-astral microtubule organization	GO_1903563	0	1	0	0	0
 microtubule anchoring at spindle pole body	GO_0034631	0	1	0	0	0
 microsporogenesis	GO_0009556	0	1	0	0	0
 metaphase/anaphase transition of mitotic cell cycle	GO_0007091	0	1	0	0	0
@@ -659,6 +660,7 @@ intra-S DNA damage checkpoint	GO_0031573	0	1	0	0	0
 interphase microtubule nucleation by interphase microtubule organizing center	GO_0051415	0	1	0	0	0
 initiation of premeiotic DNA replication	GO_0072691	0	1	0	0	0
 inhibition of mitotic anaphase-promoting complex activity	GO_0060565	0	1	0	0	0
+horsetail-astral microtubule organization	GO_0032118	0	1	0	0	0
 homologous chromosome segregation	GO_0045143	0	1	0	0	0
 homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
 homologous chromosome movement towards spindle pole involved in homologous chromosome segregation	GO_0051758	0	1	0	0	0

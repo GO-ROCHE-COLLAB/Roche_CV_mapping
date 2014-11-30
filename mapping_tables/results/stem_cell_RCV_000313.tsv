@@ -35,6 +35,7 @@ neuroblast division in subpallium	GO_0021848	0	1	0	0	0
 neuroblast division in pallium	GO_0022017	0	1	0	0	0
 neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	0	0	0
 neuroblast division	GO_0055057	0	1	0	0	0
+neuroblast delamination	GO_0060234	0	1	0	0	0
 neuroblast activation	GO_0007407	0	1	0	0	0
 metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	0	0	0
 metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	0	0	0
@@ -51,16 +52,23 @@ mesenchymal cell proliferation involved in lung development	GO_0060916	0	1	0	0	0
 mesenchymal cell proliferation	GO_0010463	0	1	0	0	0
 mesenchymal cell migration involved in limb bud formation	GO_0035322	0	1	0	0	0
 mesenchymal cell migration	GO_0090497	0	1	0	0	0
+mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	0	0	0
+mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	0	0	0
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	0	0	0
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	0	0	0
+mesenchymal cell apoptotic process	GO_0097152	0	1	0	0	0
 male germline stem cell symmetric division	GO_0098730	0	1	0	0	0
 male germ-line stem cell maintenance	GO_0036098	0	1	0	0	0
 male germ-line stem cell asymmetric division	GO_0048133	0	1	0	0	0
 maintenance of vegetative meristem identity	GO_0010079	0	1	0	0	0
 maintenance of shoot apical meristem identity	GO_0010492	0	1	0	0	0
 maintenance of root meristem identity	GO_0010078	0	1	0	0	0
+maintenance of neuroblast polarity	GO_0045201	0	1	0	0	0
 maintenance of meristem identity	GO_0010074	0	1	0	0	0
 maintenance of inflorescence meristem identity	GO_0010077	0	1	0	0	0
 maintenance of floral meristem identity	GO_0010076	0	1	0	0	0
 kidney mesenchymal cell proliferation	GO_0072135	0	1	0	0	0
+hepatoblast apoptotic process	GO_1902489	0	1	0	0	0
 hematopoietic stem cell proliferation	GO_0071425	0	1	0	0	0
 hematopoietic stem cell migration to bone marrow	GO_0097241	0	1	0	0	0
 hematopoietic stem cell migration	GO_0035701	0	1	0	0	0
@@ -68,8 +76,11 @@ hematopoietic stem cell homeostasis	GO_0061484	0	1	0	0	0
 germline stem cell symmetric division	GO_0098729	0	1	0	0	0
 germline stem cell asymmetric division	GO_0098728	0	1	0	0	0
 forebrain neuroblast division	GO_0021873	0	1	0	0	0
+fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	0	0	0
 female germ-line stem cell maintenance	GO_0036099	0	1	0	0	0
 female germ-line stem cell asymmetric division	GO_0048132	0	1	0	0	0
+establishment or maintenance of neuroblast polarity	GO_0045196	0	1	0	0	0
+establishment of neuroblast polarity	GO_0045200	0	1	0	0	0
 epidermal stem cell homeostasis	GO_0036334	0	1	0	0	0
 endothelial to hematopoietic transition	GO_0098508	0	1	0	0	0
 endocardial progenitor cell migration to the midline involved in heart field formation	GO_0003262	0	1	0	0	0
@@ -81,3 +92,5 @@ cardiac muscle progenitor cell migration to the midline involved in heart field 
 asymmetric stem cell division	GO_0098722	0	1	0	0	0
 asymmetric neuroblast division resulting in ganglion mother cell formation	GO_0055060	0	1	0	0	0
 asymmetric neuroblast division	GO_0055059	0	1	0	0	0
+Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	0	0	0
+Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	0	0	0
