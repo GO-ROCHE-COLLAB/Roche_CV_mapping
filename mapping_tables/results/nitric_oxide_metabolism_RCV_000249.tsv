@@ -9,6 +9,6 @@ nitric oxide catabolic process	GO_0046210	1	1	1	0	0
 nitric oxide biosynthetic process	GO_0006809	1	1	1	0	0
 nitric-oxide synthase biosynthetic process	GO_0051767	1	0	1	0	0
 nitric oxide homeostasis	GO_0033484	1	0	1	0	0
-response to nitric oxide	GO_0071731	0	1	0	0	0
-nitric oxide transmembrane transporter activity	GO_0030184	0	1	0	0	0
-cellular response to nitric oxide	GO_0071732	0	1	0	0	0
+response to nitric oxide	GO_0071731	0	1	1	0	0
+nitric oxide transmembrane transporter activity	GO_0030184	0	1	1	0	0
+cellular response to nitric oxide	GO_0071732	0	1	1	0	0
