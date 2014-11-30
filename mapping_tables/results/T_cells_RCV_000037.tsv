@@ -252,6 +252,7 @@ thymocyte apoptotic process	GO_0070242	0	1	0	0	0
 regulatory T cell apoptotic process	GO_1902482	0	1	0	0	0
 memory T cell proliferation	GO_0061485	0	1	1	0	0
 helper T cell extravasation	GO_0035684	0	1	1	0	0
+helper T cell diapedesis	GO_0035685	0	1	0	0	0
 helper T cell chemotaxis	GO_0035704	0	1	1	0	0
 gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	1	0	0
 gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	1	0	0
@@ -273,11 +274,14 @@ T-helper 2 cell differentiation	GO_0045064	0	1	1	0	0
 T-helper 2 cell cytokine production	GO_0035745	0	1	1	0	0
 T-helper 2 cell chemotaxis	GO_0035707	0	1	1	0	0
 T-helper 2 cell activation	GO_0035712	0	1	1	0	0
+T-helper 17 type immune response	GO_0072538	0	1	0	0	0
 T-helper 17 cell extravasation	GO_0035699	0	1	1	0	0
 T-helper 17 cell differentiation	GO_0072539	0	1	1	0	0
 T-helper 17 cell chemotaxis	GO_0035705	0	1	1	0	0
+T-helper 1 type immune response	GO_0042088	0	1	0	0	0
 T-helper 1 cell extravasation	GO_0035687	0	1	1	0	0
 T-helper 1 cell differentiation	GO_0045063	0	1	1	0	0
+T-helper 1 cell diapedesis	GO_0035688	0	1	0	0	0
 T-helper 1 cell cytokine production	GO_0035744	0	1	1	0	0
 T-helper 1 cell chemotaxis	GO_0035706	0	1	1	0	0
 T-helper 1 cell activation	GO_0035711	0	1	1	0	0

@@ -55,6 +55,7 @@ tryptophan biosynthetic process	GO_0000162	0	1	1	0	0
 trisporic acid metabolic process	GO_0046841	0	1	1	0	0
 trisporic acid biosynthetic process	GO_0046842	0	1	1	0	0
 tricarboxylic acid metabolic process	GO_0072350	0	1	1	0	0
+tricarboxylic acid cycle	GO_0006099	0	1	0	0	0
 tricarboxylic acid catabolic process	GO_0072352	0	1	1	0	0
 tricarboxylic acid biosynthetic process	GO_0072351	0	1	1	0	0
 transsulfuration	GO_0019346	0	1	1	0	0
@@ -135,6 +136,7 @@ retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_
 retinoic acid metabolic process	GO_0042573	0	1	1	0	0
 retinoic acid catabolic process	GO_0034653	0	1	1	0	0
 retinoic acid biosynthetic process	GO_0002138	0	1	1	0	0
+reductive tricarboxylic acid cycle	GO_0019643	0	1	0	0	0
 quinolinate metabolic process	GO_0046874	0	1	1	0	0
 quinolinate catabolic process	GO_0034213	0	1	1	0	0
 quinolinate biosynthetic process	GO_0019805	0	1	1	0	0

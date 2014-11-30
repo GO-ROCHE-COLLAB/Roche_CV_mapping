@@ -57,6 +57,7 @@ renal glucose absorption	GO_0035623	0	1	0	0	0
 renal amino acid absorption	GO_1990297	0	1	0	0	0
 regulation of urine volume	GO_0035809	0	1	0	0	0
 regulation of renin secretion into blood stream	GO_1900133	0	1	0	0	0
+regulation of renal system process	GO_0098801	0	1	0	0	0
 regulation of renal phosphate excretion	GO_1903402	0	1	0	0	0
 regulation of renal amino acid absorption	GO_1902752	0	1	0	0	0
 regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	0	0	0

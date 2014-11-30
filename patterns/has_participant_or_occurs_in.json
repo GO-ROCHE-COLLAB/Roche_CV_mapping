@@ -8,7 +8,7 @@
         "text": "A process in which a %s participates or that occur in %s", 
         "vars": [
             "key_class", 
-            "key class"
+            "key_class"
         ]
     }, 
     "equivalentTo": {

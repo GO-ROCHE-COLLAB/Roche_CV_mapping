@@ -42,7 +42,7 @@
 * Key class: [renal system process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003014)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: renal system process OR a part of renal system process OR a process that regulates renal system process
-* map summary: Roche_cvt: RCV_000215; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0003014; manual_list_count 45, generated_list_count 70
+* map summary: Roche_cvt: RCV_000215; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0003014; manual_list_count 45, generated_list_count 71
 * [Results](kidney_function_RCV_000215.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -779,7 +779,7 @@
 * Key class: [nitric oxide](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:16480)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some nitric oxide participates.
-* map summary: Roche_cvt: RCV_000249; class_expression RO_0000057 some CHEBI_16480; manual_list_count 10, generated_list_count 3
+* map summary: Roche_cvt: RCV_000249; class_expression RO_0000057 some CHEBI_16480; manual_list_count 10, generated_list_count 11
 * Notes: Manual mapping is broader than metabolism - including signalling.
 * [Results](nitric_oxide_metabolism_RCV_000249.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/104)
@@ -1039,7 +1039,7 @@
 * Key class: [organic acid metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006082)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for organic acid metabolic process.
-* map summary: Roche_cvt: RCV_000260; class_expression GO_0006082; manual_list_count 5, generated_list_count 1631
+* map summary: Roche_cvt: RCV_000260; class_expression GO_0006082; manual_list_count 5, generated_list_count 1633
 * [Results](organic_acid_metabolism_RCV_000260.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/95)
 * Status: open
@@ -1147,7 +1147,7 @@
 * Key class: [T cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000084)
 * Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
 * Definition: A process in which a T cell participates or that occur in T cell
-* map summary: Roche_cvt: RCV_000037; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000084; manual_list_count 247, generated_list_count 128
+* map summary: Roche_cvt: RCV_000037; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000084; manual_list_count 247, generated_list_count 132
 * Notes: Also need inference of regulation of processes in which T cells participate?
 * [Results](T_cells_RCV_000037.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/49)
@@ -1185,7 +1185,7 @@
 * Key class: [citric acid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:30769)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some citric acid participates.
-* map summary: Roche_cvt: RCV_000039; class_expression RO_0000057 some CHEBI_30769; manual_list_count 7, generated_list_count 10
+* map summary: Roche_cvt: RCV_000039; class_expression RO_0000057 some CHEBI_30769; manual_list_count 7, generated_list_count 15
 * [Results](TCA_metabolism_RCV_000039.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/62)
 * Status: open
@@ -1367,7 +1367,7 @@
 * Key class: [lymphocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000542)
 * Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
 * Definition: A process in which a lymphocyte participates or that occur in lymphocyte
-* map summary: Roche_cvt: RCV_000226; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000542; manual_list_count 13, generated_list_count 238
+* map summary: Roche_cvt: RCV_000226; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000542; manual_list_count 13, generated_list_count 242
 * [Results](lymphocyte_RCV_000226.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/150)
 * Status: open
@@ -1833,7 +1833,7 @@
 * Key class: [helper T cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000912)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a helper T cell participates or that occur in helper T cell or which results in the developmental progression of a structure that will form helper T cell
-* map summary: Roche_cvt: RCV_000038; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000912; manual_list_count 21, generated_list_count 11
+* map summary: Roche_cvt: RCV_000038; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000912; manual_list_count 21, generated_list_count 24
 * [Results](T_helper_RCV_000038.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/32)
 * Status: open

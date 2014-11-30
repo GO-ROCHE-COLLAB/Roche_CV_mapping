@@ -13,7 +13,7 @@
         ]
     }, 
     "equivalentTo": {
-        "text": "'scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5' some %s", 
+        "text": "'CL-anat_super_query' some %s", 
         "vars": [
             "key_class"
         ]
