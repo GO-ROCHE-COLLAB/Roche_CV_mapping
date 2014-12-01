@@ -16,477 +16,477 @@ cell fate commitment involved in formation of primary germ layer	GO_0060795	1	0	
 cell fate commitment	GO_0045165	1	0	1	0	0
 cell development	GO_0048468	1	0	1	0	0
 cell dedifferentiation	GO_0043697	1	0	1	0	0
-zygospore formation	GO_0034296	0	1	0	0	0
-zoospore formation	GO_0075239	0	1	0	0	0
-xylem vessel member cell differentiation	GO_0048759	0	1	0	0	0
-xanthophore differentiation	GO_0050936	0	1	0	0	0
-white fat cell differentiation involved in mammary gland fat development	GO_0060642	0	1	0	0	0
-white fat cell differentiation	GO_0050872	0	1	0	0	0
-visceral motor neuron differentiation	GO_0021524	0	1	0	0	0
-vestibular receptor cell differentiation	GO_0060114	0	1	0	0	0
-ventricular cardiac muscle cell differentiation	GO_0055012	0	1	0	0	0
-ventral spinal cord interneuron differentiation	GO_0021514	0	1	0	0	0
-venous endothelial cell differentiation	GO_0060843	0	1	0	0	0
-vegetative cell differentiation	GO_0022620	0	1	0	0	0
-vasculogenesis involved in coronary vascular morphogenesis	GO_0060979	0	1	0	0	0
-vasculogenesis	GO_0001570	0	1	0	0	0
-vascular smooth muscle cell differentiation	GO_0035886	0	1	0	0	0
-ureter smooth muscle cell differentiation	GO_0072193	0	1	0	0	0
-ureter epithelial cell differentiation	GO_0072192	0	1	0	0	0
-uredospore formation	GO_0075251	0	1	0	0	0
-type B pancreatic cell differentiation	GO_0003309	0	1	0	0	0
-trophoblast giant cell differentiation	GO_0060707	0	1	0	0	0
-trophectodermal cell differentiation	GO_0001829	0	1	0	0	0
-trichome differentiation	GO_0010026	0	1	0	0	0
-trichoblast differentiation	GO_0010054	0	1	0	0	0
-transitional two stage B cell differentiation	GO_0002334	0	1	0	0	0
-transitional stage B cell differentiation	GO_0002332	0	1	0	0	0
-transitional one stage B cell differentiation	GO_0002333	0	1	0	0	0
-transdifferentiation	GO_0060290	0	1	0	0	0
-tongue muscle cell differentiation	GO_0035981	0	1	0	0	0
-thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	0	0	0
-thrombocyte differentiation	GO_0002574	0	1	0	0	0
-tendon cell differentiation	GO_0035990	0	1	0	0	0
-teliospore formation	GO_0075255	0	1	0	0	0
-synergid differentiation	GO_0009563	0	1	0	0	0
-syncytiotrophoblast cell differentiation involved in labyrinthine layer development	GO_0060715	0	1	0	0	0
-striated muscle cell differentiation	GO_0051146	0	1	0	0	0
-striatal medium spiny neuron differentiation	GO_0021773	0	1	0	0	0
-stomach neuroendocrine cell differentiation	GO_0061102	0	1	0	0	0
-stem cell differentiation	GO_0048863	0	1	0	0	0
-squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	0	0	0
-sporulation resulting in formation of a cellular spore	GO_0030435	0	1	0	0	0
-sporocyte differentiation	GO_0048533	0	1	0	0	0
-sporangiospore formation	GO_0034300	0	1	0	0	0
-spongiotrophoblast differentiation	GO_0060708	0	1	0	0	0
-spinal cord radial glial cell differentiation	GO_0021531	0	1	0	0	0
-spinal cord oligodendrocyte cell differentiation	GO_0021529	0	1	0	0	0
-spinal cord motor neuron differentiation	GO_0021522	0	1	0	0	0
-spinal cord association neuron differentiation	GO_0021527	0	1	0	0	0
-spermatid differentiation	GO_0048515	0	1	0	0	0
-sorocarp stalk cell differentiation	GO_0031149	0	1	0	0	0
-sorocarp spore cell differentiation	GO_0044671	0	1	0	0	0
-somatotropin secreting cell differentiation	GO_0060126	0	1	0	0	0
-somatic motor neuron differentiation	GO_0021523	0	1	0	0	0
-socket cell differentiation	GO_0090437	0	1	0	0	0
-smooth muscle derived foam cell differentiation	GO_0090078	0	1	0	0	0
-smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	0	1	0	0	0
-smooth muscle cell differentiation	GO_0051145	0	1	0	0	0
-skeletal muscle satellite cell differentiation	GO_0014816	0	1	0	0	0
-skeletal muscle fiber differentiation	GO_0098528	0	1	0	0	0
-skeletal muscle cell differentiation	GO_0035914	0	1	0	0	0
-sinoatrial node cell differentiation	GO_0060921	0	1	0	0	0
-sieve element differentiation	GO_0090603	0	1	0	0	0
-sieve cell differentiation	GO_0048756	0	1	0	0	0
-sexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075285	0	1	0	0	0
-sexual sporulation resulting in formation of a cellular spore	GO_0043935	0	1	0	0	0
-sexual sporulation	GO_0034293	0	1	0	0	0
-sepal giant cell differentiation	GO_0090392	0	1	0	0	0
-seed trichome differentiation	GO_0090376	0	1	0	0	0
-secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	0	1	0	0	0
-sebaceous gland cell differentiation	GO_0001949	0	1	0	0	0
-sclerenchyma cell differentiation	GO_0014001	0	1	0	0	0
-root hair cell differentiation	GO_0048765	0	1	0	0	0
-root epidermal cell differentiation	GO_0010053	0	1	0	0	0
-rhombomere cell differentiation	GO_0022036	0	1	0	0	0
-retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	0	0	0
-retinal rod cell differentiation	GO_0060221	0	1	0	0	0
-retinal cone cell differentiation	GO_0042670	0	1	0	0	0
-retinal bipolar neuron differentiation	GO_0060040	0	1	0	0	0
-respiratory basal cell differentiation	GO_1902691	0	1	0	0	0
-renal vesicle progenitor cell differentiation	GO_0072184	0	1	0	0	0
-renal filtration cell differentiation	GO_0061318	0	1	0	0	0
-regulatory T cell differentiation	GO_0045066	0	1	0	0	0
-radial glial cell differentiation	GO_0060019	0	1	0	0	0
-pyramidal neuron differentiation	GO_0021859	0	1	0	0	0
-proximal convoluted tubule segment 1 cell differentiation	GO_0072062	0	1	0	0	0
-pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	0	0	0
-prolactin secreting cell differentiation	GO_0060127	0	1	0	0	0
-pro-T cell differentiation	GO_0002572	0	1	0	0	0
-pro-B cell differentiation	GO_0002328	0	1	0	0	0
-primitive erythrocyte differentiation	GO_0060319	0	1	0	0	0
-pre-B cell differentiation	GO_0002329	0	1	0	0	0
-posterior lateral line neuromast support cell differentiation	GO_0048927	0	1	0	0	0
-posterior lateral line neuromast mantle cell differentiation	GO_0048924	0	1	0	0	0
-posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	0	0	0
-posterior lateral line nerve glial cell differentiation	GO_0048931	0	1	0	0	0
-posterior lateral line ganglion neuron differentiation	GO_0048928	0	1	0	0	0
-pollen sperm cell differentiation	GO_0048235	0	1	0	0	0
-polarized epithelial cell differentiation	GO_0030859	0	1	0	0	0
-platelet formation	GO_0030220	0	1	0	0	0
-plasmatocyte differentiation	GO_0042387	0	1	0	0	0
-plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	0	1	0	0	0
-plasmacytoid dendritic cell differentiation	GO_0002273	0	1	0	0	0
-plasma cell differentiation	GO_0002317	0	1	0	0	0
-plant parenchymal cell differentiation	GO_0048760	0	1	0	0	0
-pigment cell precursor differentiation	GO_0048824	0	1	0	0	0
-pigment cell differentiation	GO_0050931	0	1	0	0	0
-photoreceptor cell differentiation	GO_0046530	0	1	0	0	0
-peripheral nervous system neuron differentiation	GO_0048934	0	1	0	0	0
-peripheral mammary gland bud epithelial cell differentiation	GO_0060645	0	1	0	0	0
-pericardial nephrocyte differentiation	GO_0061320	0	1	0	0	0
-paraxial mesodermal cell differentiation	GO_0048342	0	1	0	0	0
-pancreatic epsilon cell differentiation	GO_0090104	0	1	0	0	0
-pancreatic PP cell differentiation	GO_0003312	0	1	0	0	0
-pancreatic D cell differentiation	GO_0003311	0	1	0	0	0
-pancreatic A cell differentiation	GO_0003310	0	1	0	0	0
-osteoclast differentiation	GO_0030316	0	1	0	0	0
-osteoblast differentiation	GO_0001649	0	1	0	0	0
-oospore formation	GO_0075243	0	1	0	0	0
-oocyte differentiation	GO_0009994	0	1	0	0	0
-oligodendrocyte differentiation	GO_0048709	0	1	0	0	0
-oligodendrocyte cell fate commitment	GO_0021779	0	1	0	0	0
-olfactory bulb interneuron differentiation	GO_0021889	0	1	0	0	0
-oenocyte differentiation	GO_0001742	0	1	0	0	0
-odontoblast differentiation	GO_0071895	0	1	0	0	0
-ocellus photoreceptor cell differentiation	GO_0042705	0	1	0	0	0
-nucleate erythrocyte differentiation	GO_0043363	0	1	0	0	0
-notochord cell differentiation	GO_0060034	0	1	0	0	0
-noradrenergic neuron differentiation involved in brainstem development	GO_0003361	0	1	0	0	0
-noradrenergic neuron differentiation	GO_0003357	0	1	0	0	0
-neutrophil differentiation	GO_0030223	0	1	0	0	0
-neuron differentiation involved in salivary gland development	GO_0060705	0	1	0	0	0
-neuron differentiation involved in amphid sensory organ development	GO_0003387	0	1	0	0	0
-neuron differentiation	GO_0030182	0	1	0	0	0
-neuromast support cell differentiation	GO_0048889	0	1	0	0	0
-neuromast mantle cell differentiation	GO_0048888	0	1	0	0	0
-neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	0	0	0
-neuromast hair cell differentiation	GO_0048886	0	1	0	0	0
-neurogenesis	GO_0022008	0	1	0	0	0
-neuroepithelial cell differentiation	GO_0060563	0	1	0	0	0
-neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	0	0	0
-neuroendocrine cell differentiation	GO_0061101	0	1	0	0	0
-neuroblast differentiation	GO_0014016	0	1	0	0	0
-neural crest-derived cardiac glial cell differentiation	GO_0060951	0	1	0	0	0
-neural crest-derived cardiac fibroblast cell differentiation	GO_0060942	0	1	0	0	0
-neural crest cell differentiation involved in thymus development	GO_1902637	0	1	0	0	0
-neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	0	0	0
-neural crest cell differentiation	GO_0014033	0	1	0	0	0
-nephron tubule epithelial cell differentiation	GO_0072160	0	1	0	0	0
-nephrocyte differentiation	GO_0061319	0	1	0	0	0
-natural killer cell progenitor differentiation	GO_0002321	0	1	0	0	0
-natural killer cell differentiation involved in immune response	GO_0002325	0	1	0	0	0
-natural killer cell differentiation	GO_0001779	0	1	0	0	0
-myxospore formation	GO_0034303	0	1	0	0	0
-mystery cell differentiation	GO_0008583	0	1	0	0	0
-myotube differentiation involved in skeletal muscle regeneration	GO_0014908	0	1	0	0	0
-myotube differentiation	GO_0014902	0	1	0	0	0
-myofibroblast differentiation	GO_0036446	0	1	0	0	0
-myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	0	1	0	0	0
-myoblast differentiation	GO_0045445	0	1	0	0	0
-myeloid progenitor cell differentiation	GO_0002318	0	1	0	0	0
-myeloid leukocyte differentiation	GO_0002573	0	1	0	0	0
-myeloid dendritic cell differentiation involved in immune response	GO_0002284	0	1	0	0	0
-myeloid dendritic cell differentiation	GO_0043011	0	1	0	0	0
-myeloid cell differentiation	GO_0030099	0	1	0	0	0
-muscle cell differentiation	GO_0042692	0	1	0	0	0
-multinuclear osteoclast differentiation	GO_0072674	0	1	0	0	0
-multi-ciliated epithelial cell differentiation	GO_1903251	0	1	0	0	0
-mononuclear cell differentiation	GO_1903131	0	1	0	0	0
-monocyte differentiation	GO_0030224	0	1	0	0	0
-microsporocyte differentiation	GO_0010480	0	1	0	0	0
-microglia differentiation	GO_0014004	0	1	0	0	0
-metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	0	0	0
-metanephric mesenchymal cell differentiation	GO_0072162	0	1	0	0	0
-metanephric mesangial cell differentiation	GO_0072209	0	1	0	0	0
-metanephric juxtaglomerulus cell differentiation	GO_0072251	0	1	0	0	0
-metanephric interstitial fibroblast differentiation	GO_0072258	0	1	0	0	0
-metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	0	0	0
-metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	0	0	0
-metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	0	0	0
-metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	0	0	0
-metanephric DCT cell differentiation	GO_0072240	0	1	0	0	0
-mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	0	0	0
-mesonephric mesenchymal cell differentiation	GO_0061223	0	1	0	0	0
-mesonephric mesangial cell differentiation	GO_0061260	0	1	0	0	0
-mesonephric juxtaglomerulus cell differentiation	GO_0061207	0	1	0	0	0
-mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	0	0	0
-mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	0	0	0
-mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	0	0	0
-mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	0	0	0
-mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	0	0	0
-mesodermal cell differentiation	GO_0048333	0	1	0	0	0
-mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	0	0	0
-mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis	GO_0072281	0	1	0	0	0
-mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	0	0	0
-mesenchymal stem cell differentiation	GO_0072497	0	1	0	0	0
-mesenchymal cell differentiation involved in salivary gland development	GO_0060692	0	1	0	0	0
-mesenchymal cell differentiation involved in renal system development	GO_2001012	0	1	0	0	0
-mesenchymal cell differentiation involved in mammary gland development	GO_0060610	0	1	0	0	0
-mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	0	0	0
-mesenchymal cell differentiation involved in kidney development	GO_0072161	0	1	0	0	0
-mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	0	0	0
-mesenchymal cell differentiation	GO_0048762	0	1	0	0	0
-mesangial cell differentiation	GO_0072007	0	1	0	0	0
-memory T cell differentiation	GO_0043379	0	1	0	0	0
-memory B cell differentiation	GO_0002319	0	1	0	0	0
-melanocyte differentiation	GO_0030318	0	1	0	0	0
-megakaryocyte differentiation	GO_0030219	0	1	0	0	0
-medial motor column neuron differentiation	GO_0021526	0	1	0	0	0
-mechanoreceptor differentiation involved in mechanosensory epithelium regeneration	GO_0070656	0	1	0	0	0
-mechanoreceptor differentiation	GO_0042490	0	1	0	0	0
-mature conventional dendritic cell differentiation	GO_0097029	0	1	0	0	0
-mature B cell differentiation involved in immune response	GO_0002313	0	1	0	0	0
-mature B cell differentiation	GO_0002335	0	1	0	0	0
-mast cell differentiation	GO_0060374	0	1	0	0	0
-marginal zone B cell differentiation	GO_0002315	0	1	0	0	0
-mammary gland epithelial cell differentiation	GO_0060644	0	1	0	0	0
-macrophage differentiation	GO_0030225	0	1	0	0	0
-macrophage derived foam cell differentiation	GO_0010742	0	1	0	0	0
-lymphoid progenitor cell differentiation	GO_0002320	0	1	0	0	0
-lymphocyte differentiation	GO_0030098	0	1	0	0	0
-lymphatic endothelial cell differentiation	GO_0060836	0	1	0	0	0
-lymph gland plasmatocyte differentiation	GO_0035169	0	1	0	0	0
-lymph gland crystal cell differentiation	GO_0035170	0	1	0	0	0
-lung secretory cell differentiation	GO_0061140	0	1	0	0	0
-lung neuroendocrine cell differentiation	GO_0061100	0	1	0	0	0
-lung goblet cell differentiation	GO_0060480	0	1	0	0	0
-lung epithelial cell differentiation	GO_0060487	0	1	0	0	0
-lung ciliated cell differentiation	GO_0061141	0	1	0	0	0
-lung cell differentiation	GO_0060479	0	1	0	0	0
-lung basal cell differentiation	GO_0060508	0	1	0	0	0
-limb spinous cell differentiation	GO_0060890	0	1	0	0	0
-limb granular cell differentiation	GO_0060891	0	1	0	0	0
-limb basal epidermal cell differentiation	GO_0060889	0	1	0	0	0
-leukocyte differentiation	GO_0002521	0	1	0	0	0
-leucophore differentiation	GO_0048772	0	1	0	0	0
-lens fiber cell differentiation	GO_0070306	0	1	0	0	0
-leading edge cell differentiation	GO_0035026	0	1	0	0	0
-lateral motor column neuron differentiation	GO_0021525	0	1	0	0	0
-lateral mesodermal cell differentiation	GO_0048371	0	1	0	0	0
-lateral line nerve glial cell differentiation	GO_0048895	0	1	0	0	0
-lateral line ganglion neuron differentiation	GO_0048891	0	1	0	0	0
-late stripe melanocyte differentiation	GO_0050934	0	1	0	0	0
-larval lymph gland hemocyte differentiation	GO_0035168	0	1	0	0	0
-lamellocyte differentiation	GO_0035171	0	1	0	0	0
-kidney smooth muscle cell differentiation	GO_0072195	0	1	0	0	0
-kidney interstitial fibroblast differentiation	GO_0072071	0	1	0	0	0
-keratinocyte differentiation	GO_0030216	0	1	0	0	0
-juxtaglomerulus cell differentiation	GO_0072052	0	1	0	0	0
-iridophore differentiation	GO_0050935	0	1	0	0	0
-intestinal epithelial cell differentiation	GO_0060575	0	1	0	0	0
-interstitial cell of Cajal differentiation	GO_0061453	0	1	0	0	0
-internal mammary gland bud epithelial cell differentiation	GO_0060646	0	1	0	0	0
-intermediate mesodermal cell differentiation	GO_0048392	0	1	0	0	0
-inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	0	1	0	0	0
-inner ear receptor cell differentiation	GO_0060113	0	1	0	0	0
-inner cell mass cell differentiation	GO_0001826	0	1	0	0	0
-immature B cell differentiation	GO_0002327	0	1	0	0	0
-hypothalamus gonadotrophin-releasing hormone neuron differentiation	GO_0021886	0	1	0	0	0
-hypothalamus cell differentiation	GO_0021979	0	1	0	0	0
-hippocampal pyramidal neuron differentiation	GO_0097432	0	1	0	0	0
-hippocampal interneuron differentiation	GO_0097410	0	1	0	0	0
-heterocyst differentiation	GO_0043158	0	1	0	0	0
-hepatocyte differentiation	GO_0070365	0	1	0	0	0
-hepatoblast differentiation	GO_0061017	0	1	0	0	0
-hepatic stellate cell differentiation	GO_0061521	0	1	0	0	0
-hemocyte differentiation	GO_0042386	0	1	0	0	0
-hematopoietic stem cell differentiation	GO_0060218	0	1	0	0	0
-hematopoietic progenitor cell differentiation	GO_0002244	0	1	0	0	0
-hemangioblast cell differentiation	GO_0060217	0	1	0	0	0
-heart valve cell differentiation	GO_0003293	0	1	0	0	0
-hair cell differentiation	GO_0035315	0	1	0	0	0
-guard mother cell differentiation	GO_0010444	0	1	0	0	0
-guard cell differentiation	GO_0010052	0	1	0	0	0
-growth plate cartilage chondrocyte differentiation	GO_0003418	0	1	0	0	0
-granulosa cell differentiation	GO_0060014	0	1	0	0	0
-granulocyte differentiation	GO_0030851	0	1	0	0	0
-glycogen cell differentiation involved in embryonic placenta development	GO_0060709	0	1	0	0	0
-glomerular visceral epithelial cell differentiation	GO_0072112	0	1	0	0	0
-glomerular parietal epithelial cell differentiation	GO_0072139	0	1	0	0	0
-glomerular mesangial cell differentiation	GO_0072008	0	1	0	0	0
-glomerular epithelial cell differentiation	GO_0072311	0	1	0	0	0
-gliogenesis	GO_0042063	0	1	0	0	0
-glial cell differentiation involved in amphid sensory organ development	GO_0003398	0	1	0	0	0
-glial cell differentiation	GO_0010001	0	1	0	0	0
-glandular epithelial cell differentiation	GO_0002067	0	1	0	0	0
-germinal center B cell differentiation	GO_0002314	0	1	0	0	0
-germarium-derived oocyte differentiation	GO_0030706	0	1	0	0	0
-generative cell differentiation	GO_0022619	0	1	0	0	0
-generation of neurons	GO_0048699	0	1	0	0	0
-garland nephrocyte differentiation	GO_0061321	0	1	0	0	0
-gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0	0
-gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0	0
-gamma-delta T cell differentiation	GO_0042492	0	1	0	0	0
-forebrain radial glial cell differentiation	GO_0021861	0	1	0	0	0
-forebrain neuron differentiation	GO_0021879	0	1	0	0	0
-forebrain neuroblast differentiation	GO_0021863	0	1	0	0	0
-forebrain generation of neurons	GO_0021872	0	1	0	0	0
-forebrain astrocyte differentiation	GO_0021896	0	1	0	0	0
-follicular dendritic cell differentiation	GO_0002268	0	1	0	0	0
-follicular B cell differentiation	GO_0002316	0	1	0	0	0
-foam cell differentiation	GO_0090077	0	1	0	0	0
-fat cell differentiation	GO_0045444	0	1	0	0	0
-eye photoreceptor cell differentiation	GO_0001754	0	1	0	0	0
-extrathymic T cell differentiation	GO_0033078	0	1	0	0	0
-eurydendroid cell differentiation	GO_0021755	0	1	0	0	0
-establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	0	0	0
-establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	0	1	0	0	0
-establishment of epithelial cell apical/basal polarity	GO_0045198	0	1	0	0	0
-erythrophore differentiation	GO_0048773	0	1	0	0	0
-erythrocyte differentiation	GO_0030218	0	1	0	0	0
-epithelial cell differentiation involved in salivary gland development	GO_0060690	0	1	0	0	0
-epithelial cell differentiation involved in prostate gland development	GO_0060742	0	1	0	0	0
-epithelial cell differentiation involved in mammary gland cord morphogenesis	GO_0060653	0	1	0	0	0
-epithelial cell differentiation involved in mammary gland bud morphogenesis	GO_0060643	0	1	0	0	0
-epithelial cell differentiation involved in mammary gland alveolus development	GO_0061030	0	1	0	0	0
-epithelial cell differentiation involved in kidney development	GO_0035850	0	1	0	0	0
-epithelial cell differentiation involved in embryonic placenta development	GO_0060671	0	1	0	0	0
-epithelial cell differentiation	GO_0030855	0	1	0	0	0
-epidermal cell differentiation	GO_0009913	0	1	0	0	0
-epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	0	0	0
-epicardium-derived cardiac fibroblast cell differentiation	GO_0060938	0	1	0	0	0
-epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	0	0	0
-eosinophil differentiation	GO_0030222	0	1	0	0	0
-enucleate erythrocyte differentiation	GO_0043353	0	1	0	0	0
-enteroendocrine cell differentiation	GO_0035883	0	1	0	0	0
-enteric smooth muscle cell differentiation	GO_0035645	0	1	0	0	0
-endothelial cell differentiation	GO_0045446	0	1	0	0	0
-endospore formation	GO_0034301	0	1	0	0	0
-endodermal cell differentiation	GO_0035987	0	1	0	0	0
-endocardial precursor cell differentiation	GO_0003255	0	1	0	0	0
-endocardial cushion cell differentiation	GO_0061443	0	1	0	0	0
-endocardial cell differentiation	GO_0060956	0	1	0	0	0
-embryonic plasmatocyte differentiation	GO_0035164	0	1	0	0	0
-embryonic hemocyte differentiation	GO_0035163	0	1	0	0	0
-embryonic crystal cell differentiation	GO_0035165	0	1	0	0	0
-embryo sac egg cell differentiation	GO_0009560	0	1	0	0	0
-embryo sac central cell differentiation	GO_0009559	0	1	0	0	0
-ectodermal cell differentiation	GO_0010668	0	1	0	0	0
-early stripe melanocyte differentiation	GO_0050933	0	1	0	0	0
-early neuron differentiation in forebrain	GO_0021862	0	1	0	0	0
-dorsal closure, leading edge cell differentiation	GO_0046663	0	1	0	0	0
-dopaminergic neuron differentiation	GO_0071542	0	1	0	0	0
-disseminated nephrocyte differentiation	GO_0061322	0	1	0	0	0
-dendritic cell differentiation	GO_0097028	0	1	0	0	0
-definitive erythrocyte differentiation	GO_0060318	0	1	0	0	0
-cytotoxic T cell differentiation	GO_0045065	0	1	0	0	0
-cyanophore differentiation	GO_0048774	0	1	0	0	0
-cumulus cell differentiation	GO_0001549	0	1	0	0	0
-crystal cell differentiation	GO_0042688	0	1	0	0	0
-corticotropin hormone secreting cell differentiation	GO_0060128	0	1	0	0	0
-compound eye photoreceptor cell differentiation	GO_0001751	0	1	0	0	0
-compound eye cone cell differentiation	GO_0042675	0	1	0	0	0
-companion cell differentiation	GO_0048758	0	1	0	0	0
-commissural neuron differentiation in spinal cord	GO_0021528	0	1	0	0	0
-columnar/cuboidal epithelial cell differentiation	GO_0002065	0	1	0	0	0
-collenchyma cell differentiation	GO_0048761	0	1	0	0	0
-chorionic trophoblast cell differentiation	GO_0060718	0	1	0	0	0
-chondrocyte differentiation involved in endochondral bone morphogenesis	GO_0003413	0	1	0	0	0
-chondrocyte differentiation	GO_0002062	0	1	0	0	0
-chondroblast differentiation	GO_0060591	0	1	0	0	0
-chlamydospore formation	GO_0001410	0	1	0	0	0
-cerebral cortex neuron differentiation	GO_0021895	0	1	0	0	0
-cerebral cortex GABAergic interneuron differentiation	GO_0021892	0	1	0	0	0
-cerebellar unipolar brush cell differentiation	GO_0021711	0	1	0	0	0
-cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0
-cerebellar granule cell differentiation	GO_0021707	0	1	0	0	0
-cerebellar basket cell differentiation	GO_0021709	0	1	0	0	0
-cerebellar Purkinje cell differentiation	GO_0021702	0	1	0	0	0
-cerebellar Golgi cell differentiation	GO_0021701	0	1	0	0	0
-central nervous system vasculogenesis	GO_0022009	0	1	0	0	0
-central nervous system neuron differentiation	GO_0021953	0	1	0	0	0
-cell differentiation involved in kidney development	GO_0061005	0	1	0	0	0
-cell differentiation involved in embryonic placenta development	GO_0060706	0	1	0	0	0
-cell differentiation in hindbrain	GO_0021533	0	1	0	0	0
-carotid body glomus cell differentiation	GO_0061103	0	1	0	0	0
-cardiocyte differentiation	GO_0035051	0	1	0	0	0
-cardioblast differentiation	GO_0010002	0	1	0	0	0
-cardiac vascular smooth muscle cell differentiation	GO_0060947	0	1	0	0	0
-cardiac septum cell differentiation	GO_0003292	0	1	0	0	0
-cardiac pacemaker cell differentiation	GO_0060920	0	1	0	0	0
-cardiac neuron differentiation	GO_0060945	0	1	0	0	0
-cardiac neural crest cell differentiation involved in heart development	GO_0061307	0	1	0	0	0
-cardiac muscle cell myoblast differentiation	GO_0060379	0	1	0	0	0
-cardiac muscle cell differentiation	GO_0055007	0	1	0	0	0
-cardiac glial cell differentiation	GO_0060950	0	1	0	0	0
-cardiac fibroblast cell differentiation	GO_0060935	0	1	0	0	0
-cardiac endothelial cell differentiation	GO_0003348	0	1	0	0	0
-cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	0	0	0
-candelabrum cell differentiation	GO_0021712	0	1	0	0	0
-camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0	0
-bundle sheath cell differentiation	GO_1903498	0	1	0	0	0
-brown fat cell differentiation	GO_0050873	0	1	0	0	0
-blood vessel endothelial cell differentiation	GO_0060837	0	1	0	0	0
-basophil differentiation	GO_0030221	0	1	0	0	0
-basidiospore formation	GO_0034295	0	1	0	0	0
-axial mesodermal cell differentiation	GO_0048321	0	1	0	0	0
-auditory receptor cell differentiation	GO_0042491	0	1	0	0	0
-atrioventricular node cell differentiation	GO_0060922	0	1	0	0	0
-atrioventricular bundle cell differentiation	GO_0003167	0	1	0	0	0
-atrichoblast differentiation	GO_0010055	0	1	0	0	0
-atrial cardiac muscle cell differentiation	GO_0055011	0	1	0	0	0
-astrocyte differentiation	GO_0048708	0	1	0	0	0
-asexual sporulation resulting in formation of a cellular spore	GO_0043936	0	1	0	0	0
-ascospore formation	GO_0030437	0	1	0	0	0
-arterial endothelial cell differentiation	GO_0060842	0	1	0	0	0
-aplanospore formation	GO_0075289	0	1	0	0	0
-aortic smooth muscle cell differentiation	GO_0035887	0	1	0	0	0
-antipodal cell differentiation	GO_0009557	0	1	0	0	0
-anther wall tapetum cell differentiation	GO_0048657	0	1	0	0	0
-anterior lateral line neuromast support cell differentiation	GO_0048906	0	1	0	0	0
-anterior lateral line neuromast mantle cell differentiation	GO_0048905	0	1	0	0	0
-anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	0	0	0
-anterior lateral line nerve glial cell differentiation	GO_0048913	0	1	0	0	0
-anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	0	0	0
-angioblast cell differentiation	GO_0035779	0	1	0	0	0
-amniotic stem cell differentiation	GO_0097086	0	1	0	0	0
-ameloblast differentiation	GO_0036305	0	1	0	0	0
-amacrine cell differentiation	GO_0035881	0	1	0	0	0
-alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	0	0	0
-alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0	0
-alpha-beta T cell differentiation	GO_0046632	0	1	0	0	0
-akinete formation	GO_0034302	0	1	0	0	0
-aeciospore formation	GO_0075247	0	1	0	0	0
-adrenal chromaffin cell differentiation	GO_0061104	0	1	0	0	0
-actinomycete-type spore formation	GO_0034304	0	1	0	0	0
-acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	0	0	0
-acinar cell differentiation	GO_0090425	0	1	0	0	0
-Type II pneumocyte differentiation	GO_0060510	0	1	0	0	0
-Type I pneumocyte differentiation	GO_0060509	0	1	0	0	0
-T-helper cell differentiation	GO_0042093	0	1	0	0	0
-T-helper 2 cell differentiation	GO_0045064	0	1	0	0	0
-T-helper 17 cell differentiation	GO_0072539	0	1	0	0	0
-T-helper 1 cell differentiation	GO_0045063	0	1	0	0	0
-T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
-T cell differentiation involved in immune response	GO_0002292	0	1	0	0	0
-T cell differentiation in thymus	GO_0033077	0	1	0	0	0
-T cell differentiation	GO_0030217	0	1	0	0	0
-Sertoli cell differentiation	GO_0060008	0	1	0	0	0
-Schwann cell differentiation	GO_0014037	0	1	0	0	0
-R8 cell differentiation	GO_0045465	0	1	0	0	0
-R7 cell differentiation	GO_0045466	0	1	0	0	0
-R3/R4 cell differentiation	GO_0048056	0	1	0	0	0
-R2/R5 cell differentiation	GO_0048054	0	1	0	0	0
-R1/R6 cell differentiation	GO_0048052	0	1	0	0	0
-Purkinje myocyte differentiation	GO_0003168	0	1	0	0	0
-NK T cell differentiation	GO_0001865	0	1	0	0	0
-Malpighian tubule tip cell differentiation	GO_0061382	0	1	0	0	0
-Malpighian tubule stellate cell differentiation	GO_0061330	0	1	0	0	0
-Malpighian tubule principal cell differentiation	GO_0061329	0	1	0	0	0
-Lugaro cell differentiation	GO_0021708	0	1	0	0	0
-Leydig cell differentiation	GO_0033327	0	1	0	0	0
-Langerhans cell differentiation	GO_0061520	0	1	0	0	0
-His-Purkinje system cell differentiation	GO_0060932	0	1	0	0	0
-GABAergic neuron differentiation in basal ganglia	GO_0021858	0	1	0	0	0
-GABAergic neuron differentiation	GO_0097154	0	1	0	0	0
-DCT cell differentiation	GO_0072069	0	1	0	0	0
-Clara cell differentiation	GO_0060486	0	1	0	0	0
-Cajal-Retzius cell differentiation	GO_0021870	0	1	0	0	0
-CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	0	0	0
-CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	0	0	0
-CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	0	0	0
-CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	0	0	0
-CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0	0
-CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	0	0	0
-CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	0	0	0
-CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0	0
-CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	0	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	0	0	0
-CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	0	0	0
-Bergmann glial cell differentiation	GO_0060020	0	1	0	0	0
-B-1b B cell differentiation	GO_0002338	0	1	0	0	0
-B-1a B cell differentiation	GO_0002337	0	1	0	0	0
-B-1 B cell differentiation	GO_0001923	0	1	0	0	0
-B cell differentiation	GO_0030183	0	1	0	0	0
+zygospore formation	GO_0034296	0	1	1	0	0
+zoospore formation	GO_0075239	0	1	1	0	0
+xylem vessel member cell differentiation	GO_0048759	0	1	1	0	0
+xanthophore differentiation	GO_0050936	0	1	1	0	0
+white fat cell differentiation involved in mammary gland fat development	GO_0060642	0	1	1	0	0
+white fat cell differentiation	GO_0050872	0	1	1	0	0
+visceral motor neuron differentiation	GO_0021524	0	1	1	0	0
+vestibular receptor cell differentiation	GO_0060114	0	1	1	0	0
+ventricular cardiac muscle cell differentiation	GO_0055012	0	1	1	0	0
+ventral spinal cord interneuron differentiation	GO_0021514	0	1	1	0	0
+venous endothelial cell differentiation	GO_0060843	0	1	1	0	0
+vegetative cell differentiation	GO_0022620	0	1	1	0	0
+vasculogenesis involved in coronary vascular morphogenesis	GO_0060979	0	1	1	0	0
+vasculogenesis	GO_0001570	0	1	1	0	0
+vascular smooth muscle cell differentiation	GO_0035886	0	1	1	0	0
+ureter smooth muscle cell differentiation	GO_0072193	0	1	1	0	0
+ureter epithelial cell differentiation	GO_0072192	0	1	1	0	0
+uredospore formation	GO_0075251	0	1	1	0	0
+type B pancreatic cell differentiation	GO_0003309	0	1	1	0	0
+trophoblast giant cell differentiation	GO_0060707	0	1	1	0	0
+trophectodermal cell differentiation	GO_0001829	0	1	1	0	0
+trichome differentiation	GO_0010026	0	1	1	0	0
+trichoblast differentiation	GO_0010054	0	1	1	0	0
+transitional two stage B cell differentiation	GO_0002334	0	1	1	0	0
+transitional stage B cell differentiation	GO_0002332	0	1	1	0	0
+transitional one stage B cell differentiation	GO_0002333	0	1	1	0	0
+transdifferentiation	GO_0060290	0	1	1	0	0
+tongue muscle cell differentiation	GO_0035981	0	1	1	0	0
+thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	1	0	0
+thrombocyte differentiation	GO_0002574	0	1	1	0	0
+tendon cell differentiation	GO_0035990	0	1	1	0	0
+teliospore formation	GO_0075255	0	1	1	0	0
+synergid differentiation	GO_0009563	0	1	1	0	0
+syncytiotrophoblast cell differentiation involved in labyrinthine layer development	GO_0060715	0	1	1	0	0
+striated muscle cell differentiation	GO_0051146	0	1	1	0	0
+striatal medium spiny neuron differentiation	GO_0021773	0	1	1	0	0
+stomach neuroendocrine cell differentiation	GO_0061102	0	1	1	0	0
+stem cell differentiation	GO_0048863	0	1	1	0	0
+squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	1	0	0
+sporulation resulting in formation of a cellular spore	GO_0030435	0	1	1	0	0
+sporocyte differentiation	GO_0048533	0	1	1	0	0
+sporangiospore formation	GO_0034300	0	1	1	0	0
+spongiotrophoblast differentiation	GO_0060708	0	1	1	0	0
+spinal cord radial glial cell differentiation	GO_0021531	0	1	1	0	0
+spinal cord oligodendrocyte cell differentiation	GO_0021529	0	1	1	0	0
+spinal cord motor neuron differentiation	GO_0021522	0	1	1	0	0
+spinal cord association neuron differentiation	GO_0021527	0	1	1	0	0
+spermatid differentiation	GO_0048515	0	1	1	0	0
+sorocarp stalk cell differentiation	GO_0031149	0	1	1	0	0
+sorocarp spore cell differentiation	GO_0044671	0	1	1	0	0
+somatotropin secreting cell differentiation	GO_0060126	0	1	1	0	0
+somatic motor neuron differentiation	GO_0021523	0	1	1	0	0
+socket cell differentiation	GO_0090437	0	1	1	0	0
+smooth muscle derived foam cell differentiation	GO_0090078	0	1	1	0	0
+smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	0	1	1	0	0
+smooth muscle cell differentiation	GO_0051145	0	1	1	0	0
+skeletal muscle satellite cell differentiation	GO_0014816	0	1	1	0	0
+skeletal muscle fiber differentiation	GO_0098528	0	1	1	0	0
+skeletal muscle cell differentiation	GO_0035914	0	1	1	0	0
+sinoatrial node cell differentiation	GO_0060921	0	1	1	0	0
+sieve element differentiation	GO_0090603	0	1	1	0	0
+sieve cell differentiation	GO_0048756	0	1	1	0	0
+sexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075285	0	1	1	0	0
+sexual sporulation resulting in formation of a cellular spore	GO_0043935	0	1	1	0	0
+sexual sporulation	GO_0034293	0	1	1	0	0
+sepal giant cell differentiation	GO_0090392	0	1	1	0	0
+seed trichome differentiation	GO_0090376	0	1	1	0	0
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	0	1	1	0	0
+sebaceous gland cell differentiation	GO_0001949	0	1	1	0	0
+sclerenchyma cell differentiation	GO_0014001	0	1	1	0	0
+root hair cell differentiation	GO_0048765	0	1	1	0	0
+root epidermal cell differentiation	GO_0010053	0	1	1	0	0
+rhombomere cell differentiation	GO_0022036	0	1	1	0	0
+retrotrapezoid nucleus neuron differentiation	GO_0061452	0	1	1	0	0
+retinal rod cell differentiation	GO_0060221	0	1	1	0	0
+retinal cone cell differentiation	GO_0042670	0	1	1	0	0
+retinal bipolar neuron differentiation	GO_0060040	0	1	1	0	0
+respiratory basal cell differentiation	GO_1902691	0	1	1	0	0
+renal vesicle progenitor cell differentiation	GO_0072184	0	1	1	0	0
+renal filtration cell differentiation	GO_0061318	0	1	1	0	0
+regulatory T cell differentiation	GO_0045066	0	1	1	0	0
+radial glial cell differentiation	GO_0060019	0	1	1	0	0
+pyramidal neuron differentiation	GO_0021859	0	1	1	0	0
+proximal convoluted tubule segment 1 cell differentiation	GO_0072062	0	1	1	0	0
+pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	1	0	0
+prolactin secreting cell differentiation	GO_0060127	0	1	1	0	0
+pro-T cell differentiation	GO_0002572	0	1	1	0	0
+pro-B cell differentiation	GO_0002328	0	1	1	0	0
+primitive erythrocyte differentiation	GO_0060319	0	1	1	0	0
+pre-B cell differentiation	GO_0002329	0	1	1	0	0
+posterior lateral line neuromast support cell differentiation	GO_0048927	0	1	1	0	0
+posterior lateral line neuromast mantle cell differentiation	GO_0048924	0	1	1	0	0
+posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	1	0	0
+posterior lateral line nerve glial cell differentiation	GO_0048931	0	1	1	0	0
+posterior lateral line ganglion neuron differentiation	GO_0048928	0	1	1	0	0
+pollen sperm cell differentiation	GO_0048235	0	1	1	0	0
+polarized epithelial cell differentiation	GO_0030859	0	1	1	0	0
+platelet formation	GO_0030220	0	1	1	0	0
+plasmatocyte differentiation	GO_0042387	0	1	1	0	0
+plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	0	1	1	0	0
+plasmacytoid dendritic cell differentiation	GO_0002273	0	1	1	0	0
+plasma cell differentiation	GO_0002317	0	1	1	0	0
+plant parenchymal cell differentiation	GO_0048760	0	1	1	0	0
+pigment cell precursor differentiation	GO_0048824	0	1	1	0	0
+pigment cell differentiation	GO_0050931	0	1	1	0	0
+photoreceptor cell differentiation	GO_0046530	0	1	1	0	0
+peripheral nervous system neuron differentiation	GO_0048934	0	1	1	0	0
+peripheral mammary gland bud epithelial cell differentiation	GO_0060645	0	1	1	0	0
+pericardial nephrocyte differentiation	GO_0061320	0	1	1	0	0
+paraxial mesodermal cell differentiation	GO_0048342	0	1	1	0	0
+pancreatic epsilon cell differentiation	GO_0090104	0	1	1	0	0
+pancreatic PP cell differentiation	GO_0003312	0	1	1	0	0
+pancreatic D cell differentiation	GO_0003311	0	1	1	0	0
+pancreatic A cell differentiation	GO_0003310	0	1	1	0	0
+osteoclast differentiation	GO_0030316	0	1	1	0	0
+osteoblast differentiation	GO_0001649	0	1	1	0	0
+oospore formation	GO_0075243	0	1	1	0	0
+oocyte differentiation	GO_0009994	0	1	1	0	0
+oligodendrocyte differentiation	GO_0048709	0	1	1	0	0
+oligodendrocyte cell fate commitment	GO_0021779	0	1	1	0	0
+olfactory bulb interneuron differentiation	GO_0021889	0	1	1	0	0
+oenocyte differentiation	GO_0001742	0	1	1	0	0
+odontoblast differentiation	GO_0071895	0	1	1	0	0
+ocellus photoreceptor cell differentiation	GO_0042705	0	1	1	0	0
+nucleate erythrocyte differentiation	GO_0043363	0	1	1	0	0
+notochord cell differentiation	GO_0060034	0	1	1	0	0
+noradrenergic neuron differentiation involved in brainstem development	GO_0003361	0	1	1	0	0
+noradrenergic neuron differentiation	GO_0003357	0	1	1	0	0
+neutrophil differentiation	GO_0030223	0	1	1	0	0
+neuron differentiation involved in salivary gland development	GO_0060705	0	1	1	0	0
+neuron differentiation involved in amphid sensory organ development	GO_0003387	0	1	1	0	0
+neuron differentiation	GO_0030182	0	1	1	0	0
+neuromast support cell differentiation	GO_0048889	0	1	1	0	0
+neuromast mantle cell differentiation	GO_0048888	0	1	1	0	0
+neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0	0
+neuromast hair cell differentiation	GO_0048886	0	1	1	0	0
+neurogenesis	GO_0022008	0	1	1	0	0
+neuroepithelial cell differentiation	GO_0060563	0	1	1	0	0
+neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	1	0	0
+neuroendocrine cell differentiation	GO_0061101	0	1	1	0	0
+neuroblast differentiation	GO_0014016	0	1	1	0	0
+neural crest-derived cardiac glial cell differentiation	GO_0060951	0	1	1	0	0
+neural crest-derived cardiac fibroblast cell differentiation	GO_0060942	0	1	1	0	0
+neural crest cell differentiation involved in thymus development	GO_1902637	0	1	1	0	0
+neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	1	0	0
+neural crest cell differentiation	GO_0014033	0	1	1	0	0
+nephron tubule epithelial cell differentiation	GO_0072160	0	1	1	0	0
+nephrocyte differentiation	GO_0061319	0	1	1	0	0
+natural killer cell progenitor differentiation	GO_0002321	0	1	1	0	0
+natural killer cell differentiation involved in immune response	GO_0002325	0	1	1	0	0
+natural killer cell differentiation	GO_0001779	0	1	1	0	0
+myxospore formation	GO_0034303	0	1	1	0	0
+mystery cell differentiation	GO_0008583	0	1	1	0	0
+myotube differentiation involved in skeletal muscle regeneration	GO_0014908	0	1	1	0	0
+myotube differentiation	GO_0014902	0	1	1	0	0
+myofibroblast differentiation	GO_0036446	0	1	1	0	0
+myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	0	1	1	0	0
+myoblast differentiation	GO_0045445	0	1	1	0	0
+myeloid progenitor cell differentiation	GO_0002318	0	1	1	0	0
+myeloid leukocyte differentiation	GO_0002573	0	1	1	0	0
+myeloid dendritic cell differentiation involved in immune response	GO_0002284	0	1	1	0	0
+myeloid dendritic cell differentiation	GO_0043011	0	1	1	0	0
+myeloid cell differentiation	GO_0030099	0	1	1	0	0
+muscle cell differentiation	GO_0042692	0	1	1	0	0
+multinuclear osteoclast differentiation	GO_0072674	0	1	1	0	0
+multi-ciliated epithelial cell differentiation	GO_1903251	0	1	1	0	0
+mononuclear cell differentiation	GO_1903131	0	1	1	0	0
+monocyte differentiation	GO_0030224	0	1	1	0	0
+microsporocyte differentiation	GO_0010480	0	1	1	0	0
+microglia differentiation	GO_0014004	0	1	1	0	0
+metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	1	0	0
+metanephric mesenchymal cell differentiation	GO_0072162	0	1	1	0	0
+metanephric mesangial cell differentiation	GO_0072209	0	1	1	0	0
+metanephric juxtaglomerulus cell differentiation	GO_0072251	0	1	1	0	0
+metanephric interstitial fibroblast differentiation	GO_0072258	0	1	1	0	0
+metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	1	0	0
+metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	1	0	0
+metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	1	0	0
+metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	1	0	0
+metanephric DCT cell differentiation	GO_0072240	0	1	1	0	0
+mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	1	0	0
+mesonephric mesenchymal cell differentiation	GO_0061223	0	1	1	0	0
+mesonephric mesangial cell differentiation	GO_0061260	0	1	1	0	0
+mesonephric juxtaglomerulus cell differentiation	GO_0061207	0	1	1	0	0
+mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	1	0	0
+mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	1	0	0
+mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	1	0	0
+mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	1	0	0
+mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	1	0	0
+mesodermal cell differentiation	GO_0048333	0	1	1	0	0
+mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	1	0	0
+mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis	GO_0072281	0	1	1	0	0
+mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	1	0	0
+mesenchymal stem cell differentiation	GO_0072497	0	1	1	0	0
+mesenchymal cell differentiation involved in salivary gland development	GO_0060692	0	1	1	0	0
+mesenchymal cell differentiation involved in renal system development	GO_2001012	0	1	1	0	0
+mesenchymal cell differentiation involved in mammary gland development	GO_0060610	0	1	1	0	0
+mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	1	0	0
+mesenchymal cell differentiation involved in kidney development	GO_0072161	0	1	1	0	0
+mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	1	0	0
+mesenchymal cell differentiation	GO_0048762	0	1	1	0	0
+mesangial cell differentiation	GO_0072007	0	1	1	0	0
+memory T cell differentiation	GO_0043379	0	1	1	0	0
+memory B cell differentiation	GO_0002319	0	1	1	0	0
+melanocyte differentiation	GO_0030318	0	1	1	0	0
+megakaryocyte differentiation	GO_0030219	0	1	1	0	0
+medial motor column neuron differentiation	GO_0021526	0	1	1	0	0
+mechanoreceptor differentiation involved in mechanosensory epithelium regeneration	GO_0070656	0	1	1	0	0
+mechanoreceptor differentiation	GO_0042490	0	1	1	0	0
+mature conventional dendritic cell differentiation	GO_0097029	0	1	1	0	0
+mature B cell differentiation involved in immune response	GO_0002313	0	1	1	0	0
+mature B cell differentiation	GO_0002335	0	1	1	0	0
+mast cell differentiation	GO_0060374	0	1	1	0	0
+marginal zone B cell differentiation	GO_0002315	0	1	1	0	0
+mammary gland epithelial cell differentiation	GO_0060644	0	1	1	0	0
+macrophage differentiation	GO_0030225	0	1	1	0	0
+macrophage derived foam cell differentiation	GO_0010742	0	1	1	0	0
+lymphoid progenitor cell differentiation	GO_0002320	0	1	1	0	0
+lymphocyte differentiation	GO_0030098	0	1	1	0	0
+lymphatic endothelial cell differentiation	GO_0060836	0	1	1	0	0
+lymph gland plasmatocyte differentiation	GO_0035169	0	1	1	0	0
+lymph gland crystal cell differentiation	GO_0035170	0	1	1	0	0
+lung secretory cell differentiation	GO_0061140	0	1	1	0	0
+lung neuroendocrine cell differentiation	GO_0061100	0	1	1	0	0
+lung goblet cell differentiation	GO_0060480	0	1	1	0	0
+lung epithelial cell differentiation	GO_0060487	0	1	1	0	0
+lung ciliated cell differentiation	GO_0061141	0	1	1	0	0
+lung cell differentiation	GO_0060479	0	1	1	0	0
+lung basal cell differentiation	GO_0060508	0	1	1	0	0
+limb spinous cell differentiation	GO_0060890	0	1	1	0	0
+limb granular cell differentiation	GO_0060891	0	1	1	0	0
+limb basal epidermal cell differentiation	GO_0060889	0	1	1	0	0
+leukocyte differentiation	GO_0002521	0	1	1	0	0
+leucophore differentiation	GO_0048772	0	1	1	0	0
+lens fiber cell differentiation	GO_0070306	0	1	1	0	0
+leading edge cell differentiation	GO_0035026	0	1	1	0	0
+lateral motor column neuron differentiation	GO_0021525	0	1	1	0	0
+lateral mesodermal cell differentiation	GO_0048371	0	1	1	0	0
+lateral line nerve glial cell differentiation	GO_0048895	0	1	1	0	0
+lateral line ganglion neuron differentiation	GO_0048891	0	1	1	0	0
+late stripe melanocyte differentiation	GO_0050934	0	1	1	0	0
+larval lymph gland hemocyte differentiation	GO_0035168	0	1	1	0	0
+lamellocyte differentiation	GO_0035171	0	1	1	0	0
+kidney smooth muscle cell differentiation	GO_0072195	0	1	1	0	0
+kidney interstitial fibroblast differentiation	GO_0072071	0	1	1	0	0
+keratinocyte differentiation	GO_0030216	0	1	1	0	0
+juxtaglomerulus cell differentiation	GO_0072052	0	1	1	0	0
+iridophore differentiation	GO_0050935	0	1	1	0	0
+intestinal epithelial cell differentiation	GO_0060575	0	1	1	0	0
+interstitial cell of Cajal differentiation	GO_0061453	0	1	1	0	0
+internal mammary gland bud epithelial cell differentiation	GO_0060646	0	1	1	0	0
+intermediate mesodermal cell differentiation	GO_0048392	0	1	1	0	0
+inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration	GO_0070660	0	1	1	0	0
+inner ear receptor cell differentiation	GO_0060113	0	1	1	0	0
+inner cell mass cell differentiation	GO_0001826	0	1	1	0	0
+immature B cell differentiation	GO_0002327	0	1	1	0	0
+hypothalamus gonadotrophin-releasing hormone neuron differentiation	GO_0021886	0	1	1	0	0
+hypothalamus cell differentiation	GO_0021979	0	1	1	0	0
+hippocampal pyramidal neuron differentiation	GO_0097432	0	1	1	0	0
+hippocampal interneuron differentiation	GO_0097410	0	1	1	0	0
+heterocyst differentiation	GO_0043158	0	1	1	0	0
+hepatocyte differentiation	GO_0070365	0	1	1	0	0
+hepatoblast differentiation	GO_0061017	0	1	1	0	0
+hepatic stellate cell differentiation	GO_0061521	0	1	1	0	0
+hemocyte differentiation	GO_0042386	0	1	1	0	0
+hematopoietic stem cell differentiation	GO_0060218	0	1	1	0	0
+hematopoietic progenitor cell differentiation	GO_0002244	0	1	1	0	0
+hemangioblast cell differentiation	GO_0060217	0	1	1	0	0
+heart valve cell differentiation	GO_0003293	0	1	1	0	0
+hair cell differentiation	GO_0035315	0	1	1	0	0
+guard mother cell differentiation	GO_0010444	0	1	1	0	0
+guard cell differentiation	GO_0010052	0	1	1	0	0
+growth plate cartilage chondrocyte differentiation	GO_0003418	0	1	1	0	0
+granulosa cell differentiation	GO_0060014	0	1	1	0	0
+granulocyte differentiation	GO_0030851	0	1	1	0	0
+glycogen cell differentiation involved in embryonic placenta development	GO_0060709	0	1	1	0	0
+glomerular visceral epithelial cell differentiation	GO_0072112	0	1	1	0	0
+glomerular parietal epithelial cell differentiation	GO_0072139	0	1	1	0	0
+glomerular mesangial cell differentiation	GO_0072008	0	1	1	0	0
+glomerular epithelial cell differentiation	GO_0072311	0	1	1	0	0
+gliogenesis	GO_0042063	0	1	1	0	0
+glial cell differentiation involved in amphid sensory organ development	GO_0003398	0	1	1	0	0
+glial cell differentiation	GO_0010001	0	1	1	0	0
+glandular epithelial cell differentiation	GO_0002067	0	1	1	0	0
+germinal center B cell differentiation	GO_0002314	0	1	1	0	0
+germarium-derived oocyte differentiation	GO_0030706	0	1	1	0	0
+generative cell differentiation	GO_0022619	0	1	1	0	0
+generation of neurons	GO_0048699	0	1	1	0	0
+garland nephrocyte differentiation	GO_0061321	0	1	1	0	0
+gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	1	0	0
+gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	1	0	0
+gamma-delta T cell differentiation	GO_0042492	0	1	1	0	0
+forebrain radial glial cell differentiation	GO_0021861	0	1	1	0	0
+forebrain neuron differentiation	GO_0021879	0	1	1	0	0
+forebrain neuroblast differentiation	GO_0021863	0	1	1	0	0
+forebrain generation of neurons	GO_0021872	0	1	1	0	0
+forebrain astrocyte differentiation	GO_0021896	0	1	1	0	0
+follicular dendritic cell differentiation	GO_0002268	0	1	1	0	0
+follicular B cell differentiation	GO_0002316	0	1	1	0	0
+foam cell differentiation	GO_0090077	0	1	1	0	0
+fat cell differentiation	GO_0045444	0	1	1	0	0
+eye photoreceptor cell differentiation	GO_0001754	0	1	1	0	0
+extrathymic T cell differentiation	GO_0033078	0	1	1	0	0
+eurydendroid cell differentiation	GO_0021755	0	1	1	0	0
+establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	1	0	0
+establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	0	1	1	0	0
+establishment of epithelial cell apical/basal polarity	GO_0045198	0	1	1	0	0
+erythrophore differentiation	GO_0048773	0	1	1	0	0
+erythrocyte differentiation	GO_0030218	0	1	1	0	0
+epithelial cell differentiation involved in salivary gland development	GO_0060690	0	1	1	0	0
+epithelial cell differentiation involved in prostate gland development	GO_0060742	0	1	1	0	0
+epithelial cell differentiation involved in mammary gland cord morphogenesis	GO_0060653	0	1	1	0	0
+epithelial cell differentiation involved in mammary gland bud morphogenesis	GO_0060643	0	1	1	0	0
+epithelial cell differentiation involved in mammary gland alveolus development	GO_0061030	0	1	1	0	0
+epithelial cell differentiation involved in kidney development	GO_0035850	0	1	1	0	0
+epithelial cell differentiation involved in embryonic placenta development	GO_0060671	0	1	1	0	0
+epithelial cell differentiation	GO_0030855	0	1	1	0	0
+epidermal cell differentiation	GO_0009913	0	1	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	1	0	0
+epicardium-derived cardiac fibroblast cell differentiation	GO_0060938	0	1	1	0	0
+epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	1	0	0
+eosinophil differentiation	GO_0030222	0	1	1	0	0
+enucleate erythrocyte differentiation	GO_0043353	0	1	1	0	0
+enteroendocrine cell differentiation	GO_0035883	0	1	1	0	0
+enteric smooth muscle cell differentiation	GO_0035645	0	1	1	0	0
+endothelial cell differentiation	GO_0045446	0	1	1	0	0
+endospore formation	GO_0034301	0	1	1	0	0
+endodermal cell differentiation	GO_0035987	0	1	1	0	0
+endocardial precursor cell differentiation	GO_0003255	0	1	1	0	0
+endocardial cushion cell differentiation	GO_0061443	0	1	1	0	0
+endocardial cell differentiation	GO_0060956	0	1	1	0	0
+embryonic plasmatocyte differentiation	GO_0035164	0	1	1	0	0
+embryonic hemocyte differentiation	GO_0035163	0	1	1	0	0
+embryonic crystal cell differentiation	GO_0035165	0	1	1	0	0
+embryo sac egg cell differentiation	GO_0009560	0	1	1	0	0
+embryo sac central cell differentiation	GO_0009559	0	1	1	0	0
+ectodermal cell differentiation	GO_0010668	0	1	1	0	0
+early stripe melanocyte differentiation	GO_0050933	0	1	1	0	0
+early neuron differentiation in forebrain	GO_0021862	0	1	1	0	0
+dorsal closure, leading edge cell differentiation	GO_0046663	0	1	1	0	0
+dopaminergic neuron differentiation	GO_0071542	0	1	1	0	0
+disseminated nephrocyte differentiation	GO_0061322	0	1	1	0	0
+dendritic cell differentiation	GO_0097028	0	1	1	0	0
+definitive erythrocyte differentiation	GO_0060318	0	1	1	0	0
+cytotoxic T cell differentiation	GO_0045065	0	1	1	0	0
+cyanophore differentiation	GO_0048774	0	1	1	0	0
+cumulus cell differentiation	GO_0001549	0	1	1	0	0
+crystal cell differentiation	GO_0042688	0	1	1	0	0
+corticotropin hormone secreting cell differentiation	GO_0060128	0	1	1	0	0
+compound eye photoreceptor cell differentiation	GO_0001751	0	1	1	0	0
+compound eye cone cell differentiation	GO_0042675	0	1	1	0	0
+companion cell differentiation	GO_0048758	0	1	1	0	0
+commissural neuron differentiation in spinal cord	GO_0021528	0	1	1	0	0
+columnar/cuboidal epithelial cell differentiation	GO_0002065	0	1	1	0	0
+collenchyma cell differentiation	GO_0048761	0	1	1	0	0
+chorionic trophoblast cell differentiation	GO_0060718	0	1	1	0	0
+chondrocyte differentiation involved in endochondral bone morphogenesis	GO_0003413	0	1	1	0	0
+chondrocyte differentiation	GO_0002062	0	1	1	0	0
+chondroblast differentiation	GO_0060591	0	1	1	0	0
+chlamydospore formation	GO_0001410	0	1	1	0	0
+cerebral cortex neuron differentiation	GO_0021895	0	1	1	0	0
+cerebral cortex GABAergic interneuron differentiation	GO_0021892	0	1	1	0	0
+cerebellar unipolar brush cell differentiation	GO_0021711	0	1	1	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	1	0	0
+cerebellar granule cell differentiation	GO_0021707	0	1	1	0	0
+cerebellar basket cell differentiation	GO_0021709	0	1	1	0	0
+cerebellar Purkinje cell differentiation	GO_0021702	0	1	1	0	0
+cerebellar Golgi cell differentiation	GO_0021701	0	1	1	0	0
+central nervous system vasculogenesis	GO_0022009	0	1	1	0	0
+central nervous system neuron differentiation	GO_0021953	0	1	1	0	0
+cell differentiation involved in kidney development	GO_0061005	0	1	1	0	0
+cell differentiation involved in embryonic placenta development	GO_0060706	0	1	1	0	0
+cell differentiation in hindbrain	GO_0021533	0	1	1	0	0
+carotid body glomus cell differentiation	GO_0061103	0	1	1	0	0
+cardiocyte differentiation	GO_0035051	0	1	1	0	0
+cardioblast differentiation	GO_0010002	0	1	1	0	0
+cardiac vascular smooth muscle cell differentiation	GO_0060947	0	1	1	0	0
+cardiac septum cell differentiation	GO_0003292	0	1	1	0	0
+cardiac pacemaker cell differentiation	GO_0060920	0	1	1	0	0
+cardiac neuron differentiation	GO_0060945	0	1	1	0	0
+cardiac neural crest cell differentiation involved in heart development	GO_0061307	0	1	1	0	0
+cardiac muscle cell myoblast differentiation	GO_0060379	0	1	1	0	0
+cardiac muscle cell differentiation	GO_0055007	0	1	1	0	0
+cardiac glial cell differentiation	GO_0060950	0	1	1	0	0
+cardiac fibroblast cell differentiation	GO_0060935	0	1	1	0	0
+cardiac endothelial cell differentiation	GO_0003348	0	1	1	0	0
+cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	1	0	0
+candelabrum cell differentiation	GO_0021712	0	1	1	0	0
+camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	1	0	0
+bundle sheath cell differentiation	GO_1903498	0	1	1	0	0
+brown fat cell differentiation	GO_0050873	0	1	1	0	0
+blood vessel endothelial cell differentiation	GO_0060837	0	1	1	0	0
+basophil differentiation	GO_0030221	0	1	1	0	0
+basidiospore formation	GO_0034295	0	1	1	0	0
+axial mesodermal cell differentiation	GO_0048321	0	1	1	0	0
+auditory receptor cell differentiation	GO_0042491	0	1	1	0	0
+atrioventricular node cell differentiation	GO_0060922	0	1	1	0	0
+atrioventricular bundle cell differentiation	GO_0003167	0	1	1	0	0
+atrichoblast differentiation	GO_0010055	0	1	1	0	0
+atrial cardiac muscle cell differentiation	GO_0055011	0	1	1	0	0
+astrocyte differentiation	GO_0048708	0	1	1	0	0
+asexual sporulation resulting in formation of a cellular spore	GO_0043936	0	1	1	0	0
+ascospore formation	GO_0030437	0	1	1	0	0
+arterial endothelial cell differentiation	GO_0060842	0	1	1	0	0
+aplanospore formation	GO_0075289	0	1	1	0	0
+aortic smooth muscle cell differentiation	GO_0035887	0	1	1	0	0
+antipodal cell differentiation	GO_0009557	0	1	1	0	0
+anther wall tapetum cell differentiation	GO_0048657	0	1	1	0	0
+anterior lateral line neuromast support cell differentiation	GO_0048906	0	1	1	0	0
+anterior lateral line neuromast mantle cell differentiation	GO_0048905	0	1	1	0	0
+anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	1	0	0
+anterior lateral line nerve glial cell differentiation	GO_0048913	0	1	1	0	0
+anterior lateral line ganglion neuron differentiation	GO_0048908	0	1	1	0	0
+angioblast cell differentiation	GO_0035779	0	1	1	0	0
+amniotic stem cell differentiation	GO_0097086	0	1	1	0	0
+ameloblast differentiation	GO_0036305	0	1	1	0	0
+amacrine cell differentiation	GO_0035881	0	1	1	0	0
+alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	1	0	0
+alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	1	0	0
+alpha-beta T cell differentiation	GO_0046632	0	1	1	0	0
+akinete formation	GO_0034302	0	1	1	0	0
+aeciospore formation	GO_0075247	0	1	1	0	0
+adrenal chromaffin cell differentiation	GO_0061104	0	1	1	0	0
+actinomycete-type spore formation	GO_0034304	0	1	1	0	0
+acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	1	0	0
+acinar cell differentiation	GO_0090425	0	1	1	0	0
+Type II pneumocyte differentiation	GO_0060510	0	1	1	0	0
+Type I pneumocyte differentiation	GO_0060509	0	1	1	0	0
+T-helper cell differentiation	GO_0042093	0	1	1	0	0
+T-helper 2 cell differentiation	GO_0045064	0	1	1	0	0
+T-helper 17 cell differentiation	GO_0072539	0	1	1	0	0
+T-helper 1 cell differentiation	GO_0045063	0	1	1	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	1	0	0
+T cell differentiation involved in immune response	GO_0002292	0	1	1	0	0
+T cell differentiation in thymus	GO_0033077	0	1	1	0	0
+T cell differentiation	GO_0030217	0	1	1	0	0
+Sertoli cell differentiation	GO_0060008	0	1	1	0	0
+Schwann cell differentiation	GO_0014037	0	1	1	0	0
+R8 cell differentiation	GO_0045465	0	1	1	0	0
+R7 cell differentiation	GO_0045466	0	1	1	0	0
+R3/R4 cell differentiation	GO_0048056	0	1	1	0	0
+R2/R5 cell differentiation	GO_0048054	0	1	1	0	0
+R1/R6 cell differentiation	GO_0048052	0	1	1	0	0
+Purkinje myocyte differentiation	GO_0003168	0	1	1	0	0
+NK T cell differentiation	GO_0001865	0	1	1	0	0
+Malpighian tubule tip cell differentiation	GO_0061382	0	1	1	0	0
+Malpighian tubule stellate cell differentiation	GO_0061330	0	1	1	0	0
+Malpighian tubule principal cell differentiation	GO_0061329	0	1	1	0	0
+Lugaro cell differentiation	GO_0021708	0	1	1	0	0
+Leydig cell differentiation	GO_0033327	0	1	1	0	0
+Langerhans cell differentiation	GO_0061520	0	1	1	0	0
+His-Purkinje system cell differentiation	GO_0060932	0	1	1	0	0
+GABAergic neuron differentiation in basal ganglia	GO_0021858	0	1	1	0	0
+GABAergic neuron differentiation	GO_0097154	0	1	1	0	0
+DCT cell differentiation	GO_0072069	0	1	1	0	0
+Clara cell differentiation	GO_0060486	0	1	1	0	0
+Cajal-Retzius cell differentiation	GO_0021870	0	1	1	0	0
+CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	1	0	0
+CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	1	0	0
+CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	1	0	0
+CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	1	0	0
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	1	0	0
+CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	1	0	0
+CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	1	0	0
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	1	0	0
+CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	1	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	1	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	1	0	0
+CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	1	0	0
+Bergmann glial cell differentiation	GO_0060020	0	1	1	0	0
+B-1b B cell differentiation	GO_0002338	0	1	1	0	0
+B-1a B cell differentiation	GO_0002337	0	1	1	0	0
+B-1 B cell differentiation	GO_0001923	0	1	1	0	0
+B cell differentiation	GO_0030183	0	1	1	0	0
