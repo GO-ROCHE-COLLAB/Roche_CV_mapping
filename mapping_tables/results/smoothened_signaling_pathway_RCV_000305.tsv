@@ -8,14 +8,14 @@ smoothened signaling pathway involved in lung development	GO_0060506	1	1	1	0	0
 smoothened signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003435	1	1	1	0	0
 smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_0060831	1	1	1	0	0
 smoothened signaling pathway	GO_0007224	1	1	1	0	0
-signal transduction downstream of smoothened	GO_0007227	0	1	0	0	0
-regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901620	0	1	0	0	0
-regulation of smoothened signaling pathway	GO_0008589	0	1	0	0	0
-positive regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901622	0	1	0	0	0
-positive regulation of smoothened signaling pathway	GO_0045880	0	1	0	0	0
-positive regulation of hh target transcription factor activity	GO_0007228	0	1	0	0	0
-negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021914	0	1	0	0	0
-negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901621	0	1	0	0	0
-negative regulation of smoothened signaling pathway	GO_0045879	0	1	0	0	0
-mesenchymal smoothened signaling pathway involved in prostate gland development	GO_0060783	0	1	0	0	0
-ciliary receptor clustering involved in smoothened signaling pathway	GO_0060830	0	1	0	0	0
+signal transduction downstream of smoothened	GO_0007227	0	1	1	0	0
+regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901620	0	1	1	0	0
+regulation of smoothened signaling pathway	GO_0008589	0	1	1	0	0
+positive regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901622	0	1	1	0	0
+positive regulation of smoothened signaling pathway	GO_0045880	0	1	1	0	0
+positive regulation of hh target transcription factor activity	GO_0007228	0	1	1	0	0
+negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021914	0	1	1	0	0
+negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	GO_1901621	0	1	1	0	0
+negative regulation of smoothened signaling pathway	GO_0045879	0	1	1	0	0
+mesenchymal smoothened signaling pathway involved in prostate gland development	GO_0060783	0	1	1	0	0
+ciliary receptor clustering involved in smoothened signaling pathway	GO_0060830	0	1	1	0	0
