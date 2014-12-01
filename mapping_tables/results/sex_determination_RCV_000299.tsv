@@ -13,47 +13,47 @@ Z chromosome	GO_0000807	1	0	1	0	0
 Y chromosome	GO_0000806	1	0	1	0	0
 X chromosome	GO_0000805	1	0	1	0	0
 W chromosome	GO_0000804	1	0	1	0	0
-strand invasion involved in gene conversion at mating-type locus	GO_0034636	0	1	0	0	0
-somatic sex determination	GO_0018993	0	1	0	0	0
-somatic processes downstream of sex determination signal	GO_0007546	0	1	0	0	0
-removal of nonhomologous ends	GO_0000735	0	1	0	0	0
-regulation of mating-type specific transcription, DNA-templated	GO_0007532	0	1	0	0	0
-regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001196	0	1	0	0	0
-regulation of mating type switching	GO_0031494	0	1	0	0	0
-positive regulation of mating-type specific transcription, DNA-templated	GO_0045895	0	1	0	0	0
-positive regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001197	0	1	0	0	0
-positive regulation of mating type switching by regulation of transcription from RNA polymerase II promoter	GO_1900374	0	1	0	0	0
-positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter	GO_1900423	0	1	0	0	0
-positive regulation of mating type switching	GO_0031496	0	1	0	0	0
-negative regulation of mating-type specific transcription, DNA-templated	GO_0045894	0	1	0	0	0
-negative regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001198	0	1	0	0	0
-negative regulation of mating type switching by negative regulation of transcription from RNA polymerase II promoter	GO_1900474	0	1	0	0	0
-negative regulation of mating type switching	GO_0031495	0	1	0	0	0
-mating type switching	GO_0007533	0	1	0	0	0
-mating type determination	GO_0007531	0	1	0	0	0
-masculinization of hermaphroditic germ-line	GO_0042006	0	1	0	0	0
-masculinization of hermaphrodite soma	GO_0042003	0	1	0	0	0
-male somatic sex determination	GO_0019102	0	1	0	0	0
-male sex determination	GO_0030238	0	1	0	0	0
-male germ-line sex determination	GO_0019100	0	1	0	0	0
-inactivation of recombination (HML)	GO_0007537	0	1	0	0	0
-heteroduplex formation involved in gene conversion at mating-type locus	GO_0010708	0	1	0	0	0
-hermaphrodite somatic sex determination	GO_0042001	0	1	0	0	0
-hermaphrodite germ-line sex determination	GO_0040021	0	1	0	0	0
-germ-line sex determination	GO_0018992	0	1	0	0	0
-germ-line processes downstream of sex determination signal	GO_0007547	0	1	0	0	0
-genetic imprinting at mating-type locus	GO_0071515	0	1	0	0	0
-gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0	0
-gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	0	0	0
-gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0	0
-gene conversion at mating-type locus, DNA double-strand break formation	GO_0000728	0	1	0	0	0
-gene conversion at mating-type locus	GO_0007534	0	1	0	0	0
-feminization of hermaphroditic germ-line	GO_0040022	0	1	0	0	0
-feminization of hermaphrodite soma	GO_0042004	0	1	0	0	0
-female somatic sex determination	GO_0019101	0	1	0	0	0
-female sex determination	GO_0030237	0	1	0	0	0
-female germ-line sex determination	GO_0019099	0	1	0	0	0
-double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_0000736	0	1	0	0	0
-donor selection	GO_0007535	0	1	0	0	0
-activation of recombination (HML)	GO_0007536	0	1	0	0	0
-DNA recombinase assembly involved in gene conversion at mating-type locus	GO_0034624	0	1	0	0	0
+strand invasion involved in gene conversion at mating-type locus	GO_0034636	0	1	1	0	0
+somatic sex determination	GO_0018993	0	1	1	0	0
+somatic processes downstream of sex determination signal	GO_0007546	0	1	1	0	0
+removal of nonhomologous ends	GO_0000735	0	1	1	0	0
+regulation of mating-type specific transcription, DNA-templated	GO_0007532	0	1	1	0	0
+regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001196	0	1	1	0	0
+regulation of mating type switching	GO_0031494	0	1	1	0	0
+positive regulation of mating-type specific transcription, DNA-templated	GO_0045895	0	1	1	0	0
+positive regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001197	0	1	1	0	0
+positive regulation of mating type switching by regulation of transcription from RNA polymerase II promoter	GO_1900374	0	1	1	0	0
+positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter	GO_1900423	0	1	1	0	0
+positive regulation of mating type switching	GO_0031496	0	1	1	0	0
+negative regulation of mating-type specific transcription, DNA-templated	GO_0045894	0	1	1	0	0
+negative regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001198	0	1	1	0	0
+negative regulation of mating type switching by negative regulation of transcription from RNA polymerase II promoter	GO_1900474	0	1	1	0	0
+negative regulation of mating type switching	GO_0031495	0	1	1	0	0
+mating type switching	GO_0007533	0	1	1	0	0
+mating type determination	GO_0007531	0	1	1	0	0
+masculinization of hermaphroditic germ-line	GO_0042006	0	1	1	0	0
+masculinization of hermaphrodite soma	GO_0042003	0	1	1	0	0
+male somatic sex determination	GO_0019102	0	1	1	0	0
+male sex determination	GO_0030238	0	1	1	0	0
+male germ-line sex determination	GO_0019100	0	1	1	0	0
+inactivation of recombination (HML)	GO_0007537	0	1	1	0	0
+heteroduplex formation involved in gene conversion at mating-type locus	GO_0010708	0	1	1	0	0
+hermaphrodite somatic sex determination	GO_0042001	0	1	1	0	0
+hermaphrodite germ-line sex determination	GO_0040021	0	1	1	0	0
+germ-line sex determination	GO_0018992	0	1	1	0	0
+germ-line processes downstream of sex determination signal	GO_0007547	0	1	1	0	0
+genetic imprinting at mating-type locus	GO_0071515	0	1	1	0	0
+gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	1	0	0
+gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	1	0	0
+gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	1	0	0
+gene conversion at mating-type locus, DNA double-strand break formation	GO_0000728	0	1	1	0	0
+gene conversion at mating-type locus	GO_0007534	0	1	1	0	0
+feminization of hermaphroditic germ-line	GO_0040022	0	1	1	0	0
+feminization of hermaphrodite soma	GO_0042004	0	1	1	0	0
+female somatic sex determination	GO_0019101	0	1	1	0	0
+female sex determination	GO_0030237	0	1	1	0	0
+female germ-line sex determination	GO_0019099	0	1	1	0	0
+double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_0000736	0	1	1	0	0
+donor selection	GO_0007535	0	1	1	0	0
+activation of recombination (HML)	GO_0007536	0	1	1	0	0
+DNA recombinase assembly involved in gene conversion at mating-type locus	GO_0034624	0	1	1	0	0
