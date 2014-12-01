@@ -20,6 +20,6 @@ T-helper 1 cell diapedesis	GO_0035688	1	1	1	0	0
 T-helper 1 cell cytokine production	GO_0035744	1	1	1	0	0
 T-helper 1 cell chemotaxis	GO_0035706	1	1	1	0	0
 T-helper 1 cell activation	GO_0035711	1	1	1	0	0
-T-helper 17 type immune response	GO_0072538	0	1	0	0	0
-T-helper 1 type immune response	GO_0042088	0	1	0	0	0
-T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
+T-helper 17 type immune response	GO_0072538	0	1	1	0	0
+T-helper 1 type immune response	GO_0042088	0	1	1	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	1	0	0
