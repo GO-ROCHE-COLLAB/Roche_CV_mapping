@@ -12,44 +12,44 @@ sphingolipid biosynthesis involved in endoplasmic reticulum membrane organizatio
 sphingoid metabolic process	GO_0046519	1	1	1	0	0
 sphingoid catabolic process	GO_0046521	1	1	1	0	0
 sphingoid biosynthetic process	GO_0046520	1	1	1	0	0
-sphinganine-1-phosphate metabolic process	GO_0006668	0	1	0	0	0
-sphinganine-1-phosphate catabolic process	GO_0051874	0	1	0	0	0
-sphinganine-1-phosphate biosynthetic process	GO_0006669	0	1	0	0	0
-sphinganine metabolic process	GO_0006667	0	1	0	0	0
-sphinganine biosynthetic process	GO_0046511	0	1	0	0	0
-phytosphingosine metabolic process	GO_0006671	0	1	0	0	0
-phytosphingosine biosynthetic process	GO_0071602	0	1	0	0	0
-mannosyl-inositol phosphorylceramide metabolic process	GO_0006675	0	1	0	0	0
-mannosyl-inositol phosphorylceramide biosynthetic process	GO_0051999	0	1	0	0	0
-mannosyl diphosphorylinositol ceramide metabolic process	GO_0006676	0	1	0	0	0
-lactosylceramide metabolic process	GO_0046478	0	1	0	0	0
-lactosylceramide biosynthetic process	GO_0001572	0	1	0	0	0
-isogloboside biosynthetic process	GO_1990387	0	1	0	0	0
-inositolphosphoceramide metabolic process	GO_0006673	0	1	0	0	0
-glycosylceramide metabolic process	GO_0006677	0	1	0	0	0
-glycosylceramide catabolic process	GO_0046477	0	1	0	0	0
-glycosylceramide biosynthetic process	GO_0046476	0	1	0	0	0
-glycosphingolipid metabolic process	GO_0006687	0	1	0	0	0
-glycosphingolipid catabolic process	GO_0046479	0	1	0	0	0
-glycosphingolipid biosynthetic process	GO_0006688	0	1	0	0	0
-glucosylceramide metabolic process	GO_0006678	0	1	0	0	0
-glucosylceramide catabolic process	GO_0006680	0	1	0	0	0
-glucosylceramide biosynthetic process	GO_0006679	0	1	0	0	0
-globoside metabolic process	GO_0001575	0	1	0	0	0
-globoside biosynthetic process via lactosylceramide	GO_0010707	0	1	0	0	0
-globoside biosynthetic process	GO_0001576	0	1	0	0	0
-ganglioside metabolic process	GO_0001573	0	1	0	0	0
-ganglioside catabolic process	GO_0006689	0	1	0	0	0
-ganglioside biosynthetic process via lactosylceramide	GO_0010706	0	1	0	0	0
-ganglioside biosynthetic process	GO_0001574	0	1	0	0	0
-galactosylceramide metabolic process	GO_0006681	0	1	0	0	0
-galactosylceramide catabolic process	GO_0006683	0	1	0	0	0
-galactosylceramide biosynthetic process	GO_0006682	0	1	0	0	0
-ceramide metabolic process	GO_0006672	0	1	0	0	0
-ceramide catabolic process	GO_0046514	0	1	0	0	0
-ceramide biosynthetic process	GO_0046513	0	1	0	0	0
-GSI anchor metabolic process	GO_0042081	0	1	0	0	0
-GSI anchor biosynthetic process via N-seryl-glycosylsphingolipidinositolethanolamine	GO_0018281	0	1	0	0	0
-GSI anchor biosynthetic process via N-glycyl-glycosylsphingolipidinositolethanolamine	GO_0050494	0	1	0	0	0
-GSI anchor biosynthetic process	GO_0042082	0	1	0	0	0
-3-keto-sphinganine metabolic process	GO_0006666	0	1	0	0	0
+sphinganine-1-phosphate metabolic process	GO_0006668	0	1	1	0	0
+sphinganine-1-phosphate catabolic process	GO_0051874	0	1	1	0	0
+sphinganine-1-phosphate biosynthetic process	GO_0006669	0	1	1	0	0
+sphinganine metabolic process	GO_0006667	0	1	1	0	0
+sphinganine biosynthetic process	GO_0046511	0	1	1	0	0
+phytosphingosine metabolic process	GO_0006671	0	1	1	0	0
+phytosphingosine biosynthetic process	GO_0071602	0	1	1	0	0
+mannosyl-inositol phosphorylceramide metabolic process	GO_0006675	0	1	1	0	0
+mannosyl-inositol phosphorylceramide biosynthetic process	GO_0051999	0	1	1	0	0
+mannosyl diphosphorylinositol ceramide metabolic process	GO_0006676	0	1	1	0	0
+lactosylceramide metabolic process	GO_0046478	0	1	1	0	0
+lactosylceramide biosynthetic process	GO_0001572	0	1	1	0	0
+isogloboside biosynthetic process	GO_1990387	0	1	1	0	0
+inositolphosphoceramide metabolic process	GO_0006673	0	1	1	0	0
+glycosylceramide metabolic process	GO_0006677	0	1	1	0	0
+glycosylceramide catabolic process	GO_0046477	0	1	1	0	0
+glycosylceramide biosynthetic process	GO_0046476	0	1	1	0	0
+glycosphingolipid metabolic process	GO_0006687	0	1	1	0	0
+glycosphingolipid catabolic process	GO_0046479	0	1	1	0	0
+glycosphingolipid biosynthetic process	GO_0006688	0	1	1	0	0
+glucosylceramide metabolic process	GO_0006678	0	1	1	0	0
+glucosylceramide catabolic process	GO_0006680	0	1	1	0	0
+glucosylceramide biosynthetic process	GO_0006679	0	1	1	0	0
+globoside metabolic process	GO_0001575	0	1	1	0	0
+globoside biosynthetic process via lactosylceramide	GO_0010707	0	1	1	0	0
+globoside biosynthetic process	GO_0001576	0	1	1	0	0
+ganglioside metabolic process	GO_0001573	0	1	1	0	0
+ganglioside catabolic process	GO_0006689	0	1	1	0	0
+ganglioside biosynthetic process via lactosylceramide	GO_0010706	0	1	1	0	0
+ganglioside biosynthetic process	GO_0001574	0	1	1	0	0
+galactosylceramide metabolic process	GO_0006681	0	1	1	0	0
+galactosylceramide catabolic process	GO_0006683	0	1	1	0	0
+galactosylceramide biosynthetic process	GO_0006682	0	1	1	0	0
+ceramide metabolic process	GO_0006672	0	1	1	0	0
+ceramide catabolic process	GO_0046514	0	1	1	0	0
+ceramide biosynthetic process	GO_0046513	0	1	1	0	0
+GSI anchor metabolic process	GO_0042081	0	1	1	0	0
+GSI anchor biosynthetic process via N-seryl-glycosylsphingolipidinositolethanolamine	GO_0018281	0	1	1	0	0
+GSI anchor biosynthetic process via N-glycyl-glycosylsphingolipidinositolethanolamine	GO_0050494	0	1	1	0	0
+GSI anchor biosynthetic process	GO_0042082	0	1	1	0	0
+3-keto-sphinganine metabolic process	GO_0006666	0	1	1	0	0
