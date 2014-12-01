@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 regulation of connective tissue growth factor biosynthetic process	GO_0045420	1	1	1	0	0
 regulation of connective tissue growth factor production	GO_0032643	1	0	1	0	0
-positive regulation of connective tissue growth factor biosynthetic process	GO_0045422	0	1	0	0	0
-negative regulation of connective tissue growth factor biosynthetic process	GO_0045421	0	1	0	0	0
-connective tissue growth factor biosynthetic process	GO_0045189	0	1	0	0	0
+positive regulation of connective tissue growth factor biosynthetic process	GO_0045422	0	1	1	0	0
+negative regulation of connective tissue growth factor biosynthetic process	GO_0045421	0	1	1	0	0
+connective tissue growth factor biosynthetic process	GO_0045189	0	1	1	0	0
