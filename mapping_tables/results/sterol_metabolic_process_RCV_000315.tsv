@@ -11,18 +11,18 @@ sterol regulatory element binding protein cleavage	GO_0035103	1	0	1	0	0
 sterol import	GO_0035376	1	0	1	0	0
 sterol homeostasis	GO_0055092	1	0	1	0	0
 sterol esterification	GO_0034434	1	0	1	0	0
-zymosterol metabolic process	GO_0036196	0	1	0	0	0
-zymosterol biosynthetic process	GO_0036197	0	1	0	0	0
-peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	0	0	0
-ergosterol metabolic process	GO_0008204	0	1	0	0	0
-ergosterol biosynthetic process	GO_0006696	0	1	0	0	0
-ecdysone metabolic process	GO_0008205	0	1	0	0	0
-ecdysone catabolic process	GO_0006708	0	1	0	0	0
-ecdysone biosynthetic process	GO_0006697	0	1	0	0	0
-cholesterol metabolic process	GO_0008203	0	1	0	0	0
-cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	0	1	0	0	0
-cholesterol catabolic process	GO_0006707	0	1	0	0	0
-cholesterol biosynthetic process via lathosterol	GO_0033490	0	1	0	0	0
-cholesterol biosynthetic process via desmosterol	GO_0033489	0	1	0	0	0
-cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	0	1	0	0	0
-cholesterol biosynthetic process	GO_0006695	0	1	0	0	0
+zymosterol metabolic process	GO_0036196	0	1	1	0	0
+zymosterol biosynthetic process	GO_0036197	0	1	1	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	1	0	0
+ergosterol metabolic process	GO_0008204	0	1	1	0	0
+ergosterol biosynthetic process	GO_0006696	0	1	1	0	0
+ecdysone metabolic process	GO_0008205	0	1	1	0	0
+ecdysone catabolic process	GO_0006708	0	1	1	0	0
+ecdysone biosynthetic process	GO_0006697	0	1	1	0	0
+cholesterol metabolic process	GO_0008203	0	1	1	0	0
+cholesterol ester hydrolysis involved in cholesterol transport	GO_0090122	0	1	1	0	0
+cholesterol catabolic process	GO_0006707	0	1	1	0	0
+cholesterol biosynthetic process via lathosterol	GO_0033490	0	1	1	0	0
+cholesterol biosynthetic process via desmosterol	GO_0033489	0	1	1	0	0
+cholesterol biosynthetic process via 24,25-dihydrolanosterol	GO_0033488	0	1	1	0	0
+cholesterol biosynthetic process	GO_0006695	0	1	1	0	0
