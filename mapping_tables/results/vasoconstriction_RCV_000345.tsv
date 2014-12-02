@@ -6,19 +6,19 @@ vasoconstriction of artery involved in baroreceptor response to lowering of syst
 vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure	GO_0003043	1	1	1	0	0
 vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	1	1	1	0	0
 vasoconstriction	GO_0042310	1	1	1	0	0
-vein smooth muscle contraction	GO_0014826	0	1	0	0	0
-vascular smooth muscle contraction	GO_0014829	0	1	0	0	0
-regulation of vasoconstriction by norepinephrine	GO_0003116	0	1	0	0	0
-regulation of vasoconstriction by neuronal norepinephrine	GO_0003118	0	1	0	0	0
-regulation of vasoconstriction by neuronal epinephrine	GO_0003119	0	1	0	0	0
-regulation of vasoconstriction by epinephrine	GO_0003115	0	1	0	0	0
-regulation of vasoconstriction by circulating norepinephrine	GO_0003117	0	1	0	0	0
-regulation of vasoconstriction by circulating epinephrine	GO_0003120	0	1	0	0	0
-regulation of vasoconstriction	GO_0019229	0	1	0	0	0
-regulation of vascular smooth muscle contraction	GO_0003056	0	1	0	0	0
-positive regulation of vasoconstriction	GO_0045907	0	1	0	0	0
-norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001994	0	1	0	0	0
-negative regulation of vasoconstriction	GO_0045906	0	1	0	0	0
-artery smooth muscle contraction	GO_0014824	0	1	0	0	0
-arteriole smooth muscle contraction	GO_0014830	0	1	0	0	0
-angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	0	0	0
+vein smooth muscle contraction	GO_0014826	0	1	1	0	0
+vascular smooth muscle contraction	GO_0014829	0	1	1	0	0
+regulation of vasoconstriction by norepinephrine	GO_0003116	0	1	1	0	0
+regulation of vasoconstriction by neuronal norepinephrine	GO_0003118	0	1	1	0	0
+regulation of vasoconstriction by neuronal epinephrine	GO_0003119	0	1	1	0	0
+regulation of vasoconstriction by epinephrine	GO_0003115	0	1	1	0	0
+regulation of vasoconstriction by circulating norepinephrine	GO_0003117	0	1	1	0	0
+regulation of vasoconstriction by circulating epinephrine	GO_0003120	0	1	1	0	0
+regulation of vasoconstriction	GO_0019229	0	1	1	0	0
+regulation of vascular smooth muscle contraction	GO_0003056	0	1	1	0	0
+positive regulation of vasoconstriction	GO_0045907	0	1	1	0	0
+norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001994	0	1	1	0	0
+negative regulation of vasoconstriction	GO_0045906	0	1	1	0	0
+artery smooth muscle contraction	GO_0014824	0	1	1	0	0
+arteriole smooth muscle contraction	GO_0014830	0	1	1	0	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	1	0	0
