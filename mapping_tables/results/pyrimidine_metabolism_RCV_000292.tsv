@@ -79,112 +79,112 @@ positive regulation of pyrimidine nucleotide biosynthetic process	GO_1900399	1	0
 positive regulation of pyrimidine nucleobase metabolic process	GO_0045985	1	0	1	0	0
 negative regulation of pyrimidine nucleotide biosynthetic process	GO_1900398	1	0	1	0	0
 negative regulation of pyrimidine nucleobase metabolic process	GO_0045984	1	0	1	0	0
-uridine metabolic process	GO_0046108	0	1	0	0	0
-uridine catabolic process	GO_0006218	0	1	0	0	0
-uridine biosynthetic process	GO_0046109	0	1	0	0	0
-uracil salvage	GO_0006223	0	1	0	0	0
-uracil metabolic process	GO_0019860	0	1	0	0	0
-uracil catabolic process	GO_0006212	0	1	0	0	0
-uracil biosynthetic process	GO_0046107	0	1	0	0	0
-thymine metabolic process	GO_0019859	0	1	0	0	0
-thymine catabolic process	GO_0006210	0	1	0	0	0
-thymine biosynthetic process	GO_0046106	0	1	0	0	0
-thymidine metabolic process	GO_0046104	0	1	0	0	0
-thymidine catabolic process	GO_0006214	0	1	0	0	0
-thymidine biosynthetic process	GO_0046105	0	1	0	0	0
-thiamine-containing compound metabolic process	GO_0042723	0	1	0	0	0
-thiamine-containing compound catabolic process	GO_0042725	0	1	0	0	0
-thiamine-containing compound biosynthetic process	GO_0042724	0	1	0	0	0
-thiamine salvage	GO_0036172	0	1	0	0	0
-thiamine metabolic process	GO_0006772	0	1	0	0	0
-thiamine diphosphate metabolic process	GO_0042357	0	1	0	0	0
-thiamine diphosphate dephosphorylation	GO_0042370	0	1	0	0	0
-thiamine diphosphate catabolic process	GO_0042358	0	1	0	0	0
-thiamine diphosphate biosynthetic process	GO_0009229	0	1	0	0	0
-thiamine catabolic process	GO_0009230	0	1	0	0	0
-thiamine biosynthetic process	GO_0009228	0	1	0	0	0
-orotic acid metabolic process	GO_1903511	0	1	0	0	0
-ectoine metabolic process	GO_0042399	0	1	0	0	0
-ectoine catabolic process	GO_0042400	0	1	0	0	0
-ectoine biosynthetic process	GO_0019491	0	1	0	0	0
-depyrimidination	GO_0045008	0	1	0	0	0
-deoxyuridine metabolic process	GO_0046096	0	1	0	0	0
-deoxyuridine catabolic process	GO_0006219	0	1	0	0	0
-deoxyuridine biosynthetic process	GO_0046097	0	1	0	0	0
-deoxycytidine salvage	GO_0006237	0	1	0	0	0
-deoxycytidine metabolic process	GO_0046092	0	1	0	0	0
-deoxycytidine catabolic process	GO_0006217	0	1	0	0	0
-deoxycytidine biosynthetic process	GO_0046093	0	1	0	0	0
-dUTP metabolic process	GO_0046080	0	1	0	0	0
-dUTP catabolic process	GO_0046081	0	1	0	0	0
-dUTP biosynthetic process	GO_0006229	0	1	0	0	0
-dUMP metabolic process	GO_0046078	0	1	0	0	0
-dUMP catabolic process	GO_0046079	0	1	0	0	0
-dUMP biosynthetic process	GO_0006226	0	1	0	0	0
-dUDP metabolic process	GO_0046077	0	1	0	0	0
-dUDP catabolic process	GO_0006257	0	1	0	0	0
-dUDP biosynthetic process	GO_0006227	0	1	0	0	0
-dTTP metabolic process	GO_0046075	0	1	0	0	0
-dTTP catabolic process	GO_0046076	0	1	0	0	0
-dTTP biosynthetic process	GO_0006235	0	1	0	0	0
-dTMP salvage	GO_0036198	0	1	0	0	0
-dTMP metabolic process	GO_0046073	0	1	0	0	0
-dTMP catabolic process	GO_0046074	0	1	0	0	0
-dTMP biosynthetic process	GO_0006231	0	1	0	0	0
-dTDP metabolic process	GO_0046072	0	1	0	0	0
-dTDP catabolic process	GO_0006246	0	1	0	0	0
-dTDP biosynthetic process	GO_0006233	0	1	0	0	0
-dCTP metabolic process	GO_0046065	0	1	0	0	0
-dCTP catabolic process	GO_0006253	0	1	0	0	0
-dCTP biosynthetic process	GO_0006242	0	1	0	0	0
-dCMP salvage	GO_0006239	0	1	0	0	0
-dCMP metabolic process	GO_0046063	0	1	0	0	0
-dCMP catabolic process	GO_0006249	0	1	0	0	0
-dCMP biosynthetic process	GO_0046064	0	1	0	0	0
-dCDP metabolic process	GO_0046062	0	1	0	0	0
-dCDP catabolic process	GO_0006251	0	1	0	0	0
-dCDP biosynthetic process	GO_0006240	0	1	0	0	0
-cytosine metabolic process	GO_0019858	0	1	0	0	0
-cytosine catabolic process	GO_0006209	0	1	0	0	0
-cytosine biosynthetic process	GO_0046089	0	1	0	0	0
-cytidine salvage	GO_0006236	0	1	0	0	0
-cytidine metabolic process	GO_0046087	0	1	0	0	0
-cytidine deamination	GO_0009972	0	1	0	0	0
-cytidine catabolic process	GO_0006216	0	1	0	0	0
-cytidine biosynthetic process	GO_0046088	0	1	0	0	0
-UTP metabolic process	GO_0046051	0	1	0	0	0
-UTP catabolic process	GO_0046052	0	1	0	0	0
-UTP biosynthetic process	GO_0006228	0	1	0	0	0
-UMP salvage	GO_0044206	0	1	0	0	0
-UMP metabolic process	GO_0046049	0	1	0	0	0
-UMP catabolic process	GO_0046050	0	1	0	0	0
-UMP biosynthetic process	GO_0006222	0	1	0	0	0
-UDP metabolic process	GO_0046048	0	1	0	0	0
-UDP catabolic process	GO_0006256	0	1	0	0	0
-UDP biosynthetic process	GO_0006225	0	1	0	0	0
-TTP metabolic process	GO_0046046	0	1	0	0	0
-TTP catabolic process	GO_0046047	0	1	0	0	0
-TTP biosynthetic process	GO_0006234	0	1	0	0	0
-TMP metabolic process	GO_0046044	0	1	0	0	0
-TMP catabolic process	GO_0046045	0	1	0	0	0
-TMP biosynthetic process	GO_0006230	0	1	0	0	0
-TDP metabolic process	GO_0046043	0	1	0	0	0
-TDP catabolic process	GO_0006245	0	1	0	0	0
-TDP biosynthetic process	GO_0006232	0	1	0	0	0
-CTP salvage	GO_0044211	0	1	0	0	0
-CTP metabolic process	GO_0046036	0	1	0	0	0
-CTP catabolic process	GO_0006254	0	1	0	0	0
-CTP biosynthetic process	GO_0006241	0	1	0	0	0
-CMP salvage	GO_0006238	0	1	0	0	0
-CMP metabolic process	GO_0046035	0	1	0	0	0
-CMP catabolic process	GO_0006248	0	1	0	0	0
-CMP biosynthetic process	GO_0009224	0	1	0	0	0
-CDP metabolic process	GO_0046704	0	1	0	0	0
-CDP catabolic process	GO_0046706	0	1	0	0	0
-CDP biosynthetic process	GO_0046705	0	1	0	0	0
-5-methylcytosine metabolic process	GO_0019857	0	1	0	0	0
-5-methylcytosine catabolic process	GO_0006211	0	1	0	0	0
-5-methylcytosine biosynthetic process	GO_0046082	0	1	0	0	0
-5-carbamoylmethyluridine metabolic process	GO_0080178	0	1	0	0	0
-'de novo' UMP biosynthetic process	GO_0044205	0	1	0	0	0
-'de novo' CTP biosynthetic process	GO_0044210	0	1	0	0	0
+uridine metabolic process	GO_0046108	0	1	1	0	0
+uridine catabolic process	GO_0006218	0	1	1	0	0
+uridine biosynthetic process	GO_0046109	0	1	1	0	0
+uracil salvage	GO_0006223	0	1	1	0	0
+uracil metabolic process	GO_0019860	0	1	1	0	0
+uracil catabolic process	GO_0006212	0	1	1	0	0
+uracil biosynthetic process	GO_0046107	0	1	1	0	0
+thymine metabolic process	GO_0019859	0	1	1	0	0
+thymine catabolic process	GO_0006210	0	1	1	0	0
+thymine biosynthetic process	GO_0046106	0	1	1	0	0
+thymidine metabolic process	GO_0046104	0	1	1	0	0
+thymidine catabolic process	GO_0006214	0	1	1	0	0
+thymidine biosynthetic process	GO_0046105	0	1	1	0	0
+thiamine-containing compound metabolic process	GO_0042723	0	1	1	0	0
+thiamine-containing compound catabolic process	GO_0042725	0	1	1	0	0
+thiamine-containing compound biosynthetic process	GO_0042724	0	1	1	0	0
+thiamine salvage	GO_0036172	0	1	1	0	0
+thiamine metabolic process	GO_0006772	0	1	1	0	0
+thiamine diphosphate metabolic process	GO_0042357	0	1	1	0	0
+thiamine diphosphate dephosphorylation	GO_0042370	0	1	1	0	0
+thiamine diphosphate catabolic process	GO_0042358	0	1	1	0	0
+thiamine diphosphate biosynthetic process	GO_0009229	0	1	1	0	0
+thiamine catabolic process	GO_0009230	0	1	1	0	0
+thiamine biosynthetic process	GO_0009228	0	1	1	0	0
+orotic acid metabolic process	GO_1903511	0	1	1	0	0
+ectoine metabolic process	GO_0042399	0	1	1	0	0
+ectoine catabolic process	GO_0042400	0	1	1	0	0
+ectoine biosynthetic process	GO_0019491	0	1	1	0	0
+depyrimidination	GO_0045008	0	1	1	0	0
+deoxyuridine metabolic process	GO_0046096	0	1	1	0	0
+deoxyuridine catabolic process	GO_0006219	0	1	1	0	0
+deoxyuridine biosynthetic process	GO_0046097	0	1	1	0	0
+deoxycytidine salvage	GO_0006237	0	1	1	0	0
+deoxycytidine metabolic process	GO_0046092	0	1	1	0	0
+deoxycytidine catabolic process	GO_0006217	0	1	1	0	0
+deoxycytidine biosynthetic process	GO_0046093	0	1	1	0	0
+dUTP metabolic process	GO_0046080	0	1	1	0	0
+dUTP catabolic process	GO_0046081	0	1	1	0	0
+dUTP biosynthetic process	GO_0006229	0	1	1	0	0
+dUMP metabolic process	GO_0046078	0	1	1	0	0
+dUMP catabolic process	GO_0046079	0	1	1	0	0
+dUMP biosynthetic process	GO_0006226	0	1	1	0	0
+dUDP metabolic process	GO_0046077	0	1	1	0	0
+dUDP catabolic process	GO_0006257	0	1	1	0	0
+dUDP biosynthetic process	GO_0006227	0	1	1	0	0
+dTTP metabolic process	GO_0046075	0	1	1	0	0
+dTTP catabolic process	GO_0046076	0	1	1	0	0
+dTTP biosynthetic process	GO_0006235	0	1	1	0	0
+dTMP salvage	GO_0036198	0	1	1	0	0
+dTMP metabolic process	GO_0046073	0	1	1	0	0
+dTMP catabolic process	GO_0046074	0	1	1	0	0
+dTMP biosynthetic process	GO_0006231	0	1	1	0	0
+dTDP metabolic process	GO_0046072	0	1	1	0	0
+dTDP catabolic process	GO_0006246	0	1	1	0	0
+dTDP biosynthetic process	GO_0006233	0	1	1	0	0
+dCTP metabolic process	GO_0046065	0	1	1	0	0
+dCTP catabolic process	GO_0006253	0	1	1	0	0
+dCTP biosynthetic process	GO_0006242	0	1	1	0	0
+dCMP salvage	GO_0006239	0	1	1	0	0
+dCMP metabolic process	GO_0046063	0	1	1	0	0
+dCMP catabolic process	GO_0006249	0	1	1	0	0
+dCMP biosynthetic process	GO_0046064	0	1	1	0	0
+dCDP metabolic process	GO_0046062	0	1	1	0	0
+dCDP catabolic process	GO_0006251	0	1	1	0	0
+dCDP biosynthetic process	GO_0006240	0	1	1	0	0
+cytosine metabolic process	GO_0019858	0	1	1	0	0
+cytosine catabolic process	GO_0006209	0	1	1	0	0
+cytosine biosynthetic process	GO_0046089	0	1	1	0	0
+cytidine salvage	GO_0006236	0	1	1	0	0
+cytidine metabolic process	GO_0046087	0	1	1	0	0
+cytidine deamination	GO_0009972	0	1	1	0	0
+cytidine catabolic process	GO_0006216	0	1	1	0	0
+cytidine biosynthetic process	GO_0046088	0	1	1	0	0
+UTP metabolic process	GO_0046051	0	1	1	0	0
+UTP catabolic process	GO_0046052	0	1	1	0	0
+UTP biosynthetic process	GO_0006228	0	1	1	0	0
+UMP salvage	GO_0044206	0	1	1	0	0
+UMP metabolic process	GO_0046049	0	1	1	0	0
+UMP catabolic process	GO_0046050	0	1	1	0	0
+UMP biosynthetic process	GO_0006222	0	1	1	0	0
+UDP metabolic process	GO_0046048	0	1	1	0	0
+UDP catabolic process	GO_0006256	0	1	1	0	0
+UDP biosynthetic process	GO_0006225	0	1	1	0	0
+TTP metabolic process	GO_0046046	0	1	1	0	0
+TTP catabolic process	GO_0046047	0	1	1	0	0
+TTP biosynthetic process	GO_0006234	0	1	1	0	0
+TMP metabolic process	GO_0046044	0	1	1	0	0
+TMP catabolic process	GO_0046045	0	1	1	0	0
+TMP biosynthetic process	GO_0006230	0	1	1	0	0
+TDP metabolic process	GO_0046043	0	1	1	0	0
+TDP catabolic process	GO_0006245	0	1	1	0	0
+TDP biosynthetic process	GO_0006232	0	1	1	0	0
+CTP salvage	GO_0044211	0	1	1	0	0
+CTP metabolic process	GO_0046036	0	1	1	0	0
+CTP catabolic process	GO_0006254	0	1	1	0	0
+CTP biosynthetic process	GO_0006241	0	1	1	0	0
+CMP salvage	GO_0006238	0	1	1	0	0
+CMP metabolic process	GO_0046035	0	1	1	0	0
+CMP catabolic process	GO_0006248	0	1	1	0	0
+CMP biosynthetic process	GO_0009224	0	1	1	0	0
+CDP metabolic process	GO_0046704	0	1	1	0	0
+CDP catabolic process	GO_0046706	0	1	1	0	0
+CDP biosynthetic process	GO_0046705	0	1	1	0	0
+5-methylcytosine metabolic process	GO_0019857	0	1	1	0	0
+5-methylcytosine catabolic process	GO_0006211	0	1	1	0	0
+5-methylcytosine biosynthetic process	GO_0046082	0	1	1	0	0
+5-carbamoylmethyluridine metabolic process	GO_0080178	0	1	1	0	0
+'de novo' UMP biosynthetic process	GO_0044205	0	1	1	0	0
+'de novo' CTP biosynthetic process	GO_0044210	0	1	1	0	0
