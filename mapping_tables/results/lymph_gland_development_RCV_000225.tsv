@@ -4,10 +4,10 @@ lymph gland development	GO_0048542	1	1	1	0	0
 lymph vessel development	GO_0001945	1	0	1	0	0
 lymph node development	GO_0048535	1	0	1	0	0
 lymph gland development	GO_0007515	1	0	1	0	0
-regulation of lamellocyte differentiation	GO_0035203	0	1	1	0	0
-positive regulation of lamellocyte differentiation	GO_0035205	0	1	1	0	0
-negative regulation of lamellocyte differentiation	GO_0035204	0	1	1	0	0
-lymph gland crystal cell differentiation	GO_0035170	0	1	1	0	0
-larval lymph gland hemopoiesis	GO_0035167	0	1	1	0	0
-larval lymph gland hemocyte differentiation	GO_0035168	0	1	1	0	0
-lamellocyte differentiation	GO_0035171	0	1	1	0	0
+regulation of lamellocyte differentiation	GO_0035203	0	1	1	1	0
+positive regulation of lamellocyte differentiation	GO_0035205	0	1	1	1	0
+negative regulation of lamellocyte differentiation	GO_0035204	0	1	1	1	0
+lymph gland crystal cell differentiation	GO_0035170	0	1	1	1	0
+larval lymph gland hemopoiesis	GO_0035167	0	1	1	1	0
+larval lymph gland hemocyte differentiation	GO_0035168	0	1	1	1	0
+lamellocyte differentiation	GO_0035171	0	1	1	1	0
