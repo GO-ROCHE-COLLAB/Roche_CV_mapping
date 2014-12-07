@@ -228,7 +228,7 @@ glutamine metabolism	RCV_000179	glutamine metabolic process	GO_0006541	Equivalen
 fat metabolism	RCV_000163	lipid metabolic process	GO_0006629	Equivalence		98	open
 fatty acid metabolism	RCV_000164	fatty acid metabolic process	GO_0006631	Equivalence		99	open
 GPCR signaling	RCV_000019	G-protein coupled receptor signaling pathway	GO_0007186	Equivalence	Manual mapping is only adenylate-cyclase signaling pathway. Should it be renamed, or would a broader mapping be appropriate ?	191	open
-Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	Equivalence		48	open
+Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	is_a_OR_part_of_OR_regulates		48	open
 STATx phosphorylation	RCV_000035	tyrosine phosphorylation of stat protein	GO_0007260	Equivalence		50	closed - mapping completed
 cell aging	RCV_000100	cell aging	GO_0007569	Equivalence			
 behaviour	RCV_000082	behaviour	GO_0007610	Equivalence		232	open
