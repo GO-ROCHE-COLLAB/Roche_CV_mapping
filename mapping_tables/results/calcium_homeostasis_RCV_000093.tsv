@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-regulation of calcium-mediated signaling	GO_0050848	1	0	1	0	0
-regulation of calcium or calmodulin-mediated signal transduction in response to host	GO_0075177	1	0	1	0	0
+regulation of calcium-mediated signaling	GO_0050848	1	0	1	1	0
+regulation of calcium or calmodulin-mediated signal transduction in response to host	GO_0075177	1	0	1	1	0
 regulation of calcium ion-dependent exocytosis	GO_0017158	1	0	1	0	0
 regulation of calcium ion transport via voltage-gated calcium channel activity	GO_0051925	1	0	1	1	1
 regulation of calcium ion transport via store-operated calcium channel activity	GO_0032234	1	0	1	1	1

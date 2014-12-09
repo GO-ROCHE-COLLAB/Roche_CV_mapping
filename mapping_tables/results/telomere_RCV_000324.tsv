@@ -19,18 +19,18 @@ telomere tethering at nuclear periphery	GO_0034398	1	0	1	0	0
 telomere localization	GO_0034397	1	0	1	0	0
 telomere binding	GO_0007003	1	0	1	1	1
 telomerase catalytic core complex	GO_0000333	1	0	1	0	0
-telosome	GO_0070187	0	1	0	0	0
-telomeric heterochromatin	GO_0031933	0	1	0	0	0
-telomere-telomerase complex	GO_0070565	0	1	0	0	0
-telomere cap complex	GO_0000782	0	1	0	0	0
-protection from non-homologous end joining at telomere	GO_0031848	0	1	0	0	0
-polytene chromosome, telomeric region	GO_0035012	0	1	0	0	0
-nuclear telomeric heterochromatin	GO_0005724	0	1	0	0	0
-nuclear telomere cap complex	GO_0000783	0	1	0	0	0
-nuclear chromosome, telomeric region	GO_0000784	0	1	0	0	0
-mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	0	0	0
-meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	0	0	0
-chromosome, telomeric region	GO_0000781	0	1	0	0	0
-age-dependent telomere shortening	GO_0001309	0	1	0	0	0
-Tpg-containing telomere binding complex	GO_0043769	0	1	0	0	0
-Stn1-Ten1 complex	GO_0070188	0	1	0	0	0
+telosome	GO_0070187	0	1	1	0	0
+telomeric heterochromatin	GO_0031933	0	1	1	0	0
+telomere-telomerase complex	GO_0070565	0	1	1	0	0
+telomere cap complex	GO_0000782	0	1	1	0	0
+protection from non-homologous end joining at telomere	GO_0031848	0	1	1	0	0
+polytene chromosome, telomeric region	GO_0035012	0	1	1	0	0
+nuclear telomeric heterochromatin	GO_0005724	0	1	1	0	0
+nuclear telomere cap complex	GO_0000783	0	1	1	0	0
+nuclear chromosome, telomeric region	GO_0000784	0	1	1	0	0
+mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	1	0	0
+meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	1	0	0
+chromosome, telomeric region	GO_0000781	0	1	1	0	0
+age-dependent telomere shortening	GO_0001309	0	1	1	0	0
+Tpg-containing telomere binding complex	GO_0043769	0	1	1	0	0
+Stn1-Ten1 complex	GO_0070188	0	1	1	0	0
