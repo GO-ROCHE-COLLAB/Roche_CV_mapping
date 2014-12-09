@@ -127,150 +127,150 @@ aerotaxis	GO_0009454	1	1	1	0	0
 Roundabout signaling pathway involved in muscle cell chemotaxis toward tendon cell	GO_2001283	1	1	1	0	0
 cellular response to potassium ion involved in chemotaxis to cAMP	GO_1900013	1	0	1	1	1
 cellular response to calcium ion involved in chemotaxis to cAMP	GO_1900014	1	0	1	1	1
-synaptic target inhibition	GO_0016201	0	1	0	0	0
-synaptic target attraction	GO_0016200	0	1	0	0	0
-sympathetic neuron projection guidance	GO_0097491	0	1	0	0	0
-sympathetic neuron axon guidance	GO_0097492	0	1	0	0	0
-suppression by virus of host chemokine activity	GO_0039553	0	1	0	0	0
-spinal sensory neuron axon guidance	GO_0097375	0	1	0	0	0
-spinal cord interneuron axon guidance	GO_0097377	0	1	0	0	0
-smooth muscle cell chemotaxis	GO_0071670	0	1	0	0	0
-sensory neuron axon guidance	GO_0097374	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in neuron projection guidance	GO_1902285	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in dendrite guidance	GO_1902286	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0	0
-retinal ganglion cell axon guidance	GO_0031290	0	1	0	0	0
-regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	0	0	0
-regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	0	0	0
-regulation of photoreceptor cell axon guidance	GO_2000289	0	1	0	0	0
-regulation of natural killer cell chemotaxis	GO_2000501	0	1	0	0	0
-regulation of myeloid dendritic cell chemotaxis	GO_2000527	0	1	0	0	0
-regulation of mast cell chemotaxis	GO_0060753	0	1	0	0	0
-regulation of macrophage chemotaxis	GO_0010758	0	1	0	0	0
-regulation of lymphocyte chemotaxis	GO_1901623	0	1	0	0	0
-regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
-regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
-regulation of dendritic cell chemotaxis	GO_2000508	0	1	0	0	0
-regulation of chemorepellent activity	GO_1903667	0	1	0	0	0
-regulation of chemokine activity	GO_1900136	0	1	0	0	0
-regulation of axon guidance	GO_1902667	0	1	0	0	0
-regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0	0
-regulation of T cell chemotaxis	GO_0010819	0	1	0	0	0
-positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	0	0	0
-positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
-positive regulation of natural killer cell chemotaxis	GO_2000503	0	1	0	0	0
-positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	0	1	0	0	0
-positive regulation of mast cell chemotaxis	GO_0060754	0	1	0	0	0
-positive regulation of macrophage chemotaxis	GO_0010759	0	1	0	0	0
-positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	0	0	0
-positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
-positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
-positive regulation of dendritic cell chemotaxis	GO_2000510	0	1	0	0	0
-positive regulation of chemorepellent activity	GO_1903669	0	1	0	0	0
-positive regulation of axon guidance	GO_1902669	0	1	0	0	0
-positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0	0
-positive regulation of T cell chemotaxis	GO_0010820	0	1	0	0	0
-pollen tube guidance	GO_0010183	0	1	0	0	0
-plasmacytoid dendritic cell chemotaxis	GO_0002410	0	1	0	0	0
-photoreceptor cell axon guidance	GO_0072499	0	1	0	0	0
-olfactory bulb axon guidance	GO_0071678	0	1	0	0	0
-neutrophil chemotaxis	GO_0030593	0	1	0	0	0
-neuron projection guidance	GO_0097485	0	1	0	0	0
-neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	0	0	0
-netrin receptor activity involved in chemorepulsion	GO_0005043	0	1	0	0	0
-netrin receptor activity involved in chemoattraction	GO_0038006	0	1	0	0	0
-negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	0	0	0
-negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	0	0	0
-negative regulation of natural killer cell chemotaxis	GO_2000502	0	1	0	0	0
-negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	0	1	0	0	0
-negative regulation of mast cell chemotaxis	GO_0060755	0	1	0	0	0
-negative regulation of macrophage chemotaxis	GO_0010760	0	1	0	0	0
-negative regulation of lymphocyte chemotaxis	GO_1901624	0	1	0	0	0
-negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
-negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
-negative regulation of dendritic cell chemotaxis	GO_2000509	0	1	0	0	0
-negative regulation of chemorepellent activity	GO_1903668	0	1	0	0	0
-negative regulation of chemokine activity	GO_1900137	0	1	0	0	0
-negative regulation of axon guidance	GO_1902668	0	1	0	0	0
-negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0	0
-natural killer cell chemotaxis	GO_0035747	0	1	0	0	0
-myeloid dendritic cell chemotaxis	GO_0002408	0	1	0	0	0
-muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	0	0	0
-motor neuron axon guidance	GO_0008045	0	1	0	0	0
-monocyte chemotaxis	GO_0002548	0	1	0	0	0
-mature natural killer cell chemotaxis	GO_0035782	0	1	0	0	0
-mast cell chemotaxis	GO_0002551	0	1	0	0	0
-macrophage chemotaxis	GO_0048246	0	1	0	0	0
-lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0	0
-lymphocyte chemotaxis	GO_0048247	0	1	0	0	0
-leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
-leukocyte chemotaxis involved in immune response	GO_0002233	0	1	0	0	0
-leukocyte chemotaxis	GO_0030595	0	1	0	0	0
-interneuron sorting involved in substrate-independent cerebral cortex tangential migration	GO_0021844	0	1	0	0	0
-interneuron axon guidance	GO_0097376	0	1	0	0	0
-induction of positive chemotaxis	GO_0050930	0	1	0	0	0
-induction of negative chemotaxis	GO_0050929	0	1	0	0	0
-helper T cell chemotaxis	GO_0035704	0	1	0	0	0
-granulocyte chemotaxis	GO_0071621	0	1	0	0	0
-germ cell repulsion	GO_0035233	0	1	0	0	0
-germ cell attraction	GO_0035232	0	1	0	0	0
-eosinophil chemotaxis	GO_0048245	0	1	0	0	0
-endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
-endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
-dorsal/ventral axon guidance	GO_0033563	0	1	0	0	0
-dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0	0
-dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0	0
-dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0	0
-dendritic cell chemotaxis	GO_0002407	0	1	0	0	0
-dendrite guidance	GO_0070983	0	1	0	0	0
-corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	0	1	0	0	0
-corticospinal neuron axon guidance through the internal capsule	GO_0021968	0	1	0	0	0
-corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	0	1	0	0	0
-corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	0	1	0	0	0
-corticospinal neuron axon guidance through the basilar pons	GO_0021970	0	1	0	0	0
-corticospinal neuron axon guidance through spinal cord	GO_0021972	0	1	0	0	0
-corticospinal neuron axon guidance	GO_0021966	0	1	0	0	0
-corticospinal neuron axon decussation	GO_0021973	0	1	0	0	0
-commissural neuron axon guidance	GO_0071679	0	1	0	0	0
-colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
-chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	0	1	0	0	0
-chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	0	1	0	0	0
-chemorepulsion of branchiomotor axon	GO_0021793	0	1	0	0	0
-chemorepulsion of axon	GO_0061643	0	1	0	0	0
-chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	0	0	0
-chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	0	0	0
-chemorepulsion involved in interneuron migration from the subpallium to the cortex	GO_0021842	0	1	0	0	0
-chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	0	0	0
-chemorepellent activity	GO_0045499	0	1	0	0	0
-chemokine activity	GO_0008009	0	1	0	0	0
-chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	0	1	0	0	0
-chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	0	1	0	0	0
-chemoattraction of branchiomotor axon	GO_0021792	0	1	0	0	0
-chemoattraction of axon	GO_0061642	0	1	0	0	0
-chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	0	0	0
-chemoattraction involved in interneuron migration from the subpallium to the cortex	GO_0021841	0	1	0	0	0
-chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	0	0	0
-chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0	0
-chemoattractant activity	GO_0042056	0	1	0	0	0
-cell chemotaxis to fibroblast growth factor	GO_0035766	0	1	0	0	0
-branchiomotor neuron axon guidance in neural tube	GO_0021786	0	1	0	0	0
-branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	0	1	0	0	0
-branchiomotor neuron axon guidance	GO_0021785	0	1	0	0	0
-basophil chemotaxis	GO_0002575	0	1	0	0	0
-axon midline choice point recognition	GO_0016199	0	1	0	0	0
-axon guidance receptor activity	GO_0008046	0	1	0	0	0
-axon guidance	GO_0007411	0	1	0	0	0
-axon extension involved in axon guidance	GO_0048846	0	1	0	0	0
-axon choice point recognition	GO_0016198	0	1	0	0	0
-astrocyte chemotaxis	GO_0035700	0	1	0	0	0
-anterior/posterior axon guidance	GO_0033564	0	1	0	0	0
-VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0	0
-T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0	0
-T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0	0
-T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0	0
-T cell chemotaxis	GO_0010818	0	1	0	0	0
-Roundabout signaling pathway involved in axon guidance	GO_2001266	0	1	0	0	0
-Langerhans cell chemotaxis	GO_0002409	0	1	0	0	0
-BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0
-B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0	0
-B cell chemotaxis	GO_0035754	0	1	0	0	0
+synaptic target inhibition	GO_0016201	0	1	1	0	0
+synaptic target attraction	GO_0016200	0	1	1	0	0
+sympathetic neuron projection guidance	GO_0097491	0	1	1	0	0
+sympathetic neuron axon guidance	GO_0097492	0	1	1	0	0
+suppression by virus of host chemokine activity	GO_0039553	0	1	1	0	0
+spinal sensory neuron axon guidance	GO_0097375	0	1	1	0	0
+spinal cord interneuron axon guidance	GO_0097377	0	1	1	0	0
+smooth muscle cell chemotaxis	GO_0071670	0	1	1	0	0
+sensory neuron axon guidance	GO_0097374	0	1	1	0	0
+semaphorin-plexin signaling pathway involved in neuron projection guidance	GO_1902285	0	1	1	0	0
+semaphorin-plexin signaling pathway involved in dendrite guidance	GO_1902286	0	1	1	0	0
+semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	1	0	0
+retinal ganglion cell axon guidance	GO_0031290	0	1	1	0	0
+regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	1	0	0
+regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	1	0	0
+regulation of photoreceptor cell axon guidance	GO_2000289	0	1	1	0	0
+regulation of natural killer cell chemotaxis	GO_2000501	0	1	1	0	0
+regulation of myeloid dendritic cell chemotaxis	GO_2000527	0	1	1	0	0
+regulation of mast cell chemotaxis	GO_0060753	0	1	1	0	0
+regulation of macrophage chemotaxis	GO_0010758	0	1	1	0	0
+regulation of lymphocyte chemotaxis	GO_1901623	0	1	1	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	1	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	0	1	1	0	0
+regulation of dendritic cell chemotaxis	GO_2000508	0	1	1	0	0
+regulation of chemorepellent activity	GO_1903667	0	1	1	0	0
+regulation of chemokine activity	GO_1900136	0	1	1	0	0
+regulation of axon guidance	GO_1902667	0	1	1	0	0
+regulation of axon extension involved in axon guidance	GO_0048841	0	1	1	0	0
+regulation of T cell chemotaxis	GO_0010819	0	1	1	0	0
+positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	1	0	0
+positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	1	0	0
+positive regulation of natural killer cell chemotaxis	GO_2000503	0	1	1	0	0
+positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	0	1	1	0	0
+positive regulation of mast cell chemotaxis	GO_0060754	0	1	1	0	0
+positive regulation of macrophage chemotaxis	GO_0010759	0	1	1	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	1	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	1	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	1	0	0
+positive regulation of dendritic cell chemotaxis	GO_2000510	0	1	1	0	0
+positive regulation of chemorepellent activity	GO_1903669	0	1	1	0	0
+positive regulation of axon guidance	GO_1902669	0	1	1	0	0
+positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	1	0	0
+positive regulation of T cell chemotaxis	GO_0010820	0	1	1	0	0
+pollen tube guidance	GO_0010183	0	1	1	0	0
+plasmacytoid dendritic cell chemotaxis	GO_0002410	0	1	1	0	0
+photoreceptor cell axon guidance	GO_0072499	0	1	1	0	0
+olfactory bulb axon guidance	GO_0071678	0	1	1	0	0
+neutrophil chemotaxis	GO_0030593	0	1	1	0	0
+neuron projection guidance	GO_0097485	0	1	1	0	0
+neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	1	0	0
+netrin receptor activity involved in chemorepulsion	GO_0005043	0	1	1	0	0
+netrin receptor activity involved in chemoattraction	GO_0038006	0	1	1	0	0
+negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	1	0	0
+negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	1	0	0
+negative regulation of natural killer cell chemotaxis	GO_2000502	0	1	1	0	0
+negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	0	1	1	0	0
+negative regulation of mast cell chemotaxis	GO_0060755	0	1	1	0	0
+negative regulation of macrophage chemotaxis	GO_0010760	0	1	1	0	0
+negative regulation of lymphocyte chemotaxis	GO_1901624	0	1	1	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	1	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	1	0	0
+negative regulation of dendritic cell chemotaxis	GO_2000509	0	1	1	0	0
+negative regulation of chemorepellent activity	GO_1903668	0	1	1	0	0
+negative regulation of chemokine activity	GO_1900137	0	1	1	0	0
+negative regulation of axon guidance	GO_1902668	0	1	1	0	0
+negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	1	0	0
+natural killer cell chemotaxis	GO_0035747	0	1	1	0	0
+myeloid dendritic cell chemotaxis	GO_0002408	0	1	1	0	0
+muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	1	0	0
+motor neuron axon guidance	GO_0008045	0	1	1	0	0
+monocyte chemotaxis	GO_0002548	0	1	1	0	0
+mature natural killer cell chemotaxis	GO_0035782	0	1	1	0	0
+mast cell chemotaxis	GO_0002551	0	1	1	0	0
+macrophage chemotaxis	GO_0048246	0	1	1	0	0
+lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	1	0	0
+lymphocyte chemotaxis	GO_0048247	0	1	1	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	1	0	0
+leukocyte chemotaxis involved in immune response	GO_0002233	0	1	1	0	0
+leukocyte chemotaxis	GO_0030595	0	1	1	0	0
+interneuron sorting involved in substrate-independent cerebral cortex tangential migration	GO_0021844	0	1	1	0	0
+interneuron axon guidance	GO_0097376	0	1	1	0	0
+induction of positive chemotaxis	GO_0050930	0	1	1	0	0
+induction of negative chemotaxis	GO_0050929	0	1	1	0	0
+helper T cell chemotaxis	GO_0035704	0	1	1	0	0
+granulocyte chemotaxis	GO_0071621	0	1	1	0	0
+germ cell repulsion	GO_0035233	0	1	1	0	0
+germ cell attraction	GO_0035232	0	1	1	0	0
+eosinophil chemotaxis	GO_0048245	0	1	1	0	0
+endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	1	0	0
+endothelial cell chemotaxis	GO_0035767	0	1	1	0	0
+dorsal/ventral axon guidance	GO_0033563	0	1	1	0	0
+dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	1	0	0
+dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	1	0	0
+dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	1	0	0
+dendritic cell chemotaxis	GO_0002407	0	1	1	0	0
+dendrite guidance	GO_0070983	0	1	1	0	0
+corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	0	1	1	0	0
+corticospinal neuron axon guidance through the internal capsule	GO_0021968	0	1	1	0	0
+corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	0	1	1	0	0
+corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	0	1	1	0	0
+corticospinal neuron axon guidance through the basilar pons	GO_0021970	0	1	1	0	0
+corticospinal neuron axon guidance through spinal cord	GO_0021972	0	1	1	0	0
+corticospinal neuron axon guidance	GO_0021966	0	1	1	0	0
+corticospinal neuron axon decussation	GO_0021973	0	1	1	0	0
+commissural neuron axon guidance	GO_0071679	0	1	1	0	0
+colon epithelial cell chemotaxis	GO_0061583	0	1	1	0	0
+chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	0	1	1	0	0
+chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	0	1	1	0	0
+chemorepulsion of branchiomotor axon	GO_0021793	0	1	1	0	0
+chemorepulsion of axon	GO_0061643	0	1	1	0	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	1	0	0
+chemorepulsion involved in postnatal olfactory bulb interneuron migration	GO_0021836	0	1	1	0	0
+chemorepulsion involved in interneuron migration from the subpallium to the cortex	GO_0021842	0	1	1	0	0
+chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration	GO_0021834	0	1	1	0	0
+chemorepellent activity	GO_0045499	0	1	1	0	0
+chemokine activity	GO_0008009	0	1	1	0	0
+chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	0	1	1	0	0
+chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	0	1	1	0	0
+chemoattraction of branchiomotor axon	GO_0021792	0	1	1	0	0
+chemoattraction of axon	GO_0061642	0	1	1	0	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	1	0	0
+chemoattraction involved in interneuron migration from the subpallium to the cortex	GO_0021841	0	1	1	0	0
+chemoattraction involved in embryonic olfactory bulb interneuron precursor migration	GO_0021835	0	1	1	0	0
+chemoattractant activity involved in axon guidance	GO_1902379	0	1	1	0	0
+chemoattractant activity	GO_0042056	0	1	1	0	0
+cell chemotaxis to fibroblast growth factor	GO_0035766	0	1	1	0	0
+branchiomotor neuron axon guidance in neural tube	GO_0021786	0	1	1	0	0
+branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	0	1	1	0	0
+branchiomotor neuron axon guidance	GO_0021785	0	1	1	0	0
+basophil chemotaxis	GO_0002575	0	1	1	0	0
+axon midline choice point recognition	GO_0016199	0	1	1	0	0
+axon guidance receptor activity	GO_0008046	0	1	1	0	0
+axon guidance	GO_0007411	0	1	1	0	0
+axon extension involved in axon guidance	GO_0048846	0	1	1	0	0
+axon choice point recognition	GO_0016198	0	1	1	0	0
+astrocyte chemotaxis	GO_0035700	0	1	1	0	0
+anterior/posterior axon guidance	GO_0033564	0	1	1	0	0
+VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	1	0	0
+T-helper 2 cell chemotaxis	GO_0035707	0	1	1	0	0
+T-helper 17 cell chemotaxis	GO_0035705	0	1	1	0	0
+T-helper 1 cell chemotaxis	GO_0035706	0	1	1	0	0
+T cell chemotaxis	GO_0010818	0	1	1	0	0
+Roundabout signaling pathway involved in axon guidance	GO_2001266	0	1	1	0	0
+Langerhans cell chemotaxis	GO_0002409	0	1	1	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	1	0	0
+B cell chemotaxis across high endothelial venule	GO_0035769	0	1	1	0	0
+B cell chemotaxis	GO_0035754	0	1	1	0	0
