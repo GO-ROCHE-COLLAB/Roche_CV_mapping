@@ -1,67 +1,67 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	GO_0016338	1	1	1	0	0
 calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0016339	1	1	1	0	0
-thymocyte aggregation	GO_0071594	0	1	0	0	0
-single organismal cell-cell adhesion	GO_0016337	0	1	0	0	0
-regulation of actin cytoskeleton organization by cell-cell adhesion	GO_0090138	0	1	0	0	0
-pre-tubular aggregate formation	GO_0072035	0	1	0	0	0
-posterior neuropore closure	GO_0021507	0	1	0	0	0
-pollen tube adhesion	GO_0009865	0	1	0	0	0
-pollen adhesion	GO_0009876	0	1	0	0	0
-platelet aggregation	GO_0070527	0	1	0	0	0
-ovarian follicle cell-cell adhesion	GO_0007299	0	1	0	0	0
-neutrophil aggregation	GO_0070488	0	1	0	0	0
-neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	0	0	0
-neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	0	0	0
-neuron cell-cell adhesion	GO_0007158	0	1	0	0	0
-monocyte aggregation	GO_0070487	0	1	0	0	0
-mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	0	0	0
-melanocyte adhesion	GO_0097326	0	1	0	0	0
-lymphocyte aggregation	GO_0071593	0	1	0	0	0
-lymphocyte adhesion to endothelial cell of high endothelial venule	GO_0036339	0	1	0	0	0
-leukocyte tethering or rolling	GO_0050901	0	1	0	0	0
-leukocyte cell-cell adhesion	GO_0007159	0	1	0	0	0
-leukocyte aggregation	GO_0070486	0	1	0	0	0
-leukocyte activation-dependent arrest	GO_0050903	0	1	0	0	0
-homotypic cell-cell adhesion	GO_0034109	0	1	0	0	0
-homophilic cell adhesion via plasma membrane adhesion molecules	GO_0007156	0	1	0	0	0
-heterotypic cell-cell adhesion	GO_0034113	0	1	0	0	0
-heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0007157	0	1	0	0	0
-erythrocyte aggregation	GO_0034117	0	1	0	0	0
-epithelial cell-cell adhesion involved in epithelium migration	GO_0090137	0	1	0	0	0
-epithelial cell-cell adhesion	GO_0090136	0	1	0	0	0
-endothelial cell-cell adhesion	GO_0071603	0	1	0	0	0
-endocardial cushion fusion	GO_0003274	0	1	0	0	0
-conjugant formation	GO_0000761	0	1	0	0	0
-chorio-allantoic fusion	GO_0060710	0	1	0	0	0
-cell-cell adhesion via plasma-membrane adhesion molecules	GO_0098742	0	1	0	0	0
-cell-cell adhesion mediated by integrin	GO_0033631	0	1	0	0	0
-cell-cell adhesion mediated by cadherin	GO_0044331	0	1	0	0	0
-cell-cell adhesion involved in synapse maturation	GO_0090125	0	1	0	0	0
-cell-cell adhesion involved in sealing an epithelial fold	GO_0060607	0	1	0	0	0
-cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	0	0	0
-cell-cell adhesion involved in neural tube closure	GO_0060608	0	1	0	0	0
-cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	0	0	0
-cell-cell adhesion involved in mannose-specific flocculation	GO_0098612	0	1	0	0	0
-cell-cell adhesion involved in gastrulation	GO_0070586	0	1	0	0	0
-cell-cell adhesion involved in galactose-specific flocculation	GO_0098611	0	1	0	0	0
-cell-cell adhesion involved in flocculation via cell wall protein-carbohydrate interaction	GO_0043690	0	1	0	0	0
-cell-cell adhesion involved in flocculation	GO_0043689	0	1	0	0	0
-cell-cell adhesion involved in establishment of planar polarity	GO_0090250	0	1	0	0	0
-cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	0	1	0	0	0
-cell-cell adhesion involved in ameboidal cell migration	GO_0003367	0	1	0	0	0
-cell-cell adhesion	GO_0098609	0	1	0	0	0
-cardioblast cell midline fusion	GO_0003317	0	1	0	0	0
-cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	0	1	0	0	0
-bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO_0086073	0	1	0	0	0
-atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	0	1	0	0	0
-agglutination involved in conjugation with mutual genetic exchange	GO_0000758	0	1	0	0	0
-agglutination involved in conjugation with cellular fusion	GO_0000752	0	1	0	0	0
-agglutination involved in conjugation	GO_0000771	0	1	0	0	0
-adhesion between unicellular organisms via cell-wall interaction	GO_0098741	0	1	0	0	0
-adhesion between unicellular organisms	GO_0098610	0	1	0	0	0
-T cell aggregation	GO_0070489	0	1	0	0	0
-SA node cell-atrial cardiac muscle cell adhesion involved in cell communication	GO_0086022	0	1	0	0	0
-Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication	GO_0086074	0	1	0	0	0
-B cell adhesion	GO_0097323	0	1	0	0	0
-AV node cell-bundle of His cell adhesion involved in cell communication	GO_0086072	0	1	0	0	0
+thymocyte aggregation	GO_0071594	0	1	1	0	0
+single organismal cell-cell adhesion	GO_0016337	0	1	1	0	0
+regulation of actin cytoskeleton organization by cell-cell adhesion	GO_0090138	0	1	1	0	0
+pre-tubular aggregate formation	GO_0072035	0	1	1	0	0
+posterior neuropore closure	GO_0021507	0	1	1	0	0
+pollen tube adhesion	GO_0009865	0	1	1	0	0
+pollen adhesion	GO_0009876	0	1	1	0	0
+platelet aggregation	GO_0070527	0	1	1	0	0
+ovarian follicle cell-cell adhesion	GO_0007299	0	1	1	0	0
+neutrophil aggregation	GO_0070488	0	1	1	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	1	0	0
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	1	0	0
+neuron cell-cell adhesion	GO_0007158	0	1	1	0	0
+monocyte aggregation	GO_0070487	0	1	1	0	0
+mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	1	0	0
+melanocyte adhesion	GO_0097326	0	1	1	0	0
+lymphocyte aggregation	GO_0071593	0	1	1	0	0
+lymphocyte adhesion to endothelial cell of high endothelial venule	GO_0036339	0	1	1	0	0
+leukocyte tethering or rolling	GO_0050901	0	1	1	0	0
+leukocyte cell-cell adhesion	GO_0007159	0	1	1	0	0
+leukocyte aggregation	GO_0070486	0	1	1	0	0
+leukocyte activation-dependent arrest	GO_0050903	0	1	1	0	0
+homotypic cell-cell adhesion	GO_0034109	0	1	1	0	0
+homophilic cell adhesion via plasma membrane adhesion molecules	GO_0007156	0	1	1	0	0
+heterotypic cell-cell adhesion	GO_0034113	0	1	1	0	0
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0007157	0	1	1	0	0
+erythrocyte aggregation	GO_0034117	0	1	1	0	0
+epithelial cell-cell adhesion involved in epithelium migration	GO_0090137	0	1	1	0	0
+epithelial cell-cell adhesion	GO_0090136	0	1	1	0	0
+endothelial cell-cell adhesion	GO_0071603	0	1	1	0	0
+endocardial cushion fusion	GO_0003274	0	1	1	0	0
+conjugant formation	GO_0000761	0	1	1	0	0
+chorio-allantoic fusion	GO_0060710	0	1	1	0	0
+cell-cell adhesion via plasma-membrane adhesion molecules	GO_0098742	0	1	1	0	0
+cell-cell adhesion mediated by integrin	GO_0033631	0	1	1	0	0
+cell-cell adhesion mediated by cadherin	GO_0044331	0	1	1	0	0
+cell-cell adhesion involved in synapse maturation	GO_0090125	0	1	1	0	0
+cell-cell adhesion involved in sealing an epithelial fold	GO_0060607	0	1	1	0	0
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	1	0	0
+cell-cell adhesion involved in neural tube closure	GO_0060608	0	1	1	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	0	1	1	0	0
+cell-cell adhesion involved in mannose-specific flocculation	GO_0098612	0	1	1	0	0
+cell-cell adhesion involved in gastrulation	GO_0070586	0	1	1	0	0
+cell-cell adhesion involved in galactose-specific flocculation	GO_0098611	0	1	1	0	0
+cell-cell adhesion involved in flocculation via cell wall protein-carbohydrate interaction	GO_0043690	0	1	1	0	0
+cell-cell adhesion involved in flocculation	GO_0043689	0	1	1	0	0
+cell-cell adhesion involved in establishment of planar polarity	GO_0090250	0	1	1	0	0
+cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	0	1	1	0	0
+cell-cell adhesion involved in ameboidal cell migration	GO_0003367	0	1	1	0	0
+cell-cell adhesion	GO_0098609	0	1	1	0	0
+cardioblast cell midline fusion	GO_0003317	0	1	1	0	0
+cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	0	1	1	0	0
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO_0086073	0	1	1	0	0
+atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	0	1	1	0	0
+agglutination involved in conjugation with mutual genetic exchange	GO_0000758	0	1	1	0	0
+agglutination involved in conjugation with cellular fusion	GO_0000752	0	1	1	0	0
+agglutination involved in conjugation	GO_0000771	0	1	1	0	0
+adhesion between unicellular organisms via cell-wall interaction	GO_0098741	0	1	1	0	0
+adhesion between unicellular organisms	GO_0098610	0	1	1	0	0
+T cell aggregation	GO_0070489	0	1	1	0	0
+SA node cell-atrial cardiac muscle cell adhesion involved in cell communication	GO_0086022	0	1	1	0	0
+Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication	GO_0086074	0	1	1	0	0
+B cell adhesion	GO_0097323	0	1	1	0	0
+AV node cell-bundle of His cell adhesion involved in cell communication	GO_0086072	0	1	1	0	0
