@@ -1,10 +1,12 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 keratinocyte proliferation	GO_0043616	1	1	1	0	0
 keratinocyte migration	GO_0051546	1	1	1	0	0
+keratinocyte differentiation	GO_0030216	1	1	1	0	0
+keratinocyte development	GO_0003334	1	1	1	0	0
 keratinocyte apoptotic process	GO_0097283	1	1	1	0	0
 keratinocyte activation	GO_0032980	1	1	1	0	0
 negative regulation of keratinocyte proliferation	GO_0010839	1	0	1	0	0
 negative regulation of keratinocyte migration	GO_0051548	1	0	1	0	0
 negative regulation of keratinocyte differentiation	GO_0045617	1	0	1	0	0
-keratinocyte differentiation	GO_0030216	1	0	1	0	0
-keratinocyte development	GO_0003334	1	0	1	0	0
+limb spinous cell differentiation	GO_0060890	0	1	0	0	0
+limb granular cell differentiation	GO_0060891	0	1	0	0	0

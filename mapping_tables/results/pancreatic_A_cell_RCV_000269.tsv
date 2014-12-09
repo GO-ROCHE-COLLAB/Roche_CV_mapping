@@ -1,4 +1,4 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-pancreatic A cell fate commitment	GO_0003326	1	0	1	0	0
-pancreatic A cell differentiation	GO_0003310	1	0	1	0	0
-pancreatic A cell development	GO_0003322	1	0	1	0	0
+pancreatic A cell fate commitment	GO_0003326	1	1	1	0	0
+pancreatic A cell differentiation	GO_0003310	1	1	1	0	0
+pancreatic A cell development	GO_0003322	1	1	1	0	0

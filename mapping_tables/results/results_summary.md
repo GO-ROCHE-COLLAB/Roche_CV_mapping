@@ -131,9 +131,9 @@
 
 #### pancreatic E cell RCV_000271
 * Key class: [pancreatic epsilon cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0005019)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a pancreatic epsilon cell participates or that occur in pancreatic epsilon cell
-* map summary: Roche_cvt: RCV_000271; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0005019; manual_list_count 3, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a pancreatic epsilon cell participates or that occur in pancreatic epsilon cell or which results in the developmental progression of a structure that will form pancreatic epsilon cell
+* map summary: Roche_cvt: RCV_000271; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0005019; manual_list_count 3, generated_list_count 2
 * [Results](pancreatic_E_cell_RCV_000271.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/187)
 * Status: open
@@ -328,9 +328,9 @@
 
 #### keratinocyte RCV_000213
 * Key class: [keratinocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000312)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a keratinocyte participates or that occur in keratinocyte
-* map summary: Roche_cvt: RCV_000213; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000312; manual_list_count 9, generated_list_count 4
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a keratinocyte participates or that occur in keratinocyte or which results in the developmental progression of a structure that will form keratinocyte
+* map summary: Roche_cvt: RCV_000213; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000312; manual_list_count 9, generated_list_count 8
 * [Results](keratinocyte_RCV_000213.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/142)
 * Status: open
@@ -477,9 +477,9 @@
 
 #### chemotaxis RCV_000134
 * Key class: [cell chemotaxis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060326)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for cell chemotaxis.
-* map summary: Roche_cvt: RCV_000134; class_expression GO_0060326; manual_list_count 2, generated_list_count 37
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: cell chemotaxis OR a part of cell chemotaxis OR a process that regulates cell chemotaxis
+* map summary: Roche_cvt: RCV_000134; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060326; manual_list_count 2, generated_list_count 95
 * [Results](chemotaxis_RCV_000134.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/249)
 * Status: open
@@ -569,9 +569,9 @@
 
 #### Notch signaling pathway RCV_000027
 * Key class: [Notch signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007219)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for Notch signaling pathway.
-* map summary: Roche_cvt: RCV_000027; class_expression GO_0007219; manual_list_count 10, generated_list_count 10
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: Notch signaling pathway OR a part of Notch signaling pathway OR a process that regulates Notch signaling pathway
+* map summary: Roche_cvt: RCV_000027; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007219; manual_list_count 10, generated_list_count 19
 * [Results](Notch_signaling_pathway_RCV_000027.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/48)
 * Status: open
@@ -759,9 +759,9 @@
 
 #### pancreatic PP cell RCV_000272
 * Key class: [pancreatic PP cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0002275)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a pancreatic PP cell participates or that occur in pancreatic PP cell
-* map summary: Roche_cvt: RCV_000272; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0002275; manual_list_count 3, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a pancreatic PP cell participates or that occur in pancreatic PP cell or which results in the developmental progression of a structure that will form pancreatic PP cell
+* map summary: Roche_cvt: RCV_000272; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0002275; manual_list_count 3, generated_list_count 2
 * [Results](pancreatic_PP_cell_RCV_000272.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/189)
 * Status: open
@@ -833,9 +833,9 @@
 
 #### cell morphogenesis RCV_000121
 * Key class: [cell morphogenesis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000902)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: cell morphogenesis OR a part of cell morphogenesis OR a process that regulates cell morphogenesis
-* map summary: Roche_cvt: RCV_000121; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0000902; manual_list_count 10, generated_list_count 284
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for cell morphogenesis.
+* map summary: Roche_cvt: RCV_000121; class_expression GO_0000902; manual_list_count 10, generated_list_count 66
 * [Results](cell_morphogenesis_RCV_000121.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -974,9 +974,9 @@
 
 #### pancreatic A cell RCV_000269
 * Key class: [pancreatic A cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000171)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a pancreatic A cell participates or that occur in pancreatic A cell
-* map summary: Roche_cvt: RCV_000269; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000171; manual_list_count 3, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a pancreatic A cell participates or that occur in pancreatic A cell or which results in the developmental progression of a structure that will form pancreatic A cell
+* map summary: Roche_cvt: RCV_000269; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000171; manual_list_count 3, generated_list_count 3
 * [Results](pancreatic_A_cell_RCV_000269.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/157)
 * Status: open
@@ -1064,9 +1064,9 @@
 
 #### pancreas B cells RCV_000265
 * Key class: [type B pancreatic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000169)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a type B pancreatic cell participates or that occur in type B pancreatic cell
-* map summary: Roche_cvt: RCV_000265; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000169; manual_list_count 1, generated_list_count 1
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a type B pancreatic cell participates or that occur in type B pancreatic cell or which results in the developmental progression of a structure that will form type B pancreatic cell
+* map summary: Roche_cvt: RCV_000265; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000169; manual_list_count 1, generated_list_count 5
 * [Results](pancreas_B_cells_RCV_000265.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/155)
 * Status: open
@@ -1623,9 +1623,9 @@
 
 #### pancreatic D cell RCV_000270
 * Key class: [pancreatic D cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000173)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a pancreatic D cell participates or that occur in pancreatic D cell
-* map summary: Roche_cvt: RCV_000270; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000173; manual_list_count 3, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a pancreatic D cell participates or that occur in pancreatic D cell or which results in the developmental progression of a structure that will form pancreatic D cell
+* map summary: Roche_cvt: RCV_000270; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000173; manual_list_count 3, generated_list_count 3
 * [Results](pancreatic_D_cell_RCV_000270.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/188)
 * Status: open

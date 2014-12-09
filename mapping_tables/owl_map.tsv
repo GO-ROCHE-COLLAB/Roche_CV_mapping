@@ -2,7 +2,7 @@ RCV_NAME	RCV_ID	Key Class Name	Key Class ID	Applied pattern	Notes	issue	issue_st
 nucleotide binding process	RCV_000253	nucleotide binding	GO_0000166	Equivalence	The manual mappings for this class are an odd Gimish. Ask for clarification of intent.		
 neutrophil	RCV_000248	neutrophil	CL_0000775	has_participant_or_occurs_in			
 pancreatic stellate cell	RCV_000273	pancreatic stellate cell	CL_0002410	has_participant_or_occurs_in			
-cell morphogenesis	RCV_000121	cell morphogenesis	GO_0000902	is_a_OR_part_of_OR_regulates			
+cell morphogenesis	RCV_000121	cell morphogenesis	GO_0000902	Equivalence			
 vessel development	RCV_000349	blood vessel development	GO_0001568	is_a_OR_part_of_OR_regulates			
 hypoxia	RCV_000194	response to hypoxia	GO_0001666	is_a_OR_part_of_OR_regulates			
 kidney function	RCV_000215	renal system process	GO_0003014	is_a_OR_part_of_OR_regulates			
@@ -250,7 +250,7 @@ TRAIL production	RCV_000043	TRAIL biosynthetic process	GO_0045553	Equivalence		6
 adenine metabolism	RCV_000048	adenine metabolic process	GO_0046083	Equivalence		76	open
 nitric oxide metabolism	RCV_000249	nitric oxide	CHEBI_16480	has_participant_chemical	Manual mapping is broader than metabolism - including signalling.	104	open
 calcium homeostasis	RCV_000093	calcium ion homeostasis	GO_0055074	Equivalence		254	open
-chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	Equivalence		249	open
+chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	is_a_OR_part_of_OR_regulates		249	open
 purine metabolism	RCV_000291	purine-containing compound metabolic process	GO_0072521	Equivalence	Manual mapping includes regulation terms - doesn't fit pattern for other metabolism terms.  Could switch pattern to include regulation terms, but should I?	96	open
 insulin metabolism	RCV_000202	insulin metabolic process	GO_1901142	Equivalence		103	open
 aminoacid metabolism	RCV_000058	alpha-amino acid metabolic process	GO_1901605	Equivalence		81	closed - mapping completed
@@ -262,15 +262,15 @@ T cells	RCV_000037	T cell	CL_0000084	has_participant_or_occurs_in	Also need infe
 granulocyte	RCV_000183	granulocyte	CL_0000094	has_participant_or_occurs_in		190	open
 mast cell	RCV_000230	mast cell	CL_0000097	has_participant_or_occurs_in		176	open
 stellate cell	RCV_000312	stellate cell	CL_0000122	has_participant_or_occurs_in		145	open
-pancreas B cells	RCV_000265	type B pancreatic cell	CL_0000169	has_participant_or_occurs_in		155	open
-pancreatic A cell	RCV_000269	pancreatic A cell	CL_0000171	has_participant_or_occurs_in		157	open
-pancreatic D cell	RCV_000270	pancreatic D cell	CL_0000173	has_participant_or_occurs_in		188	open
+pancreas B cells	RCV_000265	type B pancreatic cell	CL_0000169	CL_anat_super_query		155	open
+pancreatic A cell	RCV_000269	pancreatic A cell	CL_0000171	CL_anat_super_query		157	open
+pancreatic D cell	RCV_000270	pancreatic D cell	CL_0000173	CL_anat_super_query		188	open
 hepatocyte	RCV_000189	hepatocyte	CL_0000182	has_participant_or_occurs_in		211	open
 erythrocyte	RCV_000160	erythrocyte	CL_0000232	has_participant_or_occurs_in		167	open
 platelet	RCV_000281	platelet	CL_0000233	has_participant_or_occurs_in		141	open
 macrophage	RCV_000229	macrophage	CL_0000235	has_participant_or_occurs_in		149	open
 B cells	RCV_000001	B cell	CL_0000236	has_participant_or_occurs_in	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.	44	closed
-keratinocyte	RCV_000213	keratinocyte	CL_0000312	has_participant_or_occurs_in		142	open
+keratinocyte	RCV_000213	keratinocyte	CL_0000312	CL_anat_super_query		142	open
 dendritic cell	RCV_000141	dendritic cell	CL_0000451	has_participant_or_occurs_in	Misses regulation terms.  May be possible to tweak pattern to get these in.	242	open
 lymphocyte	RCV_000226	lymphocyte	CL_0000542	has_participant_or_occurs_in		150	open
 monocyte	RCV_000238	monocyte	CL_0000576	has_participant_or_occurs_in		174	open
@@ -279,8 +279,8 @@ hepatic stellate cell	RCV_000188	hepatic stellate cell	CL_0000632	has_participan
 mesangial cell	RCV_000232	mesangial cell	CL_0000650	has_participant_or_occurs_in		178	open
 basophil	RCV_000081	basophil	CL_0000767	has_participant_or_occurs_in		148	open
 eosinophil	RCV_000154	eosinophil	CL_0000771	has_participant_or_occurs_in		199	open
-pancreatic PP cell	RCV_000272	pancreatic PP cell	CL_0002275	has_participant_or_occurs_in		189	open
-pancreatic E cell	RCV_000271	pancreatic epsilon cell	CL_0005019	has_participant_or_occurs_in		187	open
+pancreatic PP cell	RCV_000272	pancreatic PP cell	CL_0002275	CL_anat_super_query		189	open
+pancreatic E cell	RCV_000271	pancreatic epsilon cell	CL_0005019	CL_anat_super_query		187	open
 cerebellar stellate cell	RCV_000132	cerebellar stellate cell	CL_0010010	has_participant_or_occurs_in		151	open
 vitamin A	RCV_000351	vitamin A	CHEBI_12777	has_participant_chemical		206	open
 acetylcholine	RCV_000047	acetylcholine	CHEBI_15355	has_participant_chemical		74	closed

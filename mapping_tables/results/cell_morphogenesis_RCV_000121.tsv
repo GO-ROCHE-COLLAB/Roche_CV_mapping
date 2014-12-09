@@ -10,158 +10,24 @@ cell morphogenesis	GO_0000902	1	1	1	0	0
 cellular morphogenesis involved in pheromone-induced unidirectional conjugation	GO_0000764	1	0	1	1	1
 cell morphogenesis involved in unidirectional conjugation	GO_0000763	1	0	1	1	1
 zygote elongation	GO_0080159	0	1	0	0	0
-vestibulospinal tract morphogenesis	GO_0021962	0	1	0	0	0
-vestibular receptor cell stereocilium organization	GO_0060121	0	1	0	0	0
 vestibular receptor cell morphogenesis	GO_0060116	0	1	0	0	0
 unidimensional cell growth	GO_0009826	0	1	0	0	0
 trophectodermal cellular morphogenesis	GO_0001831	0	1	0	0	0
-trigeminothalamic tract morphogenesis	GO_0021974	0	1	0	0	0
 trichome morphogenesis	GO_0010090	0	1	0	0	0
 trichome branching	GO_0010091	0	1	0	0	0
-termination of monopolar cell growth	GO_0051521	0	1	0	0	0
-termination of bipolar cell growth	GO_0051520	0	1	0	0	0
-tectospinal tract morphogenesis	GO_0021977	0	1	0	0	0
-tectobulbar tract morphogenesis	GO_0034429	0	1	0	0	0
-sympathetic neuron projection guidance	GO_0097491	0	1	0	0	0
-sympathetic neuron projection extension	GO_0097490	0	1	0	0	0
-sympathetic neuron axon guidance	GO_0097492	0	1	0	0	0
 substrate adhesion-dependent cell spreading	GO_0034446	0	1	0	0	0
-spinothalamic tract morphogenesis	GO_0021963	0	1	0	0	0
-spinal sensory neuron axon guidance	GO_0097375	0	1	0	0	0
-spinal cord ventral commissure morphogenesis	GO_0021965	0	1	0	0	0
-spinal cord interneuron axon guidance	GO_0097377	0	1	0	0	0
-sperm axoneme assembly	GO_0007288	0	1	0	0	0
-sensory neuron axon guidance	GO_0097374	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in neuron projection guidance	GO_1902285	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in dendrite guidance	GO_1902286	0	1	0	0	0
-semaphorin-plexin signaling pathway involved in axon guidance	GO_1902287	0	1	0	0	0
 seed trichome elongation	GO_0090378	0	1	0	0	0
-rubrospinal tract morphogenesis	GO_0021964	0	1	0	0	0
 root hair initiation	GO_0048766	0	1	0	0	0
 root hair cell tip growth	GO_0048768	0	1	0	0	0
-rhabdomere morphogenesis	GO_0061541	0	1	0	0	0
-retinal ganglion cell axon guidance	GO_0031290	0	1	0	0	0
-regulation of unidimensional cell growth	GO_0051510	0	1	0	0	0
-regulation of trichome morphogenesis	GO_2000039	0	1	0	0	0
-regulation of termination of mating projection growth	GO_0031385	0	1	0	0	0
-regulation of substrate adhesion-dependent cell spreading	GO_1900024	0	1	0	0	0
-regulation of retinal ganglion cell axon guidance	GO_0090259	0	1	0	0	0
-regulation of pollen tube growth	GO_0080092	0	1	0	0	0
-regulation of photoreceptor cell axon guidance	GO_2000289	0	1	0	0	0
-regulation of nonmotile primary cilium assembly	GO_1902855	0	1	0	0	0
-regulation of neural crest formation	GO_0090299	0	1	0	0	0
-regulation of monopolar cell growth	GO_0051513	0	1	0	0	0
-regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	0	1	0	0	0
-regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	0	1	0	0	0
-regulation of mating projection assembly	GO_0031383	0	1	0	0	0
-regulation of lamellipodium morphogenesis	GO_2000392	0	1	0	0	0
-regulation of initiation of mating projection growth	GO_0031384	0	1	0	0	0
-regulation of epithelial to mesenchymal transition	GO_0010717	0	1	0	0	0
-regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	0	0	0
-regulation of embryonic cell shape	GO_0016476	0	1	0	0	0
-regulation of direction of cell growth	GO_0061389	0	1	0	0	0
-regulation of dendritic spine morphogenesis	GO_0061001	0	1	0	0	0
-regulation of dendrite morphogenesis	GO_0048814	0	1	0	0	0
-regulation of collateral sprouting of intact axon in response to injury	GO_0048683	0	1	0	0	0
-regulation of collateral sprouting of injured axon	GO_0048693	0	1	0	0	0
-regulation of collateral sprouting in absence of injury	GO_0048696	0	1	0	0	0
-regulation of collateral sprouting	GO_0048670	0	1	0	0	0
-regulation of cilium assembly	GO_1902017	0	1	0	0	0
-regulation of cell shape involved in G1 to G0 transition	GO_1900528	0	1	0	0	0
-regulation of cell shape during vegetative growth phase	GO_0000903	0	1	0	0	0
-regulation of cell shape	GO_0008360	0	1	0	0	0
-regulation of cell morphogenesis involved in phenotypic switching	GO_1900447	0	1	0	0	0
-regulation of cell morphogenesis involved in differentiation	GO_0010769	0	1	0	0	0
-regulation of cell morphogenesis	GO_0022604	0	1	0	0	0
-regulation of bipolar cell growth	GO_0051516	0	1	0	0	0
-regulation of axonogenesis	GO_0050770	0	1	0	0	0
-regulation of axon guidance	GO_1902667	0	1	0	0	0
-regulation of axon extension involved in regeneration	GO_0048690	0	1	0	0	0
-regulation of axon extension involved in axon guidance	GO_0048841	0	1	0	0	0
-regulation of axon extension	GO_0030516	0	1	0	0	0
-regulation of axon diameter	GO_0031133	0	1	0	0	0
 posterior lateral line neuromast hair cell morphogenesis	GO_0035680	0	1	0	0	0
 posterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048942	0	1	0	0	0
-posterior commissure morphogenesis	GO_0021961	0	1	0	0	0
-positive regulation of unidimensional cell growth	GO_0051512	0	1	0	0	0
-positive regulation of substrate adhesion-dependent cell spreading	GO_1900026	0	1	0	0	0
-positive regulation of retinal ganglion cell axon guidance	GO_1902336	0	1	0	0	0
-positive regulation of nonmotile primary cilium assembly	GO_1902857	0	1	0	0	0
-positive regulation of neural crest formation	GO_0090300	0	1	0	0	0
-positive regulation of monopolar cell growth	GO_0051515	0	1	0	0	0
-positive regulation of mesodermal to mesenchymal transition involved in gastrulation	GO_0060808	0	1	0	0	0
-positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	0	1	0	0	0
-positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	0	1	0	0	0
-positive regulation of mating projection assembly	GO_1902917	0	1	0	0	0
-positive regulation of lamellipodium morphogenesis	GO_2000394	0	1	0	0	0
-positive regulation of epithelial to mesenchymal transition	GO_0010718	0	1	0	0	0
-positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	0	0	0
-positive regulation of direction of cell growth	GO_0061390	0	1	0	0	0
-positive regulation of dendritic spine morphogenesis	GO_0061003	0	1	0	0	0
-positive regulation of dendrite morphogenesis	GO_0050775	0	1	0	0	0
-positive regulation of collateral sprouting of intact axon in response to injury	GO_0048684	0	1	0	0	0
-positive regulation of collateral sprouting of injured axon	GO_0048694	0	1	0	0	0
-positive regulation of collateral sprouting in absence of injury	GO_0048697	0	1	0	0	0
-positive regulation of collateral sprouting	GO_0048672	0	1	0	0	0
-positive regulation of cilium assembly	GO_0045724	0	1	0	0	0
-positive regulation of cell morphogenesis involved in differentiation	GO_0010770	0	1	0	0	0
-positive regulation of bipolar cell growth	GO_0051518	0	1	0	0	0
-positive regulation of axonogenesis	GO_0050772	0	1	0	0	0
-positive regulation of axon guidance	GO_1902669	0	1	0	0	0
-positive regulation of axon extension involved in regeneration	GO_0048691	0	1	0	0	0
-positive regulation of axon extension involved in axon guidance	GO_0048842	0	1	0	0	0
-positive regulation of axon extension	GO_0045773	0	1	0	0	0
-pons reticulospinal tract morphogenesis	GO_0021975	0	1	0	0	0
 pollen tube growth	GO_0009860	0	1	0	0	0
 platelet morphogenesis	GO_0036344	0	1	0	0	0
-platelet formation	GO_0030220	0	1	0	0	0
 photoreceptor cell morphogenesis	GO_0008594	0	1	0	0	0
-photoreceptor cell axon guidance	GO_0072499	0	1	0	0	0
-peripheral nervous system neuron axonogenesis	GO_0048936	0	1	0	0	0
 ovarian follicle cell stalk formation	GO_0030713	0	1	0	0	0
 oocyte morphogenesis	GO_0048601	0	1	0	0	0
-olfactory bulb axon guidance	GO_0071678	0	1	0	0	0
-nonmotile primary cilium assembly	GO_0035058	0	1	0	0	0
-neuron projection morphogenesis	GO_0048812	0	1	0	0	0
-neuron projection guidance	GO_0097485	0	1	0	0	0
-neuron projection extension involved in neuron projection guidance	GO_1902284	0	1	0	0	0
-neuron projection extension	GO_1990138	0	1	0	0	0
 neuromast hair cell morphogenesis	GO_0035678	0	1	0	0	0
 neural crest formation	GO_0014029	0	1	0	0	0
-neural crest cell fate specification	GO_0014036	0	1	0	0	0
-neural crest cell fate determination	GO_0014035	0	1	0	0	0
-neural crest cell fate commitment	GO_0014034	0	1	0	0	0
-negative regulation of unidimensional cell growth	GO_0051511	0	1	0	0	0
-negative regulation of substrate adhesion-dependent cell spreading	GO_1900025	0	1	0	0	0
-negative regulation of retinal ganglion cell axon guidance	GO_0090260	0	1	0	0	0
-negative regulation of nonmotile primary cilium assembly	GO_1902856	0	1	0	0	0
-negative regulation of neural crest formation	GO_0090301	0	1	0	0	0
-negative regulation of monopolar cell growth	GO_0051514	0	1	0	0	0
-negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	0	1	0	0	0
-negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	0	1	0	0	0
-negative regulation of lamellipodium morphogenesis	GO_2000393	0	1	0	0	0
-negative regulation of epithelial to mesenchymal transition	GO_0010719	0	1	0	0	0
-negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	0	0	0
-negative regulation of direction of cell growth	GO_0061391	0	1	0	0	0
-negative regulation of dendritic spine morphogenesis	GO_0061002	0	1	0	0	0
-negative regulation of dendrite morphogenesis	GO_0050774	0	1	0	0	0
-negative regulation of collateral sprouting of intact axon in response to injury	GO_0048685	0	1	0	0	0
-negative regulation of collateral sprouting of injured axon	GO_0048695	0	1	0	0	0
-negative regulation of collateral sprouting in absence of injury	GO_0048698	0	1	0	0	0
-negative regulation of collateral sprouting	GO_0048671	0	1	0	0	0
-negative regulation of cilium assembly	GO_1902018	0	1	0	0	0
-negative regulation of cell morphogenesis involved in differentiation	GO_0010771	0	1	0	0	0
-negative regulation of bipolar cell growth	GO_0051517	0	1	0	0	0
-negative regulation of axonogenesis	GO_0050771	0	1	0	0	0
-negative regulation of axon guidance	GO_1902668	0	1	0	0	0
-negative regulation of axon extension involved in regeneration	GO_0048692	0	1	0	0	0
-negative regulation of axon extension involved in axon guidance	GO_0048843	0	1	0	0	0
-negative regulation of axon extension	GO_0030517	0	1	0	0	0
-myelination of posterior lateral line nerve axons	GO_0048932	0	1	0	0	0
-myelination of lateral line nerve axons	GO_0048897	0	1	0	0	0
-myelination of anterior lateral line nerve axons	GO_0048914	0	1	0	0	0
-motor neuron axon guidance	GO_0008045	0	1	0	0	0
-motile cilium assembly	GO_0044458	0	1	0	0	0
 monopolar cell growth	GO_0042814	0	1	0	0	0
 mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	0	0	0
 mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	0	0	0
@@ -170,26 +36,12 @@ mesenchymal to epithelial transition involved in metanephric renal vesicle forma
 mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	0	0	0
 mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	0	0	0
 mesenchymal to epithelial transition	GO_0060231	0	1	0	0	0
-medulla reticulospinal tract morphogenesis	GO_0021976	0	1	0	0	0
-mating projection assembly	GO_0031382	0	1	0	0	0
-maintenance of bipolar cell polarity regulating cell shape	GO_0061305	0	1	0	0	0
 lens fiber cell morphogenesis	GO_0070309	0	1	0	0	0
 lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048938	0	1	0	0	0
-lamellipodium morphogenesis	GO_0072673	0	1	0	0	0
-intraciliary transport involved in cilium morphogenesis	GO_0035735	0	1	0	0	0
-interneuron axon guidance	GO_0097376	0	1	0	0	0
 inner cell mass cellular morphogenesis	GO_0001828	0	1	0	0	0
-imaginal disc-derived wing hair outgrowth	GO_0035318	0	1	0	0	0
-imaginal disc-derived wing hair elongation	GO_0035319	0	1	0	0	0
 guard cell morphogenesis	GO_0010442	0	1	0	0	0
 growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	0	0	0
-gracilis tract morphogenesis	GO_0021958	0	1	0	0	0
 formation of radial glial scaffolds	GO_0021943	0	1	0	0	0
-establishment or maintenance of monopolar cell polarity regulating cell shape	GO_0061340	0	1	0	0	0
-establishment or maintenance of cell polarity regulating cell shape	GO_0071963	0	1	0	0	0
-establishment or maintenance of bipolar cell polarity regulating cell shape	GO_0061246	0	1	0	0	0
-establishment of cell polarity regulating cell shape	GO_0071964	0	1	0	0	0
-establishment of bipolar cell polarity involved in cell morphogenesis	GO_0061159	0	1	0	0	0
 epithelial to mesenchymal transition involved in endocardial cushion formation	GO_0003198	0	1	0	0	0
 epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	0	1	0	0	0
 epithelial to mesenchymal transition involved in cardiac fibroblast development	GO_0060940	0	1	0	0	0
@@ -204,84 +56,14 @@ endocardial cushion to mesenchymal transition involved in heart valve formation	
 endocardial cushion to mesenchymal transition involved in heart chamber septation	GO_0003200	0	1	0	0	0
 endocardial cushion to mesenchymal transition involved in cardiac skeleton development	GO_0003202	0	1	0	0	0
 endocardial cushion to mesenchymal transition	GO_0090500	0	1	0	0	0
-efferent axon development in posterior lateral line nerve	GO_0048929	0	1	0	0	0
-efferent axon development in anterior lateral line nerve	GO_0048911	0	1	0	0	0
-efferent axon development in a lateral line nerve	GO_0048894	0	1	0	0	0
-dorsal/ventral axon guidance	GO_0033563	0	1	0	0	0
-dorsal spinal cord interneuron posterior axon guidance	GO_0097379	0	1	0	0	0
-dorsal spinal cord interneuron axon guidance	GO_0097378	0	1	0	0	0
-dorsal spinal cord interneuron anterior axon guidance	GO_0097380	0	1	0	0	0
 dorsal closure, elongation of leading edge cells	GO_0007394	0	1	0	0	0
-dendritic spine morphogenesis	GO_0060997	0	1	0	0	0
-dendrite morphogenesis	GO_0048813	0	1	0	0	0
-dendrite guidance	GO_0070983	0	1	0	0	0
-dendrite extension	GO_0097484	0	1	0	0	0
-cytoneme morphogenesis	GO_0003399	0	1	0	0	0
-cytoneme assembly	GO_0035231	0	1	0	0	0
-cuneatus tract morphogenesis	GO_0021959	0	1	0	0	0
-corticospinal tract morphogenesis	GO_0021957	0	1	0	0	0
-corticospinal neuron axon guidance through the medullary pyramid	GO_0021971	0	1	0	0	0
-corticospinal neuron axon guidance through the internal capsule	GO_0021968	0	1	0	0	0
-corticospinal neuron axon guidance through the cerebral peduncle	GO_0021969	0	1	0	0	0
-corticospinal neuron axon guidance through the cerebral cortex	GO_0021967	0	1	0	0	0
-corticospinal neuron axon guidance through the basilar pons	GO_0021970	0	1	0	0	0
-corticospinal neuron axon guidance through spinal cord	GO_0021972	0	1	0	0	0
-corticospinal neuron axon guidance	GO_0021966	0	1	0	0	0
-corticospinal neuron axon decussation	GO_0021973	0	1	0	0	0
-corpus callosum morphogenesis	GO_0021540	0	1	0	0	0
-commissural neuron axon guidance	GO_0071679	0	1	0	0	0
-collateral sprouting of intact axon in response to injury	GO_0048673	0	1	0	0	0
-collateral sprouting of injured axon	GO_0048674	0	1	0	0	0
-collateral sprouting in absence of injury	GO_0048669	0	1	0	0	0
-collateral sprouting	GO_0048668	0	1	0	0	0
 clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	0	0	0
-cilium morphogenesis	GO_0060271	0	1	0	0	0
-cilium assembly	GO_0042384	0	1	0	0	0
 chondrocyte morphogenesis involved in endochondral bone morphogenesis	GO_0003414	0	1	0	0	0
 chondrocyte morphogenesis	GO_0090171	0	1	0	0	0
-chemorepulsion of branchiomotor neuron axon in neural tube	GO_0021787	0	1	0	0	0
-chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021790	0	1	0	0	0
-chemorepulsion of branchiomotor axon	GO_0021793	0	1	0	0	0
-chemorepulsion of axon	GO_0061643	0	1	0	0	0
-chemoattraction of branchiomotor neuron axon in neural tube	GO_0021788	0	1	0	0	0
-chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme	GO_0021791	0	1	0	0	0
-chemoattraction of branchiomotor axon	GO_0021792	0	1	0	0	0
-chemoattraction of axon	GO_0061642	0	1	0	0	0
-chemoattractant activity involved in axon guidance	GO_1902379	0	1	0	0	0
-central nervous system projection neuron axonogenesis	GO_0021952	0	1	0	0	0
-central nervous system neuron axonogenesis	GO_0021955	0	1	0	0	0
-central nervous system interneuron axonogenesis	GO_0021956	0	1	0	0	0
 cell tip growth	GO_0009932	0	1	0	0	0
-cell projection morphogenesis	GO_0048858	0	1	0	0	0
-cell growth mode switching, monopolar to bipolar	GO_0051523	0	1	0	0	0
-cell growth mode switching, bipolar to monopolar	GO_0051524	0	1	0	0	0
-cell growth involved in growth plate cartilage chondrocyte morphogenesis	GO_0003432	0	1	0	0	0
 cell elongation involved in imaginal disc-derived wing morphogenesis	GO_0090254	0	1	0	0	0
 cardiac epithelial to mesenchymal transition	GO_0060317	0	1	0	0	0
-branchiomotor neuron axon guidance in neural tube	GO_0021786	0	1	0	0	0
-branchiomotor neuron axon guidance in branchial arch mesenchyme	GO_0021789	0	1	0	0	0
-branchiomotor neuron axon guidance	GO_0021785	0	1	0	0	0
 bipolar cell growth	GO_0042815	0	1	0	0	0
-axonogenesis involved in innervation	GO_0060385	0	1	0	0	0
-axonogenesis	GO_0007409	0	1	0	0	0
-axoneme assembly	GO_0035082	0	1	0	0	0
-axon target recognition	GO_0007412	0	1	0	0	0
-axon midline choice point recognition	GO_0016199	0	1	0	0	0
-axon guidance receptor activity	GO_0008046	0	1	0	0	0
-axon guidance	GO_0007411	0	1	0	0	0
-axon extension involved in regeneration	GO_0048677	0	1	0	0	0
-axon extension involved in axon guidance	GO_0048846	0	1	0	0	0
-axon extension	GO_0048675	0	1	0	0	0
-axon choice point recognition	GO_0016198	0	1	0	0	0
-auditory receptor cell stereocilium organization	GO_0060088	0	1	0	0	0
 auditory receptor cell morphogenesis	GO_0002093	0	1	0	0	0
-apical constriction involved in gastrulation	GO_0003384	0	1	0	0	0
-apical constriction	GO_0003383	0	1	0	0	0
-anterior/posterior axon guidance	GO_0033564	0	1	0	0	0
 anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	0	0	0
 anterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048940	0	1	0	0	0
-anterior commissure morphogenesis	GO_0021960	0	1	0	0	0
-activation of monopolar cell growth	GO_0051522	0	1	0	0	0
-activation of bipolar cell growth	GO_0051519	0	1	0	0	0
-VEGF-activated neuropilin signaling pathway involved in axon guidance	GO_1902378	0	1	0	0	0
-Roundabout signaling pathway involved in axon guidance	GO_2001266	0	1	0	0	0

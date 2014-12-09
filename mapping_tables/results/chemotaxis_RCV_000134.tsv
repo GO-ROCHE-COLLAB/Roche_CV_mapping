@@ -1,9 +1,64 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 induction of positive chemotaxis	GO_0050930	1	0	1	0	0
 induction of negative chemotaxis	GO_0050929	1	0	1	0	0
+suppression by virus of host chemokine activity	GO_0039553	0	1	0	0	0
 smooth muscle cell chemotaxis	GO_0071670	0	1	0	0	0
+regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	0	0	0
+regulation of neutrophil chemotaxis	GO_0090022	0	1	0	0	0
+regulation of natural killer cell chemotaxis	GO_2000501	0	1	0	0	0
+regulation of myeloid dendritic cell chemotaxis	GO_2000527	0	1	0	0	0
+regulation of muscle cell chemotaxis toward tendon cell	GO_2001281	0	1	0	0	0
+regulation of monocyte chemotaxis	GO_0090025	0	1	0	0	0
+regulation of mast cell chemotaxis	GO_0060753	0	1	0	0	0
+regulation of macrophage chemotaxis	GO_0010758	0	1	0	0	0
+regulation of lymphocyte chemotaxis	GO_1901623	0	1	0	0	0
+regulation of leukocyte chemotaxis	GO_0002688	0	1	0	0	0
+regulation of granulocyte chemotaxis	GO_0071622	0	1	0	0	0
+regulation of eosinophil chemotaxis	GO_2000422	0	1	0	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
+regulation of dendritic cell chemotaxis	GO_2000508	0	1	0	0	0
+regulation of chemokine activity	GO_1900136	0	1	0	0	0
+regulation of astrocyte chemotaxis	GO_2000458	0	1	0	0	0
+regulation of T cell chemotaxis	GO_0010819	0	1	0	0	0
+regulation of B cell chemotaxis	GO_2000537	0	1	0	0	0
+positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	0	0	0
+positive regulation of neutrophil chemotaxis	GO_0090023	0	1	0	0	0
+positive regulation of natural killer cell chemotaxis	GO_2000503	0	1	0	0	0
+positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	0	1	0	0	0
+positive regulation of monocyte chemotaxis	GO_0090026	0	1	0	0	0
+positive regulation of mast cell chemotaxis	GO_0060754	0	1	0	0	0
+positive regulation of macrophage chemotaxis	GO_0010759	0	1	0	0	0
+positive regulation of leukocyte chemotaxis	GO_0002690	0	1	0	0	0
+positive regulation of granulocyte chemotaxis	GO_0071624	0	1	0	0	0
+positive regulation of eosinophil chemotaxis	GO_2000424	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
+positive regulation of dendritic cell chemotaxis	GO_2000510	0	1	0	0	0
+positive regulation of astrocyte chemotaxis	GO_2000464	0	1	0	0	0
+positive regulation of T cell chemotaxis	GO_0010820	0	1	0	0	0
+positive regulation of B cell chemotaxis	GO_2000538	0	1	0	0	0
 plasmacytoid dendritic cell chemotaxis	GO_0002410	0	1	0	0	0
 neutrophil chemotaxis	GO_0030593	0	1	0	0	0
+negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	0	0	0
+negative regulation of neutrophil chemotaxis	GO_0090024	0	1	0	0	0
+negative regulation of natural killer cell chemotaxis	GO_2000502	0	1	0	0	0
+negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	0	1	0	0	0
+negative regulation of muscle cell chemotaxis toward tendon cell	GO_2001282	0	1	0	0	0
+negative regulation of monocyte chemotaxis	GO_0090027	0	1	0	0	0
+negative regulation of mast cell chemotaxis	GO_0060755	0	1	0	0	0
+negative regulation of macrophage chemotaxis	GO_0010760	0	1	0	0	0
+negative regulation of lymphocyte chemotaxis	GO_1901624	0	1	0	0	0
+negative regulation of leukocyte chemotaxis	GO_0002689	0	1	0	0	0
+negative regulation of granulocyte chemotaxis	GO_0071623	0	1	0	0	0
+negative regulation of eosinophil chemotaxis	GO_2000423	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
+negative regulation of dendritic cell chemotaxis	GO_2000509	0	1	0	0	0
+negative regulation of chemokine activity	GO_1900137	0	1	0	0	0
+negative regulation of astrocyte chemotaxis	GO_2000459	0	1	0	0	0
+negative regulation of B cell chemotaxis	GO_2000550	0	1	0	0	0
 natural killer cell chemotaxis	GO_0035747	0	1	0	0	0
 myeloid dendritic cell chemotaxis	GO_0002408	0	1	0	0	0
 muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	0	0	0
@@ -25,6 +80,7 @@ endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
 endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
 dendritic cell chemotaxis	GO_0002407	0	1	0	0	0
 colon epithelial cell chemotaxis	GO_0061583	0	1	0	0	0
+chemokine activity	GO_0008009	0	1	0	0	0
 cell chemotaxis to fibroblast growth factor	GO_0035766	0	1	0	0	0
 cell chemotaxis to angiotensin	GO_0071434	0	1	0	0	0
 cell chemotaxis involved in Malpighian tubule morphogenesis	GO_0061352	0	1	0	0	0
@@ -35,6 +91,8 @@ T-helper 2 cell chemotaxis	GO_0035707	0	1	0	0	0
 T-helper 17 cell chemotaxis	GO_0035705	0	1	0	0	0
 T-helper 1 cell chemotaxis	GO_0035706	0	1	0	0	0
 T cell chemotaxis	GO_0010818	0	1	0	0	0
+Roundabout signaling pathway involved in muscle cell chemotaxis toward tendon cell	GO_2001283	0	1	0	0	0
 Langerhans cell chemotaxis	GO_0002409	0	1	0	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0
 B cell chemotaxis across high endothelial venule	GO_0035769	0	1	0	0	0
 B cell chemotaxis	GO_0035754	0	1	0	0	0

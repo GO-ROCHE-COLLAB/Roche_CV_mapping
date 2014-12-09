@@ -6,9 +6,17 @@ Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	1	1
 Notch signaling pathway involved in camera-type eye photoreceptor fate commitment	GO_0060227	1	1	1	0	0
 Notch signaling pathway	GO_0007219	1	1	1	0	0
 Notch signaling involved in heart development	GO_0061314	1	1	1	0	0
+Notch receptor processing, ligand-dependent	GO_0035333	1	1	1	0	0
 Notch receptor processing, ligand-independent	GO_0035334	1	0	1	0	0
-Notch receptor processing, ligand-dependent	GO_0035333	1	0	1	0	0
 Notch receptor processing	GO_0007220	1	0	1	0	0
+regulation of Notch signaling pathway involved in somitogenesis	GO_1902366	0	1	0	0	0
+regulation of Notch signaling pathway involved in heart induction	GO_0035480	0	1	0	0	0
+regulation of Notch signaling pathway	GO_0008593	0	1	0	0	0
+positive regulation of transcription of Notch receptor target	GO_0007221	0	1	0	0	0
+positive regulation of Notch signaling pathway involved in heart induction	GO_0035481	0	1	0	0	0
+positive regulation of Notch signaling pathway	GO_0045747	0	1	0	0	0
+negative regulation of Notch signaling pathway involved in somitogenesis	GO_1902367	0	1	0	0	0
+negative regulation of Notch signaling pathway	GO_0045746	0	1	0	0	0
 Notch signaling pathway involved in somitogenesis	GO_1902359	0	1	1	0	0
 Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment	GO_2000796	0	1	1	0	0
 Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	1	0	0
