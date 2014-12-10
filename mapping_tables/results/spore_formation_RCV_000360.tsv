@@ -105,4 +105,4 @@ alpha-glucan catabolic process involved in ascospore release from ascus	GO_00723
 akinete formation	GO_0034302	0	1	1	0	0
 aeciospore formation	GO_0075247	0	1	1	0	0
 actinomycete-type spore formation	GO_0034304	0	1	1	0	0
-MAPK cascade involved in ascospore formation	GO_1903695	0	1	0	0	0
+MAPK cascade involved in ascospore formation	GO_1903695	0	1	1	0	0
