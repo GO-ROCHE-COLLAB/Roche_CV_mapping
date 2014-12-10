@@ -1,2 +1,3 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 stellate cell precursor proliferation	GO_0021929	1	0	1	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0

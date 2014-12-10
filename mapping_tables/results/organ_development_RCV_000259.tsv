@@ -62,6 +62,7 @@ vagina development	GO_0060068	0	1	1	0	0
 uterus morphogenesis	GO_0061038	0	1	1	0	0
 uterus development	GO_0060065	0	1	1	0	0
 uterine wall growth	GO_0042702	0	1	1	0	0
+uterine gland development	GO_1903709	0	1	0	0	0
 uterine epithelium development	GO_0035847	0	1	1	0	0
 urinary bladder development	GO_0060157	0	1	1	0	0
 urethra epithelium development	GO_0061071	0	1	1	0	0
@@ -140,6 +141,7 @@ telencephalon astrocyte cell migration	GO_0022031	0	1	1	0	0
 taste bud morphogenesis	GO_0061194	0	1	1	0	0
 taste bud formation	GO_0061195	0	1	1	0	0
 taste bud development	GO_0061193	0	1	1	0	0
+tarsal gland development	GO_1903699	0	1	0	0	0
 tangential migration from the subventricular zone to the olfactory bulb	GO_0022028	0	1	1	0	0
 syncytiotrophoblast cell differentiation involved in labyrinthine layer development	GO_0060715	0	1	1	0	0
 symmetric radial glial cell division in forebrain	GO_0021865	0	1	1	0	0
@@ -636,6 +638,7 @@ regulation of imaginal disc growth	GO_0045570	0	1	1	0	0
 regulation of horizontal cell localization	GO_1902872	0	1	1	0	0
 regulation of hepatocyte proliferation	GO_2000345	0	1	1	0	0
 regulation of hepatocyte differentiation	GO_0070366	0	1	1	0	0
+regulation of hemopoiesis	GO_1903706	0	1	0	0	0
 regulation of hematopoietic stem cell proliferation	GO_1902033	0	1	1	0	0
 regulation of hematopoietic stem cell differentiation	GO_1902036	0	1	1	0	0
 regulation of hematopoietic progenitor cell differentiation	GO_1901532	0	1	1	0	0
@@ -1055,6 +1058,7 @@ positive regulation of imaginal disc growth	GO_0045572	0	1	1	0	0
 positive regulation of horizontal cell localization	GO_1902874	0	1	1	0	0
 positive regulation of hepatocyte proliferation	GO_2000347	0	1	1	0	0
 positive regulation of hepatocyte differentiation	GO_0070368	0	1	1	0	0
+positive regulation of hemopoiesis	GO_1903708	0	1	0	0	0
 positive regulation of hematopoietic stem cell proliferation	GO_1902035	0	1	1	0	0
 positive regulation of hematopoietic stem cell differentiation	GO_1902038	0	1	1	0	0
 positive regulation of hematopoietic progenitor cell differentiation	GO_1901534	0	1	1	0	0
@@ -1547,6 +1551,7 @@ negative regulation of imaginal disc growth	GO_0045571	0	1	1	0	0
 negative regulation of horizontal cell localization	GO_1902873	0	1	1	0	0
 negative regulation of hepatocyte proliferation	GO_2000346	0	1	1	0	0
 negative regulation of hepatocyte differentiation	GO_0070367	0	1	1	0	0
+negative regulation of hemopoiesis	GO_1903707	0	1	0	0	0
 negative regulation of hematopoietic stem cell proliferation	GO_1902034	0	1	1	0	0
 negative regulation of hematopoietic stem cell differentiation	GO_1902037	0	1	1	0	0
 negative regulation of hematopoietic progenitor cell differentiation	GO_1901533	0	1	1	0	0
@@ -2469,6 +2474,7 @@ establishment of floral organ orientation	GO_0048559	0	1	1	0	0
 establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	0	1	1	0	0
 establishment of cell polarity involved in growth plate cartilage chondrocyte division	GO_0003424	0	1	1	0	0
 establishment of Sertoli cell barrier	GO_0097368	0	1	1	0	0
+esophagus development	GO_1903702	0	1	0	0	0
 erythrocyte maturation	GO_0043249	0	1	1	0	0
 erythrocyte enucleation	GO_0043131	0	1	1	0	0
 erythrocyte differentiation	GO_0030218	0	1	1	0	0
@@ -3155,6 +3161,7 @@ adenohypophysis morphogenesis	GO_0048855	0	1	1	0	0
 adenohypophysis formation	GO_0048847	0	1	1	0	0
 adenohypophysis development	GO_0021984	0	1	1	0	0
 activin receptor signaling pathway involved in heart jogging	GO_0061372	0	1	1	0	0
+acinar cell of sebaceous gland differentiation	GO_1903680	0	1	0	0	0
 acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	1	0	0
 abducens nucleus development	GO_0021742	0	1	1	0	0
 Wnt-activated signaling pathway involved in forebrain neuron fate commitment	GO_0021881	0	1	1	0	0

@@ -309,6 +309,7 @@ mitotic spindle midzone assembly	GO_0051256	0	1	0	0	0
 mitotic spindle midzone	GO_1990023	0	1	0	0	0
 mitotic spindle microtubule	GO_1990498	0	1	0	0	0
 mitotic spindle disassembly	GO_0051228	0	1	0	0	0
+mitotic spindle astral microtubule	GO_0061673	0	1	0	0	0
 mitotic spindle	GO_0072686	0	1	0	0	0
 mitotic septin complex	GO_0032151	0	1	0	0	0
 mitotic ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
@@ -340,6 +341,7 @@ meiotic spindle organization	GO_0000212	0	1	0	0	0
 meiotic spindle midzone assembly	GO_0051257	0	1	0	0	0
 meiotic spindle midzone	GO_1990385	0	1	0	0	0
 meiotic spindle disassembly	GO_0051229	0	1	0	0	0
+meiotic spindle astral microtubule	GO_1990574	0	1	0	0	0
 meiotic spindle	GO_0072687	0	1	0	0	0
 meiotic septin complex	GO_0032152	0	1	0	0	0
 meiotic chromosome movement towards spindle pole	GO_0016344	0	1	0	0	0

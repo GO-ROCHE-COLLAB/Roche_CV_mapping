@@ -1,5 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 monocyte homeostasis	GO_0035702	1	1	1	0	0
+monocyte differentiation	GO_0030224	1	1	1	0	0
 monocyte chemotaxis	GO_0002548	1	1	1	0	0
 monocyte antigen processing and presentation	GO_0002471	1	1	1	0	0
 monocyte activation	GO_0042117	1	1	1	0	0
@@ -19,7 +20,6 @@ negative regulation of monocyte antigen processing and presentation	GO_0002614	1
 negative regulation of monocyte aggregation	GO_1900624	1	0	1	0	0
 monocyte migration into blood stream	GO_0035703	1	0	1	0	0
 monocyte extravasation	GO_0035696	1	0	1	0	0
-monocyte differentiation	GO_0030224	1	0	1	0	0
 monocyte chemotactic protein-1 production	GO_0071605	1	0	1	0	0
 monocyte aggregation	GO_0070487	1	0	1	0	0
 monocyte activation involved in immune response	GO_0002280	0	1	0	0	0

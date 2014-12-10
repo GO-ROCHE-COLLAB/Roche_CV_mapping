@@ -1,4 +1,5 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+granulocyte differentiation	GO_0030851	1	1	1	0	0
 granulocyte chemotaxis	GO_0071621	1	1	1	0	0
 granulocyte activation	GO_0036230	1	1	1	0	0
 eosinophil chemotaxis	GO_0048245	1	1	1	0	0
@@ -8,7 +9,6 @@ positive regulation of granulocyte differentiation	GO_0030854	1	0	1	0	0
 positive regulation of granulocyte colony-stimulating factor production	GO_0071657	1	0	1	0	0
 negative regulation of granulocyte differentiation	GO_0030853	1	0	1	0	0
 negative regulation of granulocyte colony-stimulating factor production	GO_0071656	1	0	1	0	0
-granulocyte differentiation	GO_0030851	1	0	1	0	0
 granulocyte colony-stimulating factor signaling pathway	GO_0038158	1	0	1	0	0
 granulocyte colony-stimulating factor production	GO_0071611	1	0	1	0	0
 type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
@@ -23,6 +23,7 @@ neutrophil mediated immunity	GO_0002446	0	1	1	0	0
 neutrophil mediated cytotoxicity	GO_0070942	0	1	1	0	0
 neutrophil homeostasis	GO_0001780	0	1	1	0	0
 neutrophil extravasation	GO_0072672	0	1	1	0	0
+neutrophil differentiation	GO_0030223	0	1	0	0	0
 neutrophil degranulation	GO_0043312	0	1	1	0	0
 neutrophil chemotaxis	GO_0030593	0	1	1	0	0
 neutrophil apoptotic process	GO_0001781	0	1	1	0	0
@@ -33,11 +34,15 @@ histamine secretion by basophil	GO_0002557	0	1	1	0	0
 granulocyte migration	GO_0097530	0	1	1	0	0
 eosinophil migration	GO_0072677	0	1	1	0	0
 eosinophil mediated immunity	GO_0002447	0	1	1	0	0
+eosinophil fate specification	GO_0035857	0	1	0	0	0
+eosinophil fate determination	GO_0035858	0	1	0	0	0
 eosinophil extravasation	GO_0072682	0	1	1	0	0
+eosinophil differentiation	GO_0030222	0	1	0	0	0
 eosinophil degranulation	GO_0043308	0	1	1	0	0
 eosinophil activation involved in immune response	GO_0002278	0	1	1	0	0
 eosinophil activation	GO_0043307	0	1	1	0	0
 basophil mediated immunity	GO_0002560	0	1	1	0	0
+basophil differentiation	GO_0030221	0	1	0	0	0
 basophil degranulation	GO_0002561	0	1	1	0	0
 basophil chemotaxis	GO_0002575	0	1	1	0	0
 basophil activation involved in immune response	GO_0002276	0	1	1	0	0

@@ -92,6 +92,7 @@ regulation of leukocyte cell-cell adhesion	GO_1903037	0	1	0	0	0
 regulation of homophilic cell adhesion	GO_1903385	0	1	0	0	0
 regulation of focal adhesion assembly	GO_0051893	0	1	0	0	0
 regulation of erythrocyte aggregation	GO_0034118	0	1	0	0	0
+regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903681	0	1	0	0	0
 regulation of cell-substrate adhesion	GO_0010810	0	1	0	0	0
 regulation of cell-matrix adhesion	GO_0001952	0	1	0	0	0
 regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	0	1	0	0	0
@@ -113,6 +114,7 @@ positive regulation of leukocyte cell-cell adhesion	GO_1903039	0	1	0	0	0
 positive regulation of homophilic cell adhesion	GO_1903387	0	1	0	0	0
 positive regulation of focal adhesion assembly	GO_0051894	0	1	0	0	0
 positive regulation of erythrocyte aggregation	GO_0034120	0	1	0	0	0
+positive regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903683	0	1	0	0	0
 positive regulation of cell-substrate adhesion	GO_0010811	0	1	0	0	0
 positive regulation of cell-matrix adhesion	GO_0001954	0	1	0	0	0
 positive regulation of cartilage condensation	GO_1902027	0	1	0	0	0
@@ -137,6 +139,7 @@ negative regulation of leukocyte tethering or rolling	GO_1903237	0	1	0	0	0
 negative regulation of leukocyte cell-cell adhesion	GO_1903038	0	1	0	0	0
 negative regulation of homophilic cell adhesion	GO_1903386	0	1	0	0	0
 negative regulation of erythrocyte aggregation	GO_0034119	0	1	0	0	0
+negative regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903682	0	1	0	0	0
 negative regulation of cell-substrate adhesion	GO_0010812	0	1	0	0	0
 negative regulation of cell-matrix adhesion	GO_0001953	0	1	0	0	0
 negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	0	0	0

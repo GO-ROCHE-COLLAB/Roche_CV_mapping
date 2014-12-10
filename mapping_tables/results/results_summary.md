@@ -20,10 +20,10 @@
 * Status: 
 
 #### leukocyte activation RCV_000220
-* Key class: [leukocyte activation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045321)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: leukocyte activation OR a part of leukocyte activation OR a process that regulates leukocyte activation
-* map summary: Roche_cvt: RCV_000220; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0045321; manual_list_count 18, generated_list_count 429
+* Key class: [leukocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000738)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a leukocyte participates or that occur in leukocyte or which results in the developmental progression of a structure that will form leukocyte
+* map summary: Roche_cvt: RCV_000220; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000738; manual_list_count 18, generated_list_count 397
 * [Results](leukocyte_activation_RCV_000220.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -106,7 +106,7 @@
 * Key class: [cell differentiation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030154)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for cell differentiation.
-* map summary: Roche_cvt: RCV_000115; class_expression GO_0030154; manual_list_count 17, generated_list_count 481
+* map summary: Roche_cvt: RCV_000115; class_expression GO_0030154; manual_list_count 17, generated_list_count 483
 * [Results](cell_differentiation_RCV_000115.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -122,9 +122,9 @@
 
 #### monocyte RCV_000238
 * Key class: [monocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000576)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a monocyte participates or that occur in monocyte
-* map summary: Roche_cvt: RCV_000238; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000576; manual_list_count 23, generated_list_count 5
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a monocyte participates or that occur in monocyte or which results in the developmental progression of a structure that will form monocyte
+* map summary: Roche_cvt: RCV_000238; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000576; manual_list_count 23, generated_list_count 6
 * [Results](monocyte_RCV_000238.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/174)
 * Status: open
@@ -142,8 +142,17 @@
 * Key class: [cell adhesion](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007155)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell adhesion OR a part of cell adhesion OR a process that regulates cell adhesion
-* map summary: Roche_cvt: RCV_000098; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007155; manual_list_count 76, generated_list_count 203
+* map summary: Roche_cvt: RCV_000098; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007155; manual_list_count 76, generated_list_count 206
 * [Results](cell_adhesion_RCV_000098.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### beta cells RCV_000083
+* Key class: [type B pancreatic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000169)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a type B pancreatic cell participates or that occur in type B pancreatic cell or which results in the developmental progression of a structure that will form type B pancreatic cell
+* map summary: Roche_cvt: RCV_000083; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000169; manual_list_count 6, generated_list_count 5
+* [Results](beta_cells_RCV_000083.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
 
@@ -310,9 +319,9 @@
 
 #### platelet RCV_000281
 * Key class: [platelet](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000233)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a platelet participates or that occur in platelet
-* map summary: Roche_cvt: RCV_000281; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000233; manual_list_count 12, generated_list_count 6
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a platelet participates or that occur in platelet or which results in the developmental progression of a structure that will form platelet
+* map summary: Roche_cvt: RCV_000281; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000233; manual_list_count 12, generated_list_count 7
 * [Results](platelet_RCV_000281.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/141)
 * Status: open
@@ -412,7 +421,7 @@
 * Key class: [cell motility](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048870)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell motility OR a part of cell motility OR a process that regulates cell motility
-* map summary: Roche_cvt: RCV_000122; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048870; manual_list_count 25, generated_list_count 489
+* map summary: Roche_cvt: RCV_000122; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048870; manual_list_count 25, generated_list_count 496
 * [Results](cell_motility_RCV_000122.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -428,9 +437,9 @@
 
 #### hepatic stellate cell RCV_000188
 * Key class: [hepatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000632)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a hepatic stellate cell participates or that occur in hepatic stellate cell
-* map summary: Roche_cvt: RCV_000188; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000632; manual_list_count 4, generated_list_count 1
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a hepatic stellate cell participates or that occur in hepatic stellate cell or which results in the developmental progression of a structure that will form hepatic stellate cell
+* map summary: Roche_cvt: RCV_000188; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000632; manual_list_count 4, generated_list_count 2
 * [Results](hepatic_stellate_cell_RCV_000188.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/212)
 * Status: open
@@ -495,9 +504,9 @@
 
 #### B cells RCV_000001
 * Key class: [B cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000236)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a B cell participates or that occur in B cell
-* map summary: Roche_cvt: RCV_000001; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000236; manual_list_count 124, generated_list_count 74
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a B cell participates or that occur in B cell or which results in the developmental progression of a structure that will form B cell
+* map summary: Roche_cvt: RCV_000001; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000236; manual_list_count 124, generated_list_count 76
 * Notes: Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.
 * [Results](B_cells_RCV_000001.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/44)
@@ -560,9 +569,9 @@
 
 #### myoblast RCV_000240
 * Key class: [myoblast](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000056)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a myoblast participates or that occur in myoblast
-* map summary: Roche_cvt: RCV_000240; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000056; manual_list_count 30, generated_list_count 5
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a myoblast participates or that occur in myoblast or which results in the developmental progression of a structure that will form myoblast
+* map summary: Roche_cvt: RCV_000240; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000056; manual_list_count 30, generated_list_count 19
 * [Results](myoblast_RCV_000240.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/215)
 * Status: open
@@ -632,9 +641,9 @@
 
 #### mast cell RCV_000230
 * Key class: [mast cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000097)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a mast cell participates or that occur in mast cell
-* map summary: Roche_cvt: RCV_000230; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000097; manual_list_count 43, generated_list_count 20
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a mast cell participates or that occur in mast cell or which results in the developmental progression of a structure that will form mast cell
+* map summary: Roche_cvt: RCV_000230; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000097; manual_list_count 43, generated_list_count 21
 * [Results](mast_cell_RCV_000230.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/176)
 * Status: open
@@ -643,7 +652,7 @@
 * Key class: [cell cycle](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007049)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell cycle OR a part of cell cycle OR a process that regulates cell cycle
-* map summary: Roche_cvt: RCV_000102; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007049; manual_list_count 87, generated_list_count 822
+* map summary: Roche_cvt: RCV_000102; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007049; manual_list_count 87, generated_list_count 827
 * [Results](cell_cycle_RCV_000102.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -652,16 +661,16 @@
 * Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
-* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 408
+* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 410
 * [Results](cytoskeleton_RCV_000139.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/234)
 * Status: open
 
 #### stem cell RCV_000313
 * Key class: [stem cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000034)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a stem cell participates or that occur in stem cell
-* map summary: Roche_cvt: RCV_000313; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000034; manual_list_count 20, generated_list_count 82
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a stem cell participates or that occur in stem cell or which results in the developmental progression of a structure that will form stem cell
+* map summary: Roche_cvt: RCV_000313; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000034; manual_list_count 20, generated_list_count 126
 * [Results](stem_cell_RCV_000313.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/146)
 * Status: open
@@ -670,7 +679,7 @@
 * Key class: [metal ion transport](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030001)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: metal ion transport OR a part of metal ion transport OR a process that regulates metal ion transport
-* map summary: Roche_cvt: RCV_000211; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030001; manual_list_count 3, generated_list_count 433
+* map summary: Roche_cvt: RCV_000211; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030001; manual_list_count 3, generated_list_count 434
 * [Results](ion_transport_RCV_000211.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -750,9 +759,9 @@
 
 #### oocyte RCV_000256
 * Key class: [oocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000023)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a oocyte participates or that occur in oocyte
-* map summary: Roche_cvt: RCV_000256; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000023; manual_list_count 18, generated_list_count 26
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a oocyte participates or that occur in oocyte or which results in the developmental progression of a structure that will form oocyte
+* map summary: Roche_cvt: RCV_000256; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000023; manual_list_count 18, generated_list_count 36
 * [Results](oocyte_RCV_000256.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/144)
 * Status: open
@@ -895,7 +904,7 @@
 * Key class: [wound healing](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042060)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: wound healing OR a part of wound healing OR a process that regulates wound healing
-* map summary: Roche_cvt: RCV_000356; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060; manual_list_count 12, generated_list_count 97
+* map summary: Roche_cvt: RCV_000356; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060; manual_list_count 12, generated_list_count 100
 * [Results](wound_healing_RCV_000356.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/23)
 * Status: open
@@ -929,9 +938,9 @@
 
 #### neutrophil RCV_000248
 * Key class: [neutrophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000775)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a neutrophil participates or that occur in neutrophil
-* map summary: Roche_cvt: RCV_000248; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000775; manual_list_count 46, generated_list_count 16
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a neutrophil participates or that occur in neutrophil or which results in the developmental progression of a structure that will form neutrophil
+* map summary: Roche_cvt: RCV_000248; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000775; manual_list_count 46, generated_list_count 17
 * [Results](neutrophil_RCV_000248.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -940,7 +949,7 @@
 * Key class: [organ development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048513)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: organ development OR a part of organ development OR a process that regulates organ development
-* map summary: Roche_cvt: RCV_000259; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3276
+* map summary: Roche_cvt: RCV_000259; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3283
 * [Results](organ_development_RCV_000259.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/119)
 * Status: closed - mapping completed
@@ -956,9 +965,9 @@
 
 #### NK cells RCV_000026
 * Key class: [natural killer cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000623)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a natural killer cell participates or that occur in natural killer cell
-* map summary: Roche_cvt: RCV_000026; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000623; manual_list_count 62, generated_list_count 17
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a natural killer cell participates or that occur in natural killer cell or which results in the developmental progression of a structure that will form natural killer cell
+* map summary: Roche_cvt: RCV_000026; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000623; manual_list_count 62, generated_list_count 17
 * [Results](NK_cells_RCV_000026.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/47)
 * Status: open
@@ -1012,7 +1021,7 @@
 * Key class: [MAPK cascade](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000165)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: MAPK cascade OR a part of MAPK cascade OR a process that regulates MAPK cascade
-* map summary: Roche_cvt: RCV_000022; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0000165; manual_list_count 37, generated_list_count 93
+* map summary: Roche_cvt: RCV_000022; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0000165; manual_list_count 37, generated_list_count 94
 * [Results](MAPK_signalling_RCV_000022.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/35)
 * Status: open
@@ -1048,7 +1057,7 @@
 * Key class: [meiotic nuclear division](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007126)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: meiotic nuclear division OR a part of meiotic nuclear division OR a process that regulates meiotic nuclear division
-* map summary: Roche_cvt: RCV_000231; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007126; manual_list_count 3, generated_list_count 192
+* map summary: Roche_cvt: RCV_000231; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007126; manual_list_count 3, generated_list_count 194
 * [Results](meiosis_RCV_000231.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/175)
 * Status: open
@@ -1120,16 +1129,16 @@
 * Key class: [oogenesis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048477)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: oogenesis OR a part of oogenesis OR a process that regulates oogenesis
-* map summary: Roche_cvt: RCV_000257; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048477; manual_list_count 4, generated_list_count 117
+* map summary: Roche_cvt: RCV_000257; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048477; manual_list_count 4, generated_list_count 120
 * [Results](oogenesis_RCV_000257.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/121)
 * Status: open
 
 #### eosinophil RCV_000154
 * Key class: [eosinophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000771)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a eosinophil participates or that occur in eosinophil
-* map summary: Roche_cvt: RCV_000154; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000771; manual_list_count 21, generated_list_count 7
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a eosinophil participates or that occur in eosinophil or which results in the developmental progression of a structure that will form eosinophil
+* map summary: Roche_cvt: RCV_000154; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000771; manual_list_count 21, generated_list_count 10
 * [Results](eosinophil_RCV_000154.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/199)
 * Status: open
@@ -1212,7 +1221,7 @@
 * Key class: [epithelial cell differentiation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030855)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for epithelial cell differentiation.
-* map summary: Roche_cvt: RCV_000155; class_expression GO_0030855; manual_list_count 46, generated_list_count 100
+* map summary: Roche_cvt: RCV_000155; class_expression GO_0030855; manual_list_count 46, generated_list_count 102
 * [Results](epithelial_cell_differentiation_RCV_000155.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1281,9 +1290,9 @@
 
 #### stellate cell RCV_000312
 * Key class: [stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000122)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a stellate cell participates or that occur in stellate cell
-* map summary: Roche_cvt: RCV_000312; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000122; manual_list_count 1, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a stellate cell participates or that occur in stellate cell or which results in the developmental progression of a structure that will form stellate cell
+* map summary: Roche_cvt: RCV_000312; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000122; manual_list_count 1, generated_list_count 1
 * [Results](stellate_cell_RCV_000312.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/145)
 * Status: open
@@ -1311,7 +1320,7 @@
 * Key class: [cell migration](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016477)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell migration OR a part of cell migration OR a process that regulates cell migration
-* map summary: Roche_cvt: RCV_000120; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016477; manual_list_count 15, generated_list_count 448
+* map summary: Roche_cvt: RCV_000120; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016477; manual_list_count 15, generated_list_count 455
 * [Results](cell_migration_RCV_000120.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1330,7 +1339,7 @@
 * Key class: [epithelial cell migration](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0010631)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: epithelial cell migration OR a part of epithelial cell migration OR a process that regulates epithelial cell migration
-* map summary: Roche_cvt: RCV_000156; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0010631; manual_list_count 15, generated_list_count 54
+* map summary: Roche_cvt: RCV_000156; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0010631; manual_list_count 15, generated_list_count 57
 * [Results](epithelial_cell_migration_RCV_000156.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1365,9 +1374,9 @@
 
 #### lymphocyte RCV_000226
 * Key class: [lymphocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000542)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a lymphocyte participates or that occur in lymphocyte
-* map summary: Roche_cvt: RCV_000226; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000542; manual_list_count 13, generated_list_count 242
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a lymphocyte participates or that occur in lymphocyte or which results in the developmental progression of a structure that will form lymphocyte
+* map summary: Roche_cvt: RCV_000226; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000542; manual_list_count 13, generated_list_count 256
 * [Results](lymphocyte_RCV_000226.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/150)
 * Status: open
@@ -1392,9 +1401,9 @@
 
 #### granulocyte RCV_000183
 * Key class: [granulocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000094)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a granulocyte participates or that occur in granulocyte
-* map summary: Roche_cvt: RCV_000183; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000094; manual_list_count 12, generated_list_count 34
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a granulocyte participates or that occur in granulocyte or which results in the developmental progression of a structure that will form granulocyte
+* map summary: Roche_cvt: RCV_000183; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000094; manual_list_count 12, generated_list_count 40
 * [Results](granulocyte_RCV_000183.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/190)
 * Status: open
@@ -1474,9 +1483,9 @@
 
 #### pancreatic stellate cell RCV_000273
 * Key class: [pancreatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0002410)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a pancreatic stellate cell participates or that occur in pancreatic stellate cell
-* map summary: Roche_cvt: RCV_000273; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0002410; manual_list_count 4, generated_list_count 1
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a pancreatic stellate cell participates or that occur in pancreatic stellate cell or which results in the developmental progression of a structure that will form pancreatic stellate cell
+* map summary: Roche_cvt: RCV_000273; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0002410; manual_list_count 4, generated_list_count 1
 * [Results](pancreatic_stellate_cell_RCV_000273.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1529,9 +1538,9 @@
 
 #### mesangial cell RCV_000232
 * Key class: [mesangial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000650)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a mesangial cell participates or that occur in mesangial cell
-* map summary: Roche_cvt: RCV_000232; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000650; manual_list_count 4, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a mesangial cell participates or that occur in mesangial cell or which results in the developmental progression of a structure that will form mesangial cell
+* map summary: Roche_cvt: RCV_000232; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000650; manual_list_count 4, generated_list_count 14
 * [Results](mesangial_cell_RCV_000232.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/178)
 * Status: open
@@ -1567,10 +1576,19 @@
 * Key class: [UDP-sugar](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17297)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some UDP-sugar participates.
-* map summary: Roche_cvt: RCV_000044; class_expression RO_0000057 some CHEBI_17297; manual_list_count 38, generated_list_count 38
+* map summary: Roche_cvt: RCV_000044; class_expression RO_0000057 some CHEBI_17297; manual_list_count 38, generated_list_count 39
 * [Results](UDP_metabolism_RCV_000044.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/69)
 * Status: closed - mapping completed
+
+#### Malpighian tubule stellate cell RCV_000023
+* Key class: [Malpighian tubule stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:1000155)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a Malpighian tubule stellate cell participates or that occur in Malpighian tubule stellate cell or which results in the developmental progression of a structure that will form Malpighian tubule stellate cell
+* map summary: Roche_cvt: RCV_000023; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_1000155; manual_list_count 1, generated_list_count 1
+* [Results](Malpighian_tubule_stellate_cell_RCV_000023.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/25)
+* Status: open
 
 #### FGF pathway RCV_000016
 * Key class: [fibroblast growth factor receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008543)
@@ -1673,9 +1691,9 @@
 
 #### erythrocyte RCV_000160
 * Key class: [erythrocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000232)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a erythrocyte participates or that occur in erythrocyte
-* map summary: Roche_cvt: RCV_000160; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000232; manual_list_count 7, generated_list_count 2
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a erythrocyte participates or that occur in erythrocyte or which results in the developmental progression of a structure that will form erythrocyte
+* map summary: Roche_cvt: RCV_000160; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000232; manual_list_count 7, generated_list_count 13
 * [Results](erythrocyte_RCV_000160.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/167)
 * Status: open
@@ -1684,7 +1702,7 @@
 * Key class: [cell division](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0051301)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell division OR a part of cell division OR a process that regulates cell division
-* map summary: Roche_cvt: RCV_000116; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0051301; manual_list_count 302, generated_list_count 317
+* map summary: Roche_cvt: RCV_000116; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0051301; manual_list_count 302, generated_list_count 318
 * Notes: Or map to cytokinesis?
 * [Results](cell_division_RCV_000116.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -1692,9 +1710,9 @@
 
 #### hepatocyte RCV_000189
 * Key class: [hepatocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000182)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a hepatocyte participates or that occur in hepatocyte
-* map summary: Roche_cvt: RCV_000189; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000182; manual_list_count 4, generated_list_count 2
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a hepatocyte participates or that occur in hepatocyte or which results in the developmental progression of a structure that will form hepatocyte
+* map summary: Roche_cvt: RCV_000189; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000182; manual_list_count 4, generated_list_count 3
 * [Results](hepatocyte_RCV_000189.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/211)
 * Status: open
@@ -1754,9 +1772,9 @@
 
 #### dendritic cell RCV_000141
 * Key class: [dendritic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000451)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a dendritic cell participates or that occur in dendritic cell
-* map summary: Roche_cvt: RCV_000141; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000451; manual_list_count 57, generated_list_count 25
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a dendritic cell participates or that occur in dendritic cell or which results in the developmental progression of a structure that will form dendritic cell
+* map summary: Roche_cvt: RCV_000141; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000451; manual_list_count 57, generated_list_count 27
 * Notes: Misses regulation terms.  May be possible to tweak pattern to get these in.
 * [Results](dendritic_cell_RCV_000141.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/242)
@@ -1773,9 +1791,9 @@
 
 #### basophil RCV_000081
 * Key class: [basophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000767)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a basophil participates or that occur in basophil
-* map summary: Roche_cvt: RCV_000081; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000767; manual_list_count 10, generated_list_count 8
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a basophil participates or that occur in basophil or which results in the developmental progression of a structure that will form basophil
+* map summary: Roche_cvt: RCV_000081; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000767; manual_list_count 10, generated_list_count 9
 * [Results](basophil_RCV_000081.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/148)
 * Status: open
@@ -1784,7 +1802,7 @@
 * Key class: [sporulation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0043934)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: sporulation OR a part of sporulation OR a process that regulates sporulation
-* map summary: Roche_cvt: RCV_000360; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0043934; manual_list_count 3, generated_list_count 104
+* map summary: Roche_cvt: RCV_000360; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0043934; manual_list_count 3, generated_list_count 105
 * [Results](spore_formation_RCV_000360.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/218)
 * Status: open
@@ -1868,9 +1886,9 @@
 
 #### cerebellar stellate cell RCV_000132
 * Key class: [cerebellar stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0010010)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a cerebellar stellate cell participates or that occur in cerebellar stellate cell
-* map summary: Roche_cvt: RCV_000132; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0010010; manual_list_count 1, generated_list_count 0
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a cerebellar stellate cell participates or that occur in cerebellar stellate cell or which results in the developmental progression of a structure that will form cerebellar stellate cell
+* map summary: Roche_cvt: RCV_000132; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0010010; manual_list_count 1, generated_list_count 1
 * [Results](cerebellar_stellate_cell_RCV_000132.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/151)
 * Status: open
@@ -1931,9 +1949,9 @@
 
 #### macrophage RCV_000229
 * Key class: [macrophage](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000235)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a macrophage participates or that occur in macrophage
-* map summary: Roche_cvt: RCV_000229; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000235; manual_list_count 67, generated_list_count 10
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a macrophage participates or that occur in macrophage or which results in the developmental progression of a structure that will form macrophage
+* map summary: Roche_cvt: RCV_000229; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000235; manual_list_count 67, generated_list_count 13
 * [Results](macrophage_RCV_000229.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/149)
 * Status: open
@@ -1985,9 +2003,9 @@
 
 #### epithelial cells RCV_000158
 * Key class: [epithelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000066)
-* Pattern: [has_participant_or_occurs_in](../../patterns/has_participant_or_occurs_in.md)
-* Definition: A process in which a epithelial cell participates or that occur in epithelial cell
-* map summary: Roche_cvt: RCV_000158; class_expression scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 some CL_0000066; manual_list_count 99, generated_list_count 79
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a epithelial cell participates or that occur in epithelial cell or which results in the developmental progression of a structure that will form epithelial cell
+* map summary: Roche_cvt: RCV_000158; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000066; manual_list_count 99, generated_list_count 271
 * [Results](epithelial_cells_RCV_000158.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/200)
 * Status: open

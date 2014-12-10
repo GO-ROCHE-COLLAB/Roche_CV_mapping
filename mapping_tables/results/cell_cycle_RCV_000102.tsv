@@ -206,6 +206,7 @@ regulation of mitotic cell cycle DNA replication	GO_1903463	0	1	0	0	0
 regulation of mitotic actomyosin contractile ring localization	GO_1902471	0	1	0	0	0
 regulation of mitotic actomyosin contractile ring contraction	GO_1903471	0	1	0	0	0
 regulation of mitotic actomyosin contractile ring assembly	GO_1903499	0	1	0	0	0
+regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903693	0	1	0	0	0
 regulation of mitotic DNA replication initiation	GO_1903466	0	1	0	0	0
 regulation of mitosis	GO_0007088	0	1	0	0	0
 regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902102	0	1	0	0	0
@@ -324,6 +325,7 @@ positive regulation of mitotic cell cycle phase transition	GO_1901992	0	1	0	0	0
 positive regulation of mitotic cell cycle DNA replication	GO_1903465	0	1	0	0	0
 positive regulation of mitotic actomyosin contractile ring contraction	GO_1903473	0	1	0	0	0
 positive regulation of mitotic actomyosin contractile ring assembly	GO_1903501	0	1	0	0	0
+positive regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903694	0	1	0	0	0
 positive regulation of mitosis	GO_0045840	0	1	0	0	0
 positive regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902104	0	1	0	0	0
 positive regulation of metaphase/anaphase transition of cell cycle	GO_1902101	0	1	0	0	0
@@ -502,6 +504,7 @@ mitotic cytokinetic process	GO_1902410	0	1	0	0	0
 mitotic cytokinetic cell separation	GO_1902409	0	1	0	0	0
 mitotic cytokinesis, site selection	GO_1902408	0	1	0	0	0
 mitotic cleavage furrow ingression	GO_1990386	0	1	0	0	0
+mitotic cleavage furrow formation	GO_1903673	0	1	0	0	0
 mitotic chromosome movement towards spindle pole	GO_0007079	0	1	0	0	0
 mitotic chromosome decondensation	GO_0007083	0	1	0	0	0
 mitotic chromosome condensation	GO_0007076	0	1	0	0	0
@@ -510,6 +513,9 @@ mitotic cell size control checkpoint	GO_0031567	0	1	0	0	0
 mitotic cell cycle, embryonic	GO_0045448	0	1	0	0	0
 mitotic cell cycle process	GO_1903047	0	1	0	0	0
 mitotic cell cycle phase transition	GO_0044772	0	1	0	0	0
+mitotic cell cycle arrest in response to pheromone	GO_0000751	0	1	0	0	0
+mitotic cell cycle arrest in response to nitrogen starvation	GO_0030996	0	1	0	0	0
+mitotic cell cycle arrest in response to glucose starvation	GO_0036226	0	1	0	0	0
 mitotic cell cycle arrest	GO_0071850	0	1	0	0	0
 mitotic anaphase-promoting complex activator activity	GO_0061636	0	1	0	0	0
 mitotic actomyosin contractile ring maintenance	GO_1902406	0	1	0	0	0
@@ -593,6 +599,7 @@ meiotic chromosome segregation	GO_0045132	0	1	0	0	0
 meiotic chromosome movement towards spindle pole	GO_0016344	0	1	0	0	0
 meiotic chromosome decondensation	GO_0051178	0	1	0	0	0
 meiotic chromosome condensation	GO_0010032	0	1	0	0	0
+meiotic centromere clustering	GO_1990571	0	1	0	0	0
 meiotic cell cycle process involved in oocyte maturation	GO_1903537	0	1	0	0	0
 meiotic cell cycle process	GO_1903046	0	1	0	0	0
 meiotic cell cycle phase transition	GO_0044771	0	1	0	0	0
@@ -744,9 +751,6 @@ cell plate formation involved in plant-type cell wall biogenesis	GO_0009920	0	1	
 cell plate assembly	GO_0000919	0	1	0	0	0
 cell cycle phase transition	GO_0044770	0	1	0	0	0
 cell cycle arrest of committed forebrain neuronal progenitor cell	GO_0021883	0	1	0	0	0
-cell cycle arrest in response to pheromone	GO_0000751	0	1	0	0	0
-cell cycle arrest in response to nitrogen starvation	GO_0030996	0	1	0	0	0
-cell cycle arrest in response to glucose starvation	GO_0036226	0	1	0	0	0
 cell cycle arrest in response to caffeine	GO_0072694	0	1	0	0	0
 cell cycle arrest	GO_0007050	0	1	0	0	0
 cell cycle G2/M phase transition	GO_0044839	0	1	0	0	0
@@ -809,6 +813,7 @@ actin filament reorganization involved in cell cycle	GO_0030037	0	1	0	0	0
 achiasmate meiosis I	GO_0000705	0	1	0	0	0
 Wnt signaling pathway, regulating spindle positioning	GO_0060069	0	1	0	0	0
 Okazaki fragment processing involved in mitotic DNA replication	GO_1903461	0	1	0	0	0
+MAPK cascade involved in ascospore formation	GO_1903695	0	1	0	0	0
 GINS complex assembly	GO_0071165	0	1	0	0	0
 G2/M transition of mitotic cell cycle	GO_0000086	0	1	0	0	0
 G2 cell size control checkpoint	GO_0031569	0	1	0	0	0

@@ -1,13 +1,17 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	1	1	1	0	0
 establishment of epithelial cell polarity	GO_0090162	1	1	1	0	0
 establishment of epithelial cell planar polarity	GO_0090163	1	1	1	0	0
 establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	1	1	1	0	0
 establishment of epithelial cell apical/basal polarity	GO_0045198	1	1	1	0	0
+epithelial cell development	GO_0002064	1	1	1	0	0
+columnar/cuboidal epithelial cell maturation	GO_0002069	1	1	1	0	0
+columnar/cuboidal epithelial cell differentiation	GO_0002065	1	1	1	0	0
+columnar/cuboidal epithelial cell development	GO_0002066	1	1	1	0	0
 urethra epithelium development	GO_0061071	1	0	1	0	0
 stromal-epithelial cell signaling involved in prostate gland development	GO_0044345	1	0	1	0	0
 sensory epithelium regeneration	GO_0070654	1	0	1	0	0
 seminal vesicle epithelium development	GO_0061108	1	0	1	0	0
-secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	1	0	1	0	0
 secretion by lung epithelial cell involved in lung growth	GO_0061033	1	0	1	0	0
 root epithelial mucilage metabolic process	GO_0048361	1	0	1	0	0
 root epithelial mucilage biosynthetic process	GO_0048356	1	0	1	0	0
@@ -85,44 +89,160 @@ epithelial structure maintenance	GO_0010669	1	0	1	0	0
 epithelial fluid transport	GO_0042045	1	0	1	0	0
 epithelial cilium movement involved in determination of left/right asymmetry	GO_0060287	1	0	1	0	0
 epithelial cilium movement	GO_0003351	1	0	1	0	0
-epithelial cell development	GO_0002064	1	0	1	0	0
 embryonic epithelial tube formation	GO_0001838	1	0	1	0	0
 dorsal/ventral axis specification, ovarian follicular epithelium	GO_0008069	1	0	1	0	0
 dichotomous subdivision of prostate epithelial cord terminal unit	GO_0060524	1	0	1	0	0
 dichotomous subdivision of an epithelial terminal unit	GO_0060600	1	0	1	0	0
-columnar/cuboidal epithelial cell maturation	GO_0002069	1	0	1	0	0
-columnar/cuboidal epithelial cell differentiation	GO_0002065	1	0	1	0	0
-columnar/cuboidal epithelial cell development	GO_0002066	1	0	1	0	0
 collagen and cuticulin-based cuticle attachment to epithelium	GO_0040004	1	0	1	0	0
 chitin-based cuticle attachment to epithelium	GO_0040005	1	0	1	0	0
 branched duct epithelial cell fate determination, open tracheal system	GO_0046845	1	0	1	0	0
 branch elongation of an epithelium	GO_0060602	1	0	1	0	0
 adhesion of symbiont to host epithelial cell	GO_0044651	1	0	1	0	0
+vestibular receptor cell differentiation	GO_0060114	0	1	0	0	0
 venous endothelial cell migration involved in lymph vessel development	GO_0060855	0	1	0	0	0
+venous endothelial cell fate commitment	GO_0060845	0	1	0	0	0
+venous endothelial cell differentiation	GO_0060843	0	1	0	0	0
 urothelial cell proliferation	GO_0050674	0	1	0	0	0
+ureter epithelial cell differentiation	GO_0072192	0	1	0	0	0
+type B pancreatic cell maturation	GO_0072560	0	1	0	0	0
+type B pancreatic cell fate commitment	GO_0003327	0	1	0	0	0
+type B pancreatic cell differentiation	GO_0003309	0	1	0	0	0
+type B pancreatic cell development	GO_0003323	0	1	0	0	0
 type B pancreatic cell apoptotic process	GO_0097050	0	1	0	0	0
+thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	0	0	0
+thyroid-stimulating hormone-secreting cell development	GO_0060130	0	1	0	0	0
+stomach neuroendocrine cell differentiation	GO_0061102	0	1	0	0	0
+squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	0	0	0
+sorocarp stalk cell differentiation	GO_0031149	0	1	0	0	0
+sebaceous gland cell differentiation	GO_0001949	0	1	0	0	0
+respiratory basal cell differentiation	GO_1902691	0	1	0	0	0
 regulation of secretion by asymmetric Golgi ribbon formation	GO_0090165	0	1	0	0	0
+pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	0	0	0
+posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	0	0	0
+polarized epithelial cell differentiation	GO_0030859	0	1	0	0	0
+peripheral mammary gland bud epithelial cell differentiation	GO_0060645	0	1	0	0	0
+pancreatic PP cell differentiation	GO_0003312	0	1	0	0	0
+pancreatic PP cell development	GO_0003325	0	1	0	0	0
+pancreatic D cell fate commitment	GO_0003328	0	1	0	0	0
+pancreatic D cell differentiation	GO_0003311	0	1	0	0	0
+pancreatic D cell development	GO_0003324	0	1	0	0	0
+pancreatic A cell fate commitment	GO_0003326	0	1	0	0	0
+pancreatic A cell differentiation	GO_0003310	0	1	0	0	0
+pancreatic A cell development	GO_0003322	0	1	0	0	0
 ovarian follicle cell migration	GO_0007297	0	1	0	0	0
+ovarian follicle cell development	GO_0030707	0	1	0	0	0
+odontoblast differentiation	GO_0071895	0	1	0	0	0
+neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	0	0	0
+neuromast hair cell differentiation	GO_0048886	0	1	0	0	0
+neuroepithelial cell differentiation	GO_0060563	0	1	0	0	0
+neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	0	0	0
+neuroendocrine cell differentiation	GO_0061101	0	1	0	0	0
+nephron tubule epithelial cell differentiation	GO_0072160	0	1	0	0	0
+multi-ciliated epithelial cell differentiation	GO_1903251	0	1	0	0	0
+metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	0	0	0
+metanephric glomerular visceral epithelial cell fate commitment	GO_0072250	0	1	0	0	0
+metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	0	0	0
+metanephric glomerular visceral epithelial cell development	GO_0072249	0	1	0	0	0
+metanephric glomerular parietal epithelial cell fate commitment	GO_0072247	0	1	0	0	0
+metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	0	0	0
+metanephric glomerular parietal epithelial cell development	GO_0072246	0	1	0	0	0
+metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	0	0	0
+metanephric glomerular mesangial cell development	GO_0072255	0	1	0	0	0
+metanephric glomerular epithelial cell fate commitment	GO_0072315	0	1	0	0	0
+metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	0	0	0
+metanephric glomerular epithelial cell development	GO_0072313	0	1	0	0	0
+mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	0	0	0
+mesonephric glomerular visceral epithelial cell fate commitment	GO_0061258	0	1	0	0	0
+mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	0	0	0
+mesonephric glomerular visceral epithelial cell development	GO_0061257	0	1	0	0	0
+mesonephric glomerular parietal epithelial cell fate commitment	GO_0061255	0	1	0	0	0
+mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	0	0	0
+mesonephric glomerular parietal epithelial cell development	GO_0061254	0	1	0	0	0
+mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	0	0	0
+mesonephric glomerular mesangial cell development	GO_0061263	0	1	0	0	0
+mesonephric glomerular epithelial cell fate commitment	GO_0061252	0	1	0	0	0
+mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	0	0	0
+mesonephric glomerular epithelial cell development	GO_0061251	0	1	0	0	0
+mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	0	0	0
+mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	0	1	0	0	0
+mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	0	1	0	0	0
+mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	0	0	0
+mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	0	0	0
+mesenchymal to epithelial transition	GO_0060231	0	1	0	0	0
 melanocyte proliferation	GO_0097325	0	1	0	0	0
 melanocyte migration	GO_0097324	0	1	0	0	0
+melanocyte differentiation	GO_0030318	0	1	0	0	0
 melanocyte apoptotic process	GO_1902362	0	1	0	0	0
 mammary gland epithelial cell proliferation	GO_0033598	0	1	0	0	0
+mammary gland epithelial cell differentiation	GO_0060644	0	1	0	0	0
 main body follicle cell migration	GO_0060270	0	1	0	0	0
+lymphatic endothelial cell fate commitment	GO_0060838	0	1	0	0	0
+lymphatic endothelial cell differentiation	GO_0060836	0	1	0	0	0
+lung secretory cell differentiation	GO_0061140	0	1	0	0	0
+lung neuroendocrine cell differentiation	GO_0061100	0	1	0	0	0
+lung goblet cell differentiation	GO_0060480	0	1	0	0	0
+lung epithelial cell differentiation	GO_0060487	0	1	0	0	0
+lung ciliated cell differentiation	GO_0061141	0	1	0	0	0
+limb spinous cell fate specification	GO_0060894	0	1	0	0	0
+limb spinous cell differentiation	GO_0060890	0	1	0	0	0
+limb granular cell fate specification	GO_0060893	0	1	0	0	0
+limb granular cell differentiation	GO_0060891	0	1	0	0	0
+limb basal epidermal cell fate specification	GO_0060892	0	1	0	0	0
+limb basal epidermal cell differentiation	GO_0060889	0	1	0	0	0
+lens fiber cell differentiation	GO_0070306	0	1	0	0	0
+lens fiber cell development	GO_0070307	0	1	0	0	0
 lens fiber cell apoptotic process	GO_1990086	0	1	0	0	0
 lens epithelial cell proliferation	GO_0097166	0	1	0	0	0
+leading edge cell fate determination	GO_0035028	0	1	0	0	0
+leading edge cell fate commitment	GO_0035027	0	1	0	0	0
+leading edge cell differentiation	GO_0035026	0	1	0	0	0
+late stripe melanocyte differentiation	GO_0050934	0	1	0	0	0
 keratinocyte proliferation	GO_0043616	0	1	0	0	0
 keratinocyte migration	GO_0051546	0	1	0	0	0
+keratinocyte differentiation	GO_0030216	0	1	0	0	0
+keratinocyte development	GO_0003334	0	1	0	0	0
 keratinocyte apoptotic process	GO_0097283	0	1	0	0	0
 keratinocyte activation	GO_0032980	0	1	0	0	0
 keratinization	GO_0031424	0	1	0	0	0
 intestinal epithelial cell migration	GO_0061582	0	1	0	0	0
+intestinal epithelial cell maturation	GO_0060574	0	1	0	0	0
+intestinal epithelial cell differentiation	GO_0060575	0	1	0	0	0
+intestinal epithelial cell development	GO_0060576	0	1	0	0	0
+interstitial cell of Cajal differentiation	GO_0061453	0	1	0	0	0
+internal mammary gland bud epithelial cell differentiation	GO_0060646	0	1	0	0	0
+histoblast morphogenesis	GO_0007488	0	1	0	0	0
 hepatocyte proliferation	GO_0072574	0	1	0	0	0
 hepatocyte homeostasis	GO_0036333	0	1	0	0	0
+hepatocyte differentiation	GO_0070365	0	1	0	0	0
 hepatocyte apoptotic process	GO_0097284	0	1	0	0	0
+hepatoblast differentiation	GO_0061017	0	1	0	0	0
+hair cell differentiation	GO_0035315	0	1	0	0	0
+granulosa cell fate commitment	GO_0060015	0	1	0	0	0
+granulosa cell differentiation	GO_0060014	0	1	0	0	0
+granulosa cell development	GO_0060016	0	1	0	0	0
 glomerular visceral epithelial cell migration	GO_0090521	0	1	0	0	0
+glomerular visceral epithelial cell fate commitment	GO_0072149	0	1	0	0	0
+glomerular visceral epithelial cell differentiation	GO_0072112	0	1	0	0	0
+glomerular visceral epithelial cell development	GO_0072015	0	1	0	0	0
 glomerular visceral epithelial cell apoptotic process	GO_1903210	0	1	0	0	0
+glomerular parietal epithelial cell fate commitment	GO_0072147	0	1	0	0	0
+glomerular parietal epithelial cell differentiation	GO_0072139	0	1	0	0	0
+glomerular parietal epithelial cell development	GO_0072016	0	1	0	0	0
+glomerular mesangial cell differentiation	GO_0072008	0	1	0	0	0
+glomerular mesangial cell development	GO_0072144	0	1	0	0	0
+glomerular epithelial cell fate commitment	GO_0072314	0	1	0	0	0
+glomerular epithelial cell differentiation	GO_0072311	0	1	0	0	0
+glomerular epithelial cell development	GO_0072310	0	1	0	0	0
+glandular epithelial cell maturation	GO_0002071	0	1	0	0	0
+glandular epithelial cell differentiation	GO_0002067	0	1	0	0	0
+glandular epithelial cell development	GO_0002068	0	1	0	0	0
 follicle cell microvillus organization	GO_0032529	0	1	0	0	0
 establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	0	0	0
+establishment of endothelial intestinal barrier	GO_0090557	0	1	0	0	0
+establishment of endothelial blood-brain barrier	GO_0014045	0	1	0	0	0
+establishment of endothelial barrier	GO_0061028	0	1	0	0	0
+establishment of blood-nerve barrier	GO_0008065	0	1	0	0	0
+establishment of Sertoli cell barrier	GO_0097368	0	1	0	0	0
 epithelial cell proliferation involved in salivary gland morphogenesis	GO_0060664	0	1	0	0	0
 epithelial cell proliferation involved in renal tubule morphogenesis	GO_2001013	0	1	0	0	0
 epithelial cell proliferation involved in prostatic bud elongation	GO_0060517	0	1	0	0	0
@@ -134,6 +254,9 @@ epithelial cell proliferation involved in lung bud dilation	GO_0060505	0	1	0	0	0
 epithelial cell proliferation involved in liver morphogenesis	GO_0072575	0	1	0	0	0
 epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	0	1	0	0	0
 epithelial cell proliferation	GO_0050673	0	1	0	0	0
+epithelial cell morphogenesis involved in placental branching	GO_0060672	0	1	0	0	0
+epithelial cell morphogenesis involved in gastrulation	GO_0003381	0	1	0	0	0
+epithelial cell morphogenesis	GO_0003382	0	1	0	0	0
 epithelial cell migration, open tracheal system	GO_0007427	0	1	0	0	0
 epithelial cell migration involved in proximal tubule morphogenesis	GO_0072159	0	1	0	0	0
 epithelial cell migration involved in nephron tubule morphogenesis	GO_0072155	0	1	0	0	0
@@ -145,15 +268,50 @@ epithelial cell migration involved in mesonephric nephron tubule morphogenesis	G
 epithelial cell migration involved in mesonephric distal tubule morphogenesis	GO_0061279	0	1	0	0	0
 epithelial cell migration involved in distal tubule morphogenesis	GO_0072157	0	1	0	0	0
 epithelial cell migration	GO_0010631	0	1	0	0	0
+epithelial cell maturation involved in salivary gland development	GO_0060691	0	1	0	0	0
+epithelial cell maturation involved in prostate gland development	GO_0060743	0	1	0	0	0
+epithelial cell maturation	GO_0002070	0	1	0	0	0
+epithelial cell fate determination, open tracheal system	GO_0007425	0	1	0	0	0
+epithelial cell fate commitment	GO_0072148	0	1	0	0	0
+epithelial cell differentiation involved in salivary gland development	GO_0060690	0	1	0	0	0
+epithelial cell differentiation involved in prostate gland development	GO_0060742	0	1	0	0	0
+epithelial cell differentiation involved in mammary gland cord morphogenesis	GO_0060653	0	1	0	0	0
+epithelial cell differentiation involved in mammary gland bud morphogenesis	GO_0060643	0	1	0	0	0
+epithelial cell differentiation involved in mammary gland alveolus development	GO_0061030	0	1	0	0	0
+epithelial cell differentiation involved in kidney development	GO_0035850	0	1	0	0	0
+epithelial cell differentiation involved in embryonic placenta development	GO_0060671	0	1	0	0	0
+epithelial cell differentiation	GO_0030855	0	1	0	0	0
+epidermal cell fate specification	GO_0009957	0	1	0	0	0
 epidermal cell division	GO_0010481	0	1	0	0	0
+epidermal cell differentiation	GO_0009913	0	1	0	0	0
+epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	0	0	0
+enteroendocrine cell differentiation	GO_0035883	0	1	0	0	0
+enterocyte differentiation	GO_1903703	0	1	0	0	0
+endothelial tip cell fate specification	GO_0097102	0	1	0	0	0
+endothelial stalk cell fate specification	GO_0097103	0	1	0	0	0
 endothelial cell proliferation	GO_0001935	0	1	0	0	0
+endothelial cell morphogenesis	GO_0001886	0	1	0	0	0
 endothelial cell migration	GO_0043542	0	1	0	0	0
+endothelial cell fate specification	GO_0060847	0	1	0	0	0
+endothelial cell fate determination	GO_0060848	0	1	0	0	0
+endothelial cell fate commitment	GO_0060839	0	1	0	0	0
+endothelial cell differentiation	GO_0045446	0	1	0	0	0
+endothelial cell development	GO_0001885	0	1	0	0	0
 endothelial cell chemotaxis to fibroblast growth factor	GO_0035768	0	1	0	0	0
 endothelial cell chemotaxis	GO_0035767	0	1	0	0	0
 endothelial cell apoptotic process	GO_0072577	0	1	0	0	0
 endothelial cell activation within high endothelial venule involved in immune response	GO_0002259	0	1	0	0	0
 endothelial cell activation involved in immune response	GO_0002264	0	1	0	0	0
 endothelial cell activation	GO_0042118	0	1	0	0	0
+endocardial cushion cell fate commitment	GO_0061445	0	1	0	0	0
+endocardial cell fate commitment	GO_0060957	0	1	0	0	0
+endocardial cell differentiation	GO_0060956	0	1	0	0	0
+endocardial cell development	GO_0060958	0	1	0	0	0
+early stripe melanocyte differentiation	GO_0050933	0	1	0	0	0
+dorsal closure, leading edge cell fate determination	GO_0007393	0	1	0	0	0
+dorsal closure, leading edge cell fate commitment	GO_0035029	0	1	0	0	0
+dorsal closure, leading edge cell differentiation	GO_0046663	0	1	0	0	0
+cumulus cell differentiation	GO_0001549	0	1	0	0	0
 cornification	GO_0070268	0	1	0	0	0
 corneal epithelial cell migration	GO_0061581	0	1	0	0	0
 colon epithelial cell migration	GO_0061580	0	1	0	0	0
@@ -163,13 +321,42 @@ centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
 cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0	0
 cell migration involved in prostatic bud elongation	GO_0060518	0	1	0	0	0
 cell migration involved in mammary placode formation	GO_0060619	0	1	0	0	0
+carotid body glomus cell differentiation	GO_0061103	0	1	0	0	0
+cardiac endothelial cell differentiation	GO_0003348	0	1	0	0	0
+cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	0	0	0
 border follicle cell migration	GO_0007298	0	1	0	0	0
 border follicle cell delamination	GO_0030709	0	1	0	0	0
 blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	0	0	0
 blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0	0
 blood vessel endothelial cell migration	GO_0043534	0	1	0	0	0
+blood vessel endothelial cell fate specification	GO_0097101	0	1	0	0	0
+blood vessel endothelial cell fate commitment	GO_0060846	0	1	0	0	0
+blood vessel endothelial cell differentiation	GO_0060837	0	1	0	0	0
 blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment	GO_1902354	0	1	0	0	0
 blood vessel endothelial cell delamination	GO_0097497	0	1	0	0	0
+auditory receptor cell morphogenesis	GO_0002093	0	1	0	0	0
+auditory receptor cell fate specification	GO_0042667	0	1	0	0	0
+auditory receptor cell fate determination	GO_0042668	0	1	0	0	0
+auditory receptor cell fate commitment	GO_0009912	0	1	0	0	0
+auditory receptor cell differentiation	GO_0042491	0	1	0	0	0
+auditory receptor cell development	GO_0060117	0	1	0	0	0
+atrichoblast fate specification	GO_0010056	0	1	0	0	0
 asymmetric Golgi ribbon formation	GO_0090164	0	1	0	0	0
+arterial endothelial cell fate commitment	GO_0060844	0	1	0	0	0
+arterial endothelial cell differentiation	GO_0060842	0	1	0	0	0
+anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	0	0	0
+ameloblast differentiation	GO_0036305	0	1	0	0	0
+adrenal chromaffin cell differentiation	GO_0061104	0	1	0	0	0
+acinar cell of sebaceous gland differentiation	GO_1903680	0	1	0	0	0
+acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	0	0	0
+acinar cell differentiation	GO_0090425	0	1	0	0	0
+Type II pneumocyte differentiation	GO_0060510	0	1	0	0	0
+Type I pneumocyte differentiation	GO_0060509	0	1	0	0	0
 Sertoli cell proliferation	GO_0060011	0	1	0	0	0
+Sertoli cell fate commitment	GO_0060010	0	1	0	0	0
+Sertoli cell differentiation	GO_0060008	0	1	0	0	0
+Sertoli cell development	GO_0060009	0	1	0	0	0
 Sertoli cell apoptotic process	GO_1902484	0	1	0	0	0
+Malpighian tubule stellate cell differentiation	GO_0061330	0	1	0	0	0
+Malpighian tubule principal cell differentiation	GO_0061329	0	1	0	0	0
+Clara cell differentiation	GO_0060486	0	1	0	0	0

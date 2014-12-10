@@ -56,6 +56,7 @@ smooth muscle cell migration	GO_0014909	0	1	1	0	0
 smooth muscle cell chemotaxis	GO_0071670	0	1	1	0	0
 skeletal muscle satellite cell migration	GO_1902766	0	1	1	0	0
 rhombomere cell migration	GO_0022035	0	1	1	0	0
+regulation of wound healing, spreading of epidermal cells	GO_1903689	0	1	0	0	0
 regulation of trophoblast cell migration	GO_1901163	0	1	1	0	0
 regulation of thymocyte migration	GO_2000410	0	1	1	0	0
 regulation of sperm motility	GO_1901317	0	1	1	0	0
@@ -103,6 +104,7 @@ regulation of cell motility involved in somitogenic axis elongation	GO_0090249	0
 regulation of cell motility	GO_2000145	0	1	1	0	0
 regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	1	0	0
 regulation of cell migration	GO_0030334	0	1	1	0	0
+regulation of border follicle cell migration	GO_1903684	0	1	0	0	0
 regulation of blood vessel endothelial cell migration	GO_0043535	0	1	1	0	0
 regulation of bacterial-type flagellum-dependent cell motility	GO_1902021	0	1	1	0	0
 regulation of astrocyte chemotaxis	GO_2000458	0	1	1	0	0
@@ -122,6 +124,7 @@ proepicardium cell migration involved in pericardium morphogenesis	GO_0003345	0	
 postnatal olfactory bulb interneuron migration	GO_0021827	0	1	1	0	0
 posterior lateral line neuromast primordium migration	GO_0048920	0	1	1	0	0
 posterior lateral line neuromast deposition	GO_0048922	0	1	1	0	0
+positive regulation of wound healing, spreading of epidermal cells	GO_1903691	0	1	0	0	0
 positive regulation of trophoblast cell migration	GO_1901165	0	1	1	0	0
 positive regulation of thymocyte migration	GO_2000412	0	1	1	0	0
 positive regulation of sperm motility involved in capacitation	GO_0060474	0	1	1	0	0
@@ -170,6 +173,7 @@ positive regulation of cell migration in other organism	GO_0044623	0	1	1	0	0
 positive regulation of cell migration by vascular endothelial growth factor signaling pathway	GO_0038089	0	1	1	0	0
 positive regulation of cell migration by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038090	0	1	1	0	0
 positive regulation of cell migration	GO_0030335	0	1	1	0	0
+positive regulation of border follicle cell migration	GO_1903688	0	1	0	0	0
 positive regulation of blood vessel endothelial cell migration	GO_0043536	0	1	1	0	0
 positive regulation of astrocyte chemotaxis	GO_2000464	0	1	1	0	0
 positive regulation of T-helper 17 cell extravasation	GO_2000457	0	1	1	0	0
@@ -207,6 +211,7 @@ neural crest cell migration involved in sympathetic nervous system development	G
 neural crest cell migration involved in heart formation	GO_0003147	0	1	1	0	0
 neural crest cell migration involved in autonomic nervous system development	GO_1901166	0	1	1	0	0
 neural crest cell migration	GO_0001755	0	1	1	0	0
+negative regulation of wound healing, spreading of epidermal cells	GO_1903690	0	1	0	0	0
 negative regulation of trophoblast cell migration	GO_1901164	0	1	1	0	0
 negative regulation of thymocyte migration	GO_2000411	0	1	1	0	0
 negative regulation of sperm motility	GO_1901318	0	1	1	0	0
@@ -256,6 +261,7 @@ negative regulation of cell migration in other organism	GO_0044622	0	1	1	0	0
 negative regulation of cell migration	GO_0030336	0	1	1	0	0
 negative regulation of cell adhesion involved in substrate-bound cell migration	GO_0006933	0	1	1	0	0
 negative regulation of cell adhesion in ventricular zone	GO_0021804	0	1	1	0	0
+negative regulation of border follicle cell migration	GO_1903687	0	1	0	0	0
 negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	1	0	0
 negative regulation of bacterial-type flagellum-dependent cell motility	GO_1902201	0	1	1	0	0
 negative regulation of astrocyte chemotaxis	GO_2000459	0	1	1	0	0
@@ -288,6 +294,7 @@ modulation of cell migration in other organism	GO_0044621	0	1	1	0	0
 metanephric mesenchymal cell migration	GO_0035789	0	1	1	0	0
 mesonephric cell migration involved in male gonad development	GO_0061457	0	1	1	0	0
 mesodermal cell migration	GO_0008078	0	1	1	0	0
+mesoderm migration involved in gastrulation	GO_0007509	0	1	0	0	0
 mesenchymal stem cell migration involved in uteric bud morphogenesis	GO_0061456	0	1	1	0	0
 mesenchymal cell migration involved in limb bud formation	GO_0035322	0	1	1	0	0
 mesenchymal cell migration	GO_0090497	0	1	1	0	0

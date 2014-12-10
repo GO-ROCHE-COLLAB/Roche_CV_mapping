@@ -740,6 +740,7 @@ RCV_000044	UDP metabolism	GO_0035528	UDP-N-acetylglucosamine biosynthesis involv
 RCV_000044	UDP metabolism	GO_0006048	UDP-N-acetylglucosamine biosynthetic process
 RCV_000044	UDP metabolism	GO_0006049	UDP-N-acetylglucosamine catabolic process
 RCV_000044	UDP metabolism	GO_0006047	UDP-N-acetylglucosamine metabolic process
+RCV_000044	UDP metabolism	GO_1990569	UDP-N-acetylglucosamine transmembrane transport
 RCV_000044	UDP metabolism	GO_0005462	UDP-N-acetylglucosamine transmembrane transporter activity
 RCV_000044	UDP metabolism	GO_0015788	UDP-N-acetylglucosamine transport
 RCV_000044	UDP metabolism	GO_0097624	UDP-galactose transmembrane import into Golgi lumen
@@ -2980,6 +2981,7 @@ RCV_000259	organ development	GO_0060071	Wnt signaling pathway, planar cell polar
 RCV_000259	organ development	GO_0021881	Wnt-activated signaling pathway involved in forebrain neuron fate commitment
 RCV_000259	organ development	GO_0021742	abducens nucleus development
 RCV_000259	organ development	GO_0060704	acinar cell differentiation involved in salivary gland development
+RCV_000259	organ development	GO_1903680	acinar cell of sebaceous gland differentiation
 RCV_000259	organ development	GO_0061372	activin receptor signaling pathway involved in heart jogging
 RCV_000259	organ development	GO_0021984	adenohypophysis development
 RCV_000259	organ development	GO_0048847	adenohypophysis formation
@@ -3666,6 +3668,7 @@ RCV_000259	organ development	GO_0048821	erythrocyte development
 RCV_000259	organ development	GO_0030218	erythrocyte differentiation
 RCV_000259	organ development	GO_0043131	erythrocyte enucleation
 RCV_000259	organ development	GO_0043249	erythrocyte maturation
+RCV_000259	organ development	GO_1903702	esophagus development
 RCV_000259	organ development	GO_0097368	establishment of Sertoli cell barrier
 RCV_000259	organ development	GO_0003424	establishment of cell polarity involved in growth plate cartilage chondrocyte division
 RCV_000259	organ development	GO_0003412	establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis
@@ -4588,6 +4591,7 @@ RCV_000259	organ development	GO_1901208	negative regulation of heart looping
 RCV_000259	organ development	GO_1901533	negative regulation of hematopoietic progenitor cell differentiation
 RCV_000259	organ development	GO_1902037	negative regulation of hematopoietic stem cell differentiation
 RCV_000259	organ development	GO_1902034	negative regulation of hematopoietic stem cell proliferation
+RCV_000259	organ development	GO_1903707	negative regulation of hemopoiesis
 RCV_000259	organ development	GO_0070367	negative regulation of hepatocyte differentiation
 RCV_000259	organ development	GO_2000346	negative regulation of hepatocyte proliferation
 RCV_000259	organ development	GO_1902873	negative regulation of horizontal cell localization
@@ -5086,6 +5090,7 @@ RCV_000259	organ development	GO_1901209	positive regulation of heart looping
 RCV_000259	organ development	GO_1901534	positive regulation of hematopoietic progenitor cell differentiation
 RCV_000259	organ development	GO_1902038	positive regulation of hematopoietic stem cell differentiation
 RCV_000259	organ development	GO_1902035	positive regulation of hematopoietic stem cell proliferation
+RCV_000259	organ development	GO_1903708	positive regulation of hemopoiesis
 RCV_000259	organ development	GO_0070368	positive regulation of hepatocyte differentiation
 RCV_000259	organ development	GO_2000347	positive regulation of hepatocyte proliferation
 RCV_000259	organ development	GO_1902874	positive regulation of horizontal cell localization
@@ -5505,6 +5510,7 @@ RCV_000259	organ development	GO_2000826	regulation of heart morphogenesis
 RCV_000259	organ development	GO_1901532	regulation of hematopoietic progenitor cell differentiation
 RCV_000259	organ development	GO_1902036	regulation of hematopoietic stem cell differentiation
 RCV_000259	organ development	GO_1902033	regulation of hematopoietic stem cell proliferation
+RCV_000259	organ development	GO_1903706	regulation of hemopoiesis
 RCV_000259	organ development	GO_0070366	regulation of hepatocyte differentiation
 RCV_000259	organ development	GO_2000345	regulation of hepatocyte proliferation
 RCV_000259	organ development	GO_1902872	regulation of horizontal cell localization
@@ -6001,6 +6007,7 @@ RCV_000259	organ development	GO_0048795	swim bladder morphogenesis
 RCV_000259	organ development	GO_0021865	symmetric radial glial cell division in forebrain
 RCV_000259	organ development	GO_0060715	syncytiotrophoblast cell differentiation involved in labyrinthine layer development
 RCV_000259	organ development	GO_0022028	tangential migration from the subventricular zone to the olfactory bulb
+RCV_000259	organ development	GO_1903699	tarsal gland development
 RCV_000259	organ development	GO_0061193	taste bud development
 RCV_000259	organ development	GO_0061195	taste bud formation
 RCV_000259	organ development	GO_0061194	taste bud morphogenesis
@@ -6079,6 +6086,7 @@ RCV_000259	organ development	GO_0061068	urethra development
 RCV_000259	organ development	GO_0061071	urethra epithelium development
 RCV_000259	organ development	GO_0060157	urinary bladder development
 RCV_000259	organ development	GO_0035847	uterine epithelium development
+RCV_000259	organ development	GO_1903709	uterine gland development
 RCV_000259	organ development	GO_0042702	uterine wall growth
 RCV_000259	organ development	GO_0060065	uterus development
 RCV_000259	organ development	GO_0061038	uterus morphogenesis

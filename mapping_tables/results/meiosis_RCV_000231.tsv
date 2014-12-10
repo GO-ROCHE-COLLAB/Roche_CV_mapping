@@ -114,6 +114,7 @@ meiotic chromosome segregation	GO_0045132	0	1	0	0	0
 meiotic chromosome movement towards spindle pole	GO_0016344	0	1	0	0	0
 meiotic chromosome decondensation	GO_0051178	0	1	0	0	0
 meiotic chromosome condensation	GO_0010032	0	1	0	0	0
+meiotic centromere clustering	GO_1990571	0	1	0	0	0
 meiotic G2/MI transition	GO_0008315	0	1	0	0	0
 meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0	0
 meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0	0
@@ -194,3 +195,4 @@ activation of reciprocal meiotic recombination	GO_0010846	0	1	0	0	0
 activation of meiosis involved in egg activation	GO_0060466	0	1	0	0	0
 activation of meiosis	GO_0090427	0	1	0	0	0
 achiasmate meiosis I	GO_0000705	0	1	0	0	0
+MAPK cascade involved in ascospore formation	GO_1903695	0	1	0	0	0

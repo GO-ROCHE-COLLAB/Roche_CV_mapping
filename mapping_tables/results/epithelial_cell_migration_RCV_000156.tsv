@@ -20,6 +20,7 @@ regulation of endothelial cell migration	GO_0010594	0	1	0	0	0
 regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
 regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
 regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	0	0	0
+regulation of border follicle cell migration	GO_1903684	0	1	0	0	0
 regulation of blood vessel endothelial cell migration	GO_0043535	0	1	0	0	0
 positive regulation of keratinocyte migration	GO_0051549	0	1	0	0	0
 positive regulation of endothelial cell migration	GO_0010595	0	1	0	0	0
@@ -27,6 +28,7 @@ positive regulation of endothelial cell chemotaxis to fibroblast growth factor	G
 positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
 positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
 positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	0	0	0
+positive regulation of border follicle cell migration	GO_1903688	0	1	0	0	0
 positive regulation of blood vessel endothelial cell migration	GO_0043536	0	1	0	0	0
 ovarian follicle cell migration	GO_0007297	0	1	0	0	0
 negative regulation of keratinocyte migration	GO_0051548	0	1	0	0	0
@@ -34,6 +36,7 @@ negative regulation of endothelial cell migration	GO_0010596	0	1	0	0	0
 negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
 negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
 negative regulation of cell migration involved in sprouting angiogenesis	GO_0090051	0	1	0	0	0
+negative regulation of border follicle cell migration	GO_1903687	0	1	0	0	0
 negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	0	0	0
 melanocyte migration	GO_0097324	0	1	0	0	0
 main body follicle cell migration	GO_0060270	0	1	0	0	0

@@ -86,7 +86,6 @@ negative regulation of axial mesodermal cell fate determination	GO_0048325	0	1	0
 negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis	GO_2000057	0	1	0	0	0
 midgut development	GO_0007494	0	1	0	0	0
 mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	0	0	0
-mesodermal cell migration	GO_0008078	0	1	0	0	0
 mesodermal cell fate specification	GO_0007501	0	1	0	0	0
 mesodermal cell fate determination	GO_0007500	0	1	0	0	0
 mesodermal cell fate commitment	GO_0001710	0	1	0	0	0
@@ -130,6 +129,7 @@ establishment of cell polarity involved in gastrulation cell migration	GO_000337
 epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	0	1	0	0	0
 epithelial cell morphogenesis involved in gastrulation	GO_0003381	0	1	0	0	0
 epiboly involved in gastrulation with mouth forming second	GO_0055113	0	1	0	0	0
+enterocyte differentiation	GO_1903703	0	1	0	0	0
 enteric smooth muscle cell differentiation	GO_0035645	0	1	0	0	0
 endodermal digestive tract morphogenesis	GO_0061031	0	1	0	0	0
 endodermal cell fate specification	GO_0001714	0	1	0	0	0

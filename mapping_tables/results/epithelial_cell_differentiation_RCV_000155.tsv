@@ -106,6 +106,7 @@ establishment of epithelial cell apical/basal polarity	GO_0045198	0	1	0	0	0
 epidermal cell differentiation	GO_0009913	0	1	0	0	0
 epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	0	0	0
 enteroendocrine cell differentiation	GO_0035883	0	1	0	0	0
+enterocyte differentiation	GO_1903703	0	1	0	0	0
 endothelial cell differentiation	GO_0045446	0	1	0	0	0
 endocardial cell differentiation	GO_0060956	0	1	0	0	0
 early stripe melanocyte differentiation	GO_0050933	0	1	0	0	0
@@ -121,6 +122,7 @@ arterial endothelial cell differentiation	GO_0060842	0	1	0	0	0
 anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	0	0	0
 ameloblast differentiation	GO_0036305	0	1	0	0	0
 adrenal chromaffin cell differentiation	GO_0061104	0	1	0	0	0
+acinar cell of sebaceous gland differentiation	GO_1903680	0	1	0	0	0
 acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	0	0	0
 acinar cell differentiation	GO_0090425	0	1	0	0	0
 Type II pneumocyte differentiation	GO_0060510	0	1	0	0	0

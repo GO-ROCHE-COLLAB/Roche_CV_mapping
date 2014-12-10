@@ -156,6 +156,7 @@ potassium ion transmembrane transporter activity	GO_0015079	0	1	1	0	0
 potassium ion transmembrane transport	GO_0071805	0	1	1	0	0
 potassium ion symporter activity	GO_0022820	0	1	1	0	0
 potassium ion leak channel activity	GO_0022841	0	1	1	0	0
+potassium ion import across plasma membrane	GO_1990573	0	1	0	0	0
 potassium ion import	GO_0010107	0	1	1	0	0
 potassium ion export across plasma membrane	GO_0097623	0	1	1	0	0
 potassium ion export	GO_0071435	0	1	1	0	0

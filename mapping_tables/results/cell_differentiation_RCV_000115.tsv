@@ -340,6 +340,7 @@ epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	1	0	0
 eosinophil differentiation	GO_0030222	0	1	1	0	0
 enucleate erythrocyte differentiation	GO_0043353	0	1	1	0	0
 enteroendocrine cell differentiation	GO_0035883	0	1	1	0	0
+enterocyte differentiation	GO_1903703	0	1	0	0	0
 enteric smooth muscle cell differentiation	GO_0035645	0	1	1	0	0
 endothelial cell differentiation	GO_0045446	0	1	1	0	0
 endospore formation	GO_0034301	0	1	1	0	0
@@ -440,6 +441,7 @@ akinete formation	GO_0034302	0	1	1	0	0
 aeciospore formation	GO_0075247	0	1	1	0	0
 adrenal chromaffin cell differentiation	GO_0061104	0	1	1	0	0
 actinomycete-type spore formation	GO_0034304	0	1	1	0	0
+acinar cell of sebaceous gland differentiation	GO_1903680	0	1	0	0	0
 acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	1	0	0
 acinar cell differentiation	GO_0090425	0	1	1	0	0
 Type II pneumocyte differentiation	GO_0060510	0	1	1	0	0

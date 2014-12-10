@@ -1,21 +1,21 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 calcium-independent cell-matrix adhesion	GO_0007161	1	1	1	0	0
 calcium-dependent cell-matrix adhesion	GO_0016340	1	1	1	0	0
-smooth muscle cell-matrix adhesion	GO_0061302	0	1	0	0	0
-regulation of smooth muscle cell-matrix adhesion	GO_2000097	0	1	0	0	0
-regulation of focal adhesion assembly	GO_0051893	0	1	0	0	0
-regulation of cell-matrix adhesion	GO_0001952	0	1	0	0	0
-protein binding involved in cell-matrix adhesion	GO_0098634	0	1	0	0	0
-positive regulation of focal adhesion assembly	GO_0051894	0	1	0	0	0
-positive regulation of cell-matrix adhesion	GO_0001954	0	1	0	0	0
-negative regulation of smooth muscle cell-matrix adhesion	GO_2000098	0	1	0	0	0
-negative regulation of focal adhesion assembly	GO_0051895	0	1	0	0	0
-negative regulation of cell-matrix adhesion	GO_0001953	0	1	0	0	0
-mesangial cell-matrix adhesion	GO_0035759	0	1	0	0	0
-laminin binding involved in cell-matrix adhesion	GO_0098638	0	1	0	0	0
-integrin binding involved in cell-matrix adhesion	GO_0098640	0	1	0	0	0
-focal adhesion assembly	GO_0048041	0	1	0	0	0
-collagen binding involved in cell-matrix adhesion	GO_0098639	0	1	0	0	0
-cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
-cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	0	1	0	0	0
-cell-matrix adhesion	GO_0007160	0	1	0	0	0
+smooth muscle cell-matrix adhesion	GO_0061302	0	1	1	0	0
+regulation of smooth muscle cell-matrix adhesion	GO_2000097	0	1	1	0	0
+regulation of focal adhesion assembly	GO_0051893	0	1	1	0	0
+regulation of cell-matrix adhesion	GO_0001952	0	1	1	0	0
+protein binding involved in cell-matrix adhesion	GO_0098634	0	1	1	0	0
+positive regulation of focal adhesion assembly	GO_0051894	0	1	1	0	0
+positive regulation of cell-matrix adhesion	GO_0001954	0	1	1	0	0
+negative regulation of smooth muscle cell-matrix adhesion	GO_2000098	0	1	1	0	0
+negative regulation of focal adhesion assembly	GO_0051895	0	1	1	0	0
+negative regulation of cell-matrix adhesion	GO_0001953	0	1	1	0	0
+mesangial cell-matrix adhesion	GO_0035759	0	1	1	0	0
+laminin binding involved in cell-matrix adhesion	GO_0098638	0	1	1	0	0
+integrin binding involved in cell-matrix adhesion	GO_0098640	0	1	1	0	0
+focal adhesion assembly	GO_0048041	0	1	1	0	0
+collagen binding involved in cell-matrix adhesion	GO_0098639	0	1	1	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	1	0	0
+cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	0	1	1	0	0
+cell-matrix adhesion	GO_0007160	0	1	1	0	0

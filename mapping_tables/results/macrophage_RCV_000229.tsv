@@ -1,5 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 macrophage tolerance induction	GO_0010931	1	1	1	0	0
+macrophage differentiation	GO_0030225	1	1	1	0	0
 macrophage cytokine production	GO_0010934	1	1	1	0	0
 macrophage chemotaxis	GO_0048246	1	1	1	0	0
 macrophage apoptotic process	GO_0071888	1	1	1	0	0
@@ -57,7 +58,6 @@ macrophage migration inhibitory factor signaling pathway	GO_0035691	1	0	1	0	0
 macrophage inflammatory protein-1 gamma production	GO_0071607	1	0	1	0	0
 macrophage inflammatory protein-1 alpha production	GO_0071608	1	0	1	0	0
 macrophage fusion	GO_0034238	1	0	1	0	0
-macrophage differentiation	GO_0030225	1	0	1	0	0
 macrophage derived foam cell differentiation	GO_0010742	1	0	1	0	0
 macrophage colony-stimulating factor signaling pathway	GO_0038145	1	0	1	0	0
 macrophage colony-stimulating factor production	GO_0036301	1	0	1	0	0
@@ -68,5 +68,7 @@ cellular response to macrophage colony-stimulating factor stimulus	GO_0036006	1	
 cellular response to granulocyte macrophage colony-stimulating factor stimulus	GO_0097011	1	0	1	0	0
 microglial cell activation involved in immune response	GO_0002282	0	1	0	0	0
 microglial cell activation	GO_0001774	0	1	0	0	0
+microglia differentiation	GO_0014004	0	1	0	0	0
+microglia development	GO_0014005	0	1	0	0	0
 macrophage homeostasis	GO_0061519	0	1	0	0	0
 macrophage activation involved in immune response	GO_0002281	0	1	0	0	0

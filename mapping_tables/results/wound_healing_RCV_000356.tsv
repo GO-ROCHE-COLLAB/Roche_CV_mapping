@@ -24,6 +24,7 @@ skeletal muscle regeneration at neuromuscular junction	GO_0014730	0	1	1	0	0
 sensory epithelium regeneration	GO_0070654	0	1	1	0	0
 scab formation	GO_0035314	0	1	1	0	0
 satellite cell activation involved in skeletal muscle regeneration	GO_0014901	0	1	1	0	0
+regulation of wound healing, spreading of epidermal cells	GO_1903689	0	1	0	0	0
 regulation of thrombin receptor signaling pathway	GO_0070494	0	1	0	0	0
 regulation of skeletal muscle tissue regeneration	GO_0043416	0	1	1	0	0
 regulation of satellite cell activation involved in skeletal muscle regeneration	GO_0014717	0	1	1	0	0
@@ -33,6 +34,7 @@ regulation of blood coagulation, intrinsic pathway	GO_2000266	0	1	1	0	0
 regulation of blood coagulation, extrinsic pathway	GO_2000263	0	1	1	0	0
 regulation of blood coagulation, common pathway	GO_2000260	0	1	1	0	0
 regulation of blood coagulation	GO_0030193	0	1	1	0	0
+positive regulation of wound healing, spreading of epidermal cells	GO_1903691	0	1	0	0	0
 positive regulation of thrombin receptor signaling pathway	GO_0070496	0	1	0	0	0
 positive regulation of skeletal muscle tissue regeneration	GO_0043415	0	1	1	0	0
 positive regulation of satellite cell activation involved in skeletal muscle regeneration	GO_0014718	0	1	1	0	0
@@ -52,6 +54,7 @@ plasma membrane repair	GO_0001778	0	1	1	0	0
 phosphatidylserine exposure on blood platelet	GO_0097045	0	1	1	0	0
 neuromast regeneration	GO_0070657	0	1	1	0	0
 neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0	0
+negative regulation of wound healing, spreading of epidermal cells	GO_1903690	0	1	0	0	0
 negative regulation of thrombin receptor signaling pathway	GO_0070495	0	1	0	0	0
 negative regulation of skeletal muscle tissue regeneration	GO_0043417	0	1	1	0	0
 negative regulation of skeletal muscle satellite cell activation involved in skeletal muscle regeneration	GO_1901667	0	1	1	0	0

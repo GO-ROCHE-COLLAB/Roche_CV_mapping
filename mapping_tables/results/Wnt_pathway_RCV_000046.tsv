@@ -97,32 +97,32 @@ Wnt receptor recycling	GO_0038019	1	0	1	0	0
 Wnt receptor internalization	GO_0038017	1	0	1	0	0
 Wnt receptor catabolic process	GO_0038018	1	0	1	0	0
 Wnt protein secretion	GO_0061355	1	0	1	0	0
-regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000148	0	1	0	0	0
-regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000165	0	1	0	0	0
-regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000163	0	1	0	0	0
-regulation of planar cell polarity pathway involved in neural tube closure	GO_2000167	0	1	0	0	0
-regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000159	0	1	0	0	0
-regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000161	0	1	0	0	0
-regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000150	0	1	0	0	0
-regulation of planar cell polarity pathway involved in axis elongation	GO_2000040	0	1	0	0	0
-regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	0	0	0
-positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway	GO_1902844	0	1	0	0	0
-planar cell polarity pathway involved in ventricular septum morphogenesis	GO_0061348	0	1	0	0	0
-planar cell polarity pathway involved in pericardium morphogenesis	GO_0061354	0	1	0	0	0
-planar cell polarity pathway involved in outflow tract morphogenesis	GO_0061347	0	1	0	0	0
-planar cell polarity pathway involved in neural tube closure	GO_0090179	0	1	0	0	0
-planar cell polarity pathway involved in heart morphogenesis	GO_0061346	0	1	0	0	0
-planar cell polarity pathway involved in gastrula mediolateral intercalation	GO_0060775	0	1	0	0	0
-planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_0061349	0	1	0	0	0
-planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_0061350	0	1	0	0	0
-planar cell polarity pathway involved in cardiac muscle cell fate commitment	GO_0061345	0	1	0	0	0
-planar cell polarity pathway involved in axis elongation	GO_0003402	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000149	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000166	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000164	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in neural tube closure	GO_2000168	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000160	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000162	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000151	0	1	0	0	0
-negative regulation of planar cell polarity pathway involved in axis elongation	GO_2000041	0	1	0	0	0
-coreceptor activity involved in Wnt signaling pathway	GO_0071936	0	1	0	0	0
+regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000148	0	1	1	0	0
+regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000165	0	1	1	0	0
+regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000163	0	1	1	0	0
+regulation of planar cell polarity pathway involved in neural tube closure	GO_2000167	0	1	1	0	0
+regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000159	0	1	1	0	0
+regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000161	0	1	1	0	0
+regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000150	0	1	1	0	0
+regulation of planar cell polarity pathway involved in axis elongation	GO_2000040	0	1	1	0	0
+regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	1	0	0
+positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway	GO_1902844	0	1	1	0	0
+planar cell polarity pathway involved in ventricular septum morphogenesis	GO_0061348	0	1	1	0	0
+planar cell polarity pathway involved in pericardium morphogenesis	GO_0061354	0	1	1	0	0
+planar cell polarity pathway involved in outflow tract morphogenesis	GO_0061347	0	1	1	0	0
+planar cell polarity pathway involved in neural tube closure	GO_0090179	0	1	1	0	0
+planar cell polarity pathway involved in heart morphogenesis	GO_0061346	0	1	1	0	0
+planar cell polarity pathway involved in gastrula mediolateral intercalation	GO_0060775	0	1	1	0	0
+planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_0061349	0	1	1	0	0
+planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_0061350	0	1	1	0	0
+planar cell polarity pathway involved in cardiac muscle cell fate commitment	GO_0061345	0	1	1	0	0
+planar cell polarity pathway involved in axis elongation	GO_0003402	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	GO_2000149	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in pericardium morphogenesis	GO_2000166	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis	GO_2000164	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in neural tube closure	GO_2000168	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in heart morphogenesis	GO_2000160	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	GO_2000162	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	GO_2000151	0	1	1	0	0
+negative regulation of planar cell polarity pathway involved in axis elongation	GO_2000041	0	1	1	0	0
+coreceptor activity involved in Wnt signaling pathway	GO_0071936	0	1	1	0	0
