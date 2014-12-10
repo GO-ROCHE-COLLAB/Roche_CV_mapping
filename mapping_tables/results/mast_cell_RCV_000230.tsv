@@ -42,7 +42,7 @@ negative regulation of mast cell activation	GO_0033004	1	0	1	0	0
 modulation of mast cell degranulation in other organism	GO_0035895	1	0	1	0	0
 envenomation resulting in positive regulation of mast cell degranulation in other organism	GO_0044480	1	0	1	0	0
 envenomation resulting in modulation of mast cell degranulation in other organism	GO_0044479	1	0	1	0	0
-type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0	0
-mast cell migration	GO_0097531	0	1	0	0	0
-mast cell activation involved in immune response	GO_0002279	0	1	0	0	0
-histamine secretion by mast cell	GO_0002553	0	1	0	0	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	1	0	0
+mast cell migration	GO_0097531	0	1	1	0	0
+mast cell activation involved in immune response	GO_0002279	0	1	1	0	0
+histamine secretion by mast cell	GO_0002553	0	1	1	0	0
