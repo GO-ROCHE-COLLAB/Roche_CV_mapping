@@ -5,17 +5,17 @@ syncytium formation	GO_0006949	1	1	1	0	0
 modulation by virus of syncytium formation via plasma membrane fusion	GO_0060140	1	1	1	0	0
 syncytiotrophoblast cell differentiation involved in labyrinthine layer development	GO_0060715	1	0	1	0	0
 syncytial nuclear migration	GO_0035190	1	0	1	0	0
-regulation of syncytium formation by plasma membrane fusion	GO_0060142	0	1	0	0	0
-regulation of myoblast fusion	GO_1901739	0	1	0	0	0
-regulation of macrophage fusion	GO_0034239	0	1	0	0	0
-positive regulation of syncytium formation by virus	GO_0060141	0	1	0	0	0
-positive regulation of syncytium formation by plasma membrane fusion	GO_0060143	0	1	0	0	0
-positive regulation of myoblast fusion	GO_1901741	0	1	0	0	0
-positive regulation of macrophage fusion	GO_0034241	0	1	0	0	0
-osteoclast fusion	GO_0072675	0	1	0	0	0
-negative regulation of syncytium formation by plasma membrane fusion	GO_0034242	0	1	0	0	0
-negative regulation of myoblast fusion	GO_1901740	0	1	0	0	0
-negative regulation of macrophage fusion	GO_0034240	0	1	0	0	0
-myoblast fusion involved in skeletal muscle regeneration	GO_0014905	0	1	0	0	0
-myoblast fusion	GO_0007520	0	1	0	0	0
-macrophage fusion	GO_0034238	0	1	0	0	0
+regulation of syncytium formation by plasma membrane fusion	GO_0060142	0	1	1	0	0
+regulation of myoblast fusion	GO_1901739	0	1	1	0	0
+regulation of macrophage fusion	GO_0034239	0	1	1	0	0
+positive regulation of syncytium formation by virus	GO_0060141	0	1	1	0	0
+positive regulation of syncytium formation by plasma membrane fusion	GO_0060143	0	1	1	0	0
+positive regulation of myoblast fusion	GO_1901741	0	1	1	0	0
+positive regulation of macrophage fusion	GO_0034241	0	1	1	0	0
+osteoclast fusion	GO_0072675	0	1	1	0	0
+negative regulation of syncytium formation by plasma membrane fusion	GO_0034242	0	1	1	0	0
+negative regulation of myoblast fusion	GO_1901740	0	1	1	0	0
+negative regulation of macrophage fusion	GO_0034240	0	1	1	0	0
+myoblast fusion involved in skeletal muscle regeneration	GO_0014905	0	1	1	0	0
+myoblast fusion	GO_0007520	0	1	1	0	0
+macrophage fusion	GO_0034238	0	1	1	0	0
