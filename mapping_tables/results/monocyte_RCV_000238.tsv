@@ -22,4 +22,4 @@ monocyte migration into blood stream	GO_0035703	1	0	1	0	0
 monocyte extravasation	GO_0035696	1	0	1	0	0
 monocyte chemotactic protein-1 production	GO_0071605	1	0	1	0	0
 monocyte aggregation	GO_0070487	1	0	1	0	0
-monocyte activation involved in immune response	GO_0002280	0	1	0	0	0
+monocyte activation involved in immune response	GO_0002280	0	1	1	0	0
