@@ -9,5 +9,5 @@ basophil activation	GO_0045575	1	1	1	0	0
 regulation of basophil differentiation	GO_0045640	1	0	1	0	0
 positive regulation of basophil differentiation	GO_0045642	1	0	1	0	0
 negative regulation of basophil differentiation	GO_0045641	1	0	1	0	0
-type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0	0
-basophil activation involved in immune response	GO_0002276	0	1	0	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
+basophil activation involved in immune response	GO_0002276	0	1	1	0	0
