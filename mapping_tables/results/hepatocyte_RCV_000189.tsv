@@ -4,5 +4,5 @@ regulation of hepatocyte growth factor production	GO_0032646	1	0	1	0	0
 regulation of hepatocyte growth factor biosynthetic process	GO_0048176	1	0	1	0	0
 regulation of hepatocyte differentiation	GO_0070366	1	0	1	0	0
 hepatocyte homeostasis	GO_0036333	0	1	1	0	0
-hepatocyte differentiation	GO_0070365	0	1	0	0	0
-hepatocyte apoptotic process	GO_0097284	0	1	0	0	0
+hepatocyte differentiation	GO_0070365	0	1	1	0	0
+hepatocyte apoptotic process	GO_0097284	0	1	1	0	0
