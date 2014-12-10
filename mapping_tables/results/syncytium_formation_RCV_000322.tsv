@@ -4,7 +4,7 @@ syncytium formation by mitosis without cytokinesis	GO_0000769	1	1	1	0	0
 syncytium formation	GO_0006949	1	1	1	0	0
 modulation by virus of syncytium formation via plasma membrane fusion	GO_0060140	1	1	1	0	0
 syncytiotrophoblast cell differentiation involved in labyrinthine layer development	GO_0060715	1	0	1	0	0
-syncytial nuclear migration	GO_0035190	1	0	1	0	0
+syncytial nuclear migration	GO_0035190	1	0	1	1	0
 regulation of syncytium formation by plasma membrane fusion	GO_0060142	0	1	1	0	0
 regulation of myoblast fusion	GO_1901739	0	1	1	0	0
 regulation of macrophage fusion	GO_0034239	0	1	1	0	0
