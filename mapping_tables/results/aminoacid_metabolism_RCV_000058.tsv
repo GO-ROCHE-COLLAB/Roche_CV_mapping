@@ -311,6 +311,9 @@ tetrahydrofolylpolyglutamate biosynthetic process	GO_0046901	0	1	1	0	0
 tetrahydrofolate metabolic process	GO_0046653	0	1	1	0	0
 tetrahydrofolate interconversion	GO_0035999	0	1	1	0	0
 tetrahydrofolate biosynthetic process	GO_0046654	0	1	1	0	0
+stachydrine metabolic process	GO_0019502	0	1	0	0	0
+stachydrine catabolic process	GO_0019504	0	1	0	0	0
+stachydrine biosynthetic process	GO_0019503	0	1	0	0	0
 serotonin biosynthetic process from tryptophan	GO_0006587	0	1	1	0	0
 selenoneine metabolic process	GO_1903256	0	1	1	0	0
 selenoneine biosynthetic process	GO_1903257	0	1	1	0	0
