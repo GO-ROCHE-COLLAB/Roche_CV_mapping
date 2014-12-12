@@ -8,5 +8,5 @@ keratinocyte activation	GO_0032980	1	1	1	0	0
 negative regulation of keratinocyte proliferation	GO_0010839	1	0	1	0	0
 negative regulation of keratinocyte migration	GO_0051548	1	0	1	0	0
 negative regulation of keratinocyte differentiation	GO_0045617	1	0	1	0	0
-limb spinous cell differentiation	GO_0060890	0	1	0	0	0
-limb granular cell differentiation	GO_0060891	0	1	0	0	0
+limb spinous cell differentiation	GO_0060890	0	1	1	0	0
+limb granular cell differentiation	GO_0060891	0	1	1	0	0
