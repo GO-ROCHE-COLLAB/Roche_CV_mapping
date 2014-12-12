@@ -40,62 +40,62 @@ synapsis	GO_0007129	1	0	1	0	0
 induction of synaptic plasticity by chemical substance	GO_0051915	1	0	1	0	0
 amino acid uptake involved in synaptic transmission	GO_0051933	1	0	1	0	0
 L-glutamate uptake involved in synaptic transmission	GO_0051935	1	0	1	0	0
-type Is terminal bouton	GO_0061177	0	1	0	0	0
-type Ib terminal bouton	GO_0061176	0	1	0	0	0
-type III terminal bouton	GO_0097467	0	1	0	0	0
-type II terminal bouton	GO_0061175	0	1	0	0	0
-type I terminal bouton	GO_0061174	0	1	0	0	0
-terminal bouton	GO_0043195	0	1	0	0	0
-synaptic vesicle, resting pool	GO_1990476	0	1	0	0	0
-synaptic vesicle, recycling pool	GO_1990475	0	1	0	0	0
-synaptic vesicle, readily releasable pool	GO_1990474	0	1	0	0	0
-synaptic vesicle membrane	GO_0030672	0	1	0	0	0
-synaptic vesicle lumen	GO_0034592	0	1	0	0	0
-synaptic vesicle	GO_0008021	0	1	0	0	0
-synaptic membrane	GO_0097060	0	1	0	0	0
-synaptic cleft	GO_0043083	0	1	0	0	0
-synapse part	GO_0044456	0	1	0	0	0
-synapse	GO_0045202	0	1	0	0	0
-symmetric synapse	GO_0032280	0	1	0	0	0
-subsynaptic reticulum	GO_0071212	0	1	0	0	0
-ribbon synapse	GO_0097470	0	1	0	0	0
-presynaptic periactive zone	GO_0036062	0	1	0	0	0
-presynaptic membrane	GO_0042734	0	1	0	0	0
-presynaptic grid	GO_1990013	0	1	0	0	0
-presynaptic cytoskeletal matrix assembled at active zones	GO_0048788	0	1	0	0	0
-presynaptic active zone membrane	GO_0048787	0	1	0	0	0
-presynaptic active zone dense projection	GO_0097445	0	1	0	0	0
-presynaptic active zone	GO_0048786	0	1	0	0	0
-postsynaptic membrane	GO_0045211	0	1	0	0	0
-postsynaptic density organization	GO_0097106	0	1	0	0	0
-postsynaptic density assembly	GO_0097107	0	1	0	0	0
-postsynaptic density	GO_0014069	0	1	0	0	0
-positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	0	0	0
-neuronal postsynaptic density	GO_0097481	0	1	0	0	0
-neuron-neuron synaptic transmission	GO_0007270	0	1	0	0	0
-neuromuscular synaptic transmission	GO_0007274	0	1	0	0	0
-neuromuscular junction of somatic muscle myotube	GO_0098524	0	1	0	0	0
-neuromuscular junction of somatic muscle	GO_0098527	0	1	0	0	0
-neuromuscular junction of skeletal muscle fiber	GO_0098522	0	1	0	0	0
-neuromuscular junction of myotube	GO_0098523	0	1	0	0	0
-neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	0	0	0
-neuromuscular junction development	GO_0007528	0	1	0	0	0
-neuromuscular junction	GO_0031594	0	1	0	0	0
-muscle cell postsynaptic density	GO_0097482	0	1	0	0	0
-mossy fiber rosette	GO_0097471	0	1	0	0	0
-intrinsic component of synaptic vesicle membrane	GO_0098563	0	1	0	0	0
-integral component of synaptic vesicle membrane	GO_0030285	0	1	0	0	0
-inhibitory synapse	GO_0060077	0	1	0	0	0
-inhibitory neuromuscular junction of somatic myotube	GO_0098526	0	1	0	0	0
-inhibitory neuromuscular junction	GO_0098521	0	1	0	0	0
-hippocampal mossy fiber expansion	GO_1990026	0	1	0	0	0
-glial cell postsynaptic density	GO_0097483	0	1	0	0	0
-excitatory synapse	GO_0060076	0	1	0	0	0
-excitatory neuromuscular junction of somatic myotube	GO_0098525	0	1	0	0	0
-excitatory neuromuscular junction	GO_0098520	0	1	0	0	0
-establishment of synaptic specificity at neuromuscular junction	GO_0007529	0	1	0	0	0
-clathrin coat of synaptic vesicle	GO_0030129	0	1	0	0	0
-asymmetric synapse	GO_0032279	0	1	0	0	0
-S bouton	GO_1990027	0	1	0	0	0
-F bouton	GO_1990025	0	1	0	0	0
-C bouton	GO_1990024	0	1	0	0	0
+type Is terminal bouton	GO_0061177	0	1	1	0	0
+type Ib terminal bouton	GO_0061176	0	1	1	0	0
+type III terminal bouton	GO_0097467	0	1	1	0	0
+type II terminal bouton	GO_0061175	0	1	1	0	0
+type I terminal bouton	GO_0061174	0	1	1	0	0
+terminal bouton	GO_0043195	0	1	1	0	0
+synaptic vesicle, resting pool	GO_1990476	0	1	1	0	0
+synaptic vesicle, recycling pool	GO_1990475	0	1	1	0	0
+synaptic vesicle, readily releasable pool	GO_1990474	0	1	1	0	0
+synaptic vesicle membrane	GO_0030672	0	1	1	0	0
+synaptic vesicle lumen	GO_0034592	0	1	1	0	0
+synaptic vesicle	GO_0008021	0	1	1	0	0
+synaptic membrane	GO_0097060	0	1	1	0	0
+synaptic cleft	GO_0043083	0	1	1	0	0
+synapse part	GO_0044456	0	1	1	0	0
+synapse	GO_0045202	0	1	1	0	0
+symmetric synapse	GO_0032280	0	1	1	0	0
+subsynaptic reticulum	GO_0071212	0	1	1	0	0
+ribbon synapse	GO_0097470	0	1	1	0	0
+presynaptic periactive zone	GO_0036062	0	1	1	0	0
+presynaptic membrane	GO_0042734	0	1	1	0	0
+presynaptic grid	GO_1990013	0	1	1	0	0
+presynaptic cytoskeletal matrix assembled at active zones	GO_0048788	0	1	1	0	0
+presynaptic active zone membrane	GO_0048787	0	1	1	0	0
+presynaptic active zone dense projection	GO_0097445	0	1	1	0	0
+presynaptic active zone	GO_0048786	0	1	1	0	0
+postsynaptic membrane	GO_0045211	0	1	1	0	0
+postsynaptic density organization	GO_0097106	0	1	1	0	0
+postsynaptic density assembly	GO_0097107	0	1	1	0	0
+postsynaptic density	GO_0014069	0	1	1	0	0
+positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	1	0	0
+neuronal postsynaptic density	GO_0097481	0	1	1	0	0
+neuron-neuron synaptic transmission	GO_0007270	0	1	1	0	0
+neuromuscular synaptic transmission	GO_0007274	0	1	1	0	0
+neuromuscular junction of somatic muscle myotube	GO_0098524	0	1	1	0	0
+neuromuscular junction of somatic muscle	GO_0098527	0	1	1	0	0
+neuromuscular junction of skeletal muscle fiber	GO_0098522	0	1	1	0	0
+neuromuscular junction of myotube	GO_0098523	0	1	1	0	0
+neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	1	0	0
+neuromuscular junction development	GO_0007528	0	1	1	0	0
+neuromuscular junction	GO_0031594	0	1	1	0	0
+muscle cell postsynaptic density	GO_0097482	0	1	1	0	0
+mossy fiber rosette	GO_0097471	0	1	1	0	0
+intrinsic component of synaptic vesicle membrane	GO_0098563	0	1	1	0	0
+integral component of synaptic vesicle membrane	GO_0030285	0	1	1	0	0
+inhibitory synapse	GO_0060077	0	1	1	0	0
+inhibitory neuromuscular junction of somatic myotube	GO_0098526	0	1	1	0	0
+inhibitory neuromuscular junction	GO_0098521	0	1	1	0	0
+hippocampal mossy fiber expansion	GO_1990026	0	1	1	0	0
+glial cell postsynaptic density	GO_0097483	0	1	1	0	0
+excitatory synapse	GO_0060076	0	1	1	0	0
+excitatory neuromuscular junction of somatic myotube	GO_0098525	0	1	1	0	0
+excitatory neuromuscular junction	GO_0098520	0	1	1	0	0
+establishment of synaptic specificity at neuromuscular junction	GO_0007529	0	1	1	0	0
+clathrin coat of synaptic vesicle	GO_0030129	0	1	1	0	0
+asymmetric synapse	GO_0032279	0	1	1	0	0
+S bouton	GO_1990027	0	1	1	0	0
+F bouton	GO_1990025	0	1	1	0	0
+C bouton	GO_1990024	0	1	1	0	0
