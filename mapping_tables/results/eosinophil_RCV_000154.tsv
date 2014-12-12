@@ -20,5 +20,5 @@ negative regulation of eosinophil migration	GO_2000417	1	0	1	0	0
 negative regulation of eosinophil extravasation	GO_2000420	1	0	1	0	0
 negative regulation of eosinophil differentiation	GO_0045644	1	0	1	0	0
 negative regulation of eosinophil degranulation	GO_0043310	1	0	1	0	0
-eosinophil chemotaxis	GO_0048245	0	1	0	0	0
-eosinophil activation involved in immune response	GO_0002278	0	1	0	0	0
+eosinophil chemotaxis	GO_0048245	0	1	1	0	0
+eosinophil activation involved in immune response	GO_0002278	0	1	1	0	0
