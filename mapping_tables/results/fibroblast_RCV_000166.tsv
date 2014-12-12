@@ -35,18 +35,18 @@ cell chemotaxis to fibroblast growth factor	GO_0035766	1	0	1	0	0
 cardiac fibroblast cell fate commitment	GO_0060937	1	0	1	0	0
 cardiac fibroblast cell differentiation	GO_0060935	1	0	1	0	0
 cardiac fibroblast cell development	GO_0060936	1	0	1	0	0
-renal interstitial fibroblast development	GO_0072141	0	1	0	0	0
-pancreatic stellate cell proliferation	GO_0072343	0	1	0	0	0
-metanephric interstitial fibroblast differentiation	GO_0072258	0	1	0	0	0
-metanephric interstitial fibroblast development	GO_0072259	0	1	0	0	0
-metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	0	0	0
-metanephric glomerular mesangial cell development	GO_0072255	0	1	0	0	0
-mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	0	0	0
-mesonephric interstitial fibroblast development	GO_0061267	0	1	0	0	0
-mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	0	0	0
-mesonephric glomerular mesangial cell development	GO_0061263	0	1	0	0	0
-kidney interstitial fibroblast differentiation	GO_0072071	0	1	0	0	0
-hepatic stellate cell differentiation	GO_0061521	0	1	0	0	0
-hepatic stellate cell activation	GO_0035733	0	1	0	0	0
-glomerular mesangial cell differentiation	GO_0072008	0	1	0	0	0
-glomerular mesangial cell development	GO_0072144	0	1	0	0	0
+renal interstitial fibroblast development	GO_0072141	0	1	1	0	0
+pancreatic stellate cell proliferation	GO_0072343	0	1	1	0	0
+metanephric interstitial fibroblast differentiation	GO_0072258	0	1	1	0	0
+metanephric interstitial fibroblast development	GO_0072259	0	1	1	0	0
+metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	1	0	0
+metanephric glomerular mesangial cell development	GO_0072255	0	1	1	0	0
+mesonephric interstitial fibroblast differentiation	GO_0061266	0	1	1	0	0
+mesonephric interstitial fibroblast development	GO_0061267	0	1	1	0	0
+mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	1	0	0
+mesonephric glomerular mesangial cell development	GO_0061263	0	1	1	0	0
+kidney interstitial fibroblast differentiation	GO_0072071	0	1	1	0	0
+hepatic stellate cell differentiation	GO_0061521	0	1	1	0	0
+hepatic stellate cell activation	GO_0035733	0	1	1	0	0
+glomerular mesangial cell differentiation	GO_0072008	0	1	1	0	0
+glomerular mesangial cell development	GO_0072144	0	1	1	0	0
