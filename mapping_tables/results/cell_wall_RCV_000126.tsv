@@ -1,0 +1,189 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+secondary cell wall biogenesis involved in seed trichome differentiation	GO_0090379	1	1	1	0	0
+plant-type secondary cell wall biogenesis	GO_0009834	1	1	1	0	0
+plant-type primary cell wall biogenesis	GO_0009833	1	1	1	0	0
+plant-type cell wall organization	GO_0009664	1	1	1	0	0
+plant-type cell wall modification involved in multidimensional cell growth	GO_0009831	1	1	1	0	0
+plant-type cell wall modification	GO_0009827	1	1	1	0	0
+plant-type cell wall loosening	GO_0009828	1	1	1	0	0
+plant-type cell wall biogenesis	GO_0009832	1	1	1	0	0
+plant-type cell wall assembly	GO_0071668	1	1	1	0	0
+peptidoglycan-based cell wall organization	GO_0031504	1	1	1	0	0
+peptidoglycan-based cell wall biogenesis	GO_0009273	1	1	1	0	0
+fungal-type cell wall organization	GO_0031505	1	1	1	0	0
+fungal-type cell wall disassembly	GO_0071853	1	1	1	0	0
+fungal-type cell wall biogenesis	GO_0009272	1	1	1	0	0
+fungal-type cell wall assembly	GO_0071940	1	1	1	0	0
+defense response by cell wall thickening	GO_0052482	1	1	1	0	0
+defense response by callose deposition in cell wall	GO_0052544	1	1	1	0	0
+cell wall thickening	GO_0052386	1	1	1	0	0
+cell wall strengthening in symbiont involved in entry into host	GO_0075048	1	1	1	0	0
+cell wall repair	GO_0071433	1	1	1	0	0
+cell wall organization involved in conjugation with cellular fusion	GO_0070871	1	1	1	0	0
+cell wall organization	GO_0071555	1	1	1	0	0
+cell wall modification involved in multidimensional cell growth	GO_0042547	1	1	1	0	0
+cell wall modification involved in fruit ripening	GO_0009829	1	1	1	0	0
+cell wall modification involved in abscission	GO_0009830	1	1	1	0	0
+cell wall modification	GO_0042545	1	1	1	0	0
+cell wall disassembly involved in floral organ abscission	GO_0060870	1	1	1	0	0
+cell wall disassembly	GO_0044277	1	1	1	0	0
+cell wall biogenesis	GO_0042546	1	1	1	0	0
+cell wall assembly	GO_0070726	1	1	1	0	0
+callose deposition in cell wall	GO_0052543	1	1	1	0	0
+Gram-negative-bacterium-type cell wall biogenesis	GO_0043164	1	1	1	0	0
+Actinobacterium-type cell wall biogenesis	GO_0071766	1	1	1	0	0
+septin ring assembly	GO_0000921	1	0	1	0	0
+septin assembly and septum formation	GO_0000094	1	0	1	1	1
+regulation of secondary cell wall biogenesis	GO_2000652	1	0	1	0	0
+regulation of plant-type cell wall organization or biogenesis	GO_0080157	1	0	1	0	0
+regulation of plant-type cell wall cellulose catabolic process	GO_2000939	1	0	1	0	0
+regulation of plant-type cell wall cellulose biosynthetic process	GO_2001009	1	0	1	0	0
+regulation of fungal-type cell wall organization	GO_0060237	1	0	1	0	0
+regulation of fungal-type cell wall biogenesis	GO_0032995	1	0	1	0	0
+regulation of flocculation via cell wall protein-carbohydrate interaction	GO_1900455	1	0	1	0	0
+regulation of cell wall polysaccharide catabolic process	GO_2000966	1	0	1	0	0
+regulation of cell wall macromolecule metabolic process	GO_0010981	1	0	1	0	0
+regulation of cell wall chitin metabolic process	GO_0034222	1	0	1	0	0
+regulation of cell wall chitin catabolic process	GO_0034233	1	0	1	0	0
+regulation of cell wall chitin biosynthetic process	GO_0032884	1	0	1	0	0
+primary cell septum	GO_0000936	1	0	1	0	0
+positive regulation of symbiont cell wall strengthening involved in entry into host	GO_0075050	1	0	1	0	0
+positive regulation of plant-type cell wall cellulose catabolic process	GO_2000941	1	0	1	0	0
+positive regulation of plant-type cell wall cellulose biosynthetic process	GO_2001011	1	0	1	0	0
+positive regulation of flocculation via cell wall protein-carbohydrate interaction	GO_1900479	1	0	1	0	0
+positive regulation of cell wall polysaccharide catabolic process	GO_2000968	1	0	1	0	0
+positive regulation by symbiont of defense-related host cell wall thickening	GO_0052539	1	0	1	0	0
+positive regulation by symbiont of defense-related host cell wall callose deposition	GO_0052109	1	0	1	0	0
+porous cell septum	GO_0000934	1	0	1	0	0
+plant-type cell wall organization or biogenesis	GO_0071669	1	0	1	0	0
+plant-type cell wall cellulose metabolic process	GO_0052541	1	0	1	0	0
+plant-type cell wall cellulose catabolic process	GO_0044348	1	0	1	0	0
+plant-type cell wall cellulose biosynthetic process	GO_0052324	1	0	1	0	0
+peptidoglycan metabolic process	GO_0000270	1	0	1	0	0
+negative regulation of symbiont cell wall strengthening involved in entry into host	GO_0075051	1	0	1	0	0
+negative regulation of plant-type cell wall cellulose catabolic process	GO_2000940	1	0	1	0	0
+negative regulation of plant-type cell wall cellulose biosynthetic process	GO_2001010	1	0	1	0	0
+negative regulation of cell wall polysaccharide catabolic process	GO_2000967	1	0	1	0	0
+negative regulation by symbiont of defense-related host cell wall callose deposition	GO_0052202	1	0	1	0	0
+negative regulation by organism of defense-related symbiont cell wall callose deposition	GO_0052478	1	0	1	1	1
+negative regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052311	1	0	1	0	0
+mycolate cell wall layer assembly	GO_0071769	1	0	1	0	0
+multi-organism cell wall macromolecule metabolic process	GO_0044037	1	0	1	0	0
+modulation of symbiont cell wall strengthening involved in entry into host	GO_0075049	1	0	1	0	0
+modulation by symbiont of defense-related host cell wall thickening	GO_0052161	1	0	1	0	0
+modulation by symbiont of defense-related host cell wall callose deposition	GO_0052189	1	0	1	0	0
+modulation by organism of defense-related symbiont cell wall thickening	GO_0052446	1	0	1	1	1
+modulation by organism of defense-related symbiont cell wall callose deposition	GO_0052439	1	0	1	1	1
+modulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052300	1	0	1	0	0
+modulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052310	1	0	1	0	0
+modification by symbiont of host cell wall	GO_0052020	1	0	1	0	0
+modification by organism of cell wall of other organism involved in symbiotic interaction	GO_0052333	1	0	1	0	0
+modification by host of symbiont cell wall	GO_0052336	1	0	1	0	0
+metabolism by symbiont of host cell wall pectin	GO_0052179	1	0	1	0	0
+metabolism by symbiont of host cell wall chitin	GO_0052178	1	0	1	0	0
+metabolism by symbiont of host cell wall cellulose	GO_0052172	1	0	1	0	0
+metabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052413	1	0	1	0	0
+metabolism by organism of cell wall chitin in other organism involved in symbiotic interaction	GO_0052411	1	0	1	0	0
+metabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052409	1	0	1	0	0
+metabolism by host of symbiont cell wall pectin	GO_0052412	1	0	1	0	0
+metabolism by host of symbiont cell wall chitin	GO_0052410	1	0	1	0	0
+metabolism by host of symbiont cell wall cellulose	GO_0052408	1	0	1	0	0
+induction by symbiont of defense-related host cell wall thickening	GO_0052105	1	0	1	0	0
+induction by organism of defense-related symbiont cell wall thickening	GO_0052394	1	0	1	1	1
+induction by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052290	1	0	1	0	0
+fungal-type cell wall polysaccharide metabolic process	GO_0071966	1	0	1	0	0
+fungal-type cell wall polysaccharide biosynthetic process	GO_0051278	1	0	1	0	0
+fungal-type cell wall organization or biogenesis	GO_0071852	1	0	1	0	0
+fungal-type cell wall chitin biosynthetic process	GO_0034221	1	0	1	0	0
+flocculation via cell wall protein-carbohydrate interaction	GO_0000501	1	0	1	0	0
+dolipore septum	GO_0000937	1	0	1	0	0
+disruption by symbiont of host cell wall	GO_0052009	1	0	1	0	0
+disruption by organism of cell wall of other organism involved in symbiotic interaction	GO_0052339	1	0	1	0	0
+disruption by host of symbiont cell wall	GO_0052338	1	0	1	0	0
+cell wall proteoglycan metabolic process	GO_0010384	1	0	1	0	0
+cell wall polysaccharide metabolic process	GO_0010383	1	0	1	0	0
+cell wall polysaccharide catabolic process	GO_0044347	1	0	1	0	0
+cell wall polysaccharide biosynthetic process	GO_0070592	1	0	1	0	0
+cell wall pectin metabolic process	GO_0052546	1	0	1	0	0
+cell wall pectin biosynthetic process	GO_0052325	1	0	1	0	0
+cell wall organization or biogenesis	GO_0071554	1	0	1	0	0
+cell wall mannoprotein biosynthetic process	GO_0000032	1	0	1	0	0
+cell wall macromolecule metabolic process	GO_0044036	1	0	1	0	0
+cell wall macromolecule catabolic process involved in fungal-type cell wall disassembly	GO_0071854	1	0	1	0	0
+cell wall macromolecule catabolic process involved in cytogamy	GO_0032219	1	0	1	0	0
+cell wall macromolecule catabolic process involved in cell wall disassembly	GO_0070910	1	0	1	0	0
+cell wall macromolecule catabolic process	GO_0016998	1	0	1	0	0
+cell wall macromolecule biosynthetic process	GO_0044038	1	0	1	0	0
+cell wall hydroxyproline-rich glycoprotein metabolic process	GO_0010404	1	0	1	0	0
+cell wall glycoprotein biosynthetic process	GO_0031506	1	0	1	0	0
+cell wall disruption in other organism	GO_0044278	1	0	1	0	0
+cell wall chitin metabolic process	GO_0006037	1	0	1	0	0
+cell wall chitin catabolic process	GO_0006039	1	0	1	0	0
+cell wall chitin biosynthetic process	GO_0006038	1	0	1	0	0
+cell plate formation involved in plant-type cell wall biogenesis	GO_0009920	1	0	1	0	0
+catabolism by symbiont of host cell wall pectin	GO_0052011	1	0	1	0	0
+catabolism by symbiont of host cell wall chitin	GO_0052012	1	0	1	0	0
+catabolism by symbiont of host cell wall cellulose	GO_0052010	1	0	1	0	0
+catabolism by organism of cell wall peptidoglycan in other organism	GO_0051672	1	0	1	0	0
+catabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052341	1	0	1	0	0
+catabolism by organism of cell wall chitin in other organism involved in symbiotic interaction	GO_0052342	1	0	1	0	0
+catabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052340	1	0	1	0	0
+catabolism by host of symbiont cell wall pectin	GO_0052357	1	0	1	0	0
+catabolism by host of symbiont cell wall chitin	GO_0052356	1	0	1	0	0
+catabolism by host of symbiont cell wall cellulose	GO_0052355	1	0	1	0	0
+barrier septum site selection	GO_0000918	1	0	1	0	0
+barrier septum assembly	GO_0000917	1	0	1	0	0
+barrier septum	GO_0000935	1	0	1	0	0
+adventitious septum	GO_0000933	1	0	1	0	0
+MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	1	0	1	0	0
+MAPK cascade involved in cell wall organization or biogenesis	GO_0000196	1	0	1	0	0
+DIM/DIP cell wall layer assembly	GO_0071770	1	0	1	0	0
+yeast-form cell wall	GO_0030445	0	1	0	0	0
+suberin network	GO_0048225	0	1	0	0	0
+spore wall biogenesis	GO_0070590	0	1	0	0	0
+spore wall assembly	GO_0042244	0	1	0	0	0
+spore wall	GO_0031160	0	1	0	0	0
+simple sieve plate	GO_0097220	0	1	0	0	0
+sieve plate	GO_0097218	0	1	0	0	0
+sieve area	GO_0097217	0	1	0	0	0
+sexual spore wall assembly	GO_0034294	0	1	0	0	0
+sexual spore wall	GO_0097514	0	1	0	0	0
+secondary cell wall	GO_0009531	0	1	0	0	0
+primary cell wall	GO_0009530	0	1	0	0	0
+plant-type cell wall loosening involved in abscission	GO_1902088	0	1	0	0	0
+plant-type cell wall	GO_0009505	0	1	0	0	0
+perforation plate	GO_1990073	0	1	0	0	0
+peptidoglycan-based cell wall	GO_0009274	0	1	0	0	0
+pectic matrix	GO_0048217	0	1	0	0	0
+outer endospore membrane	GO_0043594	0	1	0	0	0
+lignin network	GO_0048224	0	1	0	0	0
+inner layer of spore wall	GO_0005632	0	1	0	0	0
+hyphal cell wall	GO_0030446	0	1	0	0	0
+hemicellulose network	GO_0048223	0	1	0	0	0
+glycoprotein network	GO_0048222	0	1	0	0	0
+fungal-type cell wall	GO_0009277	0	1	0	0	0
+filiform apparatus	GO_0043680	0	1	0	0	0
+external side of fungal-type cell wall	GO_0070263	0	1	0	0	0
+external side of cell wall	GO_0010339	0	1	0	0	0
+exosporium	GO_0043592	0	1	0	0	0
+endospore external encapsulating structure	GO_0043591	0	1	0	0	0
+endospore cortex	GO_0043595	0	1	0	0	0
+endospore coat	GO_0043593	0	1	0	0	0
+dityrosine layer of spore wall	GO_0005630	0	1	0	0	0
+cyst wall	GO_0097570	0	1	0	0	0
+compound sieve plate	GO_0097219	0	1	0	0	0
+chitosan layer of spore wall	GO_0005631	0	1	0	0	0
+cellulose microfibril	GO_0009549	0	1	0	0	0
+cellular bud scar	GO_0005621	0	1	0	0	0
+cellular birth scar	GO_0071597	0	1	0	0	0
+cell wall part	GO_0044426	0	1	0	0	0
+cell wall	GO_0005618	0	1	0	0	0
+cell septum edging	GO_0043188	0	1	0	0	0
+asexual spore wall assembly	GO_0042243	0	1	0	0	0
+asexual spore wall	GO_0097515	0	1	0	0	0
+ascospore wall biogenesis	GO_0070591	0	1	0	0	0
+ascospore wall assembly	GO_0030476	0	1	0	0	0
+ascospore wall	GO_0005619	0	1	0	0	0
+Gram-positive-bacterium-type cell wall	GO_0009275	0	1	0	0	0
+Gram-negative-bacterium-type cell wall	GO_0009276	0	1	0	0	0
+Casparian strip	GO_0048226	0	1	0	0	0

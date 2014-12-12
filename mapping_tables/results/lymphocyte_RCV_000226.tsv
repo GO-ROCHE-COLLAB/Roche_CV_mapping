@@ -8,10 +8,10 @@ lymphocyte homeostasis	GO_0002260	1	1	1	0	0
 lymphocyte differentiation	GO_0030098	1	1	1	0	0
 lymphocyte chemotaxis	GO_0048247	1	1	1	0	0
 lymphocyte apoptotic process	GO_0070227	1	1	1	0	0
+lymphocyte anergy	GO_0002249	1	1	1	0	0
+lymphocyte aggregation	GO_0071593	1	1	1	0	0
 lymphocyte activation	GO_0046649	1	1	1	0	0
 lymphocyte costimulation	GO_0031294	1	0	1	0	0
-lymphocyte anergy	GO_0002249	1	0	1	0	0
-lymphocyte aggregation	GO_0071593	1	0	1	0	0
 type IV hypersensitivity	GO_0001806	0	1	0	0	0
 type IIb hypersensitivity	GO_0001795	0	1	0	0	0
 type IIa hypersensitivity	GO_0001794	0	1	0	0	0
@@ -25,6 +25,7 @@ transitional stage B cell differentiation	GO_0002332	0	1	0	0	0
 transitional one stage B cell differentiation	GO_0002333	0	1	0	0	0
 thymocyte migration	GO_0072679	0	1	0	0	0
 thymocyte apoptotic process	GO_0070242	0	1	0	0	0
+thymocyte aggregation	GO_0071594	0	1	0	0	0
 thymic T cell selection	GO_0045061	0	1	0	0	0
 termination of T cell signal transduction	GO_0023022	0	1	0	0	0
 suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0	0
@@ -192,6 +193,7 @@ T cell chemotaxis	GO_0010818	0	1	0	0	0
 T cell apoptotic process	GO_0070231	0	1	0	0	0
 T cell antigen processing and presentation	GO_0002457	0	1	0	0	0
 T cell anergy	GO_0002870	0	1	0	0	0
+T cell aggregation	GO_0070489	0	1	0	0	0
 T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
 T cell activation involved in immune response	GO_0002286	0	1	0	0	0
 T cell activation	GO_0042110	0	1	0	0	0
@@ -256,5 +258,6 @@ B cell antigen processing and presentation following pinocytosis	GO_0002421	0	1	
 B cell antigen processing and presentation	GO_0002450	0	1	0	0	0
 B cell anergy	GO_0002515	0	1	0	0	0
 B cell affinity maturation	GO_0002344	0	1	0	0	0
+B cell adhesion	GO_0097323	0	1	0	0	0
 B cell activation involved in immune response	GO_0002312	0	1	0	0	0
 B cell activation	GO_0042113	0	1	0	0	0

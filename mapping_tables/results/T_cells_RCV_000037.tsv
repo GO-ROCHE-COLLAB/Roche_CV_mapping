@@ -60,6 +60,7 @@ T cell chemotaxis	GO_0010818	1	1	1	0	0
 T cell apoptotic process	GO_0070231	1	1	1	0	0
 T cell antigen processing and presentation	GO_0002457	1	1	1	0	0
 T cell anergy	GO_0002870	1	1	1	0	0
+T cell aggregation	GO_0070489	1	1	1	0	0
 T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	1	1	1	0	0
 T cell activation	GO_0042110	1	1	1	0	0
 CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	1	1	1	0	0
@@ -240,7 +241,6 @@ alpha-beta T cell lineage commitment	GO_0002363	1	0	1	0	0
 T cell receptor V(D)J recombination	GO_0033153	1	0	1	0	0
 T cell lineage commitment	GO_0002360	1	0	1	0	0
 T cell inhibitory signaling pathway	GO_0002770	1	0	1	0	0
-T cell aggregation	GO_0070489	1	0	1	0	0
 T cell activation of signal transmission via diffusible molecule	GO_0023018	1	0	1	1	1
 CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	1	0	1	0	0
 CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	1	0	1	0	0
@@ -249,6 +249,7 @@ CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	1	
 type IV hypersensitivity	GO_0001806	0	1	1	0	0
 thymocyte migration	GO_0072679	0	1	1	0	0
 thymocyte apoptotic process	GO_0070242	0	1	0	0	0
+thymocyte aggregation	GO_0071594	0	1	0	0	0
 regulatory T cell apoptotic process	GO_1902482	0	1	0	0	0
 memory T cell proliferation	GO_0061485	0	1	1	0	0
 helper T cell extravasation	GO_0035684	0	1	1	0	0

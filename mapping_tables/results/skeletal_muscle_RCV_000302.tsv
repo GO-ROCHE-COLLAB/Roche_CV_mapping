@@ -1,0 +1,113 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+skeletal muscle tissue growth	GO_0048630	1	1	1	0	0
+skeletal muscle tissue development	GO_0007519	1	1	1	0	0
+skeletal muscle satellite stem cell asymmetric division involved in skeletal muscle regeneration	GO_0014716	1	1	1	0	0
+skeletal muscle fiber development	GO_0048741	1	1	1	0	0
+skeletal muscle cell differentiation	GO_0035914	1	1	1	0	0
+regulation of skeletal muscle tissue growth	GO_0048631	1	1	1	0	0
+regulation of skeletal muscle tissue development	GO_0048641	1	1	1	0	0
+regulation of skeletal muscle fiber development	GO_0048742	1	1	1	0	0
+regulation of skeletal muscle cell differentiation	GO_2001014	1	1	1	0	0
+regulation of extraocular skeletal muscle development	GO_0014725	1	1	1	0	0
+regulation of branchiomeric skeletal muscle development	GO_0014711	1	1	1	0	0
+positive regulation of skeletal muscle tissue growth	GO_0048633	1	1	1	0	0
+positive regulation of skeletal muscle tissue development	GO_0048643	1	1	1	0	0
+positive regulation of skeletal muscle fiber development	GO_0048743	1	1	1	0	0
+positive regulation of skeletal muscle cell differentiation	GO_2001016	1	1	1	0	0
+positive regulation of extraocular skeletal muscle development	GO_0014727	1	1	1	0	0
+positive regulation of branchiomeric skeletal muscle development	GO_0014712	1	1	1	0	0
+negative regulation of skeletal muscle tissue growth	GO_0048632	1	1	1	0	0
+negative regulation of skeletal muscle tissue development	GO_0048642	1	1	1	0	0
+negative regulation of skeletal muscle fiber development	GO_0048744	1	1	1	0	0
+negative regulation of skeletal muscle cell differentiation	GO_2001015	1	1	1	0	0
+negative regulation of extraocular skeletal muscle development	GO_0014726	1	1	1	0	0
+negative regulation of branchiomeric skeletal muscle development	GO_0014713	1	1	1	0	0
+extraocular skeletal muscle development	GO_0002074	1	1	1	0	0
+branchiomeric skeletal muscle development	GO_0014707	1	1	1	0	0
+voluntary skeletal muscle contraction	GO_0003010	1	0	1	0	0
+twitch skeletal muscle contraction	GO_0014721	1	0	1	0	0
+tonic skeletal muscle contraction	GO_0014720	1	0	1	0	0
+slow-twitch skeletal muscle fiber contraction	GO_0031444	1	0	1	0	0
+skeletal system morphogenesis	GO_0048705	1	0	1	0	0
+skeletal system development	GO_0001501	1	0	1	0	0
+skeletal myofibril assembly	GO_0014866	1	0	1	0	0
+skeletal muscle tissue regeneration	GO_0043403	1	0	1	0	0
+skeletal muscle thin filament assembly	GO_0030240	1	0	1	0	0
+skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration	GO_0014834	1	0	1	0	0
+skeletal muscle regeneration at neuromuscular junction	GO_0014730	1	0	1	0	0
+skeletal muscle organ development	GO_0060538	1	0	1	0	0
+skeletal muscle myosin thick filament assembly	GO_0030241	1	0	1	0	0
+skeletal muscle hypertrophy	GO_0014734	1	0	1	0	0
+skeletal muscle fiber adaptation	GO_0043503	1	0	1	0	0
+skeletal muscle contraction	GO_0003009	1	0	1	0	0
+skeletal muscle cell proliferation	GO_0014856	1	0	1	0	0
+skeletal muscle atrophy	GO_0014732	1	0	1	0	0
+skeletal muscle adaptation	GO_0043501	1	0	1	0	0
+skeletal muscle acetylcholine-gated channel clustering	GO_0071340	1	0	1	0	0
+satellite cell activation involved in skeletal muscle regeneration	GO_0014901	1	0	1	0	0
+relaxation of skeletal muscle	GO_0090076	1	0	1	0	0
+regulation of twitch skeletal muscle contraction	GO_0014724	1	0	1	0	0
+regulation of tonic skeletal muscle contraction	GO_0014746	1	0	1	0	0
+regulation of the velocity of shortening of skeletal muscle modulating contraction	GO_0014729	1	0	1	0	0
+regulation of the force of skeletal muscle contraction	GO_0014728	1	0	1	0	0
+regulation of slow-twitch skeletal muscle fiber contraction	GO_0031449	1	0	1	0	0
+regulation of skeletal muscle tissue regeneration	GO_0043416	1	0	1	0	0
+regulation of skeletal muscle contraction via regulation of action potential	GO_0014861	1	0	1	0	0
+regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014809	1	0	1	0	0
+regulation of skeletal muscle contraction by neural stimulation via neuromuscular junction	GO_0014852	1	0	1	0	0
+regulation of skeletal muscle contraction by modulation of calcium ion sensitivity of myofibril	GO_0014723	1	0	1	0	0
+regulation of skeletal muscle contraction by chemo-mechanical energy conversion	GO_0014862	1	0	1	0	0
+regulation of skeletal muscle contraction by calcium ion signaling	GO_0014722	1	0	1	0	0
+regulation of skeletal muscle contraction	GO_0014819	1	0	1	0	0
+regulation of skeletal muscle cell proliferation	GO_0014857	1	0	1	0	0
+regulation of skeletal muscle adaptation	GO_0014733	1	0	1	0	0
+regulation of satellite cell activation involved in skeletal muscle regeneration	GO_0014717	1	0	1	0	0
+regulation of muscle filament sliding speed involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014915	1	0	1	0	0
+regulation of muscle filament sliding involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014880	1	0	1	0	0
+regulation of fast-twitch skeletal muscle fiber contraction	GO_0031446	1	0	1	0	0
+regulation of excitatory postsynaptic membrane potential involved in skeletal muscle contraction	GO_0014853	1	0	1	0	0
+positive regulation of tonic skeletal muscle contraction	GO_0014747	1	0	1	0	0
+positive regulation of slow-twitch skeletal muscle fiber contraction	GO_0031451	1	0	1	0	0
+positive regulation of skeletal muscle tissue regeneration	GO_0043415	1	0	1	0	0
+positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014810	1	0	1	0	0
+positive regulation of skeletal muscle cell proliferation	GO_0014858	1	0	1	0	0
+positive regulation of satellite cell activation involved in skeletal muscle regeneration	GO_0014718	1	0	1	0	0
+positive regulation of fast-twitch skeletal muscle fiber contraction	GO_0031448	1	0	1	0	0
+negative regulation of tonic skeletal muscle contraction	GO_0014748	1	0	1	0	0
+negative regulation of slow-twitch skeletal muscle fiber contraction	GO_0031450	1	0	1	0	0
+negative regulation of skeletal muscle tissue regeneration	GO_0043417	1	0	1	0	0
+negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014811	1	0	1	0	0
+negative regulation of skeletal muscle cell proliferation	GO_0014859	1	0	1	0	0
+negative regulation of fast-twitch skeletal muscle fiber contraction	GO_0031447	1	0	1	0	0
+myotube differentiation involved in skeletal muscle regeneration	GO_0014908	1	0	1	0	0
+involuntary skeletal muscle contraction	GO_0003011	1	0	1	0	0
+initiation of skeletal muscle satellite cell activation by growth factor signalling, involved in skeletal muscle regeneration	GO_0014815	1	0	1	0	0
+fast-twitch skeletal muscle fiber contraction	GO_0031443	1	0	1	0	0
+cross bridge formation involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014871	1	0	1	0	0
+cross bridge cycling involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014868	1	0	1	0	0
+tongue muscle cell differentiation	GO_0035981	0	1	0	0	0
+somitomeric trunk muscle development	GO_0002075	0	1	0	0	0
+skeletal muscle satellite stem cell asymmetric division	GO_0014833	0	1	0	0	0
+skeletal muscle satellite cell fate determination	GO_0014818	0	1	0	0	0
+skeletal muscle satellite cell differentiation	GO_0014816	0	1	0	0	0
+skeletal muscle satellite cell commitment	GO_0014813	0	1	0	0	0
+skeletal muscle fiber differentiation	GO_0098528	0	1	0	0	0
+satellite cell fate specification	GO_0014817	0	1	0	0	0
+regulation of tongue muscle cell differentiation	GO_2001035	0	1	0	0	0
+regulation of somitomeric trunk muscle development	GO_0014708	0	1	0	0	0
+regulation of skeletal muscle fiber differentiation	GO_1902809	0	1	0	0	0
+regulation of myoblast differentiation	GO_0045661	0	1	0	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0	0
+positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	0	0	0
+positive regulation of somitomeric trunk muscle development	GO_0014709	0	1	0	0	0
+positive regulation of skeletal muscle satellite cell differentiation	GO_1902726	0	1	0	0	0
+positive regulation of skeletal muscle fiber differentiation	GO_1902811	0	1	0	0	0
+positive regulation of myoblast differentiation	GO_0045663	0	1	0	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0	0
+neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	0	0	0
+negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	0	0	0
+negative regulation of somitomeric trunk muscle development	GO_0014710	0	1	0	0	0
+negative regulation of skeletal muscle fiber differentiation	GO_1902810	0	1	0	0	0
+negative regulation of satellite cell differentiation	GO_1902725	0	1	0	0	0
+negative regulation of myoblast differentiation	GO_0045662	0	1	0	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0	0

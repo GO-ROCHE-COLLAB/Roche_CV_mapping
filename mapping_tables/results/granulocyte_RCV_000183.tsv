@@ -36,6 +36,7 @@ eosinophil migration	GO_0072677	0	1	1	0	0
 eosinophil mediated immunity	GO_0002447	0	1	1	0	0
 eosinophil fate specification	GO_0035857	0	1	0	0	0
 eosinophil fate determination	GO_0035858	0	1	0	0	0
+eosinophil fate commitment	GO_0035854	0	1	0	0	0
 eosinophil extravasation	GO_0072682	0	1	1	0	0
 eosinophil differentiation	GO_0030222	0	1	0	0	0
 eosinophil degranulation	GO_0043308	0	1	1	0	0

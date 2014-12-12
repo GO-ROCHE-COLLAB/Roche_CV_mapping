@@ -1695,6 +1695,7 @@ RCV_000037	T cells	GO_0002571	somatic diversification of T cell receptor genes b
 RCV_000037	T cells	GO_0002681	somatic recombination of T cell receptor gene segments
 RCV_000037	T cells	GO_0023022	termination of T cell signal transduction
 RCV_000037	T cells	GO_0045061	thymic T cell selection
+RCV_000037	T cells	GO_0071594	thymocyte aggregation
 RCV_000037	T cells	GO_0070242	thymocyte apoptotic process
 RCV_000037	T cells	GO_0072679	thymocyte migration
 RCV_000037	T cells	GO_0001806	type IV hypersensitivity
@@ -3505,6 +3506,7 @@ RCV_000091	brain development	GO_0021688	cerebellar molecular layer formation
 RCV_000091	brain development	GO_0021690	cerebellar molecular layer maturation
 RCV_000091	brain development	GO_0021687	cerebellar molecular layer morphogenesis
 RCV_000091	brain development	GO_0021689	cerebellar molecular layer structural organization
+RCV_000091	brain development	GO_0098749	cerebellar neuron development
 RCV_000091	brain development	GO_0021710	cerebellar stellate cell differentiation
 RCV_000091	brain development	GO_0021711	cerebellar unipolar brush cell differentiation
 RCV_000091	brain development	GO_0021549	cerebellum development
@@ -4178,6 +4180,7 @@ RCV_000115	cell differentiation	GO_0060487	lung epithelial cell differentiation
 RCV_000115	cell differentiation	GO_0060480	lung goblet cell differentiation
 RCV_000115	cell differentiation	GO_0061100	lung neuroendocrine cell differentiation
 RCV_000115	cell differentiation	GO_0061140	lung secretory cell differentiation
+RCV_000115	cell differentiation	GO_1903728	luteal cell differentiation
 RCV_000115	cell differentiation	GO_0035170	lymph gland crystal cell differentiation
 RCV_000115	cell differentiation	GO_0035169	lymph gland plasmatocyte differentiation
 RCV_000115	cell differentiation	GO_0060836	lymphatic endothelial cell differentiation
@@ -5905,14 +5908,62 @@ RCV_000123	cell proliferation	GO_0021847	ventricular zone neuroblast division
 RCV_000123	cell proliferation	GO_0070343	white fat cell proliferation
 RCV_000127	cell-cell adhesion	GO_0086072	AV node cell-bundle of His cell adhesion involved in cell communication
 RCV_000127	cell-cell adhesion	GO_0097323	B cell adhesion
+RCV_000127	cell-cell adhesion	GO_0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0035710	CD4-positive, alpha-beta T cell activation
+RCV_000127	cell-cell adhesion	GO_0043367	CD4-positive, alpha-beta T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0035739	CD4-positive, alpha-beta T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0036037	CD8-positive, alpha-beta T cell activation
+RCV_000127	cell-cell adhesion	GO_0043374	CD8-positive, alpha-beta T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0035740	CD8-positive, alpha-beta T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002307	CD8-positive, alpha-beta regulatory T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0051132	NK T cell activation
+RCV_000127	cell-cell adhesion	GO_0002288	NK T cell activation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0001865	NK T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0001866	NK T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0002289	NK T cell proliferation involved in immune response
 RCV_000127	cell-cell adhesion	GO_0086074	Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication
 RCV_000127	cell-cell adhesion	GO_0086022	SA node cell-atrial cardiac muscle cell adhesion involved in cell communication
+RCV_000127	cell-cell adhesion	GO_0042110	T cell activation
+RCV_000127	cell-cell adhesion	GO_0002286	T cell activation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
 RCV_000127	cell-cell adhesion	GO_0070489	T cell aggregation
+RCV_000127	cell-cell adhesion	GO_0030217	T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0033077	T cell differentiation in thymus
+RCV_000127	cell-cell adhesion	GO_0002292	T cell differentiation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0001777	T cell homeostatic proliferation
+RCV_000127	cell-cell adhesion	GO_0042098	T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0002309	T cell proliferation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0061470	T follicular helper cell differentiation
+RCV_000127	cell-cell adhesion	GO_0035711	T-helper 1 cell activation
+RCV_000127	cell-cell adhesion	GO_0045063	T-helper 1 cell differentiation
+RCV_000127	cell-cell adhesion	GO_0072539	T-helper 17 cell differentiation
+RCV_000127	cell-cell adhesion	GO_0035712	T-helper 2 cell activation
+RCV_000127	cell-cell adhesion	GO_0045064	T-helper 2 cell differentiation
+RCV_000127	cell-cell adhesion	GO_0042093	T-helper cell differentiation
+RCV_000127	cell-cell adhesion	GO_0035741	activated CD4-positive, alpha-beta T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0035742	activated CD8-positive, alpha-beta T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0050798	activated T cell proliferation
 RCV_000127	cell-cell adhesion	GO_0098610	adhesion between unicellular organisms
 RCV_000127	cell-cell adhesion	GO_0098741	adhesion between unicellular organisms via cell-wall interaction
 RCV_000127	cell-cell adhesion	GO_0000771	agglutination involved in conjugation
 RCV_000127	cell-cell adhesion	GO_0000752	agglutination involved in conjugation with cellular fusion
 RCV_000127	cell-cell adhesion	GO_0000758	agglutination involved in conjugation with mutual genetic exchange
+RCV_000127	cell-cell adhesion	GO_0046631	alpha-beta T cell activation
+RCV_000127	cell-cell adhesion	GO_0042722	alpha-beta T cell activation by superantigen
+RCV_000127	cell-cell adhesion	GO_0002287	alpha-beta T cell activation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0046632	alpha-beta T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002293	alpha-beta T cell differentiation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0046633	alpha-beta T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0002310	alpha-beta T cell proliferation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0002299	alpha-beta intraepithelial T cell differentiation
 RCV_000127	cell-cell adhesion	GO_0086071	atrial cardiac muscle cell-AV node cell adhesion involved in cell communication
 RCV_000127	cell-cell adhesion	GO_0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication
 RCV_000127	cell-cell adhesion	GO_0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules
@@ -5938,15 +5989,27 @@ RCV_000127	cell-cell adhesion	GO_0033631	cell-cell adhesion mediated by integrin
 RCV_000127	cell-cell adhesion	GO_0098742	cell-cell adhesion via plasma-membrane adhesion molecules
 RCV_000127	cell-cell adhesion	GO_0060710	chorio-allantoic fusion
 RCV_000127	cell-cell adhesion	GO_0000761	conjugant formation
+RCV_000127	cell-cell adhesion	GO_0043316	cytotoxic T cell degranulation
+RCV_000127	cell-cell adhesion	GO_0045065	cytotoxic T cell differentiation
 RCV_000127	cell-cell adhesion	GO_0003274	endocardial cushion fusion
 RCV_000127	cell-cell adhesion	GO_0071603	endothelial cell-cell adhesion
 RCV_000127	cell-cell adhesion	GO_0090136	epithelial cell-cell adhesion
 RCV_000127	cell-cell adhesion	GO_0090137	epithelial cell-cell adhesion involved in epithelium migration
 RCV_000127	cell-cell adhesion	GO_0034117	erythrocyte aggregation
+RCV_000127	cell-cell adhesion	GO_0033078	extrathymic T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0046629	gamma-delta T cell activation
+RCV_000127	cell-cell adhesion	GO_0002290	gamma-delta T cell activation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0042492	gamma-delta T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0002303	gamma-delta T cell differentiation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0046630	gamma-delta T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0002311	gamma-delta T cell proliferation involved in immune response
+RCV_000127	cell-cell adhesion	GO_0002304	gamma-delta intraepithelial T cell differentiation
 RCV_000127	cell-cell adhesion	GO_0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
 RCV_000127	cell-cell adhesion	GO_0034113	heterotypic cell-cell adhesion
 RCV_000127	cell-cell adhesion	GO_0007156	homophilic cell adhesion via plasma membrane adhesion molecules
 RCV_000127	cell-cell adhesion	GO_0034109	homotypic cell-cell adhesion
+RCV_000127	cell-cell adhesion	GO_0033079	immature T cell proliferation
+RCV_000127	cell-cell adhesion	GO_0033080	immature T cell proliferation in thymus
 RCV_000127	cell-cell adhesion	GO_0050903	leukocyte activation-dependent arrest
 RCV_000127	cell-cell adhesion	GO_0070486	leukocyte aggregation
 RCV_000127	cell-cell adhesion	GO_0007159	leukocyte cell-cell adhesion
@@ -5954,6 +6017,9 @@ RCV_000127	cell-cell adhesion	GO_0050901	leukocyte tethering or rolling
 RCV_000127	cell-cell adhesion	GO_0036339	lymphocyte adhesion to endothelial cell of high endothelial venule
 RCV_000127	cell-cell adhesion	GO_0071593	lymphocyte aggregation
 RCV_000127	cell-cell adhesion	GO_0097326	melanocyte adhesion
+RCV_000127	cell-cell adhesion	GO_0035709	memory T cell activation
+RCV_000127	cell-cell adhesion	GO_0043379	memory T cell differentiation
+RCV_000127	cell-cell adhesion	GO_0061485	memory T cell proliferation
 RCV_000127	cell-cell adhesion	GO_0060647	mesenchymal cell condensation involved in mammary fat development
 RCV_000127	cell-cell adhesion	GO_0070487	monocyte aggregation
 RCV_000127	cell-cell adhesion	GO_0007158	neuron cell-cell adhesion
@@ -5967,6 +6033,7 @@ RCV_000127	cell-cell adhesion	GO_0009865	pollen tube adhesion
 RCV_000127	cell-cell adhesion	GO_0021507	posterior neuropore closure
 RCV_000127	cell-cell adhesion	GO_0072035	pre-tubular aggregate formation
 RCV_000127	cell-cell adhesion	GO_0090138	regulation of actin cytoskeleton organization by cell-cell adhesion
+RCV_000127	cell-cell adhesion	GO_0045066	regulatory T cell differentiation
 RCV_000127	cell-cell adhesion	GO_0016337	single organismal cell-cell adhesion
 RCV_000127	cell-cell adhesion	GO_0071594	thymocyte aggregation
 RCV_000130	cell-matrix adhesion	GO_0016340	calcium-dependent cell-matrix adhesion
@@ -7559,6 +7626,7 @@ RCV_000183	granulocyte	GO_0048245	eosinophil chemotaxis
 RCV_000183	granulocyte	GO_0043308	eosinophil degranulation
 RCV_000183	granulocyte	GO_0030222	eosinophil differentiation
 RCV_000183	granulocyte	GO_0072682	eosinophil extravasation
+RCV_000183	granulocyte	GO_0035854	eosinophil fate commitment
 RCV_000183	granulocyte	GO_0035858	eosinophil fate determination
 RCV_000183	granulocyte	GO_0035857	eosinophil fate specification
 RCV_000183	granulocyte	GO_0002447	eosinophil mediated immunity
@@ -8064,6 +8132,7 @@ RCV_000190	hindbrain development	GO_0021688	cerebellar molecular layer formation
 RCV_000190	hindbrain development	GO_0021690	cerebellar molecular layer maturation
 RCV_000190	hindbrain development	GO_0021687	cerebellar molecular layer morphogenesis
 RCV_000190	hindbrain development	GO_0021689	cerebellar molecular layer structural organization
+RCV_000190	hindbrain development	GO_0098749	cerebellar neuron development
 RCV_000190	hindbrain development	GO_0021710	cerebellar stellate cell differentiation
 RCV_000190	hindbrain development	GO_0021711	cerebellar unipolar brush cell differentiation
 RCV_000190	hindbrain development	GO_0021549	cerebellum development
@@ -11027,6 +11096,7 @@ RCV_000244	neuron development	GO_0021956	central nervous system interneuron axon
 RCV_000244	neuron development	GO_0021955	central nervous system neuron axonogenesis
 RCV_000244	neuron development	GO_0021954	central nervous system neuron development
 RCV_000244	neuron development	GO_0021952	central nervous system projection neuron axonogenesis
+RCV_000244	neuron development	GO_0098749	cerebellar neuron development
 RCV_000244	neuron development	GO_0021894	cerebral cortex GABAergic interneuron development
 RCV_000244	neuron development	GO_0021853	cerebral cortex GABAergic interneuron migration
 RCV_000244	neuron development	GO_1902379	chemoattractant activity involved in axon guidance
@@ -11696,6 +11766,7 @@ RCV_000259	organ development	GO_0021928	basket cell precursor proliferation
 RCV_000259	organ development	GO_0030221	basophil differentiation
 RCV_000259	organ development	GO_0043366	beta selection
 RCV_000259	organ development	GO_0031214	biomineral tissue development
+RCV_000259	organ development	GO_0098751	bone cell development
 RCV_000259	organ development	GO_0060348	bone development
 RCV_000259	organ development	GO_0048539	bone marrow development
 RCV_000259	organ development	GO_0070977	bone maturation
@@ -11942,6 +12013,7 @@ RCV_000259	organ development	GO_0021688	cerebellar molecular layer formation
 RCV_000259	organ development	GO_0021690	cerebellar molecular layer maturation
 RCV_000259	organ development	GO_0021687	cerebellar molecular layer morphogenesis
 RCV_000259	organ development	GO_0021689	cerebellar molecular layer structural organization
+RCV_000259	organ development	GO_0098749	cerebellar neuron development
 RCV_000259	organ development	GO_0021710	cerebellar stellate cell differentiation
 RCV_000259	organ development	GO_0021711	cerebellar unipolar brush cell differentiation
 RCV_000259	organ development	GO_0021549	cerebellum development
@@ -16057,7 +16129,7 @@ RCV_000297	secretion	GO_0070253	somatostatin secretion
 RCV_000297	secretion	GO_0061669	spontaneous neurotransmitter secretion
 RCV_000297	secretion	GO_0035929	steroid hormone secretion
 RCV_000297	secretion	GO_0016182	synaptic vesicle budding from endosome
-RCV_000297	secretion	GO_0016081	synaptic vesicle docking involved in exocytosis
+RCV_000297	secretion	GO_0016081	synaptic vesicle docking
 RCV_000297	secretion	GO_0016079	synaptic vesicle exocytosis
 RCV_000297	secretion	GO_0031629	synaptic vesicle fusion to presynaptic membrane
 RCV_000297	secretion	GO_0016082	synaptic vesicle priming

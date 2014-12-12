@@ -248,6 +248,7 @@ regulation of centrosome cycle	GO_0046605	0	1	0	0	0
 regulation of centromeric sister chromatid cohesion	GO_0070602	0	1	0	0	0
 regulation of centriole-centriole cohesion	GO_0030997	0	1	0	0	0
 regulation of centriole replication	GO_0046599	0	1	0	0	0
+regulation of centriole elongation	GO_1903722	0	1	0	0	0
 regulation of cell shape involved in G1 to G0 transition	GO_1900528	0	1	0	0	0
 regulation of cell septum assembly	GO_1901891	0	1	0	0	0
 regulation of cell cycle phase transition	GO_1901987	0	1	0	0	0
@@ -354,6 +355,7 @@ positive regulation of centrosome duplication	GO_0010825	0	1	0	0	0
 positive regulation of centrosome cycle	GO_0046607	0	1	0	0	0
 positive regulation of centriole-centriole cohesion	GO_1903127	0	1	0	0	0
 positive regulation of centriole replication	GO_0046601	0	1	0	0	0
+positive regulation of centriole elongation	GO_1903724	0	1	0	0	0
 positive regulation of cell septum assembly	GO_1901893	0	1	0	0	0
 positive regulation of cell cycle phase transition	GO_1901989	0	1	0	0	0
 positive regulation of cell cycle checkpoint	GO_1901978	0	1	0	0	0
@@ -453,6 +455,7 @@ negative regulation of centrosome duplication	GO_0010826	0	1	0	0	0
 negative regulation of centrosome cycle	GO_0046606	0	1	0	0	0
 negative regulation of centriole-centriole cohesion	GO_1903126	0	1	0	0	0
 negative regulation of centriole replication	GO_0046600	0	1	0	0	0
+negative regulation of centriole elongation	GO_1903723	0	1	0	0	0
 negative regulation of cell septum assembly	GO_1901892	0	1	0	0	0
 negative regulation of cell cycle phase transition	GO_1901988	0	1	0	0	0
 negative regulation of cell cycle checkpoint	GO_1901977	0	1	0	0	0

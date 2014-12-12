@@ -16,9 +16,14 @@ minus-end directed microtubule sliding	GO_0031534	1	1	1	0	0
 microtubule-based transport	GO_0010970	1	1	1	0	0
 microtubule-based movement	GO_0007018	1	1	1	0	0
 microtubule sliding	GO_0051012	1	1	1	0	0
+microtubule severing	GO_0051013	1	1	1	0	0
 microtubule polymerization	GO_0046785	1	1	1	0	0
 microtubule organizing center organization	GO_0031023	1	1	1	0	0
 microtubule depolymerization	GO_0007019	1	1	1	0	0
+microtubule bundle formation	GO_0001578	1	1	1	0	0
+microtubule anchoring at microtubule organizing center	GO_0072393	1	1	1	0	0
+microtubule anchoring at centrosome	GO_0034454	1	1	1	0	0
+microtubule anchoring	GO_0034453	1	1	1	0	0
 interphase microtubule organizing center assembly	GO_0031024	1	1	1	0	0
 intermediate filament organization	GO_0045109	1	1	1	0	0
 intermediate filament bundle assembly	GO_0045110	1	1	1	0	0
@@ -35,6 +40,7 @@ cytoplasmic microtubule depolymerization	GO_0010938	1	1	1	0	0
 cortical microtubule organization	GO_0043622	1	1	1	0	0
 ciliary basal body organization	GO_0032053	1	1	1	0	0
 ciliary basal body duplication	GO_0032054	1	1	1	0	0
+barbed-end actin filament uncapping	GO_0051638	1	1	1	0	0
 astral spindle assembly involved in male meiosis	GO_0055050	1	1	1	0	0
 astral spindle assembly	GO_0055049	1	1	1	0	0
 astral microtubule organization	GO_0030953	1	1	1	0	0
@@ -52,6 +58,7 @@ actin rod assembly	GO_0031247	1	1	1	0	0
 actin polymerization or depolymerization	GO_0008154	1	1	1	0	0
 actin nucleation	GO_0045010	1	1	1	0	0
 actin filament-based movement	GO_0030048	1	1	1	0	0
+actin filament uncapping	GO_0051695	1	1	1	0	0
 actin filament reorganization involved in cell cycle	GO_0030037	1	1	1	0	0
 actin filament polymerization	GO_0030041	1	1	1	0	0
 actin filament organization	GO_0007015	1	1	1	0	0
@@ -133,7 +140,6 @@ mitotic spindle-templated microtubule nucleation	GO_0090221	1	0	1	0	0
 microtubule/chromatin interaction	GO_0008546	1	0	1	1	1
 microtubule-based process	GO_0007017	1	0	1	0	0
 microtubule-based peroxisome localization	GO_0060152	1	0	1	0	0
-microtubule severing	GO_0051013	1	0	1	0	0
 microtubule polymerization or depolymerization	GO_0031109	1	0	1	0	0
 microtubule organizing center attachment site organization	GO_0034994	1	0	1	0	0
 microtubule nucleation by microtubule organizing center	GO_0051418	1	0	1	0	0
@@ -142,10 +148,6 @@ microtubule depolymerization during nuclear congression	GO_0030444	1	0	1	1	1
 microtubule cytoskeleton organization involved in synapsis	GO_0090172	1	0	1	0	0
 microtubule cytoskeleton organization involved in establishment of planar polarity	GO_0090176	1	0	1	0	0
 microtubule cytoskeleton organization	GO_0000226	1	0	1	0	0
-microtubule bundle formation	GO_0001578	1	0	1	0	0
-microtubule anchoring at microtubule organizing center	GO_0072393	1	0	1	0	0
-microtubule anchoring at centrosome	GO_0034454	1	0	1	0	0
-microtubule anchoring	GO_0034453	1	0	1	0	0
 microfilament motor activity	GO_0000146	1	0	1	0	0
 interphase microtubule nucleation by interphase microtubule organizing center	GO_0051415	1	0	1	0	0
 intermediate filament-based process	GO_0045103	1	0	1	0	0
@@ -159,7 +161,6 @@ cytoskeleton polarization involved in growth plate cartilage chondrocyte divisio
 cytoskeletal matrix organization at active zone	GO_0048789	1	0	1	0	0
 chromatin-templated microtubule nucleation	GO_0090223	1	0	1	0	0
 centrosome-templated microtubule nucleation	GO_0090222	1	0	1	0	0
-barbed-end actin filament uncapping	GO_0051638	1	0	1	0	0
 barbed-end actin filament capping	GO_0051016	1	0	1	0	0
 assembly of actomyosin apparatus involved in cytokinesis	GO_0000912	1	0	1	0	0
 actomyosin contractile ring maintenance	GO_0031566	1	0	1	0	0
@@ -172,7 +173,6 @@ actin polymerization-dependent cell motility	GO_0070358	1	0	1	0	0
 actin phosphorylation	GO_0031289	1	0	1	0	0
 actin modification	GO_0030047	1	0	1	0	0
 actin filament-based process	GO_0030029	1	0	1	0	0
-actin filament uncapping	GO_0051695	1	0	1	0	0
 actin filament severing	GO_0051014	1	0	1	0	0
 actin filament debranching	GO_0071846	1	0	1	0	0
 actin filament capping	GO_0051693	1	0	1	0	0
@@ -218,12 +218,14 @@ spindle assembly involved in female meiosis I	GO_0007057	0	1	0	0	0
 spindle assembly involved in female meiosis	GO_0007056	0	1	0	0	0
 spindle assembly	GO_0051225	0	1	0	0	0
 spindle	GO_0005819	0	1	0	0	0
+sperm axoneme assembly	GO_0007288	0	1	0	0	0
 spectrin binding	GO_0030507	0	1	0	0	0
 spectrin	GO_0008091	0	1	0	0	0
 skeletal myofibril assembly	GO_0014866	0	1	0	0	0
 skeletal muscle thin filament assembly	GO_0030240	0	1	0	0	0
 skeletal muscle myosin thick filament assembly	GO_0030241	0	1	0	0	0
 sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation	GO_0051759	0	1	0	0	0
+sister chromatid biorientation	GO_0031134	0	1	0	0	0
 septin ring organization	GO_0031106	0	1	0	0	0
 septin ring disassembly	GO_0031107	0	1	0	0	0
 septin ring assembly	GO_0000921	0	1	0	0	0
@@ -248,6 +250,7 @@ preprophase band assembly	GO_0000913	0	1	0	0	0
 preprophase band	GO_0009574	0	1	0	0	0
 post-anaphase microtubule array	GO_1990295	0	1	0	0	0
 polar microtubule	GO_0005827	0	1	0	0	0
+pointed-end actin filament uncapping	GO_0051696	0	1	0	0	0
 podosome assembly	GO_0071800	0	1	0	0	0
 podosome	GO_0002102	0	1	0	0	0
 plus-end kinesin complex	GO_0005873	0	1	0	0	0
@@ -331,9 +334,12 @@ microtubule organizing center part	GO_0044450	0	1	0	0	0
 microtubule organizing center	GO_0005815	0	1	0	0	0
 microtubule minus-end binding	GO_0051011	0	1	0	0	0
 microtubule minus-end	GO_0036449	0	1	0	0	0
+microtubule bundle formation involved in mitotic spindle midzone assembly	GO_1903562	0	1	0	0	0
+microtubule bundle formation involved in horsetail-astral microtubule organization	GO_1903563	0	1	0	0	0
 microtubule bundle	GO_0097427	0	1	0	0	0
 microtubule binding	GO_0008017	0	1	0	0	0
 microtubule associated complex	GO_0005875	0	1	0	0	0
+microtubule anchoring at spindle pole body	GO_0034631	0	1	0	0	0
 microtubule	GO_0005874	0	1	0	0	0
 meiotic spindle pole body organization	GO_1990395	0	1	0	0	0
 meiotic spindle pole body	GO_0035974	0	1	0	0	0
@@ -388,6 +394,7 @@ hyphal septin ring	GO_0032168	0	1	0	0	0
 hyphal septin cap	GO_0032164	0	1	0	0	0
 hyphal septin band	GO_0032163	0	1	0	0	0
 horsetail-astral microtubule array	GO_0032117	0	1	0	0	0
+homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
 homologous chromosome movement towards spindle pole involved in homologous chromosome segregation	GO_0051758	0	1	0	0	0
 half bridge of spindle pole body	GO_0005825	0	1	0	0	0
 half bridge of mitotic spindle pole body	GO_0061496	0	1	0	0	0
@@ -411,6 +418,8 @@ female meiotic chromosome movement towards spindle pole	GO_0016345	0	1	0	0	0
 female germline ring canal stabilization	GO_0008335	0	1	0	0	0
 female germline ring canal formation, actin assembly	GO_0008302	0	1	0	0	0
 establishment of mitotic actomyosin contractile ring localization	GO_1903486	0	1	0	0	0
+establishment of mitochondrion localization, microtubule-mediated	GO_0034643	0	1	0	0	0
+establishment of mitochondrion localization by microtubule attachment	GO_0034640	0	1	0	0	0
 establishment of actomyosin contractile ring localization	GO_0032188	0	1	0	0	0
 epithelial cilium movement involved in determination of left/right asymmetry	GO_0060287	0	1	0	0	0
 epithelial cilium movement	GO_0003351	0	1	0	0	0
@@ -475,6 +484,7 @@ cardiac myofibril assembly	GO_0055003	0	1	0	0	0
 cardiac muscle thin filament assembly	GO_0071691	0	1	0	0	0
 cardiac muscle myosin thick filament assembly	GO_0071690	0	1	0	0	0
 cardiac muscle cell contraction	GO_0086003	0	1	0	0	0
+axoneme assembly	GO_0035082	0	1	0	0	0
 axonemal microtubule depolymerization	GO_0060404	0	1	0	0	0
 axonemal microtubule	GO_0005879	0	1	0	0	0
 axonemal dynein complex assembly	GO_0070286	0	1	0	0	0
@@ -482,6 +492,11 @@ axonemal dynein complex	GO_0005858	0	1	0	0	0
 axon transport of mitochondrion	GO_0019896	0	1	0	0	0
 axon microtubule bundle	GO_1901589	0	1	0	0	0
 axon cargo transport	GO_0008088	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	0	0	0
+attachment of spindle microtubules to kinetochore	GO_0008608	0	1	0	0	0
+attachment of mitotic spindle microtubules to kinetochore	GO_0051315	0	1	0	0	0
 atrial cardiac myofibril assembly	GO_0055004	0	1	0	0	0
 aster	GO_0005818	0	1	0	0	0
 apical constriction involved in gastrulation	GO_0003384	0	1	0	0	0

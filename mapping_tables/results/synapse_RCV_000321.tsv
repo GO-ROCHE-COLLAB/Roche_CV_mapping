@@ -1,4 +1,11 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+synaptic transmission, glycinergic	GO_0060012	1	1	1	0	0
+synaptic transmission, glutamatergic	GO_0035249	1	1	1	0	0
+synaptic transmission, dopaminergic	GO_0001963	1	1	1	0	0
+synaptic transmission, cholinergic	GO_0007271	1	1	1	0	0
+synaptic transmission, GABAergic	GO_0051932	1	1	1	0	0
+synaptic transmission involved in micturition	GO_0060084	1	1	1	0	0
+synaptic transmission	GO_0007268	1	1	1	0	0
 synaptic growth at neuromuscular junction	GO_0051124	1	1	1	0	0
 synapse organization	GO_0050808	1	1	1	0	0
 synapse maturation	GO_0060074	1	1	1	0	0
@@ -19,20 +26,13 @@ synaptic vesicle fusion	GO_0016083	1	0	1	1	1
 synaptic vesicle fission	GO_0016186	1	0	1	1	1
 synaptic vesicle exocytosis	GO_0016079	1	0	1	0	0
 synaptic vesicle endocytosis	GO_0048488	1	0	1	0	0
-synaptic vesicle docking involved in exocytosis	GO_0016081	1	0	1	0	0
+synaptic vesicle docking	GO_0016081	1	0	1	0	0
 synaptic vesicle coating	GO_0016183	1	0	1	0	0
 synaptic vesicle clustering	GO_0097091	1	0	1	0	0
 synaptic vesicle budding from presynaptic membrane	GO_0016185	1	0	1	0	0
 synaptic vesicle budding from endosome	GO_0016182	1	0	1	0	0
 synaptic vesicle budding	GO_0070142	1	0	1	0	0
 synaptic vesicle amine transport	GO_0015842	1	0	1	0	0
-synaptic transmission, glycinergic	GO_0060012	1	0	1	0	0
-synaptic transmission, glutamatergic	GO_0035249	1	0	1	0	0
-synaptic transmission, dopaminergic	GO_0001963	1	0	1	0	0
-synaptic transmission, cholinergic	GO_0007271	1	0	1	0	0
-synaptic transmission, GABAergic	GO_0051932	1	0	1	0	0
-synaptic transmission involved in micturition	GO_0060084	1	0	1	0	0
-synaptic transmission	GO_0007268	1	0	1	0	0
 synaptic target recognition	GO_0008039	1	0	1	0	0
 synaptic target inhibition	GO_0016201	1	0	1	0	0
 synaptic target attraction	GO_0016200	1	0	1	0	0
@@ -70,7 +70,10 @@ postsynaptic membrane	GO_0045211	0	1	0	0	0
 postsynaptic density organization	GO_0097106	0	1	0	0	0
 postsynaptic density assembly	GO_0097107	0	1	0	0	0
 postsynaptic density	GO_0014069	0	1	0	0	0
+positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	0	0	0
 neuronal postsynaptic density	GO_0097481	0	1	0	0	0
+neuron-neuron synaptic transmission	GO_0007270	0	1	0	0	0
+neuromuscular synaptic transmission	GO_0007274	0	1	0	0	0
 neuromuscular junction of somatic muscle myotube	GO_0098524	0	1	0	0	0
 neuromuscular junction of somatic muscle	GO_0098527	0	1	0	0	0
 neuromuscular junction of skeletal muscle fiber	GO_0098522	0	1	0	0	0

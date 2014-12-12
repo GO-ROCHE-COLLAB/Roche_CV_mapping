@@ -1,8 +1,8 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+mesangial cell-matrix adhesion	GO_0035759	1	1	1	0	0
 mesangial cell fate commitment	GO_0072151	1	1	1	0	0
 mesangial cell differentiation	GO_0072007	1	1	1	0	0
 mesangial cell development	GO_0072143	1	1	1	0	0
-mesangial cell-matrix adhesion	GO_0035759	1	0	1	0	0
 metanephric mesangial cell differentiation	GO_0072209	0	1	1	0	0
 metanephric glomerular mesangial cell fate commitment	GO_0072256	0	1	1	0	0
 metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	1	0	0

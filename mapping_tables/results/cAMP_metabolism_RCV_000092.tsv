@@ -1,0 +1,30 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cAMP-mediated signaling	GO_0019933	1	1	1	0	0
+cAMP transport	GO_0070730	1	1	1	0	0
+cAMP metabolic process	GO_0046058	1	1	1	0	0
+cAMP catabolic process	GO_0006198	1	1	1	0	0
+cAMP biosynthetic process	GO_0006171	1	1	1	0	0
+cAMP-mediated activation of appressorium formation	GO_0075021	1	0	1	0	0
+response to cAMP	GO_0051591	0	1	0	0	0
+detection of cAMP	GO_0031319	0	1	0	0	0
+chemotaxis to cAMP	GO_0043327	0	1	0	0	0
+cellular response to cAMP	GO_0071320	0	1	0	0	0
+cAMP receptor activity	GO_0001646	0	1	0	0	0
+cAMP binding	GO_0030552	0	1	0	0	0
+adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_0086024	0	1	0	0	0
+adrenergic receptor signaling pathway involved in cardiac muscle relaxation	GO_0086030	0	1	0	0	0
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	GO_0007188	0	1	0	0	0
+adenylate cyclase-inhibiting serotonin receptor signaling pathway	GO_0007198	0	1	0	0	0
+adenylate cyclase-inhibiting opioid receptor signaling pathway	GO_0031635	0	1	0	0	0
+adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO_0007195	0	1	0	0	0
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	0	0	0
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway	GO_0071881	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	GO_0007193	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway	GO_0007196	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	GO_0007197	0	1	0	0	0
+adenylate cyclase-activating serotonin receptor signaling pathway	GO_0007192	0	1	0	0	0
+adenylate cyclase-activating glucose-activated G-protein coupled receptor signaling pathway	GO_0010619	0	1	0	0	0
+adenylate cyclase-activating dopamine receptor signaling pathway	GO_0007191	0	1	0	0	0
+adenylate cyclase-activating adrenergic receptor signaling pathway	GO_0071880	0	1	0	0	0
+adenylate cyclase-activating G-protein coupled receptor signaling pathway	GO_0007189	0	1	0	0	0

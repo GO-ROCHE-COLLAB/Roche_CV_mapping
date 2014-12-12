@@ -2,6 +2,8 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 regulation of cell communication involved in growth plate cartilage morphogenesis	GO_0003437	1	1	1	0	0
 regulation of bone mineralization involved in bone maturation	GO_1900157	1	1	1	0	0
 positive regulation of bone mineralization involved in bone maturation	GO_1900159	1	1	1	0	0
+osteoclast maturation	GO_0036179	1	1	1	0	0
+osteoclast development	GO_0036035	1	1	1	0	0
 ossification involved in bone maturation	GO_0043931	1	1	1	0	0
 negative regulation of bone mineralization involved in bone maturation	GO_1900158	1	1	1	0	0
 growth plate cartilage chondrocyte division	GO_0003423	1	1	1	0	0
@@ -31,10 +33,8 @@ positive regulation of bone resorption	GO_0045780	1	0	1	0	0
 positive regulation of bone remodeling	GO_0046852	1	0	1	0	0
 positive regulation of bone mineralization	GO_0030501	1	0	1	0	0
 osteoclast proliferation	GO_0002158	1	0	1	0	0
-osteoclast maturation	GO_0036179	1	0	1	0	0
 osteoclast fusion	GO_0072675	1	0	1	0	0
 osteoclast differentiation	GO_0030316	1	0	1	0	0
-osteoclast development	GO_0036035	1	0	1	0	0
 osteoblast proliferation	GO_0033687	1	0	1	0	0
 osteoblast fate commitment	GO_0002051	1	0	1	0	0
 osteoblast differentiation	GO_0001649	1	0	1	0	0
@@ -66,16 +66,20 @@ bone remodeling	GO_0046849	1	0	1	0	0
 bone mineralization	GO_0030282	1	0	1	0	0
 smoothened signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003435	0	1	0	0	0
 sagittal suture morphogenesis	GO_0060367	0	1	0	0	0
+regulation of osteoclast development	GO_2001204	0	1	0	0	0
 regulation of growth plate cartilage chondrocyte proliferation	GO_0003420	0	1	0	0	0
 regulation of growth plate cartilage chondrocyte differentiation	GO_1902733	0	1	0	0	0
 regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	0	0	0
 regulation of chondrocyte differentiation involved in endochondral bone morphogenesis	GO_1902738	0	1	0	0	0
 regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	0	1	0	0	0
 regulation of bone development	GO_1903010	0	1	0	0	0
+positive regulation of osteoclast development	GO_2001206	0	1	0	0	0
 positive regulation of bone development	GO_1903012	0	1	0	0	0
+negative regulation of osteoclast development	GO_2001205	0	1	0	0	0
 negative regulation of bone development	GO_1903011	0	1	0	0	0
 nasal suture morphogenesis	GO_0097097	0	1	0	0	0
 mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	0	0	0
+megakaryocyte development	GO_0035855	0	1	0	0	0
 lambdoid suture morphogenesis	GO_0060366	0	1	0	0	0
 growth plate cartilage morphogenesis	GO_0003422	0	1	0	0	0
 growth plate cartilage development	GO_0003417	0	1	0	0	0
@@ -99,5 +103,6 @@ coronal suture morphogenesis	GO_0060365	0	1	0	0	0
 cell growth involved in growth plate cartilage chondrocyte morphogenesis	GO_0003432	0	1	0	0	0
 cartilage development involved in endochondral bone morphogenesis	GO_0060351	0	1	0	0	0
 bone marrow development	GO_0048539	0	1	0	0	0
+bone cell development	GO_0098751	0	1	0	0	0
 baculum development	GO_1990375	0	1	0	0	0
 BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	0	0	0

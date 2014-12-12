@@ -1,0 +1,58 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+striated muscle paramyosin thick filament assembly	GO_0061203	1	1	1	0	0
+striated muscle myosin thick filament assembly	GO_0071688	1	1	1	0	0
+striated muscle cell development	GO_0055002	1	1	1	0	0
+striated muscle tissue development	GO_0014706	1	0	1	0	0
+striated muscle hypertrophy	GO_0014897	1	0	1	0	0
+striated muscle fiber development	GO_0048740	1	0	1	1	1
+striated muscle contraction involved in embryonic body morphogenesis	GO_0061199	1	0	1	0	0
+striated muscle contraction	GO_0006941	1	0	1	0	0
+striated muscle cell proliferation	GO_0014855	1	0	1	0	0
+striated muscle cell differentiation	GO_0051146	1	0	1	0	0
+striated muscle cell apoptotic process	GO_0010658	1	0	1	0	0
+striated muscle atrophy	GO_0014891	1	0	1	0	0
+striated muscle adaptation	GO_0014888	1	0	1	0	0
+ventricular cardiac myofibril assembly	GO_0055005	0	1	0	0	0
+ventricular cardiac muscle cell development	GO_0055015	0	1	0	0	0
+skeletal myofibril assembly	GO_0014866	0	1	0	0	0
+skeletal muscle thin filament assembly	GO_0030240	0	1	0	0	0
+skeletal muscle myosin thick filament assembly	GO_0030241	0	1	0	0	0
+skeletal muscle fiber development	GO_0048741	0	1	0	0	0
+sinoatrial node cell development	GO_0060931	0	1	0	0	0
+sarcomerogenesis	GO_0048769	0	1	0	0	0
+sarcomere organization	GO_0045214	0	1	0	0	0
+regulation of skeletal muscle fiber development	GO_0048742	0	1	0	0	0
+regulation of sarcomere organization	GO_0060297	0	1	0	0	0
+regulation of myoblast differentiation	GO_0045661	0	1	0	0	0
+regulation of cell growth involved in cardiac muscle cell development	GO_0061050	0	1	0	0	0
+regulation of cardiac muscle fiber development	GO_0055018	0	1	0	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0	0
+positive regulation of skeletal muscle fiber development	GO_0048743	0	1	0	0	0
+positive regulation of sarcomere organization	GO_0060298	0	1	0	0	0
+positive regulation of myoblast differentiation	GO_0045663	0	1	0	0	0
+positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	0	1	0	0	0
+positive regulation of cardiac muscle fiber development	GO_0055020	0	1	0	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0	0
+neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	0	0	0
+negative regulation of skeletal muscle fiber development	GO_0048744	0	1	0	0	0
+negative regulation of sarcomere organization	GO_0060299	0	1	0	0	0
+negative regulation of myoblast differentiation	GO_0045662	0	1	0	0	0
+negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	0	1	0	0	0
+negative regulation of cardiac muscle fiber development	GO_0055019	0	1	0	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0	0
+myotube cell development involved in skeletal muscle regeneration	GO_0014906	0	1	0	0	0
+myotube cell development	GO_0014904	0	1	0	0	0
+myofibril assembly	GO_0030239	0	1	0	0	0
+muscle thin filament assembly	GO_0071689	0	1	0	0	0
+muscle fiber development	GO_0048747	0	1	0	0	0
+embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003246	0	1	0	0	0
+cell growth involved in cardiac muscle cell development	GO_0061049	0	1	0	0	0
+cardiac pacemaker cell development	GO_0060926	0	1	0	0	0
+cardiac myofibril assembly	GO_0055003	0	1	0	0	0
+cardiac muscle thin filament assembly	GO_0071691	0	1	0	0	0
+cardiac muscle myosin thick filament assembly	GO_0071690	0	1	0	0	0
+cardiac muscle fiber development	GO_0048739	0	1	0	0	0
+cardiac muscle cell development	GO_0055013	0	1	0	0	0
+atrioventricular node cell development	GO_0060928	0	1	0	0	0
+atrial cardiac myofibril assembly	GO_0055004	0	1	0	0	0
+atrial cardiac muscle cell development	GO_0055014	0	1	0	0	0

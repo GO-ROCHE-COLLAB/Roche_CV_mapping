@@ -12,7 +12,7 @@ astrocyte	RCV_000074	astrocyte	CL_0000127	? occurs in or has_participant ? + dev
 autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equivalence			
 bacterial	RCV_000079			?			
 brain	RCV_000090			?	Have requested obsoletion/merge with brain development (see issue 241)		
-cAMP metabolism	RCV_000092			?			
+cAMP metabolism	RCV_000092	3',5'-cyclic AMP	CHEBI_17489	has_participant_chemical	Manual mapping is broader than metabolism.  Of this is intent then name should probably change.		
 cell adhesion and motility	RCV_000099			?			
 cell cell signaling	RCV_000101			?			
 cell cycle G0/G1	RCV_000103			?			
@@ -30,7 +30,7 @@ cell matrix	RCV_000118			?
 cell metabolism	RCV_000119			?			
 cell shape	RCV_000124			?			
 cell structure	RCV_000125			?			
-cell wall	RCV_000126	cell wall	GO_0005618	?cellular_component_and_related_processes			
+cell wall	RCV_000126	cell wall	GO_0005618	cellular_component_and_related_processes			
 cell-cell interaction	RCV_000128			?			
 cell-cell signaling	RCV_000129			?			
 central nervous system	RCV_000131			?			
@@ -40,7 +40,7 @@ dopamine	RCV_000145			?
 embryo development	RCV_000146			?			
 embryonic development	RCV_000147			?			
 embryonic_development_goslim	RCV_000148			?			
-endocrine	RCV_000149			?			
+endocrine	RCV_000149	endocrine_process	GO_0050886	is_a_OR_part_of_OR_regulates			
 endothelial	RCV_000151			?			
 energy metabolism	RCV_000152			?			
 exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?results in developmental progression of	Manual mapping is much more limited than name suggests.		
@@ -110,19 +110,19 @@ salt stress response	RCV_000296			?
 sex	RCV_000298			?			
 sex female	RCV_000300			?			
 sex male	RCV_000301			?			
-skeletal muscle	RCV_000302			?			
+skeletal muscle	RCV_000302	skeletal muscle tissue development	GO_0007519	is_a_OR_part_of_OR_regulates	Pattern will miss function terms		
 skin	RCV_000303			?			
 smooth muscle	RCV_000304			?			
 snRNA	RCV_000306			?			
 snoRNA	RCV_000307			?			
-somatostatin	RCV_000308			?			
+somatostatin	RCV_000308	somatostatin	CHEBI_64628	has_participant_chemical			
 spinal cord	RCV_000310			?			
 stomach	RCV_000316			?			
-striated muscle	RCV_000317			?			
+striated muscle	RCV_000317	striated muscle cell development	GO_0055002	is_a_OR_part_of_OR_regulates	Pattern will miss function terms		
 succinyl-CoA pathway	RCV_000318			?			
 symbiosis	RCV_000320			?			
-thymus	RCV_000328			?			
-thyroid	RCV_000329			?			
+thymus	RCV_000328	thymus development	GO_0048538	is_a_OR_part_of_OR_regulates			
+thyroid	RCV_000329	thyroid gland development	GO_0030878	is_a_OR_part_of_OR_regulates			
 trachea	RCV_000331			?			
 transcription	RCV_000332			?			
 translation	RCV_000335			?			
@@ -130,8 +130,8 @@ ubiquitin	RCV_000337			?
 unicellular growth	RCV_000338			?			
 unicellular organism	RCV_000339			?			
 urea metabolism	RCV_000340			?			
-ureter	RCV_000341			?			
-uterus	RCV_000342			?			
+ureter	RCV_000341	ureter development	GO_0072189	is_a_OR_part_of_OR_regulates			
+uterus	RCV_000342	uterus development	GO_0060065	?			
 vacuole	RCV_000343			?			
 vascular	RCV_000344			?			
 vescicle dynamics	RCV_000347			?			
@@ -342,7 +342,7 @@ leukocyte activation	RCV_000220	leukocyte	CL_0000738	CL_anat_super_query		271	op
 lipoprotein metabolism	RCV_000221	lipoprotein metabolic process	GO_0042157	Equivalence		272	open
 lymphocyte	RCV_000226	lymphocyte	CL_0000542	CL_anat_super_query		150	open
 macrophage	RCV_000229	macrophage	CL_0000235	CL_anat_super_query		149	open
-meiosis	RCV_000231	meiotic nuclear division	GO_0007126	is_a_OR_part_of_OR_regulates		175	open
+meiosis	RCV_000231	meiotic nuclear division	GO_0007126	is_a_OR_part_of_OR_regulates	Needs to encompass happens_during ?	175	open
 mesangial cell	RCV_000232	mesangial cell	CL_0000650	CL_anat_super_query		178	open
 mesenchymal to epithelial transition	RCV_000233	mesenchymal to epithelial transition	GO_0060231	is_a_OR_part_of_OR_regulates		177	open
 monocyte	RCV_000238	monocyte	CL_0000576	CL_anat_super_query		174	open

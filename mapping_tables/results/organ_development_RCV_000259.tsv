@@ -2788,6 +2788,7 @@ cerebellum formation	GO_0021588	0	1	1	0	0
 cerebellum development	GO_0021549	0	1	1	0	0
 cerebellar unipolar brush cell differentiation	GO_0021711	0	1	1	0	0
 cerebellar stellate cell differentiation	GO_0021710	0	1	1	0	0
+cerebellar neuron development	GO_0098749	0	1	0	0	0
 cerebellar molecular layer structural organization	GO_0021689	0	1	1	0	0
 cerebellar molecular layer morphogenesis	GO_0021687	0	1	1	0	0
 cerebellar molecular layer maturation	GO_0021690	0	1	1	0	0
@@ -3034,6 +3035,7 @@ bone mineralization	GO_0030282	0	1	1	0	0
 bone maturation	GO_0070977	0	1	1	0	0
 bone marrow development	GO_0048539	0	1	1	0	0
 bone development	GO_0060348	0	1	1	0	0
+bone cell development	GO_0098751	0	1	0	0	0
 biomineral tissue development	GO_0031214	0	1	1	0	0
 beta selection	GO_0043366	0	1	1	0	0
 basophil differentiation	GO_0030221	0	1	1	0	0

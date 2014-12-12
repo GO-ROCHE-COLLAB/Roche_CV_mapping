@@ -15,6 +15,7 @@ erythrocyte homeostasis	GO_0034101	0	1	1	0	0
 erythrocyte differentiation	GO_0030218	0	1	1	0	0
 erythrocyte development	GO_0048821	0	1	1	0	0
 erythrocyte apoptotic process	GO_1902217	0	1	1	0	0
+erythrocyte aggregation	GO_0034117	0	1	0	0	0
 enucleate erythrocyte maturation	GO_0043354	0	1	1	0	0
 enucleate erythrocyte differentiation	GO_0043353	0	1	1	0	0
 enucleate erythrocyte development	GO_0048822	0	1	1	0	0

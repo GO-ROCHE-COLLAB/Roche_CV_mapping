@@ -1,4 +1,5 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+leukocyte tethering or rolling	GO_0050901	1	1	1	0	0
 leukocyte proliferation	GO_0070661	1	1	1	0	0
 leukocyte migration involved in inflammatory response	GO_0002523	1	1	1	0	0
 leukocyte migration	GO_0050900	1	1	1	0	0
@@ -9,14 +10,13 @@ leukocyte differentiation	GO_0002521	1	1	1	0	0
 leukocyte degranulation	GO_0043299	1	1	1	0	0
 leukocyte chemotaxis involved in inflammatory response	GO_0002232	1	1	1	0	0
 leukocyte chemotaxis	GO_0030595	1	1	1	0	0
+leukocyte cell-cell adhesion	GO_0007159	1	1	1	0	0
 leukocyte apoptotic process	GO_0071887	1	1	1	0	0
+leukocyte aggregation	GO_0070486	1	1	1	0	0
 leukocyte adhesive activation	GO_0050902	1	1	1	0	0
+leukocyte activation-dependent arrest	GO_0050903	1	1	1	0	0
 leukocyte activation involved in inflammatory response	GO_0002269	1	1	1	0	0
 leukocyte activation	GO_0045321	1	1	1	0	0
-leukocyte tethering or rolling	GO_0050901	1	0	1	0	0
-leukocyte cell-cell adhesion	GO_0007159	1	0	1	0	0
-leukocyte aggregation	GO_0070486	1	0	1	0	0
-leukocyte activation-dependent arrest	GO_0050903	1	0	1	0	0
 type IV hypersensitivity	GO_0001806	0	1	0	0	0
 type IIb hypersensitivity	GO_0001795	0	1	0	0	0
 type IIa hypersensitivity	GO_0001794	0	1	0	0	0
@@ -30,6 +30,7 @@ transitional stage B cell differentiation	GO_0002332	0	1	0	0	0
 transitional one stage B cell differentiation	GO_0002333	0	1	0	0	0
 thymocyte migration	GO_0072679	0	1	0	0	0
 thymocyte apoptotic process	GO_0070242	0	1	0	0	0
+thymocyte aggregation	GO_0071594	0	1	0	0	0
 thymic T cell selection	GO_0045061	0	1	0	0	0
 termination of T cell signal transduction	GO_0023022	0	1	0	0	0
 suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0	0
@@ -62,6 +63,7 @@ peripheral B cell deletion	GO_0002454	0	1	0	0	0
 peripheral B cell anergy	GO_0002453	0	1	0	0	0
 osteoclast proliferation	GO_0002158	0	1	0	0	0
 osteoclast maturation	GO_0036179	0	1	0	0	0
+osteoclast fusion	GO_0072675	0	1	0	0	0
 osteoclast differentiation	GO_0030316	0	1	0	0	0
 osteoclast development	GO_0036035	0	1	0	0	0
 neutrophil migration	GO_1990266	0	1	0	0	0
@@ -123,6 +125,7 @@ monocyte extravasation	GO_0035696	0	1	0	0	0
 monocyte differentiation	GO_0030224	0	1	0	0	0
 monocyte chemotaxis	GO_0002548	0	1	0	0	0
 monocyte antigen processing and presentation	GO_0002471	0	1	0	0	0
+monocyte aggregation	GO_0070487	0	1	0	0	0
 monocyte activation involved in immune response	GO_0002280	0	1	0	0	0
 monocyte activation	GO_0042117	0	1	0	0	0
 microglial cell proliferation	GO_0061518	0	1	0	0	0
@@ -161,6 +164,7 @@ maintenance of granzyme B location in T cell secretory granule	GO_0033382	0	1	0	
 macrophage tolerance induction	GO_0010931	0	1	0	0	0
 macrophage proliferation	GO_0061517	0	1	0	0	0
 macrophage homeostasis	GO_0061519	0	1	0	0	0
+macrophage fusion	GO_0034238	0	1	0	0	0
 macrophage differentiation	GO_0030225	0	1	0	0	0
 macrophage cytokine production	GO_0010934	0	1	0	0	0
 macrophage chemotaxis	GO_0048246	0	1	0	0	0
@@ -178,6 +182,9 @@ lymphocyte differentiation	GO_0030098	0	1	0	0	0
 lymphocyte chemotaxis across high endothelial venule	GO_0002518	0	1	0	0	0
 lymphocyte chemotaxis	GO_0048247	0	1	0	0	0
 lymphocyte apoptotic process	GO_0070227	0	1	0	0	0
+lymphocyte anergy	GO_0002249	0	1	0	0	0
+lymphocyte aggregation	GO_0071593	0	1	0	0	0
+lymphocyte adhesion to endothelial cell of high endothelial venule	GO_0036339	0	1	0	0	0
 lymphocyte activation involved in immune response	GO_0002285	0	1	0	0	0
 lymphocyte activation	GO_0046649	0	1	0	0	0
 leukocyte migration involved in immune response	GO_0002522	0	1	0	0	0
@@ -235,6 +242,7 @@ eosinophil migration	GO_0072677	0	1	0	0	0
 eosinophil mediated immunity	GO_0002447	0	1	0	0	0
 eosinophil fate specification	GO_0035857	0	1	0	0	0
 eosinophil fate determination	GO_0035858	0	1	0	0	0
+eosinophil fate commitment	GO_0035854	0	1	0	0	0
 eosinophil extravasation	GO_0072682	0	1	0	0	0
 eosinophil differentiation	GO_0030222	0	1	0	0	0
 eosinophil degranulation	GO_0043308	0	1	0	0	0
@@ -332,6 +340,7 @@ T cell chemotaxis	GO_0010818	0	1	0	0	0
 T cell apoptotic process	GO_0070231	0	1	0	0	0
 T cell antigen processing and presentation	GO_0002457	0	1	0	0	0
 T cell anergy	GO_0002870	0	1	0	0	0
+T cell aggregation	GO_0070489	0	1	0	0	0
 T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
 T cell activation involved in immune response	GO_0002286	0	1	0	0	0
 T cell activation	GO_0042110	0	1	0	0	0
@@ -398,5 +407,6 @@ B cell antigen processing and presentation following pinocytosis	GO_0002421	0	1	
 B cell antigen processing and presentation	GO_0002450	0	1	0	0	0
 B cell anergy	GO_0002515	0	1	0	0	0
 B cell affinity maturation	GO_0002344	0	1	0	0	0
+B cell adhesion	GO_0097323	0	1	0	0	0
 B cell activation involved in immune response	GO_0002312	0	1	0	0	0
 B cell activation	GO_0042113	0	1	0	0	0

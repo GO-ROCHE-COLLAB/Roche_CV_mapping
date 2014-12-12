@@ -5,6 +5,7 @@ oocyte morphogenesis	GO_0048601	1	1	1	0	0
 oocyte microtubule cytoskeleton polarization	GO_0008103	1	1	1	0	0
 oocyte microtubule cytoskeleton organization	GO_0016325	1	1	1	0	0
 oocyte maturation	GO_0001556	1	1	1	0	0
+oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	1	1	1	0	0
 oocyte growth in germarium-derived egg chamber	GO_0030715	1	1	1	0	0
 oocyte growth	GO_0001555	1	1	1	0	0
 oocyte fate determination	GO_0030716	1	1	1	0	0
@@ -16,7 +17,6 @@ oocyte construction	GO_0007308	1	1	1	0	0
 oocyte axis specification	GO_0007309	1	1	1	0	0
 oocyte anterior/posterior axis specification	GO_0007314	1	1	1	0	0
 oocyte animal/vegetal axis specification	GO_0060832	1	1	1	0	0
-oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	1	0	1	0	0
 pole plasm protein localization	GO_0007318	0	1	1	0	0
 pole plasm oskar mRNA localization	GO_0045451	0	1	1	0	0
 pole plasm mitochondrial srRNA localization	GO_0019097	0	1	1	0	0
