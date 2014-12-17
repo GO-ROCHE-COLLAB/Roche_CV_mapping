@@ -131,6 +131,7 @@ regulation of COPII vesicle coating	GO_0003400	0	1	1	0	0
 puromycin metabolic process	GO_0043637	0	1	1	0	0
 puromycin biosynthetic process	GO_0043638	0	1	1	0	0
 plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	1	0	0
+plasma membrane ATP synthesis coupled electron transport	GO_0042774	0	1	0	0	0
 photosynthetic phosphorylation	GO_0009777	0	1	1	0	0
 oxidative phosphorylation	GO_0006119	0	1	1	0	0
 noncyclic photosynthetic phosphorylation	GO_0009779	0	1	1	0	0
@@ -141,6 +142,7 @@ mitochondrial tRNA pseudouridine synthesis	GO_0070902	0	1	1	0	0
 mitochondrial tRNA modification	GO_0070900	0	1	1	0	0
 mitochondrial tRNA methylation	GO_0070901	0	1	1	0	0
 mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	1	0	0
+mitochondrial ATP synthesis coupled electron transport	GO_0042775	0	1	0	0	0
 malonyl-CoA metabolic process	GO_2001293	0	1	1	0	0
 malonyl-CoA catabolic process	GO_2001294	0	1	1	0	0
 malonyl-CoA biosynthetic process	GO_2001295	0	1	1	0	0
@@ -267,6 +269,7 @@ GDP metabolic process	GO_0046710	0	1	1	0	0
 GDP catabolic process	GO_0046712	0	1	1	0	0
 GDP biosynthetic process	GO_0046711	0	1	1	0	0
 ATP synthesis coupled proton transport	GO_0015986	0	1	1	0	0
+ATP synthesis coupled electron transport	GO_0042773	0	1	0	0	0
 ATP metabolic process	GO_0046034	0	1	1	0	0
 ATP catabolic process	GO_0006200	0	1	1	0	0
 ATP biosynthetic process	GO_0006754	0	1	1	0	0

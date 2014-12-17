@@ -1,0 +1,31 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+ATP synthesis coupled proton transport	GO_0015986	1	1	1	0	0
+ATP synthesis coupled electron transport	GO_0042773	1	1	1	0	0
+ATP metabolic process	GO_0046034	1	1	1	0	0
+ATP catabolic process	GO_0006200	1	1	1	0	0
+ATP biosynthetic process	GO_0006754	1	1	1	0	0
+AMP phosphorylation	GO_0006756	1	1	1	0	0
+plasma membrane proton-transporting V-type ATPase, V1 domain	GO_0000223	1	0	1	0	0
+plasma membrane proton-transporting V-type ATPase, V0 domain	GO_0000222	1	0	1	0	0
+mitochondrial proton-transporting ATP synthase, stator stalk	GO_0000274	1	0	1	0	0
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	GO_0000276	1	0	1	0	0
+mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	GO_0000275	1	0	1	0	0
+ATP/ADP exchange	GO_0006854	1	0	1	1	1
+ATP-dependent proteolysis	GO_0006510	1	0	1	1	1
+ATP-dependent chromatin remodeling	GO_0043044	1	0	1	0	0
+ATP transport	GO_0015867	1	0	1	0	0
+ATP hydrolysis coupled proton transport	GO_0015991	1	0	1	0	0
+AMP transport	GO_0080121	1	0	1	0	0
+AMP salvage	GO_0044209	1	0	1	0	0
+AMP metabolic process	GO_0046033	1	0	1	0	0
+AMP catabolic process	GO_0006196	1	0	1	0	0
+AMP biosynthetic process	GO_0006167	1	0	1	0	0
+plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	0	0	0
+plasma membrane ATP synthesis coupled electron transport	GO_0042774	0	1	0	0	0
+photosynthetic phosphorylation	GO_0009777	0	1	0	0	0
+oxidative phosphorylation	GO_0006119	0	1	0	0	0
+noncyclic photosynthetic phosphorylation	GO_0009779	0	1	0	0	0
+mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	0	0	0
+mitochondrial ATP synthesis coupled electron transport	GO_0042775	0	1	0	0	0
+cyclic photosynthetic phosphorylation	GO_0009778	0	1	0	0	0
+ADP phosphorylation	GO_0006757	0	1	0	0	0

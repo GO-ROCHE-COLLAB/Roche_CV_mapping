@@ -1,0 +1,6 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+uropod assembly	GO_0034460	1	1	1	0	0
+uropod	GO_0001931	1	1	1	0	0
+uropod retraction	GO_0034461	0	1	0	0	0
+uropod organization	GO_0032796	0	1	0	0	0
+uropod membrane	GO_0031259	0	1	0	0	0

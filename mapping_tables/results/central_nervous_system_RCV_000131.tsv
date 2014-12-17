@@ -1,0 +1,110 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+central nervous system vasculogenesis	GO_0022009	1	1	1	0	0
+central nervous system structural organization	GO_0021597	1	1	1	0	0
+central nervous system myelination	GO_0022010	1	1	1	0	0
+central nervous system myelin maintenance	GO_0032286	1	1	1	0	0
+central nervous system myelin formation	GO_0032289	1	1	1	0	0
+central nervous system morphogenesis	GO_0021551	1	1	1	0	0
+central nervous system maturation	GO_0021626	1	1	1	0	0
+central nervous system formation	GO_0021556	1	1	1	0	0
+central nervous system development	GO_0007417	1	1	1	0	0
+central nervous system segmentation	GO_0035283	1	0	1	0	0
+central nervous system projection neuron axonogenesis	GO_0021952	1	0	1	0	0
+central nervous system neuron differentiation	GO_0021953	1	0	1	0	0
+central nervous system neuron development	GO_0021954	1	0	1	0	0
+central nervous system neuron axonogenesis	GO_0021955	1	0	1	0	0
+central nervous system interneuron axonogenesis	GO_0021956	1	0	1	0	0
+central nervous system control of baroreceptor feedback	GO_0003019	1	0	1	0	0
+visceral motor neuron differentiation	GO_0021524	0	1	0	0	0
+ventricular zone neuroblast division	GO_0021847	0	1	0	0	0
+ventricular zone cell-producing asymmetric radial glial cell division in forebrain	GO_0021868	0	1	0	0	0
+ventral spinal cord interneuron specification	GO_0021521	0	1	0	0	0
+ventral spinal cord interneuron fate determination	GO_0060580	0	1	0	0	0
+ventral spinal cord interneuron fate commitment	GO_0060579	0	1	0	0	0
+ventral spinal cord interneuron differentiation	GO_0021514	0	1	0	0	0
+symmetric radial glial cell division in forebrain	GO_0021865	0	1	0	0	0
+subpallium glioblast cell division	GO_0021850	0	1	0	0	0
+subpallium cell proliferation in forebrain	GO_0022012	0	1	0	0	0
+stellate cell precursor proliferation	GO_0021929	0	1	0	0	0
+spinal cord radial glial cell differentiation	GO_0021531	0	1	0	0	0
+spinal cord oligodendrocyte cell fate specification	GO_0021530	0	1	0	0	0
+spinal cord oligodendrocyte cell differentiation	GO_0021529	0	1	0	0	0
+spinal cord motor neuron differentiation	GO_0021522	0	1	0	0	0
+spinal cord motor neuron cell fate specification	GO_0021520	0	1	0	0	0
+spinal cord commissural neuron specification	GO_0021518	0	1	0	0	0
+spinal cord association neuron specification	GO_0021519	0	1	0	0	0
+spinal cord association neuron differentiation	GO_0021527	0	1	0	0	0
+somatic motor neuron fate commitment	GO_0021917	0	1	0	0	0
+somatic motor neuron differentiation	GO_0021523	0	1	0	0	0
+smoothened signaling pathway involved in ventral spinal cord interneuron specification	GO_0021775	0	1	0	0	0
+smoothened signaling pathway involved in spinal cord motor neuron cell fate specification	GO_0021776	0	1	0	0	0
+septal cell proliferation	GO_0022022	0	1	0	0	0
+rostral hindbrain neuronal precursor cell proliferation	GO_0021931	0	1	0	0	0
+rhombomere cell migration	GO_0022035	0	1	0	0	0
+retinoic acid receptor signaling pathway involved in ventral spinal cord interneuron specification	GO_0021774	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification	GO_0021913	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification	GO_0021912	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord association neuron specification	GO_0021920	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment	GO_0021918	0	1	0	0	0
+radial glial cell division in subpallium	GO_0022014	0	1	0	0	0
+radial glial cell division in pallium	GO_0022015	0	1	0	0	0
+radial glial cell division in forebrain	GO_0021864	0	1	0	0	0
+radial glia guided migration of cerebellar granule cell	GO_0021933	0	1	0	0	0
+radial glia guided migration of Purkinje cell	GO_0021942	0	1	0	0	0
+positive regulation of cerebellar granule cell migration by calcium	GO_0021945	0	1	0	0	0
+pallium glioblast division	GO_0022016	0	1	0	0	0
+pallium cell proliferation in forebrain	GO_0022013	0	1	0	0	0
+outward migration of deep nuclear neurons	GO_0021947	0	1	0	0	0
+non-myelinated axon ensheathment in central nervous system	GO_0032293	0	1	0	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	0	0	0
+neuron-producing asymmetric radial glial cell division in forebrain	GO_0021867	0	1	0	0	0
+neuroblast division in subventricular zone	GO_0021849	0	1	0	0	0
+neuroblast division in subpallium	GO_0021848	0	1	0	0	0
+neuroblast division in pallium	GO_0022017	0	1	0	0	0
+neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	0	0	0
+motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve formation	GO_0035765	0	1	0	0	0
+medial motor column neuron differentiation	GO_0021526	0	1	0	0	0
+medial ganglionic eminence cell proliferation	GO_0022020	0	1	0	0	0
+lateral motor column neuron differentiation	GO_0021525	0	1	0	0	0
+lateral ganglionic eminence cell proliferation	GO_0022018	0	1	0	0	0
+inward migration of deep nuclear neurons	GO_0021948	0	1	0	0	0
+interkinetic nuclear migration	GO_0022027	0	1	0	0	0
+inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors	GO_0021916	0	1	0	0	0
+hindbrain tangential cell migration	GO_0021934	0	1	0	0	0
+hindbrain radial glia guided cell migration	GO_0021932	0	1	0	0	0
+formation of radial glial scaffolds	GO_0021943	0	1	0	0	0
+forebrain ventricular zone progenitor cell division	GO_0021869	0	1	0	0	0
+eurydendroid cell differentiation	GO_0021755	0	1	0	0	0
+dorsal lateral ganglionic eminence cell proliferation	GO_0022019	0	1	0	0	0
+deep nuclear neuron precursor proliferation	GO_0021927	0	1	0	0	0
+deep nuclear neuron cell migration	GO_0021946	0	1	0	0	0
+commissural neuron differentiation in spinal cord	GO_0021528	0	1	0	0	0
+chemorepulsion involved in precerebellar neuron migration	GO_0021950	0	1	0	0	0
+chemoattraction involved in precerebellar neuron migration	GO_0021951	0	1	0	0	0
+cerebellar unipolar brush cell differentiation	GO_0021711	0	1	0	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0
+cerebellar granule cell precursor tangential migration	GO_0021935	0	1	0	0	0
+cerebellar granule cell precursor proliferation	GO_0021930	0	1	0	0	0
+cerebellar granule cell differentiation	GO_0021707	0	1	0	0	0
+cerebellar basket cell differentiation	GO_0021709	0	1	0	0	0
+cerebellar Purkinje cell precursor proliferation	GO_0021925	0	1	0	0	0
+cerebellar Purkinje cell differentiation	GO_0021702	0	1	0	0	0
+cerebellar Golgi cell differentiation	GO_0021701	0	1	0	0	0
+cell proliferation in midbrain	GO_0033278	0	1	0	0	0
+cell proliferation in hindbrain ventricular zone	GO_0021923	0	1	0	0	0
+cell proliferation in hindbrain	GO_0021534	0	1	0	0	0
+cell proliferation in forebrain	GO_0021846	0	1	0	0	0
+cell proliferation in external granule layer	GO_0021924	0	1	0	0	0
+cell proliferation in dorsal spinal cord	GO_0010456	0	1	0	0	0
+cell migration in hindbrain	GO_0021535	0	1	0	0	0
+cell differentiation in spinal cord	GO_0021515	0	1	0	0	0
+cell differentiation in hindbrain	GO_0021533	0	1	0	0	0
+caudal ganglionic eminence cell proliferation	GO_0022021	0	1	0	0	0
+candelabrum cell differentiation	GO_0021712	0	1	0	0	0
+brainstem precerebellar neuron precursor migration	GO_0021949	0	1	0	0	0
+basket cell precursor proliferation	GO_0021928	0	1	0	0	0
+axon ensheathment in central nervous system	GO_0032291	0	1	0	0	0
+asymmetric radial glial cell division in forebrain	GO_0021866	0	1	0	0	0
+Lugaro cell differentiation	GO_0021708	0	1	0	0	0
+Golgi cell precursor proliferation	GO_0021926	0	1	0	0	0
+BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	0	1	0	0	0

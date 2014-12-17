@@ -1,0 +1,8 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+hepaticobiliary system process	GO_0061007	1	1	1	0	0
+intrahepatic bile duct development	GO_0035622	1	0	1	0	0
+hepaticobiliary system development	GO_0061008	1	0	1	0	0
+hepatic immune response	GO_0002384	1	0	1	0	0
+hepatic duct development	GO_0061011	1	0	1	0	0
+bilirubin transport	GO_0015723	1	0	1	0	0
+bilirubin conjugation	GO_0006789	1	0	1	0	0

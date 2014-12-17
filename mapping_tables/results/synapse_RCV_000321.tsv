@@ -50,6 +50,7 @@ synaptic vesicle, resting pool	GO_1990476	0	1	1	0	0
 synaptic vesicle, recycling pool	GO_1990475	0	1	1	0	0
 synaptic vesicle, readily releasable pool	GO_1990474	0	1	1	0	0
 synaptic vesicle membrane	GO_0030672	0	1	1	0	0
+synaptic vesicle lumen acidification	GO_0097401	0	1	0	0	0
 synaptic vesicle lumen	GO_0034592	0	1	1	0	0
 synaptic vesicle	GO_0008021	0	1	1	0	0
 synaptic membrane	GO_0097060	0	1	1	0	0
@@ -96,6 +97,7 @@ excitatory neuromuscular junction	GO_0098520	0	1	1	0	0
 establishment of synaptic specificity at neuromuscular junction	GO_0007529	0	1	1	0	0
 clathrin coat of synaptic vesicle	GO_0030129	0	1	1	0	0
 asymmetric synapse	GO_0032279	0	1	1	0	0
+acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	0	0	0
 S bouton	GO_1990027	0	1	1	0	0
 F bouton	GO_1990025	0	1	1	0	0
 C bouton	GO_1990024	0	1	1	0	0

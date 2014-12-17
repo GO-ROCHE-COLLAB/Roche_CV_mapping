@@ -1,0 +1,5 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of G0 to G1 transition	GO_0070316	1	1	1	0	0
+positive regulation of G0 to G1 transition	GO_0070318	1	1	1	0	0
+negative regulation of G0 to G1 transition	GO_0070317	1	1	1	0	0
+G0 to G1 transition	GO_0045023	1	1	1	0	0

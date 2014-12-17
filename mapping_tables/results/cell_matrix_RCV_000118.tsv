@@ -1,0 +1,152 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+extracellular matrix organization involved in endocardium development	GO_0061148	1	1	1	0	0
+extracellular matrix organization	GO_0030198	1	1	1	0	0
+extracellular matrix disassembly	GO_0022617	1	1	1	0	0
+extracellular matrix assembly	GO_0085029	1	1	1	0	0
+sequestering of TGFbeta in extracellular matrix	GO_0035583	1	0	1	0	0
+regulation of extracellular matrix disassembly	GO_0010715	1	0	1	0	0
+regulation of extracellular matrix constituent secretion	GO_0003330	1	0	1	0	0
+regulation of extracellular matrix assembly	GO_1901201	1	0	1	0	0
+regulation of collagen metabolic process	GO_0010712	1	0	1	0	0
+regulation of collagen catabolic process	GO_0010710	1	0	1	0	0
+regulation of collagen biosynthetic process	GO_0032965	1	0	1	0	0
+regulation of collagen binding	GO_0033341	1	0	1	0	0
+regulation of cell-matrix adhesion	GO_0001952	1	0	1	0	0
+positive regulation of extracellular matrix disassembly	GO_0090091	1	0	1	0	0
+positive regulation of extracellular matrix constituent secretion	GO_0003331	1	0	1	0	0
+positive regulation of extracellular matrix assembly	GO_1901203	1	0	1	0	0
+positive regulation of cell-matrix adhesion	GO_0001954	1	0	1	0	0
+phosphopyruvate hydratase complex	GO_0000015	1	0	1	0	0
+obsolete regulation of gene expression involved in extracellular matrix organization	GO_1901311	1	0	1	1	1
+obsolete positive regulation of gene expression involved in extracellular matrix organization	GO_1901313	1	0	1	1	1
+obsolete negative regulation of gene expression involved in extracellular matrix organization	GO_1901312	1	0	1	1	1
+negative regulation of extracellular matrix disassembly	GO_0010716	1	0	1	0	0
+negative regulation of extracellular matrix constituent secretion	GO_0003332	1	0	1	0	0
+negative regulation of extracellular matrix assembly	GO_1901202	1	0	1	0	0
+negative regulation of cell-matrix adhesion	GO_0001953	1	0	1	0	0
+gene expression involved in extracellular matrix organization	GO_1901148	1	0	1	0	0
+extracellular matrix-granule cell signaling involved in regulation of granule cell precursor proliferation	GO_0021939	1	0	1	0	0
+extracellular matrix-dependent thymocyte migration	GO_0072680	1	0	1	0	0
+extracellular matrix-cell signaling	GO_0035426	1	0	1	0	0
+extracellular matrix constituent secretion	GO_0070278	1	0	1	0	0
+envenomation resulting in damage of muscle extracellular matrix in other organism	GO_0044523	1	0	1	0	0
+cellular response to cell-matrix adhesion	GO_0071460	1	0	1	0	0
+cell-substrate junction assembly	GO_0007044	1	0	1	0	0
+cell-substrate adhesion	GO_0031589	1	0	1	0	0
+cell-substrate adherens junction assembly	GO_0007045	1	0	1	0	0
+cell-matrix recognition	GO_0009989	1	0	1	0	0
+cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	1	0	1	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	1	0	1	0	0
+cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	1	0	1	0	0
+cell-matrix adhesion	GO_0007160	1	0	1	0	0
+vitelline membrane formation involved in chorion-containing eggshell formation	GO_0007305	0	1	0	0	0
+vitelline membrane formation	GO_0030704	0	1	0	0	0
+thrombospondin complex	GO_1990341	0	1	0	0	0
+tectum	GO_0043676	0	1	0	0	0
+synaptic cleft	GO_0043083	0	1	0	0	0
+surface coat of collagen and cuticulin-based cuticle extracellular matrix	GO_0060104	0	1	0	0	0
+sublamina densa	GO_0061618	0	1	0	0	0
+sheet-forming collagen trimer	GO_0030935	0	1	0	0	0
+sexine	GO_0043673	0	1	0	0	0
+sculpture element	GO_0043675	0	1	0	0	0
+proteinaceous extracellular matrix	GO_0005578	0	1	0	0	0
+pollen wall	GO_0043667	0	1	0	0	0
+pollen coat	GO_0070505	0	1	0	0	0
+plant extracellular matrix	GO_0048196	0	1	0	0	0
+perineuronal net	GO_0072534	0	1	0	0	0
+organomineral extracellular matrix	GO_1990377	0	1	0	0	0
+nexine	GO_0043672	0	1	0	0	0
+middle lamella	GO_0009519	0	1	0	0	0
+microfibril	GO_0001527	0	1	0	0	0
+metanephric glomerular basement membrane development	GO_0072274	0	1	0	0	0
+mesonephric glomerular basement membrane development	GO_0061233	0	1	0	0	0
+medial layer of collagen and cuticulin-based cuticle extracellular matrix	GO_0060109	0	1	0	0	0
+laminin-9 complex	GO_0043258	0	1	0	0	0
+laminin-8 complex	GO_0043257	0	1	0	0	0
+laminin-7 complex	GO_0005612	0	1	0	0	0
+laminin-6 complex	GO_0005611	0	1	0	0	0
+laminin-5 complex	GO_0005610	0	1	0	0	0
+laminin-4 complex	GO_0005609	0	1	0	0	0
+laminin-3 complex	GO_0005608	0	1	0	0	0
+laminin-2 complex	GO_0005607	0	1	0	0	0
+laminin-15 complex	GO_1990340	0	1	0	0	0
+laminin-14 complex	GO_1990339	0	1	0	0	0
+laminin-13 complex	GO_1990338	0	1	0	0	0
+laminin-12 complex	GO_0043261	0	1	0	0	0
+laminin-11 complex	GO_0043260	0	1	0	0	0
+laminin-10 complex	GO_0043259	0	1	0	0	0
+laminin-1 complex	GO_0005606	0	1	0	0	0
+laminin-1 binding	GO_0043237	0	1	0	0	0
+laminin receptor activity	GO_0005055	0	1	0	0	0
+laminin complex	GO_0043256	0	1	0	0	0
+laminin binding involved in cell-matrix adhesion	GO_0098638	0	1	0	0	0
+laminin binding	GO_0043236	0	1	0	0	0
+lamina reticularis	GO_0008004	0	1	0	0	0
+lamina lucida	GO_0008002	0	1	0	0	0
+lamina densa	GO_0008003	0	1	0	0	0
+intine	GO_0043678	0	1	0	0	0
+interstitial matrix	GO_0005614	0	1	0	0	0
+interphotoreceptor matrix	GO_0033165	0	1	0	0	0
+hyaline layer	GO_0033166	0	1	0	0	0
+host cell extracellular matrix binding	GO_0046810	0	1	0	0	0
+glomerular basement membrane development	GO_0032836	0	1	0	0	0
+germination pore	GO_0043677	0	1	0	0	0
+foot layer	GO_0043670	0	1	0	0	0
+fibrillar collagen trimer	GO_0005583	0	1	0	0	0
+fibril	GO_0043205	0	1	0	0	0
+extracellular matrix part	GO_0044420	0	1	0	0	0
+extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration	GO_0021820	0	1	0	0	0
+extracellular matrix binding	GO_0050840	0	1	0	0	0
+extracellular matrix	GO_0031012	0	1	0	0	0
+extracellular fibril organization	GO_0043206	0	1	0	0	0
+exine	GO_0043668	0	1	0	0	0
+epicuticle of collagen and cuticulin-based cuticle extracellular matrix	GO_0060105	0	1	0	0	0
+endexine	GO_0043671	0	1	0	0	0
+elastic fiber assembly	GO_0048251	0	1	0	0	0
+elastic fiber	GO_0071953	0	1	0	0	0
+ectexine	GO_0043669	0	1	0	0	0
+cortical layer of collagen and cuticulin-based cuticle extracellular matrix	GO_0060106	0	1	0	0	0
+columella	GO_0043674	0	1	0	0	0
+collagen type XXVIII trimer	GO_1990326	0	1	0	0	0
+collagen type XXVII trimer	GO_1990325	0	1	0	0	0
+collagen type XXVI trimer	GO_1990324	0	1	0	0	0
+collagen type XXIV trimer	GO_1990323	0	1	0	0	0
+collagen type XVIII trimer	GO_0030938	0	1	0	0	0
+collagen type XV trimer	GO_0005582	0	1	0	0	0
+collagen type XIX trimer	GO_1990318	0	1	0	0	0
+collagen type XIV trimer	GO_0005596	0	1	0	0	0
+collagen type XII trimer	GO_0005595	0	1	0	0	0
+collagen type XI trimer	GO_0005592	0	1	0	0	0
+collagen type X trimer	GO_0005599	0	1	0	0	0
+collagen type VIII trimer	GO_0005591	0	1	0	0	0
+collagen type VII trimer	GO_0005590	0	1	0	0	0
+collagen type V trimer	GO_0005588	0	1	0	0	0
+collagen type IV trimer	GO_0005587	0	1	0	0	0
+collagen type III trimer	GO_0005586	0	1	0	0	0
+collagen type II trimer	GO_0005585	0	1	0	0	0
+collagen type I trimer	GO_0005584	0	1	0	0	0
+collagen fibril organization	GO_0030199	0	1	0	0	0
+collagen and cuticulin-based cuticle extracellular matrix part	GO_0060103	0	1	0	0	0
+collagen and cuticulin-based cuticle extracellular matrix	GO_0060102	0	1	0	0	0
+cellulose microfibril organization	GO_0010215	0	1	0	0	0
+bone sialoprotein binding	GO_0044730	0	1	0	0	0
+biofilm matrix surface	GO_0097313	0	1	0	0	0
+biofilm matrix part	GO_0097312	0	1	0	0	0
+biofilm matrix	GO_0097311	0	1	0	0	0
+basement membrane organization	GO_0071711	0	1	0	0	0
+basement membrane disassembly	GO_0034769	0	1	0	0	0
+basement membrane collagen trimer	GO_0098651	0	1	0	0	0
+basement membrane assembly involved in embryonic body morphogenesis	GO_2001197	0	1	0	0	0
+basement membrane assembly	GO_0070831	0	1	0	0	0
+basement membrane	GO_0005604	0	1	0	0	0
+basal layer of collagen and cuticulin-based cuticle extracellular matrix	GO_0060110	0	1	0	0	0
+basal lamina disassembly involved in semicircular canal fusion	GO_0060882	0	1	0	0	0
+basal lamina disassembly	GO_0060881	0	1	0	0	0
+basal lamina	GO_0005605	0	1	0	0	0
+apical lamina of hyaline layer	GO_0032579	0	1	0	0	0
+annuli extracellular matrix	GO_0060107	0	1	0	0	0
+annular furrow extracellular matrix	GO_0060108	0	1	0	0	0
+anchoring collagen complex	GO_0030934	0	1	0	0	0
+alae of collagen and cuticulin-based cuticle extracellular matrix	GO_0060111	0	1	0	0	0
+acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	0	0	0
+Ubisch body	GO_0070645	0	1	0	0	0

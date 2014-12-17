@@ -1,0 +1,103 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+transmembrane receptor protein serine/threonine kinase signaling pathway involved in floral organ abscission	GO_0060869	1	1	1	0	0
+transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	1	1	1	0	0
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0090092	1	1	1	0	0
+positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0090100	1	1	1	0	0
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0090101	1	1	1	0	0
+ubiquitin-dependent SMAD protein catabolic process	GO_0030579	0	1	0	0	0
+transmembrane receptor protein serine/threonine kinase activity	GO_0004675	0	1	0	0	0
+transforming growth factor receptor beta signaling pathway involved in oral/aboral axis specification	GO_0060835	0	1	0	0	0
+transforming growth factor beta-activated receptor activity	GO_0005024	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in regulation of multicellular organism growth	GO_1901048	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090010	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in primary germ layer cell fate commitment	GO_0060797	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in neural plate anterior/posterior pattern formation	GO_0060826	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in mesodermal cell fate specification	GO_0060798	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in heart jogging	GO_0003302	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification	GO_0060799	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in determination of left/right asymmetry	GO_0035463	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway involved in axial mesodermal cell fate specification	GO_0060822	0	1	0	0	0
+transforming growth factor beta receptor signaling pathway	GO_0007179	0	1	0	0	0
+transforming growth factor beta receptor complex assembly	GO_0007181	0	1	0	0	0
+transforming growth factor beta receptor activity, type III	GO_0070123	0	1	0	0	0
+transforming growth factor beta receptor activity, type II	GO_0005026	0	1	0	0	0
+transforming growth factor beta receptor activity, type I	GO_0005025	0	1	0	0	0
+specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway	GO_0072101	0	1	0	0	0
+sequestering of TGFbeta in extracellular matrix	GO_0035583	0	1	0	0	0
+sequestering of BMP in extracellular matrix	GO_0035582	0	1	0	0	0
+sequestering of BMP from receptor via BMP binding	GO_0038098	0	1	0	0	0
+regulation of transforming growth factor receptor beta signaling pathway involved in determination of left/right asymmetry	GO_0035464	0	1	0	0	0
+regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090013	0	1	0	0	0
+regulation of transforming growth factor beta receptor signaling pathway	GO_0017015	0	1	0	0	0
+regulation of pathway-restricted SMAD protein phosphorylation	GO_0060393	0	1	0	0	0
+regulation of nodal signaling pathway involved in determination of left/right asymmetry	GO_1900145	0	1	0	0	0
+regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1900175	0	1	0	0	0
+regulation of nodal signaling pathway	GO_1900107	0	1	0	0	0
+regulation of nodal receptor complex assembly	GO_1900123	0	1	0	0	0
+regulation of hair cycle by BMP signaling pathway	GO_0060902	0	1	0	0	0
+regulation of decapentaplegic signaling pathway	GO_0090097	0	1	0	0	0
+regulation of activin receptor signaling pathway	GO_0032925	0	1	0	0	0
+regulation of SMAD protein import into nucleus	GO_0060390	0	1	0	0	0
+regulation of SMAD protein complex assembly	GO_0010990	0	1	0	0	0
+regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	0	0	0
+regulation of BMP signaling pathway involved in heart jogging	GO_2000223	0	1	0	0	0
+regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902812	0	1	0	0	0
+regulation of BMP signaling pathway	GO_0030510	0	1	0	0	0
+positive regulation of transforming growth factor beta receptor signaling pathway	GO_0030511	0	1	0	0	0
+positive regulation of pathway-restricted SMAD protein phosphorylation	GO_0010862	0	1	0	0	0
+positive regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1900224	0	1	0	0	0
+positive regulation of decapentaplegic signaling pathway	GO_0090098	0	1	0	0	0
+positive regulation of activin receptor signaling pathway	GO_0032927	0	1	0	0	0
+positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	0	1	0	0	0
+positive regulation of SMAD protein import into nucleus	GO_0060391	0	1	0	0	0
+positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	0	0	0
+positive regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902814	0	1	0	0	0
+positive regulation of BMP signaling pathway	GO_0030513	0	1	0	0	0
+pathway-restricted SMAD protein phosphorylation	GO_0060389	0	1	0	0	0
+nodal signaling pathway involved in determination of left/right asymmetry	GO_0038107	0	1	0	0	0
+nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1900164	0	1	0	0	0
+nodal signaling pathway	GO_0038092	0	1	0	0	0
+nodal receptor complex assembly	GO_0038099	0	1	0	0	0
+negative regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation	GO_0090012	0	1	0	0	0
+negative regulation of transforming growth factor beta receptor signaling pathway	GO_0030512	0	1	0	0	0
+negative regulation of pathway-restricted SMAD protein phosphorylation	GO_0060394	0	1	0	0	0
+negative regulation of nodal signaling pathway involved in determination of left/right asymmetry	GO_1900146	0	1	0	0	0
+negative regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1900176	0	1	0	0	0
+negative regulation of nodal signaling pathway	GO_1900108	0	1	0	0	0
+negative regulation of nodal receptor complex assembly	GO_1900124	0	1	0	0	0
+negative regulation of floral organ abscission by transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0060865	0	1	0	0	0
+negative regulation of decapentaplegic signaling pathway	GO_0090099	0	1	0	0	0
+negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway	GO_0072097	0	1	0	0	0
+negative regulation of activin receptor signaling pathway	GO_0032926	0	1	0	0	0
+negative regulation of SMAD protein import into nucleus	GO_0060392	0	1	0	0	0
+negative regulation of SMAD protein complex assembly	GO_0010991	0	1	0	0	0
+negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	0	0	0
+negative regulation of BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1902813	0	1	0	0	0
+negative regulation of BMP signaling pathway by negative regulation of BMP secretion	GO_0038056	0	1	0	0	0
+negative regulation of BMP signaling pathway	GO_0030514	0	1	0	0	0
+decapentaplegic signaling pathway	GO_0008101	0	1	0	0	0
+common-partner SMAD protein phosphorylation	GO_0007182	0	1	0	0	0
+activin-activated receptor activity	GO_0017002	0	1	0	0	0
+activin receptor signaling pathway involved in heart jogging	GO_0061372	0	1	0	0	0
+activin receptor signaling pathway	GO_0032924	0	1	0	0	0
+activin receptor activity, type II	GO_0016362	0	1	0	0	0
+activin receptor activity, type I	GO_0016361	0	1	0	0	0
+SMAD protein signal transduction	GO_0060395	0	1	0	0	0
+SMAD protein import into nucleus	GO_0007184	0	1	0	0	0
+SMAD protein complex assembly	GO_0007183	0	1	0	0	0
+BMP signaling pathway involved in ureter morphogenesis	GO_0061149	0	1	0	0	0
+BMP signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0021919	0	1	0	0	0
+BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	0	1	0	0	0
+BMP signaling pathway involved in renal system segmentation	GO_0061151	0	1	0	0	0
+BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003269	0	1	0	0	0
+BMP signaling pathway involved in nephric duct formation	GO_0071893	0	1	0	0	0
+BMP signaling pathway involved in mesodermal cell fate specification	GO_0060803	0	1	0	0	0
+BMP signaling pathway involved in heart jogging	GO_0003303	0	1	0	0	0
+BMP signaling pathway involved in heart induction	GO_0003130	0	1	0	0	0
+BMP signaling pathway involved in heart development	GO_0061312	0	1	0	0	0
+BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	0	0	0
+BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	0	1	0	0	0
+BMP signaling pathway involved in determination of left/right symmetry	GO_0003154	0	1	0	0	0
+BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003155	0	1	0	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0
+BMP signaling pathway	GO_0030509	0	1	0	0	0

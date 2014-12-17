@@ -112,6 +112,37 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/68)
 * Status: closed - mapping completed
 
+#### glucose homeostasis RCV_000175
+* Key class: [glucose homeostasis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042593)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: glucose homeostasis OR a part of glucose homeostasis OR a process that regulates glucose homeostasis
+* map summary: Roche_cvt: RCV_000175; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042593; manual_list_count 43, generated_list_count 14
+* [Results](glucose_homeostasis_RCV_000175.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### glutamatergic RCV_000178
+* Key class: [synaptic transmission, glutamatergic](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0035249)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: synaptic transmission, glutamatergic OR a part of synaptic transmission, glutamatergic OR a process that regulates synaptic transmission, glutamatergic
+* map summary: Roche_cvt: RCV_000178; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0035249; manual_list_count 3, generated_list_count 4
+* [Results](glutamatergic_RCV_000178.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### cell shape RCV_000124
+* Key class: [regulation of cell shape](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008360)
+* Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
+* Definition: regulation of cell shape OR a part of (some) regulation of cell shape.
+* map summary: Roche_cvt: RCV_000124; class_expression 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0008360; manual_list_count 5, generated_list_count 15
+* [Results](cell_shape_RCV_000124.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### glucose effects RCV_000174
+* Notes: Not_mappable
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### cell differentiation RCV_000115
 * Key class: [cell differentiation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030154)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -120,6 +151,10 @@
 * [Results](cell_differentiation_RCV_000115.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/310)
 * Status: closed - mapping completed
+
+#### cell cycle M RCV_000109
+* Notes: No annotation to cell cycle phase terms
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### telomere RCV_000324
 * Key class: [chromosome, telomeric region](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000781)
@@ -202,6 +237,10 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/115)
 * Status: closed - mapping completed
 
+#### olfactory RCV_000254
+* Notes: Unfortunately not mappable right now.  Making it mappable would be an interesting project.
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### G-protein RCV_000017
 * Notes: Laura: Having trouble automating this as its meaning seems much more constrained than implied my the name.  Manual mapping is only regulation of GPCR signaling pathway terms whose names explicilty reference  activity GPCR signaling. Is a broad interpretation correct, or should change the name to positive 
 * Results: N/A Job not run. Specification marked as preliminary or missing.
@@ -214,6 +253,15 @@
 * [Results](taxis_RCV_000323.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/256)
 * Status: closed - mapping completed
+
+#### cell cell signaling RCV_000101
+* Key class: [cell cell signaling](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007267)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for cell cell signaling.
+* map summary: Roche_cvt: RCV_000101; class_expression GO_0007267; manual_list_count 10, generated_list_count 82
+* [Results](cell_cell_signaling_RCV_000101.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### steroid metabolic process RCV_000314
 * Key class: [steroid metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008202)
@@ -243,6 +291,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/40)
 * Status: closed - mapping completed
 
+#### cell cycle G2/M RCV_000108
+* Key class: [cell cycle G2/M phase transition](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044839)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: cell cycle G2/M phase transition OR a part of cell cycle G2/M phase transition OR a process that regulates cell cycle G2/M phase transition
+* map summary: Roche_cvt: RCV_000108; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0044839; manual_list_count 8, generated_list_count 20
+* [Results](cell_cycle_G2_M_RCV_000108.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### interaction with host RCV_000204
 * Key class: [interaction with host](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0051701)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -269,6 +326,19 @@
 * [Results](SMAD_pathway_RCV_000033.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/46)
 * Status: open
+
+#### glycinergic RCV_000180
+* Key class: [synaptic transmission, glycinergic](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060012)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: synaptic transmission, glycinergic OR a part of synaptic transmission, glycinergic OR a process that regulates synaptic transmission, glycinergic
+* map summary: Roche_cvt: RCV_000180; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060012; manual_list_count 3, generated_list_count 5
+* [Results](glycinergic_RCV_000180.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### heavy metal RCV_000187
+* Notes: Can't map to general heavy metals with current srategy, but this could be mapped by specifying a union of appropriate metal elements.
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### cholesterol metabolism RCV_000135
 * Key class: [cholesterol metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008203)
@@ -297,6 +367,10 @@
 * [Results](endoderm_development_RCV_000150.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/303)
 * Status: closed - mapping completed
+
+#### neurotransmittter RCV_000247
+* Notes: duplicate RCV term
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### DNA recombination RCV_000008
 * Key class: [DNA recombination](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006310)
@@ -327,6 +401,16 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/251)
 * Status: closed - mapping completed
 
+#### hormone metabolism RCV_000192
+* Key class: [substance with hormone biological role](http://www.ebi.ac.uk/ontology-lookup/?termId=GOCHE:24621)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: substance with hormone biological role OR a part of substance with hormone biological role OR a process that regulates substance with hormone biological role
+* map summary: Roche_cvt: RCV_000192; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GOCHE_24621; manual_list_count 154, generated_list_count 6
+* Notes: May miss a few sex hormones.
+* [Results](hormone_metabolism_RCV_000192.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### platelet RCV_000281
 * Key class: [platelet](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000233)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
@@ -354,15 +438,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/142)
 * Status: open
 
-#### inositol metabolism RCV_000200
-* Key class: [inositol metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006020)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for inositol metabolic process.
-* map summary: Roche_cvt: RCV_000200; class_expression GO_0006020; manual_list_count 12, generated_list_count 4
-* [Results](inositol_metabolism_RCV_000200.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/102)
-* Status: closed - mapping completed
-
 #### aorta development RCV_000065
 * Key class: [aorta development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0035904)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -370,6 +445,15 @@
 * map summary: Roche_cvt: RCV_000065; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0035904; manual_list_count 7, generated_list_count 11
 * [Results](aorta_development_RCV_000065.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/82)
+* Status: closed - mapping completed
+
+#### inositol metabolism RCV_000200
+* Key class: [inositol metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006020)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for inositol metabolic process.
+* map summary: Roche_cvt: RCV_000200; class_expression GO_0006020; manual_list_count 12, generated_list_count 4
+* [Results](inositol_metabolism_RCV_000200.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/102)
 * Status: closed - mapping completed
 
 #### midbrain development RCV_000235
@@ -390,6 +474,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/84)
 * Status: closed - mapping completed
 
+#### ureter RCV_000341
+* Key class: [ureter development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0072189)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: ureter development OR a part of ureter development OR a process that regulates ureter development
+* map summary: Roche_cvt: RCV_000341; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0072189; manual_list_count 15, generated_list_count 16
+* [Results](ureter_RCV_000341.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### NGF pathway RCV_000025
 * Key class: [neurotrophin signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0038179)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -399,14 +492,14 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/321)
 * Status: open
 
-#### ureter RCV_000341
-* Key class: [ureter development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0072189)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: ureter development OR a part of ureter development OR a process that regulates ureter development
-* map summary: Roche_cvt: RCV_000341; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0072189; manual_list_count 15, generated_list_count 16
-* [Results](ureter_RCV_000341.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
-* Status: 
+#### carnitine metabolism RCV_000096
+* Key class: [carnitine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0009437)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for carnitine metabolic process.
+* map summary: Roche_cvt: RCV_000096; class_expression GO_0009437; manual_list_count 6, generated_list_count 4
+* [Results](carnitine_metabolism_RCV_000096.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/100)
+* Status: closed - mapping completed
 
 #### vitamin D RCV_000353
 * Key class: [vitamin D](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:27300)
@@ -427,15 +520,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/244)
 * Status: closed - mapping completed
 
-#### carnitine metabolism RCV_000096
-* Key class: [carnitine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0009437)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for carnitine metabolic process.
-* map summary: Roche_cvt: RCV_000096; class_expression GO_0009437; manual_list_count 6, generated_list_count 4
-* [Results](carnitine_metabolism_RCV_000096.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/100)
-* Status: closed - mapping completed
-
 #### cell motility RCV_000122
 * Key class: [cell motility](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048870)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -454,14 +538,14 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/269)
 * Status: open
 
-#### hepatic stellate cell RCV_000188
-* Key class: [hepatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000632)
-* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
-* Definition: A process in which a hepatic stellate cell participates or that occur in hepatic stellate cell or which results in the developmental progression of a structure that will form hepatic stellate cell
-* map summary: Roche_cvt: RCV_000188; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000632; manual_list_count 4, generated_list_count 2
-* [Results](hepatic_stellate_cell_RCV_000188.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/212)
-* Status: closed - mapping completed
+#### cholinergic RCV_000136
+* Key class: [synaptic transmission, cholinergic](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007271)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: synaptic transmission, cholinergic OR a part of synaptic transmission, cholinergic OR a process that regulates synaptic transmission, cholinergic
+* map summary: Roche_cvt: RCV_000136; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007271; manual_list_count 3, generated_list_count 7
+* [Results](cholinergic_RCV_000136.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### fatty acid metabolism RCV_000164
 * Key class: [fatty acid metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006631)
@@ -470,6 +554,15 @@
 * map summary: Roche_cvt: RCV_000164; class_expression GO_0006631; manual_list_count 82, generated_list_count 113
 * [Results](fatty_acid_metabolism_RCV_000164.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/99)
+* Status: closed - mapping completed
+
+#### hepatic stellate cell RCV_000188
+* Key class: [hepatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000632)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a hepatic stellate cell participates or that occur in hepatic stellate cell or which results in the developmental progression of a structure that will form hepatic stellate cell
+* map summary: Roche_cvt: RCV_000188; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000632; manual_list_count 4, generated_list_count 2
+* [Results](hepatic_stellate_cell_RCV_000188.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/212)
 * Status: closed - mapping completed
 
 #### neuron development RCV_000244
@@ -494,7 +587,7 @@
 * Key class: [adipose tissue development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060612)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: adipose tissue development OR a part of adipose tissue development OR a process that regulates adipose tissue development
-* map summary: Roche_cvt: RCV_000051; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060612; manual_list_count 5, generated_list_count 8
+* map summary: Roche_cvt: RCV_000051; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060612; manual_list_count 5, generated_list_count 17
 * [Results](adipose_differentiation_RCV_000051.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/77)
 * Status: closed - mapping completed
@@ -511,6 +604,10 @@
 * [Results](chemotaxis_RCV_000134.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/249)
 * Status: open
+
+#### cell cycle G2 RCV_000107
+* Notes: No annotation to cell cycle phase terms
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### adenine metabolism RCV_000048
 * Key class: [adenine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046083)
@@ -554,10 +651,19 @@
 * Key class: [cell death](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0008219)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell death OR a part of cell death OR a process that regulates cell death
-* map summary: Roche_cvt: RCV_000114; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0008219; manual_list_count 11, generated_list_count 457
+* map summary: Roche_cvt: RCV_000114; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0008219; manual_list_count 11, generated_list_count 460
 * [Results](cell_death_RCV_000114.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/309)
 * Status: open
+
+#### glial RCV_000170
+* Key class: [glial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000125)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a glial cell participates or that occur in glial cell or which results in the developmental progression of a structure that will form glial cell
+* map summary: Roche_cvt: RCV_000170; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000125; manual_list_count 104, generated_list_count 62
+* [Results](glial_RCV_000170.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### NF-kappaB pathway RCV_000024
 * Key class: [I-kappaB kinase/NF-kappaB signaling](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007249)
@@ -658,15 +764,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/103)
 * Status: closed - mapping completed
 
-#### fibroblast RCV_000166
-* Key class: [fibroblast](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000057)
-* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
-* Definition: A process in which a fibroblast participates or that occur in fibroblast or which results in the developmental progression of a structure that will form fibroblast
-* map summary: Roche_cvt: RCV_000166; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000057; manual_list_count 36, generated_list_count 20
-* [Results](fibroblast_RCV_000166.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/282)
-* Status: open
-
 #### somatostatin RCV_000308
 * Key class: [somatostatin](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:64628)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
@@ -675,6 +772,15 @@
 * [Results](somatostatin_RCV_000308.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
+
+#### fibroblast RCV_000166
+* Key class: [fibroblast](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000057)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a fibroblast participates or that occur in fibroblast or which results in the developmental progression of a structure that will form fibroblast
+* map summary: Roche_cvt: RCV_000166; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000057; manual_list_count 36, generated_list_count 20
+* [Results](fibroblast_RCV_000166.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/282)
+* Status: open
 
 #### mast cell RCV_000230
 * Key class: [mast cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000097)
@@ -685,22 +791,22 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/176)
 * Status: closed - mapping completed
 
-#### cytoskeleton RCV_000139
-* Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
-* Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
-* Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
-* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 432
-* [Results](cytoskeleton_RCV_000139.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/234)
-* Status: open
-
 #### cell cycle RCV_000102
 * Key class: [cell cycle](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007049)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell cycle OR a part of cell cycle OR a process that regulates cell cycle
-* map summary: Roche_cvt: RCV_000102; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007049; manual_list_count 87, generated_list_count 830
+* map summary: Roche_cvt: RCV_000102; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007049; manual_list_count 87, generated_list_count 828
 * [Results](cell_cycle_RCV_000102.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/262)
+* Status: open
+
+#### cytoskeleton RCV_000139
+* Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
+* Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
+* Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
+* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 434
+* [Results](cytoskeleton_RCV_000139.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/234)
 * Status: open
 
 #### stem cell RCV_000313
@@ -721,11 +827,20 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/259)
 * Status: closed - mapping completed
 
+#### dopamine RCV_000145
+* Key class: [dopamine](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:18243)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some dopamine participates.
+* map summary: Roche_cvt: RCV_000145; class_expression RO_0000057 some CHEBI_18243; manual_list_count 29, generated_list_count 18
+* [Results](dopamine_RCV_000145.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### enzyme RCV_000153
 * Key class: [catalytic activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003824)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for catalytic activity.
-* map summary: Roche_cvt: RCV_000153; class_expression GO_0003824; manual_list_count 4, generated_list_count 6471
+* map summary: Roche_cvt: RCV_000153; class_expression GO_0003824; manual_list_count 4, generated_list_count 6474
 * [Results](enzyme_RCV_000153.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/304)
 * Status: open
@@ -776,6 +891,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/285)
 * Status: closed - mapping completed
 
+#### central nervous system RCV_000131
+* Key class: [central nervous system](http://www.ebi.ac.uk/ontology-lookup/?termId=UBERON:0001017)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a central nervous system participates or that occur in central nervous system or which results in the developmental progression of a structure that will form central nervous system
+* map summary: Roche_cvt: RCV_000131; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0001017; manual_list_count 16, generated_list_count 102
+* [Results](central_nervous_system_RCV_000131.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### digestive tract development RCV_000143
 * Key class: [digestive tract development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048565)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -802,6 +926,15 @@
 * [Results](oocyte_RCV_000256.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/144)
 * Status: open
+
+#### iron metabolism RCV_000212
+* Key class: [iron cation](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:24875)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some iron cation participates.
+* map summary: Roche_cvt: RCV_000212; class_expression RO_0000057 some CHEBI_24875; manual_list_count 51, generated_list_count 60
+* [Results](iron_metabolism_RCV_000212.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### pancreatic PP cell RCV_000272
 * Key class: [pancreatic PP cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0002275)
@@ -890,7 +1023,7 @@
 * Key class: [purine-containing compound metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0072521)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for purine-containing compound metabolic process.
-* map summary: Roche_cvt: RCV_000291; class_expression GO_0072521; manual_list_count 111, generated_list_count 233
+* map summary: Roche_cvt: RCV_000291; class_expression GO_0072521; manual_list_count 111, generated_list_count 236
 * Notes: Manual mapping includes regulation terms - doesn't fit pattern for other metabolism terms.  Could switch pattern to include regulation terms, but should I?
 * [Results](purine_metabolism_RCV_000291.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/96)
@@ -913,6 +1046,33 @@
 * [Results](hindbrain_development_RCV_000190.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/106)
 * Status: closed - mapping completed
+
+#### cell matrix RCV_000118
+* Key class: [extracellular matrix](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0031012)
+* Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
+* Definition: A extracellular matrix or a process that results in organisation of a extracellular matrix or that has a extracellular matrix as a participant.
+* map summary: Roche_cvt: RCV_000118; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031012; manual_list_count 40, generated_list_count 115
+* [Results](cell_matrix_RCV_000118.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### energy metabolism RCV_000152
+* Key class: [ATP metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046034)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for ATP metabolic process.
+* map summary: Roche_cvt: RCV_000152; class_expression GO_0046034; manual_list_count 21, generated_list_count 15
+* [Results](energy_metabolism_RCV_000152.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### Ser/Thr kinase signaling RCV_000036
+* Key class: [transmembrane receptor protein serine/threonine kinase signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007178)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: transmembrane receptor protein serine/threonine kinase signaling pathway OR a part of transmembrane receptor protein serine/threonine kinase signaling pathway OR a process that regulates transmembrane receptor protein serine/threonine kinase signaling pathway
+* map summary: Roche_cvt: RCV_000036; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007178; manual_list_count 5, generated_list_count 102
+* [Results](Ser_Thr_kinase_signaling_RCV_000036.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/29)
+* Status: open
 
 #### nucleotide binding process RCV_000253
 * Key class: [nucleotide binding](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000166)
@@ -937,15 +1097,6 @@
 * Notes: Have requested obsoletion/merge with brain development (see issue 241)
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
-#### wound healing RCV_000356
-* Key class: [wound healing](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042060)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: wound healing OR a part of wound healing OR a process that regulates wound healing
-* map summary: Roche_cvt: RCV_000356; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060; manual_list_count 12, generated_list_count 100
-* [Results](wound_healing_RCV_000356.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/23)
-* Status: open
-
 #### cell wall RCV_000126
 * Key class: [cell wall](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005618)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
@@ -954,6 +1105,15 @@
 * [Results](cell_wall_RCV_000126.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
+
+#### wound healing RCV_000356
+* Key class: [wound healing](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042060)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: wound healing OR a part of wound healing OR a process that regulates wound healing
+* map summary: Roche_cvt: RCV_000356; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0042060; manual_list_count 12, generated_list_count 100
+* [Results](wound_healing_RCV_000356.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/23)
+* Status: open
 
 #### spleen development RCV_000311
 * Key class: [spleen development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048536)
@@ -973,15 +1133,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/71)
 * Status: closed - mapping completed
 
-#### neutrophil RCV_000248
-* Key class: [neutrophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000775)
-* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
-* Definition: A process in which a neutrophil participates or that occur in neutrophil or which results in the developmental progression of a structure that will form neutrophil
-* map summary: Roche_cvt: RCV_000248; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000775; manual_list_count 46, generated_list_count 17
-* [Results](neutrophil_RCV_000248.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/314)
-* Status: closed - mapping completed
-
 #### heart development RCV_000184
 * Key class: [heart development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007507)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -989,6 +1140,15 @@
 * map summary: Roche_cvt: RCV_000184; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007507; manual_list_count 180, generated_list_count 407
 * [Results](heart_development_RCV_000184.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/213)
+* Status: closed - mapping completed
+
+#### neutrophil RCV_000248
+* Key class: [neutrophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000775)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a neutrophil participates or that occur in neutrophil or which results in the developmental progression of a structure that will form neutrophil
+* map summary: Roche_cvt: RCV_000248; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000775; manual_list_count 46, generated_list_count 17
+* [Results](neutrophil_RCV_000248.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/314)
 * Status: closed - mapping completed
 
 #### immune response RCV_000195
@@ -1004,7 +1164,7 @@
 * Key class: [organ development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048513)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: organ development OR a part of organ development OR a process that regulates organ development
-* map summary: Roche_cvt: RCV_000259; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3285
+* map summary: Roche_cvt: RCV_000259; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3294
 * [Results](organ_development_RCV_000259.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/119)
 * Status: closed - mapping completed
@@ -1036,6 +1196,10 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/157)
 * Status: closed - mapping completed
 
+#### olfactory system development RCV_000255
+* Notes: Fix through better axiomatisation of uberon?
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### RNA interference RCV_000031
 * Key class: [RNA interference](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016246)
 * Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
@@ -1046,8 +1210,21 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/53)
 * Status: closed - mapping completed
 
+#### heart function RCV_000185
+* Key class: [heart process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003015)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: heart process OR a part of heart process OR a process that regulates heart process
+* map summary: Roche_cvt: RCV_000185; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0003015; manual_list_count 61, generated_list_count 75
+* [Results](heart_function_RCV_000185.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### antimicrobial RCV_000064
 * Notes: Internal note: some work on new GOCHE terms required before this can be added.
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### adhesion RCV_000049
+* Notes: Manual mapping is to 'biological adhesion only'.   Is this class really needed?  Already have cell-cell and cell-matrix RCV terms.
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### vessel development RCV_000349
@@ -1063,6 +1240,10 @@
 * Notes: Can't run mapping until code modified to allow sub arbitrary class expressions.
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
+#### lymphocyte dynamics RCV_000227
+* Notes: Not clear what is meant by dynamics that is not covered by Roche lymphocyte. Seems to cover only general lymphocyte class, and not its many subclasses.
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### calcium homeostasis RCV_000093
 * Key class: [calcium ion homeostasis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0055074)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -1076,7 +1257,7 @@
 * Key class: [MAPK cascade](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000165)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: MAPK cascade OR a part of MAPK cascade OR a process that regulates MAPK cascade
-* map summary: Roche_cvt: RCV_000022; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0000165; manual_list_count 37, generated_list_count 94
+* map summary: Roche_cvt: RCV_000022; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0000165; manual_list_count 37, generated_list_count 95
 * [Results](MAPK_signalling_RCV_000022.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/35)
 * Status: closed - mapping completed
@@ -1154,6 +1335,26 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/89)
 * Status: closed - mapping completed
 
+#### cAMP metabolism RCV_000092
+* Key class: [3',5'-cyclic AMP](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17489)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some 3',5'-cyclic AMP participates.
+* map summary: Roche_cvt: RCV_000092; class_expression RO_0000057 some CHEBI_17489; manual_list_count 6, generated_list_count 28
+* Notes: Manual mapping is broader than metabolism.  Of this is intent then name should probably change.
+* [Results](cAMP_metabolism_RCV_000092.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### heart stress RCV_000186
+* Key class: [cardiac muscle adaptation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0014887)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for cardiac muscle adaptation.
+* map summary: Roche_cvt: RCV_000186; class_expression GO_0014887; manual_list_count 4, generated_list_count 3
+* Notes: Not entirely comfortable with this mapping, adapdation may be broader than stress, and there are presumably other responses to stress that this will never cover.
+* [Results](heart_stress_RCV_000186.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### optic nerve development RCV_000258
 * Key class: [optic nerve development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0021554)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1163,13 +1364,12 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/120)
 * Status: closed - mapping completed
 
-#### cAMP metabolism RCV_000092
-* Key class: [3',5'-cyclic AMP](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17489)
-* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some 3',5'-cyclic AMP participates.
-* map summary: Roche_cvt: RCV_000092; class_expression RO_0000057 some CHEBI_17489; manual_list_count 6, generated_list_count 28
-* Notes: Manual mapping is broader than metabolism.  Of this is intent then name should probably change.
-* [Results](cAMP_metabolism_RCV_000092.tsv)
+#### ovary RCV_000261
+* Key class: [oogenesis](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048477)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: oogenesis OR a part of oogenesis OR a process that regulates oogenesis
+* map summary: Roche_cvt: RCV_000261; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048477; manual_list_count 40, generated_list_count 120
+* [Results](ovary_RCV_000261.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
 
@@ -1200,15 +1400,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/199)
 * Status: open
 
-#### MAPK inactivation RCV_000021
-* Key class: [negative regulation of MAP kinase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0043407)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for negative regulation of MAP kinase activity.
-* map summary: Roche_cvt: RCV_000021; class_expression GO_0043407; manual_list_count 17, generated_list_count 7
-* [Results](MAPK_inactivation_RCV_000021.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/34)
-* Status: open
-
 #### skeletal muscle RCV_000302
 * Key class: [skeletal muscle tissue development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007519)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1218,6 +1409,19 @@
 * [Results](skeletal_muscle_RCV_000302.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
+
+#### MAPK inactivation RCV_000021
+* Key class: [negative regulation of MAP kinase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0043407)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for negative regulation of MAP kinase activity.
+* map summary: Roche_cvt: RCV_000021; class_expression GO_0043407; manual_list_count 17, generated_list_count 7
+* [Results](MAPK_inactivation_RCV_000021.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/34)
+* Status: open
+
+#### detoxification RCV_000142
+* Notes: New GO term
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### T cells RCV_000037
 * Key class: [T cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000084)
@@ -1237,6 +1441,15 @@
 * [Results](caspase_activity_RCV_000364.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/219)
 * Status: closed - mapping completed
+
+#### cell cycle arrest RCV_000113
+* Key class: [cell cycle arrest](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007050)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: cell cycle arrest OR a part of cell cycle arrest OR a process that regulates cell cycle arrest
+* map summary: Roche_cvt: RCV_000113; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007050; manual_list_count 11, generated_list_count 19
+* [Results](cell_cycle_arrest_RCV_000113.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### kinase activity RCV_000217
 * Key class: [kinase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016301)
@@ -1302,6 +1515,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/39)
 * Status: closed - mapping completed
 
+#### uropod RCV_000363
+* Key class: [uropod](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0001931)
+* Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
+* Definition: A uropod or a process that results in organisation of a uropod or that has a uropod as a participant.
+* map summary: Roche_cvt: RCV_000363; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0001931; manual_list_count 2, generated_list_count 5
+* [Results](uropod_RCV_000363.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### heme metabolism RCV_000362
 * Key class: [heme metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042168)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -1333,6 +1555,23 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/98)
 * Status: closed - mapping completed
 
+#### cell adhesion and motility RCV_000099
+* Notes: redunant  with RCV terms for cell adhesion and motility.  Make obsolete?
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### histone dynamics RCV_000191
+* Key class: [histone modification](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016570)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: histone modification OR a part of histone modification OR a process that regulates histone modification
+* map summary: Roche_cvt: RCV_000191; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0016570; manual_list_count 178, generated_list_count 273
+* [Results](histone_dynamics_RCV_000191.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### exocrine glands RCV_000161
+* Notes: Manual mapping is much more limited than name suggests.
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### vasoconstriction RCV_000345
 * Key class: [vasoconstriction](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042310)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1341,10 +1580,6 @@
 * [Results](vasoconstriction_RCV_000345.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/275)
 * Status: closed - mapping completed
-
-#### exocrine glands RCV_000161
-* Notes: Manual mapping is much more limited than name suggests.
-* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### allantoin metabolism RCV_000056
 * Key class: [allantoin metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000255)
@@ -1402,6 +1637,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/73)
 * Status: closed - mapping completed
 
+#### cell cycle G0/G1 RCV_000103
+* Key class: [G0 to G1 transition](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045023)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: G0 to G1 transition OR a part of G0 to G1 transition OR a process that regulates G0 to G1 transition
+* map summary: Roche_cvt: RCV_000103; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0045023; manual_list_count 4, generated_list_count 4
+* [Results](cell_cycle_G0_G1_RCV_000103.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### epithelial cell migration RCV_000156
 * Key class: [epithelial cell migration](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0010631)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1419,6 +1663,10 @@
 * [Results](asparagine_metabolism_RCV_000072.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/85)
 * Status: closed - mapping completed
+
+#### cell cycle S RCV_000111
+* Notes: No annotation to cell cycle phase terms
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### sterol metabolic process RCV_000315
 * Key class: [sterol metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016125)
@@ -1448,15 +1696,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/150)
 * Status: open
 
-#### thiamin metabolism RCV_000326
-* Key class: [thiamine-containing compound metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042723)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for thiamine-containing compound metabolic process.
-* map summary: Roche_cvt: RCV_000326; class_expression GO_0042723; manual_list_count 14, generated_list_count 7
-* [Results](thiamin_metabolism_RCV_000326.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/88)
-* Status: closed - mapping completed
-
 #### PPAR pathway RCV_000030
 * Key class: [peroxisome proliferator activated receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0035357)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1466,6 +1705,28 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/54)
 * Status: closed - mapping completed
 
+#### cell cycle M/G1 RCV_000110
+* Notes: Key term is obsolete
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### thiamin metabolism RCV_000326
+* Key class: [thiamine-containing compound metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0042723)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for thiamine-containing compound metabolic process.
+* map summary: Roche_cvt: RCV_000326; class_expression GO_0042723; manual_list_count 14, generated_list_count 7
+* [Results](thiamin_metabolism_RCV_000326.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/88)
+* Status: closed - mapping completed
+
+#### pancreas development RCV_000266
+* Key class: [pancreas development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0031016)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: pancreas development OR a part of pancreas development OR a process that regulates pancreas development
+* map summary: Roche_cvt: RCV_000266; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0031016; manual_list_count 7, generated_list_count 31
+* [Results](pancreas_development_RCV_000266.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### granulocyte RCV_000183
 * Key class: [granulocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000094)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
@@ -1474,6 +1735,15 @@
 * [Results](granulocyte_RCV_000183.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/190)
 * Status: closed - mapping completed
+
+#### embryonic development RCV_000147
+* Key class: [embryo development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0009790)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: embryo development OR a part of embryo development OR a process that regulates embryo development
+* map summary: Roche_cvt: RCV_000147; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0009790; manual_list_count 342, generated_list_count 604
+* [Results](embryonic_development_RCV_000147.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### brain development RCV_000091
 * Key class: [brain development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007420)
@@ -1488,7 +1758,7 @@
 * Key class: [apoptotic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006915)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: apoptotic process OR a part of apoptotic process OR a process that regulates apoptotic process
-* map summary: Roche_cvt: RCV_000066; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006915; manual_list_count 60, generated_list_count 348
+* map summary: Roche_cvt: RCV_000066; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006915; manual_list_count 60, generated_list_count 351
 * [Results](apoptosis_RCV_000066.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/313)
 * Status: open
@@ -1534,10 +1804,19 @@
 * Key class: [DNA replication](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006260)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: DNA replication OR a part of DNA replication OR a process that regulates DNA replication
-* map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 43, generated_list_count 162
+* map summary: Roche_cvt: RCV_000010; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006260; manual_list_count 43, generated_list_count 161
 * [Results](DNA_replication_RCV_000010.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/59)
 * Status: closed - mapping completed
+
+#### endothelial RCV_000151
+* Key class: [endothelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000115)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a endothelial cell participates or that occur in endothelial cell or which results in the developmental progression of a structure that will form endothelial cell
+* map summary: Roche_cvt: RCV_000151; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000115; manual_list_count 98, generated_list_count 43
+* [Results](endothelial_RCV_000151.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### ion binding RCV_000209
 * Key class: [metal ion binding](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046872)
@@ -1557,11 +1836,20 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/299)
 * Status: closed - mapping completed
 
+#### cell cycle G1/S RCV_000106
+* Key class: [cell cycle G1/S phase transition](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044843)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: cell cycle G1/S phase transition OR a part of cell cycle G1/S phase transition OR a process that regulates cell cycle G1/S phase transition
+* map summary: Roche_cvt: RCV_000106; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0044843; manual_list_count 10, generated_list_count 21
+* [Results](cell_cycle_G1_S_RCV_000106.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### synapse RCV_000321
 * Key class: [synapse](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045202)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A synapse or a process that results in organisation of a synapse or that has a synapse as a participant.
-* map summary: Roche_cvt: RCV_000321; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0045202; manual_list_count 41, generated_list_count 71
+* map summary: Roche_cvt: RCV_000321; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0045202; manual_list_count 41, generated_list_count 73
 * [Results](synapse_RCV_000321.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/258)
 * Status: open
@@ -1621,15 +1909,6 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
 
-#### toluene metabolism RCV_000330
-* Key class: [toluene metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0018970)
-* Pattern: [Equivalence](../../patterns/Equivalence.md)
-* Definition: As for toluene metabolic process.
-* map summary: Roche_cvt: RCV_000330; class_expression GO_0018970; manual_list_count 14, generated_list_count 12
-* [Results](toluene_metabolism_RCV_000330.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/202)
-* Status: closed - mapping completed
-
 #### artery RCV_000071
 * Key class: [artery development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060840)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1637,6 +1916,15 @@
 * map summary: Roche_cvt: RCV_000071; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060840; manual_list_count 8, generated_list_count 19
 * [Results](artery_RCV_000071.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/227)
+* Status: closed - mapping completed
+
+#### toluene metabolism RCV_000330
+* Key class: [toluene metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0018970)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for toluene metabolic process.
+* map summary: Roche_cvt: RCV_000330; class_expression GO_0018970; manual_list_count 14, generated_list_count 12
+* [Results](toluene_metabolism_RCV_000330.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/202)
 * Status: closed - mapping completed
 
 #### amine metabolism RCV_000057
@@ -1778,7 +2066,7 @@
 * Key class: [cell division](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0051301)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell division OR a part of cell division OR a process that regulates cell division
-* map summary: Roche_cvt: RCV_000116; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0051301; manual_list_count 302, generated_list_count 318
+* map summary: Roche_cvt: RCV_000116; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0051301; manual_list_count 302, generated_list_count 317
 * Notes: Or map to cytokinesis?
 * [Results](cell_division_RCV_000116.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/311)
@@ -1801,6 +2089,25 @@
 * [Results](lipoprotein_metabolism_RCV_000221.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/272)
 * Status: open
+
+#### mRNA dynamics RCV_000228
+* Key class: [messenger RNA](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:33699)
+* Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
+* Definition: A process in which some messenger RNA participates.
+* map summary: Roche_cvt: RCV_000228; class_expression RO_0000057 some CHEBI_33699; manual_list_count 48, generated_list_count 75
+* Notes: Missing some subclasses because we also use SO mRNA in some places in GO.  Needs to be fixed by discussion at GO.
+* [Results](mRNA_dynamics_RCV_000228.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### cell-cell signaling RCV_000129
+* Key class: [cell-cell signaling](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007267)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for cell-cell signaling.
+* map summary: Roche_cvt: RCV_000129; class_expression GO_0007267; manual_list_count 2, generated_list_count 82
+* [Results](cell-cell_signaling_RCV_000129.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### TNF pathway RCV_000042
 * Key class: [tumor necrosis factor-mediated signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0033209)
@@ -1839,12 +2146,37 @@
 * Status: closed - mapping completed
 
 #### adipose RCV_000050
+* Key class: [adipose tissue development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060612)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: adipose tissue development OR a part of adipose tissue development OR a process that regulates adipose tissue development
+* map summary: Roche_cvt: RCV_000050; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060612; manual_list_count 22, generated_list_count 17
 * Notes: Combine function and development - with reference to adipose cell and tissue?
+* [Results](adipose_RCV_000050.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### cell metabolism RCV_000119
+* Notes: Unclear what groups members of this class.  Not mapping.
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
+#### cell cycle G1/G0 RCV_000105
+* Key class: [G1 to G0 transition](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0070314)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: G1 to G0 transition OR a part of G1 to G0 transition OR a process that regulates G1 to G0 transition
+* map summary: Roche_cvt: RCV_000105; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0070314; manual_list_count 3, generated_list_count 7
+* [Results](cell_cycle_G1_G0_RCV_000105.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### liver RCV_000222
-* Notes: No term for system process term for liver.
-* Results: N/A Job not run. Specification marked as preliminary or missing.
+* Key class: [hepaticobiliary system process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0061007)
+* Pattern: [Equivalence](../../patterns/Equivalence.md)
+* Definition: As for hepaticobiliary system process.
+* map summary: Roche_cvt: RCV_000222; class_expression GO_0061007; manual_list_count 7, generated_list_count 1
+* Notes: Not much under the mapping term in GO right now.  Roche mapping mixes in developmental processes, which are covered under Roche liver development.
+* [Results](liver_RCV_000222.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### dendritic cell RCV_000141
 * Key class: [dendritic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000451)
@@ -1883,6 +2215,27 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/218)
 * Status: open
 
+#### cell-cell interaction RCV_000128
+* Notes: Concept unclear
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### intestine RCV_000208
+* Key class: [intestine](http://www.ebi.ac.uk/ontology-lookup/?termId=UBERON:0000160)
+* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
+* Definition: A process in which a intestine participates or that occur in intestine or which results in the developmental progression of a structure that will form intestine
+* map summary: Roche_cvt: RCV_000208; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0000160; manual_list_count 11, generated_list_count 3
+* [Results](intestine_RCV_000208.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### extraglomerular mesangial RCV_000162
+* Notes: Manuall mapped to only one, very obscure and specific term.  Not bothering to map
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### antifungal RCV_000063
+* Notes: Internal note: some work on new GOCHE terms required before this can be added.
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### retina development RCV_000295
 * Key class: [retina development in camera-type eye](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060041)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -1892,8 +2245,8 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/159)
 * Status: closed - mapping completed
 
-#### antifungal RCV_000063
-* Notes: Internal note: some work on new GOCHE terms required before this can be added.
+#### cell cycle G1 RCV_000104
+* Notes: No annotation to cell cycle phase terms
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### base pairing RCV_000080
@@ -1978,6 +2331,24 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/151)
 * Status: closed - mapping completed
 
+#### urea metabolism RCV_000340
+* Key class: [urea metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0019627)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: urea metabolic process OR a part of urea metabolic process OR a process that regulates urea metabolic process
+* map summary: Roche_cvt: RCV_000340; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0019627; manual_list_count 11, generated_list_count 8
+* [Results](urea_metabolism_RCV_000340.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
+#### uterus RCV_000342
+* Key class: [uterus development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060065)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: uterus development OR a part of uterus development OR a process that regulates uterus development
+* map summary: Roche_cvt: RCV_000342; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060065; manual_list_count 7, generated_list_count 3
+* [Results](uterus_RCV_000342.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### arginine metabolism RCV_000070
 * Key class: [arginine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006525)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
@@ -1985,15 +2356,6 @@
 * map summary: Roche_cvt: RCV_000070; class_expression GO_0006525; manual_list_count 15, generated_list_count 16
 * [Results](arginine_metabolism_RCV_000070.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/86)
-* Status: closed - mapping completed
-
-#### adrenergic RCV_000053
-* Key class: [adrenergic receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0071875)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: adrenergic receptor signaling pathway OR a part of adrenergic receptor signaling pathway OR a process that regulates adrenergic receptor signaling pathway
-* map summary: Roche_cvt: RCV_000053; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0071875; manual_list_count 15, generated_list_count 30
-* [Results](adrenergic_RCV_000053.tsv)
-* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/236)
 * Status: closed - mapping completed
 
 #### thymus RCV_000328
@@ -2004,6 +2366,15 @@
 * [Results](thymus_RCV_000328.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
+
+#### adrenergic RCV_000053
+* Key class: [adrenergic receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0071875)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: adrenergic receptor signaling pathway OR a part of adrenergic receptor signaling pathway OR a process that regulates adrenergic receptor signaling pathway
+* map summary: Roche_cvt: RCV_000053; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0071875; manual_list_count 15, generated_list_count 30
+* [Results](adrenergic_RCV_000053.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/236)
+* Status: closed - mapping completed
 
 #### VEGF pathway RCV_000045
 * Key class: [vascular endothelial growth factor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0038084)
@@ -2059,6 +2430,10 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/297)
 * Status: closed - mapping completed
 
+#### cell cycle S/G2 RCV_000112
+* Notes: Key term is obsolete
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### cell growth RCV_000117
 * Key class: [cell growth](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016049)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -2068,11 +2443,19 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/312)
 * Status: closed - mapping completed
 
+#### gpcr RCV_000182
+* Notes: Obsolete RCV term (duplicate)
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### golgi dynamics RCV_000181
+* Notes: New pattern
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### transferase activity RCV_000334
 * Key class: [transferase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016740)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for transferase activity.
-* map summary: Roche_cvt: RCV_000334; class_expression GO_0016740; manual_list_count 7, generated_list_count 2025
+* map summary: Roche_cvt: RCV_000334; class_expression GO_0016740; manual_list_count 7, generated_list_count 2026
 * [Results](transferase_activity_RCV_000334.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/204)
 * Status: open
@@ -2086,6 +2469,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/101)
 * Status: open
 
+#### PDGF pathway RCV_000028
+* Key class: [platelet-derived growth factor receptor signaling pathway](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048008)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: platelet-derived growth factor receptor signaling pathway OR a part of platelet-derived growth factor receptor signaling pathway OR a process that regulates platelet-derived growth factor receptor signaling pathway
+* map summary: Roche_cvt: RCV_000028; class_expression 1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048008; manual_list_count 13, generated_list_count 22
+* [Results](PDGF_pathway_RCV_000028.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/28)
+* Status: open
+
 #### epithelial cells RCV_000158
 * Key class: [epithelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000066)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
@@ -2095,6 +2487,14 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/200)
 * Status: open
 
+#### mitochondrial RCV_000236
+* Notes: pattern TBA
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
+#### cell structure RCV_000125
+* Notes: Only 2 manual mappings.  Both to basal lamina terms. 
+* Results: N/A Job not run. Specification marked as preliminary or missing.
+
 #### protein degradation RCV_000283
 * Key class: [protein catabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030163)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
@@ -2103,4 +2503,8 @@
 * [Results](protein_degradation_RCV_000283.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/288)
 * Status: open
+
+#### embryonic_development_goslim RCV_000148
+* Notes: ???
+* Results: N/A Job not run. Specification marked as preliminary or missing.
 

@@ -1,0 +1,83 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors	GO_0021916	1	1	1	0	0
+inductive cell-cell signaling	GO_0031129	1	1	1	0	0
+visceral mesoderm-endoderm interaction involved in midgut development	GO_0007495	0	1	0	0	0
+trichome patterning	GO_0048629	0	1	0	0	0
+synaptic transmission, glycinergic	GO_0060012	0	1	0	0	0
+synaptic transmission, glutamatergic	GO_0035249	0	1	0	0	0
+synaptic transmission, dopaminergic	GO_0001963	0	1	0	0	0
+synaptic transmission, cholinergic	GO_0007271	0	1	0	0	0
+synaptic transmission, GABAergic	GO_0051932	0	1	0	0	0
+synaptic transmission involved in micturition	GO_0060084	0	1	0	0	0
+synaptic transmission	GO_0007268	0	1	0	0	0
+stromal-epithelial cell signaling involved in prostate gland development	GO_0044345	0	1	0	0	0
+renal vesicle induction	GO_0072034	0	1	0	0	0
+regulation of pre-tubular aggregate formation by cell-cell signaling	GO_0072043	0	1	0	0	0
+regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling	GO_0060657	0	1	0	0	0
+regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	GO_0060665	0	1	0	0	0
+regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling	GO_0060683	0	1	0	0	0
+regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling	GO_0060656	0	1	0	0	0
+prostate induction	GO_0060514	0	1	0	0	0
+positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	0	0	0
+positive regulation of salivary gland formation by mesenchymal-epithelial signaling	GO_0060639	0	1	0	0	0
+positive regulation of mammary placode formation by mesenchymal-epithelial signaling	GO_0060617	0	1	0	0	0
+positive regulation of lactation by mesenchymal-epithelial cell signaling	GO_0060637	0	1	0	0	0
+positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling	GO_0060640	0	1	0	0	0
+paracrine signaling	GO_0038001	0	1	0	0	0
+pancreas induction	GO_0061132	0	1	0	0	0
+organ induction	GO_0001759	0	1	0	0	0
+neuron-neuron synaptic transmission	GO_0007270	0	1	0	0	0
+neuromuscular synaptic transmission	GO_0007274	0	1	0	0	0
+metanephric renal vesicle induction	GO_0072094	0	1	0	0	0
+mesothelial-mesenchymal cell signaling involved in early lung development	GO_0061142	0	1	0	0	0
+mesonephric renal vesicle induction	GO_0061294	0	1	0	0	0
+mesodermal-endodermal cell signaling involved in heart induction	GO_0003132	0	1	0	0	0
+mesodermal-endodermal cell signaling	GO_0003131	0	1	0	0	0
+mesenchymal-epithelial cell signaling involved in prostate induction	GO_0060521	0	1	0	0	0
+mesenchymal-epithelial cell signaling involved in prostate gland development	GO_0060739	0	1	0	0	0
+mesenchymal-epithelial cell signaling involved in lung development	GO_0060496	0	1	0	0	0
+mesenchymal-epithelial cell signaling	GO_0060638	0	1	0	0	0
+mesenchymal-endodermal cell signaling involved in lung induction	GO_0060493	0	1	0	0	0
+mesenchymal-endodermal cell signaling	GO_0060497	0	1	0	0	0
+lung induction	GO_0060492	0	1	0	0	0
+lens induction in camera-type eye	GO_0060235	0	1	0	0	0
+lateral inhibition	GO_0046331	0	1	0	0	0
+inductive mesenchymal-endodermal cell signaling	GO_0060494	0	1	0	0	0
+inductive mesenchymal to epithelial cell signaling	GO_0060522	0	1	0	0	0
+heart induction	GO_0003129	0	1	0	0	0
+forebrain induction by the anterior neural ridge	GO_0022000	0	1	0	0	0
+epithelial-mesenchymal signaling involved in prostate gland development	GO_0060738	0	1	0	0	0
+epithelial-mesenchymal cell signaling involved in lung development	GO_0061111	0	1	0	0	0
+epithelial-mesenchymal cell signaling	GO_0060684	0	1	0	0	0
+epiblast cell-extraembryonic ectoderm cell signaling involved in anterior/posterior axis specification	GO_0060802	0	1	0	0	0
+endodermal-mesodermal cell signaling involved in heart induction	GO_0003134	0	1	0	0	0
+endodermal-mesodermal cell signaling	GO_0003133	0	1	0	0	0
+endocrine signaling	GO_0038002	0	1	0	0	0
+ectoderm and mesoderm interaction	GO_0007499	0	1	0	0	0
+developmental induction	GO_0031128	0	1	0	0	0
+determination of muscle attachment site	GO_0016204	0	1	0	0	0
+cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation	GO_0021937	0	1	0	0	0
+cell-cell signaling involved in quorum sensing	GO_0010699	0	1	0	0	0
+cell-cell signaling involved in pronephros development	GO_0039016	0	1	0	0	0
+cell-cell signaling involved in placenta development	GO_0060673	0	1	0	0	0
+cell-cell signaling involved in metanephros development	GO_0072204	0	1	0	0	0
+cell-cell signaling involved in mesonephros development	GO_0061210	0	1	0	0	0
+cell-cell signaling involved in mammary gland development	GO_0060764	0	1	0	0	0
+cell-cell signaling involved in lung development	GO_0060495	0	1	0	0	0
+cell-cell signaling involved in kidney development	GO_0060995	0	1	0	0	0
+cell-cell signaling involved in cell-cell junction organization	GO_1901350	0	1	0	0	0
+cell-cell signaling involved in cell fate commitment	GO_0045168	0	1	0	0	0
+cell-cell signaling involved in cardiac conduction	GO_0086019	0	1	0	0	0
+cell-cell signaling involved in amphid sensory organ development	GO_0003385	0	1	0	0	0
+cell-cell signaling	GO_0007267	0	1	0	0	0
+canonical Wnt signaling pathway involved in ureteric bud branching	GO_0061291	0	1	0	0	0
+canonical Wnt signaling pathway involved in metanephric kidney development	GO_0061290	0	1	0	0	0
+canonical Wnt signaling pathway involved in mesonephros development	GO_0061292	0	1	0	0	0
+canonical Wnt signaling pathway involved in mesonephric nephron development	GO_0061293	0	1	0	0	0
+bundle of His cell to Purkinje myocyte signaling	GO_0086028	0	1	0	0	0
+autocrine signaling	GO_0035425	0	1	0	0	0
+atrial cardiac muscle cell to AV node cell signaling	GO_0086026	0	1	0	0	0
+Wnt signaling pathway involved in kidney development	GO_0061289	0	1	0	0	0
+SA node cell to atrial cardiac muscle cell signalling	GO_0086018	0	1	0	0	0
+Purkinje myocyte to ventricular cardiac muscle cell signaling	GO_0086029	0	1	0	0	0
+AV node cell to bundle of His cell signaling	GO_0086027	0	1	0	0	0

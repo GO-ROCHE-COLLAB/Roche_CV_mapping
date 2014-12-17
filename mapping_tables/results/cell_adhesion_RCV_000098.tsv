@@ -1,429 +1,430 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-AV node cell-bundle of His cell adhesion involved in cell communication	GO_0086072	0	1	1	0	0
-B cell adhesion	GO_0097323	0	1	1	0	0
-CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	0	0	0
-CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	0	1	0	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	0	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0	0
-CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	0	1	0	0	0
-CD4-positive, alpha-beta T cell activation	GO_0035710	0	1	0	0	0
-CD4-positive, alpha-beta T cell costimulation	GO_0035783	0	1	0	0	0
-CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	0	0	0
-CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0	0
-CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	0	1	0	0	0
-CD4-positive, alpha-beta T cell proliferation	GO_0035739	0	1	0	0	0
-CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	0	0	0
-CD8-positive, alpha-beta T cell activation	GO_0036037	0	1	0	0	0
-CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	0	0	0
-CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0	0
-CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	0	1	0	0	0
-CD8-positive, alpha-beta T cell proliferation	GO_0035740	0	1	0	0	0
-CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	0	0	0
-CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	0	0	0
-CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	0	0	0
-CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	0	0	0
-NK T cell activation	GO_0051132	0	1	0	0	0
-NK T cell activation involved in immune response	GO_0002288	0	1	0	0	0
-NK T cell differentiation	GO_0001865	0	1	0	0	0
-NK T cell lineage commitment	GO_0002364	0	1	0	0	0
-NK T cell proliferation	GO_0001866	0	1	0	0	0
-NK T cell proliferation involved in immune response	GO_0002289	0	1	0	0	0
-Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication	GO_0086074	1	1	1	0	0
-SA node cell-atrial cardiac muscle cell adhesion involved in cell communication	GO_0086022	0	1	1	0	0
-T cell activation	GO_0042110	0	1	0	0	0
-T cell activation involved in immune response	GO_0002286	0	1	0	0	0
-T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
-T cell aggregation	GO_0070489	0	1	1	0	0
-T cell costimulation	GO_0031295	0	1	0	0	0
-T cell differentiation	GO_0030217	0	1	0	0	0
-T cell differentiation in thymus	GO_0033077	0	1	0	0	0
-T cell differentiation involved in immune response	GO_0002292	0	1	0	0	0
-T cell homeostatic proliferation	GO_0001777	0	1	0	0	0
-T cell lineage commitment	GO_0002360	0	1	0	0	0
-T cell proliferation	GO_0042098	0	1	0	0	0
-T cell proliferation involved in immune response	GO_0002309	0	1	0	0	0
-T cell receptor V(D)J recombination	GO_0033153	0	1	0	0	0
-T cell selection	GO_0045058	0	1	0	0	0
-T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
-T-helper 1 cell activation	GO_0035711	0	1	0	0	0
-T-helper 1 cell differentiation	GO_0045063	0	1	0	0	0
-T-helper 1 cell lineage commitment	GO_0002296	0	1	0	0	0
-T-helper 17 cell differentiation	GO_0072539	0	1	0	0	0
-T-helper 17 cell lineage commitment	GO_0072540	0	1	0	0	0
-T-helper 2 cell activation	GO_0035712	0	1	0	0	0
-T-helper 2 cell differentiation	GO_0045064	0	1	0	0	0
-T-helper 2 cell lineage commitment	GO_0002297	0	1	0	0	0
-T-helper cell differentiation	GO_0042093	0	1	0	0	0
-T-helper cell lineage commitment	GO_0002295	0	1	0	0	0
-activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0	0
-activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0	0
-activated T cell proliferation	GO_0050798	0	1	0	0	0
-adhesion between unicellular organisms	GO_0098610	0	1	1	0	0
-adhesion between unicellular organisms via cell-wall interaction	GO_0098741	0	1	1	0	0
-agglutination involved in conjugation	GO_0000771	0	1	1	0	0
-agglutination involved in conjugation with cellular fusion	GO_0000752	0	1	1	0	0
-agglutination involved in conjugation with mutual genetic exchange	GO_0000758	0	1	1	0	0
-alpha-beta T cell activation	GO_0046631	0	1	0	0	0
-alpha-beta T cell activation by superantigen	GO_0042722	0	1	0	0	0
-alpha-beta T cell activation involved in immune response	GO_0002287	0	1	0	0	0
-alpha-beta T cell differentiation	GO_0046632	0	1	0	0	0
-alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0	0
-alpha-beta T cell lineage commitment	GO_0002363	0	1	0	0	0
-alpha-beta T cell proliferation	GO_0046633	0	1	0	0	0
-alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	0	0	0
-alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	0	0	0
-atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	0	1	1	0	0
-beta selection	GO_0043366	0	1	0	0	0
-blood vessel endothelial cell delamination	GO_0097497	0	1	1	0	0
-blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment	GO_1902354	0	1	1	0	0
-border follicle cell delamination	GO_0030709	0	1	1	0	0
-bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO_0086073	0	1	1	0	0
-cadherin binding involved in cell-cell adhesion	GO_0098641	0	1	1	0	0
-calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0016339	0	1	1	0	0
-calcium-dependent cell-matrix adhesion	GO_0016340	0	1	1	0	0
-calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	GO_0016338	0	1	1	0	0
-calcium-independent cell-matrix adhesion	GO_0007161	0	1	1	0	0
-cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	0	1	1	0	0
-cardiac neural crest cell delamination	GO_0036036	0	1	1	0	0
-cardiac neural crest cell delamination involved in outflow tract morphogenesis	GO_1900728	0	1	1	0	0
-cardioblast cell midline fusion	GO_0003317	0	1	1	0	0
-cell adhesion	GO_0007155	1	1	1	0	0
-cell adhesion involved in amphid sensory organ dendrite retrograde extension	GO_0003396	1	1	1	0	0
-cell adhesion involved in biofilm formation	GO_0043708	1	1	1	0	0
-cell adhesion involved in dendrite retrograde extension	GO_0003394	1	1	1	0	0
-cell adhesion involved in heart morphogenesis	GO_0061343	1	1	1	0	0
-cell adhesion involved in multi-species biofilm formation	GO_0043710	1	1	1	0	0
-cell adhesion involved in prostatic bud elongation	GO_0060519	1	1	1	0	0
-cell adhesion involved in retrograde extension	GO_0003392	1	1	1	0	0
-cell adhesion involved in single-species biofilm formation	GO_0043709	1	1	1	0	0
-cell adhesion involved in single-species biofilm formation in or on host organism	GO_0043707	1	1	1	0	0
-cell adhesion mediated by integrin	GO_0033627	1	1	1	0	0
-cell adhesion molecule production	GO_0060352	1	0	1	0	0
-cell adhesive protein binding involved in AV node cell-bundle of His cell communication	GO_0086082	0	1	1	0	0
-cell adhesive protein binding involved in Purkinje myocyte-ventricular cardiac muscle cell communication	GO_0086084	0	1	1	0	0
-cell adhesive protein binding involved in SA cardiac muscle cell-atrial cardiac muscle cell communication	GO_0086085	0	1	1	0	0
-cell adhesive protein binding involved in atrial cardiac muscle cell-AV node cell communication	GO_0086081	0	1	1	0	0
-cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication	GO_0086083	0	1	1	0	0
-cell-abiotic substrate adhesion	GO_0036164	0	1	1	0	0
-cell-cell adhesion	GO_0098609	0	1	1	0	0
-cell-cell adhesion involved in ameboidal cell migration	GO_0003367	1	1	1	0	0
-cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	1	1	1	0	0
-cell-cell adhesion involved in establishment of planar polarity	GO_0090250	1	1	1	0	0
-cell-cell adhesion involved in flocculation	GO_0043689	1	1	1	0	0
-cell-cell adhesion involved in flocculation via cell wall protein-carbohydrate interaction	GO_0043690	1	1	1	0	0
-cell-cell adhesion involved in galactose-specific flocculation	GO_0098611	0	1	1	0	0
-cell-cell adhesion involved in gastrulation	GO_0070586	1	1	1	0	0
-cell-cell adhesion involved in mannose-specific flocculation	GO_0098612	0	1	1	0	0
-cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	1	1	1	0	0
-cell-cell adhesion involved in neural tube closure	GO_0060608	1	1	1	0	0
-cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	1	0	0
-cell-cell adhesion involved in sealing an epithelial fold	GO_0060607	1	1	1	0	0
-cell-cell adhesion involved in synapse maturation	GO_0090125	1	1	1	0	0
-cell-cell adhesion mediated by cadherin	GO_0044331	1	1	1	0	0
-cell-cell adhesion mediated by integrin	GO_0033631	1	1	1	0	0
-cell-cell adhesion via plasma-membrane adhesion molecules	GO_0098742	0	1	1	0	0
-cell-matrix adhesion	GO_0007160	0	1	1	0	0
-cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	0	1	1	0	0
-cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	1	0	0
-cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	0	1	1	0	0
-cell-substrate adhesion	GO_0031589	0	1	1	0	0
-chorio-allantoic fusion	GO_0060710	0	1	1	0	0
-collagen binding involved in cell-matrix adhesion	GO_0098639	0	1	1	0	0
-conjugant formation	GO_0000761	0	1	1	0	0
-corneocyte desquamation	GO_0003336	0	1	1	0	0
-cytotoxic T cell degranulation	GO_0043316	0	1	0	0	0
-cytotoxic T cell differentiation	GO_0045065	0	1	0	0	0
-delamination	GO_0060232	0	1	1	0	0
-delamination involved in gastrulation with mouth forming second	GO_0055112	0	1	1	0	0
-endocardial cushion fusion	GO_0003274	0	1	1	0	0
-endothelial cell-cell adhesion	GO_0071603	0	1	1	0	0
-endothelial to hematopoietic transition	GO_0098508	0	1	1	0	0
-epithelial cell-cell adhesion	GO_0090136	1	1	1	0	0
-epithelial cell-cell adhesion involved in epithelium migration	GO_0090137	1	1	1	0	0
-erythrocyte aggregation	GO_0034117	0	1	1	0	0
-establishment of T cell polarity	GO_0001768	0	1	0	0	0
-extrathymic T cell differentiation	GO_0033078	0	1	0	0	0
-extrathymic T cell selection	GO_0045062	0	1	0	0	0
-focal adhesion assembly	GO_0048041	0	1	1	0	0
-gamma-delta T cell activation	GO_0046629	0	1	0	0	0
-gamma-delta T cell activation involved in immune response	GO_0002290	0	1	0	0	0
-gamma-delta T cell differentiation	GO_0042492	0	1	0	0	0
-gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0	0
-gamma-delta T cell lineage commitment	GO_0002365	0	1	0	0	0
-gamma-delta T cell proliferation	GO_0046630	0	1	0	0	0
-gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0	0
-gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0	0
-heterophilic cell adhesion involved in cytoadherence to microvasculature, mediated by parasite protein	GO_0043706	1	1	1	0	0
-heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0007157	1	1	1	0	0
-heterotypic cell-cell adhesion	GO_0034113	1	1	1	0	0
-homophilic cell adhesion via plasma membrane adhesion molecules	GO_0007156	1	1	1	0	0
-homotypic cell-cell adhesion	GO_0034109	1	1	1	0	0
-immature T cell proliferation	GO_0033079	0	1	0	0	0
-immature T cell proliferation in thymus	GO_0033080	0	1	0	0	0
-integrin binding involved in cell-matrix adhesion	GO_0098640	0	1	1	0	0
-interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex	GO_0021839	0	1	1	0	0
-laminin binding involved in cell-matrix adhesion	GO_0098638	0	1	1	0	0
-leukocyte activation-dependent arrest	GO_0050903	0	1	1	0	0
-leukocyte aggregation	GO_0070486	0	1	1	0	0
-leukocyte cell-cell adhesion	GO_0007159	0	1	1	0	0
-leukocyte tethering or rolling	GO_0050901	0	1	1	0	0
-lymphocyte adhesion to endothelial cell of high endothelial venule	GO_0036339	0	1	1	0	0
-lymphocyte aggregation	GO_0071593	0	1	1	0	0
-melanocyte adhesion	GO_0097326	0	1	1	0	0
-memory T cell activation	GO_0035709	0	1	0	0	0
-memory T cell differentiation	GO_0043379	0	1	0	0	0
-memory T cell proliferation	GO_0061485	0	1	0	0	0
-mesangial cell-matrix adhesion	GO_0035759	0	1	1	0	0
-mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	1	0	0
-modulation by symbiont of host erythrocyte aggregation	GO_0020013	0	1	1	0	0
-modulation of platelet aggregation in other organism	GO_0035892	0	1	1	0	0
-monocyte aggregation	GO_0070487	0	1	1	0	0
-multi organism cell adhesion	GO_0098740	0	1	1	0	0
-negative T cell selection	GO_0043383	0	1	0	0	0
-negative extrathymic T cell selection	GO_0045068	0	1	0	0	0
-negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032833	0	1	0	0	0
-negative regulation of CD4-positive, alpha-beta T cell activation	GO_2000515	0	1	0	0	0
-negative regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043371	0	1	0	0	0
-negative regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000562	0	1	0	0	0
-negative regulation of CD8-positive, alpha-beta T cell activation	GO_2001186	0	1	0	0	0
-negative regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043377	0	1	0	0	0
-negative regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000565	0	1	0	0	0
-negative regulation of NK T cell activation	GO_0051134	0	1	0	0	0
-negative regulation of NK T cell differentiation	GO_0051137	0	1	0	0	0
-negative regulation of NK T cell proliferation	GO_0051141	0	1	0	0	0
-negative regulation of T cell activation	GO_0050868	0	1	0	0	0
-negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	0	1	0	0	0
-negative regulation of T cell differentiation	GO_0045581	0	1	0	0	0
-negative regulation of T cell differentiation in thymus	GO_0033085	0	1	0	0	0
-negative regulation of T cell homeostatic proliferation	GO_0046014	0	1	0	0	0
-negative regulation of T cell proliferation	GO_0042130	0	1	0	0	0
-negative regulation of T-helper 1 cell activation	GO_2000518	0	1	0	0	0
-negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0	0
-negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0	0
-negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0	0
-negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0	0
-negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0	0
-negative regulation of activated T cell proliferation	GO_0046007	0	1	0	0	0
-negative regulation of alpha-beta T cell activation	GO_0046636	0	1	0	0	0
-negative regulation of alpha-beta T cell differentiation	GO_0046639	0	1	0	0	0
-negative regulation of alpha-beta T cell proliferation	GO_0046642	0	1	0	0	0
-negative regulation of calcium-dependent cell-cell adhesion	GO_0046588	1	1	1	0	0
-negative regulation of calcium-independent cell-cell adhesion	GO_0051042	1	1	1	0	0
-negative regulation of cell adhesion	GO_0007162	1	1	1	0	0
-negative regulation of cell adhesion in ventricular zone	GO_0021804	1	1	1	0	0
-negative regulation of cell adhesion involved in single-species biofilm formation	GO_1900188	1	1	1	0	0
-negative regulation of cell adhesion involved in substrate-bound cell migration	GO_0006933	1	1	1	0	0
-negative regulation of cell adhesion mediated by integrin	GO_0033629	1	1	1	0	0
-negative regulation of cell adhesion molecule production	GO_0060354	1	0	1	0	0
-negative regulation of cell-cell adhesion	GO_0022408	1	1	1	0	0
-negative regulation of cell-cell adhesion by negative regulation of transcription from RNA polymerase II promoter	GO_1900387	1	1	1	0	0
-negative regulation of cell-cell adhesion mediated by cadherin	GO_2000048	1	1	1	0	0
-negative regulation of cell-cell adhesion mediated by integrin	GO_0033633	1	1	1	0	0
-negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	1	0	0
-negative regulation of cell-matrix adhesion	GO_0001953	0	1	1	0	0
-negative regulation of cell-substrate adhesion	GO_0010812	0	1	1	0	0
-negative regulation of cytotoxic T cell differentiation	GO_0045584	0	1	0	0	0
-negative regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903682	0	1	1	0	0
-negative regulation of erythrocyte aggregation	GO_0034119	0	1	1	0	0
-negative regulation of extrathymic T cell differentiation	GO_0033086	0	1	0	0	0
-negative regulation of focal adhesion assembly	GO_0051895	1	1	1	0	0
-negative regulation of gamma-delta T cell activation	GO_0046644	0	1	0	0	0
-negative regulation of gamma-delta T cell activation involved in immune response	GO_2001192	0	1	0	0	0
-negative regulation of gamma-delta T cell differentiation	GO_0045587	0	1	0	0	0
-negative regulation of gamma-delta T cell proliferation	GO_0046647	0	1	0	0	0
-negative regulation of heterotypic cell-cell adhesion	GO_0034115	1	1	1	0	0
-negative regulation of homophilic cell adhesion	GO_1903386	0	1	1	0	0
-negative regulation of homotypic cell-cell adhesion	GO_0034111	1	1	1	0	0
-negative regulation of immature T cell proliferation	GO_0033087	0	1	0	0	0
-negative regulation of immature T cell proliferation in thymus	GO_0033088	0	1	0	0	0
-negative regulation of leukocyte cell-cell adhesion	GO_1903038	0	1	1	0	0
-negative regulation of leukocyte tethering or rolling	GO_1903237	0	1	1	0	0
-negative regulation of memory T cell differentiation	GO_0043381	0	1	0	0	0
-negative regulation of monocyte aggregation	GO_1900624	0	1	1	0	0
-negative regulation of neutrophil aggregation	GO_2000429	0	1	1	0	0
-negative regulation of platelet aggregation	GO_0090331	0	1	1	0	0
-negative regulation of platelet aggregation in other organism	GO_0035893	0	1	1	0	0
-negative regulation of positive thymic T cell selection	GO_1902233	0	1	0	0	0
-negative regulation of pro-T cell differentiation	GO_2000175	0	1	0	0	0
-negative regulation of regulatory T cell differentiation	GO_0045590	0	1	0	0	0
-negative regulation of smooth muscle cell-matrix adhesion	GO_2000098	0	1	1	0	0
-negative regulation of substrate adhesion-dependent cell spreading	GO_1900025	0	1	1	0	0
-negative regulation of thymocyte aggregation	GO_2000399	0	1	1	0	0
-negative thymic T cell selection	GO_0045060	0	1	0	0	0
-neural crest cell delamination	GO_0036032	0	1	1	0	0
-neuroblast delamination	GO_0060234	0	1	1	0	0
-neuron cell-cell adhesion	GO_0007158	1	1	1	0	0
-neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	1	0	0
-neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	1	0	0
-neutrophil aggregation	GO_0070488	0	1	1	0	0
-oenocyte delamination	GO_0060233	0	1	1	0	0
-ovarian follicle cell-cell adhesion	GO_0007299	0	1	1	0	0
-platelet aggregation	GO_0070527	0	1	1	0	0
-pollen adhesion	GO_0009876	0	1	1	0	0
-pollen tube adhesion	GO_0009865	0	1	1	0	0
-positive T cell selection	GO_0043368	0	1	0	0	0
-positive extrathymic T cell selection	GO_0045067	0	1	0	0	0
-positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032831	0	1	0	0	0
-positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032834	0	1	0	0	0
-positive regulation of CD4-positive, alpha-beta T cell activation	GO_2000516	0	1	0	0	0
-positive regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043372	0	1	0	0	0
-positive regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000563	0	1	0	0	0
-positive regulation of CD8-positive, alpha-beta T cell activation	GO_2001187	0	1	0	0	0
-positive regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043378	0	1	0	0	0
-positive regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000566	0	1	0	0	0
-positive regulation of NK T cell activation	GO_0051135	0	1	0	0	0
-positive regulation of NK T cell differentiation	GO_0051138	0	1	0	0	0
-positive regulation of NK T cell proliferation	GO_0051142	0	1	0	0	0
-positive regulation of T cell activation	GO_0050870	0	1	0	0	0
-positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001190	0	1	0	0	0
-positive regulation of T cell differentiation	GO_0045582	0	1	0	0	0
-positive regulation of T cell differentiation in thymus	GO_0033089	0	1	0	0	0
-positive regulation of T cell homeostatic proliferation	GO_0042103	0	1	0	0	0
-positive regulation of T cell proliferation	GO_0042102	0	1	0	0	0
-positive regulation of T-helper 1 cell activation	GO_2000519	0	1	0	0	0
-positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0	0
-positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0	0
-positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0	0
-positive regulation of T-helper 2 cell activation	GO_2000570	0	1	0	0	0
-positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0	0
-positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0	0
-positive regulation of activated T cell proliferation	GO_0042104	0	1	0	0	0
-positive regulation of alpha-beta T cell activation	GO_0046635	0	1	0	0	0
-positive regulation of alpha-beta T cell differentiation	GO_0046638	0	1	0	0	0
-positive regulation of alpha-beta T cell proliferation	GO_0046641	0	1	0	0	0
-positive regulation of calcium-dependent cell-cell adhesion	GO_0046587	1	1	1	0	0
-positive regulation of calcium-independent cell-cell adhesion	GO_0051041	1	1	1	0	0
-positive regulation of cartilage condensation	GO_1902027	0	1	1	0	0
-positive regulation of cell adhesion	GO_0045785	1	1	1	0	0
-positive regulation of cell adhesion involved in single-species biofilm formation	GO_1900189	1	1	1	0	0
-positive regulation of cell adhesion mediated by integrin	GO_0033630	1	1	1	0	0
-positive regulation of cell adhesion molecule production	GO_0060355	1	0	1	0	0
-positive regulation of cell-cell adhesion	GO_0022409	1	1	1	0	0
-positive regulation of cell-cell adhesion mediated by cadherin	GO_2000049	1	1	1	0	0
-positive regulation of cell-cell adhesion mediated by integrin	GO_0033634	1	1	1	0	0
-positive regulation of cell-matrix adhesion	GO_0001954	0	1	1	0	0
-positive regulation of cell-substrate adhesion	GO_0010811	0	1	1	0	0
-positive regulation of cytotoxic T cell degranulation	GO_0043319	0	1	0	0	0
-positive regulation of cytotoxic T cell differentiation	GO_0045585	0	1	0	0	0
-positive regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903683	0	1	1	0	0
-positive regulation of erythrocyte aggregation	GO_0034120	0	1	1	0	0
-positive regulation of extrathymic T cell differentiation	GO_0033090	0	1	0	0	0
-positive regulation of focal adhesion assembly	GO_0051894	0	1	1	0	0
-positive regulation of gamma-delta T cell activation	GO_0046645	0	1	0	0	0
-positive regulation of gamma-delta T cell activation involved in immune response	GO_2001193	0	1	0	0	0
-positive regulation of gamma-delta T cell differentiation	GO_0045588	0	1	0	0	0
-positive regulation of gamma-delta T cell proliferation	GO_0046648	0	1	0	0	0
-positive regulation of heterotypic cell-cell adhesion	GO_0034116	1	1	1	0	0
-positive regulation of homophilic cell adhesion	GO_1903387	0	1	1	0	0
-positive regulation of homotypic cell-cell adhesion	GO_0034112	1	1	1	0	0
-positive regulation of immature T cell proliferation	GO_0033091	0	1	0	0	0
-positive regulation of immature T cell proliferation in thymus	GO_0033092	0	1	0	0	0
-positive regulation of leukocyte cell-cell adhesion	GO_1903039	0	1	1	0	0
-positive regulation of leukocyte tethering or rolling	GO_1903238	0	1	1	0	0
-positive regulation of memory T cell activation	GO_2000568	0	1	0	0	0
-positive regulation of memory T cell differentiation	GO_0043382	0	1	0	0	0
-positive regulation of monocyte aggregation	GO_1900625	0	1	1	0	0
-positive regulation of neutrophil aggregation	GO_2000430	0	1	1	0	0
-positive regulation of platelet aggregation	GO_1901731	0	1	1	0	0
-positive regulation of platelet aggregation in other organism	GO_0035894	0	1	1	0	0
-positive regulation of positive thymic T cell selection	GO_1902234	0	1	0	0	0
-positive regulation of pro-T cell differentiation	GO_2000176	0	1	0	0	0
-positive regulation of regulatory T cell differentiation	GO_0045591	0	1	0	0	0
-positive regulation of substrate adhesion-dependent cell spreading	GO_1900026	0	1	1	0	0
-positive regulation of thymocyte aggregation	GO_2000400	0	1	1	0	0
-positive thymic T cell selection	GO_0045059	0	1	0	0	0
-posterior neuropore closure	GO_0021507	0	1	1	0	0
-pre-tubular aggregate formation	GO_0072035	0	1	1	0	0
-pro-T cell differentiation	GO_0002572	0	1	0	0	0
-pro-T cell lineage commitment	GO_0002680	0	1	0	0	0
-protein binding involved in cell adhesion	GO_0098631	0	1	1	0	0
-protein binding involved in cell-cell adhesion	GO_0098632	0	1	1	0	0
-protein binding involved in cell-matrix adhesion	GO_0098634	0	1	1	0	0
-protein binding involved in heterotypic cell-cell adhesion	GO_0086080	0	1	1	0	0
-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032829	0	1	0	0	0
-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032832	0	1	0	0	0
-regulation of CD4-positive, alpha-beta T cell activation	GO_2000514	0	1	0	0	0
-regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043370	0	1	0	0	0
-regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000561	0	1	0	0	0
-regulation of CD8-positive, alpha-beta T cell activation	GO_2001185	0	1	0	0	0
-regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043376	0	1	0	0	0
-regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000564	0	1	0	0	0
-regulation of NK T cell activation	GO_0051133	0	1	0	0	0
-regulation of NK T cell differentiation	GO_0051136	0	1	0	0	0
-regulation of NK T cell proliferation	GO_0051140	0	1	0	0	0
-regulation of T cell activation	GO_0050863	0	1	0	0	0
-regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	0	1	0	0	0
-regulation of T cell differentiation	GO_0045580	0	1	0	0	0
-regulation of T cell differentiation in thymus	GO_0033081	0	1	0	0	0
-regulation of T cell homeostatic proliferation	GO_0046013	0	1	0	0	0
-regulation of T cell proliferation	GO_0042129	0	1	0	0	0
-regulation of T-helper 1 cell activation	GO_2000517	0	1	0	0	0
-regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0	0
-regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0	0
-regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0	0
-regulation of T-helper 2 cell activation	GO_2000569	0	1	0	0	0
-regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0	0
-regulation of T-helper cell differentiation	GO_0045622	0	1	0	0	0
-regulation of actin cytoskeleton organization by cell-cell adhesion	GO_0090138	1	1	1	0	0
-regulation of activated T cell proliferation	GO_0046006	0	1	0	0	0
-regulation of alpha-beta T cell activation	GO_0046634	0	1	0	0	0
-regulation of alpha-beta T cell differentiation	GO_0046637	0	1	0	0	0
-regulation of alpha-beta T cell proliferation	GO_0046640	0	1	0	0	0
-regulation of calcium-dependent cell-cell adhesion	GO_0046586	1	1	1	0	0
-regulation of calcium-independent cell-cell adhesion	GO_0051040	1	1	1	0	0
-regulation of cartilage condensation	GO_1902026	0	1	1	0	0
-regulation of cell adhesion	GO_0030155	1	1	1	0	0
-regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	1	1	1	0	0
-regulation of cell adhesion involved in heart morphogenesis	GO_0061344	1	1	1	0	0
-regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	0	1	0	0	0
-regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	0	1	1	0	0
-regulation of cell adhesion involved in intussusceptive angiogenesis	GO_0002045	1	1	1	0	0
-regulation of cell adhesion involved in single-species biofilm formation	GO_1900187	1	1	1	0	0
-regulation of cell adhesion mediated by integrin	GO_0033628	1	1	1	0	0
-regulation of cell adhesion molecule production	GO_0060353	1	0	1	0	0
-regulation of cell-cell adhesion	GO_0022407	1	1	1	0	0
-regulation of cell-cell adhesion involved in gastrulation	GO_0070587	1	1	1	0	0
-regulation of cell-cell adhesion mediated by cadherin	GO_2000047	1	1	1	0	0
-regulation of cell-cell adhesion mediated by integrin	GO_0033632	1	1	1	0	0
-regulation of cell-matrix adhesion	GO_0001952	0	1	1	0	0
-regulation of cell-substrate adhesion	GO_0010810	0	1	1	0	0
-regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0	0
-regulation of cytotoxic T cell differentiation	GO_0045583	0	1	0	0	0
-regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903681	0	1	1	0	0
-regulation of erythrocyte aggregation	GO_0034118	0	1	1	0	0
-regulation of extrathymic T cell differentiation	GO_0033082	0	1	0	0	0
-regulation of focal adhesion assembly	GO_0051893	0	1	1	0	0
-regulation of gamma-delta T cell activation	GO_0046643	0	1	0	0	0
-regulation of gamma-delta T cell activation involved in immune response	GO_2001191	0	1	0	0	0
-regulation of gamma-delta T cell differentiation	GO_0045586	0	1	0	0	0
-regulation of gamma-delta T cell proliferation	GO_0046646	0	1	0	0	0
-regulation of heterotypic cell-cell adhesion	GO_0034114	1	1	1	0	0
-regulation of homophilic cell adhesion	GO_1903385	0	1	1	0	0
-regulation of homotypic cell-cell adhesion	GO_0034110	1	1	1	0	0
-regulation of immature T cell proliferation	GO_0033083	0	1	0	0	0
-regulation of immature T cell proliferation in thymus	GO_0033084	0	1	0	0	0
-regulation of leukocyte cell-cell adhesion	GO_1903037	0	1	1	0	0
-regulation of leukocyte tethering or rolling	GO_1903236	0	1	1	0	0
-regulation of memory T cell activation	GO_2000567	0	1	0	0	0
-regulation of memory T cell differentiation	GO_0043380	0	1	0	0	0
-regulation of monocyte aggregation	GO_1900623	0	1	1	0	0
-regulation of neutrophil aggregation	GO_2000428	0	1	1	0	0
-regulation of platelet aggregation	GO_0090330	0	1	1	0	0
-regulation of positive thymic T cell selection	GO_1902232	0	1	0	0	0
-regulation of pre-tubular aggregate formation by cell-cell signaling	GO_0072043	0	1	1	0	0
-regulation of pro-T cell differentiation	GO_2000174	0	1	0	0	0
-regulation of regulatory T cell differentiation	GO_0045589	0	1	0	0	0
-regulation of smooth muscle cell-matrix adhesion	GO_2000097	0	1	1	0	0
-regulation of substrate adhesion-dependent cell spreading	GO_1900024	0	1	1	0	0
-regulation of thymocyte aggregation	GO_2000398	0	1	1	0	0
-regulatory T cell differentiation	GO_0045066	0	1	0	0	0
-single organism cell adhesion	GO_0098602	0	1	1	0	0
 single organismal cell-cell adhesion	GO_0016337	1	1	1	0	0
-smooth muscle cell-matrix adhesion	GO_0061302	0	1	1	0	0
-somatic diversification of T cell receptor genes	GO_0002568	0	1	0	0	0
-somatic diversification of T cell receptor genes by N region addition	GO_0002571	0	1	0	0	0
-somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0	0
-substrate adhesion-dependent cell spreading	GO_0034446	0	1	1	0	0
-substrate-dependent cell migration, cell attachment to substrate	GO_0006931	0	1	1	0	0
+regulation of homotypic cell-cell adhesion	GO_0034110	1	1	1	0	0
+regulation of heterotypic cell-cell adhesion	GO_0034114	1	1	1	0	0
+regulation of cell-cell adhesion mediated by integrin	GO_0033632	1	1	1	0	0
+regulation of cell-cell adhesion mediated by cadherin	GO_2000047	1	1	1	0	0
+regulation of cell-cell adhesion involved in gastrulation	GO_0070587	1	1	1	0	0
+regulation of cell-cell adhesion	GO_0022407	1	1	1	0	0
+regulation of cell adhesion mediated by integrin	GO_0033628	1	1	1	0	0
+regulation of cell adhesion involved in single-species biofilm formation	GO_1900187	1	1	1	0	0
+regulation of cell adhesion involved in intussusceptive angiogenesis	GO_0002045	1	1	1	0	0
+regulation of cell adhesion involved in heart morphogenesis	GO_0061344	1	1	1	0	0
+regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	1	1	1	0	0
+regulation of cell adhesion	GO_0030155	1	1	1	0	0
+regulation of calcium-independent cell-cell adhesion	GO_0051040	1	1	1	0	0
+regulation of calcium-dependent cell-cell adhesion	GO_0046586	1	1	1	0	0
+regulation of actin cytoskeleton organization by cell-cell adhesion	GO_0090138	1	1	1	0	0
+positive regulation of homotypic cell-cell adhesion	GO_0034112	1	1	1	0	0
+positive regulation of heterotypic cell-cell adhesion	GO_0034116	1	1	1	0	0
+positive regulation of cell-cell adhesion mediated by integrin	GO_0033634	1	1	1	0	0
+positive regulation of cell-cell adhesion mediated by cadherin	GO_2000049	1	1	1	0	0
+positive regulation of cell-cell adhesion	GO_0022409	1	1	1	0	0
+positive regulation of cell adhesion mediated by integrin	GO_0033630	1	1	1	0	0
+positive regulation of cell adhesion involved in single-species biofilm formation	GO_1900189	1	1	1	0	0
+positive regulation of cell adhesion	GO_0045785	1	1	1	0	0
+positive regulation of calcium-independent cell-cell adhesion	GO_0051041	1	1	1	0	0
+positive regulation of calcium-dependent cell-cell adhesion	GO_0046587	1	1	1	0	0
+neuron cell-cell adhesion	GO_0007158	1	1	1	0	0
+negative regulation of homotypic cell-cell adhesion	GO_0034111	1	1	1	0	0
+negative regulation of heterotypic cell-cell adhesion	GO_0034115	1	1	1	0	0
+negative regulation of focal adhesion assembly	GO_0051895	1	1	1	0	0
+negative regulation of cell-cell adhesion mediated by integrin	GO_0033633	1	1	1	0	0
+negative regulation of cell-cell adhesion mediated by cadherin	GO_2000048	1	1	1	0	0
+negative regulation of cell-cell adhesion by negative regulation of transcription from RNA polymerase II promoter	GO_1900387	1	1	1	0	0
+negative regulation of cell-cell adhesion	GO_0022408	1	1	1	0	0
+negative regulation of cell adhesion mediated by integrin	GO_0033629	1	1	1	0	0
+negative regulation of cell adhesion involved in substrate-bound cell migration	GO_0006933	1	1	1	0	0
+negative regulation of cell adhesion involved in single-species biofilm formation	GO_1900188	1	1	1	0	0
+negative regulation of cell adhesion in ventricular zone	GO_0021804	1	1	1	0	0
+negative regulation of cell adhesion	GO_0007162	1	1	1	0	0
+negative regulation of calcium-independent cell-cell adhesion	GO_0051042	1	1	1	0	0
+negative regulation of calcium-dependent cell-cell adhesion	GO_0046588	1	1	1	0	0
+homotypic cell-cell adhesion	GO_0034109	1	1	1	0	0
+homophilic cell adhesion via plasma membrane adhesion molecules	GO_0007156	1	1	1	0	0
+heterotypic cell-cell adhesion	GO_0034113	1	1	1	0	0
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0007157	1	1	1	0	0
+heterophilic cell adhesion involved in cytoadherence to microvasculature, mediated by parasite protein	GO_0043706	1	1	1	0	0
+epithelial cell-cell adhesion involved in epithelium migration	GO_0090137	1	1	1	0	0
+epithelial cell-cell adhesion	GO_0090136	1	1	1	0	0
+cell-cell adhesion mediated by integrin	GO_0033631	1	1	1	0	0
+cell-cell adhesion mediated by cadherin	GO_0044331	1	1	1	0	0
+cell-cell adhesion involved in synapse maturation	GO_0090125	1	1	1	0	0
+cell-cell adhesion involved in sealing an epithelial fold	GO_0060607	1	1	1	0	0
+cell-cell adhesion involved in neural tube closure	GO_0060608	1	1	1	0	0
+cell-cell adhesion involved in mesendodermal cell migration	GO_0003370	1	1	1	0	0
+cell-cell adhesion involved in gastrulation	GO_0070586	1	1	1	0	0
+cell-cell adhesion involved in flocculation via cell wall protein-carbohydrate interaction	GO_0043690	1	1	1	0	0
+cell-cell adhesion involved in flocculation	GO_0043689	1	1	1	0	0
+cell-cell adhesion involved in establishment of planar polarity	GO_0090250	1	1	1	0	0
+cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions	GO_0021832	1	1	1	0	0
+cell-cell adhesion involved in ameboidal cell migration	GO_0003367	1	1	1	0	0
+cell adhesion mediated by integrin	GO_0033627	1	1	1	0	0
+cell adhesion involved in single-species biofilm formation in or on host organism	GO_0043707	1	1	1	0	0
+cell adhesion involved in single-species biofilm formation	GO_0043709	1	1	1	0	0
+cell adhesion involved in retrograde extension	GO_0003392	1	1	1	0	0
+cell adhesion involved in prostatic bud elongation	GO_0060519	1	1	1	0	0
+cell adhesion involved in multi-species biofilm formation	GO_0043710	1	1	1	0	0
+cell adhesion involved in heart morphogenesis	GO_0061343	1	1	1	0	0
+cell adhesion involved in dendrite retrograde extension	GO_0003394	1	1	1	0	0
+cell adhesion involved in biofilm formation	GO_0043708	1	1	1	0	0
+cell adhesion involved in amphid sensory organ dendrite retrograde extension	GO_0003396	1	1	1	0	0
+cell adhesion	GO_0007155	1	1	1	0	0
+Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication	GO_0086074	1	1	1	0	0
+regulation of cell adhesion molecule production	GO_0060353	1	0	1	0	0
+positive regulation of cell adhesion molecule production	GO_0060355	1	0	1	0	0
+negative regulation of cell adhesion molecule production	GO_0060354	1	0	1	0	0
+cell adhesion molecule production	GO_0060352	1	0	1	0	0
+thymocyte aggregation	GO_0071594	0	1	0	0	0
 thymic T cell selection	GO_0045061	0	1	0	0	0
-thymocyte aggregation	GO_0071594	0	1	1	0	0
+substrate-dependent cell migration, cell attachment to substrate	GO_0006931	0	1	0	0	0
+substrate adhesion-dependent cell spreading	GO_0034446	0	1	0	0	0
+somatic recombination of T cell receptor gene segments	GO_0002681	0	1	0	0	0
+somatic diversification of T cell receptor genes by N region addition	GO_0002571	0	1	0	0	0
+somatic diversification of T cell receptor genes	GO_0002568	0	1	0	0	0
+smooth muscle cell-matrix adhesion	GO_0061302	0	1	0	0	0
+single organism cell adhesion	GO_0098602	0	1	0	0	0
+regulatory T cell differentiation	GO_0045066	0	1	0	0	0
+regulation of thymocyte aggregation	GO_2000398	0	1	0	0	0
+regulation of substrate adhesion-dependent cell spreading	GO_1900024	0	1	0	0	0
+regulation of smooth muscle cell-matrix adhesion	GO_2000097	0	1	0	0	0
+regulation of regulatory T cell differentiation	GO_0045589	0	1	0	0	0
+regulation of pro-T cell differentiation	GO_2000174	0	1	0	0	0
+regulation of pre-tubular aggregate formation by cell-cell signaling	GO_0072043	0	1	0	0	0
+regulation of positive thymic T cell selection	GO_1902232	0	1	0	0	0
+regulation of platelet aggregation	GO_0090330	0	1	0	0	0
+regulation of neutrophil aggregation	GO_2000428	0	1	0	0	0
+regulation of monocyte aggregation	GO_1900623	0	1	0	0	0
+regulation of memory T cell differentiation	GO_0043380	0	1	0	0	0
+regulation of memory T cell activation	GO_2000567	0	1	0	0	0
+regulation of leukocyte tethering or rolling	GO_1903236	0	1	0	0	0
+regulation of leukocyte cell-cell adhesion	GO_1903037	0	1	0	0	0
+regulation of immature T cell proliferation in thymus	GO_0033084	0	1	0	0	0
+regulation of immature T cell proliferation	GO_0033083	0	1	0	0	0
+regulation of homophilic cell adhesion	GO_1903385	0	1	0	0	0
+regulation of gamma-delta T cell proliferation	GO_0046646	0	1	0	0	0
+regulation of gamma-delta T cell differentiation	GO_0045586	0	1	0	0	0
+regulation of gamma-delta T cell activation involved in immune response	GO_2001191	0	1	0	0	0
+regulation of gamma-delta T cell activation	GO_0046643	0	1	0	0	0
+regulation of focal adhesion assembly	GO_0051893	0	1	0	0	0
+regulation of extrathymic T cell differentiation	GO_0033082	0	1	0	0	0
+regulation of erythrocyte aggregation	GO_0034118	0	1	0	0	0
+regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903681	0	1	0	0	0
+regulation of cytotoxic T cell differentiation	GO_0045583	0	1	0	0	0
+regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0	0
+regulation of cell-substrate adhesion	GO_0010810	0	1	0	0	0
+regulation of cell-matrix adhesion	GO_0001952	0	1	0	0	0
+regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway	GO_0061342	0	1	0	0	0
+regulation of cartilage condensation	GO_1902026	0	1	0	0	0
+regulation of alpha-beta T cell proliferation	GO_0046640	0	1	0	0	0
+regulation of alpha-beta T cell differentiation	GO_0046637	0	1	0	0	0
+regulation of alpha-beta T cell activation	GO_0046634	0	1	0	0	0
+regulation of activated T cell proliferation	GO_0046006	0	1	0	0	0
+regulation of T-helper cell differentiation	GO_0045622	0	1	0	0	0
+regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0	0
+regulation of T-helper 2 cell activation	GO_2000569	0	1	0	0	0
+regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0	0
+regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0	0
+regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0	0
+regulation of T-helper 1 cell activation	GO_2000517	0	1	0	0	0
+regulation of T cell proliferation	GO_0042129	0	1	0	0	0
+regulation of T cell homeostatic proliferation	GO_0046013	0	1	0	0	0
+regulation of T cell differentiation in thymus	GO_0033081	0	1	0	0	0
+regulation of T cell differentiation	GO_0045580	0	1	0	0	0
+regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001188	0	1	0	0	0
+regulation of T cell activation	GO_0050863	0	1	0	0	0
+regulation of NK T cell proliferation	GO_0051140	0	1	0	0	0
+regulation of NK T cell differentiation	GO_0051136	0	1	0	0	0
+regulation of NK T cell activation	GO_0051133	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000564	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043376	0	1	0	0	0
+regulation of CD8-positive, alpha-beta T cell activation	GO_2001185	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000561	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043370	0	1	0	0	0
+regulation of CD4-positive, alpha-beta T cell activation	GO_2000514	0	1	0	0	0
+regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032832	0	1	0	0	0
+regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032829	0	1	0	0	0
+protein binding involved in heterotypic cell-cell adhesion	GO_0086080	0	1	0	0	0
+protein binding involved in cell-matrix adhesion	GO_0098634	0	1	0	0	0
+protein binding involved in cell-cell adhesion	GO_0098632	0	1	0	0	0
+protein binding involved in cell adhesion	GO_0098631	0	1	0	0	0
+pro-T cell lineage commitment	GO_0002680	0	1	0	0	0
+pro-T cell differentiation	GO_0002572	0	1	0	0	0
+pre-tubular aggregate formation	GO_0072035	0	1	0	0	0
+posterior neuropore closure	GO_0021507	0	1	0	0	0
+positive thymic T cell selection	GO_0045059	0	1	0	0	0
+positive regulation of thymocyte aggregation	GO_2000400	0	1	0	0	0
+positive regulation of substrate adhesion-dependent cell spreading	GO_1900026	0	1	0	0	0
+positive regulation of regulatory T cell differentiation	GO_0045591	0	1	0	0	0
+positive regulation of pro-T cell differentiation	GO_2000176	0	1	0	0	0
+positive regulation of positive thymic T cell selection	GO_1902234	0	1	0	0	0
+positive regulation of platelet aggregation in other organism	GO_0035894	0	1	0	0	0
+positive regulation of platelet aggregation	GO_1901731	0	1	0	0	0
+positive regulation of neutrophil aggregation	GO_2000430	0	1	0	0	0
+positive regulation of monocyte aggregation	GO_1900625	0	1	0	0	0
+positive regulation of memory T cell differentiation	GO_0043382	0	1	0	0	0
+positive regulation of memory T cell activation	GO_2000568	0	1	0	0	0
+positive regulation of leukocyte tethering or rolling	GO_1903238	0	1	0	0	0
+positive regulation of leukocyte cell-cell adhesion	GO_1903039	0	1	0	0	0
+positive regulation of immature T cell proliferation in thymus	GO_0033092	0	1	0	0	0
+positive regulation of immature T cell proliferation	GO_0033091	0	1	0	0	0
+positive regulation of homophilic cell adhesion	GO_1903387	0	1	0	0	0
+positive regulation of gamma-delta T cell proliferation	GO_0046648	0	1	0	0	0
+positive regulation of gamma-delta T cell differentiation	GO_0045588	0	1	0	0	0
+positive regulation of gamma-delta T cell activation involved in immune response	GO_2001193	0	1	0	0	0
+positive regulation of gamma-delta T cell activation	GO_0046645	0	1	0	0	0
+positive regulation of focal adhesion assembly	GO_0051894	0	1	0	0	0
+positive regulation of extrathymic T cell differentiation	GO_0033090	0	1	0	0	0
+positive regulation of erythrocyte aggregation	GO_0034120	0	1	0	0	0
+positive regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903683	0	1	0	0	0
+positive regulation of cytotoxic T cell differentiation	GO_0045585	0	1	0	0	0
+positive regulation of cytotoxic T cell degranulation	GO_0043319	0	1	0	0	0
+positive regulation of cell-substrate adhesion	GO_0010811	0	1	0	0	0
+positive regulation of cell-matrix adhesion	GO_0001954	0	1	0	0	0
+positive regulation of cartilage condensation	GO_1902027	0	1	0	0	0
+positive regulation of alpha-beta T cell proliferation	GO_0046641	0	1	0	0	0
+positive regulation of alpha-beta T cell differentiation	GO_0046638	0	1	0	0	0
+positive regulation of alpha-beta T cell activation	GO_0046635	0	1	0	0	0
+positive regulation of activated T cell proliferation	GO_0042104	0	1	0	0	0
+positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0	0
+positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0	0
+positive regulation of T-helper 2 cell activation	GO_2000570	0	1	0	0	0
+positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0	0
+positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0	0
+positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0	0
+positive regulation of T-helper 1 cell activation	GO_2000519	0	1	0	0	0
+positive regulation of T cell proliferation	GO_0042102	0	1	0	0	0
+positive regulation of T cell homeostatic proliferation	GO_0042103	0	1	0	0	0
+positive regulation of T cell differentiation in thymus	GO_0033089	0	1	0	0	0
+positive regulation of T cell differentiation	GO_0045582	0	1	0	0	0
+positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001190	0	1	0	0	0
+positive regulation of T cell activation	GO_0050870	0	1	0	0	0
+positive regulation of NK T cell proliferation	GO_0051142	0	1	0	0	0
+positive regulation of NK T cell differentiation	GO_0051138	0	1	0	0	0
+positive regulation of NK T cell activation	GO_0051135	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000566	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043378	0	1	0	0	0
+positive regulation of CD8-positive, alpha-beta T cell activation	GO_2001187	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000563	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043372	0	1	0	0	0
+positive regulation of CD4-positive, alpha-beta T cell activation	GO_2000516	0	1	0	0	0
+positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032834	0	1	0	0	0
+positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032831	0	1	0	0	0
+positive extrathymic T cell selection	GO_0045067	0	1	0	0	0
+positive T cell selection	GO_0043368	0	1	0	0	0
+pollen tube adhesion	GO_0009865	0	1	0	0	0
+pollen adhesion	GO_0009876	0	1	0	0	0
+platelet aggregation	GO_0070527	0	1	0	0	0
+ovarian follicle cell-cell adhesion	GO_0007299	0	1	0	0	0
+oenocyte delamination	GO_0060233	0	1	0	0	0
+neutrophil aggregation	GO_0070488	0	1	0	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	0	1	0	0	0
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	0	1	0	0	0
+neuroblast delamination	GO_0060234	0	1	0	0	0
+neural crest cell delamination	GO_0036032	0	1	0	0	0
+negative thymic T cell selection	GO_0045060	0	1	0	0	0
+negative regulation of thymocyte aggregation	GO_2000399	0	1	0	0	0
+negative regulation of substrate adhesion-dependent cell spreading	GO_1900025	0	1	0	0	0
+negative regulation of smooth muscle cell-matrix adhesion	GO_2000098	0	1	0	0	0
+negative regulation of regulatory T cell differentiation	GO_0045590	0	1	0	0	0
+negative regulation of pro-T cell differentiation	GO_2000175	0	1	0	0	0
+negative regulation of positive thymic T cell selection	GO_1902233	0	1	0	0	0
+negative regulation of platelet aggregation in other organism	GO_0035893	0	1	0	0	0
+negative regulation of platelet aggregation	GO_0090331	0	1	0	0	0
+negative regulation of neutrophil aggregation	GO_2000429	0	1	0	0	0
+negative regulation of monocyte aggregation	GO_1900624	0	1	0	0	0
+negative regulation of memory T cell differentiation	GO_0043381	0	1	0	0	0
+negative regulation of leukocyte tethering or rolling	GO_1903237	0	1	0	0	0
+negative regulation of leukocyte cell-cell adhesion	GO_1903038	0	1	0	0	0
+negative regulation of immature T cell proliferation in thymus	GO_0033088	0	1	0	0	0
+negative regulation of immature T cell proliferation	GO_0033087	0	1	0	0	0
+negative regulation of homophilic cell adhesion	GO_1903386	0	1	0	0	0
+negative regulation of gamma-delta T cell proliferation	GO_0046647	0	1	0	0	0
+negative regulation of gamma-delta T cell differentiation	GO_0045587	0	1	0	0	0
+negative regulation of gamma-delta T cell activation involved in immune response	GO_2001192	0	1	0	0	0
+negative regulation of gamma-delta T cell activation	GO_0046644	0	1	0	0	0
+negative regulation of extrathymic T cell differentiation	GO_0033086	0	1	0	0	0
+negative regulation of erythrocyte aggregation	GO_0034119	0	1	0	0	0
+negative regulation of epithelial cell-cell adhesion involved in epithelium migration	GO_1903682	0	1	0	0	0
+negative regulation of cytotoxic T cell differentiation	GO_0045584	0	1	0	0	0
+negative regulation of cytotoxic T cell degranulation	GO_0043318	0	1	0	0	0
+negative regulation of cell-substrate adhesion	GO_0010812	0	1	0	0	0
+negative regulation of cell-matrix adhesion	GO_0001953	0	1	0	0	0
+negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	0	1	0	0	0
+negative regulation of alpha-beta T cell proliferation	GO_0046642	0	1	0	0	0
+negative regulation of alpha-beta T cell differentiation	GO_0046639	0	1	0	0	0
+negative regulation of alpha-beta T cell activation	GO_0046636	0	1	0	0	0
+negative regulation of activated T cell proliferation	GO_0046007	0	1	0	0	0
+negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0	0
+negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0	0
+negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0	0
+negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0	0
+negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0	0
+negative regulation of T-helper 1 cell activation	GO_2000518	0	1	0	0	0
+negative regulation of T cell proliferation	GO_0042130	0	1	0	0	0
+negative regulation of T cell homeostatic proliferation	GO_0046014	0	1	0	0	0
+negative regulation of T cell differentiation in thymus	GO_0033085	0	1	0	0	0
+negative regulation of T cell differentiation	GO_0045581	0	1	0	0	0
+negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_2001189	0	1	0	0	0
+negative regulation of T cell activation	GO_0050868	0	1	0	0	0
+negative regulation of NK T cell proliferation	GO_0051141	0	1	0	0	0
+negative regulation of NK T cell differentiation	GO_0051137	0	1	0	0	0
+negative regulation of NK T cell activation	GO_0051134	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell proliferation	GO_2000565	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell differentiation	GO_0043377	0	1	0	0	0
+negative regulation of CD8-positive, alpha-beta T cell activation	GO_2001186	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell proliferation	GO_2000562	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell differentiation	GO_0043371	0	1	0	0	0
+negative regulation of CD4-positive, alpha-beta T cell activation	GO_2000515	0	1	0	0	0
+negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0032833	0	1	0	0	0
+negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0032830	0	1	0	0	0
+negative extrathymic T cell selection	GO_0045068	0	1	0	0	0
+negative T cell selection	GO_0043383	0	1	0	0	0
+multi organism cell adhesion	GO_0098740	0	1	0	0	0
+monocyte aggregation	GO_0070487	0	1	0	0	0
+modulation of platelet aggregation in other organism	GO_0035892	0	1	0	0	0
+modulation by symbiont of host erythrocyte aggregation	GO_0020013	0	1	0	0	0
+mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	0	0	0
+mesangial cell-matrix adhesion	GO_0035759	0	1	0	0	0
+memory T cell proliferation	GO_0061485	0	1	0	0	0
+memory T cell differentiation	GO_0043379	0	1	0	0	0
+memory T cell activation	GO_0035709	0	1	0	0	0
+melanocyte adhesion	GO_0097326	0	1	0	0	0
+lymphocyte aggregation	GO_0071593	0	1	0	0	0
+lymphocyte adhesion to endothelial cell of high endothelial venule	GO_0036339	0	1	0	0	0
+leukocyte tethering or rolling	GO_0050901	0	1	0	0	0
+leukocyte cell-cell adhesion	GO_0007159	0	1	0	0	0
+leukocyte aggregation	GO_0070486	0	1	0	0	0
+leukocyte activation-dependent arrest	GO_0050903	0	1	0	0	0
+laminin binding involved in cell-matrix adhesion	GO_0098638	0	1	0	0	0
+interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex	GO_0021839	0	1	0	0	0
+integrin binding involved in cell-matrix adhesion	GO_0098640	0	1	0	0	0
+immature T cell proliferation in thymus	GO_0033080	0	1	0	0	0
+immature T cell proliferation	GO_0033079	0	1	0	0	0
+gamma-delta intraepithelial T cell differentiation	GO_0002304	0	1	0	0	0
+gamma-delta T cell proliferation involved in immune response	GO_0002311	0	1	0	0	0
+gamma-delta T cell proliferation	GO_0046630	0	1	0	0	0
+gamma-delta T cell lineage commitment	GO_0002365	0	1	0	0	0
+gamma-delta T cell differentiation involved in immune response	GO_0002303	0	1	0	0	0
+gamma-delta T cell differentiation	GO_0042492	0	1	0	0	0
+gamma-delta T cell activation involved in immune response	GO_0002290	0	1	0	0	0
+gamma-delta T cell activation	GO_0046629	0	1	0	0	0
+focal adhesion assembly	GO_0048041	0	1	0	0	0
+extrathymic T cell selection	GO_0045062	0	1	0	0	0
+extrathymic T cell differentiation	GO_0033078	0	1	0	0	0
+establishment of T cell polarity	GO_0001768	0	1	0	0	0
+erythrocyte aggregation	GO_0034117	0	1	0	0	0
+endothelial to hematopoietic transition	GO_0098508	0	1	0	0	0
+endothelial cell-cell adhesion	GO_0071603	0	1	0	0	0
+endocardial cushion fusion	GO_0003274	0	1	0	0	0
+delamination involved in gastrulation with mouth forming second	GO_0055112	0	1	0	0	0
+delamination	GO_0060232	0	1	0	0	0
+cytotoxic T cell differentiation	GO_0045065	0	1	0	0	0
+cytotoxic T cell degranulation	GO_0043316	0	1	0	0	0
+corneocyte desquamation	GO_0003336	0	1	0	0	0
+conjugant formation	GO_0000761	0	1	0	0	0
+collagen binding involved in cell-matrix adhesion	GO_0098639	0	1	0	0	0
+chorio-allantoic fusion	GO_0060710	0	1	0	0	0
+cell-substrate adhesion	GO_0031589	0	1	0	0	0
+cell-matrix adhesion involved in tangential migration using cell-cell interactions	GO_0021833	0	1	0	0	0
+cell-matrix adhesion involved in mesendodermal cell migration	GO_0003368	0	1	0	0	0
+cell-matrix adhesion involved in ameboidal cell migration	GO_0003366	0	1	0	0	0
+cell-matrix adhesion	GO_0007160	0	1	0	0	0
+cell-cell adhesion via plasma-membrane adhesion molecules	GO_0098742	0	1	0	0	0
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	0	1	0	0	0
+cell-cell adhesion involved in mannose-specific flocculation	GO_0098612	0	1	0	0	0
+cell-cell adhesion involved in galactose-specific flocculation	GO_0098611	0	1	0	0	0
+cell-cell adhesion	GO_0098609	0	1	0	0	0
+cell-abiotic substrate adhesion	GO_0036164	0	1	0	0	0
+cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication	GO_0086083	0	1	0	0	0
+cell adhesive protein binding involved in atrial cardiac muscle cell-AV node cell communication	GO_0086081	0	1	0	0	0
+cell adhesive protein binding involved in SA cardiac muscle cell-atrial cardiac muscle cell communication	GO_0086085	0	1	0	0	0
+cell adhesive protein binding involved in Purkinje myocyte-ventricular cardiac muscle cell communication	GO_0086084	0	1	0	0	0
+cell adhesive protein binding involved in AV node cell-bundle of His cell communication	GO_0086082	0	1	0	0	0
+cardioblast cell midline fusion	GO_0003317	0	1	0	0	0
+cardiac neural crest cell delamination involved in outflow tract morphogenesis	GO_1900728	0	1	0	0	0
+cardiac neural crest cell delamination	GO_0036036	0	1	0	0	0
+cardiac muscle cell-cardiac muscle cell adhesion	GO_0086042	0	1	0	0	0
+calcium-independent cell-matrix adhesion	GO_0007161	0	1	0	0	0
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	GO_0016338	0	1	0	0	0
+calcium-dependent cell-matrix adhesion	GO_0016340	0	1	0	0	0
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	GO_0016339	0	1	0	0	0
+cadherin binding involved in cell-cell adhesion	GO_0098641	0	1	0	0	0
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO_0086073	0	1	0	0	0
+border follicle cell delamination	GO_0030709	0	1	0	0	0
+blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment	GO_1902354	0	1	0	0	0
+blood vessel endothelial cell delamination	GO_0097497	0	1	0	0	0
+beta selection	GO_0043366	0	1	0	0	0
+atrial cardiac muscle cell-AV node cell adhesion involved in cell communication	GO_0086071	0	1	0	0	0
+alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	0	0	0
+alpha-beta T cell proliferation involved in immune response	GO_0002310	0	1	0	0	0
+alpha-beta T cell proliferation	GO_0046633	0	1	0	0	0
+alpha-beta T cell lineage commitment	GO_0002363	0	1	0	0	0
+alpha-beta T cell differentiation involved in immune response	GO_0002293	0	1	0	0	0
+alpha-beta T cell differentiation	GO_0046632	0	1	0	0	0
+alpha-beta T cell activation involved in immune response	GO_0002287	0	1	0	0	0
+alpha-beta T cell activation by superantigen	GO_0042722	0	1	0	0	0
+alpha-beta T cell activation	GO_0046631	0	1	0	0	0
+agglutination involved in conjugation with mutual genetic exchange	GO_0000758	0	1	0	0	0
+agglutination involved in conjugation with cellular fusion	GO_0000752	0	1	0	0	0
+agglutination involved in conjugation	GO_0000771	0	1	0	0	0
+adhesion between unicellular organisms via cell-wall interaction	GO_0098741	0	1	0	0	0
+adhesion between unicellular organisms	GO_0098610	0	1	0	0	0
+activated T cell proliferation	GO_0050798	0	1	0	0	0
+activated CD8-positive, alpha-beta T cell proliferation	GO_0035742	0	1	0	0	0
+activated CD4-positive, alpha-beta T cell proliferation	GO_0035741	0	1	0	0	0
+T-helper cell lineage commitment	GO_0002295	0	1	0	0	0
+T-helper cell differentiation	GO_0042093	0	1	0	0	0
+T-helper 2 cell lineage commitment	GO_0002297	0	1	0	0	0
+T-helper 2 cell differentiation	GO_0045064	0	1	0	0	0
+T-helper 2 cell activation	GO_0035712	0	1	0	0	0
+T-helper 17 cell lineage commitment	GO_0072540	0	1	0	0	0
+T-helper 17 cell differentiation	GO_0072539	0	1	0	0	0
+T-helper 1 cell lineage commitment	GO_0002296	0	1	0	0	0
+T-helper 1 cell differentiation	GO_0045063	0	1	0	0	0
+T-helper 1 cell activation	GO_0035711	0	1	0	0	0
+T follicular helper cell differentiation	GO_0061470	0	1	0	0	0
+T cell selection	GO_0045058	0	1	0	0	0
+T cell receptor V(D)J recombination	GO_0033153	0	1	0	0	0
+T cell proliferation involved in immune response	GO_0002309	0	1	0	0	0
+T cell proliferation	GO_0042098	0	1	0	0	0
+T cell lineage commitment	GO_0002360	0	1	0	0	0
+T cell homeostatic proliferation	GO_0001777	0	1	0	0	0
+T cell differentiation involved in immune response	GO_0002292	0	1	0	0	0
+T cell differentiation in thymus	GO_0033077	0	1	0	0	0
+T cell differentiation	GO_0030217	0	1	0	0	0
+T cell costimulation	GO_0031295	0	1	0	0	0
+T cell aggregation	GO_0070489	0	1	0	0	0
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	GO_0002291	0	1	0	0	0
+T cell activation involved in immune response	GO_0002286	0	1	0	0	0
+T cell activation	GO_0042110	0	1	0	0	0
+SA node cell-atrial cardiac muscle cell adhesion involved in cell communication	GO_0086022	0	1	0	0	0
+NK T cell proliferation involved in immune response	GO_0002289	0	1	0	0	0
+NK T cell proliferation	GO_0001866	0	1	0	0	0
+NK T cell lineage commitment	GO_0002364	0	1	0	0	0
+NK T cell differentiation	GO_0001865	0	1	0	0	0
+NK T cell activation involved in immune response	GO_0002288	0	1	0	0	0
+NK T cell activation	GO_0051132	0	1	0	0	0
+CD8-positive, gamma-delta intraepithelial T cell differentiation	GO_0002305	0	1	0	0	0
+CD8-positive, alpha-beta regulatory T cell differentiation	GO_0002307	0	1	0	0	0
+CD8-positive, alpha-beta intraepithelial T cell differentiation	GO_0002300	0	1	0	0	0
+CD8-positive, alpha-beta cytotoxic T cell differentiation	GO_0002308	0	1	0	0	0
+CD8-positive, alpha-beta T cell proliferation	GO_0035740	0	1	0	0	0
+CD8-positive, alpha-beta T cell lineage commitment	GO_0043375	0	1	0	0	0
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO_0002302	0	1	0	0	0
+CD8-positive, alpha-beta T cell differentiation	GO_0043374	0	1	0	0	0
+CD8-positive, alpha-beta T cell activation	GO_0036037	0	1	0	0	0
+CD4-positive, alpha-beta intraepithelial T cell differentiation	GO_0002301	0	1	0	0	0
+CD4-positive, alpha-beta T cell proliferation	GO_0035739	0	1	0	0	0
+CD4-positive, alpha-beta T cell lineage commitment	GO_0043373	0	1	0	0	0
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO_0002294	0	1	0	0	0
+CD4-positive, alpha-beta T cell differentiation	GO_0043367	0	1	0	0	0
+CD4-positive, alpha-beta T cell costimulation	GO_0035783	0	1	0	0	0
+CD4-positive, alpha-beta T cell activation	GO_0035710	0	1	0	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	GO_0002362	0	1	0	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	GO_0002298	0	1	0	0	0
+CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	GO_0002361	0	1	0	0	0
+CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	GO_0043369	0	1	0	0	0
+CD4-positive gamma-delta intraepithelial T cell differentiation	GO_0002306	0	1	0	0	0
+B cell adhesion	GO_0097323	0	1	0	0	0
+AV node cell-bundle of His cell adhesion involved in cell communication	GO_0086072	0	1	0	0	0

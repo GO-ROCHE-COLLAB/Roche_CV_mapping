@@ -1,0 +1,6 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cardiac muscle hypertrophy in response to stress	GO_0014898	1	1	1	0	0
+cardiac muscle atrophy	GO_0014899	1	1	1	0	0
+cardiac muscle hypertrophy	GO_0003300	1	0	1	0	0
+cardiac muscle cell apoptotic process	GO_0010659	1	0	1	0	0
+cardiac muscle adaptation	GO_0014887	0	1	0	0	0

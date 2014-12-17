@@ -15,6 +15,7 @@ wing disc anterior/posterior pattern formation	GO_0048100	0	1	1	0	0
 wing cell fate specification	GO_0035311	0	1	1	0	0
 wing and notum subfield formation	GO_0035309	0	1	1	0	0
 white fat cell differentiation involved in mammary gland fat development	GO_0060642	0	1	1	0	0
+white fat cell differentiation	GO_0050872	0	1	0	0	0
 vulval development	GO_0040025	0	1	1	0	0
 vulval cell fate specification	GO_0072327	0	1	1	0	0
 vulval cell fate determination	GO_0072326	0	1	1	0	0
@@ -663,6 +664,7 @@ regulation of floral organ abscission	GO_0060860	0	1	1	0	0
 regulation of floral meristem growth	GO_0010080	0	1	1	0	0
 regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000702	0	1	1	0	0
 regulation of female gonad development	GO_2000194	0	1	1	0	0
+regulation of fat cell differentiation	GO_0045598	0	1	0	0	0
 regulation of eye photoreceptor cell development	GO_0042478	0	1	1	0	0
 regulation of extrathymic T cell differentiation	GO_0033082	0	1	1	0	0
 regulation of extraocular skeletal muscle development	GO_0014725	0	1	1	0	0
@@ -734,6 +736,7 @@ regulation of cardiac chamber formation	GO_1901210	0	1	1	0	0
 regulation of cardiac cell fate specification	GO_2000043	0	1	1	0	0
 regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072335	0	1	1	0	0
 regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901295	0	1	1	0	0
+regulation of brown fat cell differentiation	GO_0090335	0	1	0	0	0
 regulation of branchiomeric skeletal muscle development	GO_0014711	0	1	1	0	0
 regulation of branching involved in ureteric bud morphogenesis	GO_0090189	0	1	1	0	0
 regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	GO_0060665	0	1	1	0	0
@@ -1079,6 +1082,7 @@ positive regulation of floral organ abscission by small GTPase mediated signal t
 positive regulation of floral organ abscission	GO_0060861	0	1	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000704	0	1	1	0	0
 positive regulation of female gonad development	GO_2000196	0	1	1	0	0
+positive regulation of fat cell differentiation	GO_0045600	0	1	0	0	0
 positive regulation of eye photoreceptor cell development	GO_0042479	0	1	1	0	0
 positive regulation of extrathymic T cell differentiation	GO_0033090	0	1	1	0	0
 positive regulation of extraocular skeletal muscle development	GO_0014727	0	1	1	0	0
@@ -1135,6 +1139,7 @@ positive regulation of cardiac chamber morphogenesis	GO_1901221	0	1	1	0	0
 positive regulation of cardiac chamber formation	GO_1901212	0	1	1	0	0
 positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072381	0	1	1	0	0
 positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901297	0	1	1	0	0
+positive regulation of brown fat cell differentiation	GO_0090336	0	1	0	0	0
 positive regulation of branchiomeric skeletal muscle development	GO_0014712	0	1	1	0	0
 positive regulation of branching involved in ureteric bud morphogenesis	GO_0090190	0	1	1	0	0
 positive regulation of branching involved in lung morphogenesis	GO_0061047	0	1	1	0	0
@@ -1571,6 +1576,7 @@ negative regulation of floral organ abscission by transmembrane receptor protein
 negative regulation of floral organ abscission	GO_0060862	0	1	1	0	0
 negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000703	0	1	1	0	0
 negative regulation of female gonad development	GO_2000195	0	1	1	0	0
+negative regulation of fat cell differentiation	GO_0045599	0	1	0	0	0
 negative regulation of eye photoreceptor cell development	GO_0042480	0	1	1	0	0
 negative regulation of extrathymic T cell differentiation	GO_0033086	0	1	1	0	0
 negative regulation of extraocular skeletal muscle development	GO_0014726	0	1	1	0	0
@@ -1629,6 +1635,7 @@ negative regulation of cardiac cell fate specification	GO_2000044	0	1	1	0	0
 negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072336	0	1	1	0	0
 negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901296	0	1	1	0	0
 negative regulation of bud outgrowth involved in lung branching	GO_0061112	0	1	1	0	0
+negative regulation of brown fat cell differentiation	GO_1903444	0	1	0	0	0
 negative regulation of branchiomeric skeletal muscle development	GO_0014713	0	1	1	0	0
 negative regulation of branching involved in ureteric bud morphogenesis	GO_0090191	0	1	1	0	0
 negative regulation of branching involved in lung morphogenesis	GO_0061048	0	1	1	0	0
@@ -2432,6 +2439,7 @@ female genitalia development	GO_0030540	0	1	1	0	0
 female analia morphogenesis	GO_0048810	0	1	1	0	0
 female analia development	GO_0045497	0	1	1	0	0
 fat pad development	GO_0060613	0	1	1	0	0
+fat cell differentiation	GO_0045444	0	1	0	0	0
 fat body development	GO_0007503	0	1	1	0	0
 fastigial nucleus development	GO_0021738	0	1	1	0	0
 facial suture morphogenesis	GO_0097096	0	1	1	0	0
@@ -3005,6 +3013,7 @@ bulbus arteriosus development	GO_0003232	0	1	1	0	0
 bud outgrowth involved in lung branching	GO_0060447	0	1	1	0	0
 bud elongation involved in lung branching	GO_0060449	0	1	1	0	0
 bud dilation involved in lung branching	GO_0060503	0	1	1	0	0
+brown fat cell differentiation	GO_0050873	0	1	0	0	0
 bronchus morphogenesis	GO_0060434	0	1	1	0	0
 bronchus development	GO_0060433	0	1	1	0	0
 bronchus cartilage morphogenesis	GO_0060533	0	1	1	0	0

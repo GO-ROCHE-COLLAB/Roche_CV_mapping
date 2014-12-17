@@ -1,0 +1,94 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+low-affinity iron ion transmembrane transport	GO_0000040	1	1	1	0	0
+iron ion transport	GO_0006826	1	1	1	0	0
+iron ion transmembrane transport	GO_0034755	1	1	1	0	0
+iron ion import	GO_0097286	1	1	1	0	0
+iron assimilation by reduction and transport	GO_0033215	1	1	1	0	0
+iron assimilation by chelation and transport	GO_0033214	1	1	1	0	0
+iron assimilation by capture and transport	GO_0033213	1	1	1	0	0
+iron assimilation	GO_0033212	1	1	1	0	0
+high-affinity iron ion transmembrane transport	GO_0006827	1	1	1	0	0
+high-affinity ferric iron transport	GO_0015683	1	1	1	0	0
+ferrous iron uptake transmembrane transporter activity	GO_0015639	1	1	1	0	0
+ferrous iron transport	GO_0015684	1	1	1	0	0
+ferrous iron transmembrane transporter activity	GO_0015093	1	1	1	0	0
+ferrous iron import into cell	GO_0097460	1	1	1	0	0
+ferrous iron import	GO_0070627	1	1	1	0	0
+ferrous iron binding	GO_0008198	1	1	1	0	0
+ferric iron transport	GO_0015682	1	1	1	0	0
+ferric iron import	GO_0033216	1	1	1	0	0
+iron-sulfur-molybdenum cofactor metabolic process	GO_1901286	1	0	1	0	0
+iron-sulfur-molybdenum cofactor catabolic process	GO_1901287	1	0	1	0	0
+iron-sulfur-molybdenum cofactor biosynthetic process	GO_1901288	1	0	1	0	0
+iron-sulfur-molybdenum cofactor assembly	GO_0044593	1	0	1	0	0
+iron-sulfur cluster assembly	GO_0016226	1	0	1	0	0
+iron ion homeostasis	GO_0055072	1	0	1	0	0
+iron incorporation into the Rieske iron-sulfur cluster via bis-L-cysteinyl bis-L-histidino diiron disulfide	GO_0018299	1	0	1	0	0
+iron incorporation into protein via tetrakis-L-cysteinyl iron	GO_0018284	1	0	1	0	0
+iron incorporation into metallo-sulfur cluster	GO_0018283	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-serinyl tetrairon tetrasulfide	GO_0018305	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-cysteine persulfido-bis-L-glutamato-L-histidino tetrairon	GO_0018301	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato tetrairon tetrasulfide	GO_0018304	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato diiron disulfide	GO_0046869	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-N3'-histidino tetrairon tetrasulfide	GO_0018303	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-N1'-histidino tetrairon tetrasulfide	GO_0018302	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl triiron tetrasulfide	GO_0018287	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide	GO_0050835	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino nickel triiron disulfide trioxide	GO_0018415	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide	GO_0018417	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-arginyl diiron disulfide	GO_0050836	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl triiron tetrasulfide	GO_0045459	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl tetrairon tetrasulfide	GO_0018288	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl diiron disulfide	GO_0018285	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide	GO_0019709	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl triiron trisulfide	GO_0018286	1	0	1	1	1
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl hexairon hexasulfide	GO_0018300	1	0	1	1	1
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl L-serinyl octairon heptasulfide	GO_0018441	1	0	1	0	0
+iron incorporation into iron-sulfur cluster via bis-L-cysteinyl-L-N3'-histidino-L-serinyl tetrairon tetrasulfide	GO_0018306	1	0	1	0	0
+iron incorporation into hydrogenase diiron subcluster via L-cysteine ligation	GO_0046893	1	0	1	0	0
+iron chelate transport	GO_0015688	1	0	1	0	0
+iron and molybdenum incorporation into iron-molybdenum-sulfur cluster via L-cysteinyl homocitryl molybdenum-heptairon-nonasulfide	GO_0018290	1	0	1	0	0
+intracellular sequestering of iron ion	GO_0006880	1	0	1	0	0
+Rieske iron-sulfur protein	GO_0000047	1	0	1	1	1
+xylem-to-phloem iron transport	GO_1990388	0	1	0	0	0
+transferrin transport	GO_0033572	0	1	0	0	0
+transferrin transmembrane transporter activity	GO_0033570	0	1	0	0	0
+siderophore uptake transmembrane transporter activity	GO_0015344	0	1	0	0	0
+siderophore transmembrane transporter activity	GO_0015343	0	1	0	0	0
+response to iron(III) ion	GO_0010041	0	1	0	0	0
+response to iron(II) ion	GO_0010040	0	1	0	0	0
+response to iron ion	GO_0010039	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter in response to iron	GO_0034395	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to iron	GO_0010723	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to iron	GO_0034396	0	1	0	0	0
+mitochondrial iron ion transport	GO_0048250	0	1	0	0	0
+low-affinity iron ion transmembrane transporter activity	GO_0015090	0	1	0	0	0
+lactoferrin transport	GO_0033571	0	1	0	0	0
+lactoferrin transmembrane transporter activity	GO_0033569	0	1	0	0	0
+iron ion transmembrane transporter activity	GO_0005381	0	1	0	0	0
+iron ion import into cell	GO_0097459	0	1	0	0	0
+iron ion import across plasma membrane	GO_0098711	0	1	0	0	0
+iron ion binding	GO_0005506	0	1	0	0	0
+iron chaperone activity	GO_0034986	0	1	0	0	0
+iron cation export	GO_1903414	0	1	0	0	0
+high-affinity ferric uptake transmembrane transporter activity	GO_0015092	0	1	0	0	0
+ferrous iron import across plasma membrane	GO_0098707	0	1	0	0	0
+ferric-vibriobactin transmembrane transporter activity	GO_0019535	0	1	0	0	0
+ferric-transporting ATPase activity	GO_0015408	0	1	0	0	0
+ferric-hydroxamate-transporting ATPase activity	GO_0015625	0	1	0	0	0
+ferric-hydroxamate transport	GO_0015687	0	1	0	0	0
+ferric-hydroxamate transmembrane transporter activity	GO_0015622	0	1	0	0	0
+ferric-enterobactin-transporting ATPase activity	GO_0015624	0	1	0	0	0
+ferric-enterobactin transport	GO_0015685	0	1	0	0	0
+ferric-enterobactin transmembrane transporter activity	GO_0015620	0	1	0	0	0
+ferric triacetylfusarinine C:proton symporter activity	GO_0015346	0	1	0	0	0
+ferric triacetylfusarinine C transmembrane transporter activity	GO_0015621	0	1	0	0	0
+ferric iron transmembrane transporter activity	GO_0015091	0	1	0	0	0
+ferric iron import into cell	GO_0097461	0	1	0	0	0
+ferric iron import across plasma membrane	GO_0098706	0	1	0	0	0
+ferric iron binding	GO_0008199	0	1	0	0	0
+ferric enterobactin:proton symporter activity	GO_0015345	0	1	0	0	0
+detoxification of iron ion	GO_1990461	0	1	0	0	0
+cellular response to iron(III) ion	GO_0071283	0	1	0	0	0
+cellular response to iron(II) ion	GO_0071282	0	1	0	0	0
+cellular response to iron ion	GO_0071281	0	1	0	0	0

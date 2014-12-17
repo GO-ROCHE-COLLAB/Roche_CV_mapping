@@ -58,6 +58,7 @@ positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling	GO_0
 positive regulation of ERK1 and ERK2 cascade	GO_0070374	0	1	1	0	0
 p38MAPK cascade	GO_0038066	0	1	1	0	0
 negative regulation of stress-activated MAPK cascade	GO_0032873	0	1	1	0	0
+negative regulation of p38MAPK cascade	GO_1903753	0	1	0	0	0
 negative regulation of MAPK cascade involved in cell wall organization or biogenesis	GO_1903138	0	1	1	0	0
 negative regulation of MAPK cascade	GO_0043409	0	1	1	0	0
 negative regulation of MAP kinase activity	GO_0043407	0	1	1	0	0

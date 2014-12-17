@@ -1,0 +1,123 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+deadenylation-dependent decapping of nuclear-transcribed mRNA	GO_0000290	1	1	1	0	0
+tRNA-intron endonuclease complex	GO_0000214	1	0	1	0	0
+tRNA-intron endonuclease activity	GO_0000213	1	0	1	0	0
+ribonuclease MRP complex	GO_0000172	1	0	1	0	0
+ribonuclease MRP activity	GO_0000171	1	0	1	0	0
+regulation of mRNA stability, ncRNA-mediated	GO_0070928	1	0	1	0	0
+regulation of mRNA stability involved in response to stress	GO_0010610	1	0	1	0	0
+regulation of mRNA stability involved in response to oxidative stress	GO_2000815	1	0	1	0	0
+regulation of mRNA stability	GO_0043488	1	0	1	0	0
+regulation of mRNA processing	GO_0050684	1	0	1	0	0
+regulation of mRNA polyadenylation	GO_1900363	1	0	1	0	0
+regulation of mRNA modification	GO_0090365	1	0	1	0	0
+regulation of mRNA export from nucleus in response to heat stress	GO_2000728	1	0	1	0	0
+regulation of mRNA export from nucleus	GO_0010793	1	0	1	0	0
+regulation of mRNA cleavage	GO_0031437	1	0	1	0	0
+regulation of mRNA catabolic process	GO_0061013	1	0	1	0	0
+regulation of mRNA 3'-end processing	GO_0031440	1	0	1	0	0
+rRNA (adenine-N6,N6-)-dimethyltransferase activity	GO_0000179	1	0	1	0	0
+nuclear exosome (RNase complex)	GO_0000176	1	0	1	0	0
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000462	1	0	1	0	0
+maturation of SSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)	GO_0000489	1	0	1	0	0
+maturation of SSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000474	1	0	1	0	0
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000463	1	0	1	0	0
+maturation of LSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)	GO_0000488	1	0	1	0	0
+maturation of LSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000473	1	0	1	0	0
+maturation of LSU-rRNA	GO_0000470	1	0	1	0	0
+maturation of 5S rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000482	1	0	1	0	0
+maturation of 5S rRNA	GO_0000481	1	0	1	0	0
+maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000466	1	0	1	0	0
+maturation of 5.8S rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000487	1	0	1	0	0
+maturation of 5.8S rRNA	GO_0000460	1	0	1	0	0
+maturation of 4.5S rRNA	GO_0000476	1	0	1	0	0
+maturation of 2S rRNA	GO_0000475	1	0	1	0	0
+exosome (RNase complex)	GO_0000178	1	0	1	0	0
+exonucleolytic trimming involved in rRNA processing	GO_0000459	1	0	1	0	0
+endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000479	1	0	1	0	0
+endonucleolytic cleavage of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000483	1	0	1	0	0
+endonucleolytic cleavage involved in rRNA processing	GO_0000478	1	0	1	0	0
+endonucleolytic cleavage in ITS1 upstream of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000464	1	0	1	0	0
+endonucleolytic cleavage between SSU-rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)	GO_0000457	1	0	1	0	0
+endonucleolytic cleavage between LSU-rRNA and 5S rRNA of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)	GO_0000458	1	0	1	0	0
+cytoplasmic mRNA processing body	GO_0000932	1	0	1	0	0
+cytoplasmic exosome (RNase complex)	GO_0000177	1	0	1	0	0
+cleavage involved in rRNA processing	GO_0000469	1	0	1	0	0
+cleavage between SSU-rRNA and 5.8S rRNA of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000484	1	0	1	0	0
+cleavage between 5.8S rRNA and 2S rRNA of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000486	1	0	1	0	0
+cleavage between 2S rRNA and LSU-rRNA of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)	GO_0000485	1	0	1	0	0
+RNA fragment catabolic process	GO_0000292	1	0	1	0	0
+viral mRNA export from host cell nucleus	GO_0046784	0	1	0	0	0
+viral mRNA cap methylation	GO_0039699	0	1	0	0	0
+selenocysteine insertion sequence binding	GO_0035368	0	1	0	0	0
+polyuridylation-dependent mRNA catabolic process	GO_1990074	0	1	0	0	0
+polycistronic mRNA processing	GO_0031426	0	1	0	0	0
+polyadenylation-dependent mRNA catabolic process	GO_0071047	0	1	0	0	0
+poly(A)+ mRNA export from nucleus	GO_0016973	0	1	0	0	0
+nuclear-transcribed mRNA poly(A) tail shortening	GO_0000289	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	GO_0000184	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, non-stop decay	GO_0070481	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, no-go decay	GO_0070966	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, meiosis-specific transcripts	GO_0033621	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 5'-3'	GO_0034428	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	GO_0034427	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, exonucleolytic	GO_0000291	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay	GO_0000294	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, deadenylation-independent decay	GO_0031086	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	GO_0000288	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, 5'-3' exonucleolytic nonsense-mediated decay	GO_0070479	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay	GO_0070478	0	1	0	0	0
+nuclear-transcribed mRNA catabolic process	GO_0000956	0	1	0	0	0
+nuclear polyadenylation-dependent mRNA catabolic process	GO_0071042	0	1	0	0	0
+nuclear mRNA surveillance of spliceosomal pre-mRNA splicing	GO_0071030	0	1	0	0	0
+nuclear mRNA surveillance of mRNP export	GO_0071032	0	1	0	0	0
+nuclear mRNA surveillance of mRNA 3'-end processing	GO_0071031	0	1	0	0	0
+nuclear mRNA surveillance	GO_0071028	0	1	0	0	0
+nuclear histone mRNA catabolic process	GO_0071045	0	1	0	0	0
+mitochondrial mRNA processing	GO_0090615	0	1	0	0	0
+mitochondrial mRNA polyadenylation	GO_0097222	0	1	0	0	0
+mitochondrial mRNA modification	GO_0080156	0	1	0	0	0
+mitochondrial mRNA catabolic process	GO_0000958	0	1	0	0	0
+mitochondrial mRNA 5'-end processing	GO_0090617	0	1	0	0	0
+mitochondrial mRNA 3'-end processing	GO_0090616	0	1	0	0	0
+mRNA-containing ribonucleoprotein complex export from nucleus	GO_0071427	0	1	0	0	0
+mRNA transport	GO_0051028	0	1	0	0	0
+mRNA trans splicing, via spliceosome	GO_0000365	0	1	0	0	0
+mRNA trans splicing, SL addition	GO_0045291	0	1	0	0	0
+mRNA splicing, via spliceosome	GO_0000398	0	1	0	0	0
+mRNA splicing, via endonucleolytic cleavage and ligation	GO_0070054	0	1	0	0	0
+mRNA pseudouridine synthesis	GO_1990481	0	1	0	0	0
+mRNA processing	GO_0006397	0	1	0	0	0
+mRNA polyadenylation	GO_0006378	0	1	0	0	0
+mRNA modification	GO_0016556	0	1	0	0	0
+mRNA methylation	GO_0080009	0	1	0	0	0
+mRNA metabolic process	GO_0016071	0	1	0	0	0
+mRNA export from nucleus in response to heat stress	GO_0031990	0	1	0	0	0
+mRNA export from nucleus	GO_0006406	0	1	0	0	0
+mRNA cleavage involved in gene silencing by miRNA	GO_0035279	0	1	0	0	0
+mRNA cleavage	GO_0006379	0	1	0	0	0
+mRNA cis splicing, via spliceosome	GO_0045292	0	1	0	0	0
+mRNA catabolic process	GO_0006402	0	1	0	0	0
+mRNA binding involved in posttranscriptional gene silencing	GO_1903231	0	1	0	0	0
+mRNA binding	GO_0003729	0	1	0	0	0
+mRNA 5'-UTR binding	GO_0048027	0	1	0	0	0
+mRNA 3'-end processing	GO_0031124	0	1	0	0	0
+mRNA 3'-UTR binding	GO_0003730	0	1	0	0	0
+mRNA 3'-UTR AU-rich region binding	GO_0035925	0	1	0	0	0
+iron-responsive element binding	GO_0030350	0	1	0	0	0
+intergenic mRNA trans splicing	GO_0000366	0	1	0	0	0
+histone mRNA metabolic process	GO_0008334	0	1	0	0	0
+histone mRNA catabolic process	GO_0071044	0	1	0	0	0
+histone mRNA 3'-end processing	GO_0006398	0	1	0	0	0
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in endonucleolytic cleavage-dependent decay	GO_0043927	0	1	0	0	0
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-independent decay	GO_0070480	0	1	0	0	0
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	GO_0043928	0	1	0	0	0
+cleavage by virus of host mRNA	GO_0039599	0	1	0	0	0
+chloroplast mRNA processing	GO_0010239	0	1	0	0	0
+chloroplast mRNA modification	GO_1900871	0	1	0	0	0
+cap2 mRNA methylation	GO_0097310	0	1	0	0	0
+cap1 mRNA methylation	GO_0097309	0	1	0	0	0
+cap mRNA methylation	GO_0036451	0	1	0	0	0
+alternative mRNA splicing, via spliceosome	GO_0000380	0	1	0	0	0
+UFP-specific transcription factor mRNA processing involved in endoplasmic reticulum unfolded protein response	GO_0030969	0	1	0	0	0
+7-methylguanosine mRNA capping	GO_0006370	0	1	0	0	0

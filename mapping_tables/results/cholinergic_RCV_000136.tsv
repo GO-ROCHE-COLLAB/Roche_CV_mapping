@@ -1,0 +1,8 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of synaptic transmission, cholinergic	GO_0032222	1	1	1	0	0
+positive regulation of synaptic transmission, cholinergic	GO_0032224	1	1	1	0	0
+negative regulation of synaptic transmission, cholinergic	GO_0032223	1	1	1	0	0
+synaptic transmission, cholinergic	GO_0007271	0	1	0	0	0
+negative regulation by symbiont of host cholinergic synaptic transmission	GO_0044761	0	1	0	0	0
+modulation by symbiont of host cholinergic synaptic transmission	GO_0044760	0	1	0	0	0
+acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	0	0	0

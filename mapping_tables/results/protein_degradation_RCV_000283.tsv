@@ -88,6 +88,7 @@ negative regulation of mitotic anaphase-promoting complex activity	GO_0060564	0	
 negative regulation of membrane protein ectodomain proteolysis	GO_0051045	0	1	1	0	0
 negative regulation of low-density lipoprotein particle receptor catabolic process	GO_0032804	0	1	1	0	0
 negative regulation of elastin catabolic process	GO_0060311	0	1	1	0	0
+negative regulation of cyclin-dependent protein serine/threonine kinase by cyclin degradation	GO_0008054	0	1	1	0	0
 negative regulation of cyclin catabolic process	GO_2000599	0	1	1	0	0
 negative regulation of cellular protein catabolic process	GO_1903363	0	1	1	0	0
 negative regulation of SREBP signaling pathway by positive regulation of transcription factor catabolic process in response to increased oxygen levels	GO_1901487	0	1	1	0	0
@@ -113,7 +114,6 @@ glycoprotein catabolic process	GO_0006516	0	1	1	0	0
 epidermal growth factor catabolic process	GO_0007174	0	1	1	0	0
 elastin catabolic process	GO_0060309	0	1	1	0	0
 cytoplasm-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071629	0	1	1	0	0
-cyclin catabolic process	GO_0008054	0	1	1	0	0
 cellular protein catabolic process	GO_0044257	0	1	1	0	0
 catabolism by symbiont of host protein	GO_0052014	0	1	1	0	0
 catabolism by organism of protein in other organism involved in symbiotic interaction	GO_0052363	0	1	1	0	0

@@ -1,0 +1,115 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of the force of heart contraction by cardiac conduction	GO_0086092	1	1	1	0	0
+regulation of heart rate by hormone	GO_0003064	1	1	1	0	0
+regulation of heart rate by chemical signal	GO_0003062	1	1	1	0	0
+regulation of heart rate by cardiac conduction	GO_0086091	1	1	1	0	0
+regulation of heart rate	GO_0002027	1	1	1	0	0
+regulation of heart contraction involved in acute-phase response	GO_0002531	1	1	1	0	0
+regulation of heart contraction	GO_0008016	1	1	1	0	0
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	GO_0010881	1	1	1	0	0
+regulation of cardiac muscle contraction by calcium ion signaling	GO_0010882	1	1	1	0	0
+regulation of cardiac muscle contraction	GO_0055117	1	1	1	0	0
+regulation of cardiac muscle cell contraction	GO_0086004	1	1	1	0	0
+positive regulation of cardiac muscle contraction	GO_0060452	1	1	1	0	0
+negative regulation of heart rate in other organism	GO_0044555	1	1	1	0	0
+negative regulation of heart rate	GO_0010459	1	1	1	0	0
+negative regulation of heart contraction	GO_0045822	1	1	1	0	0
+negative regulation of cardiac muscle contraction	GO_0055118	1	1	1	0	0
+cardiac muscle contraction	GO_0060048	1	1	1	0	0
+cardiac muscle cell contraction	GO_0086003	1	1	1	0	0
+cardiac conduction	GO_0061337	1	1	1	0	0
+adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_0086024	1	1	1	0	0
+adrenergic receptor signaling pathway involved in heart process	GO_0086023	1	1	1	0	0
+adrenergic receptor signaling pathway involved in cardiac muscle relaxation	GO_0086030	1	1	1	0	0
+ventricular cardiac muscle cell action potential	GO_0086005	1	0	1	0	0
+relaxation of cardiac muscle	GO_0055119	1	0	1	0	0
+regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900825	1	0	1	0	0
+regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	1	0	1	0	0
+regulation of cardiac muscle cell membrane potential	GO_0086036	1	0	1	0	0
+regulation of cardiac muscle adaptation	GO_0010612	1	0	1	0	0
+regulation of atrial cardiac muscle cell membrane repolarization	GO_0060372	1	0	1	0	0
+regulation of atrial cardiac muscle cell membrane depolarization	GO_0060371	1	0	1	0	0
+positive regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900827	1	0	1	0	0
+membrane repolarization during cardiac muscle cell action potential	GO_0086013	1	0	1	0	0
+membrane repolarization during bundle of His cell action potential	GO_0086050	1	0	1	0	0
+membrane repolarization during SA node cell action potential	GO_0086052	1	0	1	0	0
+membrane repolarization during AV node cell action potential	GO_0086049	1	0	1	0	0
+membrane depolarization during cardiac muscle cell action potential	GO_0086012	1	0	1	0	0
+membrane depolarization during bundle of His cell action potential	GO_0086048	1	0	1	0	0
+membrane depolarization during SA node cell action potential	GO_0086046	1	0	1	0	0
+membrane depolarization during AV node cell action potential	GO_0086045	1	0	1	0	0
+cell communication involved in cardiac conduction	GO_0086065	1	0	1	0	0
+cell communication by electrical coupling involved in cardiac conduction	GO_0086064	1	0	1	0	0
+cardiac muscle cell action potential involved in contraction	GO_0086002	1	0	1	0	0
+cardiac muscle cell action potential	GO_0086001	1	0	1	0	0
+cardiac muscle adaptation	GO_0014887	1	0	1	0	0
+bundle of His development	GO_0003166	1	0	1	0	0
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO_0086073	1	0	1	0	0
+bundle of His cell to Purkinje myocyte signaling	GO_0086028	1	0	1	0	0
+bundle of His cell to Purkinje myocyte communication by electrical coupling	GO_0086054	1	0	1	0	0
+bundle of His cell to Purkinje myocyte communication	GO_0086069	1	0	1	0	0
+bundle of His cell action potential	GO_0086043	1	0	1	0	0
+atrial cardiac muscle cell action potential	GO_0086014	1	0	1	0	0
+adrenergic receptor signaling pathway	GO_0071875	1	0	1	0	0
+SA node cell action potential	GO_0086015	1	0	1	0	0
+Purkinje myocyte to ventricular cardiac muscle cell signaling	GO_0086029	1	0	1	0	0
+Purkinje myocyte to ventricular cardiac muscle cell communication by electrical coupling	GO_0086055	1	0	1	0	0
+Purkinje myocyte to ventricular cardiac muscle cell communication	GO_0086068	1	0	1	0	0
+AV node cell-bundle of His cell adhesion involved in cell communication	GO_0086072	1	0	1	0	0
+AV node cell to bundle of His cell signaling	GO_0086027	1	0	1	0	0
+AV node cell to bundle of His cell communication by electrical coupling	GO_0086053	1	0	1	0	0
+AV node cell to bundle of His cell communication	GO_0086067	1	0	1	0	0
+AV node cell action potential	GO_0086016	1	0	1	0	0
+regulation of the force of heart contraction by chemical signal	GO_0003057	0	1	0	0	0
+regulation of the force of heart contraction	GO_0002026	0	1	0	0	0
+regulation of systemic arterial blood pressure by atrial baroreceptor feedback	GO_0002015	0	1	0	0	0
+regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903245	0	1	0	0	0
+regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901204	0	1	0	0	0
+positive regulation of the force of heart contraction involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001989	0	1	0	0	0
+positive regulation of the force of heart contraction by norepinephrine	GO_0003061	0	1	0	0	0
+positive regulation of the force of heart contraction by neuronal norepinephrine	GO_0003110	0	1	0	0	0
+positive regulation of the force of heart contraction by neuronal epinephrine-norepinephrine	GO_0003090	0	1	0	0	0
+positive regulation of the force of heart contraction by neuronal epinephrine	GO_0003087	0	1	0	0	0
+positive regulation of the force of heart contraction by epinephrine-norepinephrine	GO_0001997	0	1	0	0	0
+positive regulation of the force of heart contraction by epinephrine	GO_0003059	0	1	0	0	0
+positive regulation of the force of heart contraction by circulating norepinephrine	GO_0003109	0	1	0	0	0
+positive regulation of the force of heart contraction by circulating epinephrine-norepinephrine	GO_0003089	0	1	0	0	0
+positive regulation of the force of heart contraction by circulating epinephrine	GO_0003088	0	1	0	0	0
+positive regulation of the force of heart contraction by chemical signal	GO_0003099	0	1	0	0	0
+positive regulation of the force of heart contraction	GO_0098735	0	1	0	0	0
+positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction	GO_0086094	0	1	0	0	0
+positive regulation of heart rate involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001988	0	1	0	0	0
+positive regulation of heart rate by norepinephrine	GO_0003066	0	1	0	0	0
+positive regulation of heart rate by neuronal norepinephrine	GO_0003113	0	1	0	0	0
+positive regulation of heart rate by neuronal epinephrine	GO_0003112	0	1	0	0	0
+positive regulation of heart rate by epinephrine-norepinephrine	GO_0001996	0	1	0	0	0
+positive regulation of heart rate by epinephrine	GO_0003065	0	1	0	0	0
+positive regulation of heart rate by circulating norepinephrine	GO_0003114	0	1	0	0	0
+positive regulation of heart rate by circulating epinephrine	GO_0003111	0	1	0	0	0
+positive regulation of heart rate	GO_0010460	0	1	0	0	0
+positive regulation of heart contraction	GO_0045823	0	1	0	0	0
+positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903247	0	1	0	0	0
+positive regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901206	0	1	0	0	0
+positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	0	1	0	0	0
+phospholipase C-activating angiotensin-activated signaling pathway involved in heart process	GO_0086099	0	1	0	0	0
+negative regulation of the force of heart contraction involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001986	0	1	0	0	0
+negative regulation of the force of heart contraction by chemical signal	GO_0003108	0	1	0	0	0
+negative regulation of the force of heart contraction by acetylcholine	GO_0003060	0	1	0	0	0
+negative regulation of the force of heart contraction	GO_0098736	0	1	0	0	0
+negative regulation of heart rate involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001985	0	1	0	0	0
+negative regulation of heart rate by acetylcholine	GO_0003063	0	1	0	0	0
+negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903246	0	1	0	0	0
+negative regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901205	0	1	0	0	0
+modulation of heart rate in other organism	GO_0044554	0	1	0	0	0
+hormonal regulation of the force of heart contraction	GO_0003058	0	1	0	0	0
+heart process	GO_0003015	0	1	0	0	0
+heart contraction	GO_0060047	0	1	0	0	0
+endothelin receptor signaling pathway involved in heart process	GO_0086101	0	1	0	0	0
+circadian regulation of heart rate by the suprachiasmatic nucleus	GO_0003055	0	1	0	0	0
+circadian regulation of heart rate	GO_0003053	0	1	0	0	0
+angiotensin-activated signaling pathway involved in heart process	GO_0086098	0	1	0	0	0
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	0	0	0
+G-protein coupled receptor signaling pathway involved in heart process	GO_0086103	0	1	0	0	0
+G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086033	0	1	0	0	0
+G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process	GO_0086093	0	1	0	0	0

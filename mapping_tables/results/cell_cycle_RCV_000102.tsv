@@ -91,9 +91,9 @@ zygospore formation	GO_0034296	0	1	0	0	0
 vesicle fusion with nuclear membrane involved in mitotic nuclear envelope reassembly	GO_0007086	0	1	0	0	0
 trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	0	0	0
 telomere maintenance via semi-conservative replication	GO_0032201	0	1	0	0	0
+synthesis of RNA primer involved in premeiotic DNA replication	GO_1902980	0	1	0	0	0
 synthesis of RNA primer involved in nuclear cell cycle DNA replication	GO_1902318	0	1	0	0	0
 synthesis of RNA primer involved in mitotic DNA replication	GO_1902981	0	1	0	0	0
-synthesis of RNA primer involved in meiotic DNA replication	GO_1902980	0	1	0	0	0
 synthesis of RNA primer involved in cell cycle DNA replication	GO_1902295	0	1	0	0	0
 synthesis of RNA primer involved in bacterial-type DNA replication	GO_1902330	0	1	0	0	0
 synaptonemal complex assembly	GO_0007130	0	1	0	0	0
@@ -284,9 +284,13 @@ protein kinase activity involved in regulation of protein localization to cell d
 primary cell septum disassembly	GO_0030994	0	1	0	0	0
 primary cell septum biogenesis	GO_0031671	0	1	0	0	0
 preprophase band assembly	GO_0000913	0	1	0	0	0
+premeiotic DNA replication termination	GO_1902978	0	1	0	0	0
+premeiotic DNA replication preinitiation complex assembly	GO_1902976	0	1	0	0	0
+premeiotic DNA replication DNA ligation	GO_1902972	0	1	0	0	0
+premeiotic DNA replication DNA duplex unwinding	GO_1902970	0	1	0	0	0
 premeiotic DNA replication	GO_0006279	0	1	0	0	0
+pre-replicative complex assembly involved in premeiotic DNA replication	GO_1902984	0	1	0	0	0
 pre-replicative complex assembly involved in nuclear cell cycle DNA replication	GO_0006267	0	1	0	0	0
-pre-replicative complex assembly involved in meiotic DNA replication	GO_1902984	0	1	0	0	0
 pre-replicative complex assembly involved in cell cycle DNA replication	GO_1902299	0	1	0	0	0
 pre-replicative complex assembly involved in bacterial-type DNA replication	GO_0036390	0	1	0	0	0
 positive regulation of zygospore formation	GO_0075299	0	1	0	0	0
@@ -607,13 +611,8 @@ meiotic cell cycle process involved in oocyte maturation	GO_1903537	0	1	0	0	0
 meiotic cell cycle process	GO_1903046	0	1	0	0	0
 meiotic cell cycle phase transition	GO_0044771	0	1	0	0	0
 meiotic G2/MI transition	GO_0008315	0	1	0	0	0
-meiotic DNA replication termination	GO_1902978	0	1	0	0	0
-meiotic DNA replication preinitiation complex assembly	GO_1902976	0	1	0	0	0
 meiotic DNA replication initiation	GO_1902974	0	1	0	0	0
 meiotic DNA replication checkpoint	GO_0033315	0	1	0	0	0
-meiotic DNA replication DNA ligation	GO_1902972	0	1	0	0	0
-meiotic DNA replication DNA duplex unwinding	GO_1902970	0	1	0	0	0
-meiotic DNA replication	GO_1902968	0	1	0	0	0
 meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0	0
 meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0	0
 meiotic DNA repair synthesis	GO_0000711	0	1	0	0	0
@@ -657,7 +656,6 @@ maintenance of meiotic sister chromatid cohesion, centromeric	GO_0035875	0	1	0	0
 maintenance of meiotic sister chromatid cohesion, arms	GO_0035876	0	1	0	0	0
 maintenance of meiotic sister chromatid cohesion	GO_0034090	0	1	0	0	0
 maintenance of actomyosin contractile ring localization	GO_0032189	0	1	0	0	0
-lipid tube assembly involved in cytokinesis	GO_0060991	0	1	0	0	0
 linear element assembly	GO_0030999	0	1	0	0	0
 lateral element assembly	GO_0051878	0	1	0	0	0
 late meiotic recombination nodule assembly	GO_0042140	0	1	0	0	0
@@ -829,9 +827,9 @@ G1 DNA damage checkpoint	GO_0044783	0	1	0	0	0
 G0 to G1 transition	GO_0045023	0	1	0	0	0
 FtsZ-dependent cytokinesis	GO_0043093	0	1	0	0	0
 Dma1-dependent checkpoint	GO_0044810	0	1	0	0	0
+DNA strand elongation involved in premeiotic DNA replication	GO_1902982	0	1	0	0	0
 DNA strand elongation involved in nuclear cell cycle DNA replication	GO_1902319	0	1	0	0	0
 DNA strand elongation involved in mitotic DNA replication	GO_1902983	0	1	0	0	0
-DNA strand elongation involved in meiotic DNA replication	GO_1902982	0	1	0	0	0
 DNA strand elongation involved in cell cycle DNA replication	GO_1902296	0	1	0	0	0
 DNA strand elongation involved in bacterial-type DNA replication	GO_1902331	0	1	0	0	0
 DNA replication preinitiation complex assembly	GO_0071163	0	1	0	0	0

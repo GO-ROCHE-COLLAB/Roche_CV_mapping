@@ -1,0 +1,17 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+urea metabolic process	GO_0019627	1	1	1	0	0
+urea cycle	GO_0000050	1	1	1	0	0
+urea catabolic process	GO_0043419	1	1	1	0	0
+urea transport	GO_0015840	1	0	1	0	0
+urea transmembrane transport	GO_0071918	1	0	1	0	0
+urea homeostasis	GO_0097274	1	0	1	0	0
+urea cycle intermediate metabolic process	GO_0000051	1	0	1	1	1
+urate transport	GO_0015747	1	0	1	0	0
+urate metabolic process	GO_0046415	1	0	1	0	0
+urate catabolic process	GO_0019628	1	0	1	0	0
+urate biosynthetic process	GO_0034418	1	0	1	0	0
+regulation of urea metabolic process	GO_0034255	0	1	0	0	0
+regulation of urea catabolic process	GO_0034254	0	1	0	0	0
+positive regulation of urea catabolic process	GO_1901714	0	1	0	0	0
+negative regulation of urea catabolic process	GO_1901713	0	1	0	0	0
+atrazine catabolic process to urea	GO_0019623	0	1	0	0	0

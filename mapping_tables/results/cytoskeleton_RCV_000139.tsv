@@ -343,6 +343,7 @@ microtubule anchoring at spindle pole body	GO_0034631	0	1	0	0	0
 microtubule	GO_0005874	0	1	0	0	0
 meiotic spindle pole body organization	GO_1990395	0	1	0	0	0
 meiotic spindle pole body	GO_0035974	0	1	0	0	0
+meiotic spindle pole	GO_0090619	0	1	0	0	0
 meiotic spindle organization	GO_0000212	0	1	0	0	0
 meiotic spindle midzone assembly	GO_0051257	0	1	0	0	0
 meiotic spindle midzone	GO_1990385	0	1	0	0	0
@@ -484,6 +485,7 @@ cardiac myofibril assembly	GO_0055003	0	1	0	0	0
 cardiac muscle thin filament assembly	GO_0071691	0	1	0	0	0
 cardiac muscle myosin thick filament assembly	GO_0071690	0	1	0	0	0
 cardiac muscle cell contraction	GO_0086003	0	1	0	0	0
+cardiac Troponin complex	GO_1990584	0	1	0	0	0
 axoneme assembly	GO_0035082	0	1	0	0	0
 axonemal microtubule depolymerization	GO_0060404	0	1	0	0	0
 axonemal microtubule	GO_0005879	0	1	0	0	0

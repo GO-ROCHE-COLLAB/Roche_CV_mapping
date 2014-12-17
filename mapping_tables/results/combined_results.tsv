@@ -741,9 +741,9 @@ RCV_000010	DNA replication	GO_0022616	DNA strand elongation
 RCV_000010	DNA replication	GO_0006271	DNA strand elongation involved in DNA replication
 RCV_000010	DNA replication	GO_1902331	DNA strand elongation involved in bacterial-type DNA replication
 RCV_000010	DNA replication	GO_1902296	DNA strand elongation involved in cell cycle DNA replication
-RCV_000010	DNA replication	GO_1902982	DNA strand elongation involved in meiotic DNA replication
 RCV_000010	DNA replication	GO_1902983	DNA strand elongation involved in mitotic DNA replication
 RCV_000010	DNA replication	GO_1902319	DNA strand elongation involved in nuclear cell cycle DNA replication
+RCV_000010	DNA replication	GO_1902982	DNA strand elongation involved in premeiotic DNA replication
 RCV_000010	DNA replication	GO_0061306	DNA strand renaturation involved in double-strand break repair
 RCV_000010	DNA replication	GO_0000731	DNA synthesis involved in DNA repair
 RCV_000010	DNA replication	GO_0090592	DNA synthesis involved in DNA replication
@@ -778,12 +778,7 @@ RCV_000010	DNA replication	GO_1990426	homologous recombination-dependent replica
 RCV_000010	DNA replication	GO_0072691	initiation of premeiotic DNA replication
 RCV_000010	DNA replication	GO_0006273	lagging strand elongation
 RCV_000010	DNA replication	GO_0006272	leading strand elongation
-RCV_000010	DNA replication	GO_1902968	meiotic DNA replication
-RCV_000010	DNA replication	GO_1902970	meiotic DNA replication DNA duplex unwinding
-RCV_000010	DNA replication	GO_1902972	meiotic DNA replication DNA ligation
 RCV_000010	DNA replication	GO_1902974	meiotic DNA replication initiation
-RCV_000010	DNA replication	GO_1902976	meiotic DNA replication preinitiation complex assembly
-RCV_000010	DNA replication	GO_1902978	meiotic DNA replication termination
 RCV_000010	DNA replication	GO_1902989	meiotic telomere maintenance via semi-conservative replication
 RCV_000010	DNA replication	GO_0070716	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication
 RCV_000010	DNA replication	GO_0006264	mitochondrial DNA replication
@@ -837,9 +832,13 @@ RCV_000010	DNA replication	GO_0032212	positive regulation of telomere maintenanc
 RCV_000010	DNA replication	GO_0036388	pre-replicative complex assembly
 RCV_000010	DNA replication	GO_0036390	pre-replicative complex assembly involved in bacterial-type DNA replication
 RCV_000010	DNA replication	GO_1902299	pre-replicative complex assembly involved in cell cycle DNA replication
-RCV_000010	DNA replication	GO_1902984	pre-replicative complex assembly involved in meiotic DNA replication
 RCV_000010	DNA replication	GO_0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+RCV_000010	DNA replication	GO_1902984	pre-replicative complex assembly involved in premeiotic DNA replication
 RCV_000010	DNA replication	GO_0006279	premeiotic DNA replication
+RCV_000010	DNA replication	GO_1902970	premeiotic DNA replication DNA duplex unwinding
+RCV_000010	DNA replication	GO_1902972	premeiotic DNA replication DNA ligation
+RCV_000010	DNA replication	GO_1902976	premeiotic DNA replication preinitiation complex assembly
+RCV_000010	DNA replication	GO_1902978	premeiotic DNA replication termination
 RCV_000010	DNA replication	GO_0032875	regulation of DNA endoreduplication
 RCV_000010	DNA replication	GO_0006275	regulation of DNA replication
 RCV_000010	DNA replication	GO_0060909	regulation of DNA replication initiation involved in plasmid copy number maintenance
@@ -886,9 +885,9 @@ RCV_000010	DNA replication	GO_0071170	site-specific DNA replication termination
 RCV_000010	DNA replication	GO_0071171	site-specific DNA replication termination at RTS1 barrier
 RCV_000010	DNA replication	GO_1902330	synthesis of RNA primer involved in bacterial-type DNA replication
 RCV_000010	DNA replication	GO_1902295	synthesis of RNA primer involved in cell cycle DNA replication
-RCV_000010	DNA replication	GO_1902980	synthesis of RNA primer involved in meiotic DNA replication
 RCV_000010	DNA replication	GO_1902981	synthesis of RNA primer involved in mitotic DNA replication
 RCV_000010	DNA replication	GO_1902318	synthesis of RNA primer involved in nuclear cell cycle DNA replication
+RCV_000010	DNA replication	GO_1902980	synthesis of RNA primer involved in premeiotic DNA replication
 RCV_000010	DNA replication	GO_0003720	telomerase activity
 RCV_000010	DNA replication	GO_0010521	telomerase inhibitor activity
 RCV_000010	DNA replication	GO_0032201	telomere maintenance via semi-conservative replication
@@ -1194,6 +1193,7 @@ RCV_000022	MAPK signalling	GO_0043508	negative regulation of JUN kinase activity
 RCV_000022	MAPK signalling	GO_0043407	negative regulation of MAP kinase activity
 RCV_000022	MAPK signalling	GO_0043409	negative regulation of MAPK cascade
 RCV_000022	MAPK signalling	GO_1903138	negative regulation of MAPK cascade involved in cell wall organization or biogenesis
+RCV_000022	MAPK signalling	GO_1903753	negative regulation of p38MAPK cascade
 RCV_000022	MAPK signalling	GO_0032873	negative regulation of stress-activated MAPK cascade
 RCV_000022	MAPK signalling	GO_0038066	p38MAPK cascade
 RCV_000022	MAPK signalling	GO_0070374	positive regulation of ERK1 and ERK2 cascade
@@ -2085,16 +2085,20 @@ RCV_000048	adenine metabolism	GO_0006168	adenine salvage
 RCV_000048	adenine metabolism	GO_0015853	adenine transport
 RCV_000051	adipose differentiation	GO_0060612	adipose tissue development
 RCV_000051	adipose differentiation	GO_0007505	adult fat body development
+RCV_000051	adipose differentiation	GO_0050873	brown fat cell differentiation
 RCV_000051	adipose differentiation	GO_0007503	fat body development
+RCV_000051	adipose differentiation	GO_0045444	fat cell differentiation
 RCV_000051	adipose differentiation	GO_0060613	fat pad development
 RCV_000051	adipose differentiation	GO_0007504	larval fat body development
 RCV_000051	adipose differentiation	GO_0060611	mammary gland fat development
 RCV_000051	adipose differentiation	GO_0060647	mesenchymal cell condensation involved in mammary fat development
+RCV_000051	adipose differentiation	GO_1903444	negative regulation of brown fat cell differentiation
 RCV_000051	adipose differentiation	GO_0045599	negative regulation of fat cell differentiation
 RCV_000051	adipose differentiation	GO_0090336	positive regulation of brown fat cell differentiation
 RCV_000051	adipose differentiation	GO_0045600	positive regulation of fat cell differentiation
 RCV_000051	adipose differentiation	GO_0090335	regulation of brown fat cell differentiation
 RCV_000051	adipose differentiation	GO_0045598	regulation of fat cell differentiation
+RCV_000051	adipose differentiation	GO_0050872	white fat cell differentiation
 RCV_000051	adipose differentiation	GO_0060642	white fat cell differentiation involved in mammary gland fat development
 RCV_000052	adrenal	GO_0061104	adrenal chromaffin cell differentiation
 RCV_000052	adrenal	GO_0035801	adrenal cortex development
@@ -6756,7 +6760,6 @@ RCV_000163	fat metabolism	GO_0034204	lipid translocation
 RCV_000163	fat metabolism	GO_0006869	lipid transport
 RCV_000163	fat metabolism	GO_0010877	lipid transport involved in lipid storage
 RCV_000163	fat metabolism	GO_0060988	lipid tube assembly
-RCV_000163	fat metabolism	GO_0060991	lipid tube assembly involved in cytokinesis
 RCV_000163	fat metabolism	GO_0060990	lipid tube assembly involved in organelle fission
 RCV_000163	fat metabolism	GO_0060989	lipid tube assembly involved in organelle fusion
 RCV_000163	fat metabolism	GO_0015836	lipid-linked peptidoglycan transport
@@ -11797,6 +11800,7 @@ RCV_000259	organ development	GO_0060532	bronchus cartilage development
 RCV_000259	organ development	GO_0060533	bronchus cartilage morphogenesis
 RCV_000259	organ development	GO_0060433	bronchus development
 RCV_000259	organ development	GO_0060434	bronchus morphogenesis
+RCV_000259	organ development	GO_0050873	brown fat cell differentiation
 RCV_000259	organ development	GO_0060503	bud dilation involved in lung branching
 RCV_000259	organ development	GO_0060449	bud elongation involved in lung branching
 RCV_000259	organ development	GO_0060447	bud outgrowth involved in lung branching
@@ -12370,6 +12374,7 @@ RCV_000259	organ development	GO_0021754	facial nucleus development
 RCV_000259	organ development	GO_0097096	facial suture morphogenesis
 RCV_000259	organ development	GO_0021738	fastigial nucleus development
 RCV_000259	organ development	GO_0007503	fat body development
+RCV_000259	organ development	GO_0045444	fat cell differentiation
 RCV_000259	organ development	GO_0060613	fat pad development
 RCV_000259	organ development	GO_0045497	female analia development
 RCV_000259	organ development	GO_0048810	female analia morphogenesis
@@ -13173,6 +13178,7 @@ RCV_000259	organ development	GO_0072097	negative regulation of branch elongation
 RCV_000259	organ development	GO_0061048	negative regulation of branching involved in lung morphogenesis
 RCV_000259	organ development	GO_0090191	negative regulation of branching involved in ureteric bud morphogenesis
 RCV_000259	organ development	GO_0014713	negative regulation of branchiomeric skeletal muscle development
+RCV_000259	organ development	GO_1903444	negative regulation of brown fat cell differentiation
 RCV_000259	organ development	GO_0061112	negative regulation of bud outgrowth involved in lung branching
 RCV_000259	organ development	GO_1901296	negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
 RCV_000259	organ development	GO_0072336	negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
@@ -13231,6 +13237,7 @@ RCV_000259	organ development	GO_0051889	negative regulation of exogen
 RCV_000259	organ development	GO_0014726	negative regulation of extraocular skeletal muscle development
 RCV_000259	organ development	GO_0033086	negative regulation of extrathymic T cell differentiation
 RCV_000259	organ development	GO_0042480	negative regulation of eye photoreceptor cell development
+RCV_000259	organ development	GO_0045599	negative regulation of fat cell differentiation
 RCV_000259	organ development	GO_2000195	negative regulation of female gonad development
 RCV_000259	organ development	GO_2000703	negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
 RCV_000259	organ development	GO_0060862	negative regulation of floral organ abscission
@@ -13673,6 +13680,7 @@ RCV_000259	organ development	GO_1900156	positive regulation of bone trabecula fo
 RCV_000259	organ development	GO_0061047	positive regulation of branching involved in lung morphogenesis
 RCV_000259	organ development	GO_0090190	positive regulation of branching involved in ureteric bud morphogenesis
 RCV_000259	organ development	GO_0014712	positive regulation of branchiomeric skeletal muscle development
+RCV_000259	organ development	GO_0090336	positive regulation of brown fat cell differentiation
 RCV_000259	organ development	GO_1901297	positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
 RCV_000259	organ development	GO_0072381	positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
 RCV_000259	organ development	GO_1901212	positive regulation of cardiac chamber formation
@@ -13729,6 +13737,7 @@ RCV_000259	organ development	GO_0051888	positive regulation of exogen
 RCV_000259	organ development	GO_0014727	positive regulation of extraocular skeletal muscle development
 RCV_000259	organ development	GO_0033090	positive regulation of extrathymic T cell differentiation
 RCV_000259	organ development	GO_0042479	positive regulation of eye photoreceptor cell development
+RCV_000259	organ development	GO_0045600	positive regulation of fat cell differentiation
 RCV_000259	organ development	GO_2000196	positive regulation of female gonad development
 RCV_000259	organ development	GO_2000704	positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
 RCV_000259	organ development	GO_0060861	positive regulation of floral organ abscission
@@ -14074,6 +14083,7 @@ RCV_000259	organ development	GO_0060668	regulation of branching involved in sali
 RCV_000259	organ development	GO_0060665	regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling
 RCV_000259	organ development	GO_0090189	regulation of branching involved in ureteric bud morphogenesis
 RCV_000259	organ development	GO_0014711	regulation of branchiomeric skeletal muscle development
+RCV_000259	organ development	GO_0090335	regulation of brown fat cell differentiation
 RCV_000259	organ development	GO_1901295	regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
 RCV_000259	organ development	GO_0072335	regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
 RCV_000259	organ development	GO_2000043	regulation of cardiac cell fate specification
@@ -14145,6 +14155,7 @@ RCV_000259	organ development	GO_0051887	regulation of exogen
 RCV_000259	organ development	GO_0014725	regulation of extraocular skeletal muscle development
 RCV_000259	organ development	GO_0033082	regulation of extrathymic T cell differentiation
 RCV_000259	organ development	GO_0042478	regulation of eye photoreceptor cell development
+RCV_000259	organ development	GO_0045598	regulation of fat cell differentiation
 RCV_000259	organ development	GO_2000194	regulation of female gonad development
 RCV_000259	organ development	GO_2000702	regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
 RCV_000259	organ development	GO_0010080	regulation of floral meristem growth
@@ -14793,6 +14804,7 @@ RCV_000259	organ development	GO_0072325	vulval cell fate commitment
 RCV_000259	organ development	GO_0072326	vulval cell fate determination
 RCV_000259	organ development	GO_0072327	vulval cell fate specification
 RCV_000259	organ development	GO_0040025	vulval development
+RCV_000259	organ development	GO_0050872	white fat cell differentiation
 RCV_000259	organ development	GO_0060642	white fat cell differentiation involved in mammary gland fat development
 RCV_000259	organ development	GO_0035309	wing and notum subfield formation
 RCV_000259	organ development	GO_0035311	wing cell fate specification
@@ -15060,6 +15072,7 @@ RCV_000291	purine metabolism	GO_0044209	AMP salvage
 RCV_000291	purine metabolism	GO_0006754	ATP biosynthetic process
 RCV_000291	purine metabolism	GO_0006200	ATP catabolic process
 RCV_000291	purine metabolism	GO_0046034	ATP metabolic process
+RCV_000291	purine metabolism	GO_0042773	ATP synthesis coupled electron transport
 RCV_000291	purine metabolism	GO_0015986	ATP synthesis coupled proton transport
 RCV_000291	purine metabolism	GO_0046711	GDP biosynthetic process
 RCV_000291	purine metabolism	GO_0046712	GDP catabolic process
@@ -15200,6 +15213,7 @@ RCV_000291	purine metabolism	GO_0034264	isopentenyl adenine metabolic process
 RCV_000291	purine metabolism	GO_2001295	malonyl-CoA biosynthetic process
 RCV_000291	purine metabolism	GO_2001294	malonyl-CoA catabolic process
 RCV_000291	purine metabolism	GO_2001293	malonyl-CoA metabolic process
+RCV_000291	purine metabolism	GO_0042775	mitochondrial ATP synthesis coupled electron transport
 RCV_000291	purine metabolism	GO_0042776	mitochondrial ATP synthesis coupled proton transport
 RCV_000291	purine metabolism	GO_0070901	mitochondrial tRNA methylation
 RCV_000291	purine metabolism	GO_0070900	mitochondrial tRNA modification
@@ -15215,6 +15229,7 @@ RCV_000291	purine metabolism	GO_1900543	negative regulation of purine nucleotide
 RCV_000291	purine metabolism	GO_0009779	noncyclic photosynthetic phosphorylation
 RCV_000291	purine metabolism	GO_0006119	oxidative phosphorylation
 RCV_000291	purine metabolism	GO_0009777	photosynthetic phosphorylation
+RCV_000291	purine metabolism	GO_0042774	plasma membrane ATP synthesis coupled electron transport
 RCV_000291	purine metabolism	GO_0042777	plasma membrane ATP synthesis coupled proton transport
 RCV_000291	purine metabolism	GO_0045983	positive regulation of purine nucleobase metabolic process
 RCV_000291	purine metabolism	GO_0032248	positive regulation of purine nucleoside transport

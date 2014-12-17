@@ -71,6 +71,7 @@ regulation of leukocyte apoptotic process	GO_2000106	0	1	0	0	0
 regulation of keratinocyte apoptotic process	GO_1902172	0	1	0	0	0
 regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902238	0	1	0	0	0
 regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902218	0	1	0	0	0
+regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903750	0	1	0	0	0
 regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902165	0	1	0	0	0
 regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902229	0	1	0	0	0
 regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902253	0	1	0	0	0
@@ -166,6 +167,7 @@ positive regulation of leukocyte apoptotic process	GO_2000108	0	1	0	0	0
 positive regulation of keratinocyte apoptotic process	GO_1902174	0	1	0	0	0
 positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902240	0	1	0	0	0
 positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902220	0	1	0	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903752	0	1	0	0	0
 positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902167	0	1	0	0	0
 positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902231	0	1	0	0	0
 positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902255	0	1	0	0	0
@@ -269,6 +271,7 @@ negative regulation of leukocyte apoptotic process	GO_2000107	0	1	0	0	0
 negative regulation of keratinocyte apoptotic process	GO_1902173	0	1	0	0	0
 negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902239	0	1	0	0	0
 negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902219	0	1	0	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903751	0	1	0	0	0
 negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902166	0	1	0	0	0
 negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902230	0	1	0	0	0
 negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902254	0	1	0	0	0

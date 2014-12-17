@@ -2441,6 +2441,7 @@ hydroxyquinol 1,2-dioxygenase activity	GO_0018581	0	1	0	0	0
 hydroxypyruvate reductase activity	GO_0016618	0	1	0	0	0
 hydroxypyruvate isomerase activity	GO_0008903	0	1	0	0	0
 hydroxypyruvate decarboxylase activity	GO_0047997	0	1	0	0	0
+hydroxyproline O-arabinosyltransferase activity	GO_1990585	0	1	0	0	0
 hydroxyphytanate oxidase activity	GO_0047996	0	1	0	0	0
 hydroxyphenylpyruvate reductase activity	GO_0047995	0	1	0	0	0
 hydroxyphenylacetonitrile 2-monooxygenase activity	GO_0047085	0	1	0	0	0
@@ -2647,6 +2648,7 @@ heteroglycan alpha-mannosyltransferase activity	GO_0047264	0	1	0	0	0
 heteroglycan 3-alpha-mannosyltransferase activity	GO_0052818	0	1	0	0	0
 heteroglycan 2-alpha-mannosyltransferase activity	GO_0052819	0	1	0	0	0
 hercynylselenocysteine lyase activity (selenoneine-forming)	GO_1990412	0	1	0	0	0
+hercynylselenocysteine S-oxide synthase	GO_0044876	0	1	0	0	0
 hercynylcysteine sulfoxide lyase activity (ergothioneine-forming)	GO_1990411	0	1	0	0	0
 heptose-1-phosphate adenylyltransferase activity	GO_0033786	0	1	0	0	0
 heptose 7-phosphate kinase activity	GO_0033785	0	1	0	0	0
@@ -2976,6 +2978,7 @@ gamma-glutamylhistamine synthase activity	GO_0047914	0	1	0	0	0
 gamma-glutamylcyclotransferase activity	GO_0003839	0	1	0	0	0
 gamma-glutamyl-peptidase activity	GO_0034722	0	1	0	0	0
 gamma-glutamyl-gamma-aminobutyrate hydrolase activity	GO_0033969	0	1	0	0	0
+gamma-glutamyl hercynylcysteine S-oxide synthase	GO_0044875	0	1	0	0	0
 gamma-glutamyl carboxylase activity	GO_0008488	0	1	0	0	0
 gamma-butyrobetaine dioxygenase activity	GO_0008336	0	1	0	0	0
 gamma-aminovinylacetate deaminase activity	GO_0034886	0	1	0	0	0

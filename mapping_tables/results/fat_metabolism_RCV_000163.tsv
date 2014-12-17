@@ -23,7 +23,7 @@ long-chain fatty acid import	GO_0044539	1	0	1	0	0
 lipid-linked peptidoglycan transport	GO_0015836	1	0	1	0	0
 lipid tube assembly involved in organelle fusion	GO_0060989	1	0	1	0	0
 lipid tube assembly involved in organelle fission	GO_0060990	1	0	1	0	0
-lipid tube assembly involved in cytokinesis	GO_0060991	1	0	1	0	0
+lipid tube assembly involved in cytokinesis	GO_0060991	1	0	1	1	1
 lipid tube assembly	GO_0060988	1	0	1	0	0
 lipid transport involved in lipid storage	GO_0010877	1	0	1	0	0
 lipid transport	GO_0006869	1	0	1	0	0

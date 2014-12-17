@@ -1,0 +1,119 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+telencephalon oligodendrocyte cell migration	GO_0022032	1	1	1	0	0
+telencephalon microglial cell migration	GO_0022033	1	1	1	0	0
+telencephalon glial cell migration	GO_0022030	1	1	1	0	0
+telencephalon astrocyte cell migration	GO_0022031	1	1	1	0	0
+spinal cord radial glial cell differentiation	GO_0021531	1	1	1	0	0
+spinal cord oligodendrocyte cell fate specification	GO_0021530	1	1	1	0	0
+spinal cord oligodendrocyte cell differentiation	GO_0021529	1	1	1	0	0
+radial glial cell differentiation	GO_0060019	1	1	1	0	0
+posterior lateral line nerve glial cell differentiation	GO_0048931	1	1	1	0	0
+posterior lateral line nerve glial cell development	GO_0048941	1	1	1	0	0
+perineurial glial growth	GO_0042066	1	1	1	0	0
+oligodendrocyte differentiation	GO_0048709	1	1	1	0	0
+oligodendrocyte development	GO_0014003	1	1	1	0	0
+oligodendrocyte cell fate specification	GO_0021778	1	1	1	0	0
+oligodendrocyte cell fate commitment	GO_0021779	1	1	1	0	0
+oligodendrocyte apoptotic process	GO_0097252	1	1	1	0	0
+neural crest-derived cardiac glial cell fate commitment	GO_0060955	1	1	1	0	0
+neural crest-derived cardiac glial cell differentiation	GO_0060951	1	1	1	0	0
+neural crest-derived cardiac glial cell development	GO_0060954	1	1	1	0	0
+microglial cell activation	GO_0001774	1	1	1	0	0
+microglia differentiation	GO_0014004	1	1	1	0	0
+microglia development	GO_0014005	1	1	1	0	0
+lateral line nerve glial cell migration	GO_0048896	1	1	1	0	0
+lateral line nerve glial cell differentiation	GO_0048895	1	1	1	0	0
+lateral line nerve glial cell development	GO_0048937	1	1	1	0	0
+glial cell proliferation	GO_0014009	1	1	1	0	0
+glial cell migration in posterior lateral line nerve	GO_0048930	1	1	1	0	0
+glial cell migration in anterior lateral line nerve	GO_0048912	1	1	1	0	0
+glial cell migration	GO_0008347	1	1	1	0	0
+glial cell growth	GO_0042065	1	1	1	0	0
+glial cell fate specification	GO_0021780	1	1	1	0	0
+glial cell fate determination	GO_0007403	1	1	1	0	0
+glial cell fate commitment	GO_0021781	1	1	1	0	0
+glial cell differentiation involved in amphid sensory organ development	GO_0003398	1	1	1	0	0
+glial cell differentiation	GO_0010001	1	1	1	0	0
+glial cell development	GO_0021782	1	1	1	0	0
+glial cell apoptotic process	GO_0034349	1	1	1	0	0
+forebrain radial glial cell differentiation	GO_0021861	1	1	1	0	0
+forebrain astrocyte fate commitment	GO_0021878	1	1	1	0	0
+forebrain astrocyte differentiation	GO_0021896	1	1	1	0	0
+forebrain astrocyte development	GO_0021897	1	1	1	0	0
+establishment of glial blood-brain barrier	GO_0060857	1	1	1	0	0
+cardiac glial cell fate commitment	GO_0060953	1	1	1	0	0
+cardiac glial cell differentiation	GO_0060950	1	1	1	0	0
+cardiac glial cell development	GO_0060952	1	1	1	0	0
+anterior lateral line nerve glial cell differentiation	GO_0048913	1	1	1	0	0
+anterior lateral line nerve glial cell development	GO_0048939	1	1	1	0	0
+Bergmann glial cell differentiation	GO_0060020	1	1	1	0	0
+symmetric radial glial cell division in forebrain	GO_0021865	1	0	1	0	0
+regulation of microglia differentiation	GO_0014006	1	0	1	0	0
+regulation of gliotoxin biosynthetic process	GO_1900689	1	0	1	0	0
+regulation of gliogenesis	GO_0014013	1	0	1	0	0
+regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000733	1	0	1	0	0
+regulation of glial cell proliferation	GO_0060251	1	0	1	0	0
+regulation of glial cell line-derived neurotrophic factor secretion	GO_1900166	1	0	1	0	0
+regulation of glial cell differentiation	GO_0045685	1	0	1	0	0
+regulation of glial cell apoptotic process	GO_0034350	1	0	1	0	0
+radial glial cell fate commitment in forebrain	GO_0022023	1	0	1	0	0
+radial glial cell division in subpallium	GO_0022014	1	0	1	0	0
+radial glial cell division in pallium	GO_0022015	1	0	1	0	0
+radial glial cell division in forebrain	GO_0021864	1	0	1	0	0
+radial glia guided migration of Purkinje cell	GO_0021942	1	0	1	0	0
+posterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048942	1	0	1	0	0
+positive regulation of microglia differentiation	GO_0014008	1	0	1	0	0
+positive regulation of gliotoxin biosynthetic process	GO_1900691	1	0	1	0	0
+positive regulation of gliogenesis	GO_0014015	1	0	1	0	0
+positive regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000735	1	0	1	0	0
+positive regulation of glial cell proliferation	GO_0060252	1	0	1	0	0
+positive regulation of glial cell line-derived neurotrophic factor secretion	GO_1900168	1	0	1	0	0
+positive regulation of glial cell differentiation	GO_0045687	1	0	1	0	0
+positive regulation of glial cell apoptotic process	GO_0034352	1	0	1	0	0
+pallium glioblast division	GO_0022016	1	0	1	0	0
+oligodendrocyte progenitor proliferation	GO_0070444	1	0	1	0	0
+oligodendrocyte cell migration from the subpallium to the cortex	GO_0021829	1	0	1	0	0
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration	GO_0021817	1	0	1	0	0
+neurotrophic factor signaling initiating cell movement, involved in cerebral cortex radial glia guided migration	GO_0021809	1	0	1	0	0
+neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration	GO_0021944	1	0	1	0	0
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	GO_0021812	1	0	1	0	0
+neuron-producing asymmetric radial glial cell division in forebrain	GO_0021867	1	0	1	0	0
+negative regulation of microglia differentiation	GO_0014007	1	0	1	0	0
+negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000734	1	0	1	0	0
+negative regulation of glial cell proliferation	GO_0060253	1	0	1	0	0
+negative regulation of glial cell line-derived neurotrophic factor secretion	GO_1900167	1	0	1	0	0
+negative regulation of glial cell differentiation	GO_0045686	1	0	1	0	0
+negative regulation of glial cell apoptotic process	GO_0034351	1	0	1	0	0
+negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination	GO_0021821	1	0	1	0	0
+negative regulation of cell motility involved in cerebral cortex radial glia guided migration	GO_0021822	1	0	1	0	0
+modulation of the microfilament cytoskeleton involved in cell locomotion in cerebral cortex radial glia guided migration	GO_0021818	1	0	1	0	0
+modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration	GO_0021815	1	0	1	0	0
+lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048938	1	0	1	0	0
+hindbrain radial glia guided cell migration	GO_0021932	1	0	1	0	0
+growth factor signaling initiating cell movement involved in cerebral cortex radial glia guided migration	GO_0021811	1	0	1	0	0
+glioblast division	GO_0048860	1	0	1	0	0
+glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	GO_2000701	1	0	1	0	0
+glial cell-derived neurotrophic factor receptor signaling pathway	GO_0035860	1	0	1	0	0
+glial cell line-derived neurotrophic factor secretion	GO_0044467	1	0	1	0	0
+formation of radial glial scaffolds	GO_0021943	1	0	1	0	0
+extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration	GO_0021820	1	0	1	0	0
+extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	GO_0021816	1	0	1	0	0
+cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration	GO_0021808	1	0	1	0	0
+cerebral cortex radial glia guided migration	GO_0021801	1	0	1	0	0
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	GO_0021813	1	0	1	0	0
+cell motility involved in cerebral cortex radial glia guided migration	GO_0021814	1	0	1	0	0
+anterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048940	1	0	1	0	0
+microglial cell proliferation	GO_0061518	0	1	0	0	0
+microglial cell activation involved in immune response	GO_0002282	0	1	0	0	0
+gliogenesis	GO_0042063	0	1	0	0	0
+astrocyte fate commitment	GO_0060018	0	1	0	0	0
+astrocyte differentiation	GO_0048708	0	1	0	0	0
+astrocyte development	GO_0014002	0	1	0	0	0
+astrocyte cell migration	GO_0043615	0	1	0	0	0
+astrocyte activation involved in immune response	GO_0002265	0	1	0	0	0
+astrocyte activation	GO_0048143	0	1	0	0	0
+Schwann cell proliferation involved in axon regeneration	GO_0014011	0	1	0	0	0
+Schwann cell proliferation	GO_0014010	0	1	0	0	0
+Schwann cell migration	GO_0036135	0	1	0	0	0
+Schwann cell differentiation	GO_0014037	0	1	0	0	0
+Schwann cell development	GO_0014044	0	1	0	0	0

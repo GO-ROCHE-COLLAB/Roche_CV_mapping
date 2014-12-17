@@ -1,0 +1,24 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of platelet-derived growth factor receptor-beta signaling pathway	GO_2000586	1	1	1	0	0
+regulation of platelet-derived growth factor receptor-alpha signaling pathway	GO_2000583	1	1	1	0	0
+regulation of platelet-derived growth factor receptor signaling pathway	GO_0010640	1	1	1	0	0
+positive regulation of platelet-derived growth factor receptor-beta signaling pathway	GO_2000588	1	1	1	0	0
+positive regulation of platelet-derived growth factor receptor-alpha signaling pathway	GO_2000585	1	1	1	0	0
+positive regulation of platelet-derived growth factor receptor signaling pathway	GO_0010641	1	1	1	0	0
+platelet-derived growth factor receptor-beta signaling pathway	GO_0035791	1	1	1	0	0
+platelet-derived growth factor receptor-alpha signaling pathway	GO_0035790	1	1	1	0	0
+platelet-derived growth factor receptor signaling pathway	GO_0048008	1	1	1	0	0
+negative regulation of platelet-derived growth factor receptor-beta signaling pathway	GO_2000587	1	1	1	0	0
+negative regulation of platelet-derived growth factor receptor-alpha signaling pathway	GO_2000584	1	1	1	0	0
+negative regulation of platelet-derived growth factor receptor signaling pathway	GO_0010642	1	1	1	0	0
+platelet-derived growth factor production	GO_0090360	1	0	1	0	0
+regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_1900238	0	1	0	0	0
+positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_0035793	0	1	0	0	0
+positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038091	0	1	0	0	0
+positive regulation of cell migration by VEGF-activated platelet derived growth factor receptor signaling pathway	GO_0038090	0	1	0	0	0
+platelet-derived growth factor-activated receptor activity	GO_0005017	0	1	0	0	0
+platelet-derived growth factor beta-receptor activity	GO_0005019	0	1	0	0	0
+platelet-derived growth factor alpha-receptor activity	GO_0005018	0	1	0	0	0
+VEGF-activated platelet-derived growth factor receptor-beta signaling pathway	GO_0038088	0	1	0	0	0
+VEGF-activated platelet-derived growth factor receptor-alpha signaling pathway	GO_0038087	0	1	0	0	0
+VEGF-activated platelet-derived growth factor receptor signaling pathway	GO_0038086	0	1	0	0	0

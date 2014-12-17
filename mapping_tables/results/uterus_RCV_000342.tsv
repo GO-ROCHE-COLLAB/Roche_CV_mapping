@@ -1,0 +1,8 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+uterus morphogenesis	GO_0061038	1	1	1	0	0
+uterus development	GO_0060065	1	1	1	0	0
+uterine epithelium development	GO_0035847	1	1	1	0	0
+uterine wall growth	GO_0042702	1	0	1	0	0
+uterine wall breakdown	GO_0042704	1	0	1	0	0
+uterine smooth muscle relaxation	GO_0044558	1	0	1	0	0
+uterine smooth muscle contraction	GO_0070471	1	0	1	0	0

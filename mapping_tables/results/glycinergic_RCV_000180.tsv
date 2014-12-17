@@ -1,0 +1,6 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of synaptic transmission, glycinergic	GO_0060092	1	1	1	0	0
+positive regulation of synaptic transmission, glycinergic	GO_0060094	1	1	1	0	0
+negative regulation of synaptic transmission, glycinergic	GO_0060093	1	1	1	0	0
+zinc potentiation of synaptic transmission, glycinergic	GO_0060095	0	1	0	0	0
+synaptic transmission, glycinergic	GO_0060012	0	1	0	0	0
