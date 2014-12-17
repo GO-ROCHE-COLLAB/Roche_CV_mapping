@@ -9,61 +9,61 @@ cell morphogenesis involved in Malpighian tubule morphogenesis	GO_0061336	1	1	1	
 cell morphogenesis	GO_0000902	1	1	1	0	0
 cellular morphogenesis involved in pheromone-induced unidirectional conjugation	GO_0000764	1	0	1	1	1
 cell morphogenesis involved in unidirectional conjugation	GO_0000763	1	0	1	1	1
-zygote elongation	GO_0080159	0	1	0	0	0
-vestibular receptor cell morphogenesis	GO_0060116	0	1	0	0	0
-unidimensional cell growth	GO_0009826	0	1	0	0	0
-trophectodermal cellular morphogenesis	GO_0001831	0	1	0	0	0
-trichome morphogenesis	GO_0010090	0	1	0	0	0
-trichome branching	GO_0010091	0	1	0	0	0
-substrate adhesion-dependent cell spreading	GO_0034446	0	1	0	0	0
-seed trichome elongation	GO_0090378	0	1	0	0	0
-root hair initiation	GO_0048766	0	1	0	0	0
-root hair cell tip growth	GO_0048768	0	1	0	0	0
-posterior lateral line neuromast hair cell morphogenesis	GO_0035680	0	1	0	0	0
-posterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048942	0	1	0	0	0
-pollen tube growth	GO_0009860	0	1	0	0	0
-platelet morphogenesis	GO_0036344	0	1	0	0	0
-photoreceptor cell morphogenesis	GO_0008594	0	1	0	0	0
-ovarian follicle cell stalk formation	GO_0030713	0	1	0	0	0
-oocyte morphogenesis	GO_0048601	0	1	0	0	0
-neuromast hair cell morphogenesis	GO_0035678	0	1	0	0	0
-neural crest formation	GO_0014029	0	1	0	0	0
-monopolar cell growth	GO_0042814	0	1	0	0	0
-mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	0	0	0
-mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	0	0	0
-mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	0	1	0	0	0
-mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	0	1	0	0	0
-mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	0	0	0
-mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	0	0	0
-mesenchymal to epithelial transition	GO_0060231	0	1	0	0	0
-lens fiber cell morphogenesis	GO_0070309	0	1	0	0	0
-lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048938	0	1	0	0	0
-inner cell mass cellular morphogenesis	GO_0001828	0	1	0	0	0
-guard cell morphogenesis	GO_0010442	0	1	0	0	0
-growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	0	0	0
-formation of radial glial scaffolds	GO_0021943	0	1	0	0	0
-epithelial to mesenchymal transition involved in endocardial cushion formation	GO_0003198	0	1	0	0	0
-epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	0	1	0	0	0
-epithelial to mesenchymal transition involved in cardiac fibroblast development	GO_0060940	0	1	0	0	0
-epithelial to mesenchymal transition	GO_0001837	0	1	0	0	0
-epithelial cell morphogenesis involved in placental branching	GO_0060672	0	1	0	0	0
-epithelial cell morphogenesis involved in gastrulation	GO_0003381	0	1	0	0	0
-epithelial cell morphogenesis	GO_0003382	0	1	0	0	0
-epicardial cell to mesenchymal cell transition	GO_0003347	0	1	0	0	0
-endothelial to hematopoietic transition	GO_0098508	0	1	0	0	0
-endothelial cell morphogenesis	GO_0001886	0	1	0	0	0
-endocardial cushion to mesenchymal transition involved in heart valve formation	GO_0003199	0	1	0	0	0
-endocardial cushion to mesenchymal transition involved in heart chamber septation	GO_0003200	0	1	0	0	0
-endocardial cushion to mesenchymal transition involved in cardiac skeleton development	GO_0003202	0	1	0	0	0
-endocardial cushion to mesenchymal transition	GO_0090500	0	1	0	0	0
-dorsal closure, elongation of leading edge cells	GO_0007394	0	1	0	0	0
-clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	0	0	0
-chondrocyte morphogenesis involved in endochondral bone morphogenesis	GO_0003414	0	1	0	0	0
-chondrocyte morphogenesis	GO_0090171	0	1	0	0	0
-cell tip growth	GO_0009932	0	1	0	0	0
-cell elongation involved in imaginal disc-derived wing morphogenesis	GO_0090254	0	1	0	0	0
-cardiac epithelial to mesenchymal transition	GO_0060317	0	1	0	0	0
-bipolar cell growth	GO_0042815	0	1	0	0	0
-auditory receptor cell morphogenesis	GO_0002093	0	1	0	0	0
-anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	0	0	0
-anterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048940	0	1	0	0	0
+zygote elongation	GO_0080159	0	1	1	0	0
+vestibular receptor cell morphogenesis	GO_0060116	0	1	1	0	0
+unidimensional cell growth	GO_0009826	0	1	1	0	0
+trophectodermal cellular morphogenesis	GO_0001831	0	1	1	0	0
+trichome morphogenesis	GO_0010090	0	1	1	0	0
+trichome branching	GO_0010091	0	1	1	0	0
+substrate adhesion-dependent cell spreading	GO_0034446	0	1	1	0	0
+seed trichome elongation	GO_0090378	0	1	1	0	0
+root hair initiation	GO_0048766	0	1	1	0	0
+root hair cell tip growth	GO_0048768	0	1	1	0	0
+posterior lateral line neuromast hair cell morphogenesis	GO_0035680	0	1	1	0	0
+posterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048942	0	1	1	0	0
+pollen tube growth	GO_0009860	0	1	1	0	0
+platelet morphogenesis	GO_0036344	0	1	1	0	0
+photoreceptor cell morphogenesis	GO_0008594	0	1	1	0	0
+ovarian follicle cell stalk formation	GO_0030713	0	1	1	0	0
+oocyte morphogenesis	GO_0048601	0	1	1	0	0
+neuromast hair cell morphogenesis	GO_0035678	0	1	1	0	0
+neural crest formation	GO_0014029	0	1	1	0	0
+monopolar cell growth	GO_0042814	0	1	1	0	0
+mesodermal to mesenchymal transition involved in gastrulation	GO_0060809	0	1	1	0	0
+mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	0	1	1	0	0
+mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	0	1	1	0	0
+mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	0	1	1	0	0
+mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	0	1	1	0	0
+mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	0	1	1	0	0
+mesenchymal to epithelial transition	GO_0060231	0	1	1	0	0
+lens fiber cell morphogenesis	GO_0070309	0	1	1	0	0
+lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048938	0	1	1	0	0
+inner cell mass cellular morphogenesis	GO_0001828	0	1	1	0	0
+guard cell morphogenesis	GO_0010442	0	1	1	0	0
+growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	1	0	0
+formation of radial glial scaffolds	GO_0021943	0	1	1	0	0
+epithelial to mesenchymal transition involved in endocardial cushion formation	GO_0003198	0	1	1	0	0
+epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	0	1	1	0	0
+epithelial to mesenchymal transition involved in cardiac fibroblast development	GO_0060940	0	1	1	0	0
+epithelial to mesenchymal transition	GO_0001837	0	1	1	0	0
+epithelial cell morphogenesis involved in placental branching	GO_0060672	0	1	1	0	0
+epithelial cell morphogenesis involved in gastrulation	GO_0003381	0	1	1	0	0
+epithelial cell morphogenesis	GO_0003382	0	1	1	0	0
+epicardial cell to mesenchymal cell transition	GO_0003347	0	1	1	0	0
+endothelial to hematopoietic transition	GO_0098508	0	1	1	0	0
+endothelial cell morphogenesis	GO_0001886	0	1	1	0	0
+endocardial cushion to mesenchymal transition involved in heart valve formation	GO_0003199	0	1	1	0	0
+endocardial cushion to mesenchymal transition involved in heart chamber septation	GO_0003200	0	1	1	0	0
+endocardial cushion to mesenchymal transition involved in cardiac skeleton development	GO_0003202	0	1	1	0	0
+endocardial cushion to mesenchymal transition	GO_0090500	0	1	1	0	0
+dorsal closure, elongation of leading edge cells	GO_0007394	0	1	1	0	0
+clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	1	0	0
+chondrocyte morphogenesis involved in endochondral bone morphogenesis	GO_0003414	0	1	1	0	0
+chondrocyte morphogenesis	GO_0090171	0	1	1	0	0
+cell tip growth	GO_0009932	0	1	1	0	0
+cell elongation involved in imaginal disc-derived wing morphogenesis	GO_0090254	0	1	1	0	0
+cardiac epithelial to mesenchymal transition	GO_0060317	0	1	1	0	0
+bipolar cell growth	GO_0042815	0	1	1	0	0
+auditory receptor cell morphogenesis	GO_0002093	0	1	1	0	0
+anterior lateral line neuromast hair cell morphogenesis	GO_0035679	0	1	1	0	0
+anterior lateral line nerve glial cell morphogenesis involved in differentiation	GO_0048940	0	1	1	0	0

@@ -40,13 +40,13 @@ cerebellar granule cell precursor tangential migration	GO_0021935	1	0	1	0	0
 cerebellar granule cell precursor proliferation	GO_0021930	1	0	1	0	0
 cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation	GO_0021937	1	0	1	0	0
 cerebellar Purkinje cell precursor proliferation	GO_0021925	1	0	1	0	0
-globose nucleus development	GO_0021736	0	1	0	0	0
-fastigial nucleus development	GO_0021738	0	1	0	0	0
-eurydendroid cell differentiation	GO_0021755	0	1	0	0	0
-emboliform nucleus development	GO_0021737	0	1	0	0	0
-dentate nucleus development	GO_0021735	0	1	0	0	0
-cerebellum vasculature morphogenesis	GO_0061301	0	1	0	0	0
-cerebellar stellate cell differentiation	GO_0021710	0	1	0	0	0
-cerebellar neuron development	GO_0098749	0	1	0	0	0
-candelabrum cell differentiation	GO_0021712	0	1	0	0	0
-Lugaro cell differentiation	GO_0021708	0	1	0	0	0
+globose nucleus development	GO_0021736	0	1	1	0	0
+fastigial nucleus development	GO_0021738	0	1	1	0	0
+eurydendroid cell differentiation	GO_0021755	0	1	1	0	0
+emboliform nucleus development	GO_0021737	0	1	1	0	0
+dentate nucleus development	GO_0021735	0	1	1	0	0
+cerebellum vasculature morphogenesis	GO_0061301	0	1	1	0	0
+cerebellar stellate cell differentiation	GO_0021710	0	1	1	0	0
+cerebellar neuron development	GO_0098749	0	1	1	0	0
+candelabrum cell differentiation	GO_0021712	0	1	1	0	0
+Lugaro cell differentiation	GO_0021708	0	1	1	0	0
