@@ -4,15 +4,15 @@ regulation of cell shape during vegetative growth phase	GO_0000903	1	1	1	0	0
 regulation of cell shape	GO_0008360	1	1	1	0	0
 regulation of cell shape involved in cellular response to salt stress	GO_1900530	1	0	1	1	1
 regulation of cell shape involved in cellular response to heat	GO_1900531	1	0	1	1	1
-regulation of embryonic cell shape	GO_0016476	0	1	0	0	0
-regulation of direction of cell growth	GO_0061389	0	1	0	0	0
-positive regulation of direction of cell growth	GO_0061390	0	1	0	0	0
-negative regulation of direction of cell growth	GO_0061391	0	1	0	0	0
-maintenance of bipolar cell polarity regulating cell shape	GO_0061305	0	1	0	0	0
-establishment or maintenance of monopolar cell polarity regulating cell shape	GO_0061340	0	1	0	0	0
-establishment or maintenance of cell polarity regulating cell shape	GO_0071963	0	1	0	0	0
-establishment or maintenance of bipolar cell polarity regulating cell shape	GO_0061246	0	1	0	0	0
-establishment of cell polarity regulating cell shape	GO_0071964	0	1	0	0	0
-dorsal closure, elongation of leading edge cells	GO_0007394	0	1	0	0	0
-cell growth mode switching, monopolar to bipolar	GO_0051523	0	1	0	0	0
-cell growth mode switching, bipolar to monopolar	GO_0051524	0	1	0	0	0
+regulation of embryonic cell shape	GO_0016476	0	1	1	0	0
+regulation of direction of cell growth	GO_0061389	0	1	1	0	0
+positive regulation of direction of cell growth	GO_0061390	0	1	1	0	0
+negative regulation of direction of cell growth	GO_0061391	0	1	1	0	0
+maintenance of bipolar cell polarity regulating cell shape	GO_0061305	0	1	1	0	0
+establishment or maintenance of monopolar cell polarity regulating cell shape	GO_0061340	0	1	1	0	0
+establishment or maintenance of cell polarity regulating cell shape	GO_0071963	0	1	1	0	0
+establishment or maintenance of bipolar cell polarity regulating cell shape	GO_0061246	0	1	1	0	0
+establishment of cell polarity regulating cell shape	GO_0071964	0	1	1	0	0
+dorsal closure, elongation of leading edge cells	GO_0007394	0	1	1	0	0
+cell growth mode switching, monopolar to bipolar	GO_0051523	0	1	1	0	0
+cell growth mode switching, bipolar to monopolar	GO_0051524	0	1	1	0	0
