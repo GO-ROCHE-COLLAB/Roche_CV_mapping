@@ -10,11 +10,11 @@ mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_0071851	1	1	1
 cell cycle arrest of committed forebrain neuronal progenitor cell	GO_0021883	1	1	1	0	0
 cell cycle arrest in response to caffeine	GO_0072694	1	1	1	0	0
 cell cycle arrest	GO_0007050	1	1	1	0	0
-regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903693	0	1	0	0	0
-positive regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903694	0	1	0	0	0
-negative regulation of cell cycle arrest in response to nitrogen starvation	GO_0010503	0	1	0	0	0
-negative regulation of cell cycle arrest	GO_0071157	0	1	0	0	0
-mitotic cell cycle arrest in response to glucose starvation	GO_0036226	0	1	0	0	0
-mitotic G2 cell cycle arrest in response to glucose starvation	GO_0036227	0	1	0	0	0
-G1 cell cycle arrest in response to nitrogen starvation	GO_0071849	0	1	0	0	0
-DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	0	1	0	0	0
+regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903693	0	1	1	0	0
+positive regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903694	0	1	1	0	0
+negative regulation of cell cycle arrest in response to nitrogen starvation	GO_0010503	0	1	1	0	0
+negative regulation of cell cycle arrest	GO_0071157	0	1	1	0	0
+mitotic cell cycle arrest in response to glucose starvation	GO_0036226	0	1	1	0	0
+mitotic G2 cell cycle arrest in response to glucose starvation	GO_0036227	0	1	1	0	0
+G1 cell cycle arrest in response to nitrogen starvation	GO_0071849	0	1	1	0	0
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	0	1	1	0	0
