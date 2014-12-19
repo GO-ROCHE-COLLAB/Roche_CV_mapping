@@ -85,29 +85,29 @@ initiation of skeletal muscle satellite cell activation by growth factor signall
 fast-twitch skeletal muscle fiber contraction	GO_0031443	1	0	1	0	0
 cross bridge formation involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014871	1	0	1	0	0
 cross bridge cycling involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014868	1	0	1	0	0
-tongue muscle cell differentiation	GO_0035981	0	1	0	0	0
-somitomeric trunk muscle development	GO_0002075	0	1	0	0	0
-skeletal muscle satellite stem cell asymmetric division	GO_0014833	0	1	0	0	0
-skeletal muscle satellite cell fate determination	GO_0014818	0	1	0	0	0
-skeletal muscle satellite cell differentiation	GO_0014816	0	1	0	0	0
-skeletal muscle satellite cell commitment	GO_0014813	0	1	0	0	0
-skeletal muscle fiber differentiation	GO_0098528	0	1	0	0	0
-satellite cell fate specification	GO_0014817	0	1	0	0	0
-regulation of tongue muscle cell differentiation	GO_2001035	0	1	0	0	0
-regulation of somitomeric trunk muscle development	GO_0014708	0	1	0	0	0
-regulation of skeletal muscle fiber differentiation	GO_1902809	0	1	0	0	0
-regulation of myoblast differentiation	GO_0045661	0	1	0	0	0
-regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0	0
-positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	0	0	0
-positive regulation of somitomeric trunk muscle development	GO_0014709	0	1	0	0	0
-positive regulation of skeletal muscle satellite cell differentiation	GO_1902726	0	1	0	0	0
-positive regulation of skeletal muscle fiber differentiation	GO_1902811	0	1	0	0	0
-positive regulation of myoblast differentiation	GO_0045663	0	1	0	0	0
-positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0	0
-neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	0	0	0
-negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	0	0	0
-negative regulation of somitomeric trunk muscle development	GO_0014710	0	1	0	0	0
-negative regulation of skeletal muscle fiber differentiation	GO_1902810	0	1	0	0	0
-negative regulation of satellite cell differentiation	GO_1902725	0	1	0	0	0
-negative regulation of myoblast differentiation	GO_0045662	0	1	0	0	0
-negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0	0
+tongue muscle cell differentiation	GO_0035981	0	1	1	0	0
+somitomeric trunk muscle development	GO_0002075	0	1	1	0	0
+skeletal muscle satellite stem cell asymmetric division	GO_0014833	0	1	1	0	0
+skeletal muscle satellite cell fate determination	GO_0014818	0	1	1	0	0
+skeletal muscle satellite cell differentiation	GO_0014816	0	1	1	0	0
+skeletal muscle satellite cell commitment	GO_0014813	0	1	1	0	0
+skeletal muscle fiber differentiation	GO_0098528	0	1	1	0	0
+satellite cell fate specification	GO_0014817	0	1	1	0	0
+regulation of tongue muscle cell differentiation	GO_2001035	0	1	1	0	0
+regulation of somitomeric trunk muscle development	GO_0014708	0	1	1	0	0
+regulation of skeletal muscle fiber differentiation	GO_1902809	0	1	1	0	0
+regulation of myoblast differentiation	GO_0045661	0	1	1	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	1	0	0
+positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	1	0	0
+positive regulation of somitomeric trunk muscle development	GO_0014709	0	1	1	0	0
+positive regulation of skeletal muscle satellite cell differentiation	GO_1902726	0	1	1	0	0
+positive regulation of skeletal muscle fiber differentiation	GO_1902811	0	1	1	0	0
+positive regulation of myoblast differentiation	GO_0045663	0	1	1	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	1	0	0
+neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	1	0	0
+negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	1	0	0
+negative regulation of somitomeric trunk muscle development	GO_0014710	0	1	1	0	0
+negative regulation of skeletal muscle fiber differentiation	GO_1902810	0	1	1	0	0
+negative regulation of satellite cell differentiation	GO_1902725	0	1	1	0	0
+negative regulation of myoblast differentiation	GO_0045662	0	1	1	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	1	0	0
