@@ -4,6 +4,6 @@ thymocyte migration	GO_0072679	1	0	1	0	0
 thymocyte apoptotic process	GO_0070242	1	0	1	0	0
 thymocyte aggregation	GO_0071594	1	0	1	0	0
 thymic stromal lymphopoietin production	GO_0071925	1	0	1	0	0
-thymus epithelium morphogenesis	GO_0097536	0	1	0	0	0
-neural crest cell differentiation involved in thymus development	GO_1902637	0	1	0	0	0
-lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis	GO_1902550	0	1	0	0	0
+thymus epithelium morphogenesis	GO_0097536	0	1	1	0	0
+neural crest cell differentiation involved in thymus development	GO_1902637	0	1	1	0	0
+lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis	GO_1902550	0	1	1	0	0
