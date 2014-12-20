@@ -80,4 +80,4 @@ cellular response to lipoprotein particle stimulus	GO_0071402	1	0	1	0	0
 cellular response to high density lipoprotein particle stimulus	GO_0071403	1	0	1	0	0
 apolipoprotein E recycling	GO_0071828	1	0	1	0	0
 apolipoprotein A-I-mediated signaling pathway	GO_0038027	1	0	1	0	0
-protein depalmitoylation	GO_0002084	0	1	0	0	0
+protein depalmitoylation	GO_0002084	0	1	1	0	0
