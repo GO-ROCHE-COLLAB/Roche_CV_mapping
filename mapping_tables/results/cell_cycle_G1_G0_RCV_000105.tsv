@@ -2,7 +2,7 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 regulation of nucleus size involved in G1 to G0 transition	GO_1900527	1	1	1	0	0
 G1 to G0 transition involved in cell differentiation	GO_0070315	1	1	1	0	0
 G1 to G0 transition	GO_0070314	1	1	1	0	0
-regulation of cell shape involved in G1 to G0 transition	GO_1900528	0	1	0	0	0
-regulation of G1 to G0 transition	GO_1903450	0	1	0	0	0
-positive regulation of G1 to G0 transition	GO_1903452	0	1	0	0	0
-negative regulation of G1 to G0 transition	GO_1903451	0	1	0	0	0
+regulation of cell shape involved in G1 to G0 transition	GO_1900528	0	1	1	0	0
+regulation of G1 to G0 transition	GO_1903450	0	1	1	0	0
+positive regulation of G1 to G0 transition	GO_1903452	0	1	1	0	0
+negative regulation of G1 to G0 transition	GO_1903451	0	1	1	0	0
