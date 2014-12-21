@@ -10,8 +10,8 @@ urate transport	GO_0015747	1	0	1	0	0
 urate metabolic process	GO_0046415	1	0	1	0	0
 urate catabolic process	GO_0019628	1	0	1	0	0
 urate biosynthetic process	GO_0034418	1	0	1	0	0
-regulation of urea metabolic process	GO_0034255	0	1	0	0	0
-regulation of urea catabolic process	GO_0034254	0	1	0	0	0
-positive regulation of urea catabolic process	GO_1901714	0	1	0	0	0
-negative regulation of urea catabolic process	GO_1901713	0	1	0	0	0
-atrazine catabolic process to urea	GO_0019623	0	1	0	0	0
+regulation of urea metabolic process	GO_0034255	0	1	1	0	0
+regulation of urea catabolic process	GO_0034254	0	1	1	0	0
+positive regulation of urea catabolic process	GO_1901714	0	1	1	0	0
+negative regulation of urea catabolic process	GO_1901713	0	1	1	0	0
+atrazine catabolic process to urea	GO_0019623	0	1	1	0	0
