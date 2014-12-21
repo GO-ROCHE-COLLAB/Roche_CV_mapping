@@ -1,136 +1,136 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 regulation of endocrine process	GO_0044060	1	1	1	0	0
 regulation of endocrocin biosynthetic process	GO_1900667	1	0	1	0	0
-vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	0	1	0	0	0
-vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	0	1	0	0	0
-testosterone secretion	GO_0035936	0	1	0	0	0
-steroid hormone secretion	GO_0035929	0	1	0	0	0
-secretion of vasopressin involved in fast regulation of systemic arterial blood pressure	GO_0002004	0	1	0	0	0
-renin-angiotensin regulation of aldosterone production	GO_0002018	0	1	0	0	0
-renin secretion into blood stream	GO_0002001	0	1	0	0	0
-renal response to blood flow involved in circulatory renin-angiotensin regulation of systemic arterial blood pressure	GO_0001999	0	1	0	0	0
-regulation of testosterone secretion	GO_2000843	0	1	0	0	0
-regulation of systemic arterial blood pressure by vasopressin	GO_0001992	0	1	0	0	0
-regulation of systemic arterial blood pressure by renin-angiotensin	GO_0003081	0	1	0	0	0
-regulation of systemic arterial blood pressure by local renal renin-angiotensin	GO_0003086	0	1	0	0	0
-regulation of systemic arterial blood pressure by hormone	GO_0001990	0	1	0	0	0
-regulation of systemic arterial blood pressure by endothelin	GO_0003100	0	1	0	0	0
-regulation of systemic arterial blood pressure by circulatory renin-angiotensin	GO_0001991	0	1	0	0	0
-regulation of systemic arterial blood pressure by circulatory epinephrine-norepinephrine	GO_0003101	0	1	0	0	0
-regulation of systemic arterial blood pressure by atrial natriuretic peptide	GO_0003050	0	1	0	0	0
-regulation of steroid hormone secretion	GO_2000831	0	1	0	0	0
-regulation of renin secretion into blood stream	GO_1900133	0	1	0	0	0
-regulation of renal output by angiotensin	GO_0002019	0	1	0	0	0
-regulation of progesterone secretion	GO_2000870	0	1	0	0	0
-regulation of parathyroid hormone secretion	GO_2000828	0	1	0	0	0
-regulation of mineralocorticoid secretion	GO_2000855	0	1	0	0	0
-regulation of luteinizing hormone secretion	GO_0033684	0	1	0	0	0
-regulation of juvenile hormone secretion	GO_0007558	0	1	0	0	0
-regulation of inhibin secretion	GO_0032338	0	1	0	0	0
-regulation of gonadotropin secretion	GO_0032276	0	1	0	0	0
-regulation of glucocorticoid secretion	GO_2000849	0	1	0	0	0
-regulation of follicle-stimulating hormone secretion	GO_0046880	0	1	0	0	0
-regulation of estrone secretion	GO_2000867	0	1	0	0	0
-regulation of estrogen secretion	GO_2000861	0	1	0	0	0
-regulation of estradiol secretion	GO_2000864	0	1	0	0	0
-regulation of ecdysteroid secretion	GO_0007555	0	1	0	0	0
-regulation of dehydroepiandrosterone secretion	GO_2000840	0	1	0	0	0
-regulation of cortisol secretion	GO_0051462	0	1	0	0	0
-regulation of corticotropin secretion	GO_0051459	0	1	0	0	0
-regulation of corticosterone secretion	GO_2000852	0	1	0	0	0
-regulation of corticosteroid hormone secretion	GO_2000846	0	1	0	0	0
-regulation of blood volume by renin-angiotensin	GO_0002016	0	1	0	0	0
-regulation of blood volume by renal aldosterone	GO_0002017	0	1	0	0	0
-regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	0	0	0
-regulation of angiotensin levels in blood	GO_0002002	0	1	0	0	0
-regulation of androstenedione secretion	GO_2000837	0	1	0	0	0
-regulation of androgen secretion	GO_2000834	0	1	0	0	0
-regulation of aldosterone secretion	GO_2000858	0	1	0	0	0
-regulation of adiponectin secretion	GO_0070163	0	1	0	0	0
-progesterone secretion	GO_0042701	0	1	0	0	0
-positive regulation of testosterone secretion	GO_2000845	0	1	0	0	0
-positive regulation of steroid hormone secretion	GO_2000833	0	1	0	0	0
-positive regulation of renin secretion into blood stream	GO_1900135	0	1	0	0	0
-positive regulation of progesterone secretion	GO_2000872	0	1	0	0	0
-positive regulation of parathyroid hormone secretion	GO_2000830	0	1	0	0	0
-positive regulation of mineralocorticoid secretion	GO_2000857	0	1	0	0	0
-positive regulation of luteinizing hormone secretion	GO_0033686	0	1	0	0	0
-positive regulation of juvenile hormone secretion	GO_0045973	0	1	0	0	0
-positive regulation of inhibin secretion	GO_0032340	0	1	0	0	0
-positive regulation of gonadotropin secretion	GO_0032278	0	1	0	0	0
-positive regulation of glucocorticoid secretion	GO_2000851	0	1	0	0	0
-positive regulation of follicle-stimulating hormone secretion	GO_0046881	0	1	0	0	0
-positive regulation of estrone secretion	GO_2000869	0	1	0	0	0
-positive regulation of estrogen secretion	GO_2000863	0	1	0	0	0
-positive regulation of estradiol secretion	GO_2000866	0	1	0	0	0
-positive regulation of ecdysteroid secretion	GO_0046000	0	1	0	0	0
-positive regulation of dehydroepiandrosterone secretion	GO_2000842	0	1	0	0	0
-positive regulation of cortisol secretion	GO_0051464	0	1	0	0	0
-positive regulation of corticotropin secretion	GO_0051461	0	1	0	0	0
-positive regulation of corticosterone secretion	GO_2000854	0	1	0	0	0
-positive regulation of corticosteroid hormone secretion	GO_2000848	0	1	0	0	0
-positive regulation of androstenedione secretion	GO_2000839	0	1	0	0	0
-positive regulation of androgen secretion	GO_2000836	0	1	0	0	0
-positive regulation of aldosterone secretion	GO_2000860	0	1	0	0	0
-positive regulation of adiponectin secretion	GO_0070165	0	1	0	0	0
-parathyroid hormone secretion	GO_0035898	0	1	0	0	0
-negative regulation of testosterone secretion	GO_2000844	0	1	0	0	0
-negative regulation of steroid hormone secretion	GO_2000832	0	1	0	0	0
-negative regulation of renin secretion into blood stream	GO_1900134	0	1	0	0	0
-negative regulation of renal sodium excretion by angiotensin	GO_0035820	0	1	0	0	0
-negative regulation of renal output by angiotensin	GO_0003083	0	1	0	0	0
-negative regulation of progesterone secretion	GO_2000871	0	1	0	0	0
-negative regulation of parathyroid hormone secretion	GO_2000829	0	1	0	0	0
-negative regulation of mineralocorticoid secretion	GO_2000856	0	1	0	0	0
-negative regulation of luteinizing hormone secretion	GO_0033685	0	1	0	0	0
-negative regulation of juvenile hormone secretion	GO_0045972	0	1	0	0	0
-negative regulation of inhibin secretion	GO_0032339	0	1	0	0	0
-negative regulation of gonadotropin secretion	GO_0032277	0	1	0	0	0
-negative regulation of glucocorticoid secretion	GO_2000850	0	1	0	0	0
-negative regulation of glomerular filtration by angiotensin	GO_0003106	0	1	0	0	0
-negative regulation of follicle-stimulating hormone secretion	GO_0046882	0	1	0	0	0
-negative regulation of estrone secretion	GO_2000868	0	1	0	0	0
-negative regulation of estrogen secretion	GO_2000862	0	1	0	0	0
-negative regulation of estradiol secretion	GO_2000865	0	1	0	0	0
-negative regulation of ecdysteroid secretion	GO_0045999	0	1	0	0	0
-negative regulation of dehydroepiandrosterone secretion	GO_2000841	0	1	0	0	0
-negative regulation of cortisol secretion	GO_0051463	0	1	0	0	0
-negative regulation of corticotropin secretion	GO_0051460	0	1	0	0	0
-negative regulation of corticosterone secretion	GO_2000853	0	1	0	0	0
-negative regulation of corticosteroid hormone secretion	GO_2000847	0	1	0	0	0
-negative regulation of androstenedione secretion	GO_2000838	0	1	0	0	0
-negative regulation of androgen secretion	GO_2000835	0	1	0	0	0
-negative regulation of aldosterone secretion	GO_2000859	0	1	0	0	0
-negative regulation of adiponectin secretion	GO_0070164	0	1	0	0	0
-modulation by symbiont of host endocrine process	GO_0044059	0	1	0	0	0
-mineralocorticoid secretion	GO_0035931	0	1	0	0	0
-luteinizing hormone secretion	GO_0032275	0	1	0	0	0
-juvenile hormone secretion	GO_0045443	0	1	0	0	0
-inhibin secretion	GO_0032334	0	1	0	0	0
-gonadotropin secretion	GO_0032274	0	1	0	0	0
-glucocorticoid secretion	GO_0035933	0	1	0	0	0
-follicle-stimulating hormone secretion	GO_0046884	0	1	0	0	0
-estrone secretion	GO_0035943	0	1	0	0	0
-estrogen secretion	GO_0035937	0	1	0	0	0
-estradiol secretion	GO_0035938	0	1	0	0	0
-endothelin maturation	GO_0034959	0	1	0	0	0
-endocrine signaling	GO_0038002	0	1	0	0	0
-endocrine process	GO_0050886	0	1	0	0	0
-endocrine hormone secretion	GO_0060986	0	1	0	0	0
-ecdysteroid secretion	GO_0045457	0	1	0	0	0
-detection of renal blood flow	GO_0002000	0	1	0	0	0
-dehydroepiandrosterone secretion	GO_0035942	0	1	0	0	0
-cortisol secretion	GO_0043400	0	1	0	0	0
-corticotropin secretion	GO_0051458	0	1	0	0	0
-corticosterone secretion	GO_0035934	0	1	0	0	0
-corticosteroid hormone secretion	GO_0035930	0	1	0	0	0
-circadian regulation of systemic arterial blood pressure by hormone	GO_0003067	0	1	0	0	0
-brain renin-angiotensin system	GO_0002035	0	1	0	0	0
-angiotensin-mediated drinking behavior	GO_0003051	0	1	0	0	0
-angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	0	0	0
-angiotensin maturation	GO_0002003	0	1	0	0	0
-angiotensin catabolic process in blood	GO_0002005	0	1	0	0	0
-androstenedione secretion	GO_0035941	0	1	0	0	0
-androgen secretion	GO_0035935	0	1	0	0	0
-aldosterone secretion	GO_0035932	0	1	0	0	0
-adiponectin secretion	GO_0070162	0	1	0	0	0
+vasodilation by angiotensin involved in regulation of systemic arterial blood pressure	GO_0002033	0	1	1	0	0
+vasoconstriction by vasopressin involved in systemic arterial blood pressure control	GO_0002006	0	1	1	0	0
+testosterone secretion	GO_0035936	0	1	1	0	0
+steroid hormone secretion	GO_0035929	0	1	1	0	0
+secretion of vasopressin involved in fast regulation of systemic arterial blood pressure	GO_0002004	0	1	1	0	0
+renin-angiotensin regulation of aldosterone production	GO_0002018	0	1	1	0	0
+renin secretion into blood stream	GO_0002001	0	1	1	0	0
+renal response to blood flow involved in circulatory renin-angiotensin regulation of systemic arterial blood pressure	GO_0001999	0	1	1	0	0
+regulation of testosterone secretion	GO_2000843	0	1	1	0	0
+regulation of systemic arterial blood pressure by vasopressin	GO_0001992	0	1	1	0	0
+regulation of systemic arterial blood pressure by renin-angiotensin	GO_0003081	0	1	1	0	0
+regulation of systemic arterial blood pressure by local renal renin-angiotensin	GO_0003086	0	1	1	0	0
+regulation of systemic arterial blood pressure by hormone	GO_0001990	0	1	1	0	0
+regulation of systemic arterial blood pressure by endothelin	GO_0003100	0	1	1	0	0
+regulation of systemic arterial blood pressure by circulatory renin-angiotensin	GO_0001991	0	1	1	0	0
+regulation of systemic arterial blood pressure by circulatory epinephrine-norepinephrine	GO_0003101	0	1	1	0	0
+regulation of systemic arterial blood pressure by atrial natriuretic peptide	GO_0003050	0	1	1	0	0
+regulation of steroid hormone secretion	GO_2000831	0	1	1	0	0
+regulation of renin secretion into blood stream	GO_1900133	0	1	1	0	0
+regulation of renal output by angiotensin	GO_0002019	0	1	1	0	0
+regulation of progesterone secretion	GO_2000870	0	1	1	0	0
+regulation of parathyroid hormone secretion	GO_2000828	0	1	1	0	0
+regulation of mineralocorticoid secretion	GO_2000855	0	1	1	0	0
+regulation of luteinizing hormone secretion	GO_0033684	0	1	1	0	0
+regulation of juvenile hormone secretion	GO_0007558	0	1	1	0	0
+regulation of inhibin secretion	GO_0032338	0	1	1	0	0
+regulation of gonadotropin secretion	GO_0032276	0	1	1	0	0
+regulation of glucocorticoid secretion	GO_2000849	0	1	1	0	0
+regulation of follicle-stimulating hormone secretion	GO_0046880	0	1	1	0	0
+regulation of estrone secretion	GO_2000867	0	1	1	0	0
+regulation of estrogen secretion	GO_2000861	0	1	1	0	0
+regulation of estradiol secretion	GO_2000864	0	1	1	0	0
+regulation of ecdysteroid secretion	GO_0007555	0	1	1	0	0
+regulation of dehydroepiandrosterone secretion	GO_2000840	0	1	1	0	0
+regulation of cortisol secretion	GO_0051462	0	1	1	0	0
+regulation of corticotropin secretion	GO_0051459	0	1	1	0	0
+regulation of corticosterone secretion	GO_2000852	0	1	1	0	0
+regulation of corticosteroid hormone secretion	GO_2000846	0	1	1	0	0
+regulation of blood volume by renin-angiotensin	GO_0002016	0	1	1	0	0
+regulation of blood volume by renal aldosterone	GO_0002017	0	1	1	0	0
+regulation of blood vessel size by renin-angiotensin	GO_0002034	0	1	1	0	0
+regulation of angiotensin levels in blood	GO_0002002	0	1	1	0	0
+regulation of androstenedione secretion	GO_2000837	0	1	1	0	0
+regulation of androgen secretion	GO_2000834	0	1	1	0	0
+regulation of aldosterone secretion	GO_2000858	0	1	1	0	0
+regulation of adiponectin secretion	GO_0070163	0	1	1	0	0
+progesterone secretion	GO_0042701	0	1	1	0	0
+positive regulation of testosterone secretion	GO_2000845	0	1	1	0	0
+positive regulation of steroid hormone secretion	GO_2000833	0	1	1	0	0
+positive regulation of renin secretion into blood stream	GO_1900135	0	1	1	0	0
+positive regulation of progesterone secretion	GO_2000872	0	1	1	0	0
+positive regulation of parathyroid hormone secretion	GO_2000830	0	1	1	0	0
+positive regulation of mineralocorticoid secretion	GO_2000857	0	1	1	0	0
+positive regulation of luteinizing hormone secretion	GO_0033686	0	1	1	0	0
+positive regulation of juvenile hormone secretion	GO_0045973	0	1	1	0	0
+positive regulation of inhibin secretion	GO_0032340	0	1	1	0	0
+positive regulation of gonadotropin secretion	GO_0032278	0	1	1	0	0
+positive regulation of glucocorticoid secretion	GO_2000851	0	1	1	0	0
+positive regulation of follicle-stimulating hormone secretion	GO_0046881	0	1	1	0	0
+positive regulation of estrone secretion	GO_2000869	0	1	1	0	0
+positive regulation of estrogen secretion	GO_2000863	0	1	1	0	0
+positive regulation of estradiol secretion	GO_2000866	0	1	1	0	0
+positive regulation of ecdysteroid secretion	GO_0046000	0	1	1	0	0
+positive regulation of dehydroepiandrosterone secretion	GO_2000842	0	1	1	0	0
+positive regulation of cortisol secretion	GO_0051464	0	1	1	0	0
+positive regulation of corticotropin secretion	GO_0051461	0	1	1	0	0
+positive regulation of corticosterone secretion	GO_2000854	0	1	1	0	0
+positive regulation of corticosteroid hormone secretion	GO_2000848	0	1	1	0	0
+positive regulation of androstenedione secretion	GO_2000839	0	1	1	0	0
+positive regulation of androgen secretion	GO_2000836	0	1	1	0	0
+positive regulation of aldosterone secretion	GO_2000860	0	1	1	0	0
+positive regulation of adiponectin secretion	GO_0070165	0	1	1	0	0
+parathyroid hormone secretion	GO_0035898	0	1	1	0	0
+negative regulation of testosterone secretion	GO_2000844	0	1	1	0	0
+negative regulation of steroid hormone secretion	GO_2000832	0	1	1	0	0
+negative regulation of renin secretion into blood stream	GO_1900134	0	1	1	0	0
+negative regulation of renal sodium excretion by angiotensin	GO_0035820	0	1	1	0	0
+negative regulation of renal output by angiotensin	GO_0003083	0	1	1	0	0
+negative regulation of progesterone secretion	GO_2000871	0	1	1	0	0
+negative regulation of parathyroid hormone secretion	GO_2000829	0	1	1	0	0
+negative regulation of mineralocorticoid secretion	GO_2000856	0	1	1	0	0
+negative regulation of luteinizing hormone secretion	GO_0033685	0	1	1	0	0
+negative regulation of juvenile hormone secretion	GO_0045972	0	1	1	0	0
+negative regulation of inhibin secretion	GO_0032339	0	1	1	0	0
+negative regulation of gonadotropin secretion	GO_0032277	0	1	1	0	0
+negative regulation of glucocorticoid secretion	GO_2000850	0	1	1	0	0
+negative regulation of glomerular filtration by angiotensin	GO_0003106	0	1	1	0	0
+negative regulation of follicle-stimulating hormone secretion	GO_0046882	0	1	1	0	0
+negative regulation of estrone secretion	GO_2000868	0	1	1	0	0
+negative regulation of estrogen secretion	GO_2000862	0	1	1	0	0
+negative regulation of estradiol secretion	GO_2000865	0	1	1	0	0
+negative regulation of ecdysteroid secretion	GO_0045999	0	1	1	0	0
+negative regulation of dehydroepiandrosterone secretion	GO_2000841	0	1	1	0	0
+negative regulation of cortisol secretion	GO_0051463	0	1	1	0	0
+negative regulation of corticotropin secretion	GO_0051460	0	1	1	0	0
+negative regulation of corticosterone secretion	GO_2000853	0	1	1	0	0
+negative regulation of corticosteroid hormone secretion	GO_2000847	0	1	1	0	0
+negative regulation of androstenedione secretion	GO_2000838	0	1	1	0	0
+negative regulation of androgen secretion	GO_2000835	0	1	1	0	0
+negative regulation of aldosterone secretion	GO_2000859	0	1	1	0	0
+negative regulation of adiponectin secretion	GO_0070164	0	1	1	0	0
+modulation by symbiont of host endocrine process	GO_0044059	0	1	1	0	0
+mineralocorticoid secretion	GO_0035931	0	1	1	0	0
+luteinizing hormone secretion	GO_0032275	0	1	1	0	0
+juvenile hormone secretion	GO_0045443	0	1	1	0	0
+inhibin secretion	GO_0032334	0	1	1	0	0
+gonadotropin secretion	GO_0032274	0	1	1	0	0
+glucocorticoid secretion	GO_0035933	0	1	1	0	0
+follicle-stimulating hormone secretion	GO_0046884	0	1	1	0	0
+estrone secretion	GO_0035943	0	1	1	0	0
+estrogen secretion	GO_0035937	0	1	1	0	0
+estradiol secretion	GO_0035938	0	1	1	0	0
+endothelin maturation	GO_0034959	0	1	1	0	0
+endocrine signaling	GO_0038002	0	1	1	0	0
+endocrine process	GO_0050886	0	1	1	0	0
+endocrine hormone secretion	GO_0060986	0	1	1	0	0
+ecdysteroid secretion	GO_0045457	0	1	1	0	0
+detection of renal blood flow	GO_0002000	0	1	1	1	0
+dehydroepiandrosterone secretion	GO_0035942	0	1	1	0	0
+cortisol secretion	GO_0043400	0	1	1	0	0
+corticotropin secretion	GO_0051458	0	1	1	0	0
+corticosterone secretion	GO_0035934	0	1	1	0	0
+corticosteroid hormone secretion	GO_0035930	0	1	1	0	0
+circadian regulation of systemic arterial blood pressure by hormone	GO_0003067	0	1	1	0	0
+brain renin-angiotensin system	GO_0002035	0	1	1	0	0
+angiotensin-mediated drinking behavior	GO_0003051	0	1	1	0	0
+angiotensin mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO_0001998	0	1	1	0	0
+angiotensin maturation	GO_0002003	0	1	1	0	0
+angiotensin catabolic process in blood	GO_0002005	0	1	1	0	0
+androstenedione secretion	GO_0035941	0	1	1	0	0
+androgen secretion	GO_0035935	0	1	1	0	0
+aldosterone secretion	GO_0035932	0	1	1	0	0
+adiponectin secretion	GO_0070162	0	1	1	0	0
