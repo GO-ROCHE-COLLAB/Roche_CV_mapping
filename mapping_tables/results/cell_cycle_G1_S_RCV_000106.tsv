@@ -9,16 +9,16 @@ G1/S transition of mitotic cell cycle	GO_0000082	1	1	1	0	0
 G1 cell size control checkpoint	GO_0031568	1	1	1	0	0
 signal transduction involved in G1 cell size control checkpoint	GO_0072450	1	0	1	0	0
 response to G1 cell size control checkpoint signaling	GO_0072449	1	0	1	0	0
-traversing start control point of mitotic cell cycle	GO_0007089	0	1	0	0	0
-signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	0	1	0	0	0
-regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO_0031657	0	1	0	0	0
-regulation of cell cycle G1/S phase transition	GO_1902806	0	1	0	0	0
-positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO_0031659	0	1	0	0	0
-positive regulation of cell cycle G1/S phase transition	GO_1902808	0	1	0	0	0
-negative regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO_0031658	0	1	0	0	0
-negative regulation of cell cycle G1/S phase transition	GO_1902807	0	1	0	0	0
-negative regulation of G1/S transition of mitotic cell cycle by negative regulation of transcription from RNA polymerase II promoter	GO_1900477	0	1	0	0	0
-mitotic G1 DNA damage checkpoint	GO_0031571	0	1	0	0	0
-intracellular signal transduction involved in G1 DNA damage checkpoint	GO_1902400	0	1	0	0	0
-cell cycle G1/S phase transition	GO_0044843	0	1	0	0	0
-DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	0	1	0	0	0
+traversing start control point of mitotic cell cycle	GO_0007089	0	1	1	0	0
+signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	0	1	1	0	0
+regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO_0031657	0	1	1	0	0
+regulation of cell cycle G1/S phase transition	GO_1902806	0	1	1	0	0
+positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO_0031659	0	1	1	0	0
+positive regulation of cell cycle G1/S phase transition	GO_1902808	0	1	1	0	0
+negative regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO_0031658	0	1	1	0	0
+negative regulation of cell cycle G1/S phase transition	GO_1902807	0	1	1	0	0
+negative regulation of G1/S transition of mitotic cell cycle by negative regulation of transcription from RNA polymerase II promoter	GO_1900477	0	1	1	0	0
+mitotic G1 DNA damage checkpoint	GO_0031571	0	1	1	0	0
+intracellular signal transduction involved in G1 DNA damage checkpoint	GO_1902400	0	1	1	0	0
+cell cycle G1/S phase transition	GO_0044843	0	1	1	0	0
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO_0006977	0	1	1	0	0
