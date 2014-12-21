@@ -19,116 +19,116 @@ regulation of stem cell maintenance	GO_2000036	1	0	1	0	0
 regulation of stem cell division	GO_2000035	1	0	1	0	0
 regulation of stem cell differentiation	GO_2000736	1	0	1	0	0
 cellular response to stem cell factor stimulus	GO_0036216	1	0	1	0	0
-ventricular zone neuroblast division	GO_0021847	0	1	0	0	0
-symmetric stem cell division	GO_0098724	0	1	0	0	0
-symmetric neuroblast division	GO_0055058	0	1	0	0	0
-symmetric division of skeletal muscle satellite stem cell	GO_0098726	0	1	0	0	0
-skeletal muscle satellite stem cell maintenance involved in skeletal muscle regeneration	GO_0098731	0	1	0	0	0
-skeletal muscle satellite stem cell asymmetric division involved in skeletal muscle regeneration	GO_0014716	0	1	0	0	0
-skeletal muscle satellite stem cell asymmetric division	GO_0014833	0	1	0	0	0
-skeletal muscle satellite cell fate determination	GO_0014818	0	1	0	0	0
-respiratory basal cell differentiation	GO_1902691	0	1	0	0	0
-neuronal stem cell maintenance	GO_0097150	0	1	0	0	0
-neuronal stem cell division	GO_0036445	0	1	0	0	0
-neuroblast proliferation	GO_0007405	0	1	0	0	0
-neuroblast migration	GO_0097402	0	1	0	0	0
-neuroblast fate specification	GO_0014018	0	1	0	0	0
-neuroblast fate determination	GO_0007400	0	1	0	0	0
-neuroblast fate commitment	GO_0014017	0	1	0	0	0
-neuroblast division in subventricular zone	GO_0021849	0	1	0	0	0
-neuroblast division in subpallium	GO_0021848	0	1	0	0	0
-neuroblast division in pallium	GO_0022017	0	1	0	0	0
-neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	0	0	0
-neuroblast division	GO_0055057	0	1	0	0	0
-neuroblast differentiation	GO_0014016	0	1	0	0	0
-neuroblast development	GO_0014019	0	1	0	0	0
-neuroblast delamination	GO_0060234	0	1	0	0	0
-neuroblast activation	GO_0007407	0	1	0	0	0
-neural crest cell differentiation involved in thymus development	GO_1902637	0	1	0	0	0
-neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	0	0	0
-neural crest cell differentiation	GO_0014033	0	1	0	0	0
-neural crest cell development	GO_0014032	0	1	0	0	0
-metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	0	0	0
-metanephric mesenchymal cell differentiation	GO_0072162	0	1	0	0	0
-metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	0	0	0
-mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	0	1	0	0	0
-mesonephric mesenchymal cell differentiation	GO_0061223	0	1	0	0	0
-mesenchymal stem cell proliferation involved in nephron morphogenesis	GO_0072090	0	1	0	0	0
-mesenchymal stem cell proliferation	GO_0097168	0	1	0	0	0
-mesenchymal stem cell maintenance involved in nephron morphogenesis	GO_0072038	0	1	0	0	0
-mesenchymal stem cell maintenance involved in metanephric nephron morphogenesis	GO_0072309	0	1	0	0	0
-mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis	GO_0061235	0	1	0	0	0
-mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	0	0	0
-mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis	GO_0072281	0	1	0	0	0
-mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	0	0	0
-mesenchymal stem cell differentiation	GO_0072497	0	1	0	0	0
-mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	0	1	0	0	0
-mesenchymal cell proliferation involved in ureter development	GO_0072198	0	1	0	0	0
-mesenchymal cell proliferation involved in prostate gland development	GO_0060781	0	1	0	0	0
-mesenchymal cell proliferation involved in lung development	GO_0060916	0	1	0	0	0
-mesenchymal cell proliferation	GO_0010463	0	1	0	0	0
-mesenchymal cell migration involved in limb bud formation	GO_0035322	0	1	0	0	0
-mesenchymal cell migration	GO_0090497	0	1	0	0	0
-mesenchymal cell fate commitment	GO_0014030	0	1	0	0	0
-mesenchymal cell differentiation involved in salivary gland development	GO_0060692	0	1	0	0	0
-mesenchymal cell differentiation involved in renal system development	GO_2001012	0	1	0	0	0
-mesenchymal cell differentiation involved in mammary gland development	GO_0060610	0	1	0	0	0
-mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	0	0	0
-mesenchymal cell differentiation involved in kidney development	GO_0072161	0	1	0	0	0
-mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	0	0	0
-mesenchymal cell differentiation	GO_0048762	0	1	0	0	0
-mesenchymal cell development	GO_0014031	0	1	0	0	0
-mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	0	0	0
-mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	0	0	0
-mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	0	0	0
-mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	0	0	0
-mesenchymal cell apoptotic process	GO_0097152	0	1	0	0	0
-male germline stem cell symmetric division	GO_0098730	0	1	0	0	0
-male germ-line stem cell maintenance	GO_0036098	0	1	0	0	0
-male germ-line stem cell asymmetric division	GO_0048133	0	1	0	0	0
-maintenance of vegetative meristem identity	GO_0010079	0	1	0	0	0
-maintenance of shoot apical meristem identity	GO_0010492	0	1	0	0	0
-maintenance of root meristem identity	GO_0010078	0	1	0	0	0
-maintenance of neuroblast polarity	GO_0045201	0	1	0	0	0
-maintenance of meristem identity	GO_0010074	0	1	0	0	0
-maintenance of inflorescence meristem identity	GO_0010077	0	1	0	0	0
-maintenance of floral meristem identity	GO_0010076	0	1	0	0	0
-limb basal epidermal cell differentiation	GO_0060889	0	1	0	0	0
-kidney mesenchymal cell proliferation	GO_0072135	0	1	0	0	0
-hepatoblast differentiation	GO_0061017	0	1	0	0	0
-hepatoblast apoptotic process	GO_1902489	0	1	0	0	0
-hematopoietic stem cell proliferation	GO_0071425	0	1	0	0	0
-hematopoietic stem cell migration to bone marrow	GO_0097241	0	1	0	0	0
-hematopoietic stem cell migration	GO_0035701	0	1	0	0	0
-hematopoietic stem cell homeostasis	GO_0061484	0	1	0	0	0
-hematopoietic stem cell differentiation	GO_0060218	0	1	0	0	0
-germline stem cell symmetric division	GO_0098729	0	1	0	0	0
-germline stem cell asymmetric division	GO_0098728	0	1	0	0	0
-ganglion mother cell fate determination	GO_0007402	0	1	0	0	0
-forebrain neuroblast division	GO_0021873	0	1	0	0	0
-forebrain neuroblast differentiation	GO_0021863	0	1	0	0	0
-fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	0	0	0
-female germ-line stem cell maintenance	GO_0036099	0	1	0	0	0
-female germ-line stem cell asymmetric division	GO_0048132	0	1	0	0	0
-establishment or maintenance of neuroblast polarity	GO_0045196	0	1	0	0	0
-establishment of neuroblast polarity	GO_0045200	0	1	0	0	0
-epidermal stem cell homeostasis	GO_0036334	0	1	0	0	0
-endothelial to hematopoietic transition	GO_0098508	0	1	0	0	0
-endocardial progenitor cell migration to the midline involved in heart field formation	GO_0003262	0	1	0	0	0
-endocardial precursor cell differentiation	GO_0003255	0	1	0	0	0
-condensed mesenchymal cell proliferation	GO_0072137	0	1	0	0	0
-cardioblast migration to the midline involved in heart field formation	GO_0060975	0	1	0	0	0
-cardioblast migration	GO_0003260	0	1	0	0	0
-cardioblast differentiation	GO_0010002	0	1	0	0	0
-cardioblast anterior-lateral migration	GO_0003259	0	1	0	0	0
-cardiac neural crest cell differentiation involved in heart development	GO_0061307	0	1	0	0	0
-cardiac neural crest cell development involved in outflow tract morphogenesis	GO_0061309	0	1	0	0	0
-cardiac neural crest cell development involved in heart development	GO_0061308	0	1	0	0	0
-cardiac muscle progenitor cell migration to the midline involved in heart field formation	GO_0003261	0	1	0	0	0
-cardiac muscle cell myoblast differentiation	GO_0060379	0	1	0	0	0
-asymmetric stem cell division	GO_0098722	0	1	0	0	0
-asymmetric neuroblast division resulting in ganglion mother cell formation	GO_0055060	0	1	0	0	0
-asymmetric neuroblast division	GO_0055059	0	1	0	0	0
-angioblast cell differentiation	GO_0035779	0	1	0	0	0
-Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	0	0	0
-Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	0	0	0
+ventricular zone neuroblast division	GO_0021847	0	1	1	0	0
+symmetric stem cell division	GO_0098724	0	1	1	0	0
+symmetric neuroblast division	GO_0055058	0	1	1	0	0
+symmetric division of skeletal muscle satellite stem cell	GO_0098726	0	1	1	0	0
+skeletal muscle satellite stem cell maintenance involved in skeletal muscle regeneration	GO_0098731	0	1	1	0	0
+skeletal muscle satellite stem cell asymmetric division involved in skeletal muscle regeneration	GO_0014716	0	1	1	0	0
+skeletal muscle satellite stem cell asymmetric division	GO_0014833	0	1	1	0	0
+skeletal muscle satellite cell fate determination	GO_0014818	0	1	1	0	0
+respiratory basal cell differentiation	GO_1902691	0	1	1	0	0
+neuronal stem cell maintenance	GO_0097150	0	1	1	0	0
+neuronal stem cell division	GO_0036445	0	1	1	0	0
+neuroblast proliferation	GO_0007405	0	1	1	0	0
+neuroblast migration	GO_0097402	0	1	1	0	0
+neuroblast fate specification	GO_0014018	0	1	1	0	0
+neuroblast fate determination	GO_0007400	0	1	1	0	0
+neuroblast fate commitment	GO_0014017	0	1	1	0	0
+neuroblast division in subventricular zone	GO_0021849	0	1	1	0	0
+neuroblast division in subpallium	GO_0021848	0	1	1	0	0
+neuroblast division in pallium	GO_0022017	0	1	1	0	0
+neuroblast division in dorsal lateral ganglionic eminence	GO_0021851	0	1	1	0	0
+neuroblast division	GO_0055057	0	1	1	0	0
+neuroblast differentiation	GO_0014016	0	1	1	0	0
+neuroblast development	GO_0014019	0	1	1	0	0
+neuroblast delamination	GO_0060234	0	1	1	0	0
+neuroblast activation	GO_0007407	0	1	1	0	0
+neural crest cell differentiation involved in thymus development	GO_1902637	0	1	1	0	0
+neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	1	0	0
+neural crest cell differentiation	GO_0014033	0	1	1	0	0
+neural crest cell development	GO_0014032	0	1	1	0	0
+metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	1	0	0
+metanephric mesenchymal cell differentiation	GO_0072162	0	1	1	0	0
+metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	1	0	0
+mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	0	1	1	0	0
+mesonephric mesenchymal cell differentiation	GO_0061223	0	1	1	0	0
+mesenchymal stem cell proliferation involved in nephron morphogenesis	GO_0072090	0	1	1	0	0
+mesenchymal stem cell proliferation	GO_0097168	0	1	1	0	0
+mesenchymal stem cell maintenance involved in nephron morphogenesis	GO_0072038	0	1	1	0	0
+mesenchymal stem cell maintenance involved in metanephric nephron morphogenesis	GO_0072309	0	1	1	0	0
+mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis	GO_0061235	0	1	1	0	0
+mesenchymal stem cell differentiation involved in nephron morphogenesis	GO_0072037	0	1	1	0	0
+mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis	GO_0072281	0	1	1	0	0
+mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis	GO_0061239	0	1	1	0	0
+mesenchymal stem cell differentiation	GO_0072497	0	1	1	0	0
+mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	0	1	1	0	0
+mesenchymal cell proliferation involved in ureter development	GO_0072198	0	1	1	0	0
+mesenchymal cell proliferation involved in prostate gland development	GO_0060781	0	1	1	0	0
+mesenchymal cell proliferation involved in lung development	GO_0060916	0	1	1	0	0
+mesenchymal cell proliferation	GO_0010463	0	1	1	0	0
+mesenchymal cell migration involved in limb bud formation	GO_0035322	0	1	1	0	0
+mesenchymal cell migration	GO_0090497	0	1	1	0	0
+mesenchymal cell fate commitment	GO_0014030	0	1	1	0	0
+mesenchymal cell differentiation involved in salivary gland development	GO_0060692	0	1	1	0	0
+mesenchymal cell differentiation involved in renal system development	GO_2001012	0	1	1	0	0
+mesenchymal cell differentiation involved in mammary gland development	GO_0060610	0	1	1	0	0
+mesenchymal cell differentiation involved in lung development	GO_0060915	0	1	1	0	0
+mesenchymal cell differentiation involved in kidney development	GO_0072161	0	1	1	0	0
+mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	1	0	0
+mesenchymal cell differentiation	GO_0048762	0	1	1	0	0
+mesenchymal cell development	GO_0014031	0	1	1	0	0
+mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	1	0	0
+mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	1	0	0
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	1	0	0
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	1	0	0
+mesenchymal cell apoptotic process	GO_0097152	0	1	1	0	0
+male germline stem cell symmetric division	GO_0098730	0	1	1	0	0
+male germ-line stem cell maintenance	GO_0036098	0	1	1	0	0
+male germ-line stem cell asymmetric division	GO_0048133	0	1	1	0	0
+maintenance of vegetative meristem identity	GO_0010079	0	1	1	0	0
+maintenance of shoot apical meristem identity	GO_0010492	0	1	1	0	0
+maintenance of root meristem identity	GO_0010078	0	1	1	0	0
+maintenance of neuroblast polarity	GO_0045201	0	1	1	0	0
+maintenance of meristem identity	GO_0010074	0	1	1	0	0
+maintenance of inflorescence meristem identity	GO_0010077	0	1	1	0	0
+maintenance of floral meristem identity	GO_0010076	0	1	1	0	0
+limb basal epidermal cell differentiation	GO_0060889	0	1	1	0	0
+kidney mesenchymal cell proliferation	GO_0072135	0	1	1	0	0
+hepatoblast differentiation	GO_0061017	0	1	1	0	0
+hepatoblast apoptotic process	GO_1902489	0	1	1	0	0
+hematopoietic stem cell proliferation	GO_0071425	0	1	1	0	0
+hematopoietic stem cell migration to bone marrow	GO_0097241	0	1	1	0	0
+hematopoietic stem cell migration	GO_0035701	0	1	1	0	0
+hematopoietic stem cell homeostasis	GO_0061484	0	1	1	0	0
+hematopoietic stem cell differentiation	GO_0060218	0	1	1	0	0
+germline stem cell symmetric division	GO_0098729	0	1	1	0	0
+germline stem cell asymmetric division	GO_0098728	0	1	1	0	0
+ganglion mother cell fate determination	GO_0007402	0	1	1	0	0
+forebrain neuroblast division	GO_0021873	0	1	1	0	0
+forebrain neuroblast differentiation	GO_0021863	0	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division	GO_0021875	0	1	1	0	0
+female germ-line stem cell maintenance	GO_0036099	0	1	1	0	0
+female germ-line stem cell asymmetric division	GO_0048132	0	1	1	0	0
+establishment or maintenance of neuroblast polarity	GO_0045196	0	1	1	0	0
+establishment of neuroblast polarity	GO_0045200	0	1	1	0	0
+epidermal stem cell homeostasis	GO_0036334	0	1	1	0	0
+endothelial to hematopoietic transition	GO_0098508	0	1	1	0	0
+endocardial progenitor cell migration to the midline involved in heart field formation	GO_0003262	0	1	1	0	0
+endocardial precursor cell differentiation	GO_0003255	0	1	1	0	0
+condensed mesenchymal cell proliferation	GO_0072137	0	1	1	0	0
+cardioblast migration to the midline involved in heart field formation	GO_0060975	0	1	1	0	0
+cardioblast migration	GO_0003260	0	1	1	0	0
+cardioblast differentiation	GO_0010002	0	1	1	0	0
+cardioblast anterior-lateral migration	GO_0003259	0	1	1	0	0
+cardiac neural crest cell differentiation involved in heart development	GO_0061307	0	1	1	0	0
+cardiac neural crest cell development involved in outflow tract morphogenesis	GO_0061309	0	1	1	0	0
+cardiac neural crest cell development involved in heart development	GO_0061308	0	1	1	0	0
+cardiac muscle progenitor cell migration to the midline involved in heart field formation	GO_0003261	0	1	1	0	0
+cardiac muscle cell myoblast differentiation	GO_0060379	0	1	1	0	0
+asymmetric stem cell division	GO_0098722	0	1	1	0	0
+asymmetric neuroblast division resulting in ganglion mother cell formation	GO_0055060	0	1	1	0	0
+asymmetric neuroblast division	GO_0055059	0	1	1	0	0
+angioblast cell differentiation	GO_0035779	0	1	1	0	0
+Wnt signaling pathway involved in forebrain neuroblast division	GO_0021874	0	1	1	0	0
+Notch signaling pathway involved in forebrain neuroblast division	GO_0021876	0	1	1	0	0
