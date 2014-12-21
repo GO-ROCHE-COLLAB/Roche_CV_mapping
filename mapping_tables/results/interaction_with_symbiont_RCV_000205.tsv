@@ -8,159 +8,159 @@ interaction with other organism via substance secreted by type IV secretion syst
 interaction with other organism via secreted substance involved in symbiotic interaction	GO_0052047	1	0	1	0	0
 interaction with other organism via protein secreted by type III secretion system involved in symbiotic interaction	GO_0052210	1	0	1	0	0
 interaction with other organism via protein secreted by type II secretion system involved in symbiotic interaction	GO_0052211	1	0	1	0	0
-translocation of peptides or proteins into symbiont	GO_0051844	0	1	0	0	0
-translocation of molecules into symbiont	GO_0051862	0	1	0	0	0
-suppression of symbiont defenses	GO_0051859	0	1	0	0	0
-suppression by virus of host protein tyrosine kinase activity	GO_0039512	0	1	0	0	0
-suppression by virus of host protein kinase activity	GO_0039584	0	1	0	0	0
-suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039650	0	1	0	0	0
-suppression by virus of host catalytic activity	GO_0039513	0	1	0	0	0
-suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	0	1	0	0	0
-suppression by virus of host TYK2 activity	GO_0039574	0	1	0	0	0
-suppression by virus of host TBK1 activity	GO_0039723	0	1	0	0	0
-suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	0	1	0	0	0
-suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	0	1	0	0	0
-suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	0	0	0
-suppression by virus of host PKR activity	GO_0039580	0	1	0	0	0
-suppression by virus of host JAK1 activity via JAK1 binding	GO_0039578	0	1	0	0	0
-suppression by virus of host JAK1 activity by negative regulation of JAK1 phosphorylation	GO_0039577	0	1	0	0	0
-suppression by virus of host JAK1 activity	GO_0039576	0	1	0	0	0
-suppression by virus of host ATP-dependent RNA helicase activity	GO_0039510	0	1	0	0	0
-recognition of symbiont	GO_0051855	0	1	0	0	0
-positive regulation by symbiont of host catalytic activity	GO_0043948	0	1	0	0	0
-positive regulation by symbiont of host adenylate cyclase activity	GO_0075107	0	1	0	0	0
-positive regulation by host of viral transcription	GO_0043923	0	1	0	0	0
-positive regulation by host of viral release from host cell	GO_0044791	0	1	0	0	0
-positive regulation by host of viral process	GO_0044794	0	1	0	0	0
-positive regulation by host of viral genome replication	GO_0044829	0	1	0	0	0
-positive regulation by host of symbiont type IV pilus-dependent motility	GO_0097616	0	1	0	0	0
-positive regulation by host of symbiont transmembrane receptor-mediated signal transduction	GO_0075082	0	1	0	0	0
-positive regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075085	0	1	0	0	0
-positive regulation by host of symbiont signal transduction pathway	GO_0052525	0	1	0	0	0
-positive regulation by host of symbiont signal transduction mediated by G-protein gamma subunit	GO_0075097	0	1	0	0	0
-positive regulation by host of symbiont signal transduction mediated by G-protein beta subunit	GO_0075094	0	1	0	0	0
-positive regulation by host of symbiont signal transduction mediated by G-protein alpha subunit	GO_0075091	0	1	0	0	0
-positive regulation by host of symbiont receptor-mediated signal transduction	GO_0075079	0	1	0	0	0
-positive regulation by host of symbiont protein kinase-mediated signal transduction	GO_0075100	0	1	0	0	0
-positive regulation by host of symbiont phagocytosis	GO_0052521	0	1	0	0	0
-positive regulation by host of symbiont catalytic activity	GO_0043947	0	1	0	0	0
-positive regulation by host of symbiont calcium or calmodulin-mediated signal transduction	GO_0075104	0	1	0	0	0
-positive regulation by host of symbiont cAMP-mediated signal transduction	GO_0075206	0	1	0	0	0
-positive regulation by host of symbiont adenylate cyclase-mediated signal transduction	GO_0075333	0	1	0	0	0
-positive regulation by host of symbiont adenylate cyclase activity	GO_0075076	0	1	0	0	0
-positive regulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075088	0	1	0	0	0
-positive regulation by host of nutrient release from symbiont	GO_0052519	0	1	0	0	0
-positive regulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052502	0	1	0	0	0
-occlusion by host of symbiont xylem	GO_0052496	0	1	0	0	0
-occlusion by host of symbiont vascular system	GO_0052494	0	1	0	0	0
-neutrophil mediated killing of symbiont cell	GO_0070943	0	1	0	0	0
-neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	0	0	0
-neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	0	0	0
-neutrophil mediated killing of fungus	GO_0070947	0	1	0	0	0
-neutrophil mediated killing of bacterium	GO_0070944	0	1	0	0	0
-negative regulation by symbiont of host peptidase activity	GO_0052054	0	1	0	0	0
-negative regulation by symbiont of host catalytic activity	GO_0052053	0	1	0	0	0
-negative regulation by symbiont of host adenylate cyclase activity	GO_0075108	0	1	0	0	0
-negative regulation by host of viral transcription	GO_0043922	0	1	0	0	0
-negative regulation by host of viral release from host cell	GO_0044790	0	1	0	0	0
-negative regulation by host of viral process	GO_0044793	0	1	0	0	0
-negative regulation by host of viral glycoprotein metabolic process	GO_0044871	0	1	0	0	0
-negative regulation by host of viral genome replication	GO_0044828	0	1	0	0	0
-negative regulation by host of viral exo-alpha-sialidase activity	GO_0044869	0	1	0	0	0
-negative regulation by host of symbiont transmembrane receptor-mediated signal transduction	GO_0075083	0	1	0	0	0
-negative regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075086	0	1	0	0	0
-negative regulation by host of symbiont signal transduction pathway	GO_0052492	0	1	0	0	0
-negative regulation by host of symbiont signal transduction mediated by G-protein gamma subunit	GO_0075098	0	1	0	0	0
-negative regulation by host of symbiont signal transduction mediated by G-protein beta subunit	GO_0075095	0	1	0	0	0
-negative regulation by host of symbiont signal transduction mediated by G-protein alpha subunit	GO_0075092	0	1	0	0	0
-negative regulation by host of symbiont receptor-mediated signal transduction	GO_0075080	0	1	0	0	0
-negative regulation by host of symbiont protein kinase-mediated signal transduction	GO_0075101	0	1	0	0	0
-negative regulation by host of symbiont peptidase activity	GO_0052404	0	1	0	0	0
-negative regulation by host of symbiont molecular function	GO_0052405	0	1	0	0	0
-negative regulation by host of symbiont defense response	GO_0052196	0	1	0	0	0
-negative regulation by host of symbiont catalytic activity	GO_0052403	0	1	0	0	0
-negative regulation by host of symbiont calcium or calmodulin-mediated signal transduction	GO_0075105	0	1	0	0	0
-negative regulation by host of symbiont cAMP-mediated signal transduction	GO_0075207	0	1	0	0	0
-negative regulation by host of symbiont adenylate cyclase-mediated signal transduction	GO_0043962	0	1	0	0	0
-negative regulation by host of symbiont adenylate cyclase activity	GO_0075077	0	1	0	0	0
-negative regulation by host of symbiont MAP kinase-mediated signal transduction	GO_0075102	0	1	0	0	0
-negative regulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075089	0	1	0	0	0
-movement on or near symbiont	GO_0052194	0	1	0	0	0
-movement in symbiont environment	GO_0052193	0	1	0	0	0
-modulation by virus of host ubiquitin-protein ligase activity	GO_0039649	0	1	0	0	0
-modulation by virus of host protein serine/threonine phosphatase activity	GO_0039517	0	1	0	0	0
-modulation by virus of host catalytic activity	GO_0039516	0	1	0	0	0
-modulation by virus of host PP1 activity	GO_0039586	0	1	0	0	0
-modulation by symbiont of host peptidase activity	GO_0052149	0	1	0	0	0
-modulation by symbiont of host catalytic activity	GO_0052148	0	1	0	0	0
-modulation by symbiont of host adenylate cyclase activity	GO_0075106	0	1	0	0	0
-modulation by host of viral transcription	GO_0043921	0	1	0	0	0
-modulation by host of viral release from host cell	GO_0044789	0	1	0	0	0
-modulation by host of viral process	GO_0044788	0	1	0	0	0
-modulation by host of viral molecular function	GO_0044868	0	1	0	0	0
-modulation by host of viral glycoprotein metabolic process	GO_0044870	0	1	0	0	0
-modulation by host of viral genome replication	GO_0044827	0	1	0	0	0
-modulation by host of viral exo-alpha-sialidase activity	GO_0044866	0	1	0	0	0
-modulation by host of viral catalytic activity	GO_0044867	0	1	0	0	0
-modulation by host of viral RNA genome replication	GO_0044830	0	1	0	0	0
-modulation by host of symbiont type IV pilus-dependent motility	GO_0097615	0	1	0	0	0
-modulation by host of symbiont transmembrane receptor-mediated signal transduction	GO_0075081	0	1	0	0	0
-modulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075084	0	1	0	0	0
-modulation by host of symbiont transcription	GO_0052472	0	1	0	0	0
-modulation by host of symbiont signal transduction pathway	GO_0052470	0	1	0	0	0
-modulation by host of symbiont signal transduction mediated by G-protein gamma subunit	GO_0075096	0	1	0	0	0
-modulation by host of symbiont signal transduction mediated by G-protein beta subunit	GO_0075093	0	1	0	0	0
-modulation by host of symbiont signal transduction mediated by G-protein alpha subunit	GO_0075090	0	1	0	0	0
-modulation by host of symbiont receptor-mediated signal transduction	GO_0075078	0	1	0	0	0
-modulation by host of symbiont protein kinase-mediated signal transduction	GO_0075099	0	1	0	0	0
-modulation by host of symbiont phagocytosis	GO_0052462	0	1	0	0	0
-modulation by host of symbiont peptidase activity	GO_0052427	0	1	0	0	0
-modulation by host of symbiont catalytic activity	GO_0052422	0	1	0	0	0
-modulation by host of symbiont calcium or calmodulin-mediated signal transduction	GO_0075103	0	1	0	0	0
-modulation by host of symbiont cAMP-mediated signal transduction	GO_0075205	0	1	0	0	0
-modulation by host of symbiont adenylate cyclase-mediated signal transduction	GO_0075332	0	1	0	0	0
-modulation by host of symbiont adenylate cyclase activity	GO_0075075	0	1	0	0	0
-modulation by host of symbiont RNA levels	GO_0052430	0	1	0	0	0
-modulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075087	0	1	0	0	0
-modulation by host of nutrient release from symbiont	GO_0052460	0	1	0	0	0
-modulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052435	0	1	0	0	0
-modification by host of symbiont structure	GO_0052183	0	1	0	0	0
-modification by host of symbiont morphology or physiology via secreted substance	GO_0052182	0	1	0	0	0
-modification by host of symbiont morphology or physiology	GO_0051851	0	1	0	0	0
-modification by host of symbiont molecular function	GO_0052428	0	1	0	0	0
-modification by host of symbiont membrane	GO_0052337	0	1	0	0	0
-modification by host of symbiont cytoskeleton	GO_0052335	0	1	0	0	0
-modification by host of symbiont cellular component	GO_0052187	0	1	0	0	0
-modification by host of symbiont cell wall	GO_0052336	0	1	0	0	0
-metabolism by host of symbiont xylan	GO_0052420	0	1	0	0	0
-metabolism by host of symbiont protein	GO_0052417	0	1	0	0	0
-metabolism by host of symbiont macromolecule	GO_0052416	0	1	0	0	0
-metabolism by host of symbiont glucan	GO_0052414	0	1	0	0	0
-metabolism by host of symbiont cell wall pectin	GO_0052412	0	1	0	0	0
-metabolism by host of symbiont cell wall chitin	GO_0052410	0	1	0	0	0
-metabolism by host of symbiont cell wall cellulose	GO_0052408	0	1	0	0	0
-metabolism by host of symbiont carbohydrate	GO_0052406	0	1	0	0	0
-metabolism by host of substance in symbiont	GO_0052419	0	1	0	0	0
-maintenance of symbiont-containing vacuole by host	GO_0085018	0	1	0	0	0
-killing by host of symbiont cells	GO_0051873	0	1	0	0	0
-induction by virus of host endoribonuclease activity	GO_0039597	0	1	0	0	0
-induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039651	0	1	0	0	0
-induction by virus of host catalytic activity	GO_0039712	0	1	0	0	0
-host cellular process involved in virus induced gene silencing	GO_0060144	0	1	0	0	0
-evasion or tolerance of symbiont defenses	GO_0051860	0	1	0	0	0
-disruption by host of symbiont cellular component	GO_0052367	0	1	0	0	0
-disruption by host of symbiont cells	GO_0051852	0	1	0	0	0
-disruption by host of symbiont cell wall	GO_0052338	0	1	0	0	0
-cytolysis by host of symbiont cells	GO_0051838	0	1	0	0	0
-catabolism by host of symbiont xylan	GO_0052365	0	1	0	0	0
-catabolism by host of symbiont protein	GO_0052362	0	1	0	0	0
-catabolism by host of symbiont macromolecule	GO_0052360	0	1	0	0	0
-catabolism by host of symbiont glucan	GO_0052358	0	1	0	0	0
-catabolism by host of symbiont cell wall pectin	GO_0052357	0	1	0	0	0
-catabolism by host of symbiont cell wall chitin	GO_0052356	0	1	0	0	0
-catabolism by host of symbiont cell wall cellulose	GO_0052355	0	1	0	0	0
-catabolism by host of symbiont carbohydrate	GO_0052353	0	1	0	0	0
-catabolism by host of substance in symbiont	GO_0052364	0	1	0	0	0
-biosynthesis by host of substance in symbiont	GO_0052352	0	1	0	0	0
-avoidance of symbiont defenses	GO_0051858	0	1	0	0	0
-acquisition of nutrients from symbiont	GO_0051850	0	1	0	0	0
+translocation of peptides or proteins into symbiont	GO_0051844	0	1	1	0	0
+translocation of molecules into symbiont	GO_0051862	0	1	1	0	0
+suppression of symbiont defenses	GO_0051859	0	1	1	0	0
+suppression by virus of host protein tyrosine kinase activity	GO_0039512	0	1	1	0	0
+suppression by virus of host protein kinase activity	GO_0039584	0	1	1	0	0
+suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039650	0	1	1	0	0
+suppression by virus of host catalytic activity	GO_0039513	0	1	1	0	0
+suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	0	1	1	0	0
+suppression by virus of host TYK2 activity	GO_0039574	0	1	1	0	0
+suppression by virus of host TBK1 activity	GO_0039723	0	1	1	0	0
+suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	0	1	1	0	0
+suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	0	1	1	0	0
+suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	1	0	0
+suppression by virus of host PKR activity	GO_0039580	0	1	1	0	0
+suppression by virus of host JAK1 activity via JAK1 binding	GO_0039578	0	1	1	0	0
+suppression by virus of host JAK1 activity by negative regulation of JAK1 phosphorylation	GO_0039577	0	1	1	0	0
+suppression by virus of host JAK1 activity	GO_0039576	0	1	1	0	0
+suppression by virus of host ATP-dependent RNA helicase activity	GO_0039510	0	1	1	0	0
+recognition of symbiont	GO_0051855	0	1	1	0	0
+positive regulation by symbiont of host catalytic activity	GO_0043948	0	1	1	0	0
+positive regulation by symbiont of host adenylate cyclase activity	GO_0075107	0	1	1	0	0
+positive regulation by host of viral transcription	GO_0043923	0	1	1	0	0
+positive regulation by host of viral release from host cell	GO_0044791	0	1	1	0	0
+positive regulation by host of viral process	GO_0044794	0	1	1	0	0
+positive regulation by host of viral genome replication	GO_0044829	0	1	1	0	0
+positive regulation by host of symbiont type IV pilus-dependent motility	GO_0097616	0	1	1	0	0
+positive regulation by host of symbiont transmembrane receptor-mediated signal transduction	GO_0075082	0	1	1	0	0
+positive regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075085	0	1	1	0	0
+positive regulation by host of symbiont signal transduction pathway	GO_0052525	0	1	1	0	0
+positive regulation by host of symbiont signal transduction mediated by G-protein gamma subunit	GO_0075097	0	1	1	0	0
+positive regulation by host of symbiont signal transduction mediated by G-protein beta subunit	GO_0075094	0	1	1	0	0
+positive regulation by host of symbiont signal transduction mediated by G-protein alpha subunit	GO_0075091	0	1	1	0	0
+positive regulation by host of symbiont receptor-mediated signal transduction	GO_0075079	0	1	1	0	0
+positive regulation by host of symbiont protein kinase-mediated signal transduction	GO_0075100	0	1	1	0	0
+positive regulation by host of symbiont phagocytosis	GO_0052521	0	1	1	0	0
+positive regulation by host of symbiont catalytic activity	GO_0043947	0	1	1	0	0
+positive regulation by host of symbiont calcium or calmodulin-mediated signal transduction	GO_0075104	0	1	1	0	0
+positive regulation by host of symbiont cAMP-mediated signal transduction	GO_0075206	0	1	1	0	0
+positive regulation by host of symbiont adenylate cyclase-mediated signal transduction	GO_0075333	0	1	1	0	0
+positive regulation by host of symbiont adenylate cyclase activity	GO_0075076	0	1	1	0	0
+positive regulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075088	0	1	1	0	0
+positive regulation by host of nutrient release from symbiont	GO_0052519	0	1	1	0	0
+positive regulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052502	0	1	1	0	0
+occlusion by host of symbiont xylem	GO_0052496	0	1	1	0	0
+occlusion by host of symbiont vascular system	GO_0052494	0	1	1	0	0
+neutrophil mediated killing of symbiont cell	GO_0070943	0	1	1	0	0
+neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	1	0	0
+neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	1	0	0
+neutrophil mediated killing of fungus	GO_0070947	0	1	1	0	0
+neutrophil mediated killing of bacterium	GO_0070944	0	1	1	0	0
+negative regulation by symbiont of host peptidase activity	GO_0052054	0	1	1	0	0
+negative regulation by symbiont of host catalytic activity	GO_0052053	0	1	1	0	0
+negative regulation by symbiont of host adenylate cyclase activity	GO_0075108	0	1	1	0	0
+negative regulation by host of viral transcription	GO_0043922	0	1	1	0	0
+negative regulation by host of viral release from host cell	GO_0044790	0	1	1	0	0
+negative regulation by host of viral process	GO_0044793	0	1	1	0	0
+negative regulation by host of viral glycoprotein metabolic process	GO_0044871	0	1	1	0	0
+negative regulation by host of viral genome replication	GO_0044828	0	1	1	0	0
+negative regulation by host of viral exo-alpha-sialidase activity	GO_0044869	0	1	1	0	0
+negative regulation by host of symbiont transmembrane receptor-mediated signal transduction	GO_0075083	0	1	1	0	0
+negative regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075086	0	1	1	0	0
+negative regulation by host of symbiont signal transduction pathway	GO_0052492	0	1	1	0	0
+negative regulation by host of symbiont signal transduction mediated by G-protein gamma subunit	GO_0075098	0	1	1	0	0
+negative regulation by host of symbiont signal transduction mediated by G-protein beta subunit	GO_0075095	0	1	1	0	0
+negative regulation by host of symbiont signal transduction mediated by G-protein alpha subunit	GO_0075092	0	1	1	0	0
+negative regulation by host of symbiont receptor-mediated signal transduction	GO_0075080	0	1	1	0	0
+negative regulation by host of symbiont protein kinase-mediated signal transduction	GO_0075101	0	1	1	0	0
+negative regulation by host of symbiont peptidase activity	GO_0052404	0	1	1	0	0
+negative regulation by host of symbiont molecular function	GO_0052405	0	1	1	0	0
+negative regulation by host of symbiont defense response	GO_0052196	0	1	1	0	0
+negative regulation by host of symbiont catalytic activity	GO_0052403	0	1	1	0	0
+negative regulation by host of symbiont calcium or calmodulin-mediated signal transduction	GO_0075105	0	1	1	0	0
+negative regulation by host of symbiont cAMP-mediated signal transduction	GO_0075207	0	1	1	0	0
+negative regulation by host of symbiont adenylate cyclase-mediated signal transduction	GO_0043962	0	1	1	0	0
+negative regulation by host of symbiont adenylate cyclase activity	GO_0075077	0	1	1	0	0
+negative regulation by host of symbiont MAP kinase-mediated signal transduction	GO_0075102	0	1	1	0	0
+negative regulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075089	0	1	1	0	0
+movement on or near symbiont	GO_0052194	0	1	1	0	0
+movement in symbiont environment	GO_0052193	0	1	1	0	0
+modulation by virus of host ubiquitin-protein ligase activity	GO_0039649	0	1	1	0	0
+modulation by virus of host protein serine/threonine phosphatase activity	GO_0039517	0	1	1	0	0
+modulation by virus of host catalytic activity	GO_0039516	0	1	1	0	0
+modulation by virus of host PP1 activity	GO_0039586	0	1	1	0	0
+modulation by symbiont of host peptidase activity	GO_0052149	0	1	1	0	0
+modulation by symbiont of host catalytic activity	GO_0052148	0	1	1	0	0
+modulation by symbiont of host adenylate cyclase activity	GO_0075106	0	1	1	0	0
+modulation by host of viral transcription	GO_0043921	0	1	1	0	0
+modulation by host of viral release from host cell	GO_0044789	0	1	1	0	0
+modulation by host of viral process	GO_0044788	0	1	1	0	0
+modulation by host of viral molecular function	GO_0044868	0	1	1	0	0
+modulation by host of viral glycoprotein metabolic process	GO_0044870	0	1	1	0	0
+modulation by host of viral genome replication	GO_0044827	0	1	1	0	0
+modulation by host of viral exo-alpha-sialidase activity	GO_0044866	0	1	1	0	0
+modulation by host of viral catalytic activity	GO_0044867	0	1	1	0	0
+modulation by host of viral RNA genome replication	GO_0044830	0	1	1	0	0
+modulation by host of symbiont type IV pilus-dependent motility	GO_0097615	0	1	1	0	0
+modulation by host of symbiont transmembrane receptor-mediated signal transduction	GO_0075081	0	1	1	0	0
+modulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075084	0	1	1	0	0
+modulation by host of symbiont transcription	GO_0052472	0	1	1	0	0
+modulation by host of symbiont signal transduction pathway	GO_0052470	0	1	1	0	0
+modulation by host of symbiont signal transduction mediated by G-protein gamma subunit	GO_0075096	0	1	1	0	0
+modulation by host of symbiont signal transduction mediated by G-protein beta subunit	GO_0075093	0	1	1	0	0
+modulation by host of symbiont signal transduction mediated by G-protein alpha subunit	GO_0075090	0	1	1	0	0
+modulation by host of symbiont receptor-mediated signal transduction	GO_0075078	0	1	1	0	0
+modulation by host of symbiont protein kinase-mediated signal transduction	GO_0075099	0	1	1	0	0
+modulation by host of symbiont phagocytosis	GO_0052462	0	1	1	0	0
+modulation by host of symbiont peptidase activity	GO_0052427	0	1	1	0	0
+modulation by host of symbiont catalytic activity	GO_0052422	0	1	1	0	0
+modulation by host of symbiont calcium or calmodulin-mediated signal transduction	GO_0075103	0	1	1	0	0
+modulation by host of symbiont cAMP-mediated signal transduction	GO_0075205	0	1	1	0	0
+modulation by host of symbiont adenylate cyclase-mediated signal transduction	GO_0075332	0	1	1	0	0
+modulation by host of symbiont adenylate cyclase activity	GO_0075075	0	1	1	0	0
+modulation by host of symbiont RNA levels	GO_0052430	0	1	1	0	0
+modulation by host of symbiont G-protein coupled receptor protein signal transduction	GO_0075087	0	1	1	0	0
+modulation by host of nutrient release from symbiont	GO_0052460	0	1	1	0	0
+modulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052435	0	1	1	0	0
+modification by host of symbiont structure	GO_0052183	0	1	1	0	0
+modification by host of symbiont morphology or physiology via secreted substance	GO_0052182	0	1	1	0	0
+modification by host of symbiont morphology or physiology	GO_0051851	0	1	1	0	0
+modification by host of symbiont molecular function	GO_0052428	0	1	1	0	0
+modification by host of symbiont membrane	GO_0052337	0	1	1	0	0
+modification by host of symbiont cytoskeleton	GO_0052335	0	1	1	0	0
+modification by host of symbiont cellular component	GO_0052187	0	1	1	0	0
+modification by host of symbiont cell wall	GO_0052336	0	1	1	0	0
+metabolism by host of symbiont xylan	GO_0052420	0	1	1	0	0
+metabolism by host of symbiont protein	GO_0052417	0	1	1	0	0
+metabolism by host of symbiont macromolecule	GO_0052416	0	1	1	0	0
+metabolism by host of symbiont glucan	GO_0052414	0	1	1	0	0
+metabolism by host of symbiont cell wall pectin	GO_0052412	0	1	1	0	0
+metabolism by host of symbiont cell wall chitin	GO_0052410	0	1	1	0	0
+metabolism by host of symbiont cell wall cellulose	GO_0052408	0	1	1	0	0
+metabolism by host of symbiont carbohydrate	GO_0052406	0	1	1	0	0
+metabolism by host of substance in symbiont	GO_0052419	0	1	1	0	0
+maintenance of symbiont-containing vacuole by host	GO_0085018	0	1	1	0	0
+killing by host of symbiont cells	GO_0051873	0	1	1	0	0
+induction by virus of host endoribonuclease activity	GO_0039597	0	1	1	0	0
+induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039651	0	1	1	0	0
+induction by virus of host catalytic activity	GO_0039712	0	1	1	0	0
+host cellular process involved in virus induced gene silencing	GO_0060144	0	1	1	0	0
+evasion or tolerance of symbiont defenses	GO_0051860	0	1	1	0	0
+disruption by host of symbiont cellular component	GO_0052367	0	1	1	0	0
+disruption by host of symbiont cells	GO_0051852	0	1	1	0	0
+disruption by host of symbiont cell wall	GO_0052338	0	1	1	0	0
+cytolysis by host of symbiont cells	GO_0051838	0	1	1	0	0
+catabolism by host of symbiont xylan	GO_0052365	0	1	1	0	0
+catabolism by host of symbiont protein	GO_0052362	0	1	1	0	0
+catabolism by host of symbiont macromolecule	GO_0052360	0	1	1	0	0
+catabolism by host of symbiont glucan	GO_0052358	0	1	1	0	0
+catabolism by host of symbiont cell wall pectin	GO_0052357	0	1	1	0	0
+catabolism by host of symbiont cell wall chitin	GO_0052356	0	1	1	0	0
+catabolism by host of symbiont cell wall cellulose	GO_0052355	0	1	1	0	0
+catabolism by host of symbiont carbohydrate	GO_0052353	0	1	1	0	0
+catabolism by host of substance in symbiont	GO_0052364	0	1	1	0	0
+biosynthesis by host of substance in symbiont	GO_0052352	0	1	1	0	0
+avoidance of symbiont defenses	GO_0051858	0	1	1	0	0
+acquisition of nutrients from symbiont	GO_0051850	0	1	1	0	0
