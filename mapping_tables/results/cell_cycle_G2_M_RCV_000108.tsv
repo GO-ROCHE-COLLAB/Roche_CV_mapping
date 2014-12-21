@@ -7,15 +7,15 @@ negative regulation of transcription involved in G2/M transition of mitotic cell
 negative regulation of G2/M transition of mitotic cell cycle	GO_0010972	1	1	1	0	0
 G2/M transition of mitotic cell cycle	GO_0000086	1	1	1	0	0
 G2 cell size control checkpoint	GO_0031569	1	1	1	0	0
-signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	0	1	0	0	0
-signal transduction involved in G2 DNA damage checkpoint	GO_0072425	0	1	0	0	0
-regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031660	0	1	0	0	0
-regulation of cell cycle G2/M phase transition	GO_1902749	0	1	0	0	0
-positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031662	0	1	0	0	0
-positive regulation of cell cycle G2/M phase transition	GO_1902751	0	1	0	0	0
-negative regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031661	0	1	0	0	0
-negative regulation of cell cycle G2/M phase transition	GO_1902750	0	1	0	0	0
-mitotic DNA replication checkpoint	GO_0033314	0	1	0	0	0
-meiotic G2/MI transition	GO_0008315	0	1	0	0	0
-cytokinesis checkpoint	GO_0031565	0	1	0	0	0
-cell cycle G2/M phase transition	GO_0044839	0	1	0	0	0
+signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	0	1	1	0	0
+signal transduction involved in G2 DNA damage checkpoint	GO_0072425	0	1	1	0	0
+regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031660	0	1	1	0	0
+regulation of cell cycle G2/M phase transition	GO_1902749	0	1	1	0	0
+positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031662	0	1	1	0	0
+positive regulation of cell cycle G2/M phase transition	GO_1902751	0	1	1	0	0
+negative regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031661	0	1	1	0	0
+negative regulation of cell cycle G2/M phase transition	GO_1902750	0	1	1	0	0
+mitotic DNA replication checkpoint	GO_0033314	0	1	1	0	0
+meiotic G2/MI transition	GO_0008315	0	1	1	0	0
+cytokinesis checkpoint	GO_0031565	0	1	1	0	0
+cell cycle G2/M phase transition	GO_0044839	0	1	1	0	0
