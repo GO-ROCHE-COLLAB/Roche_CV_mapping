@@ -177,113 +177,113 @@ histone displacement	GO_0001207	1	0	1	0	0
 histone catabolic process	GO_0036205	1	0	1	0	0
 histone H2A-H2B dimer displacement	GO_0001208	1	0	1	0	0
 S phase-specific histone modification	GO_0006324	1	0	1	1	1
-regulation of histone modification by regulation of transcription from RNA polymerase II promoter	GO_1900410	0	1	0	0	0
-regulation of histone methylation by regulation of transcription from RNA polymerase II promoter	GO_1900412	0	1	0	0	0
-regulation of histone deubiquitination	GO_1903584	0	1	0	0	0
-regulation of histone deacetylase activity	GO_1901725	0	1	0	0	0
-regulation of histone acetylation by regulation of transcription from RNA polymerase II promoter	GO_1900411	0	1	0	0	0
-regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	0	1	0	0	0
-regulation of histone H3-K27 trimethylation	GO_1902464	0	1	0	0	0
-regulation of histone H3-K27 acetylation	GO_1901674	0	1	0	0	0
-regulation of histone H3-K18 acetylation	GO_1902028	0	1	0	0	0
-positive regulation of histone deubiquitination	GO_1903586	0	1	0	0	0
-positive regulation of histone deacetylase activity	GO_1901727	0	1	0	0	0
-positive regulation of histone H3-K27 trimethylation	GO_1902466	0	1	0	0	0
-positive regulation of histone H3-K27 acetylation	GO_1901676	0	1	0	0	0
-positive regulation of histone H3-K18 acetylation	GO_1902029	0	1	0	0	0
-negative regulation of histone deubiquitination	GO_1903585	0	1	0	0	0
-negative regulation of histone deacetylase activity	GO_1901726	0	1	0	0	0
-negative regulation of histone H3-K27 trimethylation	GO_1902465	0	1	0	0	0
-negative regulation of histone H3-K27 acetylation	GO_1901675	0	1	0	0	0
-negative regulation of histone H3-K18 acetylation	GO_1902030	0	1	0	0	0
-histone-lysine N-methyltransferase activity	GO_0018024	0	1	0	0	0
-histone-glutamine methyltransferase activity	GO_1990259	0	1	0	0	0
-histone-arginine N-methyltransferase activity	GO_0008469	0	1	0	0	0
-histone tyrosine kinase activity	GO_0035400	0	1	0	0	0
-histone threonine kinase activity	GO_0035184	0	1	0	0	0
-histone serine kinase activity	GO_0035174	0	1	0	0	0
-histone methyltransferase activity (H4-R3 specific)	GO_0044020	0	1	0	0	0
-histone methyltransferase activity (H4-K20 specific)	GO_0042799	0	1	0	0	0
-histone methyltransferase activity (H3-R2 specific)	GO_0070611	0	1	0	0	0
-histone methyltransferase activity (H3-R17 specific)	GO_0035642	0	1	0	0	0
-histone methyltransferase activity (H3-K9 specific)	GO_0046974	0	1	0	0	0
-histone methyltransferase activity (H3-K79 specific)	GO_0031151	0	1	0	0	0
-histone methyltransferase activity (H3-K4 specific)	GO_0042800	0	1	0	0	0
-histone methyltransferase activity (H3-K36 specific)	GO_0046975	0	1	0	0	0
-histone methyltransferase activity (H3-K27 specific)	GO_0046976	0	1	0	0	0
-histone methyltransferase activity (H2A-R3 specific)	GO_0070612	0	1	0	0	0
-histone methyltransferase activity	GO_0042054	0	1	0	0	0
-histone kinase activity (H4-S1 specific)	GO_0044023	0	1	0	0	0
-histone kinase activity (H3-Y41 specific)	GO_0035401	0	1	0	0	0
-histone kinase activity (H3-T6 specific)	GO_0035403	0	1	0	0	0
-histone kinase activity (H3-T3 specific)	GO_0072354	0	1	0	0	0
-histone kinase activity (H3-T11 specific)	GO_0035402	0	1	0	0	0
-histone kinase activity (H3-S28 specific)	GO_0044022	0	1	0	0	0
-histone kinase activity (H3-S10 specific)	GO_0035175	0	1	0	0	0
-histone kinase activity (H2B-S14 specific)	GO_0044025	0	1	0	0	0
-histone kinase activity (H2A-T120 specific)	GO_1990244	0	1	0	0	0
-histone kinase activity (H2A-S139 specific)	GO_0035979	0	1	0	0	0
-histone kinase activity (H2A-S121 specific)	GO_0072371	0	1	0	0	0
-histone kinase activity (H2A-S1 specific)	GO_0044024	0	1	0	0	0
-histone kinase activity	GO_0035173	0	1	0	0	0
-histone glutamine methylation	GO_1990258	0	1	0	0	0
-histone demethylase activity (H4-R3 specific)	GO_0033749	0	1	0	0	0
-histone demethylase activity (H4-K20 specific)	GO_0035575	0	1	0	0	0
-histone demethylase activity (H3-trimethyl-K4 specific)	GO_0034647	0	1	0	0	0
-histone demethylase activity (H3-monomethyl-K4 specific)	GO_0034649	0	1	0	0	0
-histone demethylase activity (H3-dimethyl-K4 specific)	GO_0034648	0	1	0	0	0
-histone demethylase activity (H3-R2 specific)	GO_0033746	0	1	0	0	0
-histone demethylase activity (H3-K9 specific)	GO_0032454	0	1	0	0	0
-histone demethylase activity (H3-K4 specific)	GO_0032453	0	1	0	0	0
-histone demethylase activity (H3-K36 specific)	GO_0051864	0	1	0	0	0
-histone demethylase activity (H3-K27 specific)	GO_0071558	0	1	0	0	0
-histone demethylase activity	GO_0032452	0	1	0	0	0
-histone deacetylase regulator activity	GO_0035033	0	1	0	0	0
-histone deacetylase inhibitor activity	GO_0046811	0	1	0	0	0
-histone deacetylase activity (H4-K16 specific)	GO_0034739	0	1	0	0	0
-histone deacetylase activity (H3-K9 specific)	GO_0032129	0	1	0	0	0
-histone deacetylase activity (H3-K4 specific)	GO_1990162	0	1	0	0	0
-histone deacetylase activity (H3-K14 specific)	GO_0031078	0	1	0	0	0
-histone deacetylase activity	GO_0004407	0	1	0	0	0
-histone citrullination	GO_0036414	0	1	0	0	0
-histone arginine kinase activity	GO_0018110	0	1	0	0	0
-histone acetyltransferase regulator activity	GO_0035034	0	1	0	0	0
-histone acetyltransferase activity (H4-K8 specific)	GO_0043996	0	1	0	0	0
-histone acetyltransferase activity (H4-K5 specific)	GO_0043995	0	1	0	0	0
-histone acetyltransferase activity (H4-K16 specific)	GO_0046972	0	1	0	0	0
-histone acetyltransferase activity (H4-K12 specific)	GO_0043997	0	1	0	0	0
-histone acetyltransferase activity (H3-K9 specific)	GO_0043992	0	1	0	0	0
-histone acetyltransferase activity (H3-K72 specific)	GO_0044019	0	1	0	0	0
-histone acetyltransferase activity (H3-K56 specific)	GO_0032931	0	1	0	0	0
-histone acetyltransferase activity (H3-K4 specific)	GO_0044016	0	1	0	0	0
-histone acetyltransferase activity (H3-K36 specific)	GO_0044018	0	1	0	0	0
-histone acetyltransferase activity (H3-K27 specific)	GO_0044017	0	1	0	0	0
-histone acetyltransferase activity (H3-K23 specific)	GO_0043994	0	1	0	0	0
-histone acetyltransferase activity (H3-K18 specific)	GO_0043993	0	1	0	0	0
-histone acetyltransferase activity (H3-K14 specific)	GO_0036408	0	1	0	0	0
-histone acetyltransferase activity (H2B-K5 specific)	GO_0044014	0	1	0	0	0
-histone acetyltransferase activity (H2B-K12 specific)	GO_0044015	0	1	0	0	0
-histone acetyltransferase activity (H2A-K9 specific)	GO_0044012	0	1	0	0	0
-histone acetyltransferase activity (H2A-K5 specific)	GO_0043999	0	1	0	0	0
-histone acetyltransferase activity	GO_0004402	0	1	0	0	0
-histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	0	1	0	0	0
-histone H3-R26 citrullination	GO_0036413	0	1	0	0	0
-histone H3-K9 modification	GO_0061647	0	1	0	0	0
-histone H3-K56 acetylation in response to DNA damage	GO_0097044	0	1	0	0	0
-histone H3-K36 dimethylation	GO_0097676	0	1	0	0	0
-histone H3-K27 trimethylation	GO_0098532	0	1	0	0	0
-histone H2A-T120 phosphorylation	GO_1990245	0	1	0	0	0
-histone H2A-K15 ubiquitination	GO_0036352	0	1	0	0	0
-histone H2A-K13 ubiquitination	GO_0036351	0	1	0	0	0
-histone H2A-K119 monoubiquitination	GO_0036353	0	1	0	0	0
-histone H2A phosphorylation	GO_1990164	0	1	0	0	0
-NAD-independent histone deacetylase activity	GO_0045129	0	1	0	0	0
-NAD-dependent histone deacetylase activity (H4-K16 specific)	GO_0046970	0	1	0	0	0
-NAD-dependent histone deacetylase activity (H3-K9 specific)	GO_0046969	0	1	0	0	0
-NAD-dependent histone deacetylase activity (H3-K18 specific)	GO_0097372	0	1	0	0	0
-NAD-dependent histone deacetylase activity (H3-K14 specific)	GO_0032041	0	1	0	0	0
-NAD-dependent histone deacetylase activity	GO_0017136	0	1	0	0	0
-H4 histone acetyltransferase activity	GO_0010485	0	1	0	0	0
-H3 histone acetyltransferase activity	GO_0010484	0	1	0	0	0
-H2B histone acetyltransferase activity	GO_0044013	0	1	0	0	0
-H2A histone acetyltransferase activity	GO_0043998	0	1	0	0	0
+regulation of histone modification by regulation of transcription from RNA polymerase II promoter	GO_1900410	0	1	1	0	0
+regulation of histone methylation by regulation of transcription from RNA polymerase II promoter	GO_1900412	0	1	1	0	0
+regulation of histone deubiquitination	GO_1903584	0	1	1	0	0
+regulation of histone deacetylase activity	GO_1901725	0	1	1	0	0
+regulation of histone acetylation by regulation of transcription from RNA polymerase II promoter	GO_1900411	0	1	1	0	0
+regulation of histone H4 acetylation involved in response to DNA damage stimulus	GO_2000873	0	1	1	0	0
+regulation of histone H3-K27 trimethylation	GO_1902464	0	1	1	0	0
+regulation of histone H3-K27 acetylation	GO_1901674	0	1	1	0	0
+regulation of histone H3-K18 acetylation	GO_1902028	0	1	1	0	0
+positive regulation of histone deubiquitination	GO_1903586	0	1	1	0	0
+positive regulation of histone deacetylase activity	GO_1901727	0	1	1	0	0
+positive regulation of histone H3-K27 trimethylation	GO_1902466	0	1	1	0	0
+positive regulation of histone H3-K27 acetylation	GO_1901676	0	1	1	0	0
+positive regulation of histone H3-K18 acetylation	GO_1902029	0	1	1	0	0
+negative regulation of histone deubiquitination	GO_1903585	0	1	1	0	0
+negative regulation of histone deacetylase activity	GO_1901726	0	1	1	0	0
+negative regulation of histone H3-K27 trimethylation	GO_1902465	0	1	1	0	0
+negative regulation of histone H3-K27 acetylation	GO_1901675	0	1	1	0	0
+negative regulation of histone H3-K18 acetylation	GO_1902030	0	1	1	0	0
+histone-lysine N-methyltransferase activity	GO_0018024	0	1	1	0	0
+histone-glutamine methyltransferase activity	GO_1990259	0	1	1	0	0
+histone-arginine N-methyltransferase activity	GO_0008469	0	1	1	0	0
+histone tyrosine kinase activity	GO_0035400	0	1	1	0	0
+histone threonine kinase activity	GO_0035184	0	1	1	0	0
+histone serine kinase activity	GO_0035174	0	1	1	0	0
+histone methyltransferase activity (H4-R3 specific)	GO_0044020	0	1	1	0	0
+histone methyltransferase activity (H4-K20 specific)	GO_0042799	0	1	1	0	0
+histone methyltransferase activity (H3-R2 specific)	GO_0070611	0	1	1	0	0
+histone methyltransferase activity (H3-R17 specific)	GO_0035642	0	1	1	0	0
+histone methyltransferase activity (H3-K9 specific)	GO_0046974	0	1	1	0	0
+histone methyltransferase activity (H3-K79 specific)	GO_0031151	0	1	1	0	0
+histone methyltransferase activity (H3-K4 specific)	GO_0042800	0	1	1	0	0
+histone methyltransferase activity (H3-K36 specific)	GO_0046975	0	1	1	0	0
+histone methyltransferase activity (H3-K27 specific)	GO_0046976	0	1	1	0	0
+histone methyltransferase activity (H2A-R3 specific)	GO_0070612	0	1	1	0	0
+histone methyltransferase activity	GO_0042054	0	1	1	0	0
+histone kinase activity (H4-S1 specific)	GO_0044023	0	1	1	0	0
+histone kinase activity (H3-Y41 specific)	GO_0035401	0	1	1	0	0
+histone kinase activity (H3-T6 specific)	GO_0035403	0	1	1	0	0
+histone kinase activity (H3-T3 specific)	GO_0072354	0	1	1	0	0
+histone kinase activity (H3-T11 specific)	GO_0035402	0	1	1	0	0
+histone kinase activity (H3-S28 specific)	GO_0044022	0	1	1	0	0
+histone kinase activity (H3-S10 specific)	GO_0035175	0	1	1	0	0
+histone kinase activity (H2B-S14 specific)	GO_0044025	0	1	1	0	0
+histone kinase activity (H2A-T120 specific)	GO_1990244	0	1	1	0	0
+histone kinase activity (H2A-S139 specific)	GO_0035979	0	1	1	0	0
+histone kinase activity (H2A-S121 specific)	GO_0072371	0	1	1	0	0
+histone kinase activity (H2A-S1 specific)	GO_0044024	0	1	1	0	0
+histone kinase activity	GO_0035173	0	1	1	0	0
+histone glutamine methylation	GO_1990258	0	1	1	0	0
+histone demethylase activity (H4-R3 specific)	GO_0033749	0	1	1	0	0
+histone demethylase activity (H4-K20 specific)	GO_0035575	0	1	1	0	0
+histone demethylase activity (H3-trimethyl-K4 specific)	GO_0034647	0	1	1	0	0
+histone demethylase activity (H3-monomethyl-K4 specific)	GO_0034649	0	1	1	0	0
+histone demethylase activity (H3-dimethyl-K4 specific)	GO_0034648	0	1	1	0	0
+histone demethylase activity (H3-R2 specific)	GO_0033746	0	1	1	0	0
+histone demethylase activity (H3-K9 specific)	GO_0032454	0	1	1	0	0
+histone demethylase activity (H3-K4 specific)	GO_0032453	0	1	1	0	0
+histone demethylase activity (H3-K36 specific)	GO_0051864	0	1	1	0	0
+histone demethylase activity (H3-K27 specific)	GO_0071558	0	1	1	0	0
+histone demethylase activity	GO_0032452	0	1	1	0	0
+histone deacetylase regulator activity	GO_0035033	0	1	1	0	0
+histone deacetylase inhibitor activity	GO_0046811	0	1	1	0	0
+histone deacetylase activity (H4-K16 specific)	GO_0034739	0	1	1	0	0
+histone deacetylase activity (H3-K9 specific)	GO_0032129	0	1	1	0	0
+histone deacetylase activity (H3-K4 specific)	GO_1990162	0	1	1	0	0
+histone deacetylase activity (H3-K14 specific)	GO_0031078	0	1	1	0	0
+histone deacetylase activity	GO_0004407	0	1	1	0	0
+histone citrullination	GO_0036414	0	1	1	0	0
+histone arginine kinase activity	GO_0018110	0	1	1	0	0
+histone acetyltransferase regulator activity	GO_0035034	0	1	1	0	0
+histone acetyltransferase activity (H4-K8 specific)	GO_0043996	0	1	1	0	0
+histone acetyltransferase activity (H4-K5 specific)	GO_0043995	0	1	1	0	0
+histone acetyltransferase activity (H4-K16 specific)	GO_0046972	0	1	1	0	0
+histone acetyltransferase activity (H4-K12 specific)	GO_0043997	0	1	1	0	0
+histone acetyltransferase activity (H3-K9 specific)	GO_0043992	0	1	1	0	0
+histone acetyltransferase activity (H3-K72 specific)	GO_0044019	0	1	1	0	0
+histone acetyltransferase activity (H3-K56 specific)	GO_0032931	0	1	1	0	0
+histone acetyltransferase activity (H3-K4 specific)	GO_0044016	0	1	1	0	0
+histone acetyltransferase activity (H3-K36 specific)	GO_0044018	0	1	1	0	0
+histone acetyltransferase activity (H3-K27 specific)	GO_0044017	0	1	1	0	0
+histone acetyltransferase activity (H3-K23 specific)	GO_0043994	0	1	1	0	0
+histone acetyltransferase activity (H3-K18 specific)	GO_0043993	0	1	1	0	0
+histone acetyltransferase activity (H3-K14 specific)	GO_0036408	0	1	1	0	0
+histone acetyltransferase activity (H2B-K5 specific)	GO_0044014	0	1	1	0	0
+histone acetyltransferase activity (H2B-K12 specific)	GO_0044015	0	1	1	0	0
+histone acetyltransferase activity (H2A-K9 specific)	GO_0044012	0	1	1	0	0
+histone acetyltransferase activity (H2A-K5 specific)	GO_0043999	0	1	1	0	0
+histone acetyltransferase activity	GO_0004402	0	1	1	0	0
+histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	0	1	1	0	0
+histone H3-R26 citrullination	GO_0036413	0	1	1	0	0
+histone H3-K9 modification	GO_0061647	0	1	1	0	0
+histone H3-K56 acetylation in response to DNA damage	GO_0097044	0	1	1	0	0
+histone H3-K36 dimethylation	GO_0097676	0	1	1	0	0
+histone H3-K27 trimethylation	GO_0098532	0	1	1	0	0
+histone H2A-T120 phosphorylation	GO_1990245	0	1	1	0	0
+histone H2A-K15 ubiquitination	GO_0036352	0	1	1	0	0
+histone H2A-K13 ubiquitination	GO_0036351	0	1	1	0	0
+histone H2A-K119 monoubiquitination	GO_0036353	0	1	1	0	0
+histone H2A phosphorylation	GO_1990164	0	1	1	0	0
+NAD-independent histone deacetylase activity	GO_0045129	0	1	1	0	0
+NAD-dependent histone deacetylase activity (H4-K16 specific)	GO_0046970	0	1	1	0	0
+NAD-dependent histone deacetylase activity (H3-K9 specific)	GO_0046969	0	1	1	0	0
+NAD-dependent histone deacetylase activity (H3-K18 specific)	GO_0097372	0	1	1	0	0
+NAD-dependent histone deacetylase activity (H3-K14 specific)	GO_0032041	0	1	1	0	0
+NAD-dependent histone deacetylase activity	GO_0017136	0	1	1	0	0
+H4 histone acetyltransferase activity	GO_0010485	0	1	1	0	0
+H3 histone acetyltransferase activity	GO_0010484	0	1	1	0	0
+H2B histone acetyltransferase activity	GO_0044013	0	1	1	0	0
+H2A histone acetyltransferase activity	GO_0043998	0	1	1	0	0
