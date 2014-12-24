@@ -42,9 +42,9 @@ glucose import in response to insulin stimulus	GO_0044381	1	0	1	0	0
 glucose import	GO_0046323	1	0	1	0	0
 detection of glucose	GO_0051594	1	0	1	0	0
 cellular response to glucose starvation	GO_0042149	1	0	1	0	0
-regulation of glycolysis involved in cellular glucose homeostasis	GO_0090525	0	1	0	0	0
-regulation of glucose mediated signaling pathway	GO_1902659	0	1	0	0	0
-regulation of gluconeogenesis involved in cellular glucose homeostasis	GO_0090526	0	1	0	0	0
-positive regulation of glucose mediated signaling pathway	GO_1902661	0	1	0	0	0
-negative regulation of glucose mediated signaling pathway	GO_1902660	0	1	0	0	0
-insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	0	0	0
+regulation of glycolysis involved in cellular glucose homeostasis	GO_0090525	0	1	1	0	0
+regulation of glucose mediated signaling pathway	GO_1902659	0	1	1	0	0
+regulation of gluconeogenesis involved in cellular glucose homeostasis	GO_0090526	0	1	1	0	0
+positive regulation of glucose mediated signaling pathway	GO_1902661	0	1	1	0	0
+negative regulation of glucose mediated signaling pathway	GO_1902660	0	1	1	0	0
+insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	1	0	0
