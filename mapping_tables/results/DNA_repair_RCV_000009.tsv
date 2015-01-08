@@ -146,4 +146,7 @@ regulation of single strand break repair	GO_1903516	0	1	1	0	0
 positive regulation of single strand break repair	GO_1903518	0	1	1	0	0
 negative regulation of single strand break repair	GO_1903517	0	1	1	0	0
 heteroduplex formation involved in double-strand break repair via synthesis-dependent strand annealing	GO_0010709	0	1	1	0	0
+gap filling involved in double-strand break repair via nonhomologous end joining	GO_0061674	0	1	0	0	0
+double-strand break repair via classical nonhomologous end joining	GO_0097680	0	1	0	0	0
+double-strand break repair via alternative nonhomologous end joining	GO_0097681	0	1	0	0	0
 DNA 3' dephosphorylation involved in DNA repair	GO_0098504	0	1	1	0	0

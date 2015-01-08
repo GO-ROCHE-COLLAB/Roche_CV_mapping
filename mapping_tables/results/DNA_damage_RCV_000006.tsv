@@ -149,6 +149,7 @@ heteroduplex formation involved in double-strand break repair via synthesis-depe
 global genome nucleotide-excision repair	GO_0070911	0	1	1	0	0
 gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	1	0	0
 gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	1	0	0
+gap filling involved in double-strand break repair via nonhomologous end joining	GO_0061674	0	1	0	0	0
 error-prone translesion synthesis	GO_0042276	0	1	1	0	0
 error-free translesion synthesis	GO_0070987	0	1	1	0	0
 error-free postreplication DNA repair	GO_0042275	0	1	1	0	0
@@ -158,7 +159,9 @@ double-strand break repair via single-strand annealing, removal of nonhomologous
 double-strand break repair via single-strand annealing	GO_0045002	0	1	1	0	0
 double-strand break repair via nonhomologous end joining	GO_0006303	0	1	1	0	0
 double-strand break repair via homologous recombination	GO_0000724	0	1	1	0	0
+double-strand break repair via classical nonhomologous end joining	GO_0097680	0	1	0	0	0
 double-strand break repair via break-induced replication	GO_0000727	0	1	1	0	0
+double-strand break repair via alternative nonhomologous end joining	GO_0097681	0	1	0	0	0
 double-strand break repair	GO_0006302	0	1	1	0	0
 detection of stimulus involved in mitotic DNA replication checkpoint	GO_0072442	0	1	1	1	0
 detection of stimulus involved in mitotic DNA damage checkpoint	GO_1902401	0	1	1	0	0

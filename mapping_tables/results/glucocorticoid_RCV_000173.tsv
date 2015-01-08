@@ -1,5 +1,4 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-glucocorticoid mediated signaling pathway	GO_0043402	1	1	1	0	0
 regulation of glucocorticoid secretion	GO_2000849	1	0	1	0	0
 regulation of glucocorticoid receptor signaling pathway	GO_2000322	1	0	1	0	0
 regulation of glucocorticoid metabolic process	GO_0031943	1	0	1	0	0
@@ -13,6 +12,7 @@ negative regulation of glucocorticoid mediated signaling pathway	GO_1900170	1	0	
 negative regulation of glucocorticoid catabolic process	GO_0031950	1	0	1	0	0
 negative regulation of glucocorticoid biosynthetic process	GO_0031947	1	0	1	0	0
 glucocorticoid receptor signaling pathway	GO_0042921	1	0	1	0	0
+glucocorticoid mediated signaling pathway	GO_0043402	1	0	1	0	0
 response to glucocorticoid	GO_0051384	0	1	1	0	0
 response to dexamethasone	GO_0071548	0	1	1	0	0
 response to cortisone	GO_0051413	0	1	1	0	0

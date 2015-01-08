@@ -89,7 +89,6 @@ monoterpenoid catabolic process	GO_0016100	0	1	1	0	0
 monoterpenoid biosynthetic process	GO_0016099	0	1	1	0	0
 menthol metabolic process	GO_0031524	0	1	1	0	0
 menthol biosynthetic process	GO_0031525	0	1	1	0	0
-maintenance of seed dormancy	GO_0010231	0	1	1	0	0
 juvenile hormone secretion	GO_0045443	0	1	1	0	0
 juvenile hormone receptor activity	GO_0004880	0	1	1	0	0
 juvenile hormone metabolic process	GO_0006716	0	1	1	0	0
@@ -103,15 +102,11 @@ glycyrrhetinate metabolic process	GO_1902384	0	1	1	0	0
 glycyrrhetinate catabolic process	GO_1902385	0	1	1	0	0
 glycyrrhetinate biosynthetic process	GO_1902386	0	1	1	0	0
 gibberellin metabolic process	GO_0009685	0	1	1	0	0
-gibberellin mediated signaling pathway	GO_0010476	0	1	1	0	0
 gibberellin catabolic process	GO_0045487	0	1	1	0	0
 gibberellin biosynthetic process	GO_0009686	0	1	1	0	0
 gibberellin binding	GO_0010331	0	1	1	0	0
 gibberellin 12 metabolic process	GO_0033469	0	1	1	0	0
 gibberellin 12 biosynthetic process	GO_0033470	0	1	1	0	0
-gibberellic acid mediated signaling pathway, G-alpha-independent	GO_0042390	0	1	1	0	0
-gibberellic acid mediated signaling pathway, G-alpha-dependent	GO_0042388	0	1	1	0	0
-gibberellic acid mediated signaling pathway	GO_0009740	0	1	1	0	0
 geranylgeranyl diphosphate metabolic process	GO_0033385	0	1	1	0	0
 geranylgeranyl diphosphate catabolic process	GO_1902247	0	1	1	0	0
 geranylgeranyl diphosphate biosynthetic process	GO_0033386	0	1	1	0	0
@@ -163,8 +158,6 @@ all-trans-neoxanthin metabolic process	GO_1901831	0	1	1	0	0
 all-trans-neoxanthin catabolic process	GO_1901832	0	1	1	0	0
 all-trans-neoxanthin biosynthetic process	GO_1901833	0	1	1	0	0
 all-trans retinal binding	GO_0005503	0	1	1	0	0
-abscisic acid-activated signaling pathway involved in stomatal movement	GO_1901527	0	1	1	0	0
-abscisic acid-activated signaling pathway	GO_0009738	0	1	1	0	0
 abscisic acid transporter activity	GO_0090440	0	1	1	0	0
 abscisic acid transport	GO_0080168	0	1	1	0	0
 abscisic acid metabolic process	GO_0009687	0	1	1	0	0

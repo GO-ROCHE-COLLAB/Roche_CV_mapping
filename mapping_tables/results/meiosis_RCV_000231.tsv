@@ -1,7 +1,8 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-leptotene	GO_0000237	1	0	1	0	0
-diplotene	GO_0000240	1	0	1	0	0
-diakinesis	GO_0000241	1	0	1	0	0
+leptotene	GO_0000237	1	1	1	0	0
+diplotene	GO_0000240	1	1	1	0	0
+diakinesis	GO_0000241	1	1	1	0	0
+zygotene	GO_0000238	0	1	0	0	0
 zygospore formation	GO_0034296	0	1	1	0	0
 trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	1	0	0
 synaptonemal complex assembly	GO_0007130	0	1	1	0	0
@@ -63,6 +64,7 @@ positive regulation of basidiospore formation	GO_0075303	0	1	1	0	0
 positive regulation of ascospore-type prospore membrane assembly	GO_1903024	0	1	1	0	0
 positive regulation of ascospore formation	GO_0075296	0	1	1	0	0
 polar body extrusion after meiotic divisions	GO_0040038	0	1	1	0	0
+pachytene	GO_0000239	0	1	0	0	0
 oospore formation	GO_0075243	0	1	1	0	0
 negative regulation of zygospore formation	GO_0075300	0	1	1	0	0
 negative regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010674	0	1	1	0	0
@@ -80,6 +82,9 @@ negative regulation of basidiospore formation	GO_0075304	0	1	1	0	0
 negative regulation of ascospore formation	GO_0075297	0	1	1	0	0
 microtubule cytoskeleton organization involved in synapsis	GO_0090172	0	1	1	0	0
 microtubule bundle formation involved in horsetail-astral microtubule organization	GO_1903563	0	1	1	0	0
+meitotic prometaphase I	GO_0098768	0	1	0	0	0
+meiotic telophase II	GO_0007139	0	1	0	0	0
+meiotic telophase I	GO_0007134	0	1	0	0	0
 meiotic telomere tethering at nuclear periphery	GO_0044821	0	1	1	0	0
 meiotic telomere clustering	GO_0045141	0	1	1	0	0
 meiotic strand invasion involved in reciprocal meiotic recombination	GO_0010774	0	1	1	0	0
@@ -99,14 +104,19 @@ meiotic sister chromatid centromere separation	GO_0051756	0	1	1	0	0
 meiotic sister chromatid arm separation	GO_0051755	0	1	1	0	0
 meiotic recombination nodule assembly	GO_0007146	0	1	1	0	0
 meiotic recombination checkpoint	GO_0051598	0	1	1	0	0
+meiotic prophase II	GO_0007136	0	1	0	0	0
+meiotic prophase I	GO_0007128	0	1	0	0	0
 meiotic nuclear division	GO_0007126	0	1	1	0	0
 meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	1	0	0
 meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	1	0	0
 meiotic mismatch repair	GO_0000710	0	1	1	0	0
 meiotic metaphase plate congression	GO_0051311	0	1	1	0	0
 meiotic metaphase II plate congression	GO_0043061	0	1	1	0	0
+meiotic metaphase II	GO_0007137	0	1	0	0	0
 meiotic metaphase I plate congression	GO_0043060	0	1	1	0	0
+meiotic metaphase I	GO_0007132	0	1	0	0	0
 meiotic joint molecule formation	GO_0000709	0	1	1	0	0
+meiotic interphase II	GO_0044844	0	1	0	0	0
 meiotic heteroduplex formation	GO_0000713	0	1	1	0	0
 meiotic gene conversion	GO_0006311	0	1	1	0	0
 meiotic chromosome separation	GO_0051307	0	1	1	0	0
@@ -115,6 +125,8 @@ meiotic chromosome movement towards spindle pole	GO_0016344	0	1	1	0	0
 meiotic chromosome decondensation	GO_0051178	0	1	1	0	0
 meiotic chromosome condensation	GO_0010032	0	1	1	0	0
 meiotic centromere clustering	GO_1990571	0	1	1	0	0
+meiotic anaphase II	GO_0007138	0	1	0	0	0
+meiotic anaphase I	GO_0007133	0	1	0	0	0
 meiotic G2/MI transition	GO_0008315	0	1	1	0	0
 meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	1	0	0
 meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	1	0	0
@@ -130,10 +142,14 @@ meiotic DNA double-strand break formation	GO_0042138	0	1	1	0	0
 meiosis II nuclear envelope reassembly	GO_0051335	0	1	1	0	0
 meiosis II nuclear envelope disassembly	GO_0051080	0	1	1	0	0
 meiosis II cytokinesis	GO_0007111	0	1	1	0	0
+meiosis II cell cycle phase	GO_0098765	0	1	0	0	0
+meiosis II M phase	GO_0098767	0	1	0	0	0
 meiosis II	GO_0007135	0	1	1	0	0
 meiosis I nuclear envelope reassembly	GO_0051334	0	1	1	0	0
 meiosis I nuclear envelope disassembly	GO_0051079	0	1	1	0	0
 meiosis I cytokinesis	GO_0007110	0	1	1	0	0
+meiosis I cell cycle phase	GO_0098764	0	1	0	0	0
+meiosis I M phase	GO_0098766	0	1	0	0	0
 meiosis I	GO_0007127	0	1	1	0	0
 male meiotic chromosome movement towards spindle pole	GO_0016346	0	1	1	0	0
 male meiosis sister chromatid cohesion	GO_0007065	0	1	1	0	0

@@ -35,9 +35,6 @@ raffinose biosynthetic process	GO_0033529	1	1	1	0	0
 polysaccharide metabolic process	GO_0005976	1	1	1	0	0
 polysaccharide catabolic process	GO_0000272	1	1	1	0	0
 polysaccharide biosynthetic process	GO_0000271	1	1	1	0	0
-pentose-phosphate shunt, oxidative branch	GO_0009051	1	1	1	0	0
-pentose-phosphate shunt, non-oxidative branch	GO_0009052	1	1	1	0	0
-pentose-phosphate shunt	GO_0006098	1	1	1	0	0
 pentose metabolic process	GO_0019321	1	1	1	0	0
 pentose catabolic process to ethanol	GO_0044576	1	1	1	0	0
 pentose catabolic process	GO_0019323	1	1	1	0	0
@@ -214,6 +211,9 @@ polysaccharide transport	GO_0015774	1	0	1	0	0
 polysaccharide localization	GO_0033037	1	0	1	0	0
 polysaccharide digestion	GO_0044245	1	0	1	0	0
 phloem sucrose loading	GO_0009915	1	0	1	0	0
+pentose-phosphate shunt, oxidative branch	GO_0009051	1	0	1	0	0
+pentose-phosphate shunt, non-oxidative branch	GO_0009052	1	0	1	0	0
+pentose-phosphate shunt	GO_0006098	1	0	1	0	0
 pentose transport	GO_0015750	1	0	1	0	0
 negative regulation of xyloglucan metabolic process	GO_2000949	1	0	1	0	0
 negative regulation of xyloglucan catabolic process	GO_2000952	1	0	1	0	0
@@ -448,7 +448,6 @@ lipooligosaccharide biosynthetic process	GO_1901271	0	1	1	0	0
 lipid glycosylation	GO_0030259	0	1	1	0	0
 lipid A metabolic process	GO_0046493	0	1	1	0	0
 lipid A biosynthetic process	GO_0009245	0	1	1	0	0
-lactate fermentation to propionate and acetate	GO_0019652	0	1	1	0	0
 ketogluconate metabolic process	GO_0019522	0	1	1	0	0
 ketogluconate catabolic process	GO_0046181	0	1	1	0	0
 ketogluconate biosynthetic process	GO_0046180	0	1	1	0	0
@@ -600,6 +599,7 @@ cell wall pectin biosynthetic process	GO_0052325	0	1	1	0	0
 cell wall chitin metabolic process	GO_0006037	0	1	1	0	0
 cell wall chitin catabolic process	GO_0006039	0	1	1	0	0
 cell wall chitin biosynthetic process	GO_0006038	0	1	1	0	0
+cell septum edging catabolic process	GO_0030995	0	1	0	0	0
 catabolism by symbiont of host xylan	GO_0052017	0	1	1	0	0
 catabolism by symbiont of host cell wall pectin	GO_0052011	0	1	1	0	0
 catabolism by symbiont of host cell wall chitin	GO_0052012	0	1	1	0	0
@@ -704,7 +704,7 @@ Kdo2-lipid A biosynthetic process	GO_0036104	0	1	1	0	0
 K antigen metabolic process	GO_0046375	0	1	1	0	0
 K antigen biosynthetic process	GO_0009248	0	1	1	0	0
 F420-0 metabolic process	GO_0052645	0	1	1	0	0
-Entner-Doudoroff pathway	GO_0009255	0	1	1	0	0
+Entner-Doudoroff pathway through 6-phosphogluconate	GO_0009255	0	1	1	0	0
 D-xylose metabolic process	GO_0042732	0	1	1	0	0
 D-xylose fermentation	GO_0044836	0	1	1	0	0
 D-xylose catabolic process	GO_0042843	0	1	1	0	0

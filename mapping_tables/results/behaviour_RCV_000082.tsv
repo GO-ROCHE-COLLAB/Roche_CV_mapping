@@ -3,6 +3,7 @@ multi-organism behavior	GO_0051705	1	1	1	0	0
 behavioral response to wounding	GO_0002210	1	1	1	0	0
 behavioral response to water deprivation	GO_0042630	1	1	1	0	0
 behavioral response to pain	GO_0048266	1	1	1	0	0
+behavioral response to nutrient	GO_0051780	1	1	1	0	0
 behavioral response to nicotine	GO_0035095	1	1	1	0	0
 behavioral response to formalin induced pain	GO_0061368	1	1	1	0	0
 behavioral response to ether	GO_0048150	1	1	1	0	0
@@ -18,7 +19,6 @@ associative learning	GO_0008306	1	1	1	0	0
 adult walking behavior	GO_0007628	1	1	1	0	0
 adult behavior	GO_0030534	1	1	1	0	0
 behavioral response to starvation	GO_0042595	1	0	1	0	0
-behavioral response to nutrient	GO_0051780	1	0	1	0	0
 adult behavior (sensu Insecta)	GO_0008044	1	0	1	1	1
 vulval location	GO_0034608	0	1	1	0	0
 vocalization behavior	GO_0071625	0	1	1	0	0

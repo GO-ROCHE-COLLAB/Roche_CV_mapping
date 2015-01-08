@@ -177,6 +177,7 @@ histone displacement	GO_0001207	1	0	1	0	0
 histone catabolic process	GO_0036205	1	0	1	0	0
 histone H2A-H2B dimer displacement	GO_0001208	1	0	1	0	0
 S phase-specific histone modification	GO_0006324	1	0	1	1	1
+regulation of transcription from RNA polymerase II promoter by histone modification	GO_1903756	0	1	0	0	0
 regulation of histone modification by regulation of transcription from RNA polymerase II promoter	GO_1900410	0	1	1	0	0
 regulation of histone methylation by regulation of transcription from RNA polymerase II promoter	GO_1900412	0	1	1	0	0
 regulation of histone deubiquitination	GO_1903584	0	1	1	0	0
@@ -186,11 +187,13 @@ regulation of histone H4 acetylation involved in response to DNA damage stimulus
 regulation of histone H3-K27 trimethylation	GO_1902464	0	1	1	0	0
 regulation of histone H3-K27 acetylation	GO_1901674	0	1	1	0	0
 regulation of histone H3-K18 acetylation	GO_1902028	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter by histone modification	GO_1903757	0	1	0	0	0
 positive regulation of histone deubiquitination	GO_1903586	0	1	1	0	0
 positive regulation of histone deacetylase activity	GO_1901727	0	1	1	0	0
 positive regulation of histone H3-K27 trimethylation	GO_1902466	0	1	1	0	0
 positive regulation of histone H3-K27 acetylation	GO_1901676	0	1	1	0	0
 positive regulation of histone H3-K18 acetylation	GO_1902029	0	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter by histone modification	GO_1903758	0	1	0	0	0
 negative regulation of histone deubiquitination	GO_1903585	0	1	1	0	0
 negative regulation of histone deacetylase activity	GO_1901726	0	1	1	0	0
 negative regulation of histone H3-K27 trimethylation	GO_1902465	0	1	1	0	0
@@ -270,6 +273,7 @@ histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	0	
 histone H3-R26 citrullination	GO_0036413	0	1	1	0	0
 histone H3-K9 modification	GO_0061647	0	1	1	0	0
 histone H3-K56 acetylation in response to DNA damage	GO_0097044	0	1	1	0	0
+histone H3-K4 deacetylation	GO_1990596	0	1	0	0	0
 histone H3-K36 dimethylation	GO_0097676	0	1	1	0	0
 histone H3-K27 trimethylation	GO_0098532	0	1	1	0	0
 histone H2A-T120 phosphorylation	GO_1990245	0	1	1	0	0

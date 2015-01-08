@@ -7,12 +7,12 @@ stem cell fate commitment	GO_0048865	1	1	1	0	0
 stem cell division	GO_0017145	1	1	1	0	0
 stem cell differentiation	GO_0048863	1	1	1	0	0
 stem cell development	GO_0048864	1	1	1	0	0
+squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	1	1	1	0	0
 somatic stem cell maintenance	GO_0035019	1	1	1	0	0
 somatic stem cell division	GO_0048103	1	1	1	0	0
 germ-line stem cell maintenance	GO_0030718	1	1	1	0	0
 germ-line stem cell division	GO_0042078	1	1	1	0	0
 amniotic stem cell differentiation	GO_0097086	1	1	1	0	0
-squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	1	0	1	0	0
 response to stem cell factor	GO_0036215	1	0	1	0	0
 regulation of stem cell proliferation	GO_0072091	1	0	1	0	0
 regulation of stem cell maintenance	GO_2000036	1	0	1	0	0

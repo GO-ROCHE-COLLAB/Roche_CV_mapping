@@ -126,8 +126,6 @@ trans-zeatin metabolic process	GO_0033400	0	1	1	0	0
 trans-zeatin biosynthetic process	GO_0033466	0	1	1	0	0
 threonylcarbamoyladenosine metabolic process	GO_0070525	0	1	1	0	0
 threonylcarbamoyladenosine biosynthetic process	GO_0070526	0	1	1	0	0
-regulation of ER to Golgi vesicle-mediated transport by GTP hydrolysis	GO_0090113	0	1	1	0	0
-regulation of COPII vesicle coating	GO_0003400	0	1	1	0	0
 puromycin metabolic process	GO_0043637	0	1	1	0	0
 puromycin biosynthetic process	GO_0043638	0	1	1	0	0
 plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	1	0	0

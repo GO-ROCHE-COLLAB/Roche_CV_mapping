@@ -1,10 +1,10 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 cAMP-mediated signaling	GO_0019933	1	1	1	0	0
+cAMP-mediated activation of appressorium formation	GO_0075021	1	1	1	0	0
 cAMP transport	GO_0070730	1	1	1	0	0
 cAMP metabolic process	GO_0046058	1	1	1	0	0
 cAMP catabolic process	GO_0006198	1	1	1	0	0
 cAMP biosynthetic process	GO_0006171	1	1	1	0	0
-cAMP-mediated activation of appressorium formation	GO_0075021	1	0	1	0	0
 response to cAMP	GO_0051591	0	1	1	0	0
 detection of cAMP	GO_0031319	0	1	1	0	0
 chemotaxis to cAMP	GO_0043327	0	1	1	0	0

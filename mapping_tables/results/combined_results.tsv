@@ -376,7 +376,9 @@ RCV_000006	DNA damage	GO_0072433	detection of DNA damage stimulus involved in mi
 RCV_000006	DNA damage	GO_1902399	detection of stimulus involved in G1 DNA damage checkpoint
 RCV_000006	DNA damage	GO_1902401	detection of stimulus involved in mitotic DNA damage checkpoint
 RCV_000006	DNA damage	GO_0006302	double-strand break repair
+RCV_000006	DNA damage	GO_0097681	double-strand break repair via alternative nonhomologous end joining
 RCV_000006	DNA damage	GO_0000727	double-strand break repair via break-induced replication
+RCV_000006	DNA damage	GO_0097680	double-strand break repair via classical nonhomologous end joining
 RCV_000006	DNA damage	GO_0000724	double-strand break repair via homologous recombination
 RCV_000006	DNA damage	GO_0006303	double-strand break repair via nonhomologous end joining
 RCV_000006	DNA damage	GO_0045002	double-strand break repair via single-strand annealing
@@ -386,6 +388,7 @@ RCV_000006	DNA damage	GO_0042139	early meiotic recombination nodule assembly
 RCV_000006	DNA damage	GO_0042275	error-free postreplication DNA repair
 RCV_000006	DNA damage	GO_0070987	error-free translesion synthesis
 RCV_000006	DNA damage	GO_0042276	error-prone translesion synthesis
+RCV_000006	DNA damage	GO_0061674	gap filling involved in double-strand break repair via nonhomologous end joining
 RCV_000006	DNA damage	GO_0031292	gene conversion at mating-type locus, DNA double-strand break processing
 RCV_000006	DNA damage	GO_0000734	gene conversion at mating-type locus, DNA repair synthesis
 RCV_000006	DNA damage	GO_0070911	global genome nucleotide-excision repair
@@ -611,7 +614,9 @@ RCV_000009	DNA repair	GO_0006287	base-excision repair, gap-filling
 RCV_000009	DNA repair	GO_0045007	depurination
 RCV_000009	DNA repair	GO_0045008	depyrimidination
 RCV_000009	DNA repair	GO_0006302	double-strand break repair
+RCV_000009	DNA repair	GO_0097681	double-strand break repair via alternative nonhomologous end joining
 RCV_000009	DNA repair	GO_0000727	double-strand break repair via break-induced replication
+RCV_000009	DNA repair	GO_0097680	double-strand break repair via classical nonhomologous end joining
 RCV_000009	DNA repair	GO_0000724	double-strand break repair via homologous recombination
 RCV_000009	DNA repair	GO_0006303	double-strand break repair via nonhomologous end joining
 RCV_000009	DNA repair	GO_0045002	double-strand break repair via single-strand annealing
@@ -622,6 +627,7 @@ RCV_000009	DNA repair	GO_0042275	error-free postreplication DNA repair
 RCV_000009	DNA repair	GO_0070987	error-free translesion synthesis
 RCV_000009	DNA repair	GO_0042276	error-prone translesion synthesis
 RCV_000009	DNA repair	GO_0009380	excinuclease repair complex
+RCV_000009	DNA repair	GO_0061674	gap filling involved in double-strand break repair via nonhomologous end joining
 RCV_000009	DNA repair	GO_0031292	gene conversion at mating-type locus, DNA double-strand break processing
 RCV_000009	DNA repair	GO_0000734	gene conversion at mating-type locus, DNA repair synthesis
 RCV_000009	DNA repair	GO_0070911	global genome nucleotide-excision repair
@@ -1293,6 +1299,27 @@ RCV_000026	NK cells	GO_0002715	regulation of natural killer cell mediated immuni
 RCV_000026	NK cells	GO_0032817	regulation of natural killer cell proliferation
 RCV_000026	NK cells	GO_0002871	regulation of natural killer cell tolerance induction
 RCV_000026	NK cells	GO_0039672	suppression by virus of host natural killer cell activation
+RCV_000027	Notch signaling pathway	GO_0007220	Notch receptor processing
+RCV_000027	Notch signaling pathway	GO_0035333	Notch receptor processing, ligand-dependent
+RCV_000027	Notch signaling pathway	GO_0035334	Notch receptor processing, ligand-independent
+RCV_000027	Notch signaling pathway	GO_0061314	Notch signaling involved in heart development
+RCV_000027	Notch signaling pathway	GO_0007219	Notch signaling pathway
+RCV_000027	Notch signaling pathway	GO_0060853	Notch signaling pathway involved in arterial endothelial cell fate commitment
+RCV_000027	Notch signaling pathway	GO_0060227	Notch signaling pathway involved in camera-type eye photoreceptor fate commitment
+RCV_000027	Notch signaling pathway	GO_0021876	Notch signaling pathway involved in forebrain neuroblast division
+RCV_000027	Notch signaling pathway	GO_0021880	Notch signaling pathway involved in forebrain neuron fate commitment
+RCV_000027	Notch signaling pathway	GO_0003137	Notch signaling pathway involved in heart induction
+RCV_000027	Notch signaling pathway	GO_2000796	Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment
+RCV_000027	Notch signaling pathway	GO_0003270	Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation
+RCV_000027	Notch signaling pathway	GO_1902359	Notch signaling pathway involved in somitogenesis
+RCV_000027	Notch signaling pathway	GO_0045746	negative regulation of Notch signaling pathway
+RCV_000027	Notch signaling pathway	GO_1902367	negative regulation of Notch signaling pathway involved in somitogenesis
+RCV_000027	Notch signaling pathway	GO_0045747	positive regulation of Notch signaling pathway
+RCV_000027	Notch signaling pathway	GO_0035481	positive regulation of Notch signaling pathway involved in heart induction
+RCV_000027	Notch signaling pathway	GO_0007221	positive regulation of transcription of Notch receptor target
+RCV_000027	Notch signaling pathway	GO_0008593	regulation of Notch signaling pathway
+RCV_000027	Notch signaling pathway	GO_0035480	regulation of Notch signaling pathway involved in heart induction
+RCV_000027	Notch signaling pathway	GO_1902366	regulation of Notch signaling pathway involved in somitogenesis
 RCV_000029	PNS development	GO_0014044	Schwann cell development
 RCV_000029	PNS development	GO_0014037	Schwann cell differentiation
 RCV_000029	PNS development	GO_0048907	anterior lateral line ganglion development
@@ -1723,6 +1750,26 @@ RCV_000038	T helper	GO_0002295	T-helper cell lineage commitment
 RCV_000038	T helper	GO_0035704	helper T cell chemotaxis
 RCV_000038	T helper	GO_0035685	helper T cell diapedesis
 RCV_000038	T helper	GO_0035684	helper T cell extravasation
+RCV_000039	TCA metabolism	GO_0050450	citrate (Re)-synthase activity
+RCV_000039	TCA metabolism	GO_0004108	citrate (Si)-synthase activity
+RCV_000039	TCA metabolism	GO_0019651	citrate catabolic process to diacetyl
+RCV_000039	TCA metabolism	GO_0006101	citrate metabolic process
+RCV_000039	TCA metabolism	GO_0071913	citrate secondary active transmembrane transporter activity
+RCV_000039	TCA metabolism	GO_0036440	citrate synthase activity
+RCV_000039	TCA metabolism	GO_0015137	citrate transmembrane transporter activity
+RCV_000039	TCA metabolism	GO_0015746	citrate transport
+RCV_000039	TCA metabolism	GO_0015531	citrate:proton symporter activity
+RCV_000039	TCA metabolism	GO_0015515	citrate:succinate antiporter activity
+RCV_000039	TCA metabolism	GO_0046720	citric acid secretion
+RCV_000039	TCA metabolism	GO_1990541	mitochondrial citrate transmembrane transport
+RCV_000039	TCA metabolism	GO_0006843	mitochondrial citrate transport
+RCV_000039	TCA metabolism	GO_0019643	reductive tricarboxylic acid cycle
+RCV_000039	TCA metabolism	GO_0072351	tricarboxylic acid biosynthetic process
+RCV_000039	TCA metabolism	GO_0072352	tricarboxylic acid catabolic process
+RCV_000039	TCA metabolism	GO_0006099	tricarboxylic acid cycle
+RCV_000039	TCA metabolism	GO_0072350	tricarboxylic acid metabolic process
+RCV_000039	TCA metabolism	GO_0035674	tricarboxylic acid transmembrane transport
+RCV_000039	TCA metabolism	GO_0006842	tricarboxylic acid transport
 RCV_000040	TGF beta pathway	GO_0071560	cellular response to transforming growth factor beta stimulus
 RCV_000040	TGF beta pathway	GO_0071635	negative regulation of transforming growth factor beta production
 RCV_000040	TGF beta pathway	GO_0030512	negative regulation of transforming growth factor beta receptor signaling pathway
@@ -3038,7 +3085,6 @@ RCV_000077	auxin	GO_0033476	indoleacetic acid ester conjugate biosynthetic proce
 RCV_000077	auxin	GO_0009683	indoleacetic acid metabolic process
 RCV_000077	auxin	GO_0080024	indolebutyric acid metabolic process
 RCV_000077	auxin	GO_0080162	intracellular auxin transport
-RCV_000077	auxin	GO_0090015	positive regulation of leaflet formation by auxin mediated signaling pathway
 RCV_000077	auxin	GO_0009733	response to auxin
 RCV_000077	auxin	GO_0080026	response to indolebutyric acid
 RCV_000077	auxin	GO_0019440	tryptophan catabolic process to indole-3-acetate
@@ -3128,6 +3174,18 @@ RCV_000080	base pairing	GO_0030557	tRNA modification guide activity
 RCV_000080	base pairing	GO_0030560	tRNA pseudouridylation guide activity
 RCV_000080	base pairing	GO_0000332	template for synthesis of G-rich strand of telomere DNA activity
 RCV_000080	base pairing	GO_0030533	triplet codon-amino acid adaptor activity
+RCV_000081	basophil	GO_0045575	basophil activation
+RCV_000081	basophil	GO_0002276	basophil activation involved in immune response
+RCV_000081	basophil	GO_0002575	basophil chemotaxis
+RCV_000081	basophil	GO_0002561	basophil degranulation
+RCV_000081	basophil	GO_0030221	basophil differentiation
+RCV_000081	basophil	GO_0002560	basophil mediated immunity
+RCV_000081	basophil	GO_0002557	histamine secretion by basophil
+RCV_000081	basophil	GO_0045641	negative regulation of basophil differentiation
+RCV_000081	basophil	GO_0045642	positive regulation of basophil differentiation
+RCV_000081	basophil	GO_0045640	regulation of basophil differentiation
+RCV_000081	basophil	GO_0002556	serotonin secretion by basophil
+RCV_000081	basophil	GO_0002559	type I hypersensitivity mediated by basophils
 RCV_000082	behaviour	GO_0052099	acquisition by symbiont of nutrients from host via siderophores
 RCV_000082	behaviour	GO_0044002	acquisition of nutrients from host
 RCV_000082	behaviour	GO_0051816	acquisition of nutrients from other organism during symbiotic interaction
@@ -3351,6 +3409,12 @@ RCV_000082	behaviour	GO_0008542	visual learning
 RCV_000082	behaviour	GO_0042297	vocal learning
 RCV_000082	behaviour	GO_0071625	vocalization behavior
 RCV_000082	behaviour	GO_0034608	vulval location
+RCV_000083	beta cells	GO_0097050	type B pancreatic cell apoptotic process
+RCV_000083	beta cells	GO_0003323	type B pancreatic cell development
+RCV_000083	beta cells	GO_0003309	type B pancreatic cell differentiation
+RCV_000083	beta cells	GO_0003327	type B pancreatic cell fate commitment
+RCV_000083	beta cells	GO_0072560	type B pancreatic cell maturation
+RCV_000083	beta cells	GO_0044342	type B pancreatic cell proliferation
 RCV_000084	beta-amyloid	GO_0001540	beta-amyloid binding
 RCV_000084	beta-amyloid	GO_0097242	beta-amyloid clearance
 RCV_000084	beta-amyloid	GO_0034205	beta-amyloid formation
@@ -3446,6 +3510,7 @@ RCV_000087	blood pressure	GO_0002014	vasoconstriction of artery involved in isch
 RCV_000087	blood pressure	GO_0003069	vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure
 RCV_000087	blood pressure	GO_0002033	vasodilation by angiotensin involved in regulation of systemic arterial blood pressure
 RCV_000087	blood pressure	GO_0002025	vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure
+RCV_000089	bone marrow	GO_0048539	bone marrow development
 RCV_000091	brain development	GO_0022024	BMP signaling pathway involved in forebrain neuron fate commitment
 RCV_000091	brain development	GO_0021870	Cajal-Retzius cell differentiation
 RCV_000091	brain development	GO_0021926	Golgi cell precursor proliferation
@@ -3839,6 +3904,37 @@ RCV_000091	brain development	GO_0021900	ventricular zone cell fate commitment
 RCV_000091	brain development	GO_0021868	ventricular zone cell-producing asymmetric radial glial cell division in forebrain
 RCV_000091	brain development	GO_0021847	ventricular zone neuroblast division
 RCV_000091	brain development	GO_0021750	vestibular nucleus development
+RCV_000093	calcium homeostasis	GO_0061454	Golgi calcium ion export
+RCV_000093	calcium homeostasis	GO_0032468	Golgi calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0055074	calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0098703	calcium ion import across plasma membrane
+RCV_000093	calcium homeostasis	GO_0097553	calcium ion transmembrane import into cytosol
+RCV_000093	calcium homeostasis	GO_0060402	calcium ion transport into cytosol
+RCV_000093	calcium homeostasis	GO_0006874	cellular calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0010617	circadian regulation of calcium ion oscillation
+RCV_000093	calcium homeostasis	GO_0051480	cytosolic calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0032469	endoplasmic reticulum calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0051560	mitochondrial calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0051481	negative regulation of cytosolic calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0032471	negative regulation of endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051562	negative regulation of mitochondrial calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051565	negative regulation of smooth endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0060472	positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0007204	positive regulation of cytosolic calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0060470	positive regulation of cytosolic calcium ion concentration involved in egg activation
+RCV_000093	calcium homeostasis	GO_0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway
+RCV_000093	calcium homeostasis	GO_0032470	positive regulation of endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051561	positive regulation of mitochondrial calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0051564	positive regulation of smooth endoplasmic reticulum calcium ion concentration
+RCV_000093	calcium homeostasis	GO_0090279	regulation of calcium ion import
+RCV_000093	calcium homeostasis	GO_1901019	regulation of calcium ion transmembrane transporter activity
+RCV_000093	calcium homeostasis	GO_0051924	regulation of calcium ion transport
+RCV_000093	calcium homeostasis	GO_0010522	regulation of calcium ion transport into cytosol
+RCV_000093	calcium homeostasis	GO_0017158	regulation of calcium ion-dependent exocytosis
+RCV_000093	calcium homeostasis	GO_0051209	release of sequestered calcium ion into cytosol
+RCV_000093	calcium homeostasis	GO_0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum
+RCV_000093	calcium homeostasis	GO_0051563	smooth endoplasmic reticulum calcium ion homeostasis
+RCV_000093	calcium homeostasis	GO_0007036	vacuolar calcium ion homeostasis
 RCV_000094	calcium signalling	GO_0043006	activation of phospholipase A2 activity by calcium-mediated signaling
 RCV_000094	calcium signalling	GO_0033173	calcineurin-NFAT signaling cascade
 RCV_000094	calcium signalling	GO_0019722	calcium-mediated signaling
@@ -3855,6 +3951,11 @@ RCV_000094	calcium signalling	GO_0014722	regulation of skeletal muscle contracti
 RCV_000094	calcium signalling	GO_0014723	regulation of skeletal muscle contraction by modulation of calcium ion sensitivity of myofibril
 RCV_000094	calcium signalling	GO_0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion
 RCV_000094	calcium signalling	GO_1900621	regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
+RCV_000095	cannabinoid	GO_1901696	cannabinoid biosynthetic process
+RCV_000095	cannabinoid	GO_0004949	cannabinoid receptor activity
+RCV_000095	cannabinoid	GO_0038171	cannabinoid signaling pathway
+RCV_000095	cannabinoid	GO_0071926	endocannabinoid signaling pathway
+RCV_000095	cannabinoid	GO_2000124	regulation of endocannabinoid signaling pathway
 RCV_000096	carnitine metabolism	GO_0045329	carnitine biosynthetic process
 RCV_000096	carnitine metabolism	GO_0042413	carnitine catabolic process
 RCV_000096	carnitine metabolism	GO_0009437	carnitine metabolic process
@@ -3913,6 +4014,435 @@ RCV_000097	cartilage	GO_0003420	regulation of growth plate cartilage chondrocyte
 RCV_000097	cartilage	GO_0003435	smoothened signaling pathway involved in growth plate cartilage chondrocyte development
 RCV_000097	cartilage	GO_0060534	trachea cartilage development
 RCV_000097	cartilage	GO_0060535	trachea cartilage morphogenesis
+RCV_000098	cell adhesion	GO_0086072	AV node cell-bundle of His cell adhesion involved in cell communication
+RCV_000098	cell adhesion	GO_0097323	B cell adhesion
+RCV_000098	cell adhesion	GO_0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+RCV_000098	cell adhesion	GO_0043369	CD4-positive or CD8-positive, alpha-beta T cell lineage commitment
+RCV_000098	cell adhesion	GO_0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_0002362	CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment
+RCV_000098	cell adhesion	GO_0035710	CD4-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0035783	CD4-positive, alpha-beta T cell costimulation
+RCV_000098	cell adhesion	GO_0043367	CD4-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_0043373	CD4-positive, alpha-beta T cell lineage commitment
+RCV_000098	cell adhesion	GO_0035739	CD4-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000098	cell adhesion	GO_0036037	CD8-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043374	CD8-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_0043375	CD8-positive, alpha-beta T cell lineage commitment
+RCV_000098	cell adhesion	GO_0035740	CD8-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation
+RCV_000098	cell adhesion	GO_0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000098	cell adhesion	GO_0002307	CD8-positive, alpha-beta regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+RCV_000098	cell adhesion	GO_0051132	NK T cell activation
+RCV_000098	cell adhesion	GO_0002288	NK T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0001865	NK T cell differentiation
+RCV_000098	cell adhesion	GO_0002364	NK T cell lineage commitment
+RCV_000098	cell adhesion	GO_0001866	NK T cell proliferation
+RCV_000098	cell adhesion	GO_0002289	NK T cell proliferation involved in immune response
+RCV_000098	cell adhesion	GO_0086074	Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication
+RCV_000098	cell adhesion	GO_0086022	SA node cell-atrial cardiac muscle cell adhesion involved in cell communication
+RCV_000098	cell adhesion	GO_0042110	T cell activation
+RCV_000098	cell adhesion	GO_0002286	T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000098	cell adhesion	GO_0070489	T cell aggregation
+RCV_000098	cell adhesion	GO_0031295	T cell costimulation
+RCV_000098	cell adhesion	GO_0030217	T cell differentiation
+RCV_000098	cell adhesion	GO_0033077	T cell differentiation in thymus
+RCV_000098	cell adhesion	GO_0002292	T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_0001777	T cell homeostatic proliferation
+RCV_000098	cell adhesion	GO_0002360	T cell lineage commitment
+RCV_000098	cell adhesion	GO_0042098	T cell proliferation
+RCV_000098	cell adhesion	GO_0002309	T cell proliferation involved in immune response
+RCV_000098	cell adhesion	GO_0033153	T cell receptor V(D)J recombination
+RCV_000098	cell adhesion	GO_0045058	T cell selection
+RCV_000098	cell adhesion	GO_0061470	T follicular helper cell differentiation
+RCV_000098	cell adhesion	GO_0035711	T-helper 1 cell activation
+RCV_000098	cell adhesion	GO_0045063	T-helper 1 cell differentiation
+RCV_000098	cell adhesion	GO_0002296	T-helper 1 cell lineage commitment
+RCV_000098	cell adhesion	GO_0072539	T-helper 17 cell differentiation
+RCV_000098	cell adhesion	GO_0072540	T-helper 17 cell lineage commitment
+RCV_000098	cell adhesion	GO_0035712	T-helper 2 cell activation
+RCV_000098	cell adhesion	GO_0045064	T-helper 2 cell differentiation
+RCV_000098	cell adhesion	GO_0002297	T-helper 2 cell lineage commitment
+RCV_000098	cell adhesion	GO_0042093	T-helper cell differentiation
+RCV_000098	cell adhesion	GO_0002295	T-helper cell lineage commitment
+RCV_000098	cell adhesion	GO_0035741	activated CD4-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0035742	activated CD8-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0050798	activated T cell proliferation
+RCV_000098	cell adhesion	GO_0098610	adhesion between unicellular organisms
+RCV_000098	cell adhesion	GO_0098741	adhesion between unicellular organisms via cell-wall interaction
+RCV_000098	cell adhesion	GO_0000771	agglutination involved in conjugation
+RCV_000098	cell adhesion	GO_0000752	agglutination involved in conjugation with cellular fusion
+RCV_000098	cell adhesion	GO_0000758	agglutination involved in conjugation with mutual genetic exchange
+RCV_000098	cell adhesion	GO_0046631	alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0042722	alpha-beta T cell activation by superantigen
+RCV_000098	cell adhesion	GO_0002287	alpha-beta T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0046632	alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_0002293	alpha-beta T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_0002363	alpha-beta T cell lineage commitment
+RCV_000098	cell adhesion	GO_0046633	alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0002310	alpha-beta T cell proliferation involved in immune response
+RCV_000098	cell adhesion	GO_0002299	alpha-beta intraepithelial T cell differentiation
+RCV_000098	cell adhesion	GO_0086071	atrial cardiac muscle cell-AV node cell adhesion involved in cell communication
+RCV_000098	cell adhesion	GO_0043366	beta selection
+RCV_000098	cell adhesion	GO_0097497	blood vessel endothelial cell delamination
+RCV_000098	cell adhesion	GO_1902354	blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment
+RCV_000098	cell adhesion	GO_0030709	border follicle cell delamination
+RCV_000098	cell adhesion	GO_0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication
+RCV_000098	cell adhesion	GO_0098641	cadherin binding involved in cell-cell adhesion
+RCV_000098	cell adhesion	GO_0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules
+RCV_000098	cell adhesion	GO_0016340	calcium-dependent cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules
+RCV_000098	cell adhesion	GO_0007161	calcium-independent cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0086042	cardiac muscle cell-cardiac muscle cell adhesion
+RCV_000098	cell adhesion	GO_0036036	cardiac neural crest cell delamination
+RCV_000098	cell adhesion	GO_1900728	cardiac neural crest cell delamination involved in outflow tract morphogenesis
+RCV_000098	cell adhesion	GO_0003317	cardioblast cell midline fusion
+RCV_000098	cell adhesion	GO_0007155	cell adhesion
+RCV_000098	cell adhesion	GO_0003396	cell adhesion involved in amphid sensory organ dendrite retrograde extension
+RCV_000098	cell adhesion	GO_0043708	cell adhesion involved in biofilm formation
+RCV_000098	cell adhesion	GO_0003394	cell adhesion involved in dendrite retrograde extension
+RCV_000098	cell adhesion	GO_0061343	cell adhesion involved in heart morphogenesis
+RCV_000098	cell adhesion	GO_0043710	cell adhesion involved in multi-species biofilm formation
+RCV_000098	cell adhesion	GO_0060519	cell adhesion involved in prostatic bud elongation
+RCV_000098	cell adhesion	GO_0003392	cell adhesion involved in retrograde extension
+RCV_000098	cell adhesion	GO_0043709	cell adhesion involved in single-species biofilm formation
+RCV_000098	cell adhesion	GO_0043707	cell adhesion involved in single-species biofilm formation in or on host organism
+RCV_000098	cell adhesion	GO_0033627	cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0060352	cell adhesion molecule production
+RCV_000098	cell adhesion	GO_0086082	cell adhesive protein binding involved in AV node cell-bundle of His cell communication
+RCV_000098	cell adhesion	GO_0086084	cell adhesive protein binding involved in Purkinje myocyte-ventricular cardiac muscle cell communication
+RCV_000098	cell adhesion	GO_0086085	cell adhesive protein binding involved in SA cardiac muscle cell-atrial cardiac muscle cell communication
+RCV_000098	cell adhesion	GO_0086081	cell adhesive protein binding involved in atrial cardiac muscle cell-AV node cell communication
+RCV_000098	cell adhesion	GO_0086083	cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication
+RCV_000098	cell adhesion	GO_0036164	cell-abiotic substrate adhesion
+RCV_000098	cell adhesion	GO_0098609	cell-cell adhesion
+RCV_000098	cell adhesion	GO_0003367	cell-cell adhesion involved in ameboidal cell migration
+RCV_000098	cell adhesion	GO_0021832	cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions
+RCV_000098	cell adhesion	GO_0090250	cell-cell adhesion involved in establishment of planar polarity
+RCV_000098	cell adhesion	GO_0043689	cell-cell adhesion involved in flocculation
+RCV_000098	cell adhesion	GO_0043690	cell-cell adhesion involved in flocculation via cell wall protein-carbohydrate interaction
+RCV_000098	cell adhesion	GO_0098611	cell-cell adhesion involved in galactose-specific flocculation
+RCV_000098	cell adhesion	GO_0070586	cell-cell adhesion involved in gastrulation
+RCV_000098	cell adhesion	GO_0098612	cell-cell adhesion involved in mannose-specific flocculation
+RCV_000098	cell adhesion	GO_0003370	cell-cell adhesion involved in mesendodermal cell migration
+RCV_000098	cell adhesion	GO_0060608	cell-cell adhesion involved in neural tube closure
+RCV_000098	cell adhesion	GO_0021813	cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration
+RCV_000098	cell adhesion	GO_0060607	cell-cell adhesion involved in sealing an epithelial fold
+RCV_000098	cell adhesion	GO_0090125	cell-cell adhesion involved in synapse maturation
+RCV_000098	cell adhesion	GO_0044331	cell-cell adhesion mediated by cadherin
+RCV_000098	cell adhesion	GO_0033631	cell-cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0098742	cell-cell adhesion via plasma-membrane adhesion molecules
+RCV_000098	cell adhesion	GO_0007160	cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0003366	cell-matrix adhesion involved in ameboidal cell migration
+RCV_000098	cell adhesion	GO_0003368	cell-matrix adhesion involved in mesendodermal cell migration
+RCV_000098	cell adhesion	GO_0021833	cell-matrix adhesion involved in tangential migration using cell-cell interactions
+RCV_000098	cell adhesion	GO_0031589	cell-substrate adhesion
+RCV_000098	cell adhesion	GO_0060710	chorio-allantoic fusion
+RCV_000098	cell adhesion	GO_0098639	collagen binding involved in cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0000761	conjugant formation
+RCV_000098	cell adhesion	GO_0003336	corneocyte desquamation
+RCV_000098	cell adhesion	GO_0043316	cytotoxic T cell degranulation
+RCV_000098	cell adhesion	GO_0045065	cytotoxic T cell differentiation
+RCV_000098	cell adhesion	GO_0060232	delamination
+RCV_000098	cell adhesion	GO_0055112	delamination involved in gastrulation with mouth forming second
+RCV_000098	cell adhesion	GO_0003274	endocardial cushion fusion
+RCV_000098	cell adhesion	GO_0071603	endothelial cell-cell adhesion
+RCV_000098	cell adhesion	GO_0098508	endothelial to hematopoietic transition
+RCV_000098	cell adhesion	GO_0090136	epithelial cell-cell adhesion
+RCV_000098	cell adhesion	GO_0090137	epithelial cell-cell adhesion involved in epithelium migration
+RCV_000098	cell adhesion	GO_0034117	erythrocyte aggregation
+RCV_000098	cell adhesion	GO_0001768	establishment of T cell polarity
+RCV_000098	cell adhesion	GO_0033078	extrathymic T cell differentiation
+RCV_000098	cell adhesion	GO_0045062	extrathymic T cell selection
+RCV_000098	cell adhesion	GO_0048041	focal adhesion assembly
+RCV_000098	cell adhesion	GO_0046629	gamma-delta T cell activation
+RCV_000098	cell adhesion	GO_0002290	gamma-delta T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0042492	gamma-delta T cell differentiation
+RCV_000098	cell adhesion	GO_0002303	gamma-delta T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_0002365	gamma-delta T cell lineage commitment
+RCV_000098	cell adhesion	GO_0046630	gamma-delta T cell proliferation
+RCV_000098	cell adhesion	GO_0002311	gamma-delta T cell proliferation involved in immune response
+RCV_000098	cell adhesion	GO_0002304	gamma-delta intraepithelial T cell differentiation
+RCV_000098	cell adhesion	GO_0043706	heterophilic cell adhesion involved in cytoadherence to microvasculature, mediated by parasite protein
+RCV_000098	cell adhesion	GO_0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+RCV_000098	cell adhesion	GO_0034113	heterotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_0007156	homophilic cell adhesion via plasma membrane adhesion molecules
+RCV_000098	cell adhesion	GO_0034109	homotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_0033079	immature T cell proliferation
+RCV_000098	cell adhesion	GO_0033080	immature T cell proliferation in thymus
+RCV_000098	cell adhesion	GO_0098640	integrin binding involved in cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0021839	interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex
+RCV_000098	cell adhesion	GO_0098638	laminin binding involved in cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0050903	leukocyte activation-dependent arrest
+RCV_000098	cell adhesion	GO_0070486	leukocyte aggregation
+RCV_000098	cell adhesion	GO_0007159	leukocyte cell-cell adhesion
+RCV_000098	cell adhesion	GO_0050901	leukocyte tethering or rolling
+RCV_000098	cell adhesion	GO_0036339	lymphocyte adhesion to endothelial cell of high endothelial venule
+RCV_000098	cell adhesion	GO_0071593	lymphocyte aggregation
+RCV_000098	cell adhesion	GO_0097326	melanocyte adhesion
+RCV_000098	cell adhesion	GO_0035709	memory T cell activation
+RCV_000098	cell adhesion	GO_0043379	memory T cell differentiation
+RCV_000098	cell adhesion	GO_0061485	memory T cell proliferation
+RCV_000098	cell adhesion	GO_0035759	mesangial cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0060647	mesenchymal cell condensation involved in mammary fat development
+RCV_000098	cell adhesion	GO_0020013	modulation by symbiont of host erythrocyte aggregation
+RCV_000098	cell adhesion	GO_0035892	modulation of platelet aggregation in other organism
+RCV_000098	cell adhesion	GO_0070487	monocyte aggregation
+RCV_000098	cell adhesion	GO_0098740	multi organism cell adhesion
+RCV_000098	cell adhesion	GO_0043383	negative T cell selection
+RCV_000098	cell adhesion	GO_0045068	negative extrathymic T cell selection
+RCV_000098	cell adhesion	GO_0032830	negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_0032833	negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_2000515	negative regulation of CD4-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043371	negative regulation of CD4-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_2000562	negative regulation of CD4-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_2001186	negative regulation of CD8-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043377	negative regulation of CD8-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_2000565	negative regulation of CD8-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0051134	negative regulation of NK T cell activation
+RCV_000098	cell adhesion	GO_0051137	negative regulation of NK T cell differentiation
+RCV_000098	cell adhesion	GO_0051141	negative regulation of NK T cell proliferation
+RCV_000098	cell adhesion	GO_0050868	negative regulation of T cell activation
+RCV_000098	cell adhesion	GO_2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000098	cell adhesion	GO_0045581	negative regulation of T cell differentiation
+RCV_000098	cell adhesion	GO_0033085	negative regulation of T cell differentiation in thymus
+RCV_000098	cell adhesion	GO_0046014	negative regulation of T cell homeostatic proliferation
+RCV_000098	cell adhesion	GO_0042130	negative regulation of T cell proliferation
+RCV_000098	cell adhesion	GO_2000518	negative regulation of T-helper 1 cell activation
+RCV_000098	cell adhesion	GO_0045626	negative regulation of T-helper 1 cell differentiation
+RCV_000098	cell adhesion	GO_2000320	negative regulation of T-helper 17 cell differentiation
+RCV_000098	cell adhesion	GO_2000329	negative regulation of T-helper 17 cell lineage commitment
+RCV_000098	cell adhesion	GO_0045629	negative regulation of T-helper 2 cell differentiation
+RCV_000098	cell adhesion	GO_0045623	negative regulation of T-helper cell differentiation
+RCV_000098	cell adhesion	GO_0046007	negative regulation of activated T cell proliferation
+RCV_000098	cell adhesion	GO_0046636	negative regulation of alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0046639	negative regulation of alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_0046642	negative regulation of alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0046588	negative regulation of calcium-dependent cell-cell adhesion
+RCV_000098	cell adhesion	GO_0051042	negative regulation of calcium-independent cell-cell adhesion
+RCV_000098	cell adhesion	GO_0007162	negative regulation of cell adhesion
+RCV_000098	cell adhesion	GO_0021804	negative regulation of cell adhesion in ventricular zone
+RCV_000098	cell adhesion	GO_1900188	negative regulation of cell adhesion involved in single-species biofilm formation
+RCV_000098	cell adhesion	GO_0006933	negative regulation of cell adhesion involved in substrate-bound cell migration
+RCV_000098	cell adhesion	GO_0033629	negative regulation of cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0060354	negative regulation of cell adhesion molecule production
+RCV_000098	cell adhesion	GO_0022408	negative regulation of cell-cell adhesion
+RCV_000098	cell adhesion	GO_1900387	negative regulation of cell-cell adhesion by negative regulation of transcription from RNA polymerase II promoter
+RCV_000098	cell adhesion	GO_2000048	negative regulation of cell-cell adhesion mediated by cadherin
+RCV_000098	cell adhesion	GO_0033633	negative regulation of cell-cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0021821	negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination
+RCV_000098	cell adhesion	GO_0001953	negative regulation of cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0010812	negative regulation of cell-substrate adhesion
+RCV_000098	cell adhesion	GO_0043318	negative regulation of cytotoxic T cell degranulation
+RCV_000098	cell adhesion	GO_0045584	negative regulation of cytotoxic T cell differentiation
+RCV_000098	cell adhesion	GO_1903682	negative regulation of epithelial cell-cell adhesion involved in epithelium migration
+RCV_000098	cell adhesion	GO_0034119	negative regulation of erythrocyte aggregation
+RCV_000098	cell adhesion	GO_0033086	negative regulation of extrathymic T cell differentiation
+RCV_000098	cell adhesion	GO_0051895	negative regulation of focal adhesion assembly
+RCV_000098	cell adhesion	GO_0046644	negative regulation of gamma-delta T cell activation
+RCV_000098	cell adhesion	GO_2001192	negative regulation of gamma-delta T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0045587	negative regulation of gamma-delta T cell differentiation
+RCV_000098	cell adhesion	GO_0046647	negative regulation of gamma-delta T cell proliferation
+RCV_000098	cell adhesion	GO_0034115	negative regulation of heterotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_1903386	negative regulation of homophilic cell adhesion
+RCV_000098	cell adhesion	GO_0034111	negative regulation of homotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_0033087	negative regulation of immature T cell proliferation
+RCV_000098	cell adhesion	GO_0033088	negative regulation of immature T cell proliferation in thymus
+RCV_000098	cell adhesion	GO_1903038	negative regulation of leukocyte cell-cell adhesion
+RCV_000098	cell adhesion	GO_1903237	negative regulation of leukocyte tethering or rolling
+RCV_000098	cell adhesion	GO_0043381	negative regulation of memory T cell differentiation
+RCV_000098	cell adhesion	GO_1900624	negative regulation of monocyte aggregation
+RCV_000098	cell adhesion	GO_2000429	negative regulation of neutrophil aggregation
+RCV_000098	cell adhesion	GO_0090331	negative regulation of platelet aggregation
+RCV_000098	cell adhesion	GO_0035893	negative regulation of platelet aggregation in other organism
+RCV_000098	cell adhesion	GO_1902233	negative regulation of positive thymic T cell selection
+RCV_000098	cell adhesion	GO_2000175	negative regulation of pro-T cell differentiation
+RCV_000098	cell adhesion	GO_0045590	negative regulation of regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_2000098	negative regulation of smooth muscle cell-matrix adhesion
+RCV_000098	cell adhesion	GO_1900025	negative regulation of substrate adhesion-dependent cell spreading
+RCV_000098	cell adhesion	GO_2000399	negative regulation of thymocyte aggregation
+RCV_000098	cell adhesion	GO_0045060	negative thymic T cell selection
+RCV_000098	cell adhesion	GO_0036032	neural crest cell delamination
+RCV_000098	cell adhesion	GO_0060234	neuroblast delamination
+RCV_000098	cell adhesion	GO_0007158	neuron cell-cell adhesion
+RCV_000098	cell adhesion	GO_0021812	neuronal-glial interaction involved in cerebral cortex radial glia guided migration
+RCV_000098	cell adhesion	GO_0021944	neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration
+RCV_000098	cell adhesion	GO_0070488	neutrophil aggregation
+RCV_000098	cell adhesion	GO_0060233	oenocyte delamination
+RCV_000098	cell adhesion	GO_0007299	ovarian follicle cell-cell adhesion
+RCV_000098	cell adhesion	GO_0070527	platelet aggregation
+RCV_000098	cell adhesion	GO_0009876	pollen adhesion
+RCV_000098	cell adhesion	GO_0009865	pollen tube adhesion
+RCV_000098	cell adhesion	GO_0043368	positive T cell selection
+RCV_000098	cell adhesion	GO_0045067	positive extrathymic T cell selection
+RCV_000098	cell adhesion	GO_0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_0032834	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_2000516	positive regulation of CD4-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_2000563	positive regulation of CD4-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_2001187	positive regulation of CD8-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043378	positive regulation of CD8-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_2000566	positive regulation of CD8-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0051135	positive regulation of NK T cell activation
+RCV_000098	cell adhesion	GO_0051138	positive regulation of NK T cell differentiation
+RCV_000098	cell adhesion	GO_0051142	positive regulation of NK T cell proliferation
+RCV_000098	cell adhesion	GO_0050870	positive regulation of T cell activation
+RCV_000098	cell adhesion	GO_2001190	positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000098	cell adhesion	GO_0045582	positive regulation of T cell differentiation
+RCV_000098	cell adhesion	GO_0033089	positive regulation of T cell differentiation in thymus
+RCV_000098	cell adhesion	GO_0042103	positive regulation of T cell homeostatic proliferation
+RCV_000098	cell adhesion	GO_0042102	positive regulation of T cell proliferation
+RCV_000098	cell adhesion	GO_2000519	positive regulation of T-helper 1 cell activation
+RCV_000098	cell adhesion	GO_0045627	positive regulation of T-helper 1 cell differentiation
+RCV_000098	cell adhesion	GO_2000321	positive regulation of T-helper 17 cell differentiation
+RCV_000098	cell adhesion	GO_2000330	positive regulation of T-helper 17 cell lineage commitment
+RCV_000098	cell adhesion	GO_2000570	positive regulation of T-helper 2 cell activation
+RCV_000098	cell adhesion	GO_0045630	positive regulation of T-helper 2 cell differentiation
+RCV_000098	cell adhesion	GO_0045624	positive regulation of T-helper cell differentiation
+RCV_000098	cell adhesion	GO_0042104	positive regulation of activated T cell proliferation
+RCV_000098	cell adhesion	GO_0046635	positive regulation of alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0046638	positive regulation of alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_0046641	positive regulation of alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0046587	positive regulation of calcium-dependent cell-cell adhesion
+RCV_000098	cell adhesion	GO_0051041	positive regulation of calcium-independent cell-cell adhesion
+RCV_000098	cell adhesion	GO_1902027	positive regulation of cartilage condensation
+RCV_000098	cell adhesion	GO_0045785	positive regulation of cell adhesion
+RCV_000098	cell adhesion	GO_1900189	positive regulation of cell adhesion involved in single-species biofilm formation
+RCV_000098	cell adhesion	GO_0033630	positive regulation of cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0060355	positive regulation of cell adhesion molecule production
+RCV_000098	cell adhesion	GO_0022409	positive regulation of cell-cell adhesion
+RCV_000098	cell adhesion	GO_2000049	positive regulation of cell-cell adhesion mediated by cadherin
+RCV_000098	cell adhesion	GO_0033634	positive regulation of cell-cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0001954	positive regulation of cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0010811	positive regulation of cell-substrate adhesion
+RCV_000098	cell adhesion	GO_0043319	positive regulation of cytotoxic T cell degranulation
+RCV_000098	cell adhesion	GO_0045585	positive regulation of cytotoxic T cell differentiation
+RCV_000098	cell adhesion	GO_1903683	positive regulation of epithelial cell-cell adhesion involved in epithelium migration
+RCV_000098	cell adhesion	GO_0034120	positive regulation of erythrocyte aggregation
+RCV_000098	cell adhesion	GO_0033090	positive regulation of extrathymic T cell differentiation
+RCV_000098	cell adhesion	GO_0051894	positive regulation of focal adhesion assembly
+RCV_000098	cell adhesion	GO_0046645	positive regulation of gamma-delta T cell activation
+RCV_000098	cell adhesion	GO_2001193	positive regulation of gamma-delta T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0045588	positive regulation of gamma-delta T cell differentiation
+RCV_000098	cell adhesion	GO_0046648	positive regulation of gamma-delta T cell proliferation
+RCV_000098	cell adhesion	GO_0034116	positive regulation of heterotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_1903387	positive regulation of homophilic cell adhesion
+RCV_000098	cell adhesion	GO_0034112	positive regulation of homotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_0033091	positive regulation of immature T cell proliferation
+RCV_000098	cell adhesion	GO_0033092	positive regulation of immature T cell proliferation in thymus
+RCV_000098	cell adhesion	GO_1903039	positive regulation of leukocyte cell-cell adhesion
+RCV_000098	cell adhesion	GO_1903238	positive regulation of leukocyte tethering or rolling
+RCV_000098	cell adhesion	GO_2000568	positive regulation of memory T cell activation
+RCV_000098	cell adhesion	GO_0043382	positive regulation of memory T cell differentiation
+RCV_000098	cell adhesion	GO_1900625	positive regulation of monocyte aggregation
+RCV_000098	cell adhesion	GO_2000430	positive regulation of neutrophil aggregation
+RCV_000098	cell adhesion	GO_1901731	positive regulation of platelet aggregation
+RCV_000098	cell adhesion	GO_0035894	positive regulation of platelet aggregation in other organism
+RCV_000098	cell adhesion	GO_1902234	positive regulation of positive thymic T cell selection
+RCV_000098	cell adhesion	GO_2000176	positive regulation of pro-T cell differentiation
+RCV_000098	cell adhesion	GO_0045591	positive regulation of regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_1900026	positive regulation of substrate adhesion-dependent cell spreading
+RCV_000098	cell adhesion	GO_2000400	positive regulation of thymocyte aggregation
+RCV_000098	cell adhesion	GO_0045059	positive thymic T cell selection
+RCV_000098	cell adhesion	GO_0021507	posterior neuropore closure
+RCV_000098	cell adhesion	GO_0072035	pre-tubular aggregate formation
+RCV_000098	cell adhesion	GO_0002572	pro-T cell differentiation
+RCV_000098	cell adhesion	GO_0002680	pro-T cell lineage commitment
+RCV_000098	cell adhesion	GO_0098631	protein binding involved in cell adhesion
+RCV_000098	cell adhesion	GO_0098632	protein binding involved in cell-cell adhesion
+RCV_000098	cell adhesion	GO_0098634	protein binding involved in cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0086080	protein binding involved in heterotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_0032829	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_0032832	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000098	cell adhesion	GO_2000514	regulation of CD4-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043370	regulation of CD4-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_2000561	regulation of CD4-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_2001185	regulation of CD8-positive, alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0043376	regulation of CD8-positive, alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_2000564	regulation of CD8-positive, alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0051133	regulation of NK T cell activation
+RCV_000098	cell adhesion	GO_0051136	regulation of NK T cell differentiation
+RCV_000098	cell adhesion	GO_0051140	regulation of NK T cell proliferation
+RCV_000098	cell adhesion	GO_0050863	regulation of T cell activation
+RCV_000098	cell adhesion	GO_2001188	regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000098	cell adhesion	GO_0045580	regulation of T cell differentiation
+RCV_000098	cell adhesion	GO_0033081	regulation of T cell differentiation in thymus
+RCV_000098	cell adhesion	GO_0046013	regulation of T cell homeostatic proliferation
+RCV_000098	cell adhesion	GO_0042129	regulation of T cell proliferation
+RCV_000098	cell adhesion	GO_2000517	regulation of T-helper 1 cell activation
+RCV_000098	cell adhesion	GO_0045625	regulation of T-helper 1 cell differentiation
+RCV_000098	cell adhesion	GO_2000319	regulation of T-helper 17 cell differentiation
+RCV_000098	cell adhesion	GO_2000328	regulation of T-helper 17 cell lineage commitment
+RCV_000098	cell adhesion	GO_2000569	regulation of T-helper 2 cell activation
+RCV_000098	cell adhesion	GO_0045628	regulation of T-helper 2 cell differentiation
+RCV_000098	cell adhesion	GO_0045622	regulation of T-helper cell differentiation
+RCV_000098	cell adhesion	GO_0090138	regulation of actin cytoskeleton organization by cell-cell adhesion
+RCV_000098	cell adhesion	GO_0046006	regulation of activated T cell proliferation
+RCV_000098	cell adhesion	GO_0046634	regulation of alpha-beta T cell activation
+RCV_000098	cell adhesion	GO_0046637	regulation of alpha-beta T cell differentiation
+RCV_000098	cell adhesion	GO_0046640	regulation of alpha-beta T cell proliferation
+RCV_000098	cell adhesion	GO_0046586	regulation of calcium-dependent cell-cell adhesion
+RCV_000098	cell adhesion	GO_0051040	regulation of calcium-independent cell-cell adhesion
+RCV_000098	cell adhesion	GO_1902026	regulation of cartilage condensation
+RCV_000098	cell adhesion	GO_0030155	regulation of cell adhesion
+RCV_000098	cell adhesion	GO_0003436	regulation of cell adhesion involved in growth plate cartilage morphogenesis
+RCV_000098	cell adhesion	GO_0061344	regulation of cell adhesion involved in heart morphogenesis
+RCV_000098	cell adhesion	GO_0061342	regulation of cell adhesion involved in heart morphogenesis by non-canonical Wnt signaling pathway
+RCV_000098	cell adhesion	GO_0002045	regulation of cell adhesion involved in intussusceptive angiogenesis
+RCV_000098	cell adhesion	GO_1900187	regulation of cell adhesion involved in single-species biofilm formation
+RCV_000098	cell adhesion	GO_0033628	regulation of cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0060353	regulation of cell adhesion molecule production
+RCV_000098	cell adhesion	GO_0022407	regulation of cell-cell adhesion
+RCV_000098	cell adhesion	GO_0070587	regulation of cell-cell adhesion involved in gastrulation
+RCV_000098	cell adhesion	GO_2000047	regulation of cell-cell adhesion mediated by cadherin
+RCV_000098	cell adhesion	GO_0033632	regulation of cell-cell adhesion mediated by integrin
+RCV_000098	cell adhesion	GO_0001952	regulation of cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0010810	regulation of cell-substrate adhesion
+RCV_000098	cell adhesion	GO_0043317	regulation of cytotoxic T cell degranulation
+RCV_000098	cell adhesion	GO_0045583	regulation of cytotoxic T cell differentiation
+RCV_000098	cell adhesion	GO_1903681	regulation of epithelial cell-cell adhesion involved in epithelium migration
+RCV_000098	cell adhesion	GO_0034118	regulation of erythrocyte aggregation
+RCV_000098	cell adhesion	GO_0033082	regulation of extrathymic T cell differentiation
+RCV_000098	cell adhesion	GO_0051893	regulation of focal adhesion assembly
+RCV_000098	cell adhesion	GO_0046643	regulation of gamma-delta T cell activation
+RCV_000098	cell adhesion	GO_2001191	regulation of gamma-delta T cell activation involved in immune response
+RCV_000098	cell adhesion	GO_0045586	regulation of gamma-delta T cell differentiation
+RCV_000098	cell adhesion	GO_0046646	regulation of gamma-delta T cell proliferation
+RCV_000098	cell adhesion	GO_0034114	regulation of heterotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_1903385	regulation of homophilic cell adhesion
+RCV_000098	cell adhesion	GO_0034110	regulation of homotypic cell-cell adhesion
+RCV_000098	cell adhesion	GO_0033083	regulation of immature T cell proliferation
+RCV_000098	cell adhesion	GO_0033084	regulation of immature T cell proliferation in thymus
+RCV_000098	cell adhesion	GO_1903037	regulation of leukocyte cell-cell adhesion
+RCV_000098	cell adhesion	GO_1903236	regulation of leukocyte tethering or rolling
+RCV_000098	cell adhesion	GO_2000567	regulation of memory T cell activation
+RCV_000098	cell adhesion	GO_0043380	regulation of memory T cell differentiation
+RCV_000098	cell adhesion	GO_1900623	regulation of monocyte aggregation
+RCV_000098	cell adhesion	GO_2000428	regulation of neutrophil aggregation
+RCV_000098	cell adhesion	GO_0090330	regulation of platelet aggregation
+RCV_000098	cell adhesion	GO_1902232	regulation of positive thymic T cell selection
+RCV_000098	cell adhesion	GO_0072043	regulation of pre-tubular aggregate formation by cell-cell signaling
+RCV_000098	cell adhesion	GO_2000174	regulation of pro-T cell differentiation
+RCV_000098	cell adhesion	GO_0045589	regulation of regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_2000097	regulation of smooth muscle cell-matrix adhesion
+RCV_000098	cell adhesion	GO_1900024	regulation of substrate adhesion-dependent cell spreading
+RCV_000098	cell adhesion	GO_2000398	regulation of thymocyte aggregation
+RCV_000098	cell adhesion	GO_0045066	regulatory T cell differentiation
+RCV_000098	cell adhesion	GO_0098602	single organism cell adhesion
+RCV_000098	cell adhesion	GO_0016337	single organismal cell-cell adhesion
+RCV_000098	cell adhesion	GO_0061302	smooth muscle cell-matrix adhesion
+RCV_000098	cell adhesion	GO_0002568	somatic diversification of T cell receptor genes
+RCV_000098	cell adhesion	GO_0002571	somatic diversification of T cell receptor genes by N region addition
+RCV_000098	cell adhesion	GO_0002681	somatic recombination of T cell receptor gene segments
+RCV_000098	cell adhesion	GO_0034446	substrate adhesion-dependent cell spreading
+RCV_000098	cell adhesion	GO_0006931	substrate-dependent cell migration, cell attachment to substrate
+RCV_000098	cell adhesion	GO_0045061	thymic T cell selection
+RCV_000098	cell adhesion	GO_0071594	thymocyte aggregation
 RCV_000115	cell differentiation	GO_0030183	B cell differentiation
 RCV_000115	cell differentiation	GO_0001923	B-1 B cell differentiation
 RCV_000115	cell differentiation	GO_0002337	B-1a B cell differentiation
@@ -4980,6 +5510,72 @@ RCV_000120	cell migration	GO_0060855	venous endothelial cell migration involved 
 RCV_000120	cell migration	GO_0036486	ventral trunk neural crest cell migration
 RCV_000120	cell migration	GO_0044319	wound healing, spreading of cells
 RCV_000120	cell migration	GO_0035313	wound healing, spreading of epidermal cells
+RCV_000121	cell morphogenesis	GO_0048940	anterior lateral line nerve glial cell morphogenesis involved in differentiation
+RCV_000121	cell morphogenesis	GO_0035679	anterior lateral line neuromast hair cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0002093	auditory receptor cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0042815	bipolar cell growth
+RCV_000121	cell morphogenesis	GO_0060317	cardiac epithelial to mesenchymal transition
+RCV_000121	cell morphogenesis	GO_0090254	cell elongation involved in imaginal disc-derived wing morphogenesis
+RCV_000121	cell morphogenesis	GO_0000902	cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0061336	cell morphogenesis involved in Malpighian tubule morphogenesis
+RCV_000121	cell morphogenesis	GO_0000767	cell morphogenesis involved in conjugation
+RCV_000121	cell morphogenesis	GO_0000753	cell morphogenesis involved in conjugation with cellular fusion
+RCV_000121	cell morphogenesis	GO_0000759	cell morphogenesis involved in conjugation with mutual genetic exchange
+RCV_000121	cell morphogenesis	GO_0000904	cell morphogenesis involved in differentiation
+RCV_000121	cell morphogenesis	GO_0048667	cell morphogenesis involved in neuron differentiation
+RCV_000121	cell morphogenesis	GO_0060880	cell morphogenesis involved in semicircular canal fusion
+RCV_000121	cell morphogenesis	GO_0009932	cell tip growth
+RCV_000121	cell morphogenesis	GO_0090171	chondrocyte morphogenesis
+RCV_000121	cell morphogenesis	GO_0003414	chondrocyte morphogenesis involved in endochondral bone morphogenesis
+RCV_000121	cell morphogenesis	GO_0060886	clearance of cells from fusion plate by epithelial to mesenchymal transition
+RCV_000121	cell morphogenesis	GO_0007394	dorsal closure, elongation of leading edge cells
+RCV_000121	cell morphogenesis	GO_0090500	endocardial cushion to mesenchymal transition
+RCV_000121	cell morphogenesis	GO_0003202	endocardial cushion to mesenchymal transition involved in cardiac skeleton development
+RCV_000121	cell morphogenesis	GO_0003200	endocardial cushion to mesenchymal transition involved in heart chamber septation
+RCV_000121	cell morphogenesis	GO_0003199	endocardial cushion to mesenchymal transition involved in heart valve formation
+RCV_000121	cell morphogenesis	GO_0001886	endothelial cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0098508	endothelial to hematopoietic transition
+RCV_000121	cell morphogenesis	GO_0003347	epicardial cell to mesenchymal cell transition
+RCV_000121	cell morphogenesis	GO_0003382	epithelial cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0003381	epithelial cell morphogenesis involved in gastrulation
+RCV_000121	cell morphogenesis	GO_0060672	epithelial cell morphogenesis involved in placental branching
+RCV_000121	cell morphogenesis	GO_0001837	epithelial to mesenchymal transition
+RCV_000121	cell morphogenesis	GO_0060940	epithelial to mesenchymal transition involved in cardiac fibroblast development
+RCV_000121	cell morphogenesis	GO_0003201	epithelial to mesenchymal transition involved in coronary vasculature morphogenesis
+RCV_000121	cell morphogenesis	GO_0003198	epithelial to mesenchymal transition involved in endocardial cushion formation
+RCV_000121	cell morphogenesis	GO_0021943	formation of radial glial scaffolds
+RCV_000121	cell morphogenesis	GO_0003429	growth plate cartilage chondrocyte morphogenesis
+RCV_000121	cell morphogenesis	GO_0010442	guard cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0001828	inner cell mass cellular morphogenesis
+RCV_000121	cell morphogenesis	GO_0048938	lateral line nerve glial cell morphogenesis involved in differentiation
+RCV_000121	cell morphogenesis	GO_0070309	lens fiber cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0060231	mesenchymal to epithelial transition
+RCV_000121	cell morphogenesis	GO_0061271	mesenchymal to epithelial transition involved in mesonephric renal vesicle formation
+RCV_000121	cell morphogenesis	GO_0061261	mesenchymal to epithelial transition involved in mesonephros morphogenesis
+RCV_000121	cell morphogenesis	GO_0072285	mesenchymal to epithelial transition involved in metanephric renal vesicle formation
+RCV_000121	cell morphogenesis	GO_0003337	mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000121	cell morphogenesis	GO_0072036	mesenchymal to epithelial transition involved in renal vesicle formation
+RCV_000121	cell morphogenesis	GO_0060809	mesodermal to mesenchymal transition involved in gastrulation
+RCV_000121	cell morphogenesis	GO_0042814	monopolar cell growth
+RCV_000121	cell morphogenesis	GO_0014029	neural crest formation
+RCV_000121	cell morphogenesis	GO_0035678	neuromast hair cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0048601	oocyte morphogenesis
+RCV_000121	cell morphogenesis	GO_0030713	ovarian follicle cell stalk formation
+RCV_000121	cell morphogenesis	GO_0008594	photoreceptor cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0036344	platelet morphogenesis
+RCV_000121	cell morphogenesis	GO_0009860	pollen tube growth
+RCV_000121	cell morphogenesis	GO_0048942	posterior lateral line nerve glial cell morphogenesis involved in differentiation
+RCV_000121	cell morphogenesis	GO_0035680	posterior lateral line neuromast hair cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0048768	root hair cell tip growth
+RCV_000121	cell morphogenesis	GO_0048766	root hair initiation
+RCV_000121	cell morphogenesis	GO_0090378	seed trichome elongation
+RCV_000121	cell morphogenesis	GO_0034446	substrate adhesion-dependent cell spreading
+RCV_000121	cell morphogenesis	GO_0010091	trichome branching
+RCV_000121	cell morphogenesis	GO_0010090	trichome morphogenesis
+RCV_000121	cell morphogenesis	GO_0001831	trophectodermal cellular morphogenesis
+RCV_000121	cell morphogenesis	GO_0009826	unidimensional cell growth
+RCV_000121	cell morphogenesis	GO_0060116	vestibular receptor cell morphogenesis
+RCV_000121	cell morphogenesis	GO_0080159	zygote elongation
 RCV_000122	cell motility	GO_0035754	B cell chemotaxis
 RCV_000122	cell motility	GO_0035769	B cell chemotaxis across high endothelial venule
 RCV_000122	cell motility	GO_0061353	BMP signaling pathway involved in Malpighian tubule cell chemotaxis
@@ -5652,6 +6248,7 @@ RCV_000123	cell proliferation	GO_0070348	negative regulation of brown fat cell p
 RCV_000123	cell proliferation	GO_2000080	negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
 RCV_000123	cell proliferation	GO_0060044	negative regulation of cardiac muscle cell proliferation
 RCV_000123	cell proliferation	GO_0008285	negative regulation of cell proliferation
+RCV_000123	cell proliferation	GO_1903769	negative regulation of cell proliferation in bone marrow
 RCV_000123	cell proliferation	GO_1902832	negative regulation of cell proliferation in dorsal spinal cord
 RCV_000123	cell proliferation	GO_2000496	negative regulation of cell proliferation involved in compound eye morphogenesis
 RCV_000123	cell proliferation	GO_0060244	negative regulation of cell proliferation involved in contact inhibition
@@ -6061,6 +6658,57 @@ RCV_000130	cell-matrix adhesion	GO_0051893	regulation of focal adhesion assembly
 RCV_000130	cell-matrix adhesion	GO_2000097	regulation of smooth muscle cell-matrix adhesion
 RCV_000130	cell-matrix adhesion	GO_0061302	smooth muscle cell-matrix adhesion
 RCV_000132	cerebellar stellate cell	GO_0021710	cerebellar stellate cell differentiation
+RCV_000133	cerebellum	GO_0021708	Lugaro cell differentiation
+RCV_000133	cerebellum	GO_0021712	candelabrum cell differentiation
+RCV_000133	cerebellum	GO_0021701	cerebellar Golgi cell differentiation
+RCV_000133	cerebellum	GO_0021702	cerebellar Purkinje cell differentiation
+RCV_000133	cerebellum	GO_0021680	cerebellar Purkinje cell layer development
+RCV_000133	cerebellum	GO_0021694	cerebellar Purkinje cell layer formation
+RCV_000133	cerebellum	GO_0021691	cerebellar Purkinje cell layer maturation
+RCV_000133	cerebellum	GO_0021692	cerebellar Purkinje cell layer morphogenesis
+RCV_000133	cerebellum	GO_0021693	cerebellar Purkinje cell layer structural organization
+RCV_000133	cerebellum	GO_0021925	cerebellar Purkinje cell precursor proliferation
+RCV_000133	cerebellum	GO_0021937	cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation
+RCV_000133	cerebellum	GO_0021709	cerebellar basket cell differentiation
+RCV_000133	cerebellum	GO_0021695	cerebellar cortex development
+RCV_000133	cerebellum	GO_0021697	cerebellar cortex formation
+RCV_000133	cerebellum	GO_0021699	cerebellar cortex maturation
+RCV_000133	cerebellum	GO_0021696	cerebellar cortex morphogenesis
+RCV_000133	cerebellum	GO_0021698	cerebellar cortex structural organization
+RCV_000133	cerebellum	GO_0021681	cerebellar granular layer development
+RCV_000133	cerebellum	GO_0021684	cerebellar granular layer formation
+RCV_000133	cerebellum	GO_0021686	cerebellar granular layer maturation
+RCV_000133	cerebellum	GO_0021683	cerebellar granular layer morphogenesis
+RCV_000133	cerebellum	GO_0021685	cerebellar granular layer structural organization
+RCV_000133	cerebellum	GO_0021707	cerebellar granule cell differentiation
+RCV_000133	cerebellum	GO_0021930	cerebellar granule cell precursor proliferation
+RCV_000133	cerebellum	GO_0021935	cerebellar granule cell precursor tangential migration
+RCV_000133	cerebellum	GO_0021679	cerebellar molecular layer development
+RCV_000133	cerebellum	GO_0021688	cerebellar molecular layer formation
+RCV_000133	cerebellum	GO_0021690	cerebellar molecular layer maturation
+RCV_000133	cerebellum	GO_0021687	cerebellar molecular layer morphogenesis
+RCV_000133	cerebellum	GO_0021689	cerebellar molecular layer structural organization
+RCV_000133	cerebellum	GO_0098749	cerebellar neuron development
+RCV_000133	cerebellum	GO_0021710	cerebellar stellate cell differentiation
+RCV_000133	cerebellum	GO_0021711	cerebellar unipolar brush cell differentiation
+RCV_000133	cerebellum	GO_0021549	cerebellum development
+RCV_000133	cerebellum	GO_0021588	cerebellum formation
+RCV_000133	cerebellum	GO_0021590	cerebellum maturation
+RCV_000133	cerebellum	GO_0021587	cerebellum morphogenesis
+RCV_000133	cerebellum	GO_0021589	cerebellum structural organization
+RCV_000133	cerebellum	GO_0061301	cerebellum vasculature morphogenesis
+RCV_000133	cerebellum	GO_0021951	chemoattraction involved in precerebellar neuron migration
+RCV_000133	cerebellum	GO_0021950	chemorepulsion involved in precerebellar neuron migration
+RCV_000133	cerebellum	GO_0021735	dentate nucleus development
+RCV_000133	cerebellum	GO_0021737	emboliform nucleus development
+RCV_000133	cerebellum	GO_0021755	eurydendroid cell differentiation
+RCV_000133	cerebellum	GO_0021738	fastigial nucleus development
+RCV_000133	cerebellum	GO_0021736	globose nucleus development
+RCV_000133	cerebellum	GO_0021941	negative regulation of cerebellar granule cell precursor proliferation
+RCV_000133	cerebellum	GO_0021945	positive regulation of cerebellar granule cell migration by calcium
+RCV_000133	cerebellum	GO_0021940	positive regulation of cerebellar granule cell precursor proliferation
+RCV_000133	cerebellum	GO_0021933	radial glia guided migration of cerebellar granule cell
+RCV_000133	cerebellum	GO_0021936	regulation of cerebellar granule cell precursor proliferation
 RCV_000135	cholesterol metabolism	GO_0071397	cellular response to cholesterol
 RCV_000135	cholesterol metabolism	GO_0006695	cholesterol biosynthetic process
 RCV_000135	cholesterol metabolism	GO_0033488	cholesterol biosynthetic process via 24,25-dihydrolanosterol
@@ -6295,6 +6943,29 @@ RCV_000150	endoderm development	GO_1903224	regulation of endodermal cell differe
 RCV_000150	endoderm development	GO_0042663	regulation of endodermal cell fate specification
 RCV_000150	endoderm development	GO_0060807	regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification
 RCV_000150	endoderm development	GO_0060799	transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification
+RCV_000154	eosinophil	GO_0043307	eosinophil activation
+RCV_000154	eosinophil	GO_0002278	eosinophil activation involved in immune response
+RCV_000154	eosinophil	GO_0048245	eosinophil chemotaxis
+RCV_000154	eosinophil	GO_0043308	eosinophil degranulation
+RCV_000154	eosinophil	GO_0030222	eosinophil differentiation
+RCV_000154	eosinophil	GO_0072682	eosinophil extravasation
+RCV_000154	eosinophil	GO_0035854	eosinophil fate commitment
+RCV_000154	eosinophil	GO_0035858	eosinophil fate determination
+RCV_000154	eosinophil	GO_0035857	eosinophil fate specification
+RCV_000154	eosinophil	GO_0002447	eosinophil mediated immunity
+RCV_000154	eosinophil	GO_0072677	eosinophil migration
+RCV_000154	eosinophil	GO_0043310	negative regulation of eosinophil degranulation
+RCV_000154	eosinophil	GO_0045644	negative regulation of eosinophil differentiation
+RCV_000154	eosinophil	GO_2000420	negative regulation of eosinophil extravasation
+RCV_000154	eosinophil	GO_2000417	negative regulation of eosinophil migration
+RCV_000154	eosinophil	GO_0043311	positive regulation of eosinophil degranulation
+RCV_000154	eosinophil	GO_0045645	positive regulation of eosinophil differentiation
+RCV_000154	eosinophil	GO_2000421	positive regulation of eosinophil extravasation
+RCV_000154	eosinophil	GO_2000418	positive regulation of eosinophil migration
+RCV_000154	eosinophil	GO_0043309	regulation of eosinophil degranulation
+RCV_000154	eosinophil	GO_0045643	regulation of eosinophil differentiation
+RCV_000154	eosinophil	GO_2000419	regulation of eosinophil extravasation
+RCV_000154	eosinophil	GO_2000416	regulation of eosinophil migration
 RCV_000157	epithelial cell proliferation	GO_0060011	Sertoli cell proliferation
 RCV_000157	epithelial cell proliferation	GO_0002043	blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000157	epithelial cell proliferation	GO_0001935	endothelial cell proliferation
@@ -6348,6 +7019,372 @@ RCV_000157	epithelial cell proliferation	GO_2001109	regulation of lens epithelia
 RCV_000157	epithelial cell proliferation	GO_0033599	regulation of mammary gland epithelial cell proliferation
 RCV_000157	epithelial cell proliferation	GO_0050675	regulation of urothelial cell proliferation
 RCV_000157	epithelial cell proliferation	GO_0050674	urothelial cell proliferation
+RCV_000158	epithelial cells	GO_0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+RCV_000158	epithelial cells	GO_0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000158	epithelial cells	GO_0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000158	epithelial cells	GO_0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+RCV_000158	epithelial cells	GO_0060486	Clara cell differentiation
+RCV_000158	epithelial cells	GO_0061329	Malpighian tubule principal cell differentiation
+RCV_000158	epithelial cells	GO_0061330	Malpighian tubule stellate cell differentiation
+RCV_000158	epithelial cells	GO_1902484	Sertoli cell apoptotic process
+RCV_000158	epithelial cells	GO_0060009	Sertoli cell development
+RCV_000158	epithelial cells	GO_0060008	Sertoli cell differentiation
+RCV_000158	epithelial cells	GO_0060010	Sertoli cell fate commitment
+RCV_000158	epithelial cells	GO_0060011	Sertoli cell proliferation
+RCV_000158	epithelial cells	GO_0060509	Type I pneumocyte differentiation
+RCV_000158	epithelial cells	GO_0060510	Type II pneumocyte differentiation
+RCV_000158	epithelial cells	GO_0090425	acinar cell differentiation
+RCV_000158	epithelial cells	GO_0060704	acinar cell differentiation involved in salivary gland development
+RCV_000158	epithelial cells	GO_1903680	acinar cell of sebaceous gland differentiation
+RCV_000158	epithelial cells	GO_0044651	adhesion of symbiont to host epithelial cell
+RCV_000158	epithelial cells	GO_0061104	adrenal chromaffin cell differentiation
+RCV_000158	epithelial cells	GO_0002299	alpha-beta intraepithelial T cell differentiation
+RCV_000158	epithelial cells	GO_0036305	ameloblast differentiation
+RCV_000158	epithelial cells	GO_0048903	anterior lateral line neuromast hair cell differentiation
+RCV_000158	epithelial cells	GO_0060842	arterial endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0060844	arterial endothelial cell fate commitment
+RCV_000158	epithelial cells	GO_0090164	asymmetric Golgi ribbon formation
+RCV_000158	epithelial cells	GO_0010056	atrichoblast fate specification
+RCV_000158	epithelial cells	GO_0060117	auditory receptor cell development
+RCV_000158	epithelial cells	GO_0042491	auditory receptor cell differentiation
+RCV_000158	epithelial cells	GO_0009912	auditory receptor cell fate commitment
+RCV_000158	epithelial cells	GO_0042668	auditory receptor cell fate determination
+RCV_000158	epithelial cells	GO_0042667	auditory receptor cell fate specification
+RCV_000158	epithelial cells	GO_0002093	auditory receptor cell morphogenesis
+RCV_000158	epithelial cells	GO_0097497	blood vessel endothelial cell delamination
+RCV_000158	epithelial cells	GO_1902354	blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment
+RCV_000158	epithelial cells	GO_0060837	blood vessel endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0060846	blood vessel endothelial cell fate commitment
+RCV_000158	epithelial cells	GO_0097101	blood vessel endothelial cell fate specification
+RCV_000158	epithelial cells	GO_0043534	blood vessel endothelial cell migration
+RCV_000158	epithelial cells	GO_0002044	blood vessel endothelial cell migration involved in intussusceptive angiogenesis
+RCV_000158	epithelial cells	GO_0002043	blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0030709	border follicle cell delamination
+RCV_000158	epithelial cells	GO_0007298	border follicle cell migration
+RCV_000158	epithelial cells	GO_0060602	branch elongation of an epithelium
+RCV_000158	epithelial cells	GO_0046845	branched duct epithelial cell fate determination, open tracheal system
+RCV_000158	epithelial cells	GO_0060946	cardiac blood vessel endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0003348	cardiac endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0061103	carotid body glomus cell differentiation
+RCV_000158	epithelial cells	GO_0060619	cell migration involved in mammary placode formation
+RCV_000158	epithelial cells	GO_0060518	cell migration involved in prostatic bud elongation
+RCV_000158	epithelial cells	GO_0002042	cell migration involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0060269	centripetally migrating follicle cell migration
+RCV_000158	epithelial cells	GO_0040005	chitin-based cuticle attachment to epithelium
+RCV_000158	epithelial cells	GO_1902488	cholangiocyte apoptotic process
+RCV_000158	epithelial cells	GO_0040004	collagen and cuticulin-based cuticle attachment to epithelium
+RCV_000158	epithelial cells	GO_0061583	colon epithelial cell chemotaxis
+RCV_000158	epithelial cells	GO_0061580	colon epithelial cell migration
+RCV_000158	epithelial cells	GO_0002066	columnar/cuboidal epithelial cell development
+RCV_000158	epithelial cells	GO_0002065	columnar/cuboidal epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0002069	columnar/cuboidal epithelial cell maturation
+RCV_000158	epithelial cells	GO_0061581	corneal epithelial cell migration
+RCV_000158	epithelial cells	GO_0070268	cornification
+RCV_000158	epithelial cells	GO_0001549	cumulus cell differentiation
+RCV_000158	epithelial cells	GO_0060600	dichotomous subdivision of an epithelial terminal unit
+RCV_000158	epithelial cells	GO_0060524	dichotomous subdivision of prostate epithelial cord terminal unit
+RCV_000158	epithelial cells	GO_0046663	dorsal closure, leading edge cell differentiation
+RCV_000158	epithelial cells	GO_0035029	dorsal closure, leading edge cell fate commitment
+RCV_000158	epithelial cells	GO_0007393	dorsal closure, leading edge cell fate determination
+RCV_000158	epithelial cells	GO_0008069	dorsal/ventral axis specification, ovarian follicular epithelium
+RCV_000158	epithelial cells	GO_0050933	early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_0001838	embryonic epithelial tube formation
+RCV_000158	epithelial cells	GO_0060958	endocardial cell development
+RCV_000158	epithelial cells	GO_0060956	endocardial cell differentiation
+RCV_000158	epithelial cells	GO_0060957	endocardial cell fate commitment
+RCV_000158	epithelial cells	GO_0061445	endocardial cushion cell fate commitment
+RCV_000158	epithelial cells	GO_0042118	endothelial cell activation
+RCV_000158	epithelial cells	GO_0002264	endothelial cell activation involved in immune response
+RCV_000158	epithelial cells	GO_0002259	endothelial cell activation within high endothelial venule involved in immune response
+RCV_000158	epithelial cells	GO_0072577	endothelial cell apoptotic process
+RCV_000158	epithelial cells	GO_0035767	endothelial cell chemotaxis
+RCV_000158	epithelial cells	GO_0035768	endothelial cell chemotaxis to fibroblast growth factor
+RCV_000158	epithelial cells	GO_0001885	endothelial cell development
+RCV_000158	epithelial cells	GO_0045446	endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0060839	endothelial cell fate commitment
+RCV_000158	epithelial cells	GO_0060848	endothelial cell fate determination
+RCV_000158	epithelial cells	GO_0060847	endothelial cell fate specification
+RCV_000158	epithelial cells	GO_0043542	endothelial cell migration
+RCV_000158	epithelial cells	GO_0001886	endothelial cell morphogenesis
+RCV_000158	epithelial cells	GO_0001935	endothelial cell proliferation
+RCV_000158	epithelial cells	GO_0097103	endothelial stalk cell fate specification
+RCV_000158	epithelial cells	GO_0097102	endothelial tip cell fate specification
+RCV_000158	epithelial cells	GO_1903703	enterocyte differentiation
+RCV_000158	epithelial cells	GO_0035883	enteroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0003349	epicardium-derived cardiac endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0009913	epidermal cell differentiation
+RCV_000158	epithelial cells	GO_0010481	epidermal cell division
+RCV_000158	epithelial cells	GO_0009957	epidermal cell fate specification
+RCV_000158	epithelial cells	GO_0002064	epithelial cell development
+RCV_000158	epithelial cells	GO_0030855	epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0060671	epithelial cell differentiation involved in embryonic placenta development
+RCV_000158	epithelial cells	GO_0035850	epithelial cell differentiation involved in kidney development
+RCV_000158	epithelial cells	GO_0061030	epithelial cell differentiation involved in mammary gland alveolus development
+RCV_000158	epithelial cells	GO_0060643	epithelial cell differentiation involved in mammary gland bud morphogenesis
+RCV_000158	epithelial cells	GO_0060653	epithelial cell differentiation involved in mammary gland cord morphogenesis
+RCV_000158	epithelial cells	GO_0060742	epithelial cell differentiation involved in prostate gland development
+RCV_000158	epithelial cells	GO_0060690	epithelial cell differentiation involved in salivary gland development
+RCV_000158	epithelial cells	GO_0072148	epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0007425	epithelial cell fate determination, open tracheal system
+RCV_000158	epithelial cells	GO_0002070	epithelial cell maturation
+RCV_000158	epithelial cells	GO_0060743	epithelial cell maturation involved in prostate gland development
+RCV_000158	epithelial cells	GO_0060691	epithelial cell maturation involved in salivary gland development
+RCV_000158	epithelial cells	GO_0010631	epithelial cell migration
+RCV_000158	epithelial cells	GO_0072157	epithelial cell migration involved in distal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0061279	epithelial cell migration involved in mesonephric distal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0061278	epithelial cell migration involved in mesonephric nephron tubule morphogenesis
+RCV_000158	epithelial cells	GO_0061280	epithelial cell migration involved in mesonephric proximal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0072291	epithelial cell migration involved in metanephric distal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0072290	epithelial cell migration involved in metanephric nephron tubule morphogenesis
+RCV_000158	epithelial cells	GO_0072292	epithelial cell migration involved in metanephric proximal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0072155	epithelial cell migration involved in nephron tubule morphogenesis
+RCV_000158	epithelial cells	GO_0072159	epithelial cell migration involved in proximal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0007427	epithelial cell migration, open tracheal system
+RCV_000158	epithelial cells	GO_0003382	epithelial cell morphogenesis
+RCV_000158	epithelial cells	GO_0003381	epithelial cell morphogenesis involved in gastrulation
+RCV_000158	epithelial cells	GO_0060672	epithelial cell morphogenesis involved in placental branching
+RCV_000158	epithelial cells	GO_0050673	epithelial cell proliferation
+RCV_000158	epithelial cells	GO_0061331	epithelial cell proliferation involved in Malpighian tubule morphogenesis
+RCV_000158	epithelial cells	GO_0072575	epithelial cell proliferation involved in liver morphogenesis
+RCV_000158	epithelial cells	GO_0060505	epithelial cell proliferation involved in lung bud dilation
+RCV_000158	epithelial cells	GO_0060502	epithelial cell proliferation involved in lung morphogenesis
+RCV_000158	epithelial cells	GO_0060650	epithelial cell proliferation involved in mammary gland bud elongation
+RCV_000158	epithelial cells	GO_0060750	epithelial cell proliferation involved in mammary gland duct elongation
+RCV_000158	epithelial cells	GO_0060767	epithelial cell proliferation involved in prostate gland development
+RCV_000158	epithelial cells	GO_0060517	epithelial cell proliferation involved in prostatic bud elongation
+RCV_000158	epithelial cells	GO_2001013	epithelial cell proliferation involved in renal tubule morphogenesis
+RCV_000158	epithelial cells	GO_0060664	epithelial cell proliferation involved in salivary gland morphogenesis
+RCV_000158	epithelial cells	GO_0003351	epithelial cilium movement
+RCV_000158	epithelial cells	GO_0060287	epithelial cilium movement involved in determination of left/right asymmetry
+RCV_000158	epithelial cells	GO_0042045	epithelial fluid transport
+RCV_000158	epithelial cells	GO_0010669	epithelial structure maintenance
+RCV_000158	epithelial cells	GO_0060441	epithelial tube branching involved in lung morphogenesis
+RCV_000158	epithelial cells	GO_0072175	epithelial tube formation
+RCV_000158	epithelial cells	GO_0060562	epithelial tube morphogenesis
+RCV_000158	epithelial cells	GO_0060738	epithelial-mesenchymal signaling involved in prostate gland development
+RCV_000158	epithelial cells	GO_0060429	epithelium development
+RCV_000158	epithelial cells	GO_0090132	epithelium migration
+RCV_000158	epithelial cells	GO_0090252	epithelium migration involved in imaginal disc-derived wing morphogenesis
+RCV_000158	epithelial cells	GO_0097368	establishment of Sertoli cell barrier
+RCV_000158	epithelial cells	GO_0008065	establishment of blood-nerve barrier
+RCV_000158	epithelial cells	GO_0061028	establishment of endothelial barrier
+RCV_000158	epithelial cells	GO_0014045	establishment of endothelial blood-brain barrier
+RCV_000158	epithelial cells	GO_0090557	establishment of endothelial intestinal barrier
+RCV_000158	epithelial cells	GO_0045198	establishment of epithelial cell apical/basal polarity
+RCV_000158	epithelial cells	GO_0003412	establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis
+RCV_000158	epithelial cells	GO_0090163	establishment of epithelial cell planar polarity
+RCV_000158	epithelial cells	GO_0090162	establishment of epithelial cell polarity
+RCV_000158	epithelial cells	GO_0003316	establishment of myocardial progenitor cell apical/basal polarity
+RCV_000158	epithelial cells	GO_0042247	establishment of planar polarity of follicular epithelium
+RCV_000158	epithelial cells	GO_0042252	establishment of planar polarity of larval imaginal disc epithelium
+RCV_000158	epithelial cells	GO_0045197	establishment or maintenance of epithelial cell apical/basal polarity
+RCV_000158	epithelial cells	GO_0016334	establishment or maintenance of polarity of follicular epithelium
+RCV_000158	epithelial cells	GO_0016336	establishment or maintenance of polarity of larval imaginal disc epithelium
+RCV_000158	epithelial cells	GO_0032529	follicle cell microvillus organization
+RCV_000158	epithelial cells	GO_0002304	gamma-delta intraepithelial T cell differentiation
+RCV_000158	epithelial cells	GO_0002068	glandular epithelial cell development
+RCV_000158	epithelial cells	GO_0002067	glandular epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0002071	glandular epithelial cell maturation
+RCV_000158	epithelial cells	GO_0072310	glomerular epithelial cell development
+RCV_000158	epithelial cells	GO_0072311	glomerular epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072314	glomerular epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0072010	glomerular epithelium development
+RCV_000158	epithelial cells	GO_0072144	glomerular mesangial cell development
+RCV_000158	epithelial cells	GO_0072008	glomerular mesangial cell differentiation
+RCV_000158	epithelial cells	GO_0072016	glomerular parietal epithelial cell development
+RCV_000158	epithelial cells	GO_0072139	glomerular parietal epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072147	glomerular parietal epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_1903210	glomerular visceral epithelial cell apoptotic process
+RCV_000158	epithelial cells	GO_0072015	glomerular visceral epithelial cell development
+RCV_000158	epithelial cells	GO_0072112	glomerular visceral epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072149	glomerular visceral epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0090521	glomerular visceral epithelial cell migration
+RCV_000158	epithelial cells	GO_0060016	granulosa cell development
+RCV_000158	epithelial cells	GO_0060014	granulosa cell differentiation
+RCV_000158	epithelial cells	GO_0060015	granulosa cell fate commitment
+RCV_000158	epithelial cells	GO_0035315	hair cell differentiation
+RCV_000158	epithelial cells	GO_0061017	hepatoblast differentiation
+RCV_000158	epithelial cells	GO_0097284	hepatocyte apoptotic process
+RCV_000158	epithelial cells	GO_0070365	hepatocyte differentiation
+RCV_000158	epithelial cells	GO_0036333	hepatocyte homeostasis
+RCV_000158	epithelial cells	GO_0072574	hepatocyte proliferation
+RCV_000158	epithelial cells	GO_0007488	histoblast morphogenesis
+RCV_000158	epithelial cells	GO_0060522	inductive mesenchymal to epithelial cell signaling
+RCV_000158	epithelial cells	GO_0060646	internal mammary gland bud epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061453	interstitial cell of Cajal differentiation
+RCV_000158	epithelial cells	GO_0060576	intestinal epithelial cell development
+RCV_000158	epithelial cells	GO_0060575	intestinal epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0060574	intestinal epithelial cell maturation
+RCV_000158	epithelial cells	GO_0061582	intestinal epithelial cell migration
+RCV_000158	epithelial cells	GO_0060729	intestinal epithelial structure maintenance
+RCV_000158	epithelial cells	GO_0031424	keratinization
+RCV_000158	epithelial cells	GO_0032980	keratinocyte activation
+RCV_000158	epithelial cells	GO_0097283	keratinocyte apoptotic process
+RCV_000158	epithelial cells	GO_0003334	keratinocyte development
+RCV_000158	epithelial cells	GO_0030216	keratinocyte differentiation
+RCV_000158	epithelial cells	GO_0051546	keratinocyte migration
+RCV_000158	epithelial cells	GO_0043616	keratinocyte proliferation
+RCV_000158	epithelial cells	GO_0050934	late stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_0060601	lateral sprouting from an epithelium
+RCV_000158	epithelial cells	GO_0035026	leading edge cell differentiation
+RCV_000158	epithelial cells	GO_0035027	leading edge cell fate commitment
+RCV_000158	epithelial cells	GO_0035028	leading edge cell fate determination
+RCV_000158	epithelial cells	GO_0097166	lens epithelial cell proliferation
+RCV_000158	epithelial cells	GO_1990086	lens fiber cell apoptotic process
+RCV_000158	epithelial cells	GO_0070307	lens fiber cell development
+RCV_000158	epithelial cells	GO_0070306	lens fiber cell differentiation
+RCV_000158	epithelial cells	GO_0060889	limb basal epidermal cell differentiation
+RCV_000158	epithelial cells	GO_0060892	limb basal epidermal cell fate specification
+RCV_000158	epithelial cells	GO_0060891	limb granular cell differentiation
+RCV_000158	epithelial cells	GO_0060893	limb granular cell fate specification
+RCV_000158	epithelial cells	GO_0060890	limb spinous cell differentiation
+RCV_000158	epithelial cells	GO_0060894	limb spinous cell fate specification
+RCV_000158	epithelial cells	GO_0060481	lobar bronchus epithelium development
+RCV_000158	epithelial cells	GO_0061141	lung ciliated cell differentiation
+RCV_000158	epithelial cells	GO_0060487	lung epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0060480	lung goblet cell differentiation
+RCV_000158	epithelial cells	GO_0061100	lung neuroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0061140	lung secretory cell differentiation
+RCV_000158	epithelial cells	GO_0060836	lymphatic endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0060838	lymphatic endothelial cell fate commitment
+RCV_000158	epithelial cells	GO_0060270	main body follicle cell migration
+RCV_000158	epithelial cells	GO_0045199	maintenance of epithelial cell apical/basal polarity
+RCV_000158	epithelial cells	GO_0035160	maintenance of epithelial integrity, open tracheal system
+RCV_000158	epithelial cells	GO_0030277	maintenance of gastrointestinal epithelium
+RCV_000158	epithelial cells	GO_0042248	maintenance of polarity of follicular epithelium
+RCV_000158	epithelial cells	GO_0042251	maintenance of polarity of larval imaginal disc epithelium
+RCV_000158	epithelial cells	GO_0060644	mammary gland epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0033598	mammary gland epithelial cell proliferation
+RCV_000158	epithelial cells	GO_0061180	mammary gland epithelium development
+RCV_000158	epithelial cells	GO_0008070	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded
+RCV_000158	epithelial cells	GO_0008071	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded
+RCV_000158	epithelial cells	GO_0070656	mechanoreceptor differentiation involved in mechanosensory epithelium regeneration
+RCV_000158	epithelial cells	GO_0070655	mechanosensory epithelium regeneration
+RCV_000158	epithelial cells	GO_0030318	melanocyte differentiation
+RCV_000158	epithelial cells	GO_0097324	melanocyte migration
+RCV_000158	epithelial cells	GO_0097325	melanocyte proliferation
+RCV_000158	epithelial cells	GO_0060231	mesenchymal to epithelial transition
+RCV_000158	epithelial cells	GO_0061271	mesenchymal to epithelial transition involved in mesonephric renal vesicle formation
+RCV_000158	epithelial cells	GO_0061261	mesenchymal to epithelial transition involved in mesonephros morphogenesis
+RCV_000158	epithelial cells	GO_0072285	mesenchymal to epithelial transition involved in metanephric renal vesicle formation
+RCV_000158	epithelial cells	GO_0003337	mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_0072036	mesenchymal to epithelial transition involved in renal vesicle formation
+RCV_000158	epithelial cells	GO_0072163	mesonephric epithelium development
+RCV_000158	epithelial cells	GO_0061251	mesonephric glomerular epithelial cell development
+RCV_000158	epithelial cells	GO_0061250	mesonephric glomerular epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061252	mesonephric glomerular epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0061232	mesonephric glomerular epithelium development
+RCV_000158	epithelial cells	GO_0061263	mesonephric glomerular mesangial cell development
+RCV_000158	epithelial cells	GO_0061259	mesonephric glomerular mesangial cell differentiation
+RCV_000158	epithelial cells	GO_0061254	mesonephric glomerular parietal epithelial cell development
+RCV_000158	epithelial cells	GO_0061253	mesonephric glomerular parietal epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061255	mesonephric glomerular parietal epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0061257	mesonephric glomerular visceral epithelial cell development
+RCV_000158	epithelial cells	GO_0061256	mesonephric glomerular visceral epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061258	mesonephric glomerular visceral epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0061241	mesonephric nephron epithelium development
+RCV_000158	epithelial cells	GO_0061265	mesonephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072207	metanephric epithelium development
+RCV_000158	epithelial cells	GO_0072313	metanephric glomerular epithelial cell development
+RCV_000158	epithelial cells	GO_0072312	metanephric glomerular epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072315	metanephric glomerular epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0072244	metanephric glomerular epithelium development
+RCV_000158	epithelial cells	GO_0072255	metanephric glomerular mesangial cell development
+RCV_000158	epithelial cells	GO_0072254	metanephric glomerular mesangial cell differentiation
+RCV_000158	epithelial cells	GO_0072246	metanephric glomerular parietal epithelial cell development
+RCV_000158	epithelial cells	GO_0072245	metanephric glomerular parietal epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072247	metanephric glomerular parietal epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0072249	metanephric glomerular visceral epithelial cell development
+RCV_000158	epithelial cells	GO_0072248	metanephric glomerular visceral epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072250	metanephric glomerular visceral epithelial cell fate commitment
+RCV_000158	epithelial cells	GO_0072243	metanephric nephron epithelium development
+RCV_000158	epithelial cells	GO_0072257	metanephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061138	morphogenesis of a branching epithelium
+RCV_000158	epithelial cells	GO_0001738	morphogenesis of a polarized epithelium
+RCV_000158	epithelial cells	GO_0060572	morphogenesis of an epithelial bud
+RCV_000158	epithelial cells	GO_0060571	morphogenesis of an epithelial fold
+RCV_000158	epithelial cells	GO_0003152	morphogenesis of an epithelial fold involved in embryonic heart tube formation
+RCV_000158	epithelial cells	GO_0002011	morphogenesis of an epithelial sheet
+RCV_000158	epithelial cells	GO_0002009	morphogenesis of an epithelium
+RCV_000158	epithelial cells	GO_0016331	morphogenesis of embryonic epithelium
+RCV_000158	epithelial cells	GO_0016333	morphogenesis of follicular epithelium
+RCV_000158	epithelial cells	GO_0016335	morphogenesis of larval imaginal disc epithelium
+RCV_000158	epithelial cells	GO_1903251	multi-ciliated epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0003304	myocardial epithelial involution involved in heart jogging
+RCV_000158	epithelial cells	GO_2000085	negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
+RCV_000158	epithelial cells	GO_0003340	negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_0072009	nephron epithelium development
+RCV_000158	epithelial cells	GO_0072088	nephron epithelium morphogenesis
+RCV_000158	epithelial cells	GO_0072160	nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061101	neuroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0060531	neuroendocrine cell differentiation involved in prostate gland acinus development
+RCV_000158	epithelial cells	GO_0060563	neuroepithelial cell differentiation
+RCV_000158	epithelial cells	GO_0048886	neuromast hair cell differentiation
+RCV_000158	epithelial cells	GO_0070658	neuromast hair cell differentiation involved in neuromast regeneration
+RCV_000158	epithelial cells	GO_0071895	odontoblast differentiation
+RCV_000158	epithelial cells	GO_0030707	ovarian follicle cell development
+RCV_000158	epithelial cells	GO_0007297	ovarian follicle cell migration
+RCV_000158	epithelial cells	GO_0003322	pancreatic A cell development
+RCV_000158	epithelial cells	GO_0003310	pancreatic A cell differentiation
+RCV_000158	epithelial cells	GO_0003326	pancreatic A cell fate commitment
+RCV_000158	epithelial cells	GO_0003324	pancreatic D cell development
+RCV_000158	epithelial cells	GO_0003311	pancreatic D cell differentiation
+RCV_000158	epithelial cells	GO_0003328	pancreatic D cell fate commitment
+RCV_000158	epithelial cells	GO_0003325	pancreatic PP cell development
+RCV_000158	epithelial cells	GO_0003312	pancreatic PP cell differentiation
+RCV_000158	epithelial cells	GO_0003329	pancreatic PP cell fate commitment
+RCV_000158	epithelial cells	GO_0060645	peripheral mammary gland bud epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0030859	polarized epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0060640	positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0060731	positive regulation of intestinal epithelial structure maintenance
+RCV_000158	epithelial cells	GO_0060617	positive regulation of mammary placode formation by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_2000086	positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
+RCV_000158	epithelial cells	GO_0072108	positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_0060639	positive regulation of salivary gland formation by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0048923	posterior lateral line neuromast hair cell differentiation
+RCV_000158	epithelial cells	GO_0035778	pronephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0060527	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
+RCV_000158	epithelial cells	GO_0060523	prostate epithelial cord elongation
+RCV_000158	epithelial cells	GO_0060740	prostate gland epithelium morphogenesis
+RCV_000158	epithelial cells	GO_0060656	regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling
+RCV_000158	epithelial cells	GO_0060683	regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling
+RCV_000158	epithelial cells	GO_0060668	regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling
+RCV_000158	epithelial cells	GO_0060665	regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0045604	regulation of epidermal cell differentiation
+RCV_000158	epithelial cells	GO_0010482	regulation of epidermal cell division
+RCV_000158	epithelial cells	GO_0045682	regulation of epidermis development
+RCV_000158	epithelial cells	GO_0060730	regulation of intestinal epithelial structure maintenance
+RCV_000158	epithelial cells	GO_0060657	regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling
+RCV_000158	epithelial cells	GO_2000084	regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
+RCV_000158	epithelial cells	GO_0003339	regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_0090165	regulation of secretion by asymmetric Golgi ribbon formation
+RCV_000158	epithelial cells	GO_1902691	respiratory basal cell differentiation
+RCV_000158	epithelial cells	GO_0003406	retinal pigment epithelium development
+RCV_000158	epithelial cells	GO_0048356	root epithelial mucilage biosynthetic process
+RCV_000158	epithelial cells	GO_0048361	root epithelial mucilage metabolic process
+RCV_000158	epithelial cells	GO_0001949	sebaceous gland cell differentiation
+RCV_000158	epithelial cells	GO_0061033	secretion by lung epithelial cell involved in lung growth
+RCV_000158	epithelial cells	GO_0060528	secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development
+RCV_000158	epithelial cells	GO_0061108	seminal vesicle epithelium development
+RCV_000158	epithelial cells	GO_0070654	sensory epithelium regeneration
+RCV_000158	epithelial cells	GO_0031149	sorocarp stalk cell differentiation
+RCV_000158	epithelial cells	GO_0060529	squamous basal epithelial stem cell differentiation involved in prostate gland acinus development
+RCV_000158	epithelial cells	GO_0061102	stomach neuroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0044345	stromal-epithelial cell signaling involved in prostate gland development
+RCV_000158	epithelial cells	GO_0060130	thyroid-stimulating hormone-secreting cell development
+RCV_000158	epithelial cells	GO_0060129	thyroid-stimulating hormone-secreting cell differentiation
+RCV_000158	epithelial cells	GO_0097050	type B pancreatic cell apoptotic process
+RCV_000158	epithelial cells	GO_0003323	type B pancreatic cell development
+RCV_000158	epithelial cells	GO_0003309	type B pancreatic cell differentiation
+RCV_000158	epithelial cells	GO_0003327	type B pancreatic cell fate commitment
+RCV_000158	epithelial cells	GO_0072560	type B pancreatic cell maturation
+RCV_000158	epithelial cells	GO_0072192	ureter epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0061071	urethra epithelium development
+RCV_000158	epithelial cells	GO_0050674	urothelial cell proliferation
+RCV_000158	epithelial cells	GO_0060843	venous endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0060845	venous endothelial cell fate commitment
+RCV_000158	epithelial cells	GO_0060855	venous endothelial cell migration involved in lymph vessel development
+RCV_000158	epithelial cells	GO_0060114	vestibular receptor cell differentiation
 RCV_000159	epithelial to mesenchymal transition	GO_0060317	cardiac epithelial to mesenchymal transition
 RCV_000159	epithelial to mesenchymal transition	GO_0060886	clearance of cells from fusion plate by epithelial to mesenchymal transition
 RCV_000159	epithelial to mesenchymal transition	GO_0090500	endocardial cushion to mesenchymal transition
@@ -6374,6 +7411,27 @@ RCV_000159	epithelial to mesenchymal transition	GO_0090300	positive regulation o
 RCV_000159	epithelial to mesenchymal transition	GO_2000800	regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000159	epithelial to mesenchymal transition	GO_0010717	regulation of epithelial to mesenchymal transition
 RCV_000159	epithelial to mesenchymal transition	GO_0090299	regulation of neural crest formation
+RCV_000160	erythrocyte	GO_0060318	definitive erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0048822	enucleate erythrocyte development
+RCV_000160	erythrocyte	GO_0043353	enucleate erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0043354	enucleate erythrocyte maturation
+RCV_000160	erythrocyte	GO_0034117	erythrocyte aggregation
+RCV_000160	erythrocyte	GO_1902217	erythrocyte apoptotic process
+RCV_000160	erythrocyte	GO_0048821	erythrocyte development
+RCV_000160	erythrocyte	GO_0030218	erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0034101	erythrocyte homeostasis
+RCV_000160	erythrocyte	GO_0043249	erythrocyte maturation
+RCV_000160	erythrocyte	GO_0034119	negative regulation of erythrocyte aggregation
+RCV_000160	erythrocyte	GO_0034107	negative regulation of erythrocyte clearance
+RCV_000160	erythrocyte	GO_0045647	negative regulation of erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0048823	nucleate erythrocyte development
+RCV_000160	erythrocyte	GO_0043363	nucleate erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0043362	nucleate erythrocyte maturation
+RCV_000160	erythrocyte	GO_0060319	primitive erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0034118	regulation of erythrocyte aggregation
+RCV_000160	erythrocyte	GO_0034106	regulation of erythrocyte clearance
+RCV_000160	erythrocyte	GO_0045646	regulation of erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0048778	regulation of erythrophore differentiation
 RCV_000163	fat metabolism	GO_0046211	(+)-camphor biosynthetic process
 RCV_000163	fat metabolism	GO_0019383	(+)-camphor catabolic process
 RCV_000163	fat metabolism	GO_0018882	(+)-camphor metabolic process
@@ -7248,6 +8306,57 @@ RCV_000165	fertilization	GO_0035037	sperm entry
 RCV_000165	fertilization	GO_0035040	sperm nuclear envelope removal
 RCV_000165	fertilization	GO_0035045	sperm plasma membrane disassembly
 RCV_000165	fertilization	GO_0035036	sperm-egg recognition
+RCV_000166	fibroblast	GO_0060936	cardiac fibroblast cell development
+RCV_000166	fibroblast	GO_0060935	cardiac fibroblast cell differentiation
+RCV_000166	fibroblast	GO_0060937	cardiac fibroblast cell fate commitment
+RCV_000166	fibroblast	GO_0035766	cell chemotaxis to fibroblast growth factor
+RCV_000166	fibroblast	GO_0044344	cellular response to fibroblast growth factor stimulus
+RCV_000166	fibroblast	GO_0060939	epicardium-derived cardiac fibroblast cell development
+RCV_000166	fibroblast	GO_0060938	epicardium-derived cardiac fibroblast cell differentiation
+RCV_000166	fibroblast	GO_0060941	epicardium-derived cardiac fibroblast cell fate commitment
+RCV_000166	fibroblast	GO_0072537	fibroblast activation
+RCV_000166	fibroblast	GO_0044346	fibroblast apoptotic process
+RCV_000166	fibroblast	GO_0010761	fibroblast migration
+RCV_000166	fibroblast	GO_0048144	fibroblast proliferation
+RCV_000166	fibroblast	GO_0061385	fibroblast proliferation involved in heart morphogenesis
+RCV_000166	fibroblast	GO_0072144	glomerular mesangial cell development
+RCV_000166	fibroblast	GO_0072008	glomerular mesangial cell differentiation
+RCV_000166	fibroblast	GO_0035733	hepatic stellate cell activation
+RCV_000166	fibroblast	GO_0061521	hepatic stellate cell differentiation
+RCV_000166	fibroblast	GO_0072071	kidney interstitial fibroblast differentiation
+RCV_000166	fibroblast	GO_0061263	mesonephric glomerular mesangial cell development
+RCV_000166	fibroblast	GO_0061259	mesonephric glomerular mesangial cell differentiation
+RCV_000166	fibroblast	GO_0061267	mesonephric interstitial fibroblast development
+RCV_000166	fibroblast	GO_0061266	mesonephric interstitial fibroblast differentiation
+RCV_000166	fibroblast	GO_0072255	metanephric glomerular mesangial cell development
+RCV_000166	fibroblast	GO_0072254	metanephric glomerular mesangial cell differentiation
+RCV_000166	fibroblast	GO_0072259	metanephric interstitial fibroblast development
+RCV_000166	fibroblast	GO_0072258	metanephric interstitial fibroblast differentiation
+RCV_000166	fibroblast	GO_2000270	negative regulation of fibroblast apoptotic process
+RCV_000166	fibroblast	GO_0010764	negative regulation of fibroblast migration
+RCV_000166	fibroblast	GO_0048147	negative regulation of fibroblast proliferation
+RCV_000166	fibroblast	GO_0060943	neural crest-derived cardiac fibroblast cell development
+RCV_000166	fibroblast	GO_0060942	neural crest-derived cardiac fibroblast cell differentiation
+RCV_000166	fibroblast	GO_0060944	neural crest-derived cardiac fibroblast cell fate commitment
+RCV_000166	fibroblast	GO_0072343	pancreatic stellate cell proliferation
+RCV_000166	fibroblast	GO_0090080	positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway
+RCV_000166	fibroblast	GO_2000271	positive regulation of fibroblast apoptotic process
+RCV_000166	fibroblast	GO_0090271	positive regulation of fibroblast growth factor production
+RCV_000166	fibroblast	GO_0045743	positive regulation of fibroblast growth factor receptor signaling pathway
+RCV_000166	fibroblast	GO_2000315	positive regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000166	fibroblast	GO_2000704	positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+RCV_000166	fibroblast	GO_0010763	positive regulation of fibroblast migration
+RCV_000166	fibroblast	GO_0048146	positive regulation of fibroblast proliferation
+RCV_000166	fibroblast	GO_0060787	positive regulation of posterior neural plate formation by fibroblast growth factor receptor signaling pathway
+RCV_000166	fibroblast	GO_2000269	regulation of fibroblast apoptotic process
+RCV_000166	fibroblast	GO_0090270	regulation of fibroblast growth factor production
+RCV_000166	fibroblast	GO_0040036	regulation of fibroblast growth factor receptor signaling pathway
+RCV_000166	fibroblast	GO_2000313	regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+RCV_000166	fibroblast	GO_2000702	regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+RCV_000166	fibroblast	GO_0010762	regulation of fibroblast migration
+RCV_000166	fibroblast	GO_0048145	regulation of fibroblast proliferation
+RCV_000166	fibroblast	GO_0072141	renal interstitial fibroblast development
+RCV_000166	fibroblast	GO_0071774	response to fibroblast growth factor
 RCV_000167	forebrain development	GO_0022024	BMP signaling pathway involved in forebrain neuron fate commitment
 RCV_000167	forebrain development	GO_0021870	Cajal-Retzius cell differentiation
 RCV_000167	forebrain development	GO_0021876	Notch signaling pathway involved in forebrain neuroblast division
@@ -7500,6 +8609,7 @@ RCV_000173	glucocorticoid	GO_0051414	response to cortisol
 RCV_000173	glucocorticoid	GO_0051413	response to cortisone
 RCV_000173	glucocorticoid	GO_0071548	response to dexamethasone
 RCV_000173	glucocorticoid	GO_0051384	response to glucocorticoid
+RCV_000176	glucose metabolism	GO_0009255	Entner-Doudoroff pathway through 6-phosphogluconate
 RCV_000176	glucose metabolism	GO_0010397	apiogalacturonan metabolic process
 RCV_000176	glucose metabolism	GO_0061621	canonical glycolysis
 RCV_000176	glucose metabolism	GO_0043458	ethanol biosynthetic process involved in glucose fermentation to ethanol
@@ -7519,7 +8629,6 @@ RCV_000176	glucose metabolism	GO_0010905	negative regulation of UDP-glucose cata
 RCV_000176	glucose metabolism	GO_2001155	negative regulation of glycolytic fermentation to ethanol
 RCV_000176	glucose metabolism	GO_0019595	non-phosphorylated glucose catabolic process
 RCV_000176	glucose metabolism	GO_0046430	non-phosphorylated glucose metabolic process
-RCV_000176	glucose metabolism	GO_0006098	pentose-phosphate shunt
 RCV_000176	glucose metabolism	GO_1902924	poly(hydroxyalkanoate) biosynthetic process from glucose
 RCV_000176	glucose metabolism	GO_0010907	positive regulation of glucose metabolic process
 RCV_000176	glucose metabolism	GO_2001172	positive regulation of glycolytic fermentation to ethanol
@@ -8097,6 +9206,13 @@ RCV_000188	hepatic stellate cell	GO_0061521	hepatic stellate cell differentiatio
 RCV_000188	hepatic stellate cell	GO_2000490	negative regulation of hepatic stellate cell activation
 RCV_000188	hepatic stellate cell	GO_2000491	positive regulation of hepatic stellate cell activation
 RCV_000188	hepatic stellate cell	GO_2000489	regulation of hepatic stellate cell activation
+RCV_000189	hepatocyte	GO_0097284	hepatocyte apoptotic process
+RCV_000189	hepatocyte	GO_0070365	hepatocyte differentiation
+RCV_000189	hepatocyte	GO_0036333	hepatocyte homeostasis
+RCV_000189	hepatocyte	GO_0070366	regulation of hepatocyte differentiation
+RCV_000189	hepatocyte	GO_0048176	regulation of hepatocyte growth factor biosynthetic process
+RCV_000189	hepatocyte	GO_0032646	regulation of hepatocyte growth factor production
+RCV_000189	hepatocyte	GO_2000345	regulation of hepatocyte proliferation
 RCV_000190	hindbrain development	GO_0021926	Golgi cell precursor proliferation
 RCV_000190	hindbrain development	GO_0021708	Lugaro cell differentiation
 RCV_000190	hindbrain development	GO_0021742	abducens nucleus development
@@ -9622,6 +10738,7 @@ RCV_000211	ion transport	GO_0034760	negative regulation of iron ion transmembran
 RCV_000211	ion transport	GO_0034757	negative regulation of iron ion transport
 RCV_000211	ion transport	GO_1902607	negative regulation of large conductance calcium-activated potassium channel activity
 RCV_000211	ion transport	GO_1902303	negative regulation of potassium ion export
+RCV_000211	ion transport	GO_1903765	negative regulation of potassium ion export across plasma membrane
 RCV_000211	ion transport	GO_1903287	negative regulation of potassium ion import
 RCV_000211	ion transport	GO_1901380	negative regulation of potassium ion transmembrane transport
 RCV_000211	ion transport	GO_1901017	negative regulation of potassium ion transmembrane transporter activity
@@ -9640,6 +10757,7 @@ RCV_000211	ion transport	GO_1903407	negative regulation of sodium:potassium-exch
 RCV_000211	ion transport	GO_0032416	negative regulation of sodium:proton antiporter activity
 RCV_000211	ion transport	GO_1901340	negative regulation of store-operated calcium channel activity
 RCV_000211	ion transport	GO_1901386	negative regulation of voltage-gated calcium channel activity
+RCV_000211	ion transport	GO_1903761	negative regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
 RCV_000211	ion transport	GO_0071584	negative regulation of zinc ion transmembrane import
 RCV_000211	ion transport	GO_0071583	negative regulation of zinc ion transmembrane transport
 RCV_000211	ion transport	GO_0071582	negative regulation of zinc ion transport
@@ -9680,6 +10798,7 @@ RCV_000211	ion transport	GO_0034761	positive regulation of iron ion transmembran
 RCV_000211	ion transport	GO_0034758	positive regulation of iron ion transport
 RCV_000211	ion transport	GO_1902608	positive regulation of large conductance calcium-activated potassium channel activity
 RCV_000211	ion transport	GO_1902304	positive regulation of potassium ion export
+RCV_000211	ion transport	GO_1903766	positive regulation of potassium ion export across plasma membrane
 RCV_000211	ion transport	GO_1903288	positive regulation of potassium ion import
 RCV_000211	ion transport	GO_1901381	positive regulation of potassium ion transmembrane transport
 RCV_000211	ion transport	GO_1901018	positive regulation of potassium ion transmembrane transporter activity
@@ -9700,6 +10819,7 @@ RCV_000211	ion transport	GO_1903408	positive regulation of sodium:potassium-exch
 RCV_000211	ion transport	GO_0032417	positive regulation of sodium:proton antiporter activity
 RCV_000211	ion transport	GO_1901341	positive regulation of store-operated calcium channel activity
 RCV_000211	ion transport	GO_1901387	positive regulation of voltage-gated calcium channel activity
+RCV_000211	ion transport	GO_1903762	positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
 RCV_000211	ion transport	GO_0005267	potassium channel activity
 RCV_000211	ion transport	GO_0019870	potassium channel inhibitor activity
 RCV_000211	ion transport	GO_0015459	potassium channel regulator activity
@@ -9750,6 +10870,7 @@ RCV_000211	ion transport	GO_1902606	regulation of large conductance calcium-acti
 RCV_000211	ion transport	GO_0010462	regulation of light-activated voltage-gated calcium channel activity
 RCV_000211	ion transport	GO_0010959	regulation of metal ion transport
 RCV_000211	ion transport	GO_1902302	regulation of potassium ion export
+RCV_000211	ion transport	GO_1903764	regulation of potassium ion export across plasma membrane
 RCV_000211	ion transport	GO_1903286	regulation of potassium ion import
 RCV_000211	ion transport	GO_1901379	regulation of potassium ion transmembrane transport
 RCV_000211	ion transport	GO_1901016	regulation of potassium ion transmembrane transporter activity
@@ -9770,6 +10891,7 @@ RCV_000211	ion transport	GO_0032415	regulation of sodium:proton antiporter activ
 RCV_000211	ion transport	GO_1901339	regulation of store-operated calcium channel activity
 RCV_000211	ion transport	GO_2001256	regulation of store-operated calcium entry
 RCV_000211	ion transport	GO_1901385	regulation of voltage-gated calcium channel activity
+RCV_000211	ion transport	GO_1903760	regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
 RCV_000211	ion transport	GO_0071581	regulation of zinc ion transmembrane import
 RCV_000211	ion transport	GO_0071580	regulation of zinc ion transmembrane transport
 RCV_000211	ion transport	GO_0071579	regulation of zinc ion transport
@@ -9863,6 +10985,17 @@ RCV_000211	ion transport	GO_0005385	zinc ion transmembrane transporter activity
 RCV_000211	ion transport	GO_0006829	zinc ion transport
 RCV_000211	ion transport	GO_0015633	zinc transporting ATPase activity
 RCV_000211	ion transport	GO_0016463	zinc-exporting ATPase activity
+RCV_000213	keratinocyte	GO_0032980	keratinocyte activation
+RCV_000213	keratinocyte	GO_0097283	keratinocyte apoptotic process
+RCV_000213	keratinocyte	GO_0003334	keratinocyte development
+RCV_000213	keratinocyte	GO_0030216	keratinocyte differentiation
+RCV_000213	keratinocyte	GO_0051546	keratinocyte migration
+RCV_000213	keratinocyte	GO_0043616	keratinocyte proliferation
+RCV_000213	keratinocyte	GO_0060891	limb granular cell differentiation
+RCV_000213	keratinocyte	GO_0060890	limb spinous cell differentiation
+RCV_000213	keratinocyte	GO_0045617	negative regulation of keratinocyte differentiation
+RCV_000213	keratinocyte	GO_0051548	negative regulation of keratinocyte migration
+RCV_000213	keratinocyte	GO_0010839	negative regulation of keratinocyte proliferation
 RCV_000214	kidney development	GO_0071893	BMP signaling pathway involved in nephric duct formation
 RCV_000214	kidney development	GO_0072140	DCT cell development
 RCV_000214	kidney development	GO_0072069	DCT cell differentiation
@@ -10617,7 +11750,6 @@ RCV_000217	kinase activity	GO_0004690	cyclic nucleotide-dependent protein kinase
 RCV_000217	kinase activity	GO_0019912	cyclin-dependent protein kinase activating kinase activity
 RCV_000217	kinase activity	GO_0097472	cyclin-dependent protein kinase activity
 RCV_000217	kinase activity	GO_0004693	cyclin-dependent protein serine/threonine kinase activity
-RCV_000217	kinase activity	GO_0097469	cyclin-dependent protein tyrosine kinase activity
 RCV_000217	kinase activity	GO_0043771	cytidine kinase activity
 RCV_000217	kinase activity	GO_0004127	cytidylate kinase activity
 RCV_000217	kinase activity	GO_0036431	dCMP kinase activity
@@ -10974,6 +12106,268 @@ RCV_000225	lymph gland development	GO_0048542	lymph gland development
 RCV_000225	lymph gland development	GO_0035169	lymph gland plasmatocyte differentiation
 RCV_000225	lymph gland development	GO_0048535	lymph node development
 RCV_000225	lymph gland development	GO_0001945	lymph vessel development
+RCV_000226	lymphocyte	GO_0042113	B cell activation
+RCV_000226	lymphocyte	GO_0002312	B cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0097323	B cell adhesion
+RCV_000226	lymphocyte	GO_0002344	B cell affinity maturation
+RCV_000226	lymphocyte	GO_0002515	B cell anergy
+RCV_000226	lymphocyte	GO_0002450	B cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0002421	B cell antigen processing and presentation following pinocytosis
+RCV_000226	lymphocyte	GO_0002417	B cell antigen processing and presentation mediated by B cell receptor uptake of antigen
+RCV_000226	lymphocyte	GO_0001783	B cell apoptotic process
+RCV_000226	lymphocyte	GO_0035754	B cell chemotaxis
+RCV_000226	lymphocyte	GO_0035769	B cell chemotaxis across high endothelial venule
+RCV_000226	lymphocyte	GO_0031296	B cell costimulation
+RCV_000226	lymphocyte	GO_0002368	B cell cytokine production
+RCV_000226	lymphocyte	GO_0002516	B cell deletion
+RCV_000226	lymphocyte	GO_0030183	B cell differentiation
+RCV_000226	lymphocyte	GO_0001782	B cell homeostasis
+RCV_000226	lymphocyte	GO_0002358	B cell homeostatic proliferation
+RCV_000226	lymphocyte	GO_0002326	B cell lineage commitment
+RCV_000226	lymphocyte	GO_0019724	B cell mediated immunity
+RCV_000226	lymphocyte	GO_0002352	B cell negative selection
+RCV_000226	lymphocyte	GO_0002346	B cell positive selection
+RCV_000226	lymphocyte	GO_0042100	B cell proliferation
+RCV_000226	lymphocyte	GO_0002322	B cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_1990117	B cell receptor apoptotic signaling pathway
+RCV_000226	lymphocyte	GO_0050853	B cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002339	B cell selection
+RCV_000226	lymphocyte	GO_0002514	B cell tolerance induction
+RCV_000226	lymphocyte	GO_0002402	B cell tolerance induction in mucosal-associated lymphoid tissue
+RCV_000226	lymphocyte	GO_0001923	B-1 B cell differentiation
+RCV_000226	lymphocyte	GO_0001922	B-1 B cell homeostasis
+RCV_000226	lymphocyte	GO_0002336	B-1 B cell lineage commitment
+RCV_000226	lymphocyte	GO_0002359	B-1 B cell proliferation
+RCV_000226	lymphocyte	GO_0002337	B-1a B cell differentiation
+RCV_000226	lymphocyte	GO_0002338	B-1b B cell differentiation
+RCV_000226	lymphocyte	GO_0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+RCV_000226	lymphocyte	GO_0043369	CD4-positive or CD8-positive, alpha-beta T cell lineage commitment
+RCV_000226	lymphocyte	GO_0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0002362	CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment
+RCV_000226	lymphocyte	GO_0035710	CD4-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0035783	CD4-positive, alpha-beta T cell costimulation
+RCV_000226	lymphocyte	GO_0035743	CD4-positive, alpha-beta T cell cytokine production
+RCV_000226	lymphocyte	GO_0043367	CD4-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0043373	CD4-positive, alpha-beta T cell lineage commitment
+RCV_000226	lymphocyte	GO_0035739	CD4-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000226	lymphocyte	GO_0036037	CD8-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0043374	CD8-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0035697	CD8-positive, alpha-beta T cell extravasation
+RCV_000226	lymphocyte	GO_0043375	CD8-positive, alpha-beta T cell lineage commitment
+RCV_000226	lymphocyte	GO_0035740	CD8-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation
+RCV_000226	lymphocyte	GO_0035698	CD8-positive, alpha-beta cytotoxic T cell extravasation
+RCV_000226	lymphocyte	GO_0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+RCV_000226	lymphocyte	GO_0002307	CD8-positive, alpha-beta regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+RCV_000226	lymphocyte	GO_0051132	NK T cell activation
+RCV_000226	lymphocyte	GO_0002288	NK T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0001865	NK T cell differentiation
+RCV_000226	lymphocyte	GO_0002364	NK T cell lineage commitment
+RCV_000226	lymphocyte	GO_0001866	NK T cell proliferation
+RCV_000226	lymphocyte	GO_0002289	NK T cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0042110	T cell activation
+RCV_000226	lymphocyte	GO_0002286	T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000226	lymphocyte	GO_0070489	T cell aggregation
+RCV_000226	lymphocyte	GO_0002870	T cell anergy
+RCV_000226	lymphocyte	GO_0002457	T cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0070231	T cell apoptotic process
+RCV_000226	lymphocyte	GO_0010818	T cell chemotaxis
+RCV_000226	lymphocyte	GO_0031295	T cell costimulation
+RCV_000226	lymphocyte	GO_0002369	T cell cytokine production
+RCV_000226	lymphocyte	GO_0030217	T cell differentiation
+RCV_000226	lymphocyte	GO_0033077	T cell differentiation in thymus
+RCV_000226	lymphocyte	GO_0002292	T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0072683	T cell extravasation
+RCV_000226	lymphocyte	GO_0043029	T cell homeostasis
+RCV_000226	lymphocyte	GO_0001777	T cell homeostatic proliferation
+RCV_000226	lymphocyte	GO_0002360	T cell lineage commitment
+RCV_000226	lymphocyte	GO_0001913	T cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002419	T cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002424	T cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002456	T cell mediated immunity
+RCV_000226	lymphocyte	GO_0072678	T cell migration
+RCV_000226	lymphocyte	GO_0042098	T cell proliferation
+RCV_000226	lymphocyte	GO_0002309	T cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0050852	T cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0033371	T cell secretory granule organization
+RCV_000226	lymphocyte	GO_0045058	T cell selection
+RCV_000226	lymphocyte	GO_0002517	T cell tolerance induction
+RCV_000226	lymphocyte	GO_0002403	T cell tolerance induction in mucosal-associated lymphoid tissue
+RCV_000226	lymphocyte	GO_0002411	T cell tolerance induction to tumor cell
+RCV_000226	lymphocyte	GO_0061470	T follicular helper cell differentiation
+RCV_000226	lymphocyte	GO_0035711	T-helper 1 cell activation
+RCV_000226	lymphocyte	GO_0035706	T-helper 1 cell chemotaxis
+RCV_000226	lymphocyte	GO_0035744	T-helper 1 cell cytokine production
+RCV_000226	lymphocyte	GO_0035688	T-helper 1 cell diapedesis
+RCV_000226	lymphocyte	GO_0045063	T-helper 1 cell differentiation
+RCV_000226	lymphocyte	GO_0035687	T-helper 1 cell extravasation
+RCV_000226	lymphocyte	GO_0002296	T-helper 1 cell lineage commitment
+RCV_000226	lymphocyte	GO_0042088	T-helper 1 type immune response
+RCV_000226	lymphocyte	GO_0035705	T-helper 17 cell chemotaxis
+RCV_000226	lymphocyte	GO_0072539	T-helper 17 cell differentiation
+RCV_000226	lymphocyte	GO_0035699	T-helper 17 cell extravasation
+RCV_000226	lymphocyte	GO_0072540	T-helper 17 cell lineage commitment
+RCV_000226	lymphocyte	GO_0072538	T-helper 17 type immune response
+RCV_000226	lymphocyte	GO_0035712	T-helper 2 cell activation
+RCV_000226	lymphocyte	GO_0035707	T-helper 2 cell chemotaxis
+RCV_000226	lymphocyte	GO_0035745	T-helper 2 cell cytokine production
+RCV_000226	lymphocyte	GO_0045064	T-helper 2 cell differentiation
+RCV_000226	lymphocyte	GO_0002297	T-helper 2 cell lineage commitment
+RCV_000226	lymphocyte	GO_0042093	T-helper cell differentiation
+RCV_000226	lymphocyte	GO_0002295	T-helper cell lineage commitment
+RCV_000226	lymphocyte	GO_0035741	activated CD4-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0035742	activated CD8-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0070238	activated T cell autonomous cell death
+RCV_000226	lymphocyte	GO_0050798	activated T cell proliferation
+RCV_000226	lymphocyte	GO_0071948	activation-induced B cell apoptotic process
+RCV_000226	lymphocyte	GO_0006924	activation-induced cell death of T cells
+RCV_000226	lymphocyte	GO_0046631	alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0042722	alpha-beta T cell activation by superantigen
+RCV_000226	lymphocyte	GO_0002287	alpha-beta T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0046632	alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_0002293	alpha-beta T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0002363	alpha-beta T cell lineage commitment
+RCV_000226	lymphocyte	GO_0046633	alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0002310	alpha-beta T cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0002299	alpha-beta intraepithelial T cell differentiation
+RCV_000226	lymphocyte	GO_0001788	antibody-dependent cellular cytotoxicity
+RCV_000226	lymphocyte	GO_0043366	beta selection
+RCV_000226	lymphocyte	GO_0002341	central B cell anergy
+RCV_000226	lymphocyte	GO_0002342	central B cell deletion
+RCV_000226	lymphocyte	GO_0002354	central B cell negative selection
+RCV_000226	lymphocyte	GO_0002348	central B cell positive selection
+RCV_000226	lymphocyte	GO_0002340	central B cell selection
+RCV_000226	lymphocyte	GO_0002510	central B cell tolerance induction
+RCV_000226	lymphocyte	GO_0002512	central T cell tolerance induction
+RCV_000226	lymphocyte	GO_1902483	cytotoxic T cell apoptotic process
+RCV_000226	lymphocyte	GO_0043316	cytotoxic T cell degranulation
+RCV_000226	lymphocyte	GO_0045065	cytotoxic T cell differentiation
+RCV_000226	lymphocyte	GO_0044565	dendritic cell proliferation
+RCV_000226	lymphocyte	GO_0001769	establishment of B cell polarity
+RCV_000226	lymphocyte	GO_0001768	establishment of T cell polarity
+RCV_000226	lymphocyte	GO_0033381	establishment of granzyme B localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0001767	establishment of lymphocyte polarity
+RCV_000226	lymphocyte	GO_0001770	establishment of natural killer cell polarity
+RCV_000226	lymphocyte	GO_0033378	establishment of protease localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0033376	establishment of protein localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0039671	evasion by virus of host natural killer cell activity
+RCV_000226	lymphocyte	GO_0072680	extracellular matrix-dependent thymocyte migration
+RCV_000226	lymphocyte	GO_0033078	extrathymic T cell differentiation
+RCV_000226	lymphocyte	GO_0045062	extrathymic T cell selection
+RCV_000226	lymphocyte	GO_0072681	fibronectin-dependent thymocyte migration
+RCV_000226	lymphocyte	GO_0002316	follicular B cell differentiation
+RCV_000226	lymphocyte	GO_0046629	gamma-delta T cell activation
+RCV_000226	lymphocyte	GO_0002290	gamma-delta T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0042492	gamma-delta T cell differentiation
+RCV_000226	lymphocyte	GO_0002303	gamma-delta T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0002365	gamma-delta T cell lineage commitment
+RCV_000226	lymphocyte	GO_0046630	gamma-delta T cell proliferation
+RCV_000226	lymphocyte	GO_0002311	gamma-delta T cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0002304	gamma-delta intraepithelial T cell differentiation
+RCV_000226	lymphocyte	GO_0002314	germinal center B cell differentiation
+RCV_000226	lymphocyte	GO_0033380	granzyme B localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0035704	helper T cell chemotaxis
+RCV_000226	lymphocyte	GO_0035685	helper T cell diapedesis
+RCV_000226	lymphocyte	GO_0035684	helper T cell extravasation
+RCV_000226	lymphocyte	GO_0002455	humoral immune response mediated by circulating immunoglobulin
+RCV_000226	lymphocyte	GO_0002327	immature B cell differentiation
+RCV_000226	lymphocyte	GO_0033079	immature T cell proliferation
+RCV_000226	lymphocyte	GO_0033080	immature T cell proliferation in thymus
+RCV_000226	lymphocyte	GO_0097281	immune complex formation
+RCV_000226	lymphocyte	GO_0016064	immunoglobulin mediated immune response
+RCV_000226	lymphocyte	GO_0097282	immunoglobulin-mediated neutralization
+RCV_000226	lymphocyte	GO_0035708	interleukin-4-dependent isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0045190	isotype switching
+RCV_000226	lymphocyte	GO_0048290	isotype switching to IgA isotypes
+RCV_000226	lymphocyte	GO_0048292	isotype switching to IgD isotypes
+RCV_000226	lymphocyte	GO_0048289	isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0048291	isotype switching to IgG isotypes
+RCV_000226	lymphocyte	GO_0046649	lymphocyte activation
+RCV_000226	lymphocyte	GO_0002285	lymphocyte activation involved in immune response
+RCV_000226	lymphocyte	GO_0071593	lymphocyte aggregation
+RCV_000226	lymphocyte	GO_0002249	lymphocyte anergy
+RCV_000226	lymphocyte	GO_0070227	lymphocyte apoptotic process
+RCV_000226	lymphocyte	GO_0048247	lymphocyte chemotaxis
+RCV_000226	lymphocyte	GO_0002518	lymphocyte chemotaxis across high endothelial venule
+RCV_000226	lymphocyte	GO_0031294	lymphocyte costimulation
+RCV_000226	lymphocyte	GO_0030098	lymphocyte differentiation
+RCV_000226	lymphocyte	GO_0002260	lymphocyte homeostasis
+RCV_000226	lymphocyte	GO_0002449	lymphocyte mediated immunity
+RCV_000226	lymphocyte	GO_0072676	lymphocyte migration
+RCV_000226	lymphocyte	GO_0097022	lymphocyte migration into lymph node
+RCV_000226	lymphocyte	GO_0097021	lymphocyte migration into lymphoid organs
+RCV_000226	lymphocyte	GO_0046651	lymphocyte proliferation
+RCV_000226	lymphocyte	GO_0033382	maintenance of granzyme B location in T cell secretory granule
+RCV_000226	lymphocyte	GO_0033379	maintenance of protease location in T cell secretory granule
+RCV_000226	lymphocyte	GO_0033377	maintenance of protein location in T cell secretory granule
+RCV_000226	lymphocyte	GO_0002315	marginal zone B cell differentiation
+RCV_000226	lymphocyte	GO_0002901	mature B cell apoptotic process
+RCV_000226	lymphocyte	GO_0002335	mature B cell differentiation
+RCV_000226	lymphocyte	GO_0002313	mature B cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0035782	mature natural killer cell chemotaxis
+RCV_000226	lymphocyte	GO_0002319	memory B cell differentiation
+RCV_000226	lymphocyte	GO_0035709	memory T cell activation
+RCV_000226	lymphocyte	GO_0043379	memory T cell differentiation
+RCV_000226	lymphocyte	GO_0035683	memory T cell extravasation
+RCV_000226	lymphocyte	GO_0061485	memory T cell proliferation
+RCV_000226	lymphocyte	GO_0002261	mucosal lymphocyte homeostasis
+RCV_000226	lymphocyte	GO_0030101	natural killer cell activation
+RCV_000226	lymphocyte	GO_0002323	natural killer cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0070246	natural killer cell apoptotic process
+RCV_000226	lymphocyte	GO_0035747	natural killer cell chemotaxis
+RCV_000226	lymphocyte	GO_0002370	natural killer cell cytokine production
+RCV_000226	lymphocyte	GO_0043320	natural killer cell degranulation
+RCV_000226	lymphocyte	GO_0001779	natural killer cell differentiation
+RCV_000226	lymphocyte	GO_0002325	natural killer cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0042267	natural killer cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002420	natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002423	natural killer cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002228	natural killer cell mediated immunity
+RCV_000226	lymphocyte	GO_0001787	natural killer cell proliferation
+RCV_000226	lymphocyte	GO_0002324	natural killer cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0002519	natural killer cell tolerance induction
+RCV_000226	lymphocyte	GO_0043383	negative T cell selection
+RCV_000226	lymphocyte	GO_0045068	negative extrathymic T cell selection
+RCV_000226	lymphocyte	GO_0045060	negative thymic T cell selection
+RCV_000226	lymphocyte	GO_0002453	peripheral B cell anergy
+RCV_000226	lymphocyte	GO_0002454	peripheral B cell deletion
+RCV_000226	lymphocyte	GO_0002356	peripheral B cell negative selection
+RCV_000226	lymphocyte	GO_0002350	peripheral B cell positive selection
+RCV_000226	lymphocyte	GO_0002343	peripheral B cell selection
+RCV_000226	lymphocyte	GO_0002451	peripheral B cell tolerance induction
+RCV_000226	lymphocyte	GO_0002458	peripheral T cell tolerance induction
+RCV_000226	lymphocyte	GO_0002317	plasma cell differentiation
+RCV_000226	lymphocyte	GO_0043368	positive T cell selection
+RCV_000226	lymphocyte	GO_0045067	positive extrathymic T cell selection
+RCV_000226	lymphocyte	GO_0045059	positive thymic T cell selection
+RCV_000226	lymphocyte	GO_0002329	pre-B cell differentiation
+RCV_000226	lymphocyte	GO_0033375	protease localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0033374	protein localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_1902482	regulatory T cell apoptotic process
+RCV_000226	lymphocyte	GO_0045066	regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_0039672	suppression by virus of host natural killer cell activation
+RCV_000226	lymphocyte	GO_0023022	termination of T cell signal transduction
+RCV_000226	lymphocyte	GO_0045061	thymic T cell selection
+RCV_000226	lymphocyte	GO_0071594	thymocyte aggregation
+RCV_000226	lymphocyte	GO_0070242	thymocyte apoptotic process
+RCV_000226	lymphocyte	GO_0072679	thymocyte migration
+RCV_000226	lymphocyte	GO_0002333	transitional one stage B cell differentiation
+RCV_000226	lymphocyte	GO_0002332	transitional stage B cell differentiation
+RCV_000226	lymphocyte	GO_0002334	transitional two stage B cell differentiation
+RCV_000226	lymphocyte	GO_0016068	type I hypersensitivity
+RCV_000226	lymphocyte	GO_0002559	type I hypersensitivity mediated by basophils
+RCV_000226	lymphocyte	GO_0002558	type I hypersensitivity mediated by mast cells
+RCV_000226	lymphocyte	GO_0002445	type II hypersensitivity
+RCV_000226	lymphocyte	GO_0001802	type III hypersensitivity
+RCV_000226	lymphocyte	GO_0001794	type IIa hypersensitivity
+RCV_000226	lymphocyte	GO_0001795	type IIb hypersensitivity
+RCV_000226	lymphocyte	GO_0001806	type IV hypersensitivity
 RCV_000230	mast cell	GO_0044479	envenomation resulting in modulation of mast cell degranulation in other organism
 RCV_000230	mast cell	GO_0044480	envenomation resulting in positive regulation of mast cell degranulation in other organism
 RCV_000230	mast cell	GO_0033372	establishment of protease localization to mast cell secretory granule
@@ -11021,6 +12415,21 @@ RCV_000230	mast cell	GO_0060375	regulation of mast cell differentiation
 RCV_000230	mast cell	GO_0070666	regulation of mast cell proliferation
 RCV_000230	mast cell	GO_0002552	serotonin secretion by mast cell
 RCV_000230	mast cell	GO_0002558	type I hypersensitivity mediated by mast cells
+RCV_000232	mesangial cell	GO_0072144	glomerular mesangial cell development
+RCV_000232	mesangial cell	GO_0072008	glomerular mesangial cell differentiation
+RCV_000232	mesangial cell	GO_0072152	glomerular mesangial cell fate commitment
+RCV_000232	mesangial cell	GO_0072143	mesangial cell development
+RCV_000232	mesangial cell	GO_0072007	mesangial cell differentiation
+RCV_000232	mesangial cell	GO_0072151	mesangial cell fate commitment
+RCV_000232	mesangial cell	GO_0035759	mesangial cell-matrix adhesion
+RCV_000232	mesangial cell	GO_0061263	mesonephric glomerular mesangial cell development
+RCV_000232	mesangial cell	GO_0061259	mesonephric glomerular mesangial cell differentiation
+RCV_000232	mesangial cell	GO_0061264	mesonephric glomerular mesangial cell fate commitment
+RCV_000232	mesangial cell	GO_0061260	mesonephric mesangial cell differentiation
+RCV_000232	mesangial cell	GO_0072255	metanephric glomerular mesangial cell development
+RCV_000232	mesangial cell	GO_0072254	metanephric glomerular mesangial cell differentiation
+RCV_000232	mesangial cell	GO_0072256	metanephric glomerular mesangial cell fate commitment
+RCV_000232	mesangial cell	GO_0072209	metanephric mesangial cell differentiation
 RCV_000234	mesenchymal-epithelial cell signaling	GO_0060511	creation of an inductive signal by a mesenchymal cell involved in lung induction
 RCV_000234	mesenchymal-epithelial cell signaling	GO_0060499	fibroblast growth factor receptor signaling pathway involved in lung induction
 RCV_000234	mesenchymal-epithelial cell signaling	GO_0060497	mesenchymal-endodermal cell signaling
@@ -11047,6 +12456,61 @@ RCV_000235	midbrain development	GO_0021555	midbrain-hindbrain boundary morphogen
 RCV_000235	midbrain development	GO_0021552	midbrain-hindbrain boundary structural organization
 RCV_000235	midbrain development	GO_0021762	substantia nigra development
 RCV_000235	midbrain development	GO_0061380	superior colliculus development
+RCV_000238	monocyte	GO_0042117	monocyte activation
+RCV_000238	monocyte	GO_0002280	monocyte activation involved in immune response
+RCV_000238	monocyte	GO_0070487	monocyte aggregation
+RCV_000238	monocyte	GO_0002471	monocyte antigen processing and presentation
+RCV_000238	monocyte	GO_0071605	monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0002548	monocyte chemotaxis
+RCV_000238	monocyte	GO_0030224	monocyte differentiation
+RCV_000238	monocyte	GO_0035696	monocyte extravasation
+RCV_000238	monocyte	GO_0035702	monocyte homeostasis
+RCV_000238	monocyte	GO_0035703	monocyte migration into blood stream
+RCV_000238	monocyte	GO_1900624	negative regulation of monocyte aggregation
+RCV_000238	monocyte	GO_0002614	negative regulation of monocyte antigen processing and presentation
+RCV_000238	monocyte	GO_0071638	negative regulation of monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0045656	negative regulation of monocyte differentiation
+RCV_000238	monocyte	GO_2000438	negative regulation of monocyte extravasation
+RCV_000238	monocyte	GO_1900625	positive regulation of monocyte aggregation
+RCV_000238	monocyte	GO_0071639	positive regulation of monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0045657	positive regulation of monocyte differentiation
+RCV_000238	monocyte	GO_2000439	positive regulation of monocyte extravasation
+RCV_000238	monocyte	GO_1900623	regulation of monocyte aggregation
+RCV_000238	monocyte	GO_0002613	regulation of monocyte antigen processing and presentation
+RCV_000238	monocyte	GO_0071637	regulation of monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0045655	regulation of monocyte differentiation
+RCV_000238	monocyte	GO_2000437	regulation of monocyte extravasation
+RCV_000240	myoblast	GO_0060379	cardiac muscle cell myoblast differentiation
+RCV_000240	myoblast	GO_0048627	myoblast development
+RCV_000240	myoblast	GO_0045445	myoblast differentiation
+RCV_000240	myoblast	GO_0014835	myoblast differentiation involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0014872	myoblast division
+RCV_000240	myoblast	GO_0048625	myoblast fate commitment
+RCV_000240	myoblast	GO_0014714	myoblast fate commitment in head
+RCV_000240	myoblast	GO_0014715	myoblast fate commitment in trunk
+RCV_000240	myoblast	GO_0014836	myoblast fate commitment involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0007518	myoblast fate determination
+RCV_000240	myoblast	GO_0014837	myoblast fate determination involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0048626	myoblast fate specification
+RCV_000240	myoblast	GO_0014838	myoblast fate specification involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0007520	myoblast fusion
+RCV_000240	myoblast	GO_0014905	myoblast fusion involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0048628	myoblast maturation
+RCV_000240	myoblast	GO_0014914	myoblast maturation involved in muscle regeneration
+RCV_000240	myoblast	GO_0051451	myoblast migration
+RCV_000240	myoblast	GO_0014839	myoblast migration involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0051450	myoblast proliferation
+RCV_000240	myoblast	GO_0014844	myoblast proliferation involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_0014906	myotube cell development involved in skeletal muscle regeneration
+RCV_000240	myoblast	GO_2000691	negative regulation of cardiac muscle cell myoblast differentiation
+RCV_000240	myoblast	GO_0045662	negative regulation of myoblast differentiation
+RCV_000240	myoblast	GO_2000818	negative regulation of myoblast proliferation
+RCV_000240	myoblast	GO_2000700	positive regulation of cardiac muscle cell myoblast differentiation
+RCV_000240	myoblast	GO_0045663	positive regulation of myoblast differentiation
+RCV_000240	myoblast	GO_2000288	positive regulation of myoblast proliferation
+RCV_000240	myoblast	GO_2000690	regulation of cardiac muscle cell myoblast differentiation
+RCV_000240	myoblast	GO_0045661	regulation of myoblast differentiation
+RCV_000240	myoblast	GO_2000291	regulation of myoblast proliferation
 RCV_000244	neuron development	GO_1903616	MAPK cascade involved in axon regeneration
 RCV_000244	neuron development	GO_0048053	R1/R6 development
 RCV_000244	neuron development	GO_0048055	R2/R5 development
@@ -11511,6 +12975,164 @@ RCV_000253	nucleotide binding process	GO_0032557	pyrimidine ribonucleotide bindi
 RCV_000253	nucleotide binding process	GO_0032553	ribonucleotide binding
 RCV_000253	nucleotide binding process	GO_0000901	translation repressor activity, non-nucleic acid binding
 RCV_000253	nucleotide binding process	GO_0000900	translation repressor activity, nucleic acid binding
+RCV_000256	oocyte	GO_0030719	P granule organization
+RCV_000256	oocyte	GO_0060833	Wnt signaling pathway involved in animal/vegetal axis specification
+RCV_000256	oocyte	GO_0045450	bicoid mRNA localization
+RCV_000256	oocyte	GO_0030722	establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification
+RCV_000256	oocyte	GO_0046595	establishment of pole plasm mRNA localization
+RCV_000256	oocyte	GO_0030706	germarium-derived oocyte differentiation
+RCV_000256	oocyte	GO_0007294	germarium-derived oocyte fate determination
+RCV_000256	oocyte	GO_0042070	maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification
+RCV_000256	oocyte	GO_0046594	maintenance of pole plasm mRNA location
+RCV_000256	oocyte	GO_0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded
+RCV_000256	oocyte	GO_0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded
+RCV_000256	oocyte	GO_0060832	oocyte animal/vegetal axis specification
+RCV_000256	oocyte	GO_0007314	oocyte anterior/posterior axis specification
+RCV_000256	oocyte	GO_0007309	oocyte axis specification
+RCV_000256	oocyte	GO_0007308	oocyte construction
+RCV_000256	oocyte	GO_0048599	oocyte development
+RCV_000256	oocyte	GO_0009994	oocyte differentiation
+RCV_000256	oocyte	GO_0007310	oocyte dorsal/ventral axis specification
+RCV_000256	oocyte	GO_0048600	oocyte fate commitment
+RCV_000256	oocyte	GO_0030716	oocyte fate determination
+RCV_000256	oocyte	GO_0001555	oocyte growth
+RCV_000256	oocyte	GO_0030715	oocyte growth in germarium-derived egg chamber
+RCV_000256	oocyte	GO_0030720	oocyte localization involved in germarium-derived egg chamber formation
+RCV_000256	oocyte	GO_0001556	oocyte maturation
+RCV_000256	oocyte	GO_0016325	oocyte microtubule cytoskeleton organization
+RCV_000256	oocyte	GO_0008103	oocyte microtubule cytoskeleton polarization
+RCV_000256	oocyte	GO_0048601	oocyte morphogenesis
+RCV_000256	oocyte	GO_0051663	oocyte nucleus localization involved in oocyte dorsal/ventral axis specification
+RCV_000256	oocyte	GO_0007312	oocyte nucleus migration involved in oocyte dorsal/ventral axis specification
+RCV_000256	oocyte	GO_0007316	pole plasm RNA localization
+RCV_000256	oocyte	GO_0007315	pole plasm assembly
+RCV_000256	oocyte	GO_0019094	pole plasm mRNA localization
+RCV_000256	oocyte	GO_0019096	pole plasm mitochondrial lrRNA localization
+RCV_000256	oocyte	GO_0019095	pole plasm mitochondrial rRNA localization
+RCV_000256	oocyte	GO_0019097	pole plasm mitochondrial srRNA localization
+RCV_000256	oocyte	GO_0045451	pole plasm oskar mRNA localization
+RCV_000256	oocyte	GO_0007318	pole plasm protein localization
+RCV_000257	oogenesis	GO_0030719	P granule organization
+RCV_000257	oogenesis	GO_0060833	Wnt signaling pathway involved in animal/vegetal axis specification
+RCV_000257	oogenesis	GO_0030714	anterior/posterior axis specification, follicular epithelium
+RCV_000257	oogenesis	GO_0045450	bicoid mRNA localization
+RCV_000257	oogenesis	GO_0030709	border follicle cell delamination
+RCV_000257	oogenesis	GO_0007298	border follicle cell migration
+RCV_000257	oogenesis	GO_0060269	centripetally migrating follicle cell migration
+RCV_000257	oogenesis	GO_0007304	chorion-containing eggshell formation
+RCV_000257	oogenesis	GO_0030381	chorion-containing eggshell pattern formation
+RCV_000257	oogenesis	GO_0001549	cumulus cell differentiation
+RCV_000257	oogenesis	GO_0007303	cytoplasmic transport, nurse cell to oocyte
+RCV_000257	oogenesis	GO_0019749	cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte
+RCV_000257	oogenesis	GO_0048164	distinct antral spaces stage
+RCV_000257	oogenesis	GO_0046843	dorsal appendage formation
+RCV_000257	oogenesis	GO_0008069	dorsal/ventral axis specification, ovarian follicular epithelium
+RCV_000257	oogenesis	GO_0048161	double layer follicle stage
+RCV_000257	oogenesis	GO_0035803	egg coat formation
+RCV_000257	oogenesis	GO_0007306	eggshell chorion assembly
+RCV_000257	oogenesis	GO_0007307	eggshell chorion gene amplification
+RCV_000257	oogenesis	GO_0030703	eggshell formation
+RCV_000257	oogenesis	GO_0030722	establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification
+RCV_000257	oogenesis	GO_0046595	establishment of pole plasm mRNA localization
+RCV_000257	oogenesis	GO_0048135	female germ-line cyst formation
+RCV_000257	oogenesis	GO_0048132	female germ-line stem cell asymmetric division
+RCV_000257	oogenesis	GO_0007301	female germline ring canal formation
+RCV_000257	oogenesis	GO_0008302	female germline ring canal formation, actin assembly
+RCV_000257	oogenesis	GO_0008335	female germline ring canal stabilization
+RCV_000257	oogenesis	GO_0003004	follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage
+RCV_000257	oogenesis	GO_0003003	follicular fluid formation in ovarian follicle antrum involved in fused antrum stage
+RCV_000257	oogenesis	GO_0003005	follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage
+RCV_000257	oogenesis	GO_0048165	fused antrum stage
+RCV_000257	oogenesis	GO_0048142	germarium-derived cystoblast division
+RCV_000257	oogenesis	GO_0007293	germarium-derived egg chamber formation
+RCV_000257	oogenesis	GO_0030708	germarium-derived female germ-line cyst encapsulation
+RCV_000257	oogenesis	GO_0030727	germarium-derived female germ-line cyst formation
+RCV_000257	oogenesis	GO_0030706	germarium-derived oocyte differentiation
+RCV_000257	oogenesis	GO_0007294	germarium-derived oocyte fate determination
+RCV_000257	oogenesis	GO_0007295	growth of a germarium-derived egg chamber
+RCV_000257	oogenesis	GO_0030717	karyosome formation
+RCV_000257	oogenesis	GO_0060270	main body follicle cell migration
+RCV_000257	oogenesis	GO_0042070	maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification
+RCV_000257	oogenesis	GO_0046594	maintenance of pole plasm mRNA location
+RCV_000257	oogenesis	GO_0008070	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded
+RCV_000257	oogenesis	GO_0008071	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded
+RCV_000257	oogenesis	GO_0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded
+RCV_000257	oogenesis	GO_0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded
+RCV_000257	oogenesis	GO_0048166	mature follicle stage
+RCV_000257	oogenesis	GO_1903537	meiotic cell cycle process involved in oocyte maturation
+RCV_000257	oogenesis	GO_0046844	micropyle formation
+RCV_000257	oogenesis	GO_0048162	multi-layer follicle stage
+RCV_000257	oogenesis	GO_0045853	negative regulation of bicoid mRNA localization
+RCV_000257	oogenesis	GO_0030712	negative regulation of border follicle cell delamination
+RCV_000257	oogenesis	GO_1903687	negative regulation of border follicle cell migration
+RCV_000257	oogenesis	GO_0045593	negative regulation of cumulus cell differentiation
+RCV_000257	oogenesis	GO_0045849	negative regulation of nurse cell apoptotic process
+RCV_000257	oogenesis	GO_0060283	negative regulation of oocyte development
+RCV_000257	oogenesis	GO_1900194	negative regulation of oocyte maturation
+RCV_000257	oogenesis	GO_0045855	negative regulation of pole plasm oskar mRNA localization
+RCV_000257	oogenesis	GO_0045476	nurse cell apoptotic process
+RCV_000257	oogenesis	GO_0007302	nurse cell nucleus anchoring
+RCV_000257	oogenesis	GO_0060832	oocyte animal/vegetal axis specification
+RCV_000257	oogenesis	GO_0007314	oocyte anterior/posterior axis specification
+RCV_000257	oogenesis	GO_0007309	oocyte axis specification
+RCV_000257	oogenesis	GO_0007308	oocyte construction
+RCV_000257	oogenesis	GO_0048599	oocyte development
+RCV_000257	oogenesis	GO_0009994	oocyte differentiation
+RCV_000257	oogenesis	GO_0007310	oocyte dorsal/ventral axis specification
+RCV_000257	oogenesis	GO_0048600	oocyte fate commitment
+RCV_000257	oogenesis	GO_0001555	oocyte growth
+RCV_000257	oogenesis	GO_0030715	oocyte growth in germarium-derived egg chamber
+RCV_000257	oogenesis	GO_0030720	oocyte localization involved in germarium-derived egg chamber formation
+RCV_000257	oogenesis	GO_0001556	oocyte maturation
+RCV_000257	oogenesis	GO_0016325	oocyte microtubule cytoskeleton organization
+RCV_000257	oogenesis	GO_0008103	oocyte microtubule cytoskeleton polarization
+RCV_000257	oogenesis	GO_0048601	oocyte morphogenesis
+RCV_000257	oogenesis	GO_0051663	oocyte nucleus localization involved in oocyte dorsal/ventral axis specification
+RCV_000257	oogenesis	GO_0007312	oocyte nucleus migration involved in oocyte dorsal/ventral axis specification
+RCV_000257	oogenesis	GO_0048477	oogenesis
+RCV_000257	oogenesis	GO_0022605	oogenesis stage
+RCV_000257	oogenesis	GO_0075263	oogonium development
+RCV_000257	oogenesis	GO_0048158	oogonium stage
+RCV_000257	oogenesis	GO_0001550	ovarian cumulus expansion
+RCV_000257	oogenesis	GO_0030707	ovarian follicle cell development
+RCV_000257	oogenesis	GO_0007297	ovarian follicle cell migration
+RCV_000257	oogenesis	GO_0030713	ovarian follicle cell stalk formation
+RCV_000257	oogenesis	GO_0007299	ovarian follicle cell-cell adhesion
+RCV_000257	oogenesis	GO_0030723	ovarian fusome organization
+RCV_000257	oogenesis	GO_0007300	ovarian nurse cell to oocyte transport
+RCV_000257	oogenesis	GO_0007316	pole plasm RNA localization
+RCV_000257	oogenesis	GO_0007315	pole plasm assembly
+RCV_000257	oogenesis	GO_0019094	pole plasm mRNA localization
+RCV_000257	oogenesis	GO_0019096	pole plasm mitochondrial lrRNA localization
+RCV_000257	oogenesis	GO_0019095	pole plasm mitochondrial rRNA localization
+RCV_000257	oogenesis	GO_0019097	pole plasm mitochondrial srRNA localization
+RCV_000257	oogenesis	GO_0045451	pole plasm oskar mRNA localization
+RCV_000257	oogenesis	GO_0007318	pole plasm protein localization
+RCV_000257	oogenesis	GO_0045854	positive regulation of bicoid mRNA localization
+RCV_000257	oogenesis	GO_0030711	positive regulation of border follicle cell delamination
+RCV_000257	oogenesis	GO_1903688	positive regulation of border follicle cell migration
+RCV_000257	oogenesis	GO_0045594	positive regulation of cumulus cell differentiation
+RCV_000257	oogenesis	GO_0045850	positive regulation of nurse cell apoptotic process
+RCV_000257	oogenesis	GO_0060282	positive regulation of oocyte development
+RCV_000257	oogenesis	GO_1900195	positive regulation of oocyte maturation
+RCV_000257	oogenesis	GO_0045856	positive regulation of pole plasm oskar mRNA localization
+RCV_000257	oogenesis	GO_0001546	preantral ovarian follicle growth
+RCV_000257	oogenesis	GO_0048160	primary follicle stage
+RCV_000257	oogenesis	GO_0048159	primary oocyte stage
+RCV_000257	oogenesis	GO_0043929	primary ovarian follicle growth involved in double layer follicle stage
+RCV_000257	oogenesis	GO_0043930	primary ovarian follicle growth involved in primary follicle stage
+RCV_000257	oogenesis	GO_0008359	regulation of bicoid mRNA localization
+RCV_000257	oogenesis	GO_0030710	regulation of border follicle cell delamination
+RCV_000257	oogenesis	GO_1903684	regulation of border follicle cell migration
+RCV_000257	oogenesis	GO_0045592	regulation of cumulus cell differentiation
+RCV_000257	oogenesis	GO_1903538	regulation of meiotic cell cycle process involved in oocyte maturation
+RCV_000257	oogenesis	GO_0045477	regulation of nurse cell apoptotic process
+RCV_000257	oogenesis	GO_0060281	regulation of oocyte development
+RCV_000257	oogenesis	GO_1900193	regulation of oocyte maturation
+RCV_000257	oogenesis	GO_0007317	regulation of pole plasm oskar mRNA localization
+RCV_000257	oogenesis	GO_0048163	scattered antral spaces stage
+RCV_000257	oogenesis	GO_0030704	vitelline membrane formation
+RCV_000257	oogenesis	GO_0007305	vitelline membrane formation involved in chorion-containing eggshell formation
 RCV_000258	optic nerve development	GO_2000596	negative regulation of optic nerve formation
 RCV_000258	optic nerve development	GO_0061360	optic chiasma development
 RCV_000258	optic nerve development	GO_0021554	optic nerve development
@@ -13321,7 +14943,6 @@ RCV_000259	organ development	GO_0045656	negative regulation of monocyte differen
 RCV_000259	organ development	GO_0048635	negative regulation of muscle organ development
 RCV_000259	organ development	GO_0045638	negative regulation of myeloid cell differentiation
 RCV_000259	organ development	GO_0002762	negative regulation of myeloid leukocyte differentiation
-RCV_000259	organ development	GO_0045662	negative regulation of myoblast differentiation
 RCV_000259	organ development	GO_0032824	negative regulation of natural killer cell differentiation
 RCV_000259	organ development	GO_0032827	negative regulation of natural killer cell differentiation involved in immune response
 RCV_000259	organ development	GO_0072183	negative regulation of nephron tubule epithelial cell differentiation
@@ -13822,7 +15443,6 @@ RCV_000259	organ development	GO_0045657	positive regulation of monocyte differen
 RCV_000259	organ development	GO_0048636	positive regulation of muscle organ development
 RCV_000259	organ development	GO_0045639	positive regulation of myeloid cell differentiation
 RCV_000259	organ development	GO_0002763	positive regulation of myeloid leukocyte differentiation
-RCV_000259	organ development	GO_0045663	positive regulation of myoblast differentiation
 RCV_000259	organ development	GO_0032825	positive regulation of natural killer cell differentiation
 RCV_000259	organ development	GO_0032828	positive regulation of natural killer cell differentiation involved in immune response
 RCV_000259	organ development	GO_2000768	positive regulation of nephron tubule epithelial cell differentiation
@@ -14257,7 +15877,6 @@ RCV_000259	organ development	GO_0045655	regulation of monocyte differentiation
 RCV_000259	organ development	GO_0048634	regulation of muscle organ development
 RCV_000259	organ development	GO_0045637	regulation of myeloid cell differentiation
 RCV_000259	organ development	GO_0002761	regulation of myeloid leukocyte differentiation
-RCV_000259	organ development	GO_0045661	regulation of myoblast differentiation
 RCV_000259	organ development	GO_0032823	regulation of natural killer cell differentiation
 RCV_000259	organ development	GO_0032826	regulation of natural killer cell differentiation involved in immune response
 RCV_000259	organ development	GO_0072182	regulation of nephron tubule epithelial cell differentiation
@@ -15047,6 +16666,22 @@ RCV_000276	phosphatase activity 	GO_0050340	thymidylate 5'-phosphatase activity
 RCV_000276	phosphatase activity 	GO_0019198	transmembrane receptor protein phosphatase activity
 RCV_000276	phosphatase activity 	GO_0005001	transmembrane receptor protein tyrosine phosphatase activity
 RCV_000276	phosphatase activity 	GO_0004805	trehalose-phosphatase activity
+RCV_000281	platelet	GO_0002555	histamine secretion by platelet
+RCV_000281	platelet	GO_0006663	platelet activating factor biosynthetic process
+RCV_000281	platelet	GO_0046469	platelet activating factor metabolic process
+RCV_000281	platelet	GO_0002390	platelet activating factor production
+RCV_000281	platelet	GO_0002391	platelet activating factor production involved in inflammatory response
+RCV_000281	platelet	GO_0002392	platelet activating factor secretion
+RCV_000281	platelet	GO_0002535	platelet activating factor secretion involved in inflammatory response
+RCV_000281	platelet	GO_0030168	platelet activation
+RCV_000281	platelet	GO_0070527	platelet aggregation
+RCV_000281	platelet	GO_0070889	platelet alpha granule organization
+RCV_000281	platelet	GO_0002576	platelet degranulation
+RCV_000281	platelet	GO_0060155	platelet dense granule organization
+RCV_000281	platelet	GO_0030220	platelet formation
+RCV_000281	platelet	GO_0036345	platelet maturation
+RCV_000281	platelet	GO_0070560	protein secretion by platelet
+RCV_000281	platelet	GO_0002554	serotonin secretion by platelet
 RCV_000291	purine metabolism	GO_0044208	'de novo' AMP biosynthetic process
 RCV_000291	purine metabolism	GO_0006189	'de novo' IMP biosynthetic process
 RCV_000291	purine metabolism	GO_0097294	'de novo' XMP biosynthetic process
@@ -15315,8 +16950,6 @@ RCV_000291	purine metabolism	GO_0035590	purinergic nucleotide receptor signaling
 RCV_000291	purine metabolism	GO_0035587	purinergic receptor signaling pathway
 RCV_000291	purine metabolism	GO_0043638	puromycin biosynthetic process
 RCV_000291	purine metabolism	GO_0043637	puromycin metabolic process
-RCV_000291	purine metabolism	GO_0003400	regulation of COPII vesicle coating
-RCV_000291	purine metabolism	GO_0090113	regulation of ER to Golgi vesicle-mediated transport by GTP hydrolysis
 RCV_000291	purine metabolism	GO_0006141	regulation of purine nucleobase metabolic process
 RCV_000291	purine metabolism	GO_0032245	regulation of purine nucleoside transport
 RCV_000291	purine metabolism	GO_1900371	regulation of purine nucleotide biosynthetic process
@@ -16467,7 +18100,7 @@ RCV_000319	sugar metabolism	GO_0042842	D-xylose biosynthetic process
 RCV_000319	sugar metabolism	GO_0042843	D-xylose catabolic process
 RCV_000319	sugar metabolism	GO_0044836	D-xylose fermentation
 RCV_000319	sugar metabolism	GO_0042732	D-xylose metabolic process
-RCV_000319	sugar metabolism	GO_0009255	Entner-Doudoroff pathway
+RCV_000319	sugar metabolism	GO_0009255	Entner-Doudoroff pathway through 6-phosphogluconate
 RCV_000319	sugar metabolism	GO_0052645	F420-0 metabolic process
 RCV_000319	sugar metabolism	GO_0009248	K antigen biosynthetic process
 RCV_000319	sugar metabolism	GO_0046375	K antigen metabolic process
@@ -16660,6 +18293,7 @@ RCV_000319	sugar metabolism	GO_0052012	catabolism by symbiont of host cell wall 
 RCV_000319	sugar metabolism	GO_0052011	catabolism by symbiont of host cell wall pectin
 RCV_000319	sugar metabolism	GO_0052016	catabolism by symbiont of host glucan
 RCV_000319	sugar metabolism	GO_0052017	catabolism by symbiont of host xylan
+RCV_000319	sugar metabolism	GO_0030995	cell septum edging catabolic process
 RCV_000319	sugar metabolism	GO_0070598	cell wall (1->3)-alpha-glucan biosynthetic process
 RCV_000319	sugar metabolism	GO_0070597	cell wall (1->3)-alpha-glucan metabolic process
 RCV_000319	sugar metabolism	GO_0034411	cell wall (1->3)-beta-D-glucan biosynthetic process
@@ -16863,7 +18497,6 @@ RCV_000319	sugar metabolism	GO_0019525	keto-D-gluconate metabolic process
 RCV_000319	sugar metabolism	GO_0046180	ketogluconate biosynthetic process
 RCV_000319	sugar metabolism	GO_0046181	ketogluconate catabolic process
 RCV_000319	sugar metabolism	GO_0019522	ketogluconate metabolic process
-RCV_000319	sugar metabolism	GO_0019652	lactate fermentation to propionate and acetate
 RCV_000319	sugar metabolism	GO_0005989	lactose biosynthetic process
 RCV_000319	sugar metabolism	GO_0005990	lactose catabolic process
 RCV_000319	sugar metabolism	GO_0019515	lactose catabolic process via UDP-galactose
@@ -17156,6 +18789,123 @@ RCV_000319	sugar metabolism	GO_0051167	xylulose 5-phosphate metabolic process
 RCV_000319	sugar metabolism	GO_0005999	xylulose biosynthetic process
 RCV_000319	sugar metabolism	GO_0005998	xylulose catabolic process
 RCV_000319	sugar metabolism	GO_0005997	xylulose metabolic process
+RCV_000321	synapse	GO_1990024	C bouton
+RCV_000321	synapse	GO_1990025	F bouton
+RCV_000321	synapse	GO_0051935	L-glutamate uptake involved in synaptic transmission
+RCV_000321	synapse	GO_1990027	S bouton
+RCV_000321	synapse	GO_0001507	acetylcholine catabolic process in synaptic cleft
+RCV_000321	synapse	GO_0051933	amino acid uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0032279	asymmetric synapse
+RCV_000321	synapse	GO_0030129	clathrin coat of synaptic vesicle
+RCV_000321	synapse	GO_0007529	establishment of synaptic specificity at neuromuscular junction
+RCV_000321	synapse	GO_0098520	excitatory neuromuscular junction
+RCV_000321	synapse	GO_0098525	excitatory neuromuscular junction of somatic myotube
+RCV_000321	synapse	GO_0060076	excitatory synapse
+RCV_000321	synapse	GO_0097483	glial cell postsynaptic density
+RCV_000321	synapse	GO_1990026	hippocampal mossy fiber expansion
+RCV_000321	synapse	GO_0051915	induction of synaptic plasticity by chemical substance
+RCV_000321	synapse	GO_0098521	inhibitory neuromuscular junction
+RCV_000321	synapse	GO_0098526	inhibitory neuromuscular junction of somatic myotube
+RCV_000321	synapse	GO_0060077	inhibitory synapse
+RCV_000321	synapse	GO_0030285	integral component of synaptic vesicle membrane
+RCV_000321	synapse	GO_0098563	intrinsic component of synaptic vesicle membrane
+RCV_000321	synapse	GO_0097471	mossy fiber rosette
+RCV_000321	synapse	GO_0097482	muscle cell postsynaptic density
+RCV_000321	synapse	GO_0031594	neuromuscular junction
+RCV_000321	synapse	GO_0007528	neuromuscular junction development
+RCV_000321	synapse	GO_0098529	neuromuscular junction development, skeletal muscle fiber
+RCV_000321	synapse	GO_0098523	neuromuscular junction of myotube
+RCV_000321	synapse	GO_0098522	neuromuscular junction of skeletal muscle fiber
+RCV_000321	synapse	GO_0098527	neuromuscular junction of somatic muscle
+RCV_000321	synapse	GO_0098524	neuromuscular junction of somatic muscle myotube
+RCV_000321	synapse	GO_0007274	neuromuscular synaptic transmission
+RCV_000321	synapse	GO_0007270	neuron-neuron synaptic transmission
+RCV_000321	synapse	GO_0097481	neuronal postsynaptic density
+RCV_000321	synapse	GO_0090127	positive regulation of synapse maturation by synaptic transmission
+RCV_000321	synapse	GO_0014069	postsynaptic density
+RCV_000321	synapse	GO_0097107	postsynaptic density assembly
+RCV_000321	synapse	GO_0097106	postsynaptic density organization
+RCV_000321	synapse	GO_0045211	postsynaptic membrane
+RCV_000321	synapse	GO_0048786	presynaptic active zone
+RCV_000321	synapse	GO_0097445	presynaptic active zone dense projection
+RCV_000321	synapse	GO_0048787	presynaptic active zone membrane
+RCV_000321	synapse	GO_0048788	presynaptic cytoskeletal matrix assembled at active zones
+RCV_000321	synapse	GO_1990013	presynaptic grid
+RCV_000321	synapse	GO_0042734	presynaptic membrane
+RCV_000321	synapse	GO_0036062	presynaptic periactive zone
+RCV_000321	synapse	GO_0097470	ribbon synapse
+RCV_000321	synapse	GO_0071212	subsynaptic reticulum
+RCV_000321	synapse	GO_0032280	symmetric synapse
+RCV_000321	synapse	GO_0045202	synapse
+RCV_000321	synapse	GO_0007416	synapse assembly
+RCV_000321	synapse	GO_0060386	synapse assembly involved in innervation
+RCV_000321	synapse	GO_0060074	synapse maturation
+RCV_000321	synapse	GO_0050808	synapse organization
+RCV_000321	synapse	GO_0044456	synapse part
+RCV_000321	synapse	GO_0007129	synapsis
+RCV_000321	synapse	GO_0043083	synaptic cleft
+RCV_000321	synapse	GO_0051124	synaptic growth at neuromuscular junction
+RCV_000321	synapse	GO_0097060	synaptic membrane
+RCV_000321	synapse	GO_0016200	synaptic target attraction
+RCV_000321	synapse	GO_0016201	synaptic target inhibition
+RCV_000321	synapse	GO_0008039	synaptic target recognition
+RCV_000321	synapse	GO_0007268	synaptic transmission
+RCV_000321	synapse	GO_0060084	synaptic transmission involved in micturition
+RCV_000321	synapse	GO_0051932	synaptic transmission, GABAergic
+RCV_000321	synapse	GO_0007271	synaptic transmission, cholinergic
+RCV_000321	synapse	GO_0001963	synaptic transmission, dopaminergic
+RCV_000321	synapse	GO_0035249	synaptic transmission, glutamatergic
+RCV_000321	synapse	GO_0060012	synaptic transmission, glycinergic
+RCV_000321	synapse	GO_0008021	synaptic vesicle
+RCV_000321	synapse	GO_0015842	synaptic vesicle amine transport
+RCV_000321	synapse	GO_0070142	synaptic vesicle budding
+RCV_000321	synapse	GO_0016182	synaptic vesicle budding from endosome
+RCV_000321	synapse	GO_0016185	synaptic vesicle budding from presynaptic membrane
+RCV_000321	synapse	GO_0097091	synaptic vesicle clustering
+RCV_000321	synapse	GO_0016183	synaptic vesicle coating
+RCV_000321	synapse	GO_0016081	synaptic vesicle docking
+RCV_000321	synapse	GO_0048488	synaptic vesicle endocytosis
+RCV_000321	synapse	GO_0016079	synaptic vesicle exocytosis
+RCV_000321	synapse	GO_0031629	synaptic vesicle fusion to presynaptic membrane
+RCV_000321	synapse	GO_0034592	synaptic vesicle lumen
+RCV_000321	synapse	GO_0097401	synaptic vesicle lumen acidification
+RCV_000321	synapse	GO_0016188	synaptic vesicle maturation
+RCV_000321	synapse	GO_0030672	synaptic vesicle membrane
+RCV_000321	synapse	GO_0048499	synaptic vesicle membrane organization
+RCV_000321	synapse	GO_0016082	synaptic vesicle priming
+RCV_000321	synapse	GO_0016080	synaptic vesicle targeting
+RCV_000321	synapse	GO_0016189	synaptic vesicle to endosome fusion
+RCV_000321	synapse	GO_0048489	synaptic vesicle transport
+RCV_000321	synapse	GO_0016191	synaptic vesicle uncoating
+RCV_000321	synapse	GO_1990474	synaptic vesicle, readily releasable pool
+RCV_000321	synapse	GO_1990475	synaptic vesicle, recycling pool
+RCV_000321	synapse	GO_1990476	synaptic vesicle, resting pool
+RCV_000321	synapse	GO_0007130	synaptonemal complex assembly
+RCV_000321	synapse	GO_0043195	terminal bouton
+RCV_000321	synapse	GO_0061174	type I terminal bouton
+RCV_000321	synapse	GO_0061175	type II terminal bouton
+RCV_000321	synapse	GO_0097467	type III terminal bouton
+RCV_000321	synapse	GO_0061176	type Ib terminal bouton
+RCV_000321	synapse	GO_0061177	type Is terminal bouton
+RCV_000322	syncytium formation	GO_0034238	macrophage fusion
+RCV_000322	syncytium formation	GO_0060140	modulation by virus of syncytium formation via plasma membrane fusion
+RCV_000322	syncytium formation	GO_0007520	myoblast fusion
+RCV_000322	syncytium formation	GO_0014905	myoblast fusion involved in skeletal muscle regeneration
+RCV_000322	syncytium formation	GO_0034240	negative regulation of macrophage fusion
+RCV_000322	syncytium formation	GO_1901740	negative regulation of myoblast fusion
+RCV_000322	syncytium formation	GO_0034242	negative regulation of syncytium formation by plasma membrane fusion
+RCV_000322	syncytium formation	GO_0072675	osteoclast fusion
+RCV_000322	syncytium formation	GO_0034241	positive regulation of macrophage fusion
+RCV_000322	syncytium formation	GO_1901741	positive regulation of myoblast fusion
+RCV_000322	syncytium formation	GO_0060143	positive regulation of syncytium formation by plasma membrane fusion
+RCV_000322	syncytium formation	GO_0060141	positive regulation of syncytium formation by virus
+RCV_000322	syncytium formation	GO_0034239	regulation of macrophage fusion
+RCV_000322	syncytium formation	GO_1901739	regulation of myoblast fusion
+RCV_000322	syncytium formation	GO_0060142	regulation of syncytium formation by plasma membrane fusion
+RCV_000322	syncytium formation	GO_0060715	syncytiotrophoblast cell differentiation involved in labyrinthine layer development
+RCV_000322	syncytium formation	GO_0006949	syncytium formation
+RCV_000322	syncytium formation	GO_0000769	syncytium formation by mitosis without cytokinesis
+RCV_000322	syncytium formation	GO_0000768	syncytium formation by plasma membrane fusion
 RCV_000323	taxis	GO_0035754	B cell chemotaxis
 RCV_000323	taxis	GO_0035769	B cell chemotaxis across high endothelial venule
 RCV_000323	taxis	GO_0061353	BMP signaling pathway involved in Malpighian tubule cell chemotaxis
@@ -17744,6 +19494,113 @@ RCV_000359	zinc ion homeostasis	GO_0071578	zinc ion transmembrane import
 RCV_000359	zinc ion homeostasis	GO_0071577	zinc ion transmembrane transport
 RCV_000359	zinc ion homeostasis	GO_0006829	zinc ion transport
 RCV_000359	zinc ion homeostasis	GO_0060095	zinc potentiation of synaptic transmission, glycinergic
+RCV_000360	spore formation	GO_1903695	MAPK cascade involved in ascospore formation
+RCV_000360	spore formation	GO_0034304	actinomycete-type spore formation
+RCV_000360	spore formation	GO_0075247	aeciospore formation
+RCV_000360	spore formation	GO_0034302	akinete formation
+RCV_000360	spore formation	GO_0072316	alpha-glucan catabolic process involved in ascospore release from ascus
+RCV_000360	spore formation	GO_0075289	aplanospore formation
+RCV_000360	spore formation	GO_0034298	arthrospore formation
+RCV_000360	spore formation	GO_0030437	ascospore formation
+RCV_000360	spore formation	GO_0071998	ascospore release from ascus
+RCV_000360	spore formation	GO_0034413	ascospore wall (1->3)-beta-D-glucan biosynthetic process
+RCV_000360	spore formation	GO_0034409	ascospore wall (1->3)-beta-D-glucan metabolic process
+RCV_000360	spore formation	GO_0030476	ascospore wall assembly
+RCV_000360	spore formation	GO_0034412	ascospore wall beta-glucan biosynthetic process
+RCV_000360	spore formation	GO_0034408	ascospore wall beta-glucan metabolic process
+RCV_000360	spore formation	GO_0070591	ascospore wall biogenesis
+RCV_000360	spore formation	GO_0034217	ascospore wall chitin biosynthetic process
+RCV_000360	spore formation	GO_0031321	ascospore-type prospore assembly
+RCV_000360	spore formation	GO_0032120	ascospore-type prospore membrane assembly
+RCV_000360	spore formation	GO_0031322	ascospore-type prospore-specific spindle pole body remodeling
+RCV_000360	spore formation	GO_0042243	asexual spore wall assembly
+RCV_000360	spore formation	GO_0030436	asexual sporulation
+RCV_000360	spore formation	GO_0043936	asexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075284	asexual sporulation resulting in formation of a multicellular or syncytial spore
+RCV_000360	spore formation	GO_0034295	basidiospore formation
+RCV_000360	spore formation	GO_0001410	chlamydospore formation
+RCV_000360	spore formation	GO_0048315	conidium formation
+RCV_000360	spore formation	GO_0034301	endospore formation
+RCV_000360	spore formation	GO_0072000	extracellular polysaccharide catabolic process involved in ascospore release from ascus
+RCV_000360	spore formation	GO_0072317	glucan endo-1,3-beta-D-glucosidase activity involved in ascospore release from ascus
+RCV_000360	spore formation	GO_0034303	myxospore formation
+RCV_000360	spore formation	GO_0075250	negative regulation of aeciospore formation
+RCV_000360	spore formation	GO_0075292	negative regulation of aplanospore formation
+RCV_000360	spore formation	GO_0075297	negative regulation of ascospore formation
+RCV_000360	spore formation	GO_0043944	negative regulation of asexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075304	negative regulation of basidiospore formation
+RCV_000360	spore formation	GO_0075308	negative regulation of conidium formation
+RCV_000360	spore formation	GO_0075324	negative regulation of oomycete sporangium development
+RCV_000360	spore formation	GO_0075246	negative regulation of oospore formation
+RCV_000360	spore formation	GO_0043942	negative regulation of sexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075288	negative regulation of sporangiospore formation
+RCV_000360	spore formation	GO_0043939	negative regulation of sporulation
+RCV_000360	spore formation	GO_0042174	negative regulation of sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075258	negative regulation of teliospore formation
+RCV_000360	spore formation	GO_0075254	negative regulation of uredospore formation
+RCV_000360	spore formation	GO_0075242	negative regulation of zoospore formation
+RCV_000360	spore formation	GO_0075300	negative regulation of zygospore formation
+RCV_000360	spore formation	GO_0034297	oidium formation
+RCV_000360	spore formation	GO_0075321	oomycete sporangium development
+RCV_000360	spore formation	GO_0075243	oospore formation
+RCV_000360	spore formation	GO_0075249	positive regulation of aeciospore formation
+RCV_000360	spore formation	GO_0075291	positive regulation of aplanospore formation
+RCV_000360	spore formation	GO_0075296	positive regulation of ascospore formation
+RCV_000360	spore formation	GO_1903024	positive regulation of ascospore-type prospore membrane assembly
+RCV_000360	spore formation	GO_0043945	positive regulation of asexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075303	positive regulation of basidiospore formation
+RCV_000360	spore formation	GO_0075307	positive regulation of conidium formation
+RCV_000360	spore formation	GO_0075323	positive regulation of oomycete sporangium development
+RCV_000360	spore formation	GO_0075245	positive regulation of oospore formation
+RCV_000360	spore formation	GO_0043941	positive regulation of sexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075287	positive regulation of sporangiospore formation
+RCV_000360	spore formation	GO_0043938	positive regulation of sporulation
+RCV_000360	spore formation	GO_0045881	positive regulation of sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075257	positive regulation of teliospore formation
+RCV_000360	spore formation	GO_0075253	positive regulation of uredospore formation
+RCV_000360	spore formation	GO_0075241	positive regulation of zoospore formation
+RCV_000360	spore formation	GO_0075299	positive regulation of zygospore formation
+RCV_000360	spore formation	GO_0075248	regulation of aeciospore formation
+RCV_000360	spore formation	GO_0075290	regulation of aplanospore formation
+RCV_000360	spore formation	GO_0034307	regulation of ascospore formation
+RCV_000360	spore formation	GO_0060624	regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process
+RCV_000360	spore formation	GO_0060622	regulation of ascospore wall beta-glucan biosynthetic process
+RCV_000360	spore formation	GO_0034223	regulation of ascospore wall chitin biosynthetic process
+RCV_000360	spore formation	GO_1903023	regulation of ascospore-type prospore membrane assembly
+RCV_000360	spore formation	GO_0034305	regulation of asexual sporulation
+RCV_000360	spore formation	GO_0043943	regulation of asexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075302	regulation of basidiospore formation
+RCV_000360	spore formation	GO_0075306	regulation of conidium formation
+RCV_000360	spore formation	GO_0075322	regulation of oomycete sporangium development
+RCV_000360	spore formation	GO_0075244	regulation of oospore formation
+RCV_000360	spore formation	GO_0034306	regulation of sexual sporulation
+RCV_000360	spore formation	GO_0043940	regulation of sexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075286	regulation of sporangiospore formation
+RCV_000360	spore formation	GO_0043937	regulation of sporulation
+RCV_000360	spore formation	GO_0042173	regulation of sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075256	regulation of teliospore formation
+RCV_000360	spore formation	GO_0075252	regulation of uredospore formation
+RCV_000360	spore formation	GO_0075240	regulation of zoospore formation
+RCV_000360	spore formation	GO_0075298	regulation of zygospore formation
+RCV_000360	spore formation	GO_0034299	reproductive blastospore formation
+RCV_000360	spore formation	GO_0034294	sexual spore wall assembly
+RCV_000360	spore formation	GO_0034293	sexual sporulation
+RCV_000360	spore formation	GO_0043935	sexual sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075285	sexual sporulation resulting in formation of a multicellular or syncytial spore
+RCV_000360	spore formation	GO_0034300	sporangiospore formation
+RCV_000360	spore formation	GO_0070583	spore membrane bending pathway
+RCV_000360	spore formation	GO_0042244	spore wall assembly
+RCV_000360	spore formation	GO_0070590	spore wall biogenesis
+RCV_000360	spore formation	GO_0043934	sporulation
+RCV_000360	spore formation	GO_0030435	sporulation resulting in formation of a cellular spore
+RCV_000360	spore formation	GO_0075283	sporulation resulting in formation of a multicellular or syncytial spore
+RCV_000360	spore formation	GO_0075255	teliospore formation
+RCV_000360	spore formation	GO_1901372	trehalose biosynthetic process involved in ascospore formation
+RCV_000360	spore formation	GO_0075251	uredospore formation
+RCV_000360	spore formation	GO_0075218	zoospore encystment on host
+RCV_000360	spore formation	GO_0075239	zoospore formation
+RCV_000360	spore formation	GO_0075234	zoospore movement on or near host
+RCV_000360	spore formation	GO_0034296	zygospore formation
 RCV_000362	heme metabolism	GO_0048034	heme O biosynthetic process
 RCV_000362	heme metabolism	GO_0006784	heme a biosynthetic process
 RCV_000362	heme metabolism	GO_0046161	heme a catabolic process

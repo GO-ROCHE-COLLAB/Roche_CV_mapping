@@ -96,6 +96,8 @@ negative regulation of SREBP signaling pathway by positive regulation of transcr
 negative regulation of ER-associated ubiquitin-dependent protein catabolic process	GO_1903070	0	1	1	0	0
 multicellular organismal protein catabolic process	GO_0044254	0	1	1	0	0
 modification-dependent protein catabolic process	GO_0019941	0	1	1	0	0
+mitotic spindle orientation checkpoint	GO_0031578	0	1	0	0	0
+mitotic spindle checkpoint	GO_0071174	0	1	0	0	0
 mitotic spindle assembly checkpoint	GO_0007094	0	1	1	0	0
 mitochondrial protein catabolic process	GO_0035694	0	1	1	0	0
 mitochondria-associated ubiquitin-dependent protein catabolic process	GO_0072671	0	1	1	0	0
@@ -129,3 +131,4 @@ PSII associated light-harvesting complex II catabolic process	GO_0010304	0	1	1	0
 O-sialoglycoprotein catabolic process	GO_0045173	0	1	1	0	0
 ER-associated ubiquitin-dependent protein catabolic process	GO_0030433	0	1	1	0	0
 ER-associated misfolded protein catabolic process	GO_0071712	0	1	1	0	0
+Dma1-dependent checkpoint	GO_0044810	0	1	0	0	0

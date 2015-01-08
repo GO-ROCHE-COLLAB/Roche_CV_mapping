@@ -125,7 +125,6 @@ ubiquitin-ubiquitin ligase activity	GO_0034450	0	1	0	0	0
 ubiquitin-specific protease activity	GO_0004843	0	1	0	0	0
 ubiquitin-protein transferase activity	GO_0004842	0	1	0	0	0
 ubiquitin-calmodulin ligase activity	GO_0050372	0	1	0	0	0
-ubiquitin thiolesterase activity	GO_0004221	0	1	0	0	0
 ubiquitin protein ligase activity	GO_0061630	0	1	0	0	0
 ubiquitin conjugating enzyme activity	GO_0061631	0	1	0	0	0
 ubiquitin activating enzyme activity	GO_0004839	0	1	0	0	0
@@ -1176,7 +1175,6 @@ poly(3-hydroxyoctanoate) depolymerase activity	GO_0050527	0	1	0	0	0
 poly(3-hydroxybutyrate) depolymerase activity	GO_0050526	0	1	0	0	0
 polo kinase kinase activity	GO_0042801	0	1	0	0	0
 polar-amino acid-transporting ATPase activity	GO_0015426	0	1	0	0	0
-plus-end-directed microtubule motor activity	GO_0008574	0	1	0	0	0
 plus-end directed microfilament motor activity	GO_0060002	0	1	0	0	0
 platelet-derived growth factor-activated receptor activity	GO_0005017	0	1	0	0	0
 platelet-derived growth factor beta-receptor activity	GO_0005019	0	1	0	0	0
@@ -1854,7 +1852,6 @@ mitotic anaphase-promoting complex activity	GO_0090302	0	1	0	0	0
 mitochondrial single subunit type RNA polymerase activity	GO_0001065	0	1	0	0	0
 mitochondrial protein-transporting ATPase activity	GO_0008566	0	1	0	0	0
 mismatch base pair DNA N-glycosylase activity	GO_0000700	0	1	0	0	0
-minus-end-directed microtubule motor activity	GO_0008569	0	1	0	0	0
 minus-end directed microfilament motor activity	GO_0060001	0	1	0	0	0
 mimosinase activity	GO_0050101	0	1	0	0	0
 midchain alkane hydroxylase activity	GO_0080133	0	1	0	0	0
@@ -3628,7 +3625,6 @@ cycloeucalenol cycloisomerase activity	GO_0047793	0	1	0	0	0
 cycloartenol synthase activity	GO_0016871	0	1	0	0	0
 cycloartenol 24-C-methyltransferase activity	GO_0030796	0	1	0	0	0
 cyclo-ligase activity	GO_0016882	0	1	0	0	0
-cyclin-dependent protein tyrosine kinase activity	GO_0097469	0	1	0	0	0
 cyclin-dependent protein serine/threonine kinase activity	GO_0004693	0	1	0	0	0
 cyclin-dependent protein kinase activity	GO_0097472	0	1	0	0	0
 cyclin-dependent protein kinase activating kinase activity	GO_0019912	0	1	0	0	0
@@ -5194,6 +5190,7 @@ L-aminoadipate-semialdehyde dehydrogenase activity	GO_0004043	0	1	0	0	0
 L-amino-acid oxidase activity	GO_0001716	0	1	0	0	0
 L-amino-acid dehydrogenase activity	GO_0050018	0	1	0	0	0
 L-amino-acid alpha-ligase activity	GO_0034026	0	1	0	0	0
+L-altrarate dehydratase activity	GO_1990594	0	1	0	0	0
 L-allo-threonine aldolase activity	GO_0008732	0	1	0	0	0
 L-alanine:2-oxoglutarate aminotransferase activity	GO_0004021	0	1	0	0	0
 L-DOPA monooxygenase activity	GO_0036263	0	1	0	0	0
@@ -5482,6 +5479,8 @@ ATP-dependent polyribonucleotide 5'-hydroxyl-kinase activity	GO_0051736	0	1	0	0	
 ATP-dependent polynucleotide kinase activity	GO_0051734	0	1	0	0	0
 ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	GO_0046404	0	1	0	0	0
 ATP-dependent peptidase activity	GO_0004176	0	1	0	0	0
+ATP-dependent microtubule motor activity, plus-end-directed	GO_0008574	0	1	0	0	0
+ATP-dependent microtubule motor activity, minus-end-directed	GO_0008569	0	1	0	0	0
 ATP-dependent helicase activity	GO_0008026	0	1	0	0	0
 ATP-dependent four-way junction helicase activity	GO_1990163	0	1	0	0	0
 ATP-dependent RNA helicase activity	GO_0004004	0	1	0	0	0

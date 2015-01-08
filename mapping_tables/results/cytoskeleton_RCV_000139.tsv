@@ -76,9 +76,7 @@ actin cortical patch internalization	GO_0044397	1	1	1	0	0
 actin cortical patch assembly	GO_0000147	1	1	1	0	0
 tubulin deacetylation	GO_0090042	1	0	1	0	0
 tubulin complex biogenesis	GO_0072668	1	0	1	0	0
-regulation of plus-end-directed microtubule motor activity	GO_2000580	1	0	1	0	0
 regulation of phragmoplast microtubule organization	GO_2000694	1	0	1	0	0
-regulation of minus-end-directed microtubule motor activity	GO_2000577	1	0	1	0	0
 regulation of microtubule-based process	GO_0032886	1	0	1	0	0
 regulation of microtubule-based movement	GO_0060632	1	0	1	0	0
 regulation of microtubule polymerization or depolymerization	GO_0031110	1	0	1	0	0
@@ -109,11 +107,11 @@ regulation of actin filament depolymerization	GO_0030834	1	0	1	0	0
 regulation of actin filament bundle assembly	GO_0032231	1	0	1	0	0
 regulation of actin cytoskeleton reorganization	GO_2000249	1	0	1	0	0
 regulation of actin cytoskeleton organization	GO_0032956	1	0	1	0	0
+regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000580	1	0	1	0	0
+regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000577	1	0	1	0	0
 protein localization to microtubule cytoskeleton	GO_0072698	1	0	1	0	0
 protein localization to microtubule	GO_0035372	1	0	1	0	0
 protein localization to cortical microtubule cytoskeleton	GO_0072699	1	0	1	0	0
-positive regulation of plus-end-directed microtubule motor activity	GO_2000582	1	0	1	0	0
-positive regulation of minus-end-directed microtubule motor activity	GO_2000579	1	0	1	0	0
 positive regulation of microtubule polymerization or depolymerization	GO_0031112	1	0	1	0	0
 positive regulation of microtubule polymerization	GO_0031116	1	0	1	0	0
 positive regulation of microtubule nucleation	GO_0090063	1	0	1	0	0
@@ -123,10 +121,10 @@ positive regulation of intermediate filament polymerization and/or depolymerizat
 positive regulation of intermediate filament polymerization	GO_0030841	1	0	1	0	0
 positive regulation of intermediate filament depolymerization	GO_0030844	1	0	1	0	0
 positive regulation of attachment of spindle microtubules to kinetochore	GO_0051987	1	0	1	0	0
+positive regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000582	1	0	1	0	0
+positive regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000579	1	0	1	0	0
 polarisome	GO_0000133	1	0	1	0	0
 phragmoplast microtubule organization	GO_0080175	1	0	1	0	0
-negative regulation of plus-end-directed microtubule motor activity	GO_2000581	1	0	1	0	0
-negative regulation of minus-end-directed microtubule motor activity	GO_2000578	1	0	1	0	0
 negative regulation of microtubule polymerization or depolymerization	GO_0031111	1	0	1	0	0
 negative regulation of microtubule polymerization	GO_0031115	1	0	1	0	0
 negative regulation of microtubule motor activity	GO_2000575	1	0	1	0	0
@@ -136,6 +134,8 @@ negative regulation of intermediate filament polymerization	GO_0030840	1	0	1	0	0
 negative regulation of intermediate filament depolymerization	GO_0030843	1	0	1	0	0
 negative regulation of attachment of spindle microtubules to kinetochore	GO_0051986	1	0	1	0	0
 negative regulation of astral microtubule depolymerization	GO_0032932	1	0	1	0	0
+negative regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000581	1	0	1	0	0
+negative regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000578	1	0	1	0	0
 mitotic spindle-templated microtubule nucleation	GO_0090221	1	0	1	0	0
 microtubule/chromatin interaction	GO_0008546	1	0	1	1	1
 microtubule-based process	GO_0007017	1	0	1	0	0
@@ -441,6 +441,7 @@ cytoplasmic actin-based contraction involved in forward cell motility	GO_0060328
 cytoplasmic actin-based contraction involved in cell motility	GO_0060327	0	1	0	0	0
 cuticular plate	GO_0032437	0	1	0	0	0
 cortical microtubule, transverse to long axis	GO_0010005	0	1	0	0	0
+cortical microtubule plus-end	GO_1903754	0	1	0	0	0
 cortical microtubule cytoskeleton	GO_0030981	0	1	0	0	0
 cortical microtubule	GO_0055028	0	1	0	0	0
 cortical actin cytoskeleton stabilization	GO_0033109	0	1	0	0	0
