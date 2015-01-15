@@ -34,11 +34,15 @@ None
 
 ## metabolism:metabolic_process:equivalence
 
-RCV term named for ; mapped to class from ; design pattern [](), which produces terms with the definition: ""
+RCV term named for metabolism ; mapped to class from GO metabolic process ; design pattern [Equivalence](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/patterns/equivalence.md), which produces terms with the same definition as the term mapped to.
+
+In these cases, it is useful to remove parts - as these do not necessarily have the metabolised chemical as a participant.
 
 __Limitations:__ 
 
 - Manual mappings include transport.  Automating these would require a pattern with disjunction.
+- Doesn't include regulation, but manual mappings mostly don't either
+- Not including parts excludes potentially useful mappings to MF
 
 __Examples:__
 
@@ -58,7 +62,7 @@ __Examples:__
 __Exceptions:__
 
 
-## development:development:is_a_OR_part_of_OR_regulates
+## development:development:is\_a\_OR\_part\_of\_OR\_regulates
 
 RCV term named for ; mapped to class from ; design pattern [](), which produces terms with the definition: ""
 
@@ -68,9 +72,9 @@ __Examples:__
 
 __Exceptions:__
 
-## anatomy:development:is_a_OR_part_of_OR_regulates
+## anatomy:development:is\_a\_OR\_part\_of\_OR\_regulates
 
-RCV term named for ; mapped to class from ; design pattern [](), which produces terms with the definition: ""
+RCV term named for anatomical structure; mapped to class from GO development; design pattern [is\_a\_OR\_part\_of\_OR\_regulates](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/patterns/is_a_OR_part_of_OR_regulates.md), which produces terms with the definition: ""
 
 __Limitations:__ 
 
