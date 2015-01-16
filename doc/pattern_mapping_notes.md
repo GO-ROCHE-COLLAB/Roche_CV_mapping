@@ -51,11 +51,13 @@ __Exceptions:__
 
 ## chemical:participant_chemical
 
-RCV term named for ; mapped to class from ; design pattern [](), which produces terms with the definition: ""
+RCV term named for chemical ; mapped to class from Chebi ; design pattern [](), which produces terms with the definition: ""
+
+Probably good that this misses parts, as parts don't necessarily have chemical as a participant.
 
 __Limitations:__ 
 
-- misses regulation of these processes.
+- misses regulation terms
 
 __Examples:__
 
@@ -74,11 +76,11 @@ __Exceptions:__
 
 ## anatomy:development:is\_a\_OR\_part\_of\_OR\_regulates
 
-RCV term named for anatomical structure; mapped to class from GO development; design pattern [is\_a\_OR\_part\_of\_OR\_regulates](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/patterns/is_a_OR_part_of_OR_regulates.md), which produces terms with the definition: ""
+RCV term named for anatomical structure; mapped to class from GO development; design pattern [is\_a\_OR\_part\_of\_OR\_regulates](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/patterns/is_a_OR_part_of_OR_regulates.md), which produces terms with the definition: "X development OR a part of X development OR a process that regulates X development."
 
 __Limitations:__ 
 
-- misses regulation of these processes.
+Term name is ambiguous.  The intention may have been to map both processes occuring in the structure (typically physiological processes) and developmental processes.
 
 __Examples:__
 
@@ -91,9 +93,9 @@ RCV term named for ; mapped to class from ; design pattern [](), which produces 
 __Limitations:__ 
 
 
-## MF:MF:is_a_OR_part_of_OR_regulates_OR_capable_of
+## MF:MF:is\_a\_OR\_part\_of\_OR\_regulates\_OR\_capable\_of
 
-RCV term named for a molecular function (e.g. enzyme activity); mapped to class from GO:molecular_function; design pattern [is_a_OR_part_of_OR_regulates_OR_capable_of](), which produces terms with the definition: ""
+RCV term named for a molecular function (e.g. enzyme activity); mapped to class from GO:molecular\_function; design pattern [is\_a\_OR\_part\_of\_OR\_regulates\_OR\_capable\_of](), which produces terms with the definition: ""
 
 __Limitations:__ 
 
@@ -102,9 +104,6 @@ __Examples:__
 
 __Exceptions:__
 
-__Examples:__
-
-__Exceptions:__
 
 
 
