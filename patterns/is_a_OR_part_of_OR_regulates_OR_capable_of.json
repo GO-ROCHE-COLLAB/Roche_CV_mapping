@@ -25,7 +25,7 @@
     }, 
     "pattern_name": "is_a_OR_part_of_OR_regulates_OR_capable_of", 
     "relations": {
-        "process super query": "386a1f76_b26e_477f_8e50_6e4dab26bc3b"
+        "process super query": "scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b"
     }, 
     "vars": {
         "key_class": "'biological_process'"

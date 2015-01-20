@@ -4,7 +4,7 @@ classes:
   biological_process: GO_0008150
 
 relations: 
-  "part_of_or_regulates": 1C127FE1-B049-4E09-8DCC-8B323644160F
+  "part_of_or_regulates": scratch_1C127FE1-B049-4E09-8DCC-8B323644160F
     
 vars: 
   key_class: "'biological_process'"

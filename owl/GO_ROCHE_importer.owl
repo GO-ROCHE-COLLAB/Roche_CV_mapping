@@ -10,6 +10,7 @@
     <!ENTITY scratch "http://purl.obolibrary.org/obo/scratch/1" >
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY scratch2 "http://purl.obolibrary.org/obo/scratch/3790" >
+    <!ENTITY oboInOwl "http://www.geneontology.org/formats/oboInOwl#" >
 ]>
 
 
@@ -21,6 +22,7 @@
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:scratch3="&obo;scratch/"
      xmlns:scratch2="&obo;scratch/3790">
     <owl:Ontology rdf:about="http://www.semanticweb.org/dosumis/ontologies/GO_ROCHE_importer.owl">
@@ -78,7 +80,7 @@
     <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
 
     <rdf:Description rdf:about="&obo;BFO_0000050">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
     </rdf:Description>
     
 
@@ -86,6 +88,7 @@
     <!-- http://purl.obolibrary.org/obo/BFO_0000066 -->
 
     <rdf:Description rdf:about="&obo;BFO_0000066">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8"/>
     </rdf:Description>
     
@@ -94,7 +97,7 @@
     <!-- http://purl.obolibrary.org/obo/GOREL_0002006 -->
 
     <rdf:Description rdf:about="&obo;GOREL_0002006">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51"/>
     </rdf:Description>
     
 
@@ -102,8 +105,8 @@
     <!-- http://purl.obolibrary.org/obo/RO_0000057 -->
 
     <rdf:Description rdf:about="&obo;RO_0000057">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8"/>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
     </rdf:Description>
     
 
@@ -111,7 +114,7 @@
     <!-- http://purl.obolibrary.org/obo/RO_0002211 -->
 
     <rdf:Description rdf:about="&obo;RO_0002211">
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_1C127FE1-B049-4E09-8DCC-8B323644160F"/>
     </rdf:Description>
     
 
@@ -146,6 +149,15 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51">
+        <rdfs:label>CC_process_query</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8 -->
 
     <owl:ObjectProperty rdf:about="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8">
@@ -163,51 +175,12 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/scratch/1C127FE1-B049-4E09-8DCC-8B323644160F -->
-
-    <owl:ObjectProperty rdf:about="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F">
-        <rdfs:label>part of or regulates</rdfs:label>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC -->
-
-    <owl:ObjectProperty rdf:about="&obo;scratch/3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC">
-        <rdf:type rdf:resource="&owl;ReflexiveProperty"/>
-        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
-        <rdfs:label>improper part of</rdfs:label>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/1C127FE1-B049-4E09-8DCC-8B323644160F"/>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b -->
-
-    <owl:ObjectProperty rdf:about="&obo;scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b">
-        <rdfs:label>process_super_query</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f -->
-
-    <owl:ObjectProperty rdf:about="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f">
-        <rdfs:label>improper_part_of_OR_capable_of_part_of</rdfs:label>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/386a1f76_b26e_477f_8e50_6e4dab26bc3b"/>
-    </owl:ObjectProperty>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5 -->
 
     <owl:ObjectProperty rdf:about="&obo;scratch/a12091c3_0548_494d_9083_b8ea24aa8fd5">
         <rdfs:label>capable_of_improper_part_of</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="&obo;RO_0002328"/>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
     </owl:ObjectProperty>
     
 
@@ -217,6 +190,45 @@
     <owl:ObjectProperty rdf:about="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f">
         <rdfs:label>CC_super_query</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/scratch_1C127FE1-B049-4E09-8DCC-8B323644160F -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/scratch_1C127FE1-B049-4E09-8DCC-8B323644160F">
+        <rdfs:label>part of or regulates</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC">
+        <rdf:type rdf:resource="&owl;ReflexiveProperty"/>
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>improper part of</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_1C127FE1-B049-4E09-8DCC-8B323644160F"/>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b">
+        <rdfs:label>process_super_query</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch/scratch_9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch/scratch_9c1ee4bd_bd21_4fb9_8b0e_b65d69cdb01f">
+        <rdfs:label>improper_part_of_OR_capable_of_part_of</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b"/>
     </owl:ObjectProperty>
     
 
@@ -232,6 +244,73 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GO_0007229 -->
+
+    <rdf:Description rdf:about="&obo;GO_0007229">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;RO_0000057"/>
+                <owl:someValuesFrom rdf:resource="&obo;GO_0008305"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0030070 -->
+
+    <rdf:Description rdf:about="&obo;GO_0030070">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0016485"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002233"/>
+                        <owl:someValuesFrom rdf:resource="&obo;PR_000009054"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0032868 -->
+
+    <rdf:Description rdf:about="&obo;GO_0032868">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0050896"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002233"/>
+                        <owl:someValuesFrom rdf:resource="&obo;PR_000009054"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0032869 -->
+
+    <rdf:Description rdf:about="&obo;GO_0032869">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0070887"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002233"/>
+                        <owl:someValuesFrom rdf:resource="&obo;PR_000009054"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GO_0034205 -->
 
     <rdf:Description rdf:about="&obo;GO_0034205">
@@ -239,6 +318,58 @@
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&obo;RO_0002234"/>
                 <owl:someValuesFrom rdf:resource="&obo;CHEBI_64645"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0042773 -->
+
+    <rdf:Description rdf:about="&obo;GO_0042773">
+        <rdfs:subClassOf rdf:resource="&obo;GO_0006754"/>
+        <rdfs:subClassOf rdf:resource="&obo;GO_0009058"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;RO_0002234"/>
+                <owl:someValuesFrom rdf:resource="&obo;CHEBI_15422"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    <owl:Axiom>
+        <oboInOwl:is_inferred>true</oboInOwl:is_inferred>
+        <owl:annotatedTarget rdf:resource="&obo;GO_0006754"/>
+        <owl:annotatedSource rdf:resource="&obo;GO_0042773"/>
+        <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0043559 -->
+
+    <rdf:Description rdf:about="&obo;GO_0043559">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0005488"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002233"/>
+                        <owl:someValuesFrom rdf:resource="&obo;PR_000009054"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0045444 -->
+
+    <rdf:Description rdf:about="&obo;GO_0045444">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000050"/>
+                <owl:someValuesFrom rdf:resource="&obo;GO_0060612"/>
             </owl:Restriction>
         </rdfs:subClassOf>
     </rdf:Description>
@@ -271,11 +402,89 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GO_0098771 -->
+
+    <owl:Class rdf:about="&obo;GO_0098771">
+        <rdfs:label>inorganic ion homeostasis</rdfs:label>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0042592"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002332"/>
+                        <owl:someValuesFrom rdf:resource="&obo;CHEBI_36914"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&obo;GO_0050801"/>
+        <obo:IAO_0000115>Any process involved in the maintenance of an internal steady state of inorganic ions within an organism or cell.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>biological_process</oboInOwl:hasOBONamespace>
+    </owl:Class>
+    <owl:Axiom>
+        <oboInOwl:hasDbXref>GOC:dos</oboInOwl:hasDbXref>
+        <owl:annotatedTarget>Any process involved in the maintenance of an internal steady state of inorganic ions within an organism or cell.</owl:annotatedTarget>
+        <owl:annotatedSource rdf:resource="&obo;GO_0098771"/>
+        <owl:annotatedProperty rdf:resource="&obo;IAO_0000115"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_1901142 -->
+
+    <rdf:Description rdf:about="&obo;GO_1901142">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0008152"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002233"/>
+                        <owl:someValuesFrom rdf:resource="&obo;PR_000009054"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_1901143 -->
+
+    <rdf:Description rdf:about="&obo;GO_1901143">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&obo;GO_0009056"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;RO_0002233"/>
+                        <owl:someValuesFrom rdf:resource="&obo;PR_000009054"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/scratch/699ccf22_e182_47e4_8d31_2f3f9a80f83e -->
 
     <owl:Class rdf:about="&obo;scratch/699ccf22_e182_47e4_8d31_2f3f9a80f83e">
         <rdfs:label>test</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="&obo;GO_0016082">
+        <rdfs:comment>Stanley centre meeting comment: a primed vesicle is capable of  (competent for) fusing. Formation of SNARE complexes underlies this process.</rdfs:comment>
+    </rdf:Description>
 </rdf:RDF>
 
 

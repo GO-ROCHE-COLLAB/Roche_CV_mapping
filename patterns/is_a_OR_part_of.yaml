@@ -4,7 +4,7 @@ classes:
   biological_process: GO_0008150
 
 relations:
-  'improper part of': 3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC
+  'improper part of': scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC
   
 vars: 
   key_class: "'biological_process'"

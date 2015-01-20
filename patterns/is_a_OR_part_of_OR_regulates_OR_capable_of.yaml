@@ -4,7 +4,7 @@ classes:
   biological_process: GO_0008150
 
 relations:
-  process super query: 386a1f76_b26e_477f_8e50_6e4dab26bc3b
+  process super query: scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b
   
 vars: 
   key_class: "'biological_process'"
