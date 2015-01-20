@@ -1,0 +1,27 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+alternative respiration	GO_0010230	1	1	1	0	0
+methanogenesis, from methanol	GO_0019387	0	1	0	0	0
+methanogenesis, from carbon dioxide	GO_0019386	0	1	0	0	0
+methanogenesis, from acetate	GO_0019385	0	1	0	0	0
+methanogenesis	GO_0015948	0	1	0	0	0
+methane biosynthetic process from trimethylamine	GO_2001130	0	1	0	0	0
+methane biosynthetic process from methylamine	GO_2001128	0	1	0	0	0
+methane biosynthetic process from methanol and hydrogen	GO_1990491	0	1	0	0	0
+methane biosynthetic process from methanethiol	GO_2001133	0	1	0	0	0
+methane biosynthetic process from formic acid	GO_2001127	0	1	0	0	0
+methane biosynthetic process from dimethylamine	GO_2001129	0	1	0	0	0
+methane biosynthetic process from dimethyl sulfide	GO_2001131	0	1	0	0	0
+methane biosynthetic process from carbon monoxide	GO_2001134	0	1	0	0	0
+methane biosynthetic process from 3-(methylthio)propionic acid	GO_2001132	0	1	0	0	0
+cellular respiration	GO_0045333	0	1	0	0	0
+anaerobic respiration, using ammonium as electron donor	GO_0019331	0	1	0	0	0
+anaerobic respiration	GO_0009061	0	1	0	0	0
+aerobic respiration, using sulfur or sulfate as electron donor	GO_0019414	0	1	0	0	0
+aerobic respiration, using nitrite as electron donor	GO_0019332	0	1	0	0	0
+aerobic respiration, using hydrogen as electron donor	GO_0019412	0	1	0	0	0
+aerobic respiration, using ferrous ions as electron donor	GO_0019411	0	1	0	0	0
+aerobic respiration, using carbon monoxide as electron donor	GO_0019410	0	1	0	0	0
+aerobic respiration, using arsenite as electron donor	GO_0043554	0	1	0	0	0
+aerobic respiration, using ammonia as electron donor	GO_0019409	0	1	0	0	0
+aerobic respiration	GO_0009060	0	1	0	0	0
+aerobic electron transport chain	GO_0019646	0	1	0	0	0

@@ -1,4 +1,47 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of thyroid hormone generation	GO_2000609	1	1	1	0	0
+regulation of steroid hormone biosynthetic process	GO_0090030	1	1	1	0	0
+regulation of peptide hormone processing	GO_0060568	1	1	1	0	0
+regulation of juvenile hormone metabolic process	GO_0007556	1	1	1	0	0
+regulation of juvenile hormone catabolic process	GO_0045952	1	1	1	0	0
+regulation of juvenile hormone biosynthetic process	GO_0007557	1	1	1	0	0
+regulation of hormone metabolic process	GO_0032350	1	1	1	0	0
+regulation of hormone biosynthetic process	GO_0046885	1	1	1	0	0
+regulation of ecdysteroid metabolic process	GO_0007553	1	1	1	0	0
+regulation of ecdysteroid biosynthetic process	GO_0007554	1	1	1	0	0
+positive regulation of thyroid hormone generation	GO_2000611	1	1	1	0	0
+positive regulation of steroid hormone biosynthetic process	GO_0090031	1	1	1	0	0
+positive regulation of peptide hormone processing	GO_0060569	1	1	1	0	0
+positive regulation of juvenile hormone metabolic process	GO_0045929	1	1	1	0	0
+positive regulation of juvenile hormone catabolic process	GO_0045971	1	1	1	0	0
+positive regulation of juvenile hormone biosynthetic process	GO_0045969	1	1	1	0	0
+positive regulation of hormone metabolic process	GO_0032352	1	1	1	0	0
+positive regulation of hormone biosynthetic process	GO_0046886	1	1	1	0	0
+peptide hormone processing	GO_0016486	1	1	1	0	0
+negative regulation of thyroid hormone generation	GO_2000610	1	1	1	0	0
+negative regulation of steroid hormone biosynthetic process	GO_0090032	1	1	1	0	0
+negative regulation of peptide hormone processing	GO_0060570	1	1	1	0	0
+negative regulation of juvenile hormone metabolic process	GO_0045928	1	1	1	0	0
+negative regulation of juvenile hormone catabolic process	GO_0045970	1	1	1	0	0
+negative regulation of juvenile hormone biosynthetic process	GO_0045968	1	1	1	0	0
+negative regulation of hormone metabolic process	GO_0032351	1	1	1	0	0
+negative regulation of hormone biosynthetic process	GO_0032353	1	1	1	0	0
+juvenile hormone metabolic process	GO_0006716	1	1	1	0	0
+juvenile hormone catabolic process	GO_0006719	1	1	1	0	0
+juvenile hormone biosynthetic process	GO_0006718	1	1	1	0	0
+hormone metabolic process	GO_0042445	1	1	1	0	0
+hormone catabolic process	GO_0042447	1	1	1	0	0
+hormone biosynthetic process	GO_0042446	1	1	1	0	0
+cellular hormone metabolic process	GO_0034754	1	1	1	0	0
+androgen metabolic process	GO_0008209	1	1	1	0	0
+androgen catabolic process	GO_0006710	1	1	1	0	0
+androgen biosynthetic process	GO_0006702	1	1	1	0	0
+aldosterone metabolic process	GO_0032341	1	1	1	0	0
+aldosterone catabolic process	GO_0032343	1	1	1	0	0
+aldosterone biosynthetic process	GO_0032342	1	1	1	0	0
+C21-steroid hormone metabolic process	GO_0008207	1	1	1	0	0
+C21-steroid hormone catabolic process	GO_0008208	1	1	1	0	0
+C21-steroid hormone biosynthetic process	GO_0006700	1	1	1	0	0
 signal initiation by peptide hormone	GO_0023055	1	0	1	1	1
 response to thyroid hormone	GO_0097066	1	0	1	0	0
 response to steroid hormone	GO_0048545	1	0	1	0	0
@@ -12,23 +55,15 @@ response to follicle-stimulating hormone	GO_0032354	1	0	1	0	0
 response to corticotropin-releasing hormone	GO_0043435	1	0	1	0	0
 regulation of thyroid-stimulating hormone secretion	GO_2000612	1	0	1	0	0
 regulation of thyroid hormone mediated signaling pathway	GO_0002155	1	0	1	0	0
-regulation of thyroid hormone generation	GO_2000609	1	0	1	0	0
 regulation of steroid hormone secretion	GO_2000831	1	0	1	0	0
-regulation of steroid hormone biosynthetic process	GO_0090030	1	0	1	0	0
 regulation of peptide hormone secretion	GO_0090276	1	0	1	0	0
-regulation of peptide hormone processing	GO_0060568	1	0	1	0	0
 regulation of parathyroid hormone secretion	GO_2000828	1	0	1	0	0
 regulation of luteinizing hormone secretion	GO_0033684	1	0	1	0	0
 regulation of juvenile hormone secretion	GO_0007558	1	0	1	0	0
-regulation of juvenile hormone metabolic process	GO_0007556	1	0	1	0	0
-regulation of juvenile hormone catabolic process	GO_0045952	1	0	1	0	0
-regulation of juvenile hormone biosynthetic process	GO_0007557	1	0	1	0	0
 regulation of intracellular steroid hormone receptor signaling pathway	GO_0033143	1	0	1	0	0
 regulation of intracellular estrogen receptor signaling pathway	GO_0033146	1	0	1	0	0
 regulation of hormone secretion	GO_0046883	1	0	1	0	0
-regulation of hormone metabolic process	GO_0032350	1	0	1	0	0
 regulation of hormone levels	GO_0010817	1	0	1	0	0
-regulation of hormone biosynthetic process	GO_0046885	1	0	1	0	0
 regulation of growth hormone secretion	GO_0060123	1	0	1	0	0
 regulation of growth hormone receptor signaling pathway	GO_0060398	1	0	1	0	0
 regulation of follicle-stimulating hormone secretion	GO_0046880	1	0	1	0	0
@@ -38,28 +73,18 @@ regulation of estrogen receptor binding	GO_0071898	1	0	1	0	0
 regulation of estradiol secretion	GO_2000864	1	0	1	0	0
 regulation of ergosterol biosynthetic process	GO_0032443	1	0	1	0	0
 regulation of ecdysteroid secretion	GO_0007555	1	0	1	0	0
-regulation of ecdysteroid metabolic process	GO_0007553	1	0	1	0	0
-regulation of ecdysteroid biosynthetic process	GO_0007554	1	0	1	0	0
 regulation of corticotropin-releasing hormone secretion	GO_0043397	1	0	1	0	0
 regulation of corticotropin-releasing hormone receptor activity	GO_1900010	1	0	1	0	0
 regulation of corticosteroid hormone secretion	GO_2000846	1	0	1	0	0
 positive regulation of thyroid-stimulating hormone secretion	GO_2000614	1	0	1	0	0
 positive regulation of thyroid hormone mediated signaling pathway	GO_0002157	1	0	1	0	0
-positive regulation of thyroid hormone generation	GO_2000611	1	0	1	0	0
 positive regulation of steroid hormone secretion	GO_2000833	1	0	1	0	0
-positive regulation of steroid hormone biosynthetic process	GO_0090031	1	0	1	0	0
 positive regulation of peptide hormone secretion	GO_0090277	1	0	1	0	0
-positive regulation of peptide hormone processing	GO_0060569	1	0	1	0	0
 positive regulation of parathyroid hormone secretion	GO_2000830	1	0	1	0	0
 positive regulation of luteinizing hormone secretion	GO_0033686	1	0	1	0	0
 positive regulation of juvenile hormone secretion	GO_0045973	1	0	1	0	0
-positive regulation of juvenile hormone metabolic process	GO_0045929	1	0	1	0	0
-positive regulation of juvenile hormone catabolic process	GO_0045971	1	0	1	0	0
-positive regulation of juvenile hormone biosynthetic process	GO_0045969	1	0	1	0	0
 positive regulation of intracellular steroid hormone receptor signaling pathway	GO_0033145	1	0	1	0	0
 positive regulation of hormone secretion	GO_0046887	1	0	1	0	0
-positive regulation of hormone metabolic process	GO_0032352	1	0	1	0	0
-positive regulation of hormone biosynthetic process	GO_0046886	1	0	1	0	0
 positive regulation of growth hormone secretion	GO_0060124	1	0	1	0	0
 positive regulation of growth hormone receptor signaling pathway	GO_0060399	1	0	1	0	0
 positive regulation of follicle-stimulating hormone secretion	GO_0046881	1	0	1	0	0
@@ -68,25 +93,16 @@ positive regulation of corticotropin-releasing hormone receptor activity	GO_1900
 positive regulation of corticosteroid hormone secretion	GO_2000848	1	0	1	0	0
 positive regulation by organism of hormone or growth regulator levels in other organism involved in symbiotic interaction	GO_0052513	1	0	1	0	0
 peptide hormone secretion	GO_0030072	1	0	1	0	0
-peptide hormone processing	GO_0016486	1	0	1	0	0
 parathyroid hormone secretion	GO_0035898	1	0	1	0	0
 negative regulation of thyroid-stimulating hormone secretion	GO_2000613	1	0	1	0	0
 negative regulation of thyroid hormone mediated signaling pathway	GO_0002156	1	0	1	0	0
-negative regulation of thyroid hormone generation	GO_2000610	1	0	1	0	0
 negative regulation of steroid hormone secretion	GO_2000832	1	0	1	0	0
-negative regulation of steroid hormone biosynthetic process	GO_0090032	1	0	1	0	0
 negative regulation of peptide hormone secretion	GO_0090278	1	0	1	0	0
-negative regulation of peptide hormone processing	GO_0060570	1	0	1	0	0
 negative regulation of parathyroid hormone secretion	GO_2000829	1	0	1	0	0
 negative regulation of luteinizing hormone secretion	GO_0033685	1	0	1	0	0
 negative regulation of juvenile hormone secretion	GO_0045972	1	0	1	0	0
-negative regulation of juvenile hormone metabolic process	GO_0045928	1	0	1	0	0
-negative regulation of juvenile hormone catabolic process	GO_0045970	1	0	1	0	0
-negative regulation of juvenile hormone biosynthetic process	GO_0045968	1	0	1	0	0
 negative regulation of intracellular steroid hormone receptor signaling pathway	GO_0033144	1	0	1	0	0
 negative regulation of hormone secretion	GO_0046888	1	0	1	0	0
-negative regulation of hormone metabolic process	GO_0032351	1	0	1	0	0
-negative regulation of hormone biosynthetic process	GO_0032353	1	0	1	0	0
 negative regulation of growth hormone secretion	GO_0060125	1	0	1	0	0
 negative regulation of growth hormone receptor signaling pathway	GO_0060400	1	0	1	0	0
 negative regulation of follicle-stimulating hormone secretion	GO_0046882	1	0	1	0	0
@@ -102,18 +118,12 @@ melanocyte-stimulating hormone secretion	GO_0036160	1	0	1	0	0
 luteinizing hormone signaling pathway	GO_0042700	1	0	1	0	0
 luteinizing hormone secretion	GO_0032275	1	0	1	0	0
 juvenile hormone secretion	GO_0045443	1	0	1	0	0
-juvenile hormone metabolic process	GO_0006716	1	0	1	0	0
 juvenile hormone mediated signaling pathway	GO_0035626	1	0	1	0	0
-juvenile hormone catabolic process	GO_0006719	1	0	1	0	0
-juvenile hormone biosynthetic process	GO_0006718	1	0	1	0	0
 juvenile hormone binding	GO_0006717	1	0	1	1	1
 intracellular steroid hormone receptor signaling pathway	GO_0030518	1	0	1	0	0
 hormone-mediated signaling pathway	GO_0009755	1	0	1	0	0
 hormone transport	GO_0009914	1	0	1	0	0
 hormone secretion	GO_0046879	1	0	1	0	0
-hormone metabolic process	GO_0042445	1	0	1	0	0
-hormone catabolic process	GO_0042447	1	0	1	0	0
-hormone biosynthetic process	GO_0042446	1	0	1	0	0
 growth hormone secretion	GO_0030252	1	0	1	0	0
 growth hormone receptor signaling pathway	GO_0060396	1	0	1	0	0
 gonadotrophin-releasing hormone neuronal migration to the hypothalamus	GO_0021828	1	0	1	0	0
@@ -137,25 +147,131 @@ cellular response to growth hormone stimulus	GO_0071378	1	0	1	0	0
 cellular response to gonadotropin-releasing hormone	GO_0097211	1	0	1	0	0
 cellular response to follicle-stimulating hormone stimulus	GO_0071372	1	0	1	0	0
 cellular response to corticotropin-releasing hormone stimulus	GO_0071376	1	0	1	0	0
-cellular hormone metabolic process	GO_0034754	1	0	1	0	0
 androstenedione secretion	GO_0035941	1	0	1	0	0
 androgen secretion	GO_0035935	1	0	1	0	0
 androgen receptor signaling pathway	GO_0030521	1	0	1	0	0
-androgen metabolic process	GO_0008209	1	0	1	0	0
-androgen catabolic process	GO_0006710	1	0	1	0	0
-androgen biosynthetic process	GO_0006702	1	0	1	0	0
 aldosterone secretion	GO_0035932	1	0	1	0	0
-aldosterone metabolic process	GO_0032341	1	0	1	0	0
-aldosterone catabolic process	GO_0032343	1	0	1	0	0
-aldosterone biosynthetic process	GO_0032342	1	0	1	0	0
 activation of prostate induction by androgen receptor signaling pathway	GO_0060520	1	0	1	0	0
 JAK-STAT cascade involved in growth hormone signaling pathway	GO_0060397	1	0	1	0	0
-C21-steroid hormone metabolic process	GO_0008207	1	0	1	0	0
-C21-steroid hormone catabolic process	GO_0008208	1	0	1	0	0
-C21-steroid hormone biosynthetic process	GO_0006700	1	0	1	0	0
-substance with thyroid hormone biological role	GOCHE_60311	0	1	0	0	0
-substance with phytohormone biological role	GOCHE_37848	0	1	0	0	0
-substance with hormone biological role	GOCHE_24621	0	1	0	0	0
-substance with growth hormone biological role	GOCHE_37845	0	1	0	0	0
-substance with cytokinin biological role	GOCHE_23530	0	1	0	0	0
-substance with auxin biological role	GOCHE_22676	0	1	0	0	0
+zeatin metabolic process	GO_0033397	0	1	0	0	0
+zeatin biosynthetic process	GO_0033398	0	1	0	0	0
+tryptophan-independent indoleacetic acid biosynthetic process	GO_0009849	0	1	0	0	0
+tryptophan catabolic process to indole-3-acetate	GO_0019440	0	1	0	0	0
+trans-zeatin metabolic process	GO_0033400	0	1	0	0	0
+trans-zeatin biosynthetic process	GO_0033466	0	1	0	0	0
+thyroid hormone metabolic process	GO_0042403	0	1	0	0	0
+thyroid hormone generation	GO_0006590	0	1	0	0	0
+thyroid hormone catabolic process	GO_0042404	0	1	0	0	0
+testosterone biosynthetic process	GO_0061370	0	1	0	0	0
+retinyl-palmitate esterase activity	GO_0050253	0	1	0	0	0
+retinol metabolic process	GO_0042572	0	1	0	0	0
+retinol O-fatty-acyltransferase activity	GO_0050252	0	1	0	0	0
+retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	0	0	0
+retinoic acid metabolic process	GO_0042573	0	1	0	0	0
+retinoic acid catabolic process	GO_0034653	0	1	0	0	0
+retinoic acid biosynthetic process	GO_0002138	0	1	0	0	0
+regulation of testosterone biosynthetic process	GO_2000224	0	1	0	0	0
+regulation of retinoic acid biosynthetic process	GO_1900052	0	1	0	0	0
+regulation of progesterone biosynthetic process	GO_2000182	0	1	0	0	0
+regulation of indoleacetic acid biosynthetic process via tryptophan	GO_1901996	0	1	0	0	0
+regulation of glucocorticoid metabolic process	GO_0031943	0	1	0	0	0
+regulation of glucocorticoid catabolic process	GO_0031949	0	1	0	0	0
+regulation of glucocorticoid biosynthetic process	GO_0031946	0	1	0	0	0
+regulation of cortisol biosynthetic process	GO_2000064	0	1	0	0	0
+regulation of brassinosteroid biosynthetic process	GO_0010422	0	1	0	0	0
+regulation of auxin metabolic process	GO_0090354	0	1	0	0	0
+regulation of auxin biosynthetic process	GO_0010600	0	1	0	0	0
+regulation of aldosterone metabolic process	GO_0032344	0	1	0	0	0
+regulation of aldosterone biosynthetic process	GO_0032347	0	1	0	0	0
+progesterone metabolic process	GO_0042448	0	1	0	0	0
+progesterone catabolic process	GO_0006709	0	1	0	0	0
+progesterone biosynthetic process	GO_0006701	0	1	0	0	0
+positive regulation of retinoic acid biosynthetic process	GO_1900054	0	1	0	0	0
+positive regulation of progesterone biosynthetic process	GO_2000184	0	1	0	0	0
+positive regulation of glucocorticoid metabolic process	GO_0031945	0	1	0	0	0
+positive regulation of glucocorticoid catabolic process	GO_0031951	0	1	0	0	0
+positive regulation of glucocorticoid biosynthetic process	GO_0031948	0	1	0	0	0
+positive regulation of ecdysteroid metabolic process	GO_0045966	0	1	0	0	0
+positive regulation of ecdysteroid biosynthetic process	GO_0045998	0	1	0	0	0
+positive regulation of cortisol biosynthetic process	GO_2000066	0	1	0	0	0
+positive regulation of brassinosteroid biosynthetic process	GO_2000488	0	1	0	0	0
+positive regulation of auxin metabolic process	GO_0090355	0	1	0	0	0
+positive regulation of auxin biosynthetic process	GO_0010601	0	1	0	0	0
+positive regulation of aldosterone metabolic process	GO_0032346	0	1	0	0	0
+positive regulation of aldosterone biosynthetic process	GO_0032349	0	1	0	0	0
+pheromone metabolic process	GO_0042810	0	1	0	0	0
+pheromone catabolic process	GO_0042812	0	1	0	0	0
+pheromone biosynthetic process	GO_0042811	0	1	0	0	0
+nerve growth factor processing	GO_0032455	0	1	0	0	0
+negative regulation of testosterone biosynthetic process	GO_2000225	0	1	0	0	0
+negative regulation of retinoic acid biosynthetic process	GO_1900053	0	1	0	0	0
+negative regulation of progesterone biosynthetic process	GO_2000183	0	1	0	0	0
+negative regulation of progesterone biosynthesis involved in luteolysis	GO_0061363	0	1	0	0	0
+negative regulation of indoleacetic acid biosynthetic process via tryptophan	GO_1901997	0	1	0	0	0
+negative regulation of glucocorticoid metabolic process	GO_0031944	0	1	0	0	0
+negative regulation of glucocorticoid catabolic process	GO_0031950	0	1	0	0	0
+negative regulation of glucocorticoid biosynthetic process	GO_0031947	0	1	0	0	0
+negative regulation of ecdysteroid metabolic process	GO_0045965	0	1	0	0	0
+negative regulation of ecdysteroid biosynthetic process	GO_0045997	0	1	0	0	0
+negative regulation of cortisol biosynthetic process	GO_2000065	0	1	0	0	0
+negative regulation of brassinosteroid biosynthetic process	GO_0010423	0	1	0	0	0
+negative regulation of auxin metabolic process	GO_0090356	0	1	0	0	0
+negative regulation of androgen biosynthetic process	GO_2000180	0	1	0	0	0
+negative regulation of aldosterone metabolic process	GO_0032345	0	1	0	0	0
+negative regulation of aldosterone biosynthetic process	GO_0032348	0	1	0	0	0
+mineralocorticoid metabolic process	GO_0008212	0	1	0	0	0
+mineralocorticoid catabolic process	GO_0006712	0	1	0	0	0
+mineralocorticoid biosynthetic process	GO_0006705	0	1	0	0	0
+melatonin metabolic process	GO_0030186	0	1	0	0	0
+melatonin catabolic process	GO_0042442	0	1	0	0	0
+melatonin biosynthetic process	GO_0030187	0	1	0	0	0
+isopentenyl adenine metabolic process	GO_0034264	0	1	0	0	0
+isopentenyl adenine catabolic process	GO_0034266	0	1	0	0	0
+isopentenyl adenine biosynthetic process	GO_0034265	0	1	0	0	0
+islet amyloid polypeptide processing	GO_0034231	0	1	0	0	0
+insulin processing	GO_0030070	0	1	0	0	0
+indolebutyric acid metabolic process	GO_0080024	0	1	0	0	0
+indoleacetic acid metabolic process	GO_0009683	0	1	0	0	0
+indoleacetic acid ester conjugate biosynthetic process	GO_0033476	0	1	0	0	0
+indoleacetic acid conjugate metabolic process	GO_0033473	0	1	0	0	0
+indoleacetic acid conjugate biosynthetic process	GO_0033474	0	1	0	0	0
+indoleacetic acid catabolic process	GO_0042437	0	1	0	0	0
+indoleacetic acid biosynthetic process via tryptophan	GO_0009848	0	1	0	0	0
+indoleacetic acid biosynthetic process	GO_0009684	0	1	0	0	0
+indoleacetic acid amide conjugate biosynthetic process	GO_0033475	0	1	0	0	0
+estrogen metabolic process	GO_0008210	0	1	0	0	0
+estrogen catabolic process	GO_0006711	0	1	0	0	0
+estrogen biosynthetic process	GO_0006703	0	1	0	0	0
+enkephalin processing	GO_0034230	0	1	0	0	0
+endothelin maturation	GO_0034959	0	1	0	0	0
+ecdysteroid metabolic process	GO_0045455	0	1	0	0	0
+ecdysteroid catabolic process	GO_0046344	0	1	0	0	0
+ecdysteroid biosynthetic process	GO_0045456	0	1	0	0	0
+ecdysone metabolic process	GO_0008205	0	1	0	0	0
+ecdysone catabolic process	GO_0006708	0	1	0	0	0
+ecdysone biosynthetic process	GO_0006697	0	1	0	0	0
+discadenine metabolic process	GO_0034267	0	1	0	0	0
+discadenine catabolic process	GO_0034269	0	1	0	0	0
+discadenine biosynthetic process	GO_0034268	0	1	0	0	0
+cytokinin metabolic process	GO_0009690	0	1	0	0	0
+cytokinin catabolic process	GO_0009823	0	1	0	0	0
+cytokinin biosynthetic process	GO_0009691	0	1	0	0	0
+cis-zeatin metabolic process	GO_0033399	0	1	0	0	0
+cis-zeatin biosynthetic process	GO_0033465	0	1	0	0	0
+calcitonin catabolic process	GO_0010816	0	1	0	0	0
+brassinosteroid metabolic process	GO_0016131	0	1	0	0	0
+brassinosteroid catabolic process	GO_0016133	0	1	0	0	0
+brassinosteroid biosynthetic process	GO_0016132	0	1	0	0	0
+auxin metabolic process	GO_0009850	0	1	0	0	0
+auxin conjugate metabolic process	GO_0010249	0	1	0	0	0
+auxin catabolic process	GO_0009852	0	1	0	0	0
+auxin biosynthetic process	GO_0009851	0	1	0	0	0
+angiotensin maturation	GO_0002003	0	1	0	0	0
+all-trans-retinyl-palmitate hydrolase, all-trans-retinol forming activity	GO_0047376	0	1	0	0	0
+all-trans-retinyl-palmitate hydrolase, 11-cis retinol forming activity	GO_0052884	0	1	0	0	0
+all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity	GO_0052885	0	1	0	0	0
+all-trans-retinol 13,14-reductase activity	GO_0051786	0	1	0	0	0
+NADP-retinol dehydrogenase activity	GO_0052650	0	1	0	0	0
+9-cis-retinoic acid metabolic process	GO_0042905	0	1	0	0	0
+9-cis-retinoic acid biosynthetic process	GO_0042904	0	1	0	0	0
+11-cis-retinyl-palmitate hydrolase activity	GO_0047520	0	1	0	0	0

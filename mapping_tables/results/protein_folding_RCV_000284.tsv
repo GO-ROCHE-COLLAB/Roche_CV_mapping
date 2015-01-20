@@ -1,0 +1,17 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+chaperone-mediated protein folding	GO_0061077	1	1	1	0	0
+chaperone mediated protein folding requiring cofactor	GO_0051085	1	1	1	0	0
+chaperone mediated protein folding independent of cofactor	GO_0051086	1	1	1	0	0
+chaperone cofactor-dependent protein refolding	GO_0070389	1	1	1	0	0
+chaperone-mediated protein complex assembly	GO_0051131	1	0	1	0	0
+protein refolding	GO_0042026	0	1	0	0	0
+protein maturation by protein folding	GO_0022417	0	1	0	0	0
+protein folding in endoplasmic reticulum	GO_0034975	0	1	0	0	0
+protein folding	GO_0006457	0	1	0	0	0
+protein disulfide isomerase activity	GO_0003756	0	1	0	0	0
+protein binding involved in protein folding	GO_0044183	0	1	0	0	0
+post-chaperonin tubulin folding pathway	GO_0007023	0	1	0	0	0
+ATP-independent chaperone mediated protein folding	GO_1990507	0	1	0	0	0
+'de novo' protein folding	GO_0006458	0	1	0	0	0
+'de novo' posttranslational protein folding	GO_0051084	0	1	0	0	0
+'de novo' cotranslational protein folding	GO_0051083	0	1	0	0	0

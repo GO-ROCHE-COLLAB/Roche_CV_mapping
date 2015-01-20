@@ -1,0 +1,23 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043162	1	0	1	0	0
+ubiquitin-dependent protein catabolic process via the N-end rule pathway	GO_0071596	1	0	1	0	0
+ubiquitin-dependent protein catabolic process	GO_0006511	1	0	1	0	0
+ubiquitin-dependent endocytosis	GO_0070086	1	0	1	0	0
+ubiquitin ligase complex	GO_0000151	1	0	1	0	0
+ubiquitin homeostasis	GO_0010992	1	0	1	0	0
+ubiquitin cycle	GO_0006512	1	0	1	1	1
+protein polyubiquitination	GO_0000209	1	0	1	0	0
+nuclear ubiquitin ligase complex	GO_0000152	1	0	1	0	0
+cytoplasmic ubiquitin ligase complex	GO_0000153	1	0	1	0	0
+Hrd1p ubiquitin ligase complex	GO_0000836	1	0	1	0	0
+Hrd1p ubiquitin ligase ERAD-M complex	GO_0000838	1	0	1	0	0
+Hrd1p ubiquitin ligase ERAD-L complex	GO_0000839	1	0	1	0	0
+ER ubiquitin ligase complex	GO_0000835	1	0	1	0	0
+Doa10p ubiquitin ligase complex	GO_0000837	1	0	1	0	0
+ubiquitin binding	GO_0043130	0	1	0	0	0
+polyubiquitin binding	GO_0031593	0	1	0	0	0
+linear polyubiquitin binding	GO_1990450	0	1	0	0	0
+K63-linked polyubiquitin binding	GO_0070530	0	1	0	0	0
+K6-linked polyubiquitin binding	GO_0071796	0	1	0	0	0
+K48-linked polyubiquitin binding	GO_0036435	0	1	0	0	0
+K11-linked polyubiquitin binding	GO_0071795	0	1	0	0	0

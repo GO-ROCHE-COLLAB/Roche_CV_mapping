@@ -1,0 +1,105 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+vacuole organization	GO_0007033	1	1	1	0	0
+vacuole inheritance	GO_0000011	1	1	1	0	0
+vacuole fusion, non-autophagic	GO_0042144	1	1	1	0	0
+vacuolar proton-transporting V-type ATPase, V1 domain	GO_0000221	1	1	1	0	0
+vacuolar proton-transporting V-type ATPase, V0 domain	GO_0000220	1	1	1	0	0
+vacuolar protein processing	GO_0006624	1	1	1	0	0
+vacuolar calcium ion homeostasis	GO_0007036	1	1	1	0	0
+vacuolar acidification	GO_0007035	1	1	1	0	0
+storage vacuole	GO_0000322	1	1	1	0	0
+protein storage vacuole	GO_0000326	1	1	1	0	0
+protein catabolic process in the vacuole	GO_0007039	1	1	1	0	0
+plant-type vacuole lumen	GO_0000330	1	1	1	0	0
+plant-type vacuole	GO_0000325	1	1	1	0	0
+lytic vacuole within protein storage vacuole	GO_0000327	1	1	1	0	0
+lytic vacuole	GO_0000323	1	1	1	0	0
+fungal-type vacuole membrane	GO_0000329	1	1	1	0	0
+fungal-type vacuole lumen	GO_0000328	1	1	1	0	0
+fungal-type vacuole	GO_0000324	1	1	1	0	0
+extrinsic component of vacuolar membrane	GO_0000306	1	1	1	0	0
+contractile vacuole	GO_0000331	1	1	1	0	0
+autophagic vacuole membrane	GO_0000421	1	1	1	0	0
+vacuolar transport	GO_0007034	1	0	1	0	0
+vacuolar transmembrane transport	GO_0034486	1	0	1	0	0
+vacuolar sequestering of sodium ion	GO_0043182	1	0	1	0	0
+vacuolar sequestering	GO_0043181	1	0	1	0	0
+vacuolar proton-transporting V-type ATPase complex assembly	GO_0070072	1	0	1	0	0
+vacuolar phosphate transport	GO_0007037	1	0	1	0	0
+vacuolar amino acid transmembrane transport	GO_0034487	1	0	1	0	0
+pre-autophagosomal structure	GO_0000407	1	0	1	0	0
+vacuole	GO_0005773	0	1	0	0	0
+vacuolar proton-transporting V-type ATPase complex	GO_0016471	0	1	0	0	0
+vacuolar part	GO_0044437	0	1	0	0	0
+vacuolar membrane	GO_0005774	0	1	0	0	0
+vacuolar lumen	GO_0005775	0	1	0	0	0
+vacuolar HOPS complex	GO_1902500	0	1	0	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
+senescence-associated vacuole	GO_0010282	0	1	0	0	0
+secondary lysosome	GO_0005767	0	1	0	0	0
+proteolysis within lysosome associated with antigen processing and presentation	GO_0002500	0	1	0	0	0
+protein storage vacuole organization	GO_1990019	0	1	0	0	0
+protein storage vacuole membrane	GO_0032586	0	1	0	0	0
+protein storage vacuole lumen	GO_0034495	0	1	0	0	0
+primary lysosome	GO_0005766	0	1	0	0	0
+post-lysosomal vacuole	GO_0032195	0	1	0	0	0
+plant-type vacuole membrane	GO_0009705	0	1	0	0	0
+phagolysosome membrane	GO_0061474	0	1	0	0	0
+phagolysosome assembly involved in apoptotic cell clearance	GO_0090387	0	1	0	0	0
+phagolysosome assembly	GO_0001845	0	1	0	0	0
+phagolysosome	GO_0032010	0	1	0	0	0
+notochord cell vacuolation	GO_0060036	0	1	0	0	0
+micropexophagy-specific membrane apparatus	GO_0032046	0	1	0	0	0
+megasome	GO_0043246	0	1	0	0	0
+mast cell granule	GO_0042629	0	1	0	0	0
+mast cell degranulation	GO_0043303	0	1	0	0	0
+lytic vacuole organization	GO_0080171	0	1	0	0	0
+lysosome organization	GO_0007040	0	1	0	0	0
+lysosome localization	GO_0032418	0	1	0	0	0
+lysosome	GO_0005764	0	1	0	0	0
+lysosomal proton-transporting V-type ATPase, V1 domain	GO_0046612	0	1	0	0	0
+lysosomal proton-transporting V-type ATPase, V0 domain	GO_0046610	0	1	0	0	0
+lysosomal proton-transporting V-type ATPase complex	GO_0046611	0	1	0	0	0
+lysosomal multienzyme complex	GO_0070559	0	1	0	0	0
+lysosomal membrane	GO_0005765	0	1	0	0	0
+lysosomal lumen pH elevation	GO_0035752	0	1	0	0	0
+lysosomal lumen	GO_0043202	0	1	0	0	0
+lysosomal glycocalyx	GO_0090123	0	1	0	0	0
+lysosomal HOPS complex	GO_1902501	0	1	0	0	0
+lumenal side of lysosomal membrane	GO_0098575	0	1	0	0	0
+intrinsic component of vacuolar membrane	GO_0031310	0	1	0	0	0
+intrinsic component of fungal-type vacuolar membrane	GO_0071628	0	1	0	0	0
+intrinsic component of contractile vacuolar membrane	GO_0031311	0	1	0	0	0
+intrinsic component of autophagic vacuole membrane	GO_0097636	0	1	0	0	0
+integral component of vacuolar membrane	GO_0031166	0	1	0	0	0
+integral component of fungal-type vacuolar membrane	GO_0071627	0	1	0	0	0
+integral component of contractile vacuolar membrane	GO_0031165	0	1	0	0	0
+integral component of autophagic vacuole membrane	GO_0097637	0	1	0	0	0
+histamine secretion by mast cell	GO_0002553	0	1	0	0	0
+food vacuole	GO_0020020	0	1	0	0	0
+extrinsic component of lysosome membrane	GO_0032419	0	1	0	0	0
+extrinsic component of fungal-type vacuolar membrane	GO_0097042	0	1	0	0	0
+extrinsic component of autophagic vacuole membrane	GO_0097635	0	1	0	0	0
+endolysosome membrane	GO_0036020	0	1	0	0	0
+endolysosome lumen	GO_0036021	0	1	0	0	0
+endolysosome	GO_0036019	0	1	0	0	0
+cytoplasmic side of lysosomal membrane	GO_0098574	0	1	0	0	0
+cytolytic granule	GO_0044194	0	1	0	0	0
+contractile vacuole pore	GO_0031913	0	1	0	0	0
+contractile vacuole organization	GO_0033298	0	1	0	0	0
+contractile vacuolar membrane	GO_0031164	0	1	0	0	0
+central vacuole	GO_0042807	0	1	0	0	0
+azurophil granule membrane	GO_0035577	0	1	0	0	0
+azurophil granule lumen	GO_0035578	0	1	0	0	0
+azurophil granule	GO_0042582	0	1	0	0	0
+autophagic vacuole maturation	GO_0097352	0	1	0	0	0
+autophagic vacuole lumen	GO_0034423	0	1	0	0	0
+autophagic vacuole assembly	GO_0000045	0	1	0	0	0
+autophagic vacuole	GO_0005776	0	1	0	0	0
+autolysosome	GO_0044754	0	1	0	0	0
+amphisome	GO_0044753	0	1	0	0	0
+acrosomal matrix	GO_0043159	0	1	0	0	0
+acrosomal lumen	GO_0043160	0	1	0	0	0
+UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase complex	GO_0070622	0	1	0	0	0
+PAS complex	GO_0070772	0	1	0	0	0
+EGO complex	GO_0034448	0	1	0	0	0

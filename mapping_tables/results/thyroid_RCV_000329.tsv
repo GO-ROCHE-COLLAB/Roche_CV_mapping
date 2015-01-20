@@ -1,10 +1,17 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-thyroid gland development	GO_0030878	1	1	1	0	0
+thyroid hormone transport	GO_0070327	1	1	1	0	0
+thyroid hormone metabolic process	GO_0042403	1	1	1	0	0
+thyroid hormone generation	GO_0006590	1	1	1	0	0
+thyroid hormone catabolic process	GO_0042404	1	1	1	0	0
 thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	1	0	1	0	0
 thyroid-stimulating hormone-secreting cell development	GO_0060130	1	0	1	0	0
 thyroid-stimulating hormone secretion	GO_0070460	1	0	1	0	0
-thyroid hormone transport	GO_0070327	1	0	1	0	0
-thyroid hormone metabolic process	GO_0042403	1	0	1	0	0
 thyroid hormone mediated signaling pathway	GO_0002154	1	0	1	0	0
-thyroid hormone generation	GO_0006590	1	0	1	0	0
-thyroid hormone catabolic process	GO_0042404	1	0	1	0	0
+thyroid gland development	GO_0030878	1	0	1	0	0
+thyroid hormone transmembrane transporter activity	GO_0015349	0	1	0	0	0
+thyroid hormone receptor activity	GO_0004887	0	1	0	0	0
+thyroid hormone binding	GO_0070324	0	1	0	0	0
+response to thyroxine	GO_0097068	0	1	0	0	0
+response to thyroid hormone	GO_0097066	0	1	0	0	0
+cellular response to thyroxine stimulus	GO_0097069	0	1	0	0	0
+cellular response to thyroid hormone stimulus	GO_0097067	0	1	0	0	0

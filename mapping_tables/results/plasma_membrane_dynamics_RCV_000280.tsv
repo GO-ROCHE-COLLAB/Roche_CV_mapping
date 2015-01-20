@@ -1,0 +1,17 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+plasma membrane to endosome transport	GO_0048227	1	0	1	0	0
+plasma membrane selenite transport	GO_0097080	1	0	1	0	0
+plasma membrane respiratory chain complex IV assembly	GO_0033618	1	0	1	0	0
+plasma membrane repair	GO_0001778	1	0	1	0	0
+plasma membrane pyruvate transport	GO_0006849	1	0	1	0	0
+plasma membrane proton-transporting ATP synthase complex assembly	GO_0033616	1	0	1	0	0
+plasma membrane organization involved in conjugation with cellular fusion	GO_0070872	1	0	1	0	0
+plasma membrane organization	GO_0007009	1	0	1	0	0
+plasma membrane lactate transport	GO_0035879	1	0	1	0	0
+plasma membrane fusion involved in cytogamy	GO_0032220	1	0	1	0	0
+plasma membrane fusion	GO_0045026	1	0	1	0	0
+plasma membrane electron transport, NADH to quinone	GO_0030965	1	0	1	0	0
+plasma membrane copper ion transport	GO_0015679	1	0	1	0	0
+plasma membrane acetate transport	GO_0006847	1	0	1	0	0
+plasma membrane ATP synthesis coupled proton transport	GO_0042777	1	0	1	0	0
+plasma membrane ATP synthesis coupled electron transport	GO_0042774	1	0	1	0	0

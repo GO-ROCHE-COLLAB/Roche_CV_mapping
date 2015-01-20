@@ -1,0 +1,181 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+vasculogenesis involved in coronary vascular morphogenesis	GO_0060979	1	1	1	0	0
+vasculogenesis	GO_0001570	1	1	1	0	0
+vasculature development	GO_0001944	1	1	1	0	0
+vascular wound healing	GO_0061042	1	1	1	0	0
+vascular smooth muscle cell fate specification	GO_0097082	1	1	1	0	0
+vascular smooth muscle cell fate determination	GO_0097083	1	1	1	0	0
+vascular smooth muscle cell fate commitment	GO_0097081	1	1	1	0	0
+vascular smooth muscle cell differentiation	GO_0035886	1	1	1	0	0
+vascular smooth muscle cell development	GO_0097084	1	1	1	0	0
+superior vena cava morphogenesis	GO_0060578	1	1	1	0	0
+cerebellum vasculature morphogenesis	GO_0061301	1	1	1	0	0
+cerebellum vasculature development	GO_0061300	1	1	1	0	0
+angioblast cell migration involved in selective angioblast sprouting	GO_0035475	1	1	1	0	0
+angioblast cell migration from lateral mesoderm to midline	GO_0035479	1	1	1	0	0
+angioblast cell migration	GO_0035476	1	1	1	0	0
+angioblast cell differentiation	GO_0035779	1	1	1	0	0
+vascular transport	GO_0010232	1	0	1	0	0
+vascular smooth muscle contraction	GO_0014829	1	0	1	0	0
+vascular process in circulatory system	GO_0003018	1	0	1	0	0
+ventral aorta morphogenesis	GO_0035913	0	1	0	0	0
+ventral aorta development	GO_0035908	0	1	0	0	0
+venous endothelial cell migration involved in lymph vessel development	GO_0060855	0	1	0	0	0
+venous endothelial cell fate commitment	GO_0060845	0	1	0	0	0
+venous endothelial cell differentiation	GO_0060843	0	1	0	0	0
+venous blood vessel morphogenesis	GO_0048845	0	1	0	0	0
+venous blood vessel development	GO_0060841	0	1	0	0	0
+vascular endothelial growth factor receptor signaling pathway involved in lymphatic endothelial cell fate commitment	GO_0060851	0	1	0	0	0
+sprouting angiogenesis	GO_0002040	0	1	0	0	0
+selective angioblast sprouting	GO_0035474	0	1	0	0	0
+retinal blood vessel morphogenesis	GO_0061304	0	1	0	0	0
+retina vasculature morphogenesis in camera-type eye	GO_0061299	0	1	0	0	0
+retina vasculature development in camera-type eye	GO_0061298	0	1	0	0	0
+renal system vasculature morphogenesis	GO_0061438	0	1	0	0	0
+renal system vasculature development	GO_0061437	0	1	0	0	0
+renal artery morphogenesis	GO_0061441	0	1	0	0	0
+regulation of venous endothelial cell fate commitment	GO_2000787	0	1	0	0	0
+regulation of vasculogenesis	GO_2001212	0	1	0	0	0
+regulation of vasculature development	GO_1901342	0	1	0	0	0
+regulation of vascular wound healing	GO_0061043	0	1	0	0	0
+regulation of transcription involved in venous endothelial cell fate commitment	GO_0060852	0	1	0	0	0
+regulation of transcription involved in lymphatic endothelial cell fate commitment	GO_0060849	0	1	0	0	0
+regulation of sprouting angiogenesis	GO_1903670	0	1	0	0	0
+regulation of metanephric glomerular mesangial cell proliferation	GO_0072301	0	1	0	0	0
+regulation of mesonephric glomerular mesangial cell proliferation	GO_2000090	0	1	0	0	0
+regulation of lymphangiogenesis	GO_1901490	0	1	0	0	0
+regulation of glomerular mesangial cell proliferation	GO_0072124	0	1	0	0	0
+regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	0	0	0
+regulation of cell adhesion involved in intussusceptive angiogenesis	GO_0002045	0	1	0	0	0
+regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	0	1	0	0	0
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	0	0	0
+regulation of angiogenesis	GO_0045765	0	1	0	0	0
+regulation of angioblast cell migration involved in selective angioblast sprouting	GO_0035477	0	1	0	0	0
+pulmonary vein morphogenesis	GO_0060577	0	1	0	0	0
+pulmonary myocardium development	GO_0003350	0	1	0	0	0
+pulmonary artery morphogenesis	GO_0061156	0	1	0	0	0
+pulmonary artery endothelial tube morphogenesis	GO_0061155	0	1	0	0	0
+positive regulation of venous endothelial cell fate commitment	GO_2000789	0	1	0	0	0
+positive regulation of vasculogenesis	GO_2001214	0	1	0	0	0
+positive regulation of vascular wound healing	GO_0035470	0	1	0	0	0
+positive regulation of sprouting angiogenesis	GO_1903672	0	1	0	0	0
+positive regulation of mesonephric glomerular mesangial cell proliferation	GO_2000092	0	1	0	0	0
+positive regulation of lymphangiogenesis	GO_1901492	0	1	0	0	0
+positive regulation of glomerular metanephric mesangial cell proliferation	GO_0072303	0	1	0	0	0
+positive regulation of glomerular mesangial cell proliferation	GO_0072126	0	1	0	0	0
+positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	0	0	0
+positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	0	1	0	0	0
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	0	0	0
+positive regulation of angiogenesis	GO_0045766	0	1	0	0	0
+placenta blood vessel development	GO_0060674	0	1	0	0	0
+pharyngeal arch artery morphogenesis	GO_0061626	0	1	0	0	0
+patterning of lymph vessels	GO_0060854	0	1	0	0	0
+patterning of blood vessels	GO_0001569	0	1	0	0	0
+negative regulation of venous endothelial cell fate commitment	GO_2000788	0	1	0	0	0
+negative regulation of vasculogenesis	GO_2001213	0	1	0	0	0
+negative regulation of vasculature development involved in avascular cornea development in camera-type eye	GO_1901346	0	1	0	0	0
+negative regulation of vasculature development	GO_1901343	0	1	0	0	0
+negative regulation of vascular wound healing	GO_0061044	0	1	0	0	0
+negative regulation of testicular blood vessel morphogenesis	GO_0061369	0	1	0	0	0
+negative regulation of sprouting angiogenesis	GO_1903671	0	1	0	0	0
+negative regulation of metanephric glomerular mesangial cell proliferation	GO_0072302	0	1	0	0	0
+negative regulation of mesonephric glomerular mesangial cell proliferation	GO_2000091	0	1	0	0	0
+negative regulation of lymphangiogenesis	GO_1901491	0	1	0	0	0
+negative regulation of glomerular mesangial cell proliferation	GO_0072125	0	1	0	0	0
+negative regulation of cell migration involved in sprouting angiogenesis	GO_0090051	0	1	0	0	0
+negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	0	1	0	0	0
+negative regulation of blood vessel morphogenesis	GO_2000181	0	1	0	0	0
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	0	0	0
+negative regulation of angiogenesis	GO_0016525	0	1	0	0	0
+metanephric intraglomerular mesangial cell proliferation	GO_0072263	0	1	0	0	0
+metanephric glomerulus vasculature morphogenesis	GO_0072276	0	1	0	0	0
+metanephric glomerulus vasculature development	GO_0072239	0	1	0	0	0
+metanephric glomerular mesangium development	GO_0072223	0	1	0	0	0
+metanephric glomerular mesangial cell proliferation involved in metanephros development	GO_0072262	0	1	0	0	0
+metanephric glomerular mesangial cell fate commitment	GO_0072256	0	1	0	0	0
+metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	0	0	0
+metanephric glomerular mesangial cell development	GO_0072255	0	1	0	0	0
+metanephric glomerular endothelium development	GO_0072264	0	1	0	0	0
+metanephric glomerular capillary formation	GO_0072277	0	1	0	0	0
+mesonephric intraglomerular mesangial cell proliferation	GO_0061270	0	1	0	0	0
+mesonephric glomerulus vasculature morphogenesis	GO_0061248	0	1	0	0	0
+mesonephric glomerulus vasculature development	GO_0061231	0	1	0	0	0
+mesonephric glomerular mesangium development	GO_0061247	0	1	0	0	0
+mesonephric glomerular mesangial cell proliferation involved in mesonephros development	GO_0061269	0	1	0	0	0
+mesonephric glomerular mesangial cell fate commitment	GO_0061264	0	1	0	0	0
+mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	0	0	0
+mesonephric glomerular mesangial cell development	GO_0061263	0	1	0	0	0
+mesonephric glomerular capillary formation	GO_0061249	0	1	0	0	0
+lymphatic endothelial cell fate commitment	GO_0060838	0	1	0	0	0
+lymphatic endothelial cell differentiation	GO_0060836	0	1	0	0	0
+lymphangiogenesis	GO_0001946	0	1	0	0	0
+lymph vessel morphogenesis	GO_0036303	0	1	0	0	0
+lymph vessel development	GO_0001945	0	1	0	0	0
+lung vasculature development	GO_0060426	0	1	0	0	0
+labyrinthine layer blood vessel development	GO_0060716	0	1	0	0	0
+kidney vasculature morphogenesis	GO_0061439	0	1	0	0	0
+kidney vasculature development	GO_0061440	0	1	0	0	0
+intussusceptive angiogenesis	GO_0002041	0	1	0	0	0
+intraglomerular mesangial cell proliferation	GO_0072123	0	1	0	0	0
+heart capillary growth	GO_0003248	0	1	0	0	0
+glomerulus vasculature morphogenesis	GO_0072103	0	1	0	0	0
+glomerulus vasculature development	GO_0072012	0	1	0	0	0
+glomerular mesangium development	GO_0072109	0	1	0	0	0
+glomerular mesangial cell proliferation	GO_0072110	0	1	0	0	0
+glomerular mesangial cell fate commitment	GO_0072152	0	1	0	0	0
+glomerular mesangial cell differentiation	GO_0072008	0	1	0	0	0
+glomerular mesangial cell development	GO_0072144	0	1	0	0	0
+glomerular endothelium development	GO_0072011	0	1	0	0	0
+glomerular capillary formation	GO_0072104	0	1	0	0	0
+epithelial to mesenchymal transition involved in coronary vasculature morphogenesis	GO_0003201	0	1	0	0	0
+epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	0	1	0	0	0
+epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	0	0	0
+epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	0	1	0	0	0
+endothelial tube lumen extension involved in blood vessel lumen ensheathment	GO_1902355	0	1	0	0	0
+endothelial tip cell fate specification	GO_0097102	0	1	0	0	0
+endothelial stalk cell fate specification	GO_0097103	0	1	0	0	0
+ductus venosus closure	GO_0061116	0	1	0	0	0
+ductus arteriosus closure	GO_0097070	0	1	0	0	0
+dorsal aorta morphogenesis	GO_0035912	0	1	0	0	0
+dorsal aorta development	GO_0035907	0	1	0	0	0
+descending aorta morphogenesis	GO_0035911	0	1	0	0	0
+descending aorta development	GO_0035906	0	1	0	0	0
+coronary vein morphogenesis	GO_0003169	0	1	0	0	0
+coronary vasculature morphogenesis	GO_0060977	0	1	0	0	0
+coronary vasculature development	GO_0060976	0	1	0	0	0
+coronary artery morphogenesis	GO_0060982	0	1	0	0	0
+central nervous system vasculogenesis	GO_0022009	0	1	0	0	0
+cell migration involved in vasculogenesis	GO_0035441	0	1	0	0	0
+cell migration involved in sprouting angiogenesis	GO_0002042	0	1	0	0	0
+cell migration involved in coronary vasculogenesis	GO_0060980	0	1	0	0	0
+cell migration involved in coronary angiogenesis	GO_0060981	0	1	0	0	0
+cardiac vascular smooth muscle cell fate commitment	GO_0060949	0	1	0	0	0
+cardiac vascular smooth muscle cell differentiation	GO_0060947	0	1	0	0	0
+cardiac vascular smooth muscle cell development	GO_0060948	0	1	0	0	0
+cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	0	0	0
+blood vessel morphogenesis	GO_0048514	0	1	0	0	0
+blood vessel maturation	GO_0001955	0	1	0	0	0
+blood vessel lumenization	GO_0072554	0	1	0	0	0
+blood vessel lumen ensheathment	GO_0097496	0	1	0	0	0
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	0	0	0
+blood vessel endothelial cell migration involved in intussusceptive angiogenesis	GO_0002044	0	1	0	0	0
+blood vessel endothelial cell fate specification	GO_0097101	0	1	0	0	0
+blood vessel endothelial cell fate commitment	GO_0060846	0	1	0	0	0
+blood vessel endothelial cell differentiation	GO_0060837	0	1	0	0	0
+blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment	GO_1902354	0	1	0	0	0
+blood vessel development	GO_0001568	0	1	0	0	0
+ascending aorta morphogenesis	GO_0035910	0	1	0	0	0
+ascending aorta development	GO_0035905	0	1	0	0	0
+artery morphogenesis	GO_0048844	0	1	0	0	0
+artery development	GO_0060840	0	1	0	0	0
+arterial endothelial cell fate commitment	GO_0060844	0	1	0	0	0
+arterial endothelial cell differentiation	GO_0060842	0	1	0	0	0
+apoptotic process involved in patterning of blood vessels	GO_1902262	0	1	0	0	0
+aortic smooth muscle cell differentiation	GO_0035887	0	1	0	0	0
+aorta smooth muscle tissue morphogenesis	GO_0060414	0	1	0	0	0
+aorta morphogenesis	GO_0035909	0	1	0	0	0
+aorta development	GO_0035904	0	1	0	0	0
+angiogenesis involved in wound healing	GO_0060055	0	1	0	0	0
+angiogenesis involved in coronary vascular morphogenesis	GO_0060978	0	1	0	0	0
+angiogenesis	GO_0001525	0	1	0	0	0
+Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	0	1	0	0	0

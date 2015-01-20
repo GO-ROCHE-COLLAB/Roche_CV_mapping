@@ -1,0 +1,1930 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+taurine dioxygenase activity	GO_0000908	1	1	1	0	0
+sulfonate dioxygenase activity	GO_0000907	1	1	1	0	0
+ferric-chelate reductase activity	GO_0000293	1	1	1	0	0
+acylglycerone-phosphate reductase activity	GO_0000140	1	1	1	0	0
+3-hydroxyanthranilate 3,4-dioxygenase activity	GO_0000334	1	1	1	0	0
+thioredoxin	GO_0000008	1	0	1	1	1
+NAD+ diphosphatase activity	GO_0000210	1	0	1	0	0
+C-8 sterol isomerase activity	GO_0000247	1	0	1	0	0
+zeinoxanthin epsilon hydroxylase activity	GO_0009974	0	1	0	0	0
+zeaxanthin epoxidase activity	GO_0052662	0	1	0	0	0
+zeaxanthin epoxidase [overall] activity	GO_0009540	0	1	0	0	0
+zeatin reductase activity	GO_0050472	0	1	0	0	0
+xylitol oxidase activity	GO_0050582	0	1	0	0	0
+xylene monooxygenase activity	GO_0018639	0	1	0	0	0
+xanthoxin dehydrogenase activity	GO_0010301	0	1	0	0	0
+xanthommatin reductase activity	GO_0050399	0	1	0	0	0
+xanthine oxidase activity	GO_0004855	0	1	0	0	0
+xanthine dehydrogenase activity	GO_0004854	0	1	0	0	0
+vomilenine reductase activity	GO_0050624	0	1	0	0	0
+vomifoliol 4'-dehydrogenase activity	GO_0050396	0	1	0	0	0
+vitamin-K-epoxide reductase (warfarin-sensitive) activity	GO_0047057	0	1	0	0	0
+vitamin-K-epoxide reductase (warfarin-insensitive) activity	GO_0047058	0	1	0	0	0
+vitamin D3 25-hydroxylase activity	GO_0030343	0	1	0	0	0
+vitamin D 25-hydroxylase activity	GO_0070643	0	1	0	0	0
+vitamin D 24-hydroxylase activity	GO_0070576	0	1	0	0	0
+violaxanthin de-epoxidase activity	GO_0046422	0	1	0	0	0
+vinyl chloride reductive dehalogenase activity	GO_0018698	0	1	0	0	0
+vinorine hydroxylase activity	GO_0050596	0	1	0	0	0
+very-long-chain-acyl-CoA dehydrogenase activity	GO_0017099	0	1	0	0	0
+very-long-chain-(S)-2-hydroxy-acid oxidase activity	GO_0052852	0	1	0	0	0
+very-long-chain fatty acyl-CoA oxidase activity	GO_0044535	0	1	0	0	0
+very long-chain-3-hydroxyacyl-CoA dehydrogenase activity	GO_0035380	0	1	0	0	0
+versicolorin reductase activity	GO_0042469	0	1	0	0	0
+vellosimine dehydrogenase activity	GO_0050579	0	1	0	0	0
+vanillyl-alcohol oxidase activity	GO_0018465	0	1	0	0	0
+vanillin dehydrogenase activity	GO_0050608	0	1	0	0	0
+vanillate monooxygenase activity	GO_0018489	0	1	0	0	0
+vanillate O-demethylase (anaerobic) activity	GO_0018487	0	1	0	0	0
+valine dehydrogenase (NADP) activity	GO_0050391	0	1	0	0	0
+valine dehydrogenase (NAD) activity	GO_0043837	0	1	0	0	0
+uronate dehydrogenase activity	GO_0050388	0	1	0	0	0
+ureidoglycolate dehydrogenase activity	GO_0009040	0	1	0	0	0
+urate oxidase activity	GO_0004846	0	1	0	0	0
+uracil oxygenase activity	GO_0052614	0	1	0	0	0
+uracil dehydrogenase activity	GO_0050383	0	1	0	0	0
+ubiquinol-cytochrome-c reductase activity	GO_0008121	0	1	0	0	0
+tyrosine N-monooxygenase activity	GO_0050370	0	1	0	0	0
+tyrosine 3-monooxygenase activity	GO_0004511	0	1	0	0	0
+tyramine-beta hydroxylase activity	GO_0004836	0	1	0	0	0
+tryptophan dehydrogenase activity	GO_0050363	0	1	0	0	0
+tryptophan alpha,beta-oxidase activity	GO_0050621	0	1	0	0	0
+tryptophan 5-monooxygenase activity	GO_0004510	0	1	0	0	0
+tryptophan 2-monooxygenase activity	GO_0050361	0	1	0	0	0
+tryptophan 2,3-dioxygenase activity	GO_0004833	0	1	0	0	0
+tryptophan 2'-dioxygenase activity	GO_0050360	0	1	0	0	0
+tryptamine:oxygen oxidoreductase (deaminating) activity	GO_0052593	0	1	0	0	0
+tryparedoxin peroxidase activity	GO_0033196	0	1	0	0	0
+trypanothione-disulfide reductase activity	GO_0015042	0	1	0	0	0
+tropinone reductase activity	GO_0050358	0	1	0	0	0
+tropine dehydrogenase activity	GO_0050356	0	1	0	0	0
+trinitrophenol hydride denitratase activity	GO_0034914	0	1	0	0	0
+trinitrophenol dihydride denitratase activity	GO_0034800	0	1	0	0	0
+trimethyllysine dioxygenase activity	GO_0050353	0	1	0	0	0
+trimethylarsine oxidase activity	GO_0034542	0	1	0	0	0
+trimethylamine-N-oxide reductase activity	GO_0009033	0	1	0	0	0
+trimethylamine-N-oxide reductase (cytochrome c) activity	GO_0050626	0	1	0	0	0
+trimethylamine monooxygenase activity	GO_0034899	0	1	0	0	0
+trimethylamine dehydrogenase activity	GO_0050470	0	1	0	0	0
+trihydroxytoluene dioxygenase activity	GO_0018616	0	1	0	0	0
+triferuloylspermidine meta-hydroxylase activity	GO_0072550	0	1	0	0	0
+tricoumaroylspermidine meta-hydroxylase activity	GO_0072547	0	1	0	0	0
+trichloro-p-hydroquinone reductive dehalogenase activity	GO_0052690	0	1	0	0	0
+tri-n-butyltin dioxygenase activity	GO_0018588	0	1	0	0	0
+tri-(feruloyl or hydroxyferuloyl) spermidine meta-hydroxylase activity	GO_0072532	0	1	0	0	0
+tri-(coumaroyl or caffeoyl) spermidine meta-hydroxylase activity	GO_0072533	0	1	0	0	0
+trans-cinnamate 4-monooxygenase activity	GO_0016710	0	1	0	0	0
+trans-cinnamate 2-monooxygenase activity	GO_0050344	0	1	0	0	0
+trans-acenaphthene-1,2-diol dehydrogenase activity	GO_0047062	0	1	0	0	0
+trans-9R,10R-dihydrodiolphenanthrene dehydrogenase activity	GO_0018500	0	1	0	0	0
+trans-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase activity	GO_0018475	0	1	0	0	0
+trans-2-enoyl-CoA reductase (NADPH) activity	GO_0019166	0	1	0	0	0
+trans-2-enoyl-CoA reductase (NAD+) activity	GO_0050343	0	1	0	0	0
+trans-1,2-dihydrodiolphenanthrene dehydrogenase activity	GO_0018503	0	1	0	0	0
+trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	GO_0047115	0	1	0	0	0
+toluene-sulfonate methyl-monooxygenase activity	GO_0018652	0	1	0	0	0
+toluene-4-sulfonate monooxygenase activity	GO_0018651	0	1	0	0	0
+toluene dioxygenase activity	GO_0018624	0	1	0	0	0
+toluene 4-monooxygenase activity	GO_0018638	0	1	0	0	0
+toluene 3-monooxygenase activity	GO_0018657	0	1	0	0	0
+toluene 2-monooxygenase activity	GO_0018644	0	1	0	0	0
+toluate dioxygenase activity	GO_0018611	0	1	0	0	0
+tocotrienol omega-hydroxylase activity	GO_0052872	0	1	0	0	0
+tocopherol omega-hydroxylase activity	GO_0052870	0	1	0	0	0
+thyroxine 5-deiodinase activity	GO_0033798	0	1	0	0	0
+thyroxine 5'-deiodinase activity	GO_0004800	0	1	0	0	0
+thymine dioxygenase activity	GO_0050341	0	1	0	0	0
+thymine dehydrogenase activity	GO_0052620	0	1	0	0	0
+thiosulfate dehydrogenase activity	GO_0050338	0	1	0	0	0
+thiosulfate dehydrogenase (quinone) activity	GO_0043831	0	1	0	0	0
+thioredoxin-disulfide reductase activity	GO_0004791	0	1	0	0	0
+thioredoxin peroxidase activity	GO_0008379	0	1	0	0	0
+thiophene-2-carbonyl-CoA monooxygenase activity	GO_0050603	0	1	0	0	0
+thiomorpholine-carboxylate dehydrogenase activity	GO_0047127	0	1	0	0	0
+thiol-driven fumarate reductase activity	GO_0043830	0	1	0	0	0
+thiol oxidase activity	GO_0016972	0	1	0	0	0
+thiocyanate peroxidase activity	GO_0036393	0	1	0	0	0
+thioacetamide S-oxygenase activity	GO_0034873	0	1	0	0	0
+thioacetamide S-oxide S-oxygenase activity	GO_0034874	0	1	0	0	0
+thiamine oxidase activity	GO_0050423	0	1	0	0	0
+thermospermine oxidase activity	GO_1990534	0	1	0	0	0
+thalianol hydroxylase activity	GO_0080014	0	1	0	0	0
+thalian-diol desaturase activity	GO_0080004	0	1	0	0	0
+tetralin ring-hydroxylating dioxygenase activity	GO_0034825	0	1	0	0	0
+tetrahydroxynaphthalene reductase activity	GO_0047039	0	1	0	0	0
+tetrahydrothiophene 1-oxide reductase activity	GO_0019174	0	1	0	0	0
+tetrahydrofuran hydroxylase activity	GO_0018649	0	1	0	0	0
+tetrahydroberberine oxidase activity	GO_0050328	0	1	0	0	0
+tetrachloroethene reductive dehalogenase activity	GO_0050629	0	1	0	0	0
+tetrachlorobenzene dioxygenase activity	GO_0034935	0	1	0	0	0
+tetrachloro-p-hydroquinone reductive dehalogenase activity	GO_0018550	0	1	0	0	0
+testosterone dehydrogenase [NAD(P)] activity	GO_0030283	0	1	0	0	0
+testosterone dehydrogenase (NAD+) activity	GO_0047035	0	1	0	0	0
+testosterone 6-beta-hydroxylase activity	GO_0050649	0	1	0	0	0
+testosterone 17-beta-dehydrogenase (NADP+) activity	GO_0047045	0	1	0	0	0
+testosterone 16-alpha-hydroxylase activity	GO_0008390	0	1	0	0	0
+testosterone 15-alpha-hydroxylase activity	GO_0008388	0	1	0	0	0
+tert-butanol 2-monooxygenase activity	GO_0018594	0	1	0	0	0
+terephthalate 1,2-dioxygenase activity	GO_0018628	0	1	0	0	0
+technetium (VII) reductase activity	GO_0034558	0	1	0	0	0
+taxoid 7beta-hydroxylase activity	GO_0036239	0	1	0	0	0
+taxoid 14-beta-hydroxylase activity	GO_0036203	0	1	0	0	0
+taxifolin 8-monooxygenase activity	GO_0050326	0	1	0	0	0
+taxane 13-alpha-hydroxylase activity	GO_0050598	0	1	0	0	0
+taxane 10-beta-hydroxylase activity	GO_0050597	0	1	0	0	0
+taxadiene 5-alpha-hydroxylase activity	GO_0050604	0	1	0	0	0
+tauropine dehydrogenase activity	GO_0050325	0	1	0	0	0
+taurochenodeoxycholate 6alpha-hydroxylase activity	GO_0033780	0	1	0	0	0
+taurine dehydrogenase activity	GO_0050323	0	1	0	0	0
+tartrate dehydrogenase activity	GO_0009027	0	1	0	0	0
+tagaturonate reductase activity	GO_0009026	0	1	0	0	0
+tabersonine 16-hydroxylase activity	GO_0050594	0	1	0	0	0
+tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine)-hydroxylase activity	GO_0045301	0	1	0	0	0
+tRNA dihydrouridine synthase activity	GO_0017150	0	1	0	0	0
+superoxide-generating NADPH oxidase activity	GO_0016175	0	1	0	0	0
+superoxide reductase activity	GO_0050605	0	1	0	0	0
+superoxide dismutase activity	GO_0004784	0	1	0	0	0
+sulochrin oxidase [(-)-bisdechlorogeodin-forming] activity	GO_0047065	0	1	0	0	0
+sulochrin oxidase [(+)-bisdechlorogeodin-forming] activity	GO_0047064	0	1	0	0	0
+sulfur:ferric ion oxidoreductase activity	GO_0070226	0	1	0	0	0
+sulfur reductase activity	GO_0033796	0	1	0	0	0
+sulfur oxygenase/reductase activity	GO_0033755	0	1	0	0	0
+sulfur oxygenase reductase activity	GO_0043826	0	1	0	0	0
+sulfur dioxygenase activity	GO_0050313	0	1	0	0	0
+sulfite reductase activity	GO_0016002	0	1	0	0	0
+sulfite reductase (ferredoxin) activity	GO_0050311	0	1	0	0	0
+sulfite reductase (coenzyme F420) activity	GO_0052806	0	1	0	0	0
+sulfite reductase (NADPH) activity	GO_0004783	0	1	0	0	0
+sulfite oxidase activity	GO_0008482	0	1	0	0	0
+sulfite dehydrogenase activity	GO_0050310	0	1	0	0	0
+sulfiredoxin activity	GO_0032542	0	1	0	0	0
+sulfide:quinone oxidoreductase activity	GO_0070224	0	1	0	0	0
+sulfide dehydrogenase activity	GO_0070225	0	1	0	0	0
+sulcatone reductase activity	GO_0050491	0	1	0	0	0
+succinylglutamate-semialdehyde dehydrogenase activity	GO_0043824	0	1	0	0	0
+succinate-semialdehyde dehydrogenase [NAD(P)+] activity	GO_0009013	0	1	0	0	0
+succinate-semialdehyde dehydrogenase (NADP+) activity	GO_0036243	0	1	0	0	0
+succinate-semialdehyde dehydrogenase (NAD+) activity	GO_0004777	0	1	0	0	0
+succinate dehydrogenase activity	GO_0000104	0	1	0	0	0
+succinate dehydrogenase (ubiquinone) activity	GO_0008177	0	1	0	0	0
+styrene monooxygenase activity	GO_0018650	0	1	0	0	0
+styrene dioxygenase activity	GO_0018567	0	1	0	0	0
+strombine dehydrogenase activity	GO_0050305	0	1	0	0	0
+stizolobinate synthase activity	GO_0050298	0	1	0	0	0
+stizolobate synthase activity	GO_0050297	0	1	0	0	0
+sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity	GO_0047012	0	1	0	0	0
+sterol desaturase activity	GO_0070704	0	1	0	0	0
+sterol delta7 reductase activity	GO_0009918	0	1	0	0	0
+sterol 5-alpha reductase activity	GO_0009917	0	1	0	0	0
+sterol 14-demethylase activity	GO_0008398	0	1	0	0	0
+sterol 12-alpha-hydroxylase activity	GO_0008397	0	1	0	0	0
+steroid hydroxylase activity	GO_0008395	0	1	0	0	0
+steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	GO_0033764	0	1	0	0	0
+steroid dehydrogenase activity, acting on the CH-CH group of donors	GO_0033765	0	1	0	0	0
+steroid dehydrogenase activity	GO_0016229	0	1	0	0	0
+steroid 9-alpha-monooxygenase activity	GO_0050292	0	1	0	0	0
+steroid 7-alpha-hydroxylase activity	GO_0008387	0	1	0	0	0
+steroid 22-alpha hydroxylase activity	GO_0010012	0	1	0	0	0
+steroid 21-monooxygenase activity	GO_0004509	0	1	0	0	0
+steroid 17-alpha-monooxygenase activity	GO_0004508	0	1	0	0	0
+steroid 11-beta-monooxygenase activity	GO_0004507	0	1	0	0	0
+stearoyl-CoA 9-desaturase activity	GO_0004768	0	1	0	0	0
+squalene monooxygenase activity	GO_0004506	0	1	0	0	0
+sphingosine hydroxylase activity	GO_0000170	0	1	0	0	0
+sphingolipid delta-8 desaturase activity	GO_0052631	0	1	0	0	0
+sphingolipid delta-4 desaturase activity	GO_0042284	0	1	0	0	0
+spheroidene monooxygenase activity	GO_0043823	0	1	0	0	0
+spermine:oxygen oxidoreductase (spermidine-forming) activity	GO_0052901	0	1	0	0	0
+spermine oxidase (propane-1,3-diamine-forming) activity	GO_0052900	0	1	0	0	0
+spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity	GO_0052902	0	1	0	0	0
+spermidine oxidase (propane-1,3-diamine-forming) activity	GO_0052896	0	1	0	0	0
+spermidine dehydrogenase activity	GO_0050289	0	1	0	0	0
+sorbose reductase activity	GO_0032115	0	1	0	0	0
+sorbose dehydrogenase activity	GO_0050288	0	1	0	0	0
+sorbose 5-dehydrogenase (NADP+) activity	GO_0050287	0	1	0	0	0
+sorbitol-6-phosphate 2-dehydrogenase activity	GO_0009010	0	1	0	0	0
+sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity	GO_0052591	0	1	0	0	0
+sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity	GO_0052590	0	1	0	0	0
+sinapyl alcohol dehydrogenase activity	GO_0052747	0	1	0	0	0
+short-branched-chain-acyl-CoA dehydrogenase activity	GO_0016937	0	1	0	0	0
+shikimate 3-dehydrogenase (NADP+) activity	GO_0004764	0	1	0	0	0
+shikimate 3-dehydrogenase (NAD+) activity	GO_0052734	0	1	0	0	0
+serine 3-dehydrogenase activity	GO_0031132	0	1	0	0	0
+serine 2-dehydrogenase activity	GO_0050282	0	1	0	0	0
+sequoyitol dehydrogenase activity	GO_0050280	0	1	0	0	0
+sepiapterin reductase activity	GO_0004757	0	1	0	0	0
+senecionine N-oxygenase activity	GO_0033784	0	1	0	0	0
+selenodiglutathione-disulfide reductase activity	GO_0098622	0	1	0	0	0
+selenite reductase activity	GO_0098623	0	1	0	0	0
+selenate reductase activity	GO_0033797	0	1	0	0	0
+secondary-alcohol oxidase activity	GO_0033714	0	1	0	0	0
+secologanin synthase activity	GO_0050616	0	1	0	0	0
+sarcosine reductase activity	GO_0033794	0	1	0	0	0
+sarcosine oxidase activity	GO_0008115	0	1	0	0	0
+sarcosine dehydrogenase activity	GO_0008480	0	1	0	0	0
+salutaridine synthase activity	GO_0047055	0	1	0	0	0
+salutaridine reductase (NADPH) activity	GO_0047037	0	1	0	0	0
+salicylate 5-hydroxylase activity	GO_0034785	0	1	0	0	0
+salicylate 1-monooxygenase activity	GO_0018658	0	1	0	0	0
+salicylaldehyde dehydrogenase activity	GO_0018485	0	1	0	0	0
+saccharopine oxidase activity	GO_0051698	0	1	0	0	0
+saccharopine dehydrogenase activity	GO_0004753	0	1	0	0	0
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity	GO_0047130	0	1	0	0	0
+saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity	GO_0004755	0	1	0	0	0
+saccharopine dehydrogenase (NAD+, L-lysine-forming) activity	GO_0004754	0	1	0	0	0
+saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity	GO_0047131	0	1	0	0	0
+rubredoxin-NADP reductase activity	GO_0015046	0	1	0	0	0
+rubredoxin-NAD+ reductase activity	GO_0015044	0	1	0	0	0
+rubredoxin-NAD(P)+ reductase activity	GO_0015045	0	1	0	0	0
+rifamycin-B oxidase activity	GO_0050264	0	1	0	0	0
+ribose 1-dehydrogenase (NADP+) activity	GO_0050259	0	1	0	0	0
+ribonucleoside-triphosphate reductase activity	GO_0008998	0	1	0	0	0
+ribonucleoside-diphosphate reductase, glutaredoxin disulfide as acceptor	GO_0036175	0	1	0	0	0
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	GO_0004748	0	1	0	0	0
+riboflavin reductase (NADPH) activity	GO_0042602	0	1	0	0	0
+riboflavin reductase (NADH) activity	GO_0052875	0	1	0	0	0
+ribitol-5-phosphate 2-dehydrogenase activity	GO_0050256	0	1	0	0	0
+ribitol 2-dehydrogenase activity	GO_0050255	0	1	0	0	0
+retinol dehydrogenase activity	GO_0004745	0	1	0	0	0
+retinoic acid 4-hydroxylase activity	GO_0008401	0	1	0	0	0
+retinal oxidase activity	GO_0050250	0	1	0	0	0
+retinal dehydrogenase activity	GO_0001758	0	1	0	0	0
+reticuline oxidase activity	GO_0050468	0	1	0	0	0
+reduced coenzyme F420:quinone oxidoreductase activity	GO_0052755	0	1	0	0	0
+reduced coenzyme F420:heterodisulfide oxidoreductase activity	GO_0052752	0	1	0	0	0
+reduced coenzyme F420:NADP+ oxidoreductase activity	GO_0052808	0	1	0	0	0
+reduced coenzyme F420 oxidase activity	GO_0052765	0	1	0	0	0
+reduced coenzyme F420 dehydrogenase activity	GO_0043738	0	1	0	0	0
+red chlorophyll catabolite reductase activity	GO_0051743	0	1	0	0	0
+reactive-black-5:hydrogen-peroxide oxidoreductase activity	GO_0052750	0	1	0	0	0
+quinoprotein glucose dehydrogenase activity	GO_0008876	0	1	0	0	0
+quinoline-4-carboxylate 2-oxidoreductase activity	GO_0047123	0	1	0	0	0
+quinoline 2-oxidoreductase activity	GO_0018523	0	1	0	0	0
+quinine 3-monooxygenase activity	GO_0050591	0	1	0	0	0
+quinate dehydrogenase (quinone) activity	GO_0047519	0	1	0	0	0
+quinate 3-dehydrogenase (NADP+) activity	GO_0052733	0	1	0	0	0
+quinate 3-dehydrogenase (NAD+) activity	GO_0030266	0	1	0	0	0
+quinaldate 4-oxidoreductase activity	GO_0047122	0	1	0	0	0
+questin monooxygenase activity	GO_0050246	0	1	0	0	0
+quercetin 2,3-dioxygenase activity	GO_0008127	0	1	0	0	0
+pyruvate-flavodoxin oxidoreductase activity	GO_0043873	0	1	0	0	0
+pyruvate synthase activity	GO_0019164	0	1	0	0	0
+pyruvate oxidase activity	GO_0047112	0	1	0	0	0
+pyruvate oxidase (CoA-acetylating) activity	GO_0050244	0	1	0	0	0
+pyruvate dehydrogenase activity	GO_0004738	0	1	0	0	0
+pyruvate dehydrogenase [NAD(P)+] activity	GO_0034603	0	1	0	0	0
+pyruvate dehydrogenase (quinone) activity	GO_0052737	0	1	0	0	0
+pyruvate dehydrogenase (acetyl-transferring) activity	GO_0004739	0	1	0	0	0
+pyruvate dehydrogenase (NADP+) activity	GO_0050243	0	1	0	0	0
+pyruvate dehydrogenase (NAD+) activity	GO_0034604	0	1	0	0	0
+pyrroloquinoline-quinone synthase activity	GO_0033732	0	1	0	0	0
+pyrroline-5-carboxylate reductase activity	GO_0004735	0	1	0	0	0
+pyrroline-2-carboxylate reductase activity	GO_0050241	0	1	0	0	0
+pyrrole-2-carboxylate monooxygenase activity	GO_0034938	0	1	0	0	0
+pyrogallol hydroxytransferase activity	GO_0018706	0	1	0	0	0
+pyrogallol 1,2-oxygenase activity	GO_0050240	0	1	0	0	0
+pyrimidodiazepine synthase activity	GO_0004734	0	1	0	0	0
+pyridoxine:NADP 4-dehydrogenase activity	GO_0050236	0	1	0	0	0
+pyridoxine 5-dehydrogenase activity	GO_0050238	0	1	0	0	0
+pyridoxine 4-oxidase activity	GO_0050237	0	1	0	0	0
+pyridoxamine-phosphate oxidase activity	GO_0004733	0	1	0	0	0
+pyridoxal oxidase activity	GO_0004732	0	1	0	0	0
+pyridoxal 4-dehydrogenase activity	GO_0050235	0	1	0	0	0
+pyridine-3,4-diol dioxygenase activity	GO_0034895	0	1	0	0	0
+pyrene dioxygenase activity	GO_0034920	0	1	0	0	0
+pyrene 4,5-monooxygenase activity	GO_0034925	0	1	0	0	0
+pyrene 1,2-monooxygenase activity	GO_0034927	0	1	0	0	0
+pyranose oxidase activity	GO_0050233	0	1	0	0	0
+pyranose dehydrogenase (acceptor) activity	GO_0033718	0	1	0	0	0
+putrescine oxidase activity	GO_0050232	0	1	0	0	0
+pterocarpin synthase activity	GO_0050229	0	1	0	0	0
+pteridine reductase activity	GO_0047040	0	1	0	0	0
+pteridine oxidase activity	GO_0050227	0	1	0	0	0
+protoporphyrinogen oxidase activity	GO_0070818	0	1	0	0	0
+protopine 6-monooxygenase activity	GO_0047087	0	1	0	0	0
+protochlorophyllide reductase activity	GO_0016630	0	1	0	0	0
+protocatechuate 4,5-dioxygenase activity	GO_0018579	0	1	0	0	0
+protocatechuate 3,4-dioxygenase type II activity	GO_0018560	0	1	0	0	0
+protocatechuate 3,4-dioxygenase activity	GO_0018578	0	1	0	0	0
+protein-lysine 6-oxidase activity	GO_0004720	0	1	0	0	0
+protein-disulfide reductase activity	GO_0047134	0	1	0	0	0
+protein-disulfide reductase (glutathione) activity	GO_0019153	0	1	0	0	0
+protein disulfide oxidoreductase activity	GO_0015035	0	1	0	0	0
+prostaglandin-endoperoxide synthase activity	GO_0004666	0	1	0	0	0
+prostaglandin-F synthase activity	GO_0047017	0	1	0	0	0
+prostaglandin-E2 9-reductase activity	GO_0050221	0	1	0	0	0
+prostaglandin H2 endoperoxidase reductase activity	GO_0036130	0	1	0	0	0
+prostaglandin D2 11-ketoreductase activity	GO_0036131	0	1	0	0	0
+propionyl-CoA dehydrogenase activity	GO_0043820	0	1	0	0	0
+propanediol-phosphate dehydrogenase activity	GO_0050216	0	1	0	0	0
+propane-1,3-diamine oxidase activity	GO_0052600	0	1	0	0	0
+propan-2-ol:coenzyme F420 oxidoreductase activity	GO_0052753	0	1	0	0	0
+proline oxidase activity	GO_0051699	0	1	0	0	0
+proline dehydrogenase activity	GO_0004657	0	1	0	0	0
+proline 3-hydroxylase activity	GO_0033763	0	1	0	0	0
+progesterone monooxygenase activity	GO_0050214	0	1	0	0	0
+progesterone 5-alpha-reductase activity	GO_0050213	0	1	0	0	0
+progesterone 11-alpha-monooxygenase activity	GO_0050212	0	1	0	0	0
+procollagen-proline dioxygenase activity	GO_0019798	0	1	0	0	0
+procollagen-proline 4-dioxygenase activity	GO_0004656	0	1	0	0	0
+procollagen-proline 3-dioxygenase activity	GO_0019797	0	1	0	0	0
+procollagen-lysine 5-dioxygenase activity	GO_0008475	0	1	0	0	0
+pristanoyl-CoA oxidase activity	GO_0016402	0	1	0	0	0
+primary amine oxidase activity	GO_0008131	0	1	0	0	0
+prephenate dehydrogenase activity	GO_0008977	0	1	0	0	0
+prephenate dehydrogenase (NADP+) activity	GO_0004665	0	1	0	0	0
+prenylcysteine oxidase activity	GO_0001735	0	1	0	0	0
+pregnan-21-ol dehydrogenase (NADP+) activity	GO_0047008	0	1	0	0	0
+pregnan-21-ol dehydrogenase (NAD+) activity	GO_0047007	0	1	0	0	0
+precorrin-6A reductase activity	GO_0016994	0	1	0	0	0
+precorrin-3B synthase activity	GO_0043818	0	1	0	0	0
+precorrin-2 dehydrogenase activity	GO_0043115	0	1	0	0	0
+preQ1 synthase activity	GO_0033739	0	1	0	0	0
+polyvinyl-alcohol oxidase activity	GO_0050209	0	1	0	0	0
+polyvinyl alcohol dehydrogenase (cytochrome) activity	GO_0047059	0	1	0	0	0
+polyamine oxidase activity	GO_0046592	0	1	0	0	0
+plastoquinol--plastocyanin reductase activity	GO_0009496	0	1	0	0	0
+plasmanylethanolamine desaturase activity	GO_0050207	0	1	0	0	0
+plant seed peroxidase activity	GO_1990137	0	1	0	0	0
+pinoresinol reductase activity	GO_0010283	0	1	0	0	0
+pinocarveol dehydrogenase activity	GO_0018446	0	1	0	0	0
+pinacolone 5-monooxygenase activity	GO_0034870	0	1	0	0	0
+pimeloyl-CoA dehydrogenase activity	GO_0018515	0	1	0	0	0
+phytoene dehydrogenase activity	GO_0016166	0	1	0	0	0
+phytochromobilin:ferredoxin oxidoreductase activity	GO_0050619	0	1	0	0	0
+phytanoyl-CoA dioxygenase activity	GO_0048244	0	1	0	0	0
+phylloquinone monooxygenase (2,3-epoxidizing) activity	GO_0047097	0	1	0	0	0
+phycoerythrobilin:ferredoxin oxidoreductase activity	GO_0050618	0	1	0	0	0
+phycocyanobilin:ferredoxin oxidoreductase activity	GO_0050620	0	1	0	0	0
+phthalate dioxygenase reductase activity	GO_0015048	0	1	0	0	0
+phthalate 4,5-dioxygenase activity	GO_0018620	0	1	0	0	0
+phthalate 4,5-cis-dihydrodiol dehydrogenase activity	GO_0018517	0	1	0	0	0
+phthalate 3,4-dioxygenase activity	GO_0034911	0	1	0	0	0
+phthalate 3,4-cis-dihydrodiol dehydrogenase activity	GO_0034912	0	1	0	0	0
+phosphonate dehydrogenase activity	GO_0050609	0	1	0	0	0
+phospholipid-hydroperoxide glutathione peroxidase activity	GO_0047066	0	1	0	0	0
+phosphoglycerate dehydrogenase activity	GO_0004617	0	1	0	0	0
+phosphogluconate dehydrogenase (decarboxylating) activity	GO_0004616	0	1	0	0	0
+phosphogluconate 2-dehydrogenase activity	GO_0008114	0	1	0	0	0
+phosphoadenylyl-sulfate reductase (thioredoxin) activity	GO_0004604	0	1	0	0	0
+phosphatidylcholine desaturase activity	GO_0050184	0	1	0	0	0
+phosphatidylcholine 12-monooxygenase activity	GO_0050183	0	1	0	0	0
+phloroglucinol reductase activity	GO_0018510	0	1	0	0	0
+pheophorbide a oxygenase activity	GO_0032441	0	1	0	0	0
+phenyllactate dehydrogenase activity	GO_0097256	0	1	0	0	0
+phenylglyoxylate dehydrogenase (acylating) activity	GO_0047110	0	1	0	0	0
+phenylcoumaran benzylic ether reductase activity	GO_0032442	0	1	0	0	0
+phenylboronic acid monooxygenase activity	GO_0034950	0	1	0	0	0
+phenylalanine dehydrogenase activity	GO_0050175	0	1	0	0	0
+phenylalanine 4-monooxygenase activity	GO_0004505	0	1	0	0	0
+phenylalanine 2-monooxygenase activity	GO_0050172	0	1	0	0	0
+phenylacetyl-CoA dehydrogenase activity	GO_0033789	0	1	0	0	0
+phenylacetyl-CoA 1,2-epoxidase activity	GO_0097266	0	1	0	0	0
+phenylacetone monooxygenase activity	GO_0033776	0	1	0	0	0
+phenylacetate hydroxylase activity	GO_0018631	0	1	0	0	0
+phenylacetaldehyde dehydrogenase activity	GO_0008957	0	1	0	0	0
+phenol 2-monooxygenase activity	GO_0018662	0	1	0	0	0
+phenethylamine:oxygen oxidoreductase (deaminating) activity	GO_0052596	0	1	0	0	0
+phenanthrene-4-carboxylate dioxygenase activity	GO_0034934	0	1	0	0	0
+phenanthrene dioxygenase activity	GO_0018555	0	1	0	0	0
+phenanthrene 9,10-monooxygenase activity	GO_0018636	0	1	0	0	0
+phenanthrene 3,4-monooxygenase activity	GO_0018656	0	1	0	0	0
+phenanthrene 1,2-monooxygenase activity	GO_0018647	0	1	0	0	0
+peroxynitrite reductase activity	GO_0072541	0	1	0	0	0
+peroxiredoxin activity	GO_0051920	0	1	0	0	0
+peroxidase activity	GO_0004601	0	1	0	0	0
+perillyl-alcohol dehydrogenase activity	GO_0018457	0	1	0	0	0
+perchlorate reductase activity	GO_0034937	0	1	0	0	0
+peptidylglycine monooxygenase activity	GO_0004504	0	1	0	0	0
+peptidyl-thiazoline dehydrogenase activity	GO_0018136	0	1	0	0	0
+peptidyl-proline dioxygenase activity	GO_0031543	0	1	0	0	0
+peptidyl-proline 4-dioxygenase activity	GO_0031545	0	1	0	0	0
+peptidyl-proline 3-dioxygenase activity	GO_0031544	0	1	0	0	0
+peptidyl-oxazoline dehydrogenase activity	GO_0018129	0	1	0	0	0
+peptidyl-lysine 5-dioxygenase activity	GO_0070815	0	1	0	0	0
+peptidyl-histidine dioxygenase activity	GO_0036139	0	1	0	0	0
+peptidyl-asparagine 3-dioxygenase activity	GO_0036140	0	1	0	0	0
+peptide-tryptophan 2,3-dioxygenase activity	GO_0050169	0	1	0	0	0
+peptide-methionine (S)-S-oxide reductase activity	GO_0008113	0	1	0	0	0
+peptide-methionine (R)-S-oxide reductase activity	GO_0033743	0	1	0	0	0
+peptide-aspartate beta-dioxygenase activity	GO_0004597	0	1	0	0	0
+peptide disulfide oxidoreductase activity	GO_0015037	0	1	0	0	0
+pentaerythritol trinitrate reductase activity	GO_0018548	0	1	0	0	0
+pentachlorophenol monooxygenase activity	GO_0018677	0	1	0	0	0
+pantoate 4-dehydrogenase activity	GO_0050166	0	1	0	0	0
+palmitoyl-CoA oxidase activity	GO_0016401	0	1	0	0	0
+palmitoyl-CoA 9-desaturase activity	GO_0032896	0	1	0	0	0
+p-cymene methyl hydroxylase activity	GO_0018694	0	1	0	0	0
+p-cumate 2,3-dioxygenase activity	GO_0018570	0	1	0	0	0
+p-coumarate 3-hydroxylase activity	GO_0046409	0	1	0	0	0
+p-benzoquinone reductase (NADPH) activity	GO_0018541	0	1	0	0	0
+oxysterol 7-alpha-hydroxylase activity	GO_0008396	0	1	0	0	0
+oxygen-dependent protoporphyrinogen oxidase activity	GO_0004729	0	1	0	0	0
+oxygen evolving activity	GO_0010242	0	1	0	0	0
+oxoglutarate dehydrogenase [NAD(P)+] activity	GO_0034601	0	1	0	0	0
+oxoglutarate dehydrogenase (succinyl-transferring) activity	GO_0004591	0	1	0	0	0
+oxoglutarate dehydrogenase (NADP+) activity	GO_0050164	0	1	0	0	0
+oxoglutarate dehydrogenase (NAD+) activity	GO_0034602	0	1	0	0	0
+oxidoreductase activity, oxidizing metal ions, oxygen as acceptor	GO_0016724	0	1	0	0	0
+oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor	GO_0016723	0	1	0	0	0
+oxidoreductase activity, oxidizing metal ions with flavin as acceptor	GO_0043783	0	1	0	0	0
+oxidoreductase activity, oxidizing metal ions	GO_0016722	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, with a quinone or similar compound as acceptor	GO_0052738	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, oxygen as acceptor	GO_0016623	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor	GO_0016625	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	GO_0016624	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, cytochrome as acceptor	GO_0016622	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	GO_0016620	0	1	0	0	0
+oxidoreductase activity, acting on the aldehyde or oxo group of donors	GO_0016903	0	1	0	0	0
+oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor	GO_0016901	0	1	0	0	0
+oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor	GO_0016899	0	1	0	0	0
+oxidoreductase activity, acting on the CH-OH group of donors, disulfide as acceptor	GO_0016900	0	1	0	0	0
+oxidoreductase activity, acting on the CH-OH group of donors, cytochrome as acceptor	GO_0016898	0	1	0	0	0
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	GO_0016616	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, with a quinone or similar compound as acceptor	GO_0052585	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, with a copper protein as acceptor	GO_0052877	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor	GO_0016641	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, iron-sulfur protein as acceptor	GO_0016643	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor	GO_0016642	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, cytochrome as acceptor	GO_0016640	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor	GO_0016639	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH2 group of donors	GO_0016638	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors, quinone or similar compound as acceptor	GO_0016649	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor	GO_0016647	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors, iron-sulfur protein as acceptor	GO_0033694	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors, flavin as acceptor	GO_0046997	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors, disulfide as acceptor	GO_0016648	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor	GO_0016646	0	1	0	0	0
+oxidoreductase activity, acting on the CH-NH group of donors	GO_0016645	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor	GO_0052890	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor	GO_0016635	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor	GO_0016634	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors, iron-sulfur protein as acceptor	GO_0016636	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors, cytochrome as acceptor	GO_0016632	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	GO_0016628	0	1	0	0	0
+oxidoreductase activity, acting on the CH-CH group of donors	GO_0016627	0	1	0	0	0
+oxidoreductase activity, acting on superoxide radicals as acceptor	GO_0016721	0	1	0	0	0
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	GO_0016702	0	1	0	0	0
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases)	GO_0016703	0	1	0	0	0
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO_0016701	0	1	0	0	0
+oxidoreductase activity, acting on reduced flavodoxin as donor, dinitrogen as acceptor	GO_0016738	0	1	0	0	0
+oxidoreductase activity, acting on reduced flavodoxin as donor	GO_0016737	0	1	0	0	0
+oxidoreductase activity, acting on phosphorus or arsenic in donors, with other known acceptors	GO_0050522	0	1	0	0	0
+oxidoreductase activity, acting on phosphorus or arsenic in donors, with a copper protein as acceptor	GO_0052882	0	1	0	0	0
+oxidoreductase activity, acting on phosphorus or arsenic in donors, with NAD(P)+ as acceptor	GO_0050499	0	1	0	0	0
+oxidoreductase activity, acting on phosphorus or arsenic in donors, disulfide as acceptor	GO_0030614	0	1	0	0	0
+oxidoreductase activity, acting on phosphorus or arsenic in donors	GO_0030613	0	1	0	0	0
+oxidoreductase activity, acting on peroxide as acceptor	GO_0016684	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	GO_0016717	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, with NAD(P)H as one donor, and the other dehydrogenated	GO_0046996	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, with 2-oxoglutarate as one donor, and the other dehydrogenated	GO_0050498	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen	GO_0016714	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen	GO_0016713	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	GO_0016712	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced ascorbate as one donor, and incorporation of one atom of oxygen	GO_0016715	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen	GO_0016716	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor	GO_0016708	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	GO_0016709	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors	GO_0016706	0	1	0	0	0
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	GO_0016705	0	1	0	0	0
+oxidoreductase activity, acting on other nitrogenous compounds as donors, with a quinone or similar compound as acceptor	GO_0052586	0	1	0	0	0
+oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor	GO_0046857	0	1	0	0	0
+oxidoreductase activity, acting on other nitrogenous compounds as donors, oxygen as acceptor	GO_0016663	0	1	0	0	0
+oxidoreductase activity, acting on other nitrogenous compounds as donors, iron-sulfur protein as acceptor	GO_0016664	0	1	0	0	0
+oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor	GO_0016662	0	1	0	0	0
+oxidoreductase activity, acting on other nitrogenous compounds as donors	GO_0016661	0	1	0	0	0
+oxidoreductase activity, acting on iron-sulfur proteins as donors, dinitrogen as acceptor	GO_0016732	0	1	0	0	0
+oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor	GO_0016731	0	1	0	0	0
+oxidoreductase activity, acting on iron-sulfur proteins as donors	GO_0016730	0	1	0	0	0
+oxidoreductase activity, acting on hydrogen as donor, with other known acceptors	GO_0046995	0	1	0	0	0
+oxidoreductase activity, acting on hydrogen as donor, with a quinone or similar compound as acceptor	GO_0046994	0	1	0	0	0
+oxidoreductase activity, acting on hydrogen as donor, iron-sulfur protein as acceptor	GO_0016699	0	1	0	0	0
+oxidoreductase activity, acting on hydrogen as donor, cytochrome as acceptor	GO_0016697	0	1	0	0	0
+oxidoreductase activity, acting on hydrogen as donor, NAD or NADP as acceptor	GO_0016696	0	1	0	0	0
+oxidoreductase activity, acting on hydrogen as donor	GO_0016695	0	1	0	0	0
+oxidoreductase activity, acting on halogen in donors, with NAD or NADP as acceptor	GO_0052584	0	1	0	0	0
+oxidoreductase activity, acting on halogen in donors	GO_0052583	0	1	0	0	0
+oxidoreductase activity, acting on diphenols and related substances as donors, with copper protein as acceptor	GO_0052880	0	1	0	0	0
+oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	GO_0016682	0	1	0	0	0
+oxidoreductase activity, acting on diphenols and related substances as donors, cytochrome as acceptor	GO_0016681	0	1	0	0	0
+oxidoreductase activity, acting on diphenols and related substances as donors, NAD or NADP as acceptor	GO_0016680	0	1	0	0	0
+oxidoreductase activity, acting on diphenols and related substances as donors	GO_0016679	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor	GO_0016672	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors, oxygen as acceptor	GO_0016670	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors, iron-sulfur protein as acceptor	GO_0016673	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	GO_0016671	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors, cytochrome as acceptor	GO_0016669	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	GO_0016668	0	1	0	0	0
+oxidoreductase activity, acting on a sulfur group of donors	GO_0016667	0	1	0	0	0
+oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor	GO_0016676	0	1	0	0	0
+oxidoreductase activity, acting on a heme group of donors, nitrogenous group as acceptor	GO_0016677	0	1	0	0	0
+oxidoreductase activity, acting on a heme group of donors	GO_0016675	0	1	0	0	0
+oxidoreductase activity, acting on X-H and Y-H to form an X-Y bond, with oxygen as acceptor	GO_0046993	0	1	0	0	0
+oxidoreductase activity, acting on X-H and Y-H to form an X-Y bond, with a disulfide as acceptor	GO_0050485	0	1	0	0	0
+oxidoreductase activity, acting on X-H and Y-H to form an X-Y bond	GO_0046992	0	1	0	0	0
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	GO_0016655	0	1	0	0	0
+oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor	GO_0050664	0	1	0	0	0
+oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	GO_0016657	0	1	0	0	0
+oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor	GO_0016653	0	1	0	0	0
+oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor	GO_0016652	0	1	0	0	0
+oxidoreductase activity, acting on NAD(P)H	GO_0016651	0	1	0	0	0
+oxidoreductase activity, acting on CH-OH group of donors	GO_0016614	0	1	0	0	0
+oxidoreductase activity, acting on CH or CH2 groups, with an iron-sulfur protein as acceptor	GO_0052592	0	1	0	0	0
+oxidoreductase activity, acting on CH or CH2 groups, quinone or similar compound as acceptor	GO_0033695	0	1	0	0	0
+oxidoreductase activity, acting on CH or CH2 groups, oxygen as acceptor	GO_0016727	0	1	0	0	0
+oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor	GO_0016728	0	1	0	0	0
+oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor	GO_0016726	0	1	0	0	0
+oxidoreductase activity, acting on CH or CH2 groups	GO_0016725	0	1	0	0	0
+oxidoreductase activity	GO_0016491	0	1	0	0	0
+oxidative RNA demethylase activity	GO_0035515	0	1	0	0	0
+oxidative DNA demethylase activity	GO_0035516	0	1	0	0	0
+oxaloglycolate reductase (decarboxylating) activity	GO_0047047	0	1	0	0	0
+oxalate oxidase activity	GO_0050162	0	1	0	0	0
+ortho-trichlorophenol reductive dehalogenase activity	GO_0050781	0	1	0	0	0
+orotate reductase (NADPH) activity	GO_0050158	0	1	0	0	0
+orotate reductase (NADH) activity	GO_0004589	0	1	0	0	0
+ornithine N5-monooxygenase activity	GO_0031172	0	1	0	0	0
+orcinol 2-monooxygenase activity	GO_0018661	0	1	0	0	0
+opine dehydrogenase activity	GO_0047129	0	1	0	0	0
+omega-hydroxydecanoate dehydrogenase activity	GO_0050153	0	1	0	0	0
+omega-6 fatty acid desaturase activity	GO_0045485	0	1	0	0	0
+omega-3 fatty acid desaturase activity	GO_0042389	0	1	0	0	0
+octanol dehydrogenase activity	GO_0004552	0	1	0	0	0
+o-aminophenol oxidase activity	GO_0050149	0	1	0	0	0
+nucleoside oxidase activity	GO_0033715	0	1	0	0	0
+nucleoside oxidase (hydrogen peroxide-forming) activity	GO_0033716	0	1	0	0	0
+norspermine:oxygen oxidoreductase activity	GO_0052894	0	1	0	0	0
+nitrous-oxide reductase activity	GO_0050304	0	1	0	0	0
+nitroquinoline-N-oxide reductase activity	GO_0050465	0	1	0	0	0
+nitronate monooxygenase activity	GO_0018580	0	1	0	0	0
+nitronate monooxygenase (FMN-linked) activity	GO_0036434	0	1	0	0	0
+nitroglycerin reductase activity	GO_0018547	0	1	0	0	0
+nitrogenase activity	GO_0016163	0	1	0	0	0
+nitrogenase (flavodoxin) activity	GO_0050142	0	1	0	0	0
+nitroethane oxidase activity	GO_0050141	0	1	0	0	0
+nitrobenzoate nitroreductase activity	GO_0034556	0	1	0	0	0
+nitrobenzene nitroreductase activity	GO_0018546	0	1	0	0	0
+nitrobenzene 1,2-dioxygenase activity	GO_0018603	0	1	0	0	0
+nitroalkane oxidase activity	GO_0052664	0	1	0	0	0
+nitrite reductase [NAD(P)H] activity	GO_0008942	0	1	0	0	0
+nitrite reductase (cytochrome, ammonia-forming) activity	GO_0042279	0	1	0	0	0
+nitrite reductase (NO-forming) activity	GO_0050421	0	1	0	0	0
+nitrilotriacetate monooxygenase activity	GO_0018529	0	1	0	0	0
+nitrilotriacetate dehydrogenase activity	GO_0018534	0	1	0	0	0
+nitric-oxide synthase activity	GO_0004517	0	1	0	0	0
+nitric oxide reductase activity	GO_0016966	0	1	0	0	0
+nitric oxide dioxygenase activity	GO_0008941	0	1	0	0	0
+nitrate reductase activity involved in anaerobic electron transport chain	GO_1903264	0	1	0	0	0
+nitrate reductase activity	GO_0008940	0	1	0	0	0
+nitrate reductase [NAD(P)H] activity	GO_0050463	0	1	0	0	0
+nitrate reductase (cytochrome) activity	GO_0050140	0	1	0	0	0
+nitrate reductase (NADPH) activity	GO_0050464	0	1	0	0	0
+nitrate reductase (NADH) activity	GO_0009703	0	1	0	0	0
+nicotine dehydrogenase activity	GO_0018535	0	1	0	0	0
+nicotinate dehydrogenase activity	GO_0050138	0	1	0	0	0
+naringenin 3-dioxygenase activity	GO_0045486	0	1	0	0	0
+naphthyl-2-methyl-succinyl-CoA dehydrogenase activity	GO_0034845	0	1	0	0	0
+naphthyl-2-hydroxymethyl-succinyl-CoA dehydrogenase activity	GO_0034847	0	1	0	0	0
+naphthalene hydroxylase activity	GO_0008399	0	1	0	0	0
+naphthalene disulfonate 1,2-dioxygenase activity	GO_0018689	0	1	0	0	0
+naphthalene 1,2-dioxygenase activity	GO_0018625	0	1	0	0	0
+myrtenol dehydrogenase activity	GO_0018450	0	1	0	0	0
+myrtenal dehydrogenase activity	GO_0018469	0	1	0	0	0
+myristoyl-CoA 11-(Z) desaturase activity	GO_0050601	0	1	0	0	0
+myristoyl-CoA 11-(E) desaturase activity	GO_0050600	0	1	0	0	0
+mycothione reductase activity	GO_0050627	0	1	0	0	0
+mycothiol-dependent formaldehyde dehydrogenase activity	GO_0050607	0	1	0	0	0
+mugineic-acid 3-dioxygenase activity	GO_0033761	0	1	0	0	0
+morphine 6-dehydrogenase activity	GO_0050109	0	1	0	0	0
+monoprenyl isoflavone epoxidase activity	GO_0050602	0	1	0	0	0
+monophenol monooxygenase activity	GO_0004503	0	1	0	0	0
+monooxygenase activity	GO_0004497	0	1	0	0	0
+monoferuloyl di-(hydroxyferuloyl) spermidine meta-hydroxylase activity	GO_0072552	0	1	0	0	0
+monodemethylisoproturon dimethylaminedehydrogenase activity	GO_0034572	0	1	0	0	0
+monodemethylisoproturon dehydrogenase activity	GO_0034569	0	1	0	0	0
+monodehydroascorbate reductase (NADH) activity	GO_0016656	0	1	0	0	0
+monocoumaroyl dicaffeoyl spermidine meta-hydroxylase activity	GO_0072549	0	1	0	0	0
+monoamine oxidase activity	GO_0097621	0	1	0	0	0
+mono-butyltin dioxygenase activity	GO_0018586	0	1	0	0	0
+midchain alkane hydroxylase activity	GO_0080133	0	1	0	0	0
+mevaldate reductase activity	GO_0004495	0	1	0	0	0
+mevaldate reductase (NADPH) activity	GO_0019726	0	1	0	0	0
+mevaldate reductase (NAD+) activity	GO_0019727	0	1	0	0	0
+methyltetrahydroprotoberberine 14-monooxygenase activity	GO_0047084	0	1	0	0	0
+methylsilanetriol hydroxylase activity	GO_0018590	0	1	0	0	0
+methylselenol reductase activity	GO_0098625	0	1	0	0	0
+methylseleninic acid reductase activity	GO_0098626	0	1	0	0	0
+methylputrescine oxidase activity	GO_0052599	0	1	0	0	0
+methylmalonate-semialdehyde dehydrogenase (acylating) activity	GO_0004491	0	1	0	0	0
+methylglyoxal reductase (NADPH-dependent, acetol producing)	GO_1990002	0	1	0	0	0
+methylglyoxal reductase (NADPH-dependent) activity	GO_0043892	0	1	0	0	0
+methylglyoxal reductase (NADH-dependent) activity	GO_0019170	0	1	0	0	0
+methylglutamate dehydrogenase activity	GO_0050099	0	1	0	0	0
+methylenetetrahydromethanopterin dehydrogenase activity	GO_0030268	0	1	0	0	0
+methylenetetrahydrofolate reductase (ferredoxin) activity	GO_0033738	0	1	0	0	0
+methylenetetrahydrofolate reductase (NAD(P)H) activity	GO_0004489	0	1	0	0	0
+methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity	GO_0004486	0	1	0	0	0
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	GO_0004488	0	1	0	0	0
+methylenetetrahydrofolate dehydrogenase (NAD+) activity	GO_0004487	0	1	0	0	0
+methylcytosine dioxygenase activity	GO_0070579	0	1	0	0	0
+methylarsonate reductase activity	GO_0050610	0	1	0	0	0
+methylamine dehydrogenase (amicyanin) activity	GO_0052876	0	1	0	0	0
+methyl tertiary butyl ether 3-monooxygenase activity	GO_0018591	0	1	0	0	0
+methionine-R-sulfoxide reductase activity	GO_0070191	0	1	0	0	0
+methanol oxidase activity	GO_0046563	0	1	0	0	0
+methanol ferricytochrome-c oxidoreductase activity	GO_0052930	0	1	0	0	0
+methanol dehydrogenase activity	GO_0050093	0	1	0	0	0
+methanethiol oxidase activity	GO_0018549	0	1	0	0	0
+methanesulfonate monooxygenase activity	GO_0018648	0	1	0	0	0
+methane monooxygenase activity	GO_0015049	0	1	0	0	0
+meso-tartrate dehydrogenase activity	GO_0050092	0	1	0	0	0
+mercury (II) reductase activity	GO_0016152	0	1	0	0	0
+menthone dehydrogenase activity	GO_0034838	0	1	0	0	0
+menaquinone-dependent protoporphyrinogen oxidase activity	GO_0070819	0	1	0	0	0
+melilotate 3-monooxygenase activity	GO_0050091	0	1	0	0	0
+medium-chain-aldehyde dehydrogenase activity	GO_0052814	0	1	0	0	0
+medium-chain-acyl-CoA dehydrogenase activity	GO_0070991	0	1	0	0	0
+medium-chain-(S)-2-hydroxy-acid oxidase activity	GO_0052854	0	1	0	0	0
+mannuronate reductase activity	GO_0050090	0	1	0	0	0
+mannose-6-phosphate 6-reductase activity	GO_0050088	0	1	0	0	0
+mannitol-1-phosphate 5-dehydrogenase activity	GO_0008926	0	1	0	0	0
+mannitol dehydrogenase activity	GO_0046029	0	1	0	0	0
+mannitol dehydrogenase (cytochrome) activity	GO_0050087	0	1	0	0	0
+mannitol 2-dehydrogenase activity	GO_0050086	0	1	0	0	0
+mannitol 2-dehydrogenase (NADP+) activity	GO_0050085	0	1	0	0	0
+manganese peroxidase activity	GO_0016689	0	1	0	0	0
+mandelate 4-monooxygenase activity	GO_0050481	0	1	0	0	0
+malonate-semialdehyde dehydrogenase activity	GO_0033722	0	1	0	0	0
+malonate-semialdehyde dehydrogenase (acetylating) activity	GO_0018478	0	1	0	0	0
+malolactic enzyme activity	GO_0043883	0	1	0	0	0
+malic enzyme activity	GO_0004470	0	1	0	0	0
+maleylacetate reductase activity	GO_0018506	0	1	0	0	0
+malate oxidase activity	GO_0019157	0	1	0	0	0
+malate dehydrogenase activity	GO_0016615	0	1	0	0	0
+malate dehydrogenase (quinone) activity	GO_0008924	0	1	0	0	0
+malate dehydrogenase (menaquinone) activity	GO_0052589	0	1	0	0	0
+malate dehydrogenase (decarboxylating) (NADP+) activity	GO_0004473	0	1	0	0	0
+malate dehydrogenase (decarboxylating) (NAD+) activity	GO_0004471	0	1	0	0	0
+malate dehydrogenase (NADP+) activity	GO_0046554	0	1	0	0	0
+magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity	GO_0048529	0	1	0	0	0
+lysine dehydrogenase activity	GO_0050069	0	1	0	0	0
+lysine 6-dehydrogenase activity	GO_0050303	0	1	0	0	0
+lysine 2-monooxygenase activity	GO_0050067	0	1	0	0	0
+luciferin monooxygenase activity	GO_0045289	0	1	0	0	0
+long-chain-fatty-acyl-CoA reductase activity	GO_0050062	0	1	0	0	0
+long-chain-aldehyde dehydrogenase activity	GO_0050061	0	1	0	0	0
+long-chain-alcohol oxidase activity	GO_0046577	0	1	0	0	0
+long-chain-alcohol dehydrogenase activity	GO_0050060	0	1	0	0	0
+long-chain-acyl-CoA dehydrogenase activity	GO_0004466	0	1	0	0	0
+long-chain-3-hydroxyacyl-CoA dehydrogenase activity	GO_0016509	0	1	0	0	0
+long-chain-(S)-2-hydroxy-long-chain-acid oxidase activity	GO_0052853	0	1	0	0	0
+lithocholate 6beta-hydroxylase activity	GO_0033777	0	1	0	0	0
+linoleoyl-CoA desaturase activity	GO_0016213	0	1	0	0	0
+linoleic acid epoxygenase activity	GO_0071614	0	1	0	0	0
+linoleate diol synthase activity	GO_0033751	0	1	0	0	0
+linoleate 9S-lipoxygenase activity	GO_1990136	0	1	0	0	0
+linoleate 8R-lipoxygenase activity	GO_0052878	0	1	0	0	0
+linoleate 13S-lipoxygenase activity	GO_0016165	0	1	0	0	0
+linoleate 11-lipoxygenase activity	GO_0050584	0	1	0	0	0
+linalool 8-monooxygenase activity	GO_0050056	0	1	0	0	0
+limonene-1,2-diol dehydrogenase activity	GO_0018466	0	1	0	0	0
+limonene monooxygenase activity	GO_0019113	0	1	0	0	0
+lignostilbene alpha beta-dioxygenase activity	GO_0050054	0	1	0	0	0
+licodione synthase activity	GO_0033771	0	1	0	0	0
+leukotriene-E4 20-monooxygenase activity	GO_0050052	0	1	0	0	0
+leukotriene-B4 20-monooxygenase activity	GO_0050051	0	1	0	0	0
+leukotriene B4 12-hydroxy dehydrogenase activity	GO_0097257	0	1	0	0	0
+leucocyanidin oxygenase activity	GO_0050589	0	1	0	0	0
+leucoanthocyanidin reductase activity	GO_0033788	0	1	0	0	0
+leucine dehydrogenase activity	GO_0050049	0	1	0	0	0
+leghemoglobin reductase activity	GO_0015043	0	1	0	0	0
+lathosterol oxidase activity	GO_0050046	0	1	0	0	0
+lariciresinol reductase activity	GO_0010284	0	1	0	0	0
+lactate-malate transhydrogenase activity	GO_0050042	0	1	0	0	0
+lactate dehydrogenase activity	GO_0004457	0	1	0	0	0
+lactate 2-monooxygenase activity	GO_0050040	0	1	0	0	0
+lactaldehyde reductase activity	GO_0008912	0	1	0	0	0
+lactaldehyde reductase (NADPH) activity	GO_0050039	0	1	0	0	0
+lactaldehyde dehydrogenase activity	GO_0008911	0	1	0	0	0
+kynurenine 7,8-hydroxylase activity	GO_0050016	0	1	0	0	0
+kynurenine 3-monooxygenase activity	GO_0004502	0	1	0	0	0
+kynurenate-7,8-dihydrodiol dehydrogenase activity	GO_0047114	0	1	0	0	0
+ketosteroid monooxygenase activity	GO_0047086	0	1	0	0	0
+ketoreductase activity	GO_0045703	0	1	0	0	0
+ketol-acid reductoisomerase activity	GO_0004455	0	1	0	0	0
+juglone 3-monooxygenase activity	GO_0050012	0	1	0	0	0
+jasmonoyl-isoleucine-12-hydroxylase activity	GO_0052694	0	1	0	0	0
+isovaleryl-CoA dehydrogenase activity	GO_0008470	0	1	0	0	0
+isoquinoline 1-oxidoreductase activity	GO_0047121	0	1	0	0	0
+isoproturon dimethylaminedehydrogenase activity	GO_0034568	0	1	0	0	0
+isopropanol dehydrogenase (NADP+) activity	GO_0050009	0	1	0	0	0
+isopiperitenol dehydrogenase activity	GO_0018458	0	1	0	0	0
+isopenicillin-N synthase activity	GO_0016216	0	1	0	0	0
+isooctane monooxygenase activity	GO_0034850	0	1	0	0	0
+isonicotinate dehydrogenase activity	GO_0034877	0	1	0	0	0
+isoflavone 3'-hydroxylase activity	GO_0048000	0	1	0	0	0
+isoflavone 2'-hydroxylase activity	GO_0033773	0	1	0	0	0
+isocitrate-homoisocitrate dehydrogenase activity	GO_0033708	0	1	0	0	0
+isocitrate dehydrogenase activity	GO_0004448	0	1	0	0	0
+isocitrate dehydrogenase (NADP+) activity	GO_0004450	0	1	0	0	0
+isocitrate dehydrogenase (NAD+) activity	GO_0004449	0	1	0	0	0
+isobutylamine N-hydroxylase activity	GO_0034791	0	1	0	0	0
+iron-cytochrome-c reductase activity	GO_0047726	0	1	0	0	0
+iodide peroxidase activity	GO_0004447	0	1	0	0	0
+inositol oxygenase activity	GO_0050113	0	1	0	0	0
+inositol 2-dehydrogenase activity	GO_0050112	0	1	0	0	0
+indolin-2-one monooxygenase activity	GO_0036191	0	1	0	0	0
+indolepyruvate ferredoxin oxidoreductase activity	GO_0043805	0	1	0	0	0
+indolelactate dehydrogenase activity	GO_0047722	0	1	0	0	0
+indoleamine 2,3-dioxygenase activity	GO_0033754	0	1	0	0	0
+indole-3-acetaldehyde reductase (NADPH) activity	GO_0047019	0	1	0	0	0
+indole-3-acetaldehyde reductase (NADH) activity	GO_0047018	0	1	0	0	0
+indole-3-acetaldehyde oxidase activity	GO_0050302	0	1	0	0	0
+indole-2-monooxygenase activity	GO_0036190	0	1	0	0	0
+indole 2,3-dioxygenase activity	GO_0047719	0	1	0	0	0
+indanol dehydrogenase activity	GO_0047718	0	1	0	0	0
+iminodiacetate dehydrogenase activity	GO_0018528	0	1	0	0	0
+imidazoleacetate 4-monooxygenase activity	GO_0047717	0	1	0	0	0
+hypoxanthine oxidase activity	GO_0070675	0	1	0	0	0
+hypoxanthine dehydrogenase activity	GO_0070674	0	1	0	0	0
+hypotaurine dehydrogenase activity	GO_0047822	0	1	0	0	0
+hypophosphite dioxygenase activity	GO_0034792	0	1	0	0	0
+hyponitrite reductase activity	GO_0047999	0	1	0	0	0
+hyoscyamine (6S)-dioxygenase activity	GO_0047998	0	1	0	0	0
+hydroxyquinol 1,2-dioxygenase activity	GO_0018581	0	1	0	0	0
+hydroxypyruvate reductase activity	GO_0016618	0	1	0	0	0
+hydroxyphytanate oxidase activity	GO_0047996	0	1	0	0	0
+hydroxyphenylpyruvate reductase activity	GO_0047995	0	1	0	0	0
+hydroxyphenylacetonitrile 2-monooxygenase activity	GO_0047085	0	1	0	0	0
+hydroxymonomethylisoproturon dimethylaminedehydrogenase activity	GO_0034570	0	1	0	0	0
+hydroxymethylsilanetriol oxidase activity	GO_0018598	0	1	0	0	0
+hydroxymethylmethylsilanediol oxidase activity	GO_0018448	0	1	0	0	0
+hydroxymethylglutaryl-CoA reductase activity	GO_0042282	0	1	0	0	0
+hydroxymethylglutaryl-CoA reductase (NADPH) activity	GO_0004420	0	1	0	0	0
+hydroxymethylfurfural reductase activity	GO_0033790	0	1	0	0	0
+hydroxymethylfurfural reductase (NADPH) activity	GO_0033845	0	1	0	0	0
+hydroxymethylfurfural reductase (NADH) activity	GO_0033833	0	1	0	0	0
+hydroxymethylbutenyl pyrophosphate reductase activity	GO_0042380	0	1	0	0	0
+hydroxymalonate dehydrogenase activity	GO_0047993	0	1	0	0	0
+hydroxylamine reductase activity	GO_0050418	0	1	0	0	0
+hydroxylamine reductase (NADH) activity	GO_0050460	0	1	0	0	0
+hydroxylamine oxidoreductase activity	GO_0033740	0	1	0	0	0
+hydroxylamine oxidase activity	GO_0047991	0	1	0	0	0
+hydroxycyclohexanecarboxylate dehydrogenase activity	GO_0047010	0	1	0	0	0
+hydroxyacid-oxoacid transhydrogenase activity	GO_0047988	0	1	0	0	0
+hydroxy-nicotine oxidase activity	GO_0019116	0	1	0	0	0
+hydroquinone:oxygen oxidoreductase activity	GO_0052716	0	1	0	0	0
+hydroquinone 1,2-dioxygenase activity	GO_0018569	0	1	0	0	0
+hydroperoxide reductase activity	GO_0032843	0	1	0	0	0
+hydrogensulfite reductase activity	GO_0018551	0	1	0	0	0
+hydrogenase (acceptor) activity	GO_0033748	0	1	0	0	0
+hydrogen:quinone oxidoreductase activity	GO_0047067	0	1	0	0	0
+hydrogen dehydrogenase activity	GO_0047985	0	1	0	0	0
+hydrogen dehydrogenase (NADP+) activity	GO_0050583	0	1	0	0	0
+homoserine dehydrogenase activity	GO_0004412	0	1	0	0	0
+homoisocitrate dehydrogenase activity	GO_0047046	0	1	0	0	0
+homogentisate 1,2-dioxygenase activity	GO_0004411	0	1	0	0	0
+histone demethylase activity (H3-K36 specific)	GO_0051864	0	1	0	0	0
+histidinol dehydrogenase activity	GO_0004399	0	1	0	0	0
+histamine oxidase activity	GO_0052598	0	1	0	0	0
+hexose oxidase activity	GO_0047979	0	1	0	0	0
+hexitol dehydrogenase activity	GO_0031320	0	1	0	0	0
+hexadecyltrimethylammonium chloride monooxygenase activity	GO_0034898	0	1	0	0	0
+hexadecanol dehydrogenase activity	GO_0047978	0	1	0	0	0
+hexadecanal dehydrogenase (acylating) activity	GO_0047104	0	1	0	0	0
+hercynylselenocysteine S-oxide synthase	GO_0044876	0	1	0	0	0
+heme-copper terminal oxidase activity	GO_0015002	0	1	0	0	0
+heme oxygenase (decyclizing) activity	GO_0004392	0	1	0	0	0
+glyphosate dehydrogenase activity	GO_0034780	0	1	0	0	0
+glyoxylate reductase activity	GO_0047964	0	1	0	0	0
+glyoxylate reductase (NADP) activity	GO_0030267	0	1	0	0	0
+glyoxylate oxidase activity	GO_0047969	0	1	0	0	0
+glyoxylate dehydrogenase (acylating) activity	GO_0047968	0	1	0	0	0
+glyoxal oxidase activity	GO_0046569	0	1	0	0	0
+glycolate oxidase activity	GO_0008891	0	1	0	0	0
+glycolate dehydrogenase activity	GO_0019154	0	1	0	0	0
+glycolaldehyde dehydrogenase activity	GO_0050569	0	1	0	0	0
+glycine reductase activity	GO_0030699	0	1	0	0	0
+glycine oxidase activity	GO_0043799	0	1	0	0	0
+glycine dehydrogenase activity	GO_0047960	0	1	0	0	0
+glycine dehydrogenase (decarboxylating) activity	GO_0004375	0	1	0	0	0
+glycine dehydrogenase (cytochrome) activity	GO_0047959	0	1	0	0	0
+glycine dehydrogenase (cyanide-forming) activity	GO_0050622	0	1	0	0	0
+glyceryl-ether monooxygenase activity	GO_0050479	0	1	0	0	0
+glycerol-3-phosphate oxidase activity	GO_0004369	0	1	0	0	0
+glycerol-3-phosphate dehydrogenase activity	GO_0004368	0	1	0	0	0
+glycerol-3-phosphate dehydrogenase [NADP+] activity	GO_0036439	0	1	0	0	0
+glycerol-3-phosphate dehydrogenase [NAD+] activity	GO_0004367	0	1	0	0	0
+glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	GO_0047952	0	1	0	0	0
+glycerol-3-phosphate 1-dehydrogenase [NADP+] activity	GO_0047014	0	1	0	0	0
+glycerol-1-phosphate dehydrogenase [NAD(P)+] activity	GO_0050492	0	1	0	0	0
+glycerol dehydrogenase [NADP+] activity	GO_0047956	0	1	0	0	0
+glycerol dehydrogenase [NAD+] activity	GO_0008888	0	1	0	0	0
+glycerol dehydrogenase [NAD(P)+] activity	GO_1990042	0	1	0	0	0
+glycerol dehydrogenase (acceptor) activity	GO_0047955	0	1	0	0	0
+glycerol 2-dehydrogenase (NADP+) activity	GO_0047953	0	1	0	0	0
+glycerate dehydrogenase activity	GO_0008465	0	1	0	0	0
+glycerate 2-kinase activity	GO_0043798	0	1	0	0	0
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) activity	GO_0043797	0	1	0	0	0
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) activity	GO_0047100	0	1	0	0	0
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity	GO_0008886	0	1	0	0	0
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	GO_0004365	0	1	0	0	0
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity	GO_0043878	0	1	0	0	0
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating) activity	GO_0043891	0	1	0	0	0
+glyceraldehyde oxidoreductase activity	GO_0043795	0	1	0	0	0
+glyceraldehyde dehydrogenase (NADP) activity	GO_0043796	0	1	0	0	0
+glyceollin synthase activity	GO_0033769	0	1	0	0	0
+glutathione-homocystine transhydrogenase activity	GO_0047139	0	1	0	0	0
+glutathione-disulfide reductase activity	GO_0004362	0	1	0	0	0
+glutathione-cystine transhydrogenase activity	GO_0047141	0	1	0	0	0
+glutathione-CoA-glutathione transhydrogenase activity	GO_0047140	0	1	0	0	0
+glutathione peroxidase activity	GO_0004602	0	1	0	0	0
+glutathione oxidoreductase activity	GO_0097573	0	1	0	0	0
+glutathione oxidase activity	GO_0047950	0	1	0	0	0
+glutathione disulfide oxidoreductase activity	GO_0015038	0	1	0	0	0
+glutathione dehydrogenase (ascorbate) activity	GO_0045174	0	1	0	0	0
+glutaryl-CoA dehydrogenase activity	GO_0004361	0	1	0	0	0
+glutarate-semialdehyde dehydrogenase activity	GO_0047949	0	1	0	0	0
+glutamyl-tRNA reductase activity	GO_0008883	0	1	0	0	0
+glutamate-5-semialdehyde dehydrogenase activity	GO_0004350	0	1	0	0	0
+glutamate synthase activity, NAD(P)H as acceptor	GO_0045181	0	1	0	0	0
+glutamate synthase activity	GO_0015930	0	1	0	0	0
+glutamate synthase (ferredoxin) activity	GO_0016041	0	1	0	0	0
+glutamate synthase (NADPH) activity	GO_0004355	0	1	0	0	0
+glutamate synthase (NADH) activity	GO_0016040	0	1	0	0	0
+glutamate dehydrogenase [NAD(P)+] activity	GO_0004353	0	1	0	0	0
+glutamate dehydrogenase (NADP+) activity	GO_0004354	0	1	0	0	0
+glutamate dehydrogenase (NAD+) activity	GO_0004352	0	1	0	0	0
+glucuronolactone reductase activity	GO_0047941	0	1	0	0	0
+glucoside 3-dehydrogenase activity	GO_0033757	0	1	0	0	0
+glucose-fructose oxidoreductase activity	GO_0047061	0	1	0	0	0
+glucose-6-phosphate dehydrogenase activity	GO_0004345	0	1	0	0	0
+glucose-6-phosphate dehydrogenase (coenzyme F420) activity	GO_0052749	0	1	0	0	0
+glucose oxidase activity	GO_0046562	0	1	0	0	0
+glucose dehydrogenase activity	GO_0004344	0	1	0	0	0
+glucose 1-dehydrogenase [NAD(P)] activity	GO_0047936	0	1	0	0	0
+glucose 1-dehydrogenase (NADP+) activity	GO_0047935	0	1	0	0	0
+glucose 1-dehydrogenase (NAD+) activity	GO_0047934	0	1	0	0	0
+gluconate dehydrogenase activity	GO_0008875	0	1	0	0	0
+gluconate 5-dehydrogenase activity	GO_0008874	0	1	0	0	0
+gluconate 2-dehydrogenase activity	GO_0008873	0	1	0	0	0
+gluconate 2-dehydrogenase (acceptor) activity	GO_0033717	0	1	0	0	0
+gibberellin-44 dioxygenase activity	GO_0047927	0	1	0	0	0
+gibberellin 3-beta-dioxygenase activity	GO_0016707	0	1	0	0	0
+gibberellin 20-oxidase activity	GO_0045544	0	1	0	0	0
+gibberellin 2-beta-dioxygenase activity	GO_0045543	0	1	0	0	0
+gibberellin 12-aldehyde oxidase activity	GO_0051779	0	1	0	0	0
+geranylgeranyl reductase activity	GO_0045550	0	1	0	0	0
+geraniol dehydrogenase activity	GO_0047924	0	1	0	0	0
+geranial dehydrogenase activity	GO_0034832	0	1	0	0	0
+gentisate 1,2-dioxygenase activity	GO_0047922	0	1	0	0	0
+geissoschizine dehydrogenase activity	GO_0047920	0	1	0	0	0
+gamma-guanidinobutyraldehyde dehydrogenase activity	GO_0047107	0	1	0	0	0
+gamma-glutamyl hercynylcysteine S-oxide synthase	GO_0044875	0	1	0	0	0
+gamma-butyrobetaine dioxygenase activity	GO_0008336	0	1	0	0	0
+gallate dioxygenase activity	GO_0036238	0	1	0	0	0
+galactose oxidase activity	GO_0045480	0	1	0	0	0
+galactose 1-dehydrogenase activity	GO_0019151	0	1	0	0	0
+galactose 1-dehydrogenase (NADP+) activity	GO_0047910	0	1	0	0	0
+galactonolactone dehydrogenase activity	GO_0016633	0	1	0	0	0
+galactitol-1-phosphate 5-dehydrogenase activity	GO_0008868	0	1	0	0	0
+galactitol 2-dehydrogenase activity	GO_0047713	0	1	0	0	0
+fumarate reductase (NADH) activity	GO_0016156	0	1	0	0	0
+fructuronate reductase activity	GO_0008866	0	1	0	0	0
+fructosyl-amino acid oxidase activity	GO_0051700	0	1	0	0	0
+fructose 5-dehydrogenase activity	GO_0047904	0	1	0	0	0
+fructose 5-dehydrogenase (NADP+) activity	GO_0047903	0	1	0	0	0
+formyltetrahydrofolate dehydrogenase activity	GO_0016155	0	1	0	0	0
+formylmethanofuran dehydrogenase activity	GO_0018493	0	1	0	0	0
+formate dehydrogenase (quinone) activity	GO_0036397	0	1	0	0	0
+formate dehydrogenase (cytochrome-c-553) activity	GO_0047111	0	1	0	0	0
+formate dehydrogenase (cytochrome) activity	GO_0047898	0	1	0	0	0
+formate dehydrogenase (coenzyme F420) activity	GO_0043794	0	1	0	0	0
+formate dehydrogenase (NADP+) activity	GO_0047899	0	1	0	0	0
+formate dehydrogenase (NAD+) activity	GO_0008863	0	1	0	0	0
+formaldehyde dismutase activity	GO_0047895	0	1	0	0	0
+formaldehyde dehydrogenase activity	GO_0018467	0	1	0	0	0
+folate reductase activity	GO_0033560	0	1	0	0	0
+fluoroacetaldehyde dehydrogenase activity	GO_0033723	0	1	0	0	0
+fluorene oxygenase activity	GO_0018585	0	1	0	0	0
+fluoren-9-ol dehydrogenase activity	GO_0018461	0	1	0	0	0
+flavonol synthase activity	GO_0045431	0	1	0	0	0
+flavonoid 3'-monooxygenase activity	GO_0016711	0	1	0	0	0
+flavonoid 3',5'-hydroxylase activity	GO_0033772	0	1	0	0	0
+flavone synthase activity	GO_0033759	0	1	0	0	0
+flavin-linked sulfhydryl oxidase activity	GO_0016971	0	1	0	0	0
+flavin reductase (NADH) activity	GO_0036382	0	1	0	0	0
+flavanone 4-reductase activity	GO_0047890	0	1	0	0	0
+ferulate 5-hydroxylase activity	GO_0046424	0	1	0	0	0
+ferroxidase activity	GO_0004322	0	1	0	0	0
+ferric-chelate reductase (NADPH) activity	GO_0052851	0	1	0	0	0
+ferredoxin:thioredoxin reductase activity	GO_0030385	0	1	0	0	0
+ferredoxin-nitrite reductase activity	GO_0048307	0	1	0	0	0
+ferredoxin-nitrate reductase activity	GO_0047889	0	1	0	0	0
+ferredoxin-NADP+ reductase activity	GO_0004324	0	1	0	0	0
+ferredoxin-NAD+ reductase activity	GO_0008860	0	1	0	0	0
+ferredoxin-NAD(P) reductase activity	GO_0008937	0	1	0	0	0
+ferredoxin hydrogenase activity	GO_0008901	0	1	0	0	0
+fatty-acyl-CoA reductase (alcohol-forming) activity	GO_0080019	0	1	0	0	0
+fatty acid peroxidase activity	GO_0047888	0	1	0	0	0
+fatty acid in-chain hydroxylase activity	GO_0052722	0	1	0	0	0
+fatty acid alpha-hydroxylase activity	GO_0080132	0	1	0	0	0
+farnesol dehydrogenase activity	GO_0047886	0	1	0	0	0
+ethylbenzene hydroxylase activity	GO_0018693	0	1	0	0	0
+ethylbenzene dioxygenase activity	GO_0018614	0	1	0	0	0
+ethanolamine oxidase activity	GO_0047883	0	1	0	0	0
+ethanol:cytochrome c oxidoreductase activity	GO_0052935	0	1	0	0	0
+ethanol cytochrome-c oxidoreductase activity	GO_0052931	0	1	0	0	0
+estradiol 6-beta-monooxygenase activity	GO_0047882	0	1	0	0	0
+estradiol 17-beta-dehydrogenase activity	GO_0004303	0	1	0	0	0
+estradiol 17-alpha-dehydrogenase activity	GO_0047881	0	1	0	0	0
+erythrulose reductase activity	GO_0047880	0	1	0	0	0
+erythrose-4-phosphate dehydrogenase activity	GO_0048001	0	1	0	0	0
+epoxyqueuosine reductase activity	GO_0052693	0	1	0	0	0
+epoxide dehydrogenase activity	GO_0018451	0	1	0	0	0
+epoxide carboxylase activity	GO_0018538	0	1	0	0	0
+ephedrine dehydrogenase activity	GO_0047877	0	1	0	0	0
+enzyme-thiol transhydrogenase (glutathione-disulfide) activity	GO_0047142	0	1	0	0	0
+ent-kaurenoate oxidase activity	GO_0051777	0	1	0	0	0
+ent-kaurene oxidase activity	GO_0052615	0	1	0	0	0
+ent-kaur-16-en-19-ol oxidase activity	GO_0052616	0	1	0	0	0
+ent-kaur-16-en-19-al oxidase activity	GO_0052617	0	1	0	0	0
+ent-isokaurene C2-hydroxylase activity	GO_0036201	0	1	0	0	0
+ent-cassa-12,15-diene 11-hydroxylase activity	GO_0036202	0	1	0	0	0
+ent-7-alpha-hydroxykaurenoate oxidase activity	GO_0051778	0	1	0	0	0
+enoyl-[acyl-carrier-protein] reductase activity	GO_0016631	0	1	0	0	0
+enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific) activity	GO_0004319	0	1	0	0	0
+enoyl-[acyl-carrier-protein] reductase (NADPH, A-specific) activity	GO_0047117	0	1	0	0	0
+enoyl-[acyl-carrier-protein] reductase (NADH) activity	GO_0004318	0	1	0	0	0
+enone reductase activity	GO_0035671	0	1	0	0	0
+endosulfan monooxygenase I activity	GO_0034888	0	1	0	0	0
+endosulfan hydroxyether dehydrogenase activity	GO_0034901	0	1	0	0	0
+endosulfan ether monooxygenase activity	GO_0034903	0	1	0	0	0
+endosulfan diol dehydrogenase activity	GO_0034891	0	1	0	0	0
+electron-transferring-flavoprotein dehydrogenase activity	GO_0004174	0	1	0	0	0
+echinenone 3-hydroxylase activity	GO_0052608	0	1	0	0	0
+ecdysteroid 25-hydroxylase activity	GO_0035302	0	1	0	0	0
+ecdysteroid 22-hydroxylase activity	GO_0042767	0	1	0	0	0
+ecdysteroid 2-hydroxylase activity	GO_0042768	0	1	0	0	0
+ecdysone oxidase activity	GO_0047875	0	1	0	0	0
+ecdysone 20-monooxygenase activity	GO_0004501	0	1	0	0	0
+dopamine monooxygenase activity	GO_0036264	0	1	0	0	0
+dopamine beta-monooxygenase activity	GO_0004500	0	1	0	0	0
+divinyl chlorophyllide a 8-vinyl-reductase activity	GO_0033728	0	1	0	0	0
+disulfide oxidoreductase activity	GO_0015036	0	1	0	0	0
+diphenyl ether 2,3-dioxygenase activity	GO_0034954	0	1	0	0	0
+diphenyl ether 1,2-dioxygenase activity	GO_0034956	0	1	0	0	0
+dioxygenase activity	GO_0051213	0	1	0	0	0
+dimethylsilanediol hydroxylase activity	GO_0018596	0	1	0	0	0
+dimethylmalate dehydrogenase activity	GO_0047867	0	1	0	0	0
+dimethylglycine oxidase activity	GO_0047866	0	1	0	0	0
+dimethylglycine dehydrogenase activity	GO_0047865	0	1	0	0	0
+dimethylarsinate reductase activity	GO_0034550	0	1	0	0	0
+dimethylamine dehydrogenase activity	GO_0047133	0	1	0	0	0
+dimethyl sulfoxide reductase activity	GO_0009389	0	1	0	0	0
+dimethyl sulfide monooxygenase activity	GO_0018633	0	1	0	0	0
+diiodophenylpyruvate reductase activity	GO_0047860	0	1	0	0	0
+dihydroxyfluorene dioxygenase activity	GO_0019117	0	1	0	0	0
+dihydroxydibenzothiophene dioxygenase activity	GO_0018565	0	1	0	0	0
+dihydrouracil oxidase activity	GO_0047857	0	1	0	0	0
+dihydrouracil dehydrogenase (NAD+) activity	GO_0004159	0	1	0	0	0
+dihydrotestosterone 17-beta-dehydrogenase activity	GO_0035410	0	1	0	0	0
+dihydrosanguinarine 10-monooxygenase activity	GO_0047088	0	1	0	0	0
+dihydropyrimidine dehydrogenase (NADP+) activity	GO_0017113	0	1	0	0	0
+dihydropterin oxidase activity	GO_0004154	0	1	0	0	0
+dihydroorotate oxidase activity	GO_0004158	0	1	0	0	0
+dihydroorotate dehydrogenase activity	GO_0004152	0	1	0	0	0
+dihydronicotinamide riboside quinone reductase activity	GO_0001512	0	1	0	0	0
+dihydromonapterin reductase activity	GO_0071172	0	1	0	0	0
+dihydromethanopterin reductase activity	GO_0044684	0	1	0	0	0
+dihydrolipoyl dehydrogenase activity	GO_0004148	0	1	0	0	0
+dihydrokaempferol 4-reductase activity	GO_0045552	0	1	0	0	0
+dihydrofolate reductase activity	GO_0004146	0	1	0	0	0
+dihydrochelirubine 12-monooxygenase activity	GO_0047089	0	1	0	0	0
+dihydrobunolol dehydrogenase activity	GO_0047855	0	1	0	0	0
+dihydrobenzophenanthridine oxidase activity	GO_0047132	0	1	0	0	0
+diferuloyl mono-(hydroxyferuloyl) spermidine meta-hydroxylase activity	GO_0072551	0	1	0	0	0
+diferric-transferrin reductase activity	GO_0047852	0	1	0	0	0
+diethyl 2-methyl-3-oxosuccinate reductase activity	GO_0047031	0	1	0	0	0
+didemethylisoproturon dehydrogenase activity	GO_0034574	0	1	0	0	0
+dicoumaroyl monocaffeoyl spermidine meta-hydroxylase activity	GO_0072548	0	1	0	0	0
+dibenzothiophene-5,5-dioxide monooxygenase activity	GO_0018679	0	1	0	0	0
+dibenzothiophene monooxygenase activity	GO_0018640	0	1	0	0	0
+dibenzothiophene dioxygenase activity	GO_0018612	0	1	0	0	0
+dibenzothiophene dihydrodiol dehydrogenase activity	GO_0018513	0	1	0	0	0
+dibenzofuran 4,4a-dioxygenase activity	GO_0018610	0	1	0	0	0
+diarylpropane peroxidase activity	GO_0016690	0	1	0	0	0
+diaminopimelate dehydrogenase activity	GO_0047850	0	1	0	0	0
+diamine oxidase activity	GO_0052597	0	1	0	0	0
+diacetyl reductase ((S)-acetoin forming) activity	GO_0052588	0	1	0	0	0
+diacetyl reductase ((R)-acetoin forming) activity	GO_0052587	0	1	0	0	0
+di-n-butyltin dioxygenase activity	GO_0018589	0	1	0	0	0
+desacetoxyvindoline 4-hydroxylase activity	GO_0050590	0	1	0	0	0
+deoxyuridine 2'-dioxygenase activity	GO_0047080	0	1	0	0	0
+deoxyuridine 1'-dioxygenase activity	GO_0047079	0	1	0	0	0
+deoxysarpagine hydroxylase activity	GO_0033775	0	1	0	0	0
+deoxyhypusine monooxygenase activity	GO_0019135	0	1	0	0	0
+delta4-3-oxosteroid 5beta-reductase activity	GO_0047787	0	1	0	0	0
+delta24-sterol reductase activity	GO_0050614	0	1	0	0	0
+delta24(24-1) sterol reductase activity	GO_0000246	0	1	0	0	0
+delta14-sterol reductase activity	GO_0050613	0	1	0	0	0
+delta12-fatty acid dehydrogenase activity	GO_0016720	0	1	0	0	0
+delta1-pyrroline-5-carboxylate synthetase activity	GO_0017084	0	1	0	0	0
+delta1-piperideine-6-carboxylate dehydrogenase activity	GO_0043871	0	1	0	0	0
+delta1-piperideine-2-carboxylate reductase activity	GO_0047125	0	1	0	0	0
+delta 3-trans-hexadecenoic acid phosphatidylglycerol desaturase activity	GO_0052637	0	1	0	0	0
+deisopropylatrazine monooxygenase activity	GO_0018681	0	1	0	0	0
+dehydrogluconate dehydrogenase activity	GO_0047843	0	1	0	0	0
+deethylatrazine monooxygenase activity	GO_0018680	0	1	0	0	0
+deacetoxycephalosporin-C synthase activity	GO_0050599	0	1	0	0	0
+deacetoxycephalosporin-C hydroxylase activity	GO_0045442	0	1	0	0	0
+dTDP-galactose 6-dehydrogenase activity	GO_0033701	0	1	0	0	0
+dTDP-6-deoxy-L-talose 4-dehydrogenase activity	GO_0047003	0	1	0	0	0
+dTDP-4-dehydrorhamnose reductase activity	GO_0008831	0	1	0	0	0
+dTDP-4-dehydro-6-deoxyglucose reductase activity	GO_0050573	0	1	0	0	0
+cytokinin dehydrogenase activity	GO_0019139	0	1	0	0	0
+cytochrome-c3 hydrogenase activity	GO_0047806	0	1	0	0	0
+cytochrome-c peroxidase activity	GO_0004130	0	1	0	0	0
+cytochrome-c oxidase activity	GO_0004129	0	1	0	0	0
+cytochrome-b5 reductase activity, acting on NADPH	GO_0090523	0	1	0	0	0
+cytochrome-b5 reductase activity, acting on NADH	GO_0090524	0	1	0	0	0
+cytochrome-b5 reductase activity, acting on NAD(P)H	GO_0004128	0	1	0	0	0
+cytochrome o ubiquinol oxidase activity	GO_0008827	0	1	0	0	0
+cytochrome bo3 ubiquinol oxidase activity	GO_0009486	0	1	0	0	0
+cystine reductase activity	GO_0050456	0	1	0	0	0
+cysteine dioxygenase activity	GO_0017172	0	1	0	0	0
+cysteamine dioxygenase activity	GO_0047800	0	1	0	0	0
+cyclopentanone monooxygenase activity	GO_0047799	0	1	0	0	0
+cyclopentanol dehydrogenase activity	GO_0055041	0	1	0	0	0
+cyclohexylamine oxidase activity	GO_0018527	0	1	0	0	0
+cyclohexanone monooxygenase activity	GO_0018667	0	1	0	0	0
+cyclohexanone dehydrogenase activity	GO_0047797	0	1	0	0	0
+cyclohexanol dehydrogenase activity	GO_0018460	0	1	0	0	0
+cyclohexane-1,2-diol dehydrogenase activity	GO_0047795	0	1	0	0	0
+cyclohexane monooxygenase activity	GO_0034795	0	1	0	0	0
+cyclohexadienyl dehydrogenase activity	GO_0047794	0	1	0	0	0
+cyanocobalamin reductase (cyanide-eliminating) activity	GO_0033787	0	1	0	0	0
+cupric reductase activity	GO_0008823	0	1	0	0	0
+cucurbitacin delta23-reductase activity	GO_0047791	0	1	0	0	0
+crotonyl-CoA reductase activity	GO_0043880	0	1	0	0	0
+coumarin 7-hydroxylase activity	GO_0008389	0	1	0	0	0
+cortisone alpha-reductase activity	GO_0047786	0	1	0	0	0
+corticosterone 18-monooxygenase activity	GO_0047783	0	1	0	0	0
+coproporphyrinogen oxidase activity	GO_0004109	0	1	0	0	0
+coproporphyrinogen dehydrogenase activity	GO_0051989	0	1	0	0	0
+coniferyl-aldehyde dehydrogenase activity	GO_0050269	0	1	0	0	0
+coniferyl-alcohol dehydrogenase activity	GO_0050268	0	1	0	0	0
+columbamine oxidase activity	GO_0050455	0	1	0	0	0
+coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase activity	GO_0018537	0	1	0	0	0
+coenzyme F420-dependent 2,4-dinitrophenol reductase activity	GO_0052760	0	1	0	0	0
+coenzyme F420-dependent 2,4,6-trinitrophenol reductase activity	GO_0052758	0	1	0	0	0
+coenzyme F420-dependent 2,4,6-trinitrophenol hydride reductase activity	GO_0052759	0	1	0	0	0
+coenzyme F420 hydrogenase activity	GO_0050454	0	1	0	0	0
+codeinone reductase (NADPH) activity	GO_0047036	0	1	0	0	0
+cob(II)yrinic acid a,c-diamide reductase activity	GO_0043784	0	1	0	0	0
+cob(II)alamin reductase activity	GO_0050453	0	1	0	0	0
+clavaminate synthase activity	GO_0033758	0	1	0	0	0
+citronellyl-CoA dehydrogenase activity	GO_0034824	0	1	0	0	0
+citronellol dehydrogenase activity	GO_0034821	0	1	0	0	0
+citronellal dehydrogenase activity	GO_0034822	0	1	0	0	0
+citrazinate dehydrogenase activity	GO_0034880	0	1	0	0	0
+cis-dihydroethylcatechol dehydrogenase activity	GO_0018519	0	1	0	0	0
+cis-chlorobenzene dihydrodiol dehydrogenase activity	GO_0018501	0	1	0	0	0
+cis-9,10-dihydroanthracene-9,10-diol dehydrogenase activity	GO_0034817	0	1	0	0	0
+cis-4,5-dihydroxy-4,5-dihydropyrene dehydrogenase activity	GO_0034921	0	1	0	0	0
+cis-3,4-phenanthrenedihydrodiol-4-carboxylate dehydrogenase activity	GO_0034924	0	1	0	0	0
+cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase activity	GO_0018507	0	1	0	0	0
+cis-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase activity	GO_0018473	0	1	0	0	0
+cis-2-enoyl-CoA reductase (NADPH) activity	GO_0047774	0	1	0	0	0
+cis-2,3-dihydrodiol DDT dehydrogenase activity	GO_0018499	0	1	0	0	0
+cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase activity	GO_0018509	0	1	0	0	0
+cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase activity	GO_0018508	0	1	0	0	0
+cis-1,2-dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate dehydrogenase activity	GO_0018520	0	1	0	0	0
+cis-1,2-dihydroxy-1,2-dihydro-8-carboxynaphthalene dehydrogenase activity	GO_0034522	0	1	0	0	0
+cis-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	GO_0018504	0	1	0	0	0
+cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase activity	GO_0018505	0	1	0	0	0
+cinnamyl-alcohol dehydrogenase activity	GO_0045551	0	1	0	0	0
+cinnamoyl-CoA reductase activity	GO_0016621	0	1	0	0	0
+cinnamate reductase activity	GO_0043786	0	1	0	0	0
+chromate reductase activity	GO_0034567	0	1	0	0	0
+choline:oxygen 1-oxidoreductase activity	GO_0033713	0	1	0	0	0
+choline monooxygenase activity	GO_0019133	0	1	0	0	0
+choline dehydrogenase activity	GO_0008812	0	1	0	0	0
+cholesterol oxidase activity	GO_0016995	0	1	0	0	0
+cholesterol monooxygenase (side-chain-cleaving) activity	GO_0008386	0	1	0	0	0
+cholesterol 7-alpha-monooxygenase activity	GO_0008123	0	1	0	0	0
+cholesterol 26-hydroxylase activity	GO_0031073	0	1	0	0	0
+cholesterol 25-hydroxylase activity	GO_0001567	0	1	0	0	0
+cholesterol 24-hydroxylase activity	GO_0033781	0	1	0	0	0
+cholestenone 5-alpha-reductase activity	GO_0047751	0	1	0	0	0
+cholestanetriol 26-monooxygenase activity	GO_0047749	0	1	0	0	0
+cholestanetetraol 26-dehydrogenase activity	GO_0047748	0	1	0	0	0
+cholest-5-ene-3-beta,7-alpha-diol 3-beta-dehydrogenase activity	GO_0047016	0	1	0	0	0
+cholest-4-en-3-one 26-monooxygenase activity	GO_0036199	0	1	0	0	0
+cholate 7-alpha-dehydrogenase activity	GO_0008709	0	1	0	0	0
+cholate 12-alpha dehydrogenase activity	GO_0047013	0	1	0	0	0
+chlorophyllide a oxygenase activity	GO_0052606	0	1	0	0	0
+chlorophyllide a oxygenase [overall] activity	GO_0010277	0	1	0	0	0
+chlorophyll(ide) b reductase activity	GO_0034256	0	1	0	0	0
+chlorophenol 4-monooxygenase activity	GO_0018642	0	1	0	0	0
+chlorocatechol 1,2-dioxygenase activity	GO_0018575	0	1	0	0	0
+chlorobenzene dioxygenase activity	GO_0018609	0	1	0	0	0
+chlorite O2-lyase activity	GO_0050587	0	1	0	0	0
+chloride peroxidase activity	GO_0016691	0	1	0	0	0
+chloridazon-catechol dioxygenase activity	GO_0047744	0	1	0	0	0
+chlordecone reductase activity	GO_0047743	0	1	0	0	0
+chlorate reductase activity	GO_0047143	0	1	0	0	0
+chloral hydrate dehydrogenase activity	GO_0018447	0	1	0	0	0
+cellobiose dehydrogenase (acceptor) activity	GO_0047735	0	1	0	0	0
+catechol oxidase activity	GO_0004097	0	1	0	0	0
+catechol oxidase (dimerizing) activity	GO_0047731	0	1	0	0	0
+catechol dioxygenase activity	GO_0019114	0	1	0	0	0
+catechol 2,3-dioxygenase activity	GO_0018577	0	1	0	0	0
+catechol 1,2-dioxygenase activity	GO_0018576	0	1	0	0	0
+catalase activity	GO_0004096	0	1	0	0	0
+carvone reductase activity	GO_0018494	0	1	0	0	0
+carveol dehydrogenase activity	GO_0018459	0	1	0	0	0
+carotenoid dioxygenase activity	GO_0010436	0	1	0	0	0
+carotene epsilon hydroxylase activity	GO_0072374	0	1	0	0	0
+carotene beta-ring hydroxylase activity	GO_0010291	0	1	0	0	0
+carotene 7,8-desaturase activity	GO_0016719	0	1	0	0	0
+carnitine 3-dehydrogenase activity	GO_0047728	0	1	0	0	0
+carboxylate reductase activity	GO_0047770	0	1	0	0	0
+carbonyl sulfide nitrogenase activity	GO_0018697	0	1	0	0	0
+carbonyl reductase (NADPH) activity	GO_0004090	0	1	0	0	0
+carbon-monoxide oxygenase activity	GO_0008805	0	1	0	0	0
+carbon-monoxide dehydrogenase (ferredoxin) activity	GO_0043885	0	1	0	0	0
+carbon-monoxide dehydrogenase (acceptor) activity	GO_0018492	0	1	0	0	0
+carbon disulfide oxygenase activity	GO_0018643	0	1	0	0	0
+carbazole 1,9a-dioxygenase activity	GO_0018564	0	1	0	0	0
+canthaxanthin 3-hydroxylase activity	GO_0052613	0	1	0	0	0
+camphor 5-monooxygenase activity	GO_0018683	0	1	0	0	0
+camphor 1,2-monooxygenase activity	GO_0018684	0	1	0	0	0
+calcidiol 1-monooxygenase activity	GO_0004498	0	1	0	0	0
+caffeine oxidase activity	GO_0034875	0	1	0	0	0
+caffeate 3,4-dioxygenase activity	GO_0047762	0	1	0	0	0
+butyryl-CoA dehydrogenase activity	GO_0004085	0	1	0	0	0
+butanol dehydrogenase activity	GO_1990362	0	1	0	0	0
+butane monooxygenase activity	GO_0036174	0	1	0	0	0
+butanal dehydrogenase activity	GO_0047759	0	1	0	0	0
+bromide peroxidase activity	GO_0019806	0	1	0	0	0
+branched-chain dodecylbenzene sulfonate monooxygenase activity	GO_0034802	0	1	0	0	0
+bisphenol A hydroxylase B activity	GO_0034559	0	1	0	0	0
+bisphenol A hydroxylase A activity	GO_0034560	0	1	0	0	0
+bis-gamma-glutamylcystine reductase activity	GO_0047135	0	1	0	0	0
+biphenyl-2,3-diol 1,2-dioxygenase activity	GO_0018583	0	1	0	0	0
+biphenyl 2,3-dioxygenase activity	GO_0018687	0	1	0	0	0
+biochanin-A reductase activity	GO_0047706	0	1	0	0	0
+biliverdin reductase activity	GO_0004074	0	1	0	0	0
+bilirubin oxidase activity	GO_0047705	0	1	0	0	0
+bile-acid 7alpha-dehydroxylase activity	GO_0033792	0	1	0	0	0
+betaine-aldehyde dehydrogenase activity	GO_0008802	0	1	0	0	0
+betaine reductase activity	GO_0033795	0	1	0	0	0
+beta-nitroacrylate reductase activity	GO_0047703	0	1	0	0	0
+beta-cyclopiazonate dehydrogenase activity	GO_0050448	0	1	0	0	0
+beta-cryptoxanthin hydroxylase activity	GO_0052610	0	1	0	0	0
+beta-carotene 3-hydroxylase activity	GO_0052611	0	1	0	0	0
+beta-carotene 15,15'-monooxygenase activity	GO_0003834	0	1	0	0	0
+beta-alanopine dehydrogenase activity	GO_0047697	0	1	0	0	0
+beta,beta-carotene-9',10'-dioxygenase activity	GO_0050541	0	1	0	0	0
+berberine reductase activity	GO_0050623	0	1	0	0	0
+berbamunine synthase activity	GO_0047054	0	1	0	0	0
+benzyl-2-methyl-hydroxybutyrate dehydrogenase activity	GO_0047027	0	1	0	0	0
+benzoyl-CoA reductase activity	GO_0018522	0	1	0	0	0
+benzoyl-CoA 3-monooxygenase activity	GO_0047090	0	1	0	0	0
+benzothiazole monooxygenase activity	GO_0034859	0	1	0	0	0
+benzoate 4-monooxygenase activity	GO_0018664	0	1	0	0	0
+benzoate 1,2-dioxygenase activity	GO_0018623	0	1	0	0	0
+benzo(a)pyrene-trans-11,12-dihydrodiol dehydrogenase activity	GO_0034805	0	1	0	0	0
+benzo(a)pyrene-cis-4,5-dihydrodiol dehydrogenase activity	GO_0034809	0	1	0	0	0
+benzo(a)pyrene 9,10-dioxygenase activity	GO_0034811	0	1	0	0	0
+benzo(a)pyrene 7,8-dioxygenase activity	GO_0034813	0	1	0	0	0
+benzo(a)pyrene 4,5-dioxygenase activity	GO_0034808	0	1	0	0	0
+benzo(a)pyrene 11,12-epoxidase activity	GO_0034804	0	1	0	0	0
+benzo(a)pyrene 11,12-dioxygenase activity	GO_0034806	0	1	0	0	0
+benzenesulfonate dioxygenase activity	GO_0018606	0	1	0	0	0
+benzene 1,2-dioxygenase activity	GO_0018619	0	1	0	0	0
+benzaldehyde dehydrogenase activity	GO_0019115	0	1	0	0	0
+benzaldehyde dehydrogenase (NADP+) activity	GO_0018477	0	1	0	0	0
+benzaldehyde dehydrogenase (NAD+) activity	GO_0018479	0	1	0	0	0
+azobenzene reductase activity	GO_0050446	0	1	0	0	0
+aureusidin synthase activity	GO_0033793	0	1	0	0	0
+atrazine N-dealkylase activity	GO_0018682	0	1	0	0	0
+aspartate-semialdehyde dehydrogenase activity	GO_0004073	0	1	0	0	0
+aspartate oxidase activity	GO_0015922	0	1	0	0	0
+aspartate dehydrogenase activity	GO_0033735	0	1	0	0	0
+asparagusate reductase activity	GO_0050445	0	1	0	0	0
+aryl-aldehyde oxidase activity	GO_0018488	0	1	0	0	0
+aryl-aldehyde dehydrogenase (NADP+) activity	GO_0047683	0	1	0	0	0
+aryl-aldehyde dehydrogenase (NAD) activity	GO_0019108	0	1	0	0	0
+aryl-alcohol oxidase activity	GO_0047682	0	1	0	0	0
+aryl-alcohol dehydrogenase (NADP+) activity	GO_0047681	0	1	0	0	0
+aryl-alcohol dehydrogenase (NAD+) activity	GO_0018456	0	1	0	0	0
+arsenate reductase activity	GO_0030611	0	1	0	0	0
+arsenate reductase (thioredoxin) activity	GO_0030612	0	1	0	0	0
+arsenate reductase (glutaredoxin) activity	GO_0008794	0	1	0	0	0
+arsenate reductase (donor) activity	GO_0050612	0	1	0	0	0
+arsenate reductase (azurin) activity	GO_0050611	0	1	0	0	0
+aromatase activity	GO_0070330	0	1	0	0	0
+arogenate dehydrogenase [NAD(P)+] activity	GO_0033731	0	1	0	0	0
+arogenate dehydrogenase (NADP+) activity	GO_0033730	0	1	0	0	0
+arginine 2-monooxygenase activity	GO_0047678	0	1	0	0	0
+aralkylamine dehydrogenase (azurin) activity	GO_0030059	0	1	0	0	0
+arachidonic acid omega-hydroxylase activity	GO_0052869	0	1	0	0	0
+arachidonic acid monooxygenase activity	GO_0008391	0	1	0	0	0
+arachidonic acid epoxygenase activity	GO_0008392	0	1	0	0	0
+arachidonic acid 14,15-epoxygenase activity	GO_0008404	0	1	0	0	0
+arachidonic acid 11,12-epoxygenase activity	GO_0008405	0	1	0	0	0
+arachidonate 8(S)-lipoxygenase activity	GO_0036403	0	1	0	0	0
+arachidonate 8(R)-lipoxygenase activity	GO_0047677	0	1	0	0	0
+arachidonate 5-lipoxygenase activity	GO_0004051	0	1	0	0	0
+arachidonate 15-lipoxygenase activity	GO_0050473	0	1	0	0	0
+arachidonate 12-lipoxygenase activity	GO_0004052	0	1	0	0	0
+aquacobalamin reductase activity	GO_0047138	0	1	0	0	0
+aquacobalamin reductase (NADPH) activity	GO_0050444	0	1	0	0	0
+apo-beta-carotenoid-14',13'-dioxygenase activity	GO_0050588	0	1	0	0	0
+apiose 1-reductase activity	GO_0047674	0	1	0	0	0
+anthraniloyl-CoA monooxygenase activity	GO_0018673	0	1	0	0	0
+anthranilate 3-monooxygenase activity	GO_0050478	0	1	0	0	0
+anthranilate 3-monooxygenase (deaminating) activity	GO_0018672	0	1	0	0	0
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) activity	GO_0018618	0	1	0	0	0
+anthracene 9,10-dioxygenase activity	GO_0034816	0	1	0	0	0
+anthocyanidin reductase activity	GO_0033729	0	1	0	0	0
+antheraxanthin epoxidase activity	GO_0052663	0	1	0	0	0
+anhydrotetracycline monooxygenase activity	GO_0047670	0	1	0	0	0
+androsterone dehydrogenase activity	GO_0047023	0	1	0	0	0
+androsterone dehydrogenase (B-specific) activity	GO_0047042	0	1	0	0	0
+androsterone dehydrogenase (A-specific) activity	GO_0047026	0	1	0	0	0
+androstan-3-alpha,17-beta-diol dehydrogenase activity	GO_0047044	0	1	0	0	0
+androst-4-ene-3,17-dione monooxygenase activity	GO_0047096	0	1	0	0	0
+ammonia monooxygenase activity	GO_0018597	0	1	0	0	0
+aminomuconate-semialdehyde dehydrogenase activity	GO_0047102	0	1	0	0	0
+aminobutyraldehyde dehydrogenase activity	GO_0019145	0	1	0	0	0
+aminoacetone:oxygen oxidoreductase(deaminating) activity	GO_0052594	0	1	0	0	0
+amine dehydrogenase activity	GO_0030058	0	1	0	0	0
+alternative oxidase activity	GO_0009916	0	1	0	0	0
+alpha-tocopherol omega-hydroxylase activity	GO_0052871	0	1	0	0	0
+alpha-santonin 1,2-reductase activity	GO_0047659	0	1	0	0	0
+alpha-pinene monooxygenase activity	GO_0018595	0	1	0	0	0
+alpha-pinene monooxygenase [NADH] activity	GO_0018634	0	1	0	0	0
+alpha-pinene dehydrogenase activity	GO_0018600	0	1	0	0	0
+alpha-ketoglutarate-dependent xanthine dioxygenase activity	GO_0097641	0	1	0	0	0
+alpha-ketoacid dehydrogenase activity	GO_0003826	0	1	0	0	0
+alpha-keto ester reductase activity	GO_0051269	0	1	0	0	0
+alpha-keto amide reductase activity	GO_0051268	0	1	0	0	0
+alpha-carotene epsilon hydroxylase activity	GO_0072373	0	1	0	0	0
+allyl-alcohol dehydrogenase activity	GO_0047655	0	1	0	0	0
+all-trans-retinol 13,14-reductase activity	GO_0051786	0	1	0	0	0
+alkyl hydroperoxide reductase activity	GO_0008785	0	1	0	0	0
+alkene monooxygenase activity	GO_0018645	0	1	0	0	0
+alkanesulfonate monooxygenase activity	GO_0008726	0	1	0	0	0
+alkane 1-monooxygenase activity	GO_0018685	0	1	0	0	0
+alkanal monooxygenase (FMN-linked) activity	GO_0047646	0	1	0	0	0
+alkan-1-ol dehydrogenase (acceptor) activity	GO_0047645	0	1	0	0	0
+aliphatic-amine oxidase activity	GO_0052595	0	1	0	0	0
+aldose-6-phosphate reductase (NADPH) activity	GO_0047641	0	1	0	0	0
+aldose 1-dehydrogenase activity	GO_0047640	0	1	0	0	0
+aldo-keto reductase (NADP) activity	GO_0004033	0	1	0	0	0
+alditol:NADP+ 1-oxidoreductase activity	GO_0004032	0	1	0	0	0
+aldehyde oxidase activity	GO_0004031	0	1	0	0	0
+aldehyde ferredoxin oxidoreductase activity	GO_0033726	0	1	0	0	0
+aldehyde dehydrogenase [NAD(P)+] activity	GO_0004030	0	1	0	0	0
+aldehyde dehydrogenase (pyrroloquinoline-quinone) activity	GO_0047113	0	1	0	0	0
+aldehyde dehydrogenase (NADP+) activity	GO_0033721	0	1	0	0	0
+aldehyde dehydrogenase (NAD) activity	GO_0004029	0	1	0	0	0
+aldehyde dehydrogenase (FAD-independent) activity	GO_0033727	0	1	0	0	0
+alcohol oxidase activity	GO_0047639	0	1	0	0	0
+alcohol dehydrogenase activity, zinc-dependent	GO_0004024	0	1	0	0	0
+alcohol dehydrogenase activity, metal ion-independent	GO_0004023	0	1	0	0	0
+alcohol dehydrogenase activity, iron-dependent	GO_0004025	0	1	0	0	0
+alcohol dehydrogenase [NAD(P)+] activity	GO_0018455	0	1	0	0	0
+alcohol dehydrogenase (cytochrome c) activity	GO_0052934	0	1	0	0	0
+alcohol dehydrogenase (cytochrome c(L)) activity	GO_0052933	0	1	0	0	0
+alcohol dehydrogenase (acceptor) activity	GO_0018468	0	1	0	0	0
+alcohol dehydrogenase (NADP+) activity	GO_0008106	0	1	0	0	0
+alcohol dehydrogenase (NAD) activity	GO_0004022	0	1	0	0	0
+albendazole monooxygenase activity	GO_0047638	0	1	0	0	0
+alanopine dehydrogenase activity	GO_0047636	0	1	0	0	0
+alanine dehydrogenase activity	GO_0000286	0	1	0	0	0
+aflatoxin reductase (coenzyme F420) activity	GO_0052807	0	1	0	0	0
+adonirubin 3-hydroxylase activity	GO_0052612	0	1	0	0	0
+adenylyl-sulfate reductase activity	GO_0009973	0	1	0	0	0
+adenylyl-sulfate reductase (thioredoxin) activity	GO_0043866	0	1	0	0	0
+adenylyl-sulfate reductase (glutathione) activity	GO_0033741	0	1	0	0	0
+acyl-[acyl-carrier-protein] desaturase activity	GO_0045300	0	1	0	0	0
+acyl-CoA oxidase activity	GO_0003997	0	1	0	0	0
+acyl-CoA desaturase activity	GO_0016215	0	1	0	0	0
+acyl-CoA delta11-desaturase activity	GO_0017105	0	1	0	0	0
+acyl-CoA dehydrogenase activity	GO_0003995	0	1	0	0	0
+acyl-CoA dehydrogenase (NADP+) activity	GO_0047616	0	1	0	0	0
+acryloyl-CoA reductase activity	GO_0043958	0	1	0	0	0
+acryloyl-CoA reductase (NADP+) activity	GO_0043957	0	1	0	0	0
+acireductone dioxygenase [iron(II)-requiring] activity	GO_0010309	0	1	0	0	0
+acireductone dioxygenase (Ni2+-requiring) activity	GO_0010308	0	1	0	0	0
+acetylindoxyl oxidase activity	GO_0047608	0	1	0	0	0
+acetylacetone-cleaving enzyme activity	GO_0033752	0	1	0	0	0
+acetoin dehydrogenase activity	GO_0019152	0	1	0	0	0
+acetoacetyl-CoA reductase activity	GO_0018454	0	1	0	0	0
+acetanilide 1,2-dioxygenase activity	GO_0034907	0	1	0	0	0
+acetaldehyde dehydrogenase (acetylating) activity	GO_0008774	0	1	0	0	0
+abscisic aldehyde oxidase activity	GO_0010293	0	1	0	0	0
+abieta-7,13-diene hydroxylase activity	GO_0036189	0	1	0	0	0
+abieta-7,13-dien-18-ol hydroxylase activity	GO_0036204	0	1	0	0	0
+abieta-7,13-dien-18-al dehydrogenase activity	GO_0036188	0	1	0	0	0
+[methionine synthase] reductase activity	GO_0030586	0	1	0	0	0
+[formate-C-acetyltransferase]-activating enzyme activity	GO_0043365	0	1	0	0	0
+Watasenia-luciferin 2-monooxygenase activity	GO_0050397	0	1	0	0	0
+UDP-glucose 6-dehydrogenase activity	GO_0003979	0	1	0	0	0
+UDP-N-acetylmuramate dehydrogenase activity	GO_0008762	0	1	0	0	0
+UDP-N-acetylglucosamine 6-dehydrogenase activity	GO_0047004	0	1	0	0	0
+UDP-N-acetyl-D-mannosamine dehydrogenase activity	GO_0089714	0	1	0	0	0
+UDP-4-keto-rhamnose-4-keto-reductase activity	GO_0010490	0	1	0	0	0
+UDP reductase activity	GO_0051062	0	1	0	0	0
+TTP reductase activity	GO_0051064	0	1	0	0	0
+S-nitrosoglutathione reductase activity	GO_0080007	0	1	0	0	0
+S-lactaldehyde reductase activity	GO_0052661	0	1	0	0	0
+S-(hydroxymethyl)glutathione dehydrogenase activity	GO_0051903	0	1	0	0	0
+Renilla-luciferin 2-monooxygenase activity	GO_0050248	0	1	0	0	0
+R-lactaldehyde reductase activity	GO_0052660	0	1	0	0	0
+Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity	GO_0047077	0	1	0	0	0
+Oplophorus-luciferin 2-monooxygenase activity	GO_0033756	0	1	0	0	0
+NADPH:sulfur oxidoreductase activity	GO_0043914	0	1	0	0	0
+NADPH:quinone reductase activity	GO_0003960	0	1	0	0	0
+NADPH-hemoprotein reductase activity	GO_0003958	0	1	0	0	0
+NADPH-dependent dihydrocurcumin reductase activity	GO_0052850	0	1	0	0	0
+NADPH-dependent curcumin reductase activity	GO_0052849	0	1	0	0	0
+NADPH-cytochrome-c2 reductase activity	GO_0015047	0	1	0	0	0
+NADPH-adrenodoxin reductase activity	GO_0015039	0	1	0	0	0
+NADPH peroxidase activity	GO_0050137	0	1	0	0	0
+NADPH dehydrogenase activity	GO_0003959	0	1	0	0	0
+NADPH dehydrogenase (quinone) activity	GO_0008753	0	1	0	0	0
+NADP-retinol dehydrogenase activity	GO_0052650	0	1	0	0	0
+NADH peroxidase activity	GO_0016692	0	1	0	0	0
+NADH dehydrogenase activity	GO_0003954	0	1	0	0	0
+NADH dehydrogenase (ubiquinone) activity	GO_0008137	0	1	0	0	0
+NADH dehydrogenase (quinone) activity	GO_0050136	0	1	0	0	0
+NADH dehydrogenase (plastoquinone) activity	GO_0031679	0	1	0	0	0
+NAD(P)H oxidase activity	GO_0016174	0	1	0	0	0
+NAD(P)H nitroreductase activity	GO_0018545	0	1	0	0	0
+NAD(P)H dehydrogenase (quinone) activity	GO_0003955	0	1	0	0	0
+NAD(P)+ transhydrogenase activity	GO_0008746	0	1	0	0	0
+NAD(P)+ transhydrogenase (B-specific) activity	GO_0003957	0	1	0	0	0
+NAD(P)+ transhydrogenase (AB-specific) activity	GO_0008750	0	1	0	0	0
+N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity	GO_0052897	0	1	0	0	0
+N6-methyl-lysine oxidase activity	GO_0050134	0	1	0	0	0
+N5-(carboxyethyl)ornithine synthase activity	GO_0047126	0	1	0	0	0
+N5,N10-methenyltetrahydromethanopterin hydrogenase activity	GO_0047068	0	1	0	0	0
+N2-acetyl-L-aminoadipate semialdehyde dehydrogenase activity	GO_0043745	0	1	0	0	0
+N1-acetylspermine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity	GO_0052893	0	1	0	0	0
+N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity	GO_0052895	0	1	0	0	0
+N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity	GO_0052903	0	1	0	0	0
+N1-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity	GO_0052898	0	1	0	0	0
+N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity	GO_0052904	0	1	0	0	0
+N-nitrodimethylamine hydroxylase activity	GO_0034893	0	1	0	0	0
+N-methylcoclaurine 3'-monooxygenase activity	GO_0050593	0	1	0	0	0
+N-methylalanine dehydrogenase activity	GO_0050132	0	1	0	0	0
+N-methyl-L-amino-acid oxidase activity	GO_0050131	0	1	0	0	0
+N-isopropylaniline 1,2-dixoxygenase activity	GO_0034906	0	1	0	0	0
+N-isopropylacetaniline monooxygenase activity	GO_0034577	0	1	0	0	0
+N-hydroxy-L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)	GO_0090491	0	1	0	0	0
+N-hydroxy-2-acetamidofluorene reductase activity	GO_0047137	0	1	0	0	0
+N-ethylmaleimide reductase activity	GO_0008748	0	1	0	0	0
+N-acylmannosamine 1-dehydrogenase activity	GO_0050123	0	1	0	0	0
+N-acylhexosamine oxidase activity	GO_0050122	0	1	0	0	0
+N-acetylhexosamine 1-dehydrogenase activity	GO_0050120	0	1	0	0	0
+N-acetyl-gamma-glutamyl-phosphate reductase activity	GO_0003942	0	1	0	0	0
+N-acetyl-gamma-aminoadipyl-phosphate reductase activity	GO_0043870	0	1	0	0	0
+N,N-dimethylaniline monooxygenase activity	GO_0004499	0	1	0	0	0
+N(1),N(12)-diacetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity	GO_0052899	0	1	0	0	0
+Methanosarcina-phenazine hydrogenase activity	GO_0051911	0	1	0	0	0
+Latia-luciferin monooxygenase (demethylating) activity	GO_0047098	0	1	0	0	0
+L-xylulose reductase (NADP+) activity	GO_0050038	0	1	0	0	0
+L-xylulose reductase (NAD+) activity	GO_0044105	0	1	0	0	0
+L-xylose 1-dehydrogenase activity	GO_0050037	0	1	0	0	0
+L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating, decarboxylating)	GO_0090489	0	1	0	0	0
+L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)	GO_0090490	0	1	0	0	0
+L-threonine 3-dehydrogenase activity	GO_0008743	0	1	0	0	0
+L-threonate 3-dehydrogenase activity	GO_0050036	0	1	0	0	0
+L-sorbose oxidase activity	GO_0050035	0	1	0	0	0
+L-rhamnose 1-dehydrogenase activity	GO_0050034	0	1	0	0	0
+L-pipecolate oxidase activity	GO_0050031	0	1	0	0	0
+L-pipecolate dehydrogenase activity	GO_0050030	0	1	0	0	0
+L-methionine:thioredoxin-disulfide S-oxidoreductase activity	GO_0033744	0	1	0	0	0
+L-methionine-(S)-S-oxide reductase activity	GO_0036456	0	1	0	0	0
+L-methionine-(R)-S-oxide reductase activity	GO_0033745	0	1	0	0	0
+L-malate dehydrogenase activity	GO_0030060	0	1	0	0	0
+L-lysine oxidase activity	GO_0050029	0	1	0	0	0
+L-lysine 6-oxidase activity	GO_0033736	0	1	0	0	0
+L-lysine 6-monooxygenase (NADPH) activity	GO_0047091	0	1	0	0	0
+L-lactate dehydrogenase activity	GO_0004459	0	1	0	0	0
+L-lactate dehydrogenase (cytochrome) activity	GO_0004460	0	1	0	0	0
+L-idonate 5-dehydrogenase activity	GO_0050572	0	1	0	0	0
+L-iditol 2-dehydrogenase activity	GO_0003939	0	1	0	0	0
+L-gulonolactone oxidase activity	GO_0050105	0	1	0	0	0
+L-gulono-1,4-lactone dehydrogenase activity	GO_0080049	0	1	0	0	0
+L-gulonate 3-dehydrogenase activity	GO_0050104	0	1	0	0	0
+L-glycol dehydrogenase activity	GO_0050026	0	1	0	0	0
+L-glutamate oxidase activity	GO_0050025	0	1	0	0	0
+L-glucuronate reductase activity	GO_0047939	0	1	0	0	0
+L-galactose dehydrogenase activity	GO_0010349	0	1	0	0	0
+L-galactonolactone oxidase activity	GO_0050024	0	1	0	0	0
+L-erythro-3,5-diaminohexanoate dehydrogenase activity	GO_0047124	0	1	0	0	0
+L-aspartate:fumarate oxidoreductase activity	GO_0044318	0	1	0	0	0
+L-aspartate oxidase activity	GO_0008734	0	1	0	0	0
+L-ascorbate-cytochrome-b5 reductase activity	GO_0047063	0	1	0	0	0
+L-ascorbate peroxidase activity	GO_0016688	0	1	0	0	0
+L-ascorbate oxidase activity	GO_0008447	0	1	0	0	0
+L-arabinose:NADP reductase activity	GO_0032867	0	1	0	0	0
+L-arabinose 1-dehydrogenase (NADP+) activity	GO_0044103	0	1	0	0	0
+L-arabinose 1-dehydrogenase (NAD+) activity	GO_0050022	0	1	0	0	0
+L-arabinitol 4-dehydrogenase activity	GO_0050019	0	1	0	0	0
+L-arabinitol 2-dehydrogenase activity	GO_0047002	0	1	0	0	0
+L-aminoadipate-semialdehyde dehydrogenase activity	GO_0004043	0	1	0	0	0
+L-amino-acid oxidase activity	GO_0001716	0	1	0	0	0
+L-amino-acid dehydrogenase activity	GO_0050018	0	1	0	0	0
+L-DOPA monooxygenase activity	GO_0036263	0	1	0	0	0
+L-2-hydroxyglutarate oxidase activity	GO_0034419	0	1	0	0	0
+IMP dehydrogenase activity	GO_0003938	0	1	0	0	0
+GMP reductase activity	GO_0003920	0	1	0	0	0
+GDP-mannose 6-dehydrogenase activity	GO_0047919	0	1	0	0	0
+GDP-L-fucose synthase activity	GO_0050577	0	1	0	0	0
+GDP-6-deoxy-D-talose 4-dehydrogenase activity	GO_0047916	0	1	0	0	0
+GDP-4-dehydro-D-rhamnose reductase activity	GO_0042356	0	1	0	0	0
+GDP-4-dehydro-6-deoxy-D-mannose reductase activity	GO_0033705	0	1	0	0	0
+FMN reductase activity	GO_0008752	0	1	0	0	0
+FMN reductase (NADPH) activity	GO_0052873	0	1	0	0	0
+FMN reductase (NADH) activity	GO_0052874	0	1	0	0	0
+DOPA dioxygenase activity	GO_0046566	0	1	0	0	0
+DNA-N1-methyladenine dioxygenase activity	GO_0043734	0	1	0	0	0
+DDT 2,3-dioxygenase activity	GO_0018688	0	1	0	0	0
+D-xylulose reductase activity	GO_0046526	0	1	0	0	0
+D-xylose:NADP reductase activity	GO_0032866	0	1	0	0	0
+D-xylose 1-dehydrogenase (NADP+) activity	GO_0047837	0	1	0	0	0
+D-xylose 1-dehydrogenase (NAD) activity	GO_0047838	0	1	0	0	0
+D-threo-aldose 1-dehydrogenase activity	GO_0047834	0	1	0	0	0
+D-sorbitol dehydrogenase (acceptor) activity	GO_0047833	0	1	0	0	0
+D-proline reductase (dithiol) activity	GO_0050002	0	1	0	0	0
+D-pinitol dehydrogenase activity	GO_0047832	0	1	0	0	0
+D-octopine dehydrogenase activity	GO_0047830	0	1	0	0	0
+D-nopaline dehydrogenase activity	GO_0047829	0	1	0	0	0
+D-mannitol oxidase activity	GO_0050581	0	1	0	0	0
+D-malate dehydrogenase (decarboxylating) activity	GO_0046553	0	1	0	0	0
+D-lysopine dehydrogenase activity	GO_0047827	0	1	0	0	0
+D-lysine oxidase activity	GO_0043912	0	1	0	0	0
+D-lactate dehydrogenase activity	GO_0008720	0	1	0	0	0
+D-lactate dehydrogenase (cytochrome) activity	GO_0004458	0	1	0	0	0
+D-lactate dehydrogenase (cytochrome c-553) activity	GO_0047051	0	1	0	0	0
+D-iditol 2-dehydrogenase activity	GO_0047824	0	1	0	0	0
+D-glutamate(D-aspartate) oxidase activity	GO_0047819	0	1	0	0	0
+D-glutamate oxidase activity	GO_0047821	0	1	0	0	0
+D-aspartate oxidase activity	GO_0008445	0	1	0	0	0
+D-arabinose 1-dehydrogenase [NAD(P)+] activity	GO_0045290	0	1	0	0	0
+D-arabinose 1-dehydrogenase (NAD) activity	GO_0047816	0	1	0	0	0
+D-arabinono-1,4-lactone oxidase activity	GO_0003885	0	1	0	0	0
+D-arabinitol dehydrogenase, D-xylulose forming (NADP+) activity	GO_0052677	0	1	0	0	0
+D-arabinitol dehydrogenase, D-ribulose forming (NADP+) activity	GO_0033709	0	1	0	0	0
+D-arabinitol 4-dehydrogenase activity	GO_0047813	0	1	0	0	0
+D-arabinitol 2-dehydrogenase activity	GO_0047038	0	1	0	0	0
+D-amino-acid oxidase activity	GO_0003884	0	1	0	0	0
+D-amino-acid dehydrogenase activity	GO_0008718	0	1	0	0	0
+D-2-hydroxyacid dehydrogenase (quinone) activity	GO_1990464	0	1	0	0	0
+D-2-hydroxy-acid dehydrogenase activity	GO_0047809	0	1	0	0	0
+Cypridina-luciferin 2-monooxygenase activity	GO_0047712	0	1	0	0	0
+CoB--CoM heterodisulfide reductase activity	GO_0051912	0	1	0	0	0
+CoA-glutathione reductase activity	GO_0050452	0	1	0	0	0
+CoA-disulfide reductase activity	GO_0050451	0	1	0	0	0
+CTP reductase activity	GO_0051065	0	1	0	0	0
+CMP-N-acetylneuraminate monooxygenase activity	GO_0030338	0	1	0	0	0
+CDP-4-dehydro-6-deoxyglucose reductase activity	GO_0047099	0	1	0	0	0
+CDP reductase activity	GO_0051063	0	1	0	0	0
+C-5 sterol desaturase activity	GO_0000248	0	1	0	0	0
+C-4 methylsterol oxidase activity	GO_0000254	0	1	0	0	0
+C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity	GO_0000252	0	1	0	0	0
+C-22 sterol desaturase activity	GO_0000249	0	1	0	0	0
+C-20 gibberellin 2-beta-dioxygenase activity	GO_0052635	0	1	0	0	0
+C-19 gibberellin 2-beta-dioxygenase activity	GO_0052634	0	1	0	0	0
+ADP reductase activity	GO_0051061	0	1	0	0	0
+ADD 9alpha-hydroxylase activity	GO_0034818	0	1	0	0	0
+9beta-pimara-7,15-diene oxidase activity	GO_0036209	0	1	0	0	0
+9-fluorenone-3,4-dioxygenase activity	GO_0034786	0	1	0	0	0
+9-fluorenone dioxygenase activity	GO_0018613	0	1	0	0	0
+9-cis-epoxycarotenoid dioxygenase activity	GO_0045549	0	1	0	0	0
+9,9'-dicis-carotene:quinone oxidoreductase activity	GO_0052886	0	1	0	0	0
+9,10-dihydroxybenzo(a)pyrene dioxygenase activity	GO_0034812	0	1	0	0	0
+9,10 (9', 10')-carotenoid-cleaving dioxygenase activity	GO_0010437	0	1	0	0	0
+8-oxocoformycin reductase activity	GO_0047599	0	1	0	0	0
+8-methylthiopropyl glucosinolate S-oxygenase activity	GO_0080107	0	1	0	0	0
+7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase activity	GO_0033778	0	1	0	0	0
+7-methylthiopropyl glucosinolate S-oxygenase activity	GO_0080106	0	1	0	0	0
+7-hydroxymethyl chlorophyll a reductase activity	GO_0090415	0	1	0	0	0
+7-hydroxy-chlorophyllide a oxygenase activity	GO_0052607	0	1	0	0	0
+7-deoxyloganin 7-hydroxylase activity	GO_0050595	0	1	0	0	0
+7-dehydrocholesterol reductase activity	GO_0047598	0	1	0	0	0
+7-beta-hydroxysteroid dehydrogenase (NADP+) activity	GO_0047022	0	1	0	0	0
+7,9,9'-tricis-neurosporene:quinone oxidoreductase activity	GO_0052887	0	1	0	0	0
+7,8-dihydroxykynurenate 8,8a-dioxygenase activity	GO_0047069	0	1	0	0	0
+7,8-dihydroxy benzo(a)pyrene dioxygenase activity	GO_0034814	0	1	0	0	0
+6-pyruvoyltetrahydropterin 2'-reductase activity	GO_0047028	0	1	0	0	0
+6-oxohexanoate dehydrogenase activity	GO_0018483	0	1	0	0	0
+6-oxocineole dehydrogenase activity	GO_0047597	0	1	0	0	0
+6-methylthiopropyl glucosinolate S-oxygenase activity	GO_0080105	0	1	0	0	0
+6-hydroxypseudooxynicotine dehydrogenase activity	GO_0034909	0	1	0	0	0
+6-hydroxynicotinate reductase activity	GO_0047595	0	1	0	0	0
+6-hydroxynicotinate dehydrogenase activity	GO_0043732	0	1	0	0	0
+6-hydroxynicotinate 3-monooxygenase activity	GO_0043731	0	1	0	0	0
+6-hydroxyhexanoate dehydrogenase activity	GO_0018463	0	1	0	0	0
+6-hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity	GO_0018641	0	1	0	0	0
+6-hydroxy-2-mercaptobenzothiazole monooxygenase activity	GO_0034836	0	1	0	0	0
+6-hydroxy pseudo-oxynicotine monooxygenase activity	GO_0018686	0	1	0	0	0
+6-endo-hydroxycineole dehydrogenase activity	GO_0045481	0	1	0	0	0
+6-beta-hydroxyhyoscyamine epoxidase activity	GO_0047594	0	1	0	0	0
+6,7-dihydropteridine reductase activity	GO_0004155	0	1	0	0	0
+5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase activity	GO_0033779	0	1	0	0	0
+5alpha-androstane-3beta,17beta-diol dehydrogenase activity	GO_0047024	0	1	0	0	0
+5-pyridoxate dioxygenase activity	GO_0047592	0	1	0	0	0
+5-oxovalerate dehydrogenase activity	GO_0055043	0	1	0	0	0
+5-methylthiopropyl glucosinolate S-oxygenase activity	GO_0080104	0	1	0	0	0
+5-hydroxyvalerate dehydrogenase activity	GO_0033019	0	1	0	0	0
+5-exo-hydroxycamphor dehydrogenase activity	GO_0018452	0	1	0	0	0
+5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase activity	GO_0018480	0	1	0	0	0
+5-aminosalicylate dioxygenase activity	GO_0034543	0	1	0	0	0
+5-amino-6-(5-phosphoribosylamino)uracil reductase activity	GO_0008703	0	1	0	0	0
+5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase activity	GO_0047083	0	1	0	0	0
+5,6-dihydroxy-3-methyl-2-oxo-1,2-dihydroquinoline dioxygenase activity	GO_0018558	0	1	0	0	0
+5,6-dihydroxy-3-methyl-2-oxo-1,2,5,6-tetrahydroquinoline dehydrogenase activity	GO_0018518	0	1	0	0	0
+5,10-methenyl-5,6,7,8-tetrahydromethanopterin dehydrogenase activity	GO_0018532	0	1	0	0	0
+5(S)-hydroxyeicosatetraenoic acid dehydrogenase activity	GO_0097265	0	1	0	0	0
+4-trimethylammoniobutyraldehyde dehydrogenase activity	GO_0047105	0	1	0	0	0
+4-sulfobenzoate 3,4-dioxygenase activity	GO_0018621	0	1	0	0	0
+4-phosphoerythronate dehydrogenase activity	GO_0033711	0	1	0	0	0
+4-oxoproline reductase activity	GO_0016617	0	1	0	0	0
+4-nitrophenol 4-monooxygenase activity	GO_0018632	0	1	0	0	0
+4-nitrophenol 2-monooxygenase activity	GO_0018601	0	1	0	0	0
+4-nitrocatechol 4-monooxygenase activity	GO_0018592	0	1	0	0	0
+4-methylthiopropyl glucosinolate S-oxygenase activity	GO_0080103	0	1	0	0	0
+4-methyloctanoyl-CoA dehydrogenase activity	GO_0034580	0	1	0	0	0
+4-methoxybenzoate monooxygenase (O-demethylating) activity	GO_0018690	0	1	0	0	0
+4-ketotorulene 3-hydroxylase activity	GO_0052609	0	1	0	0	0
+4-isopropylaniline dehydrogenase activity	GO_0034575	0	1	0	0	0
+4-hydroxythreonine-4-phosphate dehydrogenase activity	GO_0050570	0	1	0	0	0
+4-hydroxyquinoline 3-monooxygenase activity	GO_0047093	0	1	0	0	0
+4-hydroxypyridine-3-hydroxylase activity	GO_0034894	0	1	0	0	0
+4-hydroxyphenylpyruvate oxidase activity	GO_0018490	0	1	0	0	0
+4-hydroxyphenylpyruvate dioxygenase activity	GO_0003868	0	1	0	0	0
+4-hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxylating) activity	GO_0018660	0	1	0	0	0
+4-hydroxyphenylacetate 3-monooxygenase activity	GO_0052881	0	1	0	0	0
+4-hydroxyphenylacetate 1-monooxygenase activity	GO_0018665	0	1	0	0	0
+4-hydroxyphenylacetaldehyde oxime monooxygenase activity	GO_0050592	0	1	0	0	0
+4-hydroxyphenylacetaldehyde dehydrogenase activity	GO_0047106	0	1	0	0	0
+4-hydroxymuconic-semialdehyde dehydrogenase activity	GO_0018481	0	1	0	0	0
+4-hydroxymethylsalicyaldehyde dehydrogenase activity	GO_0034530	0	1	0	0	0
+4-hydroxymandelate synthase activity	GO_0050585	0	1	0	0	0
+4-hydroxymandelate oxidase activity	GO_0047579	0	1	0	0	0
+4-hydroxycyclohexanecarboxylate dehydrogenase activity	GO_0047030	0	1	0	0	0
+4-hydroxycatechol 1,2-dioxygenase activity	GO_0047074	0	1	0	0	0
+4-hydroxybutyrate dehydrogenase activity	GO_0047577	0	1	0	0	0
+4-hydroxybutaraldehyde dehydrogenase activity	GO_0018470	0	1	0	0	0
+4-hydroxybenzoyl-CoA reductase activity	GO_0018525	0	1	0	0	0
+4-hydroxybenzoate 3-monooxygenase activity	GO_0018659	0	1	0	0	0
+4-hydroxybenzoate 3-monooxygenase [NAD(P)H] activity	GO_0018671	0	1	0	0	0
+4-hydroxybenzoate 1-hydroxylase activity	GO_0018678	0	1	0	0	0
+4-hydroxybenzaldehyde dehydrogenase activity	GO_0018484	0	1	0	0	0
+4-hydroxyacetophenone monooxygenase activity	GO_0033767	0	1	0	0	0
+4-hydroxy-tetrahydrodipicolinate reductase	GO_0008839	0	1	0	0	0
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	GO_0046429	0	1	0	0	0
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase activity	GO_0051745	0	1	0	0	0
+4-formylbenzenesulfonate dehydrogenase activity	GO_0018482	0	1	0	0	0
+4-cresol dehydrogenase (hydroxylating) activity	GO_0018695	0	1	0	0	0
+4-chlorophenylacetate 3,4-dioxygenase activity	GO_0018622	0	1	0	0	0
+4-chlorophenoxyacetate monooxygenase activity	GO_0018593	0	1	0	0	0
+4-chloronitrobenzene nitroreductase activity	GO_0052602	0	1	0	0	0
+4-chlorobenzaldehyde oxidase activity	GO_0018471	0	1	0	0	0
+4-carboxy-4'-sulfoazobenzene reductase activity	GO_0018544	0	1	0	0	0
+4-carboxy-2-hydroxymuconate semialdehyde hemiacetal dehydrogenase activity	GO_0050606	0	1	0	0	0
+4-aminobenzoate 3,4-dioxygenase (deaminating) activity	GO_0018604	0	1	0	0	0
+4-aminobenzoate 1-monooxygenase activity	GO_0018670	0	1	0	0	0
+4-aminobenzenesulfonate 3,4-dioxygenase (deaminating) activity	GO_0018617	0	1	0	0	0
+4-amino-2-nitroso-6-nitrotoluene reductase activity	GO_0018543	0	1	0	0	0
+4-AD 9alpha-hydroxylase activity	GO_0034855	0	1	0	0	0
+4-(hydroxymethyl)benzenesulfonate dehydrogenase activity	GO_0018462	0	1	0	0	0
+4-(dimethylamino)phenylazoxybenzene reductase activity	GO_0047136	0	1	0	0	0
+4-(1-ethyl-1,4-dimethyl-pentyl)phenol monoxygenase activity	GO_0034897	0	1	0	0	0
+4,8,12-trimethyltrideca-1,3,7,11-tetraene synthase activity	GO_0097007	0	1	0	0	0
+4,6-dichloro-3-methylcatechol 1,2-dioxygenase activity	GO_0034936	0	1	0	0	0
+4,5-dihydroxypyrene dioxygenase activity	GO_0034922	0	1	0	0	0
+4,5-dihydroxybenzo(a)pyrene dioxygenase activity	GO_0034810	0	1	0	0	0
+4,4-dimethyl-3-oxopentanal dehydrogenase activity	GO_0034852	0	1	0	0	0
+4,4'-dihydroxy-alpha-methylstilbene dioxygenase activity	GO_0034564	0	1	0	0	0
+4'-methoxyisoflavone 2'-hydroxylase activity	GO_0047957	0	1	0	0	0
+3beta-hydroxy-5beta-steroid dehydrogenase activity	GO_0033703	0	1	0	0	0
+3beta-hydroxy-5alpha-steroid dehydrogenase activity	GO_0033704	0	1	0	0	0
+3alpha,7alpha,12beta-trihydroxy-5beta-cholanate dehydrogenase activity	GO_0047521	0	1	0	0	0
+3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase activity	GO_0033791	0	1	0	0	0
+3-sulfolactaldehyde reductase activity	GO_0061596	0	1	0	0	0
+3-phenylpropionate dioxygenase activity	GO_0008695	0	1	0	0	0
+3-oxosteroid 1-dehydrogenase activity	GO_0047571	0	1	0	0	0
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity	GO_0004316	0	1	0	0	0
+3-oxoacyl-[acyl-carrier-protein] reductase (NADH) activity	GO_0047025	0	1	0	0	0
+3-oxo-delta(4,5)-steroid 5-beta-reductase activity	GO_0035647	0	1	0	0	0
+3-oxo-5-beta-steroid 4-dehydrogenase activity	GO_0047568	0	1	0	0	0
+3-oxo-5-alpha-steroid 4-dehydrogenase activity	GO_0003865	0	1	0	0	0
+3-nitrophenol nitroreductase activity	GO_0034957	0	1	0	0	0
+3-monobromobisphenol A reductive dehalogenase activity	GO_0034540	0	1	0	0	0
+3-methylthiopropyl glucosinolate S-oxygenase activity	GO_0080102	0	1	0	0	0
+3-methylsalicylaldehyde dehydrogenase activity	GO_0034538	0	1	0	0	0
+3-methyleneoxindole reductase activity	GO_0047567	0	1	0	0	0
+3-methylbutanol:NADP oxidoreductase activity	GO_0052675	0	1	0	0	0
+3-methylbutanol:NAD(P) oxidoreductase activity	GO_0046568	0	1	0	0	0
+3-methylbutanol:NAD oxidoreductase activity	GO_0052676	0	1	0	0	0
+3-methyl-2-oxobutanoate dehydrogenase (ferredoxin) activity	GO_0043807	0	1	0	0	0
+3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity	GO_0003863	0	1	0	0	0
+3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity	GO_0018653	0	1	0	0	0
+3-ketosteroid 9-alpha-monooxygenase activity	GO_0036200	0	1	0	0	0
+3-ketoglucose-reductase activity	GO_0048258	0	1	0	0	0
+3-keto sterol reductase activity	GO_0000253	0	1	0	0	0
+3-isopropylmalate dehydrogenase activity	GO_0003862	0	1	0	0	0
+3-hydroxypropionate dehydrogenase (NADP+) activity	GO_0035527	0	1	0	0	0
+3-hydroxypropionate dehydrogenase (NAD+) activity	GO_0047565	0	1	0	0	0
+3-hydroxypimeloyl-CoA dehydrogenase activity	GO_0018464	0	1	0	0	0
+3-hydroxyphenylacetate 6-hydroxylase activity	GO_0047094	0	1	0	0	0
+3-hydroxymenthone dehydrogenase activity	GO_0034840	0	1	0	0	0
+3-hydroxyisobutyrate dehydrogenase activity	GO_0008442	0	1	0	0	0
+3-hydroxyindolin-2-one monooxygenase activity	GO_0036192	0	1	0	0	0
+3-hydroxycyclohexanone dehydrogenase activity	GO_0047564	0	1	0	0	0
+3-hydroxybutyryl-CoA dehydrogenase activity	GO_0008691	0	1	0	0	0
+3-hydroxybutyrate dehydrogenase activity	GO_0003858	0	1	0	0	0
+3-hydroxybenzyl-alcohol dehydrogenase activity	GO_0047048	0	1	0	0	0
+3-hydroxybenzoate 6-monooxygenase activity	GO_0018669	0	1	0	0	0
+3-hydroxybenzoate 4-monooxygenase activity	GO_0018668	0	1	0	0	0
+3-hydroxybenzoate 2-monooxygenase activity	GO_0047563	0	1	0	0	0
+3-hydroxyanthranilate oxidase activity	GO_0047561	0	1	0	0	0
+3-hydroxyacyl-CoA dehydrogenase activity	GO_0003857	0	1	0	0	0
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase activity	GO_0036383	0	1	0	0	0
+3-hydroxy-4-oxoquinoline 2,4-dioxygenase activity	GO_0047078	0	1	0	0	0
+3-hydroxy-4-methyloctanoyl-CoA dehydrogenase activity	GO_0034582	0	1	0	0	0
+3-hydroxy-2-naphthoate 2,3-dioxygenase activity	GO_0034803	0	1	0	0	0
+3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase activity	GO_0050586	0	1	0	0	0
+3-hydroxy-2-methylpyridinecarboxylate dioxygenase activity	GO_0047081	0	1	0	0	0
+3-hydroxy-2-methylhexanoyl-CoA dehydrogenase activity	GO_0034918	0	1	0	0	0
+3-hydroxy-2-methylbutyryl-CoA dehydrogenase activity	GO_0047015	0	1	0	0	0
+3-hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA dehydrogenase activity	GO_0034944	0	1	0	0	0
+3-formylsalicylate oxidase activity	GO_0034523	0	1	0	0	0
+3-dehydrosphinganine reductase activity	GO_0047560	0	1	0	0	0
+3-dehydro-L-gulonate 2-dehydrogenase activity	GO_0047559	0	1	0	0	0
+3-chloroallyl aldehyde dehydrogenase activity	GO_0004028	0	1	0	0	0
+3-carboxyethylcatechol 2,3-dioxygenase activity	GO_0047070	0	1	0	0	0
+3-beta-hydroxy-delta5-steroid dehydrogenase activity	GO_0003854	0	1	0	0	0
+3-alpha-hydroxyglycyrrhetinate dehydrogenase activity	GO_0047032	0	1	0	0	0
+3-alpha-hydroxycholanate dehydrogenase activity	GO_0047043	0	1	0	0	0
+3-alpha-hydroxy-5-beta-androstane-17-one 3-alpha-dehydrogenase activity	GO_0047009	0	1	0	0	0
+3-alpha,7-alpha,12-alpha-trihydroxycholestan-26-al 26-oxidoreductase activity	GO_0047103	0	1	0	0	0
+3-aci-nitropropanoate oxidase activity	GO_0047557	0	1	0	0	0
+3-HSA hydroxylase activity	GO_0034819	0	1	0	0	0
+3-(imidazol-5-yl)lactate dehydrogenase activity	GO_0019155	0	1	0	0	0
+3-(3-hydroxyphenyl)propionate hydroxylase activity	GO_0008688	0	1	0	0	0
+3-(2,3-dihydroxyphenyl)propionate 1,2-dioxygenase activity	GO_0018553	0	1	0	0	0
+3,9-dihydroxypterocarpan 6a-monooxygenase activity	GO_0047082	0	1	0	0	0
+3,8-divinyl protochlorophyllide a 8-vinyl reductase activity	GO_0051744	0	1	0	0	0
+3,5-xylenol methylhydroxylase activity	GO_0018630	0	1	0	0	0
+3,5-dichlorocatechol 1,2-dioxygenase activity	GO_0018572	0	1	0	0	0
+3,4-dihydroxyphenylacetate 2,3-dioxygenase activity	GO_0008687	0	1	0	0	0
+3,4-dihydroxyphenanthrene dioxygenase activity	GO_0018568	0	1	0	0	0
+3,4-dihydroxyfluorene 4,4-alpha-dioxygenase activity	GO_0018562	0	1	0	0	0
+3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase activity	GO_0047071	0	1	0	0	0
+3,4-dihydroxy-3,4-dihydrofluorene dehydrogenase activity	GO_0034790	0	1	0	0	0
+3,3'-dibromobisphenol A reductive dehalogenase activity	GO_0034555	0	1	0	0	0
+3,3',5-tribromobisphenol A reductive dehalogenase activity	GO_0034554	0	1	0	0	0
+3,3',5,5'-tetrabromobisphenol A reductive dehalogenase activity	GO_0034539	0	1	0	0	0
+3'-Phosphoadenylylselenate reductase activity	GO_0098624	0	1	0	0	0
+3''-deamino-3''-oxonicotianamine reductase activity	GO_0033707	0	1	0	0	0
+27-hydroxycholesterol 7-alpha-monooxygenase activity	GO_0047092	0	1	0	0	0
+25-hydroxycholesterol 7alpha-hydroxylase activity	GO_0033783	0	1	0	0	0
+25-hydroxycholecalciferol-24-hydroxylase activity	GO_0008403	0	1	0	0	0
+24-hydroxycholesterol 7alpha-hydroxylase activity	GO_0033782	0	1	0	0	0
+20-hydroxy-leukotriene B4 omega oxidase activity	GO_0097258	0	1	0	0	0
+20-aldehyde-leukotriene B4 20-monooxygenase activity	GO_0097259	0	1	0	0	0
+2-oxopropyl-CoM reductase (carboxylating) activity	GO_0050628	0	1	0	0	0
+2-oxoisovalerate dehydrogenase (acylating) activity	GO_0047101	0	1	0	0	0
+2-oxoglutarate synthase activity	GO_0047553	0	1	0	0	0
+2-oxobutyrate synthase activity	GO_0018491	0	1	0	0	0
+2-oxoaldehyde dehydrogenase (NADP+) activity	GO_0047552	0	1	0	0	0
+2-oxoaldehyde dehydrogenase (NAD) activity	GO_0047551	0	1	0	0	0
+2-oxoadipate reductase activity	GO_0047550	0	1	0	0	0
+2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA 1,2-monooxygenase activity	GO_0018655	0	1	0	0	0
+2-oxo-acid reductase activity	GO_0033719	0	1	0	0	0
+2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity	GO_0008682	0	1	0	0	0
+2-octaprenylphenol hydroxylase activity	GO_0019168	0	1	0	0	0
+2-octaprenyl-6-methoxyphenol hydroxylase activity	GO_0008681	0	1	0	0	0
+2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase activity	GO_0043719	0	1	0	0	0
+2-nitrophenol 2-monooxygenase activity	GO_0047549	0	1	0	0	0
+2-naphthaldehyde dehydrogenase activity	GO_0034520	0	1	0	0	0
+2-methylnaphthalene hydroxylase activity	GO_0034526	0	1	0	0	0
+2-methylhexanoyl-CoA dehydrogenase activity	GO_0034916	0	1	0	0	0
+2-methylbutanol:NADP oxidoreductase activity	GO_0032018	0	1	0	0	0
+2-methylacyl-CoA dehydrogenase activity	GO_0003853	0	1	0	0	0
+2-methyl-branched-chain-enoyl-CoA reductase activity	GO_0047119	0	1	0	0	0
+2-mercaptobenzothiazole-cis-6,7-dihydrodiol dehydrogenase activity	GO_0034837	0	1	0	0	0
+2-mercaptobenzothiazole monooxygenase activity	GO_0034835	0	1	0	0	0
+2-mercaptobenzothiazole dioxygenase activity	GO_0034834	0	1	0	0	0
+2-indanone monooxygenase activity	GO_0018615	0	1	0	0	0
+2-hydroxytetrahydrofuran dehydrogenase activity	GO_0018453	0	1	0	0	0
+2-hydroxyquinoline 8-monooxygenase activity	GO_0033766	0	1	0	0	0
+2-hydroxyquinoline 5,6-dioxygenase activity	GO_0018629	0	1	0	0	0
+2-hydroxypyridine 5-monooxygenase activity	GO_0047546	0	1	0	0	0
+2-hydroxymethylglutarate dehydrogenase activity	GO_0043718	0	1	0	0	0
+2-hydroxylaminobenzoate reductase activity	GO_0034557	0	1	0	0	0
+2-hydroxyisonicotinate dehydrogenase activity	GO_0034878	0	1	0	0	0
+2-hydroxyisoflavanone synthase activity	GO_0033770	0	1	0	0	0
+2-hydroxyisobutyrate 3-monooxygenase activity	GO_0018599	0	1	0	0	0
+2-hydroxyglutarate dehydrogenase activity	GO_0047545	0	1	0	0	0
+2-hydroxycyclohexanone 2-monooxygenase activity	GO_0047095	0	1	0	0	0
+2-hydroxycyclohexane-1-carboxyl-CoA dehydrogenase activity	GO_0018495	0	1	0	0	0
+2-hydroxybiphenyl 3-monooxygenase activity	GO_0047544	0	1	0	0	0
+2-hydroxybenzothiazole monooxygenase activity	GO_0034858	0	1	0	0	0
+2-hydroxy-phenylacetate hydroxylase activity	GO_0018654	0	1	0	0	0
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase activity	GO_0047118	0	1	0	0	0
+2-hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA dehydrogenase activity	GO_0034778	0	1	0	0	0
+2-hydroxy-3-oxopropionate reductase activity	GO_0008679	0	1	0	0	0
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase activity	GO_0036193	0	1	0	0	0
+2-hydroxy-1,4-benzoquinone reductase activity	GO_0050625	0	1	0	0	0
+2-hexadecenal reductase activity	GO_0047543	0	1	0	0	0
+2-furoyl-CoA dehydrogenase activity	GO_0047542	0	1	0	0	0
+2-enoate reductase activity	GO_0047540	0	1	0	0	0
+2-desacetyl-2-hydroxyethyl bacteriochlorophyllide a dehydrogenase activity	GO_0036354	0	1	0	0	0
+2-deoxy-D-gluconate 3-dehydrogenase activity	GO_0008678	0	1	0	0	0
+2-dehydropantolactone reductase activity	GO_0036441	0	1	0	0	0
+2-dehydropantolactone reductase (B-specific) activity	GO_0019141	0	1	0	0	0
+2-dehydropantolactone reductase (A-specific) activity	GO_0047011	0	1	0	0	0
+2-dehydropantoate 2-reductase activity	GO_0008677	0	1	0	0	0
+2-dehydro-3-deoxy-D-gluconate 6-dehydrogenase activity	GO_0047000	0	1	0	0	0
+2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase activity	GO_0047001	0	1	0	0	0
+2-coumarate reductase activity	GO_0047788	0	1	0	0	0
+2-chloroethanol:cytochrome c oxidoreductase activity	GO_0052936	0	1	0	0	0
+2-chloroethanol cytochrome-c oxidoreductase activity	GO_0052932	0	1	0	0	0
+2-chlorobenzoate 1,2-dioxygenase activity	GO_0018626	0	1	0	0	0
+2-chloro-N-isopropylacetanilide reductive dehalogenase activity	GO_0018700	0	1	0	0	0
+2-chloro-N-isopropylacetanilide 1,2-dioxygenase activity	GO_0034908	0	1	0	0	0
+2-carboxybenzaldehyde dehydrogenase activity	GO_0018474	0	1	0	0	0
+2-butanone oxidase activity	GO_0018486	0	1	0	0	0
+2-aminophenol 1,6-dioxygenase activity	GO_0018573	0	1	0	0	0
+2-aminobenzoyl-CoA reductase activity	GO_0018526	0	1	0	0	0
+2-aminobenzenesulfonate 2,3-dioxygenase activity	GO_0018627	0	1	0	0	0
+2-alkyn-1-ol dehydrogenase activity	GO_0047535	0	1	0	0	0
+2-alkenal reductase [NAD(P)] activity	GO_0032440	0	1	0	0	0
+2-alkenal reductase (NADP+) activity	GO_0035798	0	1	0	0	0
+2-(methylthio)benzothiazole monooxygenase activity	GO_0034857	0	1	0	0	0
+2-(S)-hydroxypropyl-CoM dehydrogenase activity	GO_0050575	0	1	0	0	0
+2-(R)-hydroxypropyl-CoM dehydrogenase activity	GO_0050574	0	1	0	0	0
+2,6-dihydroxypyridine 3-monooxygenase activity	GO_0018663	0	1	0	0	0
+2,6-dihydroxycyclohexane-1-carboxyl-CoA dehydrogenase activity	GO_0018496	0	1	0	0	0
+2,6-dihydroxybenzothiazole monooxygenase activity	GO_0034862	0	1	0	0	0
+2,6-dichloro-p-hydroquinone 1,2-dioxygenase activity	GO_0018574	0	1	0	0	0
+2,5-dioxovalerate dehydrogenase (NADP+) activity	GO_0047533	0	1	0	0	0
+2,5-dioxovalerate dehydrogenase (NAD+) activity	GO_0044104	0	1	0	0	0
+2,5-dihydroxypyridine 5,6-dioxygenase activity	GO_0047075	0	1	0	0	0
+2,5-didehydrogluconate reductase activity	GO_0050580	0	1	0	0	0
+2,5-dichlorohydroquinone reductive dehalogenase activity	GO_0018701	0	1	0	0	0
+2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase activity	GO_0018502	0	1	0	0	0
+2,4-dienoyl-CoA reductase (NADPH) activity	GO_0008670	0	1	0	0	0
+2,4-dichlorophenoxyacetate dehalogenase activity	GO_0018703	0	1	0	0	0
+2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase activity	GO_0018602	0	1	0	0	0
+2,4-dichlorophenol 6-monooxygenase activity	GO_0018666	0	1	0	0	0
+2,4-dichlorobenzoyl-CoA reductase activity	GO_0018516	0	1	0	0	0
+2,4-dichloroaniline reductive dehalogenase activity	GO_0034546	0	1	0	0	0
+2,4-diaminopentanoate dehydrogenase activity	GO_0047530	0	1	0	0	0
+2,4,5-trichlorophenoxyacetic acid oxygenase activity	GO_0018584	0	1	0	0	0
+2,4,4-trimethylpentanoyl-CoA dehydrogenase activity	GO_0034866	0	1	0	0	0
+2,4,4-trimethylpentanal dehydrogenase activity	GO_0034864	0	1	0	0	0
+2,4,4-trimethyl-3-hydroxypentanoyl-CoA dehydrogenase activity	GO_0034868	0	1	0	0	0
+2,4,4-trimethyl-1-pentanol dehydrogenase activity	GO_0034863	0	1	0	0	0
+2,4'-dihydroxyacetophenone dioxygenase activity	GO_0047073	0	1	0	0	0
+2,3-dihydroxyindole 2,3-dioxygenase activity	GO_0047528	0	1	0	0	0
+2,3-dihydroxydiphenyl ether dioxygenase activity	GO_0034955	0	1	0	0	0
+2,3-dihydroxybiphenyl 1,2-dioxygenase activity	GO_0043898	0	1	0	0	0
+2,3-dihydroxybenzoate 3,4-dioxygenase activity	GO_0045133	0	1	0	0	0
+2,3-dihydroxybenzoate 2,3-dioxygenase activity	GO_0047072	0	1	0	0	0
+2,3-dihydroxy-p-cumate dioxygenase activity	GO_0018571	0	1	0	0	0
+2,3-dihydroxy-ethylbenzene 1,2-dioxygenase activity	GO_0018563	0	1	0	0	0
+2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase activity	GO_0018498	0	1	0	0	0
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase activity	GO_0018511	0	1	0	0	0
+2,3-dihydroxy-2'-carboxybiphenyl 1,2-dioxygenase activity	GO_0034788	0	1	0	0	0
+2,3-dihydroxy DDT 1,2-dioxygenase activity	GO_0018542	0	1	0	0	0
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity	GO_0008667	0	1	0	0	0
+2,3-bis(4-hydroxyphenyl)-1,2-propanediol dioxygenase activity	GO_0034563	0	1	0	0	0
+2,2-bis(4-hydroxyphenyl)-1-propanol hydroxylase activity	GO_0034562	0	1	0	0	0
+2,2',3-trihydroxybiphenyl dioxygenase activity	GO_0018556	0	1	0	0	0
+2'-hydroxyisoflavone reductase activity	GO_0047526	0	1	0	0	0
+2'-hydroxydaidzein reductase activity	GO_0047525	0	1	0	0	0
+2'-deoxymugineic-acid 3-dioxygenase activity	GO_0052860	0	1	0	0	0
+2'-deoxymugineic-acid 2'-dioxygenase activity	GO_0033760	0	1	0	0	0
+2'-aminobiphenyl-2,3-diol 1,2-dioxygenase activity	GO_0018561	0	1	0	0	0
+17-beta-ketosteroid reductase activity	GO_0072555	0	1	0	0	0
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity	GO_0072582	0	1	0	0	0
+17-beta-hydroxysteroid dehydrogenase (NAD+) activity	GO_0044594	0	1	0	0	0
+17-alpha,20-alpha-dihydroxypregn-4-en-3-one dehydrogenase activity	GO_0047006	0	1	0	0	0
+16:0 monogalactosyldiacylglycerol desaturase activity	GO_0009979	0	1	0	0	0
+16-alpha-hydroxysteroid dehydrogenase activity	GO_0047005	0	1	0	0	0
+15-oxoprostaglandin 13-oxidase activity	GO_0047522	0	1	0	0	0
+15-hydroxyprostaglandin-I dehydrogenase (NADP+) activity	GO_0047033	0	1	0	0	0
+15-hydroxyprostaglandin-D dehydrogenase (NADP+) activity	GO_0047020	0	1	0	0	0
+15-hydroxyprostaglandin dehydrogenase (NADP+) activity	GO_0047021	0	1	0	0	0
+15-hydroxyprostaglandin dehydrogenase (NAD+) activity	GO_0016404	0	1	0	0	0
+15-hydroxyicosatetraenoate dehydrogenase activity	GO_0047034	0	1	0	0	0
+15,16-dihydrobiliverdin:ferredoxin oxidoreductase activity	GO_0050617	0	1	0	0	0
+13-prostaglandin reductase activity	GO_0036132	0	1	0	0	0
+13-lipoxin reductase activity	GO_0036185	0	1	0	0	0
+12-oxophytodienoate reductase activity	GO_0016629	0	1	0	0	0
+12-hydroxyheptadecatrienoic acid synthase activity	GO_0036134	0	1	0	0	0
+11-hydroxythromboxane B2 dehydrogenase activity	GO_0036133	0	1	0	0	0
+11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity	GO_0003845	0	1	0	0	0
+11-beta-hydroxysteroid dehydrogenase (NADP+) activity	GO_0070524	0	1	0	0	0
+11-beta-hydroxysteroid dehydrogenase (NAD+) activity	GO_0070523	0	1	0	0	0
+1-pyrroline-5-carboxylate dehydrogenase activity	GO_0003842	0	1	0	0	0
+1-pyrroline dehydrogenase activity	GO_0033737	0	1	0	0	0
+1-phenylethanol dehydrogenase activity	GO_0018449	0	1	0	0	0
+1-naphthoic acid dioxygenase activity	GO_0034521	0	1	0	0	0
+1-naphthaldehyde dehydrogenase activity	GO_0034525	0	1	0	0	0
+1-methylnaphthalene hydroxylase activity	GO_0034534	0	1	0	0	0
+1-methoxypyrene 6,7-monooxygenase activity	GO_0034932	0	1	0	0	0
+1-indanone monooxygenase activity	GO_0018607	0	1	0	0	0
+1-indanone dioxygenase activity	GO_0018608	0	1	0	0	0
+1-hydroxypyrene 7,8-monooxygenase activity	GO_0034929	0	1	0	0	0
+1-hydroxypyrene 6,7-monooxygenase activity	GO_0034928	0	1	0	0	0
+1-hydroxy-4,4-dimethylpentan-3-one dehydrogenase activity	GO_0034871	0	1	0	0	0
+1-hydroxy-2-oxolimonene 1,2-monooxygenase activity	GO_0018646	0	1	0	0	0
+1-hydroxy-2-naphthoate hydroxylase activity	GO_0018637	0	1	0	0	0
+1-hydroxy-2-naphthoate 1,2-dioxygenase activity	GO_0018582	0	1	0	0	0
+1-hydroxy-2-naphthaldehyde dehydrogenase activity	GO_0018472	0	1	0	0	0
+1-hydro-1,1a-dihydroxy-9-fluorenone dehydrogenase activity	GO_0034787	0	1	0	0	0
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity	GO_0030604	0	1	0	0	0
+1-chloro-4-nitrosobenzene nitroreductase activity	GO_0052603	0	1	0	0	0
+1-chloro-2,2-bis(4-chlorophenyl)ethane dehydrogenase activity	GO_0018497	0	1	0	0	0
+1-aminocyclopropane-1-carboxylate oxidase activity	GO_0009815	0	1	0	0	0
+1-alpha,25-dihydroxyvitamin D3 24-hydroxylase activity	GO_0030342	0	1	0	0	0
+1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase activity	GO_0047116	0	1	0	0	0
+1,5-anhydro-D-fructose reductase activity	GO_0050571	0	1	0	0	0
+1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming) activity	GO_0033712	0	1	0	0	0
+1,3-propanediol dehydrogenase activity	GO_0047516	0	1	0	0	0
+1,2-dihydroxynaphthalene-6-sulfonate 1,8a-dioxygenase activity	GO_0018566	0	1	0	0	0
+1,2-dihydroxynaphthalene dioxygenase activity	GO_0018554	0	1	0	0	0
+1,2-dihydroxyfluorene 1,1-alpha-dioxygenase activity	GO_0018557	0	1	0	0	0
+1,2-dihydroxy-8-methylnaphthalene dioxygenase activity	GO_0034535	0	1	0	0	0
+1,2-dihydroxy-8-carboxynaphthalene dioxygenase activity	GO_0034527	0	1	0	0	0
+1,2-dihydroxy-7-hydroxymethylnaphthalene dioxygenase activity	GO_0034533	0	1	0	0	0
+1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase activity	GO_0018521	0	1	0	0	0
+1,2-dihydroxy-5,6,7,8-tetrahydronaphthalene extradiol dioxygenase activity	GO_0034827	0	1	0	0	0
+1,2-dihydroxy-1,2,5,6,7,8-hexyhadronaphthalene dehydrogenase activity	GO_0034826	0	1	0	0	0
+1,2-dihydrovomilenine reductase activity	GO_0050615	0	1	0	0	0
+1,2-dichloroethene reductive dehalogenase activity	GO_0018705	0	1	0	0	0
+1,2-dehydroreticulinium reductase (NADPH) activity	GO_0047128	0	1	0	0	0
+1,1-dichloroethane reductive dehalogenase activity	GO_0034949	0	1	0	0	0
+1,1-dichloro-2-(dihydroxy-4-chlorophenyl)-(4-chlorophenyl)ethene 1,2-dioxygenase activity	GO_0018559	0	1	0	0	0
+1,1-dichloro-2,2-bis(4-chlorophenyl)ethene dehalogenase activity	GO_0018702	0	1	0	0	0
+1,1,2-trichloroethene reductive dehalogenase activity	GO_0050697	0	1	0	0	0
+1,1,1-trichloroethane reductive dehalogenase activity	GO_0018699	0	1	0	0	0
+(S,S)-butanediol dehydrogenase activity	GO_0047512	0	1	0	0	0
+(S)-usnate reductase activity	GO_0046998	0	1	0	0	0
+(S)-stylopine synthase activity	GO_0047052	0	1	0	0	0
+(S)-mandelate dehydrogenase activity	GO_0033720	0	1	0	0	0
+(S)-limonene 7-monooxygenase activity	GO_0018676	0	1	0	0	0
+(S)-limonene 6-monooxygenase activity	GO_0018675	0	1	0	0	0
+(S)-limonene 3-monooxygenase activity	GO_0018674	0	1	0	0	0
+(S)-limonene 1,2-monooxygenase activity	GO_0052601	0	1	0	0	0
+(S)-cheilanthifoline synthase activity	GO_0047053	0	1	0	0	0
+(S)-carnitine 3-dehydrogenase activity	GO_0047041	0	1	0	0	0
+(S)-canadine synthase activity	GO_0047056	0	1	0	0	0
+(S)-6-hydroxynicotine oxidase activity	GO_0018531	0	1	0	0	0
+(S)-3-hydroxyacid-ester dehydrogenase activity	GO_0047109	0	1	0	0	0
+(S)-2-hydroxy-fatty acid dehydrogenase activity	GO_0047050	0	1	0	0	0
+(S)-2-hydroxy-acid oxidase activity	GO_0003973	0	1	0	0	0
+(R,R)-butanediol dehydrogenase activity	GO_0000721	0	1	0	0	0
+(R)-pantolactone dehydrogenase (flavin) activity	GO_0047060	0	1	0	0	0
+(R)-mandelate dehydrogenase activity	GO_0097620	0	1	0	0	0
+(R)-limonene 6-monooxygenase activity	GO_0052741	0	1	0	0	0
+(R)-limonene 1,2-monooxygenase activity	GO_0018635	0	1	0	0	0
+(R)-dehydropantoate dehydrogenase activity	GO_0047509	0	1	0	0	0
+(R)-benzylsuccinyl-CoA dehydrogenase activity	GO_0033734	0	1	0	0	0
+(R)-aminopropanol dehydrogenase activity	GO_0019147	0	1	0	0	0
+(R)-6-hydroxynicotine oxidase activity	GO_0018530	0	1	0	0	0
+(R)-4-hydroxyphenyllactate dehydrogenase activity	GO_0047029	0	1	0	0	0
+(R)-3-hydroxyacid-ester dehydrogenase activity	GO_0047108	0	1	0	0	0
+(R)-2-hydroxyisocaproate dehydrogenase activity	GO_0043713	0	1	0	0	0
+(R)-2-hydroxyglutarate dehydrogenase activity	GO_0051990	0	1	0	0	0
+(R)-2-hydroxyacid dehydrogenase activity	GO_0050578	0	1	0	0	0
+(R)-2-hydroxy-fatty acid dehydrogenase activity	GO_0047049	0	1	0	0	0
+(R)-(-)-1,2,3,4-tetrahydronaphthol dehydrogenase activity	GO_0034831	0	1	0	0	0
+(3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase activity	GO_0047120	0	1	0	0	0
+(3E)-4,8-dimethyl-1,3,7-nonatriene synthase activity	GO_0097008	0	1	0	0	0
+(-)-menthol monooxygenase activity	GO_0047505	0	1	0	0	0
+(-)-menthol dehydrogenase activity	GO_0047504	0	1	0	0	0
+(-)-isopiperitenone reductase activity	GO_0052581	0	1	0	0	0
+(-)-borneol dehydrogenase activity	GO_0047503	0	1	0	0	0
+(+)-trans-carveol dehydrogenase activity	GO_0033702	0	1	0	0	0
+(+)-sabinol dehydrogenase activity	GO_0047502	0	1	0	0	0
+(+)-pulegone reductase, (-)-menthone as substrate, activity	GO_0052580	0	1	0	0	0
+(+)-pulegone reductase, (+)-isomenthone as substrate, activity	GO_0052579	0	1	0	0	0
+(+)-neomenthol dehydrogenase activity	GO_0047501	0	1	0	0	0
+(+)-menthofuran synthase activity	GO_0052582	0	1	0	0	0
+(+)-borneol dehydrogenase activity	GO_0047500	0	1	0	0	0
+(+)-abscisic acid 8'-hydroxylase activity	GO_0010295	0	1	0	0	0

@@ -1,0 +1,1144 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+peptidyltransferase activity	GO_0000048	1	0	1	0	0
+zymogen activation in other organism	GO_0044541	0	1	0	0	0
+zymogen activation	GO_0031638	0	1	0	0	0
+viral translational shunt	GO_0039704	0	1	0	0	0
+viral translation	GO_0019081	0	1	0	0	0
+viral protein processing	GO_0019082	0	1	0	0	0
+vanadium incorporation into metallo-sulfur cluster	GO_0042039	0	1	0	0	0
+vacuolar protein processing	GO_0006624	0	1	0	0	0
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	GO_0090611	0	1	0	0	0
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043162	0	1	0	0	0
+ubiquitin-dependent protein catabolic process via the N-end rule pathway	GO_0071596	0	1	0	0	0
+ubiquitin-dependent protein catabolic process	GO_0006511	0	1	0	0	0
+ubiquitin-dependent SMAD protein catabolic process	GO_0030579	0	1	0	0	0
+tyrosine phosphorylation of Stat7 protein	GO_0042507	0	1	0	0	0
+tyrosine phosphorylation of Stat6 protein	GO_0042505	0	1	0	0	0
+tyrosine phosphorylation of Stat5 protein	GO_0042506	0	1	0	0	0
+tyrosine phosphorylation of Stat4 protein	GO_0042504	0	1	0	0	0
+tyrosine phosphorylation of Stat3 protein	GO_0042503	0	1	0	0	0
+tyrosine phosphorylation of Stat2 protein	GO_0042502	0	1	0	0	0
+tyrosine phosphorylation of Stat1 protein	GO_0042508	0	1	0	0	0
+tyrosine phosphorylation of STAT protein	GO_0007260	0	1	0	0	0
+type I interferon biosynthetic process	GO_0045351	0	1	0	0	0
+tungsten incorporation via L-selenocysteinyl tungsten bis(molybdopterin guanine dinucleotide)	GO_0051218	0	1	0	0	0
+tungsten incorporation into tungsten-molybdopterin complex	GO_0042042	0	1	0	0	0
+tungsten incorporation into metallo-sulfur cluster	GO_0051221	0	1	0	0	0
+tumor necrosis factor biosynthetic process	GO_0042533	0	1	0	0	0
+tubulin deacetylation	GO_0090042	0	1	0	0	0
+trypsinogen activation	GO_0032023	0	1	0	0	0
+translation	GO_0006412	0	1	0	0	0
+transcription factor catabolic process	GO_0036369	0	1	0	0	0
+trans-translation-dependent protein tagging	GO_0070930	0	1	0	0	0
+tissue kallikrein-kinin cascade	GO_0002255	0	1	0	0	0
+thioredoxin biosynthetic process	GO_0042964	0	1	0	0	0
+suppression by virus of host STAT1 activity by tyrosine dephosphorylation of STAT1	GO_0039566	0	1	0	0	0
+suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	0	1	0	0	0
+suppression by virus of host MAVS activity by MAVS proteolysis	GO_0039546	0	1	0	0	0
+sulfurated eukaryotic molybdenum cofactor(2-) biosynthetic process	GO_1902756	0	1	0	0	0
+sulfur incorporation into metallo-sulfur cluster	GO_0031162	0	1	0	0	0
+sterol regulatory element binding protein cleavage	GO_0035103	0	1	0	0	0
+sodium-dependent self proteolysis	GO_1990091	0	1	0	0	0
+signal peptide processing	GO_0006465	0	1	0	0	0
+serine phosphorylation of STAT3 protein	GO_0033136	0	1	0	0	0
+serine phosphorylation of STAT protein	GO_0042501	0	1	0	0	0
+self proteolysis	GO_0097264	0	1	0	0	0
+ribosome-associated ubiquitin-dependent protein catabolic process	GO_1990116	0	1	0	0	0
+rhodopsin metabolic process	GO_0046154	0	1	0	0	0
+rhodopsin catabolic process	GO_0046155	0	1	0	0	0
+rhodopsin biosynthetic process	GO_0016063	0	1	0	0	0
+regulation of translational initiation by eIF2 alpha phosphorylation	GO_0010998	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter by histone modification	GO_1903756	0	1	0	0	0
+pyrroloquinoline quinone biosynthetic process	GO_0018189	0	1	0	0	0
+proteolysis within lysosome associated with antigen processing and presentation	GO_0002500	0	1	0	0	0
+proteolysis within endosome associated with antigen processing and presentation	GO_0002499	0	1	0	0	0
+proteolysis within endoplasmic reticulum associated with antigen processing and presentation	GO_0002498	0	1	0	0	0
+proteolysis involved in cellular protein catabolic process	GO_0051603	0	1	0	0	0
+proteolysis in other organism	GO_0035897	0	1	0	0	0
+proteolysis by virus of host translation initiation factor	GO_0039607	0	1	0	0	0
+proteolysis by cytosolic proteases associated with antigen processing and presentation	GO_0002203	0	1	0	0	0
+proteolysis associated with antigen processing and presentation	GO_0002496	0	1	0	0	0
+proteolysis	GO_0006508	0	1	0	0	0
+proteoglycan metabolic process	GO_0006029	0	1	0	0	0
+proteoglycan catabolic process	GO_0030167	0	1	0	0	0
+proteoglycan biosynthetic process	GO_0030166	0	1	0	0	0
+protein-tetrapyrrole linkage	GO_0017006	0	1	0	0	0
+protein-pyridoxal-5-phosphate linkage via peptidyl-N6-pyridoxal phosphate-L-lysine	GO_0018272	0	1	0	0	0
+protein-pyridoxal-5-phosphate linkage	GO_0018352	0	1	0	0	0
+protein-phytochromobilin linkage via S-phytochromobilin-L-cysteine	GO_0018358	0	1	0	0	0
+protein-phytochromobilin linkage	GO_0017012	0	1	0	0	0
+protein-phycourobilin linkage via phycourobilin-bis-L-cysteine	GO_0018357	0	1	0	0	0
+protein-phycourobilin linkage	GO_0017010	0	1	0	0	0
+protein-phycoerythrobilin linkage via phycoerythrobilin-bis-L-cysteine	GO_0018167	0	1	0	0	0
+protein-phycoerythrobilin linkage via S-phycoerythrobilin-L-cysteine	GO_0018168	0	1	0	0	0
+protein-phycoerythrobilin linkage	GO_0017011	0	1	0	0	0
+protein-phycocyanobilin linkage via S-phycocyanobilin-L-cysteine	GO_0018353	0	1	0	0	0
+protein-phycocyanobilin linkage	GO_0017009	0	1	0	0	0
+protein-phycobiliviolin linkage via S-phycobiliviolin-L-cysteine	GO_0018356	0	1	0	0	0
+protein-phycobiliviolin linkage	GO_0017008	0	1	0	0	0
+protein-phosphoribosyl dephospho-coenzyme A linkage via O-(phosphoribosyl dephospho-coenzyme A)-L-serine	GO_0018355	0	1	0	0	0
+protein-phosphoribosyl dephospho-coenzyme A linkage	GO_0018247	0	1	0	0	0
+protein-lysine lysylation	GO_0071915	0	1	0	0	0
+protein-keratan sulfate linkage via keratan sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-threonine	GO_0018405	0	1	0	0	0
+protein-heparan sulfate linkage via heparan sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine	GO_0018404	0	1	0	0	0
+protein-heme linkage via 3'-L-histidine	GO_0018182	0	1	0	0	0
+protein-heme linkage via 1'-L-histidine	GO_0046805	0	1	0	0	0
+protein-heme linkage	GO_0017003	0	1	0	0	0
+protein-heme P460 linkage via heme P460-bis-L-cysteine-L-tyrosine	GO_0018359	0	1	0	0	0
+protein-heme P460 linkage via heme P460-bis-L-cysteine-L-lysine	GO_0018360	0	1	0	0	0
+protein-heme P460 linkage	GO_0018174	0	1	0	0	0
+protein-dermatan sulfate linkage via dermatan 4-sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine	GO_0018403	0	1	0	0	0
+protein-cofactor linkage	GO_0018065	0	1	0	0	0
+protein-coenzyme A linkage	GO_0018246	0	1	0	0	0
+protein-chromophore linkage via peptidyl-cysteine	GO_0019922	0	1	0	0	0
+protein-chromophore linkage via peptidyl-S-4-hydroxycinnamyl-L-cysteine	GO_0018097	0	1	0	0	0
+protein-chromophore linkage via peptidyl-N6-retinal-L-lysine	GO_0018273	0	1	0	0	0
+protein-chromophore linkage via peptidyl-N6-3-dehydroretinal-L-lysine	GO_0019931	0	1	0	0	0
+protein-chromophore linkage	GO_0018298	0	1	0	0	0
+protein-chondroitin sulfate linkage via chondroitin sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine	GO_0018402	0	1	0	0	0
+protein-bilin linkage	GO_0017007	0	1	0	0	0
+protein-N6-(L-lysyl)-L-lysine modification to protein-N6-(beta-lysyl)-L-lysine	GO_0072581	0	1	0	0	0
+protein-FMN linkage via S-(6-FMN)-L-cysteine	GO_0018310	0	1	0	0	0
+protein-FMN linkage via S-(4a-FMN)-L-cysteine	GO_0050742	0	1	0	0	0
+protein-FMN linkage via O3-riboflavin phosphoryl-L-threonine	GO_0050740	0	1	0	0	0
+protein-FMN linkage via O3-riboflavin phosphoryl-L-serine	GO_0050741	0	1	0	0	0
+protein-FMN linkage via 3'-(8alpha-FMN)-L-histidine	GO_0050744	0	1	0	0	0
+protein-FMN linkage via 1'-(8alpha-FMN)-L-histidine	GO_0050743	0	1	0	0	0
+protein-FMN linkage	GO_0018309	0	1	0	0	0
+protein-FAD linkage via S-(8alpha-FAD)-L-cysteine	GO_0018294	0	1	0	0	0
+protein-FAD linkage via O4'-(8alpha-FAD)-L-tyrosine	GO_0018296	0	1	0	0	0
+protein-FAD linkage via 3'-(8alpha-FAD)-L-histidine	GO_0018295	0	1	0	0	0
+protein-FAD linkage via 1'-(8alpha-FAD)-L-histidine	GO_0018297	0	1	0	0	0
+protein-FAD linkage	GO_0018293	0	1	0	0	0
+protein-DNA covalent cross-linking via the 5'-end to peptidyl-tyrosine	GO_0018163	0	1	0	0	0
+protein-DNA covalent cross-linking via the 3'-end to peptidyl-tyrosine	GO_0045326	0	1	0	0	0
+protein-DNA covalent cross-linking via peptidyl-tyrosine	GO_0045327	0	1	0	0	0
+protein-DNA covalent cross-linking via peptidyl-threonine	GO_0018164	0	1	0	0	0
+protein-DNA covalent cross-linking via peptidyl-serine	GO_0018145	0	1	0	0	0
+protein-DNA covalent cross-linking	GO_0018142	0	1	0	0	0
+protein urmylation	GO_0032447	0	1	0	0	0
+protein uridylylation	GO_0018177	0	1	0	0	0
+protein unfolding	GO_0043335	0	1	0	0	0
+protein ufmylation	GO_0071569	0	1	0	0	0
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process	GO_0042787	0	1	0	0	0
+protein ubiquitination	GO_0016567	0	1	0	0	0
+protein tyrosinylation	GO_0018322	0	1	0	0	0
+protein trans-autophosphorylation	GO_0036290	0	1	0	0	0
+protein sumoylation	GO_0016925	0	1	0	0	0
+protein sulfhydration	GO_0044524	0	1	0	0	0
+protein sulfation	GO_0006477	0	1	0	0	0
+protein succinylation	GO_0018335	0	1	0	0	0
+protein splicing	GO_0030908	0	1	0	0	0
+protein side chain deglutamylation	GO_0035610	0	1	0	0	0
+protein repair	GO_0030091	0	1	0	0	0
+protein refolding	GO_0042026	0	1	0	0	0
+protein pupylation	GO_0070490	0	1	0	0	0
+protein processing involved in protein targeting to mitochondrion	GO_0006627	0	1	0	0	0
+protein processing in phagocytic vesicle	GO_1900756	0	1	0	0	0
+protein processing	GO_0016485	0	1	0	0	0
+protein prenylation	GO_0018342	0	1	0	0	0
+protein polyufmylation	GO_1990564	0	1	0	0	0
+protein polyubiquitination involved in nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	GO_1901044	0	1	0	0	0
+protein polyubiquitination	GO_0000209	0	1	0	0	0
+protein polyglycylation	GO_0018094	0	1	0	0	0
+protein polyglutamylation	GO_0018095	0	1	0	0	0
+protein polyamination	GO_0018184	0	1	0	0	0
+protein poly-ADP-ribosylation	GO_0070212	0	1	0	0	0
+protein phosphorylation involved in cellular protein catabolic process	GO_1902002	0	1	0	0	0
+protein phosphorylation	GO_0006468	0	1	0	0	0
+protein phosphopantetheinylation	GO_0018215	0	1	0	0	0
+protein phosphate-linked glycosylation via serine	GO_0042077	0	1	0	0	0
+protein phosphate-linked glycosylation	GO_0042076	0	1	0	0	0
+protein peptidyl-prolyl isomerization	GO_0000413	0	1	0	0	0
+protein palmitoylation	GO_0018345	0	1	0	0	0
+protein palmitoleylation	GO_0045234	0	1	0	0	0
+protein oxidation	GO_0018158	0	1	0	0	0
+protein octanoylation	GO_0018190	0	1	0	0	0
+protein nucleotidylation	GO_0018175	0	1	0	0	0
+protein nitrosylation	GO_0017014	0	1	0	0	0
+protein neddylation	GO_0045116	0	1	0	0	0
+protein myristoylation	GO_0018377	0	1	0	0	0
+protein monoubiquitination	GO_0006513	0	1	0	0	0
+protein modification process in other organism	GO_0036210	0	1	0	0	0
+protein modification process	GO_0036211	0	1	0	0	0
+protein modification by small protein removal	GO_0070646	0	1	0	0	0
+protein modification by small protein conjugation or removal	GO_0070647	0	1	0	0	0
+protein modification by small protein conjugation	GO_0032446	0	1	0	0	0
+protein methylation	GO_0006479	0	1	0	0	0
+protein metabolic process	GO_0019538	0	1	0	0	0
+protein maturation by protein folding	GO_0022417	0	1	0	0	0
+protein maturation by iron-sulfur cluster transfer	GO_0097428	0	1	0	0	0
+protein maturation	GO_0051604	0	1	0	0	0
+protein mannosylation	GO_0035268	0	1	0	0	0
+protein malonylation	GO_0044394	0	1	0	0	0
+protein lipoylation	GO_0009249	0	1	0	0	0
+protein lipidation	GO_0006497	0	1	0	0	0
+protein linear polyubiquitination	GO_0097039	0	1	0	0	0
+protein linear deubiquitination	GO_1990108	0	1	0	0	0
+protein iodination	GO_0018077	0	1	0	0	0
+protein initiator methionine removal involved in protein maturation	GO_0035551	0	1	0	0	0
+protein initiator methionine removal	GO_0070084	0	1	0	0	0
+protein hydroxylation	GO_0018126	0	1	0	0	0
+protein halogenation	GO_0018079	0	1	0	0	0
+protein guanylylation	GO_0018260	0	1	0	0	0
+protein glycosylation in endoplasmic reticulum	GO_0033577	0	1	0	0	0
+protein glycosylation in cytosol	GO_0033576	0	1	0	0	0
+protein glycosylation in Golgi	GO_0033578	0	1	0	0	0
+protein glycosylation at cell surface	GO_0033575	0	1	0	0	0
+protein glycosylation	GO_0006486	0	1	0	0	0
+protein glutathionylation	GO_0010731	0	1	0	0	0
+protein glucuronylation	GO_0018321	0	1	0	0	0
+protein glucuronidation	GO_0018411	0	1	0	0	0
+protein geranylgeranylation	GO_0018344	0	1	0	0	0
+protein galactosylation in endoplasmic reticulum	GO_0033579	0	1	0	0	0
+protein galactosylation in cytosol	GO_0033582	0	1	0	0	0
+protein galactosylation in Golgi	GO_0033581	0	1	0	0	0
+protein galactosylation at cell surface	GO_0033580	0	1	0	0	0
+protein galactosylation	GO_0042125	0	1	0	0	0
+protein formylation	GO_0018256	0	1	0	0	0
+protein folding in endoplasmic reticulum	GO_0034975	0	1	0	0	0
+protein folding	GO_0006457	0	1	0	0	0
+protein flavinylation	GO_0017013	0	1	0	0	0
+protein farnesylation	GO_0018343	0	1	0	0	0
+protein esterification	GO_0018350	0	1	0	0	0
+protein deubiquitination involved in ubiquitin-dependent protein catabolic process	GO_0071947	0	1	0	0	0
+protein deubiquitination	GO_0016579	0	1	0	0	0
+protein desumoylation	GO_0016926	0	1	0	0	0
+protein desulfurization	GO_0018180	0	1	0	0	0
+protein desuccinylation	GO_0036048	0	1	0	0	0
+protein dephosphorylation	GO_0006470	0	1	0	0	0
+protein depalmitoylation	GO_0002084	0	1	0	0	0
+protein denucleotidylation	GO_0044601	0	1	0	0	0
+protein deneddylation	GO_0000338	0	1	0	0	0
+protein denaturation involved in proteasomal ubiquitin-dependent protein catabolic process	GO_1902376	0	1	0	0	0
+protein denaturation	GO_0030164	0	1	0	0	0
+protein demethylation	GO_0006482	0	1	0	0	0
+protein demalonylation	GO_0036046	0	1	0	0	0
+protein delipidation	GO_0051697	0	1	0	0	0
+protein dehydration	GO_0018249	0	1	0	0	0
+protein deglycosylation involved in glycoprotein catabolic process	GO_0035977	0	1	0	0	0
+protein deglycosylation	GO_0006517	0	1	0	0	0
+protein deglutathionylation	GO_0080058	0	1	0	0	0
+protein deglutamylation	GO_0035608	0	1	0	0	0
+protein decanoylation	GO_0051366	0	1	0	0	0
+protein deamination	GO_0018277	0	1	0	0	0
+protein dealkylation	GO_0008214	0	1	0	0	0
+protein deadenylylation	GO_0044602	0	1	0	0	0
+protein deacylation	GO_0035601	0	1	0	0	0
+protein deacetylation	GO_0006476	0	1	0	0	0
+protein de-ADP-ribosylation	GO_0051725	0	1	0	0	0
+protein citrullination	GO_0018101	0	1	0	0	0
+protein cis-autophosphorylation	GO_0036291	0	1	0	0	0
+protein catenane formation via N6-(L-isoaspartyl)-L-lysine, autocatalytic	GO_0019937	0	1	0	0	0
+protein catabolic process in the vacuole	GO_0007039	0	1	0	0	0
+protein catabolic process by pepsin	GO_0044251	0	1	0	0	0
+protein catabolic process	GO_0030163	0	1	0	0	0
+protein carboxylation	GO_0018214	0	1	0	0	0
+protein carbamoylation	GO_0046944	0	1	0	0	0
+protein bromination	GO_0018073	0	1	0	0	0
+protein branching point deglutamylation	GO_0035611	0	1	0	0	0
+protein biotinylation	GO_0009305	0	1	0	0	0
+protein autoubiquitination	GO_0051865	0	1	0	0	0
+protein autosumoylation	GO_1990466	0	1	0	0	0
+protein autoprocessing	GO_0016540	0	1	0	0	0
+protein autophosphorylation	GO_0046777	0	1	0	0	0
+protein auto-ADP-ribosylation	GO_0070213	0	1	0	0	0
+protein arginylation	GO_0016598	0	1	0	0	0
+protein amidation	GO_0018032	0	1	0	0	0
+protein alkylation	GO_0008213	0	1	0	0	0
+protein adenylylation	GO_0018117	0	1	0	0	0
+protein acylation	GO_0043543	0	1	0	0	0
+protein activation cascade	GO_0072376	0	1	0	0	0
+protein acetylation	GO_0006473	0	1	0	0	0
+protein S-linked glycosylation via cysteine	GO_0018240	0	1	0	0	0
+protein S-linked glycosylation	GO_0018280	0	1	0	0	0
+protein O-linked mannosylation	GO_0035269	0	1	0	0	0
+protein O-linked glycosylation via tyrosine	GO_0018245	0	1	0	0	0
+protein O-linked glycosylation via threonine	GO_0018243	0	1	0	0	0
+protein O-linked glycosylation via serine	GO_0018242	0	1	0	0	0
+protein O-linked glycosylation via hydroxyproline	GO_0018258	0	1	0	0	0
+protein O-linked glycosylation via hydroxylysine	GO_0018241	0	1	0	0	0
+protein O-linked glycosylation	GO_0006493	0	1	0	0	0
+protein O-linked fucosylation	GO_0036066	0	1	0	0	0
+protein O-glucuronidation	GO_0018412	0	1	0	0	0
+protein O-GlcNAcylation via threonine	GO_0097370	0	1	0	0	0
+protein N-linked glycosylation via tryptophan	GO_0018244	0	1	0	0	0
+protein N-linked glycosylation via asparagine	GO_0018279	0	1	0	0	0
+protein N-linked glycosylation via arginine	GO_0042543	0	1	0	0	0
+protein N-linked glycosylation	GO_0006487	0	1	0	0	0
+protein N-linked glucosylation via asparagine	GO_0071905	0	1	0	0	0
+protein N-linked N-acetylglucosaminylation via asparagine	GO_0071903	0	1	0	0	0
+protein N-linked N-acetylgalactosaminylation via asparagine	GO_0071904	0	1	0	0	0
+protein K69-linked ufmylation	GO_1990592	0	1	0	0	0
+protein K63-linked ubiquitination	GO_0070534	0	1	0	0	0
+protein K63-linked deubiquitination	GO_0070536	0	1	0	0	0
+protein K6-linked ubiquitination	GO_0085020	0	1	0	0	0
+protein K6-linked deubiquitination	GO_0044313	0	1	0	0	0
+protein K48-linked ubiquitination	GO_0070936	0	1	0	0	0
+protein K48-linked deubiquitination	GO_0071108	0	1	0	0	0
+protein K33-linked ubiquitination	GO_1990390	0	1	0	0	0
+protein K33-linked deubiquitination	GO_1990168	0	1	0	0	0
+protein K29-linked ubiquitination	GO_0035519	0	1	0	0	0
+protein K29-linked deubiquitination	GO_0035523	0	1	0	0	0
+protein K27-linked ubiquitination	GO_0044314	0	1	0	0	0
+protein K27-linked deubiquitination	GO_1990167	0	1	0	0	0
+protein K11-linked ubiquitination	GO_0070979	0	1	0	0	0
+protein K11-linked deubiquitination	GO_0035871	0	1	0	0	0
+protein C-terminal amidation	GO_0018033	0	1	0	0	0
+protein C-linked glycosylation via tryptophan	GO_0018317	0	1	0	0	0
+protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan	GO_0018406	0	1	0	0	0
+protein C-linked glycosylation	GO_0018103	0	1	0	0	0
+protein ADP-ribosylation	GO_0006471	0	1	0	0	0
+proteasome-mediated ubiquitin-dependent protein catabolic process	GO_0043161	0	1	0	0	0
+proteasomal ubiquitin-independent protein catabolic process	GO_0010499	0	1	0	0	0
+proteasomal proteolysis associated with antigen processing and presentation	GO_0002497	0	1	0	0	0
+proteasomal protein catabolic process	GO_0010498	0	1	0	0	0
+prenylated protein catabolic process	GO_0030327	0	1	0	0	0
+post-translational protein modification	GO_0043687	0	1	0	0	0
+post-translational protein acetylation	GO_0034421	0	1	0	0	0
+post-chaperonin tubulin folding pathway	GO_0007023	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter by histone modification	GO_1903757	0	1	0	0	0
+poly-N-methyl-propylamination	GO_0018185	0	1	0	0	0
+plastid translation	GO_0032544	0	1	0	0	0
+plasminogen activation in other organism	GO_0044542	0	1	0	0	0
+plasminogen activation	GO_0031639	0	1	0	0	0
+plasma lipoprotein particle oxidation	GO_0034441	0	1	0	0	0
+plasma kallikrein-kinin cascade	GO_0002353	0	1	0	0	0
+photosystem II repair	GO_0010206	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	GO_1900018	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter	GO_1903654	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues	GO_0071620	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 2 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter	GO_1903655	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 2 residues	GO_0071619	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain involved in recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	GO_1901921	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain	GO_0070816	0	1	0	0	0
+peroxidase-heme linkage via dihydroxyheme-L-aspartyl ester-L-glutamyl ester-L-methionine sulfonium	GO_0018363	0	1	0	0	0
+peroxidase-heme linkage via dihydroxyheme-L-aspartyl ester-L-glutamyl ester	GO_0018362	0	1	0	0	0
+peroxidase-heme linkage	GO_0018186	0	1	0	0	0
+peptidyl-valine modification	GO_0018213	0	1	0	0	0
+peptidyl-tyrosine uridylylation	GO_0018165	0	1	0	0	0
+peptidyl-tyrosine sulfation	GO_0006478	0	1	0	0	0
+peptidyl-tyrosine phosphorylation	GO_0018108	0	1	0	0	0
+peptidyl-tyrosine modification	GO_0018212	0	1	0	0	0
+peptidyl-tyrosine hydroxylation	GO_0018336	0	1	0	0	0
+peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity	GO_1990264	0	1	0	0	0
+peptidyl-tyrosine dephosphorylation involved in activation of protein kinase activity	GO_1901920	0	1	0	0	0
+peptidyl-tyrosine dephosphorylation	GO_0035335	0	1	0	0	0
+peptidyl-tyrosine dehydrogenation to form (Z)-2,3-didehydrotyrosine	GO_0030921	0	1	0	0	0
+peptidyl-tyrosine dehydrogenation to form (E)-2,3-didehydrotyrosine	GO_0030922	0	1	0	0	0
+peptidyl-tyrosine dehydrogenation	GO_0018251	0	1	0	0	0
+peptidyl-tyrosine autophosphorylation	GO_0038083	0	1	0	0	0
+peptidyl-tyrosine adenylylation	GO_0018254	0	1	0	0	0
+peptidyl-tryptophan succinylation	GO_0018062	0	1	0	0	0
+peptidyl-tryptophan racemization	GO_0019128	0	1	0	0	0
+peptidyl-tryptophan oxidation to tryptophyl quinone	GO_0019926	0	1	0	0	0
+peptidyl-tryptophan modification	GO_0018211	0	1	0	0	0
+peptidyl-tryptophan hydroxylation	GO_0045325	0	1	0	0	0
+peptidyl-tryptophan bromination	GO_0018080	0	1	0	0	0
+peptidyl-thyronine iodination to form 3',3'',5'-triiodo-L-thyronine	GO_0018407	0	1	0	0	0
+peptidyl-thyronine iodination to form 3',3'',5',5''-tetraiodo-L-thyronine	GO_0018408	0	1	0	0	0
+peptidyl-thyronine iodination	GO_0018078	0	1	0	0	0
+peptidyl-thyronine biosynthetic process from peptidyl-tyrosine	GO_0019879	0	1	0	0	0
+peptidyl-threonine trans-autophosphorylation	GO_1990294	0	1	0	0	0
+peptidyl-threonine sulfation	GO_0050985	0	1	0	0	0
+peptidyl-threonine racemization	GO_0046927	0	1	0	0	0
+peptidyl-threonine phosphorylation	GO_0018107	0	1	0	0	0
+peptidyl-threonine palmitoylation	GO_0018220	0	1	0	0	0
+peptidyl-threonine octanoylation	GO_0051368	0	1	0	0	0
+peptidyl-threonine modification	GO_0018210	0	1	0	0	0
+peptidyl-threonine dephosphorylation	GO_0035970	0	1	0	0	0
+peptidyl-threonine decanoylation	GO_0051369	0	1	0	0	0
+peptidyl-threonine autophosphorylation	GO_1990443	0	1	0	0	0
+peptidyl-threonine adenylylation	GO_0018178	0	1	0	0	0
+peptidyl-serine trans-autophosphorylation	GO_1990579	0	1	0	0	0
+peptidyl-serine sulfation	GO_0050984	0	1	0	0	0
+peptidyl-serine racemization	GO_0019126	0	1	0	0	0
+peptidyl-serine phosphorylation involved in acrosome reaction	GO_0060477	0	1	0	0	0
+peptidyl-serine phosphorylation	GO_0018105	0	1	0	0	0
+peptidyl-serine phosphopantetheinylation	GO_0018070	0	1	0	0	0
+peptidyl-serine palmitoylation	GO_0018221	0	1	0	0	0
+peptidyl-serine octanoylation	GO_0018191	0	1	0	0	0
+peptidyl-serine modification	GO_0018209	0	1	0	0	0
+peptidyl-serine dephosphorylation	GO_0070262	0	1	0	0	0
+peptidyl-serine decanoylation	GO_0051367	0	1	0	0	0
+peptidyl-serine autophosphorylation	GO_0036289	0	1	0	0	0
+peptidyl-serine acetylation	GO_0030920	0	1	0	0	0
+peptidyl-serine O-glucuronidation	GO_0018413	0	1	0	0	0
+peptidyl-serine O-acetylation	GO_0030919	0	1	0	0	0
+peptidyl-serine ADP-ribosylation	GO_0018312	0	1	0	0	0
+peptidyl-selenocysteine modification	GO_0050844	0	1	0	0	0
+peptidyl-sarcosine incorporation	GO_0019736	0	1	0	0	0
+peptidyl-pyrromethane cofactor linkage	GO_0018160	0	1	0	0	0
+peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	GO_0017186	0	1	0	0	0
+peptidyl-proline modification	GO_0018208	0	1	0	0	0
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	GO_0018401	0	1	0	0	0
+peptidyl-proline hydroxylation to 3-hydroxy-L-proline	GO_0018400	0	1	0	0	0
+peptidyl-proline hydroxylation	GO_0019511	0	1	0	0	0
+peptidyl-proline di-hydroxylation	GO_0018188	0	1	0	0	0
+peptidyl-phenylalanine racemization	GO_0019125	0	1	0	0	0
+peptidyl-phenylalanine modification	GO_0018207	0	1	0	0	0
+peptidyl-phenylalanine bromination to L-4'-bromophenylalanine	GO_0018399	0	1	0	0	0
+peptidyl-phenylalanine bromination to L-3'-bromophenylalanine	GO_0018398	0	1	0	0	0
+peptidyl-phenylalanine bromination to L-2'-bromophenylalanine	GO_0018397	0	1	0	0	0
+peptidyl-phenylalanine bromination	GO_0018075	0	1	0	0	0
+peptidyl-methionine racemization	GO_0019123	0	1	0	0	0
+peptidyl-methionine oxidation	GO_0018159	0	1	0	0	0
+peptidyl-methionine modification	GO_0018206	0	1	0	0	0
+peptidyl-lysine trimethylation	GO_0018023	0	1	0	0	0
+peptidyl-lysine succinylation	GO_0036050	0	1	0	0	0
+peptidyl-lysine palmitoylation	GO_0018029	0	1	0	0	0
+peptidyl-lysine oxidation	GO_0018057	0	1	0	0	0
+peptidyl-lysine myristoylation	GO_0018028	0	1	0	0	0
+peptidyl-lysine monomethylation	GO_0018026	0	1	0	0	0
+peptidyl-lysine modification to peptidyl-hypusine	GO_0008612	0	1	0	0	0
+peptidyl-lysine modification to peptidyl-N6-pyruvic acid 2-iminyl-L-lysine	GO_0018341	0	1	0	0	0
+peptidyl-lysine modification	GO_0018205	0	1	0	0	0
+peptidyl-lysine methylation	GO_0018022	0	1	0	0	0
+peptidyl-lysine malonylation	GO_0044392	0	1	0	0	0
+peptidyl-lysine lipoylation	GO_0018055	0	1	0	0	0
+peptidyl-lysine hydroxylation to 5-hydroxy-L-lysine	GO_0018395	0	1	0	0	0
+peptidyl-lysine hydroxylation to 4-hydroxy-L-lysine	GO_0018396	0	1	0	0	0
+peptidyl-lysine hydroxylation involved in bacterial-type EF-P lysine modification	GO_1901260	0	1	0	0	0
+peptidyl-lysine hydroxylation	GO_0017185	0	1	0	0	0
+peptidyl-lysine guanylylation	GO_0018261	0	1	0	0	0
+peptidyl-lysine formylation	GO_0018257	0	1	0	0	0
+peptidyl-lysine dimethylation	GO_0018027	0	1	0	0	0
+peptidyl-lysine dihydroxylation to 4,5-dihydroxy-L-lysine	GO_0030963	0	1	0	0	0
+peptidyl-lysine desuccinylation	GO_0036049	0	1	0	0	0
+peptidyl-lysine demalonylation	GO_0036047	0	1	0	0	0
+peptidyl-lysine deacetylation	GO_0034983	0	1	0	0	0
+peptidyl-lysine carboxylation	GO_0018235	0	1	0	0	0
+peptidyl-lysine carboxyethylation	GO_0018238	0	1	0	0	0
+peptidyl-lysine biotinylation	GO_0018054	0	1	0	0	0
+peptidyl-lysine adenylylation	GO_0018116	0	1	0	0	0
+peptidyl-lysine acetylation	GO_0018394	0	1	0	0	0
+peptidyl-lysine N6-acetylation	GO_0018003	0	1	0	0	0
+peptidyl-leucine racemization	GO_0019129	0	1	0	0	0
+peptidyl-leucine modification	GO_0018204	0	1	0	0	0
+peptidyl-lactic acid biosynthetic process from peptidyl-serine	GO_0018084	0	1	0	0	0
+peptidyl-isoleucine racemization	GO_0019124	0	1	0	0	0
+peptidyl-isoleucine modification	GO_0018203	0	1	0	0	0
+peptidyl-histidine uridylylation, to form peptidyl-1'-(phospho-5'-uridine)-L-histidine	GO_0051110	0	1	0	0	0
+peptidyl-histidine uridylylation	GO_0051114	0	1	0	0	0
+peptidyl-histidine phosphorylation	GO_0018106	0	1	0	0	0
+peptidyl-histidine modification	GO_0018202	0	1	0	0	0
+peptidyl-histidine methylation, to form tele-methylhistidine	GO_0042038	0	1	0	0	0
+peptidyl-histidine methylation, to form pros-methylhistidine	GO_0042037	0	1	0	0	0
+peptidyl-histidine methylation	GO_0018021	0	1	0	0	0
+peptidyl-histidine hydroxylation	GO_0036138	0	1	0	0	0
+peptidyl-histidine dephosphorylation	GO_0035971	0	1	0	0	0
+peptidyl-histidine bromination	GO_0018074	0	1	0	0	0
+peptidyl-histidine autophosphorylation	GO_0090593	0	1	0	0	0
+peptidyl-histidine adenylylation, to form peptidyl-1'-(phospho-5'-adenosine)-L-histidine	GO_0051112	0	1	0	0	0
+peptidyl-histidine adenylylation	GO_0051111	0	1	0	0	0
+peptidyl-glycyl-phosphatidylethanolamine biosynthetic process from peptidyl-glycine	GO_0050495	0	1	0	0	0
+peptidyl-glycine modification	GO_0018201	0	1	0	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	0	0	0
+peptidyl-glutamine modification	GO_0018199	0	1	0	0	0
+peptidyl-glutamine methylation	GO_0018364	0	1	0	0	0
+peptidyl-glutamine esterification	GO_0019714	0	1	0	0	0
+peptidyl-glutamine 2-methylation	GO_0018361	0	1	0	0	0
+peptidyl-glutamic acid poly-ADP-ribosylation	GO_0018424	0	1	0	0	0
+peptidyl-glutamic acid modification	GO_0018200	0	1	0	0	0
+peptidyl-glutamic acid methylation	GO_0018020	0	1	0	0	0
+peptidyl-glutamic acid esterification	GO_0018442	0	1	0	0	0
+peptidyl-glutamic acid carboxylation	GO_0017187	0	1	0	0	0
+peptidyl-diphthine metabolic process	GO_0017179	0	1	0	0	0
+peptidyl-diphthine catabolic process	GO_0017181	0	1	0	0	0
+peptidyl-diphthine biosynthetic process from peptidyl-histidine	GO_0017180	0	1	0	0	0
+peptidyl-diphthamide metabolic process	GO_0017182	0	1	0	0	0
+peptidyl-diphthamide catabolic process	GO_0017184	0	1	0	0	0
+peptidyl-diphthamide biosynthetic process from peptidyl-histidine	GO_0017183	0	1	0	0	0
+peptidyl-dehydroalanine biosynthetic process from peptidyl-tyrosine or peptidyl-serine	GO_0018250	0	1	0	0	0
+peptidyl-cystine sulfhydration	GO_0044525	0	1	0	0	0
+peptidyl-cysteine phosphorylation	GO_0018218	0	1	0	0	0
+peptidyl-cysteine oxidation	GO_0018171	0	1	0	0	0
+peptidyl-cysteine modification	GO_0018198	0	1	0	0	0
+peptidyl-cysteine methylation	GO_0018125	0	1	0	0	0
+peptidyl-cysteine esterification	GO_0018351	0	1	0	0	0
+peptidyl-cysteine acetylation	GO_0018533	0	1	0	0	0
+peptidyl-cysteine S-trans-nitrosylation	GO_0035606	0	1	0	0	0
+peptidyl-cysteine S-nitrosylation	GO_0018119	0	1	0	0	0
+peptidyl-cysteine S-carbamoylation	GO_0046891	0	1	0	0	0
+peptidyl-cysteine S-acetylation	GO_0018219	0	1	0	0	0
+peptidyl-cysteine ADP-ribosylation	GO_0018123	0	1	0	0	0
+peptidyl-beta-carboxyaspartic acid biosynthetic process from peptidyl-aspartic acid	GO_0019711	0	1	0	0	0
+peptidyl-aspartic acid reduction to form L-aspartyl aldehyde	GO_0051203	0	1	0	0	0
+peptidyl-aspartic acid phosphorylation	GO_0018217	0	1	0	0	0
+peptidyl-aspartic acid modification	GO_0018197	0	1	0	0	0
+peptidyl-aspartic acid hydroxylation to form L-erythro-beta-hydroxyaspartic acid	GO_0019715	0	1	0	0	0
+peptidyl-aspartic acid hydroxylation	GO_0042264	0	1	0	0	0
+peptidyl-aspartic acid carboxylation	GO_0019803	0	1	0	0	0
+peptidyl-asparagine racemization	GO_0018091	0	1	0	0	0
+peptidyl-asparagine modification	GO_0018196	0	1	0	0	0
+peptidyl-asparagine methylation	GO_0019710	0	1	0	0	0
+peptidyl-asparagine hydroxylation to form L-erythro-beta-hydroxyasparagine	GO_0018376	0	1	0	0	0
+peptidyl-asparagine hydroxylation	GO_0042265	0	1	0	0	0
+peptidyl-asparagine ADP-ribosylation	GO_0018122	0	1	0	0	0
+peptidyl-arginine phosphorylation	GO_0018109	0	1	0	0	0
+peptidyl-arginine omega-N-methylation	GO_0035247	0	1	0	0	0
+peptidyl-arginine modification	GO_0018195	0	1	0	0	0
+peptidyl-arginine methylation, to symmetrical-dimethyl arginine	GO_0019918	0	1	0	0	0
+peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	GO_0019919	0	1	0	0	0
+peptidyl-arginine methylation	GO_0018216	0	1	0	0	0
+peptidyl-arginine hydroxylation to peptidyl-4-hydroxy-L-arginine	GO_0018102	0	1	0	0	0
+peptidyl-arginine hydroxylation	GO_0030961	0	1	0	0	0
+peptidyl-arginine dihydroxylation to peptidyl-3,4-dihydroxy-L-arginine	GO_0030962	0	1	0	0	0
+peptidyl-arginine N5-methylation	GO_0019701	0	1	0	0	0
+peptidyl-arginine N-methylation	GO_0035246	0	1	0	0	0
+peptidyl-arginine C5-methylation	GO_0018181	0	1	0	0	0
+peptidyl-arginine C-methylation	GO_0035245	0	1	0	0	0
+peptidyl-arginine ADP-ribosylation	GO_0018120	0	1	0	0	0
+peptidyl-amino acid modification	GO_0018193	0	1	0	0	0
+peptidyl-allysine oxidation to 2-aminoadipic acid	GO_0019728	0	1	0	0	0
+peptidyl-alanine modification	GO_0018194	0	1	0	0	0
+peptidyl-S-palmitoleyl-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0019939	0	1	0	0	0
+peptidyl-S-myristoyl-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0019704	0	1	0	0	0
+peptidyl-S-geranylgeranyl-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0018228	0	1	0	0	0
+peptidyl-S-farnesyl-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0018226	0	1	0	0	0
+peptidyl-S-diphytanylglycerol diether-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0018115	0	1	0	0	0
+peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0018231	0	1	0	0	0
+peptidyl-S-carbamoyl-L-cysteine dehydration	GO_0046892	0	1	0	0	0
+peptidyl-S-12-hydroxyfarnesyl-L-cysteine biosynthetic process from peptidyl-cysteine	GO_0018227	0	1	0	0	0
+peptidyl-O-(sn-1-glycerophosphoryl)-L-serine biosynthetic process from peptidyl-serine	GO_0018340	0	1	0	0	0
+peptidyl-N6,N6,N6-trimethyl-lysine hydroxylation to peptidyl-N6,N6,N6-trimethyl-5-hydroxy-L-lysine	GO_0050841	0	1	0	0	0
+peptidyl-N4-hydroxymethyl-L-asparagine biosynthetic process from peptidyl-asparagine	GO_0018311	0	1	0	0	0
+peptidyl-N-phospho-arginine dephosphorylation	GO_0098628	0	1	0	0	0
+peptidyl-L-threonine methyl ester biosynthetic process from peptidyl-threonine	GO_0044608	0	1	0	0	0
+peptidyl-L-lysine methyl ester biosynthetic process from peptidyl-lysine	GO_0042034	0	1	0	0	0
+peptidyl-L-leucine methyl ester biosynthetic process from peptidyl-leucine	GO_0018439	0	1	0	0	0
+peptidyl-L-glutamyl 5-omega-hydroxyceramide ester biosynthetic process from peptidyl-glutamine	GO_0050496	0	1	0	0	0
+peptidyl-L-glutamyl 5-glycerylphosphorylethanolamine biosynthetic process from peptidyl-glutamic acid	GO_0018072	0	1	0	0	0
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from peptidyl-glutamic acid or peptidyl-glutamine	GO_0018390	0	1	0	0	0
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamine	GO_0019713	0	1	0	0	0
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamic acid	GO_0019712	0	1	0	0	0
+peptidyl-L-cysteine methyl ester biosynthetic process from peptidyl-cysteine	GO_0018229	0	1	0	0	0
+peptidyl-L-cysteine methyl disulfide biosynthetic process from peptidyl-cysteine	GO_0018222	0	1	0	0	0
+peptidyl-L-cysteine glutathione disulfide biosynthetic process from peptidyl-cysteine	GO_0018118	0	1	0	0	0
+peptidyl-L-cysteine S-palmitoylation	GO_0018230	0	1	0	0	0
+peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid	GO_0018339	0	1	0	0	0
+peptidyl-L-beta-methylthioasparagine biosynthetic process from peptidyl-asparagine	GO_0042259	0	1	0	0	0
+peptidyl-L-amino acid racemization	GO_0018085	0	1	0	0	0
+peptidyl-L-3-phenyllactic acid biosynthetic process from peptidyl-phenylalanine	GO_0018061	0	1	0	0	0
+peptidyl-L-3-oxoalanine biosynthetic process from peptidyl-cysteine or peptidyl-serine	GO_0018083	0	1	0	0	0
+peptidyl-L-3',4'-dihydroxyphenylalanine biosynthetic process from peptidyl-tyrosine	GO_0018067	0	1	0	0	0
+peptidyl-L-3',4',5'-trihydroxyphenylalanine biosynthetic process from peptidyl-tyrosine	GO_0018172	0	1	0	0	0
+peptidyl-L-2',4',5'-topaquinone biosynthetic process from peptidyl-tyrosine	GO_0018068	0	1	0	0	0
+peptidyl-D-alanine racemization, direct	GO_0019916	0	1	0	0	0
+peptidyl-D-alanine racemization via peptidyl-L-serine	GO_0019917	0	1	0	0	0
+peptidyl-D-alanine racemization	GO_0019122	0	1	0	0	0
+peptidyl-5-hydroxy-L-lysine trimethylation	GO_0050838	0	1	0	0	0
+peptidyl-1-thioglycine biosynthetic process, internal	GO_0019920	0	1	0	0	0
+peptidyl-1-thioglycine biosynthetic process, carboxy-terminal	GO_0019921	0	1	0	0	0
+peptidyl-1-thioglycine biosynthetic process from peptidyl-glycine	GO_0018173	0	1	0	0	0
+peptidyl-(Z)-dehydrobutyrine biosynthetic process from peptidyl-threonine	GO_0018082	0	1	0	0	0
+peptidoglycan-protein cross-linking via N6-mureinyl-L-lysine	GO_0019121	0	1	0	0	0
+peptidoglycan-protein cross-linking via L-threonyl-pentaglycyl-murein	GO_0042902	0	1	0	0	0
+peptidoglycan-protein cross-linking via L-alanyl-pentaglycyl-murein	GO_0051363	0	1	0	0	0
+peptide pheromone maturation	GO_0007323	0	1	0	0	0
+peptide mating pheromone maturation involved in pheromone-induced unidirectional conjugation	GO_0070575	0	1	0	0	0
+peptide mating pheromone maturation involved in conjugation with cellular fusion	GO_0071432	0	1	0	0	0
+peptide hormone processing	GO_0016486	0	1	0	0	0
+peptide cross-linking via sn-(2S,6R)-lanthionine	GO_0018155	0	1	0	0	0
+peptide cross-linking via lanthionine or 3-methyl-lanthionine	GO_0018081	0	1	0	0	0
+peptide cross-linking via glycine thiazolecarboxylic acid	GO_0018137	0	1	0	0	0
+peptide cross-linking via glycine oxazolecarboxylic acid	GO_0018134	0	1	0	0	0
+peptide cross-linking via chondroitin 4-sulfate glycosaminoglycan	GO_0019800	0	1	0	0	0
+peptide cross-linking via an oxazole or thiazole	GO_0018157	0	1	0	0	0
+peptide cross-linking via S-glycyl-L-cysteine	GO_0018255	0	1	0	0	0
+peptide cross-linking via S-[5'-(L-tryptoph-6'-yl)-L-tyrosin-3'-yl]-L-methionin-S-ium	GO_0050739	0	1	0	0	0
+peptide cross-linking via S-(L-isoglutamyl)-L-cysteine	GO_0018232	0	1	0	0	0
+peptide cross-linking via S-(2-aminovinyl)-D-cysteine	GO_0018096	0	1	0	0	0
+peptide cross-linking via S-(2-aminovinyl)-3-methyl-D-cysteine	GO_0018162	0	1	0	0	0
+peptide cross-linking via N6-(L-isoaspartyl)-L-lysine, presumed catalytic	GO_0019938	0	1	0	0	0
+peptide cross-linking via N6-(L-isoaspartyl)-L-lysine	GO_0018420	0	1	0	0	0
+peptide cross-linking via L-seryl-5-imidazolinone glycine	GO_0018252	0	1	0	0	0
+peptide cross-linking via L-serine thiazolecarboxylic acid	GO_0018138	0	1	0	0	0
+peptide cross-linking via L-phenylalanine thiazolecarboxylic acid	GO_0018139	0	1	0	0	0
+peptide cross-linking via L-lysinoalanine	GO_0018274	0	1	0	0	0
+peptide cross-linking via L-lysine thiazolecarboxylic acid	GO_0018141	0	1	0	0	0
+peptide cross-linking via L-lysine 5-imidazolinone glycine	GO_0051361	0	1	0	0	0
+peptide cross-linking via L-histidyl-L-tyrosine	GO_0018151	0	1	0	0	0
+peptide cross-linking via L-cystine	GO_0018316	0	1	0	0	0
+peptide cross-linking via L-cysteinyl-L-selenocysteine	GO_0050837	0	1	0	0	0
+peptide cross-linking via L-cysteinyl-5-imidazolinone glycine	GO_0050745	0	1	0	0	0
+peptide cross-linking via L-cysteine thiazolecarboxylic acid	GO_0018140	0	1	0	0	0
+peptide cross-linking via L-cysteine oxazolinecarboxylic acid	GO_0018133	0	1	0	0	0
+peptide cross-linking via L-cysteine oxazolecarboxylic acid	GO_0018132	0	1	0	0	0
+peptide cross-linking via L-asparagine 5-imidazolinone glycine	GO_0051360	0	1	0	0	0
+peptide cross-linking via L-alanyl-5-imidazolinone glycine	GO_0018313	0	1	0	0	0
+peptide cross-linking via 5-imidazolinone glycine	GO_0018253	0	1	0	0	0
+peptide cross-linking via 5'-(N6-L-lysine)-L-topaquinone	GO_0018124	0	1	0	0	0
+peptide cross-linking via 4-amino-3-isothiazolidinone	GO_0048108	0	1	0	0	0
+peptide cross-linking via 4-(S-L-cysteinyl)-L-glutamic acid	GO_0019929	0	1	0	0	0
+peptide cross-linking via 4'-(S-L-cysteinyl)-L-tryptophyl quinone	GO_0019927	0	1	0	0	0
+peptide cross-linking via 4'-(L-tryptophan)-L-tryptophyl quinone	GO_0018069	0	1	0	0	0
+peptide cross-linking via 3-(S-L-cysteinyl)-L-aspartic acid	GO_0019928	0	1	0	0	0
+peptide cross-linking via 3-(3'-L-histidyl)-L-tyrosine	GO_0018150	0	1	0	0	0
+peptide cross-linking via 3-(2-methylthio)ethyl-6-(4-hydroxybenzylidene)-5-iminopiperazin-2-one	GO_0051357	0	1	0	0	0
+peptide cross-linking via 3'-(S-L-cysteinyl)-L-tyrosine	GO_0018234	0	1	0	0	0
+peptide cross-linking via 3'-(O4'-L-tyrosinyl)-L-tyrosine	GO_0030960	0	1	0	0	0
+peptide cross-linking via 3'-(3'-L-tyrosinyl)-L-tyrosine	GO_0030959	0	1	0	0	0
+peptide cross-linking via 3'-(1'-L-histidyl)-L-tyrosine	GO_0018152	0	1	0	0	0
+peptide cross-linking via 2-tetrahydropyridinyl-5-imidazolinone glycine	GO_0051362	0	1	0	0	0
+peptide cross-linking via 2-imino-methionine 5-imidazolinone glycine	GO_0051359	0	1	0	0	0
+peptide cross-linking via 2-imino-glutaminyl-5-imidazolinone glycine	GO_0019729	0	1	0	0	0
+peptide cross-linking via 2-imino-glutamic acid 5-imidazolinone glycine	GO_0051358	0	1	0	0	0
+peptide cross-linking via 2-amino-3-isothiazolidinone-L-serine	GO_0048109	0	1	0	0	0
+peptide cross-linking via 2-(S-L-cysteinyl)-L-phenylalanine	GO_0046924	0	1	0	0	0
+peptide cross-linking via 2-(S-L-cysteinyl)-D-phenylalanine	GO_0046925	0	1	0	0	0
+peptide cross-linking via 2-(S-L-cysteinyl)-D-allo-threonine	GO_0046926	0	1	0	0	0
+peptide cross-linking via 2'-(S-L-cysteinyl)-L-histidine	GO_0018233	0	1	0	0	0
+peptide cross-linking via (2S,3S,6R)-3-methyl-lanthionine	GO_0018156	0	1	0	0	0
+peptide cross-linking via (2S,3S,4Xi,6R)-3-methyl-lanthionine sulfoxide	GO_0046804	0	1	0	0	0
+peptide cross-linking via (2R,6R)-lanthionine	GO_0018154	0	1	0	0	0
+peptide cross-linking	GO_0018149	0	1	0	0	0
+peptide bond cleavage involved in epidermal growth factor receptor ligand maturation	GO_0038005	0	1	0	0	0
+pathway-restricted SMAD protein phosphorylation	GO_0060389	0	1	0	0	0
+patched ligand maturation	GO_0007225	0	1	0	0	0
+oxidation-dependent protein catabolic process	GO_0070407	0	1	0	0	0
+nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071630	0	1	0	0	0
+nucleic acid-protein covalent cross-linking	GO_0018143	0	1	0	0	0
+non-intein-mediated protein splicing	GO_0030909	0	1	0	0	0
+non-classical arabinogalactan protein metabolic process	GO_0010407	0	1	0	0	0
+nickel incorporation into nickel-iron-sulfur cluster via pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide	GO_0042075	0	1	0	0	0
+nickel incorporation into metallo-sulfur cluster	GO_0018414	0	1	0	0	0
+nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino nickel triiron disulfide trioxide	GO_0018416	0	1	0	0	0
+nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide	GO_0018418	0	1	0	0	0
+nerve growth factor processing	GO_0032455	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter by histone modification	GO_1903758	0	1	0	0	0
+negative regulation of transcription by transcription factor catabolism	GO_0010620	0	1	0	0	0
+negative regulation of thioredoxin peroxidase activity by peptidyl-threonine phosphorylation	GO_1903125	0	1	0	0	0
+negative regulation of cyclin-dependent protein serine/threonine kinase by cyclin degradation	GO_0008054	0	1	0	0	0
+multicellular organismal protein metabolic process	GO_0044268	0	1	0	0	0
+multicellular organismal protein catabolic process	GO_0044254	0	1	0	0	0
+monoubiquitinated protein deubiquitination	GO_0035520	0	1	0	0	0
+monoubiquitinated histone deubiquitination	GO_0035521	0	1	0	0	0
+monoubiquitinated histone H2A deubiquitination	GO_0035522	0	1	0	0	0
+molybdenum incorporation via L-serinyl molybdopterin guanine dinucleotide	GO_0042258	0	1	0	0	0
+molybdenum incorporation via L-selenocysteinyl molybdenum bis(molybdopterin guanine dinucleotide)	GO_0018147	0	1	0	0	0
+molybdenum incorporation via L-cysteinyl molybdopterin guanine dinucleotide	GO_0018187	0	1	0	0	0
+molybdenum incorporation via L-cysteinyl molybdopterin	GO_0018292	0	1	0	0	0
+molybdenum incorporation via L-cysteinyl copper sulfido molybdopterin cytosine dinucleotide	GO_0050834	0	1	0	0	0
+molybdenum incorporation via L-aspartyl molybdenum bis(molybdopterin guanine dinucleotide)	GO_0051217	0	1	0	0	0
+molybdenum incorporation into molybdenum-molybdopterin complex	GO_0018315	0	1	0	0	0
+molybdenum incorporation into metallo-sulfur cluster	GO_0018289	0	1	0	0	0
+molybdenum incorporation into iron-sulfur cluster	GO_0018291	0	1	0	0	0
+modification-dependent protein catabolic process	GO_0019941	0	1	0	0	0
+modification by symbiont of host protein by ubiquitination	GO_0075346	0	1	0	0	0
+modification by symbiont of host protein by phosphorylation	GO_0044031	0	1	0	0	0
+modification by symbiont of host protein	GO_0075345	0	1	0	0	0
+mitochondrial translation	GO_0032543	0	1	0	0	0
+mitochondrial protein processing	GO_0034982	0	1	0	0	0
+mitochondrial protein catabolic process	GO_0035694	0	1	0	0	0
+mitochondria-associated ubiquitin-dependent protein catabolic process	GO_0072671	0	1	0	0	0
+misfolded or incompletely synthesized protein catabolic process	GO_0006515	0	1	0	0	0
+misfolded or incompletely synthesized glycoprotein catabolic process	GO_0097466	0	1	0	0	0
+microcin E492 biosynthetic process by siderophore ester modification of peptidyl-serine	GO_0051263	0	1	0	0	0
+metaphase/anaphase transition of mitotic cell cycle	GO_0007091	0	1	0	0	0
+metal incorporation into metallo-sulfur cluster	GO_0018282	0	1	0	0	0
+metal incorporation into metallo-oxygen cluster	GO_0030923	0	1	0	0	0
+metal incorporation into metallo-molybdopterin complex	GO_0042040	0	1	0	0	0
+metabolism by symbiont of host protein	GO_0052228	0	1	0	0	0
+metabolism by organism of protein in other organism involved in symbiotic interaction	GO_0052418	0	1	0	0	0
+metabolism by host of symbiont protein	GO_0052417	0	1	0	0	0
+membrane protein proteolysis	GO_0033619	0	1	0	0	0
+membrane protein intracellular domain proteolysis	GO_0031293	0	1	0	0	0
+membrane protein ectodomain proteolysis	GO_0006509	0	1	0	0	0
+mannoprotein metabolic process	GO_0006056	0	1	0	0	0
+mannoprotein catabolic process	GO_0006058	0	1	0	0	0
+mannoprotein biosynthetic process	GO_0006057	0	1	0	0	0
+manganese incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide	GO_0030927	0	1	0	0	0
+manganese incorporation into metallo-oxygen cluster	GO_0030924	0	1	0	0	0
+lys-lys specific dibasic protein processing	GO_0090475	0	1	0	0	0
+lys-arg specific dibasic protein processing	GO_0090473	0	1	0	0	0
+lymphotoxin A biosynthetic process	GO_0042109	0	1	0	0	0
+low-density lipoprotein particle receptor catabolic process	GO_0032802	0	1	0	0	0
+lipoprotein oxidation	GO_0042161	0	1	0	0	0
+lipoprotein modification	GO_0042160	0	1	0	0	0
+lipoprotein metabolic process	GO_0042157	0	1	0	0	0
+lipoprotein lipid oxidation	GO_0034439	0	1	0	0	0
+lipoprotein catabolic process	GO_0042159	0	1	0	0	0
+lipoprotein biosynthetic process via signal peptide cleavage	GO_0097304	0	1	0	0	0
+lipoprotein biosynthetic process via diacylglyceryl transfer	GO_0097302	0	1	0	0	0
+lipoprotein biosynthetic process via N-acyl transfer	GO_0097303	0	1	0	0	0
+lipoprotein biosynthetic process	GO_0042158	0	1	0	0	0
+lipoprotein amino acid oxidation	GO_0034438	0	1	0	0	0
+kinin cascade	GO_0002254	0	1	0	0	0
+isopeptide cross-linking via N6-glycyl-L-lysine	GO_0018276	0	1	0	0	0
+isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine	GO_0018153	0	1	0	0	0
+isopeptide cross-linking via N-(L-isoglutamyl)-glycine	GO_0050986	0	1	0	0	0
+isopeptide cross-linking via N-(L-isoaspartyl)-glycine	GO_0018264	0	1	0	0	0
+isopeptide cross-linking via N-(L-isoaspartyl)-L-cysteine	GO_0018263	0	1	0	0	0
+isopeptide cross-linking	GO_0018262	0	1	0	0	0
+islet amyloid polypeptide processing	GO_0034231	0	1	0	0	0
+iron incorporation into the Rieske iron-sulfur cluster via bis-L-cysteinyl bis-L-histidino diiron disulfide	GO_0018299	0	1	0	0	0
+iron incorporation into protein via tetrakis-L-cysteinyl iron	GO_0018284	0	1	0	0	0
+iron incorporation into metallo-sulfur cluster	GO_0018283	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-serinyl tetrairon tetrasulfide	GO_0018305	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-cysteine persulfido-bis-L-glutamato-L-histidino tetrairon	GO_0018301	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato tetrairon tetrasulfide	GO_0018304	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato diiron disulfide	GO_0046869	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-N3'-histidino tetrairon tetrasulfide	GO_0018303	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-N1'-histidino tetrairon tetrasulfide	GO_0018302	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl triiron tetrasulfide	GO_0018287	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide	GO_0050835	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino nickel triiron disulfide trioxide	GO_0018415	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide	GO_0018417	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-arginyl diiron disulfide	GO_0050836	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl triiron tetrasulfide	GO_0045459	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl tetrairon tetrasulfide	GO_0018288	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl diiron disulfide	GO_0018285	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide	GO_0019709	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl L-serinyl octairon heptasulfide	GO_0018441	0	1	0	0	0
+iron incorporation into iron-sulfur cluster via bis-L-cysteinyl-L-N3'-histidino-L-serinyl tetrairon tetrasulfide	GO_0018306	0	1	0	0	0
+iron incorporation into hydrogenase diiron subcluster via L-cysteine ligation	GO_0046893	0	1	0	0	0
+iron and molybdenum incorporation into iron-molybdenum-sulfur cluster via L-cysteinyl homocitryl molybdenum-heptairon-nonasulfide	GO_0018290	0	1	0	0	0
+internal protein amino acid acetylation	GO_0006475	0	1	0	0	0
+internal peptidyl-lysine acetylation	GO_0018393	0	1	0	0	0
+interleukin-9 biosynthetic process	GO_0042229	0	1	0	0	0
+interleukin-8 biosynthetic process	GO_0042228	0	1	0	0	0
+interleukin-7 biosynthetic process	GO_0042227	0	1	0	0	0
+interleukin-6 biosynthetic process	GO_0042226	0	1	0	0	0
+interleukin-5 biosynthetic process	GO_0042225	0	1	0	0	0
+interleukin-4 biosynthetic process	GO_0042097	0	1	0	0	0
+interleukin-35 biosynthetic process	GO_0070749	0	1	0	0	0
+interleukin-3 biosynthetic process	GO_0042223	0	1	0	0	0
+interleukin-27 biosynthetic process	GO_0045527	0	1	0	0	0
+interleukin-26 biosynthetic process	GO_0045526	0	1	0	0	0
+interleukin-25 biosynthetic process	GO_0045525	0	1	0	0	0
+interleukin-24 biosynthetic process	GO_0045524	0	1	0	0	0
+interleukin-23 biosynthetic process	GO_0042240	0	1	0	0	0
+interleukin-22 biosynthetic process	GO_0042239	0	1	0	0	0
+interleukin-21 biosynthetic process	GO_0042238	0	1	0	0	0
+interleukin-20 biosynthetic process	GO_0042237	0	1	0	0	0
+interleukin-2 biosynthetic process	GO_0042094	0	1	0	0	0
+interleukin-19 biosynthetic process	GO_0042236	0	1	0	0	0
+interleukin-18 biosynthetic process	GO_0042241	0	1	0	0	0
+interleukin-17 biosynthetic process	GO_0042235	0	1	0	0	0
+interleukin-16 biosynthetic process	GO_0042234	0	1	0	0	0
+interleukin-15 biosynthetic process	GO_0042233	0	1	0	0	0
+interleukin-14 biosynthetic process	GO_0042232	0	1	0	0	0
+interleukin-13 biosynthetic process	GO_0042231	0	1	0	0	0
+interleukin-12 biosynthetic process	GO_0042090	0	1	0	0	0
+interleukin-11 biosynthetic process	GO_0042230	0	1	0	0	0
+interleukin-10 biosynthetic process	GO_0042091	0	1	0	0	0
+interleukin-1 biosynthetic process	GO_0042222	0	1	0	0	0
+interleukin-1 beta biosynthetic process	GO_0050720	0	1	0	0	0
+interleukin-1 alpha biosynthetic process	GO_0050719	0	1	0	0	0
+interferon-gamma biosynthetic process	GO_0042095	0	1	0	0	0
+interferon-beta biosynthetic process	GO_0045350	0	1	0	0	0
+interferon-alpha biosynthetic process	GO_0045349	0	1	0	0	0
+intein-mediated protein splicing	GO_0016539	0	1	0	0	0
+insulin processing	GO_0030070	0	1	0	0	0
+insulin metabolic process	GO_1901142	0	1	0	0	0
+insulin catabolic process	GO_1901143	0	1	0	0	0
+inhibitory G-protein coupled receptor phosphorylation	GO_0002030	0	1	0	0	0
+holo-[acyl-carrier-protein] biosynthetic process	GO_0031108	0	1	0	0	0
+histone-tyrosine phosphorylation	GO_0035406	0	1	0	0	0
+histone-threonine phosphorylation	GO_0035405	0	1	0	0	0
+histone-serine phosphorylation	GO_0035404	0	1	0	0	0
+histone ubiquitination	GO_0016574	0	1	0	0	0
+histone phosphorylation	GO_0016572	0	1	0	0	0
+histone peptidyl-prolyl isomerization	GO_0000412	0	1	0	0	0
+histone monoubiquitination	GO_0010390	0	1	0	0	0
+histone modification	GO_0016570	0	1	0	0	0
+histone methylation	GO_0016571	0	1	0	0	0
+histone lysine methylation	GO_0034968	0	1	0	0	0
+histone lysine demethylation	GO_0070076	0	1	0	0	0
+histone glutamine methylation	GO_1990258	0	1	0	0	0
+histone deubiquitination	GO_0016578	0	1	0	0	0
+histone dephosphorylation	GO_0016576	0	1	0	0	0
+histone demethylation	GO_0016577	0	1	0	0	0
+histone deacetylation at centromere	GO_0031059	0	1	0	0	0
+histone deacetylation	GO_0016575	0	1	0	0	0
+histone citrullination	GO_0036414	0	1	0	0	0
+histone catabolic process	GO_0036205	0	1	0	0	0
+histone biotinylation	GO_0071110	0	1	0	0	0
+histone arginine methylation	GO_0034969	0	1	0	0	0
+histone arginine demethylation	GO_0070077	0	1	0	0	0
+histone acetylation	GO_0016573	0	1	0	0	0
+histone H4-S1 phosphorylation	GO_0043989	0	1	0	0	0
+histone H4-R3 methylation	GO_0043985	0	1	0	0	0
+histone H4-R3 demethylation	GO_0070079	0	1	0	0	0
+histone H4-K8 acetylation	GO_0043982	0	1	0	0	0
+histone H4-K5 acetylation	GO_0043981	0	1	0	0	0
+histone H4-K20 trimethylation	GO_0034773	0	1	0	0	0
+histone H4-K20 monomethylation	GO_0034771	0	1	0	0	0
+histone H4-K20 methylation	GO_0034770	0	1	0	0	0
+histone H4-K20 dimethylation	GO_0034772	0	1	0	0	0
+histone H4-K20 demethylation	GO_0035574	0	1	0	0	0
+histone H4-K16 acetylation	GO_0043984	0	1	0	0	0
+histone H4-K12 acetylation	GO_0043983	0	1	0	0	0
+histone H4 deacetylation	GO_0070933	0	1	0	0	0
+histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	0	1	0	0	0
+histone H4 acetylation	GO_0043967	0	1	0	0	0
+histone H3-Y41 phosphorylation	GO_0035409	0	1	0	0	0
+histone H3-T6 phosphorylation	GO_0035408	0	1	0	0	0
+histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore	GO_2000751	0	1	0	0	0
+histone H3-T3 phosphorylation	GO_0072355	0	1	0	0	0
+histone H3-T11 phosphorylation	GO_0035407	0	1	0	0	0
+histone H3-S28 phosphorylation	GO_0043988	0	1	0	0	0
+histone H3-S10 phosphorylation involved in chromosome condensation	GO_2000775	0	1	0	0	0
+histone H3-S10 phosphorylation	GO_0043987	0	1	0	0	0
+histone H3-R26 methylation	GO_0034972	0	1	0	0	0
+histone H3-R26 citrullination	GO_0036413	0	1	0	0	0
+histone H3-R2 methylation	GO_0034970	0	1	0	0	0
+histone H3-R2 demethylation	GO_0070078	0	1	0	0	0
+histone H3-R17 methylation	GO_0034971	0	1	0	0	0
+histone H3-K9 trimethylation	GO_0036124	0	1	0	0	0
+histone H3-K9 modification	GO_0061647	0	1	0	0	0
+histone H3-K9 methylation	GO_0051567	0	1	0	0	0
+histone H3-K9 dimethylation	GO_0036123	0	1	0	0	0
+histone H3-K9 demethylation	GO_0033169	0	1	0	0	0
+histone H3-K9 acetylation	GO_0043970	0	1	0	0	0
+histone H3-K79 methylation	GO_0034729	0	1	0	0	0
+histone H3-K79 acetylation	GO_0043976	0	1	0	0	0
+histone H3-K56 deacetylation	GO_0071572	0	1	0	0	0
+histone H3-K56 acetylation in response to DNA damage	GO_0097044	0	1	0	0	0
+histone H3-K56 acetylation	GO_0097043	0	1	0	0	0
+histone H3-K4 trimethylation	GO_0080182	0	1	0	0	0
+histone H3-K4 methylation	GO_0051568	0	1	0	0	0
+histone H3-K4 dimethylation	GO_0044648	0	1	0	0	0
+histone H3-K4 demethylation, trimethyl-H3-K4-specific	GO_0034721	0	1	0	0	0
+histone H3-K4 demethylation	GO_0034720	0	1	0	0	0
+histone H3-K4 deacetylation	GO_1990596	0	1	0	0	0
+histone H3-K4 acetylation	GO_0043973	0	1	0	0	0
+histone H3-K36 trimethylation	GO_0097198	0	1	0	0	0
+histone H3-K36 methylation	GO_0010452	0	1	0	0	0
+histone H3-K36 dimethylation	GO_0097676	0	1	0	0	0
+histone H3-K36 demethylation	GO_0070544	0	1	0	0	0
+histone H3-K36 acetylation	GO_0043975	0	1	0	0	0
+histone H3-K27 trimethylation	GO_0098532	0	1	0	0	0
+histone H3-K27 methylation	GO_0070734	0	1	0	0	0
+histone H3-K27 demethylation	GO_0071557	0	1	0	0	0
+histone H3-K27 acetylation	GO_0043974	0	1	0	0	0
+histone H3-K23 acetylation	GO_0043972	0	1	0	0	0
+histone H3-K18 acetylation	GO_0043971	0	1	0	0	0
+histone H3-K14 acetylation	GO_0044154	0	1	0	0	0
+histone H3 deacetylation	GO_0070932	0	1	0	0	0
+histone H3 acetylation	GO_0043966	0	1	0	0	0
+histone H2B-S14 phosphorylation	GO_0043991	0	1	0	0	0
+histone H2B-K5 acetylation	GO_0043979	0	1	0	0	0
+histone H2B-K12 acetylation	GO_0043980	0	1	0	0	0
+histone H2B ubiquitination	GO_0033523	0	1	0	0	0
+histone H2B conserved C-terminal lysine ubiquitination	GO_0071894	0	1	0	0	0
+histone H2B conserved C-terminal lysine deubiquitination	GO_0035616	0	1	0	0	0
+histone H2B acetylation	GO_0043969	0	1	0	0	0
+histone H2A-T120 phosphorylation	GO_1990245	0	1	0	0	0
+histone H2A-S139 phosphorylation	GO_0035978	0	1	0	0	0
+histone H2A-S121 phosphorylation	GO_0072370	0	1	0	0	0
+histone H2A-S1 phosphorylation	GO_0043990	0	1	0	0	0
+histone H2A-K9 acetylation	GO_0043978	0	1	0	0	0
+histone H2A-K5 acetylation	GO_0043977	0	1	0	0	0
+histone H2A-K15 ubiquitination	GO_0036352	0	1	0	0	0
+histone H2A-K13 ubiquitination	GO_0036351	0	1	0	0	0
+histone H2A-K119 monoubiquitination	GO_0036353	0	1	0	0	0
+histone H2A ubiquitination	GO_0033522	0	1	0	0	0
+histone H2A phosphorylation	GO_1990164	0	1	0	0	0
+histone H2A monoubiquitination	GO_0035518	0	1	0	0	0
+histone H2A acetylation	GO_0043968	0	1	0	0	0
+histone H2A K63-linked ubiquitination	GO_0070535	0	1	0	0	0
+histone H2A K63-linked deubiquitination	GO_0070537	0	1	0	0	0
+hepatocyte growth factor biosynthetic process	GO_0048175	0	1	0	0	0
+heparan sulfate proteoglycan metabolic process	GO_0030201	0	1	0	0	0
+heparan sulfate proteoglycan catabolic process	GO_0030200	0	1	0	0	0
+heparan sulfate proteoglycan biosynthetic process, linkage to polypeptide	GO_0015013	0	1	0	0	0
+heparan sulfate proteoglycan biosynthetic process, enzymatic modification	GO_0015015	0	1	0	0	0
+heparan sulfate proteoglycan biosynthetic process	GO_0015012	0	1	0	0	0
+hemoglobin metabolic process	GO_0020027	0	1	0	0	0
+hemoglobin catabolic process	GO_0042540	0	1	0	0	0
+hemoglobin biosynthetic process	GO_0042541	0	1	0	0	0
+granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0042253	0	1	0	0	0
+glycoprotein metabolic process	GO_0009100	0	1	0	0	0
+glycoprotein catabolic process	GO_0006516	0	1	0	0	0
+glycoprotein biosynthetic process	GO_0009101	0	1	0	0	0
+glutaredoxin biosynthetic process	GO_0042965	0	1	0	0	0
+fractalkine metabolic process	GO_0050756	0	1	0	0	0
+fractalkine biosynthetic process	GO_0050751	0	1	0	0	0
+formation of peptidyl-cystine persulfide by sulphur transfer from free cysteine	GO_0044526	0	1	0	0	0
+formation of peptidyl-cystine persulfide by sulphur transfer from H2S	GO_0044527	0	1	0	0	0
+formation of oxidatively modified proteins involved in replicative cell aging	GO_0001318	0	1	0	0	0
+ferredoxin metabolic process	GO_0006124	0	1	0	0	0
+ferredoxin biosynthetic process	GO_0043172	0	1	0	0	0
+fasciclin-like arabinogalactan protein metabolic process	GO_0010408	0	1	0	0	0
+extensin metabolic process	GO_0010409	0	1	0	0	0
+epidermal growth factor receptor ligand maturation	GO_0038004	0	1	0	0	0
+epidermal growth factor catabolic process	GO_0007174	0	1	0	0	0
+enzyme active site formation via S-sulfo-L-cysteine	GO_0018248	0	1	0	0	0
+enzyme active site formation via S-phospho-L-cysteine	GO_0018325	0	1	0	0	0
+enzyme active site formation via S-methyl-L-cysteine	GO_0018320	0	1	0	0	0
+enzyme active site formation via S-amidino-L-cysteine	GO_0046894	0	1	0	0	0
+enzyme active site formation via S-acetyl-L-cysteine	GO_0018326	0	1	0	0	0
+enzyme active site formation via O4'-phospho-L-tyrosine	GO_0018334	0	1	0	0	0
+enzyme active site formation via O-sulfo-L-threonine	GO_0050991	0	1	0	0	0
+enzyme active site formation via O-sulfo-L-serine	GO_0050987	0	1	0	0	0
+enzyme active site formation via O-phospho-L-threonine	GO_0018333	0	1	0	0	0
+enzyme active site formation via O-phospho-L-serine	GO_0018331	0	1	0	0	0
+enzyme active site formation via O-(phospho-5'-adenosine)-L-threonine	GO_0018332	0	1	0	0	0
+enzyme active site formation via N6-(phospho-5'-guanosine)-L-lysine	GO_0018330	0	1	0	0	0
+enzyme active site formation via N6-(phospho-5'-adenosine)-L-lysine	GO_0018329	0	1	0	0	0
+enzyme active site formation via L-cysteine sulfinic acid	GO_0018323	0	1	0	0	0
+enzyme active site formation via L-cysteine sulfenic acid	GO_0018324	0	1	0	0	0
+enzyme active site formation via L-cysteine persulfide	GO_0018192	0	1	0	0	0
+enzyme active site formation via L-aspartic 4-phosphoric anhydride	GO_0018443	0	1	0	0	0
+enzyme active site formation via 3'-phospho-L-histidine	GO_0018328	0	1	0	0	0
+enzyme active site formation via 1'-phospho-L-histidine	GO_0018327	0	1	0	0	0
+enzyme active site formation via 1'-(phospho-5'-uridine)-L-histidine	GO_0051115	0	1	0	0	0
+enzyme active site formation via 1'-(phospho-5'-adenosine)-L-histidine	GO_0051113	0	1	0	0	0
+enzyme active site formation via (phospho-5'-guanosine)-L-histidine	GO_0045427	0	1	0	0	0
+enzyme active site formation	GO_0018307	0	1	0	0	0
+enkephalin processing	GO_0034230	0	1	0	0	0
+endothelin maturation	GO_0034959	0	1	0	0	0
+elastin metabolic process	GO_0051541	0	1	0	0	0
+elastin catabolic process	GO_0060309	0	1	0	0	0
+elastin biosynthetic process	GO_0051542	0	1	0	0	0
+dibasic protein processing	GO_0090472	0	1	0	0	0
+dermatan sulfate proteoglycan metabolic process	GO_0050655	0	1	0	0	0
+dermatan sulfate proteoglycan biosynthetic process	GO_0050651	0	1	0	0	0
+dephosphorylation of RNA polymerase II C-terminal domain	GO_0070940	0	1	0	0	0
+cytoplasmic translation	GO_0002181	0	1	0	0	0
+cytoplasm-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071629	0	1	0	0	0
+cytokine metabolic process	GO_0042107	0	1	0	0	0
+cytokine biosynthetic process involved in immune response	GO_0002375	0	1	0	0	0
+cytokine biosynthetic process	GO_0042089	0	1	0	0	0
+cytochrome metabolic process	GO_1903604	0	1	0	0	0
+cytochrome c-heme linkage via heme-bis-L-cysteine	GO_0018379	0	1	0	0	0
+cytochrome c-heme linkage via heme-L-cysteine	GO_0018378	0	1	0	0	0
+cytochrome c-heme linkage	GO_0018063	0	1	0	0	0
+cytochrome c metabolic process	GO_1903606	0	1	0	0	0
+cytochrome c biosynthetic process	GO_1903607	0	1	0	0	0
+cytochrome biosynthetic process	GO_1903605	0	1	0	0	0
+cytochrome P450 4A1-heme linkage	GO_0045328	0	1	0	0	0
+cullin deneddylation	GO_0010388	0	1	0	0	0
+copper incorporation via L-cysteinyl copper sulfido molybdopterin cytosine dinucleotide	GO_0050842	0	1	0	0	0
+copper incorporation into metallo-sulfur cluster	GO_0018427	0	1	0	0	0
+copper incorporation into copper-sulfur cluster via heptakis-L-histidino tetracopper mu4-sulfide hydroxide	GO_0018429	0	1	0	0	0
+copper incorporation into copper-sulfur cluster	GO_0018428	0	1	0	0	0
+conversion of seryl-tRNAsec to selenocys-tRNAsec	GO_0001717	0	1	0	0	0
+conversion of methionyl-tRNA to N-formyl-methionyl-tRNA	GO_0071951	0	1	0	0	0
+conversion of lysyl-tRNA to pyrrolysyl-tRNA	GO_0001720	0	1	0	0	0
+conversion of glutamyl-tRNA to glutaminyl-tRNA	GO_0043685	0	1	0	0	0
+conversion of aspartyl-tRNA to asparaginyl-tRNA	GO_0043688	0	1	0	0	0
+conversion of O-phosphoseryl-tRNA to cysteinyl-tRNA	GO_0071952	0	1	0	0	0
+constitutive protein ectodomain proteolysis	GO_0051089	0	1	0	0	0
+connective tissue growth factor biosynthetic process	GO_0045189	0	1	0	0	0
+complement activation, lectin pathway	GO_0001867	0	1	0	0	0
+complement activation, classical pathway	GO_0006958	0	1	0	0	0
+complement activation, alternative pathway	GO_0006957	0	1	0	0	0
+complement activation	GO_0006956	0	1	0	0	0
+common-partner SMAD protein phosphorylation	GO_0007182	0	1	0	0	0
+coenzyme A-peptidyl-cysteine covalent linking	GO_0019703	0	1	0	0	0
+co-translational protein modification	GO_0043686	0	1	0	0	0
+co-translational protein acetylation	GO_0034420	0	1	0	0	0
+classical arabinogalactan protein metabolic process	GO_0010406	0	1	0	0	0
+cis-14-hydroxy-10,13-dioxo-7-heptadecenoic acid peptidyl-aspartate ester biosynthetic process from peptidyl-aspartic acid	GO_0019930	0	1	0	0	0
+chondroitin sulfate proteoglycan metabolic process	GO_0050654	0	1	0	0	0
+chondroitin sulfate proteoglycan biosynthetic process	GO_0050650	0	1	0	0	0
+chemokine metabolic process	GO_0050755	0	1	0	0	0
+chemokine biosynthetic process	GO_0042033	0	1	0	0	0
+charged-tRNA amino acid modification	GO_0019988	0	1	0	0	0
+chaperone-mediated protein folding	GO_0061077	0	1	0	0	0
+chaperone mediated protein folding requiring cofactor	GO_0051085	0	1	0	0	0
+chaperone mediated protein folding independent of cofactor	GO_0051086	0	1	0	0	0
+chaperone cofactor-dependent protein refolding	GO_0070389	0	1	0	0	0
+chain elongation of O-linked mannose residue	GO_0044845	0	1	0	0	0
+cellular protein modification process	GO_0006464	0	1	0	0	0
+cellular protein metabolic process	GO_0044267	0	1	0	0	0
+cellular protein catabolic process	GO_0044257	0	1	0	0	0
+cell wall proteoglycan metabolic process	GO_0010384	0	1	0	0	0
+cell wall mannoprotein biosynthetic process	GO_0000032	0	1	0	0	0
+cell wall hydroxyproline-rich glycoprotein metabolic process	GO_0010404	0	1	0	0	0
+cell wall glycoprotein biosynthetic process	GO_0031506	0	1	0	0	0
+catabolism by symbiont of host protein	GO_0052014	0	1	0	0	0
+catabolism by organism of protein in other organism involved in symbiotic interaction	GO_0052363	0	1	0	0	0
+catabolism by host of symbiont protein	GO_0052362	0	1	0	0	0
+calcium-dependent self proteolysis	GO_1990092	0	1	0	0	0
+calcium incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide	GO_0030926	0	1	0	0	0
+calcium incorporation into metallo-oxygen cluster	GO_0030925	0	1	0	0	0
+blood coagulation, intrinsic pathway	GO_0007597	0	1	0	0	0
+blood coagulation, fibrin clot formation	GO_0072378	0	1	0	0	0
+blood coagulation, extrinsic pathway	GO_0007598	0	1	0	0	0
+blood coagulation, common pathway	GO_0072377	0	1	0	0	0
+bis(molybdopterin guanine dinucleotide)molybdenum biosynthetic process	GO_1902758	0	1	0	0	0
+beta-amyloid formation	GO_0034205	0	1	0	0	0
+bacterial-type EF-P lysine modification	GO_0072580	0	1	0	0	0
+attachment of GPI anchor to protein	GO_0016255	0	1	0	0	0
+arg-arg specific dibasic protein processing	GO_0090474	0	1	0	0	0
+arabinogalactan protein metabolic process	GO_0010405	0	1	0	0	0
+angiotensin maturation	GO_0002003	0	1	0	0	0
+angiotensin catabolic process in blood	GO_0002005	0	1	0	0	0
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	GO_0031145	0	1	0	0	0
+amyloid precursor protein metabolic process	GO_0042982	0	1	0	0	0
+amyloid precursor protein catabolic process	GO_0042987	0	1	0	0	0
+amyloid precursor protein biosynthetic process	GO_0042983	0	1	0	0	0
+amyloid fibril formation	GO_1990000	0	1	0	0	0
+alpha-tubulin acetylation	GO_0071929	0	1	0	0	0
+alpha-1-microglobulin-chromophore linkage	GO_0019923	0	1	0	0	0
+acyl-carrier-protein biosynthetic process	GO_0042967	0	1	0	0	0
+activation of plasma proteins involved in acute inflammatory response	GO_0002541	0	1	0	0	0
+activation of membrane attack complex	GO_0001905	0	1	0	0	0
+activation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_0097297	0	1	0	0	0
+activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_0097296	0	1	0	0	0
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c	GO_0008635	0	1	0	0	0
+activation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0006919	0	1	0	0	0
+activation of cysteine-type endopeptidase activity	GO_0097202	0	1	0	0	0
+activation of Janus kinase activity	GO_0042976	0	1	0	0	0
+activation of JAK2 kinase activity	GO_0042977	0	1	0	0	0
+activation of JAK1 kinase activity	GO_0010531	0	1	0	0	0
+actin ubiquitination	GO_0007014	0	1	0	0	0
+actin phosphorylation	GO_0031289	0	1	0	0	0
+actin modification	GO_0030047	0	1	0	0	0
+acrosome matrix dispersal	GO_0002077	0	1	0	0	0
+W-molybdopterin cofactor biosynthetic process	GO_0042047	0	1	0	0	0
+TRAIL biosynthetic process	GO_0045553	0	1	0	0	0
+Smt3-protein conjugation	GO_0019951	0	1	0	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	0	1	0	0	0
+SMT3-dependent protein catabolic process	GO_0019950	0	1	0	0	0
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	GO_0031146	0	1	0	0	0
+RNA-protein covalent cross-linking via peptidyl-tyrosine	GO_0018148	0	1	0	0	0
+RNA-protein covalent cross-linking via peptidyl-serine	GO_0018259	0	1	0	0	0
+RNA-protein covalent cross-linking	GO_0018144	0	1	0	0	0
+PSII associated light-harvesting complex II catabolic process	GO_0010304	0	1	0	0	0
+PMA-inducible membrane protein ectodomain proteolysis	GO_0051088	0	1	0	0	0
+O3-(phosphoglycosyl-D-mannose-1-phosphoryl)-L-serine biosynthetic process	GO_0018426	0	1	0	0	0
+O3-(N-acetylglucosamine-1-phosphoryl)-L-serine biosynthetic process	GO_0018425	0	1	0	0	0
+O-sialoglycoprotein catabolic process	GO_0045173	0	1	0	0	0
+O-glycan processing, core 8	GO_0031044	0	1	0	0	0
+O-glycan processing, core 7	GO_0031043	0	1	0	0	0
+O-glycan processing, core 6	GO_0031042	0	1	0	0	0
+O-glycan processing, core 5	GO_0031041	0	1	0	0	0
+O-glycan processing, core 4	GO_0016270	0	1	0	0	0
+O-glycan processing, core 3	GO_0016269	0	1	0	0	0
+O-glycan processing, core 2	GO_0016268	0	1	0	0	0
+O-glycan processing, core 1	GO_0016267	0	1	0	0	0
+O-glycan processing	GO_0016266	0	1	0	0	0
+Notch receptor processing, ligand-independent	GO_0035334	0	1	0	0	0
+Notch receptor processing, ligand-dependent	GO_0035333	0	1	0	0	0
+Notch receptor processing	GO_0007220	0	1	0	0	0
+N-terminal protein palmitoylation	GO_0006500	0	1	0	0	0
+N-terminal protein myristoylation	GO_0006499	0	1	0	0	0
+N-terminal protein lipidation	GO_0006498	0	1	0	0	0
+N-terminal protein formylation	GO_0018004	0	1	0	0	0
+N-terminal protein amino acid propionylation	GO_0061606	0	1	0	0	0
+N-terminal protein amino acid modification	GO_0031365	0	1	0	0	0
+N-terminal protein amino acid methylation	GO_0006480	0	1	0	0	0
+N-terminal protein amino acid glucuronylation	GO_0018006	0	1	0	0	0
+N-terminal protein amino acid deamination, from side chain	GO_0031364	0	1	0	0	0
+N-terminal protein amino acid deamination, from amino carbon	GO_0018058	0	1	0	0	0
+N-terminal protein amino acid deamination	GO_0031363	0	1	0	0	0
+N-terminal protein amino acid carboxylation	GO_0050989	0	1	0	0	0
+N-terminal protein amino acid carbamoylation	GO_0050990	0	1	0	0	0
+N-terminal protein amino acid acetylation	GO_0006474	0	1	0	0	0
+N-terminal protein amino acid N-linked glycosylation	GO_0035629	0	1	0	0	0
+N-terminal peptidyl-valine deamination	GO_0018389	0	1	0	0	0
+N-terminal peptidyl-valine condensation with pyruvate to form N-pyruvic acid 2-iminyl-L-valine	GO_0018388	0	1	0	0	0
+N-terminal peptidyl-valine acetylation	GO_0018001	0	1	0	0	0
+N-terminal peptidyl-tyrosine methylation	GO_0046897	0	1	0	0	0
+N-terminal peptidyl-tyrosine acetylation	GO_0018000	0	1	0	0	0
+N-terminal peptidyl-threonine deamination	GO_0018278	0	1	0	0	0
+N-terminal peptidyl-threonine acetylation	GO_0017199	0	1	0	0	0
+N-terminal peptidyl-serine trimethylation	GO_0035573	0	1	0	0	0
+N-terminal peptidyl-serine monomethylation	GO_0035571	0	1	0	0	0
+N-terminal peptidyl-serine methylation	GO_0035570	0	1	0	0	0
+N-terminal peptidyl-serine dimethylation	GO_0035572	0	1	0	0	0
+N-terminal peptidyl-serine deamination	GO_0018059	0	1	0	0	0
+N-terminal peptidyl-serine acetylation	GO_0017198	0	1	0	0	0
+N-terminal peptidyl-proline methylation	GO_0035568	0	1	0	0	0
+N-terminal peptidyl-proline dimethylation involved in translation	GO_0071891	0	1	0	0	0
+N-terminal peptidyl-proline dimethylation	GO_0018016	0	1	0	0	0
+N-terminal peptidyl-proline acetylation	GO_0017197	0	1	0	0	0
+N-terminal peptidyl-proline N-formylation	GO_0051364	0	1	0	0	0
+N-terminal peptidyl-phenylalanine methylation	GO_0018015	0	1	0	0	0
+N-terminal peptidyl-methionine methylation	GO_0018014	0	1	0	0	0
+N-terminal peptidyl-methionine carboxylation	GO_0050988	0	1	0	0	0
+N-terminal peptidyl-methionine acetylation	GO_0017196	0	1	0	0	0
+N-terminal peptidyl-lysine acetylation	GO_0018076	0	1	0	0	0
+N-terminal peptidyl-lysine N2-acetylation	GO_0017195	0	1	0	0	0
+N-terminal peptidyl-leucine methylation	GO_0046896	0	1	0	0	0
+N-terminal peptidyl-isoleucine methylation	GO_0046895	0	1	0	0	0
+N-terminal peptidyl-isoleucine acetylation	GO_0017194	0	1	0	0	0
+N-terminal peptidyl-glycine methylation	GO_0018013	0	1	0	0	0
+N-terminal peptidyl-glycine acetylation	GO_0017193	0	1	0	0	0
+N-terminal peptidyl-glycine N-palmitoylation	GO_0046918	0	1	0	0	0
+N-terminal peptidyl-glycine N-myristoylation	GO_0018008	0	1	0	0	0
+N-terminal peptidyl-glycine N-glucuronylation	GO_0018007	0	1	0	0	0
+N-terminal peptidyl-glycine N-formylation	GO_0018005	0	1	0	0	0
+N-terminal peptidyl-glutamine methylation	GO_0018019	0	1	0	0	0
+N-terminal peptidyl-glutamine deamination	GO_0031367	0	1	0	0	0
+N-terminal peptidyl-glutamine acetylation	GO_0017192	0	1	0	0	0
+N-terminal peptidyl-glutamic acid acetylation	GO_0018002	0	1	0	0	0
+N-terminal peptidyl-cysteine deamination	GO_0018060	0	1	0	0	0
+N-terminal peptidyl-cysteine condensation with pyruvate to form N-pyruvic acid 2-iminyl-L-cysteine	GO_0018386	0	1	0	0	0
+N-terminal peptidyl-cysteine acetylation	GO_0018275	0	1	0	0	0
+N-terminal peptidyl-aspartic acid acetylation	GO_0017190	0	1	0	0	0
+N-terminal peptidyl-asparagine deamination	GO_0031366	0	1	0	0	0
+N-terminal peptidyl-arginine acetylation	GO_0048275	0	1	0	0	0
+N-terminal peptidyl-amino acid deamination to pyruvic acid	GO_0018387	0	1	0	0	0
+N-terminal peptidyl-alanine trimethylation	GO_0018012	0	1	0	0	0
+N-terminal peptidyl-alanine monomethylation	GO_0019716	0	1	0	0	0
+N-terminal peptidyl-alanine methylation	GO_0018011	0	1	0	0	0
+N-terminal peptidyl-alanine acetylation	GO_0017189	0	1	0	0	0
+N-terminal peptidyl-alanine N-carbamoylation	GO_0046945	0	1	0	0	0
+N-terminal peptidyl-L-cysteine N-palmitoylation	GO_0018009	0	1	0	0	0
+Mo-molybdopterin cofactor biosynthetic process	GO_0006777	0	1	0	0	0
+Mo(VI)-molybdopterin cytosine dinucleotide biosynthetic process	GO_1902760	0	1	0	0	0
+JUN phosphorylation	GO_0007258	0	1	0	0	0
+ISG15-protein conjugation	GO_0032020	0	1	0	0	0
+I-kappaB phosphorylation	GO_0007252	0	1	0	0	0
+Hsp90 deacetylation	GO_0070846	0	1	0	0	0
+GSI anchor biosynthetic process via N-seryl-glycosylsphingolipidinositolethanolamine	GO_0018281	0	1	0	0	0
+GSI anchor biosynthetic process via N-glycyl-glycosylsphingolipidinositolethanolamine	GO_0050494	0	1	0	0	0
+GSI anchor biosynthetic process	GO_0042082	0	1	0	0	0
+GPI anchor biosynthetic process via N-threonyl-glycosylphosphatidylinositolethanolamine	GO_0050493	0	1	0	0	0
+GPI anchor biosynthetic process via N-seryl-glycosylphosphatidylinositolethanolamine	GO_0018269	0	1	0	0	0
+GPI anchor biosynthetic process via N-glycyl-glycosylphosphatidylinositolethanolamine	GO_0018268	0	1	0	0	0
+GPI anchor biosynthetic process via N-cysteinyl-glycosylphosphatidylinositolethanolamine	GO_0018267	0	1	0	0	0
+GPI anchor biosynthetic process via N-aspartyl-glycosylphosphatidylinositolethanolamine	GO_0018266	0	1	0	0	0
+GPI anchor biosynthetic process via N-asparaginyl-glycosylphosphatidylinositolethanolamine	GO_0018265	0	1	0	0	0
+GPI anchor biosynthetic process via N-alanyl-glycosylphosphatidylinositolethanolamine	GO_0018270	0	1	0	0	0
+GPI anchor biosynthetic process	GO_0006506	0	1	0	0	0
+FasL biosynthetic process	GO_0045210	0	1	0	0	0
+ER-associated ubiquitin-dependent protein catabolic process	GO_0030433	0	1	0	0	0
+ER-associated misfolded protein catabolic process	GO_0071712	0	1	0	0	0
+DNA damage induced protein phosphorylation	GO_0006975	0	1	0	0	0
+CD86 biosynthetic process	GO_0035781	0	1	0	0	0
+CD80 biosynthetic process	GO_0035780	0	1	0	0	0
+CD4 biosynthetic process	GO_0045222	0	1	0	0	0
+CD24 biosynthetic process	GO_0035724	0	1	0	0	0
+CAAX-box protein processing	GO_0071586	0	1	0	0	0
+CAAX-box protein modification	GO_0071587	0	1	0	0	0
+CAAX-box protein maturation	GO_0080120	0	1	0	0	0
+C-terminal protein-tyrosinylation	GO_0018166	0	1	0	0	0
+C-terminal protein methylation	GO_0006481	0	1	0	0	0
+C-terminal protein lipidation	GO_0006501	0	1	0	0	0
+C-terminal protein demethylation	GO_1990577	0	1	0	0	0
+C-terminal protein deglutamylation	GO_0035609	0	1	0	0	0
+C-terminal protein amino acid modification	GO_0018410	0	1	0	0	0
+C-terminal peptidyl-valine amidation	GO_0018053	0	1	0	0	0
+C-terminal peptidyl-tyrosine amidation	GO_0018052	0	1	0	0	0
+C-terminal peptidyl-tryptophan amidation	GO_0018051	0	1	0	0	0
+C-terminal peptidyl-threonine amidation	GO_0018050	0	1	0	0	0
+C-terminal peptidyl-serine amidation	GO_0018049	0	1	0	0	0
+C-terminal peptidyl-proline amidation	GO_0018048	0	1	0	0	0
+C-terminal peptidyl-polyglutamic acid amidation	GO_0018170	0	1	0	0	0
+C-terminal peptidyl-phenylalanine amidation	GO_0018047	0	1	0	0	0
+C-terminal peptidyl-methionine amidation	GO_0018046	0	1	0	0	0
+C-terminal peptidyl-lysine amidation	GO_0018045	0	1	0	0	0
+C-terminal peptidyl-leucine amidation	GO_0018044	0	1	0	0	0
+C-terminal peptidyl-isoleucine amidation	GO_0018043	0	1	0	0	0
+C-terminal peptidyl-histidine amidation	GO_0018042	0	1	0	0	0
+C-terminal peptidyl-glycine amidation	GO_0018041	0	1	0	0	0
+C-terminal peptidyl-glutamine amidation	GO_0018039	0	1	0	0	0
+C-terminal peptidyl-glutamic acid tyrosinylation	GO_0018391	0	1	0	0	0
+C-terminal peptidyl-glutamic acid amidation	GO_0018040	0	1	0	0	0
+C-terminal peptidyl-cysteine amidation	GO_0018038	0	1	0	0	0
+C-terminal peptidyl-aspartic acid amidation	GO_0018037	0	1	0	0	0
+C-terminal peptidyl-asparagine amidation	GO_0018036	0	1	0	0	0
+C-terminal peptidyl-arginine amidation	GO_0018035	0	1	0	0	0
+C-terminal peptidyl-alanine amidation	GO_0018034	0	1	0	0	0
+ATP-independent chaperone mediated protein folding	GO_1990507	0	1	0	0	0
+(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine	GO_0046550	0	1	0	0	0
+'de novo' protein folding	GO_0006458	0	1	0	0	0
+'de novo' posttranslational protein folding	GO_0051084	0	1	0	0	0
+'de novo' cotranslational protein folding	GO_0051083	0	1	0	0	0

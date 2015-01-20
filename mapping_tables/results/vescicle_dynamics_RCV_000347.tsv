@@ -1,0 +1,166 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+vesicle-mediated transport involved in floral organ abscission	GO_0060858	1	1	1	0	0
+vesicle-mediated transport	GO_0016192	1	1	1	0	0
+vesicle transport along microtubule	GO_0047496	1	1	1	0	0
+vesicle transport along actin filament	GO_0030050	1	1	1	0	0
+vesicle targeting, trans-Golgi to endosome	GO_0048203	1	1	1	0	0
+vesicle targeting, to, from or within Golgi	GO_0048199	1	1	1	0	0
+vesicle targeting, rough ER to cis-Golgi	GO_0048207	1	1	1	0	0
+vesicle targeting, plasma membrane to endosome	GO_0048201	1	1	1	0	0
+vesicle targeting, inter-Golgi cisterna	GO_0048204	1	1	1	0	0
+vesicle targeting, cis-Golgi to rough ER	GO_0048206	1	1	1	0	0
+vesicle targeting to fusome	GO_0045479	1	1	1	0	0
+vesicle localization	GO_0051648	1	1	1	0	0
+vesicle-mediated cholesterol transport	GO_0090119	1	0	1	0	0
+vesicle uncoating	GO_0072319	1	0	1	0	0
+vesicle transport	GO_0006905	1	0	1	1	1
+vesicle targeting	GO_0006903	1	0	1	0	0
+vesicle organization	GO_0016050	1	0	1	0	0
+vesicle fusion with vacuole	GO_0051469	1	0	1	0	0
+vesicle fusion with peroxisome	GO_0019817	1	0	1	0	0
+vesicle fusion with nuclear membrane involved in mitotic nuclear envelope reassembly	GO_0007086	1	0	1	0	0
+vesicle fusion with endoplasmic reticulum	GO_0048279	1	0	1	0	0
+vesicle fusion with Golgi apparatus	GO_0048280	1	0	1	0	0
+vesicle fusion	GO_0006906	1	0	1	0	0
+vesicle docking involved in exocytosis	GO_0006904	1	0	1	0	0
+vesicle docking	GO_0048278	1	0	1	0	0
+vesicle coating	GO_0006901	1	0	1	0	0
+zymogen granule exocytosis	GO_0070625	0	1	0	0	0
+very-low-density lipoprotein particle clearance	GO_0034447	0	1	0	0	0
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	GO_0090611	0	1	0	0	0
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043162	0	1	0	0	0
+ubiquitin-dependent endocytosis	GO_0070086	0	1	0	0	0
+triglyceride-rich lipoprotein particle clearance	GO_0071830	0	1	0	0	0
+transcytosis	GO_0045056	0	1	0	0	0
+synaptic vesicle transport	GO_0048489	0	1	0	0	0
+synaptic vesicle targeting	GO_0016080	0	1	0	0	0
+synaptic vesicle recycling via endosome	GO_0036466	0	1	0	0	0
+synaptic vesicle recycling	GO_0036465	0	1	0	0	0
+synaptic vesicle lumen acidification	GO_0097401	0	1	0	0	0
+synaptic vesicle localization	GO_0097479	0	1	0	0	0
+synaptic vesicle exocytosis	GO_0016079	0	1	0	0	0
+synaptic vesicle endocytosis	GO_0048488	0	1	0	0	0
+synaptic vesicle clustering	GO_0097091	0	1	0	0	0
+synaptic vesicle budding from presynaptic membrane	GO_0016185	0	1	0	0	0
+synaptic vesicle budding from endosome	GO_0016182	0	1	0	0	0
+synaptic vesicle budding	GO_0070142	0	1	0	0	0
+synaptic vesicle amine transport	GO_0015842	0	1	0	0	0
+sperm entry	GO_0035037	0	1	0	0	0
+slow endocytic recycling	GO_0032458	0	1	0	0	0
+single-organism pinocytosis	GO_1902536	0	1	0	0	0
+single-organism micropinocytosis	GO_1902540	0	1	0	0	0
+single-organism macropinocytosis	GO_1902538	0	1	0	0	0
+secretory granule localization	GO_0032252	0	1	0	0	0
+retrograde vesicle-mediated transport, Golgi to ER	GO_0006890	0	1	0	0	0
+retrograde transport, vesicle recycling within Golgi	GO_0000301	0	1	0	0	0
+retrograde transport, plasma membrane to Golgi	GO_0035526	0	1	0	0	0
+retrograde transport, endosome to plasma membrane	GO_1990126	0	1	0	0	0
+retrograde transport, endosome to Golgi	GO_0042147	0	1	0	0	0
+retrograde synaptic vesicle transport	GO_0048491	0	1	0	0	0
+retrograde dense core granule transport	GO_1990049	0	1	0	0	0
+regulation of signal transduction by receptor internalization	GO_0038009	0	1	0	0	0
+regulated secretory pathway	GO_0045055	0	1	0	0	0
+recycling endosome to Golgi transport	GO_0071955	0	1	0	0	0
+receptor-mediated endocytosis of virus by host cell	GO_0019065	0	1	0	0	0
+receptor-mediated endocytosis of low-density lipoprotein particle involved in cholesterol transport	GO_0090118	0	1	0	0	0
+receptor-mediated endocytosis	GO_0006898	0	1	0	0	0
+receptor internalization involved in canonical Wnt signaling pathway	GO_2000286	0	1	0	0	0
+receptor internalization	GO_0031623	0	1	0	0	0
+protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043328	0	1	0	0	0
+protein targeting to membrane involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043329	0	1	0	0	0
+protein targeting to Golgi	GO_0000042	0	1	0	0	0
+protein processing in phagocytic vesicle	GO_1900756	0	1	0	0	0
+post-Golgi vesicle-mediated transport	GO_0006892	0	1	0	0	0
+positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization	GO_1901245	0	1	0	0	0
+positive regulation of signal transduction by receptor internalization	GO_0038010	0	1	0	0	0
+positive regulation of insulin receptor signaling pathway by insulin receptor internalization	GO_0038015	0	1	0	0	0
+positive regulation of Wnt signaling pathway by Wnt receptor internalization	GO_0038013	0	1	0	0	0
+plus-end-directed vesicle transport along microtubule	GO_0072383	0	1	0	0	0
+platelet degranulation	GO_0002576	0	1	0	0	0
+plasma membrane to endosome transport	GO_0048227	0	1	0	0	0
+plasma lipoprotein particle clearance	GO_0034381	0	1	0	0	0
+pinocytosis	GO_0006907	0	1	0	0	0
+pigment granule transport	GO_0051904	0	1	0	0	0
+pigment granule localization	GO_0051875	0	1	0	0	0
+phagosome maturation involved in apoptotic cell clearance	GO_0090386	0	1	0	0	0
+phagosome maturation	GO_0090382	0	1	0	0	0
+phagocytosis	GO_0006909	0	1	0	0	0
+neutrophil degranulation	GO_0043312	0	1	0	0	0
+neutrophil clearance	GO_0097350	0	1	0	0	0
+neurotransmitter secretory pathway	GO_0010554	0	1	0	0	0
+negative regulation of signal transduction by receptor internalization	GO_0038011	0	1	0	0	0
+negative regulation of insulin receptor signaling pathway by insulin receptor internalization	GO_0038014	0	1	0	0	0
+negative regulation of Wnt signaling pathway by Wnt receptor internalization	GO_0038012	0	1	0	0	0
+natural killer cell degranulation	GO_0043320	0	1	0	0	0
+multivesicular body sorting pathway	GO_0071985	0	1	0	0	0
+multi-organism pinocytosis	GO_1902537	0	1	0	0	0
+multi-organism micropinocytosis	GO_1902541	0	1	0	0	0
+multi-organism macropinocytosis	GO_1902539	0	1	0	0	0
+minus-end-directed vesicle transport along microtubule	GO_0072382	0	1	0	0	0
+micropinocytosis	GO_0044350	0	1	0	0	0
+melanosome transport	GO_0032402	0	1	0	0	0
+melanosome localization	GO_0032400	0	1	0	0	0
+mast cell degranulation	GO_0043303	0	1	0	0	0
+macropinocytosis involved in viral entry into host cell	GO_0075510	0	1	0	0	0
+macropinocytosis	GO_0044351	0	1	0	0	0
+low-density lipoprotein particle clearance	GO_0034383	0	1	0	0	0
+leukocyte degranulation	GO_0043299	0	1	0	0	0
+late endosome to vacuole transport via multivesicular body sorting pathway	GO_0032511	0	1	0	0	0
+late endosome to Golgi transport	GO_0034499	0	1	0	0	0
+intra-Golgi vesicle-mediated transport	GO_0006891	0	1	0	0	0
+intermediate-density lipoprotein particle clearance	GO_0071831	0	1	0	0	0
+inter-Golgi cisterna vesicle-mediated transport	GO_0048219	0	1	0	0	0
+insulin receptor internalization	GO_0038016	0	1	0	0	0
+immunoglobulin transcytosis in epithelial cells mediated by polymeric immunoglobulin receptor	GO_0002415	0	1	0	0	0
+immunoglobulin transcytosis in epithelial cells	GO_0002414	0	1	0	0	0
+high-density lipoprotein particle clearance	GO_0034384	0	1	0	0	0
+gas vesicle organization	GO_0031412	0	1	0	0	0
+fast endocytic recycling	GO_0032457	0	1	0	0	0
+exosomal secretion	GO_1990182	0	1	0	0	0
+exocytosis	GO_0006887	0	1	0	0	0
+eosinophil degranulation	GO_0043308	0	1	0	0	0
+endosome transport via multivesicular body sorting pathway	GO_0032509	0	1	0	0	0
+endosome to lysosome transport via multivesicular body sorting pathway	GO_0032510	0	1	0	0	0
+endocytosis involved in viral entry into host cell	GO_0075509	0	1	0	0	0
+endocytosis	GO_0006897	0	1	0	0	0
+endocytic recycling	GO_0032456	0	1	0	0	0
+endocytic import into cell	GO_0098701	0	1	0	0	0
+early endosome to recycling endosome transport	GO_0061502	0	1	0	0	0
+early endosome to late endosome transport	GO_0045022	0	1	0	0	0
+early endosome to Golgi transport	GO_0034498	0	1	0	0	0
+dense core granule transport	GO_1901950	0	1	0	0	0
+dense core granule localization	GO_0032253	0	1	0	0	0
+dense core granule exocytosis	GO_1990504	0	1	0	0	0
+cytotoxic T cell degranulation	GO_0043316	0	1	0	0	0
+cortical granule exocytosis	GO_0060471	0	1	0	0	0
+contractile vacuole discharge	GO_0070177	0	1	0	0	0
+constitutive secretory pathway	GO_0045054	0	1	0	0	0
+clathrin-mediated endocytosis of virus by host cell	GO_0075512	0	1	0	0	0
+clathrin-mediated endocytosis	GO_0072583	0	1	0	0	0
+cisternal progression	GO_0045057	0	1	0	0	0
+chylomicron remnant clearance	GO_0034382	0	1	0	0	0
+caveolin-mediated endocytosis of virus by host cell	GO_0075513	0	1	0	0	0
+caveolin-mediated endocytosis	GO_0072584	0	1	0	0	0
+calcium ion-dependent exocytosis	GO_0017156	0	1	0	0	0
+basophil degranulation	GO_0002561	0	1	0	0	0
+apoptotic cell clearance	GO_0043277	0	1	0	0	0
+antigen transcytosis by M cells in mucosal-associated lymphoid tissue	GO_0002412	0	1	0	0	0
+anterograde synaptic vesicle transport	GO_0048490	0	1	0	0	0
+anterograde dense core granule transport	GO_1990048	0	1	0	0	0
+acrosome reaction	GO_0007340	0	1	0	0	0
+acrosomal vesicle exocytosis	GO_0060478	0	1	0	0	0
+Wnt receptor internalization	GO_0038017	0	1	0	0	0
+IgG immunoglobulin transcytosis in epithelial cells mediated by FcRn immunoglobulin receptor	GO_0002416	0	1	0	0	0
+Golgi vesicle transport	GO_0048193	0	1	0	0	0
+Golgi vesicle budding	GO_0048194	0	1	0	0	0
+Golgi to vacuole transport	GO_0006896	0	1	0	0	0
+Golgi to plasma membrane transport	GO_0006893	0	1	0	0	0
+Golgi to plasma membrane protein transport	GO_0043001	0	1	0	0	0
+Golgi to plasma membrane CFTR protein transport	GO_0043000	0	1	0	0	0
+Golgi to lysosome transport	GO_0090160	0	1	0	0	0
+Golgi to endosome transport	GO_0006895	0	1	0	0	0
+G-protein coupled receptor internalization	GO_0002031	0	1	0	0	0
+ER to Golgi vesicle-mediated transport	GO_0006888	0	1	0	0	0
+COPII-coated vesicle budding	GO_0090114	0	1	0	0	0
+COPI-coated vesicle budding	GO_0035964	0	1	0	0	0
+B cell receptor internalization	GO_0036300	0	1	0	0	0
