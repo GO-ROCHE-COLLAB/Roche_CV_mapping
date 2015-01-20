@@ -19,7 +19,6 @@ regulation of cell cycle	GO_0051726	1	1	1	0	0
 re-entry into mitotic cell cycle after pheromone arrest	GO_0000321	1	1	1	0	0
 re-entry into mitotic cell cycle	GO_0000320	1	1	1	0	0
 preblastoderm mitotic cell cycle	GO_0035185	1	1	1	0	0
-positive regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	GO_0051437	1	1	1	0	0
 positive regulation of ubiquitin-protein ligase activity involved in meiotic cell cycle	GO_0051441	1	1	1	0	0
 positive regulation of syncytial blastoderm mitotic cell cycle	GO_0046004	1	1	1	0	0
 positive regulation of preblastoderm mitotic cell cycle	GO_0046002	1	1	1	0	0
@@ -70,9 +69,9 @@ cell cycle checkpoint	GO_0000075	1	1	1	0	0
 cell cycle	GO_0007049	1	1	1	0	0
 activation of reciprocal meiotic recombination	GO_0010846	1	1	1	0	0
 activation of mitotic cell cycle spindle assembly checkpoint	GO_0090268	1	1	1	0	0
-activation of mitotic anaphase-promoting complex activity	GO_0007092	1	1	1	0	0
 activation of meiosis involved in egg activation	GO_0060466	1	1	1	0	0
 activation of meiosis	GO_0090427	1	1	1	0	0
+activation of APC-Cdc20 complex activity	GO_0007092	1	1	1	0	0
 abortive mitotic cell cycle	GO_0033277	1	1	1	0	0
 G2 DNA damage checkpoint	GO_0031572	1	1	1	0	0
 response to mitotic cell cycle checkpoint signaling	GO_0072414	1	0	1	0	0
@@ -80,6 +79,7 @@ response to meiotic cell cycle checkpoint signaling	GO_0072410	1	0	1	0	0
 response to cell cycle checkpoint signaling	GO_0072396	1	0	1	0	0
 regulation of S phase of mitotic cell cycle	GO_0007090	1	0	1	1	1
 re-entry into mitotic cell cycle after pheromone arrest (sensu Saccharomyces)	GO_0046615	1	0	1	1	1
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	GO_0051437	1	0	1	0	0
 modification by virus of host cell cycle regulation	GO_0019055	1	0	1	0	0
 first cell cycle pseudocleavage	GO_0030590	1	0	1	0	0
 cell cycle switching, meiotic to mitotic cell cycle	GO_0051727	1	0	1	1	1
@@ -112,7 +112,6 @@ spindle localization	GO_0051653	0	1	0	0	0
 spindle elongation	GO_0051231	0	1	0	0	0
 spindle disassembly	GO_0051230	0	1	0	0	0
 spindle checkpoint	GO_0031577	0	1	0	0	0
-spindle assembly involved in mitosis	GO_0090307	0	1	0	0	0
 spindle assembly involved in meiosis	GO_0090306	0	1	0	0	0
 spindle assembly involved in male meiosis II	GO_0007055	0	1	0	0	0
 spindle assembly involved in male meiosis I	GO_0007054	0	1	0	0	0
@@ -157,6 +156,7 @@ secondary cell septum biogenesis	GO_1990344	0	1	0	0	0
 second mitotic wave involved in compound eye morphogenesis	GO_0016330	0	1	0	0	0
 response to meiotic recombination checkpoint signaling	GO_0072461	0	1	0	0	0
 resolution of meiotic recombination intermediates	GO_0000712	0	1	0	0	0
+repair of mono-orientation defects	GO_1990598	0	1	0	0	0
 removal of RNA primer involved in mitotic DNA replication	GO_1903469	0	1	0	0	0
 regulation of zygospore formation	GO_0075298	0	1	0	0	0
 regulation of transcription involved in G2/M transition of mitotic cell cycle	GO_0000117	0	1	0	0	0
@@ -174,7 +174,6 @@ regulation of spindle organization	GO_0090224	0	1	0	0	0
 regulation of spindle elongation	GO_0032887	0	1	0	0	0
 regulation of spindle density	GO_0090225	0	1	0	0	0
 regulation of spindle checkpoint	GO_0090231	0	1	0	0	0
-regulation of spindle assembly involved in mitosis	GO_1901673	0	1	0	0	0
 regulation of spindle assembly	GO_0090169	0	1	0	0	0
 regulation of sister chromatid segregation	GO_0033045	0	1	0	0	0
 regulation of sister chromatid cohesion	GO_0007063	0	1	0	0	0
@@ -191,11 +190,12 @@ regulation of nuclear cell cycle DNA replication	GO_0033262	0	1	0	0	0
 regulation of mitotic spindle organization	GO_0060236	0	1	0	0	0
 regulation of mitotic spindle elongation	GO_0032888	0	1	0	0	0
 regulation of mitotic spindle checkpoint	GO_1903504	0	1	0	0	0
+regulation of mitotic spindle assembly	GO_1901673	0	1	0	0	0
 regulation of mitotic sister chromatid separation	GO_0010965	0	1	0	0	0
 regulation of mitotic sister chromatid segregation	GO_0033047	0	1	0	0	0
+regulation of mitotic nuclear division	GO_0007088	0	1	0	0	0
 regulation of mitotic metaphase/anaphase transition	GO_0030071	0	1	0	0	0
 regulation of mitotic cytokinetic process	GO_1903436	0	1	0	0	0
-regulation of mitotic cytokinetic cell separation	GO_1902467	0	1	0	0	0
 regulation of mitotic cytokinesis, site selection	GO_1902472	0	1	0	0	0
 regulation of mitotic cytokinesis	GO_1902412	0	1	0	0	0
 regulation of mitotic chromosome decondensation	GO_1901651	0	1	0	0	0
@@ -204,12 +204,12 @@ regulation of mitotic centrosome separation	GO_0046602	0	1	0	0	0
 regulation of mitotic cell cycle, embryonic	GO_0009794	0	1	0	0	0
 regulation of mitotic cell cycle phase transition	GO_1901990	0	1	0	0	0
 regulation of mitotic cell cycle DNA replication	GO_1903463	0	1	0	0	0
+regulation of mitotic attachment of spindle microtubules to kinetochore	GO_1902423	0	1	0	0	0
 regulation of mitotic actomyosin contractile ring localization	GO_1902471	0	1	0	0	0
 regulation of mitotic actomyosin contractile ring contraction	GO_1903471	0	1	0	0	0
 regulation of mitotic actomyosin contractile ring assembly	GO_1903499	0	1	0	0	0
 regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903693	0	1	0	0	0
 regulation of mitotic DNA replication initiation	GO_1903466	0	1	0	0	0
-regulation of mitosis	GO_0007088	0	1	0	0	0
 regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902102	0	1	0	0	0
 regulation of metaphase/anaphase transition of cell cycle	GO_1902099	0	1	0	0	0
 regulation of meiotic spindle elongation	GO_1902119	0	1	0	0	0
@@ -234,8 +234,6 @@ regulation of exit from mitosis	GO_0007096	0	1	0	0	0
 regulation of establishment of actomyosin contractile ring localization involved in mitotic cell cycle	GO_1903505	0	1	0	0	0
 regulation of establishment of actomyosin contractile ring localization	GO_0071342	0	1	0	0	0
 regulation of cytokinetic process	GO_0032954	0	1	0	0	0
-regulation of cytokinetic cell separation by regulation of transcription from RNA polymerase II promoter	GO_1900405	0	1	0	0	0
-regulation of cytokinetic cell separation	GO_0010590	0	1	0	0	0
 regulation of cytokinesis, site selection	GO_2000073	0	1	0	0	0
 regulation of cytokinesis, actomyosin contractile ring assembly	GO_2000431	0	1	0	0	0
 regulation of cytokinesis by regulation of transcription from RNA polymerase II promoter	GO_1900414	0	1	0	0	0
@@ -252,6 +250,8 @@ regulation of centriole replication	GO_0046599	0	1	0	0	0
 regulation of centriole elongation	GO_1903722	0	1	0	0	0
 regulation of cell shape involved in G1 to G0 transition	GO_1900528	0	1	0	0	0
 regulation of cell septum assembly	GO_1901891	0	1	0	0	0
+regulation of cell separation after cytokinesis by regulation of transcription from RNA polymerase II promoter	GO_1900405	0	1	0	0	0
+regulation of cell separation after cytokinesis	GO_0010590	0	1	0	0	0
 regulation of cell cycle phase transition	GO_1901987	0	1	0	0	0
 regulation of cell cycle checkpoint	GO_1901976	0	1	0	0	0
 regulation of cell cycle arrest in response to nitrogen starvation	GO_0010504	0	1	0	0	0
@@ -260,7 +260,6 @@ regulation of cell cycle G2/M phase transition	GO_1902749	0	1	0	0	0
 regulation of cell cycle G1/S phase transition	GO_1902806	0	1	0	0	0
 regulation of basidiospore formation	GO_0075302	0	1	0	0	0
 regulation of barrier septum assembly	GO_0032955	0	1	0	0	0
-regulation of attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation	GO_1902423	0	1	0	0	0
 regulation of ascospore-type prospore membrane assembly	GO_1903023	0	1	0	0	0
 regulation of ascospore wall chitin biosynthetic process	GO_0034223	0	1	0	0	0
 regulation of ascospore wall beta-glucan biosynthetic process	GO_0060622	0	1	0	0	0
@@ -320,6 +319,7 @@ positive regulation of oospore formation	GO_0075245	0	1	0	0	0
 positive regulation of nuclear cell cycle DNA replication	GO_0010571	0	1	0	0	0
 positive regulation of mitotic spindle elongation	GO_1902846	0	1	0	0	0
 positive regulation of mitotic sister chromatid separation	GO_1901970	0	1	0	0	0
+positive regulation of mitotic nuclear division	GO_0045840	0	1	0	0	0
 positive regulation of mitotic metaphase/anaphase transition	GO_0045842	0	1	0	0	0
 positive regulation of mitotic cytokinetic process	GO_1903438	0	1	0	0	0
 positive regulation of mitotic cytokinesis, site selection	GO_1903617	0	1	0	0	0
@@ -332,15 +332,14 @@ positive regulation of mitotic cell cycle DNA replication	GO_1903465	0	1	0	0	0
 positive regulation of mitotic actomyosin contractile ring contraction	GO_1903473	0	1	0	0	0
 positive regulation of mitotic actomyosin contractile ring assembly	GO_1903501	0	1	0	0	0
 positive regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation	GO_1903694	0	1	0	0	0
-positive regulation of mitosis	GO_0045840	0	1	0	0	0
 positive regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902104	0	1	0	0	0
 positive regulation of metaphase/anaphase transition of cell cycle	GO_1902101	0	1	0	0	0
+positive regulation of meiotic nuclear division	GO_0045836	0	1	0	0	0
 positive regulation of meiotic cell cycle phase transition	GO_1901995	0	1	0	0	0
 positive regulation of meiotic DNA double-strand break formation	GO_1903343	0	1	0	0	0
 positive regulation of meiosis by positive regulation of transcription from RNA polymerase II promoter	GO_1900476	0	1	0	0	0
 positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter	GO_1900475	0	1	0	0	0
 positive regulation of meiosis I	GO_0060903	0	1	0	0	0
-positive regulation of meiosis	GO_0045836	0	1	0	0	0
 positive regulation of maintenance of sister chromatid cohesion	GO_0034093	0	1	0	0	0
 positive regulation of maintenance of mitotic sister chromatid cohesion, centromeric	GO_2000720	0	1	0	0	0
 positive regulation of maintenance of mitotic sister chromatid cohesion, arms	GO_2000717	0	1	0	0	0
@@ -350,7 +349,6 @@ positive regulation of maintenance of meiotic sister chromatid cohesion, centrom
 positive regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000714	0	1	0	0	0
 positive regulation of maintenance of meiotic sister chromatid cohesion	GO_0034096	0	1	0	0	0
 positive regulation of exit from mitosis	GO_0031536	0	1	0	0	0
-positive regulation of cytokinetic cell separation	GO_2001043	0	1	0	0	0
 positive regulation of cytokinesis, actomyosin contractile ring assembly	GO_2000433	0	1	0	0	0
 positive regulation of cytokinesis	GO_0032467	0	1	0	0	0
 positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle	GO_0031662	0	1	0	0	0
@@ -362,6 +360,7 @@ positive regulation of centriole-centriole cohesion	GO_1903127	0	1	0	0	0
 positive regulation of centriole replication	GO_0046601	0	1	0	0	0
 positive regulation of centriole elongation	GO_1903724	0	1	0	0	0
 positive regulation of cell septum assembly	GO_1901893	0	1	0	0	0
+positive regulation of cell separation after cytokinesis	GO_2001043	0	1	0	0	0
 positive regulation of cell cycle phase transition	GO_1901989	0	1	0	0	0
 positive regulation of cell cycle checkpoint	GO_1901978	0	1	0	0	0
 positive regulation of cell cycle arrest in response to nitrogen starvation	GO_0010505	0	1	0	0	0
@@ -370,7 +369,7 @@ positive regulation of cell cycle G2/M phase transition	GO_1902751	0	1	0	0	0
 positive regulation of cell cycle G1/S phase transition	GO_1902808	0	1	0	0	0
 positive regulation of basidiospore formation	GO_0075303	0	1	0	0	0
 positive regulation of barrier septum assembly	GO_0010973	0	1	0	0	0
-positive regulation of attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation	GO_1902425	0	1	0	0	0
+positive regulation of attachment of mitotic spindle microtubules to kinetochore	GO_1902425	0	1	0	0	0
 positive regulation of ascospore-type prospore membrane assembly	GO_1903024	0	1	0	0	0
 positive regulation of ascospore formation	GO_0075296	0	1	0	0	0
 positive regulation of actomyosin contractile ring localization	GO_1901650	0	1	0	0	0
@@ -420,6 +419,7 @@ negative regulation of mitotic spindle elongation	GO_1902845	0	1	0	0	0
 negative regulation of mitotic spindle assembly checkpoint	GO_1902426	0	1	0	0	0
 negative regulation of mitotic sister chromatid separation	GO_2000816	0	1	0	0	0
 negative regulation of mitotic sister chromatid segregation	GO_0033048	0	1	0	0	0
+negative regulation of mitotic nuclear division	GO_0045839	0	1	0	0	0
 negative regulation of mitotic metaphase/anaphase transition	GO_0045841	0	1	0	0	0
 negative regulation of mitotic cytokinetic process	GO_1903437	0	1	0	0	0
 negative regulation of mitotic cytokinesis	GO_1902413	0	1	0	0	0
@@ -427,18 +427,17 @@ negative regulation of mitotic centrosome separation	GO_0046603	0	1	0	0	0
 negative regulation of mitotic cell cycle, embryonic	GO_0045976	0	1	0	0	0
 negative regulation of mitotic cell cycle phase transition	GO_1901991	0	1	0	0	0
 negative regulation of mitotic cell cycle DNA replication	GO_1903464	0	1	0	0	0
-negative regulation of mitotic anaphase-promoting complex activity	GO_0060564	0	1	0	0	0
+negative regulation of mitotic attachment of spindle microtubules to kinetochore	GO_1902424	0	1	0	0	0
 negative regulation of mitotic actomyosin contractile ring contraction	GO_1903472	0	1	0	0	0
 negative regulation of mitotic actomyosin contractile ring assembly	GO_1903500	0	1	0	0	0
 negative regulation of mitotic DNA replication initiation	GO_1903467	0	1	0	0	0
-negative regulation of mitosis	GO_0045839	0	1	0	0	0
 negative regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902103	0	1	0	0	0
 negative regulation of metaphase/anaphase transition of cell cycle	GO_1902100	0	1	0	0	0
 negative regulation of meiotic spindle elongation	GO_1902120	0	1	0	0	0
+negative regulation of meiotic nuclear division	GO_0045835	0	1	0	0	0
 negative regulation of meiotic joint molecule formation	GO_0010947	0	1	0	0	0
 negative regulation of meiotic cell cycle phase transition	GO_1901994	0	1	0	0	0
 negative regulation of meiotic DNA double-strand break formation	GO_1903342	0	1	0	0	0
-negative regulation of meiosis	GO_0045835	0	1	0	0	0
 negative regulation of maintenance of sister chromatid cohesion	GO_0034092	0	1	0	0	0
 negative regulation of maintenance of mitotic sister chromatid cohesion, centromeric	GO_2000719	0	1	0	0	0
 negative regulation of maintenance of mitotic sister chromatid cohesion, arms	GO_2000716	0	1	0	0	0
@@ -449,7 +448,6 @@ negative regulation of maintenance of meiotic sister chromatid cohesion, arms	GO
 negative regulation of maintenance of meiotic sister chromatid cohesion	GO_0034095	0	1	0	0	0
 negative regulation of exit from mitosis	GO_0001100	0	1	0	0	0
 negative regulation of establishment of actomyosin contractile ring localization	GO_0071343	0	1	0	0	0
-negative regulation of cytokinetic cell separation	GO_2001042	0	1	0	0	0
 negative regulation of cytokinesis, site selection	GO_2000075	0	1	0	0	0
 negative regulation of cytokinesis, actomyosin contractile ring assembly	GO_2000432	0	1	0	0	0
 negative regulation of cytokinesis	GO_0032466	0	1	0	0	0
@@ -463,13 +461,13 @@ negative regulation of centriole-centriole cohesion	GO_1903126	0	1	0	0	0
 negative regulation of centriole replication	GO_0046600	0	1	0	0	0
 negative regulation of centriole elongation	GO_1903723	0	1	0	0	0
 negative regulation of cell septum assembly	GO_1901892	0	1	0	0	0
+negative regulation of cell separation after cytokinesis	GO_2001042	0	1	0	0	0
 negative regulation of cell cycle phase transition	GO_1901988	0	1	0	0	0
 negative regulation of cell cycle checkpoint	GO_1901977	0	1	0	0	0
 negative regulation of cell cycle G2/M phase transition	GO_1902750	0	1	0	0	0
 negative regulation of cell cycle G1/S phase transition	GO_1902807	0	1	0	0	0
 negative regulation of basidiospore formation	GO_0075304	0	1	0	0	0
 negative regulation of barrier septum assembly	GO_0010974	0	1	0	0	0
-negative regulation of attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation	GO_1902424	0	1	0	0	0
 negative regulation of astral microtubule depolymerization	GO_0032932	0	1	0	0	0
 negative regulation of ascospore formation	GO_0075297	0	1	0	0	0
 negative regulation of actomyosin contractile ring localization	GO_1901649	0	1	0	0	0
@@ -482,7 +480,9 @@ negative regulation of G0 to G1 transition	GO_0070317	0	1	0	0	0
 negative regulation of FtsZ-dependent cytokinesis	GO_2000245	0	1	0	0	0
 negative regulation of DNA endoreduplication	GO_0032876	0	1	0	0	0
 negative regulation of DNA damage checkpoint	GO_2000002	0	1	0	0	0
+negative regulation of APC-Cdc20 complex activity	GO_0060564	0	1	0	0	0
 myosin filament organization involved in cytokinetic actomyosin contractile ring assembly	GO_2000708	0	1	0	0	0
+morphogenesis checkpoint	GO_0044879	0	1	0	0	0
 modulation by virus of host G1/S transition checkpoint	GO_0039645	0	1	0	0	0
 modulation by virus of host G0/G1 transition checkpoint	GO_0039646	0	1	0	0	0
 mitotic telophase	GO_0000093	0	1	0	0	0
@@ -497,6 +497,7 @@ mitotic spindle elongation	GO_0000022	0	1	0	0	0
 mitotic spindle disassembly	GO_0051228	0	1	0	0	0
 mitotic spindle checkpoint	GO_0071174	0	1	0	0	0
 mitotic spindle assembly checkpoint	GO_0007094	0	1	0	0	0
+mitotic spindle assembly	GO_0090307	0	1	0	0	0
 mitotic sister chromatid separation	GO_0051306	0	1	0	0	0
 mitotic sister chromatid segregation	GO_0000070	0	1	0	0	0
 mitotic sister chromatid cohesion, centromeric	GO_0071962	0	1	0	0	0
@@ -514,7 +515,6 @@ mitotic nuclear division	GO_0007067	0	1	0	0	0
 mitotic metaphase plate congression	GO_0007080	0	1	0	0	0
 mitotic metaphase	GO_0000089	0	1	0	0	0
 mitotic cytokinetic process	GO_1902410	0	1	0	0	0
-mitotic cytokinetic cell separation	GO_1902409	0	1	0	0	0
 mitotic cytokinesis, site selection	GO_1902408	0	1	0	0	0
 mitotic cleavage furrow ingression	GO_1990386	0	1	0	0	0
 mitotic cleavage furrow formation	GO_1903673	0	1	0	0	0
@@ -701,7 +701,7 @@ intracellular signal transduction involved in G1 DNA damage checkpoint	GO_190240
 intra-S DNA damage checkpoint	GO_0031573	0	1	0	0	0
 interphase microtubule nucleation by interphase microtubule organizing center	GO_0051415	0	1	0	0	0
 initiation of premeiotic DNA replication	GO_0072691	0	1	0	0	0
-inhibition of mitotic anaphase-promoting complex activity	GO_0060565	0	1	0	0	0
+inhibition of APC-Cdc20 complex activity	GO_0060565	0	1	0	0	0
 horsetail-astral microtubule organization	GO_0032118	0	1	0	0	0
 homologous chromosome segregation	GO_0045143	0	1	0	0	0
 homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
@@ -755,13 +755,11 @@ detection of DNA damage stimulus involved in G2 DNA damage checkpoint	GO_0072424
 detection of DNA damage stimulus involved in DNA damage checkpoint	GO_0072421	0	1	0	0	0
 cytoskeleton-dependent cytokinesis	GO_0061640	0	1	0	0	0
 cytokinetic process	GO_0032506	0	1	0	0	0
-cytokinetic cell separation	GO_0000920	0	1	0	0	0
 cytokinesis, site selection	GO_0007105	0	1	0	0	0
 cytokinesis, initiation of separation	GO_0007108	0	1	0	0	0
 cytokinesis, completion of separation	GO_0007109	0	1	0	0	0
-cytokinesis checkpoint	GO_0031565	0	1	0	0	0
 cytokinesis by cell plate formation	GO_0000911	0	1	0	0	0
-cytokinesis after mitosis checkpoint	GO_0000078	0	1	0	0	0
+cytokinesis after mitosis checkpoint	GO_0044878	0	1	0	0	0
 cytokinesis	GO_0000910	0	1	0	0	0
 contractile ring maintenance	GO_0036212	0	1	0	0	0
 contractile ring localization	GO_0036214	0	1	0	0	0
@@ -771,7 +769,9 @@ cleavage furrow ingression	GO_0036090	0	1	0	0	0
 cleavage furrow formation	GO_0036089	0	1	0	0	0
 chromosome separation	GO_0051304	0	1	0	0	0
 chromosome organization involved in meiosis	GO_0070192	0	1	0	0	0
+chromosome movement towards spindle pole	GO_0051305	0	1	0	0	0
 chromosome localization to nuclear envelope involved in synapsis	GO_0090220	0	1	0	0	0
+chromosome attachment to the nuclear envelope	GO_0097240	0	1	0	0	0
 chiasma assembly	GO_0051026	0	1	0	0	0
 centrosome separation	GO_0051299	0	1	0	0	0
 centrosome duplication	GO_0051298	0	1	0	0	0
@@ -784,6 +784,7 @@ cellular bud site selection	GO_0000282	0	1	0	0	0
 cellular bud neck septin ring organization	GO_0032186	0	1	0	0	0
 cell septum edging catabolic process	GO_0030995	0	1	0	0	0
 cell septum assembly	GO_0090529	0	1	0	0	0
+cell separation after cytokinesis	GO_0000920	0	1	0	0	0
 cell plate formation involved in plant-type cell wall biogenesis	GO_0009920	0	1	0	0	0
 cell plate assembly	GO_0000919	0	1	0	0	0
 cell cycle phase transition	GO_0044770	0	1	0	0	0
@@ -809,12 +810,11 @@ bacterial-type DNA replication DNA duplex unwinding	GO_1902332	0	1	0	0	0
 bacterial-type DNA replication	GO_0044787	0	1	0	0	0
 axial cellular bud site selection	GO_0007120	0	1	0	0	0
 attachment of telomeric heterochromatin to spindle pole body	GO_0032121	0	1	0	0	0
-attachment of telomeric heterochromatin to nuclear envelope	GO_0070197	0	1	0	0	0
+attachment of telomere to nuclear envelope	GO_0070197	0	1	0	0	0
 attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	0	0	0
 attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	0	0	0
 attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	0	0	0
 attachment of mitotic spindle microtubules to kinetochore	GO_0051315	0	1	0	0	0
-attachment of chromatin to nuclear envelope	GO_0097240	0	1	0	0	0
 astral spindle assembly involved in male meiosis	GO_0055050	0	1	0	0	0
 astral spindle assembly	GO_0055049	0	1	0	0	0
 astral microtubule organization	GO_0030953	0	1	0	0	0

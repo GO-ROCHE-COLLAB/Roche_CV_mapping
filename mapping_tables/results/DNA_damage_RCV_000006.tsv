@@ -44,6 +44,7 @@ viral DNA repair	GO_0046787	0	1	1	0	0
 translesion synthesis	GO_0019985	0	1	1	0	0
 transcription-coupled nucleotide-excision repair, DNA damage recognition	GO_0000716	0	1	1	0	0
 transcription-coupled nucleotide-excision repair	GO_0006283	0	1	1	0	0
+telomere single strand break repair	GO_1903823	0	1	0	0	0
 telomere maintenance in response to DNA damage	GO_0043247	0	1	1	0	0
 single-strand break repair via homologous recombination	GO_1990396	0	1	1	0	0
 single strand break repair	GO_0000012	0	1	1	0	0
@@ -63,11 +64,13 @@ regulation of mitotic recombination involved in replication fork processing	GO_1
 regulation of mismatch repair	GO_0032423	0	1	1	0	0
 regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902165	0	1	1	0	0
 regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902229	0	1	1	0	0
+regulation of double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_1903776	0	1	0	0	0
 regulation of double-strand break repair via nonhomologous end joining	GO_2001032	0	1	1	0	0
 regulation of double-strand break repair via homologous recombination	GO_0010569	0	1	1	0	0
 regulation of double-strand break repair via break-induced replication	GO_1901591	0	1	1	0	0
 regulation of double-strand break repair	GO_2000779	0	1	1	0	0
 regulation of DNA repair	GO_0006282	0	1	1	0	0
+regulation of DNA double-strand break processing	GO_1903775	0	1	0	0	0
 regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO_1902162	0	1	1	0	0
 recruitment of helicase-primase complex to DNA lesions	GO_0046799	0	1	1	0	0
 recombinational repair	GO_0000725	0	1	1	0	0

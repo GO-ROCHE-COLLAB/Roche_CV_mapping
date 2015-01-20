@@ -22,6 +22,7 @@ telomerase catalytic core complex	GO_0000333	1	0	1	0	0
 telosome	GO_0070187	0	1	1	0	0
 telomeric heterochromatin	GO_0031933	0	1	1	0	0
 telomere-telomerase complex	GO_0070565	0	1	1	0	0
+telomere single strand break repair	GO_1903823	0	1	0	0	0
 telomere cap complex	GO_0000782	0	1	1	0	0
 protection from non-homologous end joining at telomere	GO_0031848	0	1	1	0	0
 polytene chromosome, telomeric region	GO_0035012	0	1	1	0	0

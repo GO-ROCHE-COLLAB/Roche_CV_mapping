@@ -23,4 +23,4 @@ glucose catabolic process to D-lactate and ethanol	GO_0019656	0	1	1	0	0
 glucose catabolic process	GO_0006007	0	1	1	0	0
 gluconeogenesis	GO_0006094	0	1	1	0	0
 canonical glycolysis	GO_0061621	0	1	1	0	0
-Entner-Doudoroff pathway through 6-phosphogluconate	GO_0009255	0	1	0	0	0
+Entner-Doudoroff pathway through glucopyranose	GO_0061679	0	1	0	0	0

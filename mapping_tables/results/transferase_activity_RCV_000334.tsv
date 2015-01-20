@@ -607,7 +607,6 @@ molybdopterin molybdotransferase activity	GO_0061599	0	1	1	0	0
 molybdopterin adenylyltransferase activity	GO_0061598	0	1	1	0	0
 molybdenum cofactor guanylyltransferase activity	GO_0061603	0	1	1	0	0
 molybdenum cofactor cytidylyltransferase activity	GO_0061602	0	1	1	0	0
-mitotic anaphase-promoting complex activity	GO_0090302	0	1	1	0	0
 mitochondrial single subunit type RNA polymerase activity	GO_0001065	0	1	1	0	0
 mevalonate kinase activity	GO_0004496	0	1	1	0	0
 methyltransferase activity	GO_0008168	0	1	1	0	0
@@ -1813,6 +1812,7 @@ ATP phosphoribosyltransferase activity	GO_0003879	0	1	1	0	0
 ATP dimethylallyltransferase activity	GO_0052622	0	1	1	0	0
 ATP citrate synthase activity	GO_0003878	0	1	1	0	0
 ATP adenylyltransferase activity	GO_0003877	0	1	1	0	0
+APC-Cdc20 complex activity	GO_0090302	0	1	1	0	0
 AMP-thymidine kinase activity	GO_0047667	0	1	1	0	0
 AMP-activated protein kinase activity	GO_0004679	0	1	1	0	0
 AMP dimethylallyltransferase activity	GO_0009824	0	1	1	0	0

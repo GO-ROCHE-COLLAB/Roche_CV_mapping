@@ -63,6 +63,7 @@ lysosomal proton-transporting V-type ATPase complex	GO_0046611	0	1	0	0	0
 lysosomal multienzyme complex	GO_0070559	0	1	0	0	0
 lysosomal membrane	GO_0005765	0	1	0	0	0
 lysosomal lumen pH elevation	GO_0035752	0	1	0	0	0
+lysosomal lumen acidification	GO_0007042	0	1	0	0	0
 lysosomal lumen	GO_0043202	0	1	0	0	0
 lysosomal glycocalyx	GO_0090123	0	1	0	0	0
 lysosomal HOPS complex	GO_1902501	0	1	0	0	0

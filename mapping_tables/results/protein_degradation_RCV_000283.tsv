@@ -57,6 +57,7 @@ proteasomal proteolysis associated with antigen processing and presentation	GO_0
 proteasomal protein catabolic process	GO_0010498	0	1	1	0	0
 prosthetic group catabolic process	GO_0051190	0	1	1	0	0
 prenylated protein catabolic process	GO_0030327	0	1	1	0	0
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	GO_0051437	0	1	0	0	0
 positive regulation of transcription factor catabolic process	GO_1901485	0	1	1	0	0
 positive regulation of proteolysis involved in cellular protein catabolic process	GO_1903052	0	1	1	0	0
 positive regulation of proteolysis associated with antigen processing and presentation	GO_0002630	0	1	1	0	0
@@ -84,7 +85,6 @@ negative regulation of protein catabolic process	GO_0042177	0	1	1	0	0
 negative regulation of proteasomal ubiquitin-dependent protein catabolic process	GO_0032435	0	1	1	0	0
 negative regulation of proteasomal protein catabolic process	GO_1901799	0	1	1	0	0
 negative regulation of mitotic metaphase/anaphase transition	GO_0045841	0	1	1	0	0
-negative regulation of mitotic anaphase-promoting complex activity	GO_0060564	0	1	1	0	0
 negative regulation of membrane protein ectodomain proteolysis	GO_0051045	0	1	1	0	0
 negative regulation of low-density lipoprotein particle receptor catabolic process	GO_0032804	0	1	1	0	0
 negative regulation of elastin catabolic process	GO_0060311	0	1	1	0	0
@@ -94,6 +94,7 @@ negative regulation of cellular protein catabolic process	GO_1903363	0	1	1	0	0
 negative regulation of SREBP signaling pathway by positive regulation of transcription factor catabolic process in response to increased oxygen levels	GO_1901487	0	1	1	0	0
 negative regulation of SREBP signaling pathway by positive regulation of transcription factor catabolic process	GO_1901486	0	1	1	0	0
 negative regulation of ER-associated ubiquitin-dependent protein catabolic process	GO_1903070	0	1	1	0	0
+negative regulation of APC-Cdc20 complex activity	GO_0060564	0	1	1	0	0
 multicellular organismal protein catabolic process	GO_0044254	0	1	1	0	0
 modification-dependent protein catabolic process	GO_0019941	0	1	1	0	0
 mitotic spindle orientation checkpoint	GO_0031578	0	1	0	0	0
@@ -108,7 +109,7 @@ mannoprotein catabolic process	GO_0006058	0	1	1	0	0
 low-density lipoprotein particle receptor catabolic process	GO_0032802	0	1	1	0	0
 lipoprotein catabolic process	GO_0042159	0	1	1	0	0
 insulin catabolic process	GO_1901143	0	1	1	0	0
-inhibition of mitotic anaphase-promoting complex activity	GO_0060565	0	1	1	0	0
+inhibition of APC-Cdc20 complex activity	GO_0060565	0	1	1	0	0
 histone catabolic process	GO_0036205	0	1	1	0	0
 heparan sulfate proteoglycan catabolic process	GO_0030200	0	1	1	0	0
 hemoglobin catabolic process	GO_0042540	0	1	1	0	0
@@ -122,7 +123,7 @@ catabolism by organism of protein in other organism involved in symbiotic intera
 catabolism by host of symbiont protein	GO_0052362	0	1	1	0	0
 angiotensin catabolic process in blood	GO_0002005	0	1	1	0	0
 anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	GO_0031145	0	1	1	0	0
-activation of mitotic anaphase-promoting complex activity	GO_0007092	0	1	1	0	0
+activation of APC-Cdc20 complex activity	GO_0007092	0	1	1	0	0
 acrosome matrix dispersal	GO_0002077	0	1	1	0	0
 Smt3-protein conjugation	GO_0019951	0	1	1	0	0
 SMT3-dependent protein catabolic process	GO_0019950	0	1	1	0	0

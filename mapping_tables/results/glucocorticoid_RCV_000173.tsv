@@ -30,6 +30,7 @@ cortisol secretion	GO_0043400	0	1	1	0	0
 cortisol receptor activity	GO_0031963	0	1	1	0	0
 cortisol metabolic process	GO_0034650	0	1	1	0	0
 cortisol biosynthetic process	GO_0034651	0	1	1	0	0
+cortisol binding	GO_1903794	0	1	0	0	0
 corticosterone secretion	GO_0035934	0	1	1	0	0
 cellular response to glucocorticoid stimulus	GO_0071385	0	1	1	0	0
 cellular response to dexamethasone stimulus	GO_0071549	0	1	1	0	0

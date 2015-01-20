@@ -31,6 +31,7 @@ translation	GO_0006412	0	1	0	0	0
 transcription factor catabolic process	GO_0036369	0	1	0	0	0
 trans-translation-dependent protein tagging	GO_0070930	0	1	0	0	0
 tissue kallikrein-kinin cascade	GO_0002255	0	1	0	0	0
+thymidylate synthase biosynthetic process	GO_0050757	0	1	0	0	0
 thioredoxin biosynthetic process	GO_0042964	0	1	0	0	0
 suppression by virus of host STAT1 activity by tyrosine dephosphorylation of STAT1	GO_0039566	0	1	0	0	0
 suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	0	1	0	0	0
@@ -654,6 +655,7 @@ lys-lys specific dibasic protein processing	GO_0090475	0	1	0	0	0
 lys-arg specific dibasic protein processing	GO_0090473	0	1	0	0	0
 lymphotoxin A biosynthetic process	GO_0042109	0	1	0	0	0
 low-density lipoprotein particle receptor catabolic process	GO_0032802	0	1	0	0	0
+low-density lipoprotein particle receptor biosynthetic process	GO_0045713	0	1	0	0	0
 lipoprotein oxidation	GO_0042161	0	1	0	0	0
 lipoprotein modification	GO_0042160	0	1	0	0	0
 lipoprotein metabolic process	GO_0042157	0	1	0	0	0
@@ -991,6 +993,8 @@ actin phosphorylation	GO_0031289	0	1	0	0	0
 actin modification	GO_0030047	0	1	0	0	0
 acrosome matrix dispersal	GO_0002077	0	1	0	0	0
 W-molybdopterin cofactor biosynthetic process	GO_0042047	0	1	0	0	0
+TRAIL receptor 2 biosynthetic process	GO_0045559	0	1	0	0	0
+TRAIL receptor 1 biosynthetic process	GO_0045558	0	1	0	0	0
 TRAIL biosynthetic process	GO_0045553	0	1	0	0	0
 Smt3-protein conjugation	GO_0019951	0	1	0	0	0
 SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	0	1	0	0	0

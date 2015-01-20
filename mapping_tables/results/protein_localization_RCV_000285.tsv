@@ -39,6 +39,7 @@ sequestering of BMP in extracellular matrix	GO_0035582	0	1	0	0	0
 secretion of lysosomal enzymes	GO_0033299	0	1	0	0	0
 ribosomal protein import into nucleus	GO_0006610	0	1	0	0	0
 retrograde protein transport, ER to cytosol	GO_0030970	0	1	0	0	0
+repair of mono-orientation defects	GO_1990598	0	1	0	0	0
 renin secretion into blood stream	GO_0002001	0	1	0	0	0
 regulation of translation by machinery localization	GO_0043143	0	1	0	0	0
 regulation of synaptic plasticity by receptor localization to synapse	GO_1900383	0	1	0	0	0
@@ -97,6 +98,7 @@ protein retention in Golgi apparatus	GO_0045053	0	1	0	0	0
 protein retention in ER lumen	GO_0006621	0	1	0	0	0
 protein processing involved in protein targeting to mitochondrion	GO_0006627	0	1	0	0	0
 protein localization to vacuole	GO_0072665	0	1	0	0	0
+protein localization to vacuolar membrane	GO_1903778	0	1	0	0	0
 protein localization to uropod	GO_0036052	0	1	0	0	0
 protein localization to trailing edge	GO_0036051	0	1	0	0	0
 protein localization to tight junction	GO_1902396	0	1	0	0	0
@@ -246,6 +248,7 @@ proteasome localization	GO_0031144	0	1	0	0	0
 proteasome core complex import into nucleus	GO_1990236	0	1	0	0	0
 protease localization to mast cell secretory granule	GO_0033368	0	1	0	0	0
 protease localization to T cell secretory granule	GO_0033375	0	1	0	0	0
+prolactin secretion	GO_0070459	0	1	0	0	0
 posttranslational protein targeting to membrane, translocation	GO_0031204	0	1	0	0	0
 posttranslational protein targeting to membrane, docking	GO_0031203	0	1	0	0	0
 posttranslational protein targeting to membrane	GO_0006620	0	1	0	0	0
@@ -344,6 +347,8 @@ interferon-epsilon secretion	GO_0072648	0	1	0	0	0
 interferon-delta secretion	GO_0072646	0	1	0	0	0
 interferon-beta secretion	GO_0035546	0	1	0	0	0
 interferon-alpha secretion	GO_0072642	0	1	0	0	0
+insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	0	0	0
+insulin secretion	GO_0030073	0	1	0	0	0
 inheritance of oxidatively modified proteins involved in replicative cell aging	GO_0001319	0	1	0	0	0
 importin-alpha export receptor activity	GO_0008262	0	1	0	0	0
 immunoglobulin secretion involved in immune response	GO_0002380	0	1	0	0	0
@@ -415,7 +420,7 @@ chemokine (C-C motif) ligand 2 secretion	GO_0035926	0	1	0	0	0
 chaperone-mediated protein transport across periplasmic space	GO_0072323	0	1	0	0	0
 chaperone-mediated protein transport	GO_0072321	0	1	0	0	0
 centromere localization	GO_0072765	0	1	0	0	0
-centromere clustering at the nuclear periphery	GO_0072766	0	1	0	0	0
+centromere clustering at the nuclear envelope	GO_0072766	0	1	0	0	0
 centromere clustering	GO_0098653	0	1	0	0	0
 cellular protein localization	GO_0034613	0	1	0	0	0
 cellular protein complex localization	GO_0034629	0	1	0	0	0
@@ -440,6 +445,7 @@ apolipoprotein E recycling	GO_0071828	0	1	0	0	0
 apical protein localization	GO_0045176	0	1	0	0	0
 amylase secretion	GO_0036394	0	1	0	0	0
 alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering	GO_0097113	0	1	0	0	0
+adiponectin secretion	GO_0070162	0	1	0	0	0
 adhesin autotransporter activity	GO_0015475	0	1	0	0	0
 Wnt protein secretion	GO_0061355	0	1	0	0	0
 STAT protein import into nucleus	GO_0007262	0	1	0	0	0

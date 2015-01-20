@@ -52,11 +52,11 @@ positive regulation of transcription during meiosis	GO_0051039	0	1	1	0	0
 positive regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043941	0	1	1	0	0
 positive regulation of reciprocal meiotic recombination	GO_0010845	0	1	1	0	0
 positive regulation of oospore formation	GO_0075245	0	1	1	0	0
+positive regulation of meiotic nuclear division	GO_0045836	0	1	1	0	0
 positive regulation of meiotic DNA double-strand break formation	GO_1903343	0	1	1	0	0
 positive regulation of meiosis by positive regulation of transcription from RNA polymerase II promoter	GO_1900476	0	1	1	0	0
 positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter	GO_1900475	0	1	1	0	0
 positive regulation of meiosis I	GO_0060903	0	1	1	0	0
-positive regulation of meiosis	GO_0045836	0	1	1	0	0
 positive regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000711	0	1	1	0	0
 positive regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000714	0	1	1	0	0
 positive regulation of maintenance of meiotic sister chromatid cohesion	GO_0034096	0	1	1	0	0
@@ -72,9 +72,9 @@ negative regulation of transcription during meiosis	GO_0051038	0	1	1	0	0
 negative regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043942	0	1	1	0	0
 negative regulation of reciprocal meiotic recombination	GO_0045128	0	1	1	0	0
 negative regulation of oospore formation	GO_0075246	0	1	1	0	0
+negative regulation of meiotic nuclear division	GO_0045835	0	1	1	0	0
 negative regulation of meiotic joint molecule formation	GO_0010947	0	1	1	0	0
 negative regulation of meiotic DNA double-strand break formation	GO_1903342	0	1	1	0	0
-negative regulation of meiosis	GO_0045835	0	1	1	0	0
 negative regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000710	0	1	1	0	0
 negative regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000713	0	1	1	0	0
 negative regulation of maintenance of meiotic sister chromatid cohesion	GO_0034095	0	1	1	0	0
@@ -188,7 +188,7 @@ chromosome localization to nuclear envelope involved in synapsis	GO_0090220	0	1	
 chiasma assembly	GO_0051026	0	1	1	0	0
 basidiospore formation	GO_0034295	0	1	1	0	0
 attachment of telomeric heterochromatin to spindle pole body	GO_0032121	0	1	1	0	0
-attachment of telomeric heterochromatin to nuclear envelope	GO_0070197	0	1	1	0	0
+attachment of telomere to nuclear envelope	GO_0070197	0	1	1	0	0
 attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	1	0	0
 attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	1	0	0
 attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	1	0	0

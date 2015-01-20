@@ -61,6 +61,8 @@ regulation of interleukin-1 alpha secretion	GO_0050705	0	1	0	0	0
 regulation of interferon-gamma secretion	GO_1902713	0	1	0	0	0
 regulation of interferon-beta secretion	GO_0035547	0	1	0	0	0
 regulation of interferon-alpha secretion	GO_1902739	0	1	0	0	0
+regulation of insulin secretion involved in cellular response to glucose stimulus	GO_0061178	0	1	0	0	0
+regulation of insulin secretion	GO_0050796	0	1	0	0	0
 regulation of immunoglobulin secretion	GO_0051023	0	1	0	0	0
 regulation of glial cell line-derived neurotrophic factor secretion	GO_1900166	0	1	0	0	0
 regulation of cytokine secretion involved in immune response	GO_0002739	0	1	0	0	0
@@ -68,6 +70,7 @@ regulation of cytokine secretion	GO_0050707	0	1	0	0	0
 regulation of chemokine secretion	GO_0090196	0	1	0	0	0
 regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035535	0	1	0	0	0
 regulation of catenin import into nucleus	GO_0035412	0	1	0	0	0
+regulation of adiponectin secretion	GO_0070163	0	1	0	0	0
 regulation of Wnt signaling pathway by Wnt protein secretion	GO_0061359	0	1	0	0	0
 regulation of Wnt protein secretion	GO_0061356	0	1	0	0	0
 regulation of STAT protein import into nucleus	GO_2000364	0	1	0	0	0
@@ -143,6 +146,7 @@ protein export from nucleus	GO_0006611	0	1	0	0	0
 protein exit from endoplasmic reticulum	GO_0032527	0	1	0	0	0
 protein channel activity	GO_0015266	0	1	0	0	0
 proteasome core complex import into nucleus	GO_1990236	0	1	0	0	0
+prolactin secretion	GO_0070459	0	1	0	0	0
 posttranslational protein targeting to membrane, translocation	GO_0031204	0	1	0	0	0
 posttranslational protein targeting to membrane, docking	GO_0031203	0	1	0	0	0
 posttranslational protein targeting to membrane	GO_0006620	0	1	0	0	0
@@ -164,6 +168,7 @@ positive regulation of protein export from nucleus in response to glucose starva
 positive regulation of protein export from nucleus during meiotic anaphase II	GO_1900199	0	1	0	0	0
 positive regulation of protein export from nucleus	GO_0046827	0	1	0	0	0
 positive regulation of protein exit from endoplasmic reticulum	GO_0070863	0	1	0	0	0
+positive regulation of prolactin secretion	GO_1902722	0	1	0	0	0
 positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway	GO_1902279	0	1	0	0	0
 positive regulation of pancreatic amylase secretion	GO_1902278	0	1	0	0	0
 positive regulation of intracellular protein transport	GO_0090316	0	1	0	0	0
@@ -180,6 +185,8 @@ positive regulation of interleukin-1 alpha secretion	GO_0050717	0	1	0	0	0
 positive regulation of interferon-gamma secretion	GO_1902715	0	1	0	0	0
 positive regulation of interferon-beta secretion	GO_0035549	0	1	0	0	0
 positive regulation of interferon-alpha secretion	GO_1902741	0	1	0	0	0
+positive regulation of insulin secretion involved in cellular response to glucose stimulus	GO_0035774	0	1	0	0	0
+positive regulation of insulin secretion	GO_0032024	0	1	0	0	0
 positive regulation of immunoglobulin secretion	GO_0051024	0	1	0	0	0
 positive regulation of glial cell line-derived neurotrophic factor secretion	GO_1900168	0	1	0	0	0
 positive regulation of cytokine secretion involved in immune response	GO_0002741	0	1	0	0	0
@@ -187,6 +194,7 @@ positive regulation of cytokine secretion	GO_0050715	0	1	0	0	0
 positive regulation of chemokine secretion	GO_0090197	0	1	0	0	0
 positive regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035537	0	1	0	0	0
 positive regulation of catenin import into nucleus	GO_0035413	0	1	0	0	0
+positive regulation of adiponectin secretion	GO_0070165	0	1	0	0	0
 positive regulation of Wnt protein secretion	GO_0061357	0	1	0	0	0
 positive regulation of STAT protein import into nucleus	GO_2000366	0	1	0	0	0
 positive regulation of SMAD protein import into nucleus	GO_0060391	0	1	0	0	0
@@ -220,6 +228,7 @@ negative regulation of protein import into nucleus	GO_0042308	0	1	0	0	0
 negative regulation of protein import into mitochondrial outer membrane	GO_1903637	0	1	0	0	0
 negative regulation of protein export from nucleus	GO_0046826	0	1	0	0	0
 negative regulation of protein exit from endoplasmic reticulum	GO_0070862	0	1	0	0	0
+negative regulation of prolactin secretion	GO_1902721	0	1	0	0	0
 negative regulation of pancreatic amylase secretion	GO_1902277	0	1	0	0	0
 negative regulation of intracellular protein transport	GO_0090317	0	1	0	0	0
 negative regulation of interleukin-8 secretion	GO_2000483	0	1	0	0	0
@@ -235,6 +244,8 @@ negative regulation of interleukin-1 alpha secretion	GO_0050712	0	1	0	0	0
 negative regulation of interferon-gamma secretion	GO_1902714	0	1	0	0	0
 negative regulation of interferon-beta secretion	GO_0035548	0	1	0	0	0
 negative regulation of interferon-alpha secretion	GO_1902740	0	1	0	0	0
+negative regulation of insulin secretion involved in cellular response to glucose stimulus	GO_0061179	0	1	0	0	0
+negative regulation of insulin secretion	GO_0046676	0	1	0	0	0
 negative regulation of immunoglobulin secretion	GO_0051025	0	1	0	0	0
 negative regulation of glial cell line-derived neurotrophic factor secretion	GO_1900167	0	1	0	0	0
 negative regulation of cytokine secretion involved in immune response	GO_0002740	0	1	0	0	0
@@ -242,6 +253,7 @@ negative regulation of cytokine secretion	GO_0050710	0	1	0	0	0
 negative regulation of chemokine secretion	GO_0090198	0	1	0	0	0
 negative regulation of chemokine (C-C motif) ligand 6 secretion	GO_0035536	0	1	0	0	0
 negative regulation of catenin import into nucleus	GO_0035414	0	1	0	0	0
+negative regulation of adiponectin secretion	GO_0070164	0	1	0	0	0
 negative regulation of Wnt protein secretion	GO_0061358	0	1	0	0	0
 negative regulation of STAT protein import into nucleus	GO_2000365	0	1	0	0	0
 negative regulation of SMAD protein import into nucleus	GO_0060392	0	1	0	0	0
@@ -312,6 +324,8 @@ interferon-epsilon secretion	GO_0072648	0	1	0	0	0
 interferon-delta secretion	GO_0072646	0	1	0	0	0
 interferon-beta secretion	GO_0035546	0	1	0	0	0
 interferon-alpha secretion	GO_0072642	0	1	0	0	0
+insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	0	0	0
+insulin secretion	GO_0030073	0	1	0	0	0
 importin-alpha export receptor activity	GO_0008262	0	1	0	0	0
 immunoglobulin secretion involved in immune response	GO_0002380	0	1	0	0	0
 immunoglobulin secretion	GO_0048305	0	1	0	0	0
@@ -350,6 +364,7 @@ autotransporter activity	GO_0015474	0	1	0	0	0
 arginine targeting transmembrane transporter activity	GO_0015557	0	1	0	0	0
 apolipoprotein E recycling	GO_0071828	0	1	0	0	0
 amylase secretion	GO_0036394	0	1	0	0	0
+adiponectin secretion	GO_0070162	0	1	0	0	0
 adhesin autotransporter activity	GO_0015475	0	1	0	0	0
 Wnt protein secretion	GO_0061355	0	1	0	0	0
 STAT protein import into nucleus	GO_0007262	0	1	0	0	0

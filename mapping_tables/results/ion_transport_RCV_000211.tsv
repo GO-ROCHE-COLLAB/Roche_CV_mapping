@@ -103,6 +103,7 @@ regulation of sodium:potassium-exchanging ATPase activity	GO_1903406	0	1	1	0	0
 regulation of sodium ion transport	GO_0002028	0	1	1	0	0
 regulation of sodium ion transmembrane transporter activity	GO_2000649	0	1	1	0	0
 regulation of sodium ion transmembrane transport	GO_1902305	0	1	1	0	0
+regulation of sodium ion import across plasma membrane	GO_1903782	0	1	0	0	0
 regulation of sodium ion export from cell	GO_1903276	0	1	1	0	0
 regulation of sodium ion export	GO_1903273	0	1	1	0	0
 regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014809	0	1	1	0	0
@@ -175,6 +176,7 @@ positive regulation of sodium ion transport by positive regulation of transcript
 positive regulation of sodium ion transport	GO_0010765	0	1	1	0	0
 positive regulation of sodium ion transmembrane transporter activity	GO_2000651	0	1	1	0	0
 positive regulation of sodium ion transmembrane transport	GO_1902307	0	1	1	0	0
+positive regulation of sodium ion import across plasma membrane	GO_1903784	0	1	0	0	0
 positive regulation of sodium ion export from cell	GO_1903278	0	1	1	0	0
 positive regulation of sodium ion export	GO_1903275	0	1	1	0	0
 positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014810	0	1	1	0	0
@@ -236,6 +238,7 @@ negative regulation of sodium:potassium-exchanging ATPase activity	GO_1903407	0	
 negative regulation of sodium ion transport	GO_0010766	0	1	1	0	0
 negative regulation of sodium ion transmembrane transporter activity	GO_2000650	0	1	1	0	0
 negative regulation of sodium ion transmembrane transport	GO_1902306	0	1	1	0	0
+negative regulation of sodium ion import across plasma membrane	GO_1903783	0	1	0	0	0
 negative regulation of sodium ion export from cell	GO_1903277	0	1	1	0	0
 negative regulation of sodium ion export	GO_1903274	0	1	1	0	0
 negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO_0014811	0	1	1	0	0

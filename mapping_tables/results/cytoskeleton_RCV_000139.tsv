@@ -199,6 +199,8 @@ stress fiber	GO_0001725	0	1	0	0	0
 split septin rings	GO_0032176	0	1	0	0	0
 spindle pole centrosome	GO_0031616	0	1	0	0	0
 spindle pole body organization	GO_0051300	0	1	0	0	0
+spindle pole body localization to nuclear envelope	GO_0071789	0	1	0	0	0
+spindle pole body localization	GO_0070631	0	1	0	0	0
 spindle pole body duplication	GO_0030474	0	1	0	0	0
 spindle pole body	GO_0005816	0	1	0	0	0
 spindle organization	GO_0007051	0	1	0	0	0
@@ -208,7 +210,6 @@ spindle microtubule	GO_0005876	0	1	0	0	0
 spindle matrix	GO_1990047	0	1	0	0	0
 spindle localization	GO_0051653	0	1	0	0	0
 spindle disassembly	GO_0051230	0	1	0	0	0
-spindle assembly involved in mitosis	GO_0090307	0	1	0	0	0
 spindle assembly involved in meiosis	GO_0090306	0	1	0	0	0
 spindle assembly involved in male meiosis II	GO_0007055	0	1	0	0	0
 spindle assembly involved in male meiosis I	GO_0007054	0	1	0	0	0
@@ -242,6 +243,7 @@ right posteriolateral basal body	GO_1902674	0	1	0	0	0
 right caudal basal body	GO_1902678	0	1	0	0	0
 right anterior basal body	GO_1902672	0	1	0	0	0
 retrograde axon cargo transport	GO_0008090	0	1	0	0	0
+repair of mono-orientation defects	GO_1990598	0	1	0	0	0
 pseudohyphal septin ring	GO_0032170	0	1	0	0	0
 prospore septin ring	GO_0032169	0	1	0	0	0
 prospore septin filament array	GO_0032165	0	1	0	0	0
@@ -313,6 +315,7 @@ mitotic spindle midzone	GO_1990023	0	1	0	0	0
 mitotic spindle microtubule	GO_1990498	0	1	0	0	0
 mitotic spindle disassembly	GO_0051228	0	1	0	0	0
 mitotic spindle astral microtubule	GO_0061673	0	1	0	0	0
+mitotic spindle assembly	GO_0090307	0	1	0	0	0
 mitotic spindle	GO_0072686	0	1	0	0	0
 mitotic septin complex	GO_0032151	0	1	0	0	0
 mitotic ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0

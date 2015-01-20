@@ -1,5 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-response to insulin	GO_0032868	1	0	1	0	0
+response to insulin	GO_0032868	1	1	1	0	0
+cellular response to insulin stimulus	GO_0032869	1	1	1	0	0
 regulation of insulin-like growth factor receptor signaling pathway	GO_0043567	1	0	1	0	0
 regulation of insulin secretion	GO_0050796	1	0	1	0	0
 regulation of insulin receptor signaling pathway	GO_0046626	1	0	1	0	0
@@ -16,7 +17,10 @@ negative regulation of insulin receptor signaling pathway by insulin receptor in
 negative regulation of insulin receptor signaling pathway	GO_0046627	1	0	1	0	0
 negative regulation of cellular response to insulin stimulus	GO_1900077	1	0	1	0	0
 insulin	GO_0016088	1	0	1	1	1
-cellular response to insulin stimulus	GO_0032869	1	0	1	0	0
 insulin-activated receptor activity	GO_0005009	0	1	0	0	0
 insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	0	0	0
 insulin secretion	GO_0030073	0	1	0	0	0
+insulin processing	GO_0030070	0	1	0	0	0
+insulin metabolic process	GO_1901142	0	1	0	0	0
+insulin catabolic process	GO_1901143	0	1	0	0	0
+insulin binding	GO_0043559	0	1	0	0	0

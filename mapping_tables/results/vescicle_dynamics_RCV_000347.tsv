@@ -33,6 +33,7 @@ ubiquitin-dependent endocytosis	GO_0070086	0	1	0	0	0
 triglyceride-rich lipoprotein particle clearance	GO_0071830	0	1	0	0	0
 transcytosis	GO_0045056	0	1	0	0	0
 synaptic vesicle transport	GO_0048489	0	1	0	0	0
+synaptic vesicle to endosome fusion	GO_0016189	0	1	0	0	0
 synaptic vesicle targeting	GO_0016080	0	1	0	0	0
 synaptic vesicle recycling via endosome	GO_0036466	0	1	0	0	0
 synaptic vesicle recycling	GO_0036465	0	1	0	0	0

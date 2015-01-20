@@ -1848,7 +1848,6 @@ molybdopterin adenylyltransferase activity	GO_0061598	0	1	0	0	0
 molybdenum cofactor guanylyltransferase activity	GO_0061603	0	1	0	0	0
 molybdenum cofactor cytidylyltransferase activity	GO_0061602	0	1	0	0	0
 molybdate transmembrane-transporting ATPase activity	GO_0015412	0	1	0	0	0
-mitotic anaphase-promoting complex activity	GO_0090302	0	1	0	0	0
 mitochondrial single subunit type RNA polymerase activity	GO_0001065	0	1	0	0	0
 mitochondrial protein-transporting ATPase activity	GO_0008566	0	1	0	0	0
 mismatch base pair DNA N-glycosylase activity	GO_0000700	0	1	0	0	0
@@ -5499,6 +5498,7 @@ ATP dimethylallyltransferase activity	GO_0052622	0	1	0	0	0
 ATP deaminase activity	GO_0047692	0	1	0	0	0
 ATP citrate synthase activity	GO_0003878	0	1	0	0	0
 ATP adenylyltransferase activity	GO_0003877	0	1	0	0	0
+APC-Cdc20 complex activity	GO_0090302	0	1	0	0	0
 AMP-thymidine kinase activity	GO_0047667	0	1	0	0	0
 AMP-activated protein kinase activity	GO_0004679	0	1	0	0	0
 AMP nucleosidase activity	GO_0008714	0	1	0	0	0
@@ -5668,6 +5668,7 @@ ADD 9alpha-hydroxylase activity	GO_0034818	0	1	0	0	0
 5'-3' RNA helicase activity	GO_0032574	0	1	0	0	0
 5'-3' DNA/RNA helicase activity	GO_0033678	0	1	0	0	0
 5'-3' DNA helicase activity	GO_0043139	0	1	0	0	0
+5' overhang single-stranded DNA endodeoxyribonuclease activity	GO_1990601	0	1	0	0	0
 5' deoxyribonuclease (pyrimidine dimer) activity	GO_1990043	0	1	0	0	0
 4-trimethylammoniobutyraldehyde dehydrogenase activity	GO_0047105	0	1	0	0	0
 4-sulfobenzoate 3,4-dioxygenase activity	GO_0018621	0	1	0	0	0
@@ -5973,6 +5974,7 @@ ADD 9alpha-hydroxylase activity	GO_0034818	0	1	0	0	0
 3',5'-cyclic-AMP phosphodiesterase activity	GO_0004115	0	1	0	0	0
 3'(2'),5'-bisphosphate nucleotidase activity	GO_0008441	0	1	0	0	0
 3''-deamino-3''-oxonicotianamine reductase activity	GO_0033707	0	1	0	0	0
+3' overhang single-stranded DNA endodeoxyribonuclease activity	GO_1990599	0	1	0	0	0
 27-hydroxycholesterol 7-alpha-monooxygenase activity	GO_0047092	0	1	0	0	0
 25-hydroxycholesterol 7alpha-hydroxylase activity	GO_0033783	0	1	0	0	0
 25-hydroxycholecalciferol-24-hydroxylase activity	GO_0008403	0	1	0	0	0
@@ -6124,6 +6126,7 @@ ADD 9alpha-hydroxylase activity	GO_0034818	0	1	0	0	0
 2-dehydro-3-deoxy-L-pentonate aldolase activity	GO_0047438	0	1	0	0	0
 2-dehydro-3-deoxy-L-arabinonate dehydratase activity	GO_0047449	0	1	0	0	0
 2-dehydro-3-deoxy-D-pentonate aldolase activity	GO_0047440	0	1	0	0	0
+2-dehydro-3-deoxy-D-gluconate aldolase activity	GO_0061677	0	1	0	0	0
 2-dehydro-3-deoxy-D-gluconate 6-dehydrogenase activity	GO_0047000	0	1	0	0	0
 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase activity	GO_0047001	0	1	0	0	0
 2-dehydro-3-deoxy-6-phosphogalactonate aldolase activity	GO_0008674	0	1	0	0	0
