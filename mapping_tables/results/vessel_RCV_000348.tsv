@@ -1,0 +1,60 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+venous blood vessel morphogenesis	GO_0048845	1	1	1	0	0
+venous blood vessel development	GO_0060841	1	1	1	0	0
+retinal blood vessel morphogenesis	GO_0061304	1	1	1	0	0
+renal artery morphogenesis	GO_0061441	1	1	1	0	0
+placenta blood vessel development	GO_0060674	1	1	1	0	0
+labyrinthine layer blood vessel development	GO_0060716	1	1	1	0	0
+blood vessel morphogenesis	GO_0048514	1	1	1	0	0
+blood vessel maturation	GO_0001955	1	1	1	0	0
+blood vessel development	GO_0001568	1	1	1	0	0
+renal system vasculature morphogenesis	GO_0061438	1	0	1	0	0
+renal system vasculature development	GO_0061437	1	0	1	0	0
+regulation of blood vessel size by renin-angiotensin	GO_0002034	1	0	1	0	0
+regulation of blood vessel size	GO_0050880	1	0	1	0	0
+regulation of blood vessel remodeling	GO_0060312	1	0	1	0	0
+positive regulation of blood vessel remodeling	GO_2000504	1	0	1	0	0
+patterning of blood vessels	GO_0001569	1	0	1	0	0
+negative regulation of testicular blood vessel morphogenesis	GO_0061369	1	0	1	0	0
+negative regulation of blood vessel remodeling	GO_0060313	1	0	1	0	0
+negative regulation of blood vessel morphogenesis	GO_2000181	1	0	1	0	0
+envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in other organism	GO_0044482	1	0	1	0	0
+blood vessel remodeling	GO_0001974	1	0	1	0	0
+blood vessel lumenization	GO_0072554	1	0	1	0	0
+ventral aorta morphogenesis	GO_0035913	0	1	0	0	0
+ventral aorta development	GO_0035908	0	1	0	0	0
+vasculogenesis involved in coronary vascular morphogenesis	GO_0060979	0	1	0	0	0
+vasculogenesis	GO_0001570	0	1	0	0	0
+vascular wound healing	GO_0061042	0	1	0	0	0
+superior vena cava morphogenesis	GO_0060578	0	1	0	0	0
+sprouting angiogenesis	GO_0002040	0	1	0	0	0
+pulmonary vein morphogenesis	GO_0060577	0	1	0	0	0
+pulmonary artery morphogenesis	GO_0061156	0	1	0	0	0
+pharyngeal arch artery morphogenesis	GO_0061626	0	1	0	0	0
+metanephric glomerulus vasculature morphogenesis	GO_0072276	0	1	0	0	0
+metanephric glomerulus vasculature development	GO_0072239	0	1	0	0	0
+metanephric glomerular capillary formation	GO_0072277	0	1	0	0	0
+mesonephric glomerulus vasculature morphogenesis	GO_0061248	0	1	0	0	0
+mesonephric glomerulus vasculature development	GO_0061231	0	1	0	0	0
+mesonephric glomerular capillary formation	GO_0061249	0	1	0	0	0
+intussusceptive angiogenesis	GO_0002041	0	1	0	0	0
+heart capillary growth	GO_0003248	0	1	0	0	0
+glomerulus vasculature morphogenesis	GO_0072103	0	1	0	0	0
+glomerulus vasculature development	GO_0072012	0	1	0	0	0
+glomerular capillary formation	GO_0072104	0	1	0	0	0
+ductus venosus closure	GO_0061116	0	1	0	0	0
+ductus arteriosus closure	GO_0097070	0	1	0	0	0
+dorsal aorta morphogenesis	GO_0035912	0	1	0	0	0
+dorsal aorta development	GO_0035907	0	1	0	0	0
+coronary vein morphogenesis	GO_0003169	0	1	0	0	0
+coronary vasculature morphogenesis	GO_0060977	0	1	0	0	0
+coronary vasculature development	GO_0060976	0	1	0	0	0
+coronary artery morphogenesis	GO_0060982	0	1	0	0	0
+central nervous system vasculogenesis	GO_0022009	0	1	0	0	0
+artery morphogenesis	GO_0048844	0	1	0	0	0
+artery development	GO_0060840	0	1	0	0	0
+aorta morphogenesis	GO_0035909	0	1	0	0	0
+aorta development	GO_0035904	0	1	0	0	0
+angiogenesis involved in wound healing	GO_0060055	0	1	0	0	0
+angiogenesis involved in coronary vascular morphogenesis	GO_0060978	0	1	0	0	0
+angiogenesis	GO_0001525	0	1	0	0	0

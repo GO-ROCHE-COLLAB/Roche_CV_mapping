@@ -1,0 +1,837 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+reproductive process in single-celled organism	GO_0022413	1	1	1	0	0
+reproductive blastospore formation	GO_0034299	1	1	1	0	0
+reproduction of a single-celled organism	GO_0032505	1	1	1	0	0
+reproduction	GO_0000003	1	1	1	0	0
+multicellular organismal reproductive process	GO_0048609	1	1	1	0	0
+multicellular organismal reproductive behavior	GO_0033057	1	1	1	0	0
+multicellular organism reproduction	GO_0032504	1	1	1	0	0
+cellular process involved in reproduction in multicellular organism	GO_0022412	1	1	1	0	0
+reproductive system development	GO_0061458	1	0	1	0	0
+reproductive structure development	GO_0048608	1	0	1	0	0
+reproductive sporulation	GO_0048622	1	0	1	1	1
+reproductive process	GO_0022414	1	0	1	0	0
+reproductive behavior	GO_0019098	1	0	1	0	0
+regulation of timing of transition from vegetative to reproductive phase	GO_0048510	1	0	1	0	0
+regulation of reproductive process	GO_2000241	1	0	1	0	0
+positive regulation of reproductive process	GO_2000243	1	0	1	0	0
+negative regulation of reproductive process	GO_2000242	1	0	1	0	0
+maintenance of reproductive diapause	GO_0071984	1	0	1	0	0
+exit from reproductive diapause	GO_0071983	1	0	1	0	0
+entry into reproductive diapause	GO_0055116	1	0	1	0	0
+developmental process involved in reproduction	GO_0003006	1	0	1	0	0
+cellular process involved in reproduction	GO_0048610	1	0	1	1	1
+acquisition of reproductive competence	GO_0010049	1	0	1	0	0
+zygotene	GO_0000238	0	1	0	0	0
+zygospore formation	GO_0034296	0	1	0	0	0
+zoospore formation	GO_0075239	0	1	0	0	0
+vulval location	GO_0034608	0	1	0	0	0
+vitellogenesis	GO_0007296	0	1	0	0	0
+vitelline membrane formation involved in chorion-containing eggshell formation	GO_0007305	0	1	0	0	0
+vitelline membrane formation	GO_0030704	0	1	0	0	0
+vesicle targeting to fusome	GO_0045479	0	1	0	0	0
+uterine wall growth	GO_0042702	0	1	0	0	0
+uterine wall breakdown	GO_0042704	0	1	0	0	0
+uredospore formation	GO_0075251	0	1	0	0	0
+turning behavior involved in mating	GO_0034607	0	1	0	0	0
+trehalose biosynthetic process involved in ascospore formation	GO_1901372	0	1	0	0	0
+testicular fusome organization	GO_0030724	0	1	0	0	0
+tertiary branching involved in mammary gland duct morphogenesis	GO_0060748	0	1	0	0	0
+teliospore formation	GO_0075255	0	1	0	0	0
+synthesis of RNA primer involved in premeiotic DNA replication	GO_1902980	0	1	0	0	0
+synaptonemal complex assembly	GO_0007130	0	1	0	0	0
+synapsis	GO_0007129	0	1	0	0	0
+stromal-epithelial cell signaling involved in prostate gland development	GO_0044345	0	1	0	0	0
+strand invasion involved in gene conversion at mating-type locus	GO_0034636	0	1	0	0	0
+stomium development	GO_0080166	0	1	0	0	0
+sporocarp development involved in sexual reproduction	GO_0000909	0	1	0	0	0
+sporocarp development involved in asexual reproduction	GO_0000905	0	1	0	0	0
+spore membrane bending pathway	GO_0070583	0	1	0	0	0
+sporangiospore formation	GO_0034300	0	1	0	0	0
+spindle assembly involved in meiosis	GO_0090306	0	1	0	0	0
+spindle assembly involved in male meiosis II	GO_0007055	0	1	0	0	0
+spindle assembly involved in male meiosis I	GO_0007054	0	1	0	0	0
+spindle assembly involved in male meiosis	GO_0007053	0	1	0	0	0
+spindle assembly involved in female meiosis II	GO_0007058	0	1	0	0	0
+spindle assembly involved in female meiosis I	GO_0007057	0	1	0	0	0
+spindle assembly involved in female meiosis	GO_0007056	0	1	0	0	0
+spicule insertion	GO_0034609	0	1	0	0	0
+spermatogonial cell division	GO_0007284	0	1	0	0	0
+spermatogenesis, exchange of chromosomal proteins	GO_0035093	0	1	0	0	0
+spermatogenesis	GO_0007283	0	1	0	0	0
+spermatocyte division	GO_0048137	0	1	0	0	0
+spermatid nucleus elongation	GO_0007290	0	1	0	0	0
+spermatid nucleus differentiation	GO_0007289	0	1	0	0	0
+spermatid differentiation	GO_0048515	0	1	0	0	0
+spermatid development	GO_0007286	0	1	0	0	0
+sperm-egg recognition	GO_0035036	0	1	0	0	0
+sperm storage	GO_0046693	0	1	0	0	0
+sperm plasma membrane disassembly	GO_0035045	0	1	0	0	0
+sperm nuclear envelope removal	GO_0035040	0	1	0	0	0
+sperm individualization	GO_0007291	0	1	0	0	0
+sperm incapacitation	GO_0046694	0	1	0	0	0
+sperm entry	GO_0035037	0	1	0	0	0
+sperm ejaculation	GO_0042713	0	1	0	0	0
+sperm displacement	GO_0007321	0	1	0	0	0
+sperm competition	GO_0046692	0	1	0	0	0
+sperm chromatin decondensation	GO_0035041	0	1	0	0	0
+sperm chromatin condensation	GO_0035092	0	1	0	0	0
+sperm capacitation	GO_0048240	0	1	0	0	0
+sperm axoneme assembly	GO_0007288	0	1	0	0	0
+sperm aster formation	GO_0035044	0	1	0	0	0
+sorus development	GO_0048837	0	1	0	0	0
+sorocarp stalk morphogenesis	GO_0036360	0	1	0	0	0
+sorocarp stalk development	GO_0031150	0	1	0	0	0
+sorocarp stalk cell differentiation	GO_0031149	0	1	0	0	0
+sorocarp spore cell differentiation	GO_0044671	0	1	0	0	0
+sorocarp morphogenesis	GO_0031288	0	1	0	0	0
+sorocarp development	GO_0030587	0	1	0	0	0
+slug development involved in sorocarp development	GO_0031153	0	1	0	0	0
+sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation	GO_0051759	0	1	0	0	0
+single fertilization	GO_0007338	0	1	0	0	0
+signal transduction involved in meiotic spindle assembly checkpoint	GO_0072465	0	1	0	0	0
+signal transduction involved in meiotic recombination checkpoint	GO_0072462	0	1	0	0	0
+signal transduction involved in meiotic cell cycle checkpoint	GO_0072411	0	1	0	0	0
+signal transduction involved in meiotic DNA replication checkpoint	GO_0072440	0	1	0	0	0
+signal transduction involved in conjugation with cellular fusion	GO_0032005	0	1	0	0	0
+sexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075285	0	1	0	0	0
+sexual sporulation resulting in formation of a cellular spore	GO_0043935	0	1	0	0	0
+sexual sporulation	GO_0034293	0	1	0	0	0
+sexual spore wall assembly	GO_0034294	0	1	0	0	0
+sexual reproduction	GO_0019953	0	1	0	0	0
+seminal clot liquefaction	GO_0070684	0	1	0	0	0
+seed trichome maturation	GO_0090380	0	1	0	0	0
+seed trichome initiation	GO_0090377	0	1	0	0	0
+seed trichome elongation	GO_0090378	0	1	0	0	0
+seed trichome differentiation	GO_0090376	0	1	0	0	0
+seed maturation	GO_0010431	0	1	0	0	0
+seed dormancy process	GO_0010162	0	1	0	0	0
+seed dehydration	GO_1990068	0	1	0	0	0
+secondary cell wall biogenesis involved in seed trichome differentiation	GO_0090379	0	1	0	0	0
+scattered antral spaces stage	GO_0048163	0	1	0	0	0
+response to pheromone involved in conjugation with cellular fusion	GO_0000749	0	1	0	0	0
+response to meiotic recombination checkpoint signaling	GO_0072461	0	1	0	0	0
+response to hermaphrodite contact	GO_0034606	0	1	0	0	0
+respiratory burst at fertilization	GO_0045729	0	1	0	0	0
+resolution of meiotic recombination intermediates	GO_0000712	0	1	0	0	0
+removal of nonhomologous ends	GO_0000735	0	1	0	0	0
+release of seed from dormancy	GO_0048838	0	1	0	0	0
+regulation of zygospore formation	GO_0075298	0	1	0	0	0
+regulation of zoospore formation	GO_0075240	0	1	0	0	0
+regulation of vitellogenesis	GO_1903186	0	1	0	0	0
+regulation of uredospore formation	GO_0075252	0	1	0	0	0
+regulation of ubiquitin-protein ligase activity involved in meiotic cell cycle	GO_0051440	0	1	0	0	0
+regulation of turning behavior involved in mating	GO_0061094	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in spermatogenesis	GO_1902064	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010672	0	1	0	0	0
+regulation of transcription during meiosis	GO_0051037	0	1	0	0	0
+regulation of termination of mating projection growth	GO_0031385	0	1	0	0	0
+regulation of teliospore formation	GO_0075256	0	1	0	0	0
+regulation of synaptonemal complex assembly	GO_0090173	0	1	0	0	0
+regulation of sporocarp development involved in sexual reproduction	GO_1902058	0	1	0	0	0
+regulation of sporangiospore formation	GO_0075286	0	1	0	0	0
+regulation of spermatid nuclear differentiation	GO_0045700	0	1	0	0	0
+regulation of sperm capacitation	GO_1902490	0	1	0	0	0
+regulation of sorocarp stalk cell differentiation	GO_0031285	0	1	0	0	0
+regulation of sorocarp spore cell differentiation	GO_1901261	0	1	0	0	0
+regulation of sorocarp development	GO_0031156	0	1	0	0	0
+regulation of signal transduction involved in conjugation with cellular fusion	GO_0060238	0	1	0	0	0
+regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043940	0	1	0	0	0
+regulation of sexual sporulation	GO_0034306	0	1	0	0	0
+regulation of seed maturation	GO_2000034	0	1	0	0	0
+regulation of seed dormancy process	GO_2000033	0	1	0	0	0
+regulation of reciprocal meiotic recombination	GO_0010520	0	1	0	0	0
+regulation of progesterone secretion	GO_2000870	0	1	0	0	0
+regulation of post-mating oviposition	GO_0048042	0	1	0	0	0
+regulation of pole plasm oskar mRNA localization	GO_0007317	0	1	0	0	0
+regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	GO_0010969	0	1	0	0	0
+regulation of penile erection	GO_0060405	0	1	0	0	0
+regulation of ovulation	GO_0060278	0	1	0	0	0
+regulation of oviposition	GO_0046662	0	1	0	0	0
+regulation of ovarian follicle development	GO_2000354	0	1	0	0	0
+regulation of oospore formation	GO_0075244	0	1	0	0	0
+regulation of oomycete sporangium development	GO_0075322	0	1	0	0	0
+regulation of oocyte maturation	GO_1900193	0	1	0	0	0
+regulation of oocyte development	GO_0060281	0	1	0	0	0
+regulation of nurse cell apoptotic process	GO_0045477	0	1	0	0	0
+regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902102	0	1	0	0	0
+regulation of meiotic spindle elongation	GO_1902119	0	1	0	0	0
+regulation of meiotic joint molecule formation	GO_0010946	0	1	0	0	0
+regulation of meiotic cell cycle process involved in oocyte maturation	GO_1903538	0	1	0	0	0
+regulation of meiotic cell cycle phase transition	GO_1901993	0	1	0	0	0
+regulation of meiotic cell cycle	GO_0051445	0	1	0	0	0
+regulation of meiotic DNA double-strand break formation	GO_1903341	0	1	0	0	0
+regulation of meiosis by regulation of transcription from RNA polymerase II promoter	GO_1900401	0	1	0	0	0
+regulation of meiosis I	GO_0060631	0	1	0	0	0
+regulation of meiosis	GO_0040020	0	1	0	0	0
+regulation of mating type switching	GO_0031494	0	1	0	0	0
+regulation of mating projection assembly	GO_0031383	0	1	0	0	0
+regulation of male mating behavior	GO_1902435	0	1	0	0	0
+regulation of male germ cell proliferation	GO_2000254	0	1	0	0	0
+regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000709	0	1	0	0	0
+regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000712	0	1	0	0	0
+regulation of maintenance of meiotic sister chromatid cohesion	GO_0034094	0	1	0	0	0
+regulation of linear element assembly	GO_0090006	0	1	0	0	0
+regulation of initiation of mating projection growth	GO_0031384	0	1	0	0	0
+regulation of homologous chromosome segregation	GO_0060629	0	1	0	0	0
+regulation of fusion of sperm to egg plasma membrane	GO_0043012	0	1	0	0	0
+regulation of fertilization	GO_0080154	0	1	0	0	0
+regulation of female receptivity, post-mating	GO_0046008	0	1	0	0	0
+regulation of female receptivity	GO_0045924	0	1	0	0	0
+regulation of embryo sac egg cell differentiation	GO_0045694	0	1	0	0	0
+regulation of double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_1903776	0	1	0	0	0
+regulation of double fertilization forming a zygote and endosperm	GO_0080155	0	1	0	0	0
+regulation of cumulus cell differentiation	GO_0045592	0	1	0	0	0
+regulation of conjugation with cellular fusion by regulation of transcription from RNA polymerase II promoter	GO_1900406	0	1	0	0	0
+regulation of conjugation with cellular fusion	GO_0031137	0	1	0	0	0
+regulation of conidium formation	GO_0075306	0	1	0	0	0
+regulation of cleistothecium development	GO_0070796	0	1	0	0	0
+regulation of cell budding	GO_0007116	0	1	0	0	0
+regulation of budding cell apical bud growth	GO_0010568	0	1	0	0	0
+regulation of brood size	GO_0060378	0	1	0	0	0
+regulation of border follicle cell migration	GO_1903684	0	1	0	0	0
+regulation of border follicle cell delamination	GO_0030710	0	1	0	0	0
+regulation of binding of sperm to zona pellucida	GO_2000359	0	1	0	0	0
+regulation of bicoid mRNA localization	GO_0008359	0	1	0	0	0
+regulation of basidiospore formation	GO_0075302	0	1	0	0	0
+regulation of asexual sporulation resulting in formation of a cellular spore	GO_0043943	0	1	0	0	0
+regulation of asexual sporulation	GO_0034305	0	1	0	0	0
+regulation of asexual reproduction	GO_1903664	0	1	0	0	0
+regulation of ascospore-type prospore membrane assembly	GO_1903023	0	1	0	0	0
+regulation of ascospore wall chitin biosynthetic process	GO_0034223	0	1	0	0	0
+regulation of ascospore wall beta-glucan biosynthetic process	GO_0060622	0	1	0	0	0
+regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0060624	0	1	0	0	0
+regulation of ascospore formation	GO_0034307	0	1	0	0	0
+regulation of aplanospore formation	GO_0075290	0	1	0	0	0
+regulation of antral ovarian follicle growth	GO_2000387	0	1	0	0	0
+regulation of aggregation involved in sorocarp development	GO_0060176	0	1	0	0	0
+regulation of aggregate size involved in sorocarp development	GO_0031157	0	1	0	0	0
+regulation of aeciospore formation	GO_0075248	0	1	0	0	0
+regulation of acrosome reaction	GO_0060046	0	1	0	0	0
+regulation of acrosomal vesicle exocytosis	GO_2000367	0	1	0	0	0
+regulation of Hulle cell development	GO_0070808	0	1	0	0	0
+regulation of FtsZ-dependent cytokinesis	GO_2000244	0	1	0	0	0
+reciprocal meiotic recombination	GO_0007131	0	1	0	0	0
+re-entry into mitotic cell cycle after pheromone arrest	GO_0000321	0	1	0	0	0
+protein localization to meiotic spindle pole body	GO_1902441	0	1	0	0	0
+protein localization involved in acrosome reaction	GO_0060476	0	1	0	0	0
+pronuclear migration	GO_0035046	0	1	0	0	0
+pronuclear fusion	GO_0007344	0	1	0	0	0
+pronuclear envelope synthesis	GO_0018985	0	1	0	0	0
+progesterone secretion	GO_0042701	0	1	0	0	0
+primary spermatocyte growth	GO_0007285	0	1	0	0	0
+primary ovarian follicle growth involved in primary follicle stage	GO_0043930	0	1	0	0	0
+primary ovarian follicle growth involved in double layer follicle stage	GO_0043929	0	1	0	0	0
+primary ovarian follicle growth	GO_0001545	0	1	0	0	0
+primary oocyte stage	GO_0048159	0	1	0	0	0
+primary follicle stage	GO_0048160	0	1	0	0	0
+prevention of polyspermy	GO_0060468	0	1	0	0	0
+premeiotic DNA replication termination	GO_1902978	0	1	0	0	0
+premeiotic DNA replication preinitiation complex assembly	GO_1902976	0	1	0	0	0
+premeiotic DNA replication DNA ligation	GO_1902972	0	1	0	0	0
+premeiotic DNA replication DNA duplex unwinding	GO_1902970	0	1	0	0	0
+premeiotic DNA replication	GO_0006279	0	1	0	0	0
+preantral ovarian follicle growth	GO_0001546	0	1	0	0	0
+pre-replicative complex assembly involved in premeiotic DNA replication	GO_1902984	0	1	0	0	0
+post-mating oviposition	GO_0060403	0	1	0	0	0
+positive regulation of zygospore formation	GO_0075299	0	1	0	0	0
+positive regulation of zoospore formation	GO_0075241	0	1	0	0	0
+positive regulation of vitellogenesis	GO_1903188	0	1	0	0	0
+positive regulation of uredospore formation	GO_0075253	0	1	0	0	0
+positive regulation of ubiquitin-protein ligase activity involved in meiotic cell cycle	GO_0051441	0	1	0	0	0
+positive regulation of turning behavior involved in mating	GO_0061095	0	1	0	0	0
+positive regulation of transcription involved in egg activation	GO_0060469	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010673	0	1	0	0	0
+positive regulation of transcription during meiosis	GO_0051039	0	1	0	0	0
+positive regulation of teliospore formation	GO_0075257	0	1	0	0	0
+positive regulation of sporocarp development involved in sexual reproduction	GO_1902060	0	1	0	0	0
+positive regulation of sporangiospore formation	GO_0075287	0	1	0	0	0
+positive regulation of spermatid nuclear differentiation	GO_0045702	0	1	0	0	0
+positive regulation of sperm motility involved in capacitation	GO_0060474	0	1	0	0	0
+positive regulation of sperm capacitation	GO_1902492	0	1	0	0	0
+positive regulation of sorocarp stalk cell differentiation	GO_0031287	0	1	0	0	0
+positive regulation of sorocarp spore cell differentiation	GO_1901263	0	1	0	0	0
+positive regulation of signal transduction involved in conjugation with cellular fusion	GO_0060239	0	1	0	0	0
+positive regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043941	0	1	0	0	0
+positive regulation of seed maturation	GO_2000693	0	1	0	0	0
+positive regulation of seed dormancy process	GO_1902040	0	1	0	0	0
+positive regulation of reciprocal meiotic recombination	GO_0010845	0	1	0	0	0
+positive regulation of progesterone secretion	GO_2000872	0	1	0	0	0
+positive regulation of pole plasm oskar mRNA localization	GO_0045856	0	1	0	0	0
+positive regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	GO_0090028	0	1	0	0	0
+positive regulation of penile erection	GO_0060406	0	1	0	0	0
+positive regulation of ovulation	GO_0060279	0	1	0	0	0
+positive regulation of oviposition	GO_1901046	0	1	0	0	0
+positive regulation of ovarian follicle development	GO_2000386	0	1	0	0	0
+positive regulation of oospore formation	GO_0075245	0	1	0	0	0
+positive regulation of oomycete sporangium development	GO_0075323	0	1	0	0	0
+positive regulation of oocyte maturation	GO_1900195	0	1	0	0	0
+positive regulation of oocyte development	GO_0060282	0	1	0	0	0
+positive regulation of nurse cell apoptotic process	GO_0045850	0	1	0	0	0
+positive regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902104	0	1	0	0	0
+positive regulation of meiotic nuclear division	GO_0045836	0	1	0	0	0
+positive regulation of meiotic cell cycle phase transition	GO_1901995	0	1	0	0	0
+positive regulation of meiotic cell cycle	GO_0051446	0	1	0	0	0
+positive regulation of meiotic DNA double-strand break formation	GO_1903343	0	1	0	0	0
+positive regulation of meiosis by positive regulation of transcription from RNA polymerase II promoter	GO_1900476	0	1	0	0	0
+positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter	GO_1900475	0	1	0	0	0
+positive regulation of meiosis I	GO_0060903	0	1	0	0	0
+positive regulation of mating type switching by regulation of transcription from RNA polymerase II promoter	GO_1900374	0	1	0	0	0
+positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter	GO_1900423	0	1	0	0	0
+positive regulation of mating type switching	GO_0031496	0	1	0	0	0
+positive regulation of mating projection assembly	GO_1902917	0	1	0	0	0
+positive regulation of male mating behavior	GO_1902437	0	1	0	0	0
+positive regulation of male germ cell proliferation	GO_2000256	0	1	0	0	0
+positive regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000711	0	1	0	0	0
+positive regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000714	0	1	0	0	0
+positive regulation of maintenance of meiotic sister chromatid cohesion	GO_0034096	0	1	0	0	0
+positive regulation of female receptivity, post-mating	GO_0046009	0	1	0	0	0
+positive regulation of female receptivity	GO_0045925	0	1	0	0	0
+positive regulation of embryo sac egg cell differentiation	GO_0045696	0	1	0	0	0
+positive regulation of cytosolic calcium ion concentration involved in egg activation	GO_0060470	0	1	0	0	0
+positive regulation of cumulus cell differentiation	GO_0045594	0	1	0	0	0
+positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration	GO_0060472	0	1	0	0	0
+positive regulation of conjugation with cellular fusion	GO_0031139	0	1	0	0	0
+positive regulation of conidium formation	GO_0075307	0	1	0	0	0
+positive regulation of cleistothecium development	GO_0070798	0	1	0	0	0
+positive regulation of cell budding	GO_0045782	0	1	0	0	0
+positive regulation of border follicle cell migration	GO_1903688	0	1	0	0	0
+positive regulation of border follicle cell delamination	GO_0030711	0	1	0	0	0
+positive regulation of bicoid mRNA localization	GO_0045854	0	1	0	0	0
+positive regulation of basidiospore formation	GO_0075303	0	1	0	0	0
+positive regulation of asexual sporulation resulting in formation of a cellular spore	GO_0043945	0	1	0	0	0
+positive regulation of asexual reproduction	GO_1903666	0	1	0	0	0
+positive regulation of ascospore-type prospore membrane assembly	GO_1903024	0	1	0	0	0
+positive regulation of ascospore formation	GO_0075296	0	1	0	0	0
+positive regulation of aplanospore formation	GO_0075291	0	1	0	0	0
+positive regulation of antral ovarian follicle growth	GO_2000388	0	1	0	0	0
+positive regulation of aggregate size involved in sorocarp development	GO_0031159	0	1	0	0	0
+positive regulation of aeciospore formation	GO_0075249	0	1	0	0	0
+positive regulation of actin filament polymerization involved in acrosome reaction	GO_0060475	0	1	0	0	0
+positive regulation of acrosome reaction	GO_2000344	0	1	0	0	0
+positive regulation of acrosomal vesicle exocytosis	GO_2000368	0	1	0	0	0
+positive regulation of Hulle cell development	GO_0070810	0	1	0	0	0
+positive regulation of FtsZ-dependent cytokinesis	GO_2000246	0	1	0	0	0
+pollen sperm cell differentiation	GO_0048235	0	1	0	0	0
+pole plasm protein localization	GO_0007318	0	1	0	0	0
+pole plasm oskar mRNA localization	GO_0045451	0	1	0	0	0
+pole plasm mitochondrial srRNA localization	GO_0019097	0	1	0	0	0
+pole plasm mitochondrial rRNA localization	GO_0019095	0	1	0	0	0
+pole plasm mitochondrial lrRNA localization	GO_0019096	0	1	0	0	0
+pole plasm mRNA localization	GO_0019094	0	1	0	0	0
+pole plasm assembly	GO_0007315	0	1	0	0	0
+pole plasm RNA localization	GO_0007316	0	1	0	0	0
+pole cell migration	GO_0007280	0	1	0	0	0
+pole cell formation	GO_0007279	0	1	0	0	0
+pole cell fate determination	GO_0007278	0	1	0	0	0
+pole cell development	GO_0007277	0	1	0	0	0
+polar body extrusion after meiotic divisions	GO_0040038	0	1	0	0	0
+plasma membrane organization involved in conjugation with cellular fusion	GO_0070872	0	1	0	0	0
+plasma membrane fusion involved in cytogamy	GO_0032220	0	1	0	0	0
+plantlet formation on parent plant	GO_0048624	0	1	0	0	0
+plant-type spore development	GO_0048236	0	1	0	0	0
+pheromone-dependent signal transduction involved in conjugation with cellular fusion	GO_0000750	0	1	0	0	0
+peptidyl-serine phosphorylation involved in acrosome reaction	GO_0060477	0	1	0	0	0
+peptide pheromone export involved in conjugation with cellular fusion	GO_0071833	0	1	0	0	0
+peptide mating pheromone maturation involved in conjugation with cellular fusion	GO_0071432	0	1	0	0	0
+penile erection	GO_0043084	0	1	0	0	0
+penetration of zona pellucida	GO_0007341	0	1	0	0	0
+paternal behavior	GO_0042712	0	1	0	0	0
+parental behavior	GO_0060746	0	1	0	0	0
+pachytene	GO_0000239	0	1	0	0	0
+ovulation from ovarian follicle	GO_0001542	0	1	0	0	0
+ovulation cycle process	GO_0022602	0	1	0	0	0
+ovulation cycle	GO_0042698	0	1	0	0	0
+ovulation	GO_0030728	0	1	0	0	0
+oviposition	GO_0018991	0	1	0	0	0
+ovarian nurse cell to oocyte transport	GO_0007300	0	1	0	0	0
+ovarian fusome organization	GO_0030723	0	1	0	0	0
+ovarian follicle rupture	GO_0001543	0	1	0	0	0
+ovarian follicle endowment	GO_0001551	0	1	0	0	0
+ovarian follicle development	GO_0001541	0	1	0	0	0
+ovarian follicle cell-cell adhesion	GO_0007299	0	1	0	0	0
+ovarian follicle cell stalk formation	GO_0030713	0	1	0	0	0
+ovarian follicle cell migration	GO_0007297	0	1	0	0	0
+ovarian follicle cell development	GO_0030707	0	1	0	0	0
+ovarian cumulus expansion	GO_0001550	0	1	0	0	0
+oral incubation	GO_0060747	0	1	0	0	0
+oospore formation	GO_0075243	0	1	0	0	0
+oomycete sporangium development	GO_0075321	0	1	0	0	0
+oogonium stage	GO_0048158	0	1	0	0	0
+oogenesis stage	GO_0022605	0	1	0	0	0
+oogenesis	GO_0048477	0	1	0	0	0
+oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	0	1	0	0	0
+oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	0	1	0	0	0
+oocyte morphogenesis	GO_0048601	0	1	0	0	0
+oocyte microtubule cytoskeleton polarization	GO_0008103	0	1	0	0	0
+oocyte microtubule cytoskeleton organization	GO_0016325	0	1	0	0	0
+oocyte maturation	GO_0001556	0	1	0	0	0
+oocyte localization involved in germarium-derived egg chamber formation	GO_0030720	0	1	0	0	0
+oocyte growth in germarium-derived egg chamber	GO_0030715	0	1	0	0	0
+oocyte growth	GO_0001555	0	1	0	0	0
+oocyte fate commitment	GO_0048600	0	1	0	0	0
+oocyte dorsal/ventral axis specification	GO_0007310	0	1	0	0	0
+oocyte differentiation	GO_0009994	0	1	0	0	0
+oocyte development	GO_0048599	0	1	0	0	0
+oocyte construction	GO_0007308	0	1	0	0	0
+oocyte axis specification	GO_0007309	0	1	0	0	0
+oocyte anterior/posterior axis specification	GO_0007314	0	1	0	0	0
+oocyte animal/vegetal axis specification	GO_0060832	0	1	0	0	0
+oidium formation	GO_0034297	0	1	0	0	0
+nurse cell nucleus anchoring	GO_0007302	0	1	0	0	0
+nurse cell apoptotic process	GO_0045476	0	1	0	0	0
+nuclear migration involved in conjugation with cellular fusion	GO_0000743	0	1	0	0	0
+negative regulation of zygospore formation	GO_0075300	0	1	0	0	0
+negative regulation of zoospore formation	GO_0075242	0	1	0	0	0
+negative regulation of vitellogenesis	GO_1903187	0	1	0	0	0
+negative regulation of uredospore formation	GO_0075254	0	1	0	0	0
+negative regulation of ubiquitin-protein ligase activity involved in meiotic cell cycle	GO_0051442	0	1	0	0	0
+negative regulation of turning behavior involved in mating	GO_0061096	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010674	0	1	0	0	0
+negative regulation of transcription during meiosis	GO_0051038	0	1	0	0	0
+negative regulation of teliospore formation	GO_0075258	0	1	0	0	0
+negative regulation of sporocarp development involved in sexual reproduction	GO_1902059	0	1	0	0	0
+negative regulation of sporangiospore formation	GO_0075288	0	1	0	0	0
+negative regulation of spermatid nuclear differentiation	GO_0045701	0	1	0	0	0
+negative regulation of sperm capacitation	GO_1902491	0	1	0	0	0
+negative regulation of sorocarp stalk cell differentiation	GO_0031286	0	1	0	0	0
+negative regulation of sorocarp spore cell differentiation	GO_1901262	0	1	0	0	0
+negative regulation of signal transduction involved in conjugation with cellular fusion	GO_0060240	0	1	0	0	0
+negative regulation of sexual sporulation resulting in formation of a cellular spore	GO_0043942	0	1	0	0	0
+negative regulation of seed maturation	GO_2000692	0	1	0	0	0
+negative regulation of seed dormancy process	GO_1902039	0	1	0	0	0
+negative regulation of reciprocal meiotic recombination	GO_0045128	0	1	0	0	0
+negative regulation of progesterone secretion	GO_2000871	0	1	0	0	0
+negative regulation of progesterone biosynthesis involved in luteolysis	GO_0061363	0	1	0	0	0
+negative regulation of pole plasm oskar mRNA localization	GO_0045855	0	1	0	0	0
+negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	GO_0090029	0	1	0	0	0
+negative regulation of penile erection	GO_0060407	0	1	0	0	0
+negative regulation of ovulation	GO_0060280	0	1	0	0	0
+negative regulation of oviposition	GO_1901045	0	1	0	0	0
+negative regulation of ovarian follicle development	GO_2000355	0	1	0	0	0
+negative regulation of oospore formation	GO_0075246	0	1	0	0	0
+negative regulation of oomycete sporangium development	GO_0075324	0	1	0	0	0
+negative regulation of oocyte maturation	GO_1900194	0	1	0	0	0
+negative regulation of oocyte development	GO_0060283	0	1	0	0	0
+negative regulation of nurse cell apoptotic process	GO_0045849	0	1	0	0	0
+negative regulation of metaphase/anaphase transition of meiotic cell cycle	GO_1902103	0	1	0	0	0
+negative regulation of meiotic spindle elongation	GO_1902120	0	1	0	0	0
+negative regulation of meiotic nuclear division	GO_0045835	0	1	0	0	0
+negative regulation of meiotic joint molecule formation	GO_0010947	0	1	0	0	0
+negative regulation of meiotic cell cycle phase transition	GO_1901994	0	1	0	0	0
+negative regulation of meiotic cell cycle	GO_0051447	0	1	0	0	0
+negative regulation of meiotic DNA double-strand break formation	GO_1903342	0	1	0	0	0
+negative regulation of mating type switching by negative regulation of transcription from RNA polymerase II promoter	GO_1900474	0	1	0	0	0
+negative regulation of mating type switching	GO_0031495	0	1	0	0	0
+negative regulation of male mating behavior	GO_1902436	0	1	0	0	0
+negative regulation of male germ cell proliferation	GO_2000255	0	1	0	0	0
+negative regulation of maintenance of meiotic sister chromatid cohesion, centromeric	GO_2000710	0	1	0	0	0
+negative regulation of maintenance of meiotic sister chromatid cohesion, arms	GO_2000713	0	1	0	0	0
+negative regulation of maintenance of meiotic sister chromatid cohesion	GO_0034095	0	1	0	0	0
+negative regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter	GO_1902625	0	1	0	0	0
+negative regulation of induction of conjugation with cellular fusion	GO_0010515	0	1	0	0	0
+negative regulation of fusion of sperm to egg plasma membrane	GO_0043013	0	1	0	0	0
+negative regulation of fertilization	GO_0060467	0	1	0	0	0
+negative regulation of female receptivity, post-mating	GO_0045434	0	1	0	0	0
+negative regulation of female receptivity	GO_0007621	0	1	0	0	0
+negative regulation of embryo sac egg cell differentiation	GO_0045695	0	1	0	0	0
+negative regulation of cumulus cell differentiation	GO_0045593	0	1	0	0	0
+negative regulation of conjugation with cellular fusion	GO_0031138	0	1	0	0	0
+negative regulation of conidium formation	GO_0075308	0	1	0	0	0
+negative regulation of cleistothecium development	GO_0070797	0	1	0	0	0
+negative regulation of cell budding	GO_0045781	0	1	0	0	0
+negative regulation of border follicle cell migration	GO_1903687	0	1	0	0	0
+negative regulation of border follicle cell delamination	GO_0030712	0	1	0	0	0
+negative regulation of binding of sperm to zona pellucida	GO_2000360	0	1	0	0	0
+negative regulation of bicoid mRNA localization	GO_0045853	0	1	0	0	0
+negative regulation of basidiospore formation	GO_0075304	0	1	0	0	0
+negative regulation of asexual sporulation resulting in formation of a cellular spore	GO_0043944	0	1	0	0	0
+negative regulation of asexual reproduction	GO_1903665	0	1	0	0	0
+negative regulation of ascospore formation	GO_0075297	0	1	0	0	0
+negative regulation of aplanospore formation	GO_0075292	0	1	0	0	0
+negative regulation of aggregate size involved in sorocarp development	GO_0031158	0	1	0	0	0
+negative regulation of aeciospore formation	GO_0075250	0	1	0	0	0
+negative regulation of acrosome reaction	GO_1902225	0	1	0	0	0
+negative regulation of Hulle cell development	GO_0070809	0	1	0	0	0
+negative regulation of FtsZ-dependent cytokinesis	GO_2000245	0	1	0	0	0
+myxospore formation	GO_0034303	0	1	0	0	0
+multi-layer follicle stage	GO_0048162	0	1	0	0	0
+mucilage extrusion from seed coat	GO_0080001	0	1	0	0	0
+mitotic cell cycle arrest in response to pheromone	GO_0000751	0	1	0	0	0
+microtubule cytoskeleton organization involved in synapsis	GO_0090172	0	1	0	0	0
+microtubule bundle formation involved in horsetail-astral microtubule organization	GO_1903563	0	1	0	0	0
+microsporogenesis	GO_0009556	0	1	0	0	0
+micropyle formation	GO_0046844	0	1	0	0	0
+metaphase/anaphase transition of meiotic cell cycle	GO_0044785	0	1	0	0	0
+menstrual cycle	GO_0044850	0	1	0	0	0
+membrane fusion involved in acrosome reaction	GO_0002078	0	1	0	0	0
+meitotic prometaphase I	GO_0098768	0	1	0	0	0
+meiotic telophase II	GO_0007139	0	1	0	0	0
+meiotic telophase I	GO_0007134	0	1	0	0	0
+meiotic telomere tethering at nuclear periphery	GO_0044821	0	1	0	0	0
+meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	0	0	0
+meiotic telomere clustering	GO_0045141	0	1	0	0	0
+meiotic strand invasion involved in reciprocal meiotic recombination	GO_0010774	0	1	0	0	0
+meiotic strand invasion involved in meiotic gene conversion	GO_0010775	0	1	0	0	0
+meiotic strand invasion	GO_0000708	0	1	0	0	0
+meiotic strand displacement involved in double-strand break repair via SDSA	GO_1902346	0	1	0	0	0
+meiotic strand displacement	GO_0000714	0	1	0	0	0
+meiotic spindle stabilization	GO_0043147	0	1	0	0	0
+meiotic spindle pole body organization	GO_1990395	0	1	0	0	0
+meiotic spindle organization	GO_0000212	0	1	0	0	0
+meiotic spindle midzone assembly	GO_0051257	0	1	0	0	0
+meiotic spindle elongation	GO_0051232	0	1	0	0	0
+meiotic spindle disassembly	GO_0051229	0	1	0	0	0
+meiotic spindle checkpoint	GO_0044779	0	1	0	0	0
+meiotic spindle assembly checkpoint	GO_0033316	0	1	0	0	0
+meiotic sister chromatid separation	GO_0051757	0	1	0	0	0
+meiotic sister chromatid segregation	GO_0045144	0	1	0	0	0
+meiotic sister chromatid cohesion, centromeric	GO_0051754	0	1	0	0	0
+meiotic sister chromatid cohesion, arms	GO_0051760	0	1	0	0	0
+meiotic sister chromatid cohesion involved in meiosis II	GO_0010790	0	1	0	0	0
+meiotic sister chromatid cohesion involved in meiosis I	GO_0010789	0	1	0	0	0
+meiotic sister chromatid cohesion	GO_0051177	0	1	0	0	0
+meiotic sister chromatid centromere separation	GO_0051756	0	1	0	0	0
+meiotic sister chromatid arm separation	GO_0051755	0	1	0	0	0
+meiotic recombination nodule assembly	GO_0007146	0	1	0	0	0
+meiotic recombination checkpoint	GO_0051598	0	1	0	0	0
+meiotic prophase II	GO_0007136	0	1	0	0	0
+meiotic prophase I	GO_0007128	0	1	0	0	0
+meiotic nuclear envelope reassembly	GO_0051333	0	1	0	0	0
+meiotic nuclear envelope disassembly	GO_0051078	0	1	0	0	0
+meiotic nuclear division	GO_0007126	0	1	0	0	0
+meiotic mismatch repair involved in reciprocal meiotic recombination	GO_0010777	0	1	0	0	0
+meiotic mismatch repair involved in meiotic gene conversion	GO_0010776	0	1	0	0	0
+meiotic mismatch repair	GO_0000710	0	1	0	0	0
+meiotic metaphase plate congression	GO_0051311	0	1	0	0	0
+meiotic metaphase II plate congression	GO_0043061	0	1	0	0	0
+meiotic metaphase II	GO_0007137	0	1	0	0	0
+meiotic metaphase I plate congression	GO_0043060	0	1	0	0	0
+meiotic metaphase I	GO_0007132	0	1	0	0	0
+meiotic joint molecule formation	GO_0000709	0	1	0	0	0
+meiotic interphase II	GO_0044844	0	1	0	0	0
+meiotic interphase	GO_0051328	0	1	0	0	0
+meiotic heteroduplex formation	GO_0000713	0	1	0	0	0
+meiotic gene conversion	GO_0006311	0	1	0	0	0
+meiotic cytokinesis	GO_0033206	0	1	0	0	0
+meiotic chromosome separation	GO_0051307	0	1	0	0	0
+meiotic chromosome segregation	GO_0045132	0	1	0	0	0
+meiotic chromosome movement towards spindle pole	GO_0016344	0	1	0	0	0
+meiotic chromosome decondensation	GO_0051178	0	1	0	0	0
+meiotic chromosome condensation	GO_0010032	0	1	0	0	0
+meiotic centromere clustering	GO_1990571	0	1	0	0	0
+meiotic cell cycle process involved in oocyte maturation	GO_1903537	0	1	0	0	0
+meiotic cell cycle process	GO_1903046	0	1	0	0	0
+meiotic cell cycle phase transition	GO_0044771	0	1	0	0	0
+meiotic cell cycle phase	GO_0098762	0	1	0	0	0
+meiotic cell cycle checkpoint	GO_0033313	0	1	0	0	0
+meiotic cell cycle	GO_0051321	0	1	0	0	0
+meiotic anaphase II	GO_0007138	0	1	0	0	0
+meiotic anaphase I	GO_0007133	0	1	0	0	0
+meiotic S phase	GO_0051332	0	1	0	0	0
+meiotic M phase	GO_0051327	0	1	0	0	0
+meiotic G2/MI transition	GO_0008315	0	1	0	0	0
+meiotic G2 phase	GO_0051331	0	1	0	0	0
+meiotic G1 phase	GO_0051330	0	1	0	0	0
+meiotic DNA replication initiation	GO_1902974	0	1	0	0	0
+meiotic DNA replication checkpoint	GO_0033315	0	1	0	0	0
+meiotic DNA repair synthesis involved in reciprocal meiotic recombination	GO_0010778	0	1	0	0	0
+meiotic DNA repair synthesis involved in meiotic gene conversion	GO_0010779	0	1	0	0	0
+meiotic DNA repair synthesis	GO_0000711	0	1	0	0	0
+meiotic DNA recombinase assembly involved in reciprocal meiotic recombination	GO_0010772	0	1	0	0	0
+meiotic DNA recombinase assembly involved in meiotic gene conversion	GO_0010773	0	1	0	0	0
+meiotic DNA recombinase assembly	GO_0000707	0	1	0	0	0
+meiotic DNA integrity checkpoint	GO_0044778	0	1	0	0	0
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination	GO_0010705	0	1	0	0	0
+meiotic DNA double-strand break processing involved in meiotic gene conversion	GO_0010704	0	1	0	0	0
+meiotic DNA double-strand break processing	GO_0000706	0	1	0	0	0
+meiotic DNA double-strand break formation involved in reciprocal meiotic recombination	GO_0010780	0	1	0	0	0
+meiotic DNA double-strand break formation involved in meiotic gene conversion	GO_0010781	0	1	0	0	0
+meiotic DNA double-strand break formation	GO_0042138	0	1	0	0	0
+meiosis II nuclear envelope reassembly	GO_0051335	0	1	0	0	0
+meiosis II nuclear envelope disassembly	GO_0051080	0	1	0	0	0
+meiosis II cytokinesis	GO_0007111	0	1	0	0	0
+meiosis II cell cycle phase	GO_0098765	0	1	0	0	0
+meiosis II M phase	GO_0098767	0	1	0	0	0
+meiosis II	GO_0007135	0	1	0	0	0
+meiosis I nuclear envelope reassembly	GO_0051334	0	1	0	0	0
+meiosis I nuclear envelope disassembly	GO_0051079	0	1	0	0	0
+meiosis I cytokinesis	GO_0007110	0	1	0	0	0
+meiosis I cell cycle phase	GO_0098764	0	1	0	0	0
+meiosis I M phase	GO_0098766	0	1	0	0	0
+meiosis I	GO_0007127	0	1	0	0	0
+megasporogenesis	GO_0009554	0	1	0	0	0
+mature follicle stage	GO_0048166	0	1	0	0	0
+mating type switching	GO_0007533	0	1	0	0	0
+mating projection assembly	GO_0031382	0	1	0	0	0
+mating plug formation	GO_0042628	0	1	0	0	0
+mating pheromone secretion involved in conjugation with cellular fusion	GO_0071631	0	1	0	0	0
+mating behavior, sex discrimination	GO_0048047	0	1	0	0	0
+mating behavior	GO_0007617	0	1	0	0	0
+mating	GO_0007618	0	1	0	0	0
+maternal specification of dorsal/ventral axis, oocyte, soma encoded	GO_0007313	0	1	0	0	0
+maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	GO_0007311	0	1	0	0	0
+maternal process involved in parturition	GO_0060137	0	1	0	0	0
+maternal process involved in female pregnancy	GO_0060135	0	1	0	0	0
+maternal placenta development	GO_0001893	0	1	0	0	0
+maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded	GO_0008071	0	1	0	0	0
+maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded	GO_0008070	0	1	0	0	0
+maternal behavior	GO_0042711	0	1	0	0	0
+mammary gland branching involved in pregnancy	GO_0060745	0	1	0	0	0
+male-female gamete recognition during double fertilization	GO_0080173	0	1	0	0	0
+male pronucleus assembly	GO_0035039	0	1	0	0	0
+male pronuclear envelope synthesis	GO_0035043	0	1	0	0	0
+male meiotic chromosome movement towards spindle pole	GO_0016346	0	1	0	0	0
+male meiosis sister chromatid cohesion	GO_0007065	0	1	0	0	0
+male meiosis cytokinesis	GO_0007112	0	1	0	0	0
+male meiosis chromosome separation	GO_0051308	0	1	0	0	0
+male meiosis chromosome segregation	GO_0007060	0	1	0	0	0
+male meiosis centrosome cycle	GO_0007101	0	1	0	0	0
+male meiosis II	GO_0007142	0	1	0	0	0
+male meiosis I	GO_0007141	0	1	0	0	0
+male meiosis	GO_0007140	0	1	0	0	0
+male mating behavior	GO_0060179	0	1	0	0	0
+male germline stem cell symmetric division	GO_0098730	0	1	0	0	0
+male germline ring canal formation	GO_0030726	0	1	0	0	0
+male germ-line stem cell asymmetric division	GO_0048133	0	1	0	0	0
+male germ-line cyst formation	GO_0048136	0	1	0	0	0
+male germ-line cyst encapsulation	GO_0048140	0	1	0	0	0
+male germ cell proliferation	GO_0002176	0	1	0	0	0
+male gamete generation	GO_0048232	0	1	0	0	0
+male courtship behavior, veined wing vibration	GO_0016545	0	1	0	0	0
+male courtship behavior, veined wing generated song production	GO_0045433	0	1	0	0	0
+male courtship behavior, veined wing extension	GO_0048065	0	1	0	0	0
+male courtship behavior, tapping to detect pheromone	GO_0016544	0	1	0	0	0
+male courtship behavior, proboscis-mediated licking	GO_0016546	0	1	0	0	0
+male courtship behavior, orientation prior to leg tapping and wing vibration	GO_0016543	0	1	0	0	0
+male courtship behavior	GO_0008049	0	1	0	0	0
+maintenance of seed dormancy by absisic acid	GO_0098755	0	1	0	0	0
+maintenance of seed dormancy	GO_0010231	0	1	0	0	0
+maintenance of pole plasm mRNA location	GO_0046594	0	1	0	0	0
+maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification	GO_0042070	0	1	0	0	0
+maintenance of meiotic sister chromatid cohesion, centromeric	GO_0035875	0	1	0	0	0
+maintenance of meiotic sister chromatid cohesion, arms	GO_0035876	0	1	0	0	0
+maintenance of meiotic sister chromatid cohesion	GO_0034090	0	1	0	0	0
+main body follicle cell migration	GO_0060270	0	1	0	0	0
+luteolysis	GO_0001554	0	1	0	0	0
+luteinizing hormone signaling pathway involved in ovarian follicle development	GO_0035471	0	1	0	0	0
+luteinization	GO_0001553	0	1	0	0	0
+linear element assembly	GO_0030999	0	1	0	0	0
+leptotene	GO_0000237	0	1	0	0	0
+lateral element assembly	GO_0051878	0	1	0	0	0
+late meiotic recombination nodule assembly	GO_0042140	0	1	0	0	0
+karyosome formation	GO_0030717	0	1	0	0	0
+karyogamy involved in conjugation with cellular fusion	GO_0000742	0	1	0	0	0
+intracellular signal transduction involved in meiotic spindle checkpoint	GO_1902398	0	1	0	0	0
+insemination	GO_0007320	0	1	0	0	0
+initiation of primordial ovarian follicle growth	GO_0001544	0	1	0	0	0
+initiation of premeiotic DNA replication	GO_0072691	0	1	0	0	0
+induction of conjugation with cellular fusion	GO_0010514	0	1	0	0	0
+induction of conjugation upon nutrient starvation	GO_0031140	0	1	0	0	0
+induction of conjugation upon nitrogen starvation	GO_0031142	0	1	0	0	0
+induction of conjugation upon carbon starvation	GO_0031141	0	1	0	0	0
+inactivation of recombination (HML)	GO_0007537	0	1	0	0	0
+inactivation of MAPK activity involved in conjugation with cellular fusion	GO_0071511	0	1	0	0	0
+horsetail-astral microtubule organization	GO_0032118	0	1	0	0	0
+homologous chromosome segregation	GO_0045143	0	1	0	0	0
+homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
+homologous chromosome movement towards spindle pole involved in homologous chromosome segregation	GO_0051758	0	1	0	0	0
+heteroduplex formation involved in gene conversion at mating-type locus	GO_0010708	0	1	0	0	0
+growth of a germarium-derived egg chamber	GO_0007295	0	1	0	0	0
+glucan endo-1,3-beta-D-glucosidase activity involved in ascospore release from ascus	GO_0072317	0	1	0	0	0
+germline stem cell symmetric division	GO_0098729	0	1	0	0	0
+germline stem cell asymmetric division	GO_0098728	0	1	0	0	0
+germline ring canal formation	GO_0030725	0	1	0	0	0
+germline cell cycle switching, mitotic to meiotic cell cycle	GO_0051729	0	1	0	0	0
+germarium-derived oocyte fate determination	GO_0007294	0	1	0	0	0
+germarium-derived oocyte differentiation	GO_0030706	0	1	0	0	0
+germarium-derived female germ-line cyst formation	GO_0030727	0	1	0	0	0
+germarium-derived female germ-line cyst encapsulation	GO_0030708	0	1	0	0	0
+germarium-derived egg chamber formation	GO_0007293	0	1	0	0	0
+germarium-derived cystoblast division	GO_0048142	0	1	0	0	0
+germ-line stem cell division	GO_0042078	0	1	0	0	0
+germ-line cyst formation	GO_0048134	0	1	0	0	0
+germ-line cyst encapsulation	GO_0048138	0	1	0	0	0
+germ cell repulsion	GO_0035233	0	1	0	0	0
+germ cell proliferation	GO_0036093	0	1	0	0	0
+germ cell migration	GO_0008354	0	1	0	0	0
+germ cell development	GO_0007281	0	1	0	0	0
+germ cell attraction	GO_0035232	0	1	0	0	0
+genital disc sexually dimorphic development	GO_0035263	0	1	0	0	0
+genetic imprinting at mating-type locus	GO_0071515	0	1	0	0	0
+generative cell mitosis	GO_0055047	0	1	0	0	0
+generation of ovulation cycle rhythm	GO_0060112	0	1	0	0	0
+gene conversion at mating-type locus, termination of copy-synthesis	GO_0061500	0	1	0	0	0
+gene conversion at mating-type locus, DNA repair synthesis	GO_0000734	0	1	0	0	0
+gene conversion at mating-type locus, DNA double-strand break processing	GO_0031292	0	1	0	0	0
+gene conversion at mating-type locus, DNA double-strand break formation	GO_0000728	0	1	0	0	0
+gene conversion at mating-type locus	GO_0007534	0	1	0	0	0
+gamete generation	GO_0007276	0	1	0	0	0
+fusome organization	GO_0045478	0	1	0	0	0
+fusion of sperm to egg plasma membrane	GO_0007342	0	1	0	0	0
+fused antrum stage	GO_0048165	0	1	0	0	0
+fruit dehiscence	GO_0010047	0	1	0	0	0
+follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage	GO_0003005	0	1	0	0	0
+follicular fluid formation in ovarian follicle antrum involved in fused antrum stage	GO_0003003	0	1	0	0	0
+follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage	GO_0003004	0	1	0	0	0
+follicular fluid formation in ovarian follicle antrum	GO_0001548	0	1	0	0	0
+follicle-stimulating hormone signaling pathway	GO_0042699	0	1	0	0	0
+follicle-stimulating hormone receptor activity	GO_0004963	0	1	0	0	0
+fetal process involved in parturition	GO_0060138	0	1	0	0	0
+fertilization, exchange of chromosomal proteins	GO_0035042	0	1	0	0	0
+fertilization	GO_0009566	0	1	0	0	0
+female pronucleus assembly	GO_0035038	0	1	0	0	0
+female meiotic division	GO_0007143	0	1	0	0	0
+female meiotic chromosome movement towards spindle pole	GO_0016345	0	1	0	0	0
+female meiosis sister chromatid cohesion	GO_0007066	0	1	0	0	0
+female meiosis chromosome separation	GO_0051309	0	1	0	0	0
+female meiosis chromosome segregation	GO_0016321	0	1	0	0	0
+female meiosis II	GO_0007147	0	1	0	0	0
+female meiosis I	GO_0007144	0	1	0	0	0
+female mating behavior	GO_0060180	0	1	0	0	0
+female germline ring canal stabilization	GO_0008335	0	1	0	0	0
+female germline ring canal formation, actin assembly	GO_0008302	0	1	0	0	0
+female germline ring canal formation	GO_0007301	0	1	0	0	0
+female germ-line stem cell asymmetric division	GO_0048132	0	1	0	0	0
+female germ-line cyst formation	GO_0048135	0	1	0	0	0
+female germ-line cyst encapsulation	GO_0048139	0	1	0	0	0
+female gamete generation	GO_0007292	0	1	0	0	0
+female courtship behavior	GO_0008050	0	1	0	0	0
+extracellular polysaccharide catabolic process involved in ascospore release from ascus	GO_0072000	0	1	0	0	0
+estrous cycle	GO_0044849	0	1	0	0	0
+establishment of pole plasm mRNA localization	GO_0046595	0	1	0	0	0
+establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0030722	0	1	0	0	0
+establishment of meiotic spindle orientation	GO_0051296	0	1	0	0	0
+establishment of meiotic spindle localization	GO_0051295	0	1	0	0	0
+establishment of meiotic sister chromatid cohesion	GO_0034089	0	1	0	0	0
+endospore formation	GO_0034301	0	1	0	0	0
+embryonic process involved in female pregnancy	GO_0060136	0	1	0	0	0
+embryo sac egg cell differentiation	GO_0009560	0	1	0	0	0
+eggshell formation	GO_0030703	0	1	0	0	0
+eggshell chorion gene amplification	GO_0007307	0	1	0	0	0
+eggshell chorion assembly	GO_0007306	0	1	0	0	0
+egg coat formation	GO_0035803	0	1	0	0	0
+egg activation	GO_0007343	0	1	0	0	0
+ectopic germ cell programmed cell death	GO_0035234	0	1	0	0	0
+early meiotic recombination nodule assembly	GO_0042139	0	1	0	0	0
+dynein-driven meiotic oscillatory nuclear movement	GO_0030989	0	1	0	0	0
+double-strand break repair via single-strand annealing, removal of nonhomologous ends	GO_0000736	0	1	0	0	0
+double layer follicle stage	GO_0048161	0	1	0	0	0
+double fertilization forming two zygotes	GO_0009677	0	1	0	0	0
+double fertilization forming a zygote and endosperm	GO_0009567	0	1	0	0	0
+dorsal/ventral axis specification, ovarian follicular epithelium	GO_0008069	0	1	0	0	0
+dorsal appendage formation	GO_0046843	0	1	0	0	0
+donor selection	GO_0007535	0	1	0	0	0
+distributive segregation	GO_0032837	0	1	0	0	0
+distinct antral spaces stage	GO_0048164	0	1	0	0	0
+diplotene	GO_0000240	0	1	0	0	0
+diakinesis	GO_0000241	0	1	0	0	0
+detection of stimulus involved in meiotic spindle checkpoint	GO_1902397	0	1	0	0	0
+detection of stimulus involved in meiotic spindle assembly checkpoint	GO_0072463	0	1	0	0	0
+detection of stimulus involved in meiotic recombination checkpoint	GO_0072460	0	1	0	0	0
+detection of stimulus involved in meiotic cell cycle checkpoint	GO_0072409	0	1	0	0	0
+detection of stimulus involved in meiotic DNA replication checkpoint	GO_0072439	0	1	0	0	0
+dehiscence	GO_0009900	0	1	0	0	0
+decidualization	GO_0046697	0	1	0	0	0
+cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte	GO_0019749	0	1	0	0	0
+cytoplasmic transport, nurse cell to oocyte	GO_0007303	0	1	0	0	0
+cytogamy	GO_0000755	0	1	0	0	0
+cystoblast division	GO_0007282	0	1	0	0	0
+cumulus cell differentiation	GO_0001549	0	1	0	0	0
+culmination involved in sorocarp development	GO_0031154	0	1	0	0	0
+courtship behavior	GO_0007619	0	1	0	0	0
+cortical granule exocytosis	GO_0060471	0	1	0	0	0
+copulation	GO_0007620	0	1	0	0	0
+conjugation with cellular fusion	GO_0000747	0	1	0	0	0
+conidium formation	GO_0048315	0	1	0	0	0
+cleistothecium development	GO_0070791	0	1	0	0	0
+circadian mating behavior	GO_0035648	0	1	0	0	0
+chromosome organization involved in meiosis	GO_0070192	0	1	0	0	0
+chromosome localization to nuclear envelope involved in synapsis	GO_0090220	0	1	0	0	0
+chorion-containing eggshell pattern formation	GO_0030381	0	1	0	0	0
+chorion-containing eggshell formation	GO_0007304	0	1	0	0	0
+chlamydospore formation	GO_0001410	0	1	0	0	0
+chiasma assembly	GO_0051026	0	1	0	0	0
+centrosomal and pronuclear rotation	GO_0035047	0	1	0	0	0
+centripetally migrating follicle cell migration	GO_0060269	0	1	0	0	0
+cell wall organization involved in conjugation with cellular fusion	GO_0070871	0	1	0	0	0
+cell wall modification involved in fruit ripening	GO_0009829	0	1	0	0	0
+cell wall macromolecule catabolic process involved in cytogamy	GO_0032219	0	1	0	0	0
+cell morphogenesis involved in conjugation with cellular fusion	GO_0000753	0	1	0	0	0
+cell cycle switching, mitotic to meiotic cell cycle	GO_0051728	0	1	0	0	0
+cell budding	GO_0007114	0	1	0	0	0
+budding cell isotropic bud growth	GO_0007119	0	1	0	0	0
+budding cell bud growth	GO_0007117	0	1	0	0	0
+budding cell apical bud growth	GO_0007118	0	1	0	0	0
+border follicle cell migration	GO_0007298	0	1	0	0	0
+border follicle cell delamination	GO_0030709	0	1	0	0	0
+bipolar cellular bud site selection	GO_0007121	0	1	0	0	0
+binding of sperm to zona pellucida	GO_0007339	0	1	0	0	0
+bicoid mRNA localization	GO_0045450	0	1	0	0	0
+basidiospore formation	GO_0034295	0	1	0	0	0
+axial cellular bud site selection	GO_0007120	0	1	0	0	0
+attachment of telomeric heterochromatin to spindle pole body	GO_0032121	0	1	0	0	0
+attachment of telomere to nuclear envelope	GO_0070197	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	0	0	0
+attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	0	0	0
+astral spindle assembly involved in male meiosis	GO_0055050	0	1	0	0	0
+asexual sporulation resulting in formation of a multicellular or syncytial spore	GO_0075284	0	1	0	0	0
+asexual sporulation resulting in formation of a cellular spore	GO_0043936	0	1	0	0	0
+asexual sporulation	GO_0030436	0	1	0	0	0
+asexual spore wall assembly	GO_0042243	0	1	0	0	0
+asexual reproduction	GO_0019954	0	1	0	0	0
+ascospore-type prospore-specific spindle pole body remodeling	GO_0031322	0	1	0	0	0
+ascospore-type prospore membrane assembly	GO_0032120	0	1	0	0	0
+ascospore-type prospore assembly	GO_0031321	0	1	0	0	0
+ascospore wall chitin biosynthetic process	GO_0034217	0	1	0	0	0
+ascospore wall biogenesis	GO_0070591	0	1	0	0	0
+ascospore wall beta-glucan metabolic process	GO_0034408	0	1	0	0	0
+ascospore wall beta-glucan biosynthetic process	GO_0034412	0	1	0	0	0
+ascospore wall assembly	GO_0030476	0	1	0	0	0
+ascospore wall (1->3)-beta-D-glucan metabolic process	GO_0034409	0	1	0	0	0
+ascospore wall (1->3)-beta-D-glucan biosynthetic process	GO_0034413	0	1	0	0	0
+ascospore release from ascus	GO_0071998	0	1	0	0	0
+ascospore formation	GO_0030437	0	1	0	0	0
+arthrospore formation	GO_0034298	0	1	0	0	0
+apoptotic process involved in luteolysis	GO_0061364	0	1	0	0	0
+aplanospore formation	GO_0075289	0	1	0	0	0
+antral ovarian follicle growth	GO_0001547	0	1	0	0	0
+anther dehiscence	GO_0009901	0	1	0	0	0
+anterior/posterior axis specification, follicular epithelium	GO_0030714	0	1	0	0	0
+anastral spindle assembly involved in male meiosis	GO_0009971	0	1	0	0	0
+alpha-glucan catabolic process involved in ascospore release from ascus	GO_0072316	0	1	0	0	0
+akinete formation	GO_0034302	0	1	0	0	0
+aggregation involved in sorocarp development	GO_0031152	0	1	0	0	0
+agglutination involved in conjugation with cellular fusion	GO_0000752	0	1	0	0	0
+aeciospore formation	GO_0075247	0	1	0	0	0
+adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	GO_0000754	0	1	0	0	0
+activation of recombination (HML)	GO_0007536	0	1	0	0	0
+activation of reciprocal meiotic recombination	GO_0010846	0	1	0	0	0
+activation of meiosis involved in egg activation	GO_0060466	0	1	0	0	0
+activation of meiosis	GO_0090427	0	1	0	0	0
+activation of anaphase-promoting complex activity involved in meiotic cell cycle	GO_0051487	0	1	0	0	0
+activation of MAPKKK activity involved in conjugation with cellular fusion	GO_0071510	0	1	0	0	0
+activation of MAPKK activity involved in conjugation with cellular fusion	GO_0071509	0	1	0	0	0
+activation of MAPK activity involved in conjugation with cellular fusion	GO_0071508	0	1	0	0	0
+actinomycete-type spore formation	GO_0034304	0	1	0	0	0
+acrosome reaction	GO_0007340	0	1	0	0	0
+acrosome matrix dispersal	GO_0002077	0	1	0	0	0
+acrosome assembly	GO_0001675	0	1	0	0	0
+acrosomal vesicle exocytosis	GO_0060478	0	1	0	0	0
+acquisition of desiccation tolerance in seed	GO_0048700	0	1	0	0	0
+achiasmate meiosis I	GO_0000705	0	1	0	0	0
+Wnt signaling pathway involved in animal/vegetal axis specification	GO_0060833	0	1	0	0	0
+P granule organization	GO_0030719	0	1	0	0	0
+Nebenkern assembly	GO_0007287	0	1	0	0	0
+MAPK import into nucleus involved in conjugation with cellular fusion	GO_0071512	0	1	0	0	0
+MAPK cascade involved in conjugation with cellular fusion	GO_0071507	0	1	0	0	0
+MAPK cascade involved in ascospore formation	GO_1903695	0	1	0	0	0
+MAP kinase kinase kinase activity involved in conjugation with cellular fusion	GO_0038073	0	1	0	0	0
+MAP kinase kinase activity involved in conjugation with cellular fusion	GO_0038072	0	1	0	0	0
+MAP kinase activity involved in conjugation with cellular fusion	GO_0038071	0	1	0	0	0
+Hulle cell development	GO_0070792	0	1	0	0	0
+FtsZ-dependent cytokinesis	GO_0043093	0	1	0	0	0
+DNA strand elongation involved in premeiotic DNA replication	GO_1902982	0	1	0	0	0
+DNA recombinase assembly involved in gene conversion at mating-type locus	GO_0034624	0	1	0	0	0
+DNA methylation involved in gamete generation	GO_0043046	0	1	0	0	0

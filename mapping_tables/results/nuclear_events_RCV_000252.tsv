@@ -1,0 +1,169 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+nucleus organization	GO_0006997	1	1	1	0	0
+nucleus localization	GO_0051647	1	1	1	0	0
+nuclear speck organization	GO_0035063	1	1	1	0	0
+nuclear pore organization	GO_0006999	1	1	1	0	0
+nuclear pore distribution	GO_0031081	1	1	1	0	0
+nuclear pore complex assembly	GO_0051292	1	1	1	0	0
+nuclear migration involved in conjugation with mutual genetic exchange	GO_0000745	1	1	1	0	0
+nuclear migration involved in conjugation with cellular fusion	GO_0000743	1	1	1	0	0
+nuclear migration along microfilament	GO_0031022	1	1	1	0	0
+nuclear migration	GO_0007097	1	1	1	0	0
+nuclear matrix organization	GO_0043578	1	1	1	0	0
+nuclear matrix anchoring at nuclear membrane	GO_0090292	1	1	1	0	0
+nucleus-vacuole junction assembly	GO_0071562	1	0	1	0	0
+nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071630	1	0	1	0	0
+nucleoid organization	GO_0090143	1	0	1	0	0
+nucleocytoplasmic transport	GO_0006913	1	0	1	0	0
+nucleobase-containing small molecule metabolic process	GO_0055086	1	0	1	0	0
+nucleobase-containing small molecule interconversion	GO_0015949	1	0	1	0	0
+nucleobase-containing small molecule catabolic process	GO_0034656	1	0	1	0	0
+nucleobase-containing small molecule biosynthetic process	GO_0034404	1	0	1	0	0
+nucleobase-containing compound transport	GO_0015931	1	0	1	0	0
+nucleobase-containing compound metabolic process	GO_0006139	1	0	1	0	0
+nucleobase-containing compound catabolic process	GO_0034655	1	0	1	0	0
+nucleobase-containing compound biosynthetic process	GO_0034654	1	0	1	0	0
+nucleobase transport	GO_0015851	1	0	1	0	0
+nucleobase metabolic process	GO_0009112	1	0	1	0	0
+nucleobase catabolic process	GO_0046113	1	0	1	0	0
+nucleobase biosynthetic process	GO_0046112	1	0	1	0	0
+nucleic acid-protein covalent cross-linking	GO_0018143	1	0	1	0	0
+nucleic acid transport	GO_0050657	1	0	1	0	0
+nucleic acid phosphodiester bond hydrolysis	GO_0090305	1	0	1	0	0
+nucleic acid metabolic process	GO_0090304	1	0	1	0	0
+nucleate erythrocyte maturation	GO_0043362	1	0	1	0	0
+nucleate erythrocyte differentiation	GO_0043363	1	0	1	0	0
+nucleate erythrocyte development	GO_0048823	1	0	1	0	0
+nuclear-transcribed mRNA poly(A) tail shortening	GO_0000289	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	GO_0000184	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, non-stop decay	GO_0070481	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, no-go decay	GO_0070966	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, meiosis-specific transcripts	GO_0033621	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 5'-3'	GO_0034428	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	GO_0034427	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, exonucleolytic	GO_0000291	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay	GO_0000294	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, deadenylation-independent decay	GO_0031086	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	GO_0000288	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, 5'-3' exonucleolytic nonsense-mediated decay	GO_0070479	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay	GO_0070478	1	0	1	0	0
+nuclear-transcribed mRNA catabolic process	GO_0000956	1	0	1	0	0
+nuclear transport	GO_0051169	1	0	1	0	0
+nuclear translocation of MAPK during sporulation (sensu Saccharomyces)	GO_0000207	1	0	1	1	1
+nuclear translocation of MAPK during sporulation (sensu Fungi)	GO_0030443	1	0	1	1	1
+nuclear translocation of MAPK (pseudohyphal growth)	GO_0000195	1	0	1	1	1
+nuclear translocation of MAPK (mating sensu Saccharomyces)	GO_0007248	1	0	1	1	1
+nuclear translocation of MAPK (mating sensu Fungi)	GO_0030460	1	0	1	1	1
+nuclear translocation of Hog1	GO_0007240	1	0	1	1	1
+nuclear retention of unspliced pre-mRNA at the site of transcription	GO_0071048	1	0	1	0	0
+nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	GO_0071049	1	0	1	0	0
+nuclear retention of pre-mRNA at the site of transcription	GO_0071033	1	0	1	0	0
+nuclear pore localization	GO_0051664	1	0	1	0	0
+nuclear polyadenylation-dependent tRNA catabolic process	GO_0071038	1	0	1	0	0
+nuclear polyadenylation-dependent snoRNA catabolic process	GO_0071036	1	0	1	0	0
+nuclear polyadenylation-dependent snRNA catabolic process	GO_0071037	1	0	1	0	0
+nuclear polyadenylation-dependent rRNA catabolic process	GO_0071035	1	0	1	0	0
+nuclear polyadenylation-dependent ncRNA catabolic process	GO_0071046	1	0	1	0	0
+nuclear polyadenylation-dependent mRNA catabolic process	GO_0071042	1	0	1	0	0
+nuclear polyadenylation-dependent antisense transcript catabolic process	GO_0071040	1	0	1	0	0
+nuclear polyadenylation-dependent CUT catabolic process	GO_0071039	1	0	1	0	0
+nuclear outer membrane organization	GO_0071764	1	0	1	0	0
+nuclear ncRNA surveillance	GO_0071029	1	0	1	0	0
+nuclear membrane vesicle binding to chromatin	GO_0007085	1	0	1	1	1
+nuclear membrane organization	GO_0071763	1	0	1	0	0
+nuclear membrane fusion involved in karyogamy	GO_0048288	1	0	1	0	0
+nuclear membrane fusion	GO_0000740	1	0	1	0	0
+nuclear mRNA surveillance of mRNP export	GO_0071032	1	0	1	0	0
+nuclear mRNA surveillance of mRNA 3'-end processing	GO_0071031	1	0	1	0	0
+nuclear mRNA surveillance	GO_0071028	1	0	1	0	0
+nuclear inner membrane organization	GO_0071765	1	0	1	0	0
+nuclear import	GO_0051170	1	0	1	0	0
+nuclear fusion during karyogamy	GO_0006945	1	0	1	1	1
+nuclear fragmentation involved in apoptotic nuclear change	GO_0030264	1	0	1	0	0
+nuclear export	GO_0051168	1	0	1	0	0
+nuclear envelope reassembly	GO_0031468	1	0	1	0	0
+nuclear envelope organization	GO_0006998	1	0	1	0	0
+nuclear envelope disassembly	GO_0051081	1	0	1	0	0
+nuclear division involved in appressorium formation on or near host	GO_0075034	1	0	1	0	0
+nuclear division	GO_0000280	1	0	1	0	0
+nuclear RNA surveillance	GO_0071027	1	0	1	0	0
+mRNA branch site recognition	GO_0000348	1	0	1	0	0
+mRNA 5'-splice site recognition	GO_0000395	1	0	1	0	0
+mRNA 3'-splice site recognition	GO_0000389	1	0	1	0	0
+karyogamy involved in conjugation with mutual genetic exchange	GO_0000744	1	0	1	0	0
+karyogamy involved in conjugation with cellular fusion	GO_0000742	1	0	1	0	0
+karyogamy	GO_0000741	1	0	1	0	0
+viral capsid precursor transport to host cell nucleus	GO_0046752	0	1	0	0	0
+telomere maintenance via semi-conservative replication	GO_0032201	0	1	0	0	0
+synthesis of RNA primer involved in premeiotic DNA replication	GO_1902980	0	1	0	0	0
+synthesis of RNA primer involved in nuclear cell cycle DNA replication	GO_1902318	0	1	0	0	0
+synthesis of RNA primer involved in mitotic DNA replication	GO_1902981	0	1	0	0	0
+syncytial nuclear migration	GO_0035190	0	1	0	0	0
+spermatid nucleus elongation	GO_0007290	0	1	0	0	0
+spermatid nucleus differentiation	GO_0007289	0	1	0	0	0
+removal of RNA primer involved in mitotic DNA replication	GO_1903469	0	1	0	0	0
+pronuclear migration	GO_0035046	0	1	0	0	0
+premeiotic DNA replication termination	GO_1902978	0	1	0	0	0
+premeiotic DNA replication preinitiation complex assembly	GO_1902976	0	1	0	0	0
+premeiotic DNA replication DNA ligation	GO_1902972	0	1	0	0	0
+premeiotic DNA replication DNA duplex unwinding	GO_1902970	0	1	0	0	0
+premeiotic DNA replication	GO_0006279	0	1	0	0	0
+pre-replicative complex assembly involved in premeiotic DNA replication	GO_1902984	0	1	0	0	0
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication	GO_0006267	0	1	0	0	0
+oocyte nucleus migration involved in oocyte dorsal/ventral axis specification	GO_0007312	0	1	0	0	0
+oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0051663	0	1	0	0	0
+nucleus inheritance	GO_0048310	0	1	0	0	0
+nucleolus organization	GO_0007000	0	1	0	0	0
+nucleologenesis	GO_0017126	0	1	0	0	0
+nucleolar fragmentation involved in replicative aging	GO_0001303	0	1	0	0	0
+nucleolar fragmentation	GO_0007576	0	1	0	0	0
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration	GO_0021817	0	1	0	0	0
+nuclear tRNA 3'-trailer cleavage, endonucleolytic	GO_1902375	0	1	0	0	0
+nuclear migration to the embryo sac center	GO_0023003	0	1	0	0	0
+nuclear migration to embryo sac poles	GO_0023002	0	1	0	0	0
+nuclear migration during mitotic telophase	GO_0090561	0	1	0	0	0
+nuclear migration along microtubule	GO_0030473	0	1	0	0	0
+nuclear cortical migration	GO_0035192	0	1	0	0	0
+nuclear cell cycle DNA replication initiation	GO_1902315	0	1	0	0	0
+nuclear capsid assembly	GO_0039708	0	1	0	0	0
+nuclear body organization	GO_0030575	0	1	0	0	0
+nuclear axial expansion	GO_0035191	0	1	0	0	0
+nuclear DNA replication termination	GO_1902317	0	1	0	0	0
+nuclear DNA replication DNA ligation	GO_1902333	0	1	0	0	0
+nuclear DNA replication DNA duplex unwinding	GO_1902320	0	1	0	0	0
+nuclear DNA replication	GO_0033260	0	1	0	0	0
+mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	0	0	0
+mitotic spindle organization in nucleus	GO_0030472	0	1	0	0	0
+mitotic pre-replicative complex assembly	GO_1902985	0	1	0	0	0
+mitotic nuclear pore complex reassembly	GO_0007087	0	1	0	0	0
+mitotic DNA-dependent DNA replication	GO_1990506	0	1	0	0	0
+mitotic DNA replication termination	GO_1902979	0	1	0	0	0
+mitotic DNA replication preinitiation complex assembly	GO_1902977	0	1	0	0	0
+mitotic DNA replication leading strand elongation	GO_1903460	0	1	0	0	0
+mitotic DNA replication lagging strand elongation	GO_1903459	0	1	0	0	0
+mitotic DNA replication initiation	GO_1902975	0	1	0	0	0
+mitotic DNA replication DNA ligation	GO_1902973	0	1	0	0	0
+mitotic DNA replication DNA duplex unwinding	GO_1902971	0	1	0	0	0
+mitotic DNA replication	GO_1902969	0	1	0	0	0
+micronucleus organization	GO_0032125	0	1	0	0	0
+meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	0	0	0
+meiotic DNA replication initiation	GO_1902974	0	1	0	0	0
+male pronucleus assembly	GO_0035039	0	1	0	0	0
+maintenance of protein location in nucleus	GO_0051457	0	1	0	0	0
+macronucleus organization	GO_0032124	0	1	0	0	0
+interkinetic nuclear migration	GO_0022027	0	1	0	0	0
+initiation of premeiotic DNA replication	GO_0072691	0	1	0	0	0
+female pronucleus assembly	GO_0035038	0	1	0	0	0
+establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	GO_0030722	0	1	0	0	0
+establishment of nucleus localization	GO_0040023	0	1	0	0	0
+embryo sac nuclear migration	GO_0009562	0	1	0	0	0
+dynein-driven meiotic oscillatory nuclear movement	GO_0030989	0	1	0	0	0
+PML body organization	GO_0030578	0	1	0	0	0
+Okazaki fragment processing involved in mitotic DNA replication	GO_1903461	0	1	0	0	0
+Lands organization	GO_0030577	0	1	0	0	0
+GINS complex assembly	GO_0071165	0	1	0	0	0
+DNA strand elongation involved in premeiotic DNA replication	GO_1902982	0	1	0	0	0
+DNA strand elongation involved in nuclear cell cycle DNA replication	GO_1902319	0	1	0	0	0
+DNA strand elongation involved in mitotic DNA replication	GO_1902983	0	1	0	0	0
+DNA replication preinitiation complex assembly	GO_0071163	0	1	0	0	0
+Cajal body organization	GO_0030576	0	1	0	0	0

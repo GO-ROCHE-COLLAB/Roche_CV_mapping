@@ -1,0 +1,56 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+photoreceptor cell morphogenesis	GO_0008594	1	1	1	0	0
+photoreceptor cell fate specification	GO_0043704	1	1	1	0	0
+photoreceptor cell fate determination	GO_0043703	1	1	1	0	0
+photoreceptor cell fate commitment	GO_0046552	1	1	1	0	0
+photoreceptor cell differentiation	GO_0046530	1	1	1	0	0
+photoreceptor cell development	GO_0042461	1	1	1	0	0
+photoreceptor outer segment membrane	GO_0042622	1	0	1	0	0
+photoreceptor outer segment	GO_0001750	1	0	1	0	0
+photoreceptor inner segment membrane	GO_0060342	1	0	1	0	0
+photoreceptor inner segment	GO_0001917	1	0	1	0	0
+photoreceptor disc membrane	GO_0097381	1	0	1	0	0
+photoreceptor cyclic-nucleotide phosphodiesterase activity	GO_0004120	1	0	1	0	0
+photoreceptor connecting cilium	GO_0032391	1	0	1	0	0
+photoreceptor cell outer segment organization	GO_0035845	1	0	1	0	0
+photoreceptor cell maintenance	GO_0045494	1	0	1	0	0
+photoreceptor activity	GO_0009881	1	0	1	0	0
+retinal rod cell fate commitment	GO_0060223	0	1	0	0	0
+retinal rod cell differentiation	GO_0060221	0	1	0	0	0
+retinal rod cell development	GO_0046548	0	1	0	0	0
+retinal rod cell apoptotic process	GO_0097473	0	1	0	0	0
+retinal cone cell fate specification	GO_0042672	0	1	0	0	0
+retinal cone cell fate determination	GO_0042671	0	1	0	0	0
+retinal cone cell fate commitment	GO_0046551	0	1	0	0	0
+retinal cone cell differentiation	GO_0042670	0	1	0	0	0
+retinal cone cell development	GO_0046549	0	1	0	0	0
+retinal cone cell apoptotic process	GO_0097474	0	1	0	0	0
+regulation of membrane potential in photoreceptor cell	GO_0016057	0	1	0	0	0
+ocellus photoreceptor cell fate commitment	GO_0042707	0	1	0	0	0
+ocellus photoreceptor cell differentiation	GO_0042705	0	1	0	0	0
+ocellus photoreceptor cell development	GO_0042463	0	1	0	0	0
+maintenance of membrane potential in photoreceptor cell by rhodopsin mediated signaling	GO_0016058	0	1	0	0	0
+eye photoreceptor cell fate commitment	GO_0042706	0	1	0	0	0
+eye photoreceptor cell differentiation	GO_0001754	0	1	0	0	0
+eye photoreceptor cell development	GO_0042462	0	1	0	0	0
+compound eye photoreceptor fate commitment	GO_0001752	0	1	0	0	0
+compound eye photoreceptor development	GO_0042051	0	1	0	0	0
+compound eye photoreceptor cell differentiation	GO_0001751	0	1	0	0	0
+camera-type eye photoreceptor cell fate commitment	GO_0060220	0	1	0	0	0
+camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0	0
+R8 cell fate specification	GO_0045464	0	1	0	0	0
+R8 cell fate commitment	GO_0007460	0	1	0	0	0
+R8 cell differentiation	GO_0045465	0	1	0	0	0
+R8 cell development	GO_0045463	0	1	0	0	0
+R7 cell fate commitment	GO_0007465	0	1	0	0	0
+R7 cell differentiation	GO_0045466	0	1	0	0	0
+R7 cell development	GO_0045467	0	1	0	0	0
+R3/R4 development	GO_0048057	0	1	0	0	0
+R3/R4 cell fate commitment	GO_0007464	0	1	0	0	0
+R3/R4 cell differentiation	GO_0048056	0	1	0	0	0
+R2/R5 development	GO_0048055	0	1	0	0	0
+R2/R5 cell fate commitment	GO_0007463	0	1	0	0	0
+R2/R5 cell differentiation	GO_0048054	0	1	0	0	0
+R1/R6 development	GO_0048053	0	1	0	0	0
+R1/R6 cell fate commitment	GO_0007462	0	1	0	0	0
+R1/R6 cell differentiation	GO_0048052	0	1	0	0	0

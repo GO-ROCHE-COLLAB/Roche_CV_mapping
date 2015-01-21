@@ -1,0 +1,336 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+translational termination	GO_0006415	1	1	1	0	0
+translational readthrough	GO_0006451	1	1	1	0	0
+translational initiation	GO_0006413	1	1	1	0	0
+translational frameshifting	GO_0006452	1	1	1	0	0
+translational elongation	GO_0006414	1	1	1	0	0
+translational attenuation	GO_0009386	1	1	1	0	0
+translation reinitiation	GO_0002188	1	1	1	0	0
+translation	GO_0006412	1	1	1	0	0
+tRNA aminoacylation for protein translation	GO_0006418	1	1	1	0	0
+tRNA aminoacylation for mitochondrial protein translation	GO_0070127	1	1	1	0	0
+rescue of stalled ribosome	GO_0072344	1	1	1	0	0
+regulation of translational termination	GO_0006449	1	1	1	0	0
+regulation of translational initiation in response to stress	GO_0043558	1	1	1	0	0
+regulation of translational initiation in response to starvation	GO_0071262	1	1	1	0	0
+regulation of translational initiation in response to osmotic stress	GO_0043561	1	1	1	0	0
+regulation of translational initiation by iron	GO_0006447	1	1	1	0	0
+regulation of translational initiation by eIF2 alpha phosphorylation	GO_0010998	1	1	1	0	0
+regulation of translational initiation	GO_0006446	1	1	1	0	0
+regulation of translational frameshifting	GO_2001124	1	1	1	0	0
+regulation of translational fidelity	GO_0006450	1	1	1	0	0
+regulation of translational elongation	GO_0006448	1	1	1	0	0
+regulation of translation, ncRNA-mediated	GO_0045974	1	1	1	0	0
+regulation of translation involved in anterior/posterior axis specification	GO_0060815	1	1	1	0	0
+regulation of translation in response to stress	GO_0043555	1	1	1	0	0
+regulation of translation in response to oxidative stress	GO_0043556	1	1	1	0	0
+regulation of translation in response to osmotic stress	GO_0043557	1	1	1	0	0
+regulation of translation in response to nitrogen starvation	GO_0070321	1	1	1	0	0
+regulation of translation by machinery localization	GO_0043143	1	1	1	0	0
+regulation of translation	GO_0006417	1	1	1	0	0
+alanyl-tRNA aminoacylation	GO_0006419	1	1	1	0	0
+wobble position uridine ribose methylation	GO_0002132	1	0	1	0	0
+wobble position ribose methylation	GO_0002130	1	0	1	0	0
+wobble position guanine ribose methylation	GO_0002129	1	0	1	0	0
+wobble position cytosine ribose methylation	GO_0002131	1	0	1	0	0
+wobble base lysidine biosynthesis	GO_0002136	1	0	1	0	0
+wobble base cytosine methylation	GO_0002127	1	0	1	0	0
+tRNA-type intron splice site recognition and cleavage	GO_0000379	1	0	1	0	0
+tRNA-containing ribonucleoprotein complex export from nucleus	GO_0071431	1	0	1	0	0
+tRNA-Y splicing	GO_0006389	1	0	1	1	1
+tRNA wobble uridine modification	GO_0002098	1	0	1	0	0
+tRNA wobble position uridine thiolation	GO_0002143	1	0	1	0	0
+tRNA wobble guanine modification	GO_0002099	1	0	1	0	0
+tRNA wobble cytosine modification	GO_0002101	1	0	1	0	0
+tRNA wobble base modification	GO_0002097	1	0	1	0	0
+tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridine biosynthesis.	GO_0002926	1	0	1	0	0
+tRNA wobble adenosine to inosine editing	GO_0002100	1	0	1	0	0
+tRNA transport	GO_0051031	1	0	1	0	0
+tRNA transcription from RNA polymerase III promoter	GO_0042797	1	0	1	0	0
+tRNA transcription	GO_0009304	1	0	1	0	0
+tRNA thio-modification	GO_0034227	1	0	1	0	0
+tRNA splicing, via endonucleolytic cleavage and ligation	GO_0006388	1	0	1	0	0
+tRNA seleno-modification	GO_0070329	1	0	1	0	0
+tRNA re-export from nucleus	GO_0071528	1	0	1	0	0
+tRNA pseudouridine synthesis	GO_0031119	1	0	1	0	0
+tRNA processing	GO_0008033	1	0	1	0	0
+tRNA nucleoside ribose methylation	GO_0002128	1	0	1	0	0
+tRNA modification	GO_0006400	1	0	1	0	0
+tRNA methylthiolation	GO_0035600	1	0	1	0	0
+tRNA methylation	GO_0030488	1	0	1	0	0
+tRNA metabolic process	GO_0006399	1	0	1	0	0
+tRNA import into nucleus	GO_0035719	1	0	1	0	0
+tRNA import into mitochondrion	GO_0016031	1	0	1	0	0
+tRNA gene clustering	GO_0070058	1	0	1	0	0
+tRNA export from nucleus	GO_0006409	1	0	1	0	0
+tRNA exon ligation utilizing GTP as source of linkage phosphate	GO_0000970	1	0	1	0	0
+tRNA exon ligation utilizing ATP as source of linkage phosphate	GO_0000969	1	0	1	0	0
+tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate	GO_0000971	1	0	1	0	0
+tRNA exon ligation	GO_0000968	1	0	1	0	0
+tRNA end turnover	GO_0042778	1	0	1	0	0
+tRNA catabolic process	GO_0016078	1	0	1	0	0
+tRNA binding	GO_0000049	1	0	1	0	0
+tRNA aminoacylation for nonribosomal peptide biosynthetic process	GO_0043040	1	0	1	0	0
+tRNA aminoacylation	GO_0043039	1	0	1	0	0
+tRNA acetylation	GO_0051391	1	0	1	0	0
+tRNA 5'-leader removal	GO_0001682	1	0	1	0	0
+tRNA 3'-trailer cleavage, exonucleolytic	GO_0034415	1	0	1	0	0
+tRNA 3'-trailer cleavage, endonucleolytic	GO_0034414	1	0	1	0	0
+tRNA 3'-trailer cleavage	GO_0042779	1	0	1	0	0
+tRNA 3'-terminal CCA addition	GO_0001680	1	0	1	0	0
+tRNA 3'-end processing	GO_0042780	1	0	1	0	0
+snoRNA guided rRNA pseudouridine synthesis	GO_0000454	1	0	1	0	0
+ribosome localization	GO_0033750	1	0	1	0	0
+ribosome disassembly	GO_0032790	1	0	1	0	0
+ribosome biogenesis	GO_0042254	1	0	1	0	0
+ribosome assembly	GO_0042255	1	0	1	0	0
+ribosomal subunit export from nucleus	GO_0000054	1	0	1	0	0
+ribosomal small subunit export from nucleus	GO_0000056	1	0	1	0	0
+ribosomal small subunit assembly	GO_0000028	1	0	1	0	0
+ribosomal large subunit export from nucleus	GO_0000055	1	0	1	0	0
+ribosomal large subunit assembly	GO_0000027	1	0	1	0	0
+ribosomal chaperone activity	GO_0000005	1	0	1	1	1
+regulation of ribosome biogenesis	GO_0090069	1	0	1	0	0
+rRNA modification	GO_0000154	1	0	1	0	0
+positive regulation of ribosome biogenesis	GO_0090070	1	0	1	0	0
+plastid small ribosomal subunit	GO_0000312	1	0	1	0	0
+plastid large ribosomal subunit	GO_0000311	1	0	1	0	0
+organellar small ribosomal subunit	GO_0000314	1	0	1	0	0
+organellar ribosome	GO_0000313	1	0	1	0	0
+organellar large ribosomal subunit	GO_0000315	1	0	1	0	0
+negative regulation of ribosome biogenesis	GO_0090071	1	0	1	0	0
+mature ribosome assembly	GO_0042256	1	0	1	0	0
+establishment of ribosome localization	GO_0033753	1	0	1	0	0
+enzyme-directed rRNA pseudouridine synthesis	GO_0000455	1	0	1	0	0
+dimethylation involved in SSU-rRNA maturation	GO_0000456	1	0	1	0	0
+cytosolic small ribosomal subunit	GO_0000181	1	0	1	1	1
+cytosolic large ribosomal subunit	GO_0000180	1	0	1	1	1
+aminoacyl-tRNA hydrolase reaction	GO_0006439	1	0	1	1	1
+SRP-independent cotranslational protein-membrane targeting, translocation	GO_0045319	1	0	1	1	1
+SRP-independent cotranslational protein-membrane targeting	GO_0006619	1	0	1	1	1
+SRP-dependent cotranslational protein targeting to membrane, translocation	GO_0006616	1	0	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	GO_0006617	1	0	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	1	0	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, docking	GO_0006615	1	0	1	0	0
+SRP-dependent cotranslational protein targeting to membrane	GO_0006614	1	0	1	0	0
+90S preribosome assembly	GO_0034463	1	0	1	0	0
+viral translational termination-reinitiation	GO_0075525	0	1	0	0	0
+viral translational shunt	GO_0039704	0	1	0	0	0
+viral translational readthrough	GO_0039705	0	1	0	0	0
+viral translational frameshifting	GO_0075523	0	1	0	0	0
+viral translation	GO_0019081	0	1	0	0	0
+valyl-tRNA aminoacylation	GO_0006438	0	1	0	0	0
+tyrosyl-tRNA aminoacylation	GO_0006437	0	1	0	0	0
+tryptophanyl-tRNA aminoacylation	GO_0006436	0	1	0	0	0
+triplet codon-amino acid adaptor activity	GO_0030533	0	1	0	0	0
+translation termination factor activity	GO_0008079	0	1	0	0	0
+translation release factor activity, codon specific	GO_0016149	0	1	0	0	0
+translation release factor activity, codon nonspecific	GO_0016150	0	1	0	0	0
+translation release factor activity	GO_0003747	0	1	0	0	0
+translation initiation factor activity	GO_0003743	0	1	0	0	0
+translation factor activity, nucleic acid binding	GO_0008135	0	1	0	0	0
+translation elongation factor activity	GO_0003746	0	1	0	0	0
+trans-translation	GO_0070929	0	1	0	0	0
+threonyl-tRNA aminoacylation	GO_0006435	0	1	0	0	0
+suppression by virus of host translation termination	GO_0046773	0	1	0	0	0
+suppression by virus of host translation initiation factor activity by induction of host protein dephosphorylation	GO_0039608	0	1	0	0	0
+suppression by virus of host translation initiation factor activity	GO_0039611	0	1	0	0	0
+suppression by virus of host translation initiation	GO_0039606	0	1	0	0	0
+suppression by virus of host translation	GO_0039604	0	1	0	0	0
+suppression by virus of host poly(A)-binding protein activity	GO_0039647	0	1	0	0	0
+sucrose induced translational repression	GO_0080149	0	1	0	0	0
+seryl-tRNA aminoacylation	GO_0006434	0	1	0	0	0
+selenocysteine incorporation	GO_0001514	0	1	0	0	0
+ribosomal skipping	GO_0075524	0	1	0	0	0
+regulation of oskar mRNA translation	GO_0046011	0	1	0	0	0
+regulation of mitochondrial translational initiation	GO_0070132	0	1	0	0	0
+regulation of mitochondrial translation	GO_0070129	0	1	0	0	0
+regulation of formation of translation preinitiation complex	GO_1901193	0	1	0	0	0
+regulation of formation of translation initiation ternary complex	GO_1901190	0	1	0	0	0
+regulation of cytoplasmic translational termination	GO_1990580	0	1	0	0	0
+regulation of cytoplasmic translational elongation through polyproline stretches	GO_1903270	0	1	0	0	0
+regulation of cytoplasmic translational elongation	GO_1900247	0	1	0	0	0
+regulation of cytoplasmic translation in response to stress	GO_1990497	0	1	0	0	0
+regulation of cytoplasmic translation	GO_2000765	0	1	0	0	0
+regulation of cap-independent translational initiation	GO_1903677	0	1	0	0	0
+regulation of cap-dependent translational initiation	GO_1903674	0	1	0	0	0
+pyrrolysine incorporation	GO_0030631	0	1	0	0	0
+proteolysis by virus of host translation initiation factor	GO_0039607	0	1	0	0	0
+prolyl-tRNA aminoacylation	GO_0006433	0	1	0	0	0
+positive regulation of translational termination	GO_0045905	0	1	0	0	0
+positive regulation of translational initiation in response to stress	GO_0032058	0	1	0	0	0
+positive regulation of translational initiation in response to starvation	GO_0071264	0	1	0	0	0
+positive regulation of translational initiation in response to osmotic stress	GO_0032064	0	1	0	0	0
+positive regulation of translational initiation by iron	GO_0045994	0	1	0	0	0
+positive regulation of translational initiation	GO_0045948	0	1	0	0	0
+positive regulation of translational frameshifting	GO_2001126	0	1	0	0	0
+positive regulation of translational fidelity	GO_0045903	0	1	0	0	0
+positive regulation of translational elongation	GO_0045901	0	1	0	0	0
+positive regulation of translation, ncRNA-mediated	GO_0045975	0	1	0	0	0
+positive regulation of translation in response to stress	GO_0032056	0	1	0	0	0
+positive regulation of translation in response to oxidative stress	GO_0032939	0	1	0	0	0
+positive regulation of translation in response to osmotic stress	GO_0032062	0	1	0	0	0
+positive regulation of translation in response to nitrogen starvation	GO_0070323	0	1	0	0	0
+positive regulation of translation	GO_0045727	0	1	0	0	0
+positive regulation of oskar mRNA translation	GO_0046012	0	1	0	0	0
+positive regulation of mitochondrial translational initiation	GO_0070134	0	1	0	0	0
+positive regulation of mitochondrial translation in response to stress	GO_0010892	0	1	0	0	0
+positive regulation of mitochondrial translation	GO_0070131	0	1	0	0	0
+positive regulation of formation of translation preinitiation complex	GO_1901195	0	1	0	0	0
+positive regulation of formation of translation initiation ternary complex	GO_1901192	0	1	0	0	0
+positive regulation of cytoplasmic translational elongation through polyproline stretches	GO_1903272	0	1	0	0	0
+positive regulation of cytoplasmic translational elongation	GO_1900249	0	1	0	0	0
+positive regulation of cytoplasmic translation	GO_2000767	0	1	0	0	0
+positive regulation of cap-independent translational initiation	GO_1903679	0	1	0	0	0
+positive regulation of cap-dependent translational initiation	GO_1903676	0	1	0	0	0
+plastid translation	GO_0032544	0	1	0	0	0
+phenylalanyl-tRNA aminoacylation	GO_0006432	0	1	0	0	0
+negative regulation of translational termination	GO_0045904	0	1	0	0	0
+negative regulation of translational initiation in response to stress	GO_0032057	0	1	0	0	0
+negative regulation of translational initiation in response to starvation	GO_0071263	0	1	0	0	0
+negative regulation of translational initiation in response to osmotic stress	GO_0032063	0	1	0	0	0
+negative regulation of translational initiation by iron	GO_0045993	0	1	0	0	0
+negative regulation of translational initiation	GO_0045947	0	1	0	0	0
+negative regulation of translational frameshifting	GO_2001125	0	1	0	0	0
+negative regulation of translational fidelity	GO_0045902	0	1	0	0	0
+negative regulation of translational elongation	GO_0045900	0	1	0	0	0
+negative regulation of translation, ncRNA-mediated	GO_0040033	0	1	0	0	0
+negative regulation of translation involved in response to endoplasmic reticulum stress	GO_1902010	0	1	0	0	0
+negative regulation of translation involved in gene silencing by miRNA	GO_0035278	0	1	0	0	0
+negative regulation of translation involved in RNA interference	GO_0070549	0	1	0	0	0
+negative regulation of translation in response to stress	GO_0032055	0	1	0	0	0
+negative regulation of translation in response to oxidative stress	GO_0032938	0	1	0	0	0
+negative regulation of translation in response to osmotic stress	GO_0032061	0	1	0	0	0
+negative regulation of translation in response to nitrogen starvation	GO_0070322	0	1	0	0	0
+negative regulation of translation	GO_0017148	0	1	0	0	0
+negative regulation of oskar mRNA translation	GO_0007319	0	1	0	0	0
+negative regulation of mitochondrial translational initiation	GO_0070133	0	1	0	0	0
+negative regulation of mitochondrial translation	GO_0070130	0	1	0	0	0
+negative regulation of formation of translation preinitiation complex	GO_1901194	0	1	0	0	0
+negative regulation of formation of translation initiation ternary complex	GO_1901191	0	1	0	0	0
+negative regulation of cytoplasmic translational elongation through polyproline stretches	GO_1903271	0	1	0	0	0
+negative regulation of cytoplasmic translational elongation	GO_1900248	0	1	0	0	0
+negative regulation of cytoplasmic translation	GO_2000766	0	1	0	0	0
+negative regulation of cap-independent translational initiation	GO_1903678	0	1	0	0	0
+negative regulation of cap-dependent translational initiation	GO_1903675	0	1	0	0	0
+negative regulation by symbiont of host translation	GO_0044074	0	1	0	0	0
+modulation by virus of host translation	GO_0019057	0	1	0	0	0
+modulation by symbiont of host translation	GO_0044073	0	1	0	0	0
+modification by virus of host polysomes	GO_0046783	0	1	0	0	0
+mitochondrial valyl-tRNA aminoacylation	GO_0070185	0	1	0	0	0
+mitochondrial tyrosyl-tRNA aminoacylation	GO_0070184	0	1	0	0	0
+mitochondrial tryptophanyl-tRNA aminoacylation	GO_0070183	0	1	0	0	0
+mitochondrial translational termination	GO_0070126	0	1	0	0	0
+mitochondrial translational initiation	GO_0070124	0	1	0	0	0
+mitochondrial translational elongation	GO_0070125	0	1	0	0	0
+mitochondrial translation	GO_0032543	0	1	0	0	0
+mitochondrial threonyl-tRNA aminoacylation	GO_0070159	0	1	0	0	0
+mitochondrial seryl-tRNA aminoacylation	GO_0070158	0	1	0	0	0
+mitochondrial prolyl-tRNA aminoacylation	GO_0070157	0	1	0	0	0
+mitochondrial phenylalanyl-tRNA aminoacylation	GO_0070156	0	1	0	0	0
+mitochondrial methionyl-tRNA aminoacylation	GO_0070155	0	1	0	0	0
+mitochondrial lysyl-tRNA aminoacylation	GO_0070154	0	1	0	0	0
+mitochondrial leucyl-tRNA aminoacylation	GO_0070153	0	1	0	0	0
+mitochondrial isoleucyl-tRNA aminoacylation	GO_0070152	0	1	0	0	0
+mitochondrial histidyl-tRNA aminoacylation	GO_0070151	0	1	0	0	0
+mitochondrial glycyl-tRNA aminoacylation	GO_0070150	0	1	0	0	0
+mitochondrial glutamyl-tRNA aminoacylation	GO_0070149	0	1	0	0	0
+mitochondrial glutaminyl-tRNA aminoacylation	GO_0070148	0	1	0	0	0
+mitochondrial cysteinyl-tRNA aminoacylation	GO_0070147	0	1	0	0	0
+mitochondrial aspartyl-tRNA aminoacylation	GO_0070146	0	1	0	0	0
+mitochondrial asparaginyl-tRNA aminoacylation	GO_0070145	0	1	0	0	0
+mitochondrial arginyl-tRNA aminoacylation	GO_0070144	0	1	0	0	0
+mitochondrial alanyl-tRNA aminoacylation	GO_0070143	0	1	0	0	0
+methionyl-tRNA formyltransferase activity	GO_0004479	0	1	0	0	0
+methionyl-tRNA aminoacylation	GO_0006431	0	1	0	0	0
+maintenance of translational fidelity	GO_1990145	0	1	0	0	0
+lysyl-tRNA aminoacylation	GO_0006430	0	1	0	0	0
+leucyl-tRNA aminoacylation	GO_0006429	0	1	0	0	0
+isoleucyl-tRNA aminoacylation	GO_0006428	0	1	0	0	0
+histidyl-tRNA aminoacylation	GO_0006427	0	1	0	0	0
+glycyl-tRNA aminoacylation	GO_0006426	0	1	0	0	0
+glutamyl-tRNA aminoacylation	GO_0006424	0	1	0	0	0
+glutaminyl-tRNA aminoacylation	GO_0006425	0	1	0	0	0
+formation of translation preinitiation complex	GO_0001731	0	1	0	0	0
+formation of translation initiation ternary complex	GO_0001677	0	1	0	0	0
+formation of cytoplasmic translation initiation complex	GO_0001732	0	1	0	0	0
+cytosolic valyl-tRNA aminoacylation	GO_0061475	0	1	0	0	0
+cytoplasmic translational termination	GO_0002184	0	1	0	0	0
+cytoplasmic translational initiation	GO_0002183	0	1	0	0	0
+cytoplasmic translational elongation through polyproline stretches	GO_0097622	0	1	0	0	0
+cytoplasmic translational elongation	GO_0002182	0	1	0	0	0
+cytoplasmic translation	GO_0002181	0	1	0	0	0
+cysteinyl-tRNA aminoacylation	GO_0006423	0	1	0	0	0
+circadian regulation of translation	GO_0097167	0	1	0	0	0
+cap-independent translational initiation	GO_0002190	0	1	0	0	0
+cap-dependent translational initiation	GO_0002191	0	1	0	0	0
+aspartyl-tRNA aminoacylation	GO_0006422	0	1	0	0	0
+asparaginyl-tRNA aminoacylation	GO_0006421	0	1	0	0	0
+arginyl-tRNA aminoacylation	GO_0006420	0	1	0	0	0
+UUU codon-amino acid adaptor activity	GO_0033401	0	1	0	0	0
+UUG codon-amino acid adaptor activity	GO_0033404	0	1	0	0	0
+UUC codon-amino acid adaptor activity	GO_0033402	0	1	0	0	0
+UUA codon-amino acid adaptor activity	GO_0033403	0	1	0	0	0
+UGU codon-amino acid adaptor activity	GO_0033413	0	1	0	0	0
+UGG codon-amino acid adaptor activity	GO_0033416	0	1	0	0	0
+UGC codon-amino acid adaptor activity	GO_0033414	0	1	0	0	0
+UGA codon-amino acid adaptor activity	GO_0033415	0	1	0	0	0
+UCU codon-amino acid adaptor activity	GO_0033405	0	1	0	0	0
+UCG codon-amino acid adaptor activity	GO_0033408	0	1	0	0	0
+UCC codon-amino acid adaptor activity	GO_0033406	0	1	0	0	0
+UCA codon-amino acid adaptor activity	GO_0033407	0	1	0	0	0
+UAU codon-amino acid adaptor activity	GO_0033409	0	1	0	0	0
+UAG codon-amino acid adaptor activity	GO_0033412	0	1	0	0	0
+UAC codon-amino acid adaptor activity	GO_0033410	0	1	0	0	0
+UAA codon-amino acid adaptor activity	GO_0033411	0	1	0	0	0
+N-terminal peptidyl-proline dimethylation involved in translation	GO_0071891	0	1	0	0	0
+IRES-dependent viral translational initiation	GO_0075522	0	1	0	0	0
+IRES-dependent translational initiation	GO_0002192	0	1	0	0	0
+GUU codon-amino acid adaptor activity	GO_0033449	0	1	0	0	0
+GUG codon-amino acid adaptor activity	GO_0033452	0	1	0	0	0
+GUC codon-amino acid adaptor activity	GO_0033450	0	1	0	0	0
+GUA codon-amino acid adaptor activity	GO_0033451	0	1	0	0	0
+GGU codon-amino acid adaptor activity	GO_0033461	0	1	0	0	0
+GGG codon-amino acid adaptor activity	GO_0033464	0	1	0	0	0
+GGC codon-amino acid adaptor activity	GO_0033462	0	1	0	0	0
+GGA codon-amino acid adaptor activity	GO_0033463	0	1	0	0	0
+GCU codon-amino acid adaptor activity	GO_0033453	0	1	0	0	0
+GCG codon-amino acid adaptor activity	GO_0033456	0	1	0	0	0
+GCC codon-amino acid adaptor activity	GO_0033454	0	1	0	0	0
+GCA codon-amino acid adaptor activity	GO_0033455	0	1	0	0	0
+GAU codon-amino acid adaptor activity	GO_0033457	0	1	0	0	0
+GAG codon-amino acid adaptor activity	GO_0033460	0	1	0	0	0
+GAC codon-amino acid adaptor activity	GO_0033458	0	1	0	0	0
+GAA codon-amino acid adaptor activity	GO_0033459	0	1	0	0	0
+CUU codon-amino acid adaptor activity	GO_0033417	0	1	0	0	0
+CUG codon-amino acid adaptor activity	GO_0033420	0	1	0	0	0
+CUC codon-amino acid adaptor activity	GO_0033418	0	1	0	0	0
+CUA codon-amino acid adaptor activity	GO_0033419	0	1	0	0	0
+CGU codon-amino acid adaptor activity	GO_0033429	0	1	0	0	0
+CGG codon-amino acid adaptor activity	GO_0033432	0	1	0	0	0
+CGC codon-amino acid adaptor activity	GO_0033430	0	1	0	0	0
+CGA codon-amino acid adaptor activity	GO_0033431	0	1	0	0	0
+CCU codon-amino acid adaptor activity	GO_0033421	0	1	0	0	0
+CCG codon-amino acid adaptor activity	GO_0033424	0	1	0	0	0
+CCC codon-amino acid adaptor activity	GO_0033422	0	1	0	0	0
+CCA codon-amino acid adaptor activity	GO_0033423	0	1	0	0	0
+CAU codon-amino acid adaptor activity	GO_0033425	0	1	0	0	0
+CAG codon-amino acid adaptor activity	GO_0033428	0	1	0	0	0
+CAC codon-amino acid adaptor activity	GO_0033426	0	1	0	0	0
+CAA codon-amino acid adaptor activity	GO_0033427	0	1	0	0	0
+AUU codon-amino acid adaptor activity	GO_0033433	0	1	0	0	0
+AUG codon-amino acid adaptor activity	GO_0033436	0	1	0	0	0
+AUC codon-amino acid adaptor activity	GO_0033434	0	1	0	0	0
+AUA codon-amino acid adaptor activity	GO_0033435	0	1	0	0	0
+AGU codon-amino acid adaptor activity	GO_0033445	0	1	0	0	0
+AGG codon-amino acid adaptor activity	GO_0033448	0	1	0	0	0
+AGC codon-amino acid adaptor activity	GO_0033446	0	1	0	0	0
+AGA codon-amino acid adaptor activity	GO_0033447	0	1	0	0	0
+ACU codon-amino acid adaptor activity	GO_0033437	0	1	0	0	0
+ACG codon-amino acid adaptor activity	GO_0033440	0	1	0	0	0
+ACC codon-amino acid adaptor activity	GO_0033438	0	1	0	0	0
+ACA codon-amino acid adaptor activity	GO_0033439	0	1	0	0	0
+AAU codon-amino acid adaptor activity	GO_0033441	0	1	0	0	0
+AAG codon-amino acid adaptor activity	GO_0033444	0	1	0	0	0
+AAC codon-amino acid adaptor activity	GO_0033442	0	1	0	0	0
+AAA codon-amino acid adaptor activity	GO_0033443	0	1	0	0	0

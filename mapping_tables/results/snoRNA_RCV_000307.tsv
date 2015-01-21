@@ -1,0 +1,24 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+small nucleolar ribonucleoprotein complex assembly	GO_0000491	1	0	1	0	0
+box H/ACA snoRNP assembly	GO_0000493	1	0	1	0	0
+box C/D snoRNP assembly	GO_0000492	1	0	1	0	0
+snoRNA transcription from an RNA polymerase II promoter	GO_0001015	0	1	0	0	0
+snoRNA transcription from a type 2 RNA polymerase III promoter	GO_0001014	0	1	0	0	0
+snoRNA transcription	GO_0009302	0	1	0	0	0
+snoRNA splicing	GO_0034247	0	1	0	0	0
+snoRNA processing	GO_0043144	0	1	0	0	0
+snoRNA metabolic process	GO_0016074	0	1	0	0	0
+snoRNA catabolic process	GO_0016077	0	1	0	0	0
+snoRNA 3'-end processing	GO_0031126	0	1	0	0	0
+snoRNA 3'-end cleavage	GO_0043145	0	1	0	0	0
+polyadenylation-dependent snoRNA 3'-end processing	GO_0071051	0	1	0	0	0
+nuclear polyadenylation-dependent snoRNA catabolic process	GO_0071036	0	1	0	0	0
+intronic snoRNA processing	GO_0031070	0	1	0	0	0
+intronic box H/ACA snoRNA processing	GO_0034966	0	1	0	0	0
+intronic box C/D snoRNA processing	GO_0034965	0	1	0	0	0
+box H/ACA snoRNA processing	GO_0034964	0	1	0	0	0
+box H/ACA snoRNA metabolic process	GO_0033979	0	1	0	0	0
+box H/ACA snoRNA 3'-end processing	GO_0000495	0	1	0	0	0
+box C/D snoRNA processing	GO_0034963	0	1	0	0	0
+box C/D snoRNA metabolic process	GO_0033967	0	1	0	0	0
+box C/D snoRNA 3'-end processing	GO_0000494	0	1	0	0	0

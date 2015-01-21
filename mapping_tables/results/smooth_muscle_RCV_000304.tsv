@@ -1,0 +1,83 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+smooth muscle tissue development	GO_0048745	1	1	1	0	0
+smooth muscle hypertrophy	GO_0014895	1	1	1	0	0
+smooth muscle atrophy	GO_0014890	1	1	1	0	0
+metanephric smooth muscle tissue development	GO_0072208	1	1	1	0	0
+mesonephric smooth muscle tissue development	GO_0061214	1	1	1	0	0
+vein smooth muscle contraction	GO_0014826	1	0	1	0	0
+urinary tract smooth muscle contraction	GO_0014848	1	0	1	0	0
+urinary bladder smooth muscle contraction	GO_0014832	1	0	1	0	0
+tonic smooth muscle contraction	GO_0014820	1	0	1	0	0
+smooth muscle relaxation of the bladder outlet	GO_0060085	1	0	1	0	0
+smooth muscle hyperplasia	GO_0014806	1	0	1	0	0
+smooth muscle fiber development	GO_0048746	1	0	1	1	1
+smooth muscle derived foam cell differentiation	GO_0090078	1	0	1	0	0
+smooth muscle contraction involved in micturition	GO_0060083	1	0	1	0	0
+smooth muscle contraction	GO_0006939	1	0	1	0	0
+smooth muscle cell-matrix adhesion	GO_0061302	1	0	1	0	0
+smooth muscle cell proliferation	GO_0048659	1	0	1	0	0
+smooth muscle cell migration	GO_0014909	1	0	1	0	0
+smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	1	0	1	0	0
+smooth muscle cell differentiation	GO_0051145	1	0	1	0	0
+smooth muscle cell chemotaxis	GO_0071670	1	0	1	0	0
+smooth muscle cell apoptotic process	GO_0034390	1	0	1	0	0
+smooth muscle adaptation	GO_0014805	1	0	1	0	0
+relaxation of vascular smooth muscle	GO_0060087	1	0	1	0	0
+relaxation of smooth muscle	GO_0044557	1	0	1	0	0
+regulation of vascular smooth muscle contraction	GO_0003056	1	0	1	0	0
+regulation of uterine smooth muscle relaxation	GO_1900719	1	0	1	0	0
+regulation of uterine smooth muscle contraction	GO_0070472	1	0	1	0	0
+regulation of ureter smooth muscle cell differentiation	GO_2000061	1	0	1	0	0
+regulation of smooth muscle contraction	GO_0006940	1	0	1	0	0
+regulation of smooth muscle cell-matrix adhesion	GO_2000097	1	0	1	0	0
+regulation of smooth muscle cell proliferation	GO_0048660	1	0	1	0	0
+regulation of smooth muscle cell migration	GO_0014910	1	0	1	0	0
+regulation of smooth muscle cell differentiation	GO_0051150	1	0	1	0	0
+regulation of smooth muscle cell chemotaxis	GO_0071671	1	0	1	0	0
+regulation of smooth muscle cell apoptotic process	GO_0034391	1	0	1	0	0
+regulation of relaxation of smooth muscle	GO_1901080	1	0	1	0	0
+regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	1	0	1	0	0
+proximal stomach smooth muscle contraction	GO_0014847	1	0	1	0	0
+positive regulation of uterine smooth muscle relaxation	GO_1900721	1	0	1	0	0
+positive regulation of uterine smooth muscle contraction	GO_0070474	1	0	1	0	0
+positive regulation of ureter smooth muscle cell differentiation	GO_2000063	1	0	1	0	0
+positive regulation of transcription from RNA polymerase III promoter involved in smooth muscle cell differentiation	GO_2000745	1	0	1	1	1
+positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	GO_2000721	1	0	1	0	0
+positive regulation of smooth muscle contraction	GO_0045987	1	0	1	0	0
+positive regulation of smooth muscle cell proliferation	GO_0048661	1	0	1	0	0
+positive regulation of smooth muscle cell migration	GO_0014911	1	0	1	0	0
+positive regulation of smooth muscle cell differentiation	GO_0051152	1	0	1	0	0
+positive regulation of smooth muscle cell chemotaxis	GO_0071673	1	0	1	0	0
+positive regulation of smooth muscle cell apoptotic process	GO_0034393	1	0	1	0	0
+positive regulation of relaxation of uterine smooth muscle in other organism	GO_0044619	1	0	1	0	0
+positive regulation of relaxation of smooth muscle	GO_1901082	1	0	1	0	0
+positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	1	0	1	0	0
+phasic smooth muscle contraction	GO_0014821	1	0	1	0	0
+negative regulation of uterine smooth muscle relaxation	GO_1900720	1	0	1	0	0
+negative regulation of uterine smooth muscle contraction	GO_0070473	1	0	1	0	0
+negative regulation of ureter smooth muscle cell differentiation	GO_2000062	1	0	1	0	0
+negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	GO_2000820	1	0	1	0	0
+negative regulation of smooth muscle contraction	GO_0045986	1	0	1	0	0
+negative regulation of smooth muscle cell-matrix adhesion	GO_2000098	1	0	1	0	0
+negative regulation of smooth muscle cell proliferation	GO_0048662	1	0	1	0	0
+negative regulation of smooth muscle cell migration	GO_0014912	1	0	1	0	0
+negative regulation of smooth muscle cell differentiation	GO_0051151	1	0	1	0	0
+negative regulation of smooth muscle cell chemotaxis	GO_0071672	1	0	1	0	0
+negative regulation of smooth muscle cell apoptotic process	GO_0034392	1	0	1	0	0
+negative regulation of relaxation of smooth muscle	GO_1901081	1	0	1	0	0
+negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	1	0	1	0	0
+modulation of relaxation of uterine smooth muscle in other organism	GO_0044618	1	0	1	0	0
+modulation of relaxation of smooth muscle in other organism	GO_0044617	1	0	1	0	0
+intestine smooth muscle contraction	GO_0014827	1	0	1	0	0
+gastro-intestinal system smooth muscle contraction	GO_0014831	1	0	1	0	0
+esophagus smooth muscle contraction	GO_0014846	1	0	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	1	0	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	1	0	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	1	0	1	0	0
+enteric smooth muscle cell differentiation	GO_0035645	1	0	1	0	0
+distal stomach smooth muscle contraction	GO_0014828	1	0	1	0	0
+arteriole smooth muscle contraction	GO_0014830	1	0	1	0	0
+ureter smooth muscle development	GO_0072191	0	1	0	0	0
+lung smooth muscle development	GO_0061145	0	1	0	0	0
+kidney smooth muscle tissue development	GO_0072194	0	1	0	0	0
+aorta smooth muscle tissue morphogenesis	GO_0060414	0	1	0	0	0

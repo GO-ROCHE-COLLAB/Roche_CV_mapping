@@ -1,0 +1,744 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+transcriptional start site selection at bacterial-type RNA polymerase promoter	GO_0001176	1	1	1	0	0
+transcriptional start site selection at RNA polymerase III promoter	GO_0001175	1	1	1	0	0
+transcriptional start site selection at RNA polymerase II promoter	GO_0001174	1	1	1	0	0
+transcriptional open complex formation at bacterial-type RNA polymerase promoter	GO_0001127	1	1	1	0	0
+transcriptional open complex formation at RNA polymerase II promoter	GO_0001113	1	1	1	0	0
+transcriptional attenuation by ribosome	GO_0031556	1	1	1	0	0
+transcriptional attenuation	GO_0031555	1	1	1	0	0
+transcriptional activation by promoter-terminator looping	GO_0090203	1	1	1	0	0
+transcriptional activation by promoter-enhancer looping	GO_0071733	1	1	1	0	0
+transcription, RNA-templated	GO_0001172	1	1	1	0	0
+transcription, DNA-templated	GO_0006351	1	1	1	0	0
+transcription ternary complex disassembly	GO_0001118	1	1	1	0	0
+transcription termination from bacterial-type RNA polymerase promoter	GO_0001125	1	1	1	0	0
+transcription of nuclear large rRNA transcript from RNA polymerase I promoter	GO_0042790	1	1	1	0	0
+transcription initiation from mitochondrial promoter	GO_0006391	1	1	1	0	0
+transcription initiation from bacterial-type RNA polymerase promoter	GO_0001123	1	1	1	0	0
+transcription initiation from RNA polymerase III type 3 promoter	GO_0001024	1	1	1	0	0
+transcription initiation from RNA polymerase III type 2 promoter	GO_0001023	1	1	1	0	0
+transcription initiation from RNA polymerase III type 1 promoter	GO_0001022	1	1	1	0	0
+transcription initiation from RNA polymerase III promoter	GO_0006384	1	1	1	0	0
+transcription initiation from RNA polymerase III hybrid type promoter	GO_0001036	1	1	1	0	0
+transcription initiation from RNA polymerase II promoter	GO_0006367	1	1	1	0	0
+transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript	GO_0001180	1	1	1	0	0
+transcription initiation from RNA polymerase I promoter	GO_0006361	1	1	1	0	0
+transcription from plastid promoter	GO_0042793	1	1	1	0	0
+transcription from mitochondrial promoter	GO_0006390	1	1	1	0	0
+transcription from bacterial-type RNA polymerase promoter	GO_0001121	1	1	1	0	0
+transcription from a RNA polymerase III hybrid type promoter	GO_0001041	1	1	1	0	0
+transcription from RNA polymerase V promoter	GO_0001060	1	1	1	0	0
+transcription from RNA polymerase IV promoter	GO_0001059	1	1	1	0	0
+transcription from RNA polymerase III type 3 promoter	GO_0001035	1	1	1	0	0
+transcription from RNA polymerase III type 2 promoter	GO_0001009	1	1	1	0	0
+transcription from RNA polymerase III promoter	GO_0006383	1	1	1	0	0
+transcription from RNA polymerase II promoter	GO_0006366	1	1	1	0	0
+transcription from RNA polymerase I promoter	GO_0006360	1	1	1	0	0
+transcription elongation from mitochondrial promoter	GO_0006392	1	1	1	0	0
+transcription elongation from bacterial-type RNA polymerase promoter	GO_0001124	1	1	1	0	0
+transcription elongation from RNA polymerase III promoter	GO_0006385	1	1	1	0	0
+transcription elongation from RNA polymerase II promoter	GO_0006368	1	1	1	0	0
+transcription elongation from RNA polymerase I promoter for nuclear large rRNA transcript	GO_0001183	1	1	1	0	0
+transcription elongation from RNA polymerase I promoter	GO_0006362	1	1	1	0	0
+transcription antitermination	GO_0031564	1	1	1	0	0
+termination of mitochondrial transcription	GO_0006393	1	1	1	0	0
+termination of RNA polymerase III transcription	GO_0006386	1	1	1	0	0
+termination of RNA polymerase II transcription, poly(A)-coupled	GO_0030846	1	1	1	0	0
+termination of RNA polymerase II transcription, exosome-dependent	GO_0030847	1	1	1	0	0
+termination of RNA polymerase II transcription	GO_0006369	1	1	1	0	0
+termination of RNA polymerase I transcription from promoter for nuclear large rRNA transcript	GO_0001185	1	1	1	0	0
+termination of RNA polymerase I transcription	GO_0006363	1	1	1	0	0
+snoRNA transcription from an RNA polymerase II promoter	GO_0001015	1	1	1	0	0
+snoRNA transcription from a type 2 RNA polymerase III promoter	GO_0001014	1	1	1	0	0
+sequence-specific DNA binding RNA polymerase III transcription factor activity	GO_0001034	1	1	1	0	0
+sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0000981	1	1	1	0	0
+regulation of vesicle-mediated transport by regulation of transcription from RNA polymerase II promoter	GO_1900388	1	1	1	0	0
+regulation of transport by negative regulation of transcription from RNA polymerase II promoter	GO_1900392	1	1	1	0	0
+regulation of transcriptional start site selection at RNA polymerase II promoter	GO_0001178	1	1	1	0	0
+regulation of transcriptional open complex formation at RNA polymerase II promoter	GO_0001177	1	1	1	0	0
+regulation of transcription initiation from RNA polymerase II promoter	GO_0060260	1	1	1	0	0
+regulation of transcription from RNA polymerase III promoter, mitotic	GO_0046023	1	1	1	0	0
+regulation of transcription from RNA polymerase III promoter	GO_0006359	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter, mitotic	GO_0046021	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification	GO_0021913	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification	GO_0021912	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord association neuron specification	GO_0021920	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord anterior-posterior patterning	GO_0021909	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in somitogenesis	GO_0090236	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment	GO_0021918	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	GO_0003256	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in metanephros development	GO_0072212	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in mesonephros development	GO_0061216	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in mammary gland formation	GO_0060597	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in lung bud formation	GO_0060500	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901213	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	GO_0021882	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in endocardial precursor cell differentiation	GO_0003258	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in determination of left/right symmetry	GO_1900094	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification	GO_0060807	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to zinc ion starvation	GO_0034225	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to stress	GO_0043618	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0061416	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0043619	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to osmotic stress	GO_0061392	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to methionine	GO_0061432	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to iron ion starvation	GO_0033217	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to iron	GO_0034395	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to hypoxia	GO_0061418	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to copper ion	GO_0061396	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to biotin starvation	GO_0061420	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to arsenic-containing substance	GO_0061394	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010672	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter by pheromones	GO_0046019	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter by galactose	GO_0000431	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling	GO_1900621	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source	GO_0061413	1	1	1	0	0
+regulation of transcription from RNA polymerase II promoter	GO_0006357	1	1	1	0	0
+regulation of transcription from RNA polymerase I promoter, mitotic	GO_0046017	1	1	1	0	0
+regulation of transcription from RNA polymerase I promoter	GO_0006356	1	1	1	0	0
+regulation of transcription elongation from RNA polymerase II promoter	GO_0034243	1	1	1	0	0
+regulation of transcription elongation from RNA polymerase I promoter	GO_2001207	1	1	1	0	0
+regulation of transcription by galactose	GO_0000409	1	1	1	0	0
+regulation of thiamine biosynthetic process by regulation of transcription from RNA polymerase II promoter	GO_1900382	1	1	1	0	0
+regulation of termination of RNA polymerase II transcription, poly(A)-coupled	GO_2000804	1	1	1	0	0
+regulation of termination of RNA polymerase I transcription	GO_2000730	1	1	1	0	0
+regulation of sterol import by regulation of transcription from RNA polymerase II promoter	GO_0035968	1	1	1	0	0
+regulation of starch catabolic process by regulation of transcription from RNA polymerase II promoter	GO_0035956	1	1	1	0	0
+regulation of ribosomal protein gene transcription from RNA polymerase II promoter	GO_0060962	1	1	1	0	0
+regulation of replicative cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction	GO_0061434	1	1	1	0	0
+regulation of pyrimidine nucleotide biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900448	1	1	1	0	0
+regulation of potassium ion concentration by positive regulation of transcription from RNA polymerase II promoter	GO_0097301	1	1	1	0	0
+regulation of phenotypic switching by regulation of transcription from RNA polymerase II promoter	GO_1900545	1	1	1	0	0
+regulation of oligopeptide transport by regulation of transcription from RNA polymerase II promoter	GO_0035950	1	1	1	0	0
+regulation of meiosis by regulation of transcription from RNA polymerase II promoter	GO_1900401	1	1	1	0	0
+regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001196	1	1	1	0	0
+regulation of lipid transport by regulation of transcription from RNA polymerase II promoter	GO_0072367	1	1	1	0	0
+regulation of lipid transport by positive regulation of transcription from RNA polymerase II promoter	GO_0072369	1	1	1	0	0
+regulation of lipid transport by negative regulation of transcription from RNA polymerase II promoter	GO_0072368	1	1	1	0	0
+regulation of iron ion transport by regulation of transcription from RNA polymerase II promoter	GO_1900393	1	1	1	0	0
+regulation of iron ion import by regulation of transcription from RNA polymerase II promoter	GO_1900400	1	1	1	0	0
+regulation of histone modification by regulation of transcription from RNA polymerase II promoter	GO_1900410	1	1	1	0	0
+regulation of histone methylation by regulation of transcription from RNA polymerase II promoter	GO_1900412	1	1	1	0	0
+regulation of histone acetylation by regulation of transcription from RNA polymerase II promoter	GO_1900411	1	1	1	0	0
+regulation of glyoxylate cycle by regulation of transcription from RNA polymerase II promoter	GO_0035958	1	1	1	0	0
+regulation of glycolytic process by regulation of transcription from RNA polymerase II promoter	GO_0072361	1	1	1	0	0
+regulation of glycolytic process by negative regulation of transcription from RNA polymerase II promoter	GO_0072362	1	1	1	0	0
+regulation of glycolytic by positive regulation of transcription from RNA polymerase II promoter	GO_0072363	1	1	1	0	0
+regulation of gluconeogenesis by regulation of transcription from RNA polymerase II promoter	GO_0035947	1	1	1	0	0
+regulation of fungal-type cell wall biogenesis by regulation of transcription from RNA polymerase II promoter	GO_1900415	1	1	1	0	0
+regulation of fatty acid biosynthetic process by regulation of transcription from RNA polymerase II promoter	GO_2000531	1	1	1	0	0
+regulation of ergosterol biosynthetic process by regulation of transcription from RNA polymerase II promoter	GO_0035960	1	1	1	0	0
+regulation of dipeptide transport by regulation of transcription from RNA polymerase II promoter	GO_0035953	1	1	1	0	0
+regulation of conjugation with cellular fusion by regulation of transcription from RNA polymerase II promoter	GO_1900406	1	1	1	0	0
+regulation of cellular response to oxidative stress by regulation of transcription from RNA polymerase II promoter	GO_1900427	1	1	1	0	0
+regulation of cellular ketone metabolic process by regulation of transcription from RNA polymerase II promoter	GO_0072364	1	1	1	0	0
+regulation of cellular ketone metabolic process by positive regulation of transcription from RNA polymerase II promoter	GO_0072366	1	1	1	0	0
+regulation of cellular ketone metabolic process by negative regulation of transcription from RNA polymerase II promoter	GO_0072365	1	1	1	0	0
+regulation of cell separation after cytokinesis by regulation of transcription from RNA polymerase II promoter	GO_1900405	1	1	1	0	0
+regulation of carbohydrate metabolic process by regulation of transcription from RNA polymerase II promoter	GO_1900402	1	1	1	0	0
+regulation of cAMP-mediated signaling by regulation of transcription from RNA polymerase II promoter	GO_1900391	1	1	1	0	0
+regulation of RNA-directed RNA polymerase activity	GO_1900259	1	1	1	0	0
+regulation of RNA polymerase II transcriptional preinitiation complex assembly	GO_0045898	1	1	1	0	0
+regulation of DNA-templated transcription, termination	GO_0031554	1	1	1	0	0
+regulation of DNA-templated transcription, initiation	GO_2000142	1	1	1	0	0
+regulation of DNA-templated transcription in response to stress	GO_0043620	1	1	1	0	0
+regulation of 4,6-pyruvylated galactose residue biosynthetic process by regulation of transcription from RNA polymerase II promoter	GO_1900416	1	1	1	0	0
+promoter clearance from bacterial-type RNA polymerase promoter	GO_0001122	1	1	1	0	0
+promoter clearance from RNA polymerase III promoter	GO_0001110	1	1	1	0	0
+promoter clearance from RNA polymerase II promoter	GO_0001111	1	1	1	0	0
+promoter clearance from RNA polymerase I promoter for nuclear large rRNA transcript	GO_0001184	1	1	1	0	0
+promoter clearance from RNA polymerase I promoter	GO_0001182	1	1	1	0	0
+promoter clearance during DNA-templated transcription	GO_0001109	1	1	1	0	0
+positive regulation of unsaturated fatty acid biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_0036083	1	1	1	0	0
+positive regulation of transcription on exit from mitosis, from RNA polymerase III promoter	GO_0007075	1	1	1	0	0
+positive regulation of transcription on exit from mitosis, from RNA polymerase II promoter	GO_0007074	1	1	1	0	0
+positive regulation of transcription on exit from mitosis, from RNA polymerase I promoter	GO_0007073	1	1	1	0	0
+positive regulation of transcription initiation from RNA polymerase II promoter	GO_0060261	1	1	1	0	0
+positive regulation of transcription from RNA polymerase III promoter during mitosis	GO_0046024	1	1	1	0	0
+positive regulation of transcription from RNA polymerase III promoter	GO_0045945	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response	GO_0006990	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in norepinephrine biosynthetic process	GO_2000763	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	GO_0003257	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901228	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus	GO_1901244	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to zinc ion starvation	GO_0097236	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to stress	GO_0036003	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0036251	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0036091	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to osmotic stress	GO_0061393	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to nitrosative stress	GO_0061403	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to nitrogen starvation	GO_0036278	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to methylglyoxal	GO_0097239	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to menadione	GO_0036252	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to iron ion starvation	GO_0036086	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to iron	GO_0010723	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to increased salt	GO_0061404	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to hypoxia	GO_0061419	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to hydrostatic pressure	GO_0061405	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide	GO_0061407	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to heat stress	GO_0061408	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to freezing	GO_0061409	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to ethanol	GO_0061410	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to copper ion	GO_0061397	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to cold	GO_0061411	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to cobalt ion	GO_0061399	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to calcium ion	GO_0061400	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to arsenic-containing substance	GO_0061395	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to amino acid starvation	GO_0061412	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to alkaline pH	GO_0061422	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to acidic pH	GO_0061402	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to a hypotonic environment	GO_0061401	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter during mitosis	GO_0046022	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010673	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter by pheromones	GO_0007329	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter by oleic acid	GO_0061429	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter by galactose	GO_0000435	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling	GO_1900622	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source	GO_0061414	1	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter	GO_0045944	1	1	1	0	0
+positive regulation of transcription from RNA polymerase I promoter during mitosis	GO_0046018	1	1	1	0	0
+positive regulation of transcription from RNA polymerase I promoter	GO_0045943	1	1	1	0	0
+positive regulation of transcription elongation from RNA polymerase II promoter	GO_0032968	1	1	1	0	0
+positive regulation of transcription elongation from RNA polymerase I promoter	GO_2001209	1	1	1	0	0
+positive regulation of transcription by galactose	GO_0000411	1	1	1	0	0
+positive regulation of termination of RNA polymerase II transcription, poly(A)-coupled	GO_2000806	1	1	1	0	0
+positive regulation of termination of RNA polymerase I transcription	GO_2000732	1	1	1	0	0
+positive regulation of sulfite transport by positive regulation of transcription from RNA polymerase II promoter	GO_0061426	1	1	1	0	0
+positive regulation of sulfate assimilation by positive regulation of transcription from RNA polymerase II promoter	GO_1900478	1	1	1	0	0
+positive regulation of sterol import by positive regulation of transcription from RNA polymerase II promoter	GO_0035969	1	1	1	0	0
+positive regulation of starch catabolic process by positive regulation of transcription from RNA polymerase II promoter	GO_0035957	1	1	1	0	0
+positive regulation of sodium ion transport by positive regulation of transcription from RNA polymerase II promoter	GO_0061423	1	1	1	0	0
+positive regulation of ribosomal protein gene transcription from RNA polymerase II promoter	GO_0060963	1	1	1	0	0
+positive regulation of purine nucleotide biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900418	1	1	1	0	0
+positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter	GO_1900461	1	1	1	0	0
+positive regulation of phospholipid biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900413	1	1	1	0	0
+positive regulation of phosphatidylserine biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900525	1	1	1	0	0
+positive regulation of phosphatidylcholine biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900472	1	1	1	0	0
+positive regulation of phenotypic switching by regulation of transcription from RNA polymerase II promoter	GO_1900546	1	1	1	0	0
+positive regulation of peroxisome organization by positive regulation of transcription from RNA polymerase II promoter	GO_0061424	1	1	1	0	0
+positive regulation of oligopeptide transport by positive regulation of transcription from RNA polymerase II promoter	GO_0035951	1	1	1	0	0
+positive regulation of meiosis by positive regulation of transcription from RNA polymerase II promoter	GO_1900476	1	1	1	0	0
+positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter	GO_1900475	1	1	1	0	0
+positive regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001197	1	1	1	0	0
+positive regulation of mating type switching by regulation of transcription from RNA polymerase II promoter	GO_1900374	1	1	1	0	0
+positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter	GO_1900423	1	1	1	0	0
+positive regulation of inositol biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900375	1	1	1	0	0
+positive regulation of glyoxylate cycle by positive regulation of transcription from RNA polymerase II promoter	GO_0035959	1	1	1	0	0
+positive regulation of gluconeogenesis by positive regulation of transcription from RNA polymerase II promoter	GO_0035948	1	1	1	0	0
+positive regulation of gluconeogenesis by negative regulation of transcription from RNA polymerase II promoter	GO_0035949	1	1	1	0	0
+positive regulation of flocculation via cell wall protein-carbohydrate interaction by positive regulation of transcription from RNA polymerase II promoter	GO_1900524	1	1	1	0	0
+positive regulation of fatty acid beta-oxidation by positive regulation of transcription from RNA polymerase II promoter	GO_0097235	1	1	1	0	0
+positive regulation of ethanol catabolic process by positive regulation of transcription from RNA polymerase II promoter	GO_0061425	1	1	1	0	0
+positive regulation of ergosterol biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_0035961	1	1	1	0	0
+positive regulation of dipeptide transport by positive regulation of transcription from RNA polymerase II promoter	GO_0035954	1	1	1	0	0
+positive regulation of cellular alcohol catabolic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900422	1	1	1	0	0
+positive regulation of arginine biosynthetic process by positive regulation of transcription from RNA polymerase II promoter	GO_1900466	1	1	1	0	0
+positive regulation of RNA-directed RNA polymerase activity	GO_1900261	1	1	1	0	0
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	GO_0045899	1	1	1	0	0
+positive regulation of DNA repair by positive regulation of transcription from RNA polymerase II promoter	GO_1900404	1	1	1	0	0
+plastid single subunit type RNA polymerase activity	GO_0001066	1	1	1	0	0
+plastid PEP-B RNA polymerase activity	GO_0001063	1	1	1	0	0
+plastid PEP-A RNA polymerase activity	GO_0001062	1	1	1	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	GO_1900018	1	1	1	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues	GO_0071620	1	1	1	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 2 residues	GO_0071619	1	1	1	0	0
+phosphorylation of RNA polymerase II C-terminal domain	GO_0070816	1	1	1	0	0
+negative regulation of transmembrane transport by negative regulation of transcription from RNA polymerase II promoter	GO_1900417	1	1	1	0	0
+negative regulation of transcription initiation from RNA polymerase II promoter	GO_0060633	1	1	1	0	0
+negative regulation of transcription from RNA polymerase III promoter during mitosis	GO_0007071	1	1	1	0	0
+negative regulation of transcription from RNA polymerase III promoter	GO_0016480	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901227	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to stress	GO_0097201	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0061417	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to iron ion starvation	GO_0090375	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to iron	GO_0034396	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to hypoxia	GO_0061428	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide	GO_0036129	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to copper ion	GO_0061398	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter during mitosis	GO_0007070	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter during meiosis	GO_0010674	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter by pheromones	GO_0046020	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter by galactose	GO_0000434	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source	GO_0061415	1	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter	GO_0000122	1	1	1	0	0
+negative regulation of transcription from RNA polymerase I promoter during mitosis	GO_0007069	1	1	1	0	0
+negative regulation of transcription from RNA polymerase I promoter	GO_0016479	1	1	1	0	0
+negative regulation of transcription elongation from RNA polymerase II promoter	GO_0034244	1	1	1	0	0
+negative regulation of transcription elongation from RNA polymerase I promoter	GO_2001208	1	1	1	0	0
+negative regulation of transcription by galactose	GO_0000410	1	1	1	0	0
+negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled	GO_2000805	1	1	1	0	0
+negative regulation of termination of RNA polymerase I transcription	GO_2000731	1	1	1	0	0
+negative regulation of tRNA transcription from RNA polymerase III promoter	GO_1900446	1	1	1	0	0
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to stress	GO_0010690	1	1	1	0	0
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to nutrient levels	GO_0010691	1	1	1	0	0
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to chemical stimulus	GO_0010689	1	1	1	0	0
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter	GO_0010688	1	1	1	0	0
+negative regulation of pseudohyphal growth by negative regulation of transcription from RNA polymerase II promoter	GO_1900462	1	1	1	0	0
+negative regulation of phosphatidylserine biosynthetic process by negative regulation of transcription from RNA polymerase II promoter	GO_1900526	1	1	1	0	0
+negative regulation of phosphatidylcholine biosynthetic process by negative regulation of transcription from RNA polymerase II promoter	GO_1900473	1	1	1	0	0
+negative regulation of phenotypic switching by regulation of transcription from RNA polymerase II promoter	GO_1900547	1	1	1	0	0
+negative regulation of oligopeptide transport by negative regulation of transcription from RNA polymerase II promoter	GO_0035952	1	1	1	0	0
+negative regulation of mating-type specific transcription from RNA polymerase II promoter	GO_0001198	1	1	1	0	0
+negative regulation of mating type switching by negative regulation of transcription from RNA polymerase II promoter	GO_1900474	1	1	1	0	0
+negative regulation of inositol biosynthetic process by negative regulation of transcription from RNA polymerase II promoter	GO_1900471	1	1	1	0	0
+negative regulation of dipeptide transport by negative regulation of transcription from RNA polymerase II promoter	GO_0035955	1	1	1	0	0
+negative regulation of ceramide biosynthetic process by negative regulation of transcription from RNA Polymerase II promoter	GO_0061427	1	1	1	0	0
+negative regulation of cellular response to alkaline pH by negative regulation of transcription from RNA polymerase II promoter	GO_1900463	1	1	1	0	0
+negative regulation of cellular hyperosmotic salinity response by negative regulation of transcription from RNA polymerase II promoter	GO_1900464	1	1	1	0	0
+negative regulation of cellular carbohydrate metabolic process by negative regulation of transcription, DNA-templated	GO_0010678	1	1	1	0	0
+negative regulation of cellular amino acid biosynthetic process by negative regulation of transcription from RNA polymerase II promoter	GO_1900403	1	1	1	0	0
+negative regulation of arginine catabolic process by negative regulation of transcription from RNA polymerase II promoter	GO_1900465	1	1	1	0	0
+negative regulation of RNA-directed RNA polymerase activity	GO_1900260	1	1	1	0	0
+negative regulation of RNA polymerase II transcriptional preinitiation complex assembly	GO_0017055	1	1	1	0	0
+negative regulation of G1/S transition of mitotic cell cycle by negative regulation of transcription from RNA polymerase II promoter	GO_1900477	1	1	1	0	0
+mitochondrial single subunit type RNA polymerase activity	GO_0001065	1	1	1	0	0
+maintenance of transcriptional fidelity during DNA-templated transcription elongation from bacterial-type RNA polymerase promoter	GO_0001194	1	1	1	0	0
+maintenance of transcriptional fidelity during DNA-templated transcription elongation from RNA polymerase III promoter	GO_0001195	1	1	1	0	0
+maintenance of transcriptional fidelity during DNA-templated transcription elongation from RNA polymerase II promoter	GO_0001193	1	1	1	0	0
+maintenance of transcriptional fidelity during DNA-templated transcription elongation	GO_0001192	1	1	1	0	0
+mRNA transcription from RNA polymerase II promoter	GO_0042789	1	1	1	0	0
+induction by virus of phosphorylation of host RNA polymerase II	GO_0046793	1	1	1	0	0
+dephosphorylation of RNA polymerase II C-terminal domain	GO_0070940	1	1	1	0	0
+core RNA polymerase III binding transcription factor activity	GO_0000995	1	1	1	0	0
+core RNA polymerase II binding transcription factor activity	GO_0000991	1	1	1	0	0
+chromatin-mediated maintenance of transcription	GO_0048096	1	1	1	0	0
+carbon catabolite repression of transcription from RNA polymerase II promoter	GO_0000437	1	1	1	0	0
+carbon catabolite regulation of transcription from RNA polymerase II promoter	GO_0000429	1	1	1	0	0
+carbon catabolite activation of transcription from RNA polymerase II promoter	GO_0000436	1	1	1	0	0
+bacterial-type RNA polymerase preinitiation complex assembly	GO_0001126	1	1	1	0	0
+bacterial-type RNA polymerase activity	GO_0001061	1	1	1	0	0
+TFIIIB-type transcription factor activity	GO_0001026	1	1	1	0	0
+TFIIH-class binding transcription factor activity	GO_0001090	1	1	1	0	0
+TFIIF-class binding transcription factor activity	GO_0001089	1	1	1	0	0
+TFIIE-class binding transcription factor activity	GO_0001088	1	1	1	0	0
+TFIID-class binding transcription factor activity	GO_0001084	1	1	1	0	0
+TFIIB-class binding transcription factor activity	GO_0001087	1	1	1	0	0
+TFIIA-class binding transcription factor activity	GO_0001086	1	1	1	0	0
+RNA polymerase V activity	GO_0001058	1	1	1	0	0
+RNA polymerase IV activity	GO_0001057	1	1	1	0	0
+RNA polymerase III type 3 promoter transcriptional preinitiation complex assembly	GO_0001020	1	1	1	0	0
+RNA polymerase III type 3 promoter TFIIIB-type transcription factor activity	GO_0001029	1	1	1	0	0
+RNA polymerase III type 3 promoter TFIIIB recruiting transcription factor activity	GO_0001033	1	1	1	0	0
+RNA polymerase III type 2 promoter transcriptional preinitiation complex assembly	GO_0001021	1	1	1	0	0
+RNA polymerase III type 2 promoter sequence-specific DNA binding TFIIIB recruiting transcription factor activity	GO_0001008	1	1	1	0	0
+RNA polymerase III type 2 promoter TFIIIB-type transcription factor activity	GO_0001028	1	1	1	0	0
+RNA polymerase III type 1 promoter transcriptional preinitiation complex assembly	GO_0000999	1	1	1	0	0
+RNA polymerase III type 1 promoter sequence-specific DNA binding TFIIIB recruiting transcription factor activity	GO_0001005	1	1	1	0	0
+RNA polymerase III type 1 promoter TFIIIB-type transcription factor activity	GO_0001027	1	1	1	0	0
+RNA polymerase III transcriptional preinitiation complex assembly	GO_0070898	1	1	1	0	0
+RNA polymerase III transcription factor binding transcription factor activity	GO_0001007	1	1	1	0	0
+RNA polymerase III promoter sequence-specific DNA binding TFIIIB recruiting transcription factor activity	GO_0001004	1	1	1	0	0
+RNA polymerase III hybrid type promoter transcriptional preinitiation complex assembly	GO_0001043	1	1	1	0	0
+RNA polymerase III hybrid type promoter TFIIIB-type transcription factor activity	GO_0001040	1	1	1	0	0
+RNA polymerase III hybrid type promoter TFIIIB recruiting transcription factor activity	GO_0001038	1	1	1	0	0
+RNA polymerase III activity	GO_0001056	1	1	1	0	0
+RNA polymerase II transcriptional preinitiation complex assembly	GO_0051123	1	1	1	0	0
+RNA polymerase II transcription factor binding transcription factor activity	GO_0001076	1	1	1	0	0
+RNA polymerase II transcription corepressor activity	GO_0001106	1	1	1	0	0
+RNA polymerase II transcription cofactor activity	GO_0001104	1	1	1	0	0
+RNA polymerase II transcription coactivator activity	GO_0001105	1	1	1	0	0
+RNA polymerase II core promoter sequence-specific DNA binding transcription factor activity involved in preinitiation complex assembly	GO_0001075	1	1	1	0	0
+RNA polymerase II core promoter sequence-specific DNA binding transcription factor activity	GO_0000983	1	1	1	0	0
+RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in preinitiation complex assembly	GO_0001074	1	1	1	0	0
+RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription	GO_0001077	1	1	1	0	0
+RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription	GO_0001078	1	1	1	0	0
+RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity	GO_0000982	1	1	1	0	0
+RNA polymerase II basal transcription factor binding transcription factor activity	GO_0001083	1	1	1	0	0
+RNA polymerase II activity	GO_0001055	1	1	1	0	0
+RNA polymerase I transcriptional preinitiation complex assembly at the promoter for the nuclear large rRNA transcript	GO_0001189	1	1	1	0	0
+RNA polymerase I transcriptional preinitiation complex assembly	GO_0001188	1	1	1	0	0
+RNA polymerase I transcription factor binding transcription factor activity	GO_0001082	1	1	1	0	0
+RNA polymerase I activity	GO_0001054	1	1	1	0	0
+DNA-templated transcriptional start site selection	GO_0001173	1	1	1	0	0
+DNA-templated transcriptional preinitiation complex assembly	GO_0070897	1	1	1	0	0
+DNA-templated transcriptional open complex formation	GO_0001112	1	1	1	0	0
+DNA-templated transcription, termination	GO_0006353	1	1	1	0	0
+DNA-templated transcription, initiation	GO_0006352	1	1	1	0	0
+DNA-templated transcription, elongation	GO_0006354	1	1	1	0	0
+5S class rRNA transcription from RNA polymerase III type 1 promoter	GO_0042791	1	1	1	0	0
+transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	GO_0000972	1	0	1	0	0
+transcription-coupled nucleotide-excision repair, DNA damage recognition	GO_0000716	1	0	1	0	0
+transcription-coupled nucleotide-excision repair	GO_0006283	1	0	1	0	0
+transcription, RNA-dependent	GO_0006410	1	0	1	1	1
+transcription regulatory region RNA binding	GO_0001068	1	0	1	0	0
+transcription factor import into nucleus	GO_0042991	1	0	1	0	0
+transcription factor binding transcription factor activity	GO_0000989	1	0	1	0	0
+transcription factor TFIIIC complex	GO_0000127	1	0	1	0	0
+transcription factor TFIIIB complex assembly	GO_0070217	1	0	1	0	0
+transcription factor TFIIIB complex	GO_0000126	1	0	1	0	0
+transcription export complex	GO_0000346	1	0	1	0	0
+single-subunit type RNA polymerase binding	GO_0001050	1	0	1	0	0
+single subunit type RNA polymerase activity	GO_0001064	1	0	1	0	0
+sequence-specific DNA binding transcription factor recruiting transcription factor activity	GO_0001010	1	0	1	0	0
+sequence-specific DNA binding RNA polymerase recruiting transcription factor activity	GO_0001011	1	0	1	0	0
+regulatory region RNA binding	GO_0001069	1	0	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in calcium-mediated signaling	GO_1900031	1	0	1	1	1
+regulation of transcription from RNA polymerase II promoter during M/G1 transition of mitotic cell cycle	GO_1901037	1	0	1	1	1
+regulation of transcription from RNA polymerase II promoter by nuclear hormone receptor	GO_0034339	1	0	1	1	1
+regulation of phosphorylation of RNA polymerase II C-terminal domain serine 2 residues	GO_2001163	1	0	1	0	0
+regulation of cytokinesis by regulation of transcription from RNA polymerase II promoter	GO_1900414	1	0	1	0	0
+recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	GO_0036031	1	0	1	0	0
+recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	GO_0034402	1	0	1	0	0
+protein binding transcription factor activity	GO_0000988	1	0	1	0	0
+posttranscriptional tethering of RNA polymerase II gene DNA at nuclear periphery	GO_0000973	1	0	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901226	1	0	1	1	1
+positive regulation of transcription from RNA polymerase II promoter involved in fatty acid biosynthetic process	GO_0090412	1	0	1	1	1
+positive regulation of transcription from RNA polymerase II promoter involved in calcium-mediated signaling	GO_1900061	1	0	1	1	1
+positive regulation of phosphorylation of RNA polymerase II C-terminal domain serine 2 residues	GO_2001165	1	0	1	0	0
+polyadenylation-dependent snoRNA 3'-end processing	GO_0071051	1	0	1	0	0
+polyadenylation-dependent ncRNA catabolic process	GO_0043634	1	0	1	0	0
+polyadenylation-dependent mRNA catabolic process	GO_0071047	1	0	1	0	0
+polyadenylation-dependent RNA catabolic process	GO_0043633	1	0	1	0	0
+plastid single-subunit type RNA polymerase binding	GO_0001051	1	0	1	0	0
+plastid sigma factor activity	GO_0001053	1	0	1	0	0
+plastid PEP RNA polymerase core enzyme binding	GO_0001052	1	0	1	0	0
+nucleoplasmic THO complex	GO_0000446	1	0	1	0	0
+nucleic acid binding transcription factor activity	GO_0001071	1	0	1	0	0
+negative regulation of trophoblast cell differentiation by transcription regulation from RNA polymerase II promoter	GO_0060805	1	0	1	0	0
+negative regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901225	1	0	1	1	1
+negative regulation of transcription from RNA polymerase II promoter involved in fatty acid biosynthetic process	GO_0090413	1	0	1	1	1
+negative regulation of transcription from RNA polymerase II promoter by nuclear hormone receptor	GO_0072500	1	0	1	1	1
+negative regulation of regulation of transcription from RNA polymerase II promoter by nuclear hormone receptor	GO_2000190	1	0	1	1	1
+negative regulation of phosphorylation of RNA polymerase II C-terminal domain serine 2 residues	GO_2001164	1	0	1	0	0
+mitochondrial single-subunit type RNA polymerase binding	GO_0001001	1	0	1	0	0
+mitochondrial RNA polymerase core promoter sequence-specific DNA binding	GO_0000997	1	0	1	0	0
+generation of mature 3'-end of 5S rRNA generated by RNA polymerase III	GO_0002107	1	0	1	0	0
+endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)	GO_0000449	1	0	1	0	0
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000447	1	0	1	0	0
+cytoplasmic cyclin-dependent protein kinase holoenzyme complex	GO_0000308	1	0	1	0	0
+cyclin-dependent protein kinase holoenzyme complex	GO_0000307	1	0	1	0	0
+core TFIIH complex portion of holo TFIIH complex	GO_0000438	1	0	1	0	0
+core TFIIH complex portion of NEF3 complex	GO_0000440	1	0	1	0	0
+core TFIIH complex	GO_0000439	1	0	1	0	0
+core RNA polymerase binding transcription factor activity	GO_0000990	1	0	1	0	0
+core DNA-dependent RNA polymerase binding promoter specificity activity	GO_0000996	1	0	1	0	0
+cleavage of bicistronic rRNA transcript (SSU-rRNA, LSU-rRNA)	GO_0000450	1	0	1	0	0
+cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO_0000448	1	0	1	0	0
+basal transcription machinery binding	GO_0001098	1	0	1	0	0
+basal RNA polymerase II transcription machinery binding	GO_0001099	1	0	1	0	0
+bacterial-type RNA polymerase holo enzyme binding	GO_0001108	1	0	1	0	0
+bacterial-type RNA polymerase core enzyme binding	GO_0001000	1	0	1	0	0
+THO complex part of transcription export complex	GO_0000445	1	0	1	0	0
+THO complex	GO_0000347	1	0	1	0	0
+TFIIH-class transcription factor binding	GO_0001097	1	0	1	0	0
+TFIIF-class transcription factor binding	GO_0001096	1	0	1	0	0
+TFIIE-class transcription factor binding	GO_0001095	1	0	1	0	0
+TFIID-class transcription factor binding	GO_0001094	1	0	1	0	0
+TFIIB-class transcription factor binding	GO_0001093	1	0	1	0	0
+TFIIA-class transcription factor binding	GO_0001092	1	0	1	0	0
+SAGA complex	GO_0000124	1	0	1	0	0
+RNA trimethylguanosine cap binding	GO_0000341	1	0	1	0	0
+RNA polymerase V core binding	GO_0001049	1	0	1	0	0
+RNA polymerase IV core binding	GO_0001048	1	0	1	0	0
+RNA polymerase III transcription factor binding	GO_0001025	1	0	1	0	0
+RNA polymerase III core binding	GO_0000994	1	0	1	0	0
+RNA polymerase II transcription factor binding	GO_0001085	1	0	1	0	0
+RNA polymerase II repressing transcription factor binding	GO_0001103	1	0	1	0	0
+RNA polymerase II core binding	GO_0000993	1	0	1	0	0
+RNA polymerase II complex localization to nucleus	GO_0044376	1	0	1	0	0
+RNA polymerase II basal transcription factor binding	GO_0001091	1	0	1	0	0
+RNA polymerase II activating transcription factor binding	GO_0001102	1	0	1	0	0
+RNA polymerase I transcription factor complex	GO_0000120	1	0	1	0	0
+RNA polymerase I core binding	GO_0001042	1	0	1	0	0
+RNA exon ligation	GO_0000378	1	0	1	0	0
+RNA cap binding	GO_0000339	1	0	1	0	0
+RNA cap 4 binding	GO_0000342	1	0	1	0	0
+RNA binding transcription factor activity	GO_0001070	1	0	1	0	0
+RNA binding transcription antitermination factor activity	GO_0001072	1	0	1	0	0
+RNA 7-methylguanosine cap binding	GO_0000340	1	0	1	0	0
+PCAF complex	GO_0000125	1	0	1	0	0
+EKC/KEOPS complex	GO_0000408	1	0	1	0	0
+DNA binding transcription antitermination factor activity	GO_0001073	1	0	1	0	0
+zinc ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in positive regulation of transcription	GO_0001212	0	1	0	0	0
+zinc ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0001203	0	1	0	0	0
+transfer RNA gene-mediated silencing	GO_0061587	0	1	0	0	0
+torso signaling pathway	GO_0008293	0	1	0	0	0
+thyroid hormone receptor activity	GO_0004887	0	1	0	0	0
+telomeric RNA transcription from RNA pol II promoter	GO_0097394	0	1	0	0	0
+telomeric RNA transcription	GO_0097393	0	1	0	0	0
+tRNA transcription from RNA polymerase III promoter	GO_0042797	0	1	0	0	0
+tRNA transcription	GO_0009304	0	1	0	0	0
+suppression by virus of host transcription initiation from RNA polymerase II promoter	GO_0039602	0	1	0	0	0
+suppression by virus of host transcription	GO_0039653	0	1	0	0	0
+suppression by virus of host RNA polymerase II activity	GO_0039523	0	1	0	0	0
+suppression by virus of host NF-kappaB transcription factor activity	GO_0039644	0	1	0	0	0
+suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	GO_0039561	0	1	0	0	0
+suppression by virus of host IRF9 activity	GO_0039560	0	1	0	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	GO_0039558	0	1	0	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	0	1	0	0	0
+suppression by virus of host IRF7 activity	GO_0039557	0	1	0	0	0
+suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	0	1	0	0	0
+suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	GO_0039549	0	1	0	0	0
+suppression by virus of host IRF3 activity by inhibition of DNA binding	GO_0039550	0	1	0	0	0
+suppression by virus of host IRF3 activity	GO_0039548	0	1	0	0	0
+suppression by virus of expression of host genes with introns	GO_0046779	0	1	0	0	0
+specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway	GO_0072101	0	1	0	0	0
+snoRNA transcription	GO_0009302	0	1	0	0	0
+snRNA transcription from RNA polymerase III promoter	GO_0042796	0	1	0	0	0
+snRNA transcription from RNA polymerase II promoter	GO_0042795	0	1	0	0	0
+snRNA transcription	GO_0009301	0	1	0	0	0
+sequence-specific DNA binding mitochondrial RNA polymerase transcription factor activity	GO_0001142	0	1	0	0	0
+sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in positive regulation of transcription	GO_0001216	0	1	0	0	0
+sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription	GO_0001217	0	1	0	0	0
+sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity	GO_0001130	0	1	0	0	0
+sequence-specific DNA binding RNA polymerase I transcription factor activity	GO_0001167	0	1	0	0	0
+retinoic acid receptor activity	GO_0003708	0	1	0	0	0
+regulation of transcription, DNA-templated	GO_0006355	0	1	0	0	0
+regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	GO_1901836	0	1	0	0	0
+regulation of transcription involved in venous endothelial cell fate commitment	GO_0060852	0	1	0	0	0
+regulation of transcription involved in primary germ layer cell fate commitment	GO_0060796	0	1	0	0	0
+regulation of transcription involved in posterior neural plate formation	GO_0090020	0	1	0	0	0
+regulation of transcription involved in lymphatic endothelial cell fate commitment	GO_0060849	0	1	0	0	0
+regulation of transcription involved in eye field cell fate commitment of camera-type eye	GO_0060899	0	1	0	0	0
+regulation of transcription involved in cell fate commitment	GO_0060850	0	1	0	0	0
+regulation of transcription involved in anterior/posterior axis specification	GO_0044324	0	1	0	0	0
+regulation of transcription involved in anterior neural plate formation	GO_0090019	0	1	0	0	0
+regulation of transcription involved in G2/M transition of mitotic cell cycle	GO_0000117	0	1	0	0	0
+regulation of transcription involved in G1/S transition of mitotic cell cycle	GO_0000083	0	1	0	0	0
+regulation of transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript	GO_1903357	0	1	0	0	0
+regulation of transcription from mitochondrial promoter	GO_1903108	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in spermatogenesis	GO_1902064	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter involved in kidney development	GO_0060994	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter in response to copper ion starvation	GO_1990561	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010767	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter in response to DNA damage	GO_1990248	0	1	0	0	0
+regulation of transcription from RNA polymerase II promoter by glucose	GO_0000430	0	1	0	0	0
+regulation of transcription during mitosis	GO_0045896	0	1	0	0	0
+regulation of transcription during meiosis	GO_0051037	0	1	0	0	0
+regulation of transcription by pheromones	GO_0009373	0	1	0	0	0
+regulation of transcription by glucose	GO_0046015	0	1	0	0	0
+regulation of transcription by carbon monoxide	GO_0070028	0	1	0	0	0
+regulation of telomeric RNA transcription from RNA pol II promoter	GO_1901580	0	1	0	0	0
+regulation of sequence-specific DNA binding transcription factor activity	GO_0051090	0	1	0	0	0
+regulation of production of siRNA involved in chromatin silencing by small RNA	GO_0070921	0	1	0	0	0
+regulation of pri-miRNA transcription from RNA polymerase II promoter	GO_1902893	0	1	0	0	0
+regulation of nucleic acid-templated transcription	GO_1903506	0	1	0	0	0
+regulation of methylation-dependent chromatin silencing	GO_0090308	0	1	0	0	0
+regulation of mating-type specific transcription, DNA-templated	GO_0007532	0	1	0	0	0
+regulation of hair cycle by BMP signaling pathway	GO_0060902	0	1	0	0	0
+regulation of glucose import by regulation of transcription from RNA polymerase II promoter	GO_1900389	0	1	0	0	0
+regulation of dipeptide transmembrane transport by regulation of transcription from RNA polymerase II promoter	GO_1901718	0	1	0	0	0
+regulation of chromatin silencing by small RNA	GO_0010964	0	1	0	0	0
+regulation of chromatin silencing at telomere	GO_0031938	0	1	0	0	0
+regulation of chromatin silencing at silent mating-type cassette	GO_0090054	0	1	0	0	0
+regulation of chromatin silencing at rDNA	GO_0061187	0	1	0	0	0
+regulation of chromatin silencing at centromere	GO_0090052	0	1	0	0	0
+regulation of chromatin silencing	GO_0031935	0	1	0	0	0
+regulation of antisense RNA transcription	GO_0060194	0	1	0	0	0
+regulation of androgen receptor activity	GO_2000823	0	1	0	0	0
+regulation of RNA polymerase III activity	GO_1903622	0	1	0	0	0
+regulation of DNA-templated transcription, elongation	GO_0032784	0	1	0	0	0
+rRNA transcription from plastid promoter	GO_0042794	0	1	0	0	0
+rRNA transcription from mitochondrial promoter	GO_0042792	0	1	0	0	0
+rRNA transcription	GO_0009303	0	1	0	0	0
+pri-miRNA transcription from RNA polymerase II promoter	GO_0061614	0	1	0	0	0
+positive regulation of transcription, DNA-templated	GO_0045893	0	1	0	0	0
+positive regulation of transcription via serum response element binding	GO_0010735	0	1	0	0	0
+positive regulation of transcription on exit from mitosis	GO_0007072	0	1	0	0	0
+positive regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	GO_1901838	0	1	0	0	0
+positive regulation of transcription of Notch receptor target	GO_0007221	0	1	0	0	0
+positive regulation of transcription involved in egg activation	GO_0060469	0	1	0	0	0
+positive regulation of transcription involved in G2/M transition of mitotic cell cycle	GO_0090282	0	1	0	0	0
+positive regulation of transcription involved in G1/S transition of mitotic cell cycle	GO_0071931	0	1	0	0	0
+positive regulation of transcription from mitochondrial promoter	GO_1903109	0	1	0	0	0
+positive regulation of transcription from a mobile element promoter	GO_0061435	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in stress response to cadmium ion	GO_1902901	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	GO_2000721	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium	GO_1902097	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	GO_1901522	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to superoxide	GO_1990096	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to reactive oxygen species	GO_1990095	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to glucose starvation	GO_0061406	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	GO_1990440	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter by glucose	GO_0000432	0	1	0	0	0
+positive regulation of transcription during mitosis	GO_0045897	0	1	0	0	0
+positive regulation of transcription during meiosis	GO_0051039	0	1	0	0	0
+positive regulation of transcription by transcription factor localization	GO_0061586	0	1	0	0	0
+positive regulation of transcription by pheromones	GO_0009371	0	1	0	0	0
+positive regulation of transcription by oleic acid	GO_0061421	0	1	0	0	0
+positive regulation of transcription by glucose	GO_0046016	0	1	0	0	0
+positive regulation of terminal gap gene transcription	GO_0007363	0	1	0	0	0
+positive regulation of telomeric RNA transcription from RNA pol II promoter	GO_1901582	0	1	0	0	0
+positive regulation of sequence-specific DNA binding transcription factor activity	GO_0051091	0	1	0	0	0
+positive regulation of pri-miRNA transcription from RNA polymerase II promoter	GO_1902895	0	1	0	0	0
+positive regulation of posterior gap gene transcription	GO_0007360	0	1	0	0	0
+positive regulation of nucleic acid-templated transcription	GO_1903508	0	1	0	0	0
+positive regulation of methylation-dependent chromatin silencing	GO_0090309	0	1	0	0	0
+positive regulation of mating-type specific transcription, DNA-templated	GO_0045895	0	1	0	0	0
+positive regulation of invasive growth in response to glucose limitation by positive regulation of transcription from RNA polymerase II promoter	GO_0036095	0	1	0	0	0
+positive regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter by pheromones	GO_1902353	0	1	0	0	0
+positive regulation of hh target transcription factor activity	GO_0007228	0	1	0	0	0
+positive regulation of chromatin silencing at telomere	GO_0031940	0	1	0	0	0
+positive regulation of chromatin silencing at silent mating-type cassette	GO_0090055	0	1	0	0	0
+positive regulation of chromatin silencing at rDNA	GO_2000749	0	1	0	0	0
+positive regulation of chromatin silencing at centromere	GO_0090053	0	1	0	0	0
+positive regulation of chromatin silencing	GO_0031937	0	1	0	0	0
+positive regulation of central gap gene transcription	GO_0007357	0	1	0	0	0
+positive regulation of antisense RNA transcription	GO_0060196	0	1	0	0	0
+positive regulation of androgen receptor activity	GO_2000825	0	1	0	0	0
+positive regulation of Wnt signaling pathway by BMP signaling pathway	GO_0060804	0	1	0	0	0
+positive regulation of NF-kappaB transcription factor activity by ER overload response	GO_0006985	0	1	0	0	0
+positive regulation of NF-kappaB transcription factor activity	GO_0051092	0	1	0	0	0
+positive regulation of DNA-templated transcription, termination	GO_0060566	0	1	0	0	0
+positive regulation of DNA-templated transcription, initiation	GO_2000144	0	1	0	0	0
+positive regulation of DNA-templated transcription, elongation	GO_0032786	0	1	0	0	0
+positive regulation of CREB transcription factor activity	GO_0032793	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter	GO_1903654	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain serine 2 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter	GO_1903655	0	1	0	0	0
+phosphorylation of RNA polymerase II C-terminal domain involved in recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	GO_1901921	0	1	0	0	0
+nucleic acid-templated transcription	GO_0097659	0	1	0	0	0
+nodal signaling pathway involved in determination of left/right asymmetry	GO_0038107	0	1	0	0	0
+nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1900164	0	1	0	0	0
+nitrogen catabolite repression of transcription from RNA polymerase II promoter	GO_0001081	0	1	0	0	0
+nitrogen catabolite repression of transcription	GO_0090295	0	1	0	0	0
+nitrogen catabolite regulation of transcription from RNA polymerase II promoter	GO_0001079	0	1	0	0	0
+nitrogen catabolite regulation of transcription	GO_0090293	0	1	0	0	0
+nitrogen catabolite activation of transcription from RNA polymerase II promoter	GO_0001080	0	1	0	0	0
+nitrogen catabolite activation of transcription	GO_0090294	0	1	0	0	0
+negative stranded viral RNA transcription	GO_0039697	0	1	0	0	0
+negative regulation of transcription, DNA-templated	GO_0045892	0	1	0	0	0
+negative regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	GO_1901837	0	1	0	0	0
+negative regulation of transcription involved in G2/M transition of mitotic cell cycle	GO_0090419	0	1	0	0	0
+negative regulation of transcription involved in G1/S transition of mitotic cell cycle	GO_0071930	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	GO_2000820	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	GO_1990441	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	GO_0010768	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter by transcription factor localization involved in response to DNA damage checkpoint signaling	GO_1990260	0	1	0	0	0
+negative regulation of transcription from RNA polymerase II promoter by glucose	GO_0000433	0	1	0	0	0
+negative regulation of transcription during mitosis	GO_0007068	0	1	0	0	0
+negative regulation of transcription during meiosis	GO_0051038	0	1	0	0	0
+negative regulation of transcription by transcription factor localization	GO_0010621	0	1	0	0	0
+negative regulation of transcription by transcription factor catabolism	GO_0010620	0	1	0	0	0
+negative regulation of transcription by pheromones	GO_0045996	0	1	0	0	0
+negative regulation of transcription by glucose	GO_0045014	0	1	0	0	0
+negative regulation of transcription by competitive promoter binding	GO_0010944	0	1	0	0	0
+negative regulation of telomeric RNA transcription from RNA pol II promoter	GO_1901581	0	1	0	0	0
+negative regulation of sequence-specific DNA binding transcription factor activity	GO_0043433	0	1	0	0	0
+negative regulation of pri-miRNA transcription from RNA polymerase II promoter	GO_1902894	0	1	0	0	0
+negative regulation of nucleic acid-templated transcription	GO_1903507	0	1	0	0	0
+negative regulation of methylation-dependent chromatin silencing	GO_0090310	0	1	0	0	0
+negative regulation of mating-type specific transcription, DNA-templated	GO_0045894	0	1	0	0	0
+negative regulation of leucine import by regulation of transcription from RNA polymerase II promoter	GO_1902574	0	1	0	0	0
+negative regulation of invasive growth in response to glucose limitation by negative regulation of transcription from RNA polymerase II promoter	GO_1900460	0	1	0	0	0
+negative regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter	GO_1902625	0	1	0	0	0
+negative regulation of filamentous growth of a population of unicellular organisms in response to starvation by negative regulation of transcription from RNA polymerase II promoter	GO_1902352	0	1	0	0	0
+negative regulation of chromatin silencing involved in replicative cell aging	GO_0001308	0	1	0	0	0
+negative regulation of chromatin silencing by small RNA	GO_0060906	0	1	0	0	0
+negative regulation of chromatin silencing at telomere	GO_0031939	0	1	0	0	0
+negative regulation of chromatin silencing at silent mating-type cassette	GO_0061186	0	1	0	0	0
+negative regulation of chromatin silencing at rDNA	GO_0061188	0	1	0	0	0
+negative regulation of chromatin silencing	GO_0031936	0	1	0	0	0
+negative regulation of cell-cell adhesion by negative regulation of transcription from RNA polymerase II promoter	GO_1900387	0	1	0	0	0
+negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway	GO_0072097	0	1	0	0	0
+negative regulation of antisense RNA transcription	GO_0060195	0	1	0	0	0
+negative regulation of androgen receptor activity	GO_2000824	0	1	0	0	0
+negative regulation of RNA polymerase III activity	GO_1903623	0	1	0	0	0
+negative regulation of NF-kappaB transcription factor activity	GO_0032088	0	1	0	0	0
+negative regulation of G1/S transition of mitotic cell cycle by positive regulation of transcription from RNA polymerase II promoter in response to nitrogen starvation	GO_1990376	0	1	0	0	0
+negative regulation of DNA-templated transcription, termination	GO_0060567	0	1	0	0	0
+negative regulation of DNA-templated transcription, initiation	GO_2000143	0	1	0	0	0
+negative regulation of DNA-templated transcription, elongation	GO_0032785	0	1	0	0	0
+negative regulation of CREB transcription factor activity	GO_0032792	0	1	0	0	0
+modulation by virus of host transcription	GO_0019056	0	1	0	0	0
+mitochondrial RNA polymerase terminator site sequence-specific DNA binding transcription factor activity	GO_0001146	0	1	0	0	0
+mitochondrial RNA polymerase core promoter sequence-specific DNA binding transcription factor activity	GO_0001143	0	1	0	0	0
+mitochondrial RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity	GO_0001144	0	1	0	0	0
+mitochondrial RNA polymerase binding promoter specificity activity	GO_0034246	0	1	0	0	0
+mineralocorticoid receptor activity	GO_0017082	0	1	0	0	0
+methylation-dependent chromatin silencing	GO_0006346	0	1	0	0	0
+metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in positive regulation of transcription	GO_0001215	0	1	0	0	0
+metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription	GO_0001218	0	1	0	0	0
+metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity	GO_0001204	0	1	0	0	0
+metal ion regulated sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0001200	0	1	0	0	0
+metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in positive regulation of transcription	GO_0001213	0	1	0	0	0
+metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in negative regulation of transcription	GO_0001214	0	1	0	0	0
+metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0001201	0	1	0	0	0
+mRNA transcription	GO_0009299	0	1	0	0	0
+ligand-activated sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0004879	0	1	0	0	0
+ligand-activated RNA polymerase II transcription factor binding transcription factor activity	GO_0038049	0	1	0	0	0
+juvenile hormone receptor activity	GO_0004880	0	1	0	0	0
+heterochromatin organization involved in chromatin silencing	GO_0070868	0	1	0	0	0
+heterochromatin maintenance involved in chromatin silencing at centromere outer repeat region	GO_1902368	0	1	0	0	0
+heterochromatin maintenance involved in chromatin silencing	GO_0070870	0	1	0	0	0
+heterochromatin assembly involved in chromatin silencing by small RNA	GO_0070924	0	1	0	0	0
+heterochromatin assembly involved in chromatin silencing	GO_0070869	0	1	0	0	0
+glucocorticoid-activated sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0038050	0	1	0	0	0
+glucocorticoid-activated RNA polymerase II transcription factor binding transcription factor activity	GO_0038051	0	1	0	0	0
+estrogen-activated sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0038052	0	1	0	0	0
+estrogen-activated RNA polymerase II transcription factor binding transcription factor activity	GO_0038053	0	1	0	0	0
+establishment of chromatin silencing at telomere	GO_0035390	0	1	0	0	0
+establishment of chromatin silencing at silent mating-type cassette	GO_0035389	0	1	0	0	0
+establishment of chromatin silencing	GO_0006343	0	1	0	0	0
+ecdysteroid hormone receptor activity	GO_0004884	0	1	0	0	0
+core RNA polymerase II recruiting transcription factor activity	GO_0001139	0	1	0	0	0
+core RNA polymerase I binding transcription factor activity	GO_0001181	0	1	0	0	0
+copper ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription	GO_0001219	0	1	0	0	0
+copper ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in positive regulation of transcription	GO_0001211	0	1	0	0	0
+copper ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0001202	0	1	0	0	0
+chromatin silencing by small RNA	GO_0031048	0	1	0	0	0
+chromatin silencing at telomere	GO_0006348	0	1	0	0	0
+chromatin silencing at silent mating-type cassette	GO_0030466	0	1	0	0	0
+chromatin silencing at rDNA	GO_0000183	0	1	0	0	0
+chromatin silencing at centromere outer repeat region	GO_1990141	0	1	0	0	0
+chromatin silencing at centromere central core	GO_0072692	0	1	0	0	0
+chromatin silencing at centromere	GO_0030702	0	1	0	0	0
+chromatin silencing	GO_0006342	0	1	0	0	0
+chromatin organization involved in regulation of transcription	GO_0034401	0	1	0	0	0
+chromatin organization involved in negative regulation of transcription	GO_0097549	0	1	0	0	0
+carbon catabolite repression of transcription	GO_0045013	0	1	0	0	0
+carbon catabolite regulation of transcription	GO_0045990	0	1	0	0	0
+carbon catabolite activation of transcription	GO_0045991	0	1	0	0	0
+cap snatching	GO_0075526	0	1	0	0	0
+calcitriol receptor activity	GO_0008434	0	1	0	0	0
+cadmium ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription	GO_0001220	0	1	0	0	0
+bacterial-type RNA polymerase transcription enhancer sequence-specific DNA binding transcription factor activity	GO_0001151	0	1	0	0	0
+bacterial-type RNA polymerase termination site sequence-specific DNA binding transcription factor activity	GO_0001149	0	1	0	0	0
+bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription	GO_0001140	0	1	0	0	0
+bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription	GO_0001141	0	1	0	0	0
+bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity	GO_0001131	0	1	0	0	0
+antisense RNA transcription	GO_0009300	0	1	0	0	0
+androgen receptor activity	GO_0004882	0	1	0	0	0
+activation by virus of host NF-kappaB transcription factor activity	GO_0039652	0	1	0	0	0
+TFIIH-class transcription factor recruiting transcription factor activity	GO_0001138	0	1	0	0	0
+TFIIF-class transcription factor recruiting transcription factor activity	GO_0001137	0	1	0	0	0
+TFIIE-class transcription factor recruiting transcription factor activity	GO_0001136	0	1	0	0	0
+TBP-class protein binding RNA polymerase II transcription factor activity involved in preinitiation complex assembly	GO_0001129	0	1	0	0	0
+TBP-class protein binding RNA polymerase II transcription factor activity	GO_0001132	0	1	0	0	0
+SREBP signaling pathway	GO_0032933	0	1	0	0	0
+RNA-templated viral transcription	GO_0039696	0	1	0	0	0
+RNA-directed RNA polymerase activity	GO_0003968	0	1	0	0	0
+RNA polymerase III type 1 promoter sequence-specific DNA binding TFIIIC recruiting transcription factor activity	GO_0001152	0	1	0	0	0
+RNA polymerase III type 1 promoter TFIIIB recruiting transcription factor activity	GO_0001157	0	1	0	0	0
+RNA polymerase III transcription factor recruiting transcription factor activity	GO_0001153	0	1	0	0	0
+RNA polymerase II transcription regulatory region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription	GO_0001228	0	1	0	0	0
+RNA polymerase II transcription regulatory region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription	GO_0001227	0	1	0	0	0
+RNA polymerase II transcription factor recruiting transcription factor activity	GO_0001135	0	1	0	0	0
+RNA polymerase II transcription factor binding transcription factor activity involved in positive regulation of transcription	GO_0001190	0	1	0	0	0
+RNA polymerase II transcription factor binding transcription factor activity involved in negative regulation of transcription	GO_0001191	0	1	0	0	0
+RNA polymerase II transcription coactivator activity involved in preinitiation complex assembly	GO_0001128	0	1	0	0	0
+RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription	GO_0001205	0	1	0	0	0
+RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription	GO_0001206	0	1	0	0	0
+RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity	GO_0003705	0	1	0	0	0
+RNA polymerase I upstream control element sequence-specific DNA binding transcription factor activity	GO_0001168	0	1	0	0	0
+RNA polymerase I transcription factor recruiting transcription factor activity	GO_0001186	0	1	0	0	0
+RNA polymerase I enhancer sequence-specific DNA binding transcription factor activity	GO_0001170	0	1	0	0	0
+RNA polymerase I CORE element sequence-specific DNA binding transcription factor recruiting transcription factor activity	GO_0001187	0	1	0	0	0
+RNA polymerase I CORE element sequence-specific DNA binding transcription factor activity	GO_0001169	0	1	0	0	0
+DNA-templated viral transcription	GO_0039695	0	1	0	0	0
+BMP signaling pathway involved in ureter morphogenesis	GO_0061149	0	1	0	0	0
+BMP signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0021919	0	1	0	0	0
+BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	0	1	0	0	0
+BMP signaling pathway involved in renal system segmentation	GO_0061151	0	1	0	0	0
+BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation	GO_0003269	0	1	0	0	0
+BMP signaling pathway involved in nephric duct formation	GO_0071893	0	1	0	0	0
+BMP signaling pathway involved in mesodermal cell fate specification	GO_0060803	0	1	0	0	0
+BMP signaling pathway involved in heart jogging	GO_0003303	0	1	0	0	0
+BMP signaling pathway involved in heart induction	GO_0003130	0	1	0	0	0
+BMP signaling pathway involved in heart development	GO_0061312	0	1	0	0	0
+BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	0	0	0
+BMP signaling pathway involved in forebrain neuron fate commitment	GO_0022024	0	1	0	0	0
+BMP signaling pathway involved in determination of left/right symmetry	GO_0003154	0	1	0	0	0
+BMP signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_0003155	0	1	0	0	0
+BMP signaling pathway involved in Malpighian tubule cell chemotaxis	GO_0061353	0	1	0	0	0
+BMP signaling pathway	GO_0030509	0	1	0	0	0
+9-cis retinoic acid receptor activity	GO_0004886	0	1	0	0	0

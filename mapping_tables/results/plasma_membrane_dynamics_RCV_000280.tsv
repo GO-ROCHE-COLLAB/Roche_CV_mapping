@@ -1,12 +1,12 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+plasma membrane repair	GO_0001778	1	1	1	0	0
+plasma membrane organization involved in conjugation with cellular fusion	GO_0070872	1	1	1	0	0
+plasma membrane organization	GO_0007009	1	1	1	0	0
 plasma membrane to endosome transport	GO_0048227	1	0	1	0	0
 plasma membrane selenite transport	GO_0097080	1	0	1	0	0
 plasma membrane respiratory chain complex IV assembly	GO_0033618	1	0	1	0	0
-plasma membrane repair	GO_0001778	1	0	1	0	0
 plasma membrane pyruvate transport	GO_0006849	1	0	1	0	0
 plasma membrane proton-transporting ATP synthase complex assembly	GO_0033616	1	0	1	0	0
-plasma membrane organization involved in conjugation with cellular fusion	GO_0070872	1	0	1	0	0
-plasma membrane organization	GO_0007009	1	0	1	0	0
 plasma membrane lactate transport	GO_0035879	1	0	1	0	0
 plasma membrane fusion involved in cytogamy	GO_0032220	1	0	1	0	0
 plasma membrane fusion	GO_0045026	1	0	1	0	0
@@ -15,3 +15,31 @@ plasma membrane copper ion transport	GO_0015679	1	0	1	0	0
 plasma membrane acetate transport	GO_0006847	1	0	1	0	0
 plasma membrane ATP synthesis coupled proton transport	GO_0042777	1	0	1	0	0
 plasma membrane ATP synthesis coupled electron transport	GO_0042774	1	0	1	0	0
+sperm plasma membrane disassembly	GO_0035045	0	1	0	0	0
+regulation of plasma membrane sterol distribution	GO_0097036	0	1	0	0	0
+protein transport into plasma membrane raft	GO_0044861	0	1	0	0	0
+protein transport from ciliary membrane to plasma membrane	GO_1903445	0	1	0	0	0
+protein targeting to plasma membrane	GO_0072661	0	1	0	0	0
+protein localization to postsynaptic membrane	GO_1903539	0	1	0	0	0
+protein localization to plasma membrane raft	GO_0044860	0	1	0	0	0
+protein localization to plasma membrane of cell tip	GO_1903418	0	1	0	0	0
+protein localization to plasma membrane	GO_0072659	0	1	0	0	0
+protein localization to ciliary membrane	GO_1903441	0	1	0	0	0
+protein localization to basolateral plasma membrane	GO_1903361	0	1	0	0	0
+protein localization to T-tubule	GO_0036371	0	1	0	0	0
+phospholipid scrambling	GO_0017121	0	1	0	0	0
+phosphatidylserine exposure on osteoblast involved in bone mineralization	GO_0061592	0	1	0	0	0
+phosphatidylserine exposure on blood platelet	GO_0097045	0	1	0	0	0
+phosphatidylserine exposure on apoptotic cell surface	GO_0070782	0	1	0	0	0
+peripheral nervous system myelin maintenance	GO_0032287	0	1	0	0	0
+myelin maintenance	GO_0043217	0	1	0	0	0
+membrane tubulation	GO_0097320	0	1	0	0	0
+membrane reorganization involved in phagocytosis, engulfment	GO_0060098	0	1	0	0	0
+cornified envelope assembly	GO_1903575	0	1	0	0	0
+central nervous system myelin maintenance	GO_0032286	0	1	0	0	0
+calcium activated phospholipid scrambling	GO_0061588	0	1	0	0	0
+calcium activated phosphatidylserine scrambling	GO_0061589	0	1	0	0	0
+calcium activated phosphatidylcholine scrambling	GO_0061590	0	1	0	0	0
+calcium activated galactosylceramide scrambling	GO_0061591	0	1	0	0	0
+Golgi to plasma membrane protein transport	GO_0043001	0	1	0	0	0
+Golgi to plasma membrane CFTR protein transport	GO_0043000	0	1	0	0	0
