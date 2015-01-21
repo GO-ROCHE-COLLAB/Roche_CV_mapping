@@ -8,7 +8,7 @@ glial	RCV_000170	glial cell	CL_0000125	CL_anat_super_query		335	open
 macrophage	RCV_000229	macrophage	CL_0000235	CL_anat_super_query		149	open
 leukocyte activation	RCV_000220	leukocyte	CL_0000738	CL_anat_super_query		271	open
 intestine	RCV_000208	intestine	UBERON_0000160	CL_anat_super_query		359	open
-central nervous system	RCV_000131	central nervous system	UBERON_0001017	CL_anat_super_query		328	open
+central nervous system	RCV_000131	central nervous system development	GO_0007417	is_a_OR_part_of_OR_regulates		328	open
 circulatory system	RCV_000138	circulatory system process	GO_0003013	Equivalence	Suggest having separate term for circulatory system development?	247	open
 enzyme	RCV_000153	catalytic activity	GO_0003824	Equivalence		304	open
 organic acid metabolism	RCV_000260	organic acid metabolic process	GO_0006082	Equivalence		95	open
@@ -284,16 +284,16 @@ DNA repair	RCV_000009	DNA repair	GO_0006281	is_a_OR_part_of_OR_regulates_OR_capa
 DNA dynamics	RCV_000007	Not_mapping	Not_mapping	?	Term obsoleted?	26	closed
 auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	is_a_OR_part_of_OR_regulates	Manual mapping is mix of receptor cell dev and behavior, mostly former.  Should these two be split?	229	closed
 host defense	RCV_000193	?defense response	?GO_0006952	?			
-reproduction	RCV_000293	reproduction	GO_0000003	?			
-succinyl-CoA pathway	RCV_000318	succinyl-CoA pathway	GO_0006104	?			
-translation	RCV_000335	translation	GO_0006412	?			
-vitamin metabolism	RCV_000355	vitamin metabolic process	GO_0006766	?			
-oxidative stress	RCV_000263	response to oxidative stress	GO_0006979	?			
-protein secretion	RCV_000288	protein secretion	GO_0009306	?			
-salt stress response	RCV_000296	response to salt stress	GO_0009651	?			
-protein splicing	RCV_000289	protein splicing	GO_0030908	?			
-symbiosis	RCV_000320	symbiosis, encompassing mutualism through parasitism	GO_0044403	?			
-transcription	RCV_000332	nucleic acid-templated transcription	GO_0097659	?			
+reproduction	RCV_000293	reproduction	GO_0000003	is_a_OR_part_of_OR_regulates			
+succinyl-CoA pathway	RCV_000318	succinyl-CoA pathway	GO_0006104	is_a_OR_part_of_OR_regulates			
+translation	RCV_000335	translation	GO_0006412	is_a_OR_part_of_OR_regulates			
+vitamin metabolism	RCV_000355	vitamin metabolic process	GO_0006766	Equivalence			
+oxidative stress	RCV_000263	response to oxidative stress	GO_0006979	is_a_OR_part_of_OR_regulates			
+protein secretion	RCV_000288	protein secretion	GO_0009306	is_a_OR_part_of_OR_regulates			
+salt stress response	RCV_000296	response to salt stress	GO_0009651	is_a_OR_part_of_OR_regulates			
+protein splicing	RCV_000289	protein splicing	GO_0030908	is_a_OR_part_of_OR_regulates			
+symbiosis	RCV_000320	symbiosis, encompassing mutualism through parasitism	GO_0044403	is_a_OR_part_of_OR_regulates			
+transcription	RCV_000332	nucleic acid-templated transcription	GO_0097659	is_a_OR_part_of	Leaving out regulation as brings in too much		
 fungus	RCV_000168	Fungi	NCBITaxon_4751	?			
 glucose effects	RCV_000174	Not_mappable	Not_mappable	?	Not_mappable		
 olfactory	RCV_000254	Not_mappable	Not_mappable	?	Unfortunately not mappable right now.  Making it mappable would be an interesting project.		
@@ -309,27 +309,27 @@ sex male	RCV_000301	Not_mappable	Not_mappable	?	With some more axiomatisation, c
 unicellular growth	RCV_000338	Not_mappable	Not_mappable	?			
 cytochrome	RCV_000361	Not_mappable	Not_mappable	?			
 immune rsponse	RCV_000196	Not_mapping	Not_mapping	?	duplicate RCV term with RCV_000195		
-snRNA	RCV_000306	snRNA	SO_0000274	?			
-snoRNA	RCV_000307	snoRNA	SO_0000275	?			
-stomach	RCV_000316	stomach	UBERON_0000945	?			
-skin	RCV_000303	skin epidermis	UBERON_0001003	?			
-smooth muscle	RCV_000304	smooth muscle tissue	UBERON_0001135	?			
-vessel	RCV_000348	blood vessel	UBERON_0001981	?	Redundant with blood vessel development?		
-spinal cord	RCV_000310	spinal cord	UBERON_0002240	?			
-trachea	RCV_000331	trachea	UBERON_0003126	?			
-aerobic metabolism	RCV_000054			?			
-anaerobic metabolism	RCV_000060			?			
-antifungal	RCV_000063			?	Internal note: some work on new GOCHE terms required before this can be added.		
-antimicrobial	RCV_000064			?	Internal note: some work on new GOCHE terms required before this can be added.		
-glomerular epithelial cell	RCV_000171			?	Missing CL term!		
-muscle	RCV_000239			?	Don't undertand the intent.		
-nervous	RCV_000242	Not_mapping		?	redundant with nervous system development?		
-neurotransmitter	RCV_000246	?('has participant' some 'substance with neurotransmitter biological role')		?			
-noradrenergic	RCV_000251	noradrenergic neuron		?			
-nuclear events	RCV_000252			?	Needs new CL term		
-olfactory system development	RCV_000255			?	Fix through better axiomatisation of uberon?		
-oxidative metabolism	RCV_000262			?			
-photoreceptor	RCV_000277			?			
+snRNA	RCV_000306	snRNA	SO_0000274	has_participant_chemical	Issue for GO: need to standardise on SO or ChEBI for these.  Have switched all to ChEBI for now.		
+snoRNA	RCV_000307	snoRNA	SO_0000275	has_participant_chemical			
+stomach	RCV_000316	stomach	UBERON_0000945	CL_anat_super_query			
+skin	RCV_000303	skin epidermis	UBERON_0001003	CL_anat_super_query			
+smooth muscle	RCV_000304	smooth muscle tissue	UBERON_0001135	CL_anat_super_query			
+vessel	RCV_000348	blood vessel	UBERON_0001981	CL_anat_super_query	Redundant with blood vessel development?		
+spinal cord	RCV_000310	spinal cord	UBERON_0002240	CL_anat_super_query			
+trachea	RCV_000331	trachea development	GO_0060438	is_a_OR_part_of_OR_regulates			
+aerobic metabolism	RCV_000054	term pending	term pending	?	Possibly fixing with new GO term.  Waiting for response from editors.		
+anaerobic metabolism	RCV_000060	term pending	term pending	?	Possibly fixing with new GO term.  Waiting for response from editors.		
+antifungal	RCV_000063	Not_mapping?	Not_mapping?	?	Internal note: some work on new GOCHE terms required before this can be added.		
+antimicrobial	RCV_000064	Not_mapping?	Not_mapping?	?	Internal note: some work on new GOCHE terms required before this can be added.		
+glomerular epithelial cell	RCV_000171	term pending	term pending	?	Missing CL term!		
+muscle	RCV_000239	?	?	?	Don't undertand the intent.		
+nervous	RCV_000242	Not_mapping	Not_mapping	?	redundant with nervous system development?		
+neurotransmitter	RCV_000246	substance with neurotransmitter biological role	GOCHE_25512	has_participant_chemical			
+noradrenergic	RCV_000251	noradrenergic neuron	term pending	?CL_anat_super_query	Needs new CL term		
+nuclear events	RCV_000252	nucleus	GO_0005634	cellular_component_process			
+olfactory system development	RCV_000255	term pending?	term pending?	?	Fix through better axiomatisation of uberon?		
+oxidative metabolism	RCV_000262	Not_mappable	Not_mappable	?			
+photoreceptor	RCV_000277	photoreceptor cell	CL_0000210	CL_super_query	Misses activity term.		
 plant metabolism	RCV_000279	Viridiplantae	NCBITaxon_33090	? 'metabolic process' that only_in_taxon some Viridiplantae			
 astrocyte	RCV_000074	astrocyte	CL_0000127	? occurs in or has_participant ? + dev?			
 mitochondrial	RCV_000236	mitochondrion	GO_0005739	?CC_process_query	pattern TBA		
@@ -343,7 +343,7 @@ glands	RCV_000169	gland	UBERON_0002530	?has_participant / occurs in ?
 virus	RCV_000350	Viruses	NCBITaxon_10239	?only_in_taxon			
 bacterial	RCV_000079	Bacteria <prokaryote>	NCBITaxon_2	?only_in_taxon			
 plant	RCV_000278	Viridiplantae	NCBITaxon_33090	?only_in_taxon			
-yeast	RCV_000358			?only_in_taxon	Need union of Schizosaccharomycetes with Saccharomycetes ? 		
+yeast	RCV_000358	Not_mappable	Not_mappable	?only_in_taxon	Need union of Schizosaccharomycetes with Saccharomycetes ? 		
 exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?results in developmental progression of	Manual mapping is much more limited than name suggests.		
 vacuole	RCV_000343	vacuole	GO_0005773	cellular_component_and_related_processes			
 oxidoreductase activity	RCV_000264	oxidoreductase activity	GO_0016491	cellular_component_and_related_processes			
@@ -353,11 +353,11 @@ protein modification	RCV_000287	protein modification	GO_0036211	Equivalence
 post-translational	RCV_000282	post-translational protein modification	GO_0043687	Equivalence			
 respiration	RCV_000294	cellular respiration	GO_0045333	Equivalence			
 ion metabolism	RCV_000210	inorganic ion homesostasis	GO_0098771	?Equivalence	Mappping rather narrower then manual list		
-plasma membrane dynamics	RCV_000280	plasma membrane	GO_0005886	has_participant_chemical	Needs GO update.		
+plasma membrane dynamics	RCV_000280	plasma membrane	GO_0005886	cellular_component_process	Needs GO update.		
 xenobiotic	RCV_000357	substance with xenobiotic role	GOCHE_35703	has_participant_chemical			
 insulin	RCV_000201	Insulin	PR_000009054	has_participant_chemical			
 ubiquitin	RCV_000337	ubiquitin	PR_000035728	has_participant_chemical			
-vescicle dynamics	RCV_000347	vescicle	GO_0031982	has_participant_or_occurs_in			
+vescicle dynamics	RCV_000347	vescicle	GO_0031982	cellular_component_and_related_processes			
 protein folding	RCV_000284	protein folding	GO_0006457	is_a_OR_part_of			
 protein localization	RCV_000285	protein localization	GO_0008104	is_a_OR_part_of			
 nerve function	RCV_000241	neuronal action potential	GO_0019228	is_a_OR_part_of_OR_regulates			

@@ -24,6 +24,8 @@ telomeric heterochromatin	GO_0031933	0	1	1	0	0
 telomere-telomerase complex	GO_0070565	0	1	1	0	0
 telomere single strand break repair	GO_1903823	0	1	0	0	0
 telomere cap complex	GO_0000782	0	1	1	0	0
+protein localization to telomeric heterochromatin	GO_1990152	0	1	0	0	0
+protein localization to chromosome, telomeric region	GO_0070198	0	1	0	0	0
 protection from non-homologous end joining at telomere	GO_0031848	0	1	1	0	0
 polytene chromosome, telomeric region	GO_0035012	0	1	1	0	0
 nuclear telomeric heterochromatin	GO_0005724	0	1	1	0	0
@@ -31,6 +33,7 @@ nuclear telomere cap complex	GO_0000783	0	1	1	0	0
 nuclear chromosome, telomeric region	GO_0000784	0	1	1	0	0
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	1	0	0
 meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	1	0	0
+establishment of protein localization to telomere	GO_0070200	0	1	0	0	0
 chromosome, telomeric region	GO_0000781	0	1	1	0	0
 age-dependent telomere shortening	GO_0001309	0	1	1	0	0
 Tpg-containing telomere binding complex	GO_0043769	0	1	1	0	0

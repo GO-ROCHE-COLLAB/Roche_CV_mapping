@@ -60,6 +60,10 @@ synapse	GO_0045202	0	1	1	0	0
 symmetric synapse	GO_0032280	0	1	1	0	0
 subsynaptic reticulum	GO_0071212	0	1	1	0	0
 ribbon synapse	GO_0097470	0	1	1	0	0
+regulation of synaptic plasticity by receptor localization to synapse	GO_1900383	0	1	0	0	0
+receptor localization to synapse	GO_0097120	0	1	0	0	0
+protein localization to synapse	GO_0035418	0	1	0	0	0
+protein localization to postsynaptic membrane	GO_1903539	0	1	0	0	0
 presynaptic periactive zone	GO_0036062	0	1	1	0	0
 presynaptic membrane	GO_0042734	0	1	1	0	0
 presynaptic grid	GO_1990013	0	1	1	0	0
@@ -72,6 +76,7 @@ postsynaptic density organization	GO_0097106	0	1	1	0	0
 postsynaptic density assembly	GO_0097107	0	1	1	0	0
 postsynaptic density	GO_0014069	0	1	1	0	0
 positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	1	0	0
+neurotransmitter loading into synaptic vesicle	GO_0098700	0	1	0	0	0
 neuronal postsynaptic density	GO_0097481	0	1	1	0	0
 neuron-neuron synaptic transmission	GO_0007270	0	1	1	0	0
 neuromuscular synaptic transmission	GO_0007274	0	1	1	0	0
@@ -95,6 +100,7 @@ excitatory synapse	GO_0060076	0	1	1	0	0
 excitatory neuromuscular junction of somatic myotube	GO_0098525	0	1	1	0	0
 excitatory neuromuscular junction	GO_0098520	0	1	1	0	0
 establishment of synaptic specificity at neuromuscular junction	GO_0007529	0	1	1	0	0
+establishment of protein localization to postsynaptic membrane	GO_1903540	0	1	0	0	0
 clathrin coat of synaptic vesicle	GO_0030129	0	1	1	0	0
 asymmetric synapse	GO_0032279	0	1	1	0	0
 acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	0	0	0

@@ -1,22 +1,29 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+plasma membrane to endosome transport	GO_0048227	1	1	1	0	0
+plasma membrane selenite transport	GO_0097080	1	1	1	0	0
 plasma membrane repair	GO_0001778	1	1	1	0	0
+plasma membrane pyruvate transport	GO_0006849	1	1	1	0	0
 plasma membrane organization involved in conjugation with cellular fusion	GO_0070872	1	1	1	0	0
 plasma membrane organization	GO_0007009	1	1	1	0	0
-plasma membrane to endosome transport	GO_0048227	1	0	1	0	0
-plasma membrane selenite transport	GO_0097080	1	0	1	0	0
+plasma membrane lactate transport	GO_0035879	1	1	1	0	0
+plasma membrane fusion involved in cytogamy	GO_0032220	1	1	1	0	0
+plasma membrane fusion	GO_0045026	1	1	1	0	0
+plasma membrane copper ion transport	GO_0015679	1	1	1	0	0
+plasma membrane acetate transport	GO_0006847	1	1	1	0	0
 plasma membrane respiratory chain complex IV assembly	GO_0033618	1	0	1	0	0
-plasma membrane pyruvate transport	GO_0006849	1	0	1	0	0
 plasma membrane proton-transporting ATP synthase complex assembly	GO_0033616	1	0	1	0	0
-plasma membrane lactate transport	GO_0035879	1	0	1	0	0
-plasma membrane fusion involved in cytogamy	GO_0032220	1	0	1	0	0
-plasma membrane fusion	GO_0045026	1	0	1	0	0
 plasma membrane electron transport, NADH to quinone	GO_0030965	1	0	1	0	0
-plasma membrane copper ion transport	GO_0015679	1	0	1	0	0
-plasma membrane acetate transport	GO_0006847	1	0	1	0	0
 plasma membrane ATP synthesis coupled proton transport	GO_0042777	1	0	1	0	0
 plasma membrane ATP synthesis coupled electron transport	GO_0042774	1	0	1	0	0
+vesicle targeting, plasma membrane to endosome	GO_0048201	0	1	0	0	0
+uracil import across plasma membrane	GO_0098721	0	1	0	0	0
+syncytium formation by plasma membrane fusion	GO_0000768	0	1	0	0	0
+succinate import across plasma membrane	GO_0098720	0	1	0	0	0
 sperm plasma membrane disassembly	GO_0035045	0	1	0	0	0
+sodium ion import across plasma membrane	GO_0098719	0	1	0	0	0
+serine import across plasma membrane	GO_0098718	0	1	0	0	0
 regulation of plasma membrane sterol distribution	GO_0097036	0	1	0	0	0
+protein transport out of plasma membrane raft	GO_0044862	0	1	0	0	0
 protein transport into plasma membrane raft	GO_0044861	0	1	0	0	0
 protein transport from ciliary membrane to plasma membrane	GO_1903445	0	1	0	0	0
 protein targeting to plasma membrane	GO_0072661	0	1	0	0	0
@@ -27,19 +34,55 @@ protein localization to plasma membrane	GO_0072659	0	1	0	0	0
 protein localization to ciliary membrane	GO_1903441	0	1	0	0	0
 protein localization to basolateral plasma membrane	GO_1903361	0	1	0	0	0
 protein localization to T-tubule	GO_0036371	0	1	0	0	0
+protein insertion into plasma membrane raft	GO_0044859	0	1	0	0	0
+protein insertion into plasma membrane	GO_0098737	0	1	0	0	0
+potassium ion import across plasma membrane	GO_1990573	0	1	0	0	0
+potassium ion export across plasma membrane	GO_0097623	0	1	0	0	0
+plasma membrane long-chain fatty acid transport	GO_0015911	0	1	0	0	0
 phospholipid scrambling	GO_0017121	0	1	0	0	0
 phosphatidylserine exposure on osteoblast involved in bone mineralization	GO_0061592	0	1	0	0	0
 phosphatidylserine exposure on blood platelet	GO_0097045	0	1	0	0	0
 phosphatidylserine exposure on apoptotic cell surface	GO_0070782	0	1	0	0	0
 peripheral nervous system myelin maintenance	GO_0032287	0	1	0	0	0
+pantothenate import across plasma membrane	GO_0098717	0	1	0	0	0
+osteoclast fusion	GO_0072675	0	1	0	0	0
+nickel cation import across plasma membrane	GO_0098716	0	1	0	0	0
+myoblast fusion involved in skeletal muscle regeneration	GO_0014905	0	1	0	0	0
+myoblast fusion	GO_0007520	0	1	0	0	0
 myelin maintenance	GO_0043217	0	1	0	0	0
 membrane tubulation	GO_0097320	0	1	0	0	0
 membrane reorganization involved in phagocytosis, engulfment	GO_0060098	0	1	0	0	0
+malonic acid import across plasma membrane	GO_0098715	0	1	0	0	0
+malate import across plasma membrane	GO_0098714	0	1	0	0	0
+macrophage fusion	GO_0034238	0	1	0	0	0
+leucine import across plasma membrane	GO_0098713	0	1	0	0	0
+lactic acid secretion	GO_0046722	0	1	0	0	0
+iron ion import across plasma membrane	GO_0098711	0	1	0	0	0
+import across plasma membrane	GO_0098739	0	1	0	0	0
+guanine import across plasma membrane	GO_0098710	0	1	0	0	0
+glutathione import across plasma membrane	GO_0098709	0	1	0	0	0
+glucose import across plasma membrane	GO_0098708	0	1	0	0	0
+fusion of sperm to egg plasma membrane	GO_0007342	0	1	0	0	0
+fructose import across plasma membrane	GO_1990539	0	1	0	0	0
+ferrous iron import across plasma membrane	GO_0098707	0	1	0	0	0
+ferric iron import across plasma membrane	GO_0098706	0	1	0	0	0
+establishment of protein localization to postsynaptic membrane	GO_1903540	0	1	0	0	0
+establishment of protein localization to plasma membrane	GO_0090002	0	1	0	0	0
 cornified envelope assembly	GO_1903575	0	1	0	0	0
+copper ion import across plasma membrane	GO_0098705	0	1	0	0	0
 central nervous system myelin maintenance	GO_0032286	0	1	0	0	0
+carbohydrate import across plasma membrane	GO_0098704	0	1	0	0	0
+calcium ion import across plasma membrane	GO_0098703	0	1	0	0	0
 calcium activated phospholipid scrambling	GO_0061588	0	1	0	0	0
 calcium activated phosphatidylserine scrambling	GO_0061589	0	1	0	0	0
 calcium activated phosphatidylcholine scrambling	GO_0061590	0	1	0	0	0
 calcium activated galactosylceramide scrambling	GO_0061591	0	1	0	0	0
+amino acid import across plasma membrane	GO_0089718	0	1	0	0	0
+adenine import across plasma membrane	GO_0098702	0	1	0	0	0
+L-ornithine import across plasma membrane	GO_0097640	0	1	0	0	0
+L-lysine import across plasma membrane	GO_0097639	0	1	0	0	0
+L-glutamate import across plasma membrane	GO_0098712	0	1	0	0	0
+L-arginine import across plasma membrane	GO_0097638	0	1	0	0	0
+Golgi to plasma membrane transport	GO_0006893	0	1	0	0	0
 Golgi to plasma membrane protein transport	GO_0043001	0	1	0	0	0
 Golgi to plasma membrane CFTR protein transport	GO_0043000	0	1	0	0	0

@@ -169,7 +169,7 @@
 * Key class: [chromosome, telomeric region](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000781)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A chromosome, telomeric region or a process that results in organisation of a chromosome, telomeric region or that has a chromosome, telomeric region as a participant.
-* map summary: Roche_cvt: RCV_000324; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0000781; manual_list_count 20, generated_list_count 28
+* map summary: Roche_cvt: RCV_000324; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0000781; manual_list_count 20, generated_list_count 31
 * [Results](telomere_RCV_000324.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/255)
 * Status: closed - mapping completed
@@ -854,7 +854,7 @@
 * Key class: [vescicle](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0031982)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A vescicle or a process that results in organisation of a vescicle or that has a vescicle as a participant.
-* map summary: Roche_cvt: RCV_000347; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031982; manual_list_count 26, generated_list_count 402
+* map summary: Roche_cvt: RCV_000347; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031982; manual_list_count 26, generated_list_count 414
 * [Results](vescicle_dynamics_RCV_000347.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -885,7 +885,7 @@
 * Key class: [plasma membrane](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005886)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a plasma membrane or that has a plasma membrane as a participant.
-* map summary: Roche_cvt: RCV_000280; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005886; manual_list_count 16, generated_list_count 31
+* map summary: Roche_cvt: RCV_000280; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005886; manual_list_count 16, generated_list_count 82
 * Notes: Needs GO update.
 * [Results](plasma_membrane_dynamics_RCV_000280.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -962,7 +962,7 @@
 * Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
-* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 438
+* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 459
 * [Results](cytoskeleton_RCV_000139.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/234)
 * Status: open
@@ -1081,7 +1081,7 @@
 * Key class: [vacuole](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005773)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A vacuole or a process that results in organisation of a vacuole or that has a vacuole as a participant.
-* map summary: Roche_cvt: RCV_000343; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005773; manual_list_count 29, generated_list_count 97
+* map summary: Roche_cvt: RCV_000343; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005773; manual_list_count 29, generated_list_count 158
 * [Results](vacuole_RCV_000343.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1235,8 +1235,8 @@
 
 #### photoreceptor RCV_000277
 * Key class: [photoreceptor cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000210)
-* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
-* Definition: A process in which a photoreceptor cell participates or that occur in photoreceptor cell or which results in the developmental progression of a structure that will form photoreceptor cell
+* Pattern: [CL_super_query](../../patterns/CL_super_query.md)
+* Definition: Some part of a photoreceptor cell, or some process in which: a photoreceptor cell participates; or that occur in a photoreceptor cell or which results in the developmental progression of a structure that will form a photoreceptor cell
 * map summary: Roche_cvt: RCV_000277; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000210; manual_list_count 16, generated_list_count 45
 * Notes: Misses activity term.
 * [Results](photoreceptor_RCV_000277.tsv)
@@ -1411,10 +1411,10 @@
 * Status: closed - mapping completed
 
 #### trachea RCV_000331
-* Key class: [trachea](http://www.ebi.ac.uk/ontology-lookup/?termId=UBERON:0003126)
-* Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
-* Definition: A process in which a trachea participates or that occur in trachea or which results in the developmental progression of a structure that will form trachea
-* map summary: Roche_cvt: RCV_000331; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0003126; manual_list_count 9, generated_list_count 0
+* Key class: [trachea development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060438)
+* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
+* Definition: trachea development OR a part of trachea development OR a process that regulates trachea development
+* map summary: Roche_cvt: RCV_000331; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0060438; manual_list_count 9, generated_list_count 7
 * [Results](trachea_RCV_000331.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1772,7 +1772,7 @@
 * Key class: [uropod](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0001931)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A uropod or a process that results in organisation of a uropod or that has a uropod as a participant.
-* map summary: Roche_cvt: RCV_000363; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0001931; manual_list_count 2, generated_list_count 5
+* map summary: Roche_cvt: RCV_000363; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0001931; manual_list_count 2, generated_list_count 6
 * [Results](uropod_RCV_000363.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/365)
 * Status: closed - mapping completed
@@ -2128,7 +2128,7 @@
 * Key class: [synapse](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045202)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A synapse or a process that results in organisation of a synapse or that has a synapse as a participant.
-* map summary: Roche_cvt: RCV_000321; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0045202; manual_list_count 41, generated_list_count 73
+* map summary: Roche_cvt: RCV_000321; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0045202; manual_list_count 41, generated_list_count 79
 * [Results](synapse_RCV_000321.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/258)
 * Status: closed - mapping completed
@@ -2554,9 +2554,10 @@
 
 #### transcription RCV_000332
 * Key class: [nucleic acid-templated transcription](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0097659)
-* Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
-* Definition: nucleic acid-templated transcription OR a part of nucleic acid-templated transcription OR a process that regulates nucleic acid-templated transcription
-* map summary: Roche_cvt: RCV_000332; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0097659; manual_list_count 450, generated_list_count 650
+* Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
+* Definition: nucleic acid-templated transcription OR a part of (some) nucleic acid-templated transcription.
+* map summary: Roche_cvt: RCV_000332; class_expression scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0097659; manual_list_count 450, generated_list_count 211
+* Notes: Leaving out regulation as brings in too much
 * [Results](transcription_RCV_000332.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2744,7 +2745,7 @@
 * Key class: [nucleus](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005634)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a nucleus or that has a nucleus as a participant.
-* map summary: Roche_cvt: RCV_000252; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005634; manual_list_count 94, generated_list_count 86
+* map summary: Roche_cvt: RCV_000252; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005634; manual_list_count 94, generated_list_count 205
 * [Results](nuclear_events_RCV_000252.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2811,7 +2812,7 @@
 * Key class: [peroxisome](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005777)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A peroxisome or a process that results in organisation of a peroxisome or that has a peroxisome as a participant.
-* map summary: Roche_cvt: RCV_000275; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005777; manual_list_count 24, generated_list_count 33
+* map summary: Roche_cvt: RCV_000275; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005777; manual_list_count 24, generated_list_count 37
 * [Results](peroxisome_RCV_000275.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/297)
 * Status: closed - mapping completed

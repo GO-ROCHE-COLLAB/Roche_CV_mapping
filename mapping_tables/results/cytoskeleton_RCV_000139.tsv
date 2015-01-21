@@ -1,6 +1,8 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 tubulin complex assembly	GO_0007021	1	1	1	0	0
 spindle pole	GO_0000922	1	1	1	0	0
+protein localization to microtubule	GO_0035372	1	1	1	0	0
+protein localization to cortical microtubule cytoskeleton	GO_0072699	1	1	1	0	0
 plus-end-directed vesicle transport along microtubule	GO_0072383	1	1	1	0	0
 plus-end-directed organelle transport along microtubule	GO_0072386	1	1	1	0	0
 plus-end specific microtubule depolymerization	GO_0070462	1	1	1	0	0
@@ -110,8 +112,6 @@ regulation of actin cytoskeleton organization	GO_0032956	1	0	1	0	0
 regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000580	1	0	1	0	0
 regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000577	1	0	1	0	0
 protein localization to microtubule cytoskeleton	GO_0072698	1	0	1	0	0
-protein localization to microtubule	GO_0035372	1	0	1	0	0
-protein localization to cortical microtubule cytoskeleton	GO_0072699	1	0	1	0	0
 positive regulation of microtubule polymerization or depolymerization	GO_0031112	1	0	1	0	0
 positive regulation of microtubule polymerization	GO_0031116	1	0	1	0	0
 positive regulation of microtubule nucleation	GO_0090063	1	0	1	0	0
@@ -245,6 +245,21 @@ right anterior basal body	GO_1902672	0	1	0	0	0
 retrograde axon cargo transport	GO_0008090	0	1	0	0	0
 repair of mono-orientation defects	GO_1990598	0	1	0	0	0
 pseudohyphal septin ring	GO_0032170	0	1	0	0	0
+protein localization to spindle pole body	GO_0071988	0	1	0	0	0
+protein localization to spindle microtubule	GO_1902889	0	1	0	0	0
+protein localization to septin ring	GO_1902935	0	1	0	0	0
+protein localization to mitotic spindle pole body	GO_1902440	0	1	0	0	0
+protein localization to mitotic spindle midzone	GO_1902967	0	1	0	0	0
+protein localization to mitotic spindle	GO_1902480	0	1	0	0	0
+protein localization to meiotic spindle pole body	GO_1902441	0	1	0	0	0
+protein localization to meiotic spindle midzone	GO_1903096	0	1	0	0	0
+protein localization to horsetail-astral microtubule array	GO_1903696	0	1	0	0	0
+protein localization to eisosome filament	GO_0097446	0	1	0	0	0
+protein localization to centrosome	GO_0071539	0	1	0	0	0
+protein localization to astral microtubule	GO_1902888	0	1	0	0	0
+protein localization to actomyosin contractile ring	GO_1990179	0	1	0	0	0
+protein localization to actin filament bundle	GO_1903120	0	1	0	0	0
+protein localization to actin cortical patch	GO_0044379	0	1	0	0	0
 prospore septin ring	GO_0032169	0	1	0	0	0
 prospore septin filament array	GO_0032165	0	1	0	0	0
 prospore contractile ring	GO_0032157	0	1	0	0	0
@@ -421,6 +436,7 @@ filamentous actin	GO_0031941	0	1	0	0	0
 female meiotic chromosome movement towards spindle pole	GO_0016345	0	1	0	0	0
 female germline ring canal stabilization	GO_0008335	0	1	0	0	0
 female germline ring canal formation, actin assembly	GO_0008302	0	1	0	0	0
+establishment of protein localization to spindle pole body	GO_0071989	0	1	0	0	0
 establishment of mitotic actomyosin contractile ring localization	GO_1903486	0	1	0	0	0
 establishment of mitochondrion localization, microtubule-mediated	GO_0034643	0	1	0	0	0
 establishment of mitochondrion localization by microtubule attachment	GO_0034640	0	1	0	0	0
@@ -504,6 +520,9 @@ attachment of spindle microtubules to kinetochore involved in homologous chromos
 attachment of spindle microtubules to kinetochore	GO_0008608	0	1	0	0	0
 attachment of mitotic spindle microtubules to kinetochore	GO_0051315	0	1	0	0	0
 atrial cardiac myofibril assembly	GO_0055004	0	1	0	0	0
+asymmetric protein localization to old or new spindle pole body	GO_0061492	0	1	0	0	0
+asymmetric protein localization to old mitotic spindle pole body	GO_0061509	0	1	0	0	0
+asymmetric protein localization to new mitotic spindle pole body	GO_0061510	0	1	0	0	0
 aster	GO_0005818	0	1	0	0	0
 apical constriction involved in gastrulation	GO_0003384	0	1	0	0	0
 apical constriction	GO_0003383	0	1	0	0	0

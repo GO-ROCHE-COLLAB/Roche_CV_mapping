@@ -19187,6 +19187,7 @@ RCV_000275	peroxisome	GO_0072662	protein localization to peroxisome
 RCV_000275	peroxisome	GO_0006625	protein targeting to peroxisome
 RCV_000275	peroxisome	GO_1900063	regulation of peroxisome organization
 RCV_000275	peroxisome	GO_0044375	regulation of peroxisome size
+RCV_000275	peroxisome	GO_0019817	vesicle fusion with peroxisome
 RCV_000276	phosphatase activity 	GO_0033885	10-hydroxy-9-(phosphonooxy)octadecanoate phosphatase activity
 RCV_000276	phosphatase activity 	GO_0047538	2-carboxy-D-arabinitol-1-phosphatase activity
 RCV_000276	phosphatase activity 	GO_0003850	2-deoxyglucose-6-phosphatase activity
@@ -21731,6 +21732,7 @@ RCV_000321	synapse	GO_0001507	acetylcholine catabolic process in synaptic cleft
 RCV_000321	synapse	GO_0051933	amino acid uptake involved in synaptic transmission
 RCV_000321	synapse	GO_0032279	asymmetric synapse
 RCV_000321	synapse	GO_0030129	clathrin coat of synaptic vesicle
+RCV_000321	synapse	GO_1903540	establishment of protein localization to postsynaptic membrane
 RCV_000321	synapse	GO_0007529	establishment of synaptic specificity at neuromuscular junction
 RCV_000321	synapse	GO_0098520	excitatory neuromuscular junction
 RCV_000321	synapse	GO_0098525	excitatory neuromuscular junction of somatic myotube
@@ -21755,6 +21757,7 @@ RCV_000321	synapse	GO_0098524	neuromuscular junction of somatic muscle myotube
 RCV_000321	synapse	GO_0007274	neuromuscular synaptic transmission
 RCV_000321	synapse	GO_0007270	neuron-neuron synaptic transmission
 RCV_000321	synapse	GO_0097481	neuronal postsynaptic density
+RCV_000321	synapse	GO_0098700	neurotransmitter loading into synaptic vesicle
 RCV_000321	synapse	GO_0090127	positive regulation of synapse maturation by synaptic transmission
 RCV_000321	synapse	GO_0014069	postsynaptic density
 RCV_000321	synapse	GO_0097107	postsynaptic density assembly
@@ -21767,6 +21770,10 @@ RCV_000321	synapse	GO_0048788	presynaptic cytoskeletal matrix assembled at activ
 RCV_000321	synapse	GO_1990013	presynaptic grid
 RCV_000321	synapse	GO_0042734	presynaptic membrane
 RCV_000321	synapse	GO_0036062	presynaptic periactive zone
+RCV_000321	synapse	GO_1903539	protein localization to postsynaptic membrane
+RCV_000321	synapse	GO_0035418	protein localization to synapse
+RCV_000321	synapse	GO_0097120	receptor localization to synapse
+RCV_000321	synapse	GO_1900383	regulation of synaptic plasticity by receptor localization to synapse
 RCV_000321	synapse	GO_0097470	ribbon synapse
 RCV_000321	synapse	GO_0071212	subsynaptic reticulum
 RCV_000321	synapse	GO_0032280	symmetric synapse
@@ -22117,6 +22124,7 @@ RCV_000324	telomere	GO_0070188	Stn1-Ten1 complex
 RCV_000324	telomere	GO_0043769	Tpg-containing telomere binding complex
 RCV_000324	telomere	GO_0001309	age-dependent telomere shortening
 RCV_000324	telomere	GO_0000781	chromosome, telomeric region
+RCV_000324	telomere	GO_0070200	establishment of protein localization to telomere
 RCV_000324	telomere	GO_1902989	meiotic telomere maintenance via semi-conservative replication
 RCV_000324	telomere	GO_1902990	mitotic telomere maintenance via semi-conservative replication
 RCV_000324	telomere	GO_0000784	nuclear chromosome, telomeric region
@@ -22124,6 +22132,8 @@ RCV_000324	telomere	GO_0000783	nuclear telomere cap complex
 RCV_000324	telomere	GO_0005724	nuclear telomeric heterochromatin
 RCV_000324	telomere	GO_0035012	polytene chromosome, telomeric region
 RCV_000324	telomere	GO_0031848	protection from non-homologous end joining at telomere
+RCV_000324	telomere	GO_0070198	protein localization to chromosome, telomeric region
+RCV_000324	telomere	GO_1990152	protein localization to telomeric heterochromatin
 RCV_000324	telomere	GO_0000333	telomerase catalytic core complex
 RCV_000324	telomere	GO_0032202	telomere assembly
 RCV_000324	telomere	GO_0000782	telomere cap complex
@@ -22585,6 +22595,7 @@ RCV_000362	heme metabolism	GO_0006788	heme oxidation
 RCV_000362	heme metabolism	GO_0019354	siroheme biosynthetic process
 RCV_000362	heme metabolism	GO_0046157	siroheme catabolic process
 RCV_000362	heme metabolism	GO_0046156	siroheme metabolic process
+RCV_000363	uropod	GO_0036052	protein localization to uropod
 RCV_000363	uropod	GO_0001931	uropod
 RCV_000363	uropod	GO_0034460	uropod assembly
 RCV_000363	uropod	GO_0031259	uropod membrane

@@ -113,7 +113,12 @@ protein targeting to vacuole involved in ubiquitin-dependent protein catabolic p
 protein targeting to membrane involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043329	0	1	0	0	0
 protein targeting to Golgi	GO_0000042	0	1	0	0	0
 protein processing in phagocytic vesicle	GO_1900756	0	1	0	0	0
+protein localization to secretory granule	GO_0033366	0	1	0	0	0
+protein localization to mast cell secretory granule	GO_0033367	0	1	0	0	0
+protein localization to T cell secretory granule	GO_0033374	0	1	0	0	0
 protein C inhibitor-acrosin complex	GO_0033282	0	1	0	0	0
+protease localization to mast cell secretory granule	GO_0033368	0	1	0	0	0
+protease localization to T cell secretory granule	GO_0033375	0	1	0	0	0
 prominosome	GO_0071914	0	1	0	0	0
 post-lysosomal vacuole	GO_0032195	0	1	0	0	0
 post-Golgi vesicle-mediated transport	GO_0006892	0	1	0	0	0
@@ -171,6 +176,7 @@ ocellus pigment granule organization	GO_0008058	0	1	0	0	0
 neutrophil degranulation	GO_0043312	0	1	0	0	0
 neutrophil clearance	GO_0097350	0	1	0	0	0
 neurotransmitter secretory pathway	GO_0010554	0	1	0	0	0
+neurotransmitter loading into synaptic vesicle	GO_0098700	0	1	0	0	0
 neurosecretory vesicle	GO_1990008	0	1	0	0	0
 negative regulation of signal transduction by receptor internalization	GO_0038011	0	1	0	0	0
 negative regulation of insulin receptor signaling pathway by insulin receptor internalization	GO_0038014	0	1	0	0	0
@@ -235,6 +241,7 @@ gut granule membrane	GO_0044841	0	1	0	0	0
 gut granule lumen	GO_0044842	0	1	0	0	0
 gut granule assembly	GO_1902900	0	1	0	0	0
 gut granule	GO_0044840	0	1	0	0	0
+granzyme B localization to T cell secretory granule	GO_0033380	0	1	0	0	0
 granular vesicle	GO_1990005	0	1	0	0	0
 gas vesicle shell	GO_0033172	0	1	0	0	0
 gas vesicle organization	GO_0031412	0	1	0	0	0
@@ -258,6 +265,8 @@ epidermal lamellar body	GO_0097209	0	1	0	0	0
 eosinophil degranulation	GO_0043308	0	1	0	0	0
 endosome transport via multivesicular body sorting pathway	GO_0032509	0	1	0	0	0
 endosome to plasma membrane transport vesicle	GO_0070381	0	1	0	0	0
+endosome to pigment granule transport	GO_0043485	0	1	0	0	0
+endosome to melanosome transport	GO_0035646	0	1	0	0	0
 endosome to lysosome transport via multivesicular body sorting pathway	GO_0032510	0	1	0	0	0
 endosomal vesicle fusion	GO_0034058	0	1	0	0	0
 endocytosis involved in viral entry into host cell	GO_0075509	0	1	0	0	0
@@ -332,6 +341,7 @@ cisternal progression	GO_0045057	0	1	0	0	0
 chylomicron remnant clearance	GO_0034382	0	1	0	0	0
 chromaffin granule membrane	GO_0042584	0	1	0	0	0
 chromaffin granule lumen	GO_0034466	0	1	0	0	0
+chromaffin granule amine transport	GO_0015841	0	1	0	0	0
 chromaffin granule	GO_0042583	0	1	0	0	0
 chitosome membrane	GO_0030661	0	1	0	0	0
 chitosome	GO_0045009	0	1	0	0	0
@@ -375,6 +385,8 @@ Golgi vesicle fusion to target membrane	GO_0048210	0	1	0	0	0
 Golgi vesicle budding	GO_0048194	0	1	0	0	0
 Golgi transport vesicle coating	GO_0048200	0	1	0	0	0
 Golgi to vacuole transport	GO_0006896	0	1	0	0	0
+Golgi to transport vesicle transport	GO_0055108	0	1	0	0	0
+Golgi to secretory granule transport	GO_0055107	0	1	0	0	0
 Golgi to plasma membrane transport vesicle	GO_0070319	0	1	0	0	0
 Golgi to plasma membrane transport	GO_0006893	0	1	0	0	0
 Golgi to plasma membrane protein transport	GO_0043001	0	1	0	0	0

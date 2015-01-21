@@ -1,10 +1,10 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+trachea submucosa development	GO_0061152	1	1	1	0	0
+trachea morphogenesis	GO_0060439	1	1	1	0	0
+trachea gland development	GO_0061153	1	1	1	0	0
+trachea formation	GO_0060440	1	1	1	0	0
+trachea development	GO_0060438	1	1	1	0	0
+trachea cartilage morphogenesis	GO_0060535	1	1	1	0	0
+trachea cartilage development	GO_0060534	1	1	1	0	0
 tracheal pit formation in open tracheal system	GO_0035202	1	0	1	0	0
 tracheal outgrowth, open tracheal system	GO_0007426	1	0	1	0	0
-trachea submucosa development	GO_0061152	1	0	1	0	0
-trachea morphogenesis	GO_0060439	1	0	1	0	0
-trachea gland development	GO_0061153	1	0	1	0	0
-trachea formation	GO_0060440	1	0	1	0	0
-trachea development	GO_0060438	1	0	1	0	0
-trachea cartilage morphogenesis	GO_0060535	1	0	1	0	0
-trachea cartilage development	GO_0060534	1	0	1	0	0
