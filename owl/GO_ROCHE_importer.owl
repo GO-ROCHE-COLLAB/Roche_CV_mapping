@@ -80,6 +80,7 @@
     <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
 
     <rdf:Description rdf:about="&obo;BFO_0000050">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC"/>
     </rdf:Description>
     
@@ -90,6 +91,22 @@
     <rdf:Description rdf:about="&obo;BFO_0000066">
         <rdfs:subPropertyOf rdf:resource="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch_9a559fa6_69f8_4fed_abcb_7289aaa7d3a8"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GOREL_0002004 -->
+
+    <rdf:Description rdf:about="&obo;GOREL_0002004">
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0000057"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GOREL_0002005 -->
+
+    <rdf:Description rdf:about="&obo;GOREL_0002005">
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0000057"/>
     </rdf:Description>
     
 
@@ -149,11 +166,27 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/RO_0002344 -->
+
+    <rdf:Description rdf:about="&obo;RO_0002344">
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51"/>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 -->
 
     <owl:ObjectProperty rdf:about="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51">
         <rdfs:label>CC_process_query</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc -->
+
+    <owl:ObjectProperty rdf:about="&obo;scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc">
+        <rdfs:label>CL_super_query</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -171,6 +204,7 @@
 
     <owl:ObjectProperty rdf:about="&obo;scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5">
         <rdfs:label>CL-anat_super_query</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc"/>
     </owl:ObjectProperty>
     
 
@@ -422,8 +456,8 @@
         <oboInOwl:hasOBONamespace>biological_process</oboInOwl:hasOBONamespace>
     </owl:Class>
     <owl:Axiom>
-        <oboInOwl:hasDbXref>GOC:dos</oboInOwl:hasDbXref>
         <owl:annotatedTarget>Any process involved in the maintenance of an internal steady state of inorganic ions within an organism or cell.</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>GOC:dos</oboInOwl:hasDbXref>
         <owl:annotatedSource rdf:resource="&obo;GO_0098771"/>
         <owl:annotatedProperty rdf:resource="&obo;IAO_0000115"/>
     </owl:Axiom>
