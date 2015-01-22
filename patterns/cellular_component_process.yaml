@@ -1,0 +1,26 @@
+pattern_name: cellular_component_process
+
+classes:
+  cellular_component: GO_0005575
+
+relations:
+  'CC_process_query': scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51
+  
+vars: 
+  key_class: "'cellular_component'"
+  
+name: 
+  text: "%s and related processes"
+  vars: 
+    - key_class
+    
+def: 
+  text: "A process that results in organisation of a %s or that has a %s as a participant."
+  vars:
+    - key_class
+    - key_class
+    
+equivalentTo: 
+  text: "'CC_process_query' some %s"
+  vars:
+    - key_class

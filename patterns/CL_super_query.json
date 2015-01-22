@@ -1,0 +1,33 @@
+{
+    "classes": {
+        "cell": "CL_0000000"
+    }, 
+    "def": {
+        "text": "Some part of a %s, or some process in which: a %s participates; or that occur in a %s or which results in the developmental progression of a structure that will form a %s", 
+        "vars": [
+            "key_class", 
+            "key_class", 
+            "key_class", 
+            "key_class"
+        ]
+    }, 
+    "equivalentTo": {
+        "text": "'CL_super_query' some %s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "name": {
+        "text": "Process involving %s or its development", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "pattern_name": "CL_super_query", 
+    "relations": {
+        "CL_super_query": "scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5"
+    }, 
+    "vars": {
+        "key_class": "'cell'"
+    }
+}
