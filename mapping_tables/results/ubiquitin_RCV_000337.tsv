@@ -1,12 +1,12 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043162	1	0	1	0	0
-ubiquitin-dependent protein catabolic process via the N-end rule pathway	GO_0071596	1	0	1	0	0
-ubiquitin-dependent protein catabolic process	GO_0006511	1	0	1	0	0
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043162	1	1	1	0	0
+ubiquitin-dependent protein catabolic process via the N-end rule pathway	GO_0071596	1	1	1	0	0
+ubiquitin-dependent protein catabolic process	GO_0006511	1	1	1	0	0
+protein polyubiquitination	GO_0000209	1	1	1	0	0
 ubiquitin-dependent endocytosis	GO_0070086	1	0	1	0	0
 ubiquitin ligase complex	GO_0000151	1	0	1	0	0
 ubiquitin homeostasis	GO_0010992	1	0	1	0	0
 ubiquitin cycle	GO_0006512	1	0	1	1	1
-protein polyubiquitination	GO_0000209	1	0	1	0	0
 nuclear ubiquitin ligase complex	GO_0000152	1	0	1	0	0
 cytoplasmic ubiquitin ligase complex	GO_0000153	1	0	1	0	0
 Hrd1p ubiquitin ligase complex	GO_0000836	1	0	1	0	0
@@ -14,10 +14,56 @@ Hrd1p ubiquitin ligase ERAD-M complex	GO_0000838	1	0	1	0	0
 Hrd1p ubiquitin ligase ERAD-L complex	GO_0000839	1	0	1	0	0
 ER ubiquitin ligase complex	GO_0000835	1	0	1	0	0
 Doa10p ubiquitin ligase complex	GO_0000837	1	0	1	0	0
+ubiquitin-ubiquitin ligase activity	GO_0034450	0	1	0	0	0
+ubiquitin-protein transferase activity	GO_0004842	0	1	0	0	0
+ubiquitin-dependent SMAD protein catabolic process	GO_0030579	0	1	0	0	0
+ubiquitin-calmodulin ligase activity	GO_0050372	0	1	0	0	0
+ubiquitin protein ligase activity	GO_0061630	0	1	0	0	0
+ubiquitin conjugating enzyme activity	GO_0061631	0	1	0	0	0
 ubiquitin binding	GO_0043130	0	1	0	0	0
+transcription factor catabolic process	GO_0036369	0	1	0	0	0
+ribosome-associated ubiquitin-dependent protein catabolic process	GO_1990116	0	1	0	0	0
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process	GO_0042787	0	1	0	0	0
+protein ubiquitination	GO_0016567	0	1	0	0	0
+protein polyubiquitination involved in nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	GO_1901044	0	1	0	0	0
+protein monoubiquitination	GO_0006513	0	1	0	0	0
+protein linear polyubiquitination	GO_0097039	0	1	0	0	0
+protein autoubiquitination	GO_0051865	0	1	0	0	0
+protein K63-linked ubiquitination	GO_0070534	0	1	0	0	0
+protein K6-linked ubiquitination	GO_0085020	0	1	0	0	0
+protein K48-linked ubiquitination	GO_0070936	0	1	0	0	0
+protein K33-linked ubiquitination	GO_1990390	0	1	0	0	0
+protein K29-linked ubiquitination	GO_0035519	0	1	0	0	0
+protein K27-linked ubiquitination	GO_0044314	0	1	0	0	0
+protein K11-linked ubiquitination	GO_0070979	0	1	0	0	0
+proteasome-mediated ubiquitin-dependent protein catabolic process	GO_0043161	0	1	0	0	0
+proteasomal proteolysis associated with antigen processing and presentation	GO_0002497	0	1	0	0	0
 polyubiquitin binding	GO_0031593	0	1	0	0	0
+nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071630	0	1	0	0	0
+negative regulation of transcription by transcription factor catabolism	GO_0010620	0	1	0	0	0
+negative regulation of cyclin-dependent protein serine/threonine kinase by cyclin degradation	GO_0008054	0	1	0	0	0
+mitochondria-associated ubiquitin-dependent protein catabolic process	GO_0072671	0	1	0	0	0
+metaphase/anaphase transition of mitotic cell cycle	GO_0007091	0	1	0	0	0
 linear polyubiquitin binding	GO_1990450	0	1	0	0	0
+histone ubiquitination	GO_0016574	0	1	0	0	0
+histone monoubiquitination	GO_0010390	0	1	0	0	0
+histone H2B ubiquitination	GO_0033523	0	1	0	0	0
+histone H2B conserved C-terminal lysine ubiquitination	GO_0071894	0	1	0	0	0
+histone H2A-K15 ubiquitination	GO_0036352	0	1	0	0	0
+histone H2A-K13 ubiquitination	GO_0036351	0	1	0	0	0
+histone H2A-K119 monoubiquitination	GO_0036353	0	1	0	0	0
+histone H2A ubiquitination	GO_0033522	0	1	0	0	0
+histone H2A monoubiquitination	GO_0035518	0	1	0	0	0
+histone H2A K63-linked ubiquitination	GO_0070535	0	1	0	0	0
+cytoplasm-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071629	0	1	0	0	0
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	GO_0031145	0	1	0	0	0
+actin ubiquitination	GO_0007014	0	1	0	0	0
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	GO_0031146	0	1	0	0	0
 K63-linked polyubiquitin binding	GO_0070530	0	1	0	0	0
 K6-linked polyubiquitin binding	GO_0071796	0	1	0	0	0
 K48-linked polyubiquitin binding	GO_0036435	0	1	0	0	0
 K11-linked polyubiquitin binding	GO_0071795	0	1	0	0	0
+ER-associated ubiquitin-dependent protein catabolic process	GO_0030433	0	1	0	0	0
+ER-associated misfolded protein catabolic process	GO_0071712	0	1	0	0	0
+APC-fizzy related complex activity	GO_0090622	0	1	0	0	0
+APC-Cdc20 complex activity	GO_0090302	0	1	0	0	0

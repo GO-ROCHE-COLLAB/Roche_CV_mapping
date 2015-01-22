@@ -1,5 +1,8 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 snRNA transport	GO_0051030	1	1	1	0	0
+snRNA transcription from RNA polymerase III promoter	GO_0042796	1	1	1	0	0
+snRNA transcription from RNA polymerase II promoter	GO_0042795	1	1	1	0	0
+snRNA transcription	GO_0009301	1	1	1	0	0
 snRNA pseudouridine synthesis	GO_0031120	1	1	1	0	0
 snRNA processing	GO_0016180	1	1	1	0	0
 snRNA modification	GO_0040031	1	1	1	0	0
@@ -14,13 +17,27 @@ U5 snRNA 3'-end processing	GO_0034476	1	1	1	0	0
 U4 snRNA 3'-end processing	GO_0034475	1	1	1	0	0
 U2 snRNA 3'-end processing	GO_0034474	1	1	1	0	0
 U1 snRNA 3'-end processing	GO_0034473	1	1	1	0	0
-snRNA transcription from RNA polymerase III promoter	GO_0042796	1	0	1	0	0
-snRNA transcription from RNA polymerase II promoter	GO_0042795	1	0	1	0	0
-snRNA transcription	GO_0009301	1	0	1	0	0
 snRNA capping	GO_0006387	1	0	1	1	1
 snRNA-containing ribonucleoprotein complex export from nucleus	GO_0071429	0	1	0	0	0
+snRNA stem-loop binding	GO_0035614	0	1	0	0	0
+snRNA pseudouridylation guide activity	GO_0030565	0	1	0	0	0
+snRNA modification guide activity	GO_0030566	0	1	0	0	0
+snRNA binding	GO_0017069	0	1	0	0	0
 snRNA 5'-end processing	GO_1990273	0	1	0	0	0
+snRNA 2'-O-ribose methylation guide activity	GO_0030563	0	1	0	0	0
 snRNA 2'-O-methylation	GO_1990437	0	1	0	0	0
 nuclear polyadenylation-dependent snRNA catabolic process	GO_0071037	0	1	0	0	0
-miRNA transport	GO_1990428	0	1	0	0	0
+base pairing with snRNA	GO_0000945	0	1	0	0	0
+U7 snRNA binding	GO_0071209	0	1	0	0	0
+U6atac snRNA binding	GO_0030624	0	1	0	0	0
+U6 snRNA binding	GO_0017070	0	1	0	0	0
+U6 snRNA 3'-end binding	GO_0030629	0	1	0	0	0
 U6 2'-O-snRNA methylation	GO_1990438	0	1	0	0	0
+U5 snRNA binding	GO_0030623	0	1	0	0	0
+U4atac snRNA binding	GO_0030622	0	1	0	0	0
+U4 snRNA binding	GO_0030621	0	1	0	0	0
+U2 snRNA binding	GO_0030620	0	1	0	0	0
+U12 snRNA binding	GO_0030626	0	1	0	0	0
+U11 snRNA binding	GO_0030625	0	1	0	0	0
+U1 snRNA binding	GO_0030619	0	1	0	0	0
+7SK snRNA binding	GO_0097322	0	1	0	0	0

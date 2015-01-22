@@ -168,6 +168,7 @@ potassium channel regulator activity	GO_0015459	0	1	1	0	0
 potassium channel inhibitor activity	GO_0019870	0	1	1	0	0
 potassium channel activity	GO_0005267	0	1	1	0	0
 positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903762	0	1	0	0	0
+positive regulation of voltage-gated potassium channel activity	GO_1903818	0	1	0	0	0
 positive regulation of voltage-gated calcium channel activity	GO_1901387	0	1	1	0	0
 positive regulation of store-operated calcium channel activity	GO_1901341	0	1	1	0	0
 positive regulation of sodium:proton antiporter activity	GO_0032417	0	1	1	0	0
@@ -231,6 +232,7 @@ negative regulation of zinc ion transport	GO_0071582	0	1	1	0	0
 negative regulation of zinc ion transmembrane transport	GO_0071583	0	1	1	0	0
 negative regulation of zinc ion transmembrane import	GO_0071584	0	1	1	0	0
 negative regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903761	0	1	0	0	0
+negative regulation of voltage-gated potassium channel activity	GO_1903817	0	1	0	0	0
 negative regulation of voltage-gated calcium channel activity	GO_1901386	0	1	1	0	0
 negative regulation of store-operated calcium channel activity	GO_1901340	0	1	1	0	0
 negative regulation of sodium:proton antiporter activity	GO_0032416	0	1	1	0	0

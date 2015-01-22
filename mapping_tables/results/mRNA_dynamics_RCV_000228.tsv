@@ -94,6 +94,7 @@ mRNA methylation	GO_0080009	0	1	1	0	0
 mRNA metabolic process	GO_0016071	0	1	1	0	0
 mRNA export from nucleus in response to heat stress	GO_0031990	0	1	1	0	0
 mRNA export from nucleus	GO_0006406	0	1	1	0	0
+mRNA cleavage involved in gene silencing by siRNA	GO_0090625	0	1	0	0	0
 mRNA cleavage involved in gene silencing by miRNA	GO_0035279	0	1	1	0	0
 mRNA cleavage	GO_0006379	0	1	1	0	0
 mRNA cis splicing, via spliceosome	GO_0045292	0	1	1	0	0

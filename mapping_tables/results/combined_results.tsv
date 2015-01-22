@@ -441,6 +441,7 @@ RCV_000006	DNA damage	GO_2001021	negative regulation of response to DNA damage s
 RCV_000006	DNA damage	GO_1902505	negative regulation of signal transduction involved in mitotic G2 DNA damage checkpoint
 RCV_000006	DNA damage	GO_1903517	negative regulation of single strand break repair
 RCV_000006	DNA damage	GO_1903111	negative regulation of single-strand break repair via homologous recombination
+RCV_000006	DNA damage	GO_1903824	negative regulation of telomere single strand break repair
 RCV_000006	DNA damage	GO_0010768	negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage
 RCV_000006	DNA damage	GO_0010213	non-photoreactive DNA repair
 RCV_000006	DNA damage	GO_0036299	non-recombinational interstrand cross-link repair
@@ -605,6 +606,7 @@ RCV_000009	DNA repair	GO_0097587	MutLgamma complex
 RCV_000009	DNA repair	GO_0032301	MutSalpha complex
 RCV_000009	DNA repair	GO_0032302	MutSbeta complex
 RCV_000009	DNA repair	GO_0070312	RAD52-ERCC4-ERCC1 complex
+RCV_000009	DNA repair	GO_1990612	Sad1-Kms2 LINC complex
 RCV_000009	DNA repair	GO_0097196	Shu complex
 RCV_000009	DNA repair	GO_0070914	UV-damage excision repair
 RCV_000009	DNA repair	GO_0071942	XPC complex
@@ -669,6 +671,7 @@ RCV_000009	DNA repair	GO_1901291	negative regulation of double-strand break repa
 RCV_000009	DNA repair	GO_0032424	negative regulation of mismatch repair
 RCV_000009	DNA repair	GO_1903517	negative regulation of single strand break repair
 RCV_000009	DNA repair	GO_1903111	negative regulation of single-strand break repair via homologous recombination
+RCV_000009	DNA repair	GO_1903824	negative regulation of telomere single strand break repair
 RCV_000009	DNA repair	GO_0010213	non-photoreactive DNA repair
 RCV_000009	DNA repair	GO_0036299	non-recombinational interstrand cross-link repair
 RCV_000009	DNA repair	GO_0000726	non-recombinational repair
@@ -1110,6 +1113,7 @@ RCV_000020	GTPase activity	GO_0032862	activation of Rho GTPase activity
 RCV_000020	GTPase activity	GO_0005091	guanyl-nucleotide exchange factor adaptor activity
 RCV_000020	GTPase activity	GO_0005834	heterotrimeric G-protein complex
 RCV_000020	GTPase activity	GO_0031684	heterotrimeric G-protein complex cycle
+RCV_000020	GTPase activity	GO_1990606	membrane scission GTPase motor activity
 RCV_000020	GTPase activity	GO_0034260	negative regulation of GTPase activity
 RCV_000020	GTPase activity	GO_0034261	negative regulation of Ras GTPase activity
 RCV_000020	GTPase activity	GO_0034259	negative regulation of Rho GTPase activity
@@ -1374,6 +1378,7 @@ RCV_000031	RNA interference	GO_0042868	antisense RNA metabolic process
 RCV_000031	RNA interference	GO_0071041	antisense RNA transcript catabolic process
 RCV_000031	RNA interference	GO_0009300	antisense RNA transcription
 RCV_000031	RNA interference	GO_0033168	conversion of ds siRNA to ss siRNA involved in RNA interference
+RCV_000031	RNA interference	GO_0090625	mRNA cleavage involved in gene silencing by siRNA
 RCV_000031	RNA interference	GO_0070549	negative regulation of translation involved in RNA interference
 RCV_000031	RNA interference	GO_0010599	production of lsiRNA involved in RNA interference
 RCV_000031	RNA interference	GO_0030422	production of siRNA involved in RNA interference
@@ -12907,6 +12912,7 @@ RCV_000211	ion transport	GO_1903407	negative regulation of sodium:potassium-exch
 RCV_000211	ion transport	GO_0032416	negative regulation of sodium:proton antiporter activity
 RCV_000211	ion transport	GO_1901340	negative regulation of store-operated calcium channel activity
 RCV_000211	ion transport	GO_1901386	negative regulation of voltage-gated calcium channel activity
+RCV_000211	ion transport	GO_1903817	negative regulation of voltage-gated potassium channel activity
 RCV_000211	ion transport	GO_1903761	negative regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
 RCV_000211	ion transport	GO_0071584	negative regulation of zinc ion transmembrane import
 RCV_000211	ion transport	GO_0071583	negative regulation of zinc ion transmembrane transport
@@ -12970,6 +12976,7 @@ RCV_000211	ion transport	GO_1903408	positive regulation of sodium:potassium-exch
 RCV_000211	ion transport	GO_0032417	positive regulation of sodium:proton antiporter activity
 RCV_000211	ion transport	GO_1901341	positive regulation of store-operated calcium channel activity
 RCV_000211	ion transport	GO_1901387	positive regulation of voltage-gated calcium channel activity
+RCV_000211	ion transport	GO_1903818	positive regulation of voltage-gated potassium channel activity
 RCV_000211	ion transport	GO_1903762	positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
 RCV_000211	ion transport	GO_0005267	potassium channel activity
 RCV_000211	ion transport	GO_0019870	potassium channel inhibitor activity
@@ -14730,6 +14737,7 @@ RCV_000228	mRNA dynamics	GO_0006402	mRNA catabolic process
 RCV_000228	mRNA dynamics	GO_0045292	mRNA cis splicing, via spliceosome
 RCV_000228	mRNA dynamics	GO_0006379	mRNA cleavage
 RCV_000228	mRNA dynamics	GO_0035279	mRNA cleavage involved in gene silencing by miRNA
+RCV_000228	mRNA dynamics	GO_0090625	mRNA cleavage involved in gene silencing by siRNA
 RCV_000228	mRNA dynamics	GO_0006406	mRNA export from nucleus
 RCV_000228	mRNA dynamics	GO_0031990	mRNA export from nucleus in response to heat stress
 RCV_000228	mRNA dynamics	GO_0016071	mRNA metabolic process
@@ -16556,11 +16564,8 @@ RCV_000259	organ development	GO_0060984	epicardium-derived cardiac vascular smoo
 RCV_000259	organ development	GO_0060983	epicardium-derived cardiac vascular smooth muscle cell differentiation
 RCV_000259	organ development	GO_0060985	epicardium-derived cardiac vascular smooth muscle cell fate commitment
 RCV_000259	organ development	GO_0003346	epicardium-derived cell migration to the myocardium
-RCV_000259	organ development	GO_0009913	epidermal cell differentiation
-RCV_000259	organ development	GO_0009957	epidermal cell fate specification
 RCV_000259	organ development	GO_0060507	epidermal growth factor receptor signaling pathway involved in lung development
 RCV_000259	organ development	GO_0022026	epidermal growth factor signaling pathway involved in forebrain neuron fate commitment
-RCV_000259	organ development	GO_0008544	epidermis development
 RCV_000259	organ development	GO_0048730	epidermis morphogenesis
 RCV_000259	organ development	GO_0060660	epidermis morphogenesis involved in nipple formation
 RCV_000259	organ development	GO_0048724	epistomal sclerite development
@@ -16627,8 +16632,6 @@ RCV_000259	organ development	GO_0016336	establishment or maintenance of polarity
 RCV_000259	organ development	GO_0021755	eurydendroid cell differentiation
 RCV_000259	organ development	GO_0031017	exocrine pancreas development
 RCV_000259	organ development	GO_0042638	exogen
-RCV_000259	organ development	GO_0042740	exogenous antibiotic catabolic process
-RCV_000259	organ development	GO_0042738	exogenous drug catabolic process
 RCV_000259	organ development	GO_0021816	extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration
 RCV_000259	organ development	GO_0035261	external genitalia morphogenesis
 RCV_000259	organ development	GO_0021820	extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration
@@ -16776,14 +16779,7 @@ RCV_000259	organ development	GO_0003429	growth plate cartilage chondrocyte morph
 RCV_000259	organ development	GO_0003419	growth plate cartilage chondrocyte proliferation
 RCV_000259	organ development	GO_0003417	growth plate cartilage development
 RCV_000259	organ development	GO_0003422	growth plate cartilage morphogenesis
-RCV_000259	organ development	GO_0010441	guard cell development
-RCV_000259	organ development	GO_0010052	guard cell differentiation
-RCV_000259	organ development	GO_0010377	guard cell fate commitment
-RCV_000259	organ development	GO_0010442	guard cell morphogenesis
-RCV_000259	organ development	GO_0010235	guard mother cell cytokinesis
-RCV_000259	organ development	GO_0010444	guard mother cell differentiation
 RCV_000259	organ development	GO_0021986	habenula development
-RCV_000259	organ development	GO_0035315	hair cell differentiation
 RCV_000259	organ development	GO_0001942	hair follicle development
 RCV_000259	organ development	GO_0048820	hair follicle maturation
 RCV_000259	organ development	GO_0031069	hair follicle morphogenesis
@@ -17143,7 +17139,6 @@ RCV_000259	organ development	GO_0035266	meristem growth
 RCV_000259	organ development	GO_0010014	meristem initiation
 RCV_000259	organ development	GO_0010073	meristem maintenance
 RCV_000259	organ development	GO_0009933	meristem structural organization
-RCV_000259	organ development	GO_0010443	meristemoid mother cell division
 RCV_000259	organ development	GO_0072143	mesangial cell development
 RCV_000259	organ development	GO_0072007	mesangial cell differentiation
 RCV_000259	organ development	GO_0072151	mesangial cell fate commitment
@@ -17502,8 +17497,6 @@ RCV_000259	organ development	GO_1902864	negative regulation of embryonic camera-
 RCV_000259	organ development	GO_0070174	negative regulation of enamel mineralization
 RCV_000259	organ development	GO_2000801	negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000259	organ development	GO_0045644	negative regulation of eosinophil differentiation
-RCV_000259	organ development	GO_0045605	negative regulation of epidermal cell differentiation
-RCV_000259	organ development	GO_0045683	negative regulation of epidermis development
 RCV_000259	organ development	GO_2000697	negative regulation of epithelial cell differentiation involved in kidney development
 RCV_000259	organ development	GO_2000795	negative regulation of epithelial cell proliferation involved in lung morphogenesis
 RCV_000259	organ development	GO_0060770	negative regulation of epithelial cell proliferation involved in prostate gland development
@@ -17655,14 +17648,12 @@ RCV_000259	organ development	GO_0075225	negative regulation of sporangium germin
 RCV_000259	organ development	GO_0075262	negative regulation of spore-bearing organ development
 RCV_000259	organ development	GO_1902059	negative regulation of sporocarp development involved in sexual reproduction
 RCV_000259	organ development	GO_0061106	negative regulation of stomach neuroendocrine cell differentiation
-RCV_000259	organ development	GO_2000122	negative regulation of stomatal complex development
 RCV_000259	organ development	GO_0045843	negative regulation of striated muscle tissue development
 RCV_000259	organ development	GO_0075278	negative regulation of telium development
 RCV_000259	organ development	GO_2001036	negative regulation of tongue muscle cell differentiation
 RCV_000259	organ development	GO_0070171	negative regulation of tooth mineralization
 RCV_000259	organ development	GO_1901227	negative regulation of transcription from RNA polymerase II promoter involved in heart development
 RCV_000259	organ development	GO_0010062	negative regulation of trichoblast fate specification
-RCV_000259	organ development	GO_1900033	negative regulation of trichome patterning
 RCV_000259	organ development	GO_0060805	negative regulation of trophoblast cell differentiation by transcription regulation from RNA polymerase II promoter
 RCV_000259	organ development	GO_0060801	negative regulation of trophoblast cell differentiation by transforming growth factor beta signaling pathway
 RCV_000259	organ development	GO_2000077	negative regulation of type B pancreatic cell development
@@ -17740,7 +17731,6 @@ RCV_000259	organ development	GO_0060658	nipple morphogenesis
 RCV_000259	organ development	GO_0060659	nipple sheath formation
 RCV_000259	organ development	GO_1900164	nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry
 RCV_000259	organ development	GO_0061341	non-canonical Wnt signaling pathway involved in heart development
-RCV_000259	organ development	GO_0035316	non-sensory hair organization
 RCV_000259	organ development	GO_0043584	nose development
 RCV_000259	organ development	GO_0043585	nose morphogenesis
 RCV_000259	organ development	GO_0060035	notochord cell development
@@ -17893,7 +17883,6 @@ RCV_000259	organ development	GO_0061347	planar cell polarity pathway involved in
 RCV_000259	organ development	GO_0061354	planar cell polarity pathway involved in pericardium morphogenesis
 RCV_000259	organ development	GO_0061348	planar cell polarity pathway involved in ventricular septum morphogenesis
 RCV_000259	organ development	GO_0060489	planar dichotomous subdivision of terminal units involved in lung branching morphogenesis
-RCV_000259	organ development	GO_0090558	plant epidermis development
 RCV_000259	organ development	GO_0035670	plant-type ovary development
 RCV_000259	organ development	GO_0048624	plantlet formation on parent plant
 RCV_000259	organ development	GO_0002317	plasma cell differentiation
@@ -18000,8 +17989,6 @@ RCV_000259	organ development	GO_1902865	positive regulation of embryonic camera-
 RCV_000259	organ development	GO_0070175	positive regulation of enamel mineralization
 RCV_000259	organ development	GO_2000802	positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000259	organ development	GO_0045645	positive regulation of eosinophil differentiation
-RCV_000259	organ development	GO_0045606	positive regulation of epidermal cell differentiation
-RCV_000259	organ development	GO_0045684	positive regulation of epidermis development
 RCV_000259	organ development	GO_2000698	positive regulation of epithelial cell differentiation involved in kidney development
 RCV_000259	organ development	GO_0060504	positive regulation of epithelial cell proliferation involved in lung bud dilation
 RCV_000259	organ development	GO_0060501	positive regulation of epithelial cell proliferation involved in lung morphogenesis
@@ -18149,7 +18136,6 @@ RCV_000259	organ development	GO_0075311	positive regulation of sporangium develo
 RCV_000259	organ development	GO_0075224	positive regulation of sporangium germination on or near host
 RCV_000259	organ development	GO_0075261	positive regulation of spore-bearing organ development
 RCV_000259	organ development	GO_1902060	positive regulation of sporocarp development involved in sexual reproduction
-RCV_000259	organ development	GO_2000123	positive regulation of stomatal complex development
 RCV_000259	organ development	GO_0045844	positive regulation of striated muscle tissue development
 RCV_000259	organ development	GO_0075277	positive regulation of telium development
 RCV_000259	organ development	GO_2001037	positive regulation of tongue muscle cell differentiation
@@ -18415,8 +18401,6 @@ RCV_000259	organ development	GO_0070173	regulation of enamel mineralization
 RCV_000259	organ development	GO_2000800	regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000259	organ development	GO_2000014	regulation of endosperm development
 RCV_000259	organ development	GO_0045643	regulation of eosinophil differentiation
-RCV_000259	organ development	GO_0045604	regulation of epidermal cell differentiation
-RCV_000259	organ development	GO_0045682	regulation of epidermis development
 RCV_000259	organ development	GO_2000696	regulation of epithelial cell differentiation involved in kidney development
 RCV_000259	organ development	GO_2000794	regulation of epithelial cell proliferation involved in lung morphogenesis
 RCV_000259	organ development	GO_0060651	regulation of epithelial cell proliferation involved in mammary gland bud elongation
@@ -18600,7 +18584,6 @@ RCV_000259	organ development	GO_0075310	regulation of sporangium development
 RCV_000259	organ development	GO_0075260	regulation of spore-bearing organ development
 RCV_000259	organ development	GO_1902058	regulation of sporocarp development involved in sexual reproduction
 RCV_000259	organ development	GO_0061105	regulation of stomach neuroendocrine cell differentiation
-RCV_000259	organ development	GO_2000038	regulation of stomatal complex development
 RCV_000259	organ development	GO_0016202	regulation of striated muscle tissue development
 RCV_000259	organ development	GO_0075276	regulation of telium development
 RCV_000259	organ development	GO_0048506	regulation of timing of meristematic phase transition
@@ -18626,7 +18609,6 @@ RCV_000259	organ development	GO_0021913	regulation of transcription from RNA pol
 RCV_000259	organ development	GO_0060899	regulation of transcription involved in eye field cell fate commitment of camera-type eye
 RCV_000259	organ development	GO_0010061	regulation of trichoblast fate specification
 RCV_000259	organ development	GO_2000039	regulation of trichome morphogenesis
-RCV_000259	organ development	GO_1900032	regulation of trichome patterning
 RCV_000259	organ development	GO_2000074	regulation of type B pancreatic cell development
 RCV_000259	organ development	GO_0075280	regulation of uredinium development
 RCV_000259	organ development	GO_2000061	regulation of ureter smooth muscle cell differentiation
@@ -18812,6 +18794,7 @@ RCV_000259	organ development	GO_0007519	skeletal muscle tissue development
 RCV_000259	organ development	GO_0048630	skeletal muscle tissue growth
 RCV_000259	organ development	GO_0048705	skeletal system morphogenesis
 RCV_000259	organ development	GO_0043588	skin development
+RCV_000259	organ development	GO_0098773	skin epidermis development
 RCV_000259	organ development	GO_0043589	skin morphogenesis
 RCV_000259	organ development	GO_0031153	slug development involved in sorocarp development
 RCV_000259	organ development	GO_0060530	smooth muscle cell differentiation involved in prostate glandular acinus development
@@ -18907,10 +18890,6 @@ RCV_000259	organ development	GO_0021929	stellate cell precursor proliferation
 RCV_000259	organ development	GO_0007491	sternite morphogenesis
 RCV_000259	organ development	GO_0048480	stigma development
 RCV_000259	organ development	GO_0061102	stomach neuroendocrine cell differentiation
-RCV_000259	organ development	GO_0010374	stomatal complex development
-RCV_000259	organ development	GO_0010376	stomatal complex formation
-RCV_000259	organ development	GO_0010103	stomatal complex morphogenesis
-RCV_000259	organ development	GO_0010440	stomatal lineage progression
 RCV_000259	organ development	GO_0080166	stomium development
 RCV_000259	organ development	GO_0021773	striatal medium spiny neuron differentiation
 RCV_000259	organ development	GO_0021756	striatum development

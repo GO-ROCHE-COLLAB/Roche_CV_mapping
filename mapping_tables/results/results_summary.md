@@ -718,7 +718,7 @@
 * Key class: [DNA repair](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006281)
 * Pattern: [is_a_OR_part_of_OR_regulates_OR_capable_of](../../patterns/is_a_OR_part_of_OR_regulates_OR_capable_of.md)
 * Definition: DNA repair OR a part of DNA repair OR a process that regulates DNA repair OR a cell component that functions in DNA repair.
-* map summary: Roche_cvt: RCV_000009; class_expression scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0006281; manual_list_count 142, generated_list_count 143
+* map summary: Roche_cvt: RCV_000009; class_expression scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0006281; manual_list_count 142, generated_list_count 145
 * Notes: Laura: The manual map includes the odd regulation term and complex, so I've used a pattern that includes both of these.  But including these results in a much larger list than the manual one.  Should we keep this pattern?
 * [Results](DNA_repair_RCV_000009.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/13)
@@ -854,7 +854,7 @@
 * Key class: [vescicle](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0031982)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A vescicle or a process that results in organisation of a vescicle or that has a vescicle as a participant.
-* map summary: Roche_cvt: RCV_000347; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031982; manual_list_count 26, generated_list_count 414
+* map summary: Roche_cvt: RCV_000347; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031982; manual_list_count 26, generated_list_count 423
 * [Results](vescicle_dynamics_RCV_000347.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -953,7 +953,7 @@
 * Key class: [cell cycle](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0007049)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cell cycle OR a part of cell cycle OR a process that regulates cell cycle
-* map summary: Roche_cvt: RCV_000102; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007049; manual_list_count 87, generated_list_count 865
+* map summary: Roche_cvt: RCV_000102; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0007049; manual_list_count 87, generated_list_count 870
 * [Results](cell_cycle_RCV_000102.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/262)
 * Status: open
@@ -962,7 +962,7 @@
 * Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
-* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 459
+* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 460
 * [Results](cytoskeleton_RCV_000139.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/234)
 * Status: open
@@ -980,7 +980,7 @@
 * Key class: [snRNA](http://www.ebi.ac.uk/ontology-lookup/?termId=SO:0000274)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some snRNA participates.
-* map summary: Roche_cvt: RCV_000306; class_expression RO_0000057 some SO_0000274; manual_list_count 19, generated_list_count 21
+* map summary: Roche_cvt: RCV_000306; class_expression RO_0000057 some SO_0000274; manual_list_count 19, generated_list_count 41
 * Notes: Issue for GO: need to standardise on SO or ChEBI for these.  Have switched all to ChEBI for now.
 * [Results](snRNA_RCV_000306.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -990,7 +990,7 @@
 * Key class: [metal ion transport](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0030001)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: metal ion transport OR a part of metal ion transport OR a process that regulates metal ion transport
-* map summary: Roche_cvt: RCV_000211; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030001; manual_list_count 3, generated_list_count 443
+* map summary: Roche_cvt: RCV_000211; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0030001; manual_list_count 3, generated_list_count 445
 * [Results](ion_transport_RCV_000211.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/259)
 * Status: closed - mapping completed
@@ -999,7 +999,7 @@
 * Key class: [snoRNA](http://www.ebi.ac.uk/ontology-lookup/?termId=SO:0000275)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some snoRNA participates.
-* map summary: Roche_cvt: RCV_000307; class_expression RO_0000057 some SO_0000275; manual_list_count 3, generated_list_count 20
+* map summary: Roche_cvt: RCV_000307; class_expression RO_0000057 some SO_0000275; manual_list_count 3, generated_list_count 29
 * [Results](snoRNA_RCV_000307.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1026,7 +1026,7 @@
 * Key class: [catalytic activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003824)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for catalytic activity.
-* map summary: Roche_cvt: RCV_000153; class_expression GO_0003824; manual_list_count 4, generated_list_count 6476
+* map summary: Roche_cvt: RCV_000153; class_expression GO_0003824; manual_list_count 4, generated_list_count 6479
 * [Results](enzyme_RCV_000153.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/304)
 * Status: open
@@ -1369,7 +1369,7 @@
 * Key class: [organ development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0048513)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: organ development OR a part of organ development OR a process that regulates organ development
-* map summary: Roche_cvt: RCV_000259; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3291
+* map summary: Roche_cvt: RCV_000259; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0048513; manual_list_count 6, generated_list_count 3262
 * [Results](organ_development_RCV_000259.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/119)
 * Status: closed - mapping completed
@@ -1427,7 +1427,7 @@
 * Key class: [RNA interference](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016246)
 * Pattern: [is_a_OR_part_of](../../patterns/is_a_OR_part_of.md)
 * Definition: RNA interference OR a part of (some) RNA interference.
-* map summary: Roche_cvt: RCV_000031; class_expression scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0016246; manual_list_count 3, generated_list_count 12
+* map summary: Roche_cvt: RCV_000031; class_expression scratch_3790BC15-33E1-4D0D-B7F4-1A3B05BC4DBC some GO_0016246; manual_list_count 3, generated_list_count 13
 * Notes: Manual mapping seems to be to antisense RNA terms that are not necessarily connected with RNA interference?
 * [Results](RNA_interference_RCV_000031.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/53)
@@ -1534,7 +1534,7 @@
 * Key class: [ubiquitin](http://www.ebi.ac.uk/ontology-lookup/?termId=PR:000035728)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some ubiquitin participates.
-* map summary: Roche_cvt: RCV_000337; class_expression RO_0000057 some PR_000035728; manual_list_count 15, generated_list_count 7
+* map summary: Roche_cvt: RCV_000337; class_expression RO_0000057 some PR_000035728; manual_list_count 15, generated_list_count 57
 * [Results](ubiquitin_RCV_000337.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1860,7 +1860,7 @@
 * Key class: [GTPase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0003924)
 * Pattern: [is_a_OR_part_of_OR_regulates_OR_capable_of](../../patterns/is_a_OR_part_of_OR_regulates_OR_capable_of.md)
 * Definition: GTPase activity OR a part of GTPase activity OR a process that regulates GTPase activity OR a cell component that functions in GTPase activity.
-* map summary: Roche_cvt: RCV_000020; class_expression scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0003924; manual_list_count 10, generated_list_count 54
+* map summary: Roche_cvt: RCV_000020; class_expression scratch_386a1f76_b26e_477f_8e50_6e4dab26bc3b some GO_0003924; manual_list_count 10, generated_list_count 55
 * Notes: Manual mapping includes obsolete terms for individual G-protein subunits, automated mapping will pull in whole complex.
 * [Results](GTPase_activity_RCV_000020.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/33)
@@ -2400,7 +2400,7 @@
 * Key class: [translation](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006412)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: translation OR a part of translation OR a process that regulates translation
-* map summary: Roche_cvt: RCV_000335; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006412; manual_list_count 115, generated_list_count 250
+* map summary: Roche_cvt: RCV_000335; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006412; manual_list_count 115, generated_list_count 251
 * [Results](translation_RCV_000335.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2427,7 +2427,7 @@
 * Key class: [messenger RNA](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:33699)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
 * Definition: A process in which some messenger RNA participates.
-* map summary: Roche_cvt: RCV_000228; class_expression RO_0000057 some CHEBI_33699; manual_list_count 48, generated_list_count 75
+* map summary: Roche_cvt: RCV_000228; class_expression RO_0000057 some CHEBI_33699; manual_list_count 48, generated_list_count 76
 * Notes: Missing some subclasses because we also use SO mRNA in some places in GO.  Needs to be fixed by discussion at GO.
 * [Results](mRNA_dynamics_RCV_000228.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/339)
@@ -2534,7 +2534,7 @@
 * Key class: [skin epidermis](http://www.ebi.ac.uk/ontology-lookup/?termId=UBERON:0001003)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a skin epidermis participates or that occur in skin epidermis or which results in the developmental progression of a structure that will form skin epidermis
-* map summary: Roche_cvt: RCV_000303; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0001003; manual_list_count 7, generated_list_count 9
+* map summary: Roche_cvt: RCV_000303; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0001003; manual_list_count 7, generated_list_count 6
 * [Results](skin_RCV_000303.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2745,7 +2745,7 @@
 * Key class: [nucleus](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005634)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a nucleus or that has a nucleus as a participant.
-* map summary: Roche_cvt: RCV_000252; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005634; manual_list_count 94, generated_list_count 205
+* map summary: Roche_cvt: RCV_000252; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005634; manual_list_count 94, generated_list_count 222
 * [Results](nuclear_events_RCV_000252.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2772,7 +2772,7 @@
 * Key class: [cellular response to DNA damage stimulus](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006974)
 * Pattern: [is_a_OR_part_of_OR_regulates](../../patterns/is_a_OR_part_of_OR_regulates.md)
 * Definition: cellular response to DNA damage stimulus OR a part of cellular response to DNA damage stimulus OR a process that regulates cellular response to DNA damage stimulus
-* map summary: Roche_cvt: RCV_000006; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006974; manual_list_count 41, generated_list_count 188
+* map summary: Roche_cvt: RCV_000006; class_expression scratch_1C127FE1-B049-4E09-8DCC-8B323644160F some GO_0006974; manual_list_count 41, generated_list_count 189
 * [Results](DNA_damage_RCV_000006.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/38)
 * Status: closed - mapping completed
@@ -2860,7 +2860,7 @@
 * Key class: [transferase activity](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0016740)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for transferase activity.
-* map summary: Roche_cvt: RCV_000334; class_expression GO_0016740; manual_list_count 7, generated_list_count 2025
+* map summary: Roche_cvt: RCV_000334; class_expression GO_0016740; manual_list_count 7, generated_list_count 2026
 * [Results](transferase_activity_RCV_000334.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/204)
 * Status: open

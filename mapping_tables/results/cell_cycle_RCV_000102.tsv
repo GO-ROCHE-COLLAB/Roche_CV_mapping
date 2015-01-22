@@ -127,6 +127,7 @@ sister chromatid cohesion	GO_0007062	0	1	0	0	0
 sister chromatid biorientation	GO_0031134	0	1	0	0	0
 signal transduction involved in spindle checkpoint	GO_0072416	0	1	0	0	0
 signal transduction involved in spindle assembly checkpoint	GO_0072486	0	1	0	0	0
+signal transduction involved in morphogenesis checkpoint	GO_1903822	0	1	0	0	0
 signal transduction involved in mitotic G2 DNA damage checkpoint	GO_0072434	0	1	0	0	0
 signal transduction involved in mitotic G1 DNA damage checkpoint	GO_0072431	0	1	0	0	0
 signal transduction involved in mitotic DNA replication checkpoint	GO_0072443	0	1	0	0	0
@@ -137,6 +138,7 @@ signal transduction involved in meiotic recombination checkpoint	GO_0072462	0	1	
 signal transduction involved in meiotic DNA replication checkpoint	GO_0072440	0	1	0	0	0
 signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	0	1	0	0	0
 signal transduction involved in cytokinesis checkpoint	GO_0072398	0	1	0	0	0
+signal transduction involved in cytokinesis after mitosis checkpoint	GO_1903820	0	1	0	0	0
 signal transduction involved in cell size control checkpoint	GO_0072471	0	1	0	0	0
 signal transduction involved in cell shape checkpoint	GO_0072468	0	1	0	0	0
 signal transduction involved in G2 cell size control checkpoint	GO_0072453	0	1	0	0	0
@@ -488,6 +490,7 @@ modulation by virus of host G0/G1 transition checkpoint	GO_0039646	0	1	0	0	0
 mitotic telophase	GO_0000093	0	1	0	0	0
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	0	0	0
 mitotic spindle stabilization	GO_0043148	0	1	0	0	0
+mitotic spindle pole body localization to nuclear envelope	GO_1990608	0	1	0	0	0
 mitotic spindle pole body duplication	GO_1903087	0	1	0	0	0
 mitotic spindle orientation checkpoint	GO_0031578	0	1	0	0	0
 mitotic spindle organization in nucleus	GO_0030472	0	1	0	0	0
@@ -738,11 +741,13 @@ diplotene	GO_0000240	0	1	0	0	0
 diakinesis	GO_0000241	0	1	0	0	0
 detection of stimulus involved in spindle checkpoint	GO_0072415	0	1	0	0	0
 detection of stimulus involved in spindle assembly checkpoint	GO_0072484	0	1	0	0	0
+detection of stimulus involved in morphogenesis checkpoint	GO_1903821	0	1	0	0	0
 detection of stimulus involved in mitotic DNA damage checkpoint	GO_1902401	0	1	0	0	0
 detection of stimulus involved in meiotic spindle checkpoint	GO_1902397	0	1	0	0	0
 detection of stimulus involved in meiotic spindle assembly checkpoint	GO_0072463	0	1	0	0	0
 detection of stimulus involved in meiotic recombination checkpoint	GO_0072460	0	1	0	0	0
 detection of stimulus involved in cytokinesis checkpoint	GO_0072397	0	1	0	0	0
+detection of stimulus involved in cytokinesis after mitosis checkpoint	GO_1903819	0	1	0	0	0
 detection of stimulus involved in cell size control checkpoint	GO_0072469	0	1	0	0	0
 detection of stimulus involved in cell shape checkpoint	GO_0072466	0	1	0	0	0
 detection of stimulus involved in G2 cell size control checkpoint	GO_0072451	0	1	0	0	0

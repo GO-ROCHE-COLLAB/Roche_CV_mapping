@@ -33,6 +33,7 @@ positive regulation of ARF GTPase activity	GO_0032850	0	1	1	0	0
 negative regulation of Rho GTPase activity	GO_0034259	0	1	1	0	0
 negative regulation of Ras GTPase activity	GO_0034261	0	1	1	0	0
 negative regulation of GTPase activity	GO_0034260	0	1	1	0	0
+membrane scission GTPase motor activity	GO_1990606	0	1	0	0	0
 heterotrimeric G-protein complex cycle	GO_0031684	0	1	1	0	0
 heterotrimeric G-protein complex	GO_0005834	0	1	1	0	0
 guanyl-nucleotide exchange factor adaptor activity	GO_0005091	0	1	1	0	0

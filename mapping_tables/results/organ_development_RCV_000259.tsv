@@ -182,10 +182,6 @@ stromal-epithelial cell signaling involved in prostate gland development	GO_0044
 striatum development	GO_0021756	0	1	1	0	0
 striatal medium spiny neuron differentiation	GO_0021773	0	1	1	0	0
 stomium development	GO_0080166	0	1	1	0	0
-stomatal lineage progression	GO_0010440	0	1	1	0	0
-stomatal complex morphogenesis	GO_0010103	0	1	1	0	0
-stomatal complex formation	GO_0010376	0	1	1	0	0
-stomatal complex development	GO_0010374	0	1	1	0	0
 stomach neuroendocrine cell differentiation	GO_0061102	0	1	1	0	0
 stigma development	GO_0048480	0	1	1	0	0
 sternite morphogenesis	GO_0007491	0	1	1	0	0
@@ -281,6 +277,7 @@ smoothened signaling pathway involved in growth plate cartilage chondrocyte deve
 smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	0	1	1	0	0
 slug development involved in sorocarp development	GO_0031153	0	1	1	0	0
 skin morphogenesis	GO_0043589	0	1	1	0	0
+skin epidermis development	GO_0098773	0	1	0	0	0
 skin development	GO_0043588	0	1	1	0	0
 skeletal system morphogenesis	GO_0048705	0	1	1	0	0
 skeletal muscle tissue growth	GO_0048630	0	1	1	0	0
@@ -466,7 +463,6 @@ regulation of ureteric bud formation	GO_0072106	0	1	1	0	0
 regulation of ureter smooth muscle cell differentiation	GO_2000061	0	1	1	0	0
 regulation of uredinium development	GO_0075280	0	1	1	0	0
 regulation of type B pancreatic cell development	GO_2000074	0	1	1	0	0
-regulation of trichome patterning	GO_1900032	0	1	1	0	0
 regulation of trichome morphogenesis	GO_2000039	0	1	1	0	0
 regulation of trichoblast fate specification	GO_0010061	0	1	1	0	0
 regulation of transcription involved in eye field cell fate commitment of camera-type eye	GO_0060899	0	1	1	0	0
@@ -492,7 +488,6 @@ regulation of timing of organ formation	GO_0048504	0	1	1	0	0
 regulation of timing of meristematic phase transition	GO_0048506	0	1	1	0	0
 regulation of telium development	GO_0075276	0	1	1	0	0
 regulation of striated muscle tissue development	GO_0016202	0	1	1	0	0
-regulation of stomatal complex development	GO_2000038	0	1	1	0	0
 regulation of stomach neuroendocrine cell differentiation	GO_0061105	0	1	1	0	0
 regulation of sporocarp development involved in sexual reproduction	GO_1902058	0	1	1	0	0
 regulation of spore-bearing organ development	GO_0075260	0	1	1	0	0
@@ -676,8 +671,6 @@ regulation of epithelial cell proliferation involved in prostate gland developme
 regulation of epithelial cell proliferation involved in mammary gland bud elongation	GO_0060651	0	1	1	0	0
 regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000794	0	1	1	0	0
 regulation of epithelial cell differentiation involved in kidney development	GO_2000696	0	1	1	0	0
-regulation of epidermis development	GO_0045682	0	1	1	0	0
-regulation of epidermal cell differentiation	GO_0045604	0	1	1	0	0
 regulation of eosinophil differentiation	GO_0045643	0	1	1	0	0
 regulation of endosperm development	GO_2000014	0	1	1	0	0
 regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	1	0	0
@@ -943,7 +936,6 @@ positive regulation of tooth mineralization	GO_0070172	0	1	1	0	0
 positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	1	0	0
 positive regulation of telium development	GO_0075277	0	1	1	0	0
 positive regulation of striated muscle tissue development	GO_0045844	0	1	1	0	0
-positive regulation of stomatal complex development	GO_2000123	0	1	1	0	0
 positive regulation of sporocarp development involved in sexual reproduction	GO_1902060	0	1	1	0	0
 positive regulation of spore-bearing organ development	GO_0075261	0	1	1	0	0
 positive regulation of sporangium germination on or near host	GO_0075224	0	1	1	0	0
@@ -1091,8 +1083,6 @@ positive regulation of epithelial cell proliferation involved in prostate gland 
 positive regulation of epithelial cell proliferation involved in lung morphogenesis	GO_0060501	0	1	1	0	0
 positive regulation of epithelial cell proliferation involved in lung bud dilation	GO_0060504	0	1	1	0	0
 positive regulation of epithelial cell differentiation involved in kidney development	GO_2000698	0	1	1	0	0
-positive regulation of epidermis development	GO_0045684	0	1	1	0	0
-positive regulation of epidermal cell differentiation	GO_0045606	0	1	1	0	0
 positive regulation of eosinophil differentiation	GO_0045645	0	1	1	0	0
 positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	1	0	0
 positive regulation of enamel mineralization	GO_0070175	0	1	1	0	0
@@ -1199,7 +1189,6 @@ plasmacytoid dendritic cell differentiation	GO_0002273	0	1	1	0	0
 plasma cell differentiation	GO_0002317	0	1	1	0	0
 plantlet formation on parent plant	GO_0048624	0	1	1	0	0
 plant-type ovary development	GO_0035670	0	1	1	0	0
-plant epidermis development	GO_0090558	0	1	1	0	0
 planar dichotomous subdivision of terminal units involved in lung branching morphogenesis	GO_0060489	0	1	1	0	0
 planar cell polarity pathway involved in ventricular septum morphogenesis	GO_0061348	0	1	1	0	0
 planar cell polarity pathway involved in pericardium morphogenesis	GO_0061354	0	1	1	0	0
@@ -1346,7 +1335,6 @@ notochord cell differentiation	GO_0060034	0	1	1	0	0
 notochord cell development	GO_0060035	0	1	1	0	0
 nose morphogenesis	GO_0043585	0	1	1	0	0
 nose development	GO_0043584	0	1	1	0	0
-non-sensory hair organization	GO_0035316	0	1	1	0	0
 non-canonical Wnt signaling pathway involved in heart development	GO_0061341	0	1	1	0	0
 nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	GO_1900164	0	1	1	0	0
 nipple sheath formation	GO_0060659	0	1	1	0	0
@@ -1424,14 +1412,12 @@ negative regulation of uredinium development	GO_0075282	0	1	1	0	0
 negative regulation of type B pancreatic cell development	GO_2000077	0	1	1	0	0
 negative regulation of trophoblast cell differentiation by transforming growth factor beta signaling pathway	GO_0060801	0	1	1	0	0
 negative regulation of trophoblast cell differentiation by transcription regulation from RNA polymerase II promoter	GO_0060805	0	1	1	0	0
-negative regulation of trichome patterning	GO_1900033	0	1	1	0	0
 negative regulation of trichoblast fate specification	GO_0010062	0	1	1	0	0
 negative regulation of transcription from RNA polymerase II promoter involved in heart development	GO_1901227	0	1	1	0	0
 negative regulation of tooth mineralization	GO_0070171	0	1	1	0	0
 negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	1	0	0
 negative regulation of telium development	GO_0075278	0	1	1	0	0
 negative regulation of striated muscle tissue development	GO_0045843	0	1	1	0	0
-negative regulation of stomatal complex development	GO_2000122	0	1	1	0	0
 negative regulation of stomach neuroendocrine cell differentiation	GO_0061106	0	1	1	0	0
 negative regulation of sporocarp development involved in sexual reproduction	GO_1902059	0	1	1	0	0
 negative regulation of spore-bearing organ development	GO_0075262	0	1	1	0	0
@@ -1583,8 +1569,6 @@ negative regulation of epithelial to mesenchymal transition	GO_0010719	0	1	1	0	0
 negative regulation of epithelial cell proliferation involved in prostate gland development	GO_0060770	0	1	1	0	0
 negative regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000795	0	1	1	0	0
 negative regulation of epithelial cell differentiation involved in kidney development	GO_2000697	0	1	1	0	0
-negative regulation of epidermis development	GO_0045683	0	1	1	0	0
-negative regulation of epidermal cell differentiation	GO_0045605	0	1	1	0	0
 negative regulation of eosinophil differentiation	GO_0045644	0	1	1	0	0
 negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	1	0	0
 negative regulation of enamel mineralization	GO_0070174	0	1	1	0	0
@@ -1943,7 +1927,6 @@ mesencephalic trigeminal nucleus development	GO_0021739	0	1	1	0	0
 mesangial cell fate commitment	GO_0072151	0	1	1	0	0
 mesangial cell differentiation	GO_0072007	0	1	1	0	0
 mesangial cell development	GO_0072143	0	1	1	0	0
-meristemoid mother cell division	GO_0010443	0	1	1	0	0
 meristem structural organization	GO_0009933	0	1	1	0	0
 meristem maintenance	GO_0010073	0	1	1	0	0
 meristem initiation	GO_0010014	0	1	1	0	0
@@ -2303,14 +2286,7 @@ hair follicle placode formation	GO_0060789	0	1	1	0	0
 hair follicle morphogenesis	GO_0031069	0	1	1	0	0
 hair follicle maturation	GO_0048820	0	1	1	0	0
 hair follicle development	GO_0001942	0	1	1	0	0
-hair cell differentiation	GO_0035315	0	1	1	0	0
 habenula development	GO_0021986	0	1	1	0	0
-guard mother cell differentiation	GO_0010444	0	1	1	0	0
-guard mother cell cytokinesis	GO_0010235	0	1	1	0	0
-guard cell morphogenesis	GO_0010442	0	1	1	0	0
-guard cell fate commitment	GO_0010377	0	1	1	0	0
-guard cell differentiation	GO_0010052	0	1	1	0	0
-guard cell development	GO_0010441	0	1	1	0	0
 growth plate cartilage morphogenesis	GO_0003422	0	1	1	0	0
 growth plate cartilage development	GO_0003417	0	1	1	0	0
 growth plate cartilage chondrocyte proliferation	GO_0003419	0	1	1	0	0
@@ -2458,8 +2434,6 @@ extracellular matrix organization involved in endocardium development	GO_0061148
 extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration	GO_0021820	0	1	1	0	0
 external genitalia morphogenesis	GO_0035261	0	1	1	0	0
 extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	GO_0021816	0	1	1	0	0
-exogenous drug catabolic process	GO_0042738	0	1	1	0	0
-exogenous antibiotic catabolic process	GO_0042740	0	1	1	0	0
 exogen	GO_0042638	0	1	1	0	0
 exocrine pancreas development	GO_0031017	0	1	1	0	0
 eurydendroid cell differentiation	GO_0021755	0	1	1	0	0
@@ -2526,11 +2500,8 @@ epistomal sclerite morphogenesis	GO_0048719	0	1	1	0	0
 epistomal sclerite development	GO_0048724	0	1	1	0	0
 epidermis morphogenesis involved in nipple formation	GO_0060660	0	1	1	0	0
 epidermis morphogenesis	GO_0048730	0	1	1	0	0
-epidermis development	GO_0008544	0	1	1	0	0
 epidermal growth factor signaling pathway involved in forebrain neuron fate commitment	GO_0022026	0	1	1	0	0
 epidermal growth factor receptor signaling pathway involved in lung development	GO_0060507	0	1	1	0	0
-epidermal cell fate specification	GO_0009957	0	1	1	0	0
-epidermal cell differentiation	GO_0009913	0	1	1	0	0
 epicardium-derived cell migration to the myocardium	GO_0003346	0	1	1	0	0
 epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	0	1	1	0	0
 epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	1	0	0

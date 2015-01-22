@@ -1,6 +1,7 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 vesicle-mediated transport involved in floral organ abscission	GO_0060858	1	1	1	0	0
 vesicle-mediated transport	GO_0016192	1	1	1	0	0
+vesicle-mediated cholesterol transport	GO_0090119	1	1	1	0	0
 vesicle transport along microtubule	GO_0047496	1	1	1	0	0
 vesicle transport along actin filament	GO_0030050	1	1	1	0	0
 vesicle targeting, trans-Golgi to endosome	GO_0048203	1	1	1	0	0
@@ -18,13 +19,12 @@ vesicle fusion with nuclear membrane involved in mitotic nuclear envelope reasse
 vesicle fusion with endoplasmic reticulum	GO_0048279	1	1	1	0	0
 vesicle fusion with Golgi apparatus	GO_0048280	1	1	1	0	0
 vesicle fusion	GO_0006906	1	1	1	0	0
+vesicle docking involved in exocytosis	GO_0006904	1	1	1	0	0
+vesicle docking	GO_0048278	1	1	1	0	0
 vesicle coating	GO_0006901	1	1	1	0	0
-vesicle-mediated cholesterol transport	GO_0090119	1	0	1	0	0
 vesicle uncoating	GO_0072319	1	0	1	0	0
 vesicle transport	GO_0006905	1	0	1	1	1
 vesicle targeting	GO_0006903	1	0	1	0	0
-vesicle docking involved in exocytosis	GO_0006904	1	0	1	0	0
-vesicle docking	GO_0048278	1	0	1	0	0
 zymogen granule membrane	GO_0042589	0	1	0	0	0
 zymogen granule exocytosis	GO_0070625	0	1	0	0	0
 zymogen granule	GO_0042588	0	1	0	0	0
@@ -70,6 +70,7 @@ synaptic vesicle localization	GO_0097479	0	1	0	0	0
 synaptic vesicle fusion to presynaptic membrane	GO_0031629	0	1	0	0	0
 synaptic vesicle exocytosis	GO_0016079	0	1	0	0	0
 synaptic vesicle endocytosis	GO_0048488	0	1	0	0	0
+synaptic vesicle docking	GO_0016081	0	1	0	0	0
 synaptic vesicle coating	GO_0016183	0	1	0	0	0
 synaptic vesicle clustering	GO_0097091	0	1	0	0	0
 synaptic vesicle budding from presynaptic membrane	GO_0016185	0	1	0	0	0
@@ -148,6 +149,8 @@ pigment granule	GO_0048770	0	1	0	0	0
 piccolo-bassoon transport vesicle	GO_1990257	0	1	0	0	0
 phagosome-lysosome fusion involved in apoptotic cell clearance	GO_0090389	0	1	0	0	0
 phagosome-lysosome fusion	GO_0090385	0	1	0	0	0
+phagosome-lysosome docking involved in apoptotic cell clearance	GO_0090388	0	1	0	0	0
+phagosome-lysosome docking	GO_0090384	0	1	0	0	0
 phagosome maturation involved in apoptotic cell clearance	GO_0090386	0	1	0	0	0
 phagosome maturation	GO_0090382	0	1	0	0	0
 phagolysosome membrane	GO_0061474	0	1	0	0	0
@@ -209,6 +212,7 @@ mast cell secretory granule organization	GO_0033364	0	1	0	0	0
 mast cell degranulation	GO_0043303	0	1	0	0	0
 macropinocytosis involved in viral entry into host cell	GO_0075510	0	1	0	0	0
 macropinocytosis	GO_0044351	0	1	0	0	0
+lysosome to ER cholesterol transport	GO_0090120	0	1	0	0	0
 lumenal side of transport vesicle membrane	GO_0098538	0	1	0	0	0
 lumenal side of trans-Golgi network transport vesicle membrane	GO_0098540	0	1	0	0	0
 low-density lipoprotein particle clearance	GO_0034383	0	1	0	0	0
@@ -268,6 +272,7 @@ endosome to plasma membrane transport vesicle	GO_0070381	0	1	0	0	0
 endosome to pigment granule transport	GO_0043485	0	1	0	0	0
 endosome to melanosome transport	GO_0035646	0	1	0	0	0
 endosome to lysosome transport via multivesicular body sorting pathway	GO_0032510	0	1	0	0	0
+endosome to lysosome transport of low-density lipoprotein particle	GO_0090117	0	1	0	0	0
 endosomal vesicle fusion	GO_0034058	0	1	0	0	0
 endocytosis involved in viral entry into host cell	GO_0075509	0	1	0	0	0
 endocytosis	GO_0006897	0	1	0	0	0
@@ -382,6 +387,7 @@ Golgi-associated vesicle lumen	GO_0070931	0	1	0	0	0
 Golgi-associated vesicle	GO_0005798	0	1	0	0	0
 Golgi vesicle transport	GO_0048193	0	1	0	0	0
 Golgi vesicle fusion to target membrane	GO_0048210	0	1	0	0	0
+Golgi vesicle docking	GO_0048211	0	1	0	0	0
 Golgi vesicle budding	GO_0048194	0	1	0	0	0
 Golgi transport vesicle coating	GO_0048200	0	1	0	0	0
 Golgi to vacuole transport	GO_0006896	0	1	0	0	0

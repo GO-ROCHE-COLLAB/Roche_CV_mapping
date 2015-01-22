@@ -4,19 +4,34 @@ nucleus localization	GO_0051647	1	1	1	0	0
 nucleocytoplasmic transport	GO_0006913	1	1	1	0	0
 nuclear transport	GO_0051169	1	1	1	0	0
 nuclear speck organization	GO_0035063	1	1	1	0	0
+nuclear retention of unspliced pre-mRNA at the site of transcription	GO_0071048	1	1	1	0	0
+nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	GO_0071049	1	1	1	0	0
+nuclear retention of pre-mRNA at the site of transcription	GO_0071033	1	1	1	0	0
 nuclear pore organization	GO_0006999	1	1	1	0	0
 nuclear pore distribution	GO_0031081	1	1	1	0	0
 nuclear pore complex assembly	GO_0051292	1	1	1	0	0
+nuclear polyadenylation-dependent tRNA catabolic process	GO_0071038	1	1	1	0	0
+nuclear polyadenylation-dependent snoRNA catabolic process	GO_0071036	1	1	1	0	0
+nuclear polyadenylation-dependent snRNA catabolic process	GO_0071037	1	1	1	0	0
+nuclear polyadenylation-dependent rRNA catabolic process	GO_0071035	1	1	1	0	0
+nuclear polyadenylation-dependent ncRNA catabolic process	GO_0071046	1	1	1	0	0
+nuclear polyadenylation-dependent antisense transcript catabolic process	GO_0071040	1	1	1	0	0
+nuclear polyadenylation-dependent CUT catabolic process	GO_0071039	1	1	1	0	0
+nuclear ncRNA surveillance	GO_0071029	1	1	1	0	0
 nuclear migration involved in conjugation with mutual genetic exchange	GO_0000745	1	1	1	0	0
 nuclear migration involved in conjugation with cellular fusion	GO_0000743	1	1	1	0	0
 nuclear migration along microfilament	GO_0031022	1	1	1	0	0
 nuclear migration	GO_0007097	1	1	1	0	0
 nuclear matrix organization	GO_0043578	1	1	1	0	0
 nuclear matrix anchoring at nuclear membrane	GO_0090292	1	1	1	0	0
+nuclear mRNA surveillance of mRNP export	GO_0071032	1	1	1	0	0
+nuclear mRNA surveillance of mRNA 3'-end processing	GO_0071031	1	1	1	0	0
+nuclear mRNA surveillance	GO_0071028	1	1	1	0	0
 nuclear import	GO_0051170	1	1	1	0	0
 nuclear export	GO_0051168	1	1	1	0	0
 nuclear division involved in appressorium formation on or near host	GO_0075034	1	1	1	0	0
 nuclear division	GO_0000280	1	1	1	0	0
+nuclear RNA surveillance	GO_0071027	1	1	1	0	0
 karyogamy involved in conjugation with mutual genetic exchange	GO_0000744	1	1	1	0	0
 karyogamy involved in conjugation with cellular fusion	GO_0000742	1	1	1	0	0
 karyogamy	GO_0000741	1	1	1	0	0
@@ -62,34 +77,19 @@ nuclear translocation of MAPK (pseudohyphal growth)	GO_0000195	1	0	1	1	1
 nuclear translocation of MAPK (mating sensu Saccharomyces)	GO_0007248	1	0	1	1	1
 nuclear translocation of MAPK (mating sensu Fungi)	GO_0030460	1	0	1	1	1
 nuclear translocation of Hog1	GO_0007240	1	0	1	1	1
-nuclear retention of unspliced pre-mRNA at the site of transcription	GO_0071048	1	0	1	0	0
-nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	GO_0071049	1	0	1	0	0
-nuclear retention of pre-mRNA at the site of transcription	GO_0071033	1	0	1	0	0
 nuclear pore localization	GO_0051664	1	0	1	0	0
-nuclear polyadenylation-dependent tRNA catabolic process	GO_0071038	1	0	1	0	0
-nuclear polyadenylation-dependent snoRNA catabolic process	GO_0071036	1	0	1	0	0
-nuclear polyadenylation-dependent snRNA catabolic process	GO_0071037	1	0	1	0	0
-nuclear polyadenylation-dependent rRNA catabolic process	GO_0071035	1	0	1	0	0
-nuclear polyadenylation-dependent ncRNA catabolic process	GO_0071046	1	0	1	0	0
 nuclear polyadenylation-dependent mRNA catabolic process	GO_0071042	1	0	1	0	0
-nuclear polyadenylation-dependent antisense transcript catabolic process	GO_0071040	1	0	1	0	0
-nuclear polyadenylation-dependent CUT catabolic process	GO_0071039	1	0	1	0	0
 nuclear outer membrane organization	GO_0071764	1	0	1	0	0
-nuclear ncRNA surveillance	GO_0071029	1	0	1	0	0
 nuclear membrane vesicle binding to chromatin	GO_0007085	1	0	1	1	1
 nuclear membrane organization	GO_0071763	1	0	1	0	0
 nuclear membrane fusion involved in karyogamy	GO_0048288	1	0	1	0	0
 nuclear membrane fusion	GO_0000740	1	0	1	0	0
-nuclear mRNA surveillance of mRNP export	GO_0071032	1	0	1	0	0
-nuclear mRNA surveillance of mRNA 3'-end processing	GO_0071031	1	0	1	0	0
-nuclear mRNA surveillance	GO_0071028	1	0	1	0	0
 nuclear inner membrane organization	GO_0071765	1	0	1	0	0
 nuclear fusion during karyogamy	GO_0006945	1	0	1	1	1
 nuclear fragmentation involved in apoptotic nuclear change	GO_0030264	1	0	1	0	0
 nuclear envelope reassembly	GO_0031468	1	0	1	0	0
 nuclear envelope organization	GO_0006998	1	0	1	0	0
 nuclear envelope disassembly	GO_0051081	1	0	1	0	0
-nuclear RNA surveillance	GO_0071027	1	0	1	0	0
 mRNA branch site recognition	GO_0000348	1	0	1	0	0
 mRNA 5'-splice site recognition	GO_0000395	1	0	1	0	0
 mRNA 3'-splice site recognition	GO_0000389	1	0	1	0	0
@@ -176,6 +176,7 @@ nuclear migration to the embryo sac center	GO_0023003	0	1	0	0	0
 nuclear migration to embryo sac poles	GO_0023002	0	1	0	0	0
 nuclear migration during mitotic telophase	GO_0090561	0	1	0	0	0
 nuclear migration along microtubule	GO_0030473	0	1	0	0	0
+nuclear mRNA surveillance of spliceosomal pre-mRNA splicing	GO_0071030	0	1	0	0	0
 nuclear cortical migration	GO_0035192	0	1	0	0	0
 nuclear cell cycle DNA replication initiation	GO_1902315	0	1	0	0	0
 nuclear capsid assembly	GO_0039708	0	1	0	0	0
@@ -188,6 +189,7 @@ nuclear DNA replication	GO_0033260	0	1	0	0	0
 ncRNA export from nucleus	GO_0097064	0	1	0	0	0
 multi-organism nuclear import	GO_1902594	0	1	0	0	0
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	0	0	0
+mitotic spindle pole body localization to nuclear envelope	GO_1990608	0	1	0	0	0
 mitotic spindle organization in nucleus	GO_0030472	0	1	0	0	0
 mitotic pre-replicative complex assembly	GO_1902985	0	1	0	0	0
 mitotic nuclear pore complex reassembly	GO_0007087	0	1	0	0	0

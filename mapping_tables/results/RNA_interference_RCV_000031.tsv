@@ -9,6 +9,7 @@ production of ta-siRNAs involved in RNA interference	GO_0010267	0	1	1	0	0
 production of siRNA involved in RNA interference	GO_0030422	0	1	1	0	0
 production of lsiRNA involved in RNA interference	GO_0010599	0	1	1	0	0
 negative regulation of translation involved in RNA interference	GO_0070549	0	1	1	0	0
+mRNA cleavage involved in gene silencing by siRNA	GO_0090625	0	1	0	0	0
 conversion of ds siRNA to ss siRNA involved in RNA interference	GO_0033168	0	1	1	0	0
 RNA interference involved in olfactory learning	GO_1903453	0	1	1	0	0
 RNA interference	GO_0016246	0	1	1	0	0

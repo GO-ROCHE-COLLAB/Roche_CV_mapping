@@ -1812,6 +1812,7 @@ ATP phosphoribosyltransferase activity	GO_0003879	0	1	1	0	0
 ATP dimethylallyltransferase activity	GO_0052622	0	1	1	0	0
 ATP citrate synthase activity	GO_0003878	0	1	1	0	0
 ATP adenylyltransferase activity	GO_0003877	0	1	1	0	0
+APC-fizzy related complex activity	GO_0090622	0	1	0	0	0
 APC-Cdc20 complex activity	GO_0090302	0	1	1	0	0
 AMP-thymidine kinase activity	GO_0047667	0	1	1	0	0
 AMP-activated protein kinase activity	GO_0004679	0	1	1	0	0

@@ -106,6 +106,7 @@ nucleotide phosphorylation involved in DNA repair	GO_1902113	0	1	1	0	0
 non-recombinational repair	GO_0000726	0	1	1	0	0
 non-recombinational interstrand cross-link repair	GO_0036299	0	1	1	0	0
 non-photoreactive DNA repair	GO_0010213	0	1	1	0	0
+negative regulation of telomere single strand break repair	GO_1903824	0	1	0	0	0
 negative regulation of single-strand break repair via homologous recombination	GO_1903111	0	1	1	0	0
 negative regulation of single strand break repair	GO_1903517	0	1	1	0	0
 negative regulation of signal transduction involved in mitotic G2 DNA damage checkpoint	GO_1902505	0	1	1	0	0

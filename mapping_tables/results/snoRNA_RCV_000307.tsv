@@ -6,9 +6,15 @@ snoRNA transcription from an RNA polymerase II promoter	GO_0001015	0	1	0	0	0
 snoRNA transcription from a type 2 RNA polymerase III promoter	GO_0001014	0	1	0	0	0
 snoRNA transcription	GO_0009302	0	1	0	0	0
 snoRNA splicing	GO_0034247	0	1	0	0	0
+snoRNA release from pre-rRNA	GO_1990417	0	1	0	0	0
 snoRNA processing	GO_0043144	0	1	0	0	0
+snoRNA polyadenylation	GO_0071050	0	1	0	0	0
 snoRNA metabolic process	GO_0016074	0	1	0	0	0
+snoRNA localization	GO_0048254	0	1	0	0	0
+snoRNA guided rRNA pseudouridine synthesis	GO_0000454	0	1	0	0	0
+snoRNA guided rRNA 2'-O-methylation	GO_0000452	0	1	0	0	0
 snoRNA catabolic process	GO_0016077	0	1	0	0	0
+snoRNA binding	GO_0030515	0	1	0	0	0
 snoRNA 3'-end processing	GO_0031126	0	1	0	0	0
 snoRNA 3'-end cleavage	GO_0043145	0	1	0	0	0
 polyadenylation-dependent snoRNA 3'-end processing	GO_0071051	0	1	0	0	0
@@ -18,7 +24,10 @@ intronic box H/ACA snoRNA processing	GO_0034966	0	1	0	0	0
 intronic box C/D snoRNA processing	GO_0034965	0	1	0	0	0
 box H/ACA snoRNA processing	GO_0034964	0	1	0	0	0
 box H/ACA snoRNA metabolic process	GO_0033979	0	1	0	0	0
+box H/ACA snoRNA binding	GO_0034513	0	1	0	0	0
 box H/ACA snoRNA 3'-end processing	GO_0000495	0	1	0	0	0
 box C/D snoRNA processing	GO_0034963	0	1	0	0	0
 box C/D snoRNA metabolic process	GO_0033967	0	1	0	0	0
+box C/D snoRNA binding	GO_0034512	0	1	0	0	0
 box C/D snoRNA 3'-end processing	GO_0000494	0	1	0	0	0
+U3 snoRNA binding	GO_0034511	0	1	0	0	0
