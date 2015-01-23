@@ -12,7 +12,7 @@ import warnings
 ## Spec: Include combined manual & auto mappings that are not blacklists from results files for while a ticket exists with label: mapping_complete. 
 
 
-# Rather scrappy, Perlish procedural code for generating mappings.
+# Rather scrappy, Perlish procedural code for generating mappings. Annoyingly monolithic: Have to run all mappings or none.  
 
 """Reads owl_map and uses it to automatically populate RCV classes.  
 Compares these to manual mappings. Prints a results summary and results tables.
@@ -84,7 +84,7 @@ for RCV_id, rd in owlMap.rowColDict.items():
 			summary += "* Key class: [%s](http://www.ebi.ac.uk/ontology-lookup/?termId=%s)\n" % (rd["Key Class Name"], re.sub('_', ':', rd["Key Class ID"]))
 			summary += "* Pattern: [%s](../../patterns/%s.md)\n" % (rd["Applied pattern"], rd["Applied pattern"])
 	
-			fname = re.sub(' ', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
+			fname = re.sub('( |/)', '_', RCV_id_name[RCV_id]) + '_' + RCV_id
 			report = ''
 			if os.path.isfile(report_path + fname + ".tsv"):
 				report = rcd(report_path, fname + ".tsv", 'ID') # why not use tab rather than rcd?
