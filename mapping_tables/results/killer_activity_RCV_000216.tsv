@@ -7,27 +7,27 @@ killing by virus of host cell	GO_0039633	1	1	1	0	0
 killing by symbiont of host cells	GO_0001907	1	1	1	0	0
 killing by host of symbiont cells	GO_0051873	1	1	1	0	0
 killer activity	GO_0007583	1	0	1	1	1
-neutrophil mediated killing of symbiont cell	GO_0070943	0	1	0	0	0
-neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	0	0	0
-neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	0	0	0
-neutrophil mediated killing of fungus	GO_0070947	0	1	0	0	0
-neutrophil mediated killing of bacterium	GO_0070944	0	1	0	0	0
-neutrophil mediated cytotoxicity	GO_0070942	0	1	0	0	0
-natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	0	0	0
-natural killer cell mediated cytotoxicity	GO_0042267	0	1	0	0	0
-leukocyte mediated cytotoxicity	GO_0001909	0	1	0	0	0
-hemolysis in other organism involved in symbiotic interaction	GO_0052331	0	1	0	0	0
-hemolysis in other organism	GO_0044179	0	1	0	0	0
-hemolysis by symbiont of host erythrocytes	GO_0019836	0	1	0	0	0
-cytolysis in other organism involved in symbiotic interaction	GO_0051801	0	1	0	0	0
-cytolysis in other organism	GO_0051715	0	1	0	0	0
-cytolysis by virus via suppression of host peptidoglycan biosynthetic process	GO_0039640	0	1	0	0	0
-cytolysis by virus via pore formation in host cell membrane	GO_0044660	0	1	0	0	0
-cytolysis by virus of host cell	GO_0044659	0	1	0	0	0
-cytolysis by symbiont of host cells	GO_0001897	0	1	0	0	0
-cytolysis by host of symbiont cells	GO_0051838	0	1	0	0	0
-complement-dependent cytotoxicity	GO_0097278	0	1	0	0	0
-cell killing	GO_0001906	0	1	0	0	0
-antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0	0
-T cell mediated cytotoxicity directed against tumor cell target	GO_0002419	0	1	0	0	0
-T cell mediated cytotoxicity	GO_0001913	0	1	0	0	0
+neutrophil mediated killing of symbiont cell	GO_0070943	0	1	1	0	0
+neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	1	0	0
+neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	1	0	0
+neutrophil mediated killing of fungus	GO_0070947	0	1	1	0	0
+neutrophil mediated killing of bacterium	GO_0070944	0	1	1	0	0
+neutrophil mediated cytotoxicity	GO_0070942	0	1	1	0	0
+natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	1	0	0
+natural killer cell mediated cytotoxicity	GO_0042267	0	1	1	0	0
+leukocyte mediated cytotoxicity	GO_0001909	0	1	1	0	0
+hemolysis in other organism involved in symbiotic interaction	GO_0052331	0	1	1	0	0
+hemolysis in other organism	GO_0044179	0	1	1	0	0
+hemolysis by symbiont of host erythrocytes	GO_0019836	0	1	1	0	0
+cytolysis in other organism involved in symbiotic interaction	GO_0051801	0	1	1	0	0
+cytolysis in other organism	GO_0051715	0	1	1	0	0
+cytolysis by virus via suppression of host peptidoglycan biosynthetic process	GO_0039640	0	1	1	0	0
+cytolysis by virus via pore formation in host cell membrane	GO_0044660	0	1	1	0	0
+cytolysis by virus of host cell	GO_0044659	0	1	1	0	0
+cytolysis by symbiont of host cells	GO_0001897	0	1	1	0	0
+cytolysis by host of symbiont cells	GO_0051838	0	1	1	0	0
+complement-dependent cytotoxicity	GO_0097278	0	1	1	0	0
+cell killing	GO_0001906	0	1	1	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	0	1	1	0	0
+T cell mediated cytotoxicity directed against tumor cell target	GO_0002419	0	1	1	0	0
+T cell mediated cytotoxicity	GO_0001913	0	1	1	0	0
