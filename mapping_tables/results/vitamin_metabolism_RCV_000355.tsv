@@ -3,72 +3,72 @@ biotin metabolic process	GO_0006768	1	1	1	0	0
 biotin catabolic process	GO_0042367	1	1	1	0	0
 biotin transport	GO_0015878	1	0	1	0	0
 biotin carboxyl carrier protein biosynthetic process	GO_0042966	1	0	1	0	0
-water-soluble vitamin metabolic process	GO_0006767	0	1	0	0	0
-water-soluble vitamin catabolic process	GO_0042365	0	1	0	0	0
-water-soluble vitamin biosynthetic process	GO_0042364	0	1	0	0	0
-vitamin metabolic process	GO_0006766	0	1	0	0	0
-vitamin catabolic process	GO_0009111	0	1	0	0	0
-vitamin biosynthetic process	GO_0009110	0	1	0	0	0
-vitamin K metabolic process	GO_0042373	0	1	0	0	0
-vitamin K catabolic process	GO_0042377	0	1	0	0	0
-vitamin K biosynthetic process	GO_0042371	0	1	0	0	0
-vitamin E metabolic process	GO_0042360	0	1	0	0	0
-vitamin E biosynthetic process	GO_0010189	0	1	0	0	0
-vitamin D5 metabolic process	GO_0070642	0	1	0	0	0
-vitamin D4 metabolic process	GO_0070641	0	1	0	0	0
-vitamin D3 metabolic process	GO_0070640	0	1	0	0	0
-vitamin D3 catabolic process	GO_1901754	0	1	0	0	0
-vitamin D3 biosynthetic process	GO_1901755	0	1	0	0	0
-vitamin D2 metabolic process	GO_0070639	0	1	0	0	0
-vitamin D metabolic process	GO_0042359	0	1	0	0	0
-vitamin D catabolic process	GO_0042369	0	1	0	0	0
-vitamin D biosynthetic process	GO_0042368	0	1	0	0	0
-vitamin B6 metabolic process	GO_0042816	0	1	0	0	0
-vitamin B6 catabolic process	GO_0042820	0	1	0	0	0
-vitamin B6 biosynthetic process	GO_0042819	0	1	0	0	0
-vitamin A metabolic process	GO_0006776	0	1	0	0	0
-vitamin A biosynthetic process	GO_0035238	0	1	0	0	0
-thiamine-containing compound metabolic process	GO_0042723	0	1	0	0	0
-thiamine-containing compound catabolic process	GO_0042725	0	1	0	0	0
-thiamine-containing compound biosynthetic process	GO_0042724	0	1	0	0	0
-thiamine salvage	GO_0036172	0	1	0	0	0
-thiamine metabolic process	GO_0006772	0	1	0	0	0
-thiamine catabolic process	GO_0009230	0	1	0	0	0
-thiamine biosynthetic process	GO_0009228	0	1	0	0	0
-riboflavin metabolic process	GO_0006771	0	1	0	0	0
-riboflavin catabolic process	GO_0009232	0	1	0	0	0
-riboflavin biosynthetic process	GO_0009231	0	1	0	0	0
-retinoic acid catabolic process	GO_0034653	0	1	0	0	0
-pyridoxine metabolic process	GO_0008614	0	1	0	0	0
-pyridoxine biosynthetic process	GO_0008615	0	1	0	0	0
-pyridoxamine metabolic process	GO_0042818	0	1	0	0	0
-pyridoxal phosphate biosynthetic process from pyridoxamine	GO_0010144	0	1	0	0	0
-pyridoxal metabolic process	GO_0042817	0	1	0	0	0
-pyridoxal biosynthetic process	GO_0042821	0	1	0	0	0
-pantothenate metabolic process	GO_0015939	0	1	0	0	0
-pantothenate catabolic process	GO_0015941	0	1	0	0	0
-pantothenate biosynthetic process from valine	GO_0033317	0	1	0	0	0
-pantothenate biosynthetic process from 2-dehydropantolactone	GO_0033318	0	1	0	0	0
-pantothenate biosynthetic process	GO_0015940	0	1	0	0	0
-nicotinamide nucleotide biosynthetic process from niacinamide	GO_0019360	0	1	0	0	0
-nicotinamide metabolic process	GO_0006769	0	1	0	0	0
-folic acid metabolic process	GO_0046655	0	1	0	0	0
-folic acid catabolic process	GO_0046657	0	1	0	0	0
-folic acid biosynthetic process	GO_0046656	0	1	0	0	0
-fat-soluble vitamin metabolic process	GO_0006775	0	1	0	0	0
-fat-soluble vitamin catabolic process	GO_0042363	0	1	0	0	0
-fat-soluble vitamin biosynthetic process	GO_0042362	0	1	0	0	0
-cobalamin metabolic process	GO_0009235	0	1	0	0	0
-cobalamin catabolic process	GO_0042366	0	1	0	0	0
-cobalamin biosynthetic process	GO_0009236	0	1	0	0	0
-calcitriol biosynthetic process from calciol	GO_0036378	0	1	0	0	0
-biotin biosynthetic process	GO_0009102	0	1	0	0	0
-ascorbate glutathione cycle	GO_0033355	0	1	0	0	0
-anaerobic cobalamin biosynthetic process	GO_0019251	0	1	0	0	0
-aerobic cobalamin biosynthetic process	GO_0019250	0	1	0	0	0
-acetyl-CoA biosynthetic process from pantothenate	GO_1990181	0	1	0	0	0
-L-ascorbic acid metabolic process	GO_0019852	0	1	0	0	0
-L-ascorbic acid catabolic process	GO_0019854	0	1	0	0	0
-L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate	GO_0090532	0	1	0	0	0
-L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose	GO_0090531	0	1	0	0	0
-L-ascorbic acid biosynthetic process	GO_0019853	0	1	0	0	0
+water-soluble vitamin metabolic process	GO_0006767	0	1	1	0	0
+water-soluble vitamin catabolic process	GO_0042365	0	1	1	0	0
+water-soluble vitamin biosynthetic process	GO_0042364	0	1	1	0	0
+vitamin metabolic process	GO_0006766	0	1	1	0	0
+vitamin catabolic process	GO_0009111	0	1	1	0	0
+vitamin biosynthetic process	GO_0009110	0	1	1	0	0
+vitamin K metabolic process	GO_0042373	0	1	1	0	0
+vitamin K catabolic process	GO_0042377	0	1	1	0	0
+vitamin K biosynthetic process	GO_0042371	0	1	1	0	0
+vitamin E metabolic process	GO_0042360	0	1	1	0	0
+vitamin E biosynthetic process	GO_0010189	0	1	1	0	0
+vitamin D5 metabolic process	GO_0070642	0	1	1	0	0
+vitamin D4 metabolic process	GO_0070641	0	1	1	0	0
+vitamin D3 metabolic process	GO_0070640	0	1	1	0	0
+vitamin D3 catabolic process	GO_1901754	0	1	1	0	0
+vitamin D3 biosynthetic process	GO_1901755	0	1	1	0	0
+vitamin D2 metabolic process	GO_0070639	0	1	1	0	0
+vitamin D metabolic process	GO_0042359	0	1	1	0	0
+vitamin D catabolic process	GO_0042369	0	1	1	0	0
+vitamin D biosynthetic process	GO_0042368	0	1	1	0	0
+vitamin B6 metabolic process	GO_0042816	0	1	1	0	0
+vitamin B6 catabolic process	GO_0042820	0	1	1	0	0
+vitamin B6 biosynthetic process	GO_0042819	0	1	1	0	0
+vitamin A metabolic process	GO_0006776	0	1	1	0	0
+vitamin A biosynthetic process	GO_0035238	0	1	1	0	0
+thiamine-containing compound metabolic process	GO_0042723	0	1	1	0	0
+thiamine-containing compound catabolic process	GO_0042725	0	1	1	0	0
+thiamine-containing compound biosynthetic process	GO_0042724	0	1	1	0	0
+thiamine salvage	GO_0036172	0	1	1	0	0
+thiamine metabolic process	GO_0006772	0	1	1	0	0
+thiamine catabolic process	GO_0009230	0	1	1	0	0
+thiamine biosynthetic process	GO_0009228	0	1	1	0	0
+riboflavin metabolic process	GO_0006771	0	1	1	0	0
+riboflavin catabolic process	GO_0009232	0	1	1	0	0
+riboflavin biosynthetic process	GO_0009231	0	1	1	0	0
+retinoic acid catabolic process	GO_0034653	0	1	1	0	0
+pyridoxine metabolic process	GO_0008614	0	1	1	0	0
+pyridoxine biosynthetic process	GO_0008615	0	1	1	0	0
+pyridoxamine metabolic process	GO_0042818	0	1	1	0	0
+pyridoxal phosphate biosynthetic process from pyridoxamine	GO_0010144	0	1	1	0	0
+pyridoxal metabolic process	GO_0042817	0	1	1	0	0
+pyridoxal biosynthetic process	GO_0042821	0	1	1	0	0
+pantothenate metabolic process	GO_0015939	0	1	1	0	0
+pantothenate catabolic process	GO_0015941	0	1	1	0	0
+pantothenate biosynthetic process from valine	GO_0033317	0	1	1	0	0
+pantothenate biosynthetic process from 2-dehydropantolactone	GO_0033318	0	1	1	0	0
+pantothenate biosynthetic process	GO_0015940	0	1	1	0	0
+nicotinamide nucleotide biosynthetic process from niacinamide	GO_0019360	0	1	1	0	0
+nicotinamide metabolic process	GO_0006769	0	1	1	0	0
+folic acid metabolic process	GO_0046655	0	1	1	0	0
+folic acid catabolic process	GO_0046657	0	1	1	0	0
+folic acid biosynthetic process	GO_0046656	0	1	1	0	0
+fat-soluble vitamin metabolic process	GO_0006775	0	1	1	0	0
+fat-soluble vitamin catabolic process	GO_0042363	0	1	1	0	0
+fat-soluble vitamin biosynthetic process	GO_0042362	0	1	1	0	0
+cobalamin metabolic process	GO_0009235	0	1	1	0	0
+cobalamin catabolic process	GO_0042366	0	1	1	0	0
+cobalamin biosynthetic process	GO_0009236	0	1	1	0	0
+calcitriol biosynthetic process from calciol	GO_0036378	0	1	1	0	0
+biotin biosynthetic process	GO_0009102	0	1	1	0	0
+ascorbate glutathione cycle	GO_0033355	0	1	1	0	0
+anaerobic cobalamin biosynthetic process	GO_0019251	0	1	1	0	0
+aerobic cobalamin biosynthetic process	GO_0019250	0	1	1	0	0
+acetyl-CoA biosynthetic process from pantothenate	GO_1990181	0	1	1	0	0
+L-ascorbic acid metabolic process	GO_0019852	0	1	1	0	0
+L-ascorbic acid catabolic process	GO_0019854	0	1	1	0	0
+L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate	GO_0090532	0	1	1	0	0
+L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose	GO_0090531	0	1	1	0	0
+L-ascorbic acid biosynthetic process	GO_0019853	0	1	1	0	0
