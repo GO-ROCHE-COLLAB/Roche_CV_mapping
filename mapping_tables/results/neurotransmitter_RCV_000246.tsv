@@ -58,77 +58,77 @@ catecholamine secretion	GO_0050432	1	0	1	0	0
 catecholamine metabolic process	GO_0006584	1	0	1	0	0
 catecholamine catabolic process	GO_0042424	1	0	1	0	0
 catecholamine biosynthetic process	GO_0042423	1	0	1	0	0
-tachykinin receptor activity	GO_0004995	0	1	0	0	0
-substance P receptor activity	GO_0016496	0	1	0	0	0
-substance K receptor activity	GO_0016497	0	1	0	0	0
-spontaneous neurotransmitter secretion	GO_0061669	0	1	0	0	0
-somatostatin receptor activity	GO_0004994	0	1	0	0	0
-slow, calcium ion-dependent exocytosis of neurotransmitter	GO_0098747	0	1	0	0	0
-short neuropeptide F receptor activity	GO_0036400	0	1	0	0	0
-serotonin:sodium symporter activity	GO_0005335	0	1	0	0	0
-serotonin uptake	GO_0051610	0	1	0	0	0
-serotonin secretion, neurotransmission	GO_0060096	0	1	0	0	0
-pyrokinin receptor activity	GO_0036401	0	1	0	0	0
-proctolin receptor activity	GO_0035236	0	1	0	0	0
-phenylethylamine metabolic process involved in synaptic transmission	GO_0090507	0	1	0	0	0
-phenylethylamine biosynthetic process involved in synaptic transmission	GO_0090508	0	1	0	0	0
-peptide secretion, neurotransmission	GO_0061544	0	1	0	0	0
-peptide YY receptor activity	GO_0001601	0	1	0	0	0
-pancreatic polypeptide receptor activity	GO_0001602	0	1	0	0	0
-octopamine secretion, neurotransmission	GO_0061540	0	1	0	0	0
-octopamine metabolic process	GO_0046333	0	1	0	0	0
-octopamine catabolic process	GO_0046334	0	1	0	0	0
-octopamine biosynthetic process	GO_0006589	0	1	0	0	0
-norepinephrine:sodium symporter activity	GO_0005334	0	1	0	0	0
-norepinephrine secretion, neurotransmission	GO_0061533	0	1	0	0	0
-neurotransmitter:sodium symporter activity	GO_0005328	0	1	0	0	0
-neurotransmitter transporter activity	GO_0005326	0	1	0	0	0
-neurotransmitter receptor activity	GO_0030594	0	1	0	0	0
-neurotransmitter loading into synaptic vesicle	GO_0098700	0	1	0	0	0
-neurotransmitter binding	GO_0042165	0	1	0	0	0
-neuropeptide receptor activity	GO_0008188	0	1	0	0	0
-neuropeptide Y receptor activity	GO_0004983	0	1	0	0	0
-neuropeptide F receptor activity	GO_0042263	0	1	0	0	0
-neuromedin U receptor activity	GO_0001607	0	1	0	0	0
-neuromedin K receptor activity	GO_0016498	0	1	0	0	0
-hypocretin secretion, neurotransmission	GO_0061585	0	1	0	0	0
-histamine uptake	GO_0051615	0	1	0	0	0
-histamine secretion, neurotransmission	GO_0061538	0	1	0	0	0
-histamine catabolic process	GO_0001695	0	1	0	0	0
-glycine secretion, neurotransmission	GO_0061537	0	1	0	0	0
-glutamate secretion, neurotransmission	GO_0061535	0	1	0	0	0
-gamma-aminobutyric acid uptake involved in synaptic transmission	GO_0051936	0	1	0	0	0
-gamma-aminobutyric acid secretion, neurotransmission	GO_0061534	0	1	0	0	0
-galanin receptor activity	GO_0004966	0	1	0	0	0
-fast, calcium ion-dependent exocytosis of neurotransmitter	GO_0098746	0	1	0	0	0
-evoked neurotransmitter secretion	GO_0061670	0	1	0	0	0
-epinephrine secretion, neurotransmission	GO_0061529	0	1	0	0	0
-dopamine:sodium symporter activity	GO_0005330	0	1	0	0	0
-dopamine uptake involved in synaptic transmission	GO_0051583	0	1	0	0	0
-dopamine secretion, neurotransmission	GO_0061527	0	1	0	0	0
-dopamine neurotransmitter receptor activity, coupled via Gs	GO_0001588	0	1	0	0	0
-dopamine neurotransmitter receptor activity, coupled via Gi/Go	GO_0001591	0	1	0	0	0
-dopamine neurotransmitter receptor activity	GO_0004952	0	1	0	0	0
-corticotropin receptor activity	GO_0004978	0	1	0	0	0
-corazonin receptor activity	GO_0035237	0	1	0	0	0
-bombesin receptor activity	GO_0004946	0	1	0	0	0
-beta-endorphin receptor activity	GO_0004979	0	1	0	0	0
-beta-endorphin binding	GO_0031626	0	1	0	0	0
-benzodiazepine receptor activity	GO_0008503	0	1	0	0	0
-aspartate secretion, neurotransmission	GO_0061530	0	1	0	0	0
-amino acid uptake involved in synaptic transmission	GO_0051933	0	1	0	0	0
-acetylcholine:proton antiporter activity	GO_0005278	0	1	0	0	0
-acetylcholine-induced gastric acid secretion	GO_0001699	0	1	0	0	0
-acetylcholine uptake	GO_0051630	0	1	0	0	0
-acetylcholine transmembrane transporter activity	GO_0005277	0	1	0	0	0
-acetylcholine secretion, neurotransmission	GO_0014055	0	1	0	0	0
-acetylcholine receptor activity	GO_0015464	0	1	0	0	0
-acetylcholine metabolic process	GO_0008291	0	1	0	0	0
-acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	0	0	0
-acetylcholine catabolic process	GO_0006581	0	1	0	0	0
-acetylcholine biosynthetic process	GO_0008292	0	1	0	0	0
-acetylcholine binding	GO_0042166	0	1	0	0	0
-L-glutamate uptake involved in synaptic transmission	GO_0051935	0	1	0	0	0
-L-DOPA receptor activity	GO_0035643	0	1	0	0	0
-G-protein coupled neurotensin receptor activity	GO_0016492	0	1	0	0	0
-G-protein coupled acetylcholine receptor activity	GO_0016907	0	1	0	0	0
+tachykinin receptor activity	GO_0004995	0	1	1	0	0
+substance P receptor activity	GO_0016496	0	1	1	0	0
+substance K receptor activity	GO_0016497	0	1	1	0	0
+spontaneous neurotransmitter secretion	GO_0061669	0	1	1	0	0
+somatostatin receptor activity	GO_0004994	0	1	1	0	0
+slow, calcium ion-dependent exocytosis of neurotransmitter	GO_0098747	0	1	1	0	0
+short neuropeptide F receptor activity	GO_0036400	0	1	1	0	0
+serotonin:sodium symporter activity	GO_0005335	0	1	1	0	0
+serotonin uptake	GO_0051610	0	1	1	0	0
+serotonin secretion, neurotransmission	GO_0060096	0	1	1	0	0
+pyrokinin receptor activity	GO_0036401	0	1	1	0	0
+proctolin receptor activity	GO_0035236	0	1	1	0	0
+phenylethylamine metabolic process involved in synaptic transmission	GO_0090507	0	1	1	0	0
+phenylethylamine biosynthetic process involved in synaptic transmission	GO_0090508	0	1	1	0	0
+peptide secretion, neurotransmission	GO_0061544	0	1	1	0	0
+peptide YY receptor activity	GO_0001601	0	1	1	0	0
+pancreatic polypeptide receptor activity	GO_0001602	0	1	1	0	0
+octopamine secretion, neurotransmission	GO_0061540	0	1	1	0	0
+octopamine metabolic process	GO_0046333	0	1	1	0	0
+octopamine catabolic process	GO_0046334	0	1	1	0	0
+octopamine biosynthetic process	GO_0006589	0	1	1	0	0
+norepinephrine:sodium symporter activity	GO_0005334	0	1	1	0	0
+norepinephrine secretion, neurotransmission	GO_0061533	0	1	1	0	0
+neurotransmitter:sodium symporter activity	GO_0005328	0	1	1	0	0
+neurotransmitter transporter activity	GO_0005326	0	1	1	0	0
+neurotransmitter receptor activity	GO_0030594	0	1	1	0	0
+neurotransmitter loading into synaptic vesicle	GO_0098700	0	1	1	0	0
+neurotransmitter binding	GO_0042165	0	1	1	0	0
+neuropeptide receptor activity	GO_0008188	0	1	1	0	0
+neuropeptide Y receptor activity	GO_0004983	0	1	1	0	0
+neuropeptide F receptor activity	GO_0042263	0	1	1	0	0
+neuromedin U receptor activity	GO_0001607	0	1	1	0	0
+neuromedin K receptor activity	GO_0016498	0	1	1	0	0
+hypocretin secretion, neurotransmission	GO_0061585	0	1	1	0	0
+histamine uptake	GO_0051615	0	1	1	0	0
+histamine secretion, neurotransmission	GO_0061538	0	1	1	0	0
+histamine catabolic process	GO_0001695	0	1	1	0	0
+glycine secretion, neurotransmission	GO_0061537	0	1	1	0	0
+glutamate secretion, neurotransmission	GO_0061535	0	1	1	0	0
+gamma-aminobutyric acid uptake involved in synaptic transmission	GO_0051936	0	1	1	0	0
+gamma-aminobutyric acid secretion, neurotransmission	GO_0061534	0	1	1	0	0
+galanin receptor activity	GO_0004966	0	1	1	0	0
+fast, calcium ion-dependent exocytosis of neurotransmitter	GO_0098746	0	1	1	0	0
+evoked neurotransmitter secretion	GO_0061670	0	1	1	0	0
+epinephrine secretion, neurotransmission	GO_0061529	0	1	1	0	0
+dopamine:sodium symporter activity	GO_0005330	0	1	1	0	0
+dopamine uptake involved in synaptic transmission	GO_0051583	0	1	1	0	0
+dopamine secretion, neurotransmission	GO_0061527	0	1	1	0	0
+dopamine neurotransmitter receptor activity, coupled via Gs	GO_0001588	0	1	1	0	0
+dopamine neurotransmitter receptor activity, coupled via Gi/Go	GO_0001591	0	1	1	0	0
+dopamine neurotransmitter receptor activity	GO_0004952	0	1	1	0	0
+corticotropin receptor activity	GO_0004978	0	1	1	0	0
+corazonin receptor activity	GO_0035237	0	1	1	0	0
+bombesin receptor activity	GO_0004946	0	1	1	0	0
+beta-endorphin receptor activity	GO_0004979	0	1	1	0	0
+beta-endorphin binding	GO_0031626	0	1	1	0	0
+benzodiazepine receptor activity	GO_0008503	0	1	1	0	0
+aspartate secretion, neurotransmission	GO_0061530	0	1	1	0	0
+amino acid uptake involved in synaptic transmission	GO_0051933	0	1	1	0	0
+acetylcholine:proton antiporter activity	GO_0005278	0	1	1	0	0
+acetylcholine-induced gastric acid secretion	GO_0001699	0	1	1	0	0
+acetylcholine uptake	GO_0051630	0	1	1	0	0
+acetylcholine transmembrane transporter activity	GO_0005277	0	1	1	0	0
+acetylcholine secretion, neurotransmission	GO_0014055	0	1	1	0	0
+acetylcholine receptor activity	GO_0015464	0	1	1	0	0
+acetylcholine metabolic process	GO_0008291	0	1	1	0	0
+acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	1	0	0
+acetylcholine catabolic process	GO_0006581	0	1	1	0	0
+acetylcholine biosynthetic process	GO_0008292	0	1	1	0	0
+acetylcholine binding	GO_0042166	0	1	1	0	0
+L-glutamate uptake involved in synaptic transmission	GO_0051935	0	1	1	0	0
+L-DOPA receptor activity	GO_0035643	0	1	1	0	0
+G-protein coupled neurotensin receptor activity	GO_0016492	0	1	1	0	0
+G-protein coupled acetylcholine receptor activity	GO_0016907	0	1	1	0	0
