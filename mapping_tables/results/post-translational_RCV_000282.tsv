@@ -7,35 +7,35 @@ C-terminal protein amino acid modification	GO_0018410	1	1	1	0	0
 C-terminal protein prenylation	GO_0006502	1	0	1	1	1
 C-terminal protein geranylgeranylation	GO_0006504	1	0	1	1	1
 C-terminal protein farnesylation	GO_0006503	1	0	1	1	1
-protein C-terminal amidation	GO_0018033	0	1	0	0	0
-post-translational protein modification	GO_0043687	0	1	0	0	0
-post-translational protein acetylation	GO_0034421	0	1	0	0	0
-peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	0	0	0
-peptidyl-L-threonine methyl ester biosynthetic process from peptidyl-threonine	GO_0044608	0	1	0	0	0
-peptidyl-L-lysine methyl ester biosynthetic process from peptidyl-lysine	GO_0042034	0	1	0	0	0
-peptidyl-L-leucine methyl ester biosynthetic process from peptidyl-leucine	GO_0018439	0	1	0	0	0
-peptidyl-L-cysteine methyl ester biosynthetic process from peptidyl-cysteine	GO_0018229	0	1	0	0	0
-N-terminal protein amino acid propionylation	GO_0061606	0	1	0	0	0
-CAAX-box protein modification	GO_0071587	0	1	0	0	0
-C-terminal peptidyl-valine amidation	GO_0018053	0	1	0	0	0
-C-terminal peptidyl-tyrosine amidation	GO_0018052	0	1	0	0	0
-C-terminal peptidyl-tryptophan amidation	GO_0018051	0	1	0	0	0
-C-terminal peptidyl-threonine amidation	GO_0018050	0	1	0	0	0
-C-terminal peptidyl-serine amidation	GO_0018049	0	1	0	0	0
-C-terminal peptidyl-proline amidation	GO_0018048	0	1	0	0	0
-C-terminal peptidyl-polyglutamic acid amidation	GO_0018170	0	1	0	0	0
-C-terminal peptidyl-phenylalanine amidation	GO_0018047	0	1	0	0	0
-C-terminal peptidyl-methionine amidation	GO_0018046	0	1	0	0	0
-C-terminal peptidyl-lysine amidation	GO_0018045	0	1	0	0	0
-C-terminal peptidyl-leucine amidation	GO_0018044	0	1	0	0	0
-C-terminal peptidyl-isoleucine amidation	GO_0018043	0	1	0	0	0
-C-terminal peptidyl-histidine amidation	GO_0018042	0	1	0	0	0
-C-terminal peptidyl-glycine amidation	GO_0018041	0	1	0	0	0
-C-terminal peptidyl-glutamine amidation	GO_0018039	0	1	0	0	0
-C-terminal peptidyl-glutamic acid tyrosinylation	GO_0018391	0	1	0	0	0
-C-terminal peptidyl-glutamic acid amidation	GO_0018040	0	1	0	0	0
-C-terminal peptidyl-cysteine amidation	GO_0018038	0	1	0	0	0
-C-terminal peptidyl-aspartic acid amidation	GO_0018037	0	1	0	0	0
-C-terminal peptidyl-asparagine amidation	GO_0018036	0	1	0	0	0
-C-terminal peptidyl-arginine amidation	GO_0018035	0	1	0	0	0
-C-terminal peptidyl-alanine amidation	GO_0018034	0	1	0	0	0
+protein C-terminal amidation	GO_0018033	0	1	1	0	0
+post-translational protein modification	GO_0043687	0	1	1	0	0
+post-translational protein acetylation	GO_0034421	0	1	1	0	0
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	GO_0019708	0	1	1	0	0
+peptidyl-L-threonine methyl ester biosynthetic process from peptidyl-threonine	GO_0044608	0	1	1	0	0
+peptidyl-L-lysine methyl ester biosynthetic process from peptidyl-lysine	GO_0042034	0	1	1	0	0
+peptidyl-L-leucine methyl ester biosynthetic process from peptidyl-leucine	GO_0018439	0	1	1	0	0
+peptidyl-L-cysteine methyl ester biosynthetic process from peptidyl-cysteine	GO_0018229	0	1	1	0	0
+N-terminal protein amino acid propionylation	GO_0061606	0	1	1	0	0
+CAAX-box protein modification	GO_0071587	0	1	1	0	0
+C-terminal peptidyl-valine amidation	GO_0018053	0	1	1	0	0
+C-terminal peptidyl-tyrosine amidation	GO_0018052	0	1	1	0	0
+C-terminal peptidyl-tryptophan amidation	GO_0018051	0	1	1	0	0
+C-terminal peptidyl-threonine amidation	GO_0018050	0	1	1	0	0
+C-terminal peptidyl-serine amidation	GO_0018049	0	1	1	0	0
+C-terminal peptidyl-proline amidation	GO_0018048	0	1	1	0	0
+C-terminal peptidyl-polyglutamic acid amidation	GO_0018170	0	1	1	0	0
+C-terminal peptidyl-phenylalanine amidation	GO_0018047	0	1	1	0	0
+C-terminal peptidyl-methionine amidation	GO_0018046	0	1	1	0	0
+C-terminal peptidyl-lysine amidation	GO_0018045	0	1	1	0	0
+C-terminal peptidyl-leucine amidation	GO_0018044	0	1	1	0	0
+C-terminal peptidyl-isoleucine amidation	GO_0018043	0	1	1	0	0
+C-terminal peptidyl-histidine amidation	GO_0018042	0	1	1	0	0
+C-terminal peptidyl-glycine amidation	GO_0018041	0	1	1	0	0
+C-terminal peptidyl-glutamine amidation	GO_0018039	0	1	1	0	0
+C-terminal peptidyl-glutamic acid tyrosinylation	GO_0018391	0	1	1	0	0
+C-terminal peptidyl-glutamic acid amidation	GO_0018040	0	1	1	0	0
+C-terminal peptidyl-cysteine amidation	GO_0018038	0	1	1	0	0
+C-terminal peptidyl-aspartic acid amidation	GO_0018037	0	1	1	0	0
+C-terminal peptidyl-asparagine amidation	GO_0018036	0	1	1	0	0
+C-terminal peptidyl-arginine amidation	GO_0018035	0	1	1	0	0
+C-terminal peptidyl-alanine amidation	GO_0018034	0	1	1	0	0
