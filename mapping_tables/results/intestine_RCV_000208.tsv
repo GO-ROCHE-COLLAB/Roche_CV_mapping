@@ -10,6 +10,6 @@ negative regulation of intestinal cholesterol absorption	GO_0045796	1	0	1	0	0
 modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044517	1	0	1	0	0
 envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044520	1	0	1	0	0
 envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044519	1	0	1	0	0
-tolerance induction in Peyer's patch	GO_0002389	0	1	0	0	0
-intestinal D-glucose absorption	GO_0001951	0	1	0	0	0
-immune response in Peyer's patch	GO_0002388	0	1	0	0	0
+tolerance induction in Peyer's patch	GO_0002389	0	1	1	1	1
+intestinal D-glucose absorption	GO_0001951	0	1	1	0	0
+immune response in Peyer's patch	GO_0002388	0	1	1	1	1
