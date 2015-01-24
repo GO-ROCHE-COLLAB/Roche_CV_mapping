@@ -54,7 +54,7 @@ positive regulation of flocculation via cell wall protein-carbohydrate interacti
 positive regulation of cell wall polysaccharide catabolic process	GO_2000968	1	0	1	0	0
 positive regulation by symbiont of defense-related host cell wall thickening	GO_0052539	1	0	1	0	0
 positive regulation by symbiont of defense-related host cell wall callose deposition	GO_0052109	1	0	1	0	0
-porous cell septum	GO_0000934	1	0	1	0	0
+porous cell septum	GO_0000934	1	0	1	1	1
 plant-type cell wall organization or biogenesis	GO_0071669	1	0	1	0	0
 plant-type cell wall cellulose metabolic process	GO_0052541	1	0	1	0	0
 plant-type cell wall cellulose catabolic process	GO_0044348	1	0	1	0	0
@@ -66,7 +66,7 @@ negative regulation of plant-type cell wall cellulose biosynthetic process	GO_20
 negative regulation of cell wall polysaccharide catabolic process	GO_2000967	1	0	1	0	0
 negative regulation by symbiont of defense-related host cell wall callose deposition	GO_0052202	1	0	1	0	0
 negative regulation by organism of defense-related symbiont cell wall callose deposition	GO_0052478	1	0	1	1	1
-negative regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052311	1	0	1	0	0
+negative regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052311	1	0	1	1	1
 mycolate cell wall layer assembly	GO_0071769	1	0	1	0	0
 multi-organism cell wall macromolecule metabolic process	GO_0044037	1	0	1	0	0
 modulation of symbiont cell wall strengthening involved in entry into host	GO_0075049	1	0	1	0	0
@@ -138,52 +138,52 @@ adventitious septum	GO_0000933	1	0	1	0	0
 MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	1	0	1	0	0
 MAPK cascade involved in cell wall organization or biogenesis	GO_0000196	1	0	1	0	0
 DIM/DIP cell wall layer assembly	GO_0071770	1	0	1	0	0
-yeast-form cell wall	GO_0030445	0	1	0	0	0
-suberin network	GO_0048225	0	1	0	0	0
-spore wall biogenesis	GO_0070590	0	1	0	0	0
-spore wall assembly	GO_0042244	0	1	0	0	0
-spore wall	GO_0031160	0	1	0	0	0
-simple sieve plate	GO_0097220	0	1	0	0	0
-sieve plate	GO_0097218	0	1	0	0	0
-sieve area	GO_0097217	0	1	0	0	0
-sexual spore wall assembly	GO_0034294	0	1	0	0	0
-sexual spore wall	GO_0097514	0	1	0	0	0
-secondary cell wall	GO_0009531	0	1	0	0	0
-primary cell wall	GO_0009530	0	1	0	0	0
-plant-type cell wall loosening involved in abscission	GO_1902088	0	1	0	0	0
-plant-type cell wall	GO_0009505	0	1	0	0	0
-perforation plate	GO_1990073	0	1	0	0	0
-peptidoglycan-based cell wall	GO_0009274	0	1	0	0	0
-pectic matrix	GO_0048217	0	1	0	0	0
-outer endospore membrane	GO_0043594	0	1	0	0	0
-lignin network	GO_0048224	0	1	0	0	0
-inner layer of spore wall	GO_0005632	0	1	0	0	0
-hyphal cell wall	GO_0030446	0	1	0	0	0
-hemicellulose network	GO_0048223	0	1	0	0	0
-glycoprotein network	GO_0048222	0	1	0	0	0
-fungal-type cell wall	GO_0009277	0	1	0	0	0
-filiform apparatus	GO_0043680	0	1	0	0	0
-external side of fungal-type cell wall	GO_0070263	0	1	0	0	0
-external side of cell wall	GO_0010339	0	1	0	0	0
-exosporium	GO_0043592	0	1	0	0	0
-endospore external encapsulating structure	GO_0043591	0	1	0	0	0
-endospore cortex	GO_0043595	0	1	0	0	0
-endospore coat	GO_0043593	0	1	0	0	0
-dityrosine layer of spore wall	GO_0005630	0	1	0	0	0
-cyst wall	GO_0097570	0	1	0	0	0
-compound sieve plate	GO_0097219	0	1	0	0	0
-chitosan layer of spore wall	GO_0005631	0	1	0	0	0
-cellulose microfibril	GO_0009549	0	1	0	0	0
-cellular bud scar	GO_0005621	0	1	0	0	0
-cellular birth scar	GO_0071597	0	1	0	0	0
-cell wall part	GO_0044426	0	1	0	0	0
-cell wall	GO_0005618	0	1	0	0	0
-cell septum edging	GO_0043188	0	1	0	0	0
-asexual spore wall assembly	GO_0042243	0	1	0	0	0
-asexual spore wall	GO_0097515	0	1	0	0	0
-ascospore wall biogenesis	GO_0070591	0	1	0	0	0
-ascospore wall assembly	GO_0030476	0	1	0	0	0
-ascospore wall	GO_0005619	0	1	0	0	0
-Gram-positive-bacterium-type cell wall	GO_0009275	0	1	0	0	0
-Gram-negative-bacterium-type cell wall	GO_0009276	0	1	0	0	0
-Casparian strip	GO_0048226	0	1	0	0	0
+yeast-form cell wall	GO_0030445	0	1	1	0	0
+suberin network	GO_0048225	0	1	1	0	0
+spore wall biogenesis	GO_0070590	0	1	1	0	0
+spore wall assembly	GO_0042244	0	1	1	0	0
+spore wall	GO_0031160	0	1	1	0	0
+simple sieve plate	GO_0097220	0	1	1	0	0
+sieve plate	GO_0097218	0	1	1	0	0
+sieve area	GO_0097217	0	1	1	0	0
+sexual spore wall assembly	GO_0034294	0	1	1	0	0
+sexual spore wall	GO_0097514	0	1	1	0	0
+secondary cell wall	GO_0009531	0	1	1	0	0
+primary cell wall	GO_0009530	0	1	1	0	0
+plant-type cell wall loosening involved in abscission	GO_1902088	0	1	1	0	0
+plant-type cell wall	GO_0009505	0	1	1	0	0
+perforation plate	GO_1990073	0	1	1	0	0
+peptidoglycan-based cell wall	GO_0009274	0	1	1	0	0
+pectic matrix	GO_0048217	0	1	1	0	0
+outer endospore membrane	GO_0043594	0	1	1	0	0
+lignin network	GO_0048224	0	1	1	0	0
+inner layer of spore wall	GO_0005632	0	1	1	0	0
+hyphal cell wall	GO_0030446	0	1	1	0	0
+hemicellulose network	GO_0048223	0	1	1	0	0
+glycoprotein network	GO_0048222	0	1	1	0	0
+fungal-type cell wall	GO_0009277	0	1	1	0	0
+filiform apparatus	GO_0043680	0	1	1	0	0
+external side of fungal-type cell wall	GO_0070263	0	1	1	0	0
+external side of cell wall	GO_0010339	0	1	1	0	0
+exosporium	GO_0043592	0	1	1	0	0
+endospore external encapsulating structure	GO_0043591	0	1	1	0	0
+endospore cortex	GO_0043595	0	1	1	0	0
+endospore coat	GO_0043593	0	1	1	0	0
+dityrosine layer of spore wall	GO_0005630	0	1	1	0	0
+cyst wall	GO_0097570	0	1	1	0	0
+compound sieve plate	GO_0097219	0	1	1	0	0
+chitosan layer of spore wall	GO_0005631	0	1	1	0	0
+cellulose microfibril	GO_0009549	0	1	1	0	0
+cellular bud scar	GO_0005621	0	1	1	0	0
+cellular birth scar	GO_0071597	0	1	1	0	0
+cell wall part	GO_0044426	0	1	1	0	0
+cell wall	GO_0005618	0	1	1	0	0
+cell septum edging	GO_0043188	0	1	1	0	0
+asexual spore wall assembly	GO_0042243	0	1	1	0	0
+asexual spore wall	GO_0097515	0	1	1	0	0
+ascospore wall biogenesis	GO_0070591	0	1	1	0	0
+ascospore wall assembly	GO_0030476	0	1	1	0	0
+ascospore wall	GO_0005619	0	1	1	0	0
+Gram-positive-bacterium-type cell wall	GO_0009275	0	1	1	0	0
+Gram-negative-bacterium-type cell wall	GO_0009276	0	1	1	0	0
+Casparian strip	GO_0048226	0	1	1	0	0
