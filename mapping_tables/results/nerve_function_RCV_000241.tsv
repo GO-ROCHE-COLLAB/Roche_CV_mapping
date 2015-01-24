@@ -1,4 +1,4 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 neuronal action potential	GO_0019228	1	1	1	0	0
 action potential	GO_0001508	1	0	1	0	0
-regulation of neuronal action potential	GO_0098908	0	1	0	0	0
+regulation of neuronal action potential	GO_0098908	0	1	1	0	0
