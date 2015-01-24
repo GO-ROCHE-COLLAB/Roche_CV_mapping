@@ -3,8 +3,8 @@ succinyl-CoA pathway	GO_0006781	1	1	1	0	0
 succinyl-CoA metabolic process	GO_0006104	1	1	1	0	0
 succinyl-CoA catabolic process	GO_1901289	1	1	1	0	0
 succinyl-CoA biosynthetic process	GO_1901290	1	1	1	0	0
-tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_0033527	0	1	0	0	0
-regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_1901413	0	1	0	0	0
-positive regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_1901415	0	1	0	0	0
-negative regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_1901414	0	1	0	0	0
-methionine catabolic process to succinyl-CoA	GO_0019457	0	1	0	0	0
+tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_0033527	0	1	1	0	0
+regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_1901413	0	1	1	0	0
+positive regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_1901415	0	1	1	0	0
+negative regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA	GO_1901414	0	1	1	0	0
+methionine catabolic process to succinyl-CoA	GO_0019457	0	1	1	0	0
