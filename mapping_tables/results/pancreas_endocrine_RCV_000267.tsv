@@ -9,19 +9,19 @@ endocrine pancreas development	GO_0031018	1	1	1	0	0
 regulation of type B pancreatic cell apoptotic process	GO_2000674	1	0	1	0	0
 positive regulation of type B pancreatic cell apoptotic process	GO_2000676	1	0	1	0	0
 negative regulation of type B pancreatic cell apoptotic process	GO_2000675	1	0	1	0	0
-type B pancreatic cell maturation	GO_0072560	0	1	0	0	0
-type B pancreatic cell fate commitment	GO_0003327	0	1	0	0	0
-type B pancreatic cell differentiation	GO_0003309	0	1	0	0	0
-type B pancreatic cell development	GO_0003323	0	1	0	0	0
-pancreatic epsilon cell differentiation	GO_0090104	0	1	0	0	0
-pancreatic PP cell fate commitment	GO_0003329	0	1	0	0	0
-pancreatic PP cell differentiation	GO_0003312	0	1	0	0	0
-pancreatic PP cell development	GO_0003325	0	1	0	0	0
-pancreatic E cell fate commitment	GO_0090106	0	1	0	0	0
-pancreatic E cell development	GO_0090105	0	1	0	0	0
-pancreatic D cell fate commitment	GO_0003328	0	1	0	0	0
-pancreatic D cell differentiation	GO_0003311	0	1	0	0	0
-pancreatic D cell development	GO_0003324	0	1	0	0	0
-pancreatic A cell fate commitment	GO_0003326	0	1	0	0	0
-pancreatic A cell differentiation	GO_0003310	0	1	0	0	0
-pancreatic A cell development	GO_0003322	0	1	0	0	0
+type B pancreatic cell maturation	GO_0072560	0	1	1	0	0
+type B pancreatic cell fate commitment	GO_0003327	0	1	1	0	0
+type B pancreatic cell differentiation	GO_0003309	0	1	1	0	0
+type B pancreatic cell development	GO_0003323	0	1	1	0	0
+pancreatic epsilon cell differentiation	GO_0090104	0	1	1	0	0
+pancreatic PP cell fate commitment	GO_0003329	0	1	1	0	0
+pancreatic PP cell differentiation	GO_0003312	0	1	1	0	0
+pancreatic PP cell development	GO_0003325	0	1	1	0	0
+pancreatic E cell fate commitment	GO_0090106	0	1	1	0	0
+pancreatic E cell development	GO_0090105	0	1	1	0	0
+pancreatic D cell fate commitment	GO_0003328	0	1	1	0	0
+pancreatic D cell differentiation	GO_0003311	0	1	1	0	0
+pancreatic D cell development	GO_0003324	0	1	1	0	0
+pancreatic A cell fate commitment	GO_0003326	0	1	1	0	0
+pancreatic A cell differentiation	GO_0003310	0	1	1	0	0
+pancreatic A cell development	GO_0003322	0	1	1	0	0
