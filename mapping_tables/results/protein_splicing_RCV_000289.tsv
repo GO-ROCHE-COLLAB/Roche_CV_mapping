@@ -2,5 +2,5 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 intein-mediated protein splicing	GO_0016539	1	1	1	0	0
 cyclization of glutamine involved in intein-mediated protein splicing	GO_0019802	1	1	1	0	0
 cyclization of asparagine involved in intein-mediated protein splicing	GO_0019801	1	1	1	0	0
-protein splicing	GO_0030908	0	1	0	0	0
-non-intein-mediated protein splicing	GO_0030909	0	1	0	0	0
+protein splicing	GO_0030908	0	1	1	0	0
+non-intein-mediated protein splicing	GO_0030909	0	1	1	0	0

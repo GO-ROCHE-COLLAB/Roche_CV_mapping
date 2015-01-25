@@ -3,23 +3,23 @@ cellular hypotonic salinity response	GO_0071477	1	1	1	0	0
 cellular hyperosmotic salinity response	GO_0071475	1	1	1	0	0
 cellular hypotonic response	GO_0071476	1	0	1	0	0
 cellular hyperosmotic response	GO_0071474	1	0	1	0	0
-response to salt stress	GO_0009651	0	1	0	0	0
-response to cation stress	GO_0043157	0	1	0	0	0
-response to anion stress	GO_0072342	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0061416	0	1	0	0	0
-regulation of response to salt stress	GO_1901000	0	1	0	0	0
-regulation of cellular hyperosmotic salinity response	GO_1900069	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0036251	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter in response to increased salt	GO_0061404	0	1	0	0	0
-positive regulation of response to salt stress	GO_1901002	0	1	0	0	0
-positive regulation of calcium-mediated signaling involved in cellular response to salt stress	GO_1901196	0	1	0	0	0
-positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901199	0	1	0	0	0
-negative regulation of response to salt stress	GO_1901001	0	1	0	0	0
-negative regulation of cellular hyperosmotic salinity response by negative regulation of transcription from RNA polymerase II promoter	GO_1900464	0	1	0	0	0
-negative regulation of cellular hyperosmotic salinity response	GO_1900070	0	1	0	0	0
-negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901200	0	1	0	0	0
-hypotonic salinity response	GO_0042539	0	1	0	0	0
-hyperosmotic salinity response	GO_0042538	0	1	0	0	0
-chromatin remodeling in response to cation stress	GO_0043156	0	1	0	0	0
-cellular response to salt stress	GO_0071472	0	1	0	0	0
-cellular response to cation stress	GO_0071473	0	1	0	0	0
+response to salt stress	GO_0009651	0	1	1	0	0
+response to cation stress	GO_0043157	0	1	1	0	0
+response to anion stress	GO_0072342	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0061416	0	1	1	0	0
+regulation of response to salt stress	GO_1901000	0	1	1	0	0
+regulation of cellular hyperosmotic salinity response	GO_1900069	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0036251	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to increased salt	GO_0061404	0	1	1	0	0
+positive regulation of response to salt stress	GO_1901002	0	1	1	0	0
+positive regulation of calcium-mediated signaling involved in cellular response to salt stress	GO_1901196	0	1	1	0	0
+positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901199	0	1	1	0	0
+negative regulation of response to salt stress	GO_1901001	0	1	1	0	0
+negative regulation of cellular hyperosmotic salinity response by negative regulation of transcription from RNA polymerase II promoter	GO_1900464	0	1	1	0	0
+negative regulation of cellular hyperosmotic salinity response	GO_1900070	0	1	1	0	0
+negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901200	0	1	1	0	0
+hypotonic salinity response	GO_0042539	0	1	1	0	0
+hyperosmotic salinity response	GO_0042538	0	1	1	0	0
+chromatin remodeling in response to cation stress	GO_0043156	0	1	1	0	0
+cellular response to salt stress	GO_0071472	0	1	1	0	0
+cellular response to cation stress	GO_0071473	0	1	1	0	0

@@ -5,105 +5,105 @@ response to reactive oxygen species	GO_0000302	1	1	1	0	0
 response to oxygen radical	GO_0000305	1	1	1	0	0
 superoxide metabolic process	GO_0006801	1	0	1	0	0
 superoxide anion generation	GO_0042554	1	0	1	0	0
-superoxide dismutase copper chaperone activity	GO_0016532	0	1	0	0	0
-superoxide dismutase activity	GO_0004784	0	1	0	0	0
-singlet oxygen-mediated programmed cell death	GO_0010343	0	1	0	0	0
-response to t-BOOH	GO_0072735	0	1	0	0	0
-response to photooxidative stress	GO_0080183	0	1	0	0	0
-response to ozone	GO_0010193	0	1	0	0	0
-response to oxidative stress	GO_0006979	0	1	0	0	0
-response to nitric oxide	GO_0071731	0	1	0	0	0
-response to lipid hydroperoxide	GO_0006982	0	1	0	0	0
-response to hypochlorite	GO_1901530	0	1	0	0	0
-response to hydroperoxide	GO_0033194	0	1	0	0	0
-response to hydrogen peroxide	GO_0042542	0	1	0	0	0
-response to alkyl hydroperoxide	GO_0033195	0	1	0	0	0
-removal of superoxide radicals	GO_0019430	0	1	0	0	0
-regulation of translation in response to oxidative stress	GO_0043556	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0043619	0	1	0	0	0
-regulation of superoxide dismutase activity	GO_1901668	0	1	0	0	0
-regulation of response to reactive oxygen species	GO_1901031	0	1	0	0	0
-regulation of response to oxidative stress	GO_1902882	0	1	0	0	0
-regulation of removal of superoxide radicals	GO_2000121	0	1	0	0	0
-regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903376	0	1	0	0	0
-regulation of oxidative stress-induced neuron death	GO_1903203	0	1	0	0	0
-regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902175	0	1	0	0	0
-regulation of oxidative stress-induced cell death	GO_1903201	0	1	0	0	0
-regulation of mRNA stability involved in response to oxidative stress	GO_2000815	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903750	0	1	0	0	0
-regulation of hydrogen peroxide-mediated programmed cell death	GO_1901298	0	1	0	0	0
-regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903383	0	1	0	0	0
-regulation of hydrogen peroxide-induced neuron death	GO_1903207	0	1	0	0	0
-regulation of hydrogen peroxide-induced cell death	GO_1903205	0	1	0	0	0
-regulation of hydrogen peroxide catabolic process	GO_2000295	0	1	0	0	0
-regulation of cellular response to oxidative stress by regulation of transcription from RNA polymerase II promoter	GO_1900427	0	1	0	0	0
-regulation of cellular response to oxidative stress	GO_1900407	0	1	0	0	0
-programmed cell death in response to reactive oxygen species	GO_0097468	0	1	0	0	0
-positive regulation of translation in response to oxidative stress	GO_0032939	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter in response to superoxide	GO_1990096	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter in response to reactive oxygen species	GO_1990095	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0036091	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide	GO_0061407	0	1	0	0	0
-positive regulation of transcription factor import into nucleus in response to oxidative stress	GO_0036283	0	1	0	0	0
-positive regulation of superoxide dismutase activity	GO_1901671	0	1	0	0	0
-positive regulation of response to reactive oxygen species	GO_1901033	0	1	0	0	0
-positive regulation of response to oxidative stress	GO_1902884	0	1	0	0	0
-positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903378	0	1	0	0	0
-positive regulation of oxidative stress-induced neuron death	GO_1903223	0	1	0	0	0
-positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902177	0	1	0	0	0
-positive regulation of oxidative stress-induced cell death	GO_1903209	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903752	0	1	0	0	0
-positive regulation of hydrogen peroxide-mediated programmed cell death	GO_1901300	0	1	0	0	0
-positive regulation of hydrogen peroxide catabolic process	GO_1903285	0	1	0	0	0
-positive regulation of cellular response to oxidative stress	GO_1900409	0	1	0	0	0
-oxidative stress-induced premature senescence	GO_0090403	0	1	0	0	0
-nitric oxide sensor activity	GO_0035991	0	1	0	0	0
-neuron intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0036480	0	1	0	0	0
-neuron intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036482	0	1	0	0	0
-neuron death in response to oxidative stress	GO_0036475	0	1	0	0	0
-neuron death in response to hydrogen peroxide	GO_0036476	0	1	0	0	0
-negative regulation of translation in response to oxidative stress	GO_0032938	0	1	0	0	0
-negative regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0061417	0	1	0	0	0
-negative regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide	GO_0036129	0	1	0	0	0
-negative regulation of superoxide dismutase activity	GO_1901670	0	1	0	0	0
-negative regulation of response to reactive oxygen species	GO_1901032	0	1	0	0	0
-negative regulation of response to oxidative stress	GO_1902883	0	1	0	0	0
-negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903377	0	1	0	0	0
-negative regulation of oxidative stress-induced neuron death	GO_1903204	0	1	0	0	0
-negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902176	0	1	0	0	0
-negative regulation of oxidative stress-induced cell death	GO_1903202	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903751	0	1	0	0	0
-negative regulation of hydrogen peroxide-mediated programmed cell death	GO_1901299	0	1	0	0	0
-negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903384	0	1	0	0	0
-negative regulation of hydrogen peroxide-induced neuron death	GO_1903208	0	1	0	0	0
-negative regulation of hydrogen peroxide-induced cell death	GO_1903206	0	1	0	0	0
-negative regulation of hydrogen peroxide catabolic process	GO_2000296	0	1	0	0	0
-negative regulation of cellular response to oxidative stress	GO_1900408	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0008631	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036481	0	1	0	0	0
-inheritance of oxidatively modified proteins involved in replicative cell aging	GO_0001319	0	1	0	0	0
-hydrogen peroxide-mediated programmed cell death	GO_0010421	0	1	0	0	0
-formation of oxidatively modified proteins involved in replicative cell aging	GO_0001318	0	1	0	0	0
-detection of oxidative stress	GO_0070994	0	1	0	0	0
-cellular response to t-BOOH	GO_0072736	0	1	0	0	0
-cellular response to superoxide	GO_0071451	0	1	0	0	0
-cellular response to singlet oxygen	GO_0071452	0	1	0	0	0
-cellular response to reactive oxygen species	GO_0034614	0	1	0	0	0
-cellular response to ozone	GO_0071457	0	1	0	0	0
-cellular response to oxygen radical	GO_0071450	0	1	0	0	0
-cellular response to oxidative stress	GO_0034599	0	1	0	0	0
-cellular response to nitric oxide	GO_0071732	0	1	0	0	0
-cellular response to lipid hydroperoxide	GO_0071449	0	1	0	0	0
-cellular response to hydroperoxide	GO_0071447	0	1	0	0	0
-cellular response to hydrogen peroxide	GO_0070301	0	1	0	0	0
-cellular response to alkyl hydroperoxide	GO_0071448	0	1	0	0	0
-cellular age-dependent response to reactive oxygen species	GO_0072353	0	1	0	0	0
-cell death in response to oxidative stress	GO_0036473	0	1	0	0	0
-cell death in response to hydrogen peroxide	GO_0036474	0	1	0	0	0
-age-dependent response to reactive oxygen species involved in replicative cell aging	GO_0001316	0	1	0	0	0
-age-dependent response to reactive oxygen species involved in chronological cell aging	GO_0001320	0	1	0	0	0
-age-dependent response to reactive oxygen species	GO_0001315	0	1	0	0	0
-age-dependent response to oxidative stress involved in replicative cell aging	GO_0001322	0	1	0	0	0
-age-dependent response to oxidative stress involved in chronological cell aging	GO_0001324	0	1	0	0	0
-age-dependent response to oxidative stress	GO_0001306	0	1	0	0	0
-accumulation of oxidatively modified proteins involved in replicative cell aging	GO_0001317	0	1	0	0	0
+superoxide dismutase copper chaperone activity	GO_0016532	0	1	1	0	0
+superoxide dismutase activity	GO_0004784	0	1	1	0	0
+singlet oxygen-mediated programmed cell death	GO_0010343	0	1	1	0	0
+response to t-BOOH	GO_0072735	0	1	1	0	0
+response to photooxidative stress	GO_0080183	0	1	1	0	0
+response to ozone	GO_0010193	0	1	1	0	0
+response to oxidative stress	GO_0006979	0	1	1	0	0
+response to nitric oxide	GO_0071731	0	1	1	0	0
+response to lipid hydroperoxide	GO_0006982	0	1	1	0	0
+response to hypochlorite	GO_1901530	0	1	1	0	0
+response to hydroperoxide	GO_0033194	0	1	1	0	0
+response to hydrogen peroxide	GO_0042542	0	1	1	0	0
+response to alkyl hydroperoxide	GO_0033195	0	1	1	0	0
+removal of superoxide radicals	GO_0019430	0	1	1	0	0
+regulation of translation in response to oxidative stress	GO_0043556	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0043619	0	1	1	0	0
+regulation of superoxide dismutase activity	GO_1901668	0	1	1	0	0
+regulation of response to reactive oxygen species	GO_1901031	0	1	1	0	0
+regulation of response to oxidative stress	GO_1902882	0	1	1	0	0
+regulation of removal of superoxide radicals	GO_2000121	0	1	1	0	0
+regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903376	0	1	1	0	0
+regulation of oxidative stress-induced neuron death	GO_1903203	0	1	1	0	0
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902175	0	1	1	0	0
+regulation of oxidative stress-induced cell death	GO_1903201	0	1	1	0	0
+regulation of mRNA stability involved in response to oxidative stress	GO_2000815	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903750	0	1	1	0	0
+regulation of hydrogen peroxide-mediated programmed cell death	GO_1901298	0	1	1	0	0
+regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903383	0	1	1	0	0
+regulation of hydrogen peroxide-induced neuron death	GO_1903207	0	1	1	0	0
+regulation of hydrogen peroxide-induced cell death	GO_1903205	0	1	1	0	0
+regulation of hydrogen peroxide catabolic process	GO_2000295	0	1	1	0	0
+regulation of cellular response to oxidative stress by regulation of transcription from RNA polymerase II promoter	GO_1900427	0	1	1	0	0
+regulation of cellular response to oxidative stress	GO_1900407	0	1	1	0	0
+programmed cell death in response to reactive oxygen species	GO_0097468	0	1	1	0	0
+positive regulation of translation in response to oxidative stress	GO_0032939	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to superoxide	GO_1990096	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to reactive oxygen species	GO_1990095	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0036091	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide	GO_0061407	0	1	1	0	0
+positive regulation of transcription factor import into nucleus in response to oxidative stress	GO_0036283	0	1	1	0	0
+positive regulation of superoxide dismutase activity	GO_1901671	0	1	1	0	0
+positive regulation of response to reactive oxygen species	GO_1901033	0	1	1	0	0
+positive regulation of response to oxidative stress	GO_1902884	0	1	1	0	0
+positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903378	0	1	1	0	0
+positive regulation of oxidative stress-induced neuron death	GO_1903223	0	1	1	0	0
+positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902177	0	1	1	0	0
+positive regulation of oxidative stress-induced cell death	GO_1903209	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903752	0	1	1	0	0
+positive regulation of hydrogen peroxide-mediated programmed cell death	GO_1901300	0	1	1	0	0
+positive regulation of hydrogen peroxide catabolic process	GO_1903285	0	1	1	0	0
+positive regulation of cellular response to oxidative stress	GO_1900409	0	1	1	0	0
+oxidative stress-induced premature senescence	GO_0090403	0	1	1	0	0
+nitric oxide sensor activity	GO_0035991	0	1	1	0	0
+neuron intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0036480	0	1	1	0	0
+neuron intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036482	0	1	1	0	0
+neuron death in response to oxidative stress	GO_0036475	0	1	1	0	0
+neuron death in response to hydrogen peroxide	GO_0036476	0	1	1	0	0
+negative regulation of translation in response to oxidative stress	GO_0032938	0	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to oxidative stress	GO_0061417	0	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide	GO_0036129	0	1	1	0	0
+negative regulation of superoxide dismutase activity	GO_1901670	0	1	1	0	0
+negative regulation of response to reactive oxygen species	GO_1901032	0	1	1	0	0
+negative regulation of response to oxidative stress	GO_1902883	0	1	1	0	0
+negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903377	0	1	1	0	0
+negative regulation of oxidative stress-induced neuron death	GO_1903204	0	1	1	0	0
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902176	0	1	1	0	0
+negative regulation of oxidative stress-induced cell death	GO_1903202	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903751	0	1	1	0	0
+negative regulation of hydrogen peroxide-mediated programmed cell death	GO_1901299	0	1	1	0	0
+negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903384	0	1	1	0	0
+negative regulation of hydrogen peroxide-induced neuron death	GO_1903208	0	1	1	0	0
+negative regulation of hydrogen peroxide-induced cell death	GO_1903206	0	1	1	0	0
+negative regulation of hydrogen peroxide catabolic process	GO_2000296	0	1	1	0	0
+negative regulation of cellular response to oxidative stress	GO_1900408	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0008631	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036481	0	1	1	0	0
+inheritance of oxidatively modified proteins involved in replicative cell aging	GO_0001319	0	1	1	0	0
+hydrogen peroxide-mediated programmed cell death	GO_0010421	0	1	1	0	0
+formation of oxidatively modified proteins involved in replicative cell aging	GO_0001318	0	1	1	0	0
+detection of oxidative stress	GO_0070994	0	1	1	0	0
+cellular response to t-BOOH	GO_0072736	0	1	1	0	0
+cellular response to superoxide	GO_0071451	0	1	1	0	0
+cellular response to singlet oxygen	GO_0071452	0	1	1	0	0
+cellular response to reactive oxygen species	GO_0034614	0	1	1	0	0
+cellular response to ozone	GO_0071457	0	1	1	0	0
+cellular response to oxygen radical	GO_0071450	0	1	1	0	0
+cellular response to oxidative stress	GO_0034599	0	1	1	0	0
+cellular response to nitric oxide	GO_0071732	0	1	1	0	0
+cellular response to lipid hydroperoxide	GO_0071449	0	1	1	0	0
+cellular response to hydroperoxide	GO_0071447	0	1	1	0	0
+cellular response to hydrogen peroxide	GO_0070301	0	1	1	0	0
+cellular response to alkyl hydroperoxide	GO_0071448	0	1	1	0	0
+cellular age-dependent response to reactive oxygen species	GO_0072353	0	1	1	0	0
+cell death in response to oxidative stress	GO_0036473	0	1	1	0	0
+cell death in response to hydrogen peroxide	GO_0036474	0	1	1	0	0
+age-dependent response to reactive oxygen species involved in replicative cell aging	GO_0001316	0	1	1	0	0
+age-dependent response to reactive oxygen species involved in chronological cell aging	GO_0001320	0	1	1	0	0
+age-dependent response to reactive oxygen species	GO_0001315	0	1	1	0	0
+age-dependent response to oxidative stress involved in replicative cell aging	GO_0001322	0	1	1	0	0
+age-dependent response to oxidative stress involved in chronological cell aging	GO_0001324	0	1	1	0	0
+age-dependent response to oxidative stress	GO_0001306	0	1	1	0	0
+accumulation of oxidatively modified proteins involved in replicative cell aging	GO_0001317	0	1	1	0	0

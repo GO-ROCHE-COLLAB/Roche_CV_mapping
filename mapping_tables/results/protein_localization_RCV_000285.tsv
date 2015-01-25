@@ -11,479 +11,479 @@ maintenance of protein location in cell	GO_0032507	1	1	1	0	0
 maintenance of protein location	GO_0045185	1	1	1	0	0
 maintenance of protein localization in organelle	GO_0072595	1	1	1	0	0
 maintenance of protein localization in endoplasmic reticulum	GO_0035437	1	1	1	0	0
-viral capsid precursor transport to host cell nucleus	GO_0046752	0	1	0	0	0
-ubiquitin-dependent endocytosis	GO_0070086	0	1	0	0	0
-type III interferon secretion	GO_0072644	0	1	0	0	0
-type I interferon secretion	GO_0072641	0	1	0	0	0
-translocation of peptides or proteins into symbiont	GO_0051844	0	1	0	0	0
-translocation of peptides or proteins into other organism involved in symbiotic interaction	GO_0051808	0	1	0	0	0
-translocation of peptides or proteins into host cell cytoplasm	GO_0044053	0	1	0	0	0
-translocation of peptides or proteins into host	GO_0042000	0	1	0	0	0
-transforming growth factor-beta secretion	GO_0038044	0	1	0	0	0
-transferrin transport	GO_0033572	0	1	0	0	0
-transferrin transmembrane transporter activity	GO_0033570	0	1	0	0	0
-transcription factor import into nucleus	GO_0042991	0	1	0	0	0
-tail-anchored membrane protein insertion into ER membrane	GO_0071816	0	1	0	0	0
-symbiont intracellular protein transport in host	GO_0030581	0	1	0	0	0
-storage protein import into fat body	GO_0015032	0	1	0	0	0
-sterol regulatory element binding protein import into nucleus	GO_0035105	0	1	0	0	0
-steroid hormone receptor import into nucleus	GO_0002146	0	1	0	0	0
-splicing factor protein import into nucleus	GO_0035048	0	1	0	0	0
-snRNP protein import into nucleus	GO_0006608	0	1	0	0	0
-skeletal muscle acetylcholine-gated channel clustering	GO_0071340	0	1	0	0	0
-sister chromatid biorientation	GO_0031134	0	1	0	0	0
-sequestration of proteasome core complex in proteasome storage granule	GO_1990237	0	1	0	0	0
-sequestering of actin monomers	GO_0042989	0	1	0	0	0
-sequestering of TGFbeta in extracellular matrix	GO_0035583	0	1	0	0	0
-sequestering of BMP in extracellular matrix	GO_0035582	0	1	0	0	0
-secretion of lysosomal enzymes	GO_0033299	0	1	0	0	0
-ribosomal protein import into nucleus	GO_0006610	0	1	0	0	0
-retrograde protein transport, ER to cytosol	GO_0030970	0	1	0	0	0
-repair of mono-orientation defects	GO_1990598	0	1	0	0	0
-renin secretion into blood stream	GO_0002001	0	1	0	0	0
-regulation of translation by machinery localization	GO_0043143	0	1	0	0	0
-regulation of synaptic plasticity by receptor localization to synapse	GO_1900383	0	1	0	0	0
-regulation of histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore	GO_2000817	0	1	0	0	0
-regulation of endocytosis by exocyst localization	GO_0051600	0	1	0	0	0
-regulation of Wnt signaling pathway by Wnt protein secretion	GO_0061359	0	1	0	0	0
-receptor localization to synapse	GO_0097120	0	1	0	0	0
-receptor localization to nonmotile primary cilium	GO_0097500	0	1	0	0	0
-receptor clustering	GO_0043113	0	1	0	0	0
-proton motive force dependent protein transmembrane transporter activity	GO_0009977	0	1	0	0	0
-protein-transmembrane transporting ATPase activity	GO_0015462	0	1	0	0	0
-protein-exporting ATPase activity	GO_0008564	0	1	0	0	0
-protein-DNA complex transport	GO_0015869	0	1	0	0	0
-protein-DNA complex transmembrane transporter activity	GO_0015219	0	1	0	0	0
-protein transporter activity	GO_0008565	0	1	0	0	0
-protein transport within lipid bilayer	GO_0032594	0	1	0	0	0
-protein transport within extracellular region	GO_0071693	0	1	0	0	0
-protein transport out of plasma membrane raft	GO_0044862	0	1	0	0	0
-protein transport out of membrane raft	GO_0032599	0	1	0	0	0
-protein transport into plasma membrane raft	GO_0044861	0	1	0	0	0
-protein transport into membrane raft	GO_0032596	0	1	0	0	0
-protein transport from ciliary membrane to plasma membrane	GO_1903445	0	1	0	0	0
-protein transport by the Tat complex	GO_0043953	0	1	0	0	0
-protein transport by the Sec complex	GO_0043952	0	1	0	0	0
-protein transport across periplasmic space	GO_0072322	0	1	0	0	0
-protein transport	GO_0015031	0	1	0	0	0
-protein transmembrane transporter activity	GO_0008320	0	1	0	0	0
-protein transmembrane transport	GO_0071806	0	1	0	0	0
-protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043328	0	1	0	0	0
-protein targeting to vacuole involved in autophagy	GO_0071211	0	1	0	0	0
-protein targeting to vacuole	GO_0006623	0	1	0	0	0
-protein targeting to vacuolar membrane	GO_0044395	0	1	0	0	0
-protein targeting to prospore membrane	GO_0072693	0	1	0	0	0
-protein targeting to plasma membrane	GO_0072661	0	1	0	0	0
-protein targeting to peroxisome	GO_0006625	0	1	0	0	0
-protein targeting to nucleus	GO_0044744	0	1	0	0	0
-protein targeting to nuclear inner membrane	GO_0036228	0	1	0	0	0
-protein targeting to mitochondrion	GO_0006626	0	1	0	0	0
-protein targeting to membrane involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043329	0	1	0	0	0
-protein targeting to membrane	GO_0006612	0	1	0	0	0
-protein targeting to lysosome	GO_0006622	0	1	0	0	0
-protein targeting to chloroplast	GO_0045036	0	1	0	0	0
-protein targeting to Golgi	GO_0000042	0	1	0	0	0
-protein targeting to ER	GO_0045047	0	1	0	0	0
-protein targeting	GO_0006605	0	1	0	0	0
-protein secretion by the type VII secretion system	GO_0044315	0	1	0	0	0
-protein secretion by the type VI secretion system	GO_0033103	0	1	0	0	0
-protein secretion by the type V secretion system	GO_0046819	0	1	0	0	0
-protein secretion by the type IV secretion system	GO_0030255	0	1	0	0	0
-protein secretion by the type III secretion system	GO_0030254	0	1	0	0	0
-protein secretion by the type II secretion system	GO_0015628	0	1	0	0	0
-protein secretion by the type I secretion system	GO_0030253	0	1	0	0	0
-protein secretion by platelet	GO_0070560	0	1	0	0	0
-protein secretion	GO_0009306	0	1	0	0	0
-protein retention in Golgi apparatus	GO_0045053	0	1	0	0	0
-protein retention in ER lumen	GO_0006621	0	1	0	0	0
-protein processing involved in protein targeting to mitochondrion	GO_0006627	0	1	0	0	0
-protein localization to vacuole	GO_0072665	0	1	0	0	0
-protein localization to vacuolar membrane	GO_1903778	0	1	0	0	0
-protein localization to uropod	GO_0036052	0	1	0	0	0
-protein localization to trailing edge	GO_0036051	0	1	0	0	0
-protein localization to tight junction	GO_1902396	0	1	0	0	0
-protein localization to telomeric heterochromatin	GO_1990152	0	1	0	0	0
-protein localization to synapse	GO_0035418	0	1	0	0	0
-protein localization to subtelomeric heterochromatin	GO_1903213	0	1	0	0	0
-protein localization to spindle pole body	GO_0071988	0	1	0	0	0
-protein localization to spindle microtubule	GO_1902889	0	1	0	0	0
-protein localization to site of double-strand break	GO_1990166	0	1	0	0	0
-protein localization to septin ring	GO_1902935	0	1	0	0	0
-protein localization to secretory granule	GO_0033366	0	1	0	0	0
-protein localization to rhabdomere	GO_1990146	0	1	0	0	0
-protein localization to prospore membrane	GO_1902657	0	1	0	0	0
-protein localization to pre-autophagosomal structure	GO_0034497	0	1	0	0	0
-protein localization to postsynaptic membrane	GO_1903539	0	1	0	0	0
-protein localization to plasma membrane raft	GO_0044860	0	1	0	0	0
-protein localization to plasma membrane of cell tip	GO_1903418	0	1	0	0	0
-protein localization to plasma membrane	GO_0072659	0	1	0	0	0
-protein localization to photoreceptor outer segment	GO_1903546	0	1	0	0	0
-protein localization to photoreceptor connecting cilium	GO_1903621	0	1	0	0	0
-protein localization to peroxisome	GO_0072662	0	1	0	0	0
-protein localization to paranode region of axon	GO_0002175	0	1	0	0	0
-protein localization to outer membrane	GO_0089705	0	1	0	0	0
-protein localization to organelle	GO_0033365	0	1	0	0	0
-protein localization to nucleus	GO_0034504	0	1	0	0	0
-protein localization to nucleoplasm	GO_1990173	0	1	0	0	0
-protein localization to nucleolus	GO_1902570	0	1	0	0	0
-protein localization to nucleolar rDNA repeats	GO_0034503	0	1	0	0	0
-protein localization to nuclear pore	GO_0090204	0	1	0	0	0
-protein localization to nuclear periphery	GO_1990139	0	1	0	0	0
-protein localization to nuclear pericentric heterochromatin	GO_1902682	0	1	0	0	0
-protein localization to nuclear envelope	GO_0090435	0	1	0	0	0
-protein localization to nuclear body	GO_1903405	0	1	0	0	0
-protein localization to nonmotile primary cilium	GO_0097499	0	1	0	0	0
-protein localization to non-growing cell tip	GO_1902487	0	1	0	0	0
-protein localization to myelin sheath abaxonal region	GO_0035750	0	1	0	0	0
-protein localization to mitotic spindle pole body	GO_1902440	0	1	0	0	0
-protein localization to mitotic spindle midzone	GO_1902967	0	1	0	0	0
-protein localization to mitotic spindle	GO_1902480	0	1	0	0	0
-protein localization to mitochondrion	GO_0070585	0	1	0	0	0
-protein localization to microtubule cytoskeleton	GO_0072698	0	1	0	0	0
-protein localization to microtubule	GO_0035372	0	1	0	0	0
-protein localization to membrane raft	GO_1903044	0	1	0	0	0
-protein localization to membrane	GO_0072657	0	1	0	0	0
-protein localization to meiotic spindle pole body	GO_1902441	0	1	0	0	0
-protein localization to meiotic spindle midzone	GO_1903096	0	1	0	0	0
-protein localization to medial cortical node	GO_1902577	0	1	0	0	0
-protein localization to medial cortex	GO_0071574	0	1	0	0	0
-protein localization to mating-type region heterochromatin	GO_1903212	0	1	0	0	0
-protein localization to mating projection tip	GO_1903260	0	1	0	0	0
-protein localization to mast cell secretory granule	GO_0033367	0	1	0	0	0
-protein localization to lysosome	GO_0061462	0	1	0	0	0
-protein localization to lipid particle	GO_1990044	0	1	0	0	0
-protein localization to linear element	GO_0036181	0	1	0	0	0
-protein localization to lateral cortical node	GO_1903360	0	1	0	0	0
-protein localization to kinetochore involved in kinetochore assembly	GO_1903394	0	1	0	0	0
-protein localization to kinetochore	GO_0034501	0	1	0	0	0
-protein localization to juxtaparanode region of axon	GO_0071205	0	1	0	0	0
-protein localization to horsetail-astral microtubule array	GO_1903696	0	1	0	0	0
-protein localization to heterochromatin	GO_0097355	0	1	0	0	0
-protein localization to growing cell tip	GO_1902486	0	1	0	0	0
-protein localization to extracellular region	GO_0071692	0	1	0	0	0
-protein localization to endosome	GO_0036010	0	1	0	0	0
-protein localization to endoplasmic reticulum tubular network	GO_1903420	0	1	0	0	0
-protein localization to endoplasmic reticulum exit site	GO_0070973	0	1	0	0	0
-protein localization to endoplasmic reticulum	GO_0070972	0	1	0	0	0
-protein localization to eisosome filament	GO_0097446	0	1	0	0	0
-protein localization to early endosome	GO_1902946	0	1	0	0	0
-protein localization to cytoskeleton	GO_0044380	0	1	0	0	0
-protein localization to cytoplasmic stress granule	GO_1903608	0	1	0	0	0
-protein localization to cortical microtubule cytoskeleton	GO_0072699	0	1	0	0	0
-protein localization to cortical endoplasmic reticulum	GO_1903419	0	1	0	0	0
-protein localization to condensed nuclear chromosome	GO_1903084	0	1	0	0	0
-protein localization to condensed chromosome	GO_1903083	0	1	0	0	0
-protein localization to cilium	GO_0061512	0	1	0	0	0
-protein localization to ciliary membrane	GO_1903441	0	1	0	0	0
-protein localization to chromosome, telomeric region	GO_0070198	0	1	0	0	0
-protein localization to chromosome, centromeric region	GO_0071459	0	1	0	0	0
-protein localization to chromosome	GO_0034502	0	1	0	0	0
-protein localization to chromatin	GO_0071168	0	1	0	0	0
-protein localization to chloroplast	GO_0072598	0	1	0	0	0
-protein localization to centrosome	GO_0071539	0	1	0	0	0
-protein localization to cell tip	GO_1990151	0	1	0	0	0
-protein localization to cell surface	GO_0034394	0	1	0	0	0
-protein localization to cell leading edge	GO_1902463	0	1	0	0	0
-protein localization to cell junction	GO_1902414	0	1	0	0	0
-protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	GO_1903476	0	1	0	0	0
-protein localization to cell division site involved in cytokinesis, actomyosin contractile ring assembly	GO_1902575	0	1	0	0	0
-protein localization to cell division site	GO_0072741	0	1	0	0	0
-protein localization to cell cortex	GO_0072697	0	1	0	0	0
-protein localization to bud neck	GO_0097271	0	1	0	0	0
-protein localization to basolateral plasma membrane	GO_1903361	0	1	0	0	0
-protein localization to barrier septum	GO_1902432	0	1	0	0	0
-protein localization to astral microtubule	GO_1902888	0	1	0	0	0
-protein localization to adherens junction	GO_0071896	0	1	0	0	0
-protein localization to actomyosin contractile ring	GO_1990179	0	1	0	0	0
-protein localization to actin filament bundle	GO_1903120	0	1	0	0	0
-protein localization to actin cytoskeleton	GO_1903119	0	1	0	0	0
-protein localization to actin cortical patch	GO_0044379	0	1	0	0	0
-protein localization to T-tubule	GO_0036371	0	1	0	0	0
-protein localization to T cell secretory granule	GO_0033374	0	1	0	0	0
-protein localization to Mmi1 nuclear focus complex	GO_1902666	0	1	0	0	0
-protein localization to Mei2 nuclear dot	GO_1902549	0	1	0	0	0
-protein localization to M-band	GO_0036309	0	1	0	0	0
-protein localization to Golgi membrane	GO_1903292	0	1	0	0	0
-protein localization to Golgi apparatus	GO_0034067	0	1	0	0	0
-protein localization to CENP-A containing chromatin	GO_0061644	0	1	0	0	0
-protein localization involved in establishment of planar polarity	GO_0090251	0	1	0	0	0
-protein localization involved in auxin polar transport	GO_1901703	0	1	0	0	0
-protein localization involved in acrosome reaction	GO_0060476	0	1	0	0	0
-protein localization	GO_0008104	0	1	0	0	0
-protein insertion into plasma membrane raft	GO_0044859	0	1	0	0	0
-protein insertion into plasma membrane	GO_0098737	0	1	0	0	0
-protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_0001844	0	1	0	0	0
-protein insertion into mitochondrial membrane from inner side	GO_0032979	0	1	0	0	0
-protein insertion into mitochondrial membrane	GO_0051204	0	1	0	0	0
-protein insertion into membrane raft	GO_0071210	0	1	0	0	0
-protein insertion into membrane from inner side	GO_0032978	0	1	0	0	0
-protein insertion into membrane	GO_0051205	0	1	0	0	0
-protein insertion into ER membrane by stop-transfer membrane-anchor sequence	GO_0045050	0	1	0	0	0
-protein insertion into ER membrane by internal uncleaved signal-anchor sequence	GO_0045051	0	1	0	0	0
-protein insertion into ER membrane by N-terminal cleaved signal sequence	GO_0045049	0	1	0	0	0
-protein insertion into ER membrane by GPI attachment sequence	GO_0045052	0	1	0	0	0
-protein insertion into ER membrane	GO_0045048	0	1	0	0	0
-protein import into peroxisome membrane	GO_0045046	0	1	0	0	0
-protein import into peroxisome matrix, translocation	GO_0016561	0	1	0	0	0
-protein import into peroxisome matrix, substrate release	GO_0044721	0	1	0	0	0
-protein import into peroxisome matrix, receptor recycling	GO_0016562	0	1	0	0	0
-protein import into peroxisome matrix, docking	GO_0016560	0	1	0	0	0
-protein import into peroxisome matrix	GO_0016558	0	1	0	0	0
-protein import into nucleus, translocation	GO_0000060	0	1	0	0	0
-protein import into nucleus, substrate release	GO_0000061	0	1	0	0	0
-protein import into nucleus, docking	GO_0000059	0	1	0	0	0
-protein import into nucleus	GO_0006606	0	1	0	0	0
-protein import into mitochondrial outer membrane	GO_0045040	0	1	0	0	0
-protein import into mitochondrial matrix	GO_0030150	0	1	0	0	0
-protein import into mitochondrial intermembrane space	GO_0045041	0	1	0	0	0
-protein import into mitochondrial inner membrane	GO_0045039	0	1	0	0	0
-protein import into chloroplast thylakoid membrane	GO_0045038	0	1	0	0	0
-protein import into chloroplast stroma	GO_0045037	0	1	0	0	0
-protein import	GO_0017038	0	1	0	0	0
-protein export from nucleus	GO_0006611	0	1	0	0	0
-protein exit from endoplasmic reticulum	GO_0032527	0	1	0	0	0
-protein complex localization	GO_0031503	0	1	0	0	0
-protein channel activity	GO_0015266	0	1	0	0	0
-proteasome localization	GO_0031144	0	1	0	0	0
-proteasome core complex import into nucleus	GO_1990236	0	1	0	0	0
-protease localization to mast cell secretory granule	GO_0033368	0	1	0	0	0
-protease localization to T cell secretory granule	GO_0033375	0	1	0	0	0
-prolactin secretion	GO_0070459	0	1	0	0	0
-posttranslational protein targeting to membrane, translocation	GO_0031204	0	1	0	0	0
-posttranslational protein targeting to membrane, docking	GO_0031203	0	1	0	0	0
-posttranslational protein targeting to membrane	GO_0006620	0	1	0	0	0
-postsynaptic density protein 95 clustering	GO_0097119	0	1	0	0	0
-positive regulation of transcription by transcription factor localization	GO_0061586	0	1	0	0	0
-positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region	GO_0035593	0	1	0	0	0
-polyubiquitinated protein transport	GO_0070844	0	1	0	0	0
-polyubiquitinated misfolded protein transport	GO_0070845	0	1	0	0	0
-pole plasm protein localization	GO_0007318	0	1	0	0	0
-platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	0	0	0
-platelet activating factor secretion	GO_0002392	0	1	0	0	0
-pancreatic amylase secretion	GO_0036395	0	1	0	0	0
-opsin transport	GO_0036372	0	1	0	0	0
-nuclear pore localization	GO_0051664	0	1	0	0	0
-nuclear pore distribution	GO_0031081	0	1	0	0	0
-nuclear matrix anchoring at nuclear membrane	GO_0090292	0	1	0	0	0
-nuclear import signal receptor activity	GO_0061608	0	1	0	0	0
-nuclear export signal receptor activity	GO_0005049	0	1	0	0	0
-neurotransmitter-gated ion channel clustering	GO_0072578	0	1	0	0	0
-neuroligin clustering	GO_0097118	0	1	0	0	0
-neurexin clustering	GO_0097115	0	1	0	0	0
-negative regulation of transcription from RNA polymerase II promoter by transcription factor localization involved in response to DNA damage checkpoint signaling	GO_1990260	0	1	0	0	0
-negative regulation of transcription by transcription factor localization	GO_0010621	0	1	0	0	0
-mitochondrial protein-transporting ATPase activity	GO_0008566	0	1	0	0	0
-misfolded protein transport	GO_0070843	0	1	0	0	0
-microtubule anchoring at spindle pole body	GO_0034631	0	1	0	0	0
-microtubule anchoring at microtubule organizing center	GO_0072393	0	1	0	0	0
-microtubule anchoring at centrosome	GO_0034454	0	1	0	0	0
-microtubule anchoring	GO_0034453	0	1	0	0	0
-membrane insertase activity	GO_0032977	0	1	0	0	0
-meiotic centromere clustering	GO_1990571	0	1	0	0	0
-maintenance of protein location in spindle pole body	GO_0071990	0	1	0	0	0
-maintenance of protein location in mitochondrion	GO_0072656	0	1	0	0	0
-maintenance of protein location in mast cell secretory granule	GO_0033370	0	1	0	0	0
-maintenance of protein location in T cell secretory granule	GO_0033377	0	1	0	0	0
-maintenance of protein localization to heterochromatin	GO_1990153	0	1	0	0	0
-maintenance of protease location in mast cell secretory granule	GO_0033373	0	1	0	0	0
-maintenance of protease location in T cell secretory granule	GO_0033379	0	1	0	0	0
-maintenance of granzyme B location in T cell secretory granule	GO_0033382	0	1	0	0	0
-mRNA-binding (hnRNP) protein import into nucleus	GO_0006609	0	1	0	0	0
-lysosomal enzyme secretion involved in inflammatory response	GO_0002533	0	1	0	0	0
-lipoprotein transporter activity	GO_0042954	0	1	0	0	0
-lipoprotein transport	GO_0042953	0	1	0	0	0
-lipoprotein localization to outer membrane	GO_0044874	0	1	0	0	0
-lipoprotein localization to membrane	GO_0044873	0	1	0	0	0
-lipoprotein localization	GO_0044872	0	1	0	0	0
-lactoferrin transport	GO_0033571	0	1	0	0	0
-lactoferrin transmembrane transporter activity	GO_0033569	0	1	0	0	0
-intracellular transport of viral protein in host cell	GO_0019060	0	1	0	0	0
-intracellular protein transport in other organism involved in symbiotic interaction	GO_0051708	0	1	0	0	0
-intracellular protein transport	GO_0006886	0	1	0	0	0
-intracellular protein transmembrane transport	GO_0065002	0	1	0	0	0
-intracellular protein transmembrane import	GO_0044743	0	1	0	0	0
-interleukin-9 secretion	GO_0072607	0	1	0	0	0
-interleukin-8 secretion	GO_0072606	0	1	0	0	0
-interleukin-7 secretion	GO_0072605	0	1	0	0	0
-interleukin-6 secretion	GO_0072604	0	1	0	0	0
-interleukin-5 secretion	GO_0072603	0	1	0	0	0
-interleukin-4 secretion	GO_0072602	0	1	0	0	0
-interleukin-35 secretion	GO_0072626	0	1	0	0	0
-interleukin-33 secretion	GO_0072640	0	1	0	0	0
-interleukin-32 secretion	GO_0072638	0	1	0	0	0
-interleukin-31 secretion	GO_0072636	0	1	0	0	0
-interleukin-30 secretion	GO_0072634	0	1	0	0	0
-interleukin-3 secretion	GO_0072601	0	1	0	0	0
-interleukin-29 secretion	GO_0072632	0	1	0	0	0
-interleukin-28B secretion	GO_0072630	0	1	0	0	0
-interleukin-28A secretion	GO_0072628	0	1	0	0	0
-interleukin-27 secretion	GO_0072625	0	1	0	0	0
-interleukin-26 secretion	GO_0072624	0	1	0	0	0
-interleukin-25 secretion	GO_0072623	0	1	0	0	0
-interleukin-24 secretion	GO_0072622	0	1	0	0	0
-interleukin-23 secretion	GO_0072621	0	1	0	0	0
-interleukin-22 secretion	GO_0072620	0	1	0	0	0
-interleukin-21 secretion	GO_0072619	0	1	0	0	0
-interleukin-20 secretion	GO_0072618	0	1	0	0	0
-interleukin-2 secretion	GO_0070970	0	1	0	0	0
-interleukin-19 secretion	GO_0072617	0	1	0	0	0
-interleukin-18 secretion	GO_0072616	0	1	0	0	0
-interleukin-17 secretion	GO_0072615	0	1	0	0	0
-interleukin-16 secretion	GO_0072614	0	1	0	0	0
-interleukin-15 secretion	GO_0072613	0	1	0	0	0
-interleukin-14 secretion	GO_0072612	0	1	0	0	0
-interleukin-13 secretion	GO_0072611	0	1	0	0	0
-interleukin-12 secretion	GO_0072610	0	1	0	0	0
-interleukin-11 secretion	GO_0072609	0	1	0	0	0
-interleukin-10 secretion	GO_0072608	0	1	0	0	0
-interleukin-1 secretion	GO_0050701	0	1	0	0	0
-interleukin-1 beta secretion	GO_0050702	0	1	0	0	0
-interleukin-1 alpha secretion	GO_0050703	0	1	0	0	0
-interferon-tau secretion	GO_0072652	0	1	0	0	0
-interferon-omega secretion	GO_0072654	0	1	0	0	0
-interferon-kappa secretion	GO_0072650	0	1	0	0	0
-interferon-gamma secretion	GO_0072643	0	1	0	0	0
-interferon-epsilon secretion	GO_0072648	0	1	0	0	0
-interferon-delta secretion	GO_0072646	0	1	0	0	0
-interferon-beta secretion	GO_0035546	0	1	0	0	0
-interferon-alpha secretion	GO_0072642	0	1	0	0	0
-insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	0	0	0
-insulin secretion	GO_0030073	0	1	0	0	0
-inheritance of oxidatively modified proteins involved in replicative cell aging	GO_0001319	0	1	0	0	0
-importin-alpha export receptor activity	GO_0008262	0	1	0	0	0
-immunoglobulin secretion involved in immune response	GO_0002380	0	1	0	0	0
-immunoglobulin secretion	GO_0048305	0	1	0	0	0
-homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	0	0	0
-histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore	GO_2000751	0	1	0	0	0
-hemoglobin import	GO_0020028	0	1	0	0	0
-hemaglutinin autotransporter activity	GO_0015476	0	1	0	0	0
-guanylate kinase-associated protein clustering	GO_0097117	0	1	0	0	0
-group A colicin transmembrane transporter activity	GO_0042913	0	1	0	0	0
-granzyme B localization to T cell secretory granule	GO_0033380	0	1	0	0	0
-glycoprotein transporter activity	GO_0034437	0	1	0	0	0
-glycoprotein transport	GO_0034436	0	1	0	0	0
-glycine receptor clustering	GO_0072579	0	1	0	0	0
-glucocorticoid receptor import into nucleus	GO_0002147	0	1	0	0	0
-glial cell line-derived neurotrophic factor secretion	GO_0044467	0	1	0	0	0
-gephyrin clustering	GO_0097116	0	1	0	0	0
-gamma-tubulin complex localization	GO_0033566	0	1	0	0	0
-gamma-aminobutyric acid receptor clustering	GO_0097112	0	1	0	0	0
-exocyst localization	GO_0051601	0	1	0	0	0
-establishment of protein localization to vacuole	GO_0072666	0	1	0	0	0
-establishment of protein localization to telomere	GO_0070200	0	1	0	0	0
-establishment of protein localization to spindle pole body	GO_0071989	0	1	0	0	0
-establishment of protein localization to prospore membrane	GO_1902658	0	1	0	0	0
-establishment of protein localization to postsynaptic membrane	GO_1903540	0	1	0	0	0
-establishment of protein localization to plasma membrane	GO_0090002	0	1	0	0	0
-establishment of protein localization to peroxisome	GO_0072663	0	1	0	0	0
-establishment of protein localization to organelle	GO_0072594	0	1	0	0	0
-establishment of protein localization to mitochondrion	GO_0072655	0	1	0	0	0
-establishment of protein localization to mitochondrial membrane involved in mitochondrial fission	GO_0090152	0	1	0	0	0
-establishment of protein localization to mitochondrial membrane	GO_0090151	0	1	0	0	0
-establishment of protein localization to membrane	GO_0090150	0	1	0	0	0
-establishment of protein localization to mast cell secretory granule	GO_0033369	0	1	0	0	0
-establishment of protein localization to juxtaparanode region of axon	GO_0071206	0	1	0	0	0
-establishment of protein localization to extracellular region	GO_0035592	0	1	0	0	0
-establishment of protein localization to endoplasmic reticulum membrane	GO_0097051	0	1	0	0	0
-establishment of protein localization to endoplasmic reticulum	GO_0072599	0	1	0	0	0
-establishment of protein localization to chromosome	GO_0070199	0	1	0	0	0
-establishment of protein localization to chromatin	GO_0071169	0	1	0	0	0
-establishment of protein localization to chloroplast	GO_0072596	0	1	0	0	0
-establishment of protein localization to T cell secretory granule	GO_0033376	0	1	0	0	0
-establishment of protein localization to Golgi	GO_0072600	0	1	0	0	0
-establishment of protein localization	GO_0045184	0	1	0	0	0
-establishment of protease localization to mast cell secretory granule	GO_0033372	0	1	0	0	0
-establishment of protease localization to T cell secretory granule	GO_0033378	0	1	0	0	0
-establishment of granzyme B localization to T cell secretory granule	GO_0033381	0	1	0	0	0
-endocytosed protein transport to vacuole	GO_0007038	0	1	0	0	0
-cytoskeletal anchoring at plasma membrane	GO_0007016	0	1	0	0	0
-cytoskeletal anchoring at nuclear membrane	GO_0090286	0	1	0	0	0
-cytoplasmic sequestering of transcription factor	GO_0042994	0	1	0	0	0
-cytoplasmic sequestering of protein	GO_0051220	0	1	0	0	0
-cytoplasmic sequestering of NF-kappaB	GO_0007253	0	1	0	0	0
-cytoplasmic sequestering of CFTR protein	GO_0043004	0	1	0	0	0
-cytokine secretion involved in immune response	GO_0002374	0	1	0	0	0
-cytokine secretion	GO_0050663	0	1	0	0	0
-cotranslational protein targeting to membrane	GO_0006613	0	1	0	0	0
-cortical protein anchoring	GO_0032065	0	1	0	0	0
-colicin transmembrane transporter activity	GO_0042912	0	1	0	0	0
-cohesin localization to chromatin	GO_0071921	0	1	0	0	0
-ciliary receptor clustering involved in smoothened signaling pathway	GO_0060830	0	1	0	0	0
-chromosome passenger complex localization to spindle midzone	GO_0035853	0	1	0	0	0
-chromosome passenger complex localization to kinetochore	GO_0072356	0	1	0	0	0
-chloroplast protein-transporting ATPase activity	GO_0016464	0	1	0	0	0
-chemokine secretion	GO_0090195	0	1	0	0	0
-chemokine receptor transport within lipid bilayer	GO_0033606	0	1	0	0	0
-chemokine receptor transport out of membrane raft	GO_0032600	0	1	0	0	0
-chemokine (C-C motif) ligand 6 secretion	GO_0035534	0	1	0	0	0
-chemokine (C-C motif) ligand 2 secretion	GO_0035926	0	1	0	0	0
-chaperone-mediated protein transport across periplasmic space	GO_0072323	0	1	0	0	0
-chaperone-mediated protein transport	GO_0072321	0	1	0	0	0
-centromere localization	GO_0072765	0	1	0	0	0
-centromere clustering at the nuclear envelope	GO_0072766	0	1	0	0	0
-centromere clustering	GO_0098653	0	1	0	0	0
-cellular protein localization	GO_0034613	0	1	0	0	0
-cellular protein complex localization	GO_0034629	0	1	0	0	0
-catenin import into nucleus	GO_0035411	0	1	0	0	0
-basolateral protein localization	GO_0061467	0	1	0	0	0
-basal protein localization	GO_0045175	0	1	0	0	0
-bacteriocin-transporting ATPase activity	GO_0043214	0	1	0	0	0
-bacteriocin transmembrane transporter activity	GO_0022885	0	1	0	0	0
-autotransporter activity	GO_0015474	0	1	0	0	0
-attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	0	0	0
-attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	0	0	0
-attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	0	0	0
-attachment of spindle microtubules to kinetochore	GO_0008608	0	1	0	0	0
-attachment of mitotic spindle microtubules to kinetochore	GO_0051315	0	1	0	0	0
-asymmetric protein localization to old or new spindle pole body	GO_0061492	0	1	0	0	0
-asymmetric protein localization to old mitotic spindle pole body	GO_0061509	0	1	0	0	0
-asymmetric protein localization to new mitotic spindle pole body	GO_0061510	0	1	0	0	0
-asymmetric protein localization involved in cell fate determination	GO_0045167	0	1	0	0	0
-asymmetric protein localization	GO_0008105	0	1	0	0	0
-arginine targeting transmembrane transporter activity	GO_0015557	0	1	0	0	0
-apolipoprotein E recycling	GO_0071828	0	1	0	0	0
-apical protein localization	GO_0045176	0	1	0	0	0
-amylase secretion	GO_0036394	0	1	0	0	0
-alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering	GO_0097113	0	1	0	0	0
-adiponectin secretion	GO_0070162	0	1	0	0	0
-adhesin autotransporter activity	GO_0015475	0	1	0	0	0
-Wnt protein secretion	GO_0061355	0	1	0	0	0
-STAT protein import into nucleus	GO_0007262	0	1	0	0	0
-SRP-dependent cotranslational protein targeting to membrane, translocation	GO_0006616	0	1	0	0	0
-SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	GO_0006617	0	1	0	0	0
-SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	0	1	0	0	0
-SRP-dependent cotranslational protein targeting to membrane, docking	GO_0006615	0	1	0	0	0
-SRP-dependent cotranslational protein targeting to membrane	GO_0006614	0	1	0	0	0
-SREBP-SCAP complex retention in endoplasmic reticulum	GO_0036316	0	1	0	0	0
-SMAD protein import into nucleus	GO_0007184	0	1	0	0	0
-SHREC complex localization	GO_0072688	0	1	0	0	0
-SAGA complex localization to transcription regulatory region	GO_0072742	0	1	0	0	0
-RNA polymerase III complex localization to nucleus	GO_1990022	0	1	0	0	0
-RNA polymerase II complex localization to nucleus	GO_0044376	0	1	0	0	0
-RNA polymerase II complex import into nucleus	GO_0098738	0	1	0	0	0
-RITS complex localization	GO_0034630	0	1	0	0	0
-P-TEFb-cap methyltransferase complex localization	GO_0070817	0	1	0	0	0
-P-P-bond-hydrolysis-driven protein transmembrane transporter activity	GO_0015450	0	1	0	0	0
-NLS-bearing protein import into nucleus	GO_0006607	0	1	0	0	0
-NFAT protein import into nucleus	GO_0051531	0	1	0	0	0
-NF-kappaB import into nucleus	GO_0042348	0	1	0	0	0
-N-methyl-D-aspartate receptor clustering	GO_0097114	0	1	0	0	0
-N-glycan processing to lysosome	GO_0016256	0	1	0	0	0
-MAPK phosphatase export from nucleus, leptomycin B sensitive	GO_0045209	0	1	0	0	0
-MAPK phosphatase export from nucleus	GO_0045208	0	1	0	0	0
-MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	0	1	0	0	0
-MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	0	0	0
-MAPK import into nucleus involved in conjugation with cellular fusion	GO_0071512	0	1	0	0	0
-MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	0	1	0	0	0
-MAPK import into nucleus	GO_0000189	0	1	0	0	0
-MAPK export from nucleus	GO_0045204	0	1	0	0	0
-Golgi to plasma membrane protein transport	GO_0043001	0	1	0	0	0
-Golgi to plasma membrane CFTR protein transport	GO_0043000	0	1	0	0	0
-CVT vesicle assembly	GO_0071255	0	1	0	0	0
-CVT pathway	GO_0032258	0	1	0	0	0
-CLRC ubiquitin ligase complex localization to heterochromatin	GO_0044382	0	1	0	0	0
-Bub1-Bub3 complex localization to kinetochore	GO_1990299	0	1	0	0	0
-BMP secretion	GO_0038055	0	1	0	0	0
-B cell receptor transport within lipid bilayer	GO_0032595	0	1	0	0	0
-B cell receptor transport into membrane raft	GO_0032597	0	1	0	0	0
-B cell receptor transport into immunological synapse	GO_0032598	0	1	0	0	0
+viral capsid precursor transport to host cell nucleus	GO_0046752	0	1	1	0	0
+ubiquitin-dependent endocytosis	GO_0070086	0	1	1	0	0
+type III interferon secretion	GO_0072644	0	1	1	0	0
+type I interferon secretion	GO_0072641	0	1	1	0	0
+translocation of peptides or proteins into symbiont	GO_0051844	0	1	1	0	0
+translocation of peptides or proteins into other organism involved in symbiotic interaction	GO_0051808	0	1	1	0	0
+translocation of peptides or proteins into host cell cytoplasm	GO_0044053	0	1	1	0	0
+translocation of peptides or proteins into host	GO_0042000	0	1	1	0	0
+transforming growth factor-beta secretion	GO_0038044	0	1	1	0	0
+transferrin transport	GO_0033572	0	1	1	0	0
+transferrin transmembrane transporter activity	GO_0033570	0	1	1	0	0
+transcription factor import into nucleus	GO_0042991	0	1	1	0	0
+tail-anchored membrane protein insertion into ER membrane	GO_0071816	0	1	1	0	0
+symbiont intracellular protein transport in host	GO_0030581	0	1	1	0	0
+storage protein import into fat body	GO_0015032	0	1	1	0	0
+sterol regulatory element binding protein import into nucleus	GO_0035105	0	1	1	0	0
+steroid hormone receptor import into nucleus	GO_0002146	0	1	1	0	0
+splicing factor protein import into nucleus	GO_0035048	0	1	1	0	0
+snRNP protein import into nucleus	GO_0006608	0	1	1	0	0
+skeletal muscle acetylcholine-gated channel clustering	GO_0071340	0	1	1	0	0
+sister chromatid biorientation	GO_0031134	0	1	1	0	0
+sequestration of proteasome core complex in proteasome storage granule	GO_1990237	0	1	1	0	0
+sequestering of actin monomers	GO_0042989	0	1	1	0	0
+sequestering of TGFbeta in extracellular matrix	GO_0035583	0	1	1	0	0
+sequestering of BMP in extracellular matrix	GO_0035582	0	1	1	0	0
+secretion of lysosomal enzymes	GO_0033299	0	1	1	0	0
+ribosomal protein import into nucleus	GO_0006610	0	1	1	0	0
+retrograde protein transport, ER to cytosol	GO_0030970	0	1	1	0	0
+repair of mono-orientation defects	GO_1990598	0	1	1	0	0
+renin secretion into blood stream	GO_0002001	0	1	1	0	0
+regulation of translation by machinery localization	GO_0043143	0	1	1	0	0
+regulation of synaptic plasticity by receptor localization to synapse	GO_1900383	0	1	1	0	0
+regulation of histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore	GO_2000817	0	1	1	0	0
+regulation of endocytosis by exocyst localization	GO_0051600	0	1	1	0	0
+regulation of Wnt signaling pathway by Wnt protein secretion	GO_0061359	0	1	1	0	0
+receptor localization to synapse	GO_0097120	0	1	1	0	0
+receptor localization to nonmotile primary cilium	GO_0097500	0	1	1	0	0
+receptor clustering	GO_0043113	0	1	1	0	0
+proton motive force dependent protein transmembrane transporter activity	GO_0009977	0	1	1	0	0
+protein-transmembrane transporting ATPase activity	GO_0015462	0	1	1	0	0
+protein-exporting ATPase activity	GO_0008564	0	1	1	0	0
+protein-DNA complex transport	GO_0015869	0	1	1	0	0
+protein-DNA complex transmembrane transporter activity	GO_0015219	0	1	1	0	0
+protein transporter activity	GO_0008565	0	1	1	0	0
+protein transport within lipid bilayer	GO_0032594	0	1	1	0	0
+protein transport within extracellular region	GO_0071693	0	1	1	0	0
+protein transport out of plasma membrane raft	GO_0044862	0	1	1	0	0
+protein transport out of membrane raft	GO_0032599	0	1	1	0	0
+protein transport into plasma membrane raft	GO_0044861	0	1	1	0	0
+protein transport into membrane raft	GO_0032596	0	1	1	0	0
+protein transport from ciliary membrane to plasma membrane	GO_1903445	0	1	1	0	0
+protein transport by the Tat complex	GO_0043953	0	1	1	0	0
+protein transport by the Sec complex	GO_0043952	0	1	1	0	0
+protein transport across periplasmic space	GO_0072322	0	1	1	0	0
+protein transport	GO_0015031	0	1	1	0	0
+protein transmembrane transporter activity	GO_0008320	0	1	1	0	0
+protein transmembrane transport	GO_0071806	0	1	1	0	0
+protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043328	0	1	1	0	0
+protein targeting to vacuole involved in autophagy	GO_0071211	0	1	1	0	0
+protein targeting to vacuole	GO_0006623	0	1	1	0	0
+protein targeting to vacuolar membrane	GO_0044395	0	1	1	0	0
+protein targeting to prospore membrane	GO_0072693	0	1	1	0	0
+protein targeting to plasma membrane	GO_0072661	0	1	1	0	0
+protein targeting to peroxisome	GO_0006625	0	1	1	0	0
+protein targeting to nucleus	GO_0044744	0	1	1	0	0
+protein targeting to nuclear inner membrane	GO_0036228	0	1	1	0	0
+protein targeting to mitochondrion	GO_0006626	0	1	1	0	0
+protein targeting to membrane involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043329	0	1	1	0	0
+protein targeting to membrane	GO_0006612	0	1	1	0	0
+protein targeting to lysosome	GO_0006622	0	1	1	0	0
+protein targeting to chloroplast	GO_0045036	0	1	1	0	0
+protein targeting to Golgi	GO_0000042	0	1	1	0	0
+protein targeting to ER	GO_0045047	0	1	1	0	0
+protein targeting	GO_0006605	0	1	1	0	0
+protein secretion by the type VII secretion system	GO_0044315	0	1	1	0	0
+protein secretion by the type VI secretion system	GO_0033103	0	1	1	0	0
+protein secretion by the type V secretion system	GO_0046819	0	1	1	0	0
+protein secretion by the type IV secretion system	GO_0030255	0	1	1	0	0
+protein secretion by the type III secretion system	GO_0030254	0	1	1	0	0
+protein secretion by the type II secretion system	GO_0015628	0	1	1	0	0
+protein secretion by the type I secretion system	GO_0030253	0	1	1	0	0
+protein secretion by platelet	GO_0070560	0	1	1	0	0
+protein secretion	GO_0009306	0	1	1	0	0
+protein retention in Golgi apparatus	GO_0045053	0	1	1	0	0
+protein retention in ER lumen	GO_0006621	0	1	1	0	0
+protein processing involved in protein targeting to mitochondrion	GO_0006627	0	1	1	0	0
+protein localization to vacuole	GO_0072665	0	1	1	0	0
+protein localization to vacuolar membrane	GO_1903778	0	1	1	0	0
+protein localization to uropod	GO_0036052	0	1	1	0	0
+protein localization to trailing edge	GO_0036051	0	1	1	0	0
+protein localization to tight junction	GO_1902396	0	1	1	0	0
+protein localization to telomeric heterochromatin	GO_1990152	0	1	1	0	0
+protein localization to synapse	GO_0035418	0	1	1	0	0
+protein localization to subtelomeric heterochromatin	GO_1903213	0	1	1	0	0
+protein localization to spindle pole body	GO_0071988	0	1	1	0	0
+protein localization to spindle microtubule	GO_1902889	0	1	1	0	0
+protein localization to site of double-strand break	GO_1990166	0	1	1	0	0
+protein localization to septin ring	GO_1902935	0	1	1	0	0
+protein localization to secretory granule	GO_0033366	0	1	1	0	0
+protein localization to rhabdomere	GO_1990146	0	1	1	0	0
+protein localization to prospore membrane	GO_1902657	0	1	1	0	0
+protein localization to pre-autophagosomal structure	GO_0034497	0	1	1	0	0
+protein localization to postsynaptic membrane	GO_1903539	0	1	1	0	0
+protein localization to plasma membrane raft	GO_0044860	0	1	1	0	0
+protein localization to plasma membrane of cell tip	GO_1903418	0	1	1	0	0
+protein localization to plasma membrane	GO_0072659	0	1	1	0	0
+protein localization to photoreceptor outer segment	GO_1903546	0	1	1	0	0
+protein localization to photoreceptor connecting cilium	GO_1903621	0	1	1	0	0
+protein localization to peroxisome	GO_0072662	0	1	1	0	0
+protein localization to paranode region of axon	GO_0002175	0	1	1	0	0
+protein localization to outer membrane	GO_0089705	0	1	1	0	0
+protein localization to organelle	GO_0033365	0	1	1	0	0
+protein localization to nucleus	GO_0034504	0	1	1	0	0
+protein localization to nucleoplasm	GO_1990173	0	1	1	0	0
+protein localization to nucleolus	GO_1902570	0	1	1	0	0
+protein localization to nucleolar rDNA repeats	GO_0034503	0	1	1	0	0
+protein localization to nuclear pore	GO_0090204	0	1	1	0	0
+protein localization to nuclear periphery	GO_1990139	0	1	1	0	0
+protein localization to nuclear pericentric heterochromatin	GO_1902682	0	1	1	0	0
+protein localization to nuclear envelope	GO_0090435	0	1	1	0	0
+protein localization to nuclear body	GO_1903405	0	1	1	0	0
+protein localization to nonmotile primary cilium	GO_0097499	0	1	1	0	0
+protein localization to non-growing cell tip	GO_1902487	0	1	1	0	0
+protein localization to myelin sheath abaxonal region	GO_0035750	0	1	1	0	0
+protein localization to mitotic spindle pole body	GO_1902440	0	1	1	0	0
+protein localization to mitotic spindle midzone	GO_1902967	0	1	1	0	0
+protein localization to mitotic spindle	GO_1902480	0	1	1	0	0
+protein localization to mitochondrion	GO_0070585	0	1	1	0	0
+protein localization to microtubule cytoskeleton	GO_0072698	0	1	1	0	0
+protein localization to microtubule	GO_0035372	0	1	1	0	0
+protein localization to membrane raft	GO_1903044	0	1	1	0	0
+protein localization to membrane	GO_0072657	0	1	1	0	0
+protein localization to meiotic spindle pole body	GO_1902441	0	1	1	0	0
+protein localization to meiotic spindle midzone	GO_1903096	0	1	1	0	0
+protein localization to medial cortical node	GO_1902577	0	1	1	0	0
+protein localization to medial cortex	GO_0071574	0	1	1	0	0
+protein localization to mating-type region heterochromatin	GO_1903212	0	1	1	0	0
+protein localization to mating projection tip	GO_1903260	0	1	1	0	0
+protein localization to mast cell secretory granule	GO_0033367	0	1	1	0	0
+protein localization to lysosome	GO_0061462	0	1	1	0	0
+protein localization to lipid particle	GO_1990044	0	1	1	0	0
+protein localization to linear element	GO_0036181	0	1	1	0	0
+protein localization to lateral cortical node	GO_1903360	0	1	1	0	0
+protein localization to kinetochore involved in kinetochore assembly	GO_1903394	0	1	1	0	0
+protein localization to kinetochore	GO_0034501	0	1	1	0	0
+protein localization to juxtaparanode region of axon	GO_0071205	0	1	1	0	0
+protein localization to horsetail-astral microtubule array	GO_1903696	0	1	1	0	0
+protein localization to heterochromatin	GO_0097355	0	1	1	0	0
+protein localization to growing cell tip	GO_1902486	0	1	1	0	0
+protein localization to extracellular region	GO_0071692	0	1	1	0	0
+protein localization to endosome	GO_0036010	0	1	1	0	0
+protein localization to endoplasmic reticulum tubular network	GO_1903420	0	1	1	0	0
+protein localization to endoplasmic reticulum exit site	GO_0070973	0	1	1	0	0
+protein localization to endoplasmic reticulum	GO_0070972	0	1	1	0	0
+protein localization to eisosome filament	GO_0097446	0	1	1	0	0
+protein localization to early endosome	GO_1902946	0	1	1	0	0
+protein localization to cytoskeleton	GO_0044380	0	1	1	0	0
+protein localization to cytoplasmic stress granule	GO_1903608	0	1	1	0	0
+protein localization to cortical microtubule cytoskeleton	GO_0072699	0	1	1	0	0
+protein localization to cortical endoplasmic reticulum	GO_1903419	0	1	1	0	0
+protein localization to condensed nuclear chromosome	GO_1903084	0	1	1	0	0
+protein localization to condensed chromosome	GO_1903083	0	1	1	0	0
+protein localization to cilium	GO_0061512	0	1	1	0	0
+protein localization to ciliary membrane	GO_1903441	0	1	1	0	0
+protein localization to chromosome, telomeric region	GO_0070198	0	1	1	0	0
+protein localization to chromosome, centromeric region	GO_0071459	0	1	1	0	0
+protein localization to chromosome	GO_0034502	0	1	1	0	0
+protein localization to chromatin	GO_0071168	0	1	1	0	0
+protein localization to chloroplast	GO_0072598	0	1	1	0	0
+protein localization to centrosome	GO_0071539	0	1	1	0	0
+protein localization to cell tip	GO_1990151	0	1	1	0	0
+protein localization to cell surface	GO_0034394	0	1	1	0	0
+protein localization to cell leading edge	GO_1902463	0	1	1	0	0
+protein localization to cell junction	GO_1902414	0	1	1	0	0
+protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	GO_1903476	0	1	1	0	0
+protein localization to cell division site involved in cytokinesis, actomyosin contractile ring assembly	GO_1902575	0	1	1	0	0
+protein localization to cell division site	GO_0072741	0	1	1	0	0
+protein localization to cell cortex	GO_0072697	0	1	1	0	0
+protein localization to bud neck	GO_0097271	0	1	1	0	0
+protein localization to basolateral plasma membrane	GO_1903361	0	1	1	0	0
+protein localization to barrier septum	GO_1902432	0	1	1	0	0
+protein localization to astral microtubule	GO_1902888	0	1	1	0	0
+protein localization to adherens junction	GO_0071896	0	1	1	0	0
+protein localization to actomyosin contractile ring	GO_1990179	0	1	1	0	0
+protein localization to actin filament bundle	GO_1903120	0	1	1	0	0
+protein localization to actin cytoskeleton	GO_1903119	0	1	1	0	0
+protein localization to actin cortical patch	GO_0044379	0	1	1	0	0
+protein localization to T-tubule	GO_0036371	0	1	1	0	0
+protein localization to T cell secretory granule	GO_0033374	0	1	1	0	0
+protein localization to Mmi1 nuclear focus complex	GO_1902666	0	1	1	0	0
+protein localization to Mei2 nuclear dot	GO_1902549	0	1	1	0	0
+protein localization to M-band	GO_0036309	0	1	1	0	0
+protein localization to Golgi membrane	GO_1903292	0	1	1	0	0
+protein localization to Golgi apparatus	GO_0034067	0	1	1	0	0
+protein localization to CENP-A containing chromatin	GO_0061644	0	1	1	0	0
+protein localization involved in establishment of planar polarity	GO_0090251	0	1	1	0	0
+protein localization involved in auxin polar transport	GO_1901703	0	1	1	0	0
+protein localization involved in acrosome reaction	GO_0060476	0	1	1	0	0
+protein localization	GO_0008104	0	1	1	0	0
+protein insertion into plasma membrane raft	GO_0044859	0	1	1	0	0
+protein insertion into plasma membrane	GO_0098737	0	1	1	0	0
+protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_0001844	0	1	1	0	0
+protein insertion into mitochondrial membrane from inner side	GO_0032979	0	1	1	0	0
+protein insertion into mitochondrial membrane	GO_0051204	0	1	1	0	0
+protein insertion into membrane raft	GO_0071210	0	1	1	0	0
+protein insertion into membrane from inner side	GO_0032978	0	1	1	0	0
+protein insertion into membrane	GO_0051205	0	1	1	0	0
+protein insertion into ER membrane by stop-transfer membrane-anchor sequence	GO_0045050	0	1	1	0	0
+protein insertion into ER membrane by internal uncleaved signal-anchor sequence	GO_0045051	0	1	1	0	0
+protein insertion into ER membrane by N-terminal cleaved signal sequence	GO_0045049	0	1	1	0	0
+protein insertion into ER membrane by GPI attachment sequence	GO_0045052	0	1	1	0	0
+protein insertion into ER membrane	GO_0045048	0	1	1	0	0
+protein import into peroxisome membrane	GO_0045046	0	1	1	0	0
+protein import into peroxisome matrix, translocation	GO_0016561	0	1	1	0	0
+protein import into peroxisome matrix, substrate release	GO_0044721	0	1	1	0	0
+protein import into peroxisome matrix, receptor recycling	GO_0016562	0	1	1	0	0
+protein import into peroxisome matrix, docking	GO_0016560	0	1	1	0	0
+protein import into peroxisome matrix	GO_0016558	0	1	1	0	0
+protein import into nucleus, translocation	GO_0000060	0	1	1	0	0
+protein import into nucleus, substrate release	GO_0000061	0	1	1	0	0
+protein import into nucleus, docking	GO_0000059	0	1	1	0	0
+protein import into nucleus	GO_0006606	0	1	1	0	0
+protein import into mitochondrial outer membrane	GO_0045040	0	1	1	0	0
+protein import into mitochondrial matrix	GO_0030150	0	1	1	0	0
+protein import into mitochondrial intermembrane space	GO_0045041	0	1	1	0	0
+protein import into mitochondrial inner membrane	GO_0045039	0	1	1	0	0
+protein import into chloroplast thylakoid membrane	GO_0045038	0	1	1	0	0
+protein import into chloroplast stroma	GO_0045037	0	1	1	0	0
+protein import	GO_0017038	0	1	1	0	0
+protein export from nucleus	GO_0006611	0	1	1	0	0
+protein exit from endoplasmic reticulum	GO_0032527	0	1	1	0	0
+protein complex localization	GO_0031503	0	1	1	0	0
+protein channel activity	GO_0015266	0	1	1	0	0
+proteasome localization	GO_0031144	0	1	1	0	0
+proteasome core complex import into nucleus	GO_1990236	0	1	1	0	0
+protease localization to mast cell secretory granule	GO_0033368	0	1	1	0	0
+protease localization to T cell secretory granule	GO_0033375	0	1	1	0	0
+prolactin secretion	GO_0070459	0	1	1	0	0
+posttranslational protein targeting to membrane, translocation	GO_0031204	0	1	1	0	0
+posttranslational protein targeting to membrane, docking	GO_0031203	0	1	1	0	0
+posttranslational protein targeting to membrane	GO_0006620	0	1	1	0	0
+postsynaptic density protein 95 clustering	GO_0097119	0	1	1	0	0
+positive regulation of transcription by transcription factor localization	GO_0061586	0	1	1	0	0
+positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region	GO_0035593	0	1	1	0	0
+polyubiquitinated protein transport	GO_0070844	0	1	1	0	0
+polyubiquitinated misfolded protein transport	GO_0070845	0	1	1	0	0
+pole plasm protein localization	GO_0007318	0	1	1	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	1	0	0
+platelet activating factor secretion	GO_0002392	0	1	1	0	0
+pancreatic amylase secretion	GO_0036395	0	1	1	0	0
+opsin transport	GO_0036372	0	1	1	0	0
+nuclear pore localization	GO_0051664	0	1	1	0	0
+nuclear pore distribution	GO_0031081	0	1	1	0	0
+nuclear matrix anchoring at nuclear membrane	GO_0090292	0	1	1	0	0
+nuclear import signal receptor activity	GO_0061608	0	1	1	0	0
+nuclear export signal receptor activity	GO_0005049	0	1	1	0	0
+neurotransmitter-gated ion channel clustering	GO_0072578	0	1	1	0	0
+neuroligin clustering	GO_0097118	0	1	1	0	0
+neurexin clustering	GO_0097115	0	1	1	0	0
+negative regulation of transcription from RNA polymerase II promoter by transcription factor localization involved in response to DNA damage checkpoint signaling	GO_1990260	0	1	1	0	0
+negative regulation of transcription by transcription factor localization	GO_0010621	0	1	1	0	0
+mitochondrial protein-transporting ATPase activity	GO_0008566	0	1	1	0	0
+misfolded protein transport	GO_0070843	0	1	1	0	0
+microtubule anchoring at spindle pole body	GO_0034631	0	1	1	0	0
+microtubule anchoring at microtubule organizing center	GO_0072393	0	1	1	0	0
+microtubule anchoring at centrosome	GO_0034454	0	1	1	0	0
+microtubule anchoring	GO_0034453	0	1	1	0	0
+membrane insertase activity	GO_0032977	0	1	1	0	0
+meiotic centromere clustering	GO_1990571	0	1	1	0	0
+maintenance of protein location in spindle pole body	GO_0071990	0	1	1	0	0
+maintenance of protein location in mitochondrion	GO_0072656	0	1	1	0	0
+maintenance of protein location in mast cell secretory granule	GO_0033370	0	1	1	0	0
+maintenance of protein location in T cell secretory granule	GO_0033377	0	1	1	0	0
+maintenance of protein localization to heterochromatin	GO_1990153	0	1	1	0	0
+maintenance of protease location in mast cell secretory granule	GO_0033373	0	1	1	0	0
+maintenance of protease location in T cell secretory granule	GO_0033379	0	1	1	0	0
+maintenance of granzyme B location in T cell secretory granule	GO_0033382	0	1	1	0	0
+mRNA-binding (hnRNP) protein import into nucleus	GO_0006609	0	1	1	0	0
+lysosomal enzyme secretion involved in inflammatory response	GO_0002533	0	1	1	0	0
+lipoprotein transporter activity	GO_0042954	0	1	1	0	0
+lipoprotein transport	GO_0042953	0	1	1	0	0
+lipoprotein localization to outer membrane	GO_0044874	0	1	1	0	0
+lipoprotein localization to membrane	GO_0044873	0	1	1	0	0
+lipoprotein localization	GO_0044872	0	1	1	0	0
+lactoferrin transport	GO_0033571	0	1	1	0	0
+lactoferrin transmembrane transporter activity	GO_0033569	0	1	1	0	0
+intracellular transport of viral protein in host cell	GO_0019060	0	1	1	0	0
+intracellular protein transport in other organism involved in symbiotic interaction	GO_0051708	0	1	1	0	0
+intracellular protein transport	GO_0006886	0	1	1	0	0
+intracellular protein transmembrane transport	GO_0065002	0	1	1	0	0
+intracellular protein transmembrane import	GO_0044743	0	1	1	0	0
+interleukin-9 secretion	GO_0072607	0	1	1	0	0
+interleukin-8 secretion	GO_0072606	0	1	1	0	0
+interleukin-7 secretion	GO_0072605	0	1	1	0	0
+interleukin-6 secretion	GO_0072604	0	1	1	0	0
+interleukin-5 secretion	GO_0072603	0	1	1	0	0
+interleukin-4 secretion	GO_0072602	0	1	1	0	0
+interleukin-35 secretion	GO_0072626	0	1	1	0	0
+interleukin-33 secretion	GO_0072640	0	1	1	0	0
+interleukin-32 secretion	GO_0072638	0	1	1	0	0
+interleukin-31 secretion	GO_0072636	0	1	1	0	0
+interleukin-30 secretion	GO_0072634	0	1	1	0	0
+interleukin-3 secretion	GO_0072601	0	1	1	0	0
+interleukin-29 secretion	GO_0072632	0	1	1	0	0
+interleukin-28B secretion	GO_0072630	0	1	1	0	0
+interleukin-28A secretion	GO_0072628	0	1	1	0	0
+interleukin-27 secretion	GO_0072625	0	1	1	0	0
+interleukin-26 secretion	GO_0072624	0	1	1	0	0
+interleukin-25 secretion	GO_0072623	0	1	1	0	0
+interleukin-24 secretion	GO_0072622	0	1	1	0	0
+interleukin-23 secretion	GO_0072621	0	1	1	0	0
+interleukin-22 secretion	GO_0072620	0	1	1	0	0
+interleukin-21 secretion	GO_0072619	0	1	1	0	0
+interleukin-20 secretion	GO_0072618	0	1	1	0	0
+interleukin-2 secretion	GO_0070970	0	1	1	0	0
+interleukin-19 secretion	GO_0072617	0	1	1	0	0
+interleukin-18 secretion	GO_0072616	0	1	1	0	0
+interleukin-17 secretion	GO_0072615	0	1	1	0	0
+interleukin-16 secretion	GO_0072614	0	1	1	0	0
+interleukin-15 secretion	GO_0072613	0	1	1	0	0
+interleukin-14 secretion	GO_0072612	0	1	1	0	0
+interleukin-13 secretion	GO_0072611	0	1	1	0	0
+interleukin-12 secretion	GO_0072610	0	1	1	0	0
+interleukin-11 secretion	GO_0072609	0	1	1	0	0
+interleukin-10 secretion	GO_0072608	0	1	1	0	0
+interleukin-1 secretion	GO_0050701	0	1	1	0	0
+interleukin-1 beta secretion	GO_0050702	0	1	1	0	0
+interleukin-1 alpha secretion	GO_0050703	0	1	1	0	0
+interferon-tau secretion	GO_0072652	0	1	1	0	0
+interferon-omega secretion	GO_0072654	0	1	1	0	0
+interferon-kappa secretion	GO_0072650	0	1	1	0	0
+interferon-gamma secretion	GO_0072643	0	1	1	0	0
+interferon-epsilon secretion	GO_0072648	0	1	1	0	0
+interferon-delta secretion	GO_0072646	0	1	1	0	0
+interferon-beta secretion	GO_0035546	0	1	1	0	0
+interferon-alpha secretion	GO_0072642	0	1	1	0	0
+insulin secretion involved in cellular response to glucose stimulus	GO_0035773	0	1	1	0	0
+insulin secretion	GO_0030073	0	1	1	0	0
+inheritance of oxidatively modified proteins involved in replicative cell aging	GO_0001319	0	1	1	0	0
+importin-alpha export receptor activity	GO_0008262	0	1	1	0	0
+immunoglobulin secretion involved in immune response	GO_0002380	0	1	1	0	0
+immunoglobulin secretion	GO_0048305	0	1	1	0	0
+homologous chromosome orientation involved in meiotic metaphase I plate congression	GO_0031619	0	1	1	0	0
+histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore	GO_2000751	0	1	1	0	0
+hemoglobin import	GO_0020028	0	1	1	0	0
+hemaglutinin autotransporter activity	GO_0015476	0	1	1	0	0
+guanylate kinase-associated protein clustering	GO_0097117	0	1	1	0	0
+group A colicin transmembrane transporter activity	GO_0042913	0	1	1	0	0
+granzyme B localization to T cell secretory granule	GO_0033380	0	1	1	0	0
+glycoprotein transporter activity	GO_0034437	0	1	1	0	0
+glycoprotein transport	GO_0034436	0	1	1	0	0
+glycine receptor clustering	GO_0072579	0	1	1	0	0
+glucocorticoid receptor import into nucleus	GO_0002147	0	1	1	0	0
+glial cell line-derived neurotrophic factor secretion	GO_0044467	0	1	1	0	0
+gephyrin clustering	GO_0097116	0	1	1	0	0
+gamma-tubulin complex localization	GO_0033566	0	1	1	0	0
+gamma-aminobutyric acid receptor clustering	GO_0097112	0	1	1	0	0
+exocyst localization	GO_0051601	0	1	1	0	0
+establishment of protein localization to vacuole	GO_0072666	0	1	1	0	0
+establishment of protein localization to telomere	GO_0070200	0	1	1	0	0
+establishment of protein localization to spindle pole body	GO_0071989	0	1	1	0	0
+establishment of protein localization to prospore membrane	GO_1902658	0	1	1	0	0
+establishment of protein localization to postsynaptic membrane	GO_1903540	0	1	1	0	0
+establishment of protein localization to plasma membrane	GO_0090002	0	1	1	0	0
+establishment of protein localization to peroxisome	GO_0072663	0	1	1	0	0
+establishment of protein localization to organelle	GO_0072594	0	1	1	0	0
+establishment of protein localization to mitochondrion	GO_0072655	0	1	1	0	0
+establishment of protein localization to mitochondrial membrane involved in mitochondrial fission	GO_0090152	0	1	1	0	0
+establishment of protein localization to mitochondrial membrane	GO_0090151	0	1	1	0	0
+establishment of protein localization to membrane	GO_0090150	0	1	1	0	0
+establishment of protein localization to mast cell secretory granule	GO_0033369	0	1	1	0	0
+establishment of protein localization to juxtaparanode region of axon	GO_0071206	0	1	1	0	0
+establishment of protein localization to extracellular region	GO_0035592	0	1	1	0	0
+establishment of protein localization to endoplasmic reticulum membrane	GO_0097051	0	1	1	0	0
+establishment of protein localization to endoplasmic reticulum	GO_0072599	0	1	1	0	0
+establishment of protein localization to chromosome	GO_0070199	0	1	1	0	0
+establishment of protein localization to chromatin	GO_0071169	0	1	1	0	0
+establishment of protein localization to chloroplast	GO_0072596	0	1	1	0	0
+establishment of protein localization to T cell secretory granule	GO_0033376	0	1	1	0	0
+establishment of protein localization to Golgi	GO_0072600	0	1	1	0	0
+establishment of protein localization	GO_0045184	0	1	1	0	0
+establishment of protease localization to mast cell secretory granule	GO_0033372	0	1	1	0	0
+establishment of protease localization to T cell secretory granule	GO_0033378	0	1	1	0	0
+establishment of granzyme B localization to T cell secretory granule	GO_0033381	0	1	1	0	0
+endocytosed protein transport to vacuole	GO_0007038	0	1	1	0	0
+cytoskeletal anchoring at plasma membrane	GO_0007016	0	1	1	0	0
+cytoskeletal anchoring at nuclear membrane	GO_0090286	0	1	1	0	0
+cytoplasmic sequestering of transcription factor	GO_0042994	0	1	1	0	0
+cytoplasmic sequestering of protein	GO_0051220	0	1	1	0	0
+cytoplasmic sequestering of NF-kappaB	GO_0007253	0	1	1	0	0
+cytoplasmic sequestering of CFTR protein	GO_0043004	0	1	1	0	0
+cytokine secretion involved in immune response	GO_0002374	0	1	1	0	0
+cytokine secretion	GO_0050663	0	1	1	0	0
+cotranslational protein targeting to membrane	GO_0006613	0	1	1	0	0
+cortical protein anchoring	GO_0032065	0	1	1	0	0
+colicin transmembrane transporter activity	GO_0042912	0	1	1	0	0
+cohesin localization to chromatin	GO_0071921	0	1	1	0	0
+ciliary receptor clustering involved in smoothened signaling pathway	GO_0060830	0	1	1	0	0
+chromosome passenger complex localization to spindle midzone	GO_0035853	0	1	1	0	0
+chromosome passenger complex localization to kinetochore	GO_0072356	0	1	1	0	0
+chloroplast protein-transporting ATPase activity	GO_0016464	0	1	1	0	0
+chemokine secretion	GO_0090195	0	1	1	0	0
+chemokine receptor transport within lipid bilayer	GO_0033606	0	1	1	0	0
+chemokine receptor transport out of membrane raft	GO_0032600	0	1	1	0	0
+chemokine (C-C motif) ligand 6 secretion	GO_0035534	0	1	1	0	0
+chemokine (C-C motif) ligand 2 secretion	GO_0035926	0	1	1	0	0
+chaperone-mediated protein transport across periplasmic space	GO_0072323	0	1	1	0	0
+chaperone-mediated protein transport	GO_0072321	0	1	1	0	0
+centromere localization	GO_0072765	0	1	1	0	0
+centromere clustering at the nuclear envelope	GO_0072766	0	1	1	0	0
+centromere clustering	GO_0098653	0	1	1	0	0
+cellular protein localization	GO_0034613	0	1	1	0	0
+cellular protein complex localization	GO_0034629	0	1	1	0	0
+catenin import into nucleus	GO_0035411	0	1	1	0	0
+basolateral protein localization	GO_0061467	0	1	1	0	0
+basal protein localization	GO_0045175	0	1	1	0	0
+bacteriocin-transporting ATPase activity	GO_0043214	0	1	1	0	0
+bacteriocin transmembrane transporter activity	GO_0022885	0	1	1	0	0
+autotransporter activity	GO_0015474	0	1	1	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation	GO_0051456	0	1	1	0	0
+attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	GO_0051316	0	1	1	0	0
+attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	GO_0051455	0	1	1	0	0
+attachment of spindle microtubules to kinetochore	GO_0008608	0	1	1	0	0
+attachment of mitotic spindle microtubules to kinetochore	GO_0051315	0	1	1	0	0
+asymmetric protein localization to old or new spindle pole body	GO_0061492	0	1	1	0	0
+asymmetric protein localization to old mitotic spindle pole body	GO_0061509	0	1	1	0	0
+asymmetric protein localization to new mitotic spindle pole body	GO_0061510	0	1	1	0	0
+asymmetric protein localization involved in cell fate determination	GO_0045167	0	1	1	0	0
+asymmetric protein localization	GO_0008105	0	1	1	0	0
+arginine targeting transmembrane transporter activity	GO_0015557	0	1	1	0	0
+apolipoprotein E recycling	GO_0071828	0	1	1	0	0
+apical protein localization	GO_0045176	0	1	1	0	0
+amylase secretion	GO_0036394	0	1	1	0	0
+alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering	GO_0097113	0	1	1	0	0
+adiponectin secretion	GO_0070162	0	1	1	0	0
+adhesin autotransporter activity	GO_0015475	0	1	1	0	0
+Wnt protein secretion	GO_0061355	0	1	1	0	0
+STAT protein import into nucleus	GO_0007262	0	1	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, translocation	GO_0006616	0	1	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	GO_0006617	0	1	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	0	1	1	0	0
+SRP-dependent cotranslational protein targeting to membrane, docking	GO_0006615	0	1	1	0	0
+SRP-dependent cotranslational protein targeting to membrane	GO_0006614	0	1	1	0	0
+SREBP-SCAP complex retention in endoplasmic reticulum	GO_0036316	0	1	1	0	0
+SMAD protein import into nucleus	GO_0007184	0	1	1	0	0
+SHREC complex localization	GO_0072688	0	1	1	0	0
+SAGA complex localization to transcription regulatory region	GO_0072742	0	1	1	0	0
+RNA polymerase III complex localization to nucleus	GO_1990022	0	1	1	0	0
+RNA polymerase II complex localization to nucleus	GO_0044376	0	1	1	0	0
+RNA polymerase II complex import into nucleus	GO_0098738	0	1	1	0	0
+RITS complex localization	GO_0034630	0	1	1	0	0
+P-TEFb-cap methyltransferase complex localization	GO_0070817	0	1	1	0	0
+P-P-bond-hydrolysis-driven protein transmembrane transporter activity	GO_0015450	0	1	1	0	0
+NLS-bearing protein import into nucleus	GO_0006607	0	1	1	0	0
+NFAT protein import into nucleus	GO_0051531	0	1	1	0	0
+NF-kappaB import into nucleus	GO_0042348	0	1	1	0	0
+N-methyl-D-aspartate receptor clustering	GO_0097114	0	1	1	0	0
+N-glycan processing to lysosome	GO_0016256	0	1	1	0	0
+MAPK phosphatase export from nucleus, leptomycin B sensitive	GO_0045209	0	1	1	0	0
+MAPK phosphatase export from nucleus	GO_0045208	0	1	1	0	0
+MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	0	1	1	0	0
+MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	1	0	0
+MAPK import into nucleus involved in conjugation with cellular fusion	GO_0071512	0	1	1	0	0
+MAPK import into nucleus involved in cell wall organization or biogenesis	GO_0000201	0	1	1	0	0
+MAPK import into nucleus	GO_0000189	0	1	1	0	0
+MAPK export from nucleus	GO_0045204	0	1	1	0	0
+Golgi to plasma membrane protein transport	GO_0043001	0	1	1	0	0
+Golgi to plasma membrane CFTR protein transport	GO_0043000	0	1	1	0	0
+CVT vesicle assembly	GO_0071255	0	1	1	0	0
+CVT pathway	GO_0032258	0	1	1	0	0
+CLRC ubiquitin ligase complex localization to heterochromatin	GO_0044382	0	1	1	0	0
+Bub1-Bub3 complex localization to kinetochore	GO_1990299	0	1	1	0	0
+BMP secretion	GO_0038055	0	1	1	0	0
+B cell receptor transport within lipid bilayer	GO_0032595	0	1	1	0	0
+B cell receptor transport into membrane raft	GO_0032597	0	1	1	0	0
+B cell receptor transport into immunological synapse	GO_0032598	0	1	1	0	0
