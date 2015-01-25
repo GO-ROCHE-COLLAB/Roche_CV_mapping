@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 caspase activity	GO_0030693	1	0	1	1	1
-small conjugating protein-specific endopeptidase activity	GO_0070137	0	1	1	0	0
+ubiquitin-like protein-specific endopeptidase activity	GO_0070137	0	1	1	0	0
 cysteine-type endopeptidase activity involved in plant-type hypersensitive response	GO_0097299	0	1	1	0	0
 cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_0097200	0	1	1	0	0
 cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_0097199	0	1	1	0	0

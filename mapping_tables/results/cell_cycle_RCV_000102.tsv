@@ -283,7 +283,6 @@ protein localization to meiotic spindle pole body	GO_1902441	0	1	0	0	0
 protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	GO_1903476	0	1	0	0	0
 protein localization to cell division site involved in cytokinesis, actomyosin contractile ring assembly	GO_1902575	0	1	0	0	0
 protein kinase activity involved in regulation of protein localization to cell division site involved in cytokinesis	GO_1901916	0	1	0	0	0
-primary cell septum disassembly	GO_0030994	0	1	0	0	0
 primary cell septum biogenesis	GO_0031671	0	1	0	0	0
 preprophase band assembly	GO_0000913	0	1	0	0	0
 premeiotic DNA replication termination	GO_1902978	0	1	0	0	0
@@ -506,8 +505,7 @@ mitotic sister chromatid segregation	GO_0000070	0	1	0	0	0
 mitotic sister chromatid cohesion, centromeric	GO_0071962	0	1	0	0	0
 mitotic sister chromatid cohesion, arms	GO_0071961	0	1	0	0	0
 mitotic sister chromatid cohesion	GO_0007064	0	1	0	0	0
-mitotic ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
-mitotic ring actin filament bundle assembly	GO_1903477	0	1	0	0	0
+mitotic ring contractile actin filament bundle assembly	GO_1903477	0	1	0	0	0
 mitotic prophase	GO_0000088	0	1	0	0	0
 mitotic prometaphase	GO_0000236	0	1	0	0	0
 mitotic pre-replicative complex assembly	GO_1902985	0	1	0	0	0
@@ -519,6 +517,7 @@ mitotic metaphase plate congression	GO_0007080	0	1	0	0	0
 mitotic metaphase	GO_0000089	0	1	0	0	0
 mitotic cytokinetic process	GO_1902410	0	1	0	0	0
 mitotic cytokinesis, site selection	GO_1902408	0	1	0	0	0
+mitotic contractile ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
 mitotic cleavage furrow ingression	GO_1990386	0	1	0	0	0
 mitotic cleavage furrow formation	GO_1903673	0	1	0	0	0
 mitotic chromosome movement towards spindle pole	GO_0007079	0	1	0	0	0
@@ -787,9 +786,7 @@ centriole replication	GO_0007099	0	1	0	0	0
 centriole elongation	GO_0061511	0	1	0	0	0
 cellular bud site selection	GO_0000282	0	1	0	0	0
 cellular bud neck septin ring organization	GO_0032186	0	1	0	0	0
-cell septum edging catabolic process	GO_0030995	0	1	0	0	0
 cell septum assembly	GO_0090529	0	1	0	0	0
-cell separation after cytokinesis	GO_0000920	0	1	0	0	0
 cell plate formation involved in plant-type cell wall biogenesis	GO_0009920	0	1	0	0	0
 cell plate assembly	GO_0000919	0	1	0	0	0
 cell cycle phase transition	GO_0044770	0	1	0	0	0

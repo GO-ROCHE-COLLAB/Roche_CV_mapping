@@ -1,7 +1,7 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-small nucleolar ribonucleoprotein complex assembly	GO_0000491	1	0	1	0	0
-box H/ACA snoRNP assembly	GO_0000493	1	0	1	0	0
-box C/D snoRNP assembly	GO_0000492	1	0	1	0	0
+small nucleolar ribonucleoprotein complex assembly	GO_0000491	1	1	1	0	0
+box H/ACA snoRNP assembly	GO_0000493	1	1	1	0	0
+box C/D snoRNP assembly	GO_0000492	1	1	1	0	0
 snoRNA transcription from an RNA polymerase II promoter	GO_0001015	0	1	0	0	0
 snoRNA transcription from a type 2 RNA polymerase III promoter	GO_0001014	0	1	0	0	0
 snoRNA transcription	GO_0009302	0	1	0	0	0

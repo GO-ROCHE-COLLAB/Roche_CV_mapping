@@ -119,6 +119,7 @@ snRNA-containing ribonucleoprotein complex export from nucleus	GO_0071429	0	1	0	
 snRNA import into nucleus	GO_0061015	0	1	0	0	0
 snRNA export from nucleus	GO_0006408	0	1	0	0	0
 single-organism nuclear import	GO_1902593	0	1	0	0	0
+single fertilization	GO_0007338	0	1	0	0	0
 second mitotic wave involved in compound eye morphogenesis	GO_0016330	0	1	0	0	0
 ribosomal subunit export from nucleus	GO_0000054	0	1	0	0	0
 ribosomal small subunit export from nucleus	GO_0000056	0	1	0	0	0
@@ -229,6 +230,7 @@ interkinetic nuclear migration	GO_0022027	0	1	0	0	0
 initiation of premeiotic DNA replication	GO_0072691	0	1	0	0	0
 glucocorticoid receptor import into nucleus	GO_0002147	0	1	0	0	0
 generative cell mitosis	GO_0055047	0	1	0	0	0
+fertilization	GO_0009566	0	1	0	0	0
 female pronucleus assembly	GO_0035038	0	1	0	0	0
 female meiotic division	GO_0007143	0	1	0	0	0
 female meiosis II	GO_0007147	0	1	0	0	0
@@ -247,6 +249,8 @@ entry of intact viral capsid into host nucleus through nuclear pore complex	GO_0
 endomitotic cell cycle	GO_0007113	0	1	0	0	0
 embryo sac nuclear migration	GO_0009562	0	1	0	0	0
 dynein-driven meiotic oscillatory nuclear movement	GO_0030989	0	1	0	0	0
+double fertilization forming two zygotes	GO_0009677	0	1	0	0	0
+double fertilization forming a zygote and endosperm	GO_0009567	0	1	0	0	0
 cell cycle comprising mitosis without cytokinesis	GO_0033301	0	1	0	0	0
 catenin import into nucleus	GO_0035411	0	1	0	0	0
 amitosis	GO_0051337	0	1	0	0	0

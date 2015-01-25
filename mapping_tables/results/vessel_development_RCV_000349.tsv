@@ -30,6 +30,7 @@ regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	1
 regulation of cell adhesion involved in intussusceptive angiogenesis	GO_0002045	0	1	1	0	0
 regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	0	1	1	0	0
 regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	1	0	0
+regulation of aorta morphogenesis	GO_1903847	0	1	0	0	0
 regulation of angiogenesis	GO_0045765	0	1	1	0	0
 regulation of angioblast cell migration involved in selective angioblast sprouting	GO_0035477	0	1	1	0	0
 pulmonary vein morphogenesis	GO_0060577	0	1	1	0	0
@@ -46,6 +47,7 @@ positive regulation of glomerular mesangial cell proliferation	GO_0072126	0	1	1	
 positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	1	0	0
 positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	0	1	1	0	0
 positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	1	0	0
+positive regulation of aorta morphogenesis	GO_1903849	0	1	0	0	0
 positive regulation of angiogenesis	GO_0045766	0	1	1	0	0
 placenta blood vessel development	GO_0060674	0	1	1	0	0
 pharyngeal arch artery morphogenesis	GO_0061626	0	1	1	0	0
@@ -62,6 +64,7 @@ negative regulation of cell migration involved in sprouting angiogenesis	GO_0090
 negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	0	1	1	0	0
 negative regulation of blood vessel morphogenesis	GO_2000181	0	1	1	0	0
 negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	1	0	0
+negative regulation of aorta morphogenesis	GO_1903848	0	1	0	0	0
 negative regulation of angiogenesis	GO_0016525	0	1	1	0	0
 metanephric intraglomerular mesangial cell proliferation	GO_0072263	0	1	1	0	0
 metanephric glomerulus vasculature morphogenesis	GO_0072276	0	1	1	0	0

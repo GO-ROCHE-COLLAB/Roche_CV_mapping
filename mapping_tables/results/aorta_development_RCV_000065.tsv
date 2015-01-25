@@ -8,6 +8,9 @@ aortic valve development	GO_0003176	1	0	1	0	0
 aortic smooth muscle cell differentiation	GO_0035887	1	0	1	0	0
 ventral aorta morphogenesis	GO_0035913	0	1	1	0	0
 ventral aorta development	GO_0035908	0	1	1	0	0
+regulation of aorta morphogenesis	GO_1903847	0	1	0	0	0
+positive regulation of aorta morphogenesis	GO_1903849	0	1	0	0	0
+negative regulation of aorta morphogenesis	GO_1903848	0	1	0	0	0
 dorsal aorta morphogenesis	GO_0035912	0	1	1	0	0
 dorsal aorta development	GO_0035907	0	1	1	0	0
 descending aorta morphogenesis	GO_0035911	0	1	1	0	0

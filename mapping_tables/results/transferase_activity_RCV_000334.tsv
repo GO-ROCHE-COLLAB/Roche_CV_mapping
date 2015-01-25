@@ -40,6 +40,9 @@ undecaprenyl-phosphate galactose phosphotransferase activity	GO_0047360	0	1	1	0	
 undecaprenol kinase activity	GO_0009038	0	1	1	0	0
 ubiquitin-ubiquitin ligase activity	GO_0034450	0	1	1	0	0
 ubiquitin-protein transferase activity	GO_0004842	0	1	1	0	0
+ubiquitin-like protein transferase activity	GO_0019787	0	1	0	0	0
+ubiquitin-like protein ligase activity	GO_0061659	0	1	0	0	0
+ubiquitin-like protein conjugating enzyme activity	GO_0061650	0	1	0	0	0
 ubiquitin-calmodulin ligase activity	GO_0050372	0	1	1	0	0
 ubiquitin protein ligase activity	GO_0061630	0	1	1	0	0
 ubiquitin conjugating enzyme activity	GO_0061631	0	1	1	0	0
@@ -222,9 +225,6 @@ spermidine:caffeoyl CoA N-acyltransferase activity	GO_0080074	0	1	1	0	0
 spermidine synthase activity	GO_0004766	0	1	1	0	0
 sn-glycerol-3-phosphate 2-alpha-galactosyltransferase activity	GO_0047221	0	1	1	0	0
 sn-glycerol-3-phosphate 1-galactosyltransferase activity	GO_0047279	0	1	1	0	0
-small conjugating protein transferase activity	GO_0019787	0	1	0	0	0
-small conjugating protein ligase activity	GO_0061659	0	1	0	0	0
-small conjugating protein conjugating enzyme activity	GO_0061650	0	1	0	0	0
 small RNA 2'-O-methyltransferase	GO_0090486	0	1	1	0	0
 site-specific DNA-methyltransferase (cytosine-N4-specific) activity	GO_0015667	0	1	1	0	0
 site-specific DNA-methyltransferase (adenine-specific) activity	GO_0009007	0	1	1	0	0

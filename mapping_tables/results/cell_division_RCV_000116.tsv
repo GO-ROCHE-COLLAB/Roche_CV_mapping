@@ -455,11 +455,11 @@ negative regulation by virus of host cell division	GO_0044865	0	1	0	0	0
 myosin filament organization involved in cytokinetic actomyosin contractile ring assembly	GO_2000708	0	1	0	0	0
 myoblast division	GO_0014872	0	1	0	0	0
 modulation by virus of host cell division	GO_0044863	0	1	0	0	0
-mitotic ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
-mitotic ring actin filament bundle assembly	GO_1903477	0	1	0	0	0
+mitotic ring contractile actin filament bundle assembly	GO_1903477	0	1	0	0	0
 mitotic cytokinetic process	GO_1902410	0	1	0	0	0
 mitotic cytokinesis, site selection	GO_1902408	0	1	0	0	0
 mitotic cytokinesis	GO_0000281	0	1	0	0	0
+mitotic contractile ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
 mitotic cleavage furrow ingression	GO_1990386	0	1	0	0	0
 mitotic cleavage furrow formation	GO_1903673	0	1	0	0	0
 mitotic actomyosin contractile ring maintenance	GO_1902406	0	1	0	0	0

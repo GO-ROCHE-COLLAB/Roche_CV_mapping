@@ -1,0 +1,111 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cellular potassium ion homeostasis	GO_0030007	1	1	1	0	0
+cellular phosphate ion homeostasis	GO_0030643	1	1	1	0	0
+cellular nickel ion homeostasis	GO_0035785	1	1	1	0	0
+cellular monovalent inorganic cation homeostasis	GO_0030004	1	1	1	0	0
+cellular monovalent inorganic anion homeostasis	GO_0030320	1	1	1	0	0
+cellular manganese ion homeostasis	GO_0030026	1	1	1	0	0
+cellular magnesium ion homeostasis	GO_0010961	1	1	1	0	0
+cellular iron ion homeostasis	GO_0006879	1	1	1	0	0
+cellular divalent inorganic cation homeostasis	GO_0072503	1	1	1	0	0
+cellular divalent inorganic anion homeostasis	GO_0072501	1	1	1	0	0
+cellular copper ion homeostasis	GO_0006878	1	1	1	0	0
+cellular cobalt ion homeostasis	GO_0006877	1	1	1	0	0
+cellular chloride ion homeostasis	GO_0030644	1	1	1	0	0
+cellular calcium ion homeostasis	GO_0006874	1	1	1	0	0
+cellular cadmium ion homeostasis	GO_0006876	1	1	1	0	0
+aluminum ion homeostasis	GO_0055079	1	1	1	0	0
+cellular response to iron(III) ion	GO_0071283	1	0	1	0	0
+cellular response to iron(II) ion	GO_0071282	1	0	1	0	0
+cellular response to iron ion starvation	GO_0010106	1	0	1	0	0
+cellular response to iron ion	GO_0071281	1	0	1	0	0
+cellular potassium ion transport	GO_0071804	1	0	1	0	0
+cellular nitrogen compound metabolic process	GO_0034641	1	0	1	0	0
+cellular nitrogen compound catabolic process	GO_0044270	1	0	1	0	0
+cellular nitrogen compound biosynthetic process	GO_0044271	1	0	1	0	0
+cellular ion homeostasis	GO_0006873	1	0	1	0	0
+cellular di-, tri-valent inorganic cation homeostasis	GO_0030005	1	0	1	1	1
+cellular di-, tri-valent inorganic anion homeostasis	GO_0030319	1	0	1	1	1
+cellular cation homeostasis	GO_0030003	1	0	1	0	0
+aluminum cation transport	GO_0015690	1	0	1	0	0
+zinc ion homeostasis	GO_0055069	0	1	0	0	0
+vacuolar calcium ion homeostasis	GO_0007036	0	1	0	0	0
+vacuolar acidification	GO_0007035	0	1	0	0	0
+trivalent inorganic cation homeostasis	GO_0072508	0	1	0	0	0
+trivalent inorganic anion homeostasis	GO_0072506	0	1	0	0	0
+transition metal ion homeostasis	GO_0055076	0	1	0	0	0
+synaptic vesicle lumen acidification	GO_0097401	0	1	0	0	0
+sulfide ion homeostasis	GO_0070218	0	1	0	0	0
+sulfate ion homeostasis	GO_0055063	0	1	0	0	0
+sodium ion homeostasis	GO_0055078	0	1	0	0	0
+smooth endoplasmic reticulum calcium ion homeostasis	GO_0051563	0	1	0	0	0
+release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO_0014808	0	1	0	0	0
+release of sequestered calcium ion into cytosol	GO_0051209	0	1	0	0	0
+regulation of potassium ion concentration by positive regulation of transcription from RNA polymerase II promoter	GO_0097301	0	1	0	0	0
+regulation of pH	GO_0006885	0	1	0	0	0
+regulation of lysosomal lumen pH	GO_0035751	0	1	0	0	0
+regulation of intracellular pH	GO_0051453	0	1	0	0	0
+regulation of cellular pH	GO_0030641	0	1	0	0	0
+potassium ion homeostasis	GO_0055075	0	1	0	0	0
+positive regulation of smooth endoplasmic reticulum calcium ion concentration	GO_0051564	0	1	0	0	0
+positive regulation of mitochondrial calcium ion concentration	GO_0051561	0	1	0	0	0
+positive regulation of endoplasmic reticulum calcium ion concentration	GO_0032470	0	1	0	0	0
+positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	GO_0051482	0	1	0	0	0
+positive regulation of cytosolic calcium ion concentration involved in egg activation	GO_0060470	0	1	0	0	0
+positive regulation of cytosolic calcium ion concentration	GO_0007204	0	1	0	0	0
+positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration	GO_0060472	0	1	0	0	0
+phosphate ion homeostasis	GO_0055062	0	1	0	0	0
+phagosome reneutralization	GO_0044655	0	1	0	0	0
+phagosome acidification involved in apoptotic cell clearance	GO_0090390	0	1	0	0	0
+phagosome acidification	GO_0090383	0	1	0	0	0
+pH reduction	GO_0045851	0	1	0	0	0
+pH elevation	GO_0045852	0	1	0	0	0
+nickel cation homeostasis	GO_0035784	0	1	0	0	0
+negative regulation of smooth endoplasmic reticulum calcium ion concentration	GO_0051565	0	1	0	0	0
+negative regulation of mitochondrial calcium ion concentration	GO_0051562	0	1	0	0	0
+negative regulation of endoplasmic reticulum calcium ion concentration	GO_0032471	0	1	0	0	0
+negative regulation of cytosolic calcium ion concentration	GO_0051481	0	1	0	0	0
+multicellular organismal iron ion homeostasis	GO_0060586	0	1	0	0	0
+monovalent inorganic cation homeostasis	GO_0055067	0	1	0	0	0
+monovalent inorganic anion homeostasis	GO_0055083	0	1	0	0	0
+mitochondrial calcium ion homeostasis	GO_0051560	0	1	0	0	0
+metal ion homeostasis	GO_0055065	0	1	0	0	0
+manganese ion homeostasis	GO_0055071	0	1	0	0	0
+magnesium ion homeostasis	GO_0010960	0	1	0	0	0
+lysosomal lumen pH elevation	GO_0035752	0	1	0	0	0
+lysosomal lumen acidification	GO_0007042	0	1	0	0	0
+iron ion homeostasis	GO_0055072	0	1	0	0	0
+iron assimilation by reduction and transport	GO_0033215	0	1	0	0	0
+iron assimilation by chelation and transport	GO_0033214	0	1	0	0	0
+iron assimilation by capture and transport	GO_0033213	0	1	0	0	0
+iron assimilation	GO_0033212	0	1	0	0	0
+intracellular pH reduction	GO_0051452	0	1	0	0	0
+intracellular pH elevation	GO_0051454	0	1	0	0	0
+inorganic ion homeostasis	GO_0098771	0	1	0	0	0
+endosomal lumen acidification	GO_0048388	0	1	0	0	0
+endoplasmic reticulum calcium ion homeostasis	GO_0032469	0	1	0	0	0
+divalent inorganic cation homeostasis	GO_0072507	0	1	0	0	0
+divalent inorganic anion homeostasis	GO_0072505	0	1	0	0	0
+cytosolic calcium ion homeostasis	GO_0051480	0	1	0	0	0
+copper ion homeostasis	GO_0055070	0	1	0	0	0
+cobalt ion homeostasis	GO_0055068	0	1	0	0	0
+circadian regulation of calcium ion oscillation	GO_0010617	0	1	0	0	0
+chloride ion homeostasis	GO_0055064	0	1	0	0	0
+cellular zinc ion homeostasis	GO_0006882	0	1	0	0	0
+cellular trivalent inorganic cation homeostasis	GO_0072504	0	1	0	0	0
+cellular trivalent inorganic anion homeostasis	GO_0072502	0	1	0	0	0
+cellular transition metal ion homeostasis	GO_0046916	0	1	0	0	0
+cellular sulfide ion homeostasis	GO_0070219	0	1	0	0	0
+cellular sulfate ion homeostasis	GO_0030642	0	1	0	0	0
+cellular sodium ion homeostasis	GO_0006883	0	1	0	0	0
+cellular metal ion homeostasis	GO_0006875	0	1	0	0	0
+cellular ammonia homeostasis	GO_0097275	0	1	0	0	0
+cellular aluminum ion homeostasis	GO_0010217	0	1	0	0	0
+calcium ion transport into cytosol	GO_0060402	0	1	0	0	0
+calcium ion transmembrane import into cytosol	GO_0097553	0	1	0	0	0
+calcium ion import across plasma membrane	GO_0098703	0	1	0	0	0
+calcium ion homeostasis	GO_0055074	0	1	0	0	0
+cadmium ion homeostasis	GO_0055073	0	1	0	0	0
+ammonia homeostasis	GO_0097272	0	1	0	0	0
+Golgi calcium ion homeostasis	GO_0032468	0	1	0	0	0
+Golgi calcium ion export	GO_0061454	0	1	0	0	0

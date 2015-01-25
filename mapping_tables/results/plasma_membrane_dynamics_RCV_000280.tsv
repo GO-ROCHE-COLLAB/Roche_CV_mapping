@@ -8,13 +8,13 @@ plasma membrane organization	GO_0007009	1	1	1	0	0
 plasma membrane lactate transport	GO_0035879	1	1	1	0	0
 plasma membrane fusion involved in cytogamy	GO_0032220	1	1	1	0	0
 plasma membrane fusion	GO_0045026	1	1	1	0	0
+plasma membrane electron transport, NADH to quinone	GO_0030965	1	1	1	0	0
 plasma membrane copper ion transport	GO_0015679	1	1	1	0	0
 plasma membrane acetate transport	GO_0006847	1	1	1	0	0
+plasma membrane ATP synthesis coupled proton transport	GO_0042777	1	1	1	0	0
+plasma membrane ATP synthesis coupled electron transport	GO_0042774	1	1	1	0	0
 plasma membrane respiratory chain complex IV assembly	GO_0033618	1	0	1	0	0
 plasma membrane proton-transporting ATP synthase complex assembly	GO_0033616	1	0	1	0	0
-plasma membrane electron transport, NADH to quinone	GO_0030965	1	0	1	0	0
-plasma membrane ATP synthesis coupled proton transport	GO_0042777	1	0	1	0	0
-plasma membrane ATP synthesis coupled electron transport	GO_0042774	1	0	1	0	0
 vesicle targeting, plasma membrane to endosome	GO_0048201	0	1	1	0	0
 uracil import across plasma membrane	GO_0098721	0	1	1	0	0
 syncytium formation by plasma membrane fusion	GO_0000768	0	1	1	0	0

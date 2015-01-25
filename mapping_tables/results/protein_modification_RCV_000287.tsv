@@ -642,6 +642,7 @@ histone H3-K9 modification	GO_0061647	0	1	1	0	0
 histone H3-K9 methylation	GO_0051567	0	1	1	0	0
 histone H3-K9 dimethylation	GO_0036123	0	1	1	0	0
 histone H3-K9 demethylation	GO_0033169	0	1	1	0	0
+histone H3-K9 deacetylation	GO_1990619	0	1	0	0	0
 histone H3-K9 acetylation	GO_0043970	0	1	1	0	0
 histone H3-K79 methylation	GO_0034729	0	1	1	0	0
 histone H3-K79 acetylation	GO_0043976	0	1	1	0	0

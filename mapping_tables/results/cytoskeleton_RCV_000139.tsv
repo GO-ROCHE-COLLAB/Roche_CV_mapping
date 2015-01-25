@@ -334,8 +334,8 @@ mitotic spindle astral microtubule	GO_0061673	0	1	0	0	0
 mitotic spindle assembly	GO_0090307	0	1	0	0	0
 mitotic spindle	GO_0072686	0	1	0	0	0
 mitotic septin complex	GO_0032151	0	1	0	0	0
-mitotic ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
-mitotic ring actin filament bundle assembly	GO_1903477	0	1	0	0	0
+mitotic ring contractile actin filament bundle assembly	GO_1903477	0	1	0	0	0
+mitotic contractile ring assembly actin filament bundle convergence	GO_1903478	0	1	0	0	0
 mitotic chromosome movement towards spindle pole	GO_0007079	0	1	0	0	0
 mitotic centrosome separation	GO_0007100	0	1	0	0	0
 mitotic actomyosin contractile ring localization	GO_1902405	0	1	0	0	0

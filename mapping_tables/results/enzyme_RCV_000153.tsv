@@ -124,6 +124,12 @@ ubiquitinyl hydrolase activity	GO_0036459	0	1	0	0	0
 ubiquitin-ubiquitin ligase activity	GO_0034450	0	1	0	0	0
 ubiquitin-specific protease activity	GO_0004843	0	1	0	0	0
 ubiquitin-protein transferase activity	GO_0004842	0	1	0	0	0
+ubiquitin-like protein-specific protease activity	GO_0019783	0	1	0	0	0
+ubiquitin-like protein-specific isopeptidase activity	GO_0070138	0	1	0	0	0
+ubiquitin-like protein-specific endopeptidase activity	GO_0070137	0	1	0	0	0
+ubiquitin-like protein transferase activity	GO_0019787	0	1	0	0	0
+ubiquitin-like protein ligase activity	GO_0061659	0	1	0	0	0
+ubiquitin-like protein conjugating enzyme activity	GO_0061650	0	1	0	0	0
 ubiquitin-calmodulin ligase activity	GO_0050372	0	1	0	0	0
 ubiquitin protein ligase activity	GO_0061630	0	1	0	0	0
 ubiquitin conjugating enzyme activity	GO_0061631	0	1	0	0	0
@@ -625,12 +631,6 @@ sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity	GO_0052590	0	1	0	0	0
 sn-glycerol-3-phosphate 2-alpha-galactosyltransferase activity	GO_0047221	0	1	0	0	0
 sn-glycerol-3-phosphate 1-galactosyltransferase activity	GO_0047279	0	1	0	0	0
 small protein activating enzyme activity	GO_0008641	0	1	0	0	0
-small conjugating protein-specific protease activity	GO_0019783	0	1	0	0	0
-small conjugating protein-specific isopeptidase activity	GO_0070138	0	1	0	0	0
-small conjugating protein-specific endopeptidase activity	GO_0070137	0	1	0	0	0
-small conjugating protein transferase activity	GO_0019787	0	1	0	0	0
-small conjugating protein ligase activity	GO_0061659	0	1	0	0	0
-small conjugating protein conjugating enzyme activity	GO_0061650	0	1	0	0	0
 small RNA 2'-O-methyltransferase	GO_0090486	0	1	0	0	0
 site-specific telomere resolvase activity	GO_0043336	0	1	0	0	0
 site-specific recombinase activity	GO_0009009	0	1	0	0	0

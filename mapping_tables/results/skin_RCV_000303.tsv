@@ -1,13 +1,58 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-nipple sheath formation	GO_0060659	1	1	1	0	0
-skin morphogenesis	GO_0043589	1	0	1	0	0
-skin development	GO_0043588	1	0	1	0	0
+skin morphogenesis	GO_0043589	1	1	1	0	0
+skin development	GO_0043588	1	1	1	0	0
+establishment of skin barrier	GO_0061436	1	1	1	0	0
 regulation of water loss via skin	GO_0033561	1	0	1	0	0
+nipple sheath formation	GO_0060659	1	0	1	0	0
 nipple morphogenesis	GO_0060658	1	0	1	0	0
 nipple development	GO_0060618	1	0	1	0	0
-establishment of skin barrier	GO_0061436	1	0	1	0	0
+tarsal gland development	GO_1903699	0	1	0	0	0
 skin epidermis development	GO_0098773	0	1	0	0	0
+sebaceous gland placode formation	GO_0060791	0	1	0	0	0
+sebaceous gland development	GO_0048733	0	1	0	0	0
+sebaceous gland cell differentiation	GO_0001949	0	1	0	0	0
+regulation of keratinocyte differentiation	GO_0045616	0	1	0	0	0
+regulation of hair follicle placode formation	GO_0061168	0	1	0	0	0
+regulation of hair follicle maturation	GO_0048819	0	1	0	0	0
+regulation of hair follicle development	GO_0051797	0	1	0	0	0
+regulation of exogen	GO_0051887	0	1	0	0	0
+regulation of catagen	GO_0051794	0	1	0	0	0
+regulation of anagen	GO_0051884	0	1	0	0	0
+positive regulation of keratinocyte differentiation	GO_0045618	0	1	0	0	0
+positive regulation of hair placode formation	GO_0061169	0	1	0	0	0
+positive regulation of hair follicle maturation	GO_0048818	0	1	0	0	0
+positive regulation of hair follicle development	GO_0051798	0	1	0	0	0
+positive regulation of exogen	GO_0051888	0	1	0	0	0
+positive regulation of catagen	GO_0051795	0	1	0	0	0
+positive regulation of anagen	GO_0051885	0	1	0	0	0
+negative regulation of keratinocyte differentiation	GO_0045617	0	1	0	0	0
+negative regulation of hair follicle placode formation	GO_0061170	0	1	0	0	0
+negative regulation of hair follicle maturation	GO_0048817	0	1	0	0	0
+negative regulation of hair follicle development	GO_0051799	0	1	0	0	0
+negative regulation of exogen	GO_0051889	0	1	0	0	0
+negative regulation of catagen	GO_0051796	0	1	0	0	0
+negative regulation of anagen	GO_0051886	0	1	0	0	0
+limb spinous cell fate specification	GO_0060894	0	1	0	0	0
+limb spinous cell differentiation	GO_0060890	0	1	0	0	0
+limb granular cell fate specification	GO_0060893	0	1	0	0	0
+limb granular cell differentiation	GO_0060891	0	1	0	0	0
 limb epidermis stratification	GO_0060888	0	1	0	0	0
 limb epidermis development	GO_0060887	0	1	0	0	0
+limb basal epidermal cell fate specification	GO_0060892	0	1	0	0	0
+limb basal epidermal cell differentiation	GO_0060889	0	1	0	0	0
+keratinocyte differentiation	GO_0030216	0	1	0	0	0
+keratinocyte development	GO_0003334	0	1	0	0	0
+keratinization	GO_0031424	0	1	0	0	0
+hair follicle placode formation	GO_0060789	0	1	0	0	0
+hair follicle morphogenesis	GO_0031069	0	1	0	0	0
+hair follicle maturation	GO_0048820	0	1	0	0	0
+hair follicle development	GO_0001942	0	1	0	0	0
+exogen	GO_0042638	0	1	0	0	0
 epidermis morphogenesis involved in nipple formation	GO_0060660	0	1	0	0	0
 epidermis morphogenesis	GO_0048730	0	1	0	0	0
+cornification	GO_0070268	0	1	0	0	0
+corneocyte development	GO_0003335	0	1	0	0	0
+corneocyte desquamation	GO_0003336	0	1	0	0	0
+catagen	GO_0042637	0	1	0	0	0
+anagen	GO_0042640	0	1	0	0	0
+acinar cell of sebaceous gland differentiation	GO_1903680	0	1	0	0	0

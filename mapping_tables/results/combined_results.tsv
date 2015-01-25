@@ -1791,6 +1791,7 @@ RCV_000039	TCA metabolism	GO_0072350	tricarboxylic acid metabolic process
 RCV_000039	TCA metabolism	GO_0035674	tricarboxylic acid transmembrane transport
 RCV_000039	TCA metabolism	GO_0006842	tricarboxylic acid transport
 RCV_000040	TGF beta pathway	GO_0071560	cellular response to transforming growth factor beta stimulus
+RCV_000040	TGF beta pathway	GO_1903845	negative regulation of cellular response to transforming growth factor beta stimulus
 RCV_000040	TGF beta pathway	GO_0071635	negative regulation of transforming growth factor beta production
 RCV_000040	TGF beta pathway	GO_0030512	negative regulation of transforming growth factor beta receptor signaling pathway
 RCV_000040	TGF beta pathway	GO_0090012	negative regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation
@@ -1798,11 +1799,13 @@ RCV_000040	TGF beta pathway	GO_0032911	negative regulation of transforming growt
 RCV_000040	TGF beta pathway	GO_0032912	negative regulation of transforming growth factor beta2 production
 RCV_000040	TGF beta pathway	GO_0032913	negative regulation of transforming growth factor beta3 production
 RCV_000040	TGF beta pathway	GO_0060801	negative regulation of trophoblast cell differentiation by transforming growth factor beta signaling pathway
+RCV_000040	TGF beta pathway	GO_1903846	positive regulation of cellular response to transforming growth factor beta stimulus
 RCV_000040	TGF beta pathway	GO_0071636	positive regulation of transforming growth factor beta production
 RCV_000040	TGF beta pathway	GO_0030511	positive regulation of transforming growth factor beta receptor signaling pathway
 RCV_000040	TGF beta pathway	GO_0032914	positive regulation of transforming growth factor beta1 production
 RCV_000040	TGF beta pathway	GO_0032915	positive regulation of transforming growth factor beta2 production
 RCV_000040	TGF beta pathway	GO_0032916	positive regulation of transforming growth factor beta3 production
+RCV_000040	TGF beta pathway	GO_1903844	regulation of cellular response to transforming growth factor beta stimulus
 RCV_000040	TGF beta pathway	GO_0071634	regulation of transforming growth factor beta production
 RCV_000040	TGF beta pathway	GO_0017015	regulation of transforming growth factor beta receptor signaling pathway
 RCV_000040	TGF beta pathway	GO_0090013	regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation
@@ -3005,6 +3008,9 @@ RCV_000065	aorta development	GO_0035906	descending aorta development
 RCV_000065	aorta development	GO_0035911	descending aorta morphogenesis
 RCV_000065	aorta development	GO_0035907	dorsal aorta development
 RCV_000065	aorta development	GO_0035912	dorsal aorta morphogenesis
+RCV_000065	aorta development	GO_1903848	negative regulation of aorta morphogenesis
+RCV_000065	aorta development	GO_1903849	positive regulation of aorta morphogenesis
+RCV_000065	aorta development	GO_1903847	regulation of aorta morphogenesis
 RCV_000065	aorta development	GO_0035908	ventral aorta development
 RCV_000065	aorta development	GO_0035913	ventral aorta morphogenesis
 RCV_000070	arginine metabolism	GO_0033055	D-arginine metabolic process
@@ -3040,9 +3046,12 @@ RCV_000071	artery	GO_0035911	descending aorta morphogenesis
 RCV_000071	artery	GO_0035907	dorsal aorta development
 RCV_000071	artery	GO_0035912	dorsal aorta morphogenesis
 RCV_000071	artery	GO_0097070	ductus arteriosus closure
+RCV_000071	artery	GO_1903848	negative regulation of aorta morphogenesis
 RCV_000071	artery	GO_0061626	pharyngeal arch artery morphogenesis
+RCV_000071	artery	GO_1903849	positive regulation of aorta morphogenesis
 RCV_000071	artery	GO_0061155	pulmonary artery endothelial tube morphogenesis
 RCV_000071	artery	GO_0061156	pulmonary artery morphogenesis
+RCV_000071	artery	GO_1903847	regulation of aorta morphogenesis
 RCV_000071	artery	GO_0061441	renal artery morphogenesis
 RCV_000071	artery	GO_0035908	ventral aorta development
 RCV_000071	artery	GO_0035913	ventral aorta morphogenesis
@@ -9247,6 +9256,8 @@ RCV_000175	glucose homeostasis	GO_0046015	regulation of transcription by glucose
 RCV_000175	glucose homeostasis	GO_0000430	regulation of transcription from RNA polymerase II promoter by glucose
 RCV_000175	glucose homeostasis	GO_0035623	renal glucose absorption
 RCV_000176	glucose metabolism	GO_0061679	Entner-Doudoroff pathway through glucopyranose
+RCV_000176	glucose metabolism	GO_0061680	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde
+RCV_000176	glucose metabolism	GO_0061681	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde-3-phosphate
 RCV_000176	glucose metabolism	GO_0010397	apiogalacturonan metabolic process
 RCV_000176	glucose metabolism	GO_0061621	canonical glycolysis
 RCV_000176	glucose metabolism	GO_0043458	ethanol biosynthetic process involved in glucose fermentation to ethanol
@@ -10093,6 +10104,7 @@ RCV_000191	histone dynamics	GO_0071572	histone H3-K56 deacetylation
 RCV_000191	histone dynamics	GO_0043976	histone H3-K79 acetylation
 RCV_000191	histone dynamics	GO_0034729	histone H3-K79 methylation
 RCV_000191	histone dynamics	GO_0043970	histone H3-K9 acetylation
+RCV_000191	histone dynamics	GO_1990619	histone H3-K9 deacetylation
 RCV_000191	histone dynamics	GO_0033169	histone H3-K9 demethylation
 RCV_000191	histone dynamics	GO_0036123	histone H3-K9 dimethylation
 RCV_000191	histone dynamics	GO_0051567	histone H3-K9 methylation
@@ -21015,6 +21027,8 @@ RCV_000319	sugar metabolism	GO_0042732	D-xylose metabolic process
 RCV_000319	sugar metabolism	GO_0061678	Entner-Doudoroff pathway
 RCV_000319	sugar metabolism	GO_0009255	Entner-Doudoroff pathway through 6-phosphogluconate
 RCV_000319	sugar metabolism	GO_0061679	Entner-Doudoroff pathway through glucopyranose
+RCV_000319	sugar metabolism	GO_0061680	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde
+RCV_000319	sugar metabolism	GO_0061681	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde-3-phosphate
 RCV_000319	sugar metabolism	GO_0052645	F420-0 metabolic process
 RCV_000319	sugar metabolism	GO_0009248	K antigen biosynthetic process
 RCV_000319	sugar metabolism	GO_0046375	K antigen metabolic process
@@ -22338,6 +22352,7 @@ RCV_000349	vessel development	GO_0072239	metanephric glomerulus vasculature deve
 RCV_000349	vessel development	GO_0072276	metanephric glomerulus vasculature morphogenesis
 RCV_000349	vessel development	GO_0072263	metanephric intraglomerular mesangial cell proliferation
 RCV_000349	vessel development	GO_0016525	negative regulation of angiogenesis
+RCV_000349	vessel development	GO_1903848	negative regulation of aorta morphogenesis
 RCV_000349	vessel development	GO_1903588	negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000349	vessel development	GO_2000181	negative regulation of blood vessel morphogenesis
 RCV_000349	vessel development	GO_2000723	negative regulation of cardiac vascular smooth muscle cell differentiation
@@ -22354,6 +22369,7 @@ RCV_000349	vessel development	GO_0001569	patterning of blood vessels
 RCV_000349	vessel development	GO_0061626	pharyngeal arch artery morphogenesis
 RCV_000349	vessel development	GO_0060674	placenta blood vessel development
 RCV_000349	vessel development	GO_0045766	positive regulation of angiogenesis
+RCV_000349	vessel development	GO_1903849	positive regulation of aorta morphogenesis
 RCV_000349	vessel development	GO_1903589	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000349	vessel development	GO_2000724	positive regulation of cardiac vascular smooth muscle cell differentiation
 RCV_000349	vessel development	GO_0090050	positive regulation of cell migration involved in sprouting angiogenesis
@@ -22370,6 +22386,7 @@ RCV_000349	vessel development	GO_0003350	pulmonary myocardium development
 RCV_000349	vessel development	GO_0060577	pulmonary vein morphogenesis
 RCV_000349	vessel development	GO_0035477	regulation of angioblast cell migration involved in selective angioblast sprouting
 RCV_000349	vessel development	GO_0045765	regulation of angiogenesis
+RCV_000349	vessel development	GO_1903847	regulation of aorta morphogenesis
 RCV_000349	vessel development	GO_1903587	regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
 RCV_000349	vessel development	GO_2000722	regulation of cardiac vascular smooth muscle cell differentiation
 RCV_000349	vessel development	GO_0002045	regulation of cell adhesion involved in intussusceptive angiogenesis
@@ -22587,4 +22604,4 @@ RCV_000364	caspase activity	GO_0097153	cysteine-type endopeptidase activity invo
 RCV_000364	caspase activity	GO_0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway
 RCV_000364	caspase activity	GO_0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis
 RCV_000364	caspase activity	GO_0097299	cysteine-type endopeptidase activity involved in plant-type hypersensitive response
-RCV_000364	caspase activity	GO_0070137	small conjugating protein-specific endopeptidase activity
+RCV_000364	caspase activity	GO_0070137	ubiquitin-like protein-specific endopeptidase activity

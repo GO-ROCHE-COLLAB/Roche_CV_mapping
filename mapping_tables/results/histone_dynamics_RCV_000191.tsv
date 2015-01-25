@@ -272,6 +272,7 @@ histone acetyltransferase activity	GO_0004402	0	1	1	0	0
 histone H4 acetylation involved in response to DNA damage stimulus	GO_2000776	0	1	1	0	0
 histone H3-R26 citrullination	GO_0036413	0	1	1	0	0
 histone H3-K9 modification	GO_0061647	0	1	1	0	0
+histone H3-K9 deacetylation	GO_1990619	0	1	0	0	0
 histone H3-K56 acetylation in response to DNA damage	GO_0097044	0	1	1	0	0
 histone H3-K4 deacetylation	GO_1990596	0	1	0	0	0
 histone H3-K36 dimethylation	GO_0097676	0	1	1	0	0

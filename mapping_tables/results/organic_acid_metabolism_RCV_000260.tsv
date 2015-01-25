@@ -967,6 +967,8 @@ L(+)-lactate biosynthetic process from pyruvate	GO_0019246	0	1	1	0	0
 Kdo2-lipid A metabolic process	GO_0036103	0	1	1	0	0
 Kdo2-lipid A biosynthetic process	GO_0036104	0	1	1	0	0
 F420-0 metabolic process	GO_0052645	0	1	1	0	0
+Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde-3-phosphate	GO_0061681	0	1	0	0	0
+Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde	GO_0061680	0	1	0	0	0
 Entner-Doudoroff pathway through glucopyranose	GO_0061679	0	1	0	0	0
 Entner-Doudoroff pathway through 6-phosphogluconate	GO_0009255	0	1	0	0	0
 Entner-Doudoroff pathway	GO_0061678	0	1	0	0	0
