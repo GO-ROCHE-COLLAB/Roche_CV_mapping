@@ -14,12 +14,12 @@ ureteric bud formation	GO_0060676	1	0	1	0	0
 ureteric bud elongation	GO_0060677	1	0	1	0	0
 ureteric bud development	GO_0001657	1	0	1	0	0
 ureter smooth muscle contraction	GO_0014849	1	0	1	0	0
-ureter development	GO_0072189	0	1	0	0	0
-regulation of ureter smooth muscle cell differentiation	GO_2000061	0	1	0	0	0
-regulation of mesenchymal cell proliferation involved in ureter development	GO_0072199	0	1	0	0	0
-positive regulation of ureter smooth muscle cell differentiation	GO_2000063	0	1	0	0	0
-positive regulation of mesenchymal cell proliferation involved in ureter development	GO_2000729	0	1	0	0	0
-negative regulation of ureter smooth muscle cell differentiation	GO_2000062	0	1	0	0	0
-negative regulation of mesenchymal cell proliferation involved in ureter development	GO_0072200	0	1	0	0	0
-mesenchymal cell proliferation involved in ureter development	GO_0072198	0	1	0	0	0
-BMP signaling pathway involved in ureter morphogenesis	GO_0061149	0	1	0	0	0
+ureter development	GO_0072189	0	1	1	0	0
+regulation of ureter smooth muscle cell differentiation	GO_2000061	0	1	1	0	0
+regulation of mesenchymal cell proliferation involved in ureter development	GO_0072199	0	1	1	0	0
+positive regulation of ureter smooth muscle cell differentiation	GO_2000063	0	1	1	0	0
+positive regulation of mesenchymal cell proliferation involved in ureter development	GO_2000729	0	1	1	0	0
+negative regulation of ureter smooth muscle cell differentiation	GO_2000062	0	1	1	0	0
+negative regulation of mesenchymal cell proliferation involved in ureter development	GO_0072200	0	1	1	0	0
+mesenchymal cell proliferation involved in ureter development	GO_0072198	0	1	1	0	0
+BMP signaling pathway involved in ureter morphogenesis	GO_0061149	0	1	1	0	0
