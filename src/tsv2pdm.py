@@ -13,23 +13,43 @@ class tab(object):
     def __str__(self):
         return "file: %s; type = simple table; length: %d" % (self.file_name, len(self.tab)-1)
     
-    def __init__(self, path = '', file_name = '', key_column = ''):
+    def __init__(self, path = '', file_name = '', key_column = '', headers = []):
         """Read in file. 
-        First arg is path to file, minus file name (not stored in object)
-        Second arg is file name.
-        Third arg is a key column.
+        First arg, path, is path to file, minus file name (not stored in object)
+        Second arg , file_name, is file name.
+        Third arg, key_column, is a key column to be used for rolling rowColDict.
         All args are optional, entering no args produces a blank object 
-        and throws an non-fatal warning"""
+        and throws an non-fatal warning. The preferred way of creating an empty table is to specify
+        headers or headers + key_column in the constructor."""
         self.file_name = file_name
         self.key_column = key_column
         self.tab = [] # list of dicts, keyed on column.
         self.rowColDict = {} #  dict of dicts - [row][column]
-        self.headers = [] # declare headers as a list
-        if path and file_name:
-            self.parse_tsv(path, file_name)  # 
-        else:
-            warnings.warn("Creating blank tab object")            
 
+        if path and file_name:
+            if headers:
+                warnings.warn("Ignoring specified headers in favor of those in table.")
+            self.headers = []
+            self.parse_tsv(path, file_name)  # 
+        elif headers:
+            self.headers = headers
+        else:
+            warnings.warn("Warning: Creating blank tab object")
+    
+    def validate(self):
+        for row in self.tab:
+            if not self.validate_row(row):
+                return False
+            
+    def validate_row(self, row):
+        for k in row.keys():
+            if k not in self.headers:
+                warnings.warn("Unknown column header %s. Valid headers are %s." % (k, str(self.headers)))
+                return False
+            else:
+                return True
+        
+                        
     def _parse_tsv(self, path, file_name):
         tsv_file = open(path + file_name, "r")
         hstat = 0
@@ -99,7 +119,7 @@ class rcd(tab):
        
     def __str__(self):
         return "file: %s; type: row column dict; key_column: %s; length: %d" % (self.file_name, self.key_column, len(self.rowColDict.keys())-1)
-    
+        
     def parse_tsv(self, path, file_name):
         """Parses tsv file into self.rowColumnDict"""
         self._parse_tsv(path, file_name)
