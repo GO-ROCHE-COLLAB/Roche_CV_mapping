@@ -12,7 +12,7 @@ suppression by virus of host STAT1 activity by positive regulation of STAT1 cata
 suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	1	0	0
 suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	0	1	1	0	0
 suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	0	1	1	0	0
-spermatoproteasome complex	GO_1990111	0	1	0	0	0
+spermatoproteasome complex	GO_1990111	0	1	1	0	0
 ribosome-associated ubiquitin-dependent protein catabolic process	GO_1990116	0	1	1	0	0
 rhodopsin catabolic process	GO_0046155	0	1	1	0	0
 regulation of transcription factor catabolic process	GO_1901483	0	1	1	0	0
@@ -53,13 +53,13 @@ protein catabolic process by pepsin	GO_0044251	0	1	1	0	0
 protein catabolic process	GO_0030163	0	1	1	0	0
 protein arginylation	GO_0016598	0	1	1	0	0
 proteasome-mediated ubiquitin-dependent protein catabolic process	GO_0043161	0	1	1	0	0
-proteasome storage granule	GO_0034515	0	1	0	0	0
+proteasome storage granule	GO_0034515	0	1	1	0	0
 proteasomal ubiquitin-independent protein catabolic process	GO_0010499	0	1	1	0	0
 proteasomal proteolysis associated with antigen processing and presentation	GO_0002497	0	1	1	0	0
 proteasomal protein catabolic process	GO_0010498	0	1	1	0	0
 prosthetic group catabolic process	GO_0051190	0	1	1	0	0
 prenylated protein catabolic process	GO_0030327	0	1	1	0	0
-positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	GO_0051437	0	1	0	0	0
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	GO_0051437	0	1	1	0	0
 positive regulation of transcription factor catabolic process	GO_1901485	0	1	1	0	0
 positive regulation of proteolysis involved in cellular protein catabolic process	GO_1903052	0	1	1	0	0
 positive regulation of proteolysis associated with antigen processing and presentation	GO_0002630	0	1	1	0	0
@@ -78,7 +78,7 @@ positive regulation of SREBP signaling pathway by negative regulation of transcr
 positive regulation of ER-associated ubiquitin-dependent protein catabolic process	GO_1903071	0	1	1	0	0
 oxidation-dependent protein catabolic process	GO_0070407	0	1	1	0	0
 nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071630	0	1	1	0	0
-nuclear proteasome complex	GO_0031595	0	1	0	0	0
+nuclear proteasome complex	GO_0031595	0	1	1	0	0
 negative regulation of transcription factor catabolic process	GO_1901484	0	1	1	0	0
 negative regulation of transcription by transcription factor catabolism	GO_0010620	0	1	1	0	0
 negative regulation of proteolysis involved in cellular protein catabolic process	GO_1903051	0	1	1	0	0
@@ -100,8 +100,8 @@ negative regulation of ER-associated ubiquitin-dependent protein catabolic proce
 negative regulation of APC-Cdc20 complex activity	GO_0060564	0	1	1	0	0
 multicellular organismal protein catabolic process	GO_0044254	0	1	1	0	0
 modification-dependent protein catabolic process	GO_0019941	0	1	1	0	0
-mitotic spindle orientation checkpoint	GO_0031578	0	1	0	0	0
-mitotic spindle checkpoint	GO_0071174	0	1	0	0	0
+mitotic spindle orientation checkpoint	GO_0031578	0	1	1	0	0
+mitotic spindle checkpoint	GO_0071174	0	1	1	0	0
 mitotic spindle assembly checkpoint	GO_0007094	0	1	1	0	0
 mitochondrial protein catabolic process	GO_0035694	0	1	1	0	0
 mitochondria-associated ubiquitin-dependent protein catabolic process	GO_0072671	0	1	1	0	0
@@ -119,7 +119,7 @@ hemoglobin catabolic process	GO_0042540	0	1	1	0	0
 glycoprotein catabolic process	GO_0006516	0	1	1	0	0
 epidermal growth factor catabolic process	GO_0007174	0	1	1	0	0
 elastin catabolic process	GO_0060309	0	1	1	0	0
-cytosolic proteasome complex	GO_0031597	0	1	0	0	0
+cytosolic proteasome complex	GO_0031597	0	1	1	0	0
 cytoplasm-associated proteasomal ubiquitin-dependent protein catabolic process	GO_0071629	0	1	1	0	0
 cellular protein catabolic process	GO_0044257	0	1	1	0	0
 catabolism by symbiont of host protein	GO_0052014	0	1	1	0	0
@@ -134,9 +134,9 @@ SMT3-dependent protein catabolic process	GO_0019950	0	1	1	0	0
 SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	GO_0031146	0	1	1	0	0
 PSII associated light-harvesting complex II catabolic process	GO_0010304	0	1	1	0	0
 O-sialoglycoprotein catabolic process	GO_0045173	0	1	1	0	0
-HslUV protease complex	GO_0009376	0	1	0	0	0
+HslUV protease complex	GO_0009376	0	1	1	0	0
 ER-associated ubiquitin-dependent protein catabolic process	GO_0030433	0	1	1	0	0
 ER-associated misfolded protein catabolic process	GO_0071712	0	1	1	0	0
-ER proteasome complex	GO_0031596	0	1	0	0	0
-Dma1-dependent checkpoint	GO_0044810	0	1	0	0	0
-CUE1-UBC7 ubiquitin-conjugating enzyme complex	GO_1990389	0	1	0	0	0
+ER proteasome complex	GO_0031596	0	1	1	0	0
+Dma1-dependent checkpoint	GO_0044810	0	1	1	0	0
+CUE1-UBC7 ubiquitin-conjugating enzyme complex	GO_1990389	0	1	1	0	0
