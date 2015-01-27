@@ -66,10 +66,10 @@ granulocyte macrophage colony-stimulating factor production	GO_0032604	1	0	1	0	0
 granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0042253	1	0	1	0	0
 cellular response to macrophage colony-stimulating factor stimulus	GO_0036006	1	0	1	0	0
 cellular response to granulocyte macrophage colony-stimulating factor stimulus	GO_0097011	1	0	1	0	0
-telencephalon microglial cell migration	GO_0022033	0	1	0	0	0
-microglial cell activation involved in immune response	GO_0002282	0	1	0	0	0
-microglial cell activation	GO_0001774	0	1	0	0	0
-microglia differentiation	GO_0014004	0	1	0	0	0
-microglia development	GO_0014005	0	1	0	0	0
-macrophage homeostasis	GO_0061519	0	1	0	0	0
-macrophage activation involved in immune response	GO_0002281	0	1	0	0	0
+telencephalon microglial cell migration	GO_0022033	0	1	1	1	0
+microglial cell activation involved in immune response	GO_0002282	0	1	1	1	0
+microglial cell activation	GO_0001774	0	1	1	1	0
+microglia differentiation	GO_0014004	0	1	1	1	0
+microglia development	GO_0014005	0	1	1	1	0
+macrophage homeostasis	GO_0061519	0	1	1	0	0
+macrophage activation involved in immune response	GO_0002281	0	1	1	0	0
