@@ -20,12 +20,12 @@ AMP salvage	GO_0044209	1	0	1	0	0
 AMP metabolic process	GO_0046033	1	0	1	0	0
 AMP catabolic process	GO_0006196	1	0	1	0	0
 AMP biosynthetic process	GO_0006167	1	0	1	0	0
-plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	0	0	0
-plasma membrane ATP synthesis coupled electron transport	GO_0042774	0	1	0	0	0
-photosynthetic phosphorylation	GO_0009777	0	1	0	0	0
-oxidative phosphorylation	GO_0006119	0	1	0	0	0
-noncyclic photosynthetic phosphorylation	GO_0009779	0	1	0	0	0
-mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	0	0	0
-mitochondrial ATP synthesis coupled electron transport	GO_0042775	0	1	0	0	0
-cyclic photosynthetic phosphorylation	GO_0009778	0	1	0	0	0
-ADP phosphorylation	GO_0006757	0	1	0	0	0
+plasma membrane ATP synthesis coupled proton transport	GO_0042777	0	1	1	0	0
+plasma membrane ATP synthesis coupled electron transport	GO_0042774	0	1	1	0	0
+photosynthetic phosphorylation	GO_0009777	0	1	1	0	0
+oxidative phosphorylation	GO_0006119	0	1	1	0	0
+noncyclic photosynthetic phosphorylation	GO_0009779	0	1	1	0	0
+mitochondrial ATP synthesis coupled proton transport	GO_0042776	0	1	1	0	0
+mitochondrial ATP synthesis coupled electron transport	GO_0042775	0	1	1	0	0
+cyclic photosynthetic phosphorylation	GO_0009778	0	1	1	0	0
+ADP phosphorylation	GO_0006757	0	1	1	0	0
