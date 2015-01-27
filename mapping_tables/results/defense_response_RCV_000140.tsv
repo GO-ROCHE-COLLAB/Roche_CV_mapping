@@ -8,681 +8,681 @@ regulation of defense response to fungus	GO_1900150	1	1	1	0	0
 regulation of defense response to bacterium	GO_1900424	1	1	1	0	0
 regulation of defense response by callose deposition	GO_2000071	1	1	1	0	0
 regulation of defense response	GO_0031347	1	1	1	0	0
-wound healing involved in inflammatory response	GO_0002246	0	1	0	0	0
-virus induced gene silencing	GO_0009616	0	1	0	0	0
-viral-induced premature senescence	GO_0090401	0	1	0	0	0
-viral triggering of virus induced gene silencing	GO_0060150	0	1	0	0	0
-viral mRNA cap methylation	GO_0039699	0	1	0	0	0
-viral gene silencing in virus induced gene silencing	GO_0060145	0	1	0	0	0
-vasodilation involved in acute inflammatory response	GO_0002527	0	1	0	0	0
-type IV hypersensitivity	GO_0001806	0	1	0	0	0
-type IIb hypersensitivity	GO_0001795	0	1	0	0	0
-type IIa hypersensitivity	GO_0001794	0	1	0	0	0
-type III interferon signaling pathway	GO_0038196	0	1	0	0	0
-type III interferon receptor activity	GO_0034348	0	1	0	0	0
-type III hypersensitivity	GO_0001802	0	1	0	0	0
-type II hypersensitivity	GO_0002445	0	1	0	0	0
-type I interferon signaling pathway	GO_0060337	0	1	0	0	0
-type I interferon receptor activity	GO_0004905	0	1	0	0	0
-type I hypersensitivity mediated by mast cells	GO_0002558	0	1	0	0	0
-type I hypersensitivity mediated by basophils	GO_0002559	0	1	0	0	0
-type I hypersensitivity	GO_0016068	0	1	0	0	0
-toll-like receptor signaling pathway	GO_0002224	0	1	0	0	0
-toll-like receptor TLR6:TLR2 signaling pathway	GO_0038124	0	1	0	0	0
-toll-like receptor TLR1:TLR2 signaling pathway	GO_0038123	0	1	0	0	0
-toll-like receptor 9 signaling pathway	GO_0034162	0	1	0	0	0
-toll-like receptor 8 signaling pathway	GO_0034158	0	1	0	0	0
-toll-like receptor 7 signaling pathway	GO_0034154	0	1	0	0	0
-toll-like receptor 6 signaling pathway	GO_0034150	0	1	0	0	0
-toll-like receptor 5 signaling pathway	GO_0034146	0	1	0	0	0
-toll-like receptor 4 signaling pathway	GO_0034142	0	1	0	0	0
-toll-like receptor 3 signaling pathway	GO_0034138	0	1	0	0	0
-toll-like receptor 21 signaling pathway	GO_0035682	0	1	0	0	0
-toll-like receptor 2 signaling pathway	GO_0034134	0	1	0	0	0
-toll-like receptor 15 signaling pathway	GO_0035681	0	1	0	0	0
-toll-like receptor 13 signaling pathway	GO_0034178	0	1	0	0	0
-toll-like receptor 12 signaling pathway	GO_0034174	0	1	0	0	0
-toll-like receptor 11 signaling pathway	GO_0034170	0	1	0	0	0
-toll-like receptor 10 signaling pathway	GO_0034166	0	1	0	0	0
-toll-like receptor 1 signaling pathway	GO_0034130	0	1	0	0	0
-tissue kallikrein-kinin cascade	GO_0002255	0	1	0	0	0
-systemic acquired resistance, salicylic acid mediated signaling pathway	GO_0009862	0	1	0	0	0
-systemic acquired resistance	GO_0009627	0	1	0	0	0
-susceptibility to natural killer cell mediated cytotoxicity	GO_0042271	0	1	0	0	0
-suppression of defense response of other organism involved in symbiotic interaction	GO_0052261	0	1	0	0	0
-suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039537	0	1	0	0	0
-suppression by virus of host type I interferon-mediated signaling pathway	GO_0039502	0	1	0	0	0
-suppression by virus of host type I interferon production	GO_0039501	0	1	0	0	0
-suppression by virus of host toll-like receptor signaling pathway	GO_0039722	0	1	0	0	0
-suppression by virus of host tapasin activity	GO_0039591	0	1	0	0	0
-suppression by virus of host natural killer cell activation	GO_0039672	0	1	0	0	0
-suppression by virus of host intracellular interferon activity	GO_0046774	0	1	0	0	0
-suppression by virus of host innate immune response	GO_0039503	0	1	0	0	0
-suppression by virus of host cytokine production	GO_0046775	0	1	0	0	0
-suppression by virus of host complement activation	GO_0039573	0	1	0	0	0
-suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	GO_0039505	0	1	0	0	0
-suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	GO_0046776	0	1	0	0	0
-suppression by virus of host antigen processing and presentation	GO_0039588	0	1	0	0	0
-suppression by virus of host adaptive immune response	GO_0039504	0	1	0	0	0
-suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	0	1	0	0	0
-suppression by virus of host TYK2 activity	GO_0039574	0	1	0	0	0
-suppression by virus of host TBK1 activity	GO_0039723	0	1	0	0	0
-suppression by virus of host TAP complex	GO_0039589	0	1	0	0	0
-suppression by virus of host RIG-I via RIG-I binding	GO_0039541	0	1	0	0	0
-suppression by virus of host RIG-I signaling pathway	GO_0039538	0	1	0	0	0
-suppression by virus of host RIG-I activity by viral RNA 5' processing	GO_0039543	0	1	0	0	0
-suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	0	1	0	0	0
-suppression by virus of host RIG-I activity	GO_0039540	0	1	0	0	0
-suppression by virus of host RIG-I K63-linked ubiquitination	GO_0039542	0	1	0	0	0
-suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	0	1	0	0	0
-suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	0	1	0	0	0
-suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	0	0	0
-suppression by virus of host PKR activity	GO_0039580	0	1	0	0	0
-suppression by virus of host MDA-5 signaling pathway	GO_0039539	0	1	0	0	0
-suppression by virus of host MDA-5 activity via MDA-5 binding	GO_0039555	0	1	0	0	0
-suppression by virus of host MDA-5 activity	GO_0039554	0	1	0	0	0
-suppression by virus of host MAVS activity by MAVS proteolysis	GO_0039546	0	1	0	0	0
-suppression by virus of host MAVS activity	GO_0039545	0	1	0	0	0
-suppression by virus of host ISG15 activity	GO_0039579	0	1	0	0	0
-suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	GO_0039561	0	1	0	0	0
-suppression by virus of host IRF9 activity	GO_0039560	0	1	0	0	0
-suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	GO_0039558	0	1	0	0	0
-suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	0	1	0	0	0
-suppression by virus of host IRF7 activity	GO_0039557	0	1	0	0	0
-suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	0	1	0	0	0
-suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	GO_0039549	0	1	0	0	0
-suppression by virus of host IRF3 activity by inhibition of DNA binding	GO_0039550	0	1	0	0	0
-suppression by virus of host IRF3 activity	GO_0039548	0	1	0	0	0
-suppression by virus of host IKBKE activity	GO_0039724	0	1	0	0	0
-stimulatory killer cell immunoglobulin-like receptor signaling pathway	GO_0002222	0	1	0	0	0
-stimulatory C-type lectin receptor signaling pathway	GO_0002223	0	1	0	0	0
-serotonin secretion involved in inflammatory response	GO_0002442	0	1	0	0	0
-serotonin secretion by platelet	GO_0002554	0	1	0	0	0
-serotonin secretion by mast cell	GO_0002552	0	1	0	0	0
-serotonin secretion by basophil	GO_0002556	0	1	0	0	0
-serotonin production involved in inflammatory response	GO_0002351	0	1	0	0	0
-response to type III interferon	GO_0034342	0	1	0	0	0
-response to type I interferon	GO_0034340	0	1	0	0	0
-response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0032260	0	1	0	0	0
-response to interferon-gamma	GO_0034341	0	1	0	0	0
-respiratory burst involved in inflammatory response	GO_0002536	0	1	0	0	0
-respiratory burst involved in defense response	GO_0002679	0	1	0	0	0
-respiratory burst after phagocytosis	GO_0045728	0	1	0	0	0
-regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039531	0	1	0	0	0
-regulation of vascular permeability involved in acute inflammatory response	GO_0002528	0	1	0	0	0
-regulation of type IV hypersensitivity	GO_0001807	0	1	0	0	0
-regulation of type IIb hypersensitivity	GO_0001799	0	1	0	0	0
-regulation of type IIa hypersensitivity	GO_0001796	0	1	0	0	0
-regulation of type III hypersensitivity	GO_0001803	0	1	0	0	0
-regulation of type II hypersensitivity	GO_0002892	0	1	0	0	0
-regulation of type I interferon-mediated signaling pathway	GO_0060338	0	1	0	0	0
-regulation of type I hypersensitivity	GO_0001810	0	1	0	0	0
-regulation of tissue kallikrein-kinin cascade	GO_0002382	0	1	0	0	0
-regulation of systemic arterial blood pressure involved in acute-phase response	GO_0002530	0	1	0	0	0
-regulation of systemic acquired resistance	GO_0010112	0	1	0	0	0
-regulation of response to interferon-gamma	GO_0060330	0	1	0	0	0
-regulation of respiratory burst involved in inflammatory response	GO_0060264	0	1	0	0	0
-regulation of plasma kallikrein-kinin cascade	GO_0002529	0	1	0	0	0
-regulation of plant-type hypersensitive response	GO_0010363	0	1	0	0	0
-regulation of peptidoglycan recognition protein signaling pathway	GO_0061058	0	1	0	0	0
-regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	0	0	0
-regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	0	1	0	0	0
-regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	0	1	0	0	0
-regulation of neutrophil mediated killing of fungus	GO_0070953	0	1	0	0	0
-regulation of neutrophil mediated killing of bacterium	GO_0070950	0	1	0	0	0
-regulation of natural killer cell mediated immunity	GO_0002715	0	1	0	0	0
-regulation of natural killer cell mediated immune response to tumor cell	GO_0002855	0	1	0	0	0
-regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002858	0	1	0	0	0
-regulation of natural killer cell mediated cytotoxicity	GO_0042269	0	1	0	0	0
-regulation of natural killer cell degranulation	GO_0043321	0	1	0	0	0
-regulation of natural killer cell cytokine production	GO_0002727	0	1	0	0	0
-regulation of melanization defense response	GO_0035007	0	1	0	0	0
-regulation of leukotriene production involved in inflammatory response	GO_0035490	0	1	0	0	0
-regulation of kinin cascade	GO_0002256	0	1	0	0	0
-regulation of interferon-gamma-mediated signaling pathway	GO_0060334	0	1	0	0	0
-regulation of innate immune response	GO_0045088	0	1	0	0	0
-regulation of inflammatory response to antigenic stimulus	GO_0002861	0	1	0	0	0
-regulation of inflammatory response by sphingosine-1-phosphate signaling pathway	GO_0003378	0	1	0	0	0
-regulation of inflammatory response	GO_0050727	0	1	0	0	0
-regulation of hypersensitivity	GO_0002883	0	1	0	0	0
-regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
-regulation of heart contraction involved in acute-phase response	GO_0002531	0	1	0	0	0
-regulation of granuloma formation	GO_0002631	0	1	0	0	0
-regulation of fever generation by regulation of prostaglandin secretion	GO_0071810	0	1	0	0	0
-regulation of fever generation by regulation of prostaglandin biosynthesis	GO_0071809	0	1	0	0	0
-regulation of fever generation	GO_0031620	0	1	0	0	0
-regulation of defense response to oomycetes	GO_1902288	0	1	0	0	0
-regulation of defense response to bacterium, incompatible interaction	GO_1902477	0	1	0	0	0
-regulation of cytokine production involved in inflammatory response	GO_1900015	0	1	0	0	0
-regulation of complement activation, lectin pathway	GO_0001868	0	1	0	0	0
-regulation of complement activation, classical pathway	GO_0030450	0	1	0	0	0
-regulation of complement activation, alternative pathway	GO_0030451	0	1	0	0	0
-regulation of complement activation	GO_0030449	0	1	0	0	0
-regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002880	0	1	0	0	0
-regulation of chronic inflammatory response to antigenic stimulus	GO_0002874	0	1	0	0	0
-regulation of chronic inflammatory response	GO_0002676	0	1	0	0	0
-regulation of cellular defense response	GO_0010185	0	1	0	0	0
-regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	0	1	0	0	0
-regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	0	1	0	0	0
-regulation of behavioral fear response	GO_2000822	0	1	0	0	0
-regulation of antifungal peptide secretion	GO_0002800	0	1	0	0	0
-regulation of antifungal peptide production	GO_0002788	0	1	0	0	0
-regulation of antifungal peptide biosynthetic process	GO_0002810	0	1	0	0	0
-regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	0	0	0
-regulation of antibacterial peptide secretion	GO_0002797	0	1	0	0	0
-regulation of antibacterial peptide production	GO_0002786	0	1	0	0	0
-regulation of antibacterial peptide biosynthetic process	GO_0002808	0	1	0	0	0
-regulation of acute inflammatory response to non-antigenic stimulus	GO_0002877	0	1	0	0	0
-regulation of acute inflammatory response to antigenic stimulus	GO_0002864	0	1	0	0	0
-regulation of acute inflammatory response	GO_0002673	0	1	0	0	0
-regulation of activation of membrane attack complex	GO_0001969	0	1	0	0	0
-regulation of RIG-I signaling pathway	GO_0039535	0	1	0	0	0
-regulation of MDA-5 signaling pathway	GO_0039533	0	1	0	0	0
-regulation by host of cytolysis of symbiont cells	GO_0051839	0	1	0	0	0
-protection from natural killer cell mediated cytotoxicity	GO_0042270	0	1	0	0	0
-prostaglandin production involved in inflammatory response	GO_0002539	0	1	0	0	0
-production of molecular mediator involved in inflammatory response	GO_0002532	0	1	0	0	0
-positive regulation of type IV hypersensitivity	GO_0001809	0	1	0	0	0
-positive regulation of type IIb hypersensitivity	GO_0001801	0	1	0	0	0
-positive regulation of type IIa hypersensitivity	GO_0001798	0	1	0	0	0
-positive regulation of type III hypersensitivity	GO_0001805	0	1	0	0	0
-positive regulation of type II hypersensitivity	GO_0002894	0	1	0	0	0
-positive regulation of type I interferon-mediated signaling pathway	GO_0060340	0	1	0	0	0
-positive regulation of type I hypersensitivity	GO_0001812	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus	GO_1901244	0	1	0	0	0
-positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium	GO_1902097	0	1	0	0	0
-positive regulation of tissue kallikrein-kinin cascade	GO_0002547	0	1	0	0	0
-positive regulation of systemic acquired resistance	GO_1901672	0	1	0	0	0
-positive regulation of response to interferon-gamma	GO_0060332	0	1	0	0	0
-positive regulation of respiratory burst involved in inflammatory response	GO_0060265	0	1	0	0	0
-positive regulation of plasma kallikrein-kinin cascade	GO_0002550	0	1	0	0	0
-positive regulation of plant-type hypersensitive response	GO_0034052	0	1	0	0	0
-positive regulation of peripheral B cell deletion	GO_0002910	0	1	0	0	0
-positive regulation of peptidoglycan recognition protein signaling pathway	GO_0061059	0	1	0	0	0
-positive regulation of neutrophil mediated killing of symbiont cell	GO_0070961	0	1	0	0	0
-positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	0	1	0	0	0
-positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	0	1	0	0	0
-positive regulation of neutrophil mediated killing of fungus	GO_0070965	0	1	0	0	0
-positive regulation of neutrophil mediated killing of bacterium	GO_0070962	0	1	0	0	0
-positive regulation of natural killer cell tolerance induction	GO_0002873	0	1	0	0	0
-positive regulation of natural killer cell mediated immunity	GO_0002717	0	1	0	0	0
-positive regulation of natural killer cell mediated immune response to tumor cell	GO_0002857	0	1	0	0	0
-positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002860	0	1	0	0	0
-positive regulation of natural killer cell mediated cytotoxicity	GO_0045954	0	1	0	0	0
-positive regulation of natural killer cell degranulation	GO_0043323	0	1	0	0	0
-positive regulation of natural killer cell cytokine production	GO_0002729	0	1	0	0	0
-positive regulation of melanization defense response	GO_0035008	0	1	0	0	0
-positive regulation of leukotriene production involved in inflammatory response	GO_0035491	0	1	0	0	0
-positive regulation of kinin cascade	GO_0002258	0	1	0	0	0
-positive regulation of interferon-gamma-mediated signaling pathway	GO_0060335	0	1	0	0	0
-positive regulation of innate immune response	GO_0045089	0	1	0	0	0
-positive regulation of inflammatory response to antigenic stimulus	GO_0002863	0	1	0	0	0
-positive regulation of inflammatory response	GO_0050729	0	1	0	0	0
-positive regulation of hypersensitivity	GO_0002885	0	1	0	0	0
-positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
-positive regulation of granuloma formation	GO_0002633	0	1	0	0	0
-positive regulation of fever generation by positive regulation of prostaglandin secretion	GO_0071812	0	1	0	0	0
-positive regulation of fever generation by positive regulation of prostaglandin biosynthesis	GO_0071811	0	1	0	0	0
-positive regulation of fever generation	GO_0031622	0	1	0	0	0
-positive regulation of defense response to virus by host	GO_0002230	0	1	0	0	0
-positive regulation of defense response to oomycetes	GO_1902290	0	1	0	0	0
-positive regulation of defense response to insect	GO_1900367	0	1	0	0	0
-positive regulation of defense response to bacterium, incompatible interaction	GO_1902479	0	1	0	0	0
-positive regulation of defense response to bacterium	GO_1900426	0	1	0	0	0
-positive regulation of defense response	GO_0031349	0	1	0	0	0
-positive regulation of cytokine production involved in inflammatory response	GO_1900017	0	1	0	0	0
-positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	0	0	0
-positive regulation of complement activation, lectin pathway	GO_0001870	0	1	0	0	0
-positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	0	0	0
-positive regulation of complement activation, classical pathway	GO_0045960	0	1	0	0	0
-positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	0	0	0
-positive regulation of complement activation, alternative pathway	GO_0045958	0	1	0	0	0
-positive regulation of complement activation	GO_0045917	0	1	0	0	0
-positive regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002882	0	1	0	0	0
-positive regulation of chronic inflammatory response to antigenic stimulus	GO_0002876	0	1	0	0	0
-positive regulation of chronic inflammatory response	GO_0002678	0	1	0	0	0
-positive regulation of central B cell deletion	GO_0002900	0	1	0	0	0
-positive regulation of cellular defense response	GO_0010186	0	1	0	0	0
-positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	0	1	0	0	0
-positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	0	1	0	0	0
-positive regulation of behavioral fear response	GO_2000987	0	1	0	0	0
-positive regulation of antifungal peptide secretion	GO_0002802	0	1	0	0	0
-positive regulation of antifungal peptide production	GO_0002804	0	1	0	0	0
-positive regulation of antifungal peptide biosynthetic process	GO_0006967	0	1	0	0	0
-positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	0	0	0
-positive regulation of antibacterial peptide secretion	GO_0002799	0	1	0	0	0
-positive regulation of antibacterial peptide production	GO_0002803	0	1	0	0	0
-positive regulation of antibacterial peptide biosynthetic process	GO_0006963	0	1	0	0	0
-positive regulation of acute inflammatory response to non-antigenic stimulus	GO_0002879	0	1	0	0	0
-positive regulation of acute inflammatory response to antigenic stimulus	GO_0002866	0	1	0	0	0
-positive regulation of acute inflammatory response	GO_0002675	0	1	0	0	0
-positive regulation of activation of membrane attack complex	GO_0001970	0	1	0	0	0
-positive regulation of RIG-I signaling pathway	GO_1900246	0	1	0	0	0
-positive regulation of MDA-5 signaling pathway	GO_1900245	0	1	0	0	0
-positive regulation of B cell deletion	GO_0002869	0	1	0	0	0
-positive regulation by virus of host cytokine production	GO_0044832	0	1	0	0	0
-positive regulation by symbiont of host systemic acquired resistance	GO_0052537	0	1	0	0	0
-positive regulation by symbiont of host salicylic acid-mediated defense response	GO_0052074	0	1	0	0	0
-positive regulation by symbiont of host resistance gene-dependent defense response	GO_0052527	0	1	0	0	0
-positive regulation by symbiont of host phytoalexin production	GO_0052344	0	1	0	0	0
-positive regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052075	0	1	0	0	0
-positive regulation by symbiont of host innate immune response	GO_0052166	0	1	0	0	0
-positive regulation by symbiont of host inflammatory response	GO_0052035	0	1	0	0	0
-positive regulation by symbiont of host induced systemic resistance	GO_0052533	0	1	0	0	0
-positive regulation by symbiont of host immune response	GO_0052556	0	1	0	0	0
-positive regulation by symbiont of host ethylene-mediated defense response	GO_0052076	0	1	0	0	0
-positive regulation by symbiont of host defense-related protein level	GO_0033664	0	1	0	0	0
-positive regulation by symbiont of host defense-related programmed cell death	GO_0034055	0	1	0	0	0
-positive regulation by symbiont of host defense response	GO_0052509	0	1	0	0	0
-positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052072	0	1	0	0	0
-positive regulation by symbiont of defense-related host reactive oxygen species production	GO_0052369	0	1	0	0	0
-positive regulation by symbiont of defense-related host nitric oxide production	GO_0052347	0	1	0	0	0
-positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052073	0	1	0	0	0
-positive regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway	GO_0052071	0	1	0	0	0
-positive regulation by symbiont of defense-related host cell wall thickening	GO_0052539	0	1	0	0	0
-positive regulation by symbiont of defense-related host cell wall callose deposition	GO_0052109	0	1	0	0	0
-positive regulation by symbiont of defense-related host callose deposition	GO_0052107	0	1	0	0	0
-positive regulation by symbiont of defense-related host calcium-dependent protein kinase pathway	GO_0052102	0	1	0	0	0
-positive regulation by symbiont of defense-related host calcium ion flux	GO_0052389	0	1	0	0	0
-positive regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway	GO_0052079	0	1	0	0	0
-positive regulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052535	0	1	0	0	0
-positive regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052272	0	1	0	0	0
-positive regulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052423	0	1	0	0	0
-positive regulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052329	0	1	0	0	0
-positive regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052273	0	1	0	0	0
-positive regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052305	0	1	0	0	0
-positive regulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052259	0	1	0	0	0
-positive regulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052532	0	1	0	0	0
-positive regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052555	0	1	0	0	0
-positive regulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction	GO_0052274	0	1	0	0	0
-positive regulation by organism of defense-related salicylic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052270	0	1	0	0	0
-positive regulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052348	0	1	0	0	0
-positive regulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052345	0	1	0	0	0
-positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052271	0	1	0	0	0
-positive regulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052269	0	1	0	0	0
-positive regulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052538	0	1	0	0	0
-positive regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052292	0	1	0	0	0
-positive regulation by organism of defense-related callose deposition in other organism involved in symbiotic interaction	GO_0052291	0	1	0	0	0
-positive regulation by organism of defense-related calcium-dependent protein kinase pathway in other organism involved in symbiotic interaction	GO_0052287	0	1	0	0	0
-positive regulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction	GO_0052065	0	1	0	0	0
-positive regulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052276	0	1	0	0	0
-positive regulation by organism of defense response of other organism involved in symbiotic interaction	GO_0052510	0	1	0	0	0
-positive regulation by host of symbiont defense response	GO_0052197	0	1	0	0	0
-positive regulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052502	0	1	0	0	0
-positive regulation by host of cytolysis of symbiont cells	GO_0051841	0	1	0	0	0
-platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	0	0	0
-platelet activating factor production involved in inflammatory response	GO_0002391	0	1	0	0	0
-plasma kallikrein-kinin cascade	GO_0002353	0	1	0	0	0
-plant-type hypersensitive response	GO_0009626	0	1	0	0	0
-peptidoglycan recognition protein signaling pathway	GO_0061057	0	1	0	0	0
-pattern recognition receptor signaling pathway	GO_0002221	0	1	0	0	0
-pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response	GO_0052169	0	1	0	0	0
-pathogen-associated molecular pattern dependent modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052308	0	1	0	0	0
-pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	GO_0052033	0	1	0	0	0
-pathogen-associated molecular pattern dependent induction by organism of innate immune response of other organism involved in symbiotic interaction	GO_0052257	0	1	0	0	0
-passive induction of host innate immune response by virus	GO_0046735	0	1	0	0	0
-passive induction of host immune response by virus	GO_0046731	0	1	0	0	0
-passive induction of host humoral immune response by virus	GO_0046733	0	1	0	0	0
-passive induction of host cell-mediated immune response by virus	GO_0046734	0	1	0	0	0
-nucleotide-binding oligomerization domain containing signaling pathway	GO_0070423	0	1	0	0	0
-nucleotide-binding oligomerization domain containing 2 signaling pathway	GO_0070431	0	1	0	0	0
-nucleotide-binding oligomerization domain containing 1 signaling pathway	GO_0070427	0	1	0	0	0
-nitric oxide production involved in inflammatory response	GO_0002537	0	1	0	0	0
-neutrophil mediated killing of symbiont cell	GO_0070943	0	1	0	0	0
-neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	0	0	0
-neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	0	0	0
-neutrophil mediated killing of fungus	GO_0070947	0	1	0	0	0
-neutrophil mediated killing of bacterium	GO_0070944	0	1	0	0	0
-negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039532	0	1	0	0	0
-negative regulation of type IV hypersensitivity	GO_0001808	0	1	0	0	0
-negative regulation of type IIb hypersensitivity	GO_0001800	0	1	0	0	0
-negative regulation of type IIa hypersensitivity	GO_0001797	0	1	0	0	0
-negative regulation of type III hypersensitivity	GO_0001804	0	1	0	0	0
-negative regulation of type II hypersensitivity	GO_0002893	0	1	0	0	0
-negative regulation of type I interferon-mediated signaling pathway	GO_0060339	0	1	0	0	0
-negative regulation of type I hypersensitivity	GO_0001811	0	1	0	0	0
-negative regulation of tissue kallikrein-kinin cascade	GO_0002546	0	1	0	0	0
-negative regulation of systemic acquired resistance	GO_0010113	0	1	0	0	0
-negative regulation of response to interferon-gamma	GO_0060331	0	1	0	0	0
-negative regulation of respiratory burst involved in inflammatory response	GO_0060266	0	1	0	0	0
-negative regulation of plasma kallikrein-kinin cascade	GO_0002549	0	1	0	0	0
-negative regulation of plant-type hypersensitive response	GO_0034051	0	1	0	0	0
-negative regulation of peripheral B cell deletion	GO_0002909	0	1	0	0	0
-negative regulation of peptidoglycan recognition protein signaling pathway	GO_0061060	0	1	0	0	0
-negative regulation of neutrophil mediated killing of symbiont cell	GO_0070955	0	1	0	0	0
-negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	0	1	0	0	0
-negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	0	1	0	0	0
-negative regulation of neutrophil mediated killing of fungus	GO_0070959	0	1	0	0	0
-negative regulation of neutrophil mediated killing of bacterium	GO_0070956	0	1	0	0	0
-negative regulation of natural killer cell tolerance induction	GO_0002872	0	1	0	0	0
-negative regulation of natural killer cell mediated immunity	GO_0002716	0	1	0	0	0
-negative regulation of natural killer cell mediated immune response to tumor cell	GO_0002856	0	1	0	0	0
-negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002859	0	1	0	0	0
-negative regulation of natural killer cell mediated cytotoxicity	GO_0045953	0	1	0	0	0
-negative regulation of natural killer cell degranulation	GO_0043322	0	1	0	0	0
-negative regulation of natural killer cell cytokine production	GO_0002728	0	1	0	0	0
-negative regulation of melanization defense response	GO_0035009	0	1	0	0	0
-negative regulation of leukotriene production involved in inflammatory response	GO_0035492	0	1	0	0	0
-negative regulation of kinin cascade	GO_0002257	0	1	0	0	0
-negative regulation of interferon-gamma-mediated signaling pathway	GO_0060336	0	1	0	0	0
-negative regulation of innate immune response	GO_0045824	0	1	0	0	0
-negative regulation of inflammatory response to antigenic stimulus	GO_0002862	0	1	0	0	0
-negative regulation of inflammatory response	GO_0050728	0	1	0	0	0
-negative regulation of hypersensitivity	GO_0002884	0	1	0	0	0
-negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
-negative regulation of granuloma formation	GO_0002632	0	1	0	0	0
-negative regulation of fever generation	GO_0031621	0	1	0	0	0
-negative regulation of defense response to virus by host	GO_0050689	0	1	0	0	0
-negative regulation of defense response to virus	GO_0050687	0	1	0	0	0
-negative regulation of defense response to oomycetes	GO_1902289	0	1	0	0	0
-negative regulation of defense response to insect	GO_1900366	0	1	0	0	0
-negative regulation of defense response to bacterium, incompatible interaction	GO_1902478	0	1	0	0	0
-negative regulation of defense response to bacterium	GO_1900425	0	1	0	0	0
-negative regulation of defense response	GO_0031348	0	1	0	0	0
-negative regulation of cytokine production involved in inflammatory response	GO_1900016	0	1	0	0	0
-negative regulation of complement activation, lectin pathway in other organism	GO_0044632	0	1	0	0	0
-negative regulation of complement activation, lectin pathway	GO_0001869	0	1	0	0	0
-negative regulation of complement activation, classical pathway in other organism	GO_0044629	0	1	0	0	0
-negative regulation of complement activation, classical pathway	GO_0045959	0	1	0	0	0
-negative regulation of complement activation, alternative pathway in other organism	GO_0044634	0	1	0	0	0
-negative regulation of complement activation, alternative pathway	GO_0045957	0	1	0	0	0
-negative regulation of complement activation	GO_0045916	0	1	0	0	0
-negative regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002881	0	1	0	0	0
-negative regulation of chronic inflammatory response to antigenic stimulus	GO_0002875	0	1	0	0	0
-negative regulation of chronic inflammatory response	GO_0002677	0	1	0	0	0
-negative regulation of central B cell deletion	GO_0002899	0	1	0	0	0
-negative regulation of cellular defense response	GO_0051245	0	1	0	0	0
-negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	0	1	0	0	0
-negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	0	1	0	0	0
-negative regulation of behavioral fear response	GO_2000986	0	1	0	0	0
-negative regulation of antifungal peptide secretion	GO_0002801	0	1	0	0	0
-negative regulation of antifungal peptide production	GO_0002789	0	1	0	0	0
-negative regulation of antifungal peptide biosynthetic process	GO_0002811	0	1	0	0	0
-negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	0	0	0
-negative regulation of antibacterial peptide secretion	GO_0002798	0	1	0	0	0
-negative regulation of antibacterial peptide production	GO_0002787	0	1	0	0	0
-negative regulation of antibacterial peptide biosynthetic process	GO_0002809	0	1	0	0	0
-negative regulation of acute inflammatory response to non-antigenic stimulus	GO_0002878	0	1	0	0	0
-negative regulation of acute inflammatory response to antigenic stimulus	GO_0002865	0	1	0	0	0
-negative regulation of acute inflammatory response	GO_0002674	0	1	0	0	0
-negative regulation of activation of membrane attack complex	GO_0001971	0	1	0	0	0
-negative regulation of RIG-I signaling pathway	GO_0039536	0	1	0	0	0
-negative regulation of MDA-5 signaling pathway	GO_0039534	0	1	0	0	0
-negative regulation of B cell deletion	GO_0002868	0	1	0	0	0
-negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052034	0	1	0	0	0
-negative regulation by symbiont of host salicylic acid-mediated defense response	GO_0052004	0	1	0	0	0
-negative regulation by symbiont of host resistance gene-dependent defense response	GO_0033660	0	1	0	0	0
-negative regulation by symbiont of host phytoalexin production	GO_1990217	0	1	0	0	0
-negative regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052068	0	1	0	0	0
-negative regulation by symbiont of host innate immune response	GO_0052170	0	1	0	0	0
-negative regulation by symbiont of host inflammatory response	GO_0052036	0	1	0	0	0
-negative regulation by symbiont of host immune response	GO_0052562	0	1	0	0	0
-negative regulation by symbiont of host ethylene-mediated defense response	GO_0052005	0	1	0	0	0
-negative regulation by symbiont of host defense-related protein level	GO_0033663	0	1	0	0	0
-negative regulation by symbiont of host defense-related programmed cell death	GO_0034054	0	1	0	0	0
-negative regulation by symbiont of host defense response	GO_0052037	0	1	0	0	0
-negative regulation by symbiont of host cell-mediated immune response	GO_0052083	0	1	0	0	0
-negative regulation by symbiont of host T-cell mediated immune response	GO_0052085	0	1	0	0	0
-negative regulation by symbiont of host B-cell mediated immune response	GO_0052086	0	1	0	0	0
-negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052003	0	1	0	0	0
-negative regulation by symbiont of defense-related host reactive oxygen species production	GO_0033661	0	1	0	0	0
-negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052069	0	1	0	0	0
-negative regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway	GO_0052070	0	1	0	0	0
-negative regulation by symbiont of defense-related host cell wall callose deposition	GO_0052202	0	1	0	0	0
-negative regulation by symbiont of defense-related host callose deposition	GO_0052087	0	1	0	0	0
-negative regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway	GO_0052078	0	1	0	0	0
-negative regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052253	0	1	0	0	0
-negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction	GO_0052258	0	1	0	0	0
-negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052266	0	1	0	0	0
-negative regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052309	0	1	0	0	0
-negative regulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052260	0	1	0	0	0
-negative regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052561	0	1	0	0	0
-negative regulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction	GO_0052254	0	1	0	0	0
-negative regulation by organism of defense-related salicylic acid-mediated signal transduction pathway of other organism involved in symbiotic interaction	GO_0052252	0	1	0	0	0
-negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052267	0	1	0	0	0
-negative regulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052268	0	1	0	0	0
-negative regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052311	0	1	0	0	0
-negative regulation by organism of defense-related callose deposition in other organism involved in symbiotic interaction	GO_0052282	0	1	0	0	0
-negative regulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052275	0	1	0	0	0
-negative regulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052278	0	1	0	0	0
-negative regulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052280	0	1	0	0	0
-negative regulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052281	0	1	0	0	0
-negative regulation by host of symbiont defense response	GO_0052196	0	1	0	0	0
-negative regulation by host of symbiont MAP kinase-mediated signal transduction	GO_0075102	0	1	0	0	0
-negative regulation by host of cytolysis of symbiont cells	GO_0051840	0	1	0	0	0
-natural killer cell mediated immunity	GO_0002228	0	1	0	0	0
-natural killer cell mediated immune response to tumor cell	GO_0002423	0	1	0	0	0
-natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	0	0	0
-natural killer cell mediated cytotoxicity	GO_0042267	0	1	0	0	0
-natural killer cell degranulation	GO_0043320	0	1	0	0	0
-natural killer cell cytokine production	GO_0002370	0	1	0	0	0
-modulation of complement activation, lectin pathway in other organism	GO_0044630	0	1	0	0	0
-modulation of complement activation, classical pathway in other organism	GO_0044627	0	1	0	0	0
-modulation of complement activation, alternative pathway in other organism	GO_0044633	0	1	0	0	0
-modulation of complement activation in other organism	GO_0044645	0	1	0	0	0
-modulation by virus of host immune response	GO_0075528	0	1	0	0	0
-modulation by virus of host cytokine production	GO_0044831	0	1	0	0	0
-modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052157	0	1	0	0	0
-modulation by symbiont of host systemic acquired resistance	GO_0052160	0	1	0	0	0
-modulation by symbiont of host salicylic acid-mediated defense response	GO_0052089	0	1	0	0	0
-modulation by symbiont of host resistance gene-dependent defense response	GO_0052158	0	1	0	0	0
-modulation by symbiont of host phytoalexin production	GO_0052165	0	1	0	0	0
-modulation by symbiont of host jasmonic acid-mediated defense response	GO_0052088	0	1	0	0	0
-modulation by symbiont of host innate immune response	GO_0052167	0	1	0	0	0
-modulation by symbiont of host inflammatory response	GO_0052032	0	1	0	0	0
-modulation by symbiont of host induced systemic resistance	GO_0052159	0	1	0	0	0
-modulation by symbiont of host immune response	GO_0052553	0	1	0	0	0
-modulation by symbiont of host ethylene-mediated defense response	GO_0052084	0	1	0	0	0
-modulation by symbiont of host defense-related protein level	GO_0033662	0	1	0	0	0
-modulation by symbiont of host defense-related programmed cell death	GO_0034053	0	1	0	0	0
-modulation by symbiont of host defense response	GO_0052031	0	1	0	0	0
-modulation by symbiont of host cell-mediated immune response	GO_0052155	0	1	0	0	0
-modulation by symbiont of host T-cell mediated immune response	GO_0052156	0	1	0	0	0
-modulation by symbiont of host B-cell mediated immune response	GO_0052154	0	1	0	0	0
-modulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052081	0	1	0	0	0
-modulation by symbiont of defense-related host reactive oxygen species production	GO_0052164	0	1	0	0	0
-modulation by symbiont of defense-related host nitric oxide production	GO_0052163	0	1	0	0	0
-modulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052082	0	1	0	0	0
-modulation by symbiont of defense-related host ethylene-mediated signal transduction pathway	GO_0052077	0	1	0	0	0
-modulation by symbiont of defense-related host cell wall thickening	GO_0052161	0	1	0	0	0
-modulation by symbiont of defense-related host cell wall callose deposition	GO_0052189	0	1	0	0	0
-modulation by symbiont of defense-related host callose deposition	GO_0052090	0	1	0	0	0
-modulation by symbiont of defense-related host calcium-dependent protein kinase pathway	GO_0052168	0	1	0	0	0
-modulation by symbiont of defense-related host calcium ion flux	GO_0052162	0	1	0	0	0
-modulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway	GO_0052080	0	1	0	0	0
-modulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052299	0	1	0	0	0
-modulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052284	0	1	0	0	0
-modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052297	0	1	0	0	0
-modulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052304	0	1	0	0	0
-modulation by organism of microbe-associated molecular pattern-induced innate immune response in other organism involved in symbiotic interaction	GO_0052296	0	1	0	0	0
-modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052283	0	1	0	0	0
-modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052306	0	1	0	0	0
-modulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052256	0	1	0	0	0
-modulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052298	0	1	0	0	0
-modulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052552	0	1	0	0	0
-modulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction	GO_0052279	0	1	0	0	0
-modulation by organism of defense-related salicylic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052445	0	1	0	0	0
-modulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052303	0	1	0	0	0
-modulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052302	0	1	0	0	0
-modulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052443	0	1	0	0	0
-modulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052441	0	1	0	0	0
-modulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052300	0	1	0	0	0
-modulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052310	0	1	0	0	0
-modulation by organism of defense-related callose deposition of other organism involved in symbiotic interaction	GO_0052285	0	1	0	0	0
-modulation by organism of defense-related calcium-dependent protein kinase pathway in other organism involved in symbiotic interaction	GO_0052307	0	1	0	0	0
-modulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction	GO_0052301	0	1	0	0	0
-modulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052277	0	1	0	0	0
-modulation by organism of defense response of other organism involved in symbiotic interaction	GO_0052255	0	1	0	0	0
-modulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052294	0	1	0	0	0
-modulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052295	0	1	0	0	0
-modulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052293	0	1	0	0	0
-modulation by host of symbiont defense response	GO_0052181	0	1	0	0	0
-modulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052435	0	1	0	0	0
-melanotic encapsulation of foreign target	GO_0035011	0	1	0	0	0
-melanization defense response	GO_0035006	0	1	0	0	0
-male-specific defense response to bacterium	GO_0050831	0	1	0	0	0
-male-specific antibacterial humoral response	GO_0006962	0	1	0	0	0
-lysosomal enzyme secretion involved in inflammatory response	GO_0002533	0	1	0	0	0
-lysosomal enzyme production involved in inflammatory response	GO_0002393	0	1	0	0	0
-leukotriene production involved in inflammatory response	GO_0002540	0	1	0	0	0
-leukocyte migration involved in inflammatory response	GO_0002523	0	1	0	0	0
-leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	0	0	0
-leukocyte activation involved in inflammatory response	GO_0002269	0	1	0	0	0
-kinin cascade	GO_0002254	0	1	0	0	0
-killing by host of symbiont cells	GO_0051873	0	1	0	0	0
-jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway	GO_0009868	0	1	0	0	0
-jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	GO_0009871	0	1	0	0	0
-jasmonic acid and ethylene-dependent systemic resistance	GO_0009861	0	1	0	0	0
-intracellular vesicle pattern recognition receptor signaling pathway	GO_0002754	0	1	0	0	0
-intracellular defense response	GO_0002818	0	1	0	0	0
-interferon-gamma-mediated signaling pathway	GO_0060333	0	1	0	0	0
-interferon-gamma receptor activity	GO_0004906	0	1	0	0	0
-innate immune response-activating signal transduction	GO_0002758	0	1	0	0	0
-innate immune response in mucosa	GO_0002227	0	1	0	0	0
-innate immune response activating cell surface receptor signaling pathway	GO_0002220	0	1	0	0	0
-innate immune response	GO_0045087	0	1	0	0	0
-inflammatory response to wounding	GO_0090594	0	1	0	0	0
-inflammatory response to antigenic stimulus	GO_0002437	0	1	0	0	0
-inflammatory response	GO_0006954	0	1	0	0	0
-induction of phytoalexin biosynthetic process	GO_0009689	0	1	0	0	0
-induction of host immune response by virus	GO_0046730	0	1	0	0	0
-induction of bacterial agglutination	GO_0043152	0	1	0	0	0
-induction by symbiont of host systemic acquired resistance	GO_0052104	0	1	0	0	0
-induction by symbiont of host resistance gene-dependent defense response	GO_0052101	0	1	0	0	0
-induction by symbiont of host phytoalexin production	GO_0052062	0	1	0	0	0
-induction by symbiont of host innate immune response	GO_0052390	0	1	0	0	0
-induction by symbiont of host induced systemic resistance	GO_0052103	0	1	0	0	0
-induction by symbiont of host immune response	GO_0052559	0	1	0	0	0
-induction by symbiont of host defense response	GO_0044416	0	1	0	0	0
-induction by symbiont of defense-related host reactive oxygen species production	GO_0052064	0	1	0	0	0
-induction by symbiont of defense-related host nitric oxide production	GO_0052063	0	1	0	0	0
-induction by symbiont of defense-related host cell wall thickening	GO_0052105	0	1	0	0	0
-induction by symbiont of defense-related host calcium ion flux	GO_0052391	0	1	0	0	0
-induction by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052289	0	1	0	0	0
-induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052286	0	1	0	0	0
-induction by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052262	0	1	0	0	0
-induction by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052382	0	1	0	0	0
-induction by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052288	0	1	0	0	0
-induction by organism of immune response of other organism involved in symbiotic interaction	GO_0052558	0	1	0	0	0
-induction by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052264	0	1	0	0	0
-induction by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052263	0	1	0	0	0
-induction by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052290	0	1	0	0	0
-induction by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction	GO_0052265	0	1	0	0	0
-induction by organism of defense response of other organism involved in symbiotic interaction	GO_0052251	0	1	0	0	0
-induction by host of symbiont defense response	GO_0052393	0	1	0	0	0
-induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	0	0	0
-induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	0	0	0
-induced systemic resistance	GO_0009682	0	1	0	0	0
-inactivation of MAPK activity involved in innate immune response	GO_0035423	0	1	0	0	0
-hypersensitivity	GO_0002524	0	1	0	0	0
-host gene silencing in virus induced gene silencing	GO_0060146	0	1	0	0	0
-host cellular process involved in virus induced gene silencing	GO_0060144	0	1	0	0	0
-histamine secretion mediated by immunoglobulin	GO_0097280	0	1	0	0	0
-histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	0	0	0
-histamine secretion involved in inflammatory response	GO_0002441	0	1	0	0	0
-histamine secretion by platelet	GO_0002555	0	1	0	0	0
-histamine secretion by mast cell	GO_0002553	0	1	0	0	0
-histamine secretion by basophil	GO_0002557	0	1	0	0	0
-histamine production involved in inflammatory response	GO_0002349	0	1	0	0	0
-hemolymph coagulation	GO_0042381	0	1	0	0	0
-granuloma formation	GO_0002432	0	1	0	0	0
-fever generation	GO_0001660	0	1	0	0	0
-evasion or tolerance by virus of host immune response	GO_0030683	0	1	0	0	0
-evasion by virus of host natural killer cell activity	GO_0039671	0	1	0	0	0
-evasion by virus of host dendritic cell activity	GO_0039673	0	1	0	0	0
-ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0043272	0	1	0	0	0
-effector dependent induction by symbiont of host immune response	GO_0080185	0	1	0	0	0
-disruption by host of symbiont cells	GO_0051852	0	1	0	0	0
-defense response, incompatible interaction	GO_0009814	0	1	0	0	0
-defense response to virus	GO_0051607	0	1	0	0	0
-defense response to tumor cell	GO_0002357	0	1	0	0	0
-defense response to protozoan, incompatible interaction	GO_0009818	0	1	0	0	0
-defense response to protozoan	GO_0042832	0	1	0	0	0
-defense response to parasitic plant	GO_0002242	0	1	0	0	0
-defense response to other organism	GO_0098542	0	1	0	0	0
-defense response to oomycetes	GO_0002229	0	1	0	0	0
-defense response to nematode	GO_0002215	0	1	0	0	0
-defense response to insect	GO_0002213	0	1	0	0	0
-defense response to fungus, incompatible interaction	GO_0009817	0	1	0	0	0
-defense response to fungus	GO_0050832	0	1	0	0	0
-defense response to bacterium, incompatible interaction	GO_0009816	0	1	0	0	0
-defense response to bacterium	GO_0042742	0	1	0	0	0
-defense response to Gram-positive bacterium	GO_0050830	0	1	0	0	0
-defense response to Gram-negative bacterium	GO_0050829	0	1	0	0	0
-defense response signaling pathway, resistance gene-independent	GO_0010204	0	1	0	0	0
-defense response signaling pathway, resistance gene-dependent	GO_0009870	0	1	0	0	0
-defense response by cell wall thickening	GO_0052482	0	1	0	0	0
-defense response by callose deposition in cell wall	GO_0052544	0	1	0	0	0
-defense response by callose deposition	GO_0052542	0	1	0	0	0
-defense response	GO_0006952	0	1	0	0	0
-cytoplasmic pattern recognition receptor signaling pathway in response to virus	GO_0039528	0	1	0	0	0
-cytoplasmic pattern recognition receptor signaling pathway	GO_0002753	0	1	0	0	0
-cytolysis by host of symbiont cells	GO_0051838	0	1	0	0	0
-cytokine production involved in inflammatory response	GO_0002534	0	1	0	0	0
-cysteine-type endopeptidase activity involved in plant-type hypersensitive response	GO_0097299	0	1	0	0	0
-connective tissue replacement involved in inflammatory response wound healing	GO_0002248	0	1	0	0	0
-complement activation, lectin pathway	GO_0001867	0	1	0	0	0
-complement activation, alternative pathway	GO_0006957	0	1	0	0	0
-clearance of foreign intracellular DNA by conversion of DNA cytidine to uridine	GO_0044356	0	1	0	0	0
-clearance of foreign intracellular DNA	GO_0044355	0	1	0	0	0
-clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247	0	1	0	0	0
-chronic inflammatory response to non-antigenic stimulus	GO_0002545	0	1	0	0	0
-chronic inflammatory response to antigenic stimulus	GO_0002439	0	1	0	0	0
-chronic inflammatory response	GO_0002544	0	1	0	0	0
-cellular response to type III interferon	GO_0071358	0	1	0	0	0
-cellular response to type I interferon	GO_0071357	0	1	0	0	0
-cellular response to interferon-gamma	GO_0071346	0	1	0	0	0
-cellular defense response	GO_0006968	0	1	0	0	0
-cell surface pattern recognition receptor signaling pathway	GO_0002752	0	1	0	0	0
-biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002815	0	1	0	0	0
-biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002812	0	1	0	0	0
-behavioral fear response	GO_0001662	0	1	0	0	0
-behavioral defense response to nematode	GO_0002212	0	1	0	0	0
-behavioral defense response to insect	GO_0002211	0	1	0	0	0
-behavioral defense response	GO_0002209	0	1	0	0	0
-arachidonic acid metabolite production involved in inflammatory response	GO_0002538	0	1	0	0	0
-antifungal peptide secretion	GO_0002782	0	1	0	0	0
-antifungal peptide production	GO_0002781	0	1	0	0	0
-antifungal peptide biosynthetic process	GO_0002783	0	1	0	0	0
-antifungal humoral response	GO_0019732	0	1	0	0	0
-antibody-dependent cellular cytotoxicity	GO_0001788	0	1	0	0	0
-antibacterial peptide secretion	GO_0002779	0	1	0	0	0
-antibacterial peptide production	GO_0002778	0	1	0	0	0
-antibacterial peptide biosynthetic process	GO_0002780	0	1	0	0	0
-antibacterial humoral response	GO_0019731	0	1	0	0	0
-acute-phase response	GO_0006953	0	1	0	0	0
-acute inflammatory response to non-antigenic stimulus	GO_0002525	0	1	0	0	0
-acute inflammatory response to antigenic stimulus	GO_0002438	0	1	0	0	0
-acute inflammatory response	GO_0002526	0	1	0	0	0
-active induction of innate immune response in host by virus	GO_0046738	0	1	0	0	0
-active induction of humoral immune response in host by virus	GO_0046736	0	1	0	0	0
-active induction of host immune response by virus	GO_0046732	0	1	0	0	0
-active induction of cell-mediated immune response in host by virus	GO_0046737	0	1	0	0	0
-activation of plasma proteins involved in acute inflammatory response	GO_0002541	0	1	0	0	0
-activation of innate immune response	GO_0002218	0	1	0	0	0
-activation of blood coagulation via clotting cascade	GO_0002543	0	1	0	0	0
-activation of MAPKKK activity involved in innate immune response	GO_0035422	0	1	0	0	0
-activation of MAPKK activity involved in innate immune response	GO_0035421	0	1	0	0	0
-activation of MAPK activity involved in innate immune response	GO_0035419	0	1	0	0	0
-TRIF-dependent toll-like receptor signaling pathway	GO_0035666	0	1	0	0	0
-TRIF-dependent toll-like receptor 4 signaling pathway	GO_0035667	0	1	0	0	0
-TRAM-dependent toll-like receptor signaling pathway	GO_0035668	0	1	0	0	0
-TRAM-dependent toll-like receptor 4 signaling pathway	GO_0035669	0	1	0	0	0
-TIRAP-dependent toll-like receptor signaling pathway	GO_0035664	0	1	0	0	0
-TIRAP-dependent toll-like receptor 4 signaling pathway	GO_0035665	0	1	0	0	0
-RNA virus induced gene silencing	GO_0051214	0	1	0	0	0
-RIG-I signaling pathway	GO_0039529	0	1	0	0	0
-MyD88-independent toll-like receptor signaling pathway	GO_0002756	0	1	0	0	0
-MyD88-dependent toll-like receptor signaling pathway	GO_0002755	0	1	0	0	0
-MyD88-dependent toll-like receptor 4 signaling pathway	GO_0035660	0	1	0	0	0
-MyD88-dependent toll-like receptor 2 signaling pathway	GO_0035661	0	1	0	0	0
-MDA-5 signaling pathway	GO_0039530	0	1	0	0	0
-MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	0	0	0
-MAPK cascade involved in innate immune response	GO_0035420	0	1	0	0	0
-MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	0	0	0
-MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	0	0	0
-MAP kinase activity involved in innate immune response	GO_0038075	0	1	0	0	0
-G-protein coupled receptor signaling pathway involved in defense response to Gram-negative bacterium	GO_1903554	0	1	0	0	0
-Factor XII activation	GO_0002542	0	1	0	0	0
-DNA virus induced gene silencing	GO_0051215	0	1	0	0	0
-DNA restriction-modification system	GO_0009307	0	1	0	0	0
+wound healing involved in inflammatory response	GO_0002246	0	1	1	0	0
+virus induced gene silencing	GO_0009616	0	1	1	0	0
+viral-induced premature senescence	GO_0090401	0	1	1	0	0
+viral triggering of virus induced gene silencing	GO_0060150	0	1	1	0	0
+viral mRNA cap methylation	GO_0039699	0	1	1	0	0
+viral gene silencing in virus induced gene silencing	GO_0060145	0	1	1	0	0
+vasodilation involved in acute inflammatory response	GO_0002527	0	1	1	0	0
+type IV hypersensitivity	GO_0001806	0	1	1	0	0
+type IIb hypersensitivity	GO_0001795	0	1	1	0	0
+type IIa hypersensitivity	GO_0001794	0	1	1	0	0
+type III interferon signaling pathway	GO_0038196	0	1	1	0	0
+type III interferon receptor activity	GO_0034348	0	1	1	0	0
+type III hypersensitivity	GO_0001802	0	1	1	0	0
+type II hypersensitivity	GO_0002445	0	1	1	0	0
+type I interferon signaling pathway	GO_0060337	0	1	1	0	0
+type I interferon receptor activity	GO_0004905	0	1	1	0	0
+type I hypersensitivity mediated by mast cells	GO_0002558	0	1	1	0	0
+type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
+type I hypersensitivity	GO_0016068	0	1	1	0	0
+toll-like receptor signaling pathway	GO_0002224	0	1	1	0	0
+toll-like receptor TLR6:TLR2 signaling pathway	GO_0038124	0	1	1	0	0
+toll-like receptor TLR1:TLR2 signaling pathway	GO_0038123	0	1	1	0	0
+toll-like receptor 9 signaling pathway	GO_0034162	0	1	1	0	0
+toll-like receptor 8 signaling pathway	GO_0034158	0	1	1	0	0
+toll-like receptor 7 signaling pathway	GO_0034154	0	1	1	0	0
+toll-like receptor 6 signaling pathway	GO_0034150	0	1	1	0	0
+toll-like receptor 5 signaling pathway	GO_0034146	0	1	1	0	0
+toll-like receptor 4 signaling pathway	GO_0034142	0	1	1	0	0
+toll-like receptor 3 signaling pathway	GO_0034138	0	1	1	0	0
+toll-like receptor 21 signaling pathway	GO_0035682	0	1	1	0	0
+toll-like receptor 2 signaling pathway	GO_0034134	0	1	1	0	0
+toll-like receptor 15 signaling pathway	GO_0035681	0	1	1	0	0
+toll-like receptor 13 signaling pathway	GO_0034178	0	1	1	0	0
+toll-like receptor 12 signaling pathway	GO_0034174	0	1	1	0	0
+toll-like receptor 11 signaling pathway	GO_0034170	0	1	1	0	0
+toll-like receptor 10 signaling pathway	GO_0034166	0	1	1	0	0
+toll-like receptor 1 signaling pathway	GO_0034130	0	1	1	0	0
+tissue kallikrein-kinin cascade	GO_0002255	0	1	1	0	0
+systemic acquired resistance, salicylic acid mediated signaling pathway	GO_0009862	0	1	1	0	0
+systemic acquired resistance	GO_0009627	0	1	1	0	0
+susceptibility to natural killer cell mediated cytotoxicity	GO_0042271	0	1	1	0	0
+suppression of defense response of other organism involved in symbiotic interaction	GO_0052261	0	1	1	0	0
+suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039537	0	1	1	0	0
+suppression by virus of host type I interferon-mediated signaling pathway	GO_0039502	0	1	1	0	0
+suppression by virus of host type I interferon production	GO_0039501	0	1	1	0	0
+suppression by virus of host toll-like receptor signaling pathway	GO_0039722	0	1	1	0	0
+suppression by virus of host tapasin activity	GO_0039591	0	1	1	0	0
+suppression by virus of host natural killer cell activation	GO_0039672	0	1	1	0	0
+suppression by virus of host intracellular interferon activity	GO_0046774	0	1	1	0	0
+suppression by virus of host innate immune response	GO_0039503	0	1	1	0	0
+suppression by virus of host cytokine production	GO_0046775	0	1	1	0	0
+suppression by virus of host complement activation	GO_0039573	0	1	1	0	0
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	GO_0039505	0	1	1	0	0
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	GO_0046776	0	1	1	0	0
+suppression by virus of host antigen processing and presentation	GO_0039588	0	1	1	0	0
+suppression by virus of host adaptive immune response	GO_0039504	0	1	1	0	0
+suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	0	1	1	0	0
+suppression by virus of host TYK2 activity	GO_0039574	0	1	1	0	0
+suppression by virus of host TBK1 activity	GO_0039723	0	1	1	0	0
+suppression by virus of host TAP complex	GO_0039589	0	1	1	0	0
+suppression by virus of host RIG-I via RIG-I binding	GO_0039541	0	1	1	0	0
+suppression by virus of host RIG-I signaling pathway	GO_0039538	0	1	1	0	0
+suppression by virus of host RIG-I activity by viral RNA 5' processing	GO_0039543	0	1	1	0	0
+suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	0	1	1	0	0
+suppression by virus of host RIG-I activity	GO_0039540	0	1	1	0	0
+suppression by virus of host RIG-I K63-linked ubiquitination	GO_0039542	0	1	1	0	0
+suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	0	1	1	0	0
+suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	0	1	1	0	0
+suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	0	1	1	0	0
+suppression by virus of host PKR activity	GO_0039580	0	1	1	0	0
+suppression by virus of host MDA-5 signaling pathway	GO_0039539	0	1	1	0	0
+suppression by virus of host MDA-5 activity via MDA-5 binding	GO_0039555	0	1	1	0	0
+suppression by virus of host MDA-5 activity	GO_0039554	0	1	1	0	0
+suppression by virus of host MAVS activity by MAVS proteolysis	GO_0039546	0	1	1	0	0
+suppression by virus of host MAVS activity	GO_0039545	0	1	1	0	0
+suppression by virus of host ISG15 activity	GO_0039579	0	1	1	0	0
+suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	GO_0039561	0	1	1	0	0
+suppression by virus of host IRF9 activity	GO_0039560	0	1	1	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	GO_0039558	0	1	1	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	0	1	1	0	0
+suppression by virus of host IRF7 activity	GO_0039557	0	1	1	0	0
+suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	0	1	1	0	0
+suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	GO_0039549	0	1	1	0	0
+suppression by virus of host IRF3 activity by inhibition of DNA binding	GO_0039550	0	1	1	0	0
+suppression by virus of host IRF3 activity	GO_0039548	0	1	1	0	0
+suppression by virus of host IKBKE activity	GO_0039724	0	1	1	0	0
+stimulatory killer cell immunoglobulin-like receptor signaling pathway	GO_0002222	0	1	1	0	0
+stimulatory C-type lectin receptor signaling pathway	GO_0002223	0	1	1	0	0
+serotonin secretion involved in inflammatory response	GO_0002442	0	1	1	0	0
+serotonin secretion by platelet	GO_0002554	0	1	1	0	0
+serotonin secretion by mast cell	GO_0002552	0	1	1	0	0
+serotonin secretion by basophil	GO_0002556	0	1	1	0	0
+serotonin production involved in inflammatory response	GO_0002351	0	1	1	0	0
+response to type III interferon	GO_0034342	0	1	1	0	0
+response to type I interferon	GO_0034340	0	1	1	0	0
+response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0032260	0	1	1	0	0
+response to interferon-gamma	GO_0034341	0	1	1	0	0
+respiratory burst involved in inflammatory response	GO_0002536	0	1	1	0	0
+respiratory burst involved in defense response	GO_0002679	0	1	1	0	0
+respiratory burst after phagocytosis	GO_0045728	0	1	1	0	0
+regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039531	0	1	1	0	0
+regulation of vascular permeability involved in acute inflammatory response	GO_0002528	0	1	1	0	0
+regulation of type IV hypersensitivity	GO_0001807	0	1	1	0	0
+regulation of type IIb hypersensitivity	GO_0001799	0	1	1	0	0
+regulation of type IIa hypersensitivity	GO_0001796	0	1	1	0	0
+regulation of type III hypersensitivity	GO_0001803	0	1	1	0	0
+regulation of type II hypersensitivity	GO_0002892	0	1	1	0	0
+regulation of type I interferon-mediated signaling pathway	GO_0060338	0	1	1	0	0
+regulation of type I hypersensitivity	GO_0001810	0	1	1	0	0
+regulation of tissue kallikrein-kinin cascade	GO_0002382	0	1	1	0	0
+regulation of systemic arterial blood pressure involved in acute-phase response	GO_0002530	0	1	1	0	0
+regulation of systemic acquired resistance	GO_0010112	0	1	1	0	0
+regulation of response to interferon-gamma	GO_0060330	0	1	1	0	0
+regulation of respiratory burst involved in inflammatory response	GO_0060264	0	1	1	0	0
+regulation of plasma kallikrein-kinin cascade	GO_0002529	0	1	1	0	0
+regulation of plant-type hypersensitive response	GO_0010363	0	1	1	0	0
+regulation of peptidoglycan recognition protein signaling pathway	GO_0061058	0	1	1	0	0
+regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	1	0	0
+regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	0	1	1	0	0
+regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	0	1	1	0	0
+regulation of neutrophil mediated killing of fungus	GO_0070953	0	1	1	0	0
+regulation of neutrophil mediated killing of bacterium	GO_0070950	0	1	1	0	0
+regulation of natural killer cell mediated immunity	GO_0002715	0	1	1	0	0
+regulation of natural killer cell mediated immune response to tumor cell	GO_0002855	0	1	1	0	0
+regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002858	0	1	1	0	0
+regulation of natural killer cell mediated cytotoxicity	GO_0042269	0	1	1	0	0
+regulation of natural killer cell degranulation	GO_0043321	0	1	1	0	0
+regulation of natural killer cell cytokine production	GO_0002727	0	1	1	0	0
+regulation of melanization defense response	GO_0035007	0	1	1	0	0
+regulation of leukotriene production involved in inflammatory response	GO_0035490	0	1	1	0	0
+regulation of kinin cascade	GO_0002256	0	1	1	0	0
+regulation of interferon-gamma-mediated signaling pathway	GO_0060334	0	1	1	0	0
+regulation of innate immune response	GO_0045088	0	1	1	0	0
+regulation of inflammatory response to antigenic stimulus	GO_0002861	0	1	1	0	0
+regulation of inflammatory response by sphingosine-1-phosphate signaling pathway	GO_0003378	0	1	1	0	0
+regulation of inflammatory response	GO_0050727	0	1	1	0	0
+regulation of hypersensitivity	GO_0002883	0	1	1	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	1	0	0
+regulation of heart contraction involved in acute-phase response	GO_0002531	0	1	1	0	0
+regulation of granuloma formation	GO_0002631	0	1	1	0	0
+regulation of fever generation by regulation of prostaglandin secretion	GO_0071810	0	1	1	0	0
+regulation of fever generation by regulation of prostaglandin biosynthesis	GO_0071809	0	1	1	0	0
+regulation of fever generation	GO_0031620	0	1	1	0	0
+regulation of defense response to oomycetes	GO_1902288	0	1	1	0	0
+regulation of defense response to bacterium, incompatible interaction	GO_1902477	0	1	1	0	0
+regulation of cytokine production involved in inflammatory response	GO_1900015	0	1	1	0	0
+regulation of complement activation, lectin pathway	GO_0001868	0	1	1	0	0
+regulation of complement activation, classical pathway	GO_0030450	0	1	1	0	0
+regulation of complement activation, alternative pathway	GO_0030451	0	1	1	0	0
+regulation of complement activation	GO_0030449	0	1	1	0	0
+regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002880	0	1	1	0	0
+regulation of chronic inflammatory response to antigenic stimulus	GO_0002874	0	1	1	0	0
+regulation of chronic inflammatory response	GO_0002676	0	1	1	0	0
+regulation of cellular defense response	GO_0010185	0	1	1	0	0
+regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	0	1	1	0	0
+regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	0	1	1	0	0
+regulation of behavioral fear response	GO_2000822	0	1	1	0	0
+regulation of antifungal peptide secretion	GO_0002800	0	1	1	0	0
+regulation of antifungal peptide production	GO_0002788	0	1	1	0	0
+regulation of antifungal peptide biosynthetic process	GO_0002810	0	1	1	0	0
+regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	1	0	0
+regulation of antibacterial peptide secretion	GO_0002797	0	1	1	0	0
+regulation of antibacterial peptide production	GO_0002786	0	1	1	0	0
+regulation of antibacterial peptide biosynthetic process	GO_0002808	0	1	1	0	0
+regulation of acute inflammatory response to non-antigenic stimulus	GO_0002877	0	1	1	0	0
+regulation of acute inflammatory response to antigenic stimulus	GO_0002864	0	1	1	0	0
+regulation of acute inflammatory response	GO_0002673	0	1	1	0	0
+regulation of activation of membrane attack complex	GO_0001969	0	1	1	0	0
+regulation of RIG-I signaling pathway	GO_0039535	0	1	1	0	0
+regulation of MDA-5 signaling pathway	GO_0039533	0	1	1	0	0
+regulation by host of cytolysis of symbiont cells	GO_0051839	0	1	1	0	0
+protection from natural killer cell mediated cytotoxicity	GO_0042270	0	1	1	0	0
+prostaglandin production involved in inflammatory response	GO_0002539	0	1	1	0	0
+production of molecular mediator involved in inflammatory response	GO_0002532	0	1	1	0	0
+positive regulation of type IV hypersensitivity	GO_0001809	0	1	1	0	0
+positive regulation of type IIb hypersensitivity	GO_0001801	0	1	1	0	0
+positive regulation of type IIa hypersensitivity	GO_0001798	0	1	1	0	0
+positive regulation of type III hypersensitivity	GO_0001805	0	1	1	0	0
+positive regulation of type II hypersensitivity	GO_0002894	0	1	1	0	0
+positive regulation of type I interferon-mediated signaling pathway	GO_0060340	0	1	1	0	0
+positive regulation of type I hypersensitivity	GO_0001812	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus	GO_1901244	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium	GO_1902097	0	1	1	0	0
+positive regulation of tissue kallikrein-kinin cascade	GO_0002547	0	1	1	0	0
+positive regulation of systemic acquired resistance	GO_1901672	0	1	1	0	0
+positive regulation of response to interferon-gamma	GO_0060332	0	1	1	0	0
+positive regulation of respiratory burst involved in inflammatory response	GO_0060265	0	1	1	0	0
+positive regulation of plasma kallikrein-kinin cascade	GO_0002550	0	1	1	0	0
+positive regulation of plant-type hypersensitive response	GO_0034052	0	1	1	0	0
+positive regulation of peripheral B cell deletion	GO_0002910	0	1	1	0	0
+positive regulation of peptidoglycan recognition protein signaling pathway	GO_0061059	0	1	1	0	0
+positive regulation of neutrophil mediated killing of symbiont cell	GO_0070961	0	1	1	0	0
+positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	0	1	1	0	0
+positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	0	1	1	0	0
+positive regulation of neutrophil mediated killing of fungus	GO_0070965	0	1	1	0	0
+positive regulation of neutrophil mediated killing of bacterium	GO_0070962	0	1	1	0	0
+positive regulation of natural killer cell tolerance induction	GO_0002873	0	1	1	0	0
+positive regulation of natural killer cell mediated immunity	GO_0002717	0	1	1	0	0
+positive regulation of natural killer cell mediated immune response to tumor cell	GO_0002857	0	1	1	0	0
+positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002860	0	1	1	0	0
+positive regulation of natural killer cell mediated cytotoxicity	GO_0045954	0	1	1	0	0
+positive regulation of natural killer cell degranulation	GO_0043323	0	1	1	0	0
+positive regulation of natural killer cell cytokine production	GO_0002729	0	1	1	0	0
+positive regulation of melanization defense response	GO_0035008	0	1	1	0	0
+positive regulation of leukotriene production involved in inflammatory response	GO_0035491	0	1	1	0	0
+positive regulation of kinin cascade	GO_0002258	0	1	1	0	0
+positive regulation of interferon-gamma-mediated signaling pathway	GO_0060335	0	1	1	0	0
+positive regulation of innate immune response	GO_0045089	0	1	1	0	0
+positive regulation of inflammatory response to antigenic stimulus	GO_0002863	0	1	1	0	0
+positive regulation of inflammatory response	GO_0050729	0	1	1	0	0
+positive regulation of hypersensitivity	GO_0002885	0	1	1	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	1	0	0
+positive regulation of granuloma formation	GO_0002633	0	1	1	0	0
+positive regulation of fever generation by positive regulation of prostaglandin secretion	GO_0071812	0	1	1	0	0
+positive regulation of fever generation by positive regulation of prostaglandin biosynthesis	GO_0071811	0	1	1	0	0
+positive regulation of fever generation	GO_0031622	0	1	1	0	0
+positive regulation of defense response to virus by host	GO_0002230	0	1	1	0	0
+positive regulation of defense response to oomycetes	GO_1902290	0	1	1	0	0
+positive regulation of defense response to insect	GO_1900367	0	1	1	0	0
+positive regulation of defense response to bacterium, incompatible interaction	GO_1902479	0	1	1	0	0
+positive regulation of defense response to bacterium	GO_1900426	0	1	1	0	0
+positive regulation of defense response	GO_0031349	0	1	1	0	0
+positive regulation of cytokine production involved in inflammatory response	GO_1900017	0	1	1	0	0
+positive regulation of complement activation, lectin pathway in other organism	GO_0044631	0	1	1	0	0
+positive regulation of complement activation, lectin pathway	GO_0001870	0	1	1	0	0
+positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	1	0	0
+positive regulation of complement activation, classical pathway	GO_0045960	0	1	1	0	0
+positive regulation of complement activation, alternative pathway in other organism	GO_0044635	0	1	1	0	0
+positive regulation of complement activation, alternative pathway	GO_0045958	0	1	1	0	0
+positive regulation of complement activation	GO_0045917	0	1	1	0	0
+positive regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002882	0	1	1	0	0
+positive regulation of chronic inflammatory response to antigenic stimulus	GO_0002876	0	1	1	0	0
+positive regulation of chronic inflammatory response	GO_0002678	0	1	1	0	0
+positive regulation of central B cell deletion	GO_0002900	0	1	1	0	0
+positive regulation of cellular defense response	GO_0010186	0	1	1	0	0
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	0	1	1	0	0
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	0	1	1	0	0
+positive regulation of behavioral fear response	GO_2000987	0	1	1	0	0
+positive regulation of antifungal peptide secretion	GO_0002802	0	1	1	0	0
+positive regulation of antifungal peptide production	GO_0002804	0	1	1	0	0
+positive regulation of antifungal peptide biosynthetic process	GO_0006967	0	1	1	0	0
+positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	1	0	0
+positive regulation of antibacterial peptide secretion	GO_0002799	0	1	1	0	0
+positive regulation of antibacterial peptide production	GO_0002803	0	1	1	0	0
+positive regulation of antibacterial peptide biosynthetic process	GO_0006963	0	1	1	0	0
+positive regulation of acute inflammatory response to non-antigenic stimulus	GO_0002879	0	1	1	0	0
+positive regulation of acute inflammatory response to antigenic stimulus	GO_0002866	0	1	1	0	0
+positive regulation of acute inflammatory response	GO_0002675	0	1	1	0	0
+positive regulation of activation of membrane attack complex	GO_0001970	0	1	1	0	0
+positive regulation of RIG-I signaling pathway	GO_1900246	0	1	1	0	0
+positive regulation of MDA-5 signaling pathway	GO_1900245	0	1	1	0	0
+positive regulation of B cell deletion	GO_0002869	0	1	1	0	0
+positive regulation by virus of host cytokine production	GO_0044832	0	1	1	0	0
+positive regulation by symbiont of host systemic acquired resistance	GO_0052537	0	1	1	0	0
+positive regulation by symbiont of host salicylic acid-mediated defense response	GO_0052074	0	1	1	0	0
+positive regulation by symbiont of host resistance gene-dependent defense response	GO_0052527	0	1	1	0	0
+positive regulation by symbiont of host phytoalexin production	GO_0052344	0	1	1	0	0
+positive regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052075	0	1	1	0	0
+positive regulation by symbiont of host innate immune response	GO_0052166	0	1	1	0	0
+positive regulation by symbiont of host inflammatory response	GO_0052035	0	1	1	0	0
+positive regulation by symbiont of host induced systemic resistance	GO_0052533	0	1	1	0	0
+positive regulation by symbiont of host immune response	GO_0052556	0	1	1	0	0
+positive regulation by symbiont of host ethylene-mediated defense response	GO_0052076	0	1	1	0	0
+positive regulation by symbiont of host defense-related protein level	GO_0033664	0	1	1	0	0
+positive regulation by symbiont of host defense-related programmed cell death	GO_0034055	0	1	1	0	0
+positive regulation by symbiont of host defense response	GO_0052509	0	1	1	0	0
+positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052072	0	1	1	0	0
+positive regulation by symbiont of defense-related host reactive oxygen species production	GO_0052369	0	1	1	0	0
+positive regulation by symbiont of defense-related host nitric oxide production	GO_0052347	0	1	1	0	0
+positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052073	0	1	1	0	0
+positive regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway	GO_0052071	0	1	1	0	0
+positive regulation by symbiont of defense-related host cell wall thickening	GO_0052539	0	1	1	0	0
+positive regulation by symbiont of defense-related host cell wall callose deposition	GO_0052109	0	1	1	0	0
+positive regulation by symbiont of defense-related host callose deposition	GO_0052107	0	1	1	0	0
+positive regulation by symbiont of defense-related host calcium-dependent protein kinase pathway	GO_0052102	0	1	1	0	0
+positive regulation by symbiont of defense-related host calcium ion flux	GO_0052389	0	1	1	0	0
+positive regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway	GO_0052079	0	1	1	0	0
+positive regulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052535	0	1	1	0	0
+positive regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052272	0	1	1	0	0
+positive regulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052423	0	1	1	0	0
+positive regulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052329	0	1	1	0	0
+positive regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052273	0	1	1	0	0
+positive regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052305	0	1	1	0	0
+positive regulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052259	0	1	1	0	0
+positive regulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052532	0	1	1	0	0
+positive regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052555	0	1	1	0	0
+positive regulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction	GO_0052274	0	1	1	0	0
+positive regulation by organism of defense-related salicylic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052270	0	1	1	0	0
+positive regulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052348	0	1	1	0	0
+positive regulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052345	0	1	1	0	0
+positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052271	0	1	1	0	0
+positive regulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052269	0	1	1	0	0
+positive regulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052538	0	1	1	0	0
+positive regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052292	0	1	1	0	0
+positive regulation by organism of defense-related callose deposition in other organism involved in symbiotic interaction	GO_0052291	0	1	1	0	0
+positive regulation by organism of defense-related calcium-dependent protein kinase pathway in other organism involved in symbiotic interaction	GO_0052287	0	1	1	0	0
+positive regulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction	GO_0052065	0	1	1	0	0
+positive regulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052276	0	1	1	0	0
+positive regulation by organism of defense response of other organism involved in symbiotic interaction	GO_0052510	0	1	1	0	0
+positive regulation by host of symbiont defense response	GO_0052197	0	1	1	0	0
+positive regulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052502	0	1	1	0	0
+positive regulation by host of cytolysis of symbiont cells	GO_0051841	0	1	1	0	0
+platelet activating factor secretion involved in inflammatory response	GO_0002535	0	1	1	0	0
+platelet activating factor production involved in inflammatory response	GO_0002391	0	1	1	0	0
+plasma kallikrein-kinin cascade	GO_0002353	0	1	1	0	0
+plant-type hypersensitive response	GO_0009626	0	1	1	0	0
+peptidoglycan recognition protein signaling pathway	GO_0061057	0	1	1	0	0
+pattern recognition receptor signaling pathway	GO_0002221	0	1	1	0	0
+pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response	GO_0052169	0	1	1	0	0
+pathogen-associated molecular pattern dependent modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052308	0	1	1	0	0
+pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	GO_0052033	0	1	1	0	0
+pathogen-associated molecular pattern dependent induction by organism of innate immune response of other organism involved in symbiotic interaction	GO_0052257	0	1	1	0	0
+passive induction of host innate immune response by virus	GO_0046735	0	1	1	0	0
+passive induction of host immune response by virus	GO_0046731	0	1	1	0	0
+passive induction of host humoral immune response by virus	GO_0046733	0	1	1	0	0
+passive induction of host cell-mediated immune response by virus	GO_0046734	0	1	1	0	0
+nucleotide-binding oligomerization domain containing signaling pathway	GO_0070423	0	1	1	0	0
+nucleotide-binding oligomerization domain containing 2 signaling pathway	GO_0070431	0	1	1	0	0
+nucleotide-binding oligomerization domain containing 1 signaling pathway	GO_0070427	0	1	1	0	0
+nitric oxide production involved in inflammatory response	GO_0002537	0	1	1	0	0
+neutrophil mediated killing of symbiont cell	GO_0070943	0	1	1	0	0
+neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	1	0	0
+neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	1	0	0
+neutrophil mediated killing of fungus	GO_0070947	0	1	1	0	0
+neutrophil mediated killing of bacterium	GO_0070944	0	1	1	0	0
+negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039532	0	1	1	0	0
+negative regulation of type IV hypersensitivity	GO_0001808	0	1	1	0	0
+negative regulation of type IIb hypersensitivity	GO_0001800	0	1	1	0	0
+negative regulation of type IIa hypersensitivity	GO_0001797	0	1	1	0	0
+negative regulation of type III hypersensitivity	GO_0001804	0	1	1	0	0
+negative regulation of type II hypersensitivity	GO_0002893	0	1	1	0	0
+negative regulation of type I interferon-mediated signaling pathway	GO_0060339	0	1	1	0	0
+negative regulation of type I hypersensitivity	GO_0001811	0	1	1	0	0
+negative regulation of tissue kallikrein-kinin cascade	GO_0002546	0	1	1	0	0
+negative regulation of systemic acquired resistance	GO_0010113	0	1	1	0	0
+negative regulation of response to interferon-gamma	GO_0060331	0	1	1	0	0
+negative regulation of respiratory burst involved in inflammatory response	GO_0060266	0	1	1	0	0
+negative regulation of plasma kallikrein-kinin cascade	GO_0002549	0	1	1	0	0
+negative regulation of plant-type hypersensitive response	GO_0034051	0	1	1	0	0
+negative regulation of peripheral B cell deletion	GO_0002909	0	1	1	0	0
+negative regulation of peptidoglycan recognition protein signaling pathway	GO_0061060	0	1	1	0	0
+negative regulation of neutrophil mediated killing of symbiont cell	GO_0070955	0	1	1	0	0
+negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	0	1	1	0	0
+negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	0	1	1	0	0
+negative regulation of neutrophil mediated killing of fungus	GO_0070959	0	1	1	0	0
+negative regulation of neutrophil mediated killing of bacterium	GO_0070956	0	1	1	0	0
+negative regulation of natural killer cell tolerance induction	GO_0002872	0	1	1	0	0
+negative regulation of natural killer cell mediated immunity	GO_0002716	0	1	1	0	0
+negative regulation of natural killer cell mediated immune response to tumor cell	GO_0002856	0	1	1	0	0
+negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002859	0	1	1	0	0
+negative regulation of natural killer cell mediated cytotoxicity	GO_0045953	0	1	1	0	0
+negative regulation of natural killer cell degranulation	GO_0043322	0	1	1	0	0
+negative regulation of natural killer cell cytokine production	GO_0002728	0	1	1	0	0
+negative regulation of melanization defense response	GO_0035009	0	1	1	0	0
+negative regulation of leukotriene production involved in inflammatory response	GO_0035492	0	1	1	0	0
+negative regulation of kinin cascade	GO_0002257	0	1	1	0	0
+negative regulation of interferon-gamma-mediated signaling pathway	GO_0060336	0	1	1	0	0
+negative regulation of innate immune response	GO_0045824	0	1	1	0	0
+negative regulation of inflammatory response to antigenic stimulus	GO_0002862	0	1	1	0	0
+negative regulation of inflammatory response	GO_0050728	0	1	1	0	0
+negative regulation of hypersensitivity	GO_0002884	0	1	1	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	1	0	0
+negative regulation of granuloma formation	GO_0002632	0	1	1	0	0
+negative regulation of fever generation	GO_0031621	0	1	1	0	0
+negative regulation of defense response to virus by host	GO_0050689	0	1	1	0	0
+negative regulation of defense response to virus	GO_0050687	0	1	1	0	0
+negative regulation of defense response to oomycetes	GO_1902289	0	1	1	0	0
+negative regulation of defense response to insect	GO_1900366	0	1	1	0	0
+negative regulation of defense response to bacterium, incompatible interaction	GO_1902478	0	1	1	0	0
+negative regulation of defense response to bacterium	GO_1900425	0	1	1	0	0
+negative regulation of defense response	GO_0031348	0	1	1	0	0
+negative regulation of cytokine production involved in inflammatory response	GO_1900016	0	1	1	0	0
+negative regulation of complement activation, lectin pathway in other organism	GO_0044632	0	1	1	0	0
+negative regulation of complement activation, lectin pathway	GO_0001869	0	1	1	0	0
+negative regulation of complement activation, classical pathway in other organism	GO_0044629	0	1	1	0	0
+negative regulation of complement activation, classical pathway	GO_0045959	0	1	1	0	0
+negative regulation of complement activation, alternative pathway in other organism	GO_0044634	0	1	1	0	0
+negative regulation of complement activation, alternative pathway	GO_0045957	0	1	1	0	0
+negative regulation of complement activation	GO_0045916	0	1	1	0	0
+negative regulation of chronic inflammatory response to non-antigenic stimulus	GO_0002881	0	1	1	0	0
+negative regulation of chronic inflammatory response to antigenic stimulus	GO_0002875	0	1	1	0	0
+negative regulation of chronic inflammatory response	GO_0002677	0	1	1	0	0
+negative regulation of central B cell deletion	GO_0002899	0	1	1	0	0
+negative regulation of cellular defense response	GO_0051245	0	1	1	0	0
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	0	1	1	0	0
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	0	1	1	0	0
+negative regulation of behavioral fear response	GO_2000986	0	1	1	0	0
+negative regulation of antifungal peptide secretion	GO_0002801	0	1	1	0	0
+negative regulation of antifungal peptide production	GO_0002789	0	1	1	0	0
+negative regulation of antifungal peptide biosynthetic process	GO_0002811	0	1	1	0	0
+negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	1	0	0
+negative regulation of antibacterial peptide secretion	GO_0002798	0	1	1	0	0
+negative regulation of antibacterial peptide production	GO_0002787	0	1	1	0	0
+negative regulation of antibacterial peptide biosynthetic process	GO_0002809	0	1	1	0	0
+negative regulation of acute inflammatory response to non-antigenic stimulus	GO_0002878	0	1	1	0	0
+negative regulation of acute inflammatory response to antigenic stimulus	GO_0002865	0	1	1	0	0
+negative regulation of acute inflammatory response	GO_0002674	0	1	1	0	0
+negative regulation of activation of membrane attack complex	GO_0001971	0	1	1	0	0
+negative regulation of RIG-I signaling pathway	GO_0039536	0	1	1	0	0
+negative regulation of MDA-5 signaling pathway	GO_0039534	0	1	1	0	0
+negative regulation of B cell deletion	GO_0002868	0	1	1	0	0
+negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052034	0	1	1	0	0
+negative regulation by symbiont of host salicylic acid-mediated defense response	GO_0052004	0	1	1	0	0
+negative regulation by symbiont of host resistance gene-dependent defense response	GO_0033660	0	1	1	0	0
+negative regulation by symbiont of host phytoalexin production	GO_1990217	0	1	1	0	0
+negative regulation by symbiont of host jasmonic acid-mediated defense response	GO_0052068	0	1	1	0	0
+negative regulation by symbiont of host innate immune response	GO_0052170	0	1	1	0	0
+negative regulation by symbiont of host inflammatory response	GO_0052036	0	1	1	0	0
+negative regulation by symbiont of host immune response	GO_0052562	0	1	1	0	0
+negative regulation by symbiont of host ethylene-mediated defense response	GO_0052005	0	1	1	0	0
+negative regulation by symbiont of host defense-related protein level	GO_0033663	0	1	1	0	0
+negative regulation by symbiont of host defense-related programmed cell death	GO_0034054	0	1	1	0	0
+negative regulation by symbiont of host defense response	GO_0052037	0	1	1	0	0
+negative regulation by symbiont of host cell-mediated immune response	GO_0052083	0	1	1	0	0
+negative regulation by symbiont of host T-cell mediated immune response	GO_0052085	0	1	1	0	0
+negative regulation by symbiont of host B-cell mediated immune response	GO_0052086	0	1	1	0	0
+negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052003	0	1	1	0	0
+negative regulation by symbiont of defense-related host reactive oxygen species production	GO_0033661	0	1	1	0	0
+negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052069	0	1	1	0	0
+negative regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway	GO_0052070	0	1	1	0	0
+negative regulation by symbiont of defense-related host cell wall callose deposition	GO_0052202	0	1	1	0	0
+negative regulation by symbiont of defense-related host callose deposition	GO_0052087	0	1	1	0	0
+negative regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway	GO_0052078	0	1	1	0	0
+negative regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052253	0	1	1	0	0
+negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction	GO_0052258	0	1	1	0	0
+negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052266	0	1	1	0	0
+negative regulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052309	0	1	1	0	0
+negative regulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052260	0	1	1	0	0
+negative regulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052561	0	1	1	0	0
+negative regulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction	GO_0052254	0	1	1	0	0
+negative regulation by organism of defense-related salicylic acid-mediated signal transduction pathway of other organism involved in symbiotic interaction	GO_0052252	0	1	1	0	0
+negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052267	0	1	1	0	0
+negative regulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052268	0	1	1	0	0
+negative regulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052311	0	1	1	0	0
+negative regulation by organism of defense-related callose deposition in other organism involved in symbiotic interaction	GO_0052282	0	1	1	0	0
+negative regulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052275	0	1	1	0	0
+negative regulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052278	0	1	1	0	0
+negative regulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052280	0	1	1	0	0
+negative regulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052281	0	1	1	0	0
+negative regulation by host of symbiont defense response	GO_0052196	0	1	1	0	0
+negative regulation by host of symbiont MAP kinase-mediated signal transduction	GO_0075102	0	1	1	0	0
+negative regulation by host of cytolysis of symbiont cells	GO_0051840	0	1	1	0	0
+natural killer cell mediated immunity	GO_0002228	0	1	1	0	0
+natural killer cell mediated immune response to tumor cell	GO_0002423	0	1	1	0	0
+natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002420	0	1	1	0	0
+natural killer cell mediated cytotoxicity	GO_0042267	0	1	1	0	0
+natural killer cell degranulation	GO_0043320	0	1	1	0	0
+natural killer cell cytokine production	GO_0002370	0	1	1	0	0
+modulation of complement activation, lectin pathway in other organism	GO_0044630	0	1	1	0	0
+modulation of complement activation, classical pathway in other organism	GO_0044627	0	1	1	0	0
+modulation of complement activation, alternative pathway in other organism	GO_0044633	0	1	1	0	0
+modulation of complement activation in other organism	GO_0044645	0	1	1	0	0
+modulation by virus of host immune response	GO_0075528	0	1	1	0	0
+modulation by virus of host cytokine production	GO_0044831	0	1	1	0	0
+modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	GO_0052157	0	1	1	0	0
+modulation by symbiont of host systemic acquired resistance	GO_0052160	0	1	1	0	0
+modulation by symbiont of host salicylic acid-mediated defense response	GO_0052089	0	1	1	0	0
+modulation by symbiont of host resistance gene-dependent defense response	GO_0052158	0	1	1	0	0
+modulation by symbiont of host phytoalexin production	GO_0052165	0	1	1	0	0
+modulation by symbiont of host jasmonic acid-mediated defense response	GO_0052088	0	1	1	0	0
+modulation by symbiont of host innate immune response	GO_0052167	0	1	1	0	0
+modulation by symbiont of host inflammatory response	GO_0052032	0	1	1	0	0
+modulation by symbiont of host induced systemic resistance	GO_0052159	0	1	1	0	0
+modulation by symbiont of host immune response	GO_0052553	0	1	1	0	0
+modulation by symbiont of host ethylene-mediated defense response	GO_0052084	0	1	1	0	0
+modulation by symbiont of host defense-related protein level	GO_0033662	0	1	1	0	0
+modulation by symbiont of host defense-related programmed cell death	GO_0034053	0	1	1	0	0
+modulation by symbiont of host defense response	GO_0052031	0	1	1	0	0
+modulation by symbiont of host cell-mediated immune response	GO_0052155	0	1	1	0	0
+modulation by symbiont of host T-cell mediated immune response	GO_0052156	0	1	1	0	0
+modulation by symbiont of host B-cell mediated immune response	GO_0052154	0	1	1	0	0
+modulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	GO_0052081	0	1	1	0	0
+modulation by symbiont of defense-related host reactive oxygen species production	GO_0052164	0	1	1	0	0
+modulation by symbiont of defense-related host nitric oxide production	GO_0052163	0	1	1	0	0
+modulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	GO_0052082	0	1	1	0	0
+modulation by symbiont of defense-related host ethylene-mediated signal transduction pathway	GO_0052077	0	1	1	0	0
+modulation by symbiont of defense-related host cell wall thickening	GO_0052161	0	1	1	0	0
+modulation by symbiont of defense-related host cell wall callose deposition	GO_0052189	0	1	1	0	0
+modulation by symbiont of defense-related host callose deposition	GO_0052090	0	1	1	0	0
+modulation by symbiont of defense-related host calcium-dependent protein kinase pathway	GO_0052168	0	1	1	0	0
+modulation by symbiont of defense-related host calcium ion flux	GO_0052162	0	1	1	0	0
+modulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway	GO_0052080	0	1	1	0	0
+modulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052299	0	1	1	0	0
+modulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052284	0	1	1	0	0
+modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052297	0	1	1	0	0
+modulation by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052304	0	1	1	0	0
+modulation by organism of microbe-associated molecular pattern-induced innate immune response in other organism involved in symbiotic interaction	GO_0052296	0	1	1	0	0
+modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	GO_0052283	0	1	1	0	0
+modulation by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052306	0	1	1	0	0
+modulation by organism of inflammatory response of other organism involved in symbiotic interaction	GO_0052256	0	1	1	0	0
+modulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052298	0	1	1	0	0
+modulation by organism of immune response of other organism involved in symbiotic interaction	GO_0052552	0	1	1	0	0
+modulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction	GO_0052279	0	1	1	0	0
+modulation by organism of defense-related salicylic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052445	0	1	1	0	0
+modulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052303	0	1	1	0	0
+modulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052302	0	1	1	0	0
+modulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052443	0	1	1	0	0
+modulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052441	0	1	1	0	0
+modulation by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052300	0	1	1	0	0
+modulation by organism of defense-related cell wall callose deposition in other organism involved in symbiotic interaction	GO_0052310	0	1	1	0	0
+modulation by organism of defense-related callose deposition of other organism involved in symbiotic interaction	GO_0052285	0	1	1	0	0
+modulation by organism of defense-related calcium-dependent protein kinase pathway in other organism involved in symbiotic interaction	GO_0052307	0	1	1	0	0
+modulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction	GO_0052301	0	1	1	0	0
+modulation by organism of defense-related MAP kinase-mediated signal transduction pathway in other organism involved in symbiotic interaction	GO_0052277	0	1	1	0	0
+modulation by organism of defense response of other organism involved in symbiotic interaction	GO_0052255	0	1	1	0	0
+modulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	GO_0052294	0	1	1	0	0
+modulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052295	0	1	1	0	0
+modulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	GO_0052293	0	1	1	0	0
+modulation by host of symbiont defense response	GO_0052181	0	1	1	0	0
+modulation by host of defense-related symbiont MAP kinase-mediated signal transduction pathway	GO_0052435	0	1	1	0	0
+melanotic encapsulation of foreign target	GO_0035011	0	1	1	0	0
+melanization defense response	GO_0035006	0	1	1	0	0
+male-specific defense response to bacterium	GO_0050831	0	1	1	0	0
+male-specific antibacterial humoral response	GO_0006962	0	1	1	0	0
+lysosomal enzyme secretion involved in inflammatory response	GO_0002533	0	1	1	0	0
+lysosomal enzyme production involved in inflammatory response	GO_0002393	0	1	1	0	0
+leukotriene production involved in inflammatory response	GO_0002540	0	1	1	0	0
+leukocyte migration involved in inflammatory response	GO_0002523	0	1	1	0	0
+leukocyte chemotaxis involved in inflammatory response	GO_0002232	0	1	1	0	0
+leukocyte activation involved in inflammatory response	GO_0002269	0	1	1	0	0
+kinin cascade	GO_0002254	0	1	1	0	0
+killing by host of symbiont cells	GO_0051873	0	1	1	0	0
+jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway	GO_0009868	0	1	1	0	0
+jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	GO_0009871	0	1	1	0	0
+jasmonic acid and ethylene-dependent systemic resistance	GO_0009861	0	1	1	0	0
+intracellular vesicle pattern recognition receptor signaling pathway	GO_0002754	0	1	1	0	0
+intracellular defense response	GO_0002818	0	1	1	0	0
+interferon-gamma-mediated signaling pathway	GO_0060333	0	1	1	0	0
+interferon-gamma receptor activity	GO_0004906	0	1	1	0	0
+innate immune response-activating signal transduction	GO_0002758	0	1	1	0	0
+innate immune response in mucosa	GO_0002227	0	1	1	0	0
+innate immune response activating cell surface receptor signaling pathway	GO_0002220	0	1	1	0	0
+innate immune response	GO_0045087	0	1	1	0	0
+inflammatory response to wounding	GO_0090594	0	1	1	0	0
+inflammatory response to antigenic stimulus	GO_0002437	0	1	1	0	0
+inflammatory response	GO_0006954	0	1	1	0	0
+induction of phytoalexin biosynthetic process	GO_0009689	0	1	1	0	0
+induction of host immune response by virus	GO_0046730	0	1	1	0	0
+induction of bacterial agglutination	GO_0043152	0	1	1	0	0
+induction by symbiont of host systemic acquired resistance	GO_0052104	0	1	1	0	0
+induction by symbiont of host resistance gene-dependent defense response	GO_0052101	0	1	1	0	0
+induction by symbiont of host phytoalexin production	GO_0052062	0	1	1	0	0
+induction by symbiont of host innate immune response	GO_0052390	0	1	1	0	0
+induction by symbiont of host induced systemic resistance	GO_0052103	0	1	1	0	0
+induction by symbiont of host immune response	GO_0052559	0	1	1	0	0
+induction by symbiont of host defense response	GO_0044416	0	1	1	0	0
+induction by symbiont of defense-related host reactive oxygen species production	GO_0052064	0	1	1	0	0
+induction by symbiont of defense-related host nitric oxide production	GO_0052063	0	1	1	0	0
+induction by symbiont of defense-related host cell wall thickening	GO_0052105	0	1	1	0	0
+induction by symbiont of defense-related host calcium ion flux	GO_0052391	0	1	1	0	0
+induction by organism of systemic acquired resistance in other organism involved in symbiotic interaction	GO_0052289	0	1	1	0	0
+induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	GO_0052286	0	1	1	0	0
+induction by organism of phytoalexin production in other organism involved in symbiotic interaction	GO_0052262	0	1	1	0	0
+induction by organism of innate immune response in other organism involved in symbiotic interaction	GO_0052382	0	1	1	0	0
+induction by organism of induced systemic resistance in other organism involved in symbiotic interaction	GO_0052288	0	1	1	0	0
+induction by organism of immune response of other organism involved in symbiotic interaction	GO_0052558	0	1	1	0	0
+induction by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	GO_0052264	0	1	1	0	0
+induction by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	GO_0052263	0	1	1	0	0
+induction by organism of defense-related cell wall thickening in other organism involved in symbiotic interaction	GO_0052290	0	1	1	0	0
+induction by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction	GO_0052265	0	1	1	0	0
+induction by organism of defense response of other organism involved in symbiotic interaction	GO_0052251	0	1	1	0	0
+induction by host of symbiont defense response	GO_0052393	0	1	1	0	0
+induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	1	0	0
+induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	1	0	0
+induced systemic resistance	GO_0009682	0	1	1	0	0
+inactivation of MAPK activity involved in innate immune response	GO_0035423	0	1	1	0	0
+hypersensitivity	GO_0002524	0	1	1	0	0
+host gene silencing in virus induced gene silencing	GO_0060146	0	1	1	0	0
+host cellular process involved in virus induced gene silencing	GO_0060144	0	1	1	0	0
+histamine secretion mediated by immunoglobulin	GO_0097280	0	1	1	0	0
+histamine secretion mediated by IgE immunoglobulin	GO_0097279	0	1	1	0	0
+histamine secretion involved in inflammatory response	GO_0002441	0	1	1	0	0
+histamine secretion by platelet	GO_0002555	0	1	1	0	0
+histamine secretion by mast cell	GO_0002553	0	1	1	0	0
+histamine secretion by basophil	GO_0002557	0	1	1	0	0
+histamine production involved in inflammatory response	GO_0002349	0	1	1	0	0
+hemolymph coagulation	GO_0042381	0	1	1	0	0
+granuloma formation	GO_0002432	0	1	1	0	0
+fever generation	GO_0001660	0	1	1	0	0
+evasion or tolerance by virus of host immune response	GO_0030683	0	1	1	0	0
+evasion by virus of host natural killer cell activity	GO_0039671	0	1	1	0	0
+evasion by virus of host dendritic cell activity	GO_0039673	0	1	1	0	0
+ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance	GO_0043272	0	1	1	0	0
+effector dependent induction by symbiont of host immune response	GO_0080185	0	1	1	0	0
+disruption by host of symbiont cells	GO_0051852	0	1	1	0	0
+defense response, incompatible interaction	GO_0009814	0	1	1	0	0
+defense response to virus	GO_0051607	0	1	1	0	0
+defense response to tumor cell	GO_0002357	0	1	1	0	0
+defense response to protozoan, incompatible interaction	GO_0009818	0	1	1	0	0
+defense response to protozoan	GO_0042832	0	1	1	0	0
+defense response to parasitic plant	GO_0002242	0	1	1	0	0
+defense response to other organism	GO_0098542	0	1	1	0	0
+defense response to oomycetes	GO_0002229	0	1	1	0	0
+defense response to nematode	GO_0002215	0	1	1	0	0
+defense response to insect	GO_0002213	0	1	1	0	0
+defense response to fungus, incompatible interaction	GO_0009817	0	1	1	0	0
+defense response to fungus	GO_0050832	0	1	1	0	0
+defense response to bacterium, incompatible interaction	GO_0009816	0	1	1	0	0
+defense response to bacterium	GO_0042742	0	1	1	0	0
+defense response to Gram-positive bacterium	GO_0050830	0	1	1	0	0
+defense response to Gram-negative bacterium	GO_0050829	0	1	1	0	0
+defense response signaling pathway, resistance gene-independent	GO_0010204	0	1	1	0	0
+defense response signaling pathway, resistance gene-dependent	GO_0009870	0	1	1	0	0
+defense response by cell wall thickening	GO_0052482	0	1	1	0	0
+defense response by callose deposition in cell wall	GO_0052544	0	1	1	0	0
+defense response by callose deposition	GO_0052542	0	1	1	0	0
+defense response	GO_0006952	0	1	1	0	0
+cytoplasmic pattern recognition receptor signaling pathway in response to virus	GO_0039528	0	1	1	0	0
+cytoplasmic pattern recognition receptor signaling pathway	GO_0002753	0	1	1	0	0
+cytolysis by host of symbiont cells	GO_0051838	0	1	1	0	0
+cytokine production involved in inflammatory response	GO_0002534	0	1	1	0	0
+cysteine-type endopeptidase activity involved in plant-type hypersensitive response	GO_0097299	0	1	1	0	0
+connective tissue replacement involved in inflammatory response wound healing	GO_0002248	0	1	1	0	0
+complement activation, lectin pathway	GO_0001867	0	1	1	0	0
+complement activation, alternative pathway	GO_0006957	0	1	1	0	0
+clearance of foreign intracellular DNA by conversion of DNA cytidine to uridine	GO_0044356	0	1	1	0	0
+clearance of foreign intracellular DNA	GO_0044355	0	1	1	0	0
+clearance of damaged tissue involved in inflammatory response wound healing	GO_0002247	0	1	1	0	0
+chronic inflammatory response to non-antigenic stimulus	GO_0002545	0	1	1	0	0
+chronic inflammatory response to antigenic stimulus	GO_0002439	0	1	1	0	0
+chronic inflammatory response	GO_0002544	0	1	1	0	0
+cellular response to type III interferon	GO_0071358	0	1	1	0	0
+cellular response to type I interferon	GO_0071357	0	1	1	0	0
+cellular response to interferon-gamma	GO_0071346	0	1	1	0	0
+cellular defense response	GO_0006968	0	1	1	0	0
+cell surface pattern recognition receptor signaling pathway	GO_0002752	0	1	1	0	0
+biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002815	0	1	1	0	0
+biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002812	0	1	1	0	0
+behavioral fear response	GO_0001662	0	1	1	0	0
+behavioral defense response to nematode	GO_0002212	0	1	1	0	0
+behavioral defense response to insect	GO_0002211	0	1	1	0	0
+behavioral defense response	GO_0002209	0	1	1	0	0
+arachidonic acid metabolite production involved in inflammatory response	GO_0002538	0	1	1	0	0
+antifungal peptide secretion	GO_0002782	0	1	1	0	0
+antifungal peptide production	GO_0002781	0	1	1	0	0
+antifungal peptide biosynthetic process	GO_0002783	0	1	1	0	0
+antifungal humoral response	GO_0019732	0	1	1	0	0
+antibody-dependent cellular cytotoxicity	GO_0001788	0	1	1	0	0
+antibacterial peptide secretion	GO_0002779	0	1	1	0	0
+antibacterial peptide production	GO_0002778	0	1	1	0	0
+antibacterial peptide biosynthetic process	GO_0002780	0	1	1	0	0
+antibacterial humoral response	GO_0019731	0	1	1	0	0
+acute-phase response	GO_0006953	0	1	1	0	0
+acute inflammatory response to non-antigenic stimulus	GO_0002525	0	1	1	0	0
+acute inflammatory response to antigenic stimulus	GO_0002438	0	1	1	0	0
+acute inflammatory response	GO_0002526	0	1	1	0	0
+active induction of innate immune response in host by virus	GO_0046738	0	1	1	0	0
+active induction of humoral immune response in host by virus	GO_0046736	0	1	1	0	0
+active induction of host immune response by virus	GO_0046732	0	1	1	0	0
+active induction of cell-mediated immune response in host by virus	GO_0046737	0	1	1	0	0
+activation of plasma proteins involved in acute inflammatory response	GO_0002541	0	1	1	0	0
+activation of innate immune response	GO_0002218	0	1	1	0	0
+activation of blood coagulation via clotting cascade	GO_0002543	0	1	1	0	0
+activation of MAPKKK activity involved in innate immune response	GO_0035422	0	1	1	0	0
+activation of MAPKK activity involved in innate immune response	GO_0035421	0	1	1	0	0
+activation of MAPK activity involved in innate immune response	GO_0035419	0	1	1	0	0
+TRIF-dependent toll-like receptor signaling pathway	GO_0035666	0	1	1	0	0
+TRIF-dependent toll-like receptor 4 signaling pathway	GO_0035667	0	1	1	0	0
+TRAM-dependent toll-like receptor signaling pathway	GO_0035668	0	1	1	0	0
+TRAM-dependent toll-like receptor 4 signaling pathway	GO_0035669	0	1	1	0	0
+TIRAP-dependent toll-like receptor signaling pathway	GO_0035664	0	1	1	0	0
+TIRAP-dependent toll-like receptor 4 signaling pathway	GO_0035665	0	1	1	0	0
+RNA virus induced gene silencing	GO_0051214	0	1	1	0	0
+RIG-I signaling pathway	GO_0039529	0	1	1	0	0
+MyD88-independent toll-like receptor signaling pathway	GO_0002756	0	1	1	0	0
+MyD88-dependent toll-like receptor signaling pathway	GO_0002755	0	1	1	0	0
+MyD88-dependent toll-like receptor 4 signaling pathway	GO_0035660	0	1	1	0	0
+MyD88-dependent toll-like receptor 2 signaling pathway	GO_0035661	0	1	1	0	0
+MDA-5 signaling pathway	GO_0039530	0	1	1	0	0
+MAPK import into nucleus involved in innate immune response	GO_0035424	0	1	1	0	0
+MAPK cascade involved in innate immune response	GO_0035420	0	1	1	0	0
+MAP kinase kinase kinase activity involved in innate immune response	GO_0038077	0	1	1	0	0
+MAP kinase kinase activity involved in innate immune response	GO_0038076	0	1	1	0	0
+MAP kinase activity involved in innate immune response	GO_0038075	0	1	1	0	0
+G-protein coupled receptor signaling pathway involved in defense response to Gram-negative bacterium	GO_1903554	0	1	1	0	0
+Factor XII activation	GO_0002542	0	1	1	0	0
+DNA virus induced gene silencing	GO_0051215	0	1	1	0	0
+DNA restriction-modification system	GO_0009307	0	1	1	0	0
