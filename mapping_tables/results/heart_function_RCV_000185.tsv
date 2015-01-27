@@ -60,56 +60,56 @@ AV node cell to bundle of His cell signaling	GO_0086027	1	0	1	0	0
 AV node cell to bundle of His cell communication by electrical coupling	GO_0086053	1	0	1	0	0
 AV node cell to bundle of His cell communication	GO_0086067	1	0	1	0	0
 AV node cell action potential	GO_0086016	1	0	1	0	0
-regulation of the force of heart contraction by chemical signal	GO_0003057	0	1	0	0	0
-regulation of the force of heart contraction	GO_0002026	0	1	0	0	0
-regulation of systemic arterial blood pressure by atrial baroreceptor feedback	GO_0002015	0	1	0	0	0
-regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903245	0	1	0	0	0
-regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901204	0	1	0	0	0
-positive regulation of the force of heart contraction involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001989	0	1	0	0	0
-positive regulation of the force of heart contraction by norepinephrine	GO_0003061	0	1	0	0	0
-positive regulation of the force of heart contraction by neuronal norepinephrine	GO_0003110	0	1	0	0	0
-positive regulation of the force of heart contraction by neuronal epinephrine-norepinephrine	GO_0003090	0	1	0	0	0
-positive regulation of the force of heart contraction by neuronal epinephrine	GO_0003087	0	1	0	0	0
-positive regulation of the force of heart contraction by epinephrine-norepinephrine	GO_0001997	0	1	0	0	0
-positive regulation of the force of heart contraction by epinephrine	GO_0003059	0	1	0	0	0
-positive regulation of the force of heart contraction by circulating norepinephrine	GO_0003109	0	1	0	0	0
-positive regulation of the force of heart contraction by circulating epinephrine-norepinephrine	GO_0003089	0	1	0	0	0
-positive regulation of the force of heart contraction by circulating epinephrine	GO_0003088	0	1	0	0	0
-positive regulation of the force of heart contraction by chemical signal	GO_0003099	0	1	0	0	0
-positive regulation of the force of heart contraction	GO_0098735	0	1	0	0	0
-positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction	GO_0086094	0	1	0	0	0
-positive regulation of heart rate involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001988	0	1	0	0	0
-positive regulation of heart rate by norepinephrine	GO_0003066	0	1	0	0	0
-positive regulation of heart rate by neuronal norepinephrine	GO_0003113	0	1	0	0	0
-positive regulation of heart rate by neuronal epinephrine	GO_0003112	0	1	0	0	0
-positive regulation of heart rate by epinephrine-norepinephrine	GO_0001996	0	1	0	0	0
-positive regulation of heart rate by epinephrine	GO_0003065	0	1	0	0	0
-positive regulation of heart rate by circulating norepinephrine	GO_0003114	0	1	0	0	0
-positive regulation of heart rate by circulating epinephrine	GO_0003111	0	1	0	0	0
-positive regulation of heart rate	GO_0010460	0	1	0	0	0
-positive regulation of heart contraction	GO_0045823	0	1	0	0	0
-positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903247	0	1	0	0	0
-positive regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901206	0	1	0	0	0
-positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	0	1	0	0	0
-phospholipase C-activating angiotensin-activated signaling pathway involved in heart process	GO_0086099	0	1	0	0	0
-negative regulation of the force of heart contraction involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001986	0	1	0	0	0
-negative regulation of the force of heart contraction by chemical signal	GO_0003108	0	1	0	0	0
-negative regulation of the force of heart contraction by acetylcholine	GO_0003060	0	1	0	0	0
-negative regulation of the force of heart contraction	GO_0098736	0	1	0	0	0
-negative regulation of heart rate involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001985	0	1	0	0	0
-negative regulation of heart rate by acetylcholine	GO_0003063	0	1	0	0	0
-negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903246	0	1	0	0	0
-negative regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901205	0	1	0	0	0
-modulation of heart rate in other organism	GO_0044554	0	1	0	0	0
-hormonal regulation of the force of heart contraction	GO_0003058	0	1	0	0	0
-heart process	GO_0003015	0	1	0	0	0
-heart contraction	GO_0060047	0	1	0	0	0
-endothelin receptor signaling pathway involved in heart process	GO_0086101	0	1	0	0	0
-circadian regulation of heart rate by the suprachiasmatic nucleus	GO_0003055	0	1	0	0	0
-circadian regulation of heart rate	GO_0003053	0	1	0	0	0
-angiotensin-activated signaling pathway involved in heart process	GO_0086098	0	1	0	0	0
-adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	0	0	0
-adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	0	0	0
-G-protein coupled receptor signaling pathway involved in heart process	GO_0086103	0	1	0	0	0
-G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086033	0	1	0	0	0
-G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process	GO_0086093	0	1	0	0	0
+regulation of the force of heart contraction by chemical signal	GO_0003057	0	1	1	0	0
+regulation of the force of heart contraction	GO_0002026	0	1	1	0	0
+regulation of systemic arterial blood pressure by atrial baroreceptor feedback	GO_0002015	0	1	1	0	0
+regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903245	0	1	1	0	0
+regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901204	0	1	1	0	0
+positive regulation of the force of heart contraction involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001989	0	1	1	0	0
+positive regulation of the force of heart contraction by norepinephrine	GO_0003061	0	1	1	0	0
+positive regulation of the force of heart contraction by neuronal norepinephrine	GO_0003110	0	1	1	0	0
+positive regulation of the force of heart contraction by neuronal epinephrine-norepinephrine	GO_0003090	0	1	1	0	0
+positive regulation of the force of heart contraction by neuronal epinephrine	GO_0003087	0	1	1	0	0
+positive regulation of the force of heart contraction by epinephrine-norepinephrine	GO_0001997	0	1	1	0	0
+positive regulation of the force of heart contraction by epinephrine	GO_0003059	0	1	1	0	0
+positive regulation of the force of heart contraction by circulating norepinephrine	GO_0003109	0	1	1	0	0
+positive regulation of the force of heart contraction by circulating epinephrine-norepinephrine	GO_0003089	0	1	1	0	0
+positive regulation of the force of heart contraction by circulating epinephrine	GO_0003088	0	1	1	0	0
+positive regulation of the force of heart contraction by chemical signal	GO_0003099	0	1	1	0	0
+positive regulation of the force of heart contraction	GO_0098735	0	1	1	0	0
+positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction	GO_0086094	0	1	1	0	0
+positive regulation of heart rate involved in baroreceptor response to decreased systemic arterial blood pressure	GO_0001988	0	1	1	0	0
+positive regulation of heart rate by norepinephrine	GO_0003066	0	1	1	0	0
+positive regulation of heart rate by neuronal norepinephrine	GO_0003113	0	1	1	0	0
+positive regulation of heart rate by neuronal epinephrine	GO_0003112	0	1	1	0	0
+positive regulation of heart rate by epinephrine-norepinephrine	GO_0001996	0	1	1	0	0
+positive regulation of heart rate by epinephrine	GO_0003065	0	1	1	0	0
+positive regulation of heart rate by circulating norepinephrine	GO_0003114	0	1	1	0	0
+positive regulation of heart rate by circulating epinephrine	GO_0003111	0	1	1	0	0
+positive regulation of heart rate	GO_0010460	0	1	1	0	0
+positive regulation of heart contraction	GO_0045823	0	1	1	0	0
+positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903247	0	1	1	0	0
+positive regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901206	0	1	1	0	0
+positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	0	1	1	0	0
+phospholipase C-activating angiotensin-activated signaling pathway involved in heart process	GO_0086099	0	1	1	0	0
+negative regulation of the force of heart contraction involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001986	0	1	1	0	0
+negative regulation of the force of heart contraction by chemical signal	GO_0003108	0	1	1	0	0
+negative regulation of the force of heart contraction by acetylcholine	GO_0003060	0	1	1	0	0
+negative regulation of the force of heart contraction	GO_0098736	0	1	1	0	0
+negative regulation of heart rate involved in baroreceptor response to increased systemic arterial blood pressure	GO_0001985	0	1	1	0	0
+negative regulation of heart rate by acetylcholine	GO_0003063	0	1	1	0	0
+negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903246	0	1	1	0	0
+negative regulation of adrenergic receptor signaling pathway involved in heart process	GO_1901205	0	1	1	0	0
+modulation of heart rate in other organism	GO_0044554	0	1	1	0	0
+hormonal regulation of the force of heart contraction	GO_0003058	0	1	1	0	0
+heart process	GO_0003015	0	1	1	0	0
+heart contraction	GO_0060047	0	1	1	0	0
+endothelin receptor signaling pathway involved in heart process	GO_0086101	0	1	1	0	0
+circadian regulation of heart rate by the suprachiasmatic nucleus	GO_0003055	0	1	1	0	0
+circadian regulation of heart rate	GO_0003053	0	1	1	0	0
+angiotensin-activated signaling pathway involved in heart process	GO_0086098	0	1	1	0	0
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	1	0	0
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	1	0	0
+G-protein coupled receptor signaling pathway involved in heart process	GO_0086103	0	1	1	0	0
+G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086033	0	1	1	0	0
+G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process	GO_0086093	0	1	1	0	0
