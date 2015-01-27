@@ -8,49 +8,49 @@ spinal cord commissural neuron specification	GO_0021518	1	1	1	0	0
 spinal cord association neuron specification	GO_0021519	1	1	1	0	0
 spinal cord association neuron differentiation	GO_0021527	1	1	1	0	0
 spinal cord anterior/posterior patterning	GO_0021512	1	1	1	0	0
-spinal trigeminal nucleus development	GO_0021741	1	0	1	0	0
+spinal trigeminal nucleus development	GO_0021741	1	0	1	1	0
 spinal cord ventral commissure morphogenesis	GO_0021965	1	0	1	0	0
-visceral motor neuron differentiation	GO_0021524	0	1	0	0	0
-ventral spinal cord interneuron specification	GO_0021521	0	1	0	0	0
-ventral spinal cord interneuron fate determination	GO_0060580	0	1	0	0	0
-ventral spinal cord interneuron fate commitment	GO_0060579	0	1	0	0	0
-ventral spinal cord interneuron differentiation	GO_0021514	0	1	0	0	0
-ventral spinal cord development	GO_0021517	0	1	0	0	0
-spinal cord radial glial cell differentiation	GO_0021531	0	1	0	0	0
-spinal cord oligodendrocyte cell fate specification	GO_0021530	0	1	0	0	0
-spinal cord oligodendrocyte cell differentiation	GO_0021529	0	1	0	0	0
-somatic motor neuron fate commitment	GO_0021917	0	1	0	0	0
-somatic motor neuron differentiation	GO_0021523	0	1	0	0	0
-smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021910	0	1	0	0	0
-smoothened signaling pathway involved in ventral spinal cord interneuron specification	GO_0021775	0	1	0	0	0
-smoothened signaling pathway involved in spinal cord motor neuron cell fate specification	GO_0021776	0	1	0	0	0
-retinoic acid receptor signaling pathway involved in ventral spinal cord interneuron specification	GO_0021774	0	1	0	0	0
-retinoic acid receptor signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0060895	0	1	0	0	0
-retinoic acid receptor signaling pathway involved in spinal cord anterior/posterior pattern formation	GO_0021908	0	1	0	0	0
-retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification	GO_0021913	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification	GO_0021912	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in spinal cord association neuron specification	GO_0021920	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in spinal cord anterior-posterior patterning	GO_0021909	0	1	0	0	0
-regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment	GO_0021918	0	1	0	0	0
-regulation of spinal cord association neuron differentiation	GO_1902829	0	1	0	0	0
-regulation of cell proliferation in dorsal spinal cord	GO_0021921	0	1	0	0	0
-regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	0	0	0
-positive regulation of spinal cord association neuron differentiation	GO_1902831	0	1	0	0	0
-positive regulation of cell proliferation in dorsal spinal cord	GO_1902833	0	1	0	0	0
-positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	0	0	0
-negative regulation of spinal cord association neuron differentiation	GO_1902830	0	1	0	0	0
-negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021914	0	1	0	0	0
-negative regulation of cell proliferation in dorsal spinal cord	GO_1902832	0	1	0	0	0
-negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	0	0	0
-medial motor column neuron differentiation	GO_0021526	0	1	0	0	0
-lateral motor column neuron differentiation	GO_0021525	0	1	0	0	0
-inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors	GO_0021916	0	1	0	0	0
-fibroblast growth factor receptor signaling pathway involved in spinal cord anterior/posterior pattern formation	GO_0021907	0	1	0	0	0
-dorsal spinal cord development	GO_0021516	0	1	0	0	0
-commissural neuron differentiation in spinal cord	GO_0021528	0	1	0	0	0
-central canal development	GO_0061524	0	1	0	0	0
-cell differentiation in spinal cord	GO_0021515	0	1	0	0	0
-Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord	GO_0021922	0	1	0	0	0
-BMP signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0021919	0	1	0	0	0
-BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	0	1	0	0	0
+visceral motor neuron differentiation	GO_0021524	0	1	1	0	0
+ventral spinal cord interneuron specification	GO_0021521	0	1	1	0	0
+ventral spinal cord interneuron fate determination	GO_0060580	0	1	1	0	0
+ventral spinal cord interneuron fate commitment	GO_0060579	0	1	1	0	0
+ventral spinal cord interneuron differentiation	GO_0021514	0	1	1	0	0
+ventral spinal cord development	GO_0021517	0	1	1	0	0
+spinal cord radial glial cell differentiation	GO_0021531	0	1	1	0	0
+spinal cord oligodendrocyte cell fate specification	GO_0021530	0	1	1	0	0
+spinal cord oligodendrocyte cell differentiation	GO_0021529	0	1	1	0	0
+somatic motor neuron fate commitment	GO_0021917	0	1	1	0	0
+somatic motor neuron differentiation	GO_0021523	0	1	1	0	0
+smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021910	0	1	1	0	0
+smoothened signaling pathway involved in ventral spinal cord interneuron specification	GO_0021775	0	1	1	0	0
+smoothened signaling pathway involved in spinal cord motor neuron cell fate specification	GO_0021776	0	1	1	0	0
+retinoic acid receptor signaling pathway involved in ventral spinal cord interneuron specification	GO_0021774	0	1	1	0	0
+retinoic acid receptor signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0060895	0	1	1	0	0
+retinoic acid receptor signaling pathway involved in spinal cord anterior/posterior pattern formation	GO_0021908	0	1	1	0	0
+retinoic acid metabolic process in spinal cord anterior-posterior patterning	GO_0021911	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification	GO_0021913	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification	GO_0021912	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord association neuron specification	GO_0021920	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in spinal cord anterior-posterior patterning	GO_0021909	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment	GO_0021918	0	1	1	0	0
+regulation of spinal cord association neuron differentiation	GO_1902829	0	1	1	0	0
+regulation of cell proliferation in dorsal spinal cord	GO_0021921	0	1	1	0	0
+regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902878	0	1	1	0	0
+positive regulation of spinal cord association neuron differentiation	GO_1902831	0	1	1	0	0
+positive regulation of cell proliferation in dorsal spinal cord	GO_1902833	0	1	1	0	0
+positive regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902880	0	1	1	0	0
+negative regulation of spinal cord association neuron differentiation	GO_1902830	0	1	1	0	0
+negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	GO_0021914	0	1	1	0	0
+negative regulation of cell proliferation in dorsal spinal cord	GO_1902832	0	1	1	0	0
+negative regulation of BMP signaling pathway involved in spinal cord association neuron specification	GO_1902879	0	1	1	0	0
+medial motor column neuron differentiation	GO_0021526	0	1	1	0	0
+lateral motor column neuron differentiation	GO_0021525	0	1	1	0	0
+inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors	GO_0021916	0	1	1	0	0
+fibroblast growth factor receptor signaling pathway involved in spinal cord anterior/posterior pattern formation	GO_0021907	0	1	1	0	0
+dorsal spinal cord development	GO_0021516	0	1	1	0	0
+commissural neuron differentiation in spinal cord	GO_0021528	0	1	1	0	0
+central canal development	GO_0061524	0	1	1	0	0
+cell differentiation in spinal cord	GO_0021515	0	1	1	0	0
+Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord	GO_0021922	0	1	1	0	0
+BMP signaling pathway involved in spinal cord dorsal/ventral patterning	GO_0021919	0	1	1	0	0
+BMP signaling pathway involved in spinal cord association neuron specification	GO_0021777	0	1	1	0	0
