@@ -1,4 +1,13 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of acetylcholine uptake	GO_0051631	1	1	1	0	0
+regulation of acetylcholine secretion, neurotransmission	GO_0014056	1	1	1	0	0
+regulation of acetylcholine metabolic process	GO_0060408	1	1	1	0	0
+positive regulation of acetylcholine uptake	GO_0051633	1	1	1	0	0
+positive regulation of acetylcholine secretion, neurotransmission	GO_0014057	1	1	1	0	0
+positive regulation of acetylcholine metabolic process	GO_0060409	1	1	1	0	0
+negative regulation of acetylcholine uptake	GO_0051632	1	1	1	0	0
+negative regulation of acetylcholine secretion, neurotransmission	GO_0014058	1	1	1	0	0
+negative regulation of acetylcholine metabolic process	GO_0060410	1	1	1	0	0
 acetylcholine-induced gastric acid secretion	GO_0001699	1	1	1	0	0
 acetylcholine uptake	GO_0051630	1	1	1	0	0
 acetylcholine transport	GO_0015870	1	1	1	0	0
@@ -7,28 +16,28 @@ acetylcholine metabolic process	GO_0008291	1	1	1	0	0
 acetylcholine catabolic process in synaptic cleft	GO_0001507	1	1	1	0	0
 acetylcholine catabolic process	GO_0006581	1	1	1	0	0
 acetylcholine biosynthetic process	GO_0008292	1	1	1	0	0
-regulation of acetylcholine uptake	GO_0051631	1	0	1	0	0
-regulation of acetylcholine secretion, neurotransmission	GO_0014056	1	0	1	0	0
-regulation of acetylcholine metabolic process	GO_0060408	1	0	1	0	0
-positive regulation of acetylcholine uptake	GO_0051633	1	0	1	0	0
-positive regulation of acetylcholine secretion, neurotransmission	GO_0014057	1	0	1	0	0
-positive regulation of acetylcholine metabolic process	GO_0060409	1	0	1	0	0
 positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086095	1	0	1	0	0
 phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	GO_0007207	1	0	1	0	0
 negative regulation of the force of heart contraction by acetylcholine	GO_0003060	1	0	1	0	0
 negative regulation of heart rate by acetylcholine	GO_0003063	1	0	1	0	0
-negative regulation of acetylcholine uptake	GO_0051632	1	0	1	0	0
-negative regulation of acetylcholine secretion, neurotransmission	GO_0014058	1	0	1	0	0
-negative regulation of acetylcholine metabolic process	GO_0060410	1	0	1	0	0
 adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	1	0	1	0	0
 adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	GO_0007197	1	0	1	0	0
 G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086033	1	0	1	0	0
 G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process	GO_0086093	1	0	1	0	0
 G-protein coupled acetylcholine receptor signaling pathway	GO_0007213	1	0	1	0	0
 synaptic transmission, cholinergic	GO_0007271	0	1	0	0	0
-acetylcholine:proton antiporter activity	GO_0005278	0	1	1	0	0
-acetylcholine transmembrane transporter activity	GO_0005277	0	1	1	0	0
-acetylcholine secretion	GO_0061526	0	1	1	0	0
-acetylcholine receptor activity	GO_0015464	0	1	1	0	0
-acetylcholine binding	GO_0042166	0	1	1	0	0
-G-protein coupled acetylcholine receptor activity	GO_0016907	0	1	1	0	0
+regulation of synaptic transmission, cholinergic	GO_0032222	0	1	0	0	0
+positive regulation of synaptic transmission, cholinergic	GO_0032224	0	1	0	0	0
+negative regulation of synaptic transmission, cholinergic	GO_0032223	0	1	0	0	0
+negative regulation by symbiont of host cholinergic synaptic transmission	GO_0044761	0	1	0	0	0
+modulation by symbiont of host cholinergic synaptic transmission	GO_0044760	0	1	0	0	0
+inhibition of acetylcholine uptake	GO_0051634	0	1	0	0	0
+acetylcholine:proton antiporter activity	GO_0005278	0	1	0	0	0
+acetylcholine transmembrane transporter activity	GO_0005277	0	1	0	0	0
+acetylcholine secretion	GO_0061526	0	1	0	0	0
+acetylcholine receptor regulator activity	GO_0030548	0	1	0	0	0
+acetylcholine receptor inhibitor activity	GO_0030550	0	1	0	0	0
+acetylcholine receptor activity	GO_0015464	0	1	0	0	0
+acetylcholine receptor activator activity	GO_0030549	0	1	0	0	0
+acetylcholine binding	GO_0042166	0	1	0	0	0
+G-protein coupled acetylcholine receptor activity	GO_0016907	0	1	0	0	0

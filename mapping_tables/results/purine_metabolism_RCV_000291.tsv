@@ -255,7 +255,6 @@ IDP metabolic process	GO_0046707	0	1	1	0	0
 IDP catabolic process	GO_0046709	0	1	1	0	0
 IDP biosynthetic process	GO_0046708	0	1	1	0	0
 GTP metabolic process	GO_0046039	0	1	1	0	0
-GTP catabolic process	GO_0006184	0	1	1	0	0
 GTP biosynthetic process	GO_0006183	0	1	1	0	0
 GMP salvage	GO_0032263	0	1	1	0	0
 GMP metabolic process	GO_0046037	0	1	1	0	0
@@ -269,7 +268,6 @@ GDP biosynthetic process	GO_0046711	0	1	1	0	0
 ATP synthesis coupled proton transport	GO_0015986	0	1	1	0	0
 ATP synthesis coupled electron transport	GO_0042773	0	1	0	0	0
 ATP metabolic process	GO_0046034	0	1	1	0	0
-ATP catabolic process	GO_0006200	0	1	1	0	0
 ATP biosynthetic process	GO_0006754	0	1	1	0	0
 AMP salvage	GO_0044209	0	1	1	0	0
 AMP phosphorylation	GO_0006756	0	1	1	0	0

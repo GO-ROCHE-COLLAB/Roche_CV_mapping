@@ -2,3 +2,6 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 pancreatic A cell fate commitment	GO_0003326	1	1	1	0	0
 pancreatic A cell differentiation	GO_0003310	1	1	1	0	0
 pancreatic A cell development	GO_0003322	1	1	1	0	0
+regulation of pancreatic A cell differentiation	GO_2000226	0	1	0	0	0
+positive regulation of pancreatic A cell differentiation	GO_2000228	0	1	0	0	0
+negative regulation of pancreatic A cell differentiation	GO_2000227	0	1	0	0	0

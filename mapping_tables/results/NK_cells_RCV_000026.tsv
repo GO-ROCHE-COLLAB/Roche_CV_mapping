@@ -1,4 +1,35 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of natural killer cell tolerance induction	GO_0002871	1	1	1	0	0
+regulation of natural killer cell proliferation	GO_0032817	1	1	1	0	0
+regulation of natural killer cell mediated immunity	GO_0002715	1	1	1	0	0
+regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002858	1	1	1	0	0
+regulation of natural killer cell mediated cytotoxicity	GO_0042269	1	1	1	0	0
+regulation of natural killer cell differentiation	GO_0032823	1	1	1	0	0
+regulation of natural killer cell degranulation	GO_0043321	1	1	1	0	0
+regulation of natural killer cell cytokine production	GO_0002727	1	1	1	0	0
+regulation of natural killer cell apoptotic process	GO_0070247	1	1	1	0	0
+regulation of natural killer cell activation	GO_0032814	1	1	1	0	0
+protection from natural killer cell mediated cytotoxicity	GO_0042270	1	1	1	0	0
+positive regulation of natural killer cell tolerance induction	GO_0002873	1	1	1	0	0
+positive regulation of natural killer cell proliferation	GO_0032819	1	1	1	0	0
+positive regulation of natural killer cell mediated immunity	GO_0002717	1	1	1	0	0
+positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002860	1	1	1	0	0
+positive regulation of natural killer cell mediated cytotoxicity	GO_0045954	1	1	1	0	0
+positive regulation of natural killer cell differentiation	GO_0032825	1	1	1	0	0
+positive regulation of natural killer cell degranulation	GO_0043323	1	1	1	0	0
+positive regulation of natural killer cell cytokine production	GO_0002729	1	1	1	0	0
+positive regulation of natural killer cell apoptotic process	GO_0070249	1	1	1	0	0
+positive regulation of natural killer cell activation	GO_0032816	1	1	1	0	0
+negative regulation of natural killer cell tolerance induction	GO_0002872	1	1	1	0	0
+negative regulation of natural killer cell proliferation	GO_0032818	1	1	1	0	0
+negative regulation of natural killer cell mediated immunity	GO_0002716	1	1	1	0	0
+negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002859	1	1	1	0	0
+negative regulation of natural killer cell mediated cytotoxicity	GO_0045953	1	1	1	0	0
+negative regulation of natural killer cell differentiation	GO_0032824	1	1	1	0	0
+negative regulation of natural killer cell degranulation	GO_0043322	1	1	1	0	0
+negative regulation of natural killer cell cytokine production	GO_0002728	1	1	1	0	0
+negative regulation of natural killer cell apoptotic process	GO_0070248	1	1	1	0	0
+negative regulation of natural killer cell activation	GO_0032815	1	1	1	0	0
 natural killer cell tolerance induction	GO_0002519	1	1	1	0	0
 natural killer cell proliferation	GO_0001787	1	1	1	0	0
 natural killer cell mediated immunity	GO_0002228	1	1	1	0	0
@@ -10,46 +41,15 @@ natural killer cell cytokine production	GO_0002370	1	1	1	0	0
 natural killer cell apoptotic process	GO_0070246	1	1	1	0	0
 natural killer cell activation	GO_0030101	1	1	1	0	0
 establishment of natural killer cell polarity	GO_0001770	1	1	1	0	0
-regulation of natural killer cell tolerance induction	GO_0002871	1	0	1	0	0
-regulation of natural killer cell proliferation	GO_0032817	1	0	1	0	0
-regulation of natural killer cell mediated immunity	GO_0002715	1	0	1	0	0
-regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002858	1	0	1	0	0
-regulation of natural killer cell mediated cytotoxicity	GO_0042269	1	0	1	0	0
-regulation of natural killer cell differentiation	GO_0032823	1	0	1	0	0
-regulation of natural killer cell degranulation	GO_0043321	1	0	1	0	0
-regulation of natural killer cell cytokine production	GO_0002727	1	0	1	0	0
 regulation of natural killer cell chemotaxis	GO_2000501	1	0	1	0	0
-regulation of natural killer cell apoptotic process	GO_0070247	1	0	1	0	0
-regulation of natural killer cell activation	GO_0032814	1	0	1	0	0
 regulation of NK T cell proliferation	GO_0051140	1	0	1	0	0
 regulation of NK T cell differentiation	GO_0051136	1	0	1	0	0
 regulation of NK T cell activation	GO_0051133	1	0	1	0	0
-protection from natural killer cell mediated cytotoxicity	GO_0042270	1	0	1	0	0
-positive regulation of natural killer cell tolerance induction	GO_0002873	1	0	1	0	0
-positive regulation of natural killer cell proliferation	GO_0032819	1	0	1	0	0
-positive regulation of natural killer cell mediated immunity	GO_0002717	1	0	1	0	0
-positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002860	1	0	1	0	0
-positive regulation of natural killer cell mediated cytotoxicity	GO_0045954	1	0	1	0	0
-positive regulation of natural killer cell differentiation	GO_0032825	1	0	1	0	0
-positive regulation of natural killer cell degranulation	GO_0043323	1	0	1	0	0
-positive regulation of natural killer cell cytokine production	GO_0002729	1	0	1	0	0
 positive regulation of natural killer cell chemotaxis	GO_2000503	1	0	1	0	0
-positive regulation of natural killer cell apoptotic process	GO_0070249	1	0	1	0	0
-positive regulation of natural killer cell activation	GO_0032816	1	0	1	0	0
 positive regulation of NK T cell proliferation	GO_0051142	1	0	1	0	0
 positive regulation of NK T cell differentiation	GO_0051138	1	0	1	0	0
 positive regulation of NK T cell activation	GO_0051135	1	0	1	0	0
-negative regulation of natural killer cell tolerance induction	GO_0002872	1	0	1	0	0
-negative regulation of natural killer cell proliferation	GO_0032818	1	0	1	0	0
-negative regulation of natural killer cell mediated immunity	GO_0002716	1	0	1	0	0
-negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO_0002859	1	0	1	0	0
-negative regulation of natural killer cell mediated cytotoxicity	GO_0045953	1	0	1	0	0
-negative regulation of natural killer cell differentiation	GO_0032824	1	0	1	0	0
-negative regulation of natural killer cell degranulation	GO_0043322	1	0	1	0	0
-negative regulation of natural killer cell cytokine production	GO_0002728	1	0	1	0	0
 negative regulation of natural killer cell chemotaxis	GO_2000502	1	0	1	0	0
-negative regulation of natural killer cell apoptotic process	GO_0070248	1	0	1	0	0
-negative regulation of natural killer cell activation	GO_0032815	1	0	1	0	0
 negative regulation of NK T cell proliferation	GO_0051141	1	0	1	0	0
 negative regulation of NK T cell differentiation	GO_0051137	1	0	1	0	0
 negative regulation of NK T cell activation	GO_0051134	1	0	1	0	0
@@ -61,7 +61,17 @@ NK T cell proliferation	GO_0001866	1	0	1	0	0
 NK T cell lineage commitment	GO_0002364	1	0	1	0	0
 NK T cell differentiation	GO_0001865	1	0	1	0	0
 NK T cell activation	GO_0051132	1	0	1	0	0
+susceptibility to natural killer cell mediated cytotoxicity	GO_0042271	0	1	0	0	0
 suppression by virus of host natural killer cell activation	GO_0039672	0	1	1	0	0
+regulation of natural killer cell proliferation involved in immune response	GO_0032820	0	1	0	0	0
+regulation of natural killer cell mediated immune response to tumor cell	GO_0002855	0	1	0	0	0
+regulation of natural killer cell differentiation involved in immune response	GO_0032826	0	1	0	0	0
+positive regulation of natural killer cell proliferation involved in immune response	GO_0032822	0	1	0	0	0
+positive regulation of natural killer cell mediated immune response to tumor cell	GO_0002857	0	1	0	0	0
+positive regulation of natural killer cell differentiation involved in immune response	GO_0032828	0	1	0	0	0
+negative regulation of natural killer cell proliferation involved in immune response	GO_0032821	0	1	0	0	0
+negative regulation of natural killer cell mediated immune response to tumor cell	GO_0002856	0	1	0	0	0
+negative regulation of natural killer cell differentiation involved in immune response	GO_0032827	0	1	0	0	0
 natural killer cell proliferation involved in immune response	GO_0002324	0	1	1	0	0
 natural killer cell mediated immune response to tumor cell	GO_0002423	0	1	1	0	0
 natural killer cell differentiation involved in immune response	GO_0002325	0	1	1	0	0

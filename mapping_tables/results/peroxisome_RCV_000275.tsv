@@ -1,8 +1,10 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of peroxisome organization	GO_1900063	1	1	1	0	0
 protein targeting to peroxisome	GO_0006625	1	1	1	0	0
 protein localization to peroxisome	GO_0072662	1	1	1	0	0
 protein import into peroxisome membrane	GO_0045046	1	1	1	0	0
 protein import into peroxisome matrix	GO_0016558	1	1	1	0	0
+positive regulation of peroxisome organization	GO_1900064	1	1	1	0	0
 peroxisome organization	GO_0007031	1	1	1	0	0
 peroxisome localization	GO_0060151	1	1	1	0	0
 peroxisome inheritance	GO_0045033	1	1	1	0	0
@@ -14,16 +16,15 @@ macropexophagy	GO_0000425	1	1	1	0	0
 establishment of protein localization to peroxisome	GO_0072663	1	1	1	0	0
 ER-dependent peroxisome organization	GO_0032581	1	1	1	0	0
 regulation of peroxisome size	GO_0044375	1	0	1	0	0
-regulation of peroxisome organization	GO_1900063	1	0	1	0	0
 protein import into peroxisome matrix, translocation	GO_0016561	1	0	1	0	0
 protein import into peroxisome matrix, receptor recycling	GO_0016562	1	0	1	0	0
 protein import into peroxisome matrix, docking	GO_0016560	1	0	1	0	0
-positive regulation of peroxisome organization	GO_1900064	1	0	1	0	0
 peroxisome membrane biogenesis	GO_0016557	1	0	1	0	0
 peroxisome fission	GO_0016559	1	0	1	0	0
 peroxisomal membrane disassembly	GO_0030398	1	0	1	0	0
 attachment of peroxisome to chloroplast	GO_0010381	1	0	1	0	0
 vesicle fusion with peroxisome	GO_0019817	0	1	0	0	0
+positive regulation of peroxisome organization by positive regulation of transcription from RNA polymerase II promoter	GO_0061424	0	1	0	0	0
 peroxisome	GO_0005777	0	1	1	0	0
 peroxisomal part	GO_0044439	0	1	1	0	0
 peroxisomal membrane	GO_0005778	0	1	1	0	0

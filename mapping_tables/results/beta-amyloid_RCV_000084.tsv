@@ -2,4 +2,10 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 beta-amyloid metabolic process	GO_0050435	1	1	1	0	0
 beta-amyloid formation	GO_0034205	1	1	1	0	0
 beta-amyloid clearance	GO_0097242	1	1	1	0	0
-beta-amyloid binding	GO_0001540	0	1	1	0	0
+regulation of beta-amyloid formation	GO_1902003	0	1	0	0	0
+regulation of beta-amyloid clearance	GO_1900221	0	1	0	0	0
+positive regulation of beta-amyloid formation	GO_1902004	0	1	0	0	0
+positive regulation of beta-amyloid clearance	GO_1900223	0	1	0	0	0
+negative regulation of beta-amyloid formation	GO_1902430	0	1	0	0	0
+negative regulation of beta-amyloid clearance	GO_1900222	0	1	0	0	0
+beta-amyloid binding	GO_0001540	0	1	0	0	0

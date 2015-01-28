@@ -1,9 +1,42 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of plasmacytoid dendritic cell cytokine production	GO_0002736	1	1	1	0	0
+regulation of plasmacytoid dendritic cell antigen processing and presentation	GO_0002610	1	1	1	0	0
+regulation of myeloid dendritic cell cytokine production	GO_0002733	1	1	1	0	0
+regulation of myeloid dendritic cell chemotaxis	GO_2000527	1	1	1	0	0
+regulation of myeloid dendritic cell antigen processing and presentation	GO_0002607	1	1	1	0	0
+regulation of myeloid dendritic cell activation	GO_0030885	1	1	1	0	0
+regulation of dendritic cell differentiation	GO_2001198	1	1	1	0	0
+regulation of dendritic cell cytokine production	GO_0002730	1	1	1	0	0
+regulation of dendritic cell chemotaxis	GO_2000508	1	1	1	0	0
+regulation of dendritic cell apoptotic process	GO_2000668	1	1	1	0	0
+regulation of dendritic cell antigen processing and presentation	GO_0002604	1	1	1	0	0
+positive regulation of plasmacytoid dendritic cell cytokine production	GO_0002738	1	1	1	0	0
+positive regulation of plasmacytoid dendritic cell antigen processing and presentation	GO_0002612	1	1	1	0	0
+positive regulation of myeloid dendritic cell cytokine production	GO_0002735	1	1	1	0	0
+positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	1	1	1	0	0
+positive regulation of myeloid dendritic cell antigen processing and presentation	GO_0002609	1	1	1	0	0
+positive regulation of myeloid dendritic cell activation	GO_0030887	1	1	1	0	0
+positive regulation of dendritic cell differentiation	GO_2001200	1	1	1	0	0
+positive regulation of dendritic cell cytokine production	GO_0002732	1	1	1	0	0
+positive regulation of dendritic cell chemotaxis	GO_2000510	1	1	1	0	0
+positive regulation of dendritic cell apoptotic process	GO_2000670	1	1	1	0	0
+positive regulation of dendritic cell antigen processing and presentation	GO_0002606	1	1	1	0	0
 plasmacytoid dendritic cell differentiation	GO_0002273	1	1	1	0	0
 plasmacytoid dendritic cell cytokine production	GO_0002373	1	1	1	0	0
 plasmacytoid dendritic cell chemotaxis	GO_0002410	1	1	1	0	0
 plasmacytoid dendritic cell antigen processing and presentation	GO_0002470	1	1	1	0	0
 plasmacytoid dendritic cell activation	GO_0002270	1	1	1	0	0
+negative regulation of plasmacytoid dendritic cell cytokine production	GO_0002737	1	1	1	0	0
+negative regulation of plasmacytoid dendritic cell antigen processing and presentation	GO_0002611	1	1	1	0	0
+negative regulation of myeloid dendritic cell cytokine production	GO_0002734	1	1	1	0	0
+negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	1	1	1	0	0
+negative regulation of myeloid dendritic cell antigen processing and presentation	GO_0002608	1	1	1	0	0
+negative regulation of myeloid dendritic cell activation	GO_0030886	1	1	1	0	0
+negative regulation of dendritic cell differentiation	GO_2001199	1	1	1	0	0
+negative regulation of dendritic cell cytokine production	GO_0002731	1	1	1	0	0
+negative regulation of dendritic cell chemotaxis	GO_2000509	1	1	1	0	0
+negative regulation of dendritic cell apoptotic process	GO_2000669	1	1	1	0	0
+negative regulation of dendritic cell antigen processing and presentation	GO_0002605	1	1	1	0	0
 myeloid dendritic cell differentiation	GO_0043011	1	1	1	0	0
 myeloid dendritic cell cytokine production	GO_0002372	1	1	1	0	0
 myeloid dendritic cell chemotaxis	GO_0002408	1	1	1	0	0
@@ -17,44 +50,11 @@ dendritic cell cytokine production	GO_0002371	1	1	1	0	0
 dendritic cell chemotaxis	GO_0002407	1	1	1	0	0
 dendritic cell apoptotic process	GO_0097048	1	1	1	0	0
 dendritic cell antigen processing and presentation	GO_0002468	1	1	1	0	0
-regulation of plasmacytoid dendritic cell cytokine production	GO_0002736	1	0	1	0	0
-regulation of plasmacytoid dendritic cell antigen processing and presentation	GO_0002610	1	0	1	0	0
-regulation of myeloid dendritic cell cytokine production	GO_0002733	1	0	1	0	0
-regulation of myeloid dendritic cell chemotaxis	GO_2000527	1	0	1	0	0
-regulation of myeloid dendritic cell antigen processing and presentation	GO_0002607	1	0	1	0	0
-regulation of myeloid dendritic cell activation	GO_0030885	1	0	1	0	0
-regulation of dendritic cell differentiation	GO_2001198	1	0	1	0	0
 regulation of dendritic cell dendrite assembly	GO_2000547	1	0	1	0	0
-regulation of dendritic cell cytokine production	GO_0002730	1	0	1	0	0
-regulation of dendritic cell chemotaxis	GO_2000508	1	0	1	0	0
-regulation of dendritic cell apoptotic process	GO_2000668	1	0	1	0	0
-regulation of dendritic cell antigen processing and presentation	GO_0002604	1	0	1	0	0
-positive regulation of plasmacytoid dendritic cell cytokine production	GO_0002738	1	0	1	0	0
-positive regulation of plasmacytoid dendritic cell antigen processing and presentation	GO_0002612	1	0	1	0	0
-positive regulation of myeloid dendritic cell cytokine production	GO_0002735	1	0	1	0	0
-positive regulation of myeloid dendritic cell chemotaxis	GO_2000529	1	0	1	0	0
-positive regulation of myeloid dendritic cell antigen processing and presentation	GO_0002609	1	0	1	0	0
-positive regulation of myeloid dendritic cell activation	GO_0030887	1	0	1	0	0
-positive regulation of dendritic cell differentiation	GO_2001200	1	0	1	0	0
 positive regulation of dendritic cell dendrite assembly	GO_2000549	1	0	1	0	0
-positive regulation of dendritic cell cytokine production	GO_0002732	1	0	1	0	0
-positive regulation of dendritic cell chemotaxis	GO_2000510	1	0	1	0	0
-positive regulation of dendritic cell apoptotic process	GO_2000670	1	0	1	0	0
-positive regulation of dendritic cell antigen processing and presentation	GO_0002606	1	0	1	0	0
-negative regulation of plasmacytoid dendritic cell cytokine production	GO_0002737	1	0	1	0	0
-negative regulation of plasmacytoid dendritic cell antigen processing and presentation	GO_0002611	1	0	1	0	0
-negative regulation of myeloid dendritic cell cytokine production	GO_0002734	1	0	1	0	0
-negative regulation of myeloid dendritic cell chemotaxis	GO_2000528	1	0	1	0	0
-negative regulation of myeloid dendritic cell antigen processing and presentation	GO_0002608	1	0	1	0	0
-negative regulation of myeloid dendritic cell activation	GO_0030886	1	0	1	0	0
-negative regulation of dendritic cell differentiation	GO_2001199	1	0	1	0	0
 negative regulation of dendritic cell dendrite assembly	GO_2000548	1	0	1	0	0
-negative regulation of dendritic cell cytokine production	GO_0002731	1	0	1	0	0
-negative regulation of dendritic cell chemotaxis	GO_2000509	1	0	1	0	0
-negative regulation of dendritic cell apoptotic process	GO_2000669	1	0	1	0	0
-negative regulation of dendritic cell antigen processing and presentation	GO_0002605	1	0	1	0	0
-follicular dendritic cell differentiation	GO_0002268	1	0	1	0	0
-follicular dendritic cell activation	GO_0002266	1	0	1	0	0
+follicular dendritic cell differentiation	GO_0002268	1	0	1	1	0
+follicular dendritic cell activation	GO_0002266	1	0	1	1	0
 dendritic cell dendrite assembly	GO_0097026	1	0	1	0	0
 plasmacytoid dendritic cell differentiation involved in immune response	GO_0002272	0	1	1	0	0
 plasmacytoid dendritic cell activation involved in immune response	GO_0002271	0	1	1	0	0

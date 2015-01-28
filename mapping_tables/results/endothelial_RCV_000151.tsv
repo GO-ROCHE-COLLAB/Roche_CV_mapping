@@ -2,6 +2,31 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 venous endothelial cell migration involved in lymph vessel development	GO_0060855	1	1	1	0	0
 venous endothelial cell fate commitment	GO_0060845	1	1	1	0	0
 venous endothelial cell differentiation	GO_0060843	1	1	1	0	0
+regulation of venous endothelial cell fate commitment	GO_2000787	1	1	1	0	0
+regulation of endothelial cell proliferation	GO_0001936	1	1	1	0	0
+regulation of endothelial cell migration	GO_0010594	1	1	1	0	0
+regulation of endothelial cell differentiation	GO_0045601	1	1	1	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	1	1	1	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	1	1	1	0	0
+regulation of endothelial cell apoptotic process	GO_2000351	1	1	1	0	0
+regulation of blood vessel endothelial cell migration	GO_0043535	1	1	1	0	0
+positive regulation of venous endothelial cell fate commitment	GO_2000789	1	1	1	0	0
+positive regulation of endothelial cell proliferation	GO_0001938	1	1	1	0	0
+positive regulation of endothelial cell migration	GO_0010595	1	1	1	0	0
+positive regulation of endothelial cell differentiation	GO_0045603	1	1	1	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	1	1	1	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	1	1	1	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	1	1	1	0	0
+positive regulation of endothelial cell apoptotic process	GO_2000353	1	1	1	0	0
+positive regulation of blood vessel endothelial cell migration	GO_0043536	1	1	1	0	0
+negative regulation of venous endothelial cell fate commitment	GO_2000788	1	1	1	0	0
+negative regulation of endothelial cell proliferation	GO_0001937	1	1	1	0	0
+negative regulation of endothelial cell migration	GO_0010596	1	1	1	0	0
+negative regulation of endothelial cell differentiation	GO_0045602	1	1	1	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	1	1	1	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	1	1	1	0	0
+negative regulation of endothelial cell apoptotic process	GO_2000352	1	1	1	0	0
+negative regulation of blood vessel endothelial cell migration	GO_0043537	1	1	1	0	0
 lymphatic endothelial cell fate commitment	GO_0060838	1	1	1	0	0
 lymphatic endothelial cell differentiation	GO_0060836	1	1	1	0	0
 establishment of endothelial blood-brain barrier	GO_0014045	1	1	1	0	0
@@ -37,46 +62,21 @@ vascular endothelial growth factor signaling pathway	GO_0038084	1	0	1	0	0
 vascular endothelial growth factor receptor signaling pathway involved in lymphatic endothelial cell fate commitment	GO_0060851	1	0	1	0	0
 vascular endothelial growth factor receptor signaling pathway	GO_0048010	1	0	1	0	0
 vascular endothelial growth factor production	GO_0010573	1	0	1	0	0
-regulation of venous endothelial cell fate commitment	GO_2000787	1	0	1	0	0
 regulation of vascular endothelial growth factor signaling pathway	GO_1900746	1	0	1	0	0
 regulation of vascular endothelial growth factor receptor signaling pathway	GO_0030947	1	0	1	0	0
 regulation of vascular endothelial growth factor production	GO_0010574	1	0	1	0	0
 regulation of transcription involved in venous endothelial cell fate commitment	GO_0060852	1	0	1	0	0
 regulation of transcription involved in lymphatic endothelial cell fate commitment	GO_0060849	1	0	1	0	0
 regulation of endothelial microparticle formation	GO_2000335	1	0	1	0	0
-regulation of endothelial cell proliferation	GO_0001936	1	0	1	0	0
-regulation of endothelial cell migration	GO_0010594	1	0	1	0	0
-regulation of endothelial cell differentiation	GO_0045601	1	0	1	0	0
-regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	1	0	1	0	0
-regulation of endothelial cell chemotaxis	GO_2001026	1	0	1	0	0
-regulation of endothelial cell apoptotic process	GO_2000351	1	0	1	0	0
-regulation of blood vessel endothelial cell migration	GO_0043535	1	0	1	0	0
 pulmonary artery endothelial tube morphogenesis	GO_0061155	1	0	1	0	0
 positive regulation vascular endothelial growth factor production	GO_0010575	1	0	1	0	0
-positive regulation of venous endothelial cell fate commitment	GO_2000789	1	0	1	0	0
 positive regulation of vascular endothelial growth factor signaling pathway	GO_1900748	1	0	1	0	0
 positive regulation of vascular endothelial growth factor receptor signaling pathway	GO_0030949	1	0	1	0	0
 positive regulation of endothelial microparticle formation	GO_2000337	1	0	1	0	0
-positive regulation of endothelial cell proliferation	GO_0001938	1	0	1	0	0
-positive regulation of endothelial cell migration	GO_0010595	1	0	1	0	0
-positive regulation of endothelial cell differentiation	GO_0045603	1	0	1	0	0
-positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	1	0	1	0	0
-positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	1	0	1	0	0
-positive regulation of endothelial cell chemotaxis	GO_2001028	1	0	1	0	0
-positive regulation of endothelial cell apoptotic process	GO_2000353	1	0	1	0	0
 positive regulation of cell migration by vascular endothelial growth factor signaling pathway	GO_0038089	1	0	1	0	0
-positive regulation of blood vessel endothelial cell migration	GO_0043536	1	0	1	0	0
-negative regulation of venous endothelial cell fate commitment	GO_2000788	1	0	1	0	0
 negative regulation of vascular endothelial growth factor signaling pathway	GO_1900747	1	0	1	0	0
 negative regulation of vascular endothelial growth factor receptor signaling pathway	GO_0030948	1	0	1	0	0
 negative regulation of endothelial microparticle formation	GO_2000336	1	0	1	0	0
-negative regulation of endothelial cell proliferation	GO_0001937	1	0	1	0	0
-negative regulation of endothelial cell migration	GO_0010596	1	0	1	0	0
-negative regulation of endothelial cell differentiation	GO_0045602	1	0	1	0	0
-negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	1	0	1	0	0
-negative regulation of endothelial cell chemotaxis	GO_2001027	1	0	1	0	0
-negative regulation of endothelial cell apoptotic process	GO_2000352	1	0	1	0	0
-negative regulation of blood vessel endothelial cell migration	GO_0043537	1	0	1	0	0
 morphogenesis of an endothelium	GO_0003159	1	0	1	0	0
 metanephric glomerular endothelium development	GO_0072264	1	0	1	0	0
 lymphocyte chemotaxis across high endothelial venule	GO_0002518	1	0	1	0	0
@@ -97,6 +97,18 @@ adhesion of symbiont to host endothelial cell	GO_0044652	1	0	1	0	0
 Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment	GO_2000796	1	0	1	0	0
 Notch signaling pathway involved in arterial endothelial cell fate commitment	GO_0060853	1	0	1	0	0
 B cell chemotaxis across high endothelial venule	GO_0035769	1	0	1	0	0
+regulation of establishment of endothelial barrier	GO_1903140	0	1	0	0	0
+regulation of endothelial cell development	GO_1901550	0	1	0	0	0
+regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	0	0	0
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	0	0	0
+positive regulation of establishment of endothelial barrier	GO_1903142	0	1	0	0	0
+positive regulation of endothelial cell development	GO_1901552	0	1	0	0	0
+positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	0	0	0
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	0	0	0
+negative regulation of establishment of endothelial barrier	GO_1903141	0	1	0	0	0
+negative regulation of endothelial cell development	GO_1901551	0	1	0	0	0
+negative regulation of cell migration involved in sprouting angiogenesis	GO_0090051	0	1	0	0	0
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	0	0	0
 establishment of endothelial intestinal barrier	GO_0090557	0	1	0	0	0
 establishment of blood-nerve barrier	GO_0008065	0	1	0	0	0
 endocardial cushion cell fate commitment	GO_0061445	0	1	0	0	0

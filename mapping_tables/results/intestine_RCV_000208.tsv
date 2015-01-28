@@ -1,15 +1,16 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+positive regulation of intestinal cholesterol absorption	GO_0045797	1	1	1	0	0
+negative regulation of intestinal phytosterol absorption	GO_0010949	1	1	1	0	0
+negative regulation of intestinal cholesterol absorption	GO_0045796	1	1	1	0	0
 intestinal phytosterol absorption	GO_0060752	1	1	1	0	0
 intestinal lipid catabolic process	GO_0044258	1	1	1	0	0
 intestinal cholesterol absorption	GO_0030299	1	1	1	0	0
 intestinal absorption	GO_0050892	1	1	1	0	0
 positive regulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044518	1	0	1	0	0
-positive regulation of intestinal cholesterol absorption	GO_0045797	1	0	1	0	0
-negative regulation of intestinal phytosterol absorption	GO_0010949	1	0	1	0	0
-negative regulation of intestinal cholesterol absorption	GO_0045796	1	0	1	0	0
 modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044517	1	0	1	0	0
 envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044520	1	0	1	0	0
 envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044519	1	0	1	0	0
 tolerance induction in Peyer's patch	GO_0002389	0	1	1	1	1
+regulation of intestinal cholesterol absorption	GO_0030300	0	1	0	0	0
 intestinal D-glucose absorption	GO_0001951	0	1	1	0	0
 immune response in Peyer's patch	GO_0002388	0	1	1	1	1

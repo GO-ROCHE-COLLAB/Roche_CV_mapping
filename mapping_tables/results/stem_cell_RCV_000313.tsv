@@ -10,14 +10,14 @@ stem cell development	GO_0048864	1	1	1	0	0
 squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	1	1	1	0	0
 somatic stem cell maintenance	GO_0035019	1	1	1	0	0
 somatic stem cell division	GO_0048103	1	1	1	0	0
+regulation of stem cell proliferation	GO_0072091	1	1	1	0	0
+regulation of stem cell maintenance	GO_2000036	1	1	1	0	0
+regulation of stem cell division	GO_2000035	1	1	1	0	0
+regulation of stem cell differentiation	GO_2000736	1	1	1	0	0
 germ-line stem cell maintenance	GO_0030718	1	1	1	0	0
 germ-line stem cell division	GO_0042078	1	1	1	0	0
 amniotic stem cell differentiation	GO_0097086	1	1	1	0	0
 response to stem cell factor	GO_0036215	1	0	1	0	0
-regulation of stem cell proliferation	GO_0072091	1	0	1	0	0
-regulation of stem cell maintenance	GO_2000036	1	0	1	0	0
-regulation of stem cell division	GO_2000035	1	0	1	0	0
-regulation of stem cell differentiation	GO_2000736	1	0	1	0	0
 cellular response to stem cell factor stimulus	GO_0036216	1	0	1	0	0
 ventricular zone neuroblast division	GO_0021847	0	1	1	0	0
 symmetric stem cell division	GO_0098724	0	1	1	0	0
@@ -28,6 +28,58 @@ skeletal muscle satellite stem cell asymmetric division involved in skeletal mus
 skeletal muscle satellite stem cell asymmetric division	GO_0014833	0	1	1	0	0
 skeletal muscle satellite cell fate determination	GO_0014818	0	1	1	0	0
 respiratory basal cell differentiation	GO_1902691	0	1	1	0	0
+regulation of neuroblast proliferation	GO_1902692	0	1	0	0	0
+regulation of neural crest formation	GO_0090299	0	1	0	0	0
+regulation of metanephric cap mesenchymal cell proliferation	GO_0090095	0	1	0	0	0
+regulation of mesenchymal stem cell proliferation involved in nephron morphogenesis	GO_0072042	0	1	0	0	0
+regulation of mesenchymal stem cell proliferation	GO_1902460	0	1	0	0	0
+regulation of mesenchymal stem cell differentiation	GO_2000739	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in ureter development	GO_0072199	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in prostate gland development	GO_0060782	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in lung development	GO_2000790	0	1	0	0	0
+regulation of mesenchymal cell proliferation	GO_0010464	0	1	0	0	0
+regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	0	1	0	0	0
+regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	0	1	0	0	0
+regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	0	1	0	0	0
+regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	0	1	0	0	0
+regulation of mesenchymal cell apoptotic process	GO_2001053	0	1	0	0	0
+regulation of hematopoietic stem cell proliferation	GO_1902033	0	1	0	0	0
+regulation of hematopoietic stem cell migration	GO_2000471	0	1	0	0	0
+regulation of hematopoietic stem cell differentiation	GO_1902036	0	1	0	0	0
+regulation of epithelial to mesenchymal transition	GO_0010717	0	1	0	0	0
+regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	0	0	0
+regulation of cardioblast differentiation	GO_0051890	0	1	0	0	0
+regulation of cardioblast cell fate specification	GO_0042686	0	1	0	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0	0
+regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072335	0	1	0	0	0
+regulation of amniotic stem cell differentiation	GO_2000797	0	1	0	0	0
+positive regulation of stem cell proliferation	GO_2000648	0	1	0	0	0
+positive regulation of stem cell maintenance	GO_1902459	0	1	0	0	0
+positive regulation of stem cell differentiation	GO_2000738	0	1	0	0	0
+positive regulation of skeletal muscle satellite cell differentiation	GO_1902726	0	1	0	0	0
+positive regulation of neuroblast proliferation	GO_0002052	0	1	0	0	0
+positive regulation of neural crest formation	GO_0090300	0	1	0	0	0
+positive regulation of metanephric cap mesenchymal cell proliferation	GO_0090096	0	1	0	0	0
+positive regulation of mesodermal to mesenchymal transition involved in gastrulation	GO_0060808	0	1	0	0	0
+positive regulation of mesenchymal stem cell proliferation	GO_1902462	0	1	0	0	0
+positive regulation of mesenchymal stem cell differentiation	GO_2000741	0	1	0	0	0
+positive regulation of mesenchymal cell proliferation involved in ureter development	GO_2000729	0	1	0	0	0
+positive regulation of mesenchymal cell proliferation involved in lung development	GO_2000792	0	1	0	0	0
+positive regulation of mesenchymal cell proliferation	GO_0002053	0	1	0	0	0
+positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	0	1	0	0	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	0	1	0	0	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	0	1	0	0	0
+positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	0	1	0	0	0
+positive regulation of mesenchymal cell apoptotic process	GO_2001055	0	1	0	0	0
+positive regulation of hematopoietic stem cell proliferation	GO_1902035	0	1	0	0	0
+positive regulation of hematopoietic stem cell migration	GO_2000473	0	1	0	0	0
+positive regulation of hematopoietic stem cell differentiation	GO_1902038	0	1	0	0	0
+positive regulation of epithelial to mesenchymal transition	GO_0010718	0	1	0	0	0
+positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	0	0	0
+positive regulation of cardioblast differentiation	GO_0051891	0	1	0	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0	0
+positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072381	0	1	0	0	0
+positive regulation of amniotic stem cell differentiation	GO_2000799	0	1	0	0	0
 neuronal stem cell maintenance	GO_0097150	0	1	1	0	0
 neuronal stem cell division	GO_0036445	0	1	1	0	0
 neuroblast proliferation	GO_0007405	0	1	1	0	0
@@ -48,6 +100,34 @@ neural crest cell differentiation involved in thymus development	GO_1902637	0	1	
 neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	1	0	0
 neural crest cell differentiation	GO_0014033	0	1	1	0	0
 neural crest cell development	GO_0014032	0	1	1	0	0
+negative regulation of stem cell proliferation	GO_2000647	0	1	0	0	0
+negative regulation of stem cell maintenance	GO_1902455	0	1	0	0	0
+negative regulation of stem cell differentiation	GO_2000737	0	1	0	0	0
+negative regulation of satellite cell differentiation	GO_1902725	0	1	0	0	0
+negative regulation of neuroblast proliferation	GO_0007406	0	1	0	0	0
+negative regulation of neural crest formation	GO_0090301	0	1	0	0	0
+negative regulation of mesenchymal stem cell proliferation	GO_1902461	0	1	0	0	0
+negative regulation of mesenchymal stem cell differentiation	GO_2000740	0	1	0	0	0
+negative regulation of mesenchymal cell proliferation involved in ureter development	GO_0072200	0	1	0	0	0
+negative regulation of mesenchymal cell proliferation involved in lung development	GO_2000791	0	1	0	0	0
+negative regulation of mesenchymal cell proliferation	GO_0072201	0	1	0	0	0
+negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	0	1	0	0	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	0	1	0	0	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	0	1	0	0	0
+negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	0	1	0	0	0
+negative regulation of mesenchymal cell apoptotic process	GO_2001054	0	1	0	0	0
+negative regulation of hematopoietic stem cell proliferation	GO_1902034	0	1	0	0	0
+negative regulation of hematopoietic stem cell migration	GO_2000472	0	1	0	0	0
+negative regulation of hematopoietic stem cell differentiation	GO_1902037	0	1	0	0	0
+negative regulation of heart induction by canonical Wnt signaling pathway	GO_0003136	0	1	0	0	0
+negative regulation of establishment or maintenance of neuroblast polarity	GO_2000248	0	1	0	0	0
+negative regulation of epithelial to mesenchymal transition	GO_0010719	0	1	0	0	0
+negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	0	0	0
+negative regulation of cardioblast differentiation	GO_0051892	0	1	0	0	0
+negative regulation of cardioblast cell fate specification	GO_0009997	0	1	0	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0	0
+negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072336	0	1	0	0	0
+negative regulation of amniotic stem cell differentiation	GO_2000798	0	1	0	0	0
 metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	0	1	1	0	0
 metanephric mesenchymal cell differentiation	GO_0072162	0	1	1	0	0
 metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	0	1	1	0	0

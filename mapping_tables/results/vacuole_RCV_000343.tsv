@@ -40,6 +40,13 @@ serotonin secretion by mast cell	GO_0002552	0	1	1	0	0
 senescence-associated vacuole	GO_0010282	0	1	1	0	0
 secondary lysosome	GO_0005767	0	1	1	0	0
 retrograde transport, vacuole to Golgi	GO_0045018	0	1	1	0	0
+regulation of vacuole organization	GO_0044088	0	1	0	0	0
+regulation of vacuole fusion, non-autophagic	GO_0032889	0	1	0	0	0
+regulation of mast cell degranulation	GO_0043304	0	1	0	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
+regulation of autophagic vacuole maturation	GO_1901096	0	1	0	0	0
+regulation of autophagic vacuole fusion	GO_1902452	0	1	0	0	0
+regulation of autophagic vacuole assembly	GO_2000785	0	1	0	0	0
 proteolysis within lysosome associated with antigen processing and presentation	GO_0002500	0	1	1	0	0
 protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO_0043328	0	1	1	0	0
 protein targeting to vacuole involved in autophagy	GO_0071211	0	1	1	0	0
@@ -54,6 +61,15 @@ protein localization to vacuolar membrane	GO_1903778	0	1	1	0	0
 protein localization to lysosome	GO_0061462	0	1	1	0	0
 primary lysosome	GO_0005766	0	1	1	0	0
 post-lysosomal vacuole	GO_0032195	0	1	1	0	0
+positive regulation of vacuole organization	GO_0044090	0	1	0	0	0
+positive regulation of vacuole fusion, non-autophagic	GO_0061191	0	1	0	0	0
+positive regulation of mast cell degranulation in other organism	GO_0035896	0	1	0	0	0
+positive regulation of mast cell degranulation	GO_0043306	0	1	0	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
+positive regulation of autophagic vacuole maturation	GO_1901098	0	1	0	0	0
+positive regulation of autophagic vacuole fusion	GO_1902454	0	1	0	0	0
+positive regulation of autophagic vacuole assembly	GO_2000786	0	1	0	0	0
+positive regulation by symbiont of host vacuole organization	GO_0044076	0	1	0	0	0
 plant-type vacuole membrane	GO_0009705	0	1	1	0	0
 phytochelatin import into vacuole	GO_0071995	0	1	1	0	0
 phytochelatin 4 import into vacuole	GO_0036248	0	1	1	0	0
@@ -67,7 +83,15 @@ ornithine transmembrane import into vacuole	GO_0090455	0	1	1	0	0
 notochord cell vacuolation	GO_0060036	0	1	1	0	0
 neutral amino acid transmembrane import into vacuole	GO_0034491	0	1	1	0	0
 neutral amino acid transmembrane export from vacuole	GO_0034489	0	1	1	0	0
+negative regulation of vacuole fusion, non-autophagic	GO_0061192	0	1	0	0	0
+negative regulation of mast cell degranulation	GO_0043305	0	1	0	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
+negative regulation of autophagic vacuole maturation	GO_1901097	0	1	0	0	0
+negative regulation of autophagic vacuole fusion	GO_1902453	0	1	0	0	0
+negative regulation of autophagic vacuole assembly	GO_1902902	0	1	0	0	0
 molybdate ion export from vacuole	GO_0090414	0	1	1	0	0
+modulation of mast cell degranulation in other organism	GO_0035895	0	1	0	0	0
+modulation by symbiont of host vacuole organization	GO_0044075	0	1	0	0	0
 micropexophagy-specific membrane apparatus	GO_0032046	0	1	1	0	0
 megasome	GO_0043246	0	1	1	0	0
 mast cell granule	GO_0042629	0	1	1	0	0

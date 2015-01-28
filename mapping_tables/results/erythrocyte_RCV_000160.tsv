@@ -1,15 +1,24 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-regulation of erythrophore differentiation	GO_0048778	1	0	1	0	0
-regulation of erythrocyte differentiation	GO_0045646	1	0	1	0	0
-regulation of erythrocyte clearance	GO_0034106	1	0	1	0	0
-regulation of erythrocyte aggregation	GO_0034118	1	0	1	0	0
-negative regulation of erythrocyte differentiation	GO_0045647	1	0	1	0	0
-negative regulation of erythrocyte clearance	GO_0034107	1	0	1	0	0
-negative regulation of erythrocyte aggregation	GO_0034119	1	0	1	0	0
+regulation of erythrocyte differentiation	GO_0045646	1	1	1	0	0
+regulation of erythrocyte clearance	GO_0034106	1	1	1	0	0
+regulation of erythrocyte aggregation	GO_0034118	1	1	1	0	0
+negative regulation of erythrocyte differentiation	GO_0045647	1	1	1	0	0
+negative regulation of erythrocyte clearance	GO_0034107	1	1	1	0	0
+negative regulation of erythrocyte aggregation	GO_0034119	1	1	1	0	0
+regulation of erythrophore differentiation	GO_0048778	1	0	1	1	0
+regulation of primitive erythrocyte differentiation	GO_0010725	0	1	0	0	0
+regulation of erythrocyte apoptotic process	GO_1902250	0	1	0	0	0
+regulation of definitive erythrocyte differentiation	GO_0010724	0	1	0	0	0
 primitive erythrocyte differentiation	GO_0060319	0	1	1	0	0
+positive regulation of erythrocyte differentiation	GO_0045648	0	1	0	0	0
+positive regulation of erythrocyte clearance	GO_0034108	0	1	0	0	0
+positive regulation of erythrocyte apoptotic process	GO_1902252	0	1	0	0	0
+positive regulation of erythrocyte aggregation	GO_0034120	0	1	0	0	0
 nucleate erythrocyte maturation	GO_0043362	0	1	1	0	0
 nucleate erythrocyte differentiation	GO_0043363	0	1	1	0	0
 nucleate erythrocyte development	GO_0048823	0	1	1	0	0
+negative regulation of erythrocyte apoptotic process	GO_1902251	0	1	0	0	0
+modulation by symbiont of host erythrocyte aggregation	GO_0020013	0	1	0	0	0
 erythrocyte maturation	GO_0043249	0	1	1	0	0
 erythrocyte homeostasis	GO_0034101	0	1	1	0	0
 erythrocyte differentiation	GO_0030218	0	1	1	0	0

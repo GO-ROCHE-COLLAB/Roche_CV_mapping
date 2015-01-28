@@ -52,6 +52,7 @@ RCV_000001	B cells	GO_0002510	central B cell tolerance induction
 RCV_000001	B cells	GO_0001769	establishment of B cell polarity
 RCV_000001	B cells	GO_0002316	follicular B cell differentiation
 RCV_000001	B cells	GO_0002314	germinal center B cell differentiation
+RCV_000001	B cells	GO_0035399	helper T cell enhancement of B cell mediated immune response
 RCV_000001	B cells	GO_0002455	humoral immune response mediated by circulating immunoglobulin
 RCV_000001	B cells	GO_0002327	immature B cell differentiation
 RCV_000001	B cells	GO_0097281	immune complex formation
@@ -68,6 +69,7 @@ RCV_000001	B cells	GO_0002901	mature B cell apoptotic process
 RCV_000001	B cells	GO_0002335	mature B cell differentiation
 RCV_000001	B cells	GO_0002313	mature B cell differentiation involved in immune response
 RCV_000001	B cells	GO_0002319	memory B cell differentiation
+RCV_000001	B cells	GO_0044627	modulation of complement activation, classical pathway in other organism
 RCV_000001	B cells	GO_0050869	negative regulation of B cell activation
 RCV_000001	B cells	GO_0002671	negative regulation of B cell anergy
 RCV_000001	B cells	GO_0002623	negative regulation of B cell antigen processing and presentation
@@ -80,13 +82,29 @@ RCV_000001	B cells	GO_0030889	negative regulation of B cell proliferation
 RCV_000001	B cells	GO_0050859	negative regulation of B cell receptor signaling pathway
 RCV_000001	B cells	GO_0002662	negative regulation of B cell tolerance induction
 RCV_000001	B cells	GO_0001925	negative regulation of B-1 B cell differentiation
+RCV_000001	B cells	GO_0001814	negative regulation of antibody-dependent cellular cytotoxicity
 RCV_000001	B cells	GO_0002915	negative regulation of central B cell anergy
 RCV_000001	B cells	GO_0002899	negative regulation of central B cell deletion
 RCV_000001	B cells	GO_0002896	negative regulation of central B cell tolerance induction
+RCV_000001	B cells	GO_0045959	negative regulation of complement activation, classical pathway
+RCV_000001	B cells	GO_0044629	negative regulation of complement activation, classical pathway in other organism
+RCV_000001	B cells	GO_0002924	negative regulation of humoral immune response mediated by circulating immunoglobulin
+RCV_000001	B cells	GO_0002890	negative regulation of immunoglobulin mediated immune response
+RCV_000001	B cells	GO_0045829	negative regulation of isotype switching
+RCV_000001	B cells	GO_0048297	negative regulation of isotype switching to IgA isotypes
+RCV_000001	B cells	GO_0048300	negative regulation of isotype switching to IgD isotypes
+RCV_000001	B cells	GO_0048294	negative regulation of isotype switching to IgE isotypes
+RCV_000001	B cells	GO_0048303	negative regulation of isotype switching to IgG isotypes
 RCV_000001	B cells	GO_0002906	negative regulation of mature B cell apoptotic process
 RCV_000001	B cells	GO_0002918	negative regulation of peripheral B cell anergy
 RCV_000001	B cells	GO_0002909	negative regulation of peripheral B cell deletion
+RCV_000001	B cells	GO_1900099	negative regulation of plasma cell differentiation
 RCV_000001	B cells	GO_2000974	negative regulation of pro-B cell differentiation
+RCV_000001	B cells	GO_0001811	negative regulation of type I hypersensitivity
+RCV_000001	B cells	GO_0002893	negative regulation of type II hypersensitivity
+RCV_000001	B cells	GO_0001804	negative regulation of type III hypersensitivity
+RCV_000001	B cells	GO_0001797	negative regulation of type IIa hypersensitivity
+RCV_000001	B cells	GO_0001800	negative regulation of type IIb hypersensitivity
 RCV_000001	B cells	GO_0002453	peripheral B cell anergy
 RCV_000001	B cells	GO_0002454	peripheral B cell deletion
 RCV_000001	B cells	GO_0002356	peripheral B cell negative selection
@@ -107,13 +125,31 @@ RCV_000001	B cells	GO_0030890	positive regulation of B cell proliferation
 RCV_000001	B cells	GO_0050861	positive regulation of B cell receptor signaling pathway
 RCV_000001	B cells	GO_0002663	positive regulation of B cell tolerance induction
 RCV_000001	B cells	GO_0001926	positive regulation of B-1 B cell differentiation
+RCV_000001	B cells	GO_0001815	positive regulation of antibody-dependent cellular cytotoxicity
 RCV_000001	B cells	GO_0002916	positive regulation of central B cell anergy
 RCV_000001	B cells	GO_0002900	positive regulation of central B cell deletion
 RCV_000001	B cells	GO_0002897	positive regulation of central B cell tolerance induction
+RCV_000001	B cells	GO_0045960	positive regulation of complement activation, classical pathway
+RCV_000001	B cells	GO_0044628	positive regulation of complement activation, classical pathway in other organism
+RCV_000001	B cells	GO_0002925	positive regulation of humoral immune response mediated by circulating immunoglobulin
+RCV_000001	B cells	GO_0002891	positive regulation of immunoglobulin mediated immune response
+RCV_000001	B cells	GO_2000558	positive regulation of immunoglobulin production in mucosal tissue
+RCV_000001	B cells	GO_2000572	positive regulation of interleukin-4-dependent isotype switching to IgE isotypes
+RCV_000001	B cells	GO_0045830	positive regulation of isotype switching
+RCV_000001	B cells	GO_0048298	positive regulation of isotype switching to IgA isotypes
+RCV_000001	B cells	GO_0048301	positive regulation of isotype switching to IgD isotypes
+RCV_000001	B cells	GO_0048295	positive regulation of isotype switching to IgE isotypes
+RCV_000001	B cells	GO_0048304	positive regulation of isotype switching to IgG isotypes
 RCV_000001	B cells	GO_0002907	positive regulation of mature B cell apoptotic process
 RCV_000001	B cells	GO_0002919	positive regulation of peripheral B cell anergy
 RCV_000001	B cells	GO_0002910	positive regulation of peripheral B cell deletion
+RCV_000001	B cells	GO_1900100	positive regulation of plasma cell differentiation
 RCV_000001	B cells	GO_2000975	positive regulation of pro-B cell differentiation
+RCV_000001	B cells	GO_0001812	positive regulation of type I hypersensitivity
+RCV_000001	B cells	GO_0002894	positive regulation of type II hypersensitivity
+RCV_000001	B cells	GO_0001805	positive regulation of type III hypersensitivity
+RCV_000001	B cells	GO_0001798	positive regulation of type IIa hypersensitivity
+RCV_000001	B cells	GO_0001801	positive regulation of type IIb hypersensitivity
 RCV_000001	B cells	GO_0002331	pre-B cell allelic exclusion
 RCV_000001	B cells	GO_0002329	pre-B cell differentiation
 RCV_000001	B cells	GO_0002330	pre-B cell receptor expression
@@ -130,13 +166,30 @@ RCV_000001	B cells	GO_0030888	regulation of B cell proliferation
 RCV_000001	B cells	GO_0050855	regulation of B cell receptor signaling pathway
 RCV_000001	B cells	GO_0002661	regulation of B cell tolerance induction
 RCV_000001	B cells	GO_0001924	regulation of B-1 B cell differentiation
+RCV_000001	B cells	GO_0001813	regulation of antibody-dependent cellular cytotoxicity
 RCV_000001	B cells	GO_0002914	regulation of central B cell anergy
 RCV_000001	B cells	GO_0002898	regulation of central B cell deletion
 RCV_000001	B cells	GO_0002895	regulation of central B cell tolerance induction
+RCV_000001	B cells	GO_0030450	regulation of complement activation, classical pathway
+RCV_000001	B cells	GO_0002923	regulation of humoral immune response mediated by circulating immunoglobulin
+RCV_000001	B cells	GO_0002889	regulation of immunoglobulin mediated immune response
+RCV_000001	B cells	GO_2000557	regulation of immunoglobulin production in mucosal tissue
+RCV_000001	B cells	GO_2000571	regulation of interleukin-4-dependent isotype switching to IgE isotypes
+RCV_000001	B cells	GO_0045191	regulation of isotype switching
+RCV_000001	B cells	GO_0048296	regulation of isotype switching to IgA isotypes
+RCV_000001	B cells	GO_0048299	regulation of isotype switching to IgD isotypes
+RCV_000001	B cells	GO_0048293	regulation of isotype switching to IgE isotypes
+RCV_000001	B cells	GO_0048302	regulation of isotype switching to IgG isotypes
 RCV_000001	B cells	GO_0002905	regulation of mature B cell apoptotic process
 RCV_000001	B cells	GO_0002917	regulation of peripheral B cell anergy
 RCV_000001	B cells	GO_0002908	regulation of peripheral B cell deletion
+RCV_000001	B cells	GO_1900098	regulation of plasma cell differentiation
 RCV_000001	B cells	GO_2000973	regulation of pro-B cell differentiation
+RCV_000001	B cells	GO_0001810	regulation of type I hypersensitivity
+RCV_000001	B cells	GO_0002892	regulation of type II hypersensitivity
+RCV_000001	B cells	GO_0001803	regulation of type III hypersensitivity
+RCV_000001	B cells	GO_0001796	regulation of type IIa hypersensitivity
+RCV_000001	B cells	GO_0001799	regulation of type IIb hypersensitivity
 RCV_000001	B cells	GO_0002333	transitional one stage B cell differentiation
 RCV_000001	B cells	GO_0002332	transitional stage B cell differentiation
 RCV_000001	B cells	GO_0002334	transitional two stage B cell differentiation
@@ -1283,10 +1336,13 @@ RCV_000026	NK cells	GO_2000502	negative regulation of natural killer cell chemot
 RCV_000026	NK cells	GO_0002728	negative regulation of natural killer cell cytokine production
 RCV_000026	NK cells	GO_0043322	negative regulation of natural killer cell degranulation
 RCV_000026	NK cells	GO_0032824	negative regulation of natural killer cell differentiation
+RCV_000026	NK cells	GO_0032827	negative regulation of natural killer cell differentiation involved in immune response
 RCV_000026	NK cells	GO_0045953	negative regulation of natural killer cell mediated cytotoxicity
 RCV_000026	NK cells	GO_0002859	negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000026	NK cells	GO_0002856	negative regulation of natural killer cell mediated immune response to tumor cell
 RCV_000026	NK cells	GO_0002716	negative regulation of natural killer cell mediated immunity
 RCV_000026	NK cells	GO_0032818	negative regulation of natural killer cell proliferation
+RCV_000026	NK cells	GO_0032821	negative regulation of natural killer cell proliferation involved in immune response
 RCV_000026	NK cells	GO_0002872	negative regulation of natural killer cell tolerance induction
 RCV_000026	NK cells	GO_0051135	positive regulation of NK T cell activation
 RCV_000026	NK cells	GO_0051138	positive regulation of NK T cell differentiation
@@ -1297,10 +1353,13 @@ RCV_000026	NK cells	GO_2000503	positive regulation of natural killer cell chemot
 RCV_000026	NK cells	GO_0002729	positive regulation of natural killer cell cytokine production
 RCV_000026	NK cells	GO_0043323	positive regulation of natural killer cell degranulation
 RCV_000026	NK cells	GO_0032825	positive regulation of natural killer cell differentiation
+RCV_000026	NK cells	GO_0032828	positive regulation of natural killer cell differentiation involved in immune response
 RCV_000026	NK cells	GO_0045954	positive regulation of natural killer cell mediated cytotoxicity
 RCV_000026	NK cells	GO_0002860	positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000026	NK cells	GO_0002857	positive regulation of natural killer cell mediated immune response to tumor cell
 RCV_000026	NK cells	GO_0002717	positive regulation of natural killer cell mediated immunity
 RCV_000026	NK cells	GO_0032819	positive regulation of natural killer cell proliferation
+RCV_000026	NK cells	GO_0032822	positive regulation of natural killer cell proliferation involved in immune response
 RCV_000026	NK cells	GO_0002873	positive regulation of natural killer cell tolerance induction
 RCV_000026	NK cells	GO_0042270	protection from natural killer cell mediated cytotoxicity
 RCV_000026	NK cells	GO_0051133	regulation of NK T cell activation
@@ -1312,12 +1371,16 @@ RCV_000026	NK cells	GO_2000501	regulation of natural killer cell chemotaxis
 RCV_000026	NK cells	GO_0002727	regulation of natural killer cell cytokine production
 RCV_000026	NK cells	GO_0043321	regulation of natural killer cell degranulation
 RCV_000026	NK cells	GO_0032823	regulation of natural killer cell differentiation
+RCV_000026	NK cells	GO_0032826	regulation of natural killer cell differentiation involved in immune response
 RCV_000026	NK cells	GO_0042269	regulation of natural killer cell mediated cytotoxicity
 RCV_000026	NK cells	GO_0002858	regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000026	NK cells	GO_0002855	regulation of natural killer cell mediated immune response to tumor cell
 RCV_000026	NK cells	GO_0002715	regulation of natural killer cell mediated immunity
 RCV_000026	NK cells	GO_0032817	regulation of natural killer cell proliferation
+RCV_000026	NK cells	GO_0032820	regulation of natural killer cell proliferation involved in immune response
 RCV_000026	NK cells	GO_0002871	regulation of natural killer cell tolerance induction
 RCV_000026	NK cells	GO_0039672	suppression by virus of host natural killer cell activation
+RCV_000026	NK cells	GO_0042271	susceptibility to natural killer cell mediated cytotoxicity
 RCV_000027	Notch signaling pathway	GO_0007220	Notch receptor processing
 RCV_000027	Notch signaling pathway	GO_0035333	Notch receptor processing, ligand-dependent
 RCV_000027	Notch signaling pathway	GO_0035334	Notch receptor processing, ligand-independent
@@ -1770,6 +1833,41 @@ RCV_000038	T helper	GO_0002295	T-helper cell lineage commitment
 RCV_000038	T helper	GO_0035704	helper T cell chemotaxis
 RCV_000038	T helper	GO_0035685	helper T cell diapedesis
 RCV_000038	T helper	GO_0035684	helper T cell extravasation
+RCV_000038	T helper	GO_2000518	negative regulation of T-helper 1 cell activation
+RCV_000038	T helper	GO_2000555	negative regulation of T-helper 1 cell cytokine production
+RCV_000038	T helper	GO_0045626	negative regulation of T-helper 1 cell differentiation
+RCV_000038	T helper	GO_0002826	negative regulation of T-helper 1 type immune response
+RCV_000038	T helper	GO_2000320	negative regulation of T-helper 17 cell differentiation
+RCV_000038	T helper	GO_2000456	negative regulation of T-helper 17 cell extravasation
+RCV_000038	T helper	GO_2000329	negative regulation of T-helper 17 cell lineage commitment
+RCV_000038	T helper	GO_2000317	negative regulation of T-helper 17 type immune response
+RCV_000038	T helper	GO_2000552	negative regulation of T-helper 2 cell cytokine production
+RCV_000038	T helper	GO_0045629	negative regulation of T-helper 2 cell differentiation
+RCV_000038	T helper	GO_0045623	negative regulation of T-helper cell differentiation
+RCV_000038	T helper	GO_2000519	positive regulation of T-helper 1 cell activation
+RCV_000038	T helper	GO_2000556	positive regulation of T-helper 1 cell cytokine production
+RCV_000038	T helper	GO_0045627	positive regulation of T-helper 1 cell differentiation
+RCV_000038	T helper	GO_0002827	positive regulation of T-helper 1 type immune response
+RCV_000038	T helper	GO_2000321	positive regulation of T-helper 17 cell differentiation
+RCV_000038	T helper	GO_2000457	positive regulation of T-helper 17 cell extravasation
+RCV_000038	T helper	GO_2000330	positive regulation of T-helper 17 cell lineage commitment
+RCV_000038	T helper	GO_2000318	positive regulation of T-helper 17 type immune response
+RCV_000038	T helper	GO_2000570	positive regulation of T-helper 2 cell activation
+RCV_000038	T helper	GO_2000553	positive regulation of T-helper 2 cell cytokine production
+RCV_000038	T helper	GO_0045630	positive regulation of T-helper 2 cell differentiation
+RCV_000038	T helper	GO_0045624	positive regulation of T-helper cell differentiation
+RCV_000038	T helper	GO_2000517	regulation of T-helper 1 cell activation
+RCV_000038	T helper	GO_2000554	regulation of T-helper 1 cell cytokine production
+RCV_000038	T helper	GO_0045625	regulation of T-helper 1 cell differentiation
+RCV_000038	T helper	GO_0002825	regulation of T-helper 1 type immune response
+RCV_000038	T helper	GO_2000319	regulation of T-helper 17 cell differentiation
+RCV_000038	T helper	GO_2000455	regulation of T-helper 17 cell extravasation
+RCV_000038	T helper	GO_2000328	regulation of T-helper 17 cell lineage commitment
+RCV_000038	T helper	GO_2000316	regulation of T-helper 17 type immune response
+RCV_000038	T helper	GO_2000569	regulation of T-helper 2 cell activation
+RCV_000038	T helper	GO_2000551	regulation of T-helper 2 cell cytokine production
+RCV_000038	T helper	GO_0045628	regulation of T-helper 2 cell differentiation
+RCV_000038	T helper	GO_0045622	regulation of T-helper cell differentiation
 RCV_000039	TCA metabolism	GO_0050450	citrate (Re)-synthase activity
 RCV_000039	TCA metabolism	GO_0004108	citrate (Si)-synthase activity
 RCV_000039	TCA metabolism	GO_0019651	citrate catabolic process to diacetyl
@@ -1968,6 +2066,8 @@ RCV_000044	UDP metabolism	GO_0010253	UDP-rhamnose biosynthetic process
 RCV_000044	UDP metabolism	GO_0033478	UDP-rhamnose metabolic process
 RCV_000044	UDP metabolism	GO_0005464	UDP-xylose transmembrane transporter activity
 RCV_000044	UDP metabolism	GO_0015790	UDP-xylose transport
+RCV_000044	UDP metabolism	GO_0010905	negative regulation of UDP-glucose catabolic process
+RCV_000044	UDP metabolism	GO_0010904	regulation of UDP-glucose catabolic process
 RCV_000045	VEGF pathway	GO_0036326	VEGF-A-activated receptor activity
 RCV_000045	VEGF pathway	GO_0036327	VEGF-B-activated receptor activity
 RCV_000045	VEGF pathway	GO_0036328	VEGF-C-activated receptor activity
@@ -2123,7 +2223,10 @@ RCV_000047	acetylcholine	GO_0008292	acetylcholine biosynthetic process
 RCV_000047	acetylcholine	GO_0006581	acetylcholine catabolic process
 RCV_000047	acetylcholine	GO_0001507	acetylcholine catabolic process in synaptic cleft
 RCV_000047	acetylcholine	GO_0008291	acetylcholine metabolic process
+RCV_000047	acetylcholine	GO_0030549	acetylcholine receptor activator activity
 RCV_000047	acetylcholine	GO_0015464	acetylcholine receptor activity
+RCV_000047	acetylcholine	GO_0030550	acetylcholine receptor inhibitor activity
+RCV_000047	acetylcholine	GO_0030548	acetylcholine receptor regulator activity
 RCV_000047	acetylcholine	GO_0061526	acetylcholine secretion
 RCV_000047	acetylcholine	GO_0014055	acetylcholine secretion, neurotransmission
 RCV_000047	acetylcholine	GO_0005277	acetylcholine transmembrane transporter activity
@@ -2133,19 +2236,25 @@ RCV_000047	acetylcholine	GO_0001699	acetylcholine-induced gastric acid secretion
 RCV_000047	acetylcholine	GO_0005278	acetylcholine:proton antiporter activity
 RCV_000047	acetylcholine	GO_0007197	adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway
 RCV_000047	acetylcholine	GO_0086102	adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate
+RCV_000047	acetylcholine	GO_0051634	inhibition of acetylcholine uptake
+RCV_000047	acetylcholine	GO_0044760	modulation by symbiont of host cholinergic synaptic transmission
+RCV_000047	acetylcholine	GO_0044761	negative regulation by symbiont of host cholinergic synaptic transmission
 RCV_000047	acetylcholine	GO_0060410	negative regulation of acetylcholine metabolic process
 RCV_000047	acetylcholine	GO_0014058	negative regulation of acetylcholine secretion, neurotransmission
 RCV_000047	acetylcholine	GO_0051632	negative regulation of acetylcholine uptake
 RCV_000047	acetylcholine	GO_0003063	negative regulation of heart rate by acetylcholine
+RCV_000047	acetylcholine	GO_0032223	negative regulation of synaptic transmission, cholinergic
 RCV_000047	acetylcholine	GO_0003060	negative regulation of the force of heart contraction by acetylcholine
 RCV_000047	acetylcholine	GO_0007207	phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway
 RCV_000047	acetylcholine	GO_0086095	positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate
 RCV_000047	acetylcholine	GO_0060409	positive regulation of acetylcholine metabolic process
 RCV_000047	acetylcholine	GO_0014057	positive regulation of acetylcholine secretion, neurotransmission
 RCV_000047	acetylcholine	GO_0051633	positive regulation of acetylcholine uptake
+RCV_000047	acetylcholine	GO_0032224	positive regulation of synaptic transmission, cholinergic
 RCV_000047	acetylcholine	GO_0060408	regulation of acetylcholine metabolic process
 RCV_000047	acetylcholine	GO_0014056	regulation of acetylcholine secretion, neurotransmission
 RCV_000047	acetylcholine	GO_0051631	regulation of acetylcholine uptake
+RCV_000047	acetylcholine	GO_0032222	regulation of synaptic transmission, cholinergic
 RCV_000047	acetylcholine	GO_0007271	synaptic transmission, cholinergic
 RCV_000048	adenine metabolism	GO_0046084	adenine biosynthetic process
 RCV_000048	adenine metabolism	GO_0006146	adenine catabolic process
@@ -3114,6 +3223,17 @@ RCV_000077	auxin	GO_0033476	indoleacetic acid ester conjugate biosynthetic proce
 RCV_000077	auxin	GO_0009683	indoleacetic acid metabolic process
 RCV_000077	auxin	GO_0080024	indolebutyric acid metabolic process
 RCV_000077	auxin	GO_0080162	intracellular auxin transport
+RCV_000077	auxin	GO_0010930	negative regulation of auxin mediated signaling pathway
+RCV_000077	auxin	GO_0090356	negative regulation of auxin metabolic process
+RCV_000077	auxin	GO_1901997	negative regulation of indoleacetic acid biosynthetic process via tryptophan
+RCV_000077	auxin	GO_0010601	positive regulation of auxin biosynthetic process
+RCV_000077	auxin	GO_0010929	positive regulation of auxin mediated signaling pathway
+RCV_000077	auxin	GO_0090355	positive regulation of auxin metabolic process
+RCV_000077	auxin	GO_0010600	regulation of auxin biosynthetic process
+RCV_000077	auxin	GO_0010928	regulation of auxin mediated signaling pathway
+RCV_000077	auxin	GO_0090354	regulation of auxin metabolic process
+RCV_000077	auxin	GO_2000012	regulation of auxin polar transport
+RCV_000077	auxin	GO_1901996	regulation of indoleacetic acid biosynthetic process via tryptophan
 RCV_000077	auxin	GO_0009733	response to auxin
 RCV_000077	auxin	GO_0080026	response to indolebutyric acid
 RCV_000077	auxin	GO_0019440	tryptophan catabolic process to indole-3-acetate
@@ -3210,8 +3330,11 @@ RCV_000081	basophil	GO_0002561	basophil degranulation
 RCV_000081	basophil	GO_0030221	basophil differentiation
 RCV_000081	basophil	GO_0002560	basophil mediated immunity
 RCV_000081	basophil	GO_0002557	histamine secretion by basophil
+RCV_000081	basophil	GO_1903582	negative regulation of basophil degranulation
 RCV_000081	basophil	GO_0045641	negative regulation of basophil differentiation
+RCV_000081	basophil	GO_1903583	positive regulation of basophil degranulation
 RCV_000081	basophil	GO_0045642	positive regulation of basophil differentiation
+RCV_000081	basophil	GO_1903581	regulation of basophil degranulation
 RCV_000081	basophil	GO_0045640	regulation of basophil differentiation
 RCV_000081	basophil	GO_0002556	serotonin secretion by basophil
 RCV_000081	basophil	GO_0002559	type I hypersensitivity mediated by basophils
@@ -3438,6 +3561,12 @@ RCV_000082	behaviour	GO_0008542	visual learning
 RCV_000082	behaviour	GO_0042297	vocal learning
 RCV_000082	behaviour	GO_0071625	vocalization behavior
 RCV_000082	behaviour	GO_0034608	vulval location
+RCV_000083	beta cells	GO_2000675	negative regulation of type B pancreatic cell apoptotic process
+RCV_000083	beta cells	GO_2000077	negative regulation of type B pancreatic cell development
+RCV_000083	beta cells	GO_2000676	positive regulation of type B pancreatic cell apoptotic process
+RCV_000083	beta cells	GO_2000078	positive regulation of type B pancreatic cell development
+RCV_000083	beta cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
+RCV_000083	beta cells	GO_2000074	regulation of type B pancreatic cell development
 RCV_000083	beta cells	GO_0097050	type B pancreatic cell apoptotic process
 RCV_000083	beta cells	GO_0003323	type B pancreatic cell development
 RCV_000083	beta cells	GO_0003309	type B pancreatic cell differentiation
@@ -3448,6 +3577,12 @@ RCV_000084	beta-amyloid	GO_0001540	beta-amyloid binding
 RCV_000084	beta-amyloid	GO_0097242	beta-amyloid clearance
 RCV_000084	beta-amyloid	GO_0034205	beta-amyloid formation
 RCV_000084	beta-amyloid	GO_0050435	beta-amyloid metabolic process
+RCV_000084	beta-amyloid	GO_1900222	negative regulation of beta-amyloid clearance
+RCV_000084	beta-amyloid	GO_1902430	negative regulation of beta-amyloid formation
+RCV_000084	beta-amyloid	GO_1900223	positive regulation of beta-amyloid clearance
+RCV_000084	beta-amyloid	GO_1902004	positive regulation of beta-amyloid formation
+RCV_000084	beta-amyloid	GO_1900221	regulation of beta-amyloid clearance
+RCV_000084	beta-amyloid	GO_1902003	regulation of beta-amyloid formation
 RCV_000085	bile acid	GO_0038182	G-protein coupled bile acid receptor activity
 RCV_000085	bile acid	GO_0015721	bile acid and bile salt transport
 RCV_000085	bile acid	GO_0032052	bile acid binding
@@ -3466,6 +3601,9 @@ RCV_000085	bile acid	GO_1903413	cellular response to bile acid
 RCV_000085	bile acid	GO_1902122	chenodeoxycholic acid binding
 RCV_000085	bile acid	GO_1902121	lithocholic acid binding
 RCV_000085	bile acid	GO_0038186	lithocholic acid receptor activity
+RCV_000085	bile acid	GO_0070858	negative regulation of bile acid biosynthetic process
+RCV_000085	bile acid	GO_0070859	positive regulation of bile acid biosynthetic process
+RCV_000085	bile acid	GO_0070857	regulation of bile acid biosynthetic process
 RCV_000085	bile acid	GO_1903412	response to bile acid
 RCV_000086	blood coagulation	GO_0002543	activation of blood coagulation via clotting cascade
 RCV_000086	blood coagulation	GO_0007596	blood coagulation
@@ -3981,6 +4119,7 @@ RCV_000091	brain development	GO_0021900	ventricular zone cell fate commitment
 RCV_000091	brain development	GO_0021868	ventricular zone cell-producing asymmetric radial glial cell division in forebrain
 RCV_000091	brain development	GO_0021847	ventricular zone neuroblast division
 RCV_000091	brain development	GO_0021750	vestibular nucleus development
+RCV_000092	cAMP metabolism	GO_0007190	activation of adenylate cyclase activity
 RCV_000092	cAMP metabolism	GO_0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway
 RCV_000092	cAMP metabolism	GO_0071880	adenylate cyclase-activating adrenergic receptor signaling pathway
 RCV_000092	cAMP metabolism	GO_0007191	adenylate cyclase-activating dopamine receptor signaling pathway
@@ -4009,6 +4148,66 @@ RCV_000092	cAMP metabolism	GO_0019933	cAMP-mediated signaling
 RCV_000092	cAMP metabolism	GO_0071320	cellular response to cAMP
 RCV_000092	cAMP metabolism	GO_0043327	chemotaxis to cAMP
 RCV_000092	cAMP metabolism	GO_0031319	detection of cAMP
+RCV_000092	cAMP metabolism	GO_0075075	modulation by host of symbiont adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0075205	modulation by host of symbiont cAMP-mediated signal transduction
+RCV_000092	cAMP metabolism	GO_0075084	modulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction
+RCV_000092	cAMP metabolism	GO_0075106	modulation by symbiont of host adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0075208	modulation by symbiont of host cAMP-mediated signal transduction
+RCV_000092	cAMP metabolism	GO_0075115	modulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction
+RCV_000092	cAMP metabolism	GO_0075077	negative regulation by host of symbiont adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0075207	negative regulation by host of symbiont cAMP-mediated signal transduction
+RCV_000092	cAMP metabolism	GO_0075086	negative regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction
+RCV_000092	cAMP metabolism	GO_0075108	negative regulation by symbiont of host adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0075210	negative regulation by symbiont of host cAMP-mediated signal transduction
+RCV_000092	cAMP metabolism	GO_0075117	negative regulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction
+RCV_000092	cAMP metabolism	GO_0007194	negative regulation of adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_1900730	negative regulation of adenylate cyclase-inhibiting opioid receptor signaling pathway
+RCV_000092	cAMP metabolism	GO_1903246	negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000092	cAMP metabolism	GO_0030818	negative regulation of cAMP biosynthetic process
+RCV_000092	cAMP metabolism	GO_0030821	negative regulation of cAMP catabolic process
+RCV_000092	cAMP metabolism	GO_0030815	negative regulation of cAMP metabolic process
+RCV_000092	cAMP metabolism	GO_0043951	negative regulation of cAMP-mediated signaling
+RCV_000092	cAMP metabolism	GO_0075176	negative regulation of cAMP-mediated signaling in response to host
+RCV_000092	cAMP metabolism	GO_0061123	negative regulation of positive chemotaxis to cAMP
+RCV_000092	cAMP metabolism	GO_0061127	negative regulation of positive chemotaxis to cAMP by DIF-1
+RCV_000092	cAMP metabolism	GO_0061129	negative regulation of positive chemotaxis to cAMP by DIF-2
+RCV_000092	cAMP metabolism	GO_0061125	negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+RCV_000092	cAMP metabolism	GO_0075213	negative regulation of transmembrane receptor-mediated cAMP signal transduction in response to host
+RCV_000092	cAMP metabolism	GO_0075076	positive regulation by host of symbiont adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0075206	positive regulation by host of symbiont cAMP-mediated signal transduction
+RCV_000092	cAMP metabolism	GO_0075085	positive regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction
+RCV_000092	cAMP metabolism	GO_0075107	positive regulation by symbiont of host adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0075209	positive regulation by symbiont of host cAMP-mediated signal transduction
+RCV_000092	cAMP metabolism	GO_0075116	positive regulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction
+RCV_000092	cAMP metabolism	GO_0045762	positive regulation of adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0010579	positive regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway
+RCV_000092	cAMP metabolism	GO_1900731	positive regulation of adenylate cyclase-inhibiting opioid receptor signaling pathway
+RCV_000092	cAMP metabolism	GO_1903247	positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000092	cAMP metabolism	GO_0030819	positive regulation of cAMP biosynthetic process
+RCV_000092	cAMP metabolism	GO_0030822	positive regulation of cAMP catabolic process
+RCV_000092	cAMP metabolism	GO_0030816	positive regulation of cAMP metabolic process
+RCV_000092	cAMP metabolism	GO_0043950	positive regulation of cAMP-mediated signaling
+RCV_000092	cAMP metabolism	GO_0075175	positive regulation of cAMP-mediated signaling in response to host
+RCV_000092	cAMP metabolism	GO_0061128	positive regulation of chemotaxis to cAMP by DIF-2
+RCV_000092	cAMP metabolism	GO_0061122	positive regulation of positive chemotaxis to cAMP
+RCV_000092	cAMP metabolism	GO_0061126	positive regulation of positive chemotaxis to cAMP by DIF-1
+RCV_000092	cAMP metabolism	GO_0061124	positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+RCV_000092	cAMP metabolism	GO_0075212	positive regulation of transmembrane receptor-mediated cAMP signal transduction in response to host
+RCV_000092	cAMP metabolism	GO_0045761	regulation of adenylate cyclase activity
+RCV_000092	cAMP metabolism	GO_0010578	regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway
+RCV_000092	cAMP metabolism	GO_1900729	regulation of adenylate cyclase-inhibiting opioid receptor signaling pathway
+RCV_000092	cAMP metabolism	GO_1903245	regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate
+RCV_000092	cAMP metabolism	GO_0030817	regulation of cAMP biosynthetic process
+RCV_000092	cAMP metabolism	GO_0030820	regulation of cAMP catabolic process
+RCV_000092	cAMP metabolism	GO_0030814	regulation of cAMP metabolic process
+RCV_000092	cAMP metabolism	GO_0043949	regulation of cAMP-mediated signaling
+RCV_000092	cAMP metabolism	GO_1900391	regulation of cAMP-mediated signaling by regulation of transcription from RNA polymerase II promoter
+RCV_000092	cAMP metabolism	GO_0075174	regulation of cAMP-mediated signaling in response to host
+RCV_000092	cAMP metabolism	GO_0061118	regulation of positive chemotaxis to cAMP
+RCV_000092	cAMP metabolism	GO_0061120	regulation of positive chemotaxis to cAMP by DIF-1
+RCV_000092	cAMP metabolism	GO_0061121	regulation of positive chemotaxis to cAMP by DIF-2
+RCV_000092	cAMP metabolism	GO_0061119	regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+RCV_000092	cAMP metabolism	GO_0075211	regulation of transmembrane receptor-mediated cAMP signaling in response to host
 RCV_000092	cAMP metabolism	GO_0051591	response to cAMP
 RCV_000093	calcium homeostasis	GO_0061454	Golgi calcium ion export
 RCV_000093	calcium homeostasis	GO_0032468	Golgi calcium ion homeostasis
@@ -5350,6 +5549,7 @@ RCV_000118	cell matrix	GO_0001953	negative regulation of cell-matrix adhesion
 RCV_000118	cell matrix	GO_1901202	negative regulation of extracellular matrix assembly
 RCV_000118	cell matrix	GO_0003332	negative regulation of extracellular matrix constituent secretion
 RCV_000118	cell matrix	GO_0010716	negative regulation of extracellular matrix disassembly
+RCV_000118	cell matrix	GO_1903054	negative regulation of extracellular matrix organization
 RCV_000118	cell matrix	GO_0043672	nexine
 RCV_000118	cell matrix	GO_1990377	organomineral extracellular matrix
 RCV_000118	cell matrix	GO_0072534	perineuronal net
@@ -5360,7 +5560,9 @@ RCV_000118	cell matrix	GO_0001954	positive regulation of cell-matrix adhesion
 RCV_000118	cell matrix	GO_1901203	positive regulation of extracellular matrix assembly
 RCV_000118	cell matrix	GO_0003331	positive regulation of extracellular matrix constituent secretion
 RCV_000118	cell matrix	GO_0090091	positive regulation of extracellular matrix disassembly
+RCV_000118	cell matrix	GO_1903055	positive regulation of extracellular matrix organization
 RCV_000118	cell matrix	GO_0005578	proteinaceous extracellular matrix
+RCV_000118	cell matrix	GO_0060883	regulation of basal lamina disassembly involved in semicircular canal fusion by cell communication
 RCV_000118	cell matrix	GO_0001952	regulation of cell-matrix adhesion
 RCV_000118	cell matrix	GO_0033341	regulation of collagen binding
 RCV_000118	cell matrix	GO_0032965	regulation of collagen biosynthetic process
@@ -5369,6 +5571,7 @@ RCV_000118	cell matrix	GO_0010712	regulation of collagen metabolic process
 RCV_000118	cell matrix	GO_1901201	regulation of extracellular matrix assembly
 RCV_000118	cell matrix	GO_0003330	regulation of extracellular matrix constituent secretion
 RCV_000118	cell matrix	GO_0010715	regulation of extracellular matrix disassembly
+RCV_000118	cell matrix	GO_1903053	regulation of extracellular matrix organization
 RCV_000118	cell matrix	GO_0043675	sculpture element
 RCV_000118	cell matrix	GO_0035583	sequestering of TGFbeta in extracellular matrix
 RCV_000118	cell matrix	GO_0043673	sexine
@@ -7237,8 +7440,6 @@ RCV_000141	dendritic cell	GO_0036145	dendritic cell homeostasis
 RCV_000141	dendritic cell	GO_0036336	dendritic cell migration
 RCV_000141	dendritic cell	GO_0044565	dendritic cell proliferation
 RCV_000141	dendritic cell	GO_0039673	evasion by virus of host dendritic cell activity
-RCV_000141	dendritic cell	GO_0002266	follicular dendritic cell activation
-RCV_000141	dendritic cell	GO_0002268	follicular dendritic cell differentiation
 RCV_000141	dendritic cell	GO_0097029	mature conventional dendritic cell differentiation
 RCV_000141	dendritic cell	GO_0001773	myeloid dendritic cell activation
 RCV_000141	dendritic cell	GO_0002277	myeloid dendritic cell activation involved in immune response
@@ -7368,6 +7569,8 @@ RCV_000145	dopamine	GO_0090494	dopamine uptake
 RCV_000145	dopamine	GO_0051583	dopamine uptake involved in synaptic transmission
 RCV_000145	dopamine	GO_0005330	dopamine:sodium symporter activity
 RCV_000145	dopamine	GO_0071542	dopaminergic neuron differentiation
+RCV_000145	dopamine	GO_0051587	inhibition of dopamine uptake involved in synaptic transmission
+RCV_000145	dopamine	GO_1903180	negative regulation of dopamine biosynthetic process
 RCV_000145	dopamine	GO_0045963	negative regulation of dopamine metabolic process
 RCV_000145	dopamine	GO_0060160	negative regulation of dopamine receptor signaling pathway
 RCV_000145	dopamine	GO_0033602	negative regulation of dopamine secretion
@@ -7375,11 +7578,13 @@ RCV_000145	dopamine	GO_0051585	negative regulation of dopamine uptake involved i
 RCV_000145	dopamine	GO_0060162	negative regulation of phospholipase C-activating dopamine receptor signaling pathway
 RCV_000145	dopamine	GO_0032227	negative regulation of synaptic transmission, dopaminergic
 RCV_000145	dopamine	GO_0060158	phospholipase C-activating dopamine receptor signaling pathway
+RCV_000145	dopamine	GO_1903181	positive regulation of dopamine biosynthetic process
 RCV_000145	dopamine	GO_0045964	positive regulation of dopamine metabolic process
 RCV_000145	dopamine	GO_0060161	positive regulation of dopamine receptor signaling pathway
 RCV_000145	dopamine	GO_0033603	positive regulation of dopamine secretion
 RCV_000145	dopamine	GO_0051586	positive regulation of dopamine uptake involved in synaptic transmission
 RCV_000145	dopamine	GO_0032226	positive regulation of synaptic transmission, dopaminergic
+RCV_000145	dopamine	GO_1903179	regulation of dopamine biosynthetic process
 RCV_000145	dopamine	GO_0042053	regulation of dopamine metabolic process
 RCV_000145	dopamine	GO_0060159	regulation of dopamine receptor signaling pathway
 RCV_000145	dopamine	GO_0014059	regulation of dopamine secretion
@@ -7556,14 +7761,20 @@ RCV_000154	eosinophil	GO_0035858	eosinophil fate determination
 RCV_000154	eosinophil	GO_0035857	eosinophil fate specification
 RCV_000154	eosinophil	GO_0002447	eosinophil mediated immunity
 RCV_000154	eosinophil	GO_0072677	eosinophil migration
+RCV_000154	eosinophil	GO_1902567	negative regulation of eosinophil activation
+RCV_000154	eosinophil	GO_2000423	negative regulation of eosinophil chemotaxis
 RCV_000154	eosinophil	GO_0043310	negative regulation of eosinophil degranulation
 RCV_000154	eosinophil	GO_0045644	negative regulation of eosinophil differentiation
 RCV_000154	eosinophil	GO_2000420	negative regulation of eosinophil extravasation
 RCV_000154	eosinophil	GO_2000417	negative regulation of eosinophil migration
+RCV_000154	eosinophil	GO_1902568	positive regulation of eosinophil activation
+RCV_000154	eosinophil	GO_2000424	positive regulation of eosinophil chemotaxis
 RCV_000154	eosinophil	GO_0043311	positive regulation of eosinophil degranulation
 RCV_000154	eosinophil	GO_0045645	positive regulation of eosinophil differentiation
 RCV_000154	eosinophil	GO_2000421	positive regulation of eosinophil extravasation
 RCV_000154	eosinophil	GO_2000418	positive regulation of eosinophil migration
+RCV_000154	eosinophil	GO_1902566	regulation of eosinophil activation
+RCV_000154	eosinophil	GO_2000422	regulation of eosinophil chemotaxis
 RCV_000154	eosinophil	GO_0043309	regulation of eosinophil degranulation
 RCV_000154	eosinophil	GO_0045643	regulation of eosinophil differentiation
 RCV_000154	eosinophil	GO_2000419	regulation of eosinophil extravasation
@@ -7812,6 +8023,7 @@ RCV_000158	epithelial cells	GO_0036333	hepatocyte homeostasis
 RCV_000158	epithelial cells	GO_0072574	hepatocyte proliferation
 RCV_000158	epithelial cells	GO_0007488	histoblast morphogenesis
 RCV_000158	epithelial cells	GO_0060522	inductive mesenchymal to epithelial cell signaling
+RCV_000158	epithelial cells	GO_0002085	inhibition of neuroepithelial cell differentiation
 RCV_000158	epithelial cells	GO_0060646	internal mammary gland bud epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0061453	interstitial cell of Cajal differentiation
 RCV_000158	epithelial cells	GO_0060576	intestinal epithelial cell development
@@ -7913,8 +8125,63 @@ RCV_000158	epithelial cells	GO_0016333	morphogenesis of follicular epithelium
 RCV_000158	epithelial cells	GO_0016335	morphogenesis of larval imaginal disc epithelium
 RCV_000158	epithelial cells	GO_1903251	multi-ciliated epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0003304	myocardial epithelial involution involved in heart jogging
+RCV_000158	epithelial cells	GO_0010060	negative regulation of atrichoblast fate specification
+RCV_000158	epithelial cells	GO_0045608	negative regulation of auditory receptor cell differentiation
+RCV_000158	epithelial cells	GO_0009999	negative regulation of auditory receptor cell fate specification
+RCV_000158	epithelial cells	GO_0043537	negative regulation of blood vessel endothelial cell migration
+RCV_000158	epithelial cells	GO_1903588	negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0030712	negative regulation of border follicle cell delamination
+RCV_000158	epithelial cells	GO_1903687	negative regulation of border follicle cell migration
+RCV_000158	epithelial cells	GO_0090051	negative regulation of cell migration involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0045593	negative regulation of cumulus cell differentiation
+RCV_000158	epithelial cells	GO_0050947	negative regulation of early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2000352	negative regulation of endothelial cell apoptotic process
+RCV_000158	epithelial cells	GO_2001027	negative regulation of endothelial cell chemotaxis
+RCV_000158	epithelial cells	GO_2000545	negative regulation of endothelial cell chemotaxis to fibroblast growth factor
+RCV_000158	epithelial cells	GO_1901551	negative regulation of endothelial cell development
+RCV_000158	epithelial cells	GO_0045602	negative regulation of endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0010596	negative regulation of endothelial cell migration
+RCV_000158	epithelial cells	GO_0001937	negative regulation of endothelial cell proliferation
+RCV_000158	epithelial cells	GO_0045605	negative regulation of epidermal cell differentiation
+RCV_000158	epithelial cells	GO_0030857	negative regulation of epithelial cell differentiation
+RCV_000158	epithelial cells	GO_2000697	negative regulation of epithelial cell differentiation involved in kidney development
+RCV_000158	epithelial cells	GO_0010633	negative regulation of epithelial cell migration
+RCV_000158	epithelial cells	GO_0050680	negative regulation of epithelial cell proliferation
+RCV_000158	epithelial cells	GO_2000795	negative regulation of epithelial cell proliferation involved in lung morphogenesis
+RCV_000158	epithelial cells	GO_0060770	negative regulation of epithelial cell proliferation involved in prostate gland development
+RCV_000158	epithelial cells	GO_1903141	negative regulation of establishment of endothelial barrier
+RCV_000158	epithelial cells	GO_0070367	negative regulation of hepatocyte differentiation
+RCV_000158	epithelial cells	GO_2000346	negative regulation of hepatocyte proliferation
+RCV_000158	epithelial cells	GO_1902173	negative regulation of keratinocyte apoptotic process
+RCV_000158	epithelial cells	GO_0045617	negative regulation of keratinocyte differentiation
+RCV_000158	epithelial cells	GO_0051548	negative regulation of keratinocyte migration
+RCV_000158	epithelial cells	GO_0010839	negative regulation of keratinocyte proliferation
+RCV_000158	epithelial cells	GO_0050949	negative regulation of late stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2001110	negative regulation of lens epithelial cell proliferation
+RCV_000158	epithelial cells	GO_1902747	negative regulation of lens fiber cell differentiation
+RCV_000158	epithelial cells	GO_1901247	negative regulation of lung ciliated cell differentiation
+RCV_000158	epithelial cells	GO_1901250	negative regulation of lung goblet cell differentiation
+RCV_000158	epithelial cells	GO_0033600	negative regulation of mammary gland epithelial cell proliferation
+RCV_000158	epithelial cells	GO_0045635	negative regulation of melanocyte differentiation
 RCV_000158	epithelial cells	GO_2000085	negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
 RCV_000158	epithelial cells	GO_0003340	negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_2000094	negative regulation of mesonephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072308	negative regulation of metanephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072183	negative regulation of nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_1901330	negative regulation of odontoblast differentiation
+RCV_000158	epithelial cells	GO_2000227	negative regulation of pancreatic A cell differentiation
+RCV_000158	epithelial cells	GO_0030861	negative regulation of polarized epithelial cell differentiation
+RCV_000158	epithelial cells	GO_1902891	negative regulation of root hair elongation
+RCV_000158	epithelial cells	GO_0031286	negative regulation of sorocarp stalk cell differentiation
+RCV_000158	epithelial cells	GO_1902491	negative regulation of sperm capacitation
+RCV_000158	epithelial cells	GO_0045701	negative regulation of spermatid nuclear differentiation
+RCV_000158	epithelial cells	GO_0061106	negative regulation of stomach neuroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0010062	negative regulation of trichoblast fate specification
+RCV_000158	epithelial cells	GO_1900033	negative regulation of trichome patterning
+RCV_000158	epithelial cells	GO_2000675	negative regulation of type B pancreatic cell apoptotic process
+RCV_000158	epithelial cells	GO_2000077	negative regulation of type B pancreatic cell development
+RCV_000158	epithelial cells	GO_0050676	negative regulation of urothelial cell proliferation
+RCV_000158	epithelial cells	GO_2000788	negative regulation of venous endothelial cell fate commitment
 RCV_000158	epithelial cells	GO_0072009	nephron epithelium development
 RCV_000158	epithelial cells	GO_0072088	nephron epithelium morphogenesis
 RCV_000158	epithelial cells	GO_0072160	nephron tubule epithelial cell differentiation
@@ -7937,29 +8204,144 @@ RCV_000158	epithelial cells	GO_0003312	pancreatic PP cell differentiation
 RCV_000158	epithelial cells	GO_0003329	pancreatic PP cell fate commitment
 RCV_000158	epithelial cells	GO_0060645	peripheral mammary gland bud epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0030859	polarized epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0010059	positive regulation of atrichoblast fate specification
+RCV_000158	epithelial cells	GO_0045609	positive regulation of auditory receptor cell differentiation
+RCV_000158	epithelial cells	GO_0043536	positive regulation of blood vessel endothelial cell migration
+RCV_000158	epithelial cells	GO_1903589	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0030711	positive regulation of border follicle cell delamination
+RCV_000158	epithelial cells	GO_1903688	positive regulation of border follicle cell migration
+RCV_000158	epithelial cells	GO_0090050	positive regulation of cell migration involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0045594	positive regulation of cumulus cell differentiation
 RCV_000158	epithelial cells	GO_0060640	positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0050948	positive regulation of early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2000353	positive regulation of endothelial cell apoptotic process
+RCV_000158	epithelial cells	GO_2001028	positive regulation of endothelial cell chemotaxis
+RCV_000158	epithelial cells	GO_0038033	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway
+RCV_000158	epithelial cells	GO_2000546	positive regulation of endothelial cell chemotaxis to fibroblast growth factor
+RCV_000158	epithelial cells	GO_1901552	positive regulation of endothelial cell development
+RCV_000158	epithelial cells	GO_0045603	positive regulation of endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0010595	positive regulation of endothelial cell migration
+RCV_000158	epithelial cells	GO_0001938	positive regulation of endothelial cell proliferation
+RCV_000158	epithelial cells	GO_0045606	positive regulation of epidermal cell differentiation
+RCV_000158	epithelial cells	GO_0030858	positive regulation of epithelial cell differentiation
+RCV_000158	epithelial cells	GO_2000698	positive regulation of epithelial cell differentiation involved in kidney development
+RCV_000158	epithelial cells	GO_0010634	positive regulation of epithelial cell migration
+RCV_000158	epithelial cells	GO_0050679	positive regulation of epithelial cell proliferation
+RCV_000158	epithelial cells	GO_0060504	positive regulation of epithelial cell proliferation involved in lung bud dilation
+RCV_000158	epithelial cells	GO_0060501	positive regulation of epithelial cell proliferation involved in lung morphogenesis
+RCV_000158	epithelial cells	GO_0060769	positive regulation of epithelial cell proliferation involved in prostate gland development
+RCV_000158	epithelial cells	GO_0060054	positive regulation of epithelial cell proliferation involved in wound healing
+RCV_000158	epithelial cells	GO_1903142	positive regulation of establishment of endothelial barrier
+RCV_000158	epithelial cells	GO_0070368	positive regulation of hepatocyte differentiation
+RCV_000158	epithelial cells	GO_2000347	positive regulation of hepatocyte proliferation
 RCV_000158	epithelial cells	GO_0060731	positive regulation of intestinal epithelial structure maintenance
+RCV_000158	epithelial cells	GO_1902174	positive regulation of keratinocyte apoptotic process
+RCV_000158	epithelial cells	GO_0045618	positive regulation of keratinocyte differentiation
+RCV_000158	epithelial cells	GO_0051549	positive regulation of keratinocyte migration
+RCV_000158	epithelial cells	GO_0010838	positive regulation of keratinocyte proliferation
+RCV_000158	epithelial cells	GO_0050950	positive regulation of late stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2001111	positive regulation of lens epithelial cell proliferation
+RCV_000158	epithelial cells	GO_1902748	positive regulation of lens fiber cell differentiation
+RCV_000158	epithelial cells	GO_1901248	positive regulation of lung ciliated cell differentiation
+RCV_000158	epithelial cells	GO_1901251	positive regulation of lung goblet cell differentiation
+RCV_000158	epithelial cells	GO_0033601	positive regulation of mammary gland epithelial cell proliferation
 RCV_000158	epithelial cells	GO_0060617	positive regulation of mammary placode formation by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0045636	positive regulation of melanocyte differentiation
 RCV_000158	epithelial cells	GO_2000086	positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
 RCV_000158	epithelial cells	GO_0072108	positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_2000478	positive regulation of metanephric glomerular visceral epithelial cell development
+RCV_000158	epithelial cells	GO_2000768	positive regulation of nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_1902913	positive regulation of neuroepithelial cell differentiation
+RCV_000158	epithelial cells	GO_1901331	positive regulation of odontoblast differentiation
+RCV_000158	epithelial cells	GO_2000228	positive regulation of pancreatic A cell differentiation
+RCV_000158	epithelial cells	GO_0030862	positive regulation of polarized epithelial cell differentiation
+RCV_000158	epithelial cells	GO_1902892	positive regulation of root hair elongation
 RCV_000158	epithelial cells	GO_0060639	positive regulation of salivary gland formation by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0031287	positive regulation of sorocarp stalk cell differentiation
+RCV_000158	epithelial cells	GO_1902492	positive regulation of sperm capacitation
+RCV_000158	epithelial cells	GO_0045702	positive regulation of spermatid nuclear differentiation
+RCV_000158	epithelial cells	GO_0010063	positive regulation of trichoblast fate specification
+RCV_000158	epithelial cells	GO_2000676	positive regulation of type B pancreatic cell apoptotic process
+RCV_000158	epithelial cells	GO_2000078	positive regulation of type B pancreatic cell development
+RCV_000158	epithelial cells	GO_0050677	positive regulation of urothelial cell proliferation
+RCV_000158	epithelial cells	GO_2000789	positive regulation of venous endothelial cell fate commitment
 RCV_000158	epithelial cells	GO_0048923	posterior lateral line neuromast hair cell differentiation
 RCV_000158	epithelial cells	GO_0035778	pronephric nephron tubule epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0060527	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
 RCV_000158	epithelial cells	GO_0060523	prostate epithelial cord elongation
 RCV_000158	epithelial cells	GO_0060740	prostate gland epithelium morphogenesis
+RCV_000158	epithelial cells	GO_0010058	regulation of atrichoblast fate specification
+RCV_000158	epithelial cells	GO_0045607	regulation of auditory receptor cell differentiation
+RCV_000158	epithelial cells	GO_0042669	regulation of auditory receptor cell fate specification
+RCV_000158	epithelial cells	GO_0043535	regulation of blood vessel endothelial cell migration
+RCV_000158	epithelial cells	GO_1903587	regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0030710	regulation of border follicle cell delamination
+RCV_000158	epithelial cells	GO_1903684	regulation of border follicle cell migration
 RCV_000158	epithelial cells	GO_0060656	regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling
 RCV_000158	epithelial cells	GO_0060683	regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling
 RCV_000158	epithelial cells	GO_0060668	regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling
 RCV_000158	epithelial cells	GO_0060665	regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling
+RCV_000158	epithelial cells	GO_0090049	regulation of cell migration involved in sprouting angiogenesis
+RCV_000158	epithelial cells	GO_0045592	regulation of cumulus cell differentiation
+RCV_000158	epithelial cells	GO_0050939	regulation of early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2000351	regulation of endothelial cell apoptotic process
+RCV_000158	epithelial cells	GO_2001026	regulation of endothelial cell chemotaxis
+RCV_000158	epithelial cells	GO_2000544	regulation of endothelial cell chemotaxis to fibroblast growth factor
+RCV_000158	epithelial cells	GO_1901550	regulation of endothelial cell development
+RCV_000158	epithelial cells	GO_0045601	regulation of endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0010594	regulation of endothelial cell migration
+RCV_000158	epithelial cells	GO_0001936	regulation of endothelial cell proliferation
 RCV_000158	epithelial cells	GO_0045604	regulation of epidermal cell differentiation
 RCV_000158	epithelial cells	GO_0010482	regulation of epidermal cell division
 RCV_000158	epithelial cells	GO_0045682	regulation of epidermis development
+RCV_000158	epithelial cells	GO_0030856	regulation of epithelial cell differentiation
+RCV_000158	epithelial cells	GO_2000696	regulation of epithelial cell differentiation involved in kidney development
+RCV_000158	epithelial cells	GO_0010632	regulation of epithelial cell migration
+RCV_000158	epithelial cells	GO_2000274	regulation of epithelial cell migration, open tracheal system
+RCV_000158	epithelial cells	GO_0050678	regulation of epithelial cell proliferation
+RCV_000158	epithelial cells	GO_2000794	regulation of epithelial cell proliferation involved in lung morphogenesis
+RCV_000158	epithelial cells	GO_0060651	regulation of epithelial cell proliferation involved in mammary gland bud elongation
+RCV_000158	epithelial cells	GO_0060768	regulation of epithelial cell proliferation involved in prostate gland development
+RCV_000158	epithelial cells	GO_1903140	regulation of establishment of endothelial barrier
+RCV_000158	epithelial cells	GO_0032533	regulation of follicle cell microvillus length
+RCV_000158	epithelial cells	GO_0032531	regulation of follicle cell microvillus organization
+RCV_000158	epithelial cells	GO_0070366	regulation of hepatocyte differentiation
+RCV_000158	epithelial cells	GO_2000345	regulation of hepatocyte proliferation
 RCV_000158	epithelial cells	GO_0060730	regulation of intestinal epithelial structure maintenance
+RCV_000158	epithelial cells	GO_1902172	regulation of keratinocyte apoptotic process
+RCV_000158	epithelial cells	GO_0045616	regulation of keratinocyte differentiation
+RCV_000158	epithelial cells	GO_0051547	regulation of keratinocyte migration
+RCV_000158	epithelial cells	GO_0010837	regulation of keratinocyte proliferation
+RCV_000158	epithelial cells	GO_0050940	regulation of late stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2001109	regulation of lens epithelial cell proliferation
+RCV_000158	epithelial cells	GO_1902746	regulation of lens fiber cell differentiation
+RCV_000158	epithelial cells	GO_1901246	regulation of lung ciliated cell differentiation
+RCV_000158	epithelial cells	GO_1901249	regulation of lung goblet cell differentiation
 RCV_000158	epithelial cells	GO_0060657	regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling
+RCV_000158	epithelial cells	GO_0033599	regulation of mammary gland epithelial cell proliferation
+RCV_000158	epithelial cells	GO_0045634	regulation of melanocyte differentiation
 RCV_000158	epithelial cells	GO_2000084	regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
 RCV_000158	epithelial cells	GO_0003339	regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_2000093	regulation of mesonephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_2000477	regulation of metanephric glomerular visceral epithelial cell development
+RCV_000158	epithelial cells	GO_0072307	regulation of metanephric nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0072182	regulation of nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_1901329	regulation of odontoblast differentiation
+RCV_000158	epithelial cells	GO_2000226	regulation of pancreatic A cell differentiation
+RCV_000158	epithelial cells	GO_0030860	regulation of polarized epithelial cell differentiation
+RCV_000158	epithelial cells	GO_1902890	regulation of root hair elongation
 RCV_000158	epithelial cells	GO_0090165	regulation of secretion by asymmetric Golgi ribbon formation
+RCV_000158	epithelial cells	GO_0031285	regulation of sorocarp stalk cell differentiation
+RCV_000158	epithelial cells	GO_1902490	regulation of sperm capacitation
+RCV_000158	epithelial cells	GO_0045700	regulation of spermatid nuclear differentiation
+RCV_000158	epithelial cells	GO_0061105	regulation of stomach neuroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0010061	regulation of trichoblast fate specification
+RCV_000158	epithelial cells	GO_2000039	regulation of trichome morphogenesis
+RCV_000158	epithelial cells	GO_1900032	regulation of trichome patterning
+RCV_000158	epithelial cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
+RCV_000158	epithelial cells	GO_2000074	regulation of type B pancreatic cell development
+RCV_000158	epithelial cells	GO_0050675	regulation of urothelial cell proliferation
+RCV_000158	epithelial cells	GO_2000787	regulation of venous endothelial cell fate commitment
 RCV_000158	epithelial cells	GO_1902691	respiratory basal cell differentiation
 RCV_000158	epithelial cells	GO_0003406	retinal pigment epithelium development
 RCV_000158	epithelial cells	GO_0048356	root epithelial mucilage biosynthetic process
@@ -8023,17 +8405,25 @@ RCV_000160	erythrocyte	GO_0048821	erythrocyte development
 RCV_000160	erythrocyte	GO_0030218	erythrocyte differentiation
 RCV_000160	erythrocyte	GO_0034101	erythrocyte homeostasis
 RCV_000160	erythrocyte	GO_0043249	erythrocyte maturation
+RCV_000160	erythrocyte	GO_0020013	modulation by symbiont of host erythrocyte aggregation
 RCV_000160	erythrocyte	GO_0034119	negative regulation of erythrocyte aggregation
+RCV_000160	erythrocyte	GO_1902251	negative regulation of erythrocyte apoptotic process
 RCV_000160	erythrocyte	GO_0034107	negative regulation of erythrocyte clearance
 RCV_000160	erythrocyte	GO_0045647	negative regulation of erythrocyte differentiation
 RCV_000160	erythrocyte	GO_0048823	nucleate erythrocyte development
 RCV_000160	erythrocyte	GO_0043363	nucleate erythrocyte differentiation
 RCV_000160	erythrocyte	GO_0043362	nucleate erythrocyte maturation
+RCV_000160	erythrocyte	GO_0034120	positive regulation of erythrocyte aggregation
+RCV_000160	erythrocyte	GO_1902252	positive regulation of erythrocyte apoptotic process
+RCV_000160	erythrocyte	GO_0034108	positive regulation of erythrocyte clearance
+RCV_000160	erythrocyte	GO_0045648	positive regulation of erythrocyte differentiation
 RCV_000160	erythrocyte	GO_0060319	primitive erythrocyte differentiation
+RCV_000160	erythrocyte	GO_0010724	regulation of definitive erythrocyte differentiation
 RCV_000160	erythrocyte	GO_0034118	regulation of erythrocyte aggregation
+RCV_000160	erythrocyte	GO_1902250	regulation of erythrocyte apoptotic process
 RCV_000160	erythrocyte	GO_0034106	regulation of erythrocyte clearance
 RCV_000160	erythrocyte	GO_0045646	regulation of erythrocyte differentiation
-RCV_000160	erythrocyte	GO_0048778	regulation of erythrophore differentiation
+RCV_000160	erythrocyte	GO_0010725	regulation of primitive erythrocyte differentiation
 RCV_000163	fat metabolism	GO_0046211	(+)-camphor biosynthetic process
 RCV_000163	fat metabolism	GO_0019383	(+)-camphor catabolic process
 RCV_000163	fat metabolism	GO_0018882	(+)-camphor metabolic process
@@ -8937,6 +9327,8 @@ RCV_000166	fibroblast	GO_0072258	metanephric interstitial fibroblast differentia
 RCV_000166	fibroblast	GO_2000270	negative regulation of fibroblast apoptotic process
 RCV_000166	fibroblast	GO_0010764	negative regulation of fibroblast migration
 RCV_000166	fibroblast	GO_0048147	negative regulation of fibroblast proliferation
+RCV_000166	fibroblast	GO_2000490	negative regulation of hepatic stellate cell activation
+RCV_000166	fibroblast	GO_2000230	negative regulation of pancreatic stellate cell proliferation
 RCV_000166	fibroblast	GO_0060943	neural crest-derived cardiac fibroblast cell development
 RCV_000166	fibroblast	GO_0060942	neural crest-derived cardiac fibroblast cell differentiation
 RCV_000166	fibroblast	GO_0060944	neural crest-derived cardiac fibroblast cell fate commitment
@@ -8949,6 +9341,8 @@ RCV_000166	fibroblast	GO_2000315	positive regulation of fibroblast growth factor
 RCV_000166	fibroblast	GO_2000704	positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
 RCV_000166	fibroblast	GO_0010763	positive regulation of fibroblast migration
 RCV_000166	fibroblast	GO_0048146	positive regulation of fibroblast proliferation
+RCV_000166	fibroblast	GO_2000491	positive regulation of hepatic stellate cell activation
+RCV_000166	fibroblast	GO_2000231	positive regulation of pancreatic stellate cell proliferation
 RCV_000166	fibroblast	GO_0060787	positive regulation of posterior neural plate formation by fibroblast growth factor receptor signaling pathway
 RCV_000166	fibroblast	GO_2000269	regulation of fibroblast apoptotic process
 RCV_000166	fibroblast	GO_0090270	regulation of fibroblast growth factor production
@@ -8957,6 +9351,8 @@ RCV_000166	fibroblast	GO_2000313	regulation of fibroblast growth factor receptor
 RCV_000166	fibroblast	GO_2000702	regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
 RCV_000166	fibroblast	GO_0010762	regulation of fibroblast migration
 RCV_000166	fibroblast	GO_0048145	regulation of fibroblast proliferation
+RCV_000166	fibroblast	GO_2000489	regulation of hepatic stellate cell activation
+RCV_000166	fibroblast	GO_2000229	regulation of pancreatic stellate cell proliferation
 RCV_000166	fibroblast	GO_0072141	renal interstitial fibroblast development
 RCV_000166	fibroblast	GO_0071774	response to fibroblast growth factor
 RCV_000167	forebrain development	GO_0022024	BMP signaling pathway involved in forebrain neuron fate commitment
@@ -9195,12 +9591,26 @@ RCV_000173	glucocorticoid	GO_0042921	glucocorticoid receptor signaling pathway
 RCV_000173	glucocorticoid	GO_0035933	glucocorticoid secretion
 RCV_000173	glucocorticoid	GO_0038051	glucocorticoid-activated RNA polymerase II transcription factor binding transcription factor activity
 RCV_000173	glucocorticoid	GO_0038050	glucocorticoid-activated sequence-specific DNA binding RNA polymerase II transcription factor activity
+RCV_000173	glucocorticoid	GO_2000853	negative regulation of corticosterone secretion
+RCV_000173	glucocorticoid	GO_2000065	negative regulation of cortisol biosynthetic process
+RCV_000173	glucocorticoid	GO_0051463	negative regulation of cortisol secretion
 RCV_000173	glucocorticoid	GO_0031947	negative regulation of glucocorticoid biosynthetic process
 RCV_000173	glucocorticoid	GO_0031950	negative regulation of glucocorticoid catabolic process
 RCV_000173	glucocorticoid	GO_1900170	negative regulation of glucocorticoid mediated signaling pathway
 RCV_000173	glucocorticoid	GO_0031944	negative regulation of glucocorticoid metabolic process
 RCV_000173	glucocorticoid	GO_2000323	negative regulation of glucocorticoid receptor signaling pathway
 RCV_000173	glucocorticoid	GO_2000850	negative regulation of glucocorticoid secretion
+RCV_000173	glucocorticoid	GO_2000854	positive regulation of corticosterone secretion
+RCV_000173	glucocorticoid	GO_2000066	positive regulation of cortisol biosynthetic process
+RCV_000173	glucocorticoid	GO_0051464	positive regulation of cortisol secretion
+RCV_000173	glucocorticoid	GO_0031948	positive regulation of glucocorticoid biosynthetic process
+RCV_000173	glucocorticoid	GO_0031951	positive regulation of glucocorticoid catabolic process
+RCV_000173	glucocorticoid	GO_1900171	positive regulation of glucocorticoid mediated signaling pathway
+RCV_000173	glucocorticoid	GO_0031945	positive regulation of glucocorticoid metabolic process
+RCV_000173	glucocorticoid	GO_2000851	positive regulation of glucocorticoid secretion
+RCV_000173	glucocorticoid	GO_2000852	regulation of corticosterone secretion
+RCV_000173	glucocorticoid	GO_2000064	regulation of cortisol biosynthetic process
+RCV_000173	glucocorticoid	GO_0051462	regulation of cortisol secretion
 RCV_000173	glucocorticoid	GO_0031946	regulation of glucocorticoid biosynthetic process
 RCV_000173	glucocorticoid	GO_0031949	regulation of glucocorticoid catabolic process
 RCV_000173	glucocorticoid	GO_1900169	regulation of glucocorticoid mediated signaling pathway
@@ -9255,9 +9665,6 @@ RCV_000175	glucose homeostasis	GO_2000217	regulation of invasive growth in respo
 RCV_000175	glucose homeostasis	GO_0046015	regulation of transcription by glucose
 RCV_000175	glucose homeostasis	GO_0000430	regulation of transcription from RNA polymerase II promoter by glucose
 RCV_000175	glucose homeostasis	GO_0035623	renal glucose absorption
-RCV_000176	glucose metabolism	GO_0061679	Entner-Doudoroff pathway through glucopyranose
-RCV_000176	glucose metabolism	GO_0061680	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde
-RCV_000176	glucose metabolism	GO_0061681	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde-3-phosphate
 RCV_000176	glucose metabolism	GO_0010397	apiogalacturonan metabolic process
 RCV_000176	glucose metabolism	GO_0061621	canonical glycolysis
 RCV_000176	glucose metabolism	GO_0043458	ethanol biosynthetic process involved in glucose fermentation to ethanol
@@ -9407,8 +9814,31 @@ RCV_000183	granulocyte	GO_0038158	granulocyte colony-stimulating factor signalin
 RCV_000183	granulocyte	GO_0030851	granulocyte differentiation
 RCV_000183	granulocyte	GO_0097530	granulocyte migration
 RCV_000183	granulocyte	GO_0002557	histamine secretion by basophil
+RCV_000183	granulocyte	GO_1903582	negative regulation of basophil degranulation
+RCV_000183	granulocyte	GO_0045641	negative regulation of basophil differentiation
+RCV_000183	granulocyte	GO_1902567	negative regulation of eosinophil activation
+RCV_000183	granulocyte	GO_2000423	negative regulation of eosinophil chemotaxis
+RCV_000183	granulocyte	GO_0043310	negative regulation of eosinophil degranulation
+RCV_000183	granulocyte	GO_0045644	negative regulation of eosinophil differentiation
+RCV_000183	granulocyte	GO_2000420	negative regulation of eosinophil extravasation
+RCV_000183	granulocyte	GO_2000417	negative regulation of eosinophil migration
+RCV_000183	granulocyte	GO_0071623	negative regulation of granulocyte chemotaxis
 RCV_000183	granulocyte	GO_0071656	negative regulation of granulocyte colony-stimulating factor production
 RCV_000183	granulocyte	GO_0030853	negative regulation of granulocyte differentiation
+RCV_000183	granulocyte	GO_1902564	negative regulation of neutrophil activation
+RCV_000183	granulocyte	GO_2000429	negative regulation of neutrophil aggregation
+RCV_000183	granulocyte	GO_0033030	negative regulation of neutrophil apoptotic process
+RCV_000183	granulocyte	GO_0090024	negative regulation of neutrophil chemotaxis
+RCV_000183	granulocyte	GO_0043314	negative regulation of neutrophil degranulation
+RCV_000183	granulocyte	GO_0045659	negative regulation of neutrophil differentiation
+RCV_000183	granulocyte	GO_2000390	negative regulation of neutrophil extravasation
+RCV_000183	granulocyte	GO_0070954	negative regulation of neutrophil mediated cytotoxicity
+RCV_000183	granulocyte	GO_0070956	negative regulation of neutrophil mediated killing of bacterium
+RCV_000183	granulocyte	GO_0070959	negative regulation of neutrophil mediated killing of fungus
+RCV_000183	granulocyte	GO_0070957	negative regulation of neutrophil mediated killing of gram-negative bacterium
+RCV_000183	granulocyte	GO_0070958	negative regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000183	granulocyte	GO_0070955	negative regulation of neutrophil mediated killing of symbiont cell
+RCV_000183	granulocyte	GO_1902623	negative regulation of neutrophil migration
 RCV_000183	granulocyte	GO_0042119	neutrophil activation
 RCV_000183	granulocyte	GO_0002283	neutrophil activation involved in immune response
 RCV_000183	granulocyte	GO_0070488	neutrophil aggregation
@@ -9426,10 +9856,57 @@ RCV_000183	granulocyte	GO_0070945	neutrophil mediated killing of gram-negative b
 RCV_000183	granulocyte	GO_0070946	neutrophil mediated killing of gram-positive bacterium
 RCV_000183	granulocyte	GO_0070943	neutrophil mediated killing of symbiont cell
 RCV_000183	granulocyte	GO_1990266	neutrophil migration
+RCV_000183	granulocyte	GO_1903583	positive regulation of basophil degranulation
+RCV_000183	granulocyte	GO_0045642	positive regulation of basophil differentiation
+RCV_000183	granulocyte	GO_1902568	positive regulation of eosinophil activation
+RCV_000183	granulocyte	GO_2000424	positive regulation of eosinophil chemotaxis
+RCV_000183	granulocyte	GO_0043311	positive regulation of eosinophil degranulation
+RCV_000183	granulocyte	GO_0045645	positive regulation of eosinophil differentiation
+RCV_000183	granulocyte	GO_2000421	positive regulation of eosinophil extravasation
+RCV_000183	granulocyte	GO_2000418	positive regulation of eosinophil migration
+RCV_000183	granulocyte	GO_0071624	positive regulation of granulocyte chemotaxis
 RCV_000183	granulocyte	GO_0071657	positive regulation of granulocyte colony-stimulating factor production
 RCV_000183	granulocyte	GO_0030854	positive regulation of granulocyte differentiation
+RCV_000183	granulocyte	GO_0010759	positive regulation of macrophage chemotaxis
+RCV_000183	granulocyte	GO_1902565	positive regulation of neutrophil activation
+RCV_000183	granulocyte	GO_2000430	positive regulation of neutrophil aggregation
+RCV_000183	granulocyte	GO_0033031	positive regulation of neutrophil apoptotic process
+RCV_000183	granulocyte	GO_0090023	positive regulation of neutrophil chemotaxis
+RCV_000183	granulocyte	GO_0043315	positive regulation of neutrophil degranulation
+RCV_000183	granulocyte	GO_0045660	positive regulation of neutrophil differentiation
+RCV_000183	granulocyte	GO_2000391	positive regulation of neutrophil extravasation
+RCV_000183	granulocyte	GO_0070960	positive regulation of neutrophil mediated cytotoxicity
+RCV_000183	granulocyte	GO_0070962	positive regulation of neutrophil mediated killing of bacterium
+RCV_000183	granulocyte	GO_0070965	positive regulation of neutrophil mediated killing of fungus
+RCV_000183	granulocyte	GO_0070963	positive regulation of neutrophil mediated killing of gram-negative bacterium
+RCV_000183	granulocyte	GO_0070964	positive regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000183	granulocyte	GO_0070961	positive regulation of neutrophil mediated killing of symbiont cell
+RCV_000183	granulocyte	GO_1902624	positive regulation of neutrophil migration
+RCV_000183	granulocyte	GO_1903581	regulation of basophil degranulation
+RCV_000183	granulocyte	GO_0045640	regulation of basophil differentiation
+RCV_000183	granulocyte	GO_1902566	regulation of eosinophil activation
+RCV_000183	granulocyte	GO_2000422	regulation of eosinophil chemotaxis
+RCV_000183	granulocyte	GO_0043309	regulation of eosinophil degranulation
+RCV_000183	granulocyte	GO_0045643	regulation of eosinophil differentiation
+RCV_000183	granulocyte	GO_2000419	regulation of eosinophil extravasation
+RCV_000183	granulocyte	GO_2000416	regulation of eosinophil migration
+RCV_000183	granulocyte	GO_0071622	regulation of granulocyte chemotaxis
 RCV_000183	granulocyte	GO_0071655	regulation of granulocyte colony-stimulating factor production
 RCV_000183	granulocyte	GO_0030852	regulation of granulocyte differentiation
+RCV_000183	granulocyte	GO_1902563	regulation of neutrophil activation
+RCV_000183	granulocyte	GO_2000428	regulation of neutrophil aggregation
+RCV_000183	granulocyte	GO_0033029	regulation of neutrophil apoptotic process
+RCV_000183	granulocyte	GO_0090022	regulation of neutrophil chemotaxis
+RCV_000183	granulocyte	GO_0043313	regulation of neutrophil degranulation
+RCV_000183	granulocyte	GO_0045658	regulation of neutrophil differentiation
+RCV_000183	granulocyte	GO_2000389	regulation of neutrophil extravasation
+RCV_000183	granulocyte	GO_0070948	regulation of neutrophil mediated cytotoxicity
+RCV_000183	granulocyte	GO_0070950	regulation of neutrophil mediated killing of bacterium
+RCV_000183	granulocyte	GO_0070953	regulation of neutrophil mediated killing of fungus
+RCV_000183	granulocyte	GO_0070951	regulation of neutrophil mediated killing of gram-negative bacterium
+RCV_000183	granulocyte	GO_0070952	regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000183	granulocyte	GO_0070949	regulation of neutrophil mediated killing of symbiont cell
+RCV_000183	granulocyte	GO_1902622	regulation of neutrophil migration
 RCV_000183	granulocyte	GO_0002556	serotonin secretion by basophil
 RCV_000183	granulocyte	GO_0002559	type I hypersensitivity mediated by basophils
 RCV_000184	heart development	GO_0061312	BMP signaling pathway involved in heart development
@@ -9871,6 +10348,8 @@ RCV_000188	hepatic stellate cell	GO_2000489	regulation of hepatic stellate cell 
 RCV_000189	hepatocyte	GO_0097284	hepatocyte apoptotic process
 RCV_000189	hepatocyte	GO_0070365	hepatocyte differentiation
 RCV_000189	hepatocyte	GO_0036333	hepatocyte homeostasis
+RCV_000189	hepatocyte	GO_0070367	negative regulation of hepatocyte differentiation
+RCV_000189	hepatocyte	GO_0070368	positive regulation of hepatocyte differentiation
 RCV_000189	hepatocyte	GO_0070366	regulation of hepatocyte differentiation
 RCV_000189	hepatocyte	GO_0048176	regulation of hepatocyte growth factor biosynthetic process
 RCV_000189	hepatocyte	GO_0032646	regulation of hepatocyte growth factor production
@@ -13235,6 +13714,15 @@ RCV_000212	iron metabolism	GO_0033571	lactoferrin transport
 RCV_000212	iron metabolism	GO_0000040	low-affinity iron ion transmembrane transport
 RCV_000212	iron metabolism	GO_0015090	low-affinity iron ion transmembrane transporter activity
 RCV_000212	iron metabolism	GO_0048250	mitochondrial iron ion transport
+RCV_000212	iron metabolism	GO_0034760	negative regulation of iron ion transmembrane transport
+RCV_000212	iron metabolism	GO_0034757	negative regulation of iron ion transport
+RCV_000212	iron metabolism	GO_0034761	positive regulation of iron ion transmembrane transport
+RCV_000212	iron metabolism	GO_0034758	positive regulation of iron ion transport
+RCV_000212	iron metabolism	GO_1900390	regulation of iron ion import
+RCV_000212	iron metabolism	GO_1900400	regulation of iron ion import by regulation of transcription from RNA polymerase II promoter
+RCV_000212	iron metabolism	GO_0034759	regulation of iron ion transmembrane transport
+RCV_000212	iron metabolism	GO_0034756	regulation of iron ion transport
+RCV_000212	iron metabolism	GO_1900393	regulation of iron ion transport by regulation of transcription from RNA polymerase II promoter
 RCV_000212	iron metabolism	GO_0010039	response to iron ion
 RCV_000212	iron metabolism	GO_0010040	response to iron(II) ion
 RCV_000212	iron metabolism	GO_0010041	response to iron(III) ion
@@ -13251,9 +13739,18 @@ RCV_000213	keratinocyte	GO_0051546	keratinocyte migration
 RCV_000213	keratinocyte	GO_0043616	keratinocyte proliferation
 RCV_000213	keratinocyte	GO_0060891	limb granular cell differentiation
 RCV_000213	keratinocyte	GO_0060890	limb spinous cell differentiation
+RCV_000213	keratinocyte	GO_1902173	negative regulation of keratinocyte apoptotic process
 RCV_000213	keratinocyte	GO_0045617	negative regulation of keratinocyte differentiation
 RCV_000213	keratinocyte	GO_0051548	negative regulation of keratinocyte migration
 RCV_000213	keratinocyte	GO_0010839	negative regulation of keratinocyte proliferation
+RCV_000213	keratinocyte	GO_1902174	positive regulation of keratinocyte apoptotic process
+RCV_000213	keratinocyte	GO_0045618	positive regulation of keratinocyte differentiation
+RCV_000213	keratinocyte	GO_0051549	positive regulation of keratinocyte migration
+RCV_000213	keratinocyte	GO_0010838	positive regulation of keratinocyte proliferation
+RCV_000213	keratinocyte	GO_1902172	regulation of keratinocyte apoptotic process
+RCV_000213	keratinocyte	GO_0045616	regulation of keratinocyte differentiation
+RCV_000213	keratinocyte	GO_0051547	regulation of keratinocyte migration
+RCV_000213	keratinocyte	GO_0010837	regulation of keratinocyte proliferation
 RCV_000214	kidney development	GO_0071893	BMP signaling pathway involved in nephric duct formation
 RCV_000214	kidney development	GO_0072140	DCT cell development
 RCV_000214	kidney development	GO_0072069	DCT cell differentiation
@@ -14612,6 +15109,8 @@ RCV_000226	lymphocyte	GO_0002314	germinal center B cell differentiation
 RCV_000226	lymphocyte	GO_0033380	granzyme B localization to T cell secretory granule
 RCV_000226	lymphocyte	GO_0035704	helper T cell chemotaxis
 RCV_000226	lymphocyte	GO_0035685	helper T cell diapedesis
+RCV_000226	lymphocyte	GO_0035399	helper T cell enhancement of B cell mediated immune response
+RCV_000226	lymphocyte	GO_0035398	helper T cell enhancement of T cell mediated immune response
 RCV_000226	lymphocyte	GO_0035684	helper T cell extravasation
 RCV_000226	lymphocyte	GO_0002455	humoral immune response mediated by circulating immunoglobulin
 RCV_000226	lymphocyte	GO_0002327	immature B cell differentiation
@@ -14654,6 +15153,7 @@ RCV_000226	lymphocyte	GO_0035709	memory T cell activation
 RCV_000226	lymphocyte	GO_0043379	memory T cell differentiation
 RCV_000226	lymphocyte	GO_0035683	memory T cell extravasation
 RCV_000226	lymphocyte	GO_0061485	memory T cell proliferation
+RCV_000226	lymphocyte	GO_0044627	modulation of complement activation, classical pathway in other organism
 RCV_000226	lymphocyte	GO_0002261	mucosal lymphocyte homeostasis
 RCV_000226	lymphocyte	GO_0030101	natural killer cell activation
 RCV_000226	lymphocyte	GO_0002323	natural killer cell activation involved in immune response
@@ -14672,6 +15172,134 @@ RCV_000226	lymphocyte	GO_0002324	natural killer cell proliferation involved in i
 RCV_000226	lymphocyte	GO_0002519	natural killer cell tolerance induction
 RCV_000226	lymphocyte	GO_0043383	negative T cell selection
 RCV_000226	lymphocyte	GO_0045068	negative extrathymic T cell selection
+RCV_000226	lymphocyte	GO_0050869	negative regulation of B cell activation
+RCV_000226	lymphocyte	GO_0002671	negative regulation of B cell anergy
+RCV_000226	lymphocyte	GO_0002623	negative regulation of B cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0002903	negative regulation of B cell apoptotic process
+RCV_000226	lymphocyte	GO_2000550	negative regulation of B cell chemotaxis
+RCV_000226	lymphocyte	GO_0002722	negative regulation of B cell cytokine production
+RCV_000226	lymphocyte	GO_0002868	negative regulation of B cell deletion
+RCV_000226	lymphocyte	GO_0045578	negative regulation of B cell differentiation
+RCV_000226	lymphocyte	GO_0002713	negative regulation of B cell mediated immunity
+RCV_000226	lymphocyte	GO_0030889	negative regulation of B cell proliferation
+RCV_000226	lymphocyte	GO_0050859	negative regulation of B cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002662	negative regulation of B cell tolerance induction
+RCV_000226	lymphocyte	GO_0001925	negative regulation of B-1 B cell differentiation
+RCV_000226	lymphocyte	GO_0032830	negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_0032833	negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_2000515	negative regulation of CD4-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_1900280	negative regulation of CD4-positive, alpha-beta T cell costimulation
+RCV_000226	lymphocyte	GO_0043371	negative regulation of CD4-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_2000562	negative regulation of CD4-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_2001186	negative regulation of CD8-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0043377	negative regulation of CD8-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_2000450	negative regulation of CD8-positive, alpha-beta T cell extravasation
+RCV_000226	lymphocyte	GO_2000565	negative regulation of CD8-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_2000453	negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+RCV_000226	lymphocyte	GO_0051134	negative regulation of NK T cell activation
+RCV_000226	lymphocyte	GO_0051137	negative regulation of NK T cell differentiation
+RCV_000226	lymphocyte	GO_0051141	negative regulation of NK T cell proliferation
+RCV_000226	lymphocyte	GO_0050868	negative regulation of T cell activation
+RCV_000226	lymphocyte	GO_2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000226	lymphocyte	GO_0002668	negative regulation of T cell anergy
+RCV_000226	lymphocyte	GO_0002626	negative regulation of T cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0070233	negative regulation of T cell apoptotic process
+RCV_000226	lymphocyte	GO_2000524	negative regulation of T cell costimulation
+RCV_000226	lymphocyte	GO_0002725	negative regulation of T cell cytokine production
+RCV_000226	lymphocyte	GO_0045581	negative regulation of T cell differentiation
+RCV_000226	lymphocyte	GO_0033085	negative regulation of T cell differentiation in thymus
+RCV_000226	lymphocyte	GO_2000408	negative regulation of T cell extravasation
+RCV_000226	lymphocyte	GO_0046014	negative regulation of T cell homeostatic proliferation
+RCV_000226	lymphocyte	GO_0001915	negative regulation of T cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002853	negative regulation of T cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002841	negative regulation of T cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002710	negative regulation of T cell mediated immunity
+RCV_000226	lymphocyte	GO_2000405	negative regulation of T cell migration
+RCV_000226	lymphocyte	GO_0042130	negative regulation of T cell proliferation
+RCV_000226	lymphocyte	GO_0050860	negative regulation of T cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002665	negative regulation of T cell tolerance induction
+RCV_000226	lymphocyte	GO_0002847	negative regulation of T cell tolerance induction to tumor cell
+RCV_000226	lymphocyte	GO_2000518	negative regulation of T-helper 1 cell activation
+RCV_000226	lymphocyte	GO_2000555	negative regulation of T-helper 1 cell cytokine production
+RCV_000226	lymphocyte	GO_0045626	negative regulation of T-helper 1 cell differentiation
+RCV_000226	lymphocyte	GO_0002826	negative regulation of T-helper 1 type immune response
+RCV_000226	lymphocyte	GO_2000320	negative regulation of T-helper 17 cell differentiation
+RCV_000226	lymphocyte	GO_2000456	negative regulation of T-helper 17 cell extravasation
+RCV_000226	lymphocyte	GO_2000329	negative regulation of T-helper 17 cell lineage commitment
+RCV_000226	lymphocyte	GO_2000317	negative regulation of T-helper 17 type immune response
+RCV_000226	lymphocyte	GO_2000552	negative regulation of T-helper 2 cell cytokine production
+RCV_000226	lymphocyte	GO_0045629	negative regulation of T-helper 2 cell differentiation
+RCV_000226	lymphocyte	GO_0045623	negative regulation of T-helper cell differentiation
+RCV_000226	lymphocyte	GO_0070240	negative regulation of activated T cell autonomous cell death
+RCV_000226	lymphocyte	GO_0046007	negative regulation of activated T cell proliferation
+RCV_000226	lymphocyte	GO_0070236	negative regulation of activation-induced cell death of T cells
+RCV_000226	lymphocyte	GO_0046636	negative regulation of alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0046639	negative regulation of alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_0046642	negative regulation of alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0001814	negative regulation of antibody-dependent cellular cytotoxicity
+RCV_000226	lymphocyte	GO_0002915	negative regulation of central B cell anergy
+RCV_000226	lymphocyte	GO_0002899	negative regulation of central B cell deletion
+RCV_000226	lymphocyte	GO_0002896	negative regulation of central B cell tolerance induction
+RCV_000226	lymphocyte	GO_0045959	negative regulation of complement activation, classical pathway
+RCV_000226	lymphocyte	GO_0044629	negative regulation of complement activation, classical pathway in other organism
+RCV_000226	lymphocyte	GO_0043318	negative regulation of cytotoxic T cell degranulation
+RCV_000226	lymphocyte	GO_0045584	negative regulation of cytotoxic T cell differentiation
+RCV_000226	lymphocyte	GO_0033086	negative regulation of extrathymic T cell differentiation
+RCV_000226	lymphocyte	GO_2000414	negative regulation of fibronectin-dependent thymocyte migration
+RCV_000226	lymphocyte	GO_0046644	negative regulation of gamma-delta T cell activation
+RCV_000226	lymphocyte	GO_2001192	negative regulation of gamma-delta T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0045587	negative regulation of gamma-delta T cell differentiation
+RCV_000226	lymphocyte	GO_0046647	negative regulation of gamma-delta T cell proliferation
+RCV_000226	lymphocyte	GO_0002924	negative regulation of humoral immune response mediated by circulating immunoglobulin
+RCV_000226	lymphocyte	GO_0033087	negative regulation of immature T cell proliferation
+RCV_000226	lymphocyte	GO_0033088	negative regulation of immature T cell proliferation in thymus
+RCV_000226	lymphocyte	GO_0002890	negative regulation of immunoglobulin mediated immune response
+RCV_000226	lymphocyte	GO_2000521	negative regulation of immunological synapse formation
+RCV_000226	lymphocyte	GO_0045829	negative regulation of isotype switching
+RCV_000226	lymphocyte	GO_0048297	negative regulation of isotype switching to IgA isotypes
+RCV_000226	lymphocyte	GO_0048300	negative regulation of isotype switching to IgD isotypes
+RCV_000226	lymphocyte	GO_0048294	negative regulation of isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0048303	negative regulation of isotype switching to IgG isotypes
+RCV_000226	lymphocyte	GO_0051250	negative regulation of lymphocyte activation
+RCV_000226	lymphocyte	GO_0002912	negative regulation of lymphocyte anergy
+RCV_000226	lymphocyte	GO_0070229	negative regulation of lymphocyte apoptotic process
+RCV_000226	lymphocyte	GO_1901624	negative regulation of lymphocyte chemotaxis
+RCV_000226	lymphocyte	GO_0045620	negative regulation of lymphocyte differentiation
+RCV_000226	lymphocyte	GO_0002707	negative regulation of lymphocyte mediated immunity
+RCV_000226	lymphocyte	GO_2000402	negative regulation of lymphocyte migration
+RCV_000226	lymphocyte	GO_0050672	negative regulation of lymphocyte proliferation
+RCV_000226	lymphocyte	GO_0002906	negative regulation of mature B cell apoptotic process
+RCV_000226	lymphocyte	GO_0043381	negative regulation of memory T cell differentiation
+RCV_000226	lymphocyte	GO_0032815	negative regulation of natural killer cell activation
+RCV_000226	lymphocyte	GO_0070248	negative regulation of natural killer cell apoptotic process
+RCV_000226	lymphocyte	GO_2000502	negative regulation of natural killer cell chemotaxis
+RCV_000226	lymphocyte	GO_0002728	negative regulation of natural killer cell cytokine production
+RCV_000226	lymphocyte	GO_0043322	negative regulation of natural killer cell degranulation
+RCV_000226	lymphocyte	GO_0032824	negative regulation of natural killer cell differentiation
+RCV_000226	lymphocyte	GO_0032827	negative regulation of natural killer cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0045953	negative regulation of natural killer cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002859	negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002856	negative regulation of natural killer cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002716	negative regulation of natural killer cell mediated immunity
+RCV_000226	lymphocyte	GO_0032818	negative regulation of natural killer cell proliferation
+RCV_000226	lymphocyte	GO_0032821	negative regulation of natural killer cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0002872	negative regulation of natural killer cell tolerance induction
+RCV_000226	lymphocyte	GO_0002918	negative regulation of peripheral B cell anergy
+RCV_000226	lymphocyte	GO_0002909	negative regulation of peripheral B cell deletion
+RCV_000226	lymphocyte	GO_0002850	negative regulation of peripheral T cell tolerance induction
+RCV_000226	lymphocyte	GO_1900099	negative regulation of plasma cell differentiation
+RCV_000226	lymphocyte	GO_1902233	negative regulation of positive thymic T cell selection
+RCV_000226	lymphocyte	GO_2000175	negative regulation of pro-T cell differentiation
+RCV_000226	lymphocyte	GO_0045590	negative regulation of regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_2000399	negative regulation of thymocyte aggregation
+RCV_000226	lymphocyte	GO_0070244	negative regulation of thymocyte apoptotic process
+RCV_000226	lymphocyte	GO_2000411	negative regulation of thymocyte migration
+RCV_000226	lymphocyte	GO_0001811	negative regulation of type I hypersensitivity
+RCV_000226	lymphocyte	GO_0002893	negative regulation of type II hypersensitivity
+RCV_000226	lymphocyte	GO_0001804	negative regulation of type III hypersensitivity
+RCV_000226	lymphocyte	GO_0001797	negative regulation of type IIa hypersensitivity
+RCV_000226	lymphocyte	GO_0001800	negative regulation of type IIb hypersensitivity
+RCV_000226	lymphocyte	GO_0001808	negative regulation of type IV hypersensitivity
 RCV_000226	lymphocyte	GO_0045060	negative thymic T cell selection
 RCV_000226	lymphocyte	GO_0002453	peripheral B cell anergy
 RCV_000226	lymphocyte	GO_0002454	peripheral B cell deletion
@@ -14683,13 +15311,280 @@ RCV_000226	lymphocyte	GO_0002458	peripheral T cell tolerance induction
 RCV_000226	lymphocyte	GO_0002317	plasma cell differentiation
 RCV_000226	lymphocyte	GO_0043368	positive T cell selection
 RCV_000226	lymphocyte	GO_0045067	positive extrathymic T cell selection
+RCV_000226	lymphocyte	GO_0050871	positive regulation of B cell activation
+RCV_000226	lymphocyte	GO_0002672	positive regulation of B cell anergy
+RCV_000226	lymphocyte	GO_0002624	positive regulation of B cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0002904	positive regulation of B cell apoptotic process
+RCV_000226	lymphocyte	GO_2000538	positive regulation of B cell chemotaxis
+RCV_000226	lymphocyte	GO_0002723	positive regulation of B cell cytokine production
+RCV_000226	lymphocyte	GO_0002869	positive regulation of B cell deletion
+RCV_000226	lymphocyte	GO_0045579	positive regulation of B cell differentiation
+RCV_000226	lymphocyte	GO_0002714	positive regulation of B cell mediated immunity
+RCV_000226	lymphocyte	GO_0030890	positive regulation of B cell proliferation
+RCV_000226	lymphocyte	GO_0050861	positive regulation of B cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002663	positive regulation of B cell tolerance induction
+RCV_000226	lymphocyte	GO_0001926	positive regulation of B-1 B cell differentiation
+RCV_000226	lymphocyte	GO_0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_0032834	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_2000516	positive regulation of CD4-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_1900281	positive regulation of CD4-positive, alpha-beta T cell costimulation
+RCV_000226	lymphocyte	GO_0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_2000563	positive regulation of CD4-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_2001187	positive regulation of CD8-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0043378	positive regulation of CD8-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_2000451	positive regulation of CD8-positive, alpha-beta T cell extravasation
+RCV_000226	lymphocyte	GO_2000566	positive regulation of CD8-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_2000454	positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+RCV_000226	lymphocyte	GO_0051135	positive regulation of NK T cell activation
+RCV_000226	lymphocyte	GO_0051138	positive regulation of NK T cell differentiation
+RCV_000226	lymphocyte	GO_0051142	positive regulation of NK T cell proliferation
+RCV_000226	lymphocyte	GO_0050870	positive regulation of T cell activation
+RCV_000226	lymphocyte	GO_2001190	positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000226	lymphocyte	GO_0002669	positive regulation of T cell anergy
+RCV_000226	lymphocyte	GO_0002627	positive regulation of T cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0070234	positive regulation of T cell apoptotic process
+RCV_000226	lymphocyte	GO_0010820	positive regulation of T cell chemotaxis
+RCV_000226	lymphocyte	GO_2000525	positive regulation of T cell costimulation
+RCV_000226	lymphocyte	GO_0002726	positive regulation of T cell cytokine production
+RCV_000226	lymphocyte	GO_0045582	positive regulation of T cell differentiation
+RCV_000226	lymphocyte	GO_0033089	positive regulation of T cell differentiation in thymus
+RCV_000226	lymphocyte	GO_2000409	positive regulation of T cell extravasation
+RCV_000226	lymphocyte	GO_0042103	positive regulation of T cell homeostatic proliferation
+RCV_000226	lymphocyte	GO_0001916	positive regulation of T cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002854	positive regulation of T cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002842	positive regulation of T cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002711	positive regulation of T cell mediated immunity
+RCV_000226	lymphocyte	GO_2000406	positive regulation of T cell migration
+RCV_000226	lymphocyte	GO_0042102	positive regulation of T cell proliferation
+RCV_000226	lymphocyte	GO_0050862	positive regulation of T cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002666	positive regulation of T cell tolerance induction
+RCV_000226	lymphocyte	GO_0002848	positive regulation of T cell tolerance induction to tumor cell
+RCV_000226	lymphocyte	GO_2000519	positive regulation of T-helper 1 cell activation
+RCV_000226	lymphocyte	GO_2000556	positive regulation of T-helper 1 cell cytokine production
+RCV_000226	lymphocyte	GO_0045627	positive regulation of T-helper 1 cell differentiation
+RCV_000226	lymphocyte	GO_0002827	positive regulation of T-helper 1 type immune response
+RCV_000226	lymphocyte	GO_2000321	positive regulation of T-helper 17 cell differentiation
+RCV_000226	lymphocyte	GO_2000457	positive regulation of T-helper 17 cell extravasation
+RCV_000226	lymphocyte	GO_2000330	positive regulation of T-helper 17 cell lineage commitment
+RCV_000226	lymphocyte	GO_2000318	positive regulation of T-helper 17 type immune response
+RCV_000226	lymphocyte	GO_2000570	positive regulation of T-helper 2 cell activation
+RCV_000226	lymphocyte	GO_2000553	positive regulation of T-helper 2 cell cytokine production
+RCV_000226	lymphocyte	GO_0045630	positive regulation of T-helper 2 cell differentiation
+RCV_000226	lymphocyte	GO_0045624	positive regulation of T-helper cell differentiation
+RCV_000226	lymphocyte	GO_0070241	positive regulation of activated T cell autonomous cell death
+RCV_000226	lymphocyte	GO_0042104	positive regulation of activated T cell proliferation
+RCV_000226	lymphocyte	GO_0070237	positive regulation of activation-induced cell death of T cells
+RCV_000226	lymphocyte	GO_0046635	positive regulation of alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0046638	positive regulation of alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_0046641	positive regulation of alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0001815	positive regulation of antibody-dependent cellular cytotoxicity
+RCV_000226	lymphocyte	GO_0002916	positive regulation of central B cell anergy
+RCV_000226	lymphocyte	GO_0002900	positive regulation of central B cell deletion
+RCV_000226	lymphocyte	GO_0002897	positive regulation of central B cell tolerance induction
+RCV_000226	lymphocyte	GO_0045960	positive regulation of complement activation, classical pathway
+RCV_000226	lymphocyte	GO_0044628	positive regulation of complement activation, classical pathway in other organism
+RCV_000226	lymphocyte	GO_0043319	positive regulation of cytotoxic T cell degranulation
+RCV_000226	lymphocyte	GO_0045585	positive regulation of cytotoxic T cell differentiation
+RCV_000226	lymphocyte	GO_0033090	positive regulation of extrathymic T cell differentiation
+RCV_000226	lymphocyte	GO_2000415	positive regulation of fibronectin-dependent thymocyte migration
+RCV_000226	lymphocyte	GO_0046645	positive regulation of gamma-delta T cell activation
+RCV_000226	lymphocyte	GO_2001193	positive regulation of gamma-delta T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0045588	positive regulation of gamma-delta T cell differentiation
+RCV_000226	lymphocyte	GO_0046648	positive regulation of gamma-delta T cell proliferation
+RCV_000226	lymphocyte	GO_0002925	positive regulation of humoral immune response mediated by circulating immunoglobulin
+RCV_000226	lymphocyte	GO_0033091	positive regulation of immature T cell proliferation
+RCV_000226	lymphocyte	GO_0033092	positive regulation of immature T cell proliferation in thymus
+RCV_000226	lymphocyte	GO_0002891	positive regulation of immunoglobulin mediated immune response
+RCV_000226	lymphocyte	GO_2000558	positive regulation of immunoglobulin production in mucosal tissue
+RCV_000226	lymphocyte	GO_2000522	positive regulation of immunological synapse formation
+RCV_000226	lymphocyte	GO_2000572	positive regulation of interleukin-4-dependent isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0045830	positive regulation of isotype switching
+RCV_000226	lymphocyte	GO_0048298	positive regulation of isotype switching to IgA isotypes
+RCV_000226	lymphocyte	GO_0048301	positive regulation of isotype switching to IgD isotypes
+RCV_000226	lymphocyte	GO_0048295	positive regulation of isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0048304	positive regulation of isotype switching to IgG isotypes
+RCV_000226	lymphocyte	GO_0051251	positive regulation of lymphocyte activation
+RCV_000226	lymphocyte	GO_0002913	positive regulation of lymphocyte anergy
+RCV_000226	lymphocyte	GO_0070230	positive regulation of lymphocyte apoptotic process
+RCV_000226	lymphocyte	GO_0045621	positive regulation of lymphocyte differentiation
+RCV_000226	lymphocyte	GO_0002708	positive regulation of lymphocyte mediated immunity
+RCV_000226	lymphocyte	GO_2000403	positive regulation of lymphocyte migration
+RCV_000226	lymphocyte	GO_0050671	positive regulation of lymphocyte proliferation
+RCV_000226	lymphocyte	GO_0002907	positive regulation of mature B cell apoptotic process
+RCV_000226	lymphocyte	GO_2000568	positive regulation of memory T cell activation
+RCV_000226	lymphocyte	GO_0043382	positive regulation of memory T cell differentiation
+RCV_000226	lymphocyte	GO_0032816	positive regulation of natural killer cell activation
+RCV_000226	lymphocyte	GO_0070249	positive regulation of natural killer cell apoptotic process
+RCV_000226	lymphocyte	GO_2000503	positive regulation of natural killer cell chemotaxis
+RCV_000226	lymphocyte	GO_0002729	positive regulation of natural killer cell cytokine production
+RCV_000226	lymphocyte	GO_0043323	positive regulation of natural killer cell degranulation
+RCV_000226	lymphocyte	GO_0032825	positive regulation of natural killer cell differentiation
+RCV_000226	lymphocyte	GO_0032828	positive regulation of natural killer cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0045954	positive regulation of natural killer cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002860	positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002857	positive regulation of natural killer cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002717	positive regulation of natural killer cell mediated immunity
+RCV_000226	lymphocyte	GO_0032819	positive regulation of natural killer cell proliferation
+RCV_000226	lymphocyte	GO_0032822	positive regulation of natural killer cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0002873	positive regulation of natural killer cell tolerance induction
+RCV_000226	lymphocyte	GO_0002919	positive regulation of peripheral B cell anergy
+RCV_000226	lymphocyte	GO_0002910	positive regulation of peripheral B cell deletion
+RCV_000226	lymphocyte	GO_0002851	positive regulation of peripheral T cell tolerance induction
+RCV_000226	lymphocyte	GO_1900100	positive regulation of plasma cell differentiation
+RCV_000226	lymphocyte	GO_1902234	positive regulation of positive thymic T cell selection
+RCV_000226	lymphocyte	GO_2000176	positive regulation of pro-T cell differentiation
+RCV_000226	lymphocyte	GO_0045591	positive regulation of regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_2000400	positive regulation of thymocyte aggregation
+RCV_000226	lymphocyte	GO_0070245	positive regulation of thymocyte apoptotic process
+RCV_000226	lymphocyte	GO_2000412	positive regulation of thymocyte migration
+RCV_000226	lymphocyte	GO_0001812	positive regulation of type I hypersensitivity
+RCV_000226	lymphocyte	GO_0002894	positive regulation of type II hypersensitivity
+RCV_000226	lymphocyte	GO_0001805	positive regulation of type III hypersensitivity
+RCV_000226	lymphocyte	GO_0001798	positive regulation of type IIa hypersensitivity
+RCV_000226	lymphocyte	GO_0001801	positive regulation of type IIb hypersensitivity
+RCV_000226	lymphocyte	GO_0001809	positive regulation of type IV hypersensitivity
 RCV_000226	lymphocyte	GO_0045059	positive thymic T cell selection
 RCV_000226	lymphocyte	GO_0002329	pre-B cell differentiation
 RCV_000226	lymphocyte	GO_0033375	protease localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0042270	protection from natural killer cell mediated cytotoxicity
 RCV_000226	lymphocyte	GO_0033374	protein localization to T cell secretory granule
+RCV_000226	lymphocyte	GO_0050864	regulation of B cell activation
+RCV_000226	lymphocyte	GO_0002670	regulation of B cell anergy
+RCV_000226	lymphocyte	GO_0002622	regulation of B cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0002902	regulation of B cell apoptotic process
+RCV_000226	lymphocyte	GO_2000537	regulation of B cell chemotaxis
+RCV_000226	lymphocyte	GO_0002721	regulation of B cell cytokine production
+RCV_000226	lymphocyte	GO_0002867	regulation of B cell deletion
+RCV_000226	lymphocyte	GO_0045577	regulation of B cell differentiation
+RCV_000226	lymphocyte	GO_0002712	regulation of B cell mediated immunity
+RCV_000226	lymphocyte	GO_0030888	regulation of B cell proliferation
+RCV_000226	lymphocyte	GO_0050855	regulation of B cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002661	regulation of B cell tolerance induction
+RCV_000226	lymphocyte	GO_0001924	regulation of B-1 B cell differentiation
+RCV_000226	lymphocyte	GO_0032829	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_0032832	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_2000514	regulation of CD4-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_1900279	regulation of CD4-positive, alpha-beta T cell costimulation
+RCV_000226	lymphocyte	GO_0043370	regulation of CD4-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_2000561	regulation of CD4-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_2001185	regulation of CD8-positive, alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0043376	regulation of CD8-positive, alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_2000449	regulation of CD8-positive, alpha-beta T cell extravasation
+RCV_000226	lymphocyte	GO_2000564	regulation of CD8-positive, alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_2000452	regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+RCV_000226	lymphocyte	GO_0051133	regulation of NK T cell activation
+RCV_000226	lymphocyte	GO_0051136	regulation of NK T cell differentiation
+RCV_000226	lymphocyte	GO_0051140	regulation of NK T cell proliferation
+RCV_000226	lymphocyte	GO_0050863	regulation of T cell activation
+RCV_000226	lymphocyte	GO_2001188	regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+RCV_000226	lymphocyte	GO_0002667	regulation of T cell anergy
+RCV_000226	lymphocyte	GO_0002625	regulation of T cell antigen processing and presentation
+RCV_000226	lymphocyte	GO_0070232	regulation of T cell apoptotic process
+RCV_000226	lymphocyte	GO_0010819	regulation of T cell chemotaxis
+RCV_000226	lymphocyte	GO_2000523	regulation of T cell costimulation
+RCV_000226	lymphocyte	GO_0002724	regulation of T cell cytokine production
+RCV_000226	lymphocyte	GO_0045580	regulation of T cell differentiation
+RCV_000226	lymphocyte	GO_0033081	regulation of T cell differentiation in thymus
+RCV_000226	lymphocyte	GO_2000407	regulation of T cell extravasation
+RCV_000226	lymphocyte	GO_0046013	regulation of T cell homeostatic proliferation
+RCV_000226	lymphocyte	GO_0001914	regulation of T cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002852	regulation of T cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002840	regulation of T cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002709	regulation of T cell mediated immunity
+RCV_000226	lymphocyte	GO_2000404	regulation of T cell migration
+RCV_000226	lymphocyte	GO_0042129	regulation of T cell proliferation
+RCV_000226	lymphocyte	GO_0050856	regulation of T cell receptor signaling pathway
+RCV_000226	lymphocyte	GO_0002664	regulation of T cell tolerance induction
+RCV_000226	lymphocyte	GO_0002846	regulation of T cell tolerance induction to tumor cell
+RCV_000226	lymphocyte	GO_2000517	regulation of T-helper 1 cell activation
+RCV_000226	lymphocyte	GO_2000554	regulation of T-helper 1 cell cytokine production
+RCV_000226	lymphocyte	GO_0045625	regulation of T-helper 1 cell differentiation
+RCV_000226	lymphocyte	GO_0002825	regulation of T-helper 1 type immune response
+RCV_000226	lymphocyte	GO_2000319	regulation of T-helper 17 cell differentiation
+RCV_000226	lymphocyte	GO_2000455	regulation of T-helper 17 cell extravasation
+RCV_000226	lymphocyte	GO_2000328	regulation of T-helper 17 cell lineage commitment
+RCV_000226	lymphocyte	GO_2000316	regulation of T-helper 17 type immune response
+RCV_000226	lymphocyte	GO_2000569	regulation of T-helper 2 cell activation
+RCV_000226	lymphocyte	GO_2000551	regulation of T-helper 2 cell cytokine production
+RCV_000226	lymphocyte	GO_0045628	regulation of T-helper 2 cell differentiation
+RCV_000226	lymphocyte	GO_0045622	regulation of T-helper cell differentiation
+RCV_000226	lymphocyte	GO_0070239	regulation of activated T cell autonomous cell death
+RCV_000226	lymphocyte	GO_0046006	regulation of activated T cell proliferation
+RCV_000226	lymphocyte	GO_0070235	regulation of activation-induced cell death of T cells
+RCV_000226	lymphocyte	GO_0046634	regulation of alpha-beta T cell activation
+RCV_000226	lymphocyte	GO_0046637	regulation of alpha-beta T cell differentiation
+RCV_000226	lymphocyte	GO_0046640	regulation of alpha-beta T cell proliferation
+RCV_000226	lymphocyte	GO_0001813	regulation of antibody-dependent cellular cytotoxicity
+RCV_000226	lymphocyte	GO_0002914	regulation of central B cell anergy
+RCV_000226	lymphocyte	GO_0002898	regulation of central B cell deletion
+RCV_000226	lymphocyte	GO_0002895	regulation of central B cell tolerance induction
+RCV_000226	lymphocyte	GO_0030450	regulation of complement activation, classical pathway
+RCV_000226	lymphocyte	GO_0043317	regulation of cytotoxic T cell degranulation
+RCV_000226	lymphocyte	GO_0045583	regulation of cytotoxic T cell differentiation
+RCV_000226	lymphocyte	GO_0033082	regulation of extrathymic T cell differentiation
+RCV_000226	lymphocyte	GO_2000413	regulation of fibronectin-dependent thymocyte migration
+RCV_000226	lymphocyte	GO_0046643	regulation of gamma-delta T cell activation
+RCV_000226	lymphocyte	GO_2001191	regulation of gamma-delta T cell activation involved in immune response
+RCV_000226	lymphocyte	GO_0045586	regulation of gamma-delta T cell differentiation
+RCV_000226	lymphocyte	GO_0046646	regulation of gamma-delta T cell proliferation
+RCV_000226	lymphocyte	GO_0002923	regulation of humoral immune response mediated by circulating immunoglobulin
+RCV_000226	lymphocyte	GO_0033083	regulation of immature T cell proliferation
+RCV_000226	lymphocyte	GO_0033084	regulation of immature T cell proliferation in thymus
+RCV_000226	lymphocyte	GO_0002889	regulation of immunoglobulin mediated immune response
+RCV_000226	lymphocyte	GO_2000557	regulation of immunoglobulin production in mucosal tissue
+RCV_000226	lymphocyte	GO_2000520	regulation of immunological synapse formation
+RCV_000226	lymphocyte	GO_2000571	regulation of interleukin-4-dependent isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0045191	regulation of isotype switching
+RCV_000226	lymphocyte	GO_0048296	regulation of isotype switching to IgA isotypes
+RCV_000226	lymphocyte	GO_0048299	regulation of isotype switching to IgD isotypes
+RCV_000226	lymphocyte	GO_0048293	regulation of isotype switching to IgE isotypes
+RCV_000226	lymphocyte	GO_0048302	regulation of isotype switching to IgG isotypes
+RCV_000226	lymphocyte	GO_0051249	regulation of lymphocyte activation
+RCV_000226	lymphocyte	GO_0002911	regulation of lymphocyte anergy
+RCV_000226	lymphocyte	GO_0070228	regulation of lymphocyte apoptotic process
+RCV_000226	lymphocyte	GO_1901623	regulation of lymphocyte chemotaxis
+RCV_000226	lymphocyte	GO_0045619	regulation of lymphocyte differentiation
+RCV_000226	lymphocyte	GO_0002706	regulation of lymphocyte mediated immunity
+RCV_000226	lymphocyte	GO_2000401	regulation of lymphocyte migration
+RCV_000226	lymphocyte	GO_0050670	regulation of lymphocyte proliferation
+RCV_000226	lymphocyte	GO_0002905	regulation of mature B cell apoptotic process
+RCV_000226	lymphocyte	GO_2000567	regulation of memory T cell activation
+RCV_000226	lymphocyte	GO_0043380	regulation of memory T cell differentiation
+RCV_000226	lymphocyte	GO_0032814	regulation of natural killer cell activation
+RCV_000226	lymphocyte	GO_0070247	regulation of natural killer cell apoptotic process
+RCV_000226	lymphocyte	GO_2000501	regulation of natural killer cell chemotaxis
+RCV_000226	lymphocyte	GO_0002727	regulation of natural killer cell cytokine production
+RCV_000226	lymphocyte	GO_0043321	regulation of natural killer cell degranulation
+RCV_000226	lymphocyte	GO_0032823	regulation of natural killer cell differentiation
+RCV_000226	lymphocyte	GO_0032826	regulation of natural killer cell differentiation involved in immune response
+RCV_000226	lymphocyte	GO_0042269	regulation of natural killer cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0002858	regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+RCV_000226	lymphocyte	GO_0002855	regulation of natural killer cell mediated immune response to tumor cell
+RCV_000226	lymphocyte	GO_0002715	regulation of natural killer cell mediated immunity
+RCV_000226	lymphocyte	GO_0032817	regulation of natural killer cell proliferation
+RCV_000226	lymphocyte	GO_0032820	regulation of natural killer cell proliferation involved in immune response
+RCV_000226	lymphocyte	GO_0002871	regulation of natural killer cell tolerance induction
+RCV_000226	lymphocyte	GO_0002917	regulation of peripheral B cell anergy
+RCV_000226	lymphocyte	GO_0002908	regulation of peripheral B cell deletion
+RCV_000226	lymphocyte	GO_0002849	regulation of peripheral T cell tolerance induction
+RCV_000226	lymphocyte	GO_1900098	regulation of plasma cell differentiation
+RCV_000226	lymphocyte	GO_1902232	regulation of positive thymic T cell selection
+RCV_000226	lymphocyte	GO_2000174	regulation of pro-T cell differentiation
+RCV_000226	lymphocyte	GO_0045589	regulation of regulatory T cell differentiation
+RCV_000226	lymphocyte	GO_2000398	regulation of thymocyte aggregation
+RCV_000226	lymphocyte	GO_0070243	regulation of thymocyte apoptotic process
+RCV_000226	lymphocyte	GO_2000410	regulation of thymocyte migration
+RCV_000226	lymphocyte	GO_0001810	regulation of type I hypersensitivity
+RCV_000226	lymphocyte	GO_0002892	regulation of type II hypersensitivity
+RCV_000226	lymphocyte	GO_0001803	regulation of type III hypersensitivity
+RCV_000226	lymphocyte	GO_0001796	regulation of type IIa hypersensitivity
+RCV_000226	lymphocyte	GO_0001799	regulation of type IIb hypersensitivity
+RCV_000226	lymphocyte	GO_0001807	regulation of type IV hypersensitivity
 RCV_000226	lymphocyte	GO_1902482	regulatory T cell apoptotic process
 RCV_000226	lymphocyte	GO_0045066	regulatory T cell differentiation
 RCV_000226	lymphocyte	GO_0039672	suppression by virus of host natural killer cell activation
+RCV_000226	lymphocyte	GO_0060370	susceptibility to T cell mediated cytotoxicity
+RCV_000226	lymphocyte	GO_0042271	susceptibility to natural killer cell mediated cytotoxicity
 RCV_000226	lymphocyte	GO_0023022	termination of T cell signal transduction
 RCV_000226	lymphocyte	GO_0045061	thymic T cell selection
 RCV_000226	lymphocyte	GO_0071594	thymocyte aggregation
@@ -14737,6 +15632,9 @@ RCV_000228	mRNA dynamics	GO_0000178	exosome (RNase complex)
 RCV_000228	mRNA dynamics	GO_0006398	histone mRNA 3'-end processing
 RCV_000228	mRNA dynamics	GO_0071044	histone mRNA catabolic process
 RCV_000228	mRNA dynamics	GO_0008334	histone mRNA metabolic process
+RCV_000228	mRNA dynamics	GO_0039595	induction by virus of catabolism of host mRNA
+RCV_000228	mRNA dynamics	GO_0039600	induction by virus of host endonucleolytic cleavage-dependent mRNA catabolic process
+RCV_000228	mRNA dynamics	GO_0039597	induction by virus of host endoribonuclease activity
 RCV_000228	mRNA dynamics	GO_0000366	intergenic mRNA trans splicing
 RCV_000228	mRNA dynamics	GO_0030350	iron-responsive element binding
 RCV_000228	mRNA dynamics	GO_0035925	mRNA 3'-UTR AU-rich region binding
@@ -14784,6 +15682,19 @@ RCV_000228	mRNA dynamics	GO_0000958	mitochondrial mRNA catabolic process
 RCV_000228	mRNA dynamics	GO_0080156	mitochondrial mRNA modification
 RCV_000228	mRNA dynamics	GO_0097222	mitochondrial mRNA polyadenylation
 RCV_000228	mRNA dynamics	GO_0090615	mitochondrial mRNA processing
+RCV_000228	mRNA dynamics	GO_0046778	modification by virus of host mRNA processing
+RCV_000228	mRNA dynamics	GO_1903838	negative regulation of mRNA 3'-UTR binding
+RCV_000228	mRNA dynamics	GO_0031441	negative regulation of mRNA 3'-end processing
+RCV_000228	mRNA dynamics	GO_1902373	negative regulation of mRNA catabolic process
+RCV_000228	mRNA dynamics	GO_0031438	negative regulation of mRNA cleavage
+RCV_000228	mRNA dynamics	GO_1903312	negative regulation of mRNA metabolic process
+RCV_000228	mRNA dynamics	GO_0090367	negative regulation of mRNA modification
+RCV_000228	mRNA dynamics	GO_1900364	negative regulation of mRNA polyadenylation
+RCV_000228	mRNA dynamics	GO_0050686	negative regulation of mRNA processing
+RCV_000228	mRNA dynamics	GO_0048025	negative regulation of mRNA splicing, via spliceosome
+RCV_000228	mRNA dynamics	GO_1900152	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+RCV_000228	mRNA dynamics	GO_2000623	negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+RCV_000228	mRNA dynamics	GO_0060212	negative regulation of nuclear-transcribed mRNA poly(A) tail shortening
 RCV_000228	mRNA dynamics	GO_0000176	nuclear exosome (RNase complex)
 RCV_000228	mRNA dynamics	GO_0071045	nuclear histone mRNA catabolic process
 RCV_000228	mRNA dynamics	GO_0071028	nuclear mRNA surveillance
@@ -14809,22 +15720,47 @@ RCV_000228	mRNA dynamics	GO_0016973	poly(A)+ mRNA export from nucleus
 RCV_000228	mRNA dynamics	GO_0071047	polyadenylation-dependent mRNA catabolic process
 RCV_000228	mRNA dynamics	GO_0031426	polycistronic mRNA processing
 RCV_000228	mRNA dynamics	GO_1990074	polyuridylation-dependent mRNA catabolic process
+RCV_000228	mRNA dynamics	GO_1901835	positive regulation of deadenylation-independent decapping of nuclear-transcribed mRNA
+RCV_000228	mRNA dynamics	GO_1903839	positive regulation of mRNA 3'-UTR binding
+RCV_000228	mRNA dynamics	GO_0031442	positive regulation of mRNA 3'-end processing
+RCV_000228	mRNA dynamics	GO_1902416	positive regulation of mRNA binding
+RCV_000228	mRNA dynamics	GO_0061014	positive regulation of mRNA catabolic process
+RCV_000228	mRNA dynamics	GO_0031439	positive regulation of mRNA cleavage
+RCV_000228	mRNA dynamics	GO_1903313	positive regulation of mRNA metabolic process
+RCV_000228	mRNA dynamics	GO_0090366	positive regulation of mRNA modification
+RCV_000228	mRNA dynamics	GO_1900365	positive regulation of mRNA polyadenylation
+RCV_000228	mRNA dynamics	GO_0050685	positive regulation of mRNA processing
+RCV_000228	mRNA dynamics	GO_0048026	positive regulation of mRNA splicing, via spliceosome
+RCV_000228	mRNA dynamics	GO_1900153	positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+RCV_000228	mRNA dynamics	GO_2000624	positive regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+RCV_000228	mRNA dynamics	GO_0060213	positive regulation of nuclear-transcribed mRNA poly(A) tail shortening
 RCV_000228	mRNA dynamics	GO_0000179	rRNA (adenine-N6,N6-)-dimethyltransferase activity
+RCV_000228	mRNA dynamics	GO_0000381	regulation of alternative mRNA splicing, via spliceosome
+RCV_000228	mRNA dynamics	GO_1901834	regulation of deadenylation-independent decapping of nuclear-transcribed mRNA
+RCV_000228	mRNA dynamics	GO_1903837	regulation of mRNA 3'-UTR binding
 RCV_000228	mRNA dynamics	GO_0031440	regulation of mRNA 3'-end processing
+RCV_000228	mRNA dynamics	GO_1902415	regulation of mRNA binding
 RCV_000228	mRNA dynamics	GO_0061013	regulation of mRNA catabolic process
 RCV_000228	mRNA dynamics	GO_0031437	regulation of mRNA cleavage
 RCV_000228	mRNA dynamics	GO_0010793	regulation of mRNA export from nucleus
 RCV_000228	mRNA dynamics	GO_2000728	regulation of mRNA export from nucleus in response to heat stress
+RCV_000228	mRNA dynamics	GO_1903311	regulation of mRNA metabolic process
 RCV_000228	mRNA dynamics	GO_0090365	regulation of mRNA modification
 RCV_000228	mRNA dynamics	GO_1900363	regulation of mRNA polyadenylation
 RCV_000228	mRNA dynamics	GO_0050684	regulation of mRNA processing
+RCV_000228	mRNA dynamics	GO_0048024	regulation of mRNA splicing, via spliceosome
 RCV_000228	mRNA dynamics	GO_0043488	regulation of mRNA stability
 RCV_000228	mRNA dynamics	GO_2000815	regulation of mRNA stability involved in response to oxidative stress
 RCV_000228	mRNA dynamics	GO_0010610	regulation of mRNA stability involved in response to stress
 RCV_000228	mRNA dynamics	GO_0070928	regulation of mRNA stability, ncRNA-mediated
+RCV_000228	mRNA dynamics	GO_1900151	regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+RCV_000228	mRNA dynamics	GO_2000622	regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+RCV_000228	mRNA dynamics	GO_0060211	regulation of nuclear-transcribed mRNA poly(A) tail shortening
 RCV_000228	mRNA dynamics	GO_0000171	ribonuclease MRP activity
 RCV_000228	mRNA dynamics	GO_0000172	ribonuclease MRP complex
 RCV_000228	mRNA dynamics	GO_0035368	selenocysteine insertion sequence binding
+RCV_000228	mRNA dynamics	GO_0039524	suppression by virus of host mRNA processing
+RCV_000228	mRNA dynamics	GO_0046780	suppression by virus of host mRNA splicing
 RCV_000228	mRNA dynamics	GO_0000213	tRNA-intron endonuclease activity
 RCV_000228	mRNA dynamics	GO_0000214	tRNA-intron endonuclease complex
 RCV_000228	mRNA dynamics	GO_0039699	viral mRNA cap methylation
@@ -14849,15 +15785,19 @@ RCV_000230	mast cell	GO_0097531	mast cell migration
 RCV_000230	mast cell	GO_0070662	mast cell proliferation
 RCV_000230	mast cell	GO_0033364	mast cell secretory granule organization
 RCV_000230	mast cell	GO_0035895	modulation of mast cell degranulation in other organism
+RCV_000230	mast cell	GO_1903594	negative regulation of histamine secretion by mast cell
 RCV_000230	mast cell	GO_0033004	negative regulation of mast cell activation
+RCV_000230	mast cell	GO_0033007	negative regulation of mast cell activation involved in immune response
 RCV_000230	mast cell	GO_0033026	negative regulation of mast cell apoptotic process
 RCV_000230	mast cell	GO_0060755	negative regulation of mast cell chemotaxis
 RCV_000230	mast cell	GO_0032764	negative regulation of mast cell cytokine production
 RCV_000230	mast cell	GO_0043305	negative regulation of mast cell degranulation
 RCV_000230	mast cell	GO_0060377	negative regulation of mast cell differentiation
 RCV_000230	mast cell	GO_0070667	negative regulation of mast cell proliferation
+RCV_000230	mast cell	GO_1903595	positive regulation of histamine secretion by mast cell
 RCV_000230	mast cell	GO_0033005	positive regulation of mast cell activation
 RCV_000230	mast cell	GO_0038097	positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway
+RCV_000230	mast cell	GO_0033008	positive regulation of mast cell activation involved in immune response
 RCV_000230	mast cell	GO_0033027	positive regulation of mast cell apoptotic process
 RCV_000230	mast cell	GO_0060754	positive regulation of mast cell chemotaxis
 RCV_000230	mast cell	GO_0032765	positive regulation of mast cell cytokine production
@@ -14867,7 +15807,9 @@ RCV_000230	mast cell	GO_0060376	positive regulation of mast cell differentiation
 RCV_000230	mast cell	GO_0070668	positive regulation of mast cell proliferation
 RCV_000230	mast cell	GO_0033368	protease localization to mast cell secretory granule
 RCV_000230	mast cell	GO_0033367	protein localization to mast cell secretory granule
+RCV_000230	mast cell	GO_1903593	regulation of histamine secretion by mast cell
 RCV_000230	mast cell	GO_0033003	regulation of mast cell activation
+RCV_000230	mast cell	GO_0033006	regulation of mast cell activation involved in immune response
 RCV_000230	mast cell	GO_0033025	regulation of mast cell apoptotic process
 RCV_000230	mast cell	GO_0060753	regulation of mast cell chemotaxis
 RCV_000230	mast cell	GO_0032763	regulation of mast cell cytokine production
@@ -15143,15 +16085,19 @@ RCV_000238	monocyte	GO_0035703	monocyte migration into blood stream
 RCV_000238	monocyte	GO_1900624	negative regulation of monocyte aggregation
 RCV_000238	monocyte	GO_0002614	negative regulation of monocyte antigen processing and presentation
 RCV_000238	monocyte	GO_0071638	negative regulation of monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0090027	negative regulation of monocyte chemotaxis
 RCV_000238	monocyte	GO_0045656	negative regulation of monocyte differentiation
 RCV_000238	monocyte	GO_2000438	negative regulation of monocyte extravasation
 RCV_000238	monocyte	GO_1900625	positive regulation of monocyte aggregation
+RCV_000238	monocyte	GO_0002615	positive regulation of monocyte antigen processing and presentation
 RCV_000238	monocyte	GO_0071639	positive regulation of monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0090026	positive regulation of monocyte chemotaxis
 RCV_000238	monocyte	GO_0045657	positive regulation of monocyte differentiation
 RCV_000238	monocyte	GO_2000439	positive regulation of monocyte extravasation
 RCV_000238	monocyte	GO_1900623	regulation of monocyte aggregation
 RCV_000238	monocyte	GO_0002613	regulation of monocyte antigen processing and presentation
 RCV_000238	monocyte	GO_0071637	regulation of monocyte chemotactic protein-1 production
+RCV_000238	monocyte	GO_0090025	regulation of monocyte chemotaxis
 RCV_000238	monocyte	GO_0045655	regulation of monocyte differentiation
 RCV_000238	monocyte	GO_2000437	regulation of monocyte extravasation
 RCV_000240	myoblast	GO_0060379	cardiac muscle cell myoblast differentiation
@@ -15178,12 +16124,15 @@ RCV_000240	myoblast	GO_0014844	myoblast proliferation involved in skeletal muscl
 RCV_000240	myoblast	GO_0014906	myotube cell development involved in skeletal muscle regeneration
 RCV_000240	myoblast	GO_2000691	negative regulation of cardiac muscle cell myoblast differentiation
 RCV_000240	myoblast	GO_0045662	negative regulation of myoblast differentiation
+RCV_000240	myoblast	GO_1901740	negative regulation of myoblast fusion
 RCV_000240	myoblast	GO_2000818	negative regulation of myoblast proliferation
 RCV_000240	myoblast	GO_2000700	positive regulation of cardiac muscle cell myoblast differentiation
 RCV_000240	myoblast	GO_0045663	positive regulation of myoblast differentiation
+RCV_000240	myoblast	GO_1901741	positive regulation of myoblast fusion
 RCV_000240	myoblast	GO_2000288	positive regulation of myoblast proliferation
 RCV_000240	myoblast	GO_2000690	regulation of cardiac muscle cell myoblast differentiation
 RCV_000240	myoblast	GO_0045661	regulation of myoblast differentiation
+RCV_000240	myoblast	GO_1901739	regulation of myoblast fusion
 RCV_000240	myoblast	GO_2000291	regulation of myoblast proliferation
 RCV_000244	neuron development	GO_1903616	MAPK cascade involved in axon regeneration
 RCV_000244	neuron development	GO_0048053	R1/R6 development
@@ -15524,8 +16473,10 @@ RCV_000245	neuron differentiation	GO_0021773	striatal medium spiny neuron differ
 RCV_000245	neuron differentiation	GO_0021514	ventral spinal cord interneuron differentiation
 RCV_000245	neuron differentiation	GO_0060114	vestibular receptor cell differentiation
 RCV_000245	neuron differentiation	GO_0021524	visceral motor neuron differentiation
+RCV_000248	neutrophil	GO_1902564	negative regulation of neutrophil activation
 RCV_000248	neutrophil	GO_2000429	negative regulation of neutrophil aggregation
 RCV_000248	neutrophil	GO_0033030	negative regulation of neutrophil apoptotic process
+RCV_000248	neutrophil	GO_0090024	negative regulation of neutrophil chemotaxis
 RCV_000248	neutrophil	GO_0043314	negative regulation of neutrophil degranulation
 RCV_000248	neutrophil	GO_0045659	negative regulation of neutrophil differentiation
 RCV_000248	neutrophil	GO_2000390	negative regulation of neutrophil extravasation
@@ -15534,6 +16485,8 @@ RCV_000248	neutrophil	GO_0070956	negative regulation of neutrophil mediated kill
 RCV_000248	neutrophil	GO_0070959	negative regulation of neutrophil mediated killing of fungus
 RCV_000248	neutrophil	GO_0070957	negative regulation of neutrophil mediated killing of gram-negative bacterium
 RCV_000248	neutrophil	GO_0070958	negative regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000248	neutrophil	GO_0070955	negative regulation of neutrophil mediated killing of symbiont cell
+RCV_000248	neutrophil	GO_1902623	negative regulation of neutrophil migration
 RCV_000248	neutrophil	GO_0042119	neutrophil activation
 RCV_000248	neutrophil	GO_0002283	neutrophil activation involved in immune response
 RCV_000248	neutrophil	GO_0070488	neutrophil aggregation
@@ -15552,8 +16505,10 @@ RCV_000248	neutrophil	GO_0070945	neutrophil mediated killing of gram-negative ba
 RCV_000248	neutrophil	GO_0070946	neutrophil mediated killing of gram-positive bacterium
 RCV_000248	neutrophil	GO_0070943	neutrophil mediated killing of symbiont cell
 RCV_000248	neutrophil	GO_1990266	neutrophil migration
+RCV_000248	neutrophil	GO_1902565	positive regulation of neutrophil activation
 RCV_000248	neutrophil	GO_2000430	positive regulation of neutrophil aggregation
 RCV_000248	neutrophil	GO_0033031	positive regulation of neutrophil apoptotic process
+RCV_000248	neutrophil	GO_0090023	positive regulation of neutrophil chemotaxis
 RCV_000248	neutrophil	GO_0043315	positive regulation of neutrophil degranulation
 RCV_000248	neutrophil	GO_0045660	positive regulation of neutrophil differentiation
 RCV_000248	neutrophil	GO_2000391	positive regulation of neutrophil extravasation
@@ -15562,8 +16517,12 @@ RCV_000248	neutrophil	GO_0070962	positive regulation of neutrophil mediated kill
 RCV_000248	neutrophil	GO_0070965	positive regulation of neutrophil mediated killing of fungus
 RCV_000248	neutrophil	GO_0070963	positive regulation of neutrophil mediated killing of gram-negative bacterium
 RCV_000248	neutrophil	GO_0070964	positive regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000248	neutrophil	GO_0070961	positive regulation of neutrophil mediated killing of symbiont cell
+RCV_000248	neutrophil	GO_1902624	positive regulation of neutrophil migration
+RCV_000248	neutrophil	GO_1902563	regulation of neutrophil activation
 RCV_000248	neutrophil	GO_2000428	regulation of neutrophil aggregation
 RCV_000248	neutrophil	GO_0033029	regulation of neutrophil apoptotic process
+RCV_000248	neutrophil	GO_0090022	regulation of neutrophil chemotaxis
 RCV_000248	neutrophil	GO_0043313	regulation of neutrophil degranulation
 RCV_000248	neutrophil	GO_0045658	regulation of neutrophil differentiation
 RCV_000248	neutrophil	GO_2000389	regulation of neutrophil extravasation
@@ -15572,7 +16531,12 @@ RCV_000248	neutrophil	GO_0070950	regulation of neutrophil mediated killing of ba
 RCV_000248	neutrophil	GO_0070953	regulation of neutrophil mediated killing of fungus
 RCV_000248	neutrophil	GO_0070951	regulation of neutrophil mediated killing of gram-negative bacterium
 RCV_000248	neutrophil	GO_0070952	regulation of neutrophil mediated killing of gram-positive bacterium
+RCV_000248	neutrophil	GO_0070949	regulation of neutrophil mediated killing of symbiont cell
+RCV_000248	neutrophil	GO_1902622	regulation of neutrophil migration
 RCV_000249	nitric oxide metabolism	GO_0071732	cellular response to nitric oxide
+RCV_000249	nitric oxide metabolism	GO_0044081	modulation by symbiont of host nitric oxide-mediated signal transduction
+RCV_000249	nitric oxide metabolism	GO_0045019	negative regulation of nitric oxide biosynthetic process
+RCV_000249	nitric oxide metabolism	GO_0010751	negative regulation of nitric oxide mediated signal transduction
 RCV_000249	nitric oxide metabolism	GO_0006809	nitric oxide biosynthetic process
 RCV_000249	nitric oxide metabolism	GO_0046210	nitric oxide catabolic process
 RCV_000249	nitric oxide metabolism	GO_0033484	nitric oxide homeostasis
@@ -15584,6 +16548,11 @@ RCV_000249	nitric oxide metabolism	GO_0030184	nitric oxide transmembrane transpo
 RCV_000249	nitric oxide metabolism	GO_0030185	nitric oxide transport
 RCV_000249	nitric oxide metabolism	GO_0038060	nitric oxide-cGMP-mediated signaling pathway
 RCV_000249	nitric oxide metabolism	GO_0051767	nitric-oxide synthase biosynthetic process
+RCV_000249	nitric oxide metabolism	GO_0045429	positive regulation of nitric oxide biosynthetic process
+RCV_000249	nitric oxide metabolism	GO_0010750	positive regulation of nitric oxide mediated signal transduction
+RCV_000249	nitric oxide metabolism	GO_0045428	regulation of nitric oxide biosynthetic process
+RCV_000249	nitric oxide metabolism	GO_0010749	regulation of nitric oxide mediated signal transduction
+RCV_000249	nitric oxide metabolism	GO_0080164	regulation of nitric oxide metabolic process
 RCV_000249	nitric oxide metabolism	GO_0071731	response to nitric oxide
 RCV_000253	nucleotide binding process	GO_0098546	2',5-3',5'-cyclic GMP-AMP binding
 RCV_000253	nucleotide binding process	GO_0050656	3'-phosphoadenosine 5'-phosphosulfate binding
@@ -15660,6 +16629,10 @@ RCV_000256	oocyte	GO_0042070	maintenance of oocyte nucleus location involved in 
 RCV_000256	oocyte	GO_0046594	maintenance of pole plasm mRNA location
 RCV_000256	oocyte	GO_0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded
 RCV_000256	oocyte	GO_0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded
+RCV_000256	oocyte	GO_0045853	negative regulation of bicoid mRNA localization
+RCV_000256	oocyte	GO_0060283	negative regulation of oocyte development
+RCV_000256	oocyte	GO_1900194	negative regulation of oocyte maturation
+RCV_000256	oocyte	GO_0045855	negative regulation of pole plasm oskar mRNA localization
 RCV_000256	oocyte	GO_0060832	oocyte animal/vegetal axis specification
 RCV_000256	oocyte	GO_0007314	oocyte anterior/posterior axis specification
 RCV_000256	oocyte	GO_0007309	oocyte axis specification
@@ -15686,6 +16659,15 @@ RCV_000256	oocyte	GO_0019095	pole plasm mitochondrial rRNA localization
 RCV_000256	oocyte	GO_0019097	pole plasm mitochondrial srRNA localization
 RCV_000256	oocyte	GO_0045451	pole plasm oskar mRNA localization
 RCV_000256	oocyte	GO_0007318	pole plasm protein localization
+RCV_000256	oocyte	GO_0045854	positive regulation of bicoid mRNA localization
+RCV_000256	oocyte	GO_0060282	positive regulation of oocyte development
+RCV_000256	oocyte	GO_1900195	positive regulation of oocyte maturation
+RCV_000256	oocyte	GO_0045856	positive regulation of pole plasm oskar mRNA localization
+RCV_000256	oocyte	GO_0008359	regulation of bicoid mRNA localization
+RCV_000256	oocyte	GO_1903538	regulation of meiotic cell cycle process involved in oocyte maturation
+RCV_000256	oocyte	GO_0060281	regulation of oocyte development
+RCV_000256	oocyte	GO_1900193	regulation of oocyte maturation
+RCV_000256	oocyte	GO_0007317	regulation of pole plasm oskar mRNA localization
 RCV_000257	oogenesis	GO_0030719	P granule organization
 RCV_000257	oogenesis	GO_0060833	Wnt signaling pathway involved in animal/vegetal axis specification
 RCV_000257	oogenesis	GO_0030714	anterior/posterior axis specification, follicular epithelium
@@ -19080,6 +20062,12 @@ RCV_000259	organ development	GO_0035222	wing disc pattern formation
 RCV_000259	organ development	GO_0007473	wing disc proximal/distal pattern formation
 RCV_000259	organ development	GO_0075271	zygosporangium development
 RCV_000265	pancreas B cells	GO_0034231	islet amyloid polypeptide processing
+RCV_000265	pancreas B cells	GO_2000675	negative regulation of type B pancreatic cell apoptotic process
+RCV_000265	pancreas B cells	GO_2000077	negative regulation of type B pancreatic cell development
+RCV_000265	pancreas B cells	GO_2000676	positive regulation of type B pancreatic cell apoptotic process
+RCV_000265	pancreas B cells	GO_2000078	positive regulation of type B pancreatic cell development
+RCV_000265	pancreas B cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
+RCV_000265	pancreas B cells	GO_2000074	regulation of type B pancreatic cell development
 RCV_000265	pancreas B cells	GO_0097050	type B pancreatic cell apoptotic process
 RCV_000265	pancreas B cells	GO_0003323	type B pancreatic cell development
 RCV_000265	pancreas B cells	GO_0003309	type B pancreatic cell differentiation
@@ -19116,9 +20104,12 @@ RCV_000266	pancreas development	GO_0003323	type B pancreatic cell development
 RCV_000266	pancreas development	GO_0003309	type B pancreatic cell differentiation
 RCV_000266	pancreas development	GO_0003327	type B pancreatic cell fate commitment
 RCV_000266	pancreas development	GO_0072560	type B pancreatic cell maturation
+RCV_000269	pancreatic A cell	GO_2000227	negative regulation of pancreatic A cell differentiation
 RCV_000269	pancreatic A cell	GO_0003322	pancreatic A cell development
 RCV_000269	pancreatic A cell	GO_0003310	pancreatic A cell differentiation
 RCV_000269	pancreatic A cell	GO_0003326	pancreatic A cell fate commitment
+RCV_000269	pancreatic A cell	GO_2000228	positive regulation of pancreatic A cell differentiation
+RCV_000269	pancreatic A cell	GO_2000226	regulation of pancreatic A cell differentiation
 RCV_000270	pancreatic D cell	GO_0003324	pancreatic D cell development
 RCV_000270	pancreatic D cell	GO_0003311	pancreatic D cell differentiation
 RCV_000270	pancreatic D cell	GO_0003328	pancreatic D cell fate commitment
@@ -19169,6 +20160,7 @@ RCV_000275	peroxisome	GO_0060151	peroxisome localization
 RCV_000275	peroxisome	GO_0016557	peroxisome membrane biogenesis
 RCV_000275	peroxisome	GO_0007031	peroxisome organization
 RCV_000275	peroxisome	GO_1900064	positive regulation of peroxisome organization
+RCV_000275	peroxisome	GO_0061424	positive regulation of peroxisome organization by positive regulation of transcription from RNA polymerase II promoter
 RCV_000275	peroxisome	GO_0016558	protein import into peroxisome matrix
 RCV_000275	peroxisome	GO_0016560	protein import into peroxisome matrix, docking
 RCV_000275	peroxisome	GO_0016562	protein import into peroxisome matrix, receptor recycling
@@ -19344,6 +20336,10 @@ RCV_000276	phosphatase activity 	GO_0019198	transmembrane receptor protein phosp
 RCV_000276	phosphatase activity 	GO_0005001	transmembrane receptor protein tyrosine phosphatase activity
 RCV_000276	phosphatase activity 	GO_0004805	trehalose-phosphatase activity
 RCV_000281	platelet	GO_0002555	histamine secretion by platelet
+RCV_000281	platelet	GO_0035892	modulation of platelet aggregation in other organism
+RCV_000281	platelet	GO_0010544	negative regulation of platelet activation
+RCV_000281	platelet	GO_0090331	negative regulation of platelet aggregation
+RCV_000281	platelet	GO_0035893	negative regulation of platelet aggregation in other organism
 RCV_000281	platelet	GO_0006663	platelet activating factor biosynthetic process
 RCV_000281	platelet	GO_0046469	platelet activating factor metabolic process
 RCV_000281	platelet	GO_0002390	platelet activating factor production
@@ -19357,7 +20353,12 @@ RCV_000281	platelet	GO_0002576	platelet degranulation
 RCV_000281	platelet	GO_0060155	platelet dense granule organization
 RCV_000281	platelet	GO_0030220	platelet formation
 RCV_000281	platelet	GO_0036345	platelet maturation
+RCV_000281	platelet	GO_0010572	positive regulation of platelet activation
+RCV_000281	platelet	GO_1901731	positive regulation of platelet aggregation
+RCV_000281	platelet	GO_0035894	positive regulation of platelet aggregation in other organism
 RCV_000281	platelet	GO_0070560	protein secretion by platelet
+RCV_000281	platelet	GO_0010543	regulation of platelet activation
+RCV_000281	platelet	GO_0090330	regulation of platelet aggregation
 RCV_000281	platelet	GO_0002554	serotonin secretion by platelet
 RCV_000291	purine metabolism	GO_0044208	'de novo' AMP biosynthetic process
 RCV_000291	purine metabolism	GO_0006189	'de novo' IMP biosynthetic process
@@ -19382,7 +20383,6 @@ RCV_000291	purine metabolism	GO_0046033	AMP metabolic process
 RCV_000291	purine metabolism	GO_0006756	AMP phosphorylation
 RCV_000291	purine metabolism	GO_0044209	AMP salvage
 RCV_000291	purine metabolism	GO_0006754	ATP biosynthetic process
-RCV_000291	purine metabolism	GO_0006200	ATP catabolic process
 RCV_000291	purine metabolism	GO_0046034	ATP metabolic process
 RCV_000291	purine metabolism	GO_0042773	ATP synthesis coupled electron transport
 RCV_000291	purine metabolism	GO_0015986	ATP synthesis coupled proton transport
@@ -19396,7 +20396,6 @@ RCV_000291	purine metabolism	GO_0006202	GMP catabolic process to guanine
 RCV_000291	purine metabolism	GO_0046037	GMP metabolic process
 RCV_000291	purine metabolism	GO_0032263	GMP salvage
 RCV_000291	purine metabolism	GO_0006183	GTP biosynthetic process
-RCV_000291	purine metabolism	GO_0006184	GTP catabolic process
 RCV_000291	purine metabolism	GO_0046039	GTP metabolic process
 RCV_000291	purine metabolism	GO_0046708	IDP biosynthetic process
 RCV_000291	purine metabolism	GO_0046709	IDP catabolic process
@@ -20810,6 +21809,34 @@ RCV_000313	stem cell	GO_0061222	mesonephric mesenchymal cell proliferation invol
 RCV_000313	stem cell	GO_0090094	metanephric cap mesenchymal cell proliferation involved in metanephros development
 RCV_000313	stem cell	GO_0072162	metanephric mesenchymal cell differentiation
 RCV_000313	stem cell	GO_0072136	metanephric mesenchymal cell proliferation involved in metanephros development
+RCV_000313	stem cell	GO_2000798	negative regulation of amniotic stem cell differentiation
+RCV_000313	stem cell	GO_0072336	negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000313	stem cell	GO_2000691	negative regulation of cardiac muscle cell myoblast differentiation
+RCV_000313	stem cell	GO_0009997	negative regulation of cardioblast cell fate specification
+RCV_000313	stem cell	GO_0051892	negative regulation of cardioblast differentiation
+RCV_000313	stem cell	GO_2000801	negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+RCV_000313	stem cell	GO_0010719	negative regulation of epithelial to mesenchymal transition
+RCV_000313	stem cell	GO_2000248	negative regulation of establishment or maintenance of neuroblast polarity
+RCV_000313	stem cell	GO_0003136	negative regulation of heart induction by canonical Wnt signaling pathway
+RCV_000313	stem cell	GO_1902037	negative regulation of hematopoietic stem cell differentiation
+RCV_000313	stem cell	GO_2000472	negative regulation of hematopoietic stem cell migration
+RCV_000313	stem cell	GO_1902034	negative regulation of hematopoietic stem cell proliferation
+RCV_000313	stem cell	GO_2001054	negative regulation of mesenchymal cell apoptotic process
+RCV_000313	stem cell	GO_0061296	negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
+RCV_000313	stem cell	GO_0072305	negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
+RCV_000313	stem cell	GO_1900212	negative regulation of mesenchymal cell apoptotic process involved in metanephros development
+RCV_000313	stem cell	GO_0072040	negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
+RCV_000313	stem cell	GO_0072201	negative regulation of mesenchymal cell proliferation
+RCV_000313	stem cell	GO_2000791	negative regulation of mesenchymal cell proliferation involved in lung development
+RCV_000313	stem cell	GO_0072200	negative regulation of mesenchymal cell proliferation involved in ureter development
+RCV_000313	stem cell	GO_2000740	negative regulation of mesenchymal stem cell differentiation
+RCV_000313	stem cell	GO_1902461	negative regulation of mesenchymal stem cell proliferation
+RCV_000313	stem cell	GO_0090301	negative regulation of neural crest formation
+RCV_000313	stem cell	GO_0007406	negative regulation of neuroblast proliferation
+RCV_000313	stem cell	GO_1902725	negative regulation of satellite cell differentiation
+RCV_000313	stem cell	GO_2000737	negative regulation of stem cell differentiation
+RCV_000313	stem cell	GO_1902455	negative regulation of stem cell maintenance
+RCV_000313	stem cell	GO_2000647	negative regulation of stem cell proliferation
 RCV_000313	stem cell	GO_0014032	neural crest cell development
 RCV_000313	stem cell	GO_0014033	neural crest cell differentiation
 RCV_000313	stem cell	GO_1902638	neural crest cell differentiation involved in parathyroid gland development
@@ -20830,6 +21857,58 @@ RCV_000313	stem cell	GO_0097402	neuroblast migration
 RCV_000313	stem cell	GO_0007405	neuroblast proliferation
 RCV_000313	stem cell	GO_0036445	neuronal stem cell division
 RCV_000313	stem cell	GO_0097150	neuronal stem cell maintenance
+RCV_000313	stem cell	GO_2000799	positive regulation of amniotic stem cell differentiation
+RCV_000313	stem cell	GO_0072381	positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000313	stem cell	GO_2000700	positive regulation of cardiac muscle cell myoblast differentiation
+RCV_000313	stem cell	GO_0051891	positive regulation of cardioblast differentiation
+RCV_000313	stem cell	GO_2000802	positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+RCV_000313	stem cell	GO_0010718	positive regulation of epithelial to mesenchymal transition
+RCV_000313	stem cell	GO_1902038	positive regulation of hematopoietic stem cell differentiation
+RCV_000313	stem cell	GO_2000473	positive regulation of hematopoietic stem cell migration
+RCV_000313	stem cell	GO_1902035	positive regulation of hematopoietic stem cell proliferation
+RCV_000313	stem cell	GO_2001055	positive regulation of mesenchymal cell apoptotic process
+RCV_000313	stem cell	GO_0061297	positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
+RCV_000313	stem cell	GO_0072306	positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
+RCV_000313	stem cell	GO_1900213	positive regulation of mesenchymal cell apoptotic process involved in metanephros development
+RCV_000313	stem cell	GO_0072041	positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
+RCV_000313	stem cell	GO_0002053	positive regulation of mesenchymal cell proliferation
+RCV_000313	stem cell	GO_2000792	positive regulation of mesenchymal cell proliferation involved in lung development
+RCV_000313	stem cell	GO_2000729	positive regulation of mesenchymal cell proliferation involved in ureter development
+RCV_000313	stem cell	GO_2000741	positive regulation of mesenchymal stem cell differentiation
+RCV_000313	stem cell	GO_1902462	positive regulation of mesenchymal stem cell proliferation
+RCV_000313	stem cell	GO_0060808	positive regulation of mesodermal to mesenchymal transition involved in gastrulation
+RCV_000313	stem cell	GO_0090096	positive regulation of metanephric cap mesenchymal cell proliferation
+RCV_000313	stem cell	GO_0090300	positive regulation of neural crest formation
+RCV_000313	stem cell	GO_0002052	positive regulation of neuroblast proliferation
+RCV_000313	stem cell	GO_1902726	positive regulation of skeletal muscle satellite cell differentiation
+RCV_000313	stem cell	GO_2000738	positive regulation of stem cell differentiation
+RCV_000313	stem cell	GO_1902459	positive regulation of stem cell maintenance
+RCV_000313	stem cell	GO_2000648	positive regulation of stem cell proliferation
+RCV_000313	stem cell	GO_2000797	regulation of amniotic stem cell differentiation
+RCV_000313	stem cell	GO_0072335	regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation
+RCV_000313	stem cell	GO_2000690	regulation of cardiac muscle cell myoblast differentiation
+RCV_000313	stem cell	GO_0042686	regulation of cardioblast cell fate specification
+RCV_000313	stem cell	GO_0051890	regulation of cardioblast differentiation
+RCV_000313	stem cell	GO_2000800	regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+RCV_000313	stem cell	GO_0010717	regulation of epithelial to mesenchymal transition
+RCV_000313	stem cell	GO_1902036	regulation of hematopoietic stem cell differentiation
+RCV_000313	stem cell	GO_2000471	regulation of hematopoietic stem cell migration
+RCV_000313	stem cell	GO_1902033	regulation of hematopoietic stem cell proliferation
+RCV_000313	stem cell	GO_2001053	regulation of mesenchymal cell apoptotic process
+RCV_000313	stem cell	GO_0061295	regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
+RCV_000313	stem cell	GO_0072304	regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
+RCV_000313	stem cell	GO_1900211	regulation of mesenchymal cell apoptotic process involved in metanephros development
+RCV_000313	stem cell	GO_0072039	regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
+RCV_000313	stem cell	GO_0010464	regulation of mesenchymal cell proliferation
+RCV_000313	stem cell	GO_2000790	regulation of mesenchymal cell proliferation involved in lung development
+RCV_000313	stem cell	GO_0060782	regulation of mesenchymal cell proliferation involved in prostate gland development
+RCV_000313	stem cell	GO_0072199	regulation of mesenchymal cell proliferation involved in ureter development
+RCV_000313	stem cell	GO_2000739	regulation of mesenchymal stem cell differentiation
+RCV_000313	stem cell	GO_1902460	regulation of mesenchymal stem cell proliferation
+RCV_000313	stem cell	GO_0072042	regulation of mesenchymal stem cell proliferation involved in nephron morphogenesis
+RCV_000313	stem cell	GO_0090095	regulation of metanephric cap mesenchymal cell proliferation
+RCV_000313	stem cell	GO_0090299	regulation of neural crest formation
+RCV_000313	stem cell	GO_1902692	regulation of neuroblast proliferation
 RCV_000313	stem cell	GO_2000736	regulation of stem cell differentiation
 RCV_000313	stem cell	GO_2000035	regulation of stem cell division
 RCV_000313	stem cell	GO_2000036	regulation of stem cell maintenance
@@ -21026,9 +22105,9 @@ RCV_000319	sugar metabolism	GO_0044836	D-xylose fermentation
 RCV_000319	sugar metabolism	GO_0042732	D-xylose metabolic process
 RCV_000319	sugar metabolism	GO_0061678	Entner-Doudoroff pathway
 RCV_000319	sugar metabolism	GO_0009255	Entner-Doudoroff pathway through 6-phosphogluconate
-RCV_000319	sugar metabolism	GO_0061679	Entner-Doudoroff pathway through glucopyranose
-RCV_000319	sugar metabolism	GO_0061680	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde
-RCV_000319	sugar metabolism	GO_0061681	Entner-Doudoroff pathway through glucopyranose to D-glyceraldehyde-3-phosphate
+RCV_000319	sugar metabolism	GO_0061679	Entner-Doudoroff pathway through gluconate
+RCV_000319	sugar metabolism	GO_0061680	Entner-Doudoroff pathway through gluconate to D-glyceraldehyde
+RCV_000319	sugar metabolism	GO_0061681	Entner-Doudoroff pathway through gluconate to D-glyceraldehyde-3-phosphate
 RCV_000319	sugar metabolism	GO_0052645	F420-0 metabolic process
 RCV_000319	sugar metabolism	GO_0009248	K antigen biosynthetic process
 RCV_000319	sugar metabolism	GO_0046375	K antigen metabolic process
@@ -21722,6 +22801,9 @@ RCV_000321	synapse	GO_1990025	F bouton
 RCV_000321	synapse	GO_0051935	L-glutamate uptake involved in synaptic transmission
 RCV_000321	synapse	GO_1990027	S bouton
 RCV_000321	synapse	GO_0001507	acetylcholine catabolic process in synaptic cleft
+RCV_000321	synapse	GO_0030549	acetylcholine receptor activator activity
+RCV_000321	synapse	GO_0030550	acetylcholine receptor inhibitor activity
+RCV_000321	synapse	GO_0030548	acetylcholine receptor regulator activity
 RCV_000321	synapse	GO_0051933	amino acid uptake involved in synaptic transmission
 RCV_000321	synapse	GO_0032279	asymmetric synapse
 RCV_000321	synapse	GO_0030129	clathrin coat of synaptic vesicle
@@ -21733,13 +22815,70 @@ RCV_000321	synapse	GO_0060076	excitatory synapse
 RCV_000321	synapse	GO_0097483	glial cell postsynaptic density
 RCV_000321	synapse	GO_1990026	hippocampal mossy fiber expansion
 RCV_000321	synapse	GO_0051915	induction of synaptic plasticity by chemical substance
+RCV_000321	synapse	GO_0051634	inhibition of acetylcholine uptake
+RCV_000321	synapse	GO_0051587	inhibition of dopamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051629	inhibition of epinephrine uptake
+RCV_000321	synapse	GO_0051619	inhibition of histamine uptake
+RCV_000321	synapse	GO_0051609	inhibition of neurotransmitter uptake
+RCV_000321	synapse	GO_0051624	inhibition of norepinephrine uptake
+RCV_000321	synapse	GO_0051614	inhibition of serotonin uptake
 RCV_000321	synapse	GO_0098521	inhibitory neuromuscular junction
 RCV_000321	synapse	GO_0098526	inhibitory neuromuscular junction of somatic myotube
 RCV_000321	synapse	GO_0060077	inhibitory synapse
 RCV_000321	synapse	GO_0030285	integral component of synaptic vesicle membrane
 RCV_000321	synapse	GO_0098563	intrinsic component of synaptic vesicle membrane
+RCV_000321	synapse	GO_0060292	long term synaptic depression
+RCV_000321	synapse	GO_0042062	long-term strengthening of neuromuscular junction
+RCV_000321	synapse	GO_0060291	long-term synaptic potentiation
+RCV_000321	synapse	GO_0044760	modulation by symbiont of host cholinergic synaptic transmission
+RCV_000321	synapse	GO_0044079	modulation by symbiont of host neurotransmitter secretion
+RCV_000321	synapse	GO_0044758	modulation by symbiont of host synaptic transmission
 RCV_000321	synapse	GO_0097471	mossy fiber rosette
 RCV_000321	synapse	GO_0097482	muscle cell postsynaptic density
+RCV_000321	synapse	GO_0044761	negative regulation by symbiont of host cholinergic synaptic transmission
+RCV_000321	synapse	GO_0044762	negative regulation by symbiont of host neurotransmitter secretion
+RCV_000321	synapse	GO_0044759	negative regulation by symbiont of host synaptic transmission
+RCV_000321	synapse	GO_0060410	negative regulation of acetylcholine metabolic process
+RCV_000321	synapse	GO_0014058	negative regulation of acetylcholine secretion, neurotransmission
+RCV_000321	synapse	GO_0051632	negative regulation of acetylcholine uptake
+RCV_000321	synapse	GO_0051942	negative regulation of amino acid uptake involved in synaptic transmission
+RCV_000321	synapse	GO_1903743	negative regulation of anterograde synaptic vesicle transport
+RCV_000321	synapse	GO_1903234	negative regulation of calcium ion-dependent exocytosis of neurotransmitter
+RCV_000321	synapse	GO_0051945	negative regulation of catecholamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051585	negative regulation of dopamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051627	negative regulation of epinephrine uptake
+RCV_000321	synapse	GO_0051949	negative regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse
+RCV_000321	synapse	GO_1903295	negative regulation of glutamate secretion, neurotransmission
+RCV_000321	synapse	GO_0051948	negative regulation of glutamate uptake involved in transmission of nerve impulse
+RCV_000321	synapse	GO_0051617	negative regulation of histamine uptake
+RCV_000321	synapse	GO_0048171	negative regulation of long-term neuronal synaptic plasticity
+RCV_000321	synapse	GO_1900074	negative regulation of neuromuscular synaptic transmission
+RCV_000321	synapse	GO_0046929	negative regulation of neurotransmitter secretion
+RCV_000321	synapse	GO_0051581	negative regulation of neurotransmitter uptake
+RCV_000321	synapse	GO_0051622	negative regulation of norepinephrine uptake
+RCV_000321	synapse	GO_0051612	negative regulation of serotonin uptake
+RCV_000321	synapse	GO_0048174	negative regulation of short-term neuronal synaptic plasticity
+RCV_000321	synapse	GO_0051964	negative regulation of synapse assembly
+RCV_000321	synapse	GO_2000297	negative regulation of synapse maturation
+RCV_000321	synapse	GO_0051826	negative regulation of synapse structural plasticity
+RCV_000321	synapse	GO_0045886	negative regulation of synaptic growth at neuromuscular junction
+RCV_000321	synapse	GO_0031917	negative regulation of synaptic metaplasticity
+RCV_000321	synapse	GO_0031914	negative regulation of synaptic plasticity
+RCV_000321	synapse	GO_0050805	negative regulation of synaptic transmission
+RCV_000321	synapse	GO_0032229	negative regulation of synaptic transmission, GABAergic
+RCV_000321	synapse	GO_0032223	negative regulation of synaptic transmission, cholinergic
+RCV_000321	synapse	GO_0032227	negative regulation of synaptic transmission, dopaminergic
+RCV_000321	synapse	GO_0051967	negative regulation of synaptic transmission, glutamatergic
+RCV_000321	synapse	GO_0060093	negative regulation of synaptic transmission, glycinergic
+RCV_000321	synapse	GO_1900243	negative regulation of synaptic vesicle endocytosis
+RCV_000321	synapse	GO_2000301	negative regulation of synaptic vesicle exocytosis
+RCV_000321	synapse	GO_0031631	negative regulation of synaptic vesicle fusion to presynaptic membrane
+RCV_000321	synapse	GO_1901547	negative regulation of synaptic vesicle lumen acidification
+RCV_000321	synapse	GO_0010809	negative regulation of synaptic vesicle priming
+RCV_000321	synapse	GO_1903422	negative regulation of synaptic vesicle recycling
+RCV_000321	synapse	GO_1902804	negative regulation of synaptic vesicle transport
+RCV_000321	synapse	GO_1903389	negative regulation of synaptic vesicle uncoating
+RCV_000321	synapse	GO_1901613	negative regulation of terminal button organization
 RCV_000321	synapse	GO_0031594	neuromuscular junction
 RCV_000321	synapse	GO_0007528	neuromuscular junction development
 RCV_000321	synapse	GO_0098529	neuromuscular junction development, skeletal muscle fiber
@@ -21751,7 +22890,50 @@ RCV_000321	synapse	GO_0007274	neuromuscular synaptic transmission
 RCV_000321	synapse	GO_0007270	neuron-neuron synaptic transmission
 RCV_000321	synapse	GO_0097481	neuronal postsynaptic density
 RCV_000321	synapse	GO_0098700	neurotransmitter loading into synaptic vesicle
+RCV_000321	synapse	GO_0060409	positive regulation of acetylcholine metabolic process
+RCV_000321	synapse	GO_0014057	positive regulation of acetylcholine secretion, neurotransmission
+RCV_000321	synapse	GO_0051633	positive regulation of acetylcholine uptake
+RCV_000321	synapse	GO_0051943	positive regulation of amino acid uptake involved in synaptic transmission
+RCV_000321	synapse	GO_1903744	positive regulation of anterograde synaptic vesicle transport
+RCV_000321	synapse	GO_1903235	positive regulation of calcium ion-dependent exocytosis of neurotransmitter
+RCV_000321	synapse	GO_0051944	positive regulation of catecholamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051586	positive regulation of dopamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051628	positive regulation of epinephrine uptake
+RCV_000321	synapse	GO_0051950	positive regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse
+RCV_000321	synapse	GO_0061646	positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization
+RCV_000321	synapse	GO_1903296	positive regulation of glutamate secretion, neurotransmission
+RCV_000321	synapse	GO_0051951	positive regulation of glutamate uptake involved in transmission of nerve impulse
+RCV_000321	synapse	GO_0051618	positive regulation of histamine uptake
+RCV_000321	synapse	GO_0048170	positive regulation of long-term neuronal synaptic plasticity
+RCV_000321	synapse	GO_1900075	positive regulation of neuromuscular synaptic transmission
+RCV_000321	synapse	GO_0001956	positive regulation of neurotransmitter secretion
+RCV_000321	synapse	GO_0051582	positive regulation of neurotransmitter uptake
+RCV_000321	synapse	GO_0051623	positive regulation of norepinephrine uptake
+RCV_000321	synapse	GO_0051613	positive regulation of serotonin uptake
+RCV_000321	synapse	GO_0048173	positive regulation of short-term neuronal synaptic plasticity
+RCV_000321	synapse	GO_0051965	positive regulation of synapse assembly
+RCV_000321	synapse	GO_0090129	positive regulation of synapse maturation
 RCV_000321	synapse	GO_0090127	positive regulation of synapse maturation by synaptic transmission
+RCV_000321	synapse	GO_0051835	positive regulation of synapse structural plasticity
+RCV_000321	synapse	GO_0045887	positive regulation of synaptic growth at neuromuscular junction
+RCV_000321	synapse	GO_0031918	positive regulation of synaptic metaplasticity
+RCV_000321	synapse	GO_0031915	positive regulation of synaptic plasticity
+RCV_000321	synapse	GO_0051914	positive regulation of synaptic plasticity by chemical substance
+RCV_000321	synapse	GO_0050806	positive regulation of synaptic transmission
+RCV_000321	synapse	GO_0032230	positive regulation of synaptic transmission, GABAergic
+RCV_000321	synapse	GO_0032224	positive regulation of synaptic transmission, cholinergic
+RCV_000321	synapse	GO_0032226	positive regulation of synaptic transmission, dopaminergic
+RCV_000321	synapse	GO_0051968	positive regulation of synaptic transmission, glutamatergic
+RCV_000321	synapse	GO_0060094	positive regulation of synaptic transmission, glycinergic
+RCV_000321	synapse	GO_1900244	positive regulation of synaptic vesicle endocytosis
+RCV_000321	synapse	GO_2000302	positive regulation of synaptic vesicle exocytosis
+RCV_000321	synapse	GO_0031632	positive regulation of synaptic vesicle fusion to presynaptic membrane
+RCV_000321	synapse	GO_1901548	positive regulation of synaptic vesicle lumen acidification
+RCV_000321	synapse	GO_0010808	positive regulation of synaptic vesicle priming
+RCV_000321	synapse	GO_1903423	positive regulation of synaptic vesicle recycling
+RCV_000321	synapse	GO_1902805	positive regulation of synaptic vesicle transport
+RCV_000321	synapse	GO_1903390	positive regulation of synaptic vesicle uncoating
+RCV_000321	synapse	GO_1901614	positive regulation of terminal button organization
 RCV_000321	synapse	GO_0014069	postsynaptic density
 RCV_000321	synapse	GO_0097107	postsynaptic density assembly
 RCV_000321	synapse	GO_0097106	postsynaptic density organization
@@ -21766,7 +22948,56 @@ RCV_000321	synapse	GO_0036062	presynaptic periactive zone
 RCV_000321	synapse	GO_1903539	protein localization to postsynaptic membrane
 RCV_000321	synapse	GO_0035418	protein localization to synapse
 RCV_000321	synapse	GO_0097120	receptor localization to synapse
+RCV_000321	synapse	GO_0060408	regulation of acetylcholine metabolic process
+RCV_000321	synapse	GO_0014056	regulation of acetylcholine secretion, neurotransmission
+RCV_000321	synapse	GO_0051631	regulation of acetylcholine uptake
+RCV_000321	synapse	GO_0051941	regulation of amino acid uptake involved in synaptic transmission
+RCV_000321	synapse	GO_1903742	regulation of anterograde synaptic vesicle transport
+RCV_000321	synapse	GO_1903233	regulation of calcium ion-dependent exocytosis of neurotransmitter
+RCV_000321	synapse	GO_0051940	regulation of catecholamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051584	regulation of dopamine uptake involved in synaptic transmission
+RCV_000321	synapse	GO_0051626	regulation of epinephrine uptake
+RCV_000321	synapse	GO_0051947	regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse
+RCV_000321	synapse	GO_1903294	regulation of glutamate secretion, neurotransmission
+RCV_000321	synapse	GO_0051946	regulation of glutamate uptake involved in transmission of nerve impulse
+RCV_000321	synapse	GO_0051616	regulation of histamine uptake
+RCV_000321	synapse	GO_0048169	regulation of long-term neuronal synaptic plasticity
+RCV_000321	synapse	GO_1900073	regulation of neuromuscular synaptic transmission
+RCV_000321	synapse	GO_0048168	regulation of neuronal synaptic plasticity
+RCV_000321	synapse	GO_0031637	regulation of neuronal synaptic plasticity in response to neurotrophin
+RCV_000321	synapse	GO_0046928	regulation of neurotransmitter secretion
+RCV_000321	synapse	GO_0051580	regulation of neurotransmitter uptake
+RCV_000321	synapse	GO_0051621	regulation of norepinephrine uptake
+RCV_000321	synapse	GO_0051611	regulation of serotonin uptake
+RCV_000321	synapse	GO_0048172	regulation of short-term neuronal synaptic plasticity
+RCV_000321	synapse	GO_0051963	regulation of synapse assembly
+RCV_000321	synapse	GO_0090128	regulation of synapse maturation
+RCV_000321	synapse	GO_0050807	regulation of synapse organization
+RCV_000321	synapse	GO_0051823	regulation of synapse structural plasticity
+RCV_000321	synapse	GO_0060025	regulation of synaptic activity
+RCV_000321	synapse	GO_0008582	regulation of synaptic growth at neuromuscular junction
+RCV_000321	synapse	GO_0031916	regulation of synaptic metaplasticity
+RCV_000321	synapse	GO_0048167	regulation of synaptic plasticity
+RCV_000321	synapse	GO_0051913	regulation of synaptic plasticity by chemical substance
 RCV_000321	synapse	GO_1900383	regulation of synaptic plasticity by receptor localization to synapse
+RCV_000321	synapse	GO_0050804	regulation of synaptic transmission
+RCV_000321	synapse	GO_0032228	regulation of synaptic transmission, GABAergic
+RCV_000321	synapse	GO_0032222	regulation of synaptic transmission, cholinergic
+RCV_000321	synapse	GO_0032225	regulation of synaptic transmission, dopaminergic
+RCV_000321	synapse	GO_0051966	regulation of synaptic transmission, glutamatergic
+RCV_000321	synapse	GO_0060092	regulation of synaptic transmission, glycinergic
+RCV_000321	synapse	GO_1900242	regulation of synaptic vesicle endocytosis
+RCV_000321	synapse	GO_2000300	regulation of synaptic vesicle exocytosis
+RCV_000321	synapse	GO_0031630	regulation of synaptic vesicle fusion to presynaptic membrane
+RCV_000321	synapse	GO_1901546	regulation of synaptic vesicle lumen acidification
+RCV_000321	synapse	GO_0010807	regulation of synaptic vesicle priming
+RCV_000321	synapse	GO_1903421	regulation of synaptic vesicle recycling
+RCV_000321	synapse	GO_1902803	regulation of synaptic vesicle transport
+RCV_000321	synapse	GO_1903388	regulation of synaptic vesicle uncoating
+RCV_000321	synapse	GO_2000331	regulation of terminal button organization
+RCV_000321	synapse	GO_0043179	rhythmic excitation
+RCV_000321	synapse	GO_0043180	rhythmic inhibition
+RCV_000321	synapse	GO_0060024	rhythmic synaptic transmission
 RCV_000321	synapse	GO_0097470	ribbon synapse
 RCV_000321	synapse	GO_0071212	subsynaptic reticulum
 RCV_000321	synapse	GO_0032280	symmetric synapse
@@ -21821,6 +23052,7 @@ RCV_000321	synapse	GO_0061175	type II terminal bouton
 RCV_000321	synapse	GO_0097467	type III terminal bouton
 RCV_000321	synapse	GO_0061176	type Ib terminal bouton
 RCV_000321	synapse	GO_0061177	type Is terminal bouton
+RCV_000321	synapse	GO_0060095	zinc potentiation of synaptic transmission, glycinergic
 RCV_000322	syncytium formation	GO_0034238	macrophage fusion
 RCV_000322	syncytium formation	GO_0060140	modulation by virus of syncytium formation via plasma membrane fusion
 RCV_000322	syncytium formation	GO_0007520	myoblast fusion
@@ -22120,13 +23352,26 @@ RCV_000324	telomere	GO_0000781	chromosome, telomeric region
 RCV_000324	telomere	GO_0070200	establishment of protein localization to telomere
 RCV_000324	telomere	GO_1902989	meiotic telomere maintenance via semi-conservative replication
 RCV_000324	telomere	GO_1902990	mitotic telomere maintenance via semi-conservative replication
+RCV_000324	telomere	GO_0032205	negative regulation of telomere maintenance
+RCV_000324	telomere	GO_0032208	negative regulation of telomere maintenance via recombination
+RCV_000324	telomere	GO_0032214	negative regulation of telomere maintenance via semi-conservative replication
+RCV_000324	telomere	GO_0032211	negative regulation of telomere maintenance via telomerase
+RCV_000324	telomere	GO_1903824	negative regulation of telomere single strand break repair
 RCV_000324	telomere	GO_0000784	nuclear chromosome, telomeric region
 RCV_000324	telomere	GO_0000783	nuclear telomere cap complex
 RCV_000324	telomere	GO_0005724	nuclear telomeric heterochromatin
 RCV_000324	telomere	GO_0035012	polytene chromosome, telomeric region
+RCV_000324	telomere	GO_0032206	positive regulation of telomere maintenance
+RCV_000324	telomere	GO_0032209	positive regulation of telomere maintenance via recombination
+RCV_000324	telomere	GO_0032215	positive regulation of telomere maintenance via semi-conservative replication
+RCV_000324	telomere	GO_0032212	positive regulation of telomere maintenance via telomerase
 RCV_000324	telomere	GO_0031848	protection from non-homologous end joining at telomere
 RCV_000324	telomere	GO_0070198	protein localization to chromosome, telomeric region
 RCV_000324	telomere	GO_1990152	protein localization to telomeric heterochromatin
+RCV_000324	telomere	GO_0032204	regulation of telomere maintenance
+RCV_000324	telomere	GO_0032207	regulation of telomere maintenance via recombination
+RCV_000324	telomere	GO_0032213	regulation of telomere maintenance via semi-conservative replication
+RCV_000324	telomere	GO_0032210	regulation of telomere maintenance via telomerase
 RCV_000324	telomere	GO_0000333	telomerase catalytic core complex
 RCV_000324	telomere	GO_0032202	telomere assembly
 RCV_000324	telomere	GO_0000782	telomere cap complex
@@ -22414,6 +23659,7 @@ RCV_000349	vessel development	GO_0060845	venous endothelial cell fate commitment
 RCV_000349	vessel development	GO_0035908	ventral aorta development
 RCV_000349	vessel development	GO_0035913	ventral aorta morphogenesis
 RCV_000351	vitamin A	GO_0071299	cellular response to vitamin A
+RCV_000351	vitamin A	GO_1901738	regulation of vitamin A metabolic process
 RCV_000351	vitamin A	GO_0033189	response to vitamin A
 RCV_000351	vitamin A	GO_0035238	vitamin A biosynthetic process
 RCV_000351	vitamin A	GO_0071939	vitamin A import
@@ -22430,6 +23676,8 @@ RCV_000352	vitamin C	GO_0015882	L-ascorbic acid transport
 RCV_000352	vitamin C	GO_0015229	L-ascorbic acid transporter activity
 RCV_000352	vitamin C	GO_0033355	ascorbate glutathione cycle
 RCV_000352	vitamin C	GO_0071298	cellular response to L-ascorbic acid
+RCV_000352	vitamin C	GO_2000083	negative regulation of L-ascorbic acid biosynthetic process
+RCV_000352	vitamin C	GO_2000082	regulation of L-ascorbic acid biosynthetic process
 RCV_000352	vitamin C	GO_0033591	response to L-ascorbic acid
 RCV_000352	vitamin C	GO_0070890	sodium-dependent L-ascorbate transmembrane transporter activity
 RCV_000352	vitamin C	GO_0070904	transepithelial L-ascorbic acid transport
@@ -22439,6 +23687,15 @@ RCV_000353	vitamin D	GO_1902098	calcitriol binding
 RCV_000353	vitamin D	GO_0036378	calcitriol biosynthetic process from calciol
 RCV_000353	vitamin D	GO_0008434	calcitriol receptor activity
 RCV_000353	vitamin D	GO_0071305	cellular response to vitamin D
+RCV_000353	vitamin D	GO_0010956	negative regulation of calcidiol 1-monooxygenase activity
+RCV_000353	vitamin D	GO_0010957	negative regulation of vitamin D biosynthetic process
+RCV_000353	vitamin D	GO_0070563	negative regulation of vitamin D receptor signaling pathway
+RCV_000353	vitamin D	GO_0060559	positive regulation of calcidiol 1-monooxygenase activity
+RCV_000353	vitamin D	GO_0060557	positive regulation of vitamin D biosynthetic process
+RCV_000353	vitamin D	GO_0070564	positive regulation of vitamin D receptor signaling pathway
+RCV_000353	vitamin D	GO_0060558	regulation of calcidiol 1-monooxygenase activity
+RCV_000353	vitamin D	GO_0060556	regulation of vitamin D biosynthetic process
+RCV_000353	vitamin D	GO_0070562	regulation of vitamin D receptor signaling pathway
 RCV_000353	vitamin D	GO_0033280	response to vitamin D
 RCV_000353	vitamin D	GO_0005499	vitamin D binding
 RCV_000353	vitamin D	GO_0042368	vitamin D biosynthetic process

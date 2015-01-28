@@ -8,6 +8,15 @@ triglyceride acyl-chain remodeling	GO_0036153	1	1	1	0	0
 triglyceride-rich lipoprotein particle remodeling	GO_0034370	1	0	1	0	0
 triglyceride-rich lipoprotein particle clearance	GO_0071830	1	0	1	0	0
 triglyceride homeostasis	GO_0070328	1	0	1	0	0
-triglyceride binding	GO_0017129	0	1	1	0	0
-response to triglyceride	GO_0034014	0	1	1	0	0
-cellular response to triglyceride	GO_0071401	0	1	1	0	0
+triglyceride binding	GO_0017129	0	1	0	0	0
+response to triglyceride	GO_0034014	0	1	0	0	0
+regulation of triglyceride metabolic process	GO_0090207	0	1	0	0	0
+regulation of triglyceride catabolic process	GO_0010896	0	1	0	0	0
+regulation of triglyceride biosynthetic process	GO_0010866	0	1	0	0	0
+positive regulation of triglyceride metabolic process	GO_0090208	0	1	0	0	0
+positive regulation of triglyceride catabolic process	GO_0010898	0	1	0	0	0
+positive regulation of triglyceride biosynthetic process	GO_0010867	0	1	0	0	0
+negative regulation of triglyceride metabolic process	GO_0090209	0	1	0	0	0
+negative regulation of triglyceride catabolic process	GO_0010897	0	1	0	0	0
+negative regulation of triglyceride biosynthetic process	GO_0010868	0	1	0	0	0
+cellular response to triglyceride	GO_0071401	0	1	0	0	0

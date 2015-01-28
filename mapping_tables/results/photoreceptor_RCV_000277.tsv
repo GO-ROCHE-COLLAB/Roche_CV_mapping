@@ -26,10 +26,34 @@ retinal cone cell fate commitment	GO_0046551	0	1	0	0	0
 retinal cone cell differentiation	GO_0042670	0	1	0	0	0
 retinal cone cell development	GO_0046549	0	1	0	0	0
 retinal cone cell apoptotic process	GO_0097474	0	1	0	0	0
+regulation of sevenless signaling pathway	GO_0045501	0	1	0	0	0
+regulation of retinal rod cell fate commitment	GO_0060224	0	1	0	0	0
+regulation of retinal cone cell fate specification	GO_0042673	0	1	0	0	0
+regulation of retinal cone cell fate commitment	GO_0060222	0	1	0	0	0
+regulation of photoreceptor cell differentiation	GO_0046532	0	1	0	0	0
 regulation of membrane potential in photoreceptor cell	GO_0016057	0	1	0	0	0
+regulation of eye photoreceptor cell development	GO_0042478	0	1	0	0	0
+regulation of compound eye photoreceptor development	GO_0045314	0	1	0	0	0
+regulation of R8 cell differentiation	GO_0045679	0	1	0	0	0
+regulation of R7 cell differentiation	GO_0045676	0	1	0	0	0
+positive regulation of sevenless signaling pathway	GO_0045874	0	1	0	0	0
+positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	0	0	0
+positive regulation of photoreceptor cell differentiation	GO_0046534	0	1	0	0	0
+positive regulation of eye photoreceptor cell development	GO_0042479	0	1	0	0	0
+positive regulation of compound eye photoreceptor development	GO_0045315	0	1	0	0	0
+positive regulation of R8 cell differentiation	GO_0045681	0	1	0	0	0
+positive regulation of R7 cell differentiation	GO_0045678	0	1	0	0	0
 ocellus photoreceptor cell fate commitment	GO_0042707	0	1	0	0	0
 ocellus photoreceptor cell differentiation	GO_0042705	0	1	0	0	0
 ocellus photoreceptor cell development	GO_0042463	0	1	0	0	0
+negative regulation of sevenless signaling pathway	GO_0045873	0	1	0	0	0
+negative regulation of retinal cone cell fate specification	GO_0009998	0	1	0	0	0
+negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	0	0	0
+negative regulation of photoreceptor cell differentiation	GO_0046533	0	1	0	0	0
+negative regulation of eye photoreceptor cell development	GO_0042480	0	1	0	0	0
+negative regulation of compound eye photoreceptor development	GO_0045316	0	1	0	0	0
+negative regulation of R8 cell differentiation	GO_0045680	0	1	0	0	0
+negative regulation of R7 cell differentiation	GO_0045677	0	1	0	0	0
 maintenance of membrane potential in photoreceptor cell by rhodopsin mediated signaling	GO_0016058	0	1	0	0	0
 eye photoreceptor cell fate commitment	GO_0042706	0	1	0	0	0
 eye photoreceptor cell differentiation	GO_0001754	0	1	0	0	0

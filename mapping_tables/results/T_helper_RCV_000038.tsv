@@ -20,6 +20,41 @@ T-helper 1 cell diapedesis	GO_0035688	1	1	1	0	0
 T-helper 1 cell cytokine production	GO_0035744	1	1	1	0	0
 T-helper 1 cell chemotaxis	GO_0035706	1	1	1	0	0
 T-helper 1 cell activation	GO_0035711	1	1	1	0	0
+regulation of T-helper cell differentiation	GO_0045622	0	1	0	0	0
+regulation of T-helper 2 cell differentiation	GO_0045628	0	1	0	0	0
+regulation of T-helper 2 cell cytokine production	GO_2000551	0	1	0	0	0
+regulation of T-helper 2 cell activation	GO_2000569	0	1	0	0	0
+regulation of T-helper 17 type immune response	GO_2000316	0	1	0	0	0
+regulation of T-helper 17 cell lineage commitment	GO_2000328	0	1	0	0	0
+regulation of T-helper 17 cell extravasation	GO_2000455	0	1	0	0	0
+regulation of T-helper 17 cell differentiation	GO_2000319	0	1	0	0	0
+regulation of T-helper 1 type immune response	GO_0002825	0	1	0	0	0
+regulation of T-helper 1 cell differentiation	GO_0045625	0	1	0	0	0
+regulation of T-helper 1 cell cytokine production	GO_2000554	0	1	0	0	0
+regulation of T-helper 1 cell activation	GO_2000517	0	1	0	0	0
+positive regulation of T-helper cell differentiation	GO_0045624	0	1	0	0	0
+positive regulation of T-helper 2 cell differentiation	GO_0045630	0	1	0	0	0
+positive regulation of T-helper 2 cell cytokine production	GO_2000553	0	1	0	0	0
+positive regulation of T-helper 2 cell activation	GO_2000570	0	1	0	0	0
+positive regulation of T-helper 17 type immune response	GO_2000318	0	1	0	0	0
+positive regulation of T-helper 17 cell lineage commitment	GO_2000330	0	1	0	0	0
+positive regulation of T-helper 17 cell extravasation	GO_2000457	0	1	0	0	0
+positive regulation of T-helper 17 cell differentiation	GO_2000321	0	1	0	0	0
+positive regulation of T-helper 1 type immune response	GO_0002827	0	1	0	0	0
+positive regulation of T-helper 1 cell differentiation	GO_0045627	0	1	0	0	0
+positive regulation of T-helper 1 cell cytokine production	GO_2000556	0	1	0	0	0
+positive regulation of T-helper 1 cell activation	GO_2000519	0	1	0	0	0
+negative regulation of T-helper cell differentiation	GO_0045623	0	1	0	0	0
+negative regulation of T-helper 2 cell differentiation	GO_0045629	0	1	0	0	0
+negative regulation of T-helper 2 cell cytokine production	GO_2000552	0	1	0	0	0
+negative regulation of T-helper 17 type immune response	GO_2000317	0	1	0	0	0
+negative regulation of T-helper 17 cell lineage commitment	GO_2000329	0	1	0	0	0
+negative regulation of T-helper 17 cell extravasation	GO_2000456	0	1	0	0	0
+negative regulation of T-helper 17 cell differentiation	GO_2000320	0	1	0	0	0
+negative regulation of T-helper 1 type immune response	GO_0002826	0	1	0	0	0
+negative regulation of T-helper 1 cell differentiation	GO_0045626	0	1	0	0	0
+negative regulation of T-helper 1 cell cytokine production	GO_2000555	0	1	0	0	0
+negative regulation of T-helper 1 cell activation	GO_2000518	0	1	0	0	0
 T-helper 17 type immune response	GO_0072538	0	1	1	0	0
 T-helper 1 type immune response	GO_0042088	0	1	1	0	0
 T follicular helper cell differentiation	GO_0061470	0	1	1	0	0

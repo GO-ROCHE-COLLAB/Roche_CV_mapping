@@ -50,42 +50,51 @@ iron chelate transport	GO_0015688	1	0	1	0	0
 iron and molybdenum incorporation into iron-molybdenum-sulfur cluster via L-cysteinyl homocitryl molybdenum-heptairon-nonasulfide	GO_0018290	1	0	1	0	0
 intracellular sequestering of iron ion	GO_0006880	1	0	1	0	0
 Rieske iron-sulfur protein	GO_0000047	1	0	1	1	1
-xylem-to-phloem iron transport	GO_1990388	0	1	1	0	0
-transferrin transport	GO_0033572	0	1	1	0	0
-transferrin transmembrane transporter activity	GO_0033570	0	1	1	0	0
-siderophore uptake transmembrane transporter activity	GO_0015344	0	1	1	0	0
-siderophore transmembrane transporter activity	GO_0015343	0	1	1	0	0
-response to iron(III) ion	GO_0010041	0	1	1	0	0
-response to iron(II) ion	GO_0010040	0	1	1	0	0
-response to iron ion	GO_0010039	0	1	1	0	0
-mitochondrial iron ion transport	GO_0048250	0	1	1	0	0
-low-affinity iron ion transmembrane transporter activity	GO_0015090	0	1	1	0	0
-lactoferrin transport	GO_0033571	0	1	1	0	0
-lactoferrin transmembrane transporter activity	GO_0033569	0	1	1	0	0
-iron ion transmembrane transporter activity	GO_0005381	0	1	1	0	0
-iron ion import into cell	GO_0097459	0	1	1	0	0
-iron ion import across plasma membrane	GO_0098711	0	1	1	0	0
-iron ion binding	GO_0005506	0	1	1	0	0
-iron chaperone activity	GO_0034986	0	1	1	0	0
-iron cation export	GO_1903414	0	1	1	0	0
-high-affinity ferric uptake transmembrane transporter activity	GO_0015092	0	1	1	0	0
-ferrous iron import across plasma membrane	GO_0098707	0	1	1	0	0
-ferric-vibriobactin transmembrane transporter activity	GO_0019535	0	1	1	0	0
-ferric-transporting ATPase activity	GO_0015408	0	1	1	0	0
-ferric-hydroxamate-transporting ATPase activity	GO_0015625	0	1	1	0	0
-ferric-hydroxamate transport	GO_0015687	0	1	1	0	0
-ferric-hydroxamate transmembrane transporter activity	GO_0015622	0	1	1	0	0
-ferric-enterobactin-transporting ATPase activity	GO_0015624	0	1	1	0	0
-ferric-enterobactin transport	GO_0015685	0	1	1	0	0
-ferric-enterobactin transmembrane transporter activity	GO_0015620	0	1	1	0	0
-ferric triacetylfusarinine C:proton symporter activity	GO_0015346	0	1	1	0	0
-ferric triacetylfusarinine C transmembrane transporter activity	GO_0015621	0	1	1	0	0
-ferric iron transmembrane transporter activity	GO_0015091	0	1	1	0	0
-ferric iron import into cell	GO_0097461	0	1	1	0	0
-ferric iron import across plasma membrane	GO_0098706	0	1	1	0	0
-ferric iron binding	GO_0008199	0	1	1	0	0
-ferric enterobactin:proton symporter activity	GO_0015345	0	1	1	0	0
-detoxification of iron ion	GO_1990461	0	1	1	0	0
-cellular response to iron(III) ion	GO_0071283	0	1	1	0	0
-cellular response to iron(II) ion	GO_0071282	0	1	1	0	0
-cellular response to iron ion	GO_0071281	0	1	1	0	0
+xylem-to-phloem iron transport	GO_1990388	0	1	0	0	0
+transferrin transport	GO_0033572	0	1	0	0	0
+transferrin transmembrane transporter activity	GO_0033570	0	1	0	0	0
+siderophore uptake transmembrane transporter activity	GO_0015344	0	1	0	0	0
+siderophore transmembrane transporter activity	GO_0015343	0	1	0	0	0
+response to iron(III) ion	GO_0010041	0	1	0	0	0
+response to iron(II) ion	GO_0010040	0	1	0	0	0
+response to iron ion	GO_0010039	0	1	0	0	0
+regulation of iron ion transport by regulation of transcription from RNA polymerase II promoter	GO_1900393	0	1	0	0	0
+regulation of iron ion transport	GO_0034756	0	1	0	0	0
+regulation of iron ion transmembrane transport	GO_0034759	0	1	0	0	0
+regulation of iron ion import by regulation of transcription from RNA polymerase II promoter	GO_1900400	0	1	0	0	0
+regulation of iron ion import	GO_1900390	0	1	0	0	0
+positive regulation of iron ion transport	GO_0034758	0	1	0	0	0
+positive regulation of iron ion transmembrane transport	GO_0034761	0	1	0	0	0
+negative regulation of iron ion transport	GO_0034757	0	1	0	0	0
+negative regulation of iron ion transmembrane transport	GO_0034760	0	1	0	0	0
+mitochondrial iron ion transport	GO_0048250	0	1	0	0	0
+low-affinity iron ion transmembrane transporter activity	GO_0015090	0	1	0	0	0
+lactoferrin transport	GO_0033571	0	1	0	0	0
+lactoferrin transmembrane transporter activity	GO_0033569	0	1	0	0	0
+iron ion transmembrane transporter activity	GO_0005381	0	1	0	0	0
+iron ion import into cell	GO_0097459	0	1	0	0	0
+iron ion import across plasma membrane	GO_0098711	0	1	0	0	0
+iron ion binding	GO_0005506	0	1	0	0	0
+iron chaperone activity	GO_0034986	0	1	0	0	0
+iron cation export	GO_1903414	0	1	0	0	0
+high-affinity ferric uptake transmembrane transporter activity	GO_0015092	0	1	0	0	0
+ferrous iron import across plasma membrane	GO_0098707	0	1	0	0	0
+ferric-vibriobactin transmembrane transporter activity	GO_0019535	0	1	0	0	0
+ferric-transporting ATPase activity	GO_0015408	0	1	0	0	0
+ferric-hydroxamate-transporting ATPase activity	GO_0015625	0	1	0	0	0
+ferric-hydroxamate transport	GO_0015687	0	1	0	0	0
+ferric-hydroxamate transmembrane transporter activity	GO_0015622	0	1	0	0	0
+ferric-enterobactin-transporting ATPase activity	GO_0015624	0	1	0	0	0
+ferric-enterobactin transport	GO_0015685	0	1	0	0	0
+ferric-enterobactin transmembrane transporter activity	GO_0015620	0	1	0	0	0
+ferric triacetylfusarinine C:proton symporter activity	GO_0015346	0	1	0	0	0
+ferric triacetylfusarinine C transmembrane transporter activity	GO_0015621	0	1	0	0	0
+ferric iron transmembrane transporter activity	GO_0015091	0	1	0	0	0
+ferric iron import into cell	GO_0097461	0	1	0	0	0
+ferric iron import across plasma membrane	GO_0098706	0	1	0	0	0
+ferric iron binding	GO_0008199	0	1	0	0	0
+ferric enterobactin:proton symporter activity	GO_0015345	0	1	0	0	0
+detoxification of iron ion	GO_1990461	0	1	0	0	0
+cellular response to iron(III) ion	GO_0071283	0	1	0	0	0
+cellular response to iron(II) ion	GO_0071282	0	1	0	0	0
+cellular response to iron ion	GO_0071281	0	1	0	0	0

@@ -5,3 +5,9 @@ type B pancreatic cell differentiation	GO_0003309	1	1	1	0	0
 type B pancreatic cell development	GO_0003323	1	1	1	0	0
 type B pancreatic cell apoptotic process	GO_0097050	1	1	1	0	0
 type B pancreatic cell proliferation	GO_0044342	1	0	1	0	0
+regulation of type B pancreatic cell development	GO_2000074	0	1	0	0	0
+regulation of type B pancreatic cell apoptotic process	GO_2000674	0	1	0	0	0
+positive regulation of type B pancreatic cell development	GO_2000078	0	1	0	0	0
+positive regulation of type B pancreatic cell apoptotic process	GO_2000676	0	1	0	0	0
+negative regulation of type B pancreatic cell development	GO_2000077	0	1	0	0	0
+negative regulation of type B pancreatic cell apoptotic process	GO_2000675	0	1	0	0	0

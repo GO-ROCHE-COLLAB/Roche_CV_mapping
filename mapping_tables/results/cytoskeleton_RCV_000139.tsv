@@ -1,8 +1,25 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 tubulin complex assembly	GO_0007021	1	1	1	0	0
 spindle pole	GO_0000922	1	1	1	0	0
+regulation of microtubule-based movement	GO_0060632	1	1	1	0	0
+regulation of microtubule polymerization	GO_0031113	1	1	1	0	0
+regulation of microtubule nucleation by Ran protein signal transduction	GO_0090226	1	1	1	0	0
+regulation of microtubule nucleation	GO_0010968	1	1	1	0	0
+regulation of microtubule depolymerization	GO_0031114	1	1	1	0	0
+regulation of establishment of actomyosin contractile ring localization	GO_0071342	1	1	1	0	0
+regulation of cytoplasmic microtubule depolymerization	GO_0010937	1	1	1	0	0
+regulation of attachment of spindle microtubules to kinetochore	GO_0051988	1	1	1	0	0
+regulation of actin polymerization or depolymerization	GO_0008064	1	1	1	0	0
+regulation of actin nucleation	GO_0051125	1	1	1	0	0
+regulation of actin filament polymerization	GO_0030833	1	1	1	0	0
+regulation of actin filament depolymerization	GO_0030834	1	1	1	0	0
+regulation of actin filament bundle assembly	GO_0032231	1	1	1	0	0
 protein localization to microtubule	GO_0035372	1	1	1	0	0
 protein localization to cortical microtubule cytoskeleton	GO_0072699	1	1	1	0	0
+positive regulation of microtubule polymerization	GO_0031116	1	1	1	0	0
+positive regulation of microtubule nucleation	GO_0090063	1	1	1	0	0
+positive regulation of microtubule depolymerization	GO_0031117	1	1	1	0	0
+positive regulation of attachment of spindle microtubules to kinetochore	GO_0051987	1	1	1	0	0
 plus-end-directed vesicle transport along microtubule	GO_0072383	1	1	1	0	0
 plus-end-directed organelle transport along microtubule	GO_0072386	1	1	1	0	0
 plus-end specific microtubule depolymerization	GO_0070462	1	1	1	0	0
@@ -11,6 +28,10 @@ peroxisome transport along microtubule	GO_0036250	1	1	1	0	0
 pericentriolar material	GO_0000242	1	1	1	0	0
 organelle transport along microtubule	GO_0072384	1	1	1	0	0
 nuclear migration along microtubule	GO_0030473	1	1	1	0	0
+negative regulation of microtubule polymerization	GO_0031115	1	1	1	0	0
+negative regulation of microtubule depolymerization	GO_0007026	1	1	1	0	0
+negative regulation of attachment of spindle microtubules to kinetochore	GO_0051986	1	1	1	0	0
+negative regulation of astral microtubule depolymerization	GO_0032932	1	1	1	0	0
 minus-end-directed vesicle transport along microtubule	GO_0072382	1	1	1	0	0
 minus-end-directed organelle transport along microtubule	GO_0072385	1	1	1	0	0
 minus-end specific microtubule depolymerization	GO_0036078	1	1	1	0	0
@@ -43,6 +64,7 @@ cortical microtubule organization	GO_0043622	1	1	1	0	0
 ciliary basal body organization	GO_0032053	1	1	1	0	0
 ciliary basal body duplication	GO_0032054	1	1	1	0	0
 barbed-end actin filament uncapping	GO_0051638	1	1	1	0	0
+barbed-end actin filament capping	GO_0051016	1	1	1	0	0
 astral spindle assembly involved in male meiosis	GO_0055050	1	1	1	0	0
 astral spindle assembly	GO_0055049	1	1	1	0	0
 astral microtubule organization	GO_0030953	1	1	1	0	0
@@ -54,6 +76,7 @@ actomyosin contractile ring localization	GO_0032187	1	1	1	0	0
 actomyosin contractile ring assembly actin filament organization	GO_2000689	1	1	1	0	0
 actomyosin contractile ring assembly actin filament bundle convergence	GO_0071520	1	1	1	0	0
 actomyosin contractile ring actin filament bundle assembly	GO_0071519	1	1	1	0	0
+activation of microtubule nucleation	GO_0090064	1	1	1	0	0
 actin-myosin filament sliding	GO_0033275	1	1	1	0	0
 actin-mediated cell contraction	GO_0070252	1	1	1	0	0
 actin rod assembly	GO_0031247	1	1	1	0	0
@@ -67,6 +90,7 @@ actin filament organization	GO_0007015	1	1	1	0	0
 actin filament network formation	GO_0051639	1	1	1	0	0
 actin filament fragmentation	GO_0030043	1	1	1	0	0
 actin filament depolymerization	GO_0030042	1	1	1	0	0
+actin filament capping	GO_0051693	1	1	1	0	0
 actin filament bundle distribution	GO_0070650	1	1	1	0	0
 actin filament bundle convergence	GO_0090426	1	1	1	0	0
 actin filament bundle assembly	GO_0051017	1	1	1	0	0
@@ -80,60 +104,39 @@ tubulin deacetylation	GO_0090042	1	0	1	0	0
 tubulin complex biogenesis	GO_0072668	1	0	1	0	0
 regulation of phragmoplast microtubule organization	GO_2000694	1	0	1	0	0
 regulation of microtubule-based process	GO_0032886	1	0	1	0	0
-regulation of microtubule-based movement	GO_0060632	1	0	1	0	0
 regulation of microtubule polymerization or depolymerization	GO_0031110	1	0	1	0	0
-regulation of microtubule polymerization	GO_0031113	1	0	1	0	0
-regulation of microtubule nucleation by Ran protein signal transduction	GO_0090226	1	0	1	0	0
-regulation of microtubule nucleation	GO_0010968	1	0	1	0	0
 regulation of microtubule motor activity	GO_2000574	1	0	1	0	0
-regulation of microtubule depolymerization	GO_0031114	1	0	1	0	0
 regulation of microtubule cytoskeleton organization	GO_0070507	1	0	1	0	0
 regulation of intermediate filament polymerization or depolymerization	GO_0045108	1	0	1	0	0
 regulation of intermediate filament polymerization	GO_0030839	1	0	1	0	0
 regulation of intermediate filament depolymerization	GO_0030842	1	0	1	0	0
-regulation of establishment of actomyosin contractile ring localization	GO_0071342	1	0	1	0	0
 regulation of dynamin polymerization involved in membrane fission	GO_0003375	1	0	1	0	0
 regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	1	0	1	0	0
 regulation of cytoskeleton organization	GO_0051493	1	0	1	0	0
 regulation of cytoskeleton	GO_0007011	1	0	1	1	1
-regulation of cytoplasmic microtubule depolymerization	GO_0010937	1	0	1	0	0
-regulation of attachment of spindle microtubules to kinetochore	GO_0051988	1	0	1	0	0
 regulation of actomyosin contractile ring contraction	GO_0031991	1	0	1	0	0
-regulation of actin polymerization or depolymerization	GO_0008064	1	0	1	0	0
 regulation of actin phosphorylation	GO_0043538	1	0	1	0	0
-regulation of actin nucleation	GO_0051125	1	0	1	0	0
 regulation of actin filament-based process	GO_0032970	1	0	1	0	0
-regulation of actin filament polymerization	GO_0030833	1	0	1	0	0
 regulation of actin filament length	GO_0030832	1	0	1	0	0
-regulation of actin filament depolymerization	GO_0030834	1	0	1	0	0
-regulation of actin filament bundle assembly	GO_0032231	1	0	1	0	0
 regulation of actin cytoskeleton reorganization	GO_2000249	1	0	1	0	0
 regulation of actin cytoskeleton organization	GO_0032956	1	0	1	0	0
 regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000580	1	0	1	0	0
 regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000577	1	0	1	0	0
 protein localization to microtubule cytoskeleton	GO_0072698	1	0	1	0	0
 positive regulation of microtubule polymerization or depolymerization	GO_0031112	1	0	1	0	0
-positive regulation of microtubule polymerization	GO_0031116	1	0	1	0	0
-positive regulation of microtubule nucleation	GO_0090063	1	0	1	0	0
 positive regulation of microtubule motor activity	GO_2000576	1	0	1	0	0
-positive regulation of microtubule depolymerization	GO_0031117	1	0	1	0	0
 positive regulation of intermediate filament polymerization and/or depolymerization	GO_0045826	1	0	1	1	1
 positive regulation of intermediate filament polymerization	GO_0030841	1	0	1	0	0
 positive regulation of intermediate filament depolymerization	GO_0030844	1	0	1	0	0
-positive regulation of attachment of spindle microtubules to kinetochore	GO_0051987	1	0	1	0	0
 positive regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000582	1	0	1	0	0
 positive regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000579	1	0	1	0	0
 polarisome	GO_0000133	1	0	1	0	0
 phragmoplast microtubule organization	GO_0080175	1	0	1	0	0
 negative regulation of microtubule polymerization or depolymerization	GO_0031111	1	0	1	0	0
-negative regulation of microtubule polymerization	GO_0031115	1	0	1	0	0
 negative regulation of microtubule motor activity	GO_2000575	1	0	1	0	0
-negative regulation of microtubule depolymerization	GO_0007026	1	0	1	0	0
 negative regulation of intermediate filament polymerization and/or depolymerization	GO_0045825	1	0	1	1	1
 negative regulation of intermediate filament polymerization	GO_0030840	1	0	1	0	0
 negative regulation of intermediate filament depolymerization	GO_0030843	1	0	1	0	0
-negative regulation of attachment of spindle microtubules to kinetochore	GO_0051986	1	0	1	0	0
-negative regulation of astral microtubule depolymerization	GO_0032932	1	0	1	0	0
 negative regulation of ATP-dependent microtubule motor activity, plus-end-directed	GO_2000581	1	0	1	0	0
 negative regulation of ATP-dependent microtubule motor activity, minus-end-directed	GO_2000578	1	0	1	0	0
 mitotic spindle-templated microtubule nucleation	GO_0090221	1	0	1	0	0
@@ -161,11 +164,9 @@ cytoskeleton polarization involved in growth plate cartilage chondrocyte divisio
 cytoskeletal matrix organization at active zone	GO_0048789	1	0	1	0	0
 chromatin-templated microtubule nucleation	GO_0090223	1	0	1	0	0
 centrosome-templated microtubule nucleation	GO_0090222	1	0	1	0	0
-barbed-end actin filament capping	GO_0051016	1	0	1	0	0
 assembly of actomyosin apparatus involved in cytokinesis	GO_0000912	1	0	1	0	0
 actomyosin contractile ring maintenance	GO_0031566	1	0	1	0	0
 actomyosin contractile ring contraction	GO_0000916	1	0	1	0	0
-activation of microtubule nucleation	GO_0090064	1	0	1	0	0
 actin-dependent intracellular transport of virus	GO_0075520	1	0	1	0	0
 actin ubiquitination	GO_0007014	1	0	1	0	0
 actin polymerization-dependent cell motility involved in migration of symbiont in host	GO_0070359	1	0	1	0	0
@@ -175,7 +176,6 @@ actin modification	GO_0030047	1	0	1	0	0
 actin filament-based process	GO_0030029	1	0	1	0	0
 actin filament severing	GO_0051014	1	0	1	0	0
 actin filament debranching	GO_0071846	1	0	1	0	0
-actin filament capping	GO_0051693	1	0	1	0	0
 actin cytoskeleton reorganization	GO_0031532	1	0	1	0	0
 actin cytoskeleton organization	GO_0030036	1	0	1	0	0
 actin cortical patch distribution	GO_0048228	1	0	1	1	1
@@ -197,6 +197,7 @@ striated muscle myosin thick filament	GO_0005863	0	1	0	0	0
 stress fiber assembly	GO_0043149	0	1	0	0	0
 stress fiber	GO_0001725	0	1	0	0	0
 split septin rings	GO_0032176	0	1	0	0	0
+spindle stabilization	GO_0043146	0	1	0	0	0
 spindle pole centrosome	GO_0031616	0	1	0	0	0
 spindle pole body organization	GO_0051300	0	1	0	0	0
 spindle pole body localization to nuclear envelope	GO_0071789	0	1	0	0	0
@@ -227,6 +228,7 @@ skeletal muscle thin filament assembly	GO_0030240	0	1	0	0	0
 skeletal muscle myosin thick filament assembly	GO_0030241	0	1	0	0	0
 sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation	GO_0051759	0	1	0	0	0
 sister chromatid biorientation	GO_0031134	0	1	0	0	0
+sequestering of actin monomers	GO_0042989	0	1	0	0	0
 septin ring organization	GO_0031106	0	1	0	0	0
 septin ring disassembly	GO_0031107	0	1	0	0	0
 septin ring assembly	GO_0000921	0	1	0	0	0
@@ -244,6 +246,57 @@ right caudal basal body	GO_1902678	0	1	0	0	0
 right anterior basal body	GO_1902672	0	1	0	0	0
 retrograde axon cargo transport	GO_0008090	0	1	0	0	0
 repair of mono-orientation defects	GO_1990598	0	1	0	0	0
+regulation of vesicle transport along microtubule	GO_1901608	0	1	0	0	0
+regulation of stress fiber assembly	GO_0051492	0	1	0	0	0
+regulation of spindle pole body separation	GO_0010695	0	1	0	0	0
+regulation of spindle organization	GO_0090224	0	1	0	0	0
+regulation of spindle elongation	GO_0032887	0	1	0	0	0
+regulation of spindle density	GO_0090225	0	1	0	0	0
+regulation of spindle assembly	GO_0090169	0	1	0	0	0
+regulation of sarcomere organization	GO_0060297	0	1	0	0	0
+regulation of retrograde axon cargo transport	GO_2001017	0	1	0	0	0
+regulation of podosome assembly	GO_0071801	0	1	0	0	0
+regulation of organelle transport along microtubule	GO_1902513	0	1	0	0	0
+regulation of nuclear migration during mitotic telophase	GO_1902852	0	1	0	0	0
+regulation of nuclear migration along microtubule	GO_1902838	0	1	0	0	0
+regulation of myosin II filament organization	GO_0043519	0	1	0	0	0
+regulation of myosin II filament disassembly	GO_0043521	0	1	0	0	0
+regulation of myosin II filament assembly	GO_0043520	0	1	0	0	0
+regulation of muscle filament sliding speed involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014915	0	1	0	0	0
+regulation of muscle filament sliding speed	GO_0032972	0	1	0	0	0
+regulation of muscle filament sliding involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014880	0	1	0	0	0
+regulation of muscle filament sliding	GO_0032971	0	1	0	0	0
+regulation of mitotic spindle organization	GO_0060236	0	1	0	0	0
+regulation of mitotic spindle elongation	GO_0032888	0	1	0	0	0
+regulation of mitotic spindle assembly	GO_1901673	0	1	0	0	0
+regulation of mitotic centrosome separation	GO_0046602	0	1	0	0	0
+regulation of mitotic attachment of spindle microtubules to kinetochore	GO_1902423	0	1	0	0	0
+regulation of mitotic actomyosin contractile ring localization	GO_1902471	0	1	0	0	0
+regulation of mitotic actomyosin contractile ring assembly	GO_1903499	0	1	0	0	0
+regulation of microtubule plus-end binding	GO_1903031	0	1	0	0	0
+regulation of microtubule minus-end binding	GO_1902619	0	1	0	0	0
+regulation of meiotic spindle elongation	GO_1902119	0	1	0	0	0
+regulation of maintenance of mitotic actomyosin contractile ring localization	GO_1903483	0	1	0	0	0
+regulation of formin-nucleated actin cable assembly	GO_0090337	0	1	0	0	0
+regulation of establishment of actomyosin contractile ring localization involved in mitotic cell cycle	GO_1903505	0	1	0	0	0
+regulation of cytokinesis, actomyosin contractile ring assembly	GO_2000431	0	1	0	0	0
+regulation of cilium-dependent cell motility	GO_1902019	0	1	0	0	0
+regulation of cilium movement involved in cell motility	GO_0060295	0	1	0	0	0
+regulation of cilium movement	GO_0003352	0	1	0	0	0
+regulation of cilium beat frequency involved in ciliary motility	GO_0060296	0	1	0	0	0
+regulation of cilium beat frequency	GO_0003356	0	1	0	0	0
+regulation of centrosome duplication	GO_0010824	0	1	0	0	0
+regulation of centrosome cycle	GO_0046605	0	1	0	0	0
+regulation of centriole-centriole cohesion	GO_0030997	0	1	0	0	0
+regulation of centriole replication	GO_0046599	0	1	0	0	0
+regulation of centriole elongation	GO_1903722	0	1	0	0	0
+regulation of cardiac muscle cell contraction	GO_0086004	0	1	0	0	0
+regulation of actomyosin contractile ring localization	GO_1901648	0	1	0	0	0
+regulation of actin filament-based movement	GO_1903115	0	1	0	0	0
+regulation of actin filament organization involved in mitotic actomyosin contractile ring assembly	GO_1903480	0	1	0	0	0
+regulation of actin filament organization involved in cytokinetic actomyosin contractile ring assembly	GO_1903117	0	1	0	0	0
+regulation of actin cortical patch localization	GO_0060583	0	1	0	0	0
+regulation of Arp2/3 complex-mediated actin nucleation	GO_0034315	0	1	0	0	0
 pseudohyphal septin ring	GO_0032170	0	1	0	0	0
 protein localization to spindle pole body	GO_0071988	0	1	0	0	0
 protein localization to spindle microtubule	GO_1902889	0	1	0	0	0
@@ -266,8 +319,42 @@ prospore contractile ring	GO_0032157	0	1	0	0	0
 preprophase band assembly	GO_0000913	0	1	0	0	0
 preprophase band	GO_0009574	0	1	0	0	0
 post-anaphase microtubule array	GO_1990295	0	1	0	0	0
+positive regulation of vesicle transport along microtubule	GO_1901610	0	1	0	0	0
+positive regulation of stress fiber assembly	GO_0051496	0	1	0	0	0
+positive regulation of spindle pole body separation	GO_0010696	0	1	0	0	0
+positive regulation of sarcomere organization	GO_0060298	0	1	0	0	0
+positive regulation of retrograde axon cargo transport	GO_2001019	0	1	0	0	0
+positive regulation of podosome assembly	GO_0071803	0	1	0	0	0
+positive regulation of nuclear migration during mitotic telophase	GO_1902854	0	1	0	0	0
+positive regulation of nuclear migration along microtubule	GO_1902840	0	1	0	0	0
+positive regulation of mitotic spindle elongation	GO_1902846	0	1	0	0	0
+positive regulation of mitotic centrosome separation	GO_0046604	0	1	0	0	0
+positive regulation of mitotic actomyosin contractile ring assembly	GO_1903501	0	1	0	0	0
+positive regulation of microtubule plus-end binding	GO_1903033	0	1	0	0	0
+positive regulation of microtubule minus-end binding	GO_1902620	0	1	0	0	0
+positive regulation of maintenance of mitotic actomyosin contractile ring localization	GO_1903485	0	1	0	0	0
+positive regulation of formin-nucleated actin cable assembly	GO_0090338	0	1	0	0	0
+positive regulation of cytokinesis, actomyosin contractile ring assembly	GO_2000433	0	1	0	0	0
+positive regulation of cilium-dependent cell motility	GO_2000155	0	1	0	0	0
+positive regulation of cilium movement	GO_0003353	0	1	0	0	0
+positive regulation of centrosome duplication	GO_0010825	0	1	0	0	0
+positive regulation of centrosome cycle	GO_0046607	0	1	0	0	0
+positive regulation of centriole-centriole cohesion	GO_1903127	0	1	0	0	0
+positive regulation of centriole replication	GO_0046601	0	1	0	0	0
+positive regulation of centriole elongation	GO_1903724	0	1	0	0	0
+positive regulation of attachment of mitotic spindle microtubules to kinetochore	GO_1902425	0	1	0	0	0
+positive regulation of actomyosin contractile ring localization	GO_1901650	0	1	0	0	0
+positive regulation of actin nucleation	GO_0051127	0	1	0	0	0
+positive regulation of actin filament-based movement	GO_1903116	0	1	0	0	0
+positive regulation of actin filament polymerization involved in acrosome reaction	GO_0060475	0	1	0	0	0
+positive regulation of actin filament polymerization	GO_0030838	0	1	0	0	0
+positive regulation of actin filament organization involved in mitotic actomyosin contractile ring assembly	GO_1903482	0	1	0	0	0
+positive regulation of actin filament depolymerization	GO_0030836	0	1	0	0	0
+positive regulation of actin filament bundle assembly	GO_0032233	0	1	0	0	0
+positive regulation of Arp2/3 complex-mediated actin nucleation	GO_2000601	0	1	0	0	0
 polar microtubule	GO_0005827	0	1	0	0	0
 pointed-end actin filament uncapping	GO_0051696	0	1	0	0	0
+pointed-end actin filament capping	GO_0051694	0	1	0	0	0
 podosome assembly	GO_0071800	0	1	0	0	0
 podosome	GO_0002102	0	1	0	0	0
 plus-end kinesin complex	GO_0005873	0	1	0	0	0
@@ -286,6 +373,39 @@ nuclear microtubule	GO_0005880	0	1	0	0	0
 new mitotic spindle pole body	GO_0071958	0	1	0	0	0
 neurofilament bundle assembly	GO_0033693	0	1	0	0	0
 neurofilament	GO_0005883	0	1	0	0	0
+negative regulation of vesicle transport along microtubule	GO_1901609	0	1	0	0	0
+negative regulation of stress fiber assembly	GO_0051497	0	1	0	0	0
+negative regulation of spindle pole body separation	GO_0010697	0	1	0	0	0
+negative regulation of sarcomere organization	GO_0060299	0	1	0	0	0
+negative regulation of retrograde axon cargo transport	GO_2001018	0	1	0	0	0
+negative regulation of podosome assembly	GO_0071802	0	1	0	0	0
+negative regulation of nuclear migration during mitotic telophase	GO_1902853	0	1	0	0	0
+negative regulation of nuclear migration along microtubule	GO_1902839	0	1	0	0	0
+negative regulation of mitotic spindle elongation	GO_1902845	0	1	0	0	0
+negative regulation of mitotic centrosome separation	GO_0046603	0	1	0	0	0
+negative regulation of mitotic attachment of spindle microtubules to kinetochore	GO_1902424	0	1	0	0	0
+negative regulation of mitotic actomyosin contractile ring assembly	GO_1903500	0	1	0	0	0
+negative regulation of microtubule plus-end binding	GO_1903032	0	1	0	0	0
+negative regulation of meiotic spindle elongation	GO_1902120	0	1	0	0	0
+negative regulation of maintenance of mitotic actomyosin contractile ring localization	GO_1903484	0	1	0	0	0
+negative regulation of formin-nucleated actin cable assembly	GO_0090339	0	1	0	0	0
+negative regulation of establishment of actomyosin contractile ring localization	GO_0071343	0	1	0	0	0
+negative regulation of cytokinesis, actomyosin contractile ring assembly	GO_2000432	0	1	0	0	0
+negative regulation of cilium-dependent cell motility	GO_1902020	0	1	0	0	0
+negative regulation of cilium movement	GO_0003354	0	1	0	0	0
+negative regulation of centrosome duplication	GO_0010826	0	1	0	0	0
+negative regulation of centrosome cycle	GO_0046606	0	1	0	0	0
+negative regulation of centriole-centriole cohesion	GO_1903126	0	1	0	0	0
+negative regulation of centriole replication	GO_0046600	0	1	0	0	0
+negative regulation of centriole elongation	GO_1903723	0	1	0	0	0
+negative regulation of axonemal microtubule depolymerization	GO_0007027	0	1	0	0	0
+negative regulation of actomyosin contractile ring localization	GO_1901649	0	1	0	0	0
+negative regulation of actin nucleation	GO_0051126	0	1	0	0	0
+negative regulation of actin filament polymerization	GO_0030837	0	1	0	0	0
+negative regulation of actin filament organization involved in mitotic actomyosin contractile ring assembly	GO_1903481	0	1	0	0	0
+negative regulation of actin filament depolymerization	GO_0030835	0	1	0	0	0
+negative regulation of actin filament bundle assembly	GO_0032232	0	1	0	0	0
+negative regulation of Arp2/3 complex-mediated actin nucleation	GO_0034316	0	1	0	0	0
 myosin filament organization involved in cytokinetic actomyosin contractile ring assembly	GO_2000708	0	1	0	0	0
 myosin filament organization	GO_0031033	0	1	0	0	0
 myosin filament disassembly	GO_0031035	0	1	0	0	0
@@ -319,6 +439,7 @@ muscle thin filament tropomyosin	GO_0005862	0	1	0	0	0
 muscle thin filament assembly	GO_0071689	0	1	0	0	0
 muscle myosin complex	GO_0005859	0	1	0	0	0
 muscle filament sliding	GO_0030049	0	1	0	0	0
+mitotic spindle stabilization	GO_0043148	0	1	0	0	0
 mitotic spindle pole body localization to nuclear envelope	GO_1990608	0	1	0	0	0
 mitotic spindle pole body duplication	GO_1903087	0	1	0	0	0
 mitotic spindle pole body	GO_0044732	0	1	0	0	0
@@ -360,6 +481,7 @@ microtubule binding	GO_0008017	0	1	0	0	0
 microtubule associated complex	GO_0005875	0	1	0	0	0
 microtubule anchoring at spindle pole body	GO_0034631	0	1	0	0	0
 microtubule	GO_0005874	0	1	0	0	0
+meiotic spindle stabilization	GO_0043147	0	1	0	0	0
 meiotic spindle pole body organization	GO_1990395	0	1	0	0	0
 meiotic spindle pole body	GO_0035974	0	1	0	0	0
 meiotic spindle pole	GO_0090619	0	1	0	0	0
@@ -460,6 +582,8 @@ cytoplasmic actin-based contraction involved in rearward cell motility	GO_006032
 cytoplasmic actin-based contraction involved in forward cell motility	GO_0060328	0	1	0	0	0
 cytoplasmic actin-based contraction involved in cell motility	GO_0060327	0	1	0	0	0
 cuticular plate	GO_0032437	0	1	0	0	0
+cross bridge formation involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014871	0	1	0	0	0
+cross bridge cycling involved in regulation of the velocity of shortening in skeletal muscle contraction	GO_0014868	0	1	0	0	0
 cortical microtubule, transverse to long axis	GO_0010005	0	1	0	0	0
 cortical microtubule plus-end	GO_1903754	0	1	0	0	0
 cortical microtubule cytoskeleton	GO_0030981	0	1	0	0	0
@@ -551,11 +675,13 @@ actin filament	GO_0005884	0	1	0	0	0
 actin cortical patch	GO_0030479	0	1	0	0	0
 actin capping protein of dynactin complex	GO_0005870	0	1	0	0	0
 actin cap	GO_0030478	0	1	0	0	0
+Wnt signaling pathway, regulating spindle positioning	GO_0060069	0	1	0	0	0
 Tea1 cell-end complex	GO_0031500	0	1	0	0	0
 MMXD complex	GO_0071817	0	1	0	0	0
 HAUS complex	GO_0070652	0	1	0	0	0
 Gin4 complex	GO_1990317	0	1	0	0	0
 F-actin capping protein complex	GO_0008290	0	1	0	0	0
+CAR assembly checkpoint	GO_1990492	0	1	0	0	0
 Bfa1-Bub2 complex	GO_1990334	0	1	0	0	0
 B tubule	GO_0097650	0	1	0	0	0
 Arp2/3 protein complex	GO_0005885	0	1	0	0	0

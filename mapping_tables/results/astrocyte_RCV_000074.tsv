@@ -8,6 +8,9 @@ astrocyte chemotaxis	GO_0035700	1	0	1	0	0
 telencephalon astrocyte cell migration	GO_0022031	0	1	0	0	0
 tail portion of tanycyte	GO_1990018	0	1	0	0	0
 somatic portion of tanycyte	GO_1990017	0	1	0	0	0
+regulation of astrocyte differentiation	GO_0048710	0	1	0	0	0
+positive regulation of astrocyte differentiation	GO_0048711	0	1	0	0	0
+negative regulation of astrocyte differentiation	GO_0048712	0	1	0	0	0
 neck portion of tanycyte	GO_1990016	0	1	0	0	0
 glial limiting end-foot	GO_0097451	0	1	0	0	0
 glial filament	GO_0097426	0	1	0	0	0

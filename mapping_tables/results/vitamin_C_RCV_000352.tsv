@@ -1,16 +1,18 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 ascorbate stabilization	GO_0000044	1	0	1	1	1
-transepithelial L-ascorbic acid transport	GO_0070904	0	1	1	0	0
-sodium-dependent L-ascorbate transmembrane transporter activity	GO_0070890	0	1	1	0	0
-response to L-ascorbic acid	GO_0033591	0	1	1	0	0
-cellular response to L-ascorbic acid	GO_0071298	0	1	1	0	0
-ascorbate glutathione cycle	GO_0033355	0	1	1	0	0
-L-ascorbic acid transporter activity	GO_0015229	0	1	1	0	0
-L-ascorbic acid transport	GO_0015882	0	1	1	0	0
-L-ascorbic acid metabolic process	GO_0019852	0	1	1	0	0
-L-ascorbic acid catabolic process	GO_0019854	0	1	1	0	0
-L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate	GO_0090532	0	1	1	0	0
-L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose	GO_0090531	0	1	1	0	0
-L-ascorbic acid biosynthetic process	GO_0019853	0	1	1	0	0
-L-ascorbic acid binding	GO_0031418	0	1	1	0	0
-L-ascorbate:sodium symporter activity	GO_0008520	0	1	1	0	0
+transepithelial L-ascorbic acid transport	GO_0070904	0	1	0	0	0
+sodium-dependent L-ascorbate transmembrane transporter activity	GO_0070890	0	1	0	0	0
+response to L-ascorbic acid	GO_0033591	0	1	0	0	0
+regulation of L-ascorbic acid biosynthetic process	GO_2000082	0	1	0	0	0
+negative regulation of L-ascorbic acid biosynthetic process	GO_2000083	0	1	0	0	0
+cellular response to L-ascorbic acid	GO_0071298	0	1	0	0	0
+ascorbate glutathione cycle	GO_0033355	0	1	0	0	0
+L-ascorbic acid transporter activity	GO_0015229	0	1	0	0	0
+L-ascorbic acid transport	GO_0015882	0	1	0	0	0
+L-ascorbic acid metabolic process	GO_0019852	0	1	0	0	0
+L-ascorbic acid catabolic process	GO_0019854	0	1	0	0	0
+L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate	GO_0090532	0	1	0	0	0
+L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose	GO_0090531	0	1	0	0	0
+L-ascorbic acid biosynthetic process	GO_0019853	0	1	0	0	0
+L-ascorbic acid binding	GO_0031418	0	1	0	0	0
+L-ascorbate:sodium symporter activity	GO_0008520	0	1	0	0	0

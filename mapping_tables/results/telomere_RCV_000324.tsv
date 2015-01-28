@@ -24,13 +24,26 @@ telomeric heterochromatin	GO_0031933	0	1	1	0	0
 telomere-telomerase complex	GO_0070565	0	1	1	0	0
 telomere single strand break repair	GO_1903823	0	1	0	0	0
 telomere cap complex	GO_0000782	0	1	1	0	0
+regulation of telomere maintenance via telomerase	GO_0032210	0	1	0	0	0
+regulation of telomere maintenance via semi-conservative replication	GO_0032213	0	1	0	0	0
+regulation of telomere maintenance via recombination	GO_0032207	0	1	0	0	0
+regulation of telomere maintenance	GO_0032204	0	1	0	0	0
 protein localization to telomeric heterochromatin	GO_1990152	0	1	0	0	0
 protein localization to chromosome, telomeric region	GO_0070198	0	1	0	0	0
 protection from non-homologous end joining at telomere	GO_0031848	0	1	1	0	0
+positive regulation of telomere maintenance via telomerase	GO_0032212	0	1	0	0	0
+positive regulation of telomere maintenance via semi-conservative replication	GO_0032215	0	1	0	0	0
+positive regulation of telomere maintenance via recombination	GO_0032209	0	1	0	0	0
+positive regulation of telomere maintenance	GO_0032206	0	1	0	0	0
 polytene chromosome, telomeric region	GO_0035012	0	1	1	0	0
 nuclear telomeric heterochromatin	GO_0005724	0	1	1	0	0
 nuclear telomere cap complex	GO_0000783	0	1	1	0	0
 nuclear chromosome, telomeric region	GO_0000784	0	1	1	0	0
+negative regulation of telomere single strand break repair	GO_1903824	0	1	0	0	0
+negative regulation of telomere maintenance via telomerase	GO_0032211	0	1	0	0	0
+negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	0	0	0
+negative regulation of telomere maintenance via recombination	GO_0032208	0	1	0	0	0
+negative regulation of telomere maintenance	GO_0032205	0	1	0	0	0
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	1	0	0
 meiotic telomere maintenance via semi-conservative replication	GO_1902989	0	1	1	0	0
 establishment of protein localization to telomere	GO_0070200	0	1	0	0	0

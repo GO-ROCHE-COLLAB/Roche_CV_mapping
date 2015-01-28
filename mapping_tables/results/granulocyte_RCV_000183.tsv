@@ -1,18 +1,65 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of granulocyte differentiation	GO_0030852	1	1	1	0	0
+positive regulation of granulocyte differentiation	GO_0030854	1	1	1	0	0
+negative regulation of granulocyte differentiation	GO_0030853	1	1	1	0	0
 granulocyte differentiation	GO_0030851	1	1	1	0	0
 granulocyte chemotaxis	GO_0071621	1	1	1	0	0
 granulocyte activation	GO_0036230	1	1	1	0	0
 eosinophil chemotaxis	GO_0048245	1	1	1	0	0
-regulation of granulocyte differentiation	GO_0030852	1	0	1	0	0
 regulation of granulocyte colony-stimulating factor production	GO_0071655	1	0	1	0	0
-positive regulation of granulocyte differentiation	GO_0030854	1	0	1	0	0
 positive regulation of granulocyte colony-stimulating factor production	GO_0071657	1	0	1	0	0
-negative regulation of granulocyte differentiation	GO_0030853	1	0	1	0	0
 negative regulation of granulocyte colony-stimulating factor production	GO_0071656	1	0	1	0	0
 granulocyte colony-stimulating factor signaling pathway	GO_0038158	1	0	1	0	0
 granulocyte colony-stimulating factor production	GO_0071611	1	0	1	0	0
 type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
 serotonin secretion by basophil	GO_0002556	0	1	1	0	0
+regulation of neutrophil migration	GO_1902622	0	1	0	0	0
+regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	0	0	0
+regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	0	1	0	0	0
+regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	0	1	0	0	0
+regulation of neutrophil mediated killing of fungus	GO_0070953	0	1	0	0	0
+regulation of neutrophil mediated killing of bacterium	GO_0070950	0	1	0	0	0
+regulation of neutrophil mediated cytotoxicity	GO_0070948	0	1	0	0	0
+regulation of neutrophil extravasation	GO_2000389	0	1	0	0	0
+regulation of neutrophil differentiation	GO_0045658	0	1	0	0	0
+regulation of neutrophil degranulation	GO_0043313	0	1	0	0	0
+regulation of neutrophil chemotaxis	GO_0090022	0	1	0	0	0
+regulation of neutrophil apoptotic process	GO_0033029	0	1	0	0	0
+regulation of neutrophil aggregation	GO_2000428	0	1	0	0	0
+regulation of neutrophil activation	GO_1902563	0	1	0	0	0
+regulation of granulocyte chemotaxis	GO_0071622	0	1	0	0	0
+regulation of eosinophil migration	GO_2000416	0	1	0	0	0
+regulation of eosinophil extravasation	GO_2000419	0	1	0	0	0
+regulation of eosinophil differentiation	GO_0045643	0	1	0	0	0
+regulation of eosinophil degranulation	GO_0043309	0	1	0	0	0
+regulation of eosinophil chemotaxis	GO_2000422	0	1	0	0	0
+regulation of eosinophil activation	GO_1902566	0	1	0	0	0
+regulation of basophil differentiation	GO_0045640	0	1	0	0	0
+regulation of basophil degranulation	GO_1903581	0	1	0	0	0
+positive regulation of neutrophil migration	GO_1902624	0	1	0	0	0
+positive regulation of neutrophil mediated killing of symbiont cell	GO_0070961	0	1	0	0	0
+positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	0	1	0	0	0
+positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	0	1	0	0	0
+positive regulation of neutrophil mediated killing of fungus	GO_0070965	0	1	0	0	0
+positive regulation of neutrophil mediated killing of bacterium	GO_0070962	0	1	0	0	0
+positive regulation of neutrophil mediated cytotoxicity	GO_0070960	0	1	0	0	0
+positive regulation of neutrophil extravasation	GO_2000391	0	1	0	0	0
+positive regulation of neutrophil differentiation	GO_0045660	0	1	0	0	0
+positive regulation of neutrophil degranulation	GO_0043315	0	1	0	0	0
+positive regulation of neutrophil chemotaxis	GO_0090023	0	1	0	0	0
+positive regulation of neutrophil apoptotic process	GO_0033031	0	1	0	0	0
+positive regulation of neutrophil aggregation	GO_2000430	0	1	0	0	0
+positive regulation of neutrophil activation	GO_1902565	0	1	0	0	0
+positive regulation of macrophage chemotaxis	GO_0010759	0	1	0	0	0
+positive regulation of granulocyte chemotaxis	GO_0071624	0	1	0	0	0
+positive regulation of eosinophil migration	GO_2000418	0	1	0	0	0
+positive regulation of eosinophil extravasation	GO_2000421	0	1	0	0	0
+positive regulation of eosinophil differentiation	GO_0045645	0	1	0	0	0
+positive regulation of eosinophil degranulation	GO_0043311	0	1	0	0	0
+positive regulation of eosinophil chemotaxis	GO_2000424	0	1	0	0	0
+positive regulation of eosinophil activation	GO_1902568	0	1	0	0	0
+positive regulation of basophil differentiation	GO_0045642	0	1	0	0	0
+positive regulation of basophil degranulation	GO_1903583	0	1	0	0	0
 neutrophil migration	GO_1990266	0	1	1	0	0
 neutrophil mediated killing of symbiont cell	GO_0070943	0	1	1	0	0
 neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	1	0	0
@@ -30,6 +77,29 @@ neutrophil apoptotic process	GO_0001781	0	1	1	0	0
 neutrophil aggregation	GO_0070488	0	1	1	0	0
 neutrophil activation involved in immune response	GO_0002283	0	1	1	0	0
 neutrophil activation	GO_0042119	0	1	1	0	0
+negative regulation of neutrophil migration	GO_1902623	0	1	0	0	0
+negative regulation of neutrophil mediated killing of symbiont cell	GO_0070955	0	1	0	0	0
+negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	0	1	0	0	0
+negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	0	1	0	0	0
+negative regulation of neutrophil mediated killing of fungus	GO_0070959	0	1	0	0	0
+negative regulation of neutrophil mediated killing of bacterium	GO_0070956	0	1	0	0	0
+negative regulation of neutrophil mediated cytotoxicity	GO_0070954	0	1	0	0	0
+negative regulation of neutrophil extravasation	GO_2000390	0	1	0	0	0
+negative regulation of neutrophil differentiation	GO_0045659	0	1	0	0	0
+negative regulation of neutrophil degranulation	GO_0043314	0	1	0	0	0
+negative regulation of neutrophil chemotaxis	GO_0090024	0	1	0	0	0
+negative regulation of neutrophil apoptotic process	GO_0033030	0	1	0	0	0
+negative regulation of neutrophil aggregation	GO_2000429	0	1	0	0	0
+negative regulation of neutrophil activation	GO_1902564	0	1	0	0	0
+negative regulation of granulocyte chemotaxis	GO_0071623	0	1	0	0	0
+negative regulation of eosinophil migration	GO_2000417	0	1	0	0	0
+negative regulation of eosinophil extravasation	GO_2000420	0	1	0	0	0
+negative regulation of eosinophil differentiation	GO_0045644	0	1	0	0	0
+negative regulation of eosinophil degranulation	GO_0043310	0	1	0	0	0
+negative regulation of eosinophil chemotaxis	GO_2000423	0	1	0	0	0
+negative regulation of eosinophil activation	GO_1902567	0	1	0	0	0
+negative regulation of basophil differentiation	GO_0045641	0	1	0	0	0
+negative regulation of basophil degranulation	GO_1903582	0	1	0	0	0
 histamine secretion by basophil	GO_0002557	0	1	1	0	0
 granulocyte migration	GO_0097530	0	1	1	0	0
 eosinophil migration	GO_0072677	0	1	1	0	0

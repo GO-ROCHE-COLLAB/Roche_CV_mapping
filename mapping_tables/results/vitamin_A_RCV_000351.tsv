@@ -3,5 +3,6 @@ vitamin A transport	GO_0071938	1	1	1	0	0
 vitamin A metabolic process	GO_0006776	1	1	1	0	0
 vitamin A import	GO_0071939	1	1	1	0	0
 vitamin A biosynthetic process	GO_0035238	1	1	1	0	0
-response to vitamin A	GO_0033189	0	1	1	0	0
-cellular response to vitamin A	GO_0071299	0	1	1	0	0
+response to vitamin A	GO_0033189	0	1	0	0	0
+regulation of vitamin A metabolic process	GO_1901738	0	1	0	0	0
+cellular response to vitamin A	GO_0071299	0	1	0	0	0

@@ -17,6 +17,15 @@ oocyte construction	GO_0007308	1	1	1	0	0
 oocyte axis specification	GO_0007309	1	1	1	0	0
 oocyte anterior/posterior axis specification	GO_0007314	1	1	1	0	0
 oocyte animal/vegetal axis specification	GO_0060832	1	1	1	0	0
+regulation of pole plasm oskar mRNA localization	GO_0007317	0	1	0	0	0
+regulation of oocyte maturation	GO_1900193	0	1	0	0	0
+regulation of oocyte development	GO_0060281	0	1	0	0	0
+regulation of meiotic cell cycle process involved in oocyte maturation	GO_1903538	0	1	0	0	0
+regulation of bicoid mRNA localization	GO_0008359	0	1	0	0	0
+positive regulation of pole plasm oskar mRNA localization	GO_0045856	0	1	0	0	0
+positive regulation of oocyte maturation	GO_1900195	0	1	0	0	0
+positive regulation of oocyte development	GO_0060282	0	1	0	0	0
+positive regulation of bicoid mRNA localization	GO_0045854	0	1	0	0	0
 pole plasm protein localization	GO_0007318	0	1	1	0	0
 pole plasm oskar mRNA localization	GO_0045451	0	1	1	0	0
 pole plasm mitochondrial srRNA localization	GO_0019097	0	1	1	0	0
@@ -25,6 +34,10 @@ pole plasm mitochondrial lrRNA localization	GO_0019096	0	1	1	0	0
 pole plasm mRNA localization	GO_0019094	0	1	1	0	0
 pole plasm assembly	GO_0007315	0	1	1	0	0
 pole plasm RNA localization	GO_0007316	0	1	1	0	0
+negative regulation of pole plasm oskar mRNA localization	GO_0045855	0	1	0	0	0
+negative regulation of oocyte maturation	GO_1900194	0	1	0	0	0
+negative regulation of oocyte development	GO_0060283	0	1	0	0	0
+negative regulation of bicoid mRNA localization	GO_0045853	0	1	0	0	0
 maternal specification of dorsal/ventral axis, oocyte, soma encoded	GO_0007313	0	1	1	0	0
 maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	GO_0007311	0	1	1	0	0
 maintenance of pole plasm mRNA location	GO_0046594	0	1	1	0	0

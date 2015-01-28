@@ -33,7 +33,7 @@
 * Key class: [leukocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000738)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a leukocyte participates or that occur in leukocyte or which results in the developmental progression of a structure that will form leukocyte
-* map summary: Roche_cvt: RCV_000220; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000738; manual_list_count 18, generated_list_count 412
+* map summary: Roche_cvt: RCV_000220; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000738; manual_list_count 18, generated_list_count 1044
 * [Results](leukocyte_activation_RCV_000220.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/271)
 * Status: open
@@ -115,8 +115,8 @@
 #### glucagon RCV_000172
 * Key class: [glucagon](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:5391)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some glucagon participates.
-* map summary: Roche_cvt: RCV_000172; class_expression RO_0000057 some CHEBI_5391; manual_list_count 10, generated_list_count 4
+* Definition: A process in which some glucagon participates, or that regulates a process in which glucagon participates.
+* map summary: Roche_cvt: RCV_000172; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_5391; manual_list_count 10, generated_list_count 7
 * [Results](glucagon_RCV_000172.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/264)
 * Status: closed - mapping completed
@@ -165,7 +165,7 @@
 * Key class: [astrocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000127)
 * Pattern: [CL_super_query](../../patterns/CL_super_query.md)
 * Definition: Some part of a astrocyte, or some process in which: a astrocyte participates; or that occur in a astrocyte or which results in the developmental progression of a structure that will form a astrocyte
-* map summary: Roche_cvt: RCV_000074; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000127; manual_list_count 6, generated_list_count 18
+* map summary: Roche_cvt: RCV_000074; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000127; manual_list_count 6, generated_list_count 21
 * [Results](astrocyte_RCV_000074.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -174,7 +174,7 @@
 * Key class: [chromosome, telomeric region](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0000781)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A chromosome, telomeric region or a process that results in organisation of a chromosome, telomeric region or that has a chromosome, telomeric region as a participant.
-* map summary: Roche_cvt: RCV_000324; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0000781; manual_list_count 20, generated_list_count 31
+* map summary: Roche_cvt: RCV_000324; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0000781; manual_list_count 20, generated_list_count 44
 * [Results](telomere_RCV_000324.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/255)
 * Status: closed - mapping completed
@@ -191,7 +191,7 @@
 * Key class: [monocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000576)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a monocyte participates or that occur in monocyte or which results in the developmental progression of a structure that will form monocyte
-* map summary: Roche_cvt: RCV_000238; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000576; manual_list_count 23, generated_list_count 9
+* map summary: Roche_cvt: RCV_000238; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000576; manual_list_count 23, generated_list_count 24
 * [Results](monocyte_RCV_000238.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/174)
 * Status: closed - mapping completed
@@ -227,7 +227,7 @@
 * Key class: [type B pancreatic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000169)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a type B pancreatic cell participates or that occur in type B pancreatic cell or which results in the developmental progression of a structure that will form type B pancreatic cell
-* map summary: Roche_cvt: RCV_000083; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000169; manual_list_count 6, generated_list_count 5
+* map summary: Roche_cvt: RCV_000083; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000169; manual_list_count 6, generated_list_count 11
 * [Results](beta_cells_RCV_000083.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/322)
 * Status: closed - mapping completed
@@ -485,7 +485,7 @@
 * Key class: [platelet](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000233)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a platelet participates or that occur in platelet or which results in the developmental progression of a structure that will form platelet
-* map summary: Roche_cvt: RCV_000281; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000233; manual_list_count 12, generated_list_count 8
+* map summary: Roche_cvt: RCV_000281; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000233; manual_list_count 12, generated_list_count 17
 * [Results](platelet_RCV_000281.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/141)
 * Status: closed - mapping completed
@@ -494,7 +494,7 @@
 * Key class: [keratinocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000312)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a keratinocyte participates or that occur in keratinocyte or which results in the developmental progression of a structure that will form keratinocyte
-* map summary: Roche_cvt: RCV_000213; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000312; manual_list_count 9, generated_list_count 8
+* map summary: Roche_cvt: RCV_000213; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000312; manual_list_count 9, generated_list_count 20
 * [Results](keratinocyte_RCV_000213.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/142)
 * Status: closed - mapping completed
@@ -575,8 +575,8 @@
 #### vitamin D RCV_000353
 * Key class: [vitamin D](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:27300)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some vitamin D participates.
-* map summary: Roche_cvt: RCV_000353; class_expression RO_0000057 some CHEBI_27300; manual_list_count 8, generated_list_count 17
+* Definition: A process in which some vitamin D participates, or that regulates a process in which vitamin D participates.
+* map summary: Roche_cvt: RCV_000353; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_27300; manual_list_count 8, generated_list_count 26
 * [Results](vitamin_D_RCV_000353.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/117)
 * Status: closed - mapping completed
@@ -634,7 +634,7 @@
 * Key class: [hepatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000632)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a hepatic stellate cell participates or that occur in hepatic stellate cell or which results in the developmental progression of a structure that will form hepatic stellate cell
-* map summary: Roche_cvt: RCV_000188; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000632; manual_list_count 4, generated_list_count 2
+* map summary: Roche_cvt: RCV_000188; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000632; manual_list_count 4, generated_list_count 5
 * [Results](hepatic_stellate_cell_RCV_000188.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/212)
 * Status: closed - mapping completed
@@ -696,7 +696,7 @@
 * Key class: [B cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000236)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a B cell participates or that occur in B cell or which results in the developmental progression of a structure that will form B cell
-* map summary: Roche_cvt: RCV_000001; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000236; manual_list_count 124, generated_list_count 77
+* map summary: Roche_cvt: RCV_000001; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000236; manual_list_count 124, generated_list_count 184
 * Notes: Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.
 * [Results](B_cells_RCV_000001.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/44)
@@ -705,8 +705,8 @@
 #### thyroid RCV_000329
 * Key class: [substance with thyroid hormone biological role](http://www.ebi.ac.uk/ontology-lookup/?termId=GOCHE:60311)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some substance with thyroid hormone biological role participates.
-* map summary: Roche_cvt: RCV_000329; class_expression RO_0000057 some GOCHE_60311; manual_list_count 9, generated_list_count 11
+* Definition: A process in which some substance with thyroid hormone biological role participates, or that regulates a process in which substance with thyroid hormone biological role participates.
+* map summary: Roche_cvt: RCV_000329; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some GOCHE_60311; manual_list_count 9, generated_list_count 14
 * [Results](thyroid_RCV_000329.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/351)
 * Status: open
@@ -761,8 +761,8 @@
 #### insulin RCV_000201
 * Key class: [Insulin](http://www.ebi.ac.uk/ontology-lookup/?termId=PR:000009054)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some Insulin participates.
-* map summary: Roche_cvt: RCV_000201; class_expression RO_0000057 some PR_000009054; manual_list_count 18, generated_list_count 9
+* Definition: A process in which some Insulin participates, or that regulates a process in which Insulin participates.
+* map summary: Roche_cvt: RCV_000201; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some PR_000009054; manual_list_count 18, generated_list_count 29
 * [Results](insulin_RCV_000201.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -806,8 +806,8 @@
 #### cannabinoid RCV_000095
 * Key class: [cannabinoid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:67194)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some cannabinoid participates.
-* map summary: Roche_cvt: RCV_000095; class_expression RO_0000057 some CHEBI_67194; manual_list_count 2, generated_list_count 4
+* Definition: A process in which some cannabinoid participates, or that regulates a process in which cannabinoid participates.
+* map summary: Roche_cvt: RCV_000095; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_67194; manual_list_count 2, generated_list_count 5
 * [Results](cannabinoid_RCV_000095.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/171)
 * Status: closed - mapping completed
@@ -816,7 +816,7 @@
 * Key class: [myoblast](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000056)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a myoblast participates or that occur in myoblast or which results in the developmental progression of a structure that will form myoblast
-* map summary: Roche_cvt: RCV_000240; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000056; manual_list_count 30, generated_list_count 21
+* map summary: Roche_cvt: RCV_000240; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000056; manual_list_count 30, generated_list_count 33
 * [Results](myoblast_RCV_000240.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/215)
 * Status: closed - mapping completed
@@ -861,7 +861,7 @@
 * Key class: [vescicle](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0031982)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A vescicle or a process that results in organisation of a vescicle or that has a vescicle as a participant.
-* map summary: Roche_cvt: RCV_000347; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031982; manual_list_count 26, generated_list_count 423
+* map summary: Roche_cvt: RCV_000347; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031982; manual_list_count 26, generated_list_count 622
 * [Results](vescicle_dynamics_RCV_000347.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -883,7 +883,7 @@
 * Key class: [plasma membrane](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005886)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a plasma membrane or that has a plasma membrane as a participant.
-* map summary: Roche_cvt: RCV_000280; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005886; manual_list_count 16, generated_list_count 85
+* map summary: Roche_cvt: RCV_000280; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005886; manual_list_count 16, generated_list_count 116
 * Notes: Needs GO update.
 * [Results](plasma_membrane_dynamics_RCV_000280.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -923,8 +923,8 @@
 #### somatostatin RCV_000308
 * Key class: [somatostatin](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:64628)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some somatostatin participates.
-* map summary: Roche_cvt: RCV_000308; class_expression RO_0000057 some CHEBI_64628; manual_list_count 6, generated_list_count 3
+* Definition: A process in which some somatostatin participates, or that regulates a process in which somatostatin participates.
+* map summary: Roche_cvt: RCV_000308; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_64628; manual_list_count 6, generated_list_count 6
 * [Results](somatostatin_RCV_000308.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/349)
 * Status: closed - mapping completed
@@ -933,7 +933,7 @@
 * Key class: [fibroblast](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000057)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a fibroblast participates or that occur in fibroblast or which results in the developmental progression of a structure that will form fibroblast
-* map summary: Roche_cvt: RCV_000166; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000057; manual_list_count 36, generated_list_count 20
+* map summary: Roche_cvt: RCV_000166; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000057; manual_list_count 36, generated_list_count 35
 * [Results](fibroblast_RCV_000166.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/282)
 * Status: closed - mapping completed
@@ -942,7 +942,7 @@
 * Key class: [mast cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000097)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a mast cell participates or that occur in mast cell or which results in the developmental progression of a structure that will form mast cell
-* map summary: Roche_cvt: RCV_000230; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000097; manual_list_count 43, generated_list_count 21
+* map summary: Roche_cvt: RCV_000230; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000097; manual_list_count 43, generated_list_count 51
 * [Results](mast_cell_RCV_000230.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/176)
 * Status: closed - mapping completed
@@ -960,7 +960,7 @@
 * Key class: [cytoskeletal part](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0044430)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A cytoskeletal part or a process that results in organisation of a cytoskeletal part or that has a cytoskeletal part as a participant.
-* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 460
+* map summary: Roche_cvt: RCV_000139; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0044430; manual_list_count 180, generated_list_count 610
 * [Results](cytoskeleton_RCV_000139.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/234)
 * Status: open
@@ -969,7 +969,7 @@
 * Key class: [stem cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000034)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a stem cell participates or that occur in stem cell or which results in the developmental progression of a structure that will form stem cell
-* map summary: Roche_cvt: RCV_000313; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000034; manual_list_count 20, generated_list_count 127
+* map summary: Roche_cvt: RCV_000313; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000034; manual_list_count 20, generated_list_count 211
 * [Results](stem_cell_RCV_000313.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/146)
 * Status: closed - mapping completed
@@ -986,8 +986,8 @@
 #### snRNA RCV_000306
 * Key class: [snRNA](http://www.ebi.ac.uk/ontology-lookup/?termId=SO:0000274)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some snRNA participates.
-* map summary: Roche_cvt: RCV_000306; class_expression RO_0000057 some SO_0000274; manual_list_count 19, generated_list_count 41
+* Definition: A process in which some snRNA participates, or that regulates a process in which snRNA participates.
+* map summary: Roche_cvt: RCV_000306; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some SO_0000274; manual_list_count 19, generated_list_count 41
 * Notes: Issue for GO: need to standardise on SO or ChEBI for these.  Have switched all to ChEBI for now.
 * [Results](snRNA_RCV_000306.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -996,8 +996,8 @@
 #### vitamin A RCV_000351
 * Key class: [vitamin A](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:12777)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some vitamin A participates.
-* map summary: Roche_cvt: RCV_000351; class_expression RO_0000057 some CHEBI_12777; manual_list_count 4, generated_list_count 6
+* Definition: A process in which some vitamin A participates, or that regulates a process in which vitamin A participates.
+* map summary: Roche_cvt: RCV_000351; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_12777; manual_list_count 4, generated_list_count 7
 * [Results](vitamin_A_RCV_000351.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/206)
 * Status: closed - mapping completed
@@ -1005,8 +1005,8 @@
 #### snoRNA RCV_000307
 * Key class: [snoRNA](http://www.ebi.ac.uk/ontology-lookup/?termId=SO:0000275)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some snoRNA participates.
-* map summary: Roche_cvt: RCV_000307; class_expression RO_0000057 some SO_0000275; manual_list_count 3, generated_list_count 32
+* Definition: A process in which some snoRNA participates, or that regulates a process in which snoRNA participates.
+* map summary: Roche_cvt: RCV_000307; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some SO_0000275; manual_list_count 3, generated_list_count 38
 * [Results](snoRNA_RCV_000307.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1014,8 +1014,8 @@
 #### dopamine RCV_000145
 * Key class: [dopamine](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:18243)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some dopamine participates.
-* map summary: Roche_cvt: RCV_000145; class_expression RO_0000057 some CHEBI_18243; manual_list_count 29, generated_list_count 18
+* Definition: A process in which some dopamine participates, or that regulates a process in which dopamine participates.
+* map summary: Roche_cvt: RCV_000145; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_18243; manual_list_count 29, generated_list_count 34
 * [Results](dopamine_RCV_000145.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/327)
 * Status: closed - mapping completed
@@ -1060,8 +1060,8 @@
 #### vitamin C RCV_000352
 * Key class: [L-ascorbic acid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:29073)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some L-ascorbic acid participates.
-* map summary: Roche_cvt: RCV_000352; class_expression RO_0000057 some CHEBI_29073; manual_list_count 1, generated_list_count 14
+* Definition: A process in which some L-ascorbic acid participates, or that regulates a process in which L-ascorbic acid participates.
+* map summary: Roche_cvt: RCV_000352; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_29073; manual_list_count 1, generated_list_count 16
 * [Results](vitamin_C_RCV_000352.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/116)
 * Status: closed - mapping completed
@@ -1088,7 +1088,7 @@
 * Key class: [vacuole](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005773)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A vacuole or a process that results in organisation of a vacuole or that has a vacuole as a participant.
-* map summary: Roche_cvt: RCV_000343; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005773; manual_list_count 29, generated_list_count 158
+* map summary: Roche_cvt: RCV_000343; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005773; manual_list_count 29, generated_list_count 182
 * [Results](vacuole_RCV_000343.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1115,7 +1115,7 @@
 * Key class: [oocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000023)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a oocyte participates or that occur in oocyte or which results in the developmental progression of a structure that will form oocyte
-* map summary: Roche_cvt: RCV_000256; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000023; manual_list_count 18, generated_list_count 37
+* map summary: Roche_cvt: RCV_000256; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000023; manual_list_count 18, generated_list_count 50
 * [Results](oocyte_RCV_000256.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/144)
 * Status: closed - mapping completed
@@ -1123,8 +1123,8 @@
 #### iron metabolism RCV_000212
 * Key class: [iron cation](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:24875)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some iron cation participates.
-* map summary: Roche_cvt: RCV_000212; class_expression RO_0000057 some CHEBI_24875; manual_list_count 51, generated_list_count 57
+* Definition: A process in which some iron cation participates, or that regulates a process in which iron cation participates.
+* map summary: Roche_cvt: RCV_000212; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_24875; manual_list_count 51, generated_list_count 66
 * [Results](iron_metabolism_RCV_000212.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/329)
 * Status: closed - mapping completed
@@ -1150,8 +1150,8 @@
 #### nitric oxide metabolism RCV_000249
 * Key class: [nitric oxide](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:16480)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some nitric oxide participates.
-* map summary: Roche_cvt: RCV_000249; class_expression RO_0000057 some CHEBI_16480; manual_list_count 10, generated_list_count 11
+* Definition: A process in which some nitric oxide participates, or that regulates a process in which nitric oxide participates.
+* map summary: Roche_cvt: RCV_000249; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_16480; manual_list_count 10, generated_list_count 19
 * Notes: Manual mapping is broader than metabolism - including signalling.
 * [Results](nitric_oxide_metabolism_RCV_000249.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/104)
@@ -1179,8 +1179,8 @@
 #### auxin RCV_000077
 * Key class: [substance with auxin biological role](http://www.ebi.ac.uk/ontology-lookup/?termId=GOCHE:22676)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some substance with auxin biological role participates.
-* map summary: Roche_cvt: RCV_000077; class_expression RO_0000057 some GOCHE_22676; manual_list_count 11, generated_list_count 33
+* Definition: A process in which some substance with auxin biological role participates, or that regulates a process in which substance with auxin biological role participates.
+* map summary: Roche_cvt: RCV_000077; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some GOCHE_22676; manual_list_count 11, generated_list_count 44
 * [Results](auxin_RCV_000077.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/228)
 * Status: closed - mapping completed
@@ -1216,7 +1216,7 @@
 * Key class: [purine-containing compound metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0072521)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for purine-containing compound metabolic process.
-* map summary: Roche_cvt: RCV_000291; class_expression GO_0072521; manual_list_count 111, generated_list_count 234
+* map summary: Roche_cvt: RCV_000291; class_expression GO_0072521; manual_list_count 111, generated_list_count 232
 * Notes: Manual mapping includes regulation terms - doesn't fit pattern for other metabolism terms.  Could switch pattern to include regulation terms, but should I?
 * [Results](purine_metabolism_RCV_000291.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/96)
@@ -1244,7 +1244,7 @@
 * Key class: [photoreceptor cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000210)
 * Pattern: [CL_super_query](../../patterns/CL_super_query.md)
 * Definition: Some part of a photoreceptor cell, or some process in which: a photoreceptor cell participates; or that occur in a photoreceptor cell or which results in the developmental progression of a structure that will form a photoreceptor cell
-* map summary: Roche_cvt: RCV_000277; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000210; manual_list_count 16, generated_list_count 51
+* map summary: Roche_cvt: RCV_000277; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000210; manual_list_count 16, generated_list_count 75
 * Notes: Misses activity term.
 * [Results](photoreceptor_RCV_000277.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -1254,7 +1254,7 @@
 * Key class: [extracellular matrix](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0031012)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A extracellular matrix or a process that results in organisation of a extracellular matrix or that has a extracellular matrix as a participant.
-* map summary: Roche_cvt: RCV_000118; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031012; manual_list_count 40, generated_list_count 114
+* map summary: Roche_cvt: RCV_000118; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0031012; manual_list_count 40, generated_list_count 127
 * [Results](cell_matrix_RCV_000118.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/361)
 * Status: closed - mapping completed
@@ -1282,7 +1282,7 @@
 * Key class: [ATP metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046034)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for ATP metabolic process.
-* map summary: Roche_cvt: RCV_000152; class_expression GO_0046034; manual_list_count 21, generated_list_count 15
+* map summary: Roche_cvt: RCV_000152; class_expression GO_0046034; manual_list_count 21, generated_list_count 14
 * [Results](energy_metabolism_RCV_000152.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/358)
 * Status: open
@@ -1322,7 +1322,7 @@
 * Key class: [cell wall](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005618)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A cell wall or a process that results in organisation of a cell wall or that has a cell wall as a participant.
-* map summary: Roche_cvt: RCV_000126; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005618; manual_list_count 139, generated_list_count 82
+* map summary: Roche_cvt: RCV_000126; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005618; manual_list_count 139, generated_list_count 107
 * [Results](cell_wall_RCV_000126.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/355)
 * Status: open
@@ -1358,7 +1358,7 @@
 * Key class: [neutrophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000775)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a neutrophil participates or that occur in neutrophil or which results in the developmental progression of a structure that will form neutrophil
-* map summary: Roche_cvt: RCV_000248; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000775; manual_list_count 46, generated_list_count 17
+* map summary: Roche_cvt: RCV_000248; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000775; manual_list_count 46, generated_list_count 59
 * [Results](neutrophil_RCV_000248.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/314)
 * Status: closed - mapping completed
@@ -1385,7 +1385,7 @@
 * Key class: [natural killer cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000623)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a natural killer cell participates or that occur in natural killer cell or which results in the developmental progression of a structure that will form natural killer cell
-* map summary: Roche_cvt: RCV_000026; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000623; manual_list_count 62, generated_list_count 17
+* map summary: Roche_cvt: RCV_000026; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000623; manual_list_count 62, generated_list_count 58
 * [Results](NK_cells_RCV_000026.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/47)
 * Status: closed - mapping completed
@@ -1394,7 +1394,7 @@
 * Key class: [glucose metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0006006)
 * Pattern: [Equivalence](../../patterns/Equivalence.md)
 * Definition: As for glucose metabolic process.
-* map summary: Roche_cvt: RCV_000176; class_expression GO_0006006; manual_list_count 10, generated_list_count 20
+* map summary: Roche_cvt: RCV_000176; class_expression GO_0006006; manual_list_count 10, generated_list_count 17
 * [Results](glucose_metabolism_RCV_000176.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/90)
 * Status: closed - mapping completed
@@ -1403,7 +1403,7 @@
 * Key class: [pancreatic A cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000171)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a pancreatic A cell participates or that occur in pancreatic A cell or which results in the developmental progression of a structure that will form pancreatic A cell
-* map summary: Roche_cvt: RCV_000269; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000171; manual_list_count 3, generated_list_count 3
+* map summary: Roche_cvt: RCV_000269; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000171; manual_list_count 3, generated_list_count 6
 * [Results](pancreatic_A_cell_RCV_000269.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/157)
 * Status: closed - mapping completed
@@ -1531,8 +1531,8 @@
 #### ubiquitin RCV_000337
 * Key class: [ubiquitin](http://www.ebi.ac.uk/ontology-lookup/?termId=PR:000035728)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some ubiquitin participates.
-* map summary: Roche_cvt: RCV_000337; class_expression RO_0000057 some PR_000035728; manual_list_count 15, generated_list_count 57
+* Definition: A process in which some ubiquitin participates, or that regulates a process in which ubiquitin participates.
+* map summary: Roche_cvt: RCV_000337; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some PR_000035728; manual_list_count 15, generated_list_count 143
 * [Results](ubiquitin_RCV_000337.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1550,7 +1550,7 @@
 * Key class: [type B pancreatic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000169)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a type B pancreatic cell participates or that occur in type B pancreatic cell or which results in the developmental progression of a structure that will form type B pancreatic cell
-* map summary: Roche_cvt: RCV_000265; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000169; manual_list_count 1, generated_list_count 5
+* map summary: Roche_cvt: RCV_000265; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000169; manual_list_count 1, generated_list_count 11
 * [Results](pancreas_B_cells_RCV_000265.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/155)
 * Status: closed - mapping completed
@@ -1567,8 +1567,8 @@
 #### terpenoid RCV_000325
 * Key class: [terpenoid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:26873)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some terpenoid participates.
-* map summary: Roche_cvt: RCV_000325; class_expression RO_0000057 some CHEBI_26873; manual_list_count 8, generated_list_count 192
+* Definition: A process in which some terpenoid participates, or that regulates a process in which terpenoid participates.
+* map summary: Roche_cvt: RCV_000325; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_26873; manual_list_count 8, generated_list_count 220
 * [Results](terpenoid_RCV_000325.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/113)
 * Status: open
@@ -1594,8 +1594,8 @@
 #### cAMP metabolism RCV_000092
 * Key class: [3',5'-cyclic AMP](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17489)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some 3',5'-cyclic AMP participates.
-* map summary: Roche_cvt: RCV_000092; class_expression RO_0000057 some CHEBI_17489; manual_list_count 6, generated_list_count 29
+* Definition: A process in which some 3',5'-cyclic AMP participates, or that regulates a process in which 3',5'-cyclic AMP participates.
+* map summary: Roche_cvt: RCV_000092; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_17489; manual_list_count 6, generated_list_count 90
 * Notes: Manual mapping is broader than metabolism.  Of this is intent then name should probably change.
 * [Results](cAMP_metabolism_RCV_000092.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/350)
@@ -1627,8 +1627,8 @@
 #### beta-amyloid RCV_000084
 * Key class: [beta-amyloid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:64645)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some beta-amyloid participates.
-* map summary: Roche_cvt: RCV_000084; class_expression RO_0000057 some CHEBI_64645; manual_list_count 3, generated_list_count 4
+* Definition: A process in which some beta-amyloid participates, or that regulates a process in which beta-amyloid participates.
+* map summary: Roche_cvt: RCV_000084; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_64645; manual_list_count 3, generated_list_count 10
 * [Results](beta-amyloid_RCV_000084.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/270)
 * Status: closed - mapping completed
@@ -1646,7 +1646,7 @@
 * Key class: [eosinophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000771)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a eosinophil participates or that occur in eosinophil or which results in the developmental progression of a structure that will form eosinophil
-* map summary: Roche_cvt: RCV_000154; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000771; manual_list_count 21, generated_list_count 11
+* map summary: Roche_cvt: RCV_000154; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000771; manual_list_count 21, generated_list_count 29
 * [Results](eosinophil_RCV_000154.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/199)
 * Status: closed - mapping completed
@@ -1733,8 +1733,8 @@
 #### TCA metabolism RCV_000039
 * Key class: [citric acid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:30769)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some citric acid participates.
-* map summary: Roche_cvt: RCV_000039; class_expression RO_0000057 some CHEBI_30769; manual_list_count 7, generated_list_count 15
+* Definition: A process in which some citric acid participates, or that regulates a process in which citric acid participates.
+* map summary: Roche_cvt: RCV_000039; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_30769; manual_list_count 7, generated_list_count 15
 * [Results](TCA_metabolism_RCV_000039.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/62)
 * Status: closed - mapping completed
@@ -1959,7 +1959,7 @@
 * Key class: [lymphocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000542)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a lymphocyte participates or that occur in lymphocyte or which results in the developmental progression of a structure that will form lymphocyte
-* map summary: Roche_cvt: RCV_000226; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000542; manual_list_count 13, generated_list_count 261
+* map summary: Roche_cvt: RCV_000226; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000542; manual_list_count 13, generated_list_count 660
 * [Results](lymphocyte_RCV_000226.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/150)
 * Status: closed - mapping completed
@@ -1999,7 +1999,7 @@
 * Key class: [granulocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000094)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a granulocyte participates or that occur in granulocyte or which results in the developmental progression of a structure that will form granulocyte
-* map summary: Roche_cvt: RCV_000183; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000094; manual_list_count 12, generated_list_count 41
+* map summary: Roche_cvt: RCV_000183; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000094; manual_list_count 12, generated_list_count 114
 * [Results](granulocyte_RCV_000183.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/190)
 * Status: closed - mapping completed
@@ -2063,7 +2063,7 @@
 * Key class: [smooth muscle tissue](http://www.ebi.ac.uk/ontology-lookup/?termId=UBERON:0001135)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a smooth muscle tissue participates or that occur in smooth muscle tissue or which results in the developmental progression of a structure that will form smooth muscle tissue
-* map summary: Roche_cvt: RCV_000304; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0001135; manual_list_count 78, generated_list_count 9
+* map summary: Roche_cvt: RCV_000304; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0001135; manual_list_count 78, generated_list_count 15
 * [Results](smooth_muscle_RCV_000304.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2090,7 +2090,7 @@
 * Key class: [endothelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000115)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a endothelial cell participates or that occur in endothelial cell or which results in the developmental progression of a structure that will form endothelial cell
-* map summary: Roche_cvt: RCV_000151; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000115; manual_list_count 98, generated_list_count 43
+* map summary: Roche_cvt: RCV_000151; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000115; manual_list_count 98, generated_list_count 80
 * [Results](endothelial_RCV_000151.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/357)
 * Status: open
@@ -2108,7 +2108,7 @@
 * Key class: [pancreatic stellate cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0002410)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a pancreatic stellate cell participates or that occur in pancreatic stellate cell or which results in the developmental progression of a structure that will form pancreatic stellate cell
-* map summary: Roche_cvt: RCV_000273; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0002410; manual_list_count 4, generated_list_count 1
+* map summary: Roche_cvt: RCV_000273; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0002410; manual_list_count 4, generated_list_count 4
 * [Results](pancreatic_stellate_cell_RCV_000273.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/299)
 * Status: closed - mapping completed
@@ -2126,7 +2126,7 @@
 * Key class: [synapse](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0045202)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A synapse or a process that results in organisation of a synapse or that has a synapse as a participant.
-* map summary: Roche_cvt: RCV_000321; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0045202; manual_list_count 41, generated_list_count 79
+* map summary: Roche_cvt: RCV_000321; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0045202; manual_list_count 41, generated_list_count 233
 * [Results](synapse_RCV_000321.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/258)
 * Status: closed - mapping completed
@@ -2230,8 +2230,8 @@
 #### UDP metabolism RCV_000044
 * Key class: [UDP-sugar](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17297)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some UDP-sugar participates.
-* map summary: Roche_cvt: RCV_000044; class_expression RO_0000057 some CHEBI_17297; manual_list_count 38, generated_list_count 39
+* Definition: A process in which some UDP-sugar participates, or that regulates a process in which UDP-sugar participates.
+* map summary: Roche_cvt: RCV_000044; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_17297; manual_list_count 38, generated_list_count 41
 * [Results](UDP_metabolism_RCV_000044.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/69)
 * Status: closed - mapping completed
@@ -2275,8 +2275,8 @@
 #### neurotransmitter RCV_000246
 * Key class: [substance with neurotransmitter biological role](http://www.ebi.ac.uk/ontology-lookup/?termId=GOCHE:25512)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some substance with neurotransmitter biological role participates.
-* map summary: Roche_cvt: RCV_000246; class_expression RO_0000057 some GOCHE_25512; manual_list_count 59, generated_list_count 86
+* Definition: A process in which some substance with neurotransmitter biological role participates, or that regulates a process in which substance with neurotransmitter biological role participates.
+* map summary: Roche_cvt: RCV_000246; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some GOCHE_25512; manual_list_count 59, generated_list_count 159
 * [Results](neurotransmitter_RCV_000246.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2329,8 +2329,8 @@
 #### glucocorticoid RCV_000173
 * Key class: [glucocorticoid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:24261)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some glucocorticoid participates.
-* map summary: Roche_cvt: RCV_000173; class_expression RO_0000057 some CHEBI_24261; manual_list_count 14, generated_list_count 24
+* Definition: A process in which some glucocorticoid participates, or that regulates a process in which glucocorticoid participates.
+* map summary: Roche_cvt: RCV_000173; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_24261; manual_list_count 14, generated_list_count 48
 * [Results](glucocorticoid_RCV_000173.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/265)
 * Status: closed - mapping completed
@@ -2364,8 +2364,8 @@
 #### xenobiotic RCV_000357
 * Key class: [substance with xenobiotic role](http://www.ebi.ac.uk/ontology-lookup/?termId=GOCHE:35703)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some substance with xenobiotic role participates.
-* map summary: Roche_cvt: RCV_000357; class_expression RO_0000057 some GOCHE_35703; manual_list_count 4, generated_list_count 151
+* Definition: A process in which some substance with xenobiotic role participates, or that regulates a process in which substance with xenobiotic role participates.
+* map summary: Roche_cvt: RCV_000357; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some GOCHE_35703; manual_list_count 4, generated_list_count 154
 * [Results](xenobiotic_RCV_000357.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2374,7 +2374,7 @@
 * Key class: [erythrocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000232)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a erythrocyte participates or that occur in erythrocyte or which results in the developmental progression of a structure that will form erythrocyte
-* map summary: Roche_cvt: RCV_000160; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000232; manual_list_count 7, generated_list_count 14
+* map summary: Roche_cvt: RCV_000160; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000232; manual_list_count 7, generated_list_count 29
 * [Results](erythrocyte_RCV_000160.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/167)
 * Status: closed - mapping completed
@@ -2402,7 +2402,7 @@
 * Key class: [hepatocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000182)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a hepatocyte participates or that occur in hepatocyte or which results in the developmental progression of a structure that will form hepatocyte
-* map summary: Roche_cvt: RCV_000189; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000182; manual_list_count 4, generated_list_count 3
+* map summary: Roche_cvt: RCV_000189; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000182; manual_list_count 4, generated_list_count 6
 * [Results](hepatocyte_RCV_000189.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/211)
 * Status: closed - mapping completed
@@ -2428,8 +2428,8 @@
 #### mRNA dynamics RCV_000228
 * Key class: [messenger RNA](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:33699)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some messenger RNA participates.
-* map summary: Roche_cvt: RCV_000228; class_expression RO_0000057 some CHEBI_33699; manual_list_count 48, generated_list_count 76
+* Definition: A process in which some messenger RNA participates, or that regulates a process in which messenger RNA participates.
+* map summary: Roche_cvt: RCV_000228; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_33699; manual_list_count 48, generated_list_count 125
 * Notes: Missing some subclasses because we also use SO mRNA in some places in GO.  Needs to be fixed by discussion at GO.
 * [Results](mRNA_dynamics_RCV_000228.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/339)
@@ -2474,8 +2474,8 @@
 #### bile acid RCV_000085
 * Key class: [bile acid](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:3098)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some bile acid participates.
-* map summary: Roche_cvt: RCV_000085; class_expression RO_0000057 some CHEBI_3098; manual_list_count 7, generated_list_count 19
+* Definition: A process in which some bile acid participates, or that regulates a process in which bile acid participates.
+* map summary: Roche_cvt: RCV_000085; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_3098; manual_list_count 7, generated_list_count 22
 * [Results](bile_acid_RCV_000085.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/231)
 * Status: closed - mapping completed
@@ -2517,7 +2517,7 @@
 * Key class: [dendritic cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000451)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a dendritic cell participates or that occur in dendritic cell or which results in the developmental progression of a structure that will form dendritic cell
-* map summary: Roche_cvt: RCV_000141; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000451; manual_list_count 57, generated_list_count 27
+* map summary: Roche_cvt: RCV_000141; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000451; manual_list_count 57, generated_list_count 60
 * Notes: Misses regulation terms.  May be possible to tweak pattern to get these in.
 * [Results](dendritic_cell_RCV_000141.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/242)
@@ -2535,8 +2535,8 @@
 #### vitamin K RCV_000354
 * Key class: [vitamin K](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:28384)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some vitamin K participates.
-* map summary: Roche_cvt: RCV_000354; class_expression RO_0000057 some CHEBI_28384; manual_list_count 3, generated_list_count 5
+* Definition: A process in which some vitamin K participates, or that regulates a process in which vitamin K participates.
+* map summary: Roche_cvt: RCV_000354; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_28384; manual_list_count 3, generated_list_count 5
 * [Results](vitamin_K_RCV_000354.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/118)
 * Status: closed - mapping completed
@@ -2559,7 +2559,7 @@
 * Key class: [basophil](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000767)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a basophil participates or that occur in basophil or which results in the developmental progression of a structure that will form basophil
-* map summary: Roche_cvt: RCV_000081; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000767; manual_list_count 10, generated_list_count 9
+* map summary: Roche_cvt: RCV_000081; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000767; manual_list_count 10, generated_list_count 15
 * [Results](basophil_RCV_000081.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/148)
 * Status: closed - mapping completed
@@ -2581,7 +2581,7 @@
 * Key class: [intestine](http://www.ebi.ac.uk/ontology-lookup/?termId=UBERON:0000160)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a intestine participates or that occur in intestine or which results in the developmental progression of a structure that will form intestine
-* map summary: Roche_cvt: RCV_000208; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0000160; manual_list_count 11, generated_list_count 7
+* map summary: Roche_cvt: RCV_000208; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some UBERON_0000160; manual_list_count 11, generated_list_count 11
 * [Results](intestine_RCV_000208.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/359)
 * Status: open
@@ -2628,8 +2628,8 @@
 #### triglyceride RCV_000336
 * Key class: [triglyceride](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:17855)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some triglyceride participates.
-* map summary: Roche_cvt: RCV_000336; class_expression RO_0000057 some CHEBI_17855; manual_list_count 9, generated_list_count 9
+* Definition: A process in which some triglyceride participates, or that regulates a process in which triglyceride participates.
+* map summary: Roche_cvt: RCV_000336; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_17855; manual_list_count 9, generated_list_count 18
 * [Results](triglyceride_RCV_000336.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/43)
 * Status: open
@@ -2638,7 +2638,7 @@
 * Key class: [helper T cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000912)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a helper T cell participates or that occur in helper T cell or which results in the developmental progression of a structure that will form helper T cell
-* map summary: Roche_cvt: RCV_000038; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000912; manual_list_count 21, generated_list_count 24
+* map summary: Roche_cvt: RCV_000038; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000912; manual_list_count 21, generated_list_count 59
 * [Results](T_helper_RCV_000038.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/32)
 * Status: closed - mapping completed
@@ -2656,8 +2656,8 @@
 #### acetylcholine RCV_000047
 * Key class: [acetylcholine](http://www.ebi.ac.uk/ontology-lookup/?termId=CHEBI:15355)
 * Pattern: [has_participant_chemical](../../patterns/has_participant_chemical.md)
-* Definition: A process in which some acetylcholine participates.
-* map summary: Roche_cvt: RCV_000047; class_expression RO_0000057 some CHEBI_15355; manual_list_count 26, generated_list_count 15
+* Definition: A process in which some acetylcholine participates, or that regulates a process in which acetylcholine participates.
+* map summary: Roche_cvt: RCV_000047; class_expression scratch_c6227545_3109_4be3_9d00_8cff12d07c9e some CHEBI_15355; manual_list_count 26, generated_list_count 33
 * [Results](acetylcholine_RCV_000047.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/74)
 * Status: closed - mapping completed
@@ -2747,7 +2747,7 @@
 * Key class: [nucleus](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005634)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a nucleus or that has a nucleus as a participant.
-* map summary: Roche_cvt: RCV_000252; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005634; manual_list_count 94, generated_list_count 226
+* map summary: Roche_cvt: RCV_000252; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005634; manual_list_count 94, generated_list_count 231
 * [Results](nuclear_events_RCV_000252.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -2774,7 +2774,7 @@
 * Key class: [macrophage](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000235)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a macrophage participates or that occur in macrophage or which results in the developmental progression of a structure that will form macrophage
-* map summary: Roche_cvt: RCV_000229; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000235; manual_list_count 67, generated_list_count 15
+* map summary: Roche_cvt: RCV_000229; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000235; manual_list_count 67, generated_list_count 41
 * [Results](macrophage_RCV_000229.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/149)
 * Status: open
@@ -2805,7 +2805,7 @@
 * Key class: [peroxisome](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005777)
 * Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
 * Definition: A peroxisome or a process that results in organisation of a peroxisome or that has a peroxisome as a participant.
-* map summary: Roche_cvt: RCV_000275; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005777; manual_list_count 24, generated_list_count 37
+* map summary: Roche_cvt: RCV_000275; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005777; manual_list_count 24, generated_list_count 40
 * [Results](peroxisome_RCV_000275.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/297)
 * Status: closed - mapping completed
@@ -2849,7 +2849,7 @@
 * Key class: [Golgi apparatus](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005794)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a Golgi apparatus or that has a Golgi apparatus as a participant.
-* map summary: Roche_cvt: RCV_000181; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005794; manual_list_count 83, generated_list_count 55
+* map summary: Roche_cvt: RCV_000181; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005794; manual_list_count 83, generated_list_count 57
 * Notes: New pattern
 * [Results](golgi_dynamics_RCV_000181.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
@@ -2886,7 +2886,7 @@
 * Key class: [epithelial cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000066)
 * Pattern: [CL_anat_super_query](../../patterns/CL_anat_super_query.md)
 * Definition: A process in which a epithelial cell participates or that occur in epithelial cell or which results in the developmental progression of a structure that will form epithelial cell
-* map summary: Roche_cvt: RCV_000158; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000066; manual_list_count 99, generated_list_count 277
+* map summary: Roche_cvt: RCV_000158; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000066; manual_list_count 99, generated_list_count 456
 * [Results](epithelial_cells_RCV_000158.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/200)
 * Status: closed - mapping completed
@@ -2903,7 +2903,7 @@
 * Key class: [mitochondrion](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005739)
 * Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
 * Definition: A process that results in organisation of a mitochondrion or that has a mitochondrion as a participant.
-* map summary: Roche_cvt: RCV_000236; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005739; manual_list_count 183, generated_list_count 179
+* map summary: Roche_cvt: RCV_000236; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005739; manual_list_count 183, generated_list_count 228
 * Notes: pattern TBA
 * [Results](mitochondrial_RCV_000236.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)

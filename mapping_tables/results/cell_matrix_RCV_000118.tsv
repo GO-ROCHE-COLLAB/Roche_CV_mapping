@@ -1,28 +1,28 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of extracellular matrix disassembly	GO_0010715	1	1	1	0	0
+regulation of extracellular matrix constituent secretion	GO_0003330	1	1	1	0	0
+regulation of extracellular matrix assembly	GO_1901201	1	1	1	0	0
+positive regulation of extracellular matrix disassembly	GO_0090091	1	1	1	0	0
+positive regulation of extracellular matrix constituent secretion	GO_0003331	1	1	1	0	0
+positive regulation of extracellular matrix assembly	GO_1901203	1	1	1	0	0
+negative regulation of extracellular matrix disassembly	GO_0010716	1	1	1	0	0
+negative regulation of extracellular matrix constituent secretion	GO_0003332	1	1	1	0	0
+negative regulation of extracellular matrix assembly	GO_1901202	1	1	1	0	0
 extracellular matrix organization involved in endocardium development	GO_0061148	1	1	1	0	0
 extracellular matrix organization	GO_0030198	1	1	1	0	0
 extracellular matrix disassembly	GO_0022617	1	1	1	0	0
 extracellular matrix assembly	GO_0085029	1	1	1	0	0
 sequestering of TGFbeta in extracellular matrix	GO_0035583	1	0	1	0	0
-regulation of extracellular matrix disassembly	GO_0010715	1	0	1	0	0
-regulation of extracellular matrix constituent secretion	GO_0003330	1	0	1	0	0
-regulation of extracellular matrix assembly	GO_1901201	1	0	1	0	0
 regulation of collagen metabolic process	GO_0010712	1	0	1	0	0
 regulation of collagen catabolic process	GO_0010710	1	0	1	0	0
 regulation of collagen biosynthetic process	GO_0032965	1	0	1	0	0
 regulation of collagen binding	GO_0033341	1	0	1	0	0
 regulation of cell-matrix adhesion	GO_0001952	1	0	1	0	0
-positive regulation of extracellular matrix disassembly	GO_0090091	1	0	1	0	0
-positive regulation of extracellular matrix constituent secretion	GO_0003331	1	0	1	0	0
-positive regulation of extracellular matrix assembly	GO_1901203	1	0	1	0	0
 positive regulation of cell-matrix adhesion	GO_0001954	1	0	1	0	0
 phosphopyruvate hydratase complex	GO_0000015	1	0	1	0	0
 obsolete regulation of gene expression involved in extracellular matrix organization	GO_1901311	1	0	1	1	1
 obsolete positive regulation of gene expression involved in extracellular matrix organization	GO_1901313	1	0	1	1	1
 obsolete negative regulation of gene expression involved in extracellular matrix organization	GO_1901312	1	0	1	1	1
-negative regulation of extracellular matrix disassembly	GO_0010716	1	0	1	0	0
-negative regulation of extracellular matrix constituent secretion	GO_0003332	1	0	1	0	0
-negative regulation of extracellular matrix assembly	GO_1901202	1	0	1	0	0
 negative regulation of cell-matrix adhesion	GO_0001953	1	0	1	0	0
 gene expression involved in extracellular matrix organization	GO_1901148	1	0	1	0	0
 extracellular matrix-granule cell signaling involved in regulation of granule cell precursor proliferation	GO_0021939	1	0	1	0	0
@@ -49,12 +49,16 @@ sublamina densa	GO_0061618	0	1	1	0	0
 sheet-forming collagen trimer	GO_0030935	0	1	1	0	0
 sexine	GO_0043673	0	1	1	0	0
 sculpture element	GO_0043675	0	1	1	0	0
+regulation of extracellular matrix organization	GO_1903053	0	1	0	0	0
+regulation of basal lamina disassembly involved in semicircular canal fusion by cell communication	GO_0060883	0	1	0	0	0
 proteinaceous extracellular matrix	GO_0005578	0	1	1	0	0
+positive regulation of extracellular matrix organization	GO_1903055	0	1	0	0	0
 pollen wall	GO_0043667	0	1	1	0	0
 pollen coat	GO_0070505	0	1	1	0	0
 perineuronal net	GO_0072534	0	1	1	0	0
 organomineral extracellular matrix	GO_1990377	0	1	1	0	0
 nexine	GO_0043672	0	1	1	0	0
+negative regulation of extracellular matrix organization	GO_1903054	0	1	0	0	0
 middle lamella	GO_0009519	0	1	1	0	0
 microfibril	GO_0001527	0	1	1	0	0
 metanephric glomerular basement membrane development	GO_0072274	0	1	1	0	0

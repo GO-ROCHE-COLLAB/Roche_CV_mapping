@@ -5,26 +5,87 @@ cAMP transport	GO_0070730	1	1	1	0	0
 cAMP metabolic process	GO_0046058	1	1	1	0	0
 cAMP catabolic process	GO_0006198	1	1	1	0	0
 cAMP biosynthetic process	GO_0006171	1	1	1	0	0
-response to cAMP	GO_0051591	0	1	1	0	0
-detection of cAMP	GO_0031319	0	1	1	0	0
-chemotaxis to cAMP	GO_0043327	0	1	1	0	0
-cellular response to cAMP	GO_0071320	0	1	1	0	0
-cAMP receptor activity	GO_0001646	0	1	1	0	0
-cAMP binding	GO_0030552	0	1	1	0	0
-adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_0086024	0	1	1	0	0
-adrenergic receptor signaling pathway involved in cardiac muscle relaxation	GO_0086030	0	1	1	0	0
-adenylate cyclase-modulating G-protein coupled receptor signaling pathway	GO_0007188	0	1	1	0	0
-adenylate cyclase-inhibiting serotonin receptor signaling pathway	GO_0007198	0	1	1	0	0
-adenylate cyclase-inhibiting opioid receptor signaling pathway	GO_0031635	0	1	1	0	0
-adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO_0007195	0	1	1	0	0
-adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	1	0	0
-adenylate cyclase-inhibiting adrenergic receptor signaling pathway	GO_0071881	0	1	1	0	0
-adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	GO_0007193	0	1	1	0	0
-adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway	GO_0007196	0	1	1	0	0
-adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	1	0	0
-adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	GO_0007197	0	1	1	0	0
-adenylate cyclase-activating serotonin receptor signaling pathway	GO_0007192	0	1	1	0	0
-adenylate cyclase-activating glucose-activated G-protein coupled receptor signaling pathway	GO_0010619	0	1	1	0	0
-adenylate cyclase-activating dopamine receptor signaling pathway	GO_0007191	0	1	1	0	0
-adenylate cyclase-activating adrenergic receptor signaling pathway	GO_0071880	0	1	1	0	0
-adenylate cyclase-activating G-protein coupled receptor signaling pathway	GO_0007189	0	1	1	0	0
+response to cAMP	GO_0051591	0	1	0	0	0
+regulation of transmembrane receptor-mediated cAMP signaling in response to host	GO_0075211	0	1	0	0	0
+regulation of positive chemotaxis to cAMP by chlorinated alkylphenone	GO_0061119	0	1	0	0	0
+regulation of positive chemotaxis to cAMP by DIF-2	GO_0061121	0	1	0	0	0
+regulation of positive chemotaxis to cAMP by DIF-1	GO_0061120	0	1	0	0	0
+regulation of positive chemotaxis to cAMP	GO_0061118	0	1	0	0	0
+regulation of cAMP-mediated signaling in response to host	GO_0075174	0	1	0	0	0
+regulation of cAMP-mediated signaling by regulation of transcription from RNA polymerase II promoter	GO_1900391	0	1	0	0	0
+regulation of cAMP-mediated signaling	GO_0043949	0	1	0	0	0
+regulation of cAMP metabolic process	GO_0030814	0	1	0	0	0
+regulation of cAMP catabolic process	GO_0030820	0	1	0	0	0
+regulation of cAMP biosynthetic process	GO_0030817	0	1	0	0	0
+regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903245	0	1	0	0	0
+regulation of adenylate cyclase-inhibiting opioid receptor signaling pathway	GO_1900729	0	1	0	0	0
+regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway	GO_0010578	0	1	0	0	0
+regulation of adenylate cyclase activity	GO_0045761	0	1	0	0	0
+positive regulation of transmembrane receptor-mediated cAMP signal transduction in response to host	GO_0075212	0	1	0	0	0
+positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone	GO_0061124	0	1	0	0	0
+positive regulation of positive chemotaxis to cAMP by DIF-1	GO_0061126	0	1	0	0	0
+positive regulation of positive chemotaxis to cAMP	GO_0061122	0	1	0	0	0
+positive regulation of chemotaxis to cAMP by DIF-2	GO_0061128	0	1	0	0	0
+positive regulation of cAMP-mediated signaling in response to host	GO_0075175	0	1	0	0	0
+positive regulation of cAMP-mediated signaling	GO_0043950	0	1	0	0	0
+positive regulation of cAMP metabolic process	GO_0030816	0	1	0	0	0
+positive regulation of cAMP catabolic process	GO_0030822	0	1	0	0	0
+positive regulation of cAMP biosynthetic process	GO_0030819	0	1	0	0	0
+positive regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903247	0	1	0	0	0
+positive regulation of adenylate cyclase-inhibiting opioid receptor signaling pathway	GO_1900731	0	1	0	0	0
+positive regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway	GO_0010579	0	1	0	0	0
+positive regulation of adenylate cyclase activity	GO_0045762	0	1	0	0	0
+positive regulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction	GO_0075116	0	1	0	0	0
+positive regulation by symbiont of host cAMP-mediated signal transduction	GO_0075209	0	1	0	0	0
+positive regulation by symbiont of host adenylate cyclase activity	GO_0075107	0	1	0	0	0
+positive regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075085	0	1	0	0	0
+positive regulation by host of symbiont cAMP-mediated signal transduction	GO_0075206	0	1	0	0	0
+positive regulation by host of symbiont adenylate cyclase activity	GO_0075076	0	1	0	0	0
+negative regulation of transmembrane receptor-mediated cAMP signal transduction in response to host	GO_0075213	0	1	0	0	0
+negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone	GO_0061125	0	1	0	0	0
+negative regulation of positive chemotaxis to cAMP by DIF-2	GO_0061129	0	1	0	0	0
+negative regulation of positive chemotaxis to cAMP by DIF-1	GO_0061127	0	1	0	0	0
+negative regulation of positive chemotaxis to cAMP	GO_0061123	0	1	0	0	0
+negative regulation of cAMP-mediated signaling in response to host	GO_0075176	0	1	0	0	0
+negative regulation of cAMP-mediated signaling	GO_0043951	0	1	0	0	0
+negative regulation of cAMP metabolic process	GO_0030815	0	1	0	0	0
+negative regulation of cAMP catabolic process	GO_0030821	0	1	0	0	0
+negative regulation of cAMP biosynthetic process	GO_0030818	0	1	0	0	0
+negative regulation of adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_1903246	0	1	0	0	0
+negative regulation of adenylate cyclase-inhibiting opioid receptor signaling pathway	GO_1900730	0	1	0	0	0
+negative regulation of adenylate cyclase activity	GO_0007194	0	1	0	0	0
+negative regulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction	GO_0075117	0	1	0	0	0
+negative regulation by symbiont of host cAMP-mediated signal transduction	GO_0075210	0	1	0	0	0
+negative regulation by symbiont of host adenylate cyclase activity	GO_0075108	0	1	0	0	0
+negative regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075086	0	1	0	0	0
+negative regulation by host of symbiont cAMP-mediated signal transduction	GO_0075207	0	1	0	0	0
+negative regulation by host of symbiont adenylate cyclase activity	GO_0075077	0	1	0	0	0
+modulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction	GO_0075115	0	1	0	0	0
+modulation by symbiont of host cAMP-mediated signal transduction	GO_0075208	0	1	0	0	0
+modulation by symbiont of host adenylate cyclase activity	GO_0075106	0	1	0	0	0
+modulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction	GO_0075084	0	1	0	0	0
+modulation by host of symbiont cAMP-mediated signal transduction	GO_0075205	0	1	0	0	0
+modulation by host of symbiont adenylate cyclase activity	GO_0075075	0	1	0	0	0
+detection of cAMP	GO_0031319	0	1	0	0	0
+chemotaxis to cAMP	GO_0043327	0	1	0	0	0
+cellular response to cAMP	GO_0071320	0	1	0	0	0
+cAMP receptor activity	GO_0001646	0	1	0	0	0
+cAMP binding	GO_0030552	0	1	0	0	0
+adrenergic receptor signaling pathway involved in positive regulation of heart rate	GO_0086024	0	1	0	0	0
+adrenergic receptor signaling pathway involved in cardiac muscle relaxation	GO_0086030	0	1	0	0	0
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	GO_0007188	0	1	0	0	0
+adenylate cyclase-inhibiting serotonin receptor signaling pathway	GO_0007198	0	1	0	0	0
+adenylate cyclase-inhibiting opioid receptor signaling pathway	GO_0031635	0	1	0	0	0
+adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO_0007195	0	1	0	0	0
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process	GO_0086096	0	1	0	0	0
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway	GO_0071881	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	GO_0007193	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway	GO_0007196	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate	GO_0086102	0	1	0	0	0
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	GO_0007197	0	1	0	0	0
+adenylate cyclase-activating serotonin receptor signaling pathway	GO_0007192	0	1	0	0	0
+adenylate cyclase-activating glucose-activated G-protein coupled receptor signaling pathway	GO_0010619	0	1	0	0	0
+adenylate cyclase-activating dopamine receptor signaling pathway	GO_0007191	0	1	0	0	0
+adenylate cyclase-activating adrenergic receptor signaling pathway	GO_0071880	0	1	0	0	0
+adenylate cyclase-activating G-protein coupled receptor signaling pathway	GO_0007189	0	1	0	0	0
+activation of adenylate cyclase activity	GO_0007190	0	1	0	0	0

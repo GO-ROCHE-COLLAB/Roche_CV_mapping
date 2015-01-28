@@ -101,7 +101,78 @@ retrograde transport, endosome to plasma membrane	GO_1990126	0	1	1	0	0
 retrograde transport, endosome to Golgi	GO_0042147	0	1	1	0	0
 retrograde synaptic vesicle transport	GO_0048491	0	1	1	0	0
 retrograde dense core granule transport	GO_1990049	0	1	1	0	0
+regulation of viral budding via host ESCRT complex	GO_1903772	0	1	0	0	0
+regulation of vesicle-mediated transport involved in floral organ abscission by small GTPase mediated signal transduction	GO_0060868	0	1	0	0	0
+regulation of vesicle-mediated transport involved in floral organ abscission	GO_0060859	0	1	0	0	0
+regulation of vesicle-mediated transport by regulation of transcription from RNA polymerase II promoter	GO_1900388	0	1	0	0	0
+regulation of vesicle-mediated transport	GO_0060627	0	1	0	0	0
+regulation of vesicle transport along microtubule	GO_1901608	0	1	0	0	0
+regulation of vesicle targeting, to, from or within Golgi	GO_0048209	0	1	0	0	0
+regulation of vesicle fusion	GO_0031338	0	1	0	0	0
+regulation of very-low-density lipoprotein particle clearance	GO_0010915	0	1	0	0	0
+regulation of ubiquitin-dependent endocytosis	GO_2000395	0	1	0	0	0
+regulation of synaptic vesicle uncoating	GO_1903388	0	1	0	0	0
+regulation of synaptic vesicle transport	GO_1902803	0	1	0	0	0
+regulation of synaptic vesicle recycling	GO_1903421	0	1	0	0	0
+regulation of synaptic vesicle priming	GO_0010807	0	1	0	0	0
+regulation of synaptic vesicle lumen acidification	GO_1901546	0	1	0	0	0
+regulation of synaptic vesicle fusion to presynaptic membrane	GO_0031630	0	1	0	0	0
+regulation of synaptic vesicle exocytosis	GO_2000300	0	1	0	0	0
+regulation of synaptic vesicle endocytosis	GO_1900242	0	1	0	0	0
+regulation of synaptic vesicle clustering	GO_2000807	0	1	0	0	0
 regulation of signal transduction by receptor internalization	GO_0038009	0	1	1	0	0
+regulation of retrograde vesicle-mediated transport, Golgi to ER	GO_2000156	0	1	0	0	0
+regulation of retrograde dense core granule transport	GO_1901954	0	1	0	0	0
+regulation of regulated secretory pathway	GO_1903305	0	1	0	0	0
+regulation of receptor-mediated endocytosis	GO_0048259	0	1	0	0	0
+regulation of receptor internalization	GO_0002090	0	1	0	0	0
+regulation of pinocytosis	GO_0048548	0	1	0	0	0
+regulation of phagocytosis, engulfment	GO_0060099	0	1	0	0	0
+regulation of phagocytosis	GO_0050764	0	1	0	0	0
+regulation of opsonization	GO_1903027	0	1	0	0	0
+regulation of neutrophil degranulation	GO_0043313	0	1	0	0	0
+regulation of natural killer cell degranulation	GO_0043321	0	1	0	0	0
+regulation of melanosome transport	GO_1902908	0	1	0	0	0
+regulation of melanosome organization	GO_1903056	0	1	0	0	0
+regulation of mast cell degranulation	GO_0043304	0	1	0	0	0
+regulation of low-density lipoprotein particle clearance	GO_0010988	0	1	0	0	0
+regulation of lipoprotein particle clearance	GO_0010984	0	1	0	0	0
+regulation of leukocyte degranulation	GO_0043300	0	1	0	0	0
+regulation of histamine secretion by mast cell	GO_1903593	0	1	0	0	0
+regulation of high-density lipoprotein particle clearance	GO_0010982	0	1	0	0	0
+regulation of extracellular vesicular exosome assembly	GO_1903551	0	1	0	0	0
+regulation of exosomal secretion	GO_1903541	0	1	0	0	0
+regulation of exocytosis	GO_0017157	0	1	0	0	0
+regulation of exocyst assembly	GO_0001928	0	1	0	0	0
+regulation of eosinophil degranulation	GO_0043309	0	1	0	0	0
+regulation of engulfment of apoptotic cell	GO_1901074	0	1	0	0	0
+regulation of endocytosis by exocyst localization	GO_0051600	0	1	0	0	0
+regulation of endocytosis	GO_0030100	0	1	0	0	0
+regulation of endocytic recycling	GO_2001135	0	1	0	0	0
+regulation of early endosome to recycling endosome transport	GO_1902954	0	1	0	0	0
+regulation of early endosome to late endosome transport	GO_2000641	0	1	0	0	0
+regulation of cytotoxic T cell degranulation	GO_0043317	0	1	0	0	0
+regulation of constitutive secretory pathway	GO_1903433	0	1	0	0	0
+regulation of clathrin-mediated endocytosis	GO_2000369	0	1	0	0	0
+regulation of chylomicron remnant clearance	GO_0090320	0	1	0	0	0
+regulation of caveolin-mediated endocytosis	GO_2001286	0	1	0	0	0
+regulation of cargo loading into COPII-coated vesicle	GO_1901301	0	1	0	0	0
+regulation of calcium ion-dependent exocytosis	GO_0017158	0	1	0	0	0
+regulation of basophil degranulation	GO_1903581	0	1	0	0	0
+regulation of apoptotic cell clearance	GO_2000425	0	1	0	0	0
+regulation of anterograde synaptic vesicle transport	GO_1903742	0	1	0	0	0
+regulation of anterograde dense core granule transport	GO_1901951	0	1	0	0	0
+regulation of acrosome reaction	GO_0060046	0	1	0	0	0
+regulation of acrosomal vesicle exocytosis	GO_2000367	0	1	0	0	0
+regulation of SNARE complex disassembly	GO_0035495	0	1	0	0	0
+regulation of SNARE complex assembly	GO_0035542	0	1	0	0	0
+regulation of Golgi vesicle fusion to target membrane	GO_0048214	0	1	0	0	0
+regulation of Golgi to plasma membrane protein transport	GO_0042996	0	1	0	0	0
+regulation of Golgi to plasma membrane CFTR protein transport	GO_0042999	0	1	0	0	0
+regulation of ER to Golgi vesicle-mediated transport by GTP hydrolysis	GO_0090113	0	1	0	0	0
+regulation of ER to Golgi vesicle-mediated transport	GO_0060628	0	1	0	0	0
+regulation of COPII vesicle uncoating	GO_0090111	0	1	0	0	0
+regulation of COPII vesicle coating	GO_0003400	0	1	0	0	0
 regulated secretory pathway	GO_0045055	0	1	1	0	0
 recycling endosome to Golgi transport	GO_0071955	0	1	1	0	0
 receptor-mediated endocytosis of virus by host cell	GO_0019065	0	1	1	0	0
@@ -123,10 +194,74 @@ protease localization to T cell secretory granule	GO_0033375	0	1	1	0	0
 prominosome	GO_0071914	0	1	1	0	0
 post-lysosomal vacuole	GO_0032195	0	1	1	0	0
 post-Golgi vesicle-mediated transport	GO_0006892	0	1	1	0	0
+positive regulation of viral budding via host ESCRT complex	GO_1903774	0	1	0	0	0
+positive regulation of vesicle transport along microtubule	GO_1901610	0	1	0	0	0
+positive regulation of vesicle fusion	GO_0031340	0	1	0	0	0
+positive regulation of ubiquitin-dependent endocytosis	GO_2000397	0	1	0	0	0
 positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization	GO_1901245	0	1	1	0	0
+positive regulation of synaptic vesicle uncoating	GO_1903390	0	1	0	0	0
+positive regulation of synaptic vesicle transport	GO_1902805	0	1	0	0	0
+positive regulation of synaptic vesicle recycling	GO_1903423	0	1	0	0	0
+positive regulation of synaptic vesicle priming	GO_0010808	0	1	0	0	0
+positive regulation of synaptic vesicle lumen acidification	GO_1901548	0	1	0	0	0
+positive regulation of synaptic vesicle fusion to presynaptic membrane	GO_0031632	0	1	0	0	0
+positive regulation of synaptic vesicle exocytosis	GO_2000302	0	1	0	0	0
+positive regulation of synaptic vesicle endocytosis	GO_1900244	0	1	0	0	0
+positive regulation of synaptic vesicle clustering	GO_2000809	0	1	0	0	0
 positive regulation of signal transduction by receptor internalization	GO_0038010	0	1	1	0	0
+positive regulation of retrograde dense core granule transport	GO_1901956	0	1	0	0	0
+positive regulation of regulated secretory pathway	GO_1903307	0	1	0	0	0
+positive regulation of receptor-mediated endocytosis	GO_0048260	0	1	0	0	0
+positive regulation of receptor internalization	GO_0002092	0	1	0	0	0
+positive regulation of pinocytosis	GO_0048549	0	1	0	0	0
+positive regulation of phagocytosis, engulfment	GO_0060100	0	1	0	0	0
+positive regulation of phagocytosis	GO_0050766	0	1	0	0	0
+positive regulation of opsonization	GO_1903028	0	1	0	0	0
+positive regulation of neutrophil degranulation	GO_0043315	0	1	0	0	0
+positive regulation of natural killer cell degranulation	GO_0043323	0	1	0	0	0
+positive regulation of melanosome transport	GO_1902910	0	1	0	0	0
+positive regulation of melanosome organization	GO_1903058	0	1	0	0	0
+positive regulation of mast cell degranulation in other organism	GO_0035896	0	1	0	0	0
+positive regulation of mast cell degranulation	GO_0043306	0	1	0	0	0
+positive regulation of lipoprotein particle clearance	GO_0010986	0	1	0	0	0
+positive regulation of leukocyte degranulation	GO_0043302	0	1	0	0	0
 positive regulation of insulin receptor signaling pathway by insulin receptor internalization	GO_0038015	0	1	1	0	0
+positive regulation of histamine secretion by mast cell	GO_1903595	0	1	0	0	0
+positive regulation of high-density lipoprotein particle clearance	GO_0010983	0	1	0	0	0
+positive regulation of extracellular vesicular exosome assembly	GO_1903553	0	1	0	0	0
+positive regulation of exosomal secretion	GO_1903543	0	1	0	0	0
+positive regulation of exocytosis	GO_0045921	0	1	0	0	0
+positive regulation of exocyst assembly	GO_0001930	0	1	0	0	0
+positive regulation of eosinophil degranulation	GO_0043311	0	1	0	0	0
+positive regulation of engulfment of apoptotic cell	GO_1901076	0	1	0	0	0
+positive regulation of endocytosis	GO_0045807	0	1	0	0	0
+positive regulation of endocytic recycling	GO_2001137	0	1	0	0	0
+positive regulation of early endosome to recycling endosome transport	GO_1902955	0	1	0	0	0
+positive regulation of early endosome to late endosome transport	GO_2000643	0	1	0	0	0
+positive regulation of cytotoxic T cell degranulation	GO_0043319	0	1	0	0	0
+positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration	GO_0060472	0	1	0	0	0
+positive regulation of constitutive secretory pathway	GO_1903435	0	1	0	0	0
+positive regulation of clathrin-mediated endocytosis	GO_2000370	0	1	0	0	0
+positive regulation of chylomicron remnant clearance	GO_0090321	0	1	0	0	0
+positive regulation of caveolin-mediated endocytosis	GO_2001288	0	1	0	0	0
+positive regulation of calcium ion-dependent exocytosis	GO_0045956	0	1	0	0	0
+positive regulation of basophil degranulation	GO_1903583	0	1	0	0	0
+positive regulation of apoptotic cell clearance	GO_2000427	0	1	0	0	0
+positive regulation of anterograde synaptic vesicle transport	GO_1903744	0	1	0	0	0
+positive regulation of anterograde dense core granule transport	GO_1901953	0	1	0	0	0
+positive regulation of acrosome reaction	GO_2000344	0	1	0	0	0
+positive regulation of acrosomal vesicle exocytosis	GO_2000368	0	1	0	0	0
 positive regulation of Wnt signaling pathway by Wnt receptor internalization	GO_0038013	0	1	1	0	0
+positive regulation of SNARE complex disassembly	GO_0035540	0	1	0	0	0
+positive regulation of SNARE complex assembly	GO_0035543	0	1	0	0	0
+positive regulation of Golgi vesicle fusion to target membrane	GO_0048215	0	1	0	0	0
+positive regulation of Golgi to plasma membrane protein transport	GO_0042998	0	1	0	0	0
+positive regulation of Golgi to plasma membrane CFTR protein transport	GO_0043003	0	1	0	0	0
+positive regulation of ER to Golgi vesicle-mediated transport	GO_1902953	0	1	0	0	0
+positive regulation by symbiont of host receptor-mediated endocytosis	GO_0044078	0	1	0	0	0
+positive regulation by symbiont of host phagocytosis	GO_0052191	0	1	0	0	0
+positive regulation by organism of phagocytosis in other organism involved in symbiotic interaction	GO_0052522	0	1	0	0	0
+positive regulation by host of symbiont phagocytosis	GO_0052521	0	1	0	0	0
 plus-end-directed vesicle transport along microtubule	GO_0072383	0	1	1	0	0
 platelet dense granule organization	GO_0060155	0	1	1	0	0
 platelet dense granule membrane	GO_0031088	0	1	1	0	0
@@ -181,9 +316,65 @@ neutrophil clearance	GO_0097350	0	1	1	0	0
 neurotransmitter secretory pathway	GO_0010554	0	1	1	0	0
 neurotransmitter loading into synaptic vesicle	GO_0098700	0	1	1	0	0
 neurosecretory vesicle	GO_1990008	0	1	1	0	0
+negative regulation of viral budding via host ESCRT complex	GO_1903773	0	1	0	0	0
+negative regulation of vesicle transport along microtubule	GO_1901609	0	1	0	0	0
+negative regulation of vesicle fusion	GO_0031339	0	1	0	0	0
+negative regulation of very-low-density lipoprotein particle clearance	GO_0010916	0	1	0	0	0
+negative regulation of ubiquitin-dependent endocytosis	GO_2000396	0	1	0	0	0
+negative regulation of synaptic vesicle uncoating	GO_1903389	0	1	0	0	0
+negative regulation of synaptic vesicle transport	GO_1902804	0	1	0	0	0
+negative regulation of synaptic vesicle recycling	GO_1903422	0	1	0	0	0
+negative regulation of synaptic vesicle priming	GO_0010809	0	1	0	0	0
+negative regulation of synaptic vesicle lumen acidification	GO_1901547	0	1	0	0	0
+negative regulation of synaptic vesicle fusion to presynaptic membrane	GO_0031631	0	1	0	0	0
+negative regulation of synaptic vesicle exocytosis	GO_2000301	0	1	0	0	0
+negative regulation of synaptic vesicle endocytosis	GO_1900243	0	1	0	0	0
+negative regulation of synaptic vesicle clustering	GO_2000808	0	1	0	0	0
 negative regulation of signal transduction by receptor internalization	GO_0038011	0	1	1	0	0
+negative regulation of retrograde dense core granule transport	GO_1901955	0	1	0	0	0
+negative regulation of regulated secretory pathway	GO_1903306	0	1	0	0	0
+negative regulation of receptor-mediated endocytosis	GO_0048261	0	1	0	0	0
+negative regulation of receptor internalization	GO_0002091	0	1	0	0	0
+negative regulation of pinocytosis	GO_0048550	0	1	0	0	0
+negative regulation of phagocytosis, engulfment	GO_0060101	0	1	0	0	0
+negative regulation of phagocytosis	GO_0050765	0	1	0	0	0
+negative regulation of neutrophil degranulation	GO_0043314	0	1	0	0	0
+negative regulation of natural killer cell degranulation	GO_0043322	0	1	0	0	0
+negative regulation of melanosome transport	GO_1902909	0	1	0	0	0
+negative regulation of melanosome organization	GO_1903057	0	1	0	0	0
+negative regulation of mast cell degranulation	GO_0043305	0	1	0	0	0
+negative regulation of low-density lipoprotein particle clearance	GO_0010989	0	1	0	0	0
+negative regulation of lipoprotein particle clearance	GO_0010985	0	1	0	0	0
+negative regulation of leukocyte degranulation	GO_0043301	0	1	0	0	0
 negative regulation of insulin receptor signaling pathway by insulin receptor internalization	GO_0038014	0	1	1	0	0
+negative regulation of histamine secretion by mast cell	GO_1903594	0	1	0	0	0
+negative regulation of high-density lipoprotein particle clearance	GO_0010987	0	1	0	0	0
+negative regulation of extracellular vesicular exosome assembly	GO_1903552	0	1	0	0	0
+negative regulation of exosomal secretion	GO_1903542	0	1	0	0	0
+negative regulation of exocytosis	GO_0045920	0	1	0	0	0
+negative regulation of exocyst assembly	GO_0001929	0	1	0	0	0
+negative regulation of eosinophil degranulation	GO_0043310	0	1	0	0	0
+negative regulation of engulfment of apoptotic cell	GO_1901075	0	1	0	0	0
+negative regulation of endocytosis	GO_0045806	0	1	0	0	0
+negative regulation of endocytic recycling	GO_2001136	0	1	0	0	0
+negative regulation of early endosome to late endosome transport	GO_2000642	0	1	0	0	0
+negative regulation of cytotoxic T cell degranulation	GO_0043318	0	1	0	0	0
+negative regulation of constitutive secretory pathway	GO_1903434	0	1	0	0	0
+negative regulation of clathrin-mediated endocytosis	GO_1900186	0	1	0	0	0
+negative regulation of caveolin-mediated endocytosis	GO_2001287	0	1	0	0	0
+negative regulation of cargo loading into COPII-coated vesicle	GO_1901303	0	1	0	0	0
+negative regulation of calcium ion-dependent exocytosis	GO_0045955	0	1	0	0	0
+negative regulation of basophil degranulation	GO_1903582	0	1	0	0	0
+negative regulation of apoptotic cell clearance	GO_2000426	0	1	0	0	0
+negative regulation of anterograde synaptic vesicle transport	GO_1903743	0	1	0	0	0
+negative regulation of anterograde dense core granule transport	GO_1901952	0	1	0	0	0
+negative regulation of acrosome reaction	GO_1902225	0	1	0	0	0
 negative regulation of Wnt signaling pathway by Wnt receptor internalization	GO_0038012	0	1	1	0	0
+negative regulation of SNARE complex disassembly	GO_0035541	0	1	0	0	0
+negative regulation of SNARE complex assembly	GO_0035544	0	1	0	0	0
+negative regulation of Golgi vesicle fusion to target membrane	GO_0048216	0	1	0	0	0
+negative regulation of Golgi to plasma membrane protein transport	GO_0042997	0	1	0	0	0
+negative regulation of Golgi to plasma membrane CFTR protein transport	GO_0043002	0	1	0	0	0
 natural killer cell degranulation	GO_0043320	0	1	1	0	0
 multivesicular body, internal vesicle membrane	GO_0097488	0	1	1	0	0
 multivesicular body, internal vesicle lumen	GO_0097489	0	1	1	0	0
@@ -195,6 +386,11 @@ multi-organism membrane budding	GO_1902592	0	1	1	0	0
 multi-organism macropinocytosis	GO_1902539	0	1	1	0	0
 mucocyst	GO_0036000	0	1	1	0	0
 mucin granule	GO_0098594	0	1	1	0	0
+modulation of phagocytosis in other organism involved in symbiotic interaction	GO_0052231	0	1	0	0	0
+modulation of mast cell degranulation in other organism	GO_0035895	0	1	0	0	0
+modulation by symbiont of host receptor-mediated endocytosis	GO_0044077	0	1	0	0	0
+modulation by symbiont of host phagocytosis	GO_0052190	0	1	0	0	0
+modulation by host of symbiont phagocytosis	GO_0052462	0	1	0	0	0
 minus-end-directed vesicle transport along microtubule	GO_0072382	0	1	1	0	0
 micropinocytosis	GO_0044350	0	1	1	0	0
 merozoite dense granule membrane	GO_0030668	0	1	1	0	0
@@ -267,6 +463,8 @@ esterosome	GO_0033117	0	1	1	0	0
 epidermal lamellar body membrane	GO_0097234	0	1	1	0	0
 epidermal lamellar body	GO_0097209	0	1	1	0	0
 eosinophil degranulation	GO_0043308	0	1	1	0	0
+entry of symbiont into host cell by promotion of host phagocytosis	GO_0052066	0	1	0	0	0
+entry of organism into cell of other organism by promotion of phagocytosis in other organism involved in symbiotic interaction	GO_0052370	0	1	0	0	0
 endosome transport via multivesicular body sorting pathway	GO_0032509	0	1	1	0	0
 endosome to plasma membrane transport vesicle	GO_0070381	0	1	1	0	0
 endosome to pigment granule transport	GO_0043485	0	1	1	0	0
@@ -300,6 +498,7 @@ cytoplasmic vesicle membrane	GO_0030659	0	1	1	0	0
 cytoplasmic vesicle	GO_0031410	0	1	1	0	0
 cytoplasmic side of transport vesicle membrane	GO_0098539	0	1	1	0	0
 cytoplasmic side of trans-Golgi network transport vesicle membrane	GO_0098541	0	1	1	0	0
+cytoplasmic sequestering of CFTR protein	GO_0043004	0	1	0	0	0
 cytoplasmic membrane-bounded vesicle lumen	GO_0060205	0	1	1	0	0
 cytoplasmic membrane-bounded vesicle	GO_0016023	0	1	1	0	0
 cyanosome	GO_0043701	0	1	1	0	0

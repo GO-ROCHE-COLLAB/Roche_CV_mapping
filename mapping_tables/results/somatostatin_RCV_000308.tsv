@@ -1,8 +1,8 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 somatostatin signaling pathway	GO_0038170	1	1	1	0	0
 somatostatin secretion	GO_0070253	1	1	1	0	0
+regulation of somatostatin secretion	GO_0090273	1	1	1	0	0
+positive regulation of somatostatin secretion	GO_0090274	1	1	1	0	0
+negative regulation of somatostatin secretion	GO_0090275	1	1	1	0	0
 somatostatin receptor signaling pathway	GO_0038169	1	0	1	0	0
-regulation of somatostatin secretion	GO_0090273	1	0	1	0	0
-positive regulation of somatostatin secretion	GO_0090274	1	0	1	0	0
-negative regulation of somatostatin secretion	GO_0090275	1	0	1	0	0
-somatostatin receptor activity	GO_0004994	0	1	1	0	0
+somatostatin receptor activity	GO_0004994	0	1	0	0	0

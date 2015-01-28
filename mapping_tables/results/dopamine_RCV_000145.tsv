@@ -1,4 +1,16 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of synaptic transmission, dopaminergic	GO_0032225	1	1	1	0	0
+regulation of dopamine uptake involved in synaptic transmission	GO_0051584	1	1	1	0	0
+regulation of dopamine secretion	GO_0014059	1	1	1	0	0
+regulation of dopamine metabolic process	GO_0042053	1	1	1	0	0
+positive regulation of synaptic transmission, dopaminergic	GO_0032226	1	1	1	0	0
+positive regulation of dopamine uptake involved in synaptic transmission	GO_0051586	1	1	1	0	0
+positive regulation of dopamine secretion	GO_0033603	1	1	1	0	0
+positive regulation of dopamine metabolic process	GO_0045964	1	1	1	0	0
+negative regulation of synaptic transmission, dopaminergic	GO_0032227	1	1	1	0	0
+negative regulation of dopamine uptake involved in synaptic transmission	GO_0051585	1	1	1	0	0
+negative regulation of dopamine secretion	GO_0033602	1	1	1	0	0
+negative regulation of dopamine metabolic process	GO_0045963	1	1	1	0	0
 dopamine uptake involved in synaptic transmission	GO_0051583	1	1	1	0	0
 dopamine transport	GO_0015872	1	1	1	0	0
 dopamine secretion	GO_0014046	1	1	1	0	0
@@ -6,36 +18,28 @@ dopamine metabolic process	GO_0042417	1	1	1	0	0
 dopamine catabolic process	GO_0042420	1	1	1	0	0
 dopamine biosynthetic process from tyrosine	GO_0006585	1	1	1	0	0
 dopamine biosynthetic process	GO_0042416	1	1	1	0	0
-regulation of synaptic transmission, dopaminergic	GO_0032225	1	0	1	0	0
-regulation of dopamine uptake involved in synaptic transmission	GO_0051584	1	0	1	0	0
-regulation of dopamine secretion	GO_0014059	1	0	1	0	0
 regulation of dopamine receptor signaling pathway	GO_0060159	1	0	1	0	0
-regulation of dopamine metabolic process	GO_0042053	1	0	1	0	0
-positive regulation of synaptic transmission, dopaminergic	GO_0032226	1	0	1	0	0
-positive regulation of dopamine uptake involved in synaptic transmission	GO_0051586	1	0	1	0	0
-positive regulation of dopamine secretion	GO_0033603	1	0	1	0	0
 positive regulation of dopamine receptor signaling pathway	GO_0060161	1	0	1	0	0
-positive regulation of dopamine metabolic process	GO_0045964	1	0	1	0	0
 phospholipase C-activating dopamine receptor signaling pathway	GO_0060158	1	0	1	0	0
-negative regulation of synaptic transmission, dopaminergic	GO_0032227	1	0	1	0	0
 negative regulation of phospholipase C-activating dopamine receptor signaling pathway	GO_0060162	1	0	1	0	0
-negative regulation of dopamine uptake involved in synaptic transmission	GO_0051585	1	0	1	0	0
-negative regulation of dopamine secretion	GO_0033602	1	0	1	0	0
 negative regulation of dopamine receptor signaling pathway	GO_0060160	1	0	1	0	0
-negative regulation of dopamine metabolic process	GO_0045963	1	0	1	0	0
 dopaminergic neuron differentiation	GO_0071542	1	0	1	0	0
 dopamine receptor signaling pathway	GO_0007212	1	0	1	0	0
 adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO_0007195	1	0	1	0	0
 adenylate cyclase-activating dopamine receptor signaling pathway	GO_0007191	1	0	1	0	0
 activation of dopamine receptor signaling pathway	GO_0023004	1	0	1	1	1
-synaptic transmission, dopaminergic	GO_0001963	0	1	1	0	0
-response to dopamine	GO_1903350	0	1	1	0	0
-dopamine:sodium symporter activity	GO_0005330	0	1	1	0	0
-dopamine uptake	GO_0090494	0	1	1	0	0
-dopamine transmembrane transporter activity	GO_0005329	0	1	1	0	0
-dopamine secretion, neurotransmission	GO_0061527	0	1	1	0	0
-dopamine neurotransmitter receptor activity, coupled via Gs	GO_0001588	0	1	1	0	0
-dopamine neurotransmitter receptor activity, coupled via Gi/Go	GO_0001591	0	1	1	0	0
-dopamine neurotransmitter receptor activity	GO_0004952	0	1	1	0	0
-dopamine binding	GO_0035240	0	1	1	0	0
-cellular response to dopamine	GO_1903351	0	1	1	0	0
+synaptic transmission, dopaminergic	GO_0001963	0	1	0	0	0
+response to dopamine	GO_1903350	0	1	0	0	0
+regulation of dopamine biosynthetic process	GO_1903179	0	1	0	0	0
+positive regulation of dopamine biosynthetic process	GO_1903181	0	1	0	0	0
+negative regulation of dopamine biosynthetic process	GO_1903180	0	1	0	0	0
+inhibition of dopamine uptake involved in synaptic transmission	GO_0051587	0	1	0	0	0
+dopamine:sodium symporter activity	GO_0005330	0	1	0	0	0
+dopamine uptake	GO_0090494	0	1	0	0	0
+dopamine transmembrane transporter activity	GO_0005329	0	1	0	0	0
+dopamine secretion, neurotransmission	GO_0061527	0	1	0	0	0
+dopamine neurotransmitter receptor activity, coupled via Gs	GO_0001588	0	1	0	0	0
+dopamine neurotransmitter receptor activity, coupled via Gi/Go	GO_0001591	0	1	0	0	0
+dopamine neurotransmitter receptor activity	GO_0004952	0	1	0	0	0
+dopamine binding	GO_0035240	0	1	0	0	0
+cellular response to dopamine	GO_1903351	0	1	0	0	0

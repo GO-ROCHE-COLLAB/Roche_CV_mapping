@@ -1,4 +1,16 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of eosinophil migration	GO_2000416	1	1	1	0	0
+regulation of eosinophil extravasation	GO_2000419	1	1	1	0	0
+regulation of eosinophil differentiation	GO_0045643	1	1	1	0	0
+regulation of eosinophil degranulation	GO_0043309	1	1	1	0	0
+positive regulation of eosinophil migration	GO_2000418	1	1	1	0	0
+positive regulation of eosinophil extravasation	GO_2000421	1	1	1	0	0
+positive regulation of eosinophil differentiation	GO_0045645	1	1	1	0	0
+positive regulation of eosinophil degranulation	GO_0043311	1	1	1	0	0
+negative regulation of eosinophil migration	GO_2000417	1	1	1	0	0
+negative regulation of eosinophil extravasation	GO_2000420	1	1	1	0	0
+negative regulation of eosinophil differentiation	GO_0045644	1	1	1	0	0
+negative regulation of eosinophil degranulation	GO_0043310	1	1	1	0	0
 eosinophil migration	GO_0072677	1	1	1	0	0
 eosinophil mediated immunity	GO_0002447	1	1	1	0	0
 eosinophil fate specification	GO_0035857	1	1	1	0	0
@@ -8,17 +20,11 @@ eosinophil extravasation	GO_0072682	1	1	1	0	0
 eosinophil differentiation	GO_0030222	1	1	1	0	0
 eosinophil degranulation	GO_0043308	1	1	1	0	0
 eosinophil activation	GO_0043307	1	1	1	0	0
-regulation of eosinophil migration	GO_2000416	1	0	1	0	0
-regulation of eosinophil extravasation	GO_2000419	1	0	1	0	0
-regulation of eosinophil differentiation	GO_0045643	1	0	1	0	0
-regulation of eosinophil degranulation	GO_0043309	1	0	1	0	0
-positive regulation of eosinophil migration	GO_2000418	1	0	1	0	0
-positive regulation of eosinophil extravasation	GO_2000421	1	0	1	0	0
-positive regulation of eosinophil differentiation	GO_0045645	1	0	1	0	0
-positive regulation of eosinophil degranulation	GO_0043311	1	0	1	0	0
-negative regulation of eosinophil migration	GO_2000417	1	0	1	0	0
-negative regulation of eosinophil extravasation	GO_2000420	1	0	1	0	0
-negative regulation of eosinophil differentiation	GO_0045644	1	0	1	0	0
-negative regulation of eosinophil degranulation	GO_0043310	1	0	1	0	0
+regulation of eosinophil chemotaxis	GO_2000422	0	1	0	0	0
+regulation of eosinophil activation	GO_1902566	0	1	0	0	0
+positive regulation of eosinophil chemotaxis	GO_2000424	0	1	0	0	0
+positive regulation of eosinophil activation	GO_1902568	0	1	0	0	0
+negative regulation of eosinophil chemotaxis	GO_2000423	0	1	0	0	0
+negative regulation of eosinophil activation	GO_1902567	0	1	0	0	0
 eosinophil chemotaxis	GO_0048245	0	1	1	0	0
 eosinophil activation involved in immune response	GO_0002278	0	1	1	0	0

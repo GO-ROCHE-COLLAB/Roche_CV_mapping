@@ -1,4 +1,24 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	1	1	1	0	0
+regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	1	1	1	0	0
+regulation of neutrophil mediated killing of fungus	GO_0070953	1	1	1	0	0
+regulation of neutrophil mediated killing of bacterium	GO_0070950	1	1	1	0	0
+regulation of neutrophil mediated cytotoxicity	GO_0070948	1	1	1	0	0
+regulation of neutrophil extravasation	GO_2000389	1	1	1	0	0
+regulation of neutrophil differentiation	GO_0045658	1	1	1	0	0
+regulation of neutrophil degranulation	GO_0043313	1	1	1	0	0
+regulation of neutrophil apoptotic process	GO_0033029	1	1	1	0	0
+regulation of neutrophil aggregation	GO_2000428	1	1	1	0	0
+positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	1	1	1	0	0
+positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	1	1	1	0	0
+positive regulation of neutrophil mediated killing of fungus	GO_0070965	1	1	1	0	0
+positive regulation of neutrophil mediated killing of bacterium	GO_0070962	1	1	1	0	0
+positive regulation of neutrophil mediated cytotoxicity	GO_0070960	1	1	1	0	0
+positive regulation of neutrophil extravasation	GO_2000391	1	1	1	0	0
+positive regulation of neutrophil differentiation	GO_0045660	1	1	1	0	0
+positive regulation of neutrophil degranulation	GO_0043315	1	1	1	0	0
+positive regulation of neutrophil apoptotic process	GO_0033031	1	1	1	0	0
+positive regulation of neutrophil aggregation	GO_2000430	1	1	1	0	0
 neutrophil mediated killing of symbiont cell	GO_0070943	1	1	1	0	0
 neutrophil mediated killing of gram-positive bacterium	GO_0070946	1	1	1	0	0
 neutrophil mediated killing of gram-negative bacterium	GO_0070945	1	1	1	0	0
@@ -14,36 +34,28 @@ neutrophil chemotaxis	GO_0030593	1	1	1	0	0
 neutrophil apoptotic process	GO_0001781	1	1	1	0	0
 neutrophil aggregation	GO_0070488	1	1	1	0	0
 neutrophil activation	GO_0042119	1	1	1	0	0
-regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	1	0	1	0	0
-regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	1	0	1	0	0
-regulation of neutrophil mediated killing of fungus	GO_0070953	1	0	1	0	0
-regulation of neutrophil mediated killing of bacterium	GO_0070950	1	0	1	0	0
-regulation of neutrophil mediated cytotoxicity	GO_0070948	1	0	1	0	0
-regulation of neutrophil extravasation	GO_2000389	1	0	1	0	0
-regulation of neutrophil differentiation	GO_0045658	1	0	1	0	0
-regulation of neutrophil degranulation	GO_0043313	1	0	1	0	0
-regulation of neutrophil apoptotic process	GO_0033029	1	0	1	0	0
-regulation of neutrophil aggregation	GO_2000428	1	0	1	0	0
-positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	1	0	1	0	0
-positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	1	0	1	0	0
-positive regulation of neutrophil mediated killing of fungus	GO_0070965	1	0	1	0	0
-positive regulation of neutrophil mediated killing of bacterium	GO_0070962	1	0	1	0	0
-positive regulation of neutrophil mediated cytotoxicity	GO_0070960	1	0	1	0	0
-positive regulation of neutrophil extravasation	GO_2000391	1	0	1	0	0
-positive regulation of neutrophil differentiation	GO_0045660	1	0	1	0	0
-positive regulation of neutrophil degranulation	GO_0043315	1	0	1	0	0
-positive regulation of neutrophil apoptotic process	GO_0033031	1	0	1	0	0
-positive regulation of neutrophil aggregation	GO_2000430	1	0	1	0	0
+negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	1	1	1	0	0
+negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	1	1	1	0	0
+negative regulation of neutrophil mediated killing of fungus	GO_0070959	1	1	1	0	0
+negative regulation of neutrophil mediated killing of bacterium	GO_0070956	1	1	1	0	0
+negative regulation of neutrophil mediated cytotoxicity	GO_0070954	1	1	1	0	0
+negative regulation of neutrophil extravasation	GO_2000390	1	1	1	0	0
+negative regulation of neutrophil differentiation	GO_0045659	1	1	1	0	0
+negative regulation of neutrophil degranulation	GO_0043314	1	1	1	0	0
+negative regulation of neutrophil apoptotic process	GO_0033030	1	1	1	0	0
+negative regulation of neutrophil aggregation	GO_2000429	1	1	1	0	0
 neutrophil clearance	GO_0097350	1	0	1	0	0
-negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	1	0	1	0	0
-negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	1	0	1	0	0
-negative regulation of neutrophil mediated killing of fungus	GO_0070959	1	0	1	0	0
-negative regulation of neutrophil mediated killing of bacterium	GO_0070956	1	0	1	0	0
-negative regulation of neutrophil mediated cytotoxicity	GO_0070954	1	0	1	0	0
-negative regulation of neutrophil extravasation	GO_2000390	1	0	1	0	0
-negative regulation of neutrophil differentiation	GO_0045659	1	0	1	0	0
-negative regulation of neutrophil degranulation	GO_0043314	1	0	1	0	0
-negative regulation of neutrophil apoptotic process	GO_0033030	1	0	1	0	0
-negative regulation of neutrophil aggregation	GO_2000429	1	0	1	0	0
+regulation of neutrophil migration	GO_1902622	0	1	0	0	0
+regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	0	0	0
+regulation of neutrophil chemotaxis	GO_0090022	0	1	0	0	0
+regulation of neutrophil activation	GO_1902563	0	1	0	0	0
+positive regulation of neutrophil migration	GO_1902624	0	1	0	0	0
+positive regulation of neutrophil mediated killing of symbiont cell	GO_0070961	0	1	0	0	0
+positive regulation of neutrophil chemotaxis	GO_0090023	0	1	0	0	0
+positive regulation of neutrophil activation	GO_1902565	0	1	0	0	0
 neutrophil migration	GO_1990266	0	1	1	0	0
 neutrophil activation involved in immune response	GO_0002283	0	1	1	0	0
+negative regulation of neutrophil migration	GO_1902623	0	1	0	0	0
+negative regulation of neutrophil mediated killing of symbiont cell	GO_0070955	0	1	0	0	0
+negative regulation of neutrophil chemotaxis	GO_0090024	0	1	0	0	0
+negative regulation of neutrophil activation	GO_1902564	0	1	0	0	0

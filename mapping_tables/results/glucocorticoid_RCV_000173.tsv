@@ -1,39 +1,53 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-regulation of glucocorticoid secretion	GO_2000849	1	0	1	0	0
+regulation of glucocorticoid secretion	GO_2000849	1	1	1	0	0
+regulation of glucocorticoid metabolic process	GO_0031943	1	1	1	0	0
+regulation of glucocorticoid mediated signaling pathway	GO_1900169	1	1	1	0	0
+regulation of glucocorticoid catabolic process	GO_0031949	1	1	1	0	0
+regulation of glucocorticoid biosynthetic process	GO_0031946	1	1	1	0	0
+negative regulation of glucocorticoid secretion	GO_2000850	1	1	1	0	0
+negative regulation of glucocorticoid metabolic process	GO_0031944	1	1	1	0	0
+negative regulation of glucocorticoid mediated signaling pathway	GO_1900170	1	1	1	0	0
+negative regulation of glucocorticoid catabolic process	GO_0031950	1	1	1	0	0
+negative regulation of glucocorticoid biosynthetic process	GO_0031947	1	1	1	0	0
 regulation of glucocorticoid receptor signaling pathway	GO_2000322	1	0	1	0	0
-regulation of glucocorticoid metabolic process	GO_0031943	1	0	1	0	0
-regulation of glucocorticoid mediated signaling pathway	GO_1900169	1	0	1	0	0
-regulation of glucocorticoid catabolic process	GO_0031949	1	0	1	0	0
-regulation of glucocorticoid biosynthetic process	GO_0031946	1	0	1	0	0
-negative regulation of glucocorticoid secretion	GO_2000850	1	0	1	0	0
 negative regulation of glucocorticoid receptor signaling pathway	GO_2000323	1	0	1	0	0
-negative regulation of glucocorticoid metabolic process	GO_0031944	1	0	1	0	0
-negative regulation of glucocorticoid mediated signaling pathway	GO_1900170	1	0	1	0	0
-negative regulation of glucocorticoid catabolic process	GO_0031950	1	0	1	0	0
-negative regulation of glucocorticoid biosynthetic process	GO_0031947	1	0	1	0	0
 glucocorticoid receptor signaling pathway	GO_0042921	1	0	1	0	0
 glucocorticoid mediated signaling pathway	GO_0043402	1	0	1	0	0
-response to glucocorticoid	GO_0051384	0	1	1	0	0
-response to dexamethasone	GO_0071548	0	1	1	0	0
-response to cortisone	GO_0051413	0	1	1	0	0
-response to cortisol	GO_0051414	0	1	1	0	0
-response to corticosterone	GO_0051412	0	1	1	0	0
-glucocorticoid-activated sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0038050	0	1	1	0	0
-glucocorticoid-activated RNA polymerase II transcription factor binding transcription factor activity	GO_0038051	0	1	1	0	0
-glucocorticoid secretion	GO_0035933	0	1	1	0	0
-glucocorticoid receptor activity	GO_0004883	0	1	1	0	0
-glucocorticoid metabolic process	GO_0008211	0	1	1	0	0
-glucocorticoid catabolic process	GO_0006713	0	1	1	0	0
-glucocorticoid biosynthetic process	GO_0006704	0	1	1	0	0
-detection of glucocorticoid hormone stimulus	GO_0051468	0	1	1	0	0
-cortisol secretion	GO_0043400	0	1	1	0	0
-cortisol receptor activity	GO_0031963	0	1	1	0	0
-cortisol metabolic process	GO_0034650	0	1	1	0	0
-cortisol biosynthetic process	GO_0034651	0	1	1	0	0
+response to glucocorticoid	GO_0051384	0	1	0	0	0
+response to dexamethasone	GO_0071548	0	1	0	0	0
+response to cortisone	GO_0051413	0	1	0	0	0
+response to cortisol	GO_0051414	0	1	0	0	0
+response to corticosterone	GO_0051412	0	1	0	0	0
+regulation of cortisol secretion	GO_0051462	0	1	0	0	0
+regulation of cortisol biosynthetic process	GO_2000064	0	1	0	0	0
+regulation of corticosterone secretion	GO_2000852	0	1	0	0	0
+positive regulation of glucocorticoid secretion	GO_2000851	0	1	0	0	0
+positive regulation of glucocorticoid metabolic process	GO_0031945	0	1	0	0	0
+positive regulation of glucocorticoid mediated signaling pathway	GO_1900171	0	1	0	0	0
+positive regulation of glucocorticoid catabolic process	GO_0031951	0	1	0	0	0
+positive regulation of glucocorticoid biosynthetic process	GO_0031948	0	1	0	0	0
+positive regulation of cortisol secretion	GO_0051464	0	1	0	0	0
+positive regulation of cortisol biosynthetic process	GO_2000066	0	1	0	0	0
+positive regulation of corticosterone secretion	GO_2000854	0	1	0	0	0
+negative regulation of cortisol secretion	GO_0051463	0	1	0	0	0
+negative regulation of cortisol biosynthetic process	GO_2000065	0	1	0	0	0
+negative regulation of corticosterone secretion	GO_2000853	0	1	0	0	0
+glucocorticoid-activated sequence-specific DNA binding RNA polymerase II transcription factor activity	GO_0038050	0	1	0	0	0
+glucocorticoid-activated RNA polymerase II transcription factor binding transcription factor activity	GO_0038051	0	1	0	0	0
+glucocorticoid secretion	GO_0035933	0	1	0	0	0
+glucocorticoid receptor activity	GO_0004883	0	1	0	0	0
+glucocorticoid metabolic process	GO_0008211	0	1	0	0	0
+glucocorticoid catabolic process	GO_0006713	0	1	0	0	0
+glucocorticoid biosynthetic process	GO_0006704	0	1	0	0	0
+detection of glucocorticoid hormone stimulus	GO_0051468	0	1	0	0	0
+cortisol secretion	GO_0043400	0	1	0	0	0
+cortisol receptor activity	GO_0031963	0	1	0	0	0
+cortisol metabolic process	GO_0034650	0	1	0	0	0
+cortisol biosynthetic process	GO_0034651	0	1	0	0	0
 cortisol binding	GO_1903794	0	1	0	0	0
-corticosterone secretion	GO_0035934	0	1	1	0	0
-cellular response to glucocorticoid stimulus	GO_0071385	0	1	1	0	0
-cellular response to dexamethasone stimulus	GO_0071549	0	1	1	0	0
-cellular response to cortisone stimulus	GO_0071388	0	1	1	0	0
-cellular response to cortisol stimulus	GO_0071387	0	1	1	0	0
-cellular response to corticosterone stimulus	GO_0071386	0	1	1	0	0
+corticosterone secretion	GO_0035934	0	1	0	0	0
+cellular response to glucocorticoid stimulus	GO_0071385	0	1	0	0	0
+cellular response to dexamethasone stimulus	GO_0071549	0	1	0	0	0
+cellular response to cortisone stimulus	GO_0071388	0	1	0	0	0
+cellular response to cortisol stimulus	GO_0071387	0	1	0	0	0
+cellular response to corticosterone stimulus	GO_0071386	0	1	0	0	0

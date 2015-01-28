@@ -1,4 +1,13 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of myoblast proliferation	GO_2000291	1	1	1	0	0
+regulation of myoblast differentiation	GO_0045661	1	1	1	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	1	1	1	0	0
+positive regulation of myoblast proliferation	GO_2000288	1	1	1	0	0
+positive regulation of myoblast differentiation	GO_0045663	1	1	1	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	1	1	1	0	0
+negative regulation of myoblast proliferation	GO_2000818	1	1	1	0	0
+negative regulation of myoblast differentiation	GO_0045662	1	1	1	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	1	1	1	0	0
 myoblast proliferation involved in skeletal muscle regeneration	GO_0014844	1	1	1	0	0
 myoblast proliferation	GO_0051450	1	1	1	0	0
 myoblast migration involved in skeletal muscle regeneration	GO_0014839	1	1	1	0	0
@@ -19,14 +28,8 @@ myoblast division	GO_0014872	1	1	1	0	0
 myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	1	1	1	0	0
 myoblast differentiation	GO_0045445	1	1	1	0	0
 myoblast development	GO_0048627	1	1	1	0	0
-regulation of myoblast proliferation	GO_2000291	1	0	1	0	0
-regulation of myoblast differentiation	GO_0045661	1	0	1	0	0
-regulation of cardiac muscle cell myoblast differentiation	GO_2000690	1	0	1	0	0
-positive regulation of myoblast proliferation	GO_2000288	1	0	1	0	0
-positive regulation of myoblast differentiation	GO_0045663	1	0	1	0	0
-positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	1	0	1	0	0
-negative regulation of myoblast proliferation	GO_2000818	1	0	1	0	0
-negative regulation of myoblast differentiation	GO_0045662	1	0	1	0	0
-negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	1	0	1	0	0
 myotube cell development involved in skeletal muscle regeneration	GO_0014906	1	0	1	0	0
+regulation of myoblast fusion	GO_1901739	0	1	0	0	0
+positive regulation of myoblast fusion	GO_1901741	0	1	0	0	0
+negative regulation of myoblast fusion	GO_1901740	0	1	0	0	0
 cardiac muscle cell myoblast differentiation	GO_0060379	0	1	1	0	0

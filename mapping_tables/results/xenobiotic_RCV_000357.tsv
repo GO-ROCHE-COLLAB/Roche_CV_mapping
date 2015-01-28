@@ -3,150 +3,153 @@ xenobiotic transport	GO_0042908	1	1	1	0	0
 xenobiotic metabolic process	GO_0006805	1	1	1	0	0
 xenobiotic glucuronidation	GO_0052697	1	1	1	0	0
 xenobiotic catabolic process	GO_0042178	1	1	1	0	0
-xylene catabolic process	GO_0042184	0	1	1	0	0
-xenobiotic-transporting ATPase activity	GO_0008559	0	1	1	0	0
-xenobiotic transporter activity	GO_0042910	0	1	1	0	0
-triethanolamine metabolic process	GO_0018981	0	1	1	0	0
-triethanolamine catabolic process	GO_0046267	0	1	1	0	0
-trichloroethylene metabolic process	GO_0018979	0	1	1	0	0
-trichloroethylene catabolic process	GO_0050696	0	1	1	0	0
-toluene catabolic process	GO_0042203	0	1	1	0	0
-thiocyanate metabolic process	GO_0018969	0	1	1	0	0
-thiocyanate catabolic process	GO_0046265	0	1	1	0	0
-tetrahydrofuran metabolic process	GO_0018968	0	1	1	0	0
-tetrachloroethylene metabolic process	GO_0018967	0	1	1	0	0
-tetrachloroethylene catabolic process	GO_0019337	0	1	1	0	0
-styrene catabolic process	GO_0042207	0	1	1	0	0
-s-triazine compound metabolic process	GO_0018965	0	1	1	0	0
-s-triazine compound catabolic process	GO_0042204	0	1	1	0	0
-response to xenobiotic stimulus	GO_0009410	0	1	1	0	0
-propylene metabolic process	GO_0018964	0	1	1	0	0
-propylene catabolic process	GO_0042208	0	1	1	0	0
-phthalate catabolic process	GO_0046239	0	1	1	0	0
-phenylmercury acetate catabolic process	GO_0019506	0	1	1	0	0
-phenylacetate catabolic process	GO_0010124	0	1	1	0	0
-phenanthrene catabolic process via trans-9(S),10(S)-dihydrodiolphenanthrene	GO_0018957	0	1	1	0	0
-phenanthrene catabolic process via trans-9(R),10(R)-dihydrodiolphenanthrene	GO_0018956	0	1	1	0	0
-phenanthrene catabolic process	GO_0042216	0	1	1	0	0
-pentaerythritol tetranitrate metabolic process	GO_0018954	0	1	1	0	0
-p-xylene catabolic process	GO_0042187	0	1	1	0	0
-p-cresol catabolic process	GO_1901785	0	1	1	0	0
-organosilicon metabolic process	GO_0018945	0	1	1	0	0
-organosilicon catabolic process	GO_0046455	0	1	1	0	0
-octamethylcyclotetrasiloxane metabolic process	GO_0046518	0	1	1	0	0
-octamethylcyclotetrasiloxane catabolic process to dimethylsilanediol	GO_0042210	0	1	1	0	0
-octamethylcyclotetrasiloxane catabolic process	GO_0046517	0	1	1	0	0
-o-xylene catabolic process	GO_0042186	0	1	1	0	0
-nylon metabolic process	GO_0042198	0	1	1	0	0
-nylon catabolic process	GO_0019876	0	1	1	0	0
-nitroglycerin metabolic process	GO_0018937	0	1	1	0	0
-nitrilotriacetate metabolic process	GO_0018934	0	1	1	0	0
-nalidixic acid transporter activity	GO_0015547	0	1	1	0	0
-nalidixic acid transport	GO_0015896	0	1	1	0	0
-n-octane oxidation	GO_0019498	0	1	1	0	0
-n-octane metabolic process	GO_0018939	0	1	1	0	0
-methylnaphthalene catabolic process	GO_0043635	0	1	1	0	0
-methyl tert-butyl ether metabolic process	GO_0018906	0	1	1	0	0
-methyl fluoride metabolic process	GO_0018929	0	1	1	0	0
-methyl ethyl ketone metabolic process	GO_0018928	0	1	1	0	0
-methyl ethyl ketone catabolic process	GO_0046213	0	1	1	0	0
-methanesulfonic acid metabolic process	GO_0018926	0	1	1	0	0
-m-xylene catabolic process	GO_0042185	0	1	1	0	0
-m-cresol catabolic process	GO_0042213	0	1	1	0	0
-insecticide metabolic process	GO_0017143	0	1	1	0	0
-insecticide catabolic process	GO_0046701	0	1	1	0	0
-hexachlorocyclohexane metabolic process	GO_0019497	0	1	1	0	0
-halogenated hydrocarbon metabolic process	GO_0042197	0	1	1	0	0
-halogenated hydrocarbon catabolic process	GO_0042206	0	1	1	0	0
-gamma-1,2,3,4,5,6-hexachlorocyclohexane metabolic process	GO_0018919	0	1	1	0	0
-fluorene catabolic process	GO_0019429	0	1	1	0	0
-dodecyl sulfate metabolic process	GO_0018909	0	1	1	0	0
-dimethylsilanediol metabolic process	GO_0046454	0	1	1	0	0
-dimethylsilanediol catabolic process	GO_0042211	0	1	1	0	0
-dimethyl ether metabolic process	GO_0018905	0	1	1	0	0
-dichloromethane metabolic process	GO_0018900	0	1	1	0	0
-dibenzothiophene catabolic process	GO_0018896	0	1	1	0	0
-dibenzofuran catabolic process	GO_0019340	0	1	1	0	0
-dibenzo-p-dioxin catabolic process	GO_0019341	0	1	1	0	0
-cyclohexylsulfamate metabolic process	GO_0018892	0	1	1	0	0
-cyclohexanol oxidation	GO_0019399	0	1	1	0	0
-cyclohexanol metabolic process	GO_0018891	0	1	1	0	0
-cyanuric acid metabolic process	GO_0042199	0	1	1	0	0
-cyanuric acid catabolic process	GO_0042200	0	1	1	0	0
-cyanamide metabolic process	GO_0018890	0	1	1	0	0
-cresol catabolic process	GO_0046199	0	1	1	0	0
-chlorobenzene metabolic process	GO_0018914	0	1	1	0	0
-chlorinated hydrocarbon metabolic process	GO_0042196	0	1	1	0	0
-chlorinated hydrocarbon catabolic process	GO_0042205	0	1	1	0	0
-cellular response to xenobiotic stimulus	GO_0071466	0	1	1	0	0
-carbon tetrachloride metabolic process	GO_0018885	0	1	1	0	0
-carbon tetrachloride catabolic process	GO_0019382	0	1	1	0	0
-carbazole catabolic process	GO_0046232	0	1	1	0	0
-caprolactam metabolic process	GO_0018883	0	1	1	0	0
-caprolactam catabolic process	GO_0019384	0	1	1	0	0
-bromoxynil metabolic process	GO_0018881	0	1	1	0	0
-bisphenol A catabolic process	GO_0043636	0	1	1	0	0
-biphenyl catabolic process	GO_0070980	0	1	1	0	0
-beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process	GO_0018877	0	1	1	0	0
-benzoate transporter activity	GO_0042925	0	1	1	0	0
-benzoate transport	GO_0042919	0	1	1	0	0
-benomyl:proton antiporter activity	GO_0015310	0	1	1	0	0
-benomyl transporter activity	GO_0015242	0	1	1	0	0
-benomyl transport	GO_0015900	0	1	1	0	0
-benomyl transmembrane transporter activity	GO_1901479	0	1	1	0	0
-benomyl transmembrane transport	GO_1901477	0	1	1	0	0
-atrazine metabolic process	GO_0018873	0	1	1	0	0
-atrazine catabolic process to urea	GO_0019623	0	1	1	0	0
-atrazine catabolic process to isopropylamine	GO_0019624	0	1	1	0	0
-atrazine catabolic process to cyanuric acid	GO_0019625	0	1	1	0	0
-atrazine catabolic process	GO_0019381	0	1	1	0	0
-arsonoacetate metabolic process	GO_0018872	0	1	1	0	0
-arsonoacetate catabolic process	GO_0019501	0	1	1	0	0
-anthranilate catabolic process	GO_0043421	0	1	1	0	0
-anaerobic toluene catabolic process	GO_0046254	0	1	1	0	0
-anaerobic organosilicon metabolic process	GO_0018947	0	1	1	0	0
-anaerobic nitrilotriacetate metabolic process	GO_0018936	0	1	1	0	0
-anaerobic cyclohexane-1-carboxylate catabolic process	GO_0010129	0	1	1	0	0
-anaerobic carbon tetrachloride metabolic process	GO_0018886	0	1	1	0	0
-anaerobic acetylene catabolic process	GO_0019487	0	1	1	0	0
-anaerobic 1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process	GO_0018978	0	1	1	0	0
-alkanesulfonate transporter activity	GO_0042959	0	1	1	0	0
-alkanesulfonate transport	GO_0042918	0	1	1	0	0
-aerobic organosilicon metabolic process	GO_0018946	0	1	1	0	0
-aerobic nitrilotriacetate metabolic process	GO_0018935	0	1	1	0	0
-aerobic beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process	GO_0018878	0	1	1	0	0
-adamantanone metabolic process	GO_0018866	0	1	1	0	0
-adamantanone catabolic process	GO_0019263	0	1	1	0	0
-acrylonitrile metabolic process	GO_0018865	0	1	1	0	0
-acrylonitrile catabolic process	GO_0019256	0	1	1	0	0
-acriflavine transporter activity	GO_0015566	0	1	1	0	0
-acriflavine transport	GO_0015894	0	1	1	0	0
-acridine:proton antiporter activity	GO_0042962	0	1	1	0	0
-acridine transporter activity	GO_0042911	0	1	1	0	0
-acridine transport	GO_0042909	0	1	1	0	0
-acetylene metabolic process	GO_0018864	0	1	1	0	0
-N-cyclopropylmelamine metabolic process	GO_0042201	0	1	1	0	0
-N-cyclopropylmelamine catabolic process	GO_0042202	0	1	1	0	0
-6-hydroxycineole catabolic process	GO_0019639	0	1	1	0	0
-4-nitrophenol catabolic process	GO_0046196	0	1	1	0	0
-4-chlorobiphenyl metabolic process	GO_0018880	0	1	1	0	0
-3-phenylpropionate catabolic process	GO_0019380	0	1	1	0	0
-3-methylquinoline catabolic process	GO_0019335	0	1	1	0	0
-3-hydroxyphenylpropionic acid transporter activity	GO_0042926	0	1	1	0	0
-3-hydroxyphenylpropionic acid transport	GO_0042920	0	1	1	0	0
-3-hydroxyphenylacetate catabolic process	GO_0019610	0	1	1	0	0
-2-nitropropane metabolic process	GO_0018938	0	1	1	0	0
-2-nitropropane catabolic process	GO_0046304	0	1	1	0	0
-2-aminobenzenesulfonate catabolic process	GO_0046230	0	1	1	0	0
-1,4-dichlorobenzene metabolic process	GO_0018912	0	1	1	0	0
-1,4-dichlorobenzene catabolic process	GO_0019261	0	1	1	0	0
-1,3-dichloropropene metabolic process	GO_0018903	0	1	1	0	0
-1,3-dichloro-2-propanol metabolic process	GO_0018902	0	1	1	0	0
-1,3-dichloro-2-propanol catabolic process	GO_0046310	0	1	1	0	0
-1,3-dichloro-2-propanol biosynthetic process	GO_0046309	0	1	1	0	0
-1,2-dichloroethane metabolic process	GO_0018899	0	1	1	0	0
-1,2-dichloroethane catabolic process	GO_0019260	0	1	1	0	0
-1,2,4-trichlorobenzene metabolic process	GO_0018911	0	1	1	0	0
-1,2,3-tribromopropane metabolic process	GO_0018976	0	1	1	0	0
-1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process	GO_0018977	0	1	1	0	0
-1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process	GO_0042188	0	1	1	0	0
+xylene catabolic process	GO_0042184	0	1	0	0	0
+xenobiotic-transporting ATPase activity	GO_0008559	0	1	0	0	0
+xenobiotic transporter activity	GO_0042910	0	1	0	0	0
+triethanolamine metabolic process	GO_0018981	0	1	0	0	0
+triethanolamine catabolic process	GO_0046267	0	1	0	0	0
+trichloroethylene metabolic process	GO_0018979	0	1	0	0	0
+trichloroethylene catabolic process	GO_0050696	0	1	0	0	0
+toluene catabolic process	GO_0042203	0	1	0	0	0
+thiocyanate metabolic process	GO_0018969	0	1	0	0	0
+thiocyanate catabolic process	GO_0046265	0	1	0	0	0
+tetrahydrofuran metabolic process	GO_0018968	0	1	0	0	0
+tetrachloroethylene metabolic process	GO_0018967	0	1	0	0	0
+tetrachloroethylene catabolic process	GO_0019337	0	1	0	0	0
+styrene catabolic process	GO_0042207	0	1	0	0	0
+s-triazine compound metabolic process	GO_0018965	0	1	0	0	0
+s-triazine compound catabolic process	GO_0042204	0	1	0	0	0
+response to xenobiotic stimulus	GO_0009410	0	1	0	0	0
+regulation of toluene catabolic process	GO_1901434	0	1	0	0	0
+propylene metabolic process	GO_0018964	0	1	0	0	0
+propylene catabolic process	GO_0042208	0	1	0	0	0
+positive regulation of toluene catabolic process	GO_1901436	0	1	0	0	0
+phthalate catabolic process	GO_0046239	0	1	0	0	0
+phenylmercury acetate catabolic process	GO_0019506	0	1	0	0	0
+phenylacetate catabolic process	GO_0010124	0	1	0	0	0
+phenanthrene catabolic process via trans-9(S),10(S)-dihydrodiolphenanthrene	GO_0018957	0	1	0	0	0
+phenanthrene catabolic process via trans-9(R),10(R)-dihydrodiolphenanthrene	GO_0018956	0	1	0	0	0
+phenanthrene catabolic process	GO_0042216	0	1	0	0	0
+pentaerythritol tetranitrate metabolic process	GO_0018954	0	1	0	0	0
+p-xylene catabolic process	GO_0042187	0	1	0	0	0
+p-cresol catabolic process	GO_1901785	0	1	0	0	0
+organosilicon metabolic process	GO_0018945	0	1	0	0	0
+organosilicon catabolic process	GO_0046455	0	1	0	0	0
+octamethylcyclotetrasiloxane metabolic process	GO_0046518	0	1	0	0	0
+octamethylcyclotetrasiloxane catabolic process to dimethylsilanediol	GO_0042210	0	1	0	0	0
+octamethylcyclotetrasiloxane catabolic process	GO_0046517	0	1	0	0	0
+o-xylene catabolic process	GO_0042186	0	1	0	0	0
+nylon metabolic process	GO_0042198	0	1	0	0	0
+nylon catabolic process	GO_0019876	0	1	0	0	0
+nitroglycerin metabolic process	GO_0018937	0	1	0	0	0
+nitrilotriacetate metabolic process	GO_0018934	0	1	0	0	0
+negative regulation of toluene catabolic process	GO_1901435	0	1	0	0	0
+nalidixic acid transporter activity	GO_0015547	0	1	0	0	0
+nalidixic acid transport	GO_0015896	0	1	0	0	0
+n-octane oxidation	GO_0019498	0	1	0	0	0
+n-octane metabolic process	GO_0018939	0	1	0	0	0
+methylnaphthalene catabolic process	GO_0043635	0	1	0	0	0
+methyl tert-butyl ether metabolic process	GO_0018906	0	1	0	0	0
+methyl fluoride metabolic process	GO_0018929	0	1	0	0	0
+methyl ethyl ketone metabolic process	GO_0018928	0	1	0	0	0
+methyl ethyl ketone catabolic process	GO_0046213	0	1	0	0	0
+methanesulfonic acid metabolic process	GO_0018926	0	1	0	0	0
+m-xylene catabolic process	GO_0042185	0	1	0	0	0
+m-cresol catabolic process	GO_0042213	0	1	0	0	0
+insecticide metabolic process	GO_0017143	0	1	0	0	0
+insecticide catabolic process	GO_0046701	0	1	0	0	0
+hexachlorocyclohexane metabolic process	GO_0019497	0	1	0	0	0
+halogenated hydrocarbon metabolic process	GO_0042197	0	1	0	0	0
+halogenated hydrocarbon catabolic process	GO_0042206	0	1	0	0	0
+gamma-1,2,3,4,5,6-hexachlorocyclohexane metabolic process	GO_0018919	0	1	0	0	0
+fluorene catabolic process	GO_0019429	0	1	0	0	0
+dodecyl sulfate metabolic process	GO_0018909	0	1	0	0	0
+dimethylsilanediol metabolic process	GO_0046454	0	1	0	0	0
+dimethylsilanediol catabolic process	GO_0042211	0	1	0	0	0
+dimethyl ether metabolic process	GO_0018905	0	1	0	0	0
+dichloromethane metabolic process	GO_0018900	0	1	0	0	0
+dibenzothiophene catabolic process	GO_0018896	0	1	0	0	0
+dibenzofuran catabolic process	GO_0019340	0	1	0	0	0
+dibenzo-p-dioxin catabolic process	GO_0019341	0	1	0	0	0
+cyclohexylsulfamate metabolic process	GO_0018892	0	1	0	0	0
+cyclohexanol oxidation	GO_0019399	0	1	0	0	0
+cyclohexanol metabolic process	GO_0018891	0	1	0	0	0
+cyanuric acid metabolic process	GO_0042199	0	1	0	0	0
+cyanuric acid catabolic process	GO_0042200	0	1	0	0	0
+cyanamide metabolic process	GO_0018890	0	1	0	0	0
+cresol catabolic process	GO_0046199	0	1	0	0	0
+chlorobenzene metabolic process	GO_0018914	0	1	0	0	0
+chlorinated hydrocarbon metabolic process	GO_0042196	0	1	0	0	0
+chlorinated hydrocarbon catabolic process	GO_0042205	0	1	0	0	0
+cellular response to xenobiotic stimulus	GO_0071466	0	1	0	0	0
+carbon tetrachloride metabolic process	GO_0018885	0	1	0	0	0
+carbon tetrachloride catabolic process	GO_0019382	0	1	0	0	0
+carbazole catabolic process	GO_0046232	0	1	0	0	0
+caprolactam metabolic process	GO_0018883	0	1	0	0	0
+caprolactam catabolic process	GO_0019384	0	1	0	0	0
+bromoxynil metabolic process	GO_0018881	0	1	0	0	0
+bisphenol A catabolic process	GO_0043636	0	1	0	0	0
+biphenyl catabolic process	GO_0070980	0	1	0	0	0
+beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process	GO_0018877	0	1	0	0	0
+benzoate transporter activity	GO_0042925	0	1	0	0	0
+benzoate transport	GO_0042919	0	1	0	0	0
+benomyl:proton antiporter activity	GO_0015310	0	1	0	0	0
+benomyl transporter activity	GO_0015242	0	1	0	0	0
+benomyl transport	GO_0015900	0	1	0	0	0
+benomyl transmembrane transporter activity	GO_1901479	0	1	0	0	0
+benomyl transmembrane transport	GO_1901477	0	1	0	0	0
+atrazine metabolic process	GO_0018873	0	1	0	0	0
+atrazine catabolic process to urea	GO_0019623	0	1	0	0	0
+atrazine catabolic process to isopropylamine	GO_0019624	0	1	0	0	0
+atrazine catabolic process to cyanuric acid	GO_0019625	0	1	0	0	0
+atrazine catabolic process	GO_0019381	0	1	0	0	0
+arsonoacetate metabolic process	GO_0018872	0	1	0	0	0
+arsonoacetate catabolic process	GO_0019501	0	1	0	0	0
+anthranilate catabolic process	GO_0043421	0	1	0	0	0
+anaerobic toluene catabolic process	GO_0046254	0	1	0	0	0
+anaerobic organosilicon metabolic process	GO_0018947	0	1	0	0	0
+anaerobic nitrilotriacetate metabolic process	GO_0018936	0	1	0	0	0
+anaerobic cyclohexane-1-carboxylate catabolic process	GO_0010129	0	1	0	0	0
+anaerobic carbon tetrachloride metabolic process	GO_0018886	0	1	0	0	0
+anaerobic acetylene catabolic process	GO_0019487	0	1	0	0	0
+anaerobic 1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process	GO_0018978	0	1	0	0	0
+alkanesulfonate transporter activity	GO_0042959	0	1	0	0	0
+alkanesulfonate transport	GO_0042918	0	1	0	0	0
+aerobic organosilicon metabolic process	GO_0018946	0	1	0	0	0
+aerobic nitrilotriacetate metabolic process	GO_0018935	0	1	0	0	0
+aerobic beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process	GO_0018878	0	1	0	0	0
+adamantanone metabolic process	GO_0018866	0	1	0	0	0
+adamantanone catabolic process	GO_0019263	0	1	0	0	0
+acrylonitrile metabolic process	GO_0018865	0	1	0	0	0
+acrylonitrile catabolic process	GO_0019256	0	1	0	0	0
+acriflavine transporter activity	GO_0015566	0	1	0	0	0
+acriflavine transport	GO_0015894	0	1	0	0	0
+acridine:proton antiporter activity	GO_0042962	0	1	0	0	0
+acridine transporter activity	GO_0042911	0	1	0	0	0
+acridine transport	GO_0042909	0	1	0	0	0
+acetylene metabolic process	GO_0018864	0	1	0	0	0
+N-cyclopropylmelamine metabolic process	GO_0042201	0	1	0	0	0
+N-cyclopropylmelamine catabolic process	GO_0042202	0	1	0	0	0
+6-hydroxycineole catabolic process	GO_0019639	0	1	0	0	0
+4-nitrophenol catabolic process	GO_0046196	0	1	0	0	0
+4-chlorobiphenyl metabolic process	GO_0018880	0	1	0	0	0
+3-phenylpropionate catabolic process	GO_0019380	0	1	0	0	0
+3-methylquinoline catabolic process	GO_0019335	0	1	0	0	0
+3-hydroxyphenylpropionic acid transporter activity	GO_0042926	0	1	0	0	0
+3-hydroxyphenylpropionic acid transport	GO_0042920	0	1	0	0	0
+3-hydroxyphenylacetate catabolic process	GO_0019610	0	1	0	0	0
+2-nitropropane metabolic process	GO_0018938	0	1	0	0	0
+2-nitropropane catabolic process	GO_0046304	0	1	0	0	0
+2-aminobenzenesulfonate catabolic process	GO_0046230	0	1	0	0	0
+1,4-dichlorobenzene metabolic process	GO_0018912	0	1	0	0	0
+1,4-dichlorobenzene catabolic process	GO_0019261	0	1	0	0	0
+1,3-dichloropropene metabolic process	GO_0018903	0	1	0	0	0
+1,3-dichloro-2-propanol metabolic process	GO_0018902	0	1	0	0	0
+1,3-dichloro-2-propanol catabolic process	GO_0046310	0	1	0	0	0
+1,3-dichloro-2-propanol biosynthetic process	GO_0046309	0	1	0	0	0
+1,2-dichloroethane metabolic process	GO_0018899	0	1	0	0	0
+1,2-dichloroethane catabolic process	GO_0019260	0	1	0	0	0
+1,2,4-trichlorobenzene metabolic process	GO_0018911	0	1	0	0	0
+1,2,3-tribromopropane metabolic process	GO_0018976	0	1	0	0	0
+1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process	GO_0018977	0	1	0	0	0
+1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process	GO_0042188	0	1	0	0	0

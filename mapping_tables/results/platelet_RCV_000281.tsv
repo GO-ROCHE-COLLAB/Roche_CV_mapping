@@ -12,6 +12,15 @@ platelet activating factor production	GO_0002390	1	0	1	0	0
 platelet activating factor metabolic process	GO_0046469	1	0	1	0	0
 platelet activating factor biosynthetic process	GO_0006663	1	0	1	0	0
 serotonin secretion by platelet	GO_0002554	0	1	1	0	0
+regulation of platelet aggregation	GO_0090330	0	1	0	0	0
+regulation of platelet activation	GO_0010543	0	1	0	0	0
 protein secretion by platelet	GO_0070560	0	1	1	0	0
+positive regulation of platelet aggregation in other organism	GO_0035894	0	1	0	0	0
+positive regulation of platelet aggregation	GO_1901731	0	1	0	0	0
+positive regulation of platelet activation	GO_0010572	0	1	0	0	0
 platelet maturation	GO_0036345	0	1	1	0	0
+negative regulation of platelet aggregation in other organism	GO_0035893	0	1	0	0	0
+negative regulation of platelet aggregation	GO_0090331	0	1	0	0	0
+negative regulation of platelet activation	GO_0010544	0	1	0	0	0
+modulation of platelet aggregation in other organism	GO_0035892	0	1	0	0	0
 histamine secretion by platelet	GO_0002555	0	1	1	0	0

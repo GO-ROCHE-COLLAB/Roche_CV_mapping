@@ -1,4 +1,27 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of macrophage tolerance induction	GO_0010932	1	1	1	0	0
+regulation of macrophage fusion	GO_0034239	1	1	1	0	0
+regulation of macrophage differentiation	GO_0045649	1	1	1	0	0
+regulation of macrophage cytokine production	GO_0010935	1	1	1	0	0
+regulation of macrophage chemotaxis	GO_0010758	1	1	1	0	0
+regulation of macrophage apoptotic process	GO_2000109	1	1	1	0	0
+regulation of macrophage antigen processing and presentation	GO_0002616	1	1	1	0	0
+regulation of macrophage activation	GO_0043030	1	1	1	0	0
+positive regulation of macrophage tolerance induction	GO_0010933	1	1	1	0	0
+positive regulation of macrophage fusion	GO_0034241	1	1	1	0	0
+positive regulation of macrophage differentiation	GO_0045651	1	1	1	0	0
+positive regulation of macrophage cytokine production	GO_0060907	1	1	1	0	0
+positive regulation of macrophage chemotaxis	GO_0010759	1	1	1	0	0
+positive regulation of macrophage apoptotic process	GO_2000111	1	1	1	0	0
+positive regulation of macrophage antigen processing and presentation	GO_0002618	1	1	1	0	0
+positive regulation of macrophage activation	GO_0043032	1	1	1	0	0
+negative regulation of macrophage fusion	GO_0034240	1	1	1	0	0
+negative regulation of macrophage differentiation	GO_0045650	1	1	1	0	0
+negative regulation of macrophage cytokine production	GO_0010936	1	1	1	0	0
+negative regulation of macrophage chemotaxis	GO_0010760	1	1	1	0	0
+negative regulation of macrophage apoptotic process	GO_2000110	1	1	1	0	0
+negative regulation of macrophage antigen processing and presentation	GO_0002617	1	1	1	0	0
+negative regulation of macrophage activation	GO_0043031	1	1	1	0	0
 macrophage tolerance induction	GO_0010931	1	1	1	0	0
 macrophage fusion	GO_0034238	1	1	1	0	0
 macrophage differentiation	GO_0030225	1	1	1	0	0
@@ -9,50 +32,27 @@ macrophage antigen processing and presentation	GO_0002472	1	1	1	0	0
 macrophage activation	GO_0042116	1	1	1	0	0
 response to macrophage colony-stimulating factor	GO_0036005	1	0	1	0	0
 response to granulocyte macrophage colony-stimulating factor	GO_0097012	1	0	1	0	0
-regulation of macrophage tolerance induction	GO_0010932	1	0	1	0	0
 regulation of macrophage migration inhibitory factor signaling pathway	GO_2000446	1	0	1	0	0
 regulation of macrophage inflammatory protein-1 gamma production	GO_0071646	1	0	1	0	0
 regulation of macrophage inflammatory protein 1 alpha production	GO_0071640	1	0	1	0	0
-regulation of macrophage fusion	GO_0034239	1	0	1	0	0
-regulation of macrophage differentiation	GO_0045649	1	0	1	0	0
 regulation of macrophage derived foam cell differentiation	GO_0010743	1	0	1	0	0
-regulation of macrophage cytokine production	GO_0010935	1	0	1	0	0
 regulation of macrophage colony-stimulating factor production	GO_1901256	1	0	1	0	0
-regulation of macrophage chemotaxis	GO_0010758	1	0	1	0	0
-regulation of macrophage apoptotic process	GO_2000109	1	0	1	0	0
-regulation of macrophage antigen processing and presentation	GO_0002616	1	0	1	0	0
-regulation of macrophage activation	GO_0043030	1	0	1	0	0
 regulation of immune complex clearance by monocytes and macrophages	GO_0090264	1	0	1	0	0
 regulation of granulocyte macrophage colony-stimulating factor production	GO_0032645	1	0	1	0	0
 regulation of granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0045423	1	0	1	0	0
-positive regulation of macrophage tolerance induction	GO_0010933	1	0	1	0	0
 positive regulation of macrophage migration inhibitory factor signaling pathway	GO_2000448	1	0	1	0	0
 positive regulation of macrophage inflammatory protein-1 gamma production	GO_0071648	1	0	1	0	0
 positive regulation of macrophage inflammatory protein 1 alpha production	GO_0071642	1	0	1	0	0
-positive regulation of macrophage fusion	GO_0034241	1	0	1	0	0
-positive regulation of macrophage differentiation	GO_0045651	1	0	1	0	0
 positive regulation of macrophage derived foam cell differentiation	GO_0010744	1	0	1	0	0
-positive regulation of macrophage cytokine production	GO_0060907	1	0	1	0	0
 positive regulation of macrophage colony-stimulating factor production	GO_1901258	1	0	1	0	0
-positive regulation of macrophage chemotaxis	GO_0010759	1	0	1	0	0
-positive regulation of macrophage apoptotic process	GO_2000111	1	0	1	0	0
-positive regulation of macrophage antigen processing and presentation	GO_0002618	1	0	1	0	0
-positive regulation of macrophage activation	GO_0043032	1	0	1	0	0
 positive regulation of immune complex clearance by monocytes and macrophages	GO_0090265	1	0	1	0	0
 positive regulation of granulocyte macrophage colony-stimulating factor production	GO_0032725	1	0	1	0	0
 positive regulation of granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0045425	1	0	1	0	0
 negative regulation of macrophage migration inhibitory factor signaling pathway	GO_2000447	1	0	1	0	0
 negative regulation of macrophage inflammatory protein-1 gamma production	GO_0071647	1	0	1	0	0
 negative regulation of macrophage inflammatory protein 1 alpha production	GO_0071641	1	0	1	0	0
-negative regulation of macrophage fusion	GO_0034240	1	0	1	0	0
-negative regulation of macrophage differentiation	GO_0045650	1	0	1	0	0
 negative regulation of macrophage derived foam cell differentiation	GO_0010745	1	0	1	0	0
-negative regulation of macrophage cytokine production	GO_0010936	1	0	1	0	0
 negative regulation of macrophage colony-stimulating factor production	GO_1901257	1	0	1	0	0
-negative regulation of macrophage chemotaxis	GO_0010760	1	0	1	0	0
-negative regulation of macrophage apoptotic process	GO_2000110	1	0	1	0	0
-negative regulation of macrophage antigen processing and presentation	GO_0002617	1	0	1	0	0
-negative regulation of macrophage activation	GO_0043031	1	0	1	0	0
 negative regulation of granulocyte macrophage colony-stimulating factor production	GO_0032685	1	0	1	0	0
 negative regulation of granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0045424	1	0	1	0	0
 macrophage migration inhibitory factor signaling pathway	GO_0035691	1	0	1	0	0
@@ -67,6 +67,9 @@ granulocyte macrophage colony-stimulating factor biosynthetic process	GO_0042253
 cellular response to macrophage colony-stimulating factor stimulus	GO_0036006	1	0	1	0	0
 cellular response to granulocyte macrophage colony-stimulating factor stimulus	GO_0097011	1	0	1	0	0
 telencephalon microglial cell migration	GO_0022033	0	1	1	1	0
+regulation of microglia differentiation	GO_0014006	0	1	0	0	0
+positive regulation of microglia differentiation	GO_0014008	0	1	0	0	0
+negative regulation of microglia differentiation	GO_0014007	0	1	0	0	0
 microglial cell activation involved in immune response	GO_0002282	0	1	1	1	0
 microglial cell activation	GO_0001774	0	1	1	1	0
 microglia differentiation	GO_0014004	0	1	1	1	0

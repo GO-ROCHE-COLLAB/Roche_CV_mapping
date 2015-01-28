@@ -11,6 +11,7 @@ synapse organization	GO_0050808	1	1	1	0	0
 synapse maturation	GO_0060074	1	1	1	0	0
 synapse assembly involved in innervation	GO_0060386	1	1	1	0	0
 synapse assembly	GO_0007416	1	1	1	0	0
+induction of synaptic plasticity by chemical substance	GO_0051915	1	1	1	0	0
 synaptonemal complex assembly	GO_0007130	1	0	1	0	0
 synaptic vesicle uncoating	GO_0016191	1	0	1	0	0
 synaptic vesicle transport	GO_0048489	1	0	1	0	0
@@ -37,9 +38,9 @@ synaptic target recognition	GO_0008039	1	0	1	0	0
 synaptic target inhibition	GO_0016201	1	0	1	0	0
 synaptic target attraction	GO_0016200	1	0	1	0	0
 synapsis	GO_0007129	1	0	1	0	0
-induction of synaptic plasticity by chemical substance	GO_0051915	1	0	1	0	0
 amino acid uptake involved in synaptic transmission	GO_0051933	1	0	1	0	0
 L-glutamate uptake involved in synaptic transmission	GO_0051935	1	0	1	0	0
+zinc potentiation of synaptic transmission, glycinergic	GO_0060095	0	1	0	0	0
 type Is terminal bouton	GO_0061177	0	1	1	0	0
 type Ib terminal bouton	GO_0061176	0	1	1	0	0
 type III terminal bouton	GO_0097467	0	1	1	0	0
@@ -60,7 +61,56 @@ synapse	GO_0045202	0	1	1	0	0
 symmetric synapse	GO_0032280	0	1	1	0	0
 subsynaptic reticulum	GO_0071212	0	1	1	0	0
 ribbon synapse	GO_0097470	0	1	1	0	0
+rhythmic synaptic transmission	GO_0060024	0	1	0	0	0
+rhythmic inhibition	GO_0043180	0	1	0	0	0
+rhythmic excitation	GO_0043179	0	1	0	0	0
+regulation of terminal button organization	GO_2000331	0	1	0	0	0
+regulation of synaptic vesicle uncoating	GO_1903388	0	1	0	0	0
+regulation of synaptic vesicle transport	GO_1902803	0	1	0	0	0
+regulation of synaptic vesicle recycling	GO_1903421	0	1	0	0	0
+regulation of synaptic vesicle priming	GO_0010807	0	1	0	0	0
+regulation of synaptic vesicle lumen acidification	GO_1901546	0	1	0	0	0
+regulation of synaptic vesicle fusion to presynaptic membrane	GO_0031630	0	1	0	0	0
+regulation of synaptic vesicle exocytosis	GO_2000300	0	1	0	0	0
+regulation of synaptic vesicle endocytosis	GO_1900242	0	1	0	0	0
+regulation of synaptic transmission, glycinergic	GO_0060092	0	1	0	0	0
+regulation of synaptic transmission, glutamatergic	GO_0051966	0	1	0	0	0
+regulation of synaptic transmission, dopaminergic	GO_0032225	0	1	0	0	0
+regulation of synaptic transmission, cholinergic	GO_0032222	0	1	0	0	0
+regulation of synaptic transmission, GABAergic	GO_0032228	0	1	0	0	0
+regulation of synaptic transmission	GO_0050804	0	1	0	0	0
 regulation of synaptic plasticity by receptor localization to synapse	GO_1900383	0	1	0	0	0
+regulation of synaptic plasticity by chemical substance	GO_0051913	0	1	0	0	0
+regulation of synaptic plasticity	GO_0048167	0	1	0	0	0
+regulation of synaptic metaplasticity	GO_0031916	0	1	0	0	0
+regulation of synaptic growth at neuromuscular junction	GO_0008582	0	1	0	0	0
+regulation of synaptic activity	GO_0060025	0	1	0	0	0
+regulation of synapse structural plasticity	GO_0051823	0	1	0	0	0
+regulation of synapse organization	GO_0050807	0	1	0	0	0
+regulation of synapse maturation	GO_0090128	0	1	0	0	0
+regulation of synapse assembly	GO_0051963	0	1	0	0	0
+regulation of short-term neuronal synaptic plasticity	GO_0048172	0	1	0	0	0
+regulation of serotonin uptake	GO_0051611	0	1	0	0	0
+regulation of norepinephrine uptake	GO_0051621	0	1	0	0	0
+regulation of neurotransmitter uptake	GO_0051580	0	1	0	0	0
+regulation of neurotransmitter secretion	GO_0046928	0	1	0	0	0
+regulation of neuronal synaptic plasticity in response to neurotrophin	GO_0031637	0	1	0	0	0
+regulation of neuronal synaptic plasticity	GO_0048168	0	1	0	0	0
+regulation of neuromuscular synaptic transmission	GO_1900073	0	1	0	0	0
+regulation of long-term neuronal synaptic plasticity	GO_0048169	0	1	0	0	0
+regulation of histamine uptake	GO_0051616	0	1	0	0	0
+regulation of glutamate uptake involved in transmission of nerve impulse	GO_0051946	0	1	0	0	0
+regulation of glutamate secretion, neurotransmission	GO_1903294	0	1	0	0	0
+regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse	GO_0051947	0	1	0	0	0
+regulation of epinephrine uptake	GO_0051626	0	1	0	0	0
+regulation of dopamine uptake involved in synaptic transmission	GO_0051584	0	1	0	0	0
+regulation of catecholamine uptake involved in synaptic transmission	GO_0051940	0	1	0	0	0
+regulation of calcium ion-dependent exocytosis of neurotransmitter	GO_1903233	0	1	0	0	0
+regulation of anterograde synaptic vesicle transport	GO_1903742	0	1	0	0	0
+regulation of amino acid uptake involved in synaptic transmission	GO_0051941	0	1	0	0	0
+regulation of acetylcholine uptake	GO_0051631	0	1	0	0	0
+regulation of acetylcholine secretion, neurotransmission	GO_0014056	0	1	0	0	0
+regulation of acetylcholine metabolic process	GO_0060408	0	1	0	0	0
 receptor localization to synapse	GO_0097120	0	1	0	0	0
 protein localization to synapse	GO_0035418	0	1	0	0	0
 protein localization to postsynaptic membrane	GO_1903539	0	1	0	0	0
@@ -75,7 +125,50 @@ postsynaptic membrane	GO_0045211	0	1	1	0	0
 postsynaptic density organization	GO_0097106	0	1	1	0	0
 postsynaptic density assembly	GO_0097107	0	1	1	0	0
 postsynaptic density	GO_0014069	0	1	1	0	0
+positive regulation of terminal button organization	GO_1901614	0	1	0	0	0
+positive regulation of synaptic vesicle uncoating	GO_1903390	0	1	0	0	0
+positive regulation of synaptic vesicle transport	GO_1902805	0	1	0	0	0
+positive regulation of synaptic vesicle recycling	GO_1903423	0	1	0	0	0
+positive regulation of synaptic vesicle priming	GO_0010808	0	1	0	0	0
+positive regulation of synaptic vesicle lumen acidification	GO_1901548	0	1	0	0	0
+positive regulation of synaptic vesicle fusion to presynaptic membrane	GO_0031632	0	1	0	0	0
+positive regulation of synaptic vesicle exocytosis	GO_2000302	0	1	0	0	0
+positive regulation of synaptic vesicle endocytosis	GO_1900244	0	1	0	0	0
+positive regulation of synaptic transmission, glycinergic	GO_0060094	0	1	0	0	0
+positive regulation of synaptic transmission, glutamatergic	GO_0051968	0	1	0	0	0
+positive regulation of synaptic transmission, dopaminergic	GO_0032226	0	1	0	0	0
+positive regulation of synaptic transmission, cholinergic	GO_0032224	0	1	0	0	0
+positive regulation of synaptic transmission, GABAergic	GO_0032230	0	1	0	0	0
+positive regulation of synaptic transmission	GO_0050806	0	1	0	0	0
+positive regulation of synaptic plasticity by chemical substance	GO_0051914	0	1	0	0	0
+positive regulation of synaptic plasticity	GO_0031915	0	1	0	0	0
+positive regulation of synaptic metaplasticity	GO_0031918	0	1	0	0	0
+positive regulation of synaptic growth at neuromuscular junction	GO_0045887	0	1	0	0	0
+positive regulation of synapse structural plasticity	GO_0051835	0	1	0	0	0
 positive regulation of synapse maturation by synaptic transmission	GO_0090127	0	1	1	0	0
+positive regulation of synapse maturation	GO_0090129	0	1	0	0	0
+positive regulation of synapse assembly	GO_0051965	0	1	0	0	0
+positive regulation of short-term neuronal synaptic plasticity	GO_0048173	0	1	0	0	0
+positive regulation of serotonin uptake	GO_0051613	0	1	0	0	0
+positive regulation of norepinephrine uptake	GO_0051623	0	1	0	0	0
+positive regulation of neurotransmitter uptake	GO_0051582	0	1	0	0	0
+positive regulation of neurotransmitter secretion	GO_0001956	0	1	0	0	0
+positive regulation of neuromuscular synaptic transmission	GO_1900075	0	1	0	0	0
+positive regulation of long-term neuronal synaptic plasticity	GO_0048170	0	1	0	0	0
+positive regulation of histamine uptake	GO_0051618	0	1	0	0	0
+positive regulation of glutamate uptake involved in transmission of nerve impulse	GO_0051951	0	1	0	0	0
+positive regulation of glutamate secretion, neurotransmission	GO_1903296	0	1	0	0	0
+positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization	GO_0061646	0	1	0	0	0
+positive regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse	GO_0051950	0	1	0	0	0
+positive regulation of epinephrine uptake	GO_0051628	0	1	0	0	0
+positive regulation of dopamine uptake involved in synaptic transmission	GO_0051586	0	1	0	0	0
+positive regulation of catecholamine uptake involved in synaptic transmission	GO_0051944	0	1	0	0	0
+positive regulation of calcium ion-dependent exocytosis of neurotransmitter	GO_1903235	0	1	0	0	0
+positive regulation of anterograde synaptic vesicle transport	GO_1903744	0	1	0	0	0
+positive regulation of amino acid uptake involved in synaptic transmission	GO_0051943	0	1	0	0	0
+positive regulation of acetylcholine uptake	GO_0051633	0	1	0	0	0
+positive regulation of acetylcholine secretion, neurotransmission	GO_0014057	0	1	0	0	0
+positive regulation of acetylcholine metabolic process	GO_0060409	0	1	0	0	0
 neurotransmitter loading into synaptic vesicle	GO_0098700	0	1	0	0	0
 neuronal postsynaptic density	GO_0097481	0	1	1	0	0
 neuron-neuron synaptic transmission	GO_0007270	0	1	1	0	0
@@ -87,13 +180,70 @@ neuromuscular junction of myotube	GO_0098523	0	1	1	0	0
 neuromuscular junction development, skeletal muscle fiber	GO_0098529	0	1	1	0	0
 neuromuscular junction development	GO_0007528	0	1	1	0	0
 neuromuscular junction	GO_0031594	0	1	1	0	0
+negative regulation of terminal button organization	GO_1901613	0	1	0	0	0
+negative regulation of synaptic vesicle uncoating	GO_1903389	0	1	0	0	0
+negative regulation of synaptic vesicle transport	GO_1902804	0	1	0	0	0
+negative regulation of synaptic vesicle recycling	GO_1903422	0	1	0	0	0
+negative regulation of synaptic vesicle priming	GO_0010809	0	1	0	0	0
+negative regulation of synaptic vesicle lumen acidification	GO_1901547	0	1	0	0	0
+negative regulation of synaptic vesicle fusion to presynaptic membrane	GO_0031631	0	1	0	0	0
+negative regulation of synaptic vesicle exocytosis	GO_2000301	0	1	0	0	0
+negative regulation of synaptic vesicle endocytosis	GO_1900243	0	1	0	0	0
+negative regulation of synaptic transmission, glycinergic	GO_0060093	0	1	0	0	0
+negative regulation of synaptic transmission, glutamatergic	GO_0051967	0	1	0	0	0
+negative regulation of synaptic transmission, dopaminergic	GO_0032227	0	1	0	0	0
+negative regulation of synaptic transmission, cholinergic	GO_0032223	0	1	0	0	0
+negative regulation of synaptic transmission, GABAergic	GO_0032229	0	1	0	0	0
+negative regulation of synaptic transmission	GO_0050805	0	1	0	0	0
+negative regulation of synaptic plasticity	GO_0031914	0	1	0	0	0
+negative regulation of synaptic metaplasticity	GO_0031917	0	1	0	0	0
+negative regulation of synaptic growth at neuromuscular junction	GO_0045886	0	1	0	0	0
+negative regulation of synapse structural plasticity	GO_0051826	0	1	0	0	0
+negative regulation of synapse maturation	GO_2000297	0	1	0	0	0
+negative regulation of synapse assembly	GO_0051964	0	1	0	0	0
+negative regulation of short-term neuronal synaptic plasticity	GO_0048174	0	1	0	0	0
+negative regulation of serotonin uptake	GO_0051612	0	1	0	0	0
+negative regulation of norepinephrine uptake	GO_0051622	0	1	0	0	0
+negative regulation of neurotransmitter uptake	GO_0051581	0	1	0	0	0
+negative regulation of neurotransmitter secretion	GO_0046929	0	1	0	0	0
+negative regulation of neuromuscular synaptic transmission	GO_1900074	0	1	0	0	0
+negative regulation of long-term neuronal synaptic plasticity	GO_0048171	0	1	0	0	0
+negative regulation of histamine uptake	GO_0051617	0	1	0	0	0
+negative regulation of glutamate uptake involved in transmission of nerve impulse	GO_0051948	0	1	0	0	0
+negative regulation of glutamate secretion, neurotransmission	GO_1903295	0	1	0	0	0
+negative regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse	GO_0051949	0	1	0	0	0
+negative regulation of epinephrine uptake	GO_0051627	0	1	0	0	0
+negative regulation of dopamine uptake involved in synaptic transmission	GO_0051585	0	1	0	0	0
+negative regulation of catecholamine uptake involved in synaptic transmission	GO_0051945	0	1	0	0	0
+negative regulation of calcium ion-dependent exocytosis of neurotransmitter	GO_1903234	0	1	0	0	0
+negative regulation of anterograde synaptic vesicle transport	GO_1903743	0	1	0	0	0
+negative regulation of amino acid uptake involved in synaptic transmission	GO_0051942	0	1	0	0	0
+negative regulation of acetylcholine uptake	GO_0051632	0	1	0	0	0
+negative regulation of acetylcholine secretion, neurotransmission	GO_0014058	0	1	0	0	0
+negative regulation of acetylcholine metabolic process	GO_0060410	0	1	0	0	0
+negative regulation by symbiont of host synaptic transmission	GO_0044759	0	1	0	0	0
+negative regulation by symbiont of host neurotransmitter secretion	GO_0044762	0	1	0	0	0
+negative regulation by symbiont of host cholinergic synaptic transmission	GO_0044761	0	1	0	0	0
 muscle cell postsynaptic density	GO_0097482	0	1	1	0	0
 mossy fiber rosette	GO_0097471	0	1	1	0	0
+modulation by symbiont of host synaptic transmission	GO_0044758	0	1	0	0	0
+modulation by symbiont of host neurotransmitter secretion	GO_0044079	0	1	0	0	0
+modulation by symbiont of host cholinergic synaptic transmission	GO_0044760	0	1	0	0	0
+long-term synaptic potentiation	GO_0060291	0	1	0	0	0
+long-term strengthening of neuromuscular junction	GO_0042062	0	1	0	0	0
+long term synaptic depression	GO_0060292	0	1	0	0	0
 intrinsic component of synaptic vesicle membrane	GO_0098563	0	1	1	0	0
 integral component of synaptic vesicle membrane	GO_0030285	0	1	1	0	0
 inhibitory synapse	GO_0060077	0	1	1	0	0
 inhibitory neuromuscular junction of somatic myotube	GO_0098526	0	1	1	0	0
 inhibitory neuromuscular junction	GO_0098521	0	1	1	0	0
+inhibition of serotonin uptake	GO_0051614	0	1	0	0	0
+inhibition of norepinephrine uptake	GO_0051624	0	1	0	0	0
+inhibition of neurotransmitter uptake	GO_0051609	0	1	0	0	0
+inhibition of histamine uptake	GO_0051619	0	1	0	0	0
+inhibition of epinephrine uptake	GO_0051629	0	1	0	0	0
+inhibition of dopamine uptake involved in synaptic transmission	GO_0051587	0	1	0	0	0
+inhibition of acetylcholine uptake	GO_0051634	0	1	0	0	0
 hippocampal mossy fiber expansion	GO_1990026	0	1	1	0	0
 glial cell postsynaptic density	GO_0097483	0	1	1	0	0
 excitatory synapse	GO_0060076	0	1	1	0	0
@@ -103,6 +253,9 @@ establishment of synaptic specificity at neuromuscular junction	GO_0007529	0	1	1
 establishment of protein localization to postsynaptic membrane	GO_1903540	0	1	0	0	0
 clathrin coat of synaptic vesicle	GO_0030129	0	1	1	0	0
 asymmetric synapse	GO_0032279	0	1	1	0	0
+acetylcholine receptor regulator activity	GO_0030548	0	1	0	0	0
+acetylcholine receptor inhibitor activity	GO_0030550	0	1	0	0	0
+acetylcholine receptor activator activity	GO_0030549	0	1	0	0	0
 acetylcholine catabolic process in synaptic cleft	GO_0001507	0	1	0	0	0
 S bouton	GO_1990027	0	1	1	0	0
 F bouton	GO_1990025	0	1	1	0	0

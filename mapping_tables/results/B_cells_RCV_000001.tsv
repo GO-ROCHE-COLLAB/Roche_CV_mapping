@@ -2,13 +2,67 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 transitional two stage B cell differentiation	GO_0002334	1	1	1	0	0
 transitional stage B cell differentiation	GO_0002332	1	1	1	0	0
 transitional one stage B cell differentiation	GO_0002333	1	1	1	0	0
+regulation of peripheral B cell deletion	GO_0002908	1	1	1	0	0
+regulation of peripheral B cell anergy	GO_0002917	1	1	1	0	0
+regulation of mature B cell apoptotic process	GO_0002905	1	1	1	0	0
+regulation of central B cell tolerance induction	GO_0002895	1	1	1	0	0
+regulation of central B cell deletion	GO_0002898	1	1	1	0	0
+regulation of central B cell anergy	GO_0002914	1	1	1	0	0
+regulation of B-1 B cell differentiation	GO_0001924	1	1	1	0	0
+regulation of B cell tolerance induction	GO_0002661	1	1	1	0	0
+regulation of B cell receptor signaling pathway	GO_0050855	1	1	1	0	0
+regulation of B cell proliferation	GO_0030888	1	1	1	0	0
+regulation of B cell mediated immunity	GO_0002712	1	1	1	0	0
+regulation of B cell differentiation	GO_0045577	1	1	1	0	0
+regulation of B cell deletion	GO_0002867	1	1	1	0	0
+regulation of B cell cytokine production	GO_0002721	1	1	1	0	0
+regulation of B cell apoptotic process	GO_0002902	1	1	1	0	0
+regulation of B cell antigen processing and presentation	GO_0002622	1	1	1	0	0
+regulation of B cell anergy	GO_0002670	1	1	1	0	0
+regulation of B cell activation	GO_0050864	1	1	1	0	0
 pre-B cell differentiation	GO_0002329	1	1	1	0	0
+positive regulation of peripheral B cell deletion	GO_0002910	1	1	1	0	0
+positive regulation of peripheral B cell anergy	GO_0002919	1	1	1	0	0
+positive regulation of mature B cell apoptotic process	GO_0002907	1	1	1	0	0
+positive regulation of central B cell tolerance induction	GO_0002897	1	1	1	0	0
+positive regulation of central B cell deletion	GO_0002900	1	1	1	0	0
+positive regulation of central B cell anergy	GO_0002916	1	1	1	0	0
+positive regulation of B-1 B cell differentiation	GO_0001926	1	1	1	0	0
+positive regulation of B cell tolerance induction	GO_0002663	1	1	1	0	0
+positive regulation of B cell receptor signaling pathway	GO_0050861	1	1	1	0	0
+positive regulation of B cell proliferation	GO_0030890	1	1	1	0	0
+positive regulation of B cell mediated immunity	GO_0002714	1	1	1	0	0
+positive regulation of B cell differentiation	GO_0045579	1	1	1	0	0
+positive regulation of B cell deletion	GO_0002869	1	1	1	0	0
+positive regulation of B cell cytokine production	GO_0002723	1	1	1	0	0
+positive regulation of B cell apoptotic process	GO_0002904	1	1	1	0	0
+positive regulation of B cell antigen processing and presentation	GO_0002624	1	1	1	0	0
+positive regulation of B cell anergy	GO_0002672	1	1	1	0	0
+positive regulation of B cell activation	GO_0050871	1	1	1	0	0
 peripheral B cell tolerance induction	GO_0002451	1	1	1	0	0
 peripheral B cell selection	GO_0002343	1	1	1	0	0
 peripheral B cell positive selection	GO_0002350	1	1	1	0	0
 peripheral B cell negative selection	GO_0002356	1	1	1	0	0
 peripheral B cell deletion	GO_0002454	1	1	1	0	0
 peripheral B cell anergy	GO_0002453	1	1	1	0	0
+negative regulation of peripheral B cell deletion	GO_0002909	1	1	1	0	0
+negative regulation of peripheral B cell anergy	GO_0002918	1	1	1	0	0
+negative regulation of mature B cell apoptotic process	GO_0002906	1	1	1	0	0
+negative regulation of central B cell tolerance induction	GO_0002896	1	1	1	0	0
+negative regulation of central B cell deletion	GO_0002899	1	1	1	0	0
+negative regulation of central B cell anergy	GO_0002915	1	1	1	0	0
+negative regulation of B-1 B cell differentiation	GO_0001925	1	1	1	0	0
+negative regulation of B cell tolerance induction	GO_0002662	1	1	1	0	0
+negative regulation of B cell receptor signaling pathway	GO_0050859	1	1	1	0	0
+negative regulation of B cell proliferation	GO_0030889	1	1	1	0	0
+negative regulation of B cell mediated immunity	GO_0002713	1	1	1	0	0
+negative regulation of B cell differentiation	GO_0045578	1	1	1	0	0
+negative regulation of B cell deletion	GO_0002868	1	1	1	0	0
+negative regulation of B cell cytokine production	GO_0002722	1	1	1	0	0
+negative regulation of B cell apoptotic process	GO_0002903	1	1	1	0	0
+negative regulation of B cell antigen processing and presentation	GO_0002623	1	1	1	0	0
+negative regulation of B cell anergy	GO_0002671	1	1	1	0	0
+negative regulation of B cell activation	GO_0050869	1	1	1	0	0
 memory B cell differentiation	GO_0002319	1	1	1	0	0
 mature B cell differentiation	GO_0002335	1	1	1	0	0
 mature B cell apoptotic process	GO_0002901	1	1	1	0	0
@@ -53,66 +107,12 @@ B cell affinity maturation	GO_0002344	1	1	1	0	0
 B cell adhesion	GO_0097323	1	1	1	0	0
 B cell activation	GO_0042113	1	1	1	0	0
 regulation of pro-B cell differentiation	GO_2000973	1	0	1	0	0
-regulation of peripheral B cell deletion	GO_0002908	1	0	1	0	0
-regulation of peripheral B cell anergy	GO_0002917	1	0	1	0	0
-regulation of mature B cell apoptotic process	GO_0002905	1	0	1	0	0
-regulation of central B cell tolerance induction	GO_0002895	1	0	1	0	0
-regulation of central B cell deletion	GO_0002898	1	0	1	0	0
-regulation of central B cell anergy	GO_0002914	1	0	1	0	0
-regulation of B-1 B cell differentiation	GO_0001924	1	0	1	0	0
-regulation of B cell tolerance induction	GO_0002661	1	0	1	0	0
-regulation of B cell receptor signaling pathway	GO_0050855	1	0	1	0	0
-regulation of B cell proliferation	GO_0030888	1	0	1	0	0
-regulation of B cell mediated immunity	GO_0002712	1	0	1	0	0
-regulation of B cell differentiation	GO_0045577	1	0	1	0	0
-regulation of B cell deletion	GO_0002867	1	0	1	0	0
-regulation of B cell cytokine production	GO_0002721	1	0	1	0	0
-regulation of B cell apoptotic process	GO_0002902	1	0	1	0	0
-regulation of B cell antigen processing and presentation	GO_0002622	1	0	1	0	0
-regulation of B cell anergy	GO_0002670	1	0	1	0	0
-regulation of B cell activation	GO_0050864	1	0	1	0	0
 pro-B cell differentiation	GO_0002328	1	0	1	0	0
 pre-B cell receptor expression	GO_0002330	1	0	1	0	0
 pre-B cell allelic exclusion	GO_0002331	1	0	1	0	0
 positive regulation of pro-B cell differentiation	GO_2000975	1	0	1	0	0
-positive regulation of peripheral B cell deletion	GO_0002910	1	0	1	0	0
-positive regulation of peripheral B cell anergy	GO_0002919	1	0	1	0	0
-positive regulation of mature B cell apoptotic process	GO_0002907	1	0	1	0	0
-positive regulation of central B cell tolerance induction	GO_0002897	1	0	1	0	0
-positive regulation of central B cell deletion	GO_0002900	1	0	1	0	0
-positive regulation of central B cell anergy	GO_0002916	1	0	1	0	0
-positive regulation of B-1 B cell differentiation	GO_0001926	1	0	1	0	0
-positive regulation of B cell tolerance induction	GO_0002663	1	0	1	0	0
-positive regulation of B cell receptor signaling pathway	GO_0050861	1	0	1	0	0
-positive regulation of B cell proliferation	GO_0030890	1	0	1	0	0
-positive regulation of B cell mediated immunity	GO_0002714	1	0	1	0	0
-positive regulation of B cell differentiation	GO_0045579	1	0	1	0	0
-positive regulation of B cell deletion	GO_0002869	1	0	1	0	0
-positive regulation of B cell cytokine production	GO_0002723	1	0	1	0	0
-positive regulation of B cell apoptotic process	GO_0002904	1	0	1	0	0
-positive regulation of B cell antigen processing and presentation	GO_0002624	1	0	1	0	0
-positive regulation of B cell anergy	GO_0002672	1	0	1	0	0
-positive regulation of B cell activation	GO_0050871	1	0	1	0	0
 peripheral B cell receptor editing	GO_0002345	1	0	1	0	0
 negative regulation of pro-B cell differentiation	GO_2000974	1	0	1	0	0
-negative regulation of peripheral B cell deletion	GO_0002909	1	0	1	0	0
-negative regulation of peripheral B cell anergy	GO_0002918	1	0	1	0	0
-negative regulation of mature B cell apoptotic process	GO_0002906	1	0	1	0	0
-negative regulation of central B cell tolerance induction	GO_0002896	1	0	1	0	0
-negative regulation of central B cell deletion	GO_0002899	1	0	1	0	0
-negative regulation of central B cell anergy	GO_0002915	1	0	1	0	0
-negative regulation of B-1 B cell differentiation	GO_0001925	1	0	1	0	0
-negative regulation of B cell tolerance induction	GO_0002662	1	0	1	0	0
-negative regulation of B cell receptor signaling pathway	GO_0050859	1	0	1	0	0
-negative regulation of B cell proliferation	GO_0030889	1	0	1	0	0
-negative regulation of B cell mediated immunity	GO_0002713	1	0	1	0	0
-negative regulation of B cell differentiation	GO_0045578	1	0	1	0	0
-negative regulation of B cell deletion	GO_0002868	1	0	1	0	0
-negative regulation of B cell cytokine production	GO_0002722	1	0	1	0	0
-negative regulation of B cell apoptotic process	GO_0002903	1	0	1	0	0
-negative regulation of B cell antigen processing and presentation	GO_0002623	1	0	1	0	0
-negative regulation of B cell anergy	GO_0002671	1	0	1	0	0
-negative regulation of B cell activation	GO_0050869	1	0	1	0	0
 central B cell receptor editing	GO_0002511	1	0	1	0	0
 alternate splicing of immunoglobulin genes	GO_0002564	1	0	1	0	0
 V(D)J recombination	GO_0033151	1	0	1	0	0
@@ -130,7 +130,59 @@ type II hypersensitivity	GO_0002445	0	1	1	0	0
 type I hypersensitivity mediated by mast cells	GO_0002558	0	1	1	0	0
 type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
 type I hypersensitivity	GO_0016068	0	1	1	0	0
+regulation of type IIb hypersensitivity	GO_0001799	0	1	0	0	0
+regulation of type IIa hypersensitivity	GO_0001796	0	1	0	0	0
+regulation of type III hypersensitivity	GO_0001803	0	1	0	0	0
+regulation of type II hypersensitivity	GO_0002892	0	1	0	0	0
+regulation of type I hypersensitivity	GO_0001810	0	1	0	0	0
+regulation of plasma cell differentiation	GO_1900098	0	1	0	0	0
+regulation of isotype switching to IgG isotypes	GO_0048302	0	1	0	0	0
+regulation of isotype switching to IgE isotypes	GO_0048293	0	1	0	0	0
+regulation of isotype switching to IgD isotypes	GO_0048299	0	1	0	0	0
+regulation of isotype switching to IgA isotypes	GO_0048296	0	1	0	0	0
+regulation of isotype switching	GO_0045191	0	1	0	0	0
+regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000571	0	1	0	0	0
+regulation of immunoglobulin production in mucosal tissue	GO_2000557	0	1	0	0	0
+regulation of immunoglobulin mediated immune response	GO_0002889	0	1	0	0	0
+regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002923	0	1	0	0	0
+regulation of complement activation, classical pathway	GO_0030450	0	1	0	0	0
+regulation of antibody-dependent cellular cytotoxicity	GO_0001813	0	1	0	0	0
+positive regulation of type IIb hypersensitivity	GO_0001801	0	1	0	0	0
+positive regulation of type IIa hypersensitivity	GO_0001798	0	1	0	0	0
+positive regulation of type III hypersensitivity	GO_0001805	0	1	0	0	0
+positive regulation of type II hypersensitivity	GO_0002894	0	1	0	0	0
+positive regulation of type I hypersensitivity	GO_0001812	0	1	0	0	0
+positive regulation of plasma cell differentiation	GO_1900100	0	1	0	0	0
+positive regulation of isotype switching to IgG isotypes	GO_0048304	0	1	0	0	0
+positive regulation of isotype switching to IgE isotypes	GO_0048295	0	1	0	0	0
+positive regulation of isotype switching to IgD isotypes	GO_0048301	0	1	0	0	0
+positive regulation of isotype switching to IgA isotypes	GO_0048298	0	1	0	0	0
+positive regulation of isotype switching	GO_0045830	0	1	0	0	0
+positive regulation of interleukin-4-dependent isotype switching to IgE isotypes	GO_2000572	0	1	0	0	0
+positive regulation of immunoglobulin production in mucosal tissue	GO_2000558	0	1	0	0	0
+positive regulation of immunoglobulin mediated immune response	GO_0002891	0	1	0	0	0
+positive regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002925	0	1	0	0	0
+positive regulation of complement activation, classical pathway in other organism	GO_0044628	0	1	0	0	0
+positive regulation of complement activation, classical pathway	GO_0045960	0	1	0	0	0
+positive regulation of antibody-dependent cellular cytotoxicity	GO_0001815	0	1	0	0	0
 plasma cell differentiation	GO_0002317	0	1	1	0	0
+negative regulation of type IIb hypersensitivity	GO_0001800	0	1	0	0	0
+negative regulation of type IIa hypersensitivity	GO_0001797	0	1	0	0	0
+negative regulation of type III hypersensitivity	GO_0001804	0	1	0	0	0
+negative regulation of type II hypersensitivity	GO_0002893	0	1	0	0	0
+negative regulation of type I hypersensitivity	GO_0001811	0	1	0	0	0
+negative regulation of plasma cell differentiation	GO_1900099	0	1	0	0	0
+negative regulation of isotype switching to IgG isotypes	GO_0048303	0	1	0	0	0
+negative regulation of isotype switching to IgE isotypes	GO_0048294	0	1	0	0	0
+negative regulation of isotype switching to IgD isotypes	GO_0048300	0	1	0	0	0
+negative regulation of isotype switching to IgA isotypes	GO_0048297	0	1	0	0	0
+negative regulation of isotype switching	GO_0045829	0	1	0	0	0
+negative regulation of immunoglobulin mediated immune response	GO_0002890	0	1	0	0	0
+negative regulation of humoral immune response mediated by circulating immunoglobulin	GO_0002924	0	1	0	0	0
+negative regulation of complement activation, classical pathway in other organism	GO_0044629	0	1	0	0	0
+negative regulation of complement activation, classical pathway	GO_0045959	0	1	0	0	0
+negative regulation of antibody-dependent cellular cytotoxicity	GO_0001814	0	1	0	0	0
+modulation of complement activation, classical pathway in other organism	GO_0044627	0	1	0	0	0
 mature B cell differentiation involved in immune response	GO_0002313	0	1	1	0	0
 isotype switching to IgG isotypes	GO_0048291	0	1	1	0	0
 isotype switching to IgE isotypes	GO_0048289	0	1	1	0	0
@@ -142,6 +194,7 @@ immunoglobulin-mediated neutralization	GO_0097282	0	1	1	0	0
 immunoglobulin mediated immune response	GO_0016064	0	1	1	0	0
 immune complex formation	GO_0097281	0	1	1	0	0
 humoral immune response mediated by circulating immunoglobulin	GO_0002455	0	1	1	0	0
+helper T cell enhancement of B cell mediated immune response	GO_0035399	0	1	0	0	0
 antibody-dependent cellular cytotoxicity	GO_0001788	0	1	1	0	0
 activation-induced B cell apoptotic process	GO_0071948	0	1	0	0	0
 B cell receptor apoptotic signaling pathway	GO_1990117	0	1	0	0	0

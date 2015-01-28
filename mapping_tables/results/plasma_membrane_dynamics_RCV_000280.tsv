@@ -22,7 +22,18 @@ succinate import across plasma membrane	GO_0098720	0	1	1	0	0
 sperm plasma membrane disassembly	GO_0035045	0	1	1	0	0
 sodium ion import across plasma membrane	GO_0098719	0	1	1	0	0
 serine import across plasma membrane	GO_0098718	0	1	1	0	0
+regulation of protein targeting to prospore membrane	GO_2001231	0	1	0	0	0
+regulation of protein localization to plasma membrane	GO_1903076	0	1	0	0	0
+regulation of protein localization to ciliary membrane	GO_1903567	0	1	0	0	0
 regulation of plasma membrane sterol distribution	GO_0097036	0	1	1	0	0
+regulation of plasma membrane organization	GO_1903729	0	1	0	0	0
+regulation of phospholipid scramblase activity	GO_1900161	0	1	0	0	0
+regulation of membrane tubulation	GO_1903525	0	1	0	0	0
+regulation of integrin biosynthetic process	GO_0045113	0	1	0	0	0
+regulation of establishment of protein localization to plasma membrane	GO_0090003	0	1	0	0	0
+regulation of beta 2 integrin biosynthetic process	GO_0045115	0	1	0	0	0
+regulation of Golgi to plasma membrane protein transport	GO_0042996	0	1	0	0	0
+regulation of Golgi to plasma membrane CFTR protein transport	GO_0042999	0	1	0	0	0
 protein transport out of plasma membrane raft	GO_0044862	0	1	1	0	0
 protein transport into plasma membrane raft	GO_0044861	0	1	1	0	0
 protein transport from ciliary membrane to plasma membrane	GO_1903445	0	1	1	0	0
@@ -38,6 +49,16 @@ protein insertion into plasma membrane raft	GO_0044859	0	1	1	0	0
 protein insertion into plasma membrane	GO_0098737	0	1	1	0	0
 potassium ion import across plasma membrane	GO_1990573	0	1	1	0	0
 potassium ion export across plasma membrane	GO_0097623	0	1	1	0	0
+positive regulation of protein targeting to prospore membrane	GO_2001232	0	1	0	0	0
+positive regulation of protein localization to plasma membrane	GO_1903078	0	1	0	0	0
+positive regulation of protein localization to ciliary membrane	GO_1903569	0	1	0	0	0
+positive regulation of phospholipid scramblase activity	GO_1900163	0	1	0	0	0
+positive regulation of membrane tubulation	GO_1903527	0	1	0	0	0
+positive regulation of integrin biosynthetic process	GO_0045726	0	1	0	0	0
+positive regulation of establishment of protein localization to plasma membrane	GO_0090004	0	1	0	0	0
+positive regulation of beta 2 integrin biosynthetic process	GO_0045775	0	1	0	0	0
+positive regulation of Golgi to plasma membrane protein transport	GO_0042998	0	1	0	0	0
+positive regulation of Golgi to plasma membrane CFTR protein transport	GO_0043003	0	1	0	0	0
 plasma membrane long-chain fatty acid transport	GO_0015911	0	1	1	0	0
 phospholipid scrambling	GO_0017121	0	1	1	0	0
 phosphatidylserine exposure on osteoblast involved in bone mineralization	GO_0061592	0	1	1	0	0
@@ -47,6 +68,15 @@ peripheral nervous system myelin maintenance	GO_0032287	0	1	1	0	0
 pantothenate import across plasma membrane	GO_0098717	0	1	1	0	0
 osteoclast fusion	GO_0072675	0	1	1	0	0
 nickel cation import across plasma membrane	GO_0098716	0	1	1	0	0
+negative regulation of protein localization to plasma membrane	GO_1903077	0	1	0	0	0
+negative regulation of protein localization to ciliary membrane	GO_1903568	0	1	0	0	0
+negative regulation of phospholipid scramblase activity	GO_1900162	0	1	0	0	0
+negative regulation of membrane tubulation	GO_1903526	0	1	0	0	0
+negative regulation of integrin biosynthetic process	GO_0045720	0	1	0	0	0
+negative regulation of establishment of protein localization to plasma membrane	GO_0090005	0	1	0	0	0
+negative regulation of beta 2 integrin biosynthetic process	GO_0045774	0	1	0	0	0
+negative regulation of Golgi to plasma membrane protein transport	GO_0042997	0	1	0	0	0
+negative regulation of Golgi to plasma membrane CFTR protein transport	GO_0043002	0	1	0	0	0
 myoblast fusion involved in skeletal muscle regeneration	GO_0014905	0	1	1	0	0
 myoblast fusion	GO_0007520	0	1	1	0	0
 myelin maintenance	GO_0043217	0	1	1	0	0
@@ -68,6 +98,7 @@ ferrous iron import across plasma membrane	GO_0098707	0	1	1	0	0
 ferric iron import across plasma membrane	GO_0098706	0	1	1	0	0
 establishment of protein localization to postsynaptic membrane	GO_1903540	0	1	1	0	0
 establishment of protein localization to plasma membrane	GO_0090002	0	1	1	0	0
+cytoplasmic sequestering of CFTR protein	GO_0043004	0	1	0	0	0
 cornified envelope assembly	GO_1903575	0	1	1	0	0
 copper ion import across plasma membrane	GO_0098705	0	1	1	0	0
 central nervous system myelin maintenance	GO_0032286	0	1	1	0	0

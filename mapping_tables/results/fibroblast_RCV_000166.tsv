@@ -1,32 +1,32 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of fibroblast proliferation	GO_0048145	1	1	1	0	0
+regulation of fibroblast migration	GO_0010762	1	1	1	0	0
+regulation of fibroblast apoptotic process	GO_2000269	1	1	1	0	0
+positive regulation of fibroblast proliferation	GO_0048146	1	1	1	0	0
+positive regulation of fibroblast migration	GO_0010763	1	1	1	0	0
+positive regulation of fibroblast apoptotic process	GO_2000271	1	1	1	0	0
+negative regulation of fibroblast proliferation	GO_0048147	1	1	1	0	0
+negative regulation of fibroblast migration	GO_0010764	1	1	1	0	0
+negative regulation of fibroblast apoptotic process	GO_2000270	1	1	1	0	0
 fibroblast proliferation involved in heart morphogenesis	GO_0061385	1	1	1	0	0
 fibroblast proliferation	GO_0048144	1	1	1	0	0
 fibroblast migration	GO_0010761	1	1	1	0	0
 fibroblast apoptotic process	GO_0044346	1	1	1	0	0
 fibroblast activation	GO_0072537	1	1	1	0	0
 response to fibroblast growth factor	GO_0071774	1	0	1	0	0
-regulation of fibroblast proliferation	GO_0048145	1	0	1	0	0
-regulation of fibroblast migration	GO_0010762	1	0	1	0	0
 regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000702	1	0	1	0	0
 regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	GO_2000313	1	0	1	0	0
 regulation of fibroblast growth factor receptor signaling pathway	GO_0040036	1	0	1	0	0
 regulation of fibroblast growth factor production	GO_0090270	1	0	1	0	0
-regulation of fibroblast apoptotic process	GO_2000269	1	0	1	0	0
 positive regulation of posterior neural plate formation by fibroblast growth factor receptor signaling pathway	GO_0060787	1	0	1	0	0
-positive regulation of fibroblast proliferation	GO_0048146	1	0	1	0	0
-positive regulation of fibroblast migration	GO_0010763	1	0	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	GO_2000704	1	0	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	GO_2000315	1	0	1	0	0
 positive regulation of fibroblast growth factor receptor signaling pathway	GO_0045743	1	0	1	0	0
 positive regulation of fibroblast growth factor production	GO_0090271	1	0	1	0	0
-positive regulation of fibroblast apoptotic process	GO_2000271	1	0	1	0	0
 positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway	GO_0090080	1	0	1	0	0
 neural crest-derived cardiac fibroblast cell fate commitment	GO_0060944	1	0	1	0	0
 neural crest-derived cardiac fibroblast cell differentiation	GO_0060942	1	0	1	0	0
 neural crest-derived cardiac fibroblast cell development	GO_0060943	1	0	1	0	0
-negative regulation of fibroblast proliferation	GO_0048147	1	0	1	0	0
-negative regulation of fibroblast migration	GO_0010764	1	0	1	0	0
-negative regulation of fibroblast apoptotic process	GO_2000270	1	0	1	0	0
 epicardium-derived cardiac fibroblast cell fate commitment	GO_0060941	1	0	1	0	0
 epicardium-derived cardiac fibroblast cell differentiation	GO_0060938	1	0	1	0	0
 epicardium-derived cardiac fibroblast cell development	GO_0060939	1	0	1	0	0
@@ -36,7 +36,13 @@ cardiac fibroblast cell fate commitment	GO_0060937	1	0	1	0	0
 cardiac fibroblast cell differentiation	GO_0060935	1	0	1	0	0
 cardiac fibroblast cell development	GO_0060936	1	0	1	0	0
 renal interstitial fibroblast development	GO_0072141	0	1	1	0	0
+regulation of pancreatic stellate cell proliferation	GO_2000229	0	1	0	0	0
+regulation of hepatic stellate cell activation	GO_2000489	0	1	0	0	0
+positive regulation of pancreatic stellate cell proliferation	GO_2000231	0	1	0	0	0
+positive regulation of hepatic stellate cell activation	GO_2000491	0	1	0	0	0
 pancreatic stellate cell proliferation	GO_0072343	0	1	1	0	0
+negative regulation of pancreatic stellate cell proliferation	GO_2000230	0	1	0	0	0
+negative regulation of hepatic stellate cell activation	GO_2000490	0	1	0	0	0
 metanephric interstitial fibroblast differentiation	GO_0072258	0	1	1	0	0
 metanephric interstitial fibroblast development	GO_0072259	0	1	1	0	0
 metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	1	0	0

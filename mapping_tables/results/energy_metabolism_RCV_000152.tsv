@@ -2,11 +2,11 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 ATP synthesis coupled proton transport	GO_0015986	1	1	1	0	0
 ATP synthesis coupled electron transport	GO_0042773	1	1	1	0	0
 ATP metabolic process	GO_0046034	1	1	1	0	0
-ATP catabolic process	GO_0006200	1	1	1	0	0
 ATP biosynthetic process	GO_0006754	1	1	1	0	0
 AMP phosphorylation	GO_0006756	1	1	1	0	0
 plasma membrane proton-transporting V-type ATPase, V1 domain	GO_0000223	1	0	1	0	0
 plasma membrane proton-transporting V-type ATPase, V0 domain	GO_0000222	1	0	1	0	0
+obsolete ATP catabolic process	GO_0006200	1	0	1	1	1
 mitochondrial proton-transporting ATP synthase, stator stalk	GO_0000274	1	0	1	0	0
 mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	GO_0000276	1	0	1	0	0
 mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	GO_0000275	1	0	1	0	0

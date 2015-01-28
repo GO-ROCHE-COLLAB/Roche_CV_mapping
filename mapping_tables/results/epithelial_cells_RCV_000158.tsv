@@ -1,5 +1,13 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	1	1	1	0	0
+regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	1	1	1	0	0
+regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	1	1	1	0	0
+regulation of epidermal cell division	GO_0010482	1	1	1	0	0
+regulation of epidermal cell differentiation	GO_0045604	1	1	1	0	0
+positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	1	1	1	0	0
+positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	1	1	1	0	0
+negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	1	1	1	0	0
+negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	1	1	1	0	0
 establishment of epithelial cell polarity	GO_0090162	1	1	1	0	0
 establishment of epithelial cell planar polarity	GO_0090163	1	1	1	0	0
 establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	1	1	1	0	0
@@ -16,13 +24,9 @@ secretion by lung epithelial cell involved in lung growth	GO_0061033	1	0	1	0	0
 root epithelial mucilage metabolic process	GO_0048361	1	0	1	0	0
 root epithelial mucilage biosynthetic process	GO_0048356	1	0	1	0	0
 retinal pigment epithelium development	GO_0003406	1	0	1	0	0
-regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	1	0	1	0	0
-regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	1	0	1	0	0
 regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling	GO_0060657	1	0	1	0	0
 regulation of intestinal epithelial structure maintenance	GO_0060730	1	0	1	0	0
 regulation of epidermis development	GO_0045682	1	0	1	0	0
-regulation of epidermal cell division	GO_0010482	1	0	1	0	0
-regulation of epidermal cell differentiation	GO_0045604	1	0	1	0	0
 regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	GO_0060665	1	0	1	0	0
 regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling	GO_0060668	1	0	1	0	0
 regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling	GO_0060683	1	0	1	0	0
@@ -32,15 +36,11 @@ prostate gland epithelium morphogenesis	GO_0060740	1	0	1	0	0
 prostate epithelial cord elongation	GO_0060523	1	0	1	0	0
 prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis	GO_0060527	1	0	1	0	0
 positive regulation of salivary gland formation by mesenchymal-epithelial signaling	GO_0060639	1	0	1	0	0
-positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	1	0	1	0	0
-positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	1	0	1	0	0
 positive regulation of mammary placode formation by mesenchymal-epithelial signaling	GO_0060617	1	0	1	0	0
 positive regulation of intestinal epithelial structure maintenance	GO_0060731	1	0	1	0	0
 positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling	GO_0060640	1	0	1	0	0
 nephron epithelium morphogenesis	GO_0072088	1	0	1	0	0
 nephron epithelium development	GO_0072009	1	0	1	0	0
-negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	1	0	1	0	0
-negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	1	0	1	0	0
 myocardial epithelial involution involved in heart jogging	GO_0003304	1	0	1	0	0
 morphogenesis of larval imaginal disc epithelium	GO_0016335	1	0	1	0	0
 morphogenesis of follicular epithelium	GO_0016333	1	0	1	0	0
@@ -116,9 +116,124 @@ squamous basal epithelial stem cell differentiation involved in prostate gland a
 sorocarp stalk cell differentiation	GO_0031149	0	1	1	0	0
 sebaceous gland cell differentiation	GO_0001949	0	1	1	0	0
 respiratory basal cell differentiation	GO_1902691	0	1	1	0	0
+regulation of venous endothelial cell fate commitment	GO_2000787	0	1	0	0	0
+regulation of urothelial cell proliferation	GO_0050675	0	1	0	0	0
+regulation of type B pancreatic cell development	GO_2000074	0	1	0	0	0
+regulation of type B pancreatic cell apoptotic process	GO_2000674	0	1	0	0	0
+regulation of trichome patterning	GO_1900032	0	1	0	0	0
+regulation of trichome morphogenesis	GO_2000039	0	1	0	0	0
+regulation of trichoblast fate specification	GO_0010061	0	1	0	0	0
+regulation of stomach neuroendocrine cell differentiation	GO_0061105	0	1	0	0	0
+regulation of spermatid nuclear differentiation	GO_0045700	0	1	0	0	0
+regulation of sperm capacitation	GO_1902490	0	1	0	0	0
+regulation of sorocarp stalk cell differentiation	GO_0031285	0	1	0	0	0
 regulation of secretion by asymmetric Golgi ribbon formation	GO_0090165	0	1	1	0	0
+regulation of root hair elongation	GO_1902890	0	1	0	0	0
+regulation of polarized epithelial cell differentiation	GO_0030860	0	1	0	0	0
+regulation of pancreatic A cell differentiation	GO_2000226	0	1	0	0	0
+regulation of odontoblast differentiation	GO_1901329	0	1	0	0	0
+regulation of nephron tubule epithelial cell differentiation	GO_0072182	0	1	0	0	0
+regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072307	0	1	0	0	0
+regulation of metanephric glomerular visceral epithelial cell development	GO_2000477	0	1	0	0	0
+regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000093	0	1	0	0	0
+regulation of melanocyte differentiation	GO_0045634	0	1	0	0	0
+regulation of mammary gland epithelial cell proliferation	GO_0033599	0	1	0	0	0
+regulation of lung goblet cell differentiation	GO_1901249	0	1	0	0	0
+regulation of lung ciliated cell differentiation	GO_1901246	0	1	0	0	0
+regulation of lens fiber cell differentiation	GO_1902746	0	1	0	0	0
+regulation of lens epithelial cell proliferation	GO_2001109	0	1	0	0	0
+regulation of late stripe melanocyte differentiation	GO_0050940	0	1	0	0	0
+regulation of keratinocyte proliferation	GO_0010837	0	1	0	0	0
+regulation of keratinocyte migration	GO_0051547	0	1	0	0	0
+regulation of keratinocyte differentiation	GO_0045616	0	1	0	0	0
+regulation of keratinocyte apoptotic process	GO_1902172	0	1	0	0	0
+regulation of hepatocyte proliferation	GO_2000345	0	1	0	0	0
+regulation of hepatocyte differentiation	GO_0070366	0	1	0	0	0
+regulation of follicle cell microvillus organization	GO_0032531	0	1	0	0	0
+regulation of follicle cell microvillus length	GO_0032533	0	1	0	0	0
+regulation of establishment of endothelial barrier	GO_1903140	0	1	0	0	0
+regulation of epithelial cell proliferation involved in prostate gland development	GO_0060768	0	1	0	0	0
+regulation of epithelial cell proliferation involved in mammary gland bud elongation	GO_0060651	0	1	0	0	0
+regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000794	0	1	0	0	0
+regulation of epithelial cell proliferation	GO_0050678	0	1	0	0	0
+regulation of epithelial cell migration, open tracheal system	GO_2000274	0	1	0	0	0
+regulation of epithelial cell migration	GO_0010632	0	1	0	0	0
+regulation of epithelial cell differentiation involved in kidney development	GO_2000696	0	1	0	0	0
+regulation of epithelial cell differentiation	GO_0030856	0	1	0	0	0
+regulation of endothelial cell proliferation	GO_0001936	0	1	0	0	0
+regulation of endothelial cell migration	GO_0010594	0	1	0	0	0
+regulation of endothelial cell differentiation	GO_0045601	0	1	0	0	0
+regulation of endothelial cell development	GO_1901550	0	1	0	0	0
+regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000544	0	1	0	0	0
+regulation of endothelial cell chemotaxis	GO_2001026	0	1	0	0	0
+regulation of endothelial cell apoptotic process	GO_2000351	0	1	0	0	0
+regulation of early stripe melanocyte differentiation	GO_0050939	0	1	0	0	0
+regulation of cumulus cell differentiation	GO_0045592	0	1	0	0	0
+regulation of cell migration involved in sprouting angiogenesis	GO_0090049	0	1	0	0	0
+regulation of border follicle cell migration	GO_1903684	0	1	0	0	0
+regulation of border follicle cell delamination	GO_0030710	0	1	0	0	0
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903587	0	1	0	0	0
+regulation of blood vessel endothelial cell migration	GO_0043535	0	1	0	0	0
+regulation of auditory receptor cell fate specification	GO_0042669	0	1	0	0	0
+regulation of auditory receptor cell differentiation	GO_0045607	0	1	0	0	0
+regulation of atrichoblast fate specification	GO_0010058	0	1	0	0	0
 pronephric nephron tubule epithelial cell differentiation	GO_0035778	0	1	1	0	0
 posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	1	0	0
+positive regulation of venous endothelial cell fate commitment	GO_2000789	0	1	0	0	0
+positive regulation of urothelial cell proliferation	GO_0050677	0	1	0	0	0
+positive regulation of type B pancreatic cell development	GO_2000078	0	1	0	0	0
+positive regulation of type B pancreatic cell apoptotic process	GO_2000676	0	1	0	0	0
+positive regulation of trichoblast fate specification	GO_0010063	0	1	0	0	0
+positive regulation of spermatid nuclear differentiation	GO_0045702	0	1	0	0	0
+positive regulation of sperm capacitation	GO_1902492	0	1	0	0	0
+positive regulation of sorocarp stalk cell differentiation	GO_0031287	0	1	0	0	0
+positive regulation of root hair elongation	GO_1902892	0	1	0	0	0
+positive regulation of polarized epithelial cell differentiation	GO_0030862	0	1	0	0	0
+positive regulation of pancreatic A cell differentiation	GO_2000228	0	1	0	0	0
+positive regulation of odontoblast differentiation	GO_1901331	0	1	0	0	0
+positive regulation of neuroepithelial cell differentiation	GO_1902913	0	1	0	0	0
+positive regulation of nephron tubule epithelial cell differentiation	GO_2000768	0	1	0	0	0
+positive regulation of metanephric glomerular visceral epithelial cell development	GO_2000478	0	1	0	0	0
+positive regulation of melanocyte differentiation	GO_0045636	0	1	0	0	0
+positive regulation of mammary gland epithelial cell proliferation	GO_0033601	0	1	0	0	0
+positive regulation of lung goblet cell differentiation	GO_1901251	0	1	0	0	0
+positive regulation of lung ciliated cell differentiation	GO_1901248	0	1	0	0	0
+positive regulation of lens fiber cell differentiation	GO_1902748	0	1	0	0	0
+positive regulation of lens epithelial cell proliferation	GO_2001111	0	1	0	0	0
+positive regulation of late stripe melanocyte differentiation	GO_0050950	0	1	0	0	0
+positive regulation of keratinocyte proliferation	GO_0010838	0	1	0	0	0
+positive regulation of keratinocyte migration	GO_0051549	0	1	0	0	0
+positive regulation of keratinocyte differentiation	GO_0045618	0	1	0	0	0
+positive regulation of keratinocyte apoptotic process	GO_1902174	0	1	0	0	0
+positive regulation of hepatocyte proliferation	GO_2000347	0	1	0	0	0
+positive regulation of hepatocyte differentiation	GO_0070368	0	1	0	0	0
+positive regulation of establishment of endothelial barrier	GO_1903142	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in wound healing	GO_0060054	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in prostate gland development	GO_0060769	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in lung morphogenesis	GO_0060501	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in lung bud dilation	GO_0060504	0	1	0	0	0
+positive regulation of epithelial cell proliferation	GO_0050679	0	1	0	0	0
+positive regulation of epithelial cell migration	GO_0010634	0	1	0	0	0
+positive regulation of epithelial cell differentiation involved in kidney development	GO_2000698	0	1	0	0	0
+positive regulation of epithelial cell differentiation	GO_0030858	0	1	0	0	0
+positive regulation of epidermal cell differentiation	GO_0045606	0	1	0	0	0
+positive regulation of endothelial cell proliferation	GO_0001938	0	1	0	0	0
+positive regulation of endothelial cell migration	GO_0010595	0	1	0	0	0
+positive regulation of endothelial cell differentiation	GO_0045603	0	1	0	0	0
+positive regulation of endothelial cell development	GO_1901552	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000546	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO_0038033	0	1	0	0	0
+positive regulation of endothelial cell chemotaxis	GO_2001028	0	1	0	0	0
+positive regulation of endothelial cell apoptotic process	GO_2000353	0	1	0	0	0
+positive regulation of early stripe melanocyte differentiation	GO_0050948	0	1	0	0	0
+positive regulation of cumulus cell differentiation	GO_0045594	0	1	0	0	0
+positive regulation of cell migration involved in sprouting angiogenesis	GO_0090050	0	1	0	0	0
+positive regulation of border follicle cell migration	GO_1903688	0	1	0	0	0
+positive regulation of border follicle cell delamination	GO_0030711	0	1	0	0	0
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903589	0	1	0	0	0
+positive regulation of blood vessel endothelial cell migration	GO_0043536	0	1	0	0	0
+positive regulation of auditory receptor cell differentiation	GO_0045609	0	1	0	0	0
+positive regulation of atrichoblast fate specification	GO_0010059	0	1	0	0	0
 polarized epithelial cell differentiation	GO_0030859	0	1	1	0	0
 peripheral mammary gland bud epithelial cell differentiation	GO_0060645	0	1	1	0	0
 pancreatic PP cell fate commitment	GO_0003329	0	1	0	0	0
@@ -139,6 +254,61 @@ neuroepithelial cell differentiation	GO_0060563	0	1	1	0	0
 neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	1	0	0
 neuroendocrine cell differentiation	GO_0061101	0	1	1	0	0
 nephron tubule epithelial cell differentiation	GO_0072160	0	1	1	0	0
+negative regulation of venous endothelial cell fate commitment	GO_2000788	0	1	0	0	0
+negative regulation of urothelial cell proliferation	GO_0050676	0	1	0	0	0
+negative regulation of type B pancreatic cell development	GO_2000077	0	1	0	0	0
+negative regulation of type B pancreatic cell apoptotic process	GO_2000675	0	1	0	0	0
+negative regulation of trichome patterning	GO_1900033	0	1	0	0	0
+negative regulation of trichoblast fate specification	GO_0010062	0	1	0	0	0
+negative regulation of stomach neuroendocrine cell differentiation	GO_0061106	0	1	0	0	0
+negative regulation of spermatid nuclear differentiation	GO_0045701	0	1	0	0	0
+negative regulation of sperm capacitation	GO_1902491	0	1	0	0	0
+negative regulation of sorocarp stalk cell differentiation	GO_0031286	0	1	0	0	0
+negative regulation of root hair elongation	GO_1902891	0	1	0	0	0
+negative regulation of polarized epithelial cell differentiation	GO_0030861	0	1	0	0	0
+negative regulation of pancreatic A cell differentiation	GO_2000227	0	1	0	0	0
+negative regulation of odontoblast differentiation	GO_1901330	0	1	0	0	0
+negative regulation of nephron tubule epithelial cell differentiation	GO_0072183	0	1	0	0	0
+negative regulation of metanephric nephron tubule epithelial cell differentiation	GO_0072308	0	1	0	0	0
+negative regulation of mesonephric nephron tubule epithelial cell differentiation	GO_2000094	0	1	0	0	0
+negative regulation of melanocyte differentiation	GO_0045635	0	1	0	0	0
+negative regulation of mammary gland epithelial cell proliferation	GO_0033600	0	1	0	0	0
+negative regulation of lung goblet cell differentiation	GO_1901250	0	1	0	0	0
+negative regulation of lung ciliated cell differentiation	GO_1901247	0	1	0	0	0
+negative regulation of lens fiber cell differentiation	GO_1902747	0	1	0	0	0
+negative regulation of lens epithelial cell proliferation	GO_2001110	0	1	0	0	0
+negative regulation of late stripe melanocyte differentiation	GO_0050949	0	1	0	0	0
+negative regulation of keratinocyte proliferation	GO_0010839	0	1	0	0	0
+negative regulation of keratinocyte migration	GO_0051548	0	1	0	0	0
+negative regulation of keratinocyte differentiation	GO_0045617	0	1	0	0	0
+negative regulation of keratinocyte apoptotic process	GO_1902173	0	1	0	0	0
+negative regulation of hepatocyte proliferation	GO_2000346	0	1	0	0	0
+negative regulation of hepatocyte differentiation	GO_0070367	0	1	0	0	0
+negative regulation of establishment of endothelial barrier	GO_1903141	0	1	0	0	0
+negative regulation of epithelial cell proliferation involved in prostate gland development	GO_0060770	0	1	0	0	0
+negative regulation of epithelial cell proliferation involved in lung morphogenesis	GO_2000795	0	1	0	0	0
+negative regulation of epithelial cell proliferation	GO_0050680	0	1	0	0	0
+negative regulation of epithelial cell migration	GO_0010633	0	1	0	0	0
+negative regulation of epithelial cell differentiation involved in kidney development	GO_2000697	0	1	0	0	0
+negative regulation of epithelial cell differentiation	GO_0030857	0	1	0	0	0
+negative regulation of epidermal cell differentiation	GO_0045605	0	1	0	0	0
+negative regulation of endothelial cell proliferation	GO_0001937	0	1	0	0	0
+negative regulation of endothelial cell migration	GO_0010596	0	1	0	0	0
+negative regulation of endothelial cell differentiation	GO_0045602	0	1	0	0	0
+negative regulation of endothelial cell development	GO_1901551	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor	GO_2000545	0	1	0	0	0
+negative regulation of endothelial cell chemotaxis	GO_2001027	0	1	0	0	0
+negative regulation of endothelial cell apoptotic process	GO_2000352	0	1	0	0	0
+negative regulation of early stripe melanocyte differentiation	GO_0050947	0	1	0	0	0
+negative regulation of cumulus cell differentiation	GO_0045593	0	1	0	0	0
+negative regulation of cell migration involved in sprouting angiogenesis	GO_0090051	0	1	0	0	0
+negative regulation of border follicle cell migration	GO_1903687	0	1	0	0	0
+negative regulation of border follicle cell delamination	GO_0030712	0	1	0	0	0
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_1903588	0	1	0	0	0
+negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	0	0	0
+negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	0	0	0
+negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	0	0	0
+negative regulation of atrichoblast fate specification	GO_0010060	0	1	0	0	0
 multi-ciliated epithelial cell differentiation	GO_1903251	0	1	1	0	0
 metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	1	0	0
 metanephric glomerular visceral epithelial cell fate commitment	GO_0072250	0	1	1	0	0
@@ -210,6 +380,7 @@ intestinal epithelial cell differentiation	GO_0060575	0	1	1	0	0
 intestinal epithelial cell development	GO_0060576	0	1	1	0	0
 interstitial cell of Cajal differentiation	GO_0061453	0	1	1	0	0
 internal mammary gland bud epithelial cell differentiation	GO_0060646	0	1	1	0	0
+inhibition of neuroepithelial cell differentiation	GO_0002085	0	1	0	0	0
 histoblast morphogenesis	GO_0007488	0	1	1	0	0
 hepatocyte proliferation	GO_0072574	0	1	1	0	0
 hepatocyte homeostasis	GO_0036333	0	1	1	0	0
