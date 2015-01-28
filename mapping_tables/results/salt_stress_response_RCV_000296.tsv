@@ -1,25 +1,63 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 cellular hypotonic salinity response	GO_0071477	1	1	1	0	0
+cellular hypotonic response	GO_0071476	1	1	1	0	0
 cellular hyperosmotic salinity response	GO_0071475	1	1	1	0	0
-cellular hypotonic response	GO_0071476	1	0	1	0	0
-cellular hyperosmotic response	GO_0071474	1	0	1	0	0
+cellular hyperosmotic response	GO_0071474	1	1	1	0	0
 response to salt stress	GO_0009651	0	1	1	0	0
+response to osmotic stress	GO_0006970	0	1	0	0	0
+response to non-ionic osmotic stress	GO_0010335	0	1	0	0	0
 response to cation stress	GO_0043157	0	1	1	0	0
 response to anion stress	GO_0072342	0	1	1	0	0
+regulation of translational initiation in response to osmotic stress	GO_0043561	0	1	0	0	0
+regulation of translation in response to osmotic stress	GO_0043557	0	1	0	0	0
 regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0061416	0	1	1	0	0
+regulation of transcription from RNA polymerase II promoter in response to osmotic stress	GO_0061392	0	1	0	0	0
 regulation of response to salt stress	GO_1901000	0	1	1	0	0
+regulation of response to osmotic stress	GO_0047484	0	1	0	0	0
+regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902238	0	1	0	0	0
+regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902218	0	1	0	0	0
 regulation of cellular hyperosmotic salinity response	GO_1900069	0	1	1	0	0
+positive regulation of translational initiation in response to osmotic stress	GO_0032064	0	1	0	0	0
+positive regulation of translation in response to osmotic stress	GO_0032062	0	1	0	0	0
 positive regulation of transcription from RNA polymerase II promoter in response to salt stress	GO_0036251	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to osmotic stress	GO_0061393	0	1	0	0	0
 positive regulation of transcription from RNA polymerase II promoter in response to increased salt	GO_0061404	0	1	1	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to a hypotonic environment	GO_0061401	0	1	0	0	0
 positive regulation of response to salt stress	GO_1901002	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902240	0	1	0	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902220	0	1	0	0	0
 positive regulation of calcium-mediated signaling involved in cellular response to salt stress	GO_1901196	0	1	1	0	0
 positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901199	0	1	1	0	0
+osmosensory signaling via phosphorelay pathway	GO_0007234	0	1	0	0	0
+osmosensory signaling pathway via Sho1 osmosensor	GO_0007232	0	1	0	0	0
+osmosensory signaling pathway	GO_0007231	0	1	0	0	0
+negative regulation of translational initiation in response to osmotic stress	GO_0032063	0	1	0	0	0
+negative regulation of translation in response to osmotic stress	GO_0032061	0	1	0	0	0
 negative regulation of response to salt stress	GO_1901001	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902239	0	1	0	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902219	0	1	0	0	0
 negative regulation of cellular hyperosmotic salinity response by negative regulation of transcription from RNA polymerase II promoter	GO_1900464	0	1	1	0	0
 negative regulation of cellular hyperosmotic salinity response	GO_1900070	0	1	1	0	0
 negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress	GO_1901200	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1990127	0	1	0	0	0
+intrinsic apoptotic signaling pathway in response to osmotic stress	GO_0008627	0	1	0	0	0
+intracellular accumulation of glycerol	GO_0006973	0	1	0	0	0
+inactivation of MAPK activity involved in osmosensory signaling pathway	GO_0000173	0	1	0	0	0
 hypotonic salinity response	GO_0042539	0	1	1	0	0
+hypotonic response	GO_0006971	0	1	0	0	0
 hyperosmotic salinity response	GO_0042538	0	1	1	0	0
+hyperosmotic response	GO_0006972	0	1	0	0	0
+detection of osmotic stimulus	GO_0043575	0	1	0	0	0
 chromatin remodeling in response to cation stress	GO_0043156	0	1	1	0	0
 cellular response to salt stress	GO_0071472	0	1	1	0	0
+cellular response to osmotic stress	GO_0071470	0	1	0	0	0
+cellular response to non-ionic osmotic stress	GO_0071471	0	1	0	0	0
 cellular response to cation stress	GO_0071473	0	1	1	0	0
+activation of MAPKKK activity involved in osmosensory signaling pathway	GO_0000167	0	1	0	0	0
+activation of MAPKK activity involved in osmosensory signaling pathway	GO_0000168	0	1	0	0	0
+activation of MAPK activity involved in osmosensory signaling pathway	GO_0000169	0	1	0	0	0
+MAPK import into nucleus involved in osmosensory signaling pathway	GO_0000208	0	1	0	0	0
+MAPK cascade involved in osmosensory signaling pathway	GO_0000161	0	1	0	0	0
+MAP kinase kinase kinase activity involved in osmosensory signaling pathway	GO_0038081	0	1	0	0	0
+MAP kinase kinase activity involved in osmosensory signaling pathway	GO_0038080	0	1	0	0	0
+MAP kinase activity involved in osmosensory signaling pathway	GO_0038079	0	1	0	0	0

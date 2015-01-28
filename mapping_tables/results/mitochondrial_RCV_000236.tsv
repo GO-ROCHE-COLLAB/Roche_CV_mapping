@@ -1,0 +1,244 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+sperm mitochondrion organization	GO_0030382	1	1	1	0	0
+release of matrix enzymes from mitochondria	GO_0032976	1	1	1	0	0
+release of cytochrome c from mitochondria	GO_0001836	1	1	1	0	0
+regulation of mitochondrial membrane permeability	GO_0046902	1	1	1	0	0
+rRNA transcription from mitochondrial promoter	GO_0042792	1	1	1	0	0
+rRNA import into mitochondrion	GO_0035928	1	1	1	0	0
+protein targeting to mitochondrion	GO_0006626	1	1	1	0	0
+protein processing involved in protein targeting to mitochondrion	GO_0006627	1	1	1	0	0
+protein localization to mitochondrion	GO_0070585	1	1	1	0	0
+protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_0001844	1	1	1	0	0
+protein insertion into mitochondrial membrane from inner side	GO_0032979	1	1	1	0	0
+protein insertion into mitochondrial membrane	GO_0051204	1	1	1	0	0
+protein import into mitochondrial outer membrane	GO_0045040	1	1	1	0	0
+protein import into mitochondrial matrix	GO_0030150	1	1	1	0	0
+protein import into mitochondrial intermembrane space	GO_0045041	1	1	1	0	0
+protein import into mitochondrial inner membrane	GO_0045039	1	1	1	0	0
+positive regulation of mitochondrial membrane permeability	GO_0035794	1	1	1	0	0
+positive regulation of mitochondrial calcium ion concentration	GO_0051561	1	1	1	0	0
+pole plasm mitochondrial srRNA localization	GO_0019097	1	1	1	0	0
+pole plasm mitochondrial rRNA localization	GO_0019095	1	1	1	0	0
+pole plasm mitochondrial lrRNA localization	GO_0019096	1	1	1	0	0
+outer mitochondrial membrane organization	GO_0007008	1	1	1	0	0
+oligopeptide export from mitochondrion	GO_0090374	1	1	1	0	0
+negative regulation of mitochondrial membrane permeability	GO_0035795	1	1	1	0	0
+negative regulation of mitochondrial calcium ion concentration	GO_0051562	1	1	1	0	0
+mitochondrion transport along microtubule	GO_0047497	1	1	1	0	0
+mitochondrion organization	GO_0007005	1	1	1	0	0
+mitochondrion morphogenesis	GO_0070584	1	1	1	0	0
+mitochondrion migration along actin filament	GO_0034642	1	1	1	0	0
+mitochondrion localization	GO_0051646	1	1	1	0	0
+mitochondrion inheritance	GO_0000001	1	1	1	0	0
+mitochondrion distribution	GO_0048311	1	1	1	0	0
+mitochondrion degradation by induced vacuole formation	GO_0035695	1	1	1	0	0
+mitochondrion degradation	GO_0000422	1	1	1	0	0
+mitochondrial valyl-tRNA aminoacylation	GO_0070185	1	1	1	0	0
+mitochondrial tyrosyl-tRNA aminoacylation	GO_0070184	1	1	1	0	0
+mitochondrial tryptophanyl-tRNA aminoacylation	GO_0070183	1	1	1	0	0
+mitochondrial transport	GO_0006839	1	1	1	0	0
+mitochondrial translational termination	GO_0070126	1	1	1	0	0
+mitochondrial translational initiation	GO_0070124	1	1	1	0	0
+mitochondrial translational elongation	GO_0070125	1	1	1	0	0
+mitochondrial translation	GO_0032543	1	1	1	0	0
+mitochondrial threonyl-tRNA aminoacylation	GO_0070159	1	1	1	0	0
+mitochondrial tRNA wobble uridine modification	GO_0070899	1	1	1	0	0
+mitochondrial tRNA threonylcarbamoyladenosine modification	GO_0072670	1	1	1	0	0
+mitochondrial tRNA thio-modification	GO_0070903	1	1	1	0	0
+mitochondrial tRNA pseudouridine synthesis	GO_0070902	1	1	1	0	0
+mitochondrial tRNA modification	GO_0070900	1	1	1	0	0
+mitochondrial tRNA methylation	GO_0070901	1	1	1	0	0
+mitochondrial tRNA 3'-trailer cleavage, endonucleolytic	GO_0072684	1	1	1	0	0
+mitochondrial srRNA export from mitochondrion	GO_0019092	1	1	1	0	0
+mitochondrial seryl-tRNA aminoacylation	GO_0070158	1	1	1	0	0
+mitochondrial respiratory chain supercomplex assembly	GO_0097250	1	1	1	0	0
+mitochondrial respiratory chain complex IV assembly	GO_0033617	1	1	1	0	0
+mitochondrial respiratory chain complex III assembly	GO_0034551	1	1	1	0	0
+mitochondrial respiratory chain complex II assembly	GO_0034553	1	1	1	0	0
+mitochondrial rRNA export from mitochondrion	GO_0019090	1	1	1	0	0
+mitochondrial pyruvate transport	GO_0006850	1	1	1	0	0
+mitochondrial proton-transporting ATP synthase complex assembly	GO_0033615	1	1	1	0	0
+mitochondrial protein processing	GO_0034982	1	1	1	0	0
+mitochondrial protein catabolic process	GO_0035694	1	1	1	0	0
+mitochondrial prolyl-tRNA aminoacylation	GO_0070157	1	1	1	0	0
+mitochondrial phenylalanyl-tRNA aminoacylation	GO_0070156	1	1	1	0	0
+mitochondrial outer membrane translocase complex assembly	GO_0070096	1	1	1	0	0
+mitochondrial outer membrane permeabilization	GO_0097345	1	1	1	0	0
+mitochondrial ornithine transport	GO_0000066	1	1	1	0	0
+mitochondrial nucleoid organization involved in mitochondrial fission	GO_0090145	1	1	1	0	0
+mitochondrial nucleoid organization	GO_0090144	1	1	1	0	0
+mitochondrial ncRNA surveillance	GO_0035945	1	1	1	0	0
+mitochondrial methionyl-tRNA aminoacylation	GO_0070155	1	1	1	0	0
+mitochondrial membrane organization	GO_0007006	1	1	1	0	0
+mitochondrial magnesium ion transport	GO_0045016	1	1	1	0	0
+mitochondrial mRNA surveillance	GO_0035946	1	1	1	0	0
+mitochondrial mRNA modification	GO_0080156	1	1	1	0	0
+mitochondrial mRNA catabolic process	GO_0000958	1	1	1	0	0
+mitochondrial lysyl-tRNA aminoacylation	GO_0070154	1	1	1	0	0
+mitochondrial lrRNA export from mitochondrion	GO_0019091	1	1	1	0	0
+mitochondrial leucyl-tRNA aminoacylation	GO_0070153	1	1	1	0	0
+mitochondrial isoleucyl-tRNA aminoacylation	GO_0070152	1	1	1	0	0
+mitochondrial iron ion transport	GO_0048250	1	1	1	0	0
+mitochondrial histidyl-tRNA aminoacylation	GO_0070151	1	1	1	0	0
+mitochondrial glycyl-tRNA aminoacylation	GO_0070150	1	1	1	0	0
+mitochondrial glutamyl-tRNA aminoacylation	GO_0070149	1	1	1	0	0
+mitochondrial glutaminyl-tRNA aminoacylation	GO_0070148	1	1	1	0	0
+mitochondrial genome maintenance	GO_0000002	1	1	1	0	0
+mitochondrial fusion	GO_0008053	1	1	1	0	0
+mitochondrial fragmentation involved in apoptotic process	GO_0043653	1	1	1	0	0
+mitochondrial fission	GO_0000266	1	1	1	0	0
+mitochondrial electron transport, ubiquinol to cytochrome c	GO_0006122	1	1	1	0	0
+mitochondrial electron transport, succinate to ubiquinone	GO_0006121	1	1	1	0	0
+mitochondrial electron transport, cytochrome c to oxygen	GO_0006123	1	1	1	0	0
+mitochondrial electron transport, NADH to ubiquinone	GO_0006120	1	1	1	0	0
+mitochondrial depolarization	GO_0051882	1	1	1	0	0
+mitochondrial cysteinyl-tRNA aminoacylation	GO_0070147	1	1	1	0	0
+mitochondrial citrate transport	GO_0006843	1	1	1	0	0
+mitochondrial calcium ion transport	GO_0006851	1	1	1	0	0
+mitochondrial calcium ion homeostasis	GO_0051560	1	1	1	0	0
+mitochondrial aspartyl-tRNA aminoacylation	GO_0070146	1	1	1	0	0
+mitochondrial asparaginyl-tRNA aminoacylation	GO_0070145	1	1	1	0	0
+mitochondrial arginyl-tRNA aminoacylation	GO_0070144	1	1	1	0	0
+mitochondrial alanyl-tRNA aminoacylation	GO_0070143	1	1	1	0	0
+mitochondrial RNA surveillance	GO_2000827	1	1	1	0	0
+mitochondrial RNA processing	GO_0000963	1	1	1	0	0
+mitochondrial RNA modification	GO_1900864	1	1	1	0	0
+mitochondrial RNA metabolic process	GO_0000959	1	1	1	0	0
+mitochondrial RNA localization	GO_0019093	1	1	1	0	0
+mitochondrial RNA catabolic process	GO_0000957	1	1	1	0	0
+mitochondrial RNA 5'-end processing	GO_0000964	1	1	1	0	0
+mitochondrial RNA 3'-end processing	GO_0000965	1	1	1	0	0
+mitochondrial ATP synthesis coupled proton transport	GO_0042776	1	1	1	0	0
+mitochondrial ATP synthesis coupled electron transport	GO_0042775	1	1	1	0	0
+micromitophagy	GO_0000424	1	1	1	0	0
+macromitophagy	GO_0000423	1	1	1	0	0
+intracellular distribution of mitochondria	GO_0048312	1	1	1	0	0
+inner mitochondrial membrane organization	GO_0007007	1	1	1	0	0
+establishment of protein localization to mitochondrion	GO_0072655	1	1	1	0	0
+establishment of protein localization to mitochondrial membrane involved in mitochondrial fission	GO_0090152	1	1	1	0	0
+establishment of protein localization to mitochondrial membrane	GO_0090151	1	1	1	0	0
+RNA import into mitochondrion	GO_0035927	1	1	1	0	0
+regulation of release of cytochrome c from mitochondria	GO_0090199	1	0	1	0	0
+regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_1900739	1	0	1	0	0
+regulation of mitochondrion organization	GO_0010821	1	0	1	0	0
+regulation of mitochondrial translational initiation	GO_0070132	1	0	1	0	0
+regulation of mitochondrial translation	GO_0070129	1	0	1	0	0
+regulation of mitochondrial rRNA stability	GO_0044529	1	0	1	0	0
+regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901028	1	0	1	0	0
+regulation of mitochondrial membrane potential	GO_0051881	1	0	1	0	0
+regulation of mitochondrial mRNA stability	GO_0044528	1	0	1	0	0
+regulation of mitochondrial fusion	GO_0010635	1	0	1	0	0
+regulation of mitochondrial fission	GO_0090140	1	0	1	0	0
+regulation of mitochondrial depolarization	GO_0051900	1	0	1	0	0
+regulation of mitochondrial RNA catabolic process	GO_0000960	1	0	1	0	0
+regulation of mitochondrial DNA replication	GO_0090296	1	0	1	0	0
+regulation of establishment of mitochondrion localization involved in mitochondrial fission	GO_0090147	1	0	1	0	0
+protein import into mitochondrial intermembrane space, conservative	GO_0045042	1	0	1	1	1
+positive regulation of release of cytochrome c from mitochondria	GO_0090200	1	0	1	0	0
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_1900740	1	0	1	0	0
+positive regulation of mitochondrion organization	GO_0010822	1	0	1	0	0
+positive regulation of mitochondrial translational initiation	GO_0070134	1	0	1	0	0
+positive regulation of mitochondrial translation in response to stress	GO_0010892	1	0	1	0	0
+positive regulation of mitochondrial translation	GO_0070131	1	0	1	0	0
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901030	1	0	1	0	0
+positive regulation of mitochondrial membrane potential	GO_0010918	1	0	1	0	0
+positive regulation of mitochondrial fusion	GO_0010636	1	0	1	0	0
+positive regulation of mitochondrial fission	GO_0090141	1	0	1	0	0
+positive regulation of mitochondrial depolarization	GO_0051901	1	0	1	0	0
+positive regulation of mitochondrial RNA catabolic process	GO_0000962	1	0	1	0	0
+positive regulation of mitochondrial DNA replication	GO_0090297	1	0	1	0	0
+negative regulation of release of cytochrome c from mitochondria	GO_0090201	1	0	1	0	0
+negative regulation of mitochondrion organization	GO_0010823	1	0	1	0	0
+negative regulation of mitochondrial translational initiation	GO_0070133	1	0	1	0	0
+negative regulation of mitochondrial translation	GO_0070130	1	0	1	0	0
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901029	1	0	1	0	0
+negative regulation of mitochondrial membrane potential	GO_0010917	1	0	1	0	0
+negative regulation of mitochondrial fusion	GO_0010637	1	0	1	0	0
+negative regulation of mitochondrial fission	GO_0090258	1	0	1	0	0
+negative regulation of mitochondrial depolarization	GO_0051902	1	0	1	0	0
+negative regulation of mitochondrial RNA catabolic process	GO_0000961	1	0	1	0	0
+negative regulation of mitochondrial DNA replication	GO_0090298	1	0	1	0	0
+modification by symbiont of host mitochondrion	GO_0033659	1	0	1	0	0
+mitochondrial unfolded protein response	GO_0034514	1	0	1	0	0
+mitochondrial translocation	GO_0006628	1	0	1	1	1
+mitochondrial sodium/calcium ion exchange	GO_0006852	1	0	1	1	1
+mitochondrial respiratory chain complex assembly	GO_0033108	1	0	1	0	0
+mitochondrial respiratory chain complex IV biogenesis	GO_0097034	1	0	1	0	0
+mitochondrial respiratory chain complex III biogenesis	GO_0097033	1	0	1	0	0
+mitochondrial respiratory chain complex II biogenesis	GO_0097032	1	0	1	0	0
+mitochondrial respiratory chain complex I biogenesis	GO_0097031	1	0	1	0	0
+mitochondrial respiratory chain complex I assembly	GO_0032981	1	0	1	0	0
+mitochondrial membrane fission	GO_0090149	1	0	1	0	0
+mitochondrial mRNA polyadenylation	GO_0097222	1	0	1	0	0
+mitochondrial aspartate/glutamate transport	GO_0006845	1	0	1	1	1
+mitochondrial alpha-ketoglutarate/malate transport	GO_0006840	1	0	1	1	1
+mitochondria-nucleus signaling pathway	GO_0031930	1	0	1	0	0
+mitochondria-associated ubiquitin-dependent protein catabolic process	GO_0072671	1	0	1	0	0
+maintenance of protein location in mitochondrion	GO_0072656	1	0	1	0	0
+maintenance of mitochondrion location	GO_0051659	1	0	1	0	0
+establishment of mitochondrion localization, microtubule-mediated	GO_0034643	1	0	1	0	0
+establishment of mitochondrion localization involved in mitochondrial fission	GO_0090146	1	0	1	0	0
+establishment of mitochondrion localization by microtubule attachment	GO_0034640	1	0	1	0	0
+establishment of mitochondrion localization	GO_0051654	1	0	1	0	0
+dynamin polymerization involved in mitochondrial fission	GO_0003374	1	0	1	0	0
+cotranscriptional mitochondrial rRNA nucleotide insertion	GO_0002110	1	0	1	0	0
+transcription initiation from mitochondrial promoter	GO_0006391	0	1	0	0	0
+transcription from mitochondrial promoter	GO_0006390	0	1	0	0	0
+transcription elongation from mitochondrial promoter	GO_0006392	0	1	0	0	0
+termination of mitochondrial transcription	GO_0006393	0	1	0	0	0
+tRNA import into mitochondrion	GO_0016031	0	1	0	0	0
+tRNA aminoacylation for mitochondrial protein translation	GO_0070127	0	1	0	0	0
+stress-induced mitochondrial fusion	GO_1990046	0	1	0	0	0
+sequence-specific DNA binding mitochondrial RNA polymerase transcription factor activity	GO_0001142	0	1	0	0	0
+regulation of mitochondrial membrane permeability involved in programmed necrotic cell death	GO_1902445	0	1	0	0	0
+regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902108	0	1	0	0	0
+positive regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902110	0	1	0	0	0
+negative regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902109	0	1	0	0	0
+mitochondrial tricarboxylic acid transmembrane transport	GO_1990546	0	1	0	0	0
+mitochondrial transmembrane transport	GO_1990542	0	1	0	0	0
+mitochondrial thiamine pyrophosphate transmembrane transport	GO_1990545	0	1	0	0	0
+mitochondrial tRNA 3'-end processing	GO_1990180	0	1	0	0	0
+mitochondrial sulfate transmembrane transport	GO_1990557	0	1	0	0	0
+mitochondrial single subunit type RNA polymerase activity	GO_0001065	0	1	0	0	0
+mitochondrial pyruvate transmembrane transport	GO_1902361	0	1	0	0	0
+mitochondrial pyrimidine nucleotide import	GO_1990519	0	1	0	0	0
+mitochondrial phosphate ion transmembrane transport	GO_1990547	0	1	0	0	0
+mitochondrial oxaloacetate transmembrane transport	GO_1990555	0	1	0	0	0
+mitochondrial outer membrane permeabilization involved in programmed cell death	GO_1902686	0	1	0	0	0
+mitochondrial membrane fusion	GO_1990613	0	1	0	0	0
+mitochondrial manganese ion transmembrane transport	GO_1990540	0	1	0	0	0
+mitochondrial malonate(1-) transmembrane transport	GO_1990558	0	1	0	0	0
+mitochondrial magnesium ion transmembrane transport	GO_1990614	0	1	0	0	0
+mitochondrial mRNA processing	GO_0090615	0	1	0	0	0
+mitochondrial mRNA 5'-end processing	GO_0090617	0	1	0	0	0
+mitochondrial mRNA 3'-end processing	GO_0090616	0	1	0	0	0
+mitochondrial isopropylmalate transmembrane transport	GO_1990556	0	1	0	0	0
+mitochondrial coenzyme A transmembrane transport	GO_1990559	0	1	0	0	0
+mitochondrial citrate transmembrane transport	GO_1990541	0	1	0	0	0
+mitochondrial alpha-ketoglutarate transmembrane transport	GO_1990550	0	1	0	0	0
+mitochondrial S-adenosyl-L-methionine transmembrane transport	GO_1990543	0	1	0	0	0
+mitochondrial RNA polymerase terminator site sequence-specific DNA binding transcription factor activity	GO_0001146	0	1	0	0	0
+mitochondrial RNA polymerase core promoter sequence-specific DNA binding transcription factor activity	GO_0001143	0	1	0	0	0
+mitochondrial RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity	GO_0001144	0	1	0	0	0
+mitochondrial RNA polymerase binding promoter specificity activity	GO_0034246	0	1	0	0	0
+mitochondrial NAD transmembrane transport	GO_1990549	0	1	0	0	0
+mitochondrial L-ornithine transmembrane transport	GO_1990575	0	1	0	0	0
+mitochondrial FAD transmembrane transport	GO_1990548	0	1	0	0	0
+mitochondrial DNA replication	GO_0006264	0	1	0	0	0
+mitochondrial DNA repair	GO_0043504	0	1	0	0	0
+mitochondrial DNA packaging	GO_0090139	0	1	0	0	0
+mitochondrial DNA metabolic process	GO_0032042	0	1	0	0	0
+mitochondrial DNA inheritance	GO_0033955	0	1	0	0	0
+mitochondrial DNA catabolic process	GO_0032043	0	1	0	0	0
+mitochondrial ATP transmembrane transport	GO_1990544	0	1	0	0	0
+mitochondrial 5'-adenylyl sulfate transmembrane transport	GO_1990553	0	1	0	0	0
+mitochondrial 3'-phospho-5'-adenylyl sulfate transmembrane transport	GO_1990554	0	1	0	0	0
+mitochondrial 2-oxoadipate transmembrane transport	GO_1990551	0	1	0	0	0
+malate-aspartate shuttle	GO_0043490	0	1	0	0	0
+magnesium ion export from mitochondrion	GO_1990616	0	1	0	0	0
+glycerophosphate shuttle	GO_0006127	0	1	0	0	0
+cristae formation	GO_0042407	0	1	0	0	0
+carnitine shuttle	GO_0006853	0	1	0	0	0
+calcium ion transmembrane import into mitochondrion	GO_0036444	0	1	0	0	0
+apoptotic mitochondrial changes	GO_0008637	0	1	0	0	0
+Nebenkern assembly	GO_0007287	0	1	0	0	0
