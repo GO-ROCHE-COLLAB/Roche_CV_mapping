@@ -1,3 +1,4 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
 regulation of platelet-derived growth factor receptor-beta signaling pathway	GO_2000586	1	1	1	0	0
 regulation of platelet-derived growth factor receptor-alpha signaling pathway	GO_2000583	1	1	1	0	0
 regulation of platelet-derived growth factor receptor signaling pathway	GO_0010640	1	1	1	0	0
