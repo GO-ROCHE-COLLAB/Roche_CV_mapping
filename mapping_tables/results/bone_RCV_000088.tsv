@@ -58,51 +58,51 @@ chondrocyte differentiation	GO_0002062	1	0	1	0	0
 chondrocyte development	GO_0002063	1	0	1	0	0
 chondrocyte activation	GO_0044566	1	0	1	0	0
 chondroblast differentiation	GO_0060591	1	0	1	0	0
-borate transmembrane transport	GO_0035445	1	0	1	0	0
+borate transmembrane transport	GO_0035445	1	0	1	1	0
 bone trabecula morphogenesis	GO_0061430	1	0	1	0	0
 bone trabecula formation	GO_0060346	1	0	1	0	0
 bone resorption	GO_0045453	1	0	1	0	0
 bone remodeling	GO_0046849	1	0	1	0	0
 bone mineralization	GO_0030282	1	0	1	0	0
-smoothened signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003435	0	1	0	0	0
-sagittal suture morphogenesis	GO_0060367	0	1	0	0	0
-regulation of osteoclast development	GO_2001204	0	1	0	0	0
-regulation of growth plate cartilage chondrocyte proliferation	GO_0003420	0	1	0	0	0
-regulation of growth plate cartilage chondrocyte differentiation	GO_1902733	0	1	0	0	0
-regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	0	0	0
-regulation of chondrocyte differentiation involved in endochondral bone morphogenesis	GO_1902738	0	1	0	0	0
-regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	0	1	0	0	0
-regulation of bone development	GO_1903010	0	1	0	0	0
-positive regulation of osteoclast development	GO_2001206	0	1	0	0	0
-positive regulation of bone development	GO_1903012	0	1	0	0	0
-negative regulation of osteoclast development	GO_2001205	0	1	0	0	0
-negative regulation of bone development	GO_1903011	0	1	0	0	0
-nasal suture morphogenesis	GO_0097097	0	1	0	0	0
-mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	0	0	0
-megakaryocyte development	GO_0035855	0	1	0	0	0
-lambdoid suture morphogenesis	GO_0060366	0	1	0	0	0
-growth plate cartilage morphogenesis	GO_0003422	0	1	0	0	0
-growth plate cartilage development	GO_0003417	0	1	0	0	0
-growth plate cartilage chondrocyte proliferation	GO_0003419	0	1	0	0	0
-growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	0	0	0
-growth plate cartilage chondrocyte growth	GO_0003430	0	1	0	0	0
-growth plate cartilage chondrocyte differentiation	GO_0003418	0	1	0	0	0
-growth plate cartilage chondrocyte development	GO_0003431	0	1	0	0	0
-growth plate cartilage axis specification	GO_0003421	0	1	0	0	0
-frontonasal suture morphogenesis	GO_0097095	0	1	0	0	0
-frontal suture morphogenesis	GO_0060364	0	1	0	0	0
-facial suture morphogenesis	GO_0097096	0	1	0	0	0
-establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division	GO_0003425	0	1	0	0	0
-establishment of cell polarity involved in growth plate cartilage chondrocyte division	GO_0003424	0	1	0	0	0
-endochondral ossification	GO_0001958	0	1	0	0	0
-deltoid tuberosity development	GO_0035993	0	1	0	0	0
-cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003426	0	1	0	0	0
-craniofacial suture morphogenesis	GO_0097094	0	1	0	0	0
-cranial suture morphogenesis	GO_0060363	0	1	0	0	0
-coronal suture morphogenesis	GO_0060365	0	1	0	0	0
-cell growth involved in growth plate cartilage chondrocyte morphogenesis	GO_0003432	0	1	0	0	0
-cartilage development involved in endochondral bone morphogenesis	GO_0060351	0	1	0	0	0
-bone marrow development	GO_0048539	0	1	0	0	0
-bone cell development	GO_0098751	0	1	0	0	0
-baculum development	GO_1990375	0	1	0	0	0
-BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	0	0	0
+smoothened signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003435	0	1	1	0	0
+sagittal suture morphogenesis	GO_0060367	0	1	1	0	0
+regulation of osteoclast development	GO_2001204	0	1	1	0	0
+regulation of growth plate cartilage chondrocyte proliferation	GO_0003420	0	1	1	0	0
+regulation of growth plate cartilage chondrocyte differentiation	GO_1902733	0	1	1	0	0
+regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003427	0	1	1	0	0
+regulation of chondrocyte differentiation involved in endochondral bone morphogenesis	GO_1902738	0	1	1	0	0
+regulation of cell adhesion involved in growth plate cartilage morphogenesis	GO_0003436	0	1	1	0	0
+regulation of bone development	GO_1903010	0	1	1	0	0
+positive regulation of osteoclast development	GO_2001206	0	1	1	0	0
+positive regulation of bone development	GO_1903012	0	1	1	0	0
+negative regulation of osteoclast development	GO_2001205	0	1	1	0	0
+negative regulation of bone development	GO_1903011	0	1	1	0	0
+nasal suture morphogenesis	GO_0097097	0	1	1	0	0
+mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	1	0	0
+megakaryocyte development	GO_0035855	0	1	1	0	0
+lambdoid suture morphogenesis	GO_0060366	0	1	1	0	0
+growth plate cartilage morphogenesis	GO_0003422	0	1	1	0	0
+growth plate cartilage development	GO_0003417	0	1	1	0	0
+growth plate cartilage chondrocyte proliferation	GO_0003419	0	1	1	0	0
+growth plate cartilage chondrocyte morphogenesis	GO_0003429	0	1	1	0	0
+growth plate cartilage chondrocyte growth	GO_0003430	0	1	1	0	0
+growth plate cartilage chondrocyte differentiation	GO_0003418	0	1	1	0	0
+growth plate cartilage chondrocyte development	GO_0003431	0	1	1	0	0
+growth plate cartilage axis specification	GO_0003421	0	1	1	0	0
+frontonasal suture morphogenesis	GO_0097095	0	1	1	0	0
+frontal suture morphogenesis	GO_0060364	0	1	1	0	0
+facial suture morphogenesis	GO_0097096	0	1	1	0	0
+establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division	GO_0003425	0	1	1	0	0
+establishment of cell polarity involved in growth plate cartilage chondrocyte division	GO_0003424	0	1	1	0	0
+endochondral ossification	GO_0001958	0	1	1	0	0
+deltoid tuberosity development	GO_0035993	0	1	1	0	0
+cytoskeleton polarization involved in growth plate cartilage chondrocyte division	GO_0003426	0	1	1	0	0
+craniofacial suture morphogenesis	GO_0097094	0	1	1	0	0
+cranial suture morphogenesis	GO_0060363	0	1	1	0	0
+coronal suture morphogenesis	GO_0060365	0	1	1	0	0
+cell growth involved in growth plate cartilage chondrocyte morphogenesis	GO_0003432	0	1	1	0	0
+cartilage development involved in endochondral bone morphogenesis	GO_0060351	0	1	1	0	0
+bone marrow development	GO_0048539	0	1	1	0	0
+bone cell development	GO_0098751	0	1	1	0	0
+baculum development	GO_1990375	0	1	1	0	0
+BMP signaling pathway involved in growth plate cartilage chondrocyte development	GO_0003434	0	1	1	0	0
