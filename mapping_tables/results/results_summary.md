@@ -165,7 +165,7 @@
 * Key class: [astrocyte](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000127)
 * Pattern: [CL_super_query](../../patterns/CL_super_query.md)
 * Definition: Some part of a astrocyte, or some process in which: a astrocyte participates; or that occur in a astrocyte or which results in the developmental progression of a structure that will form a astrocyte
-* map summary: Roche_cvt: RCV_000074; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000127; manual_list_count 6, generated_list_count 11
+* map summary: Roche_cvt: RCV_000074; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000127; manual_list_count 6, generated_list_count 18
 * [Results](astrocyte_RCV_000074.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
 * Status: 
@@ -1244,7 +1244,7 @@
 * Key class: [photoreceptor cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000210)
 * Pattern: [CL_super_query](../../patterns/CL_super_query.md)
 * Definition: Some part of a photoreceptor cell, or some process in which: a photoreceptor cell participates; or that occur in a photoreceptor cell or which results in the developmental progression of a structure that will form a photoreceptor cell
-* map summary: Roche_cvt: RCV_000277; class_expression scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5 some CL_0000210; manual_list_count 16, generated_list_count 45
+* map summary: Roche_cvt: RCV_000277; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000210; manual_list_count 16, generated_list_count 51
 * Notes: Misses activity term.
 * [Results](photoreceptor_RCV_000277.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
