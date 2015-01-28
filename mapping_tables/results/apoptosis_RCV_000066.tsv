@@ -59,324 +59,324 @@ developmental programmed cell death	GO_0010623	1	0	1	0	0
 compound eye retinal cell programmed cell death	GO_0046667	1	0	1	0	0
 apoptotic cell clearance	GO_0043277	1	0	1	0	0
 activation of pro-apoptotic gene products	GO_0008633	1	0	1	1	1
-type B pancreatic cell apoptotic process	GO_0097050	0	1	0	0	0
-thymocyte apoptotic process	GO_0070242	0	1	0	0	0
-suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039650	0	1	0	0	0
-suppression by virus of host apoptotic process	GO_0019050	0	1	0	0	0
-striated muscle cell apoptotic process	GO_0010658	0	1	0	0	0
-smooth muscle cell apoptotic process	GO_0034390	0	1	0	0	0
-ripoptosome assembly involved in extrinsic apoptotic signaling pathway	GO_1901025	0	1	0	0	0
-retinal rod cell apoptotic process	GO_0097473	0	1	0	0	0
-retinal cone cell apoptotic process	GO_0097474	0	1	0	0	0
-retinal cell apoptotic process	GO_1990009	0	1	0	0	0
-release of matrix enzymes from mitochondria	GO_0032976	0	1	0	0	0
-release of cytochrome c from mitochondria	GO_0001836	0	1	0	0	0
-regulatory T cell apoptotic process	GO_1902482	0	1	0	0	0
-regulation of type B pancreatic cell apoptotic process	GO_2000674	0	1	0	0	0
-regulation of thymocyte apoptotic process	GO_0070243	0	1	0	0	0
-regulation of striated muscle cell apoptotic process	GO_0010662	0	1	0	0	0
-regulation of smooth muscle cell apoptotic process	GO_0034391	0	1	0	0	0
-regulation of release of cytochrome c from mitochondria	GO_0090199	0	1	0	0	0
-regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_1900739	0	1	0	0	0
-regulation of peripheral B cell deletion	GO_0002908	0	1	0	0	0
-regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903376	0	1	0	0	0
-regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902175	0	1	0	0	0
-regulation of oligodendrocyte apoptotic process	GO_1900141	0	1	0	0	0
-regulation of nurse cell apoptotic process	GO_0045477	0	1	0	0	0
-regulation of neutrophil apoptotic process	GO_0033029	0	1	0	0	0
-regulation of neuron apoptotic process	GO_0043523	0	1	0	0	0
-regulation of natural killer cell apoptotic process	GO_0070247	0	1	0	0	0
-regulation of myeloid cell apoptotic process	GO_0033032	0	1	0	0	0
-regulation of muscle cell apoptotic process	GO_0010660	0	1	0	0	0
-regulation of motor neuron apoptotic process	GO_2000671	0	1	0	0	0
-regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901028	0	1	0	0	0
-regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902108	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	0	1	0	0	0
-regulation of mesenchymal cell apoptotic process	GO_2001053	0	1	0	0	0
-regulation of mature B cell apoptotic process	GO_0002905	0	1	0	0	0
-regulation of mast cell apoptotic process	GO_0033025	0	1	0	0	0
-regulation of macrophage apoptotic process	GO_2000109	0	1	0	0	0
-regulation of lymphocyte apoptotic process	GO_0070228	0	1	0	0	0
-regulation of leukocyte apoptotic process	GO_2000106	0	1	0	0	0
-regulation of keratinocyte apoptotic process	GO_1902172	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902238	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902218	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903750	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902165	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902229	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902253	0	1	0	0	0
-regulation of intrinsic apoptotic signaling pathway	GO_2001242	0	1	0	0	0
-regulation of hypoxia-induced intrinsic apoptotic signaling pathway	GO_1903297	0	1	0	0	0
-regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903383	0	1	0	0	0
-regulation of glial cell apoptotic process	GO_0034350	0	1	0	0	0
-regulation of fibroblast apoptotic process	GO_2000269	0	1	0	0	0
-regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO_1902041	0	1	0	0	0
-regulation of erythrocyte apoptotic process	GO_1902250	0	1	0	0	0
-regulation of endothelial cell apoptotic process	GO_2000351	0	1	0	0	0
-regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903381	0	1	0	0	0
-regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO_1902235	0	1	0	0	0
-regulation of dendritic cell apoptotic process	GO_2000668	0	1	0	0	0
-regulation of death-inducing signaling complex assembly	GO_1903072	0	1	0	0	0
-regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_2001267	0	1	0	0	0
-regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0043281	0	1	0	0	0
-regulation of compound eye retinal cell apoptotic process	GO_1901692	0	1	0	0	0
-regulation of central B cell deletion	GO_0002898	0	1	0	0	0
-regulation of apoptotic signaling pathway	GO_2001233	0	1	0	0	0
-regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902256	0	1	0	0	0
-regulation of apoptotic process involved in morphogenesis	GO_1902337	0	1	0	0	0
-regulation of apoptotic process involved in metanephric nephron tubule development	GO_1900217	0	1	0	0	0
-regulation of apoptotic process involved in metanephric collecting duct development	GO_1900214	0	1	0	0	0
-regulation of apoptotic process	GO_0042981	0	1	0	0	0
-regulation of apoptotic DNA fragmentation	GO_1902510	0	1	0	0	0
-regulation of apoptosis involved in tissue homeostasis	GO_0060785	0	1	0	0	0
-regulation of apoptosis by sphingosine-1-phosphate signaling pathway	GO_0003377	0	1	0	0	0
-regulation of anoikis	GO_2000209	0	1	0	0	0
-regulation of activation-induced cell death of T cells	GO_0070235	0	1	0	0	0
-regulation of activated T cell autonomous cell death	GO_0070239	0	1	0	0	0
-regulation of TRAIL-activated apoptotic signaling pathway	GO_1903121	0	1	0	0	0
-regulation of T cell apoptotic process	GO_0070232	0	1	0	0	0
-regulation of B cell deletion	GO_0002867	0	1	0	0	0
-regulation of B cell apoptotic process	GO_0002902	0	1	0	0	0
-protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_0001844	0	1	0	0	0
-positive regulation of type B pancreatic cell apoptotic process	GO_2000676	0	1	0	0	0
-positive regulation of thymocyte apoptotic process	GO_0070245	0	1	0	0	0
-positive regulation of striated muscle cell apoptotic process	GO_0010663	0	1	0	0	0
-positive regulation of smooth muscle cell apoptotic process	GO_0034393	0	1	0	0	0
-positive regulation of release of cytochrome c from mitochondria	GO_0090200	0	1	0	0	0
-positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_1900740	0	1	0	0	0
-positive regulation of peripheral B cell deletion	GO_0002910	0	1	0	0	0
-positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903378	0	1	0	0	0
-positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902177	0	1	0	0	0
-positive regulation of oligodendrocyte apoptotic process	GO_1900143	0	1	0	0	0
-positive regulation of nurse cell apoptotic process	GO_0045850	0	1	0	0	0
-positive regulation of neutrophil apoptotic process	GO_0033031	0	1	0	0	0
-positive regulation of neuron apoptotic process	GO_0043525	0	1	0	0	0
-positive regulation of natural killer cell apoptotic process	GO_0070249	0	1	0	0	0
-positive regulation of myeloid cell apoptotic process	GO_0033034	0	1	0	0	0
-positive regulation of muscle cell apoptotic process	GO_0010661	0	1	0	0	0
-positive regulation of motor neuron apoptotic process	GO_2000673	0	1	0	0	0
-positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901030	0	1	0	0	0
-positive regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902110	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	0	1	0	0	0
-positive regulation of mesenchymal cell apoptotic process	GO_2001055	0	1	0	0	0
-positive regulation of mature B cell apoptotic process	GO_0002907	0	1	0	0	0
-positive regulation of mast cell apoptotic process	GO_0033027	0	1	0	0	0
-positive regulation of macrophage apoptotic process	GO_2000111	0	1	0	0	0
-positive regulation of lymphocyte apoptotic process	GO_0070230	0	1	0	0	0
-positive regulation of leukocyte apoptotic process	GO_2000108	0	1	0	0	0
-positive regulation of keratinocyte apoptotic process	GO_1902174	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902240	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902220	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903752	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902167	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902231	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902255	0	1	0	0	0
-positive regulation of intrinsic apoptotic signaling pathway	GO_2001244	0	1	0	0	0
-positive regulation of glial cell apoptotic process	GO_0034352	0	1	0	0	0
-positive regulation of fibroblast apoptotic process	GO_2000271	0	1	0	0	0
-positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO_1902043	0	1	0	0	0
-positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO_2001241	0	1	0	0	0
-positive regulation of extrinsic apoptotic signaling pathway	GO_2001238	0	1	0	0	0
-positive regulation of erythrocyte apoptotic process	GO_1902252	0	1	0	0	0
-positive regulation of endothelial cell apoptotic process	GO_2000353	0	1	0	0	0
-positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO_1902237	0	1	0	0	0
-positive regulation of dendritic cell apoptotic process	GO_2000670	0	1	0	0	0
-positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_2001272	0	1	0	0	0
-positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_2001269	0	1	0	0	0
-positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0043280	0	1	0	0	0
-positive regulation of compound eye retinal cell apoptotic process	GO_1901694	0	1	0	0	0
-positive regulation of central B cell deletion	GO_0002900	0	1	0	0	0
-positive regulation of cardiac muscle cell apoptotic process	GO_0010666	0	1	0	0	0
-positive regulation of apoptotic signaling pathway	GO_2001235	0	1	0	0	0
-positive regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902258	0	1	0	0	0
-positive regulation of apoptotic process involved in morphogenesis	GO_1902339	0	1	0	0	0
-positive regulation of apoptotic process involved in metanephric nephron tubule development	GO_1900219	0	1	0	0	0
-positive regulation of apoptotic process involved in metanephric collecting duct development	GO_1900216	0	1	0	0	0
-positive regulation of apoptotic process involved in mammary gland involution	GO_0060058	0	1	0	0	0
-positive regulation of apoptotic process in other organism	GO_0044533	0	1	0	0	0
-positive regulation of apoptotic process by virus	GO_0060139	0	1	0	0	0
-positive regulation of apoptotic process	GO_0043065	0	1	0	0	0
-positive regulation of apoptotic DNA fragmentation	GO_1902512	0	1	0	0	0
-positive regulation of anoikis	GO_2000210	0	1	0	0	0
-positive regulation of activation-induced cell death of T cells	GO_0070237	0	1	0	0	0
-positive regulation of activated T cell autonomous cell death	GO_0070241	0	1	0	0	0
-positive regulation of T cell apoptotic process	GO_0070234	0	1	0	0	0
-positive regulation of B cell deletion	GO_0002869	0	1	0	0	0
-positive regulation of B cell apoptotic process	GO_0002904	0	1	0	0	0
-positive regulation by symbiont of host apoptotic process	GO_0052151	0	1	0	0	0
-positive regulation by organism of apoptotic process in other organism involved in symbiotic interaction	GO_0052501	0	1	0	0	0
-phosphatidylserine exposure on apoptotic cell surface	GO_0070782	0	1	0	0	0
-peripheral B cell deletion	GO_0002454	0	1	0	0	0
-peptidase activator activity involved in apoptotic process	GO_0016505	0	1	0	0	0
-oligodendrocyte apoptotic process	GO_0097252	0	1	0	0	0
-nurse cell apoptotic process	GO_0045476	0	1	0	0	0
-nuclear fragmentation involved in apoptotic nuclear change	GO_0030264	0	1	0	0	0
-neutrophil apoptotic process	GO_0001781	0	1	0	0	0
-neuron intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0036480	0	1	0	0	0
-neuron intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036482	0	1	0	0	0
-neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	GO_0036483	0	1	0	0	0
-neuron apoptotic process	GO_0051402	0	1	0	0	0
-negative regulation of type B pancreatic cell apoptotic process	GO_2000675	0	1	0	0	0
-negative regulation of thymocyte apoptotic process	GO_0070244	0	1	0	0	0
-negative regulation of striated muscle cell apoptotic process	GO_0010664	0	1	0	0	0
-negative regulation of smooth muscle cell apoptotic process	GO_0034392	0	1	0	0	0
-negative regulation of release of cytochrome c from mitochondria	GO_0090201	0	1	0	0	0
-negative regulation of peripheral B cell deletion	GO_0002909	0	1	0	0	0
-negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903377	0	1	0	0	0
-negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902176	0	1	0	0	0
-negative regulation of oligodendrocyte apoptotic process	GO_1900142	0	1	0	0	0
-negative regulation of nurse cell apoptotic process	GO_0045849	0	1	0	0	0
-negative regulation of neutrophil apoptotic process	GO_0033030	0	1	0	0	0
-negative regulation of neuron apoptotic process	GO_0043524	0	1	0	0	0
-negative regulation of natural killer cell apoptotic process	GO_0070248	0	1	0	0	0
-negative regulation of myeloid cell apoptotic process	GO_0033033	0	1	0	0	0
-negative regulation of muscle cell apoptotic process	GO_0010656	0	1	0	0	0
-negative regulation of motor neuron apoptotic process	GO_2000672	0	1	0	0	0
-negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901029	0	1	0	0	0
-negative regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902109	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	0	1	0	0	0
-negative regulation of mesenchymal cell apoptotic process	GO_2001054	0	1	0	0	0
-negative regulation of mature B cell apoptotic process	GO_0002906	0	1	0	0	0
-negative regulation of mast cell apoptotic process	GO_0033026	0	1	0	0	0
-negative regulation of macrophage apoptotic process	GO_2000110	0	1	0	0	0
-negative regulation of lymphocyte apoptotic process	GO_0070229	0	1	0	0	0
-negative regulation of leukocyte apoptotic process	GO_2000107	0	1	0	0	0
-negative regulation of keratinocyte apoptotic process	GO_1902173	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902239	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902219	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903751	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902166	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902230	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902254	0	1	0	0	0
-negative regulation of intrinsic apoptotic signaling pathway	GO_2001243	0	1	0	0	0
-negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	GO_1903298	0	1	0	0	0
-negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903384	0	1	0	0	0
-negative regulation of glial cell apoptotic process	GO_0034351	0	1	0	0	0
-negative regulation of fibroblast apoptotic process	GO_2000270	0	1	0	0	0
-negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO_1902042	0	1	0	0	0
-negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO_2001240	0	1	0	0	0
-negative regulation of extrinsic apoptotic signaling pathway	GO_2001237	0	1	0	0	0
-negative regulation of erythrocyte apoptotic process	GO_1902251	0	1	0	0	0
-negative regulation of endothelial cell apoptotic process	GO_2000352	0	1	0	0	0
-negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903382	0	1	0	0	0
-negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO_1902236	0	1	0	0	0
-negative regulation of dendritic cell apoptotic process	GO_2000669	0	1	0	0	0
-negative regulation of death-inducing signaling complex assembly	GO_1903073	0	1	0	0	0
-negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_2001268	0	1	0	0	0
-negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0043154	0	1	0	0	0
-negative regulation of compound eye retinal cell apoptotic process	GO_1901693	0	1	0	0	0
-negative regulation of central B cell deletion	GO_0002899	0	1	0	0	0
-negative regulation of cardiac muscle cell apoptotic process	GO_0010667	0	1	0	0	0
-negative regulation of apoptotic signaling pathway	GO_2001234	0	1	0	0	0
-negative regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902257	0	1	0	0	0
-negative regulation of apoptotic process involved in morphogenesis	GO_1902338	0	1	0	0	0
-negative regulation of apoptotic process involved in metanephric nephron tubule development	GO_1900218	0	1	0	0	0
-negative regulation of apoptotic process involved in metanephric collecting duct development	GO_1900215	0	1	0	0	0
-negative regulation of apoptotic process	GO_0043066	0	1	0	0	0
-negative regulation of apoptotic DNA fragmentation	GO_1902511	0	1	0	0	0
-negative regulation of anoikis	GO_2000811	0	1	0	0	0
-negative regulation of activation-induced cell death of T cells	GO_0070236	0	1	0	0	0
-negative regulation of activated T cell autonomous cell death	GO_0070240	0	1	0	0	0
-negative regulation of TRAIL-activated apoptotic signaling pathway	GO_1903122	0	1	0	0	0
-negative regulation of T cell apoptotic process	GO_0070233	0	1	0	0	0
-negative regulation of B cell deletion	GO_0002868	0	1	0	0	0
-negative regulation of B cell apoptotic process	GO_0002903	0	1	0	0	0
-negative regulation by symbiont of host apoptotic process	GO_0033668	0	1	0	0	0
-natural killer cell apoptotic process	GO_0070246	0	1	0	0	0
-myeloid cell apoptotic process	GO_0033028	0	1	0	0	0
-muscle cell apoptotic process	GO_0010657	0	1	0	0	0
-motor neuron apoptotic process	GO_0097049	0	1	0	0	0
-modulation of apoptotic process in other organism	GO_0044532	0	1	0	0	0
-modulation by virus of host apoptotic process	GO_0039526	0	1	0	0	0
-modulation by symbiont of host apoptotic process	GO_0052150	0	1	0	0	0
-modulation by organism of apoptotic process in other organism involved in symbiotic interaction	GO_0052433	0	1	0	0	0
-mitochondrial outer membrane permeabilization	GO_0097345	0	1	0	0	0
-mitochondrial fragmentation involved in apoptotic process	GO_0043653	0	1	0	0	0
-mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	0	0	0
-mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	0	0	0
-mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	0	0	0
-mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	0	0	0
-mesenchymal cell apoptotic process	GO_0097152	0	1	0	0	0
-melanocyte apoptotic process	GO_1902362	0	1	0	0	0
-mature B cell apoptotic process	GO_0002901	0	1	0	0	0
-mast cell apoptotic process	GO_0033024	0	1	0	0	0
-macrophage apoptotic process	GO_0071888	0	1	0	0	0
-lymphocyte apoptotic process	GO_0070227	0	1	0	0	0
-leukocyte apoptotic process	GO_0071887	0	1	0	0	0
-lens fiber cell apoptotic process	GO_1990086	0	1	0	0	0
-keratinocyte apoptotic process	GO_0097283	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0008631	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1990127	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to osmotic stress	GO_0008627	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to nitrosative stress	GO_1990442	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to hypoxia	GO_1990144	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036481	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	GO_0070059	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_0042771	0	1	0	0	0
-intrinsic apoptotic signaling pathway in response to DNA damage	GO_0008630	0	1	0	0	0
-intrinsic apoptotic signaling pathway by p53 class mediator	GO_0072332	0	1	0	0	0
-intrinsic apoptotic signaling pathway	GO_0097193	0	1	0	0	0
-inhibition of cysteine-type endopeptidase activity involved in apoptotic process	GO_1990001	0	1	0	0	0
-inflammatory cell apoptotic process	GO_0006925	0	1	0	0	0
-induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039651	0	1	0	0	0
-induction by virus of host apoptotic process	GO_0019051	0	1	0	0	0
-hepatocyte apoptotic process	GO_0097284	0	1	0	0	0
-hepatoblast apoptotic process	GO_1902489	0	1	0	0	0
-granzyme-mediated apoptotic signaling pathway	GO_0008626	0	1	0	0	0
-glomerular visceral epithelial cell apoptotic process	GO_1903210	0	1	0	0	0
-glial cell apoptotic process	GO_0034349	0	1	0	0	0
-fibroblast growth factor receptor apoptotic signaling pathway	GO_1902178	0	1	0	0	0
-fibroblast apoptotic process	GO_0044346	0	1	0	0	0
-extrinsic apoptotic signaling pathway via death domain receptors	GO_0008625	0	1	0	0	0
-extrinsic apoptotic signaling pathway in absence of ligand	GO_0097192	0	1	0	0	0
-extrinsic apoptotic signaling pathway	GO_0097191	0	1	0	0	0
-execution phase of apoptosis	GO_0097194	0	1	0	0	0
-erythrocyte apoptotic process	GO_1902217	0	1	0	0	0
-epithelial cell apoptotic process involved in palatal shelf morphogenesis	GO_1990134	0	1	0	0	0
-endothelial cell apoptotic process	GO_0072577	0	1	0	0	0
-dendritic cell apoptotic process	GO_0097048	0	1	0	0	0
-death-inducing signaling complex assembly	GO_0071550	0	1	0	0	0
-cytotoxic T cell apoptotic process	GO_1902483	0	1	0	0	0
-cysteine-type endopeptidase regulator activity involved in apoptotic process	GO_0043028	0	1	0	0	0
-cysteine-type endopeptidase inhibitor activity involved in apoptotic process	GO_0043027	0	1	0	0	0
-cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_0097200	0	1	0	0	0
-cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_0097199	0	1	0	0	0
-cysteine-type endopeptidase activity involved in apoptotic process	GO_0097153	0	1	0	0	0
-cysteine-type endopeptidase activator activity involved in apoptotic process	GO_0008656	0	1	0	0	0
-compound eye retinal cell apoptotic process	GO_1990010	0	1	0	0	0
-clearance of cells from fusion plate by apoptotic process	GO_0060885	0	1	0	0	0
-cholangiocyte apoptotic process	GO_1902488	0	1	0	0	0
-central B cell deletion	GO_0002342	0	1	0	0	0
-cellular component disassembly involved in execution phase of apoptosis	GO_0006921	0	1	0	0	0
-cardiac muscle cell apoptotic process	GO_0010659	0	1	0	0	0
-apoptotic process involved in salivary gland cavitation	GO_0060663	0	1	0	0	0
-apoptotic process involved in patterning of blood vessels	GO_1902262	0	1	0	0	0
-apoptotic process involved in metanephric nephron tubule development	GO_1900205	0	1	0	0	0
-apoptotic process involved in metanephric collecting duct development	GO_1900204	0	1	0	0	0
-apoptotic process involved in heart valve morphogenesis	GO_0003276	0	1	0	0	0
-apoptotic process involved in heart morphogenesis	GO_0003278	0	1	0	0	0
-apoptotic process involved in endocardial cushion morphogenesis	GO_0003277	0	1	0	0	0
-apoptotic process involved in embryonic digit morphogenesis	GO_1902263	0	1	0	0	0
-apoptotic process involved in development	GO_1902742	0	1	0	0	0
-apoptotic process involved in atrial ventricular junction remodeling	GO_0003296	0	1	0	0	0
-anoikis	GO_0043276	0	1	0	0	0
-activation-induced cell death of T cells	GO_0006924	0	1	0	0	0
-activation-induced B cell apoptotic process	GO_0071948	0	1	0	0	0
-activated T cell autonomous cell death	GO_0070238	0	1	0	0	0
-TRAIL-activated apoptotic signaling pathway	GO_0036462	0	1	0	0	0
-TRAIL receptor activity	GO_0036463	0	1	0	0	0
-TRAIL death-inducing signaling complex assembly	GO_1903074	0	1	0	0	0
-T cell apoptotic process	GO_0070231	0	1	0	0	0
-Sertoli cell apoptotic process	GO_1902484	0	1	0	0	0
-B cell receptor apoptotic signaling pathway	GO_1990117	0	1	0	0	0
-B cell deletion	GO_0002516	0	1	0	0	0
-B cell apoptotic process	GO_0001783	0	1	0	0	0
+type B pancreatic cell apoptotic process	GO_0097050	0	1	1	0	0
+thymocyte apoptotic process	GO_0070242	0	1	1	0	0
+suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039650	0	1	1	0	0
+suppression by virus of host apoptotic process	GO_0019050	0	1	1	0	0
+striated muscle cell apoptotic process	GO_0010658	0	1	1	0	0
+smooth muscle cell apoptotic process	GO_0034390	0	1	1	0	0
+ripoptosome assembly involved in extrinsic apoptotic signaling pathway	GO_1901025	0	1	1	0	0
+retinal rod cell apoptotic process	GO_0097473	0	1	1	0	0
+retinal cone cell apoptotic process	GO_0097474	0	1	1	0	0
+retinal cell apoptotic process	GO_1990009	0	1	1	0	0
+release of matrix enzymes from mitochondria	GO_0032976	0	1	1	0	0
+release of cytochrome c from mitochondria	GO_0001836	0	1	1	0	0
+regulatory T cell apoptotic process	GO_1902482	0	1	1	0	0
+regulation of type B pancreatic cell apoptotic process	GO_2000674	0	1	1	0	0
+regulation of thymocyte apoptotic process	GO_0070243	0	1	1	0	0
+regulation of striated muscle cell apoptotic process	GO_0010662	0	1	1	0	0
+regulation of smooth muscle cell apoptotic process	GO_0034391	0	1	1	0	0
+regulation of release of cytochrome c from mitochondria	GO_0090199	0	1	1	0	0
+regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_1900739	0	1	1	0	0
+regulation of peripheral B cell deletion	GO_0002908	0	1	1	0	0
+regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903376	0	1	1	0	0
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902175	0	1	1	0	0
+regulation of oligodendrocyte apoptotic process	GO_1900141	0	1	1	0	0
+regulation of nurse cell apoptotic process	GO_0045477	0	1	1	0	0
+regulation of neutrophil apoptotic process	GO_0033029	0	1	1	0	0
+regulation of neuron apoptotic process	GO_0043523	0	1	1	0	0
+regulation of natural killer cell apoptotic process	GO_0070247	0	1	1	0	0
+regulation of myeloid cell apoptotic process	GO_0033032	0	1	1	0	0
+regulation of muscle cell apoptotic process	GO_0010660	0	1	1	0	0
+regulation of motor neuron apoptotic process	GO_2000671	0	1	1	0	0
+regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901028	0	1	1	0	0
+regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902108	0	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	0	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	0	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	0	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	0	1	1	0	0
+regulation of mesenchymal cell apoptotic process	GO_2001053	0	1	1	0	0
+regulation of mature B cell apoptotic process	GO_0002905	0	1	1	0	0
+regulation of mast cell apoptotic process	GO_0033025	0	1	1	0	0
+regulation of macrophage apoptotic process	GO_2000109	0	1	1	0	0
+regulation of lymphocyte apoptotic process	GO_0070228	0	1	1	0	0
+regulation of leukocyte apoptotic process	GO_2000106	0	1	1	0	0
+regulation of keratinocyte apoptotic process	GO_1902172	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902238	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902218	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903750	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902165	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902229	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902253	0	1	1	0	0
+regulation of intrinsic apoptotic signaling pathway	GO_2001242	0	1	1	0	0
+regulation of hypoxia-induced intrinsic apoptotic signaling pathway	GO_1903297	0	1	1	0	0
+regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903383	0	1	1	0	0
+regulation of glial cell apoptotic process	GO_0034350	0	1	1	0	0
+regulation of fibroblast apoptotic process	GO_2000269	0	1	1	0	0
+regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO_1902041	0	1	1	0	0
+regulation of erythrocyte apoptotic process	GO_1902250	0	1	1	0	0
+regulation of endothelial cell apoptotic process	GO_2000351	0	1	1	0	0
+regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903381	0	1	1	0	0
+regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO_1902235	0	1	1	0	0
+regulation of dendritic cell apoptotic process	GO_2000668	0	1	1	0	0
+regulation of death-inducing signaling complex assembly	GO_1903072	0	1	1	0	0
+regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_2001267	0	1	1	0	0
+regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0043281	0	1	1	0	0
+regulation of compound eye retinal cell apoptotic process	GO_1901692	0	1	1	0	0
+regulation of central B cell deletion	GO_0002898	0	1	1	0	0
+regulation of apoptotic signaling pathway	GO_2001233	0	1	1	0	0
+regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902256	0	1	1	0	0
+regulation of apoptotic process involved in morphogenesis	GO_1902337	0	1	1	0	0
+regulation of apoptotic process involved in metanephric nephron tubule development	GO_1900217	0	1	1	0	0
+regulation of apoptotic process involved in metanephric collecting duct development	GO_1900214	0	1	1	0	0
+regulation of apoptotic process	GO_0042981	0	1	1	0	0
+regulation of apoptotic DNA fragmentation	GO_1902510	0	1	1	0	0
+regulation of apoptosis involved in tissue homeostasis	GO_0060785	0	1	1	0	0
+regulation of apoptosis by sphingosine-1-phosphate signaling pathway	GO_0003377	0	1	1	0	0
+regulation of anoikis	GO_2000209	0	1	1	0	0
+regulation of activation-induced cell death of T cells	GO_0070235	0	1	1	0	0
+regulation of activated T cell autonomous cell death	GO_0070239	0	1	1	0	0
+regulation of TRAIL-activated apoptotic signaling pathway	GO_1903121	0	1	1	0	0
+regulation of T cell apoptotic process	GO_0070232	0	1	1	0	0
+regulation of B cell deletion	GO_0002867	0	1	1	0	0
+regulation of B cell apoptotic process	GO_0002902	0	1	1	0	0
+protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_0001844	0	1	1	0	0
+positive regulation of type B pancreatic cell apoptotic process	GO_2000676	0	1	1	0	0
+positive regulation of thymocyte apoptotic process	GO_0070245	0	1	1	0	0
+positive regulation of striated muscle cell apoptotic process	GO_0010663	0	1	1	0	0
+positive regulation of smooth muscle cell apoptotic process	GO_0034393	0	1	1	0	0
+positive regulation of release of cytochrome c from mitochondria	GO_0090200	0	1	1	0	0
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO_1900740	0	1	1	0	0
+positive regulation of peripheral B cell deletion	GO_0002910	0	1	1	0	0
+positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903378	0	1	1	0	0
+positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902177	0	1	1	0	0
+positive regulation of oligodendrocyte apoptotic process	GO_1900143	0	1	1	0	0
+positive regulation of nurse cell apoptotic process	GO_0045850	0	1	1	0	0
+positive regulation of neutrophil apoptotic process	GO_0033031	0	1	1	0	0
+positive regulation of neuron apoptotic process	GO_0043525	0	1	1	0	0
+positive regulation of natural killer cell apoptotic process	GO_0070249	0	1	1	0	0
+positive regulation of myeloid cell apoptotic process	GO_0033034	0	1	1	0	0
+positive regulation of muscle cell apoptotic process	GO_0010661	0	1	1	0	0
+positive regulation of motor neuron apoptotic process	GO_2000673	0	1	1	0	0
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901030	0	1	1	0	0
+positive regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902110	0	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	0	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	0	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	0	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	0	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process	GO_2001055	0	1	1	0	0
+positive regulation of mature B cell apoptotic process	GO_0002907	0	1	1	0	0
+positive regulation of mast cell apoptotic process	GO_0033027	0	1	1	0	0
+positive regulation of macrophage apoptotic process	GO_2000111	0	1	1	0	0
+positive regulation of lymphocyte apoptotic process	GO_0070230	0	1	1	0	0
+positive regulation of leukocyte apoptotic process	GO_2000108	0	1	1	0	0
+positive regulation of keratinocyte apoptotic process	GO_1902174	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902240	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902220	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903752	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902167	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902231	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902255	0	1	1	0	0
+positive regulation of intrinsic apoptotic signaling pathway	GO_2001244	0	1	1	0	0
+positive regulation of glial cell apoptotic process	GO_0034352	0	1	1	0	0
+positive regulation of fibroblast apoptotic process	GO_2000271	0	1	1	0	0
+positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO_1902043	0	1	1	0	0
+positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO_2001241	0	1	1	0	0
+positive regulation of extrinsic apoptotic signaling pathway	GO_2001238	0	1	1	0	0
+positive regulation of erythrocyte apoptotic process	GO_1902252	0	1	1	0	0
+positive regulation of endothelial cell apoptotic process	GO_2000353	0	1	1	0	0
+positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO_1902237	0	1	1	0	0
+positive regulation of dendritic cell apoptotic process	GO_2000670	0	1	1	0	0
+positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_2001272	0	1	1	0	0
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_2001269	0	1	1	0	0
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0043280	0	1	1	0	0
+positive regulation of compound eye retinal cell apoptotic process	GO_1901694	0	1	1	0	0
+positive regulation of central B cell deletion	GO_0002900	0	1	1	0	0
+positive regulation of cardiac muscle cell apoptotic process	GO_0010666	0	1	1	0	0
+positive regulation of apoptotic signaling pathway	GO_2001235	0	1	1	0	0
+positive regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902258	0	1	1	0	0
+positive regulation of apoptotic process involved in morphogenesis	GO_1902339	0	1	1	0	0
+positive regulation of apoptotic process involved in metanephric nephron tubule development	GO_1900219	0	1	1	0	0
+positive regulation of apoptotic process involved in metanephric collecting duct development	GO_1900216	0	1	1	0	0
+positive regulation of apoptotic process involved in mammary gland involution	GO_0060058	0	1	1	0	0
+positive regulation of apoptotic process in other organism	GO_0044533	0	1	1	0	0
+positive regulation of apoptotic process by virus	GO_0060139	0	1	1	0	0
+positive regulation of apoptotic process	GO_0043065	0	1	1	0	0
+positive regulation of apoptotic DNA fragmentation	GO_1902512	0	1	1	0	0
+positive regulation of anoikis	GO_2000210	0	1	1	0	0
+positive regulation of activation-induced cell death of T cells	GO_0070237	0	1	1	0	0
+positive regulation of activated T cell autonomous cell death	GO_0070241	0	1	1	0	0
+positive regulation of T cell apoptotic process	GO_0070234	0	1	1	0	0
+positive regulation of B cell deletion	GO_0002869	0	1	1	0	0
+positive regulation of B cell apoptotic process	GO_0002904	0	1	1	0	0
+positive regulation by symbiont of host apoptotic process	GO_0052151	0	1	1	0	0
+positive regulation by organism of apoptotic process in other organism involved in symbiotic interaction	GO_0052501	0	1	1	0	0
+phosphatidylserine exposure on apoptotic cell surface	GO_0070782	0	1	1	0	0
+peripheral B cell deletion	GO_0002454	0	1	1	0	0
+peptidase activator activity involved in apoptotic process	GO_0016505	0	1	1	0	0
+oligodendrocyte apoptotic process	GO_0097252	0	1	1	0	0
+nurse cell apoptotic process	GO_0045476	0	1	1	0	0
+nuclear fragmentation involved in apoptotic nuclear change	GO_0030264	0	1	1	0	0
+neutrophil apoptotic process	GO_0001781	0	1	1	0	0
+neuron intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0036480	0	1	1	0	0
+neuron intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036482	0	1	1	0	0
+neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	GO_0036483	0	1	1	0	0
+neuron apoptotic process	GO_0051402	0	1	1	0	0
+negative regulation of type B pancreatic cell apoptotic process	GO_2000675	0	1	1	0	0
+negative regulation of thymocyte apoptotic process	GO_0070244	0	1	1	0	0
+negative regulation of striated muscle cell apoptotic process	GO_0010664	0	1	1	0	0
+negative regulation of smooth muscle cell apoptotic process	GO_0034392	0	1	1	0	0
+negative regulation of release of cytochrome c from mitochondria	GO_0090201	0	1	1	0	0
+negative regulation of peripheral B cell deletion	GO_0002909	0	1	1	0	0
+negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903377	0	1	1	0	0
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO_1902176	0	1	1	0	0
+negative regulation of oligodendrocyte apoptotic process	GO_1900142	0	1	1	0	0
+negative regulation of nurse cell apoptotic process	GO_0045849	0	1	1	0	0
+negative regulation of neutrophil apoptotic process	GO_0033030	0	1	1	0	0
+negative regulation of neuron apoptotic process	GO_0043524	0	1	1	0	0
+negative regulation of natural killer cell apoptotic process	GO_0070248	0	1	1	0	0
+negative regulation of myeloid cell apoptotic process	GO_0033033	0	1	1	0	0
+negative regulation of muscle cell apoptotic process	GO_0010656	0	1	1	0	0
+negative regulation of motor neuron apoptotic process	GO_2000672	0	1	1	0	0
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO_1901029	0	1	1	0	0
+negative regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902109	0	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	0	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	0	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	0	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	0	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process	GO_2001054	0	1	1	0	0
+negative regulation of mature B cell apoptotic process	GO_0002906	0	1	1	0	0
+negative regulation of mast cell apoptotic process	GO_0033026	0	1	1	0	0
+negative regulation of macrophage apoptotic process	GO_2000110	0	1	1	0	0
+negative regulation of lymphocyte apoptotic process	GO_0070229	0	1	1	0	0
+negative regulation of leukocyte apoptotic process	GO_2000107	0	1	1	0	0
+negative regulation of keratinocyte apoptotic process	GO_1902173	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1902239	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	GO_1902219	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_1903751	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_1902166	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO_1902230	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	GO_1902254	0	1	1	0	0
+negative regulation of intrinsic apoptotic signaling pathway	GO_2001243	0	1	1	0	0
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	GO_1903298	0	1	1	0	0
+negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	GO_1903384	0	1	1	0	0
+negative regulation of glial cell apoptotic process	GO_0034351	0	1	1	0	0
+negative regulation of fibroblast apoptotic process	GO_2000270	0	1	1	0	0
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO_1902042	0	1	1	0	0
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO_2001240	0	1	1	0	0
+negative regulation of extrinsic apoptotic signaling pathway	GO_2001237	0	1	1	0	0
+negative regulation of erythrocyte apoptotic process	GO_1902251	0	1	1	0	0
+negative regulation of endothelial cell apoptotic process	GO_2000352	0	1	1	0	0
+negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway	GO_1903382	0	1	1	0	0
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO_1902236	0	1	1	0	0
+negative regulation of dendritic cell apoptotic process	GO_2000669	0	1	1	0	0
+negative regulation of death-inducing signaling complex assembly	GO_1903073	0	1	1	0	0
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_2001268	0	1	1	0	0
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO_0043154	0	1	1	0	0
+negative regulation of compound eye retinal cell apoptotic process	GO_1901693	0	1	1	0	0
+negative regulation of central B cell deletion	GO_0002899	0	1	1	0	0
+negative regulation of cardiac muscle cell apoptotic process	GO_0010667	0	1	1	0	0
+negative regulation of apoptotic signaling pathway	GO_2001234	0	1	1	0	0
+negative regulation of apoptotic process involved in outflow tract morphogenesis	GO_1902257	0	1	1	0	0
+negative regulation of apoptotic process involved in morphogenesis	GO_1902338	0	1	1	0	0
+negative regulation of apoptotic process involved in metanephric nephron tubule development	GO_1900218	0	1	1	0	0
+negative regulation of apoptotic process involved in metanephric collecting duct development	GO_1900215	0	1	1	0	0
+negative regulation of apoptotic process	GO_0043066	0	1	1	0	0
+negative regulation of apoptotic DNA fragmentation	GO_1902511	0	1	1	0	0
+negative regulation of anoikis	GO_2000811	0	1	1	0	0
+negative regulation of activation-induced cell death of T cells	GO_0070236	0	1	1	0	0
+negative regulation of activated T cell autonomous cell death	GO_0070240	0	1	1	0	0
+negative regulation of TRAIL-activated apoptotic signaling pathway	GO_1903122	0	1	1	0	0
+negative regulation of T cell apoptotic process	GO_0070233	0	1	1	0	0
+negative regulation of B cell deletion	GO_0002868	0	1	1	0	0
+negative regulation of B cell apoptotic process	GO_0002903	0	1	1	0	0
+negative regulation by symbiont of host apoptotic process	GO_0033668	0	1	1	0	0
+natural killer cell apoptotic process	GO_0070246	0	1	1	0	0
+myeloid cell apoptotic process	GO_0033028	0	1	1	0	0
+muscle cell apoptotic process	GO_0010657	0	1	1	0	0
+motor neuron apoptotic process	GO_0097049	0	1	1	0	0
+modulation of apoptotic process in other organism	GO_0044532	0	1	1	0	0
+modulation by virus of host apoptotic process	GO_0039526	0	1	1	0	0
+modulation by symbiont of host apoptotic process	GO_0052150	0	1	1	0	0
+modulation by organism of apoptotic process in other organism involved in symbiotic interaction	GO_0052433	0	1	1	0	0
+mitochondrial outer membrane permeabilization	GO_0097345	0	1	1	0	0
+mitochondrial fragmentation involved in apoptotic process	GO_0043653	0	1	1	0	0
+mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	0	1	1	0	0
+mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	0	1	1	0	0
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	0	1	1	0	0
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	0	1	1	0	0
+mesenchymal cell apoptotic process	GO_0097152	0	1	1	0	0
+melanocyte apoptotic process	GO_1902362	0	1	1	0	0
+mature B cell apoptotic process	GO_0002901	0	1	1	0	0
+mast cell apoptotic process	GO_0033024	0	1	1	0	0
+macrophage apoptotic process	GO_0071888	0	1	1	0	0
+lymphocyte apoptotic process	GO_0070227	0	1	1	0	0
+leukocyte apoptotic process	GO_0071887	0	1	1	0	0
+lens fiber cell apoptotic process	GO_1990086	0	1	1	0	0
+keratinocyte apoptotic process	GO_0097283	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to oxidative stress	GO_0008631	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	GO_1990127	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to osmotic stress	GO_0008627	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to nitrosative stress	GO_1990442	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to hypoxia	GO_1990144	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to hydrogen peroxide	GO_0036481	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	GO_0070059	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO_0042771	0	1	1	0	0
+intrinsic apoptotic signaling pathway in response to DNA damage	GO_0008630	0	1	1	0	0
+intrinsic apoptotic signaling pathway by p53 class mediator	GO_0072332	0	1	1	0	0
+intrinsic apoptotic signaling pathway	GO_0097193	0	1	1	0	0
+inhibition of cysteine-type endopeptidase activity involved in apoptotic process	GO_1990001	0	1	1	0	0
+inflammatory cell apoptotic process	GO_0006925	0	1	1	0	0
+induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process	GO_0039651	0	1	1	0	0
+induction by virus of host apoptotic process	GO_0019051	0	1	1	0	0
+hepatocyte apoptotic process	GO_0097284	0	1	1	0	0
+hepatoblast apoptotic process	GO_1902489	0	1	1	0	0
+granzyme-mediated apoptotic signaling pathway	GO_0008626	0	1	1	0	0
+glomerular visceral epithelial cell apoptotic process	GO_1903210	0	1	1	0	0
+glial cell apoptotic process	GO_0034349	0	1	1	0	0
+fibroblast growth factor receptor apoptotic signaling pathway	GO_1902178	0	1	1	0	0
+fibroblast apoptotic process	GO_0044346	0	1	1	0	0
+extrinsic apoptotic signaling pathway via death domain receptors	GO_0008625	0	1	1	0	0
+extrinsic apoptotic signaling pathway in absence of ligand	GO_0097192	0	1	1	0	0
+extrinsic apoptotic signaling pathway	GO_0097191	0	1	1	0	0
+execution phase of apoptosis	GO_0097194	0	1	1	0	0
+erythrocyte apoptotic process	GO_1902217	0	1	1	0	0
+epithelial cell apoptotic process involved in palatal shelf morphogenesis	GO_1990134	0	1	1	0	0
+endothelial cell apoptotic process	GO_0072577	0	1	1	0	0
+dendritic cell apoptotic process	GO_0097048	0	1	1	0	0
+death-inducing signaling complex assembly	GO_0071550	0	1	1	0	0
+cytotoxic T cell apoptotic process	GO_1902483	0	1	1	0	0
+cysteine-type endopeptidase regulator activity involved in apoptotic process	GO_0043028	0	1	1	0	0
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process	GO_0043027	0	1	1	0	0
+cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO_0097200	0	1	1	0	0
+cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO_0097199	0	1	1	0	0
+cysteine-type endopeptidase activity involved in apoptotic process	GO_0097153	0	1	1	0	0
+cysteine-type endopeptidase activator activity involved in apoptotic process	GO_0008656	0	1	1	0	0
+compound eye retinal cell apoptotic process	GO_1990010	0	1	1	0	0
+clearance of cells from fusion plate by apoptotic process	GO_0060885	0	1	1	0	0
+cholangiocyte apoptotic process	GO_1902488	0	1	1	0	0
+central B cell deletion	GO_0002342	0	1	1	0	0
+cellular component disassembly involved in execution phase of apoptosis	GO_0006921	0	1	1	0	0
+cardiac muscle cell apoptotic process	GO_0010659	0	1	1	0	0
+apoptotic process involved in salivary gland cavitation	GO_0060663	0	1	1	0	0
+apoptotic process involved in patterning of blood vessels	GO_1902262	0	1	1	0	0
+apoptotic process involved in metanephric nephron tubule development	GO_1900205	0	1	1	0	0
+apoptotic process involved in metanephric collecting duct development	GO_1900204	0	1	1	0	0
+apoptotic process involved in heart valve morphogenesis	GO_0003276	0	1	1	0	0
+apoptotic process involved in heart morphogenesis	GO_0003278	0	1	1	0	0
+apoptotic process involved in endocardial cushion morphogenesis	GO_0003277	0	1	1	0	0
+apoptotic process involved in embryonic digit morphogenesis	GO_1902263	0	1	1	0	0
+apoptotic process involved in development	GO_1902742	0	1	1	0	0
+apoptotic process involved in atrial ventricular junction remodeling	GO_0003296	0	1	1	0	0
+anoikis	GO_0043276	0	1	1	0	0
+activation-induced cell death of T cells	GO_0006924	0	1	1	0	0
+activation-induced B cell apoptotic process	GO_0071948	0	1	1	0	0
+activated T cell autonomous cell death	GO_0070238	0	1	1	0	0
+TRAIL-activated apoptotic signaling pathway	GO_0036462	0	1	1	0	0
+TRAIL receptor activity	GO_0036463	0	1	1	0	0
+TRAIL death-inducing signaling complex assembly	GO_1903074	0	1	1	0	0
+T cell apoptotic process	GO_0070231	0	1	1	0	0
+Sertoli cell apoptotic process	GO_1902484	0	1	1	0	0
+B cell receptor apoptotic signaling pathway	GO_1990117	0	1	1	0	0
+B cell deletion	GO_0002516	0	1	1	0	0
+B cell apoptotic process	GO_0001783	0	1	1	0	0
