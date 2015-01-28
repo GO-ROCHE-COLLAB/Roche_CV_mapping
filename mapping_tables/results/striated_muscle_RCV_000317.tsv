@@ -41,12 +41,12 @@ muscle thin filament assembly	GO_0071689	0	1	1	0	0
 muscle fiber development	GO_0048747	0	1	1	0	0
 embryonic cardiac muscle cell growth involved in heart morphogenesis	GO_0003246	0	1	1	0	0
 cell growth involved in cardiac muscle cell development	GO_0061049	0	1	1	0	0
-cardiac pacemaker cell development	GO_0060926	0	1	0	1	0
+cardiac pacemaker cell development	GO_0060926	0	1	1	1	0
 cardiac myofibril assembly	GO_0055003	0	1	1	0	0
 cardiac muscle thin filament assembly	GO_0071691	0	1	1	0	0
 cardiac muscle myosin thick filament assembly	GO_0071690	0	1	1	0	0
 cardiac muscle fiber development	GO_0048739	0	1	1	0	0
 cardiac muscle cell development	GO_0055013	0	1	1	0	0
-atrioventricular node cell development	GO_0060928	0	1	0	1	0
+atrioventricular node cell development	GO_0060928	0	1	1	1	0
 atrial cardiac myofibril assembly	GO_0055004	0	1	1	0	0
 atrial cardiac muscle cell development	GO_0055014	0	1	1	0	0
