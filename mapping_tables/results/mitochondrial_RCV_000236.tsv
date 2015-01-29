@@ -11,6 +11,8 @@ regulation of mitochondrial outer membrane permeabilization involved in apoptoti
 regulation of mitochondrial membrane permeability	GO_0046902	1	1	1	0	0
 regulation of mitochondrial fusion	GO_0010635	1	1	1	0	0
 regulation of mitochondrial fission	GO_0090140	1	1	1	0	0
+regulation of mitochondrial depolarization	GO_0051900	1	1	1	0	0
+regulation of mitochondrial RNA catabolic process	GO_0000960	1	1	1	0	0
 regulation of mitochondrial DNA replication	GO_0090296	1	1	1	0	0
 regulation of establishment of mitochondrion localization involved in mitochondrial fission	GO_0090147	1	1	1	0	0
 rRNA transcription from mitochondrial promoter	GO_0042792	1	1	1	0	0
@@ -35,7 +37,9 @@ positive regulation of mitochondrial outer membrane permeabilization involved in
 positive regulation of mitochondrial membrane permeability	GO_0035794	1	1	1	0	0
 positive regulation of mitochondrial fusion	GO_0010636	1	1	1	0	0
 positive regulation of mitochondrial fission	GO_0090141	1	1	1	0	0
+positive regulation of mitochondrial depolarization	GO_0051901	1	1	1	0	0
 positive regulation of mitochondrial calcium ion concentration	GO_0051561	1	1	1	0	0
+positive regulation of mitochondrial RNA catabolic process	GO_0000962	1	1	1	0	0
 positive regulation of mitochondrial DNA replication	GO_0090297	1	1	1	0	0
 pole plasm mitochondrial srRNA localization	GO_0019097	1	1	1	0	0
 pole plasm mitochondrial rRNA localization	GO_0019095	1	1	1	0	0
@@ -50,7 +54,9 @@ negative regulation of mitochondrial outer membrane permeabilization involved in
 negative regulation of mitochondrial membrane permeability	GO_0035795	1	1	1	0	0
 negative regulation of mitochondrial fusion	GO_0010637	1	1	1	0	0
 negative regulation of mitochondrial fission	GO_0090258	1	1	1	0	0
+negative regulation of mitochondrial depolarization	GO_0051902	1	1	1	0	0
 negative regulation of mitochondrial calcium ion concentration	GO_0051562	1	1	1	0	0
+negative regulation of mitochondrial RNA catabolic process	GO_0000961	1	1	1	0	0
 negative regulation of mitochondrial DNA replication	GO_0090298	1	1	1	0	0
 mitochondrion transport along microtubule	GO_0047497	1	1	1	0	0
 mitochondrion organization	GO_0007005	1	1	1	0	0
@@ -149,15 +155,9 @@ RNA import into mitochondrion	GO_0035927	1	1	1	0	0
 regulation of mitochondrial rRNA stability	GO_0044529	1	0	1	0	0
 regulation of mitochondrial membrane potential	GO_0051881	1	0	1	0	0
 regulation of mitochondrial mRNA stability	GO_0044528	1	0	1	0	0
-regulation of mitochondrial depolarization	GO_0051900	1	0	1	0	0
-regulation of mitochondrial RNA catabolic process	GO_0000960	1	0	1	0	0
 protein import into mitochondrial intermembrane space, conservative	GO_0045042	1	0	1	1	1
 positive regulation of mitochondrial membrane potential	GO_0010918	1	0	1	0	0
-positive regulation of mitochondrial depolarization	GO_0051901	1	0	1	0	0
-positive regulation of mitochondrial RNA catabolic process	GO_0000962	1	0	1	0	0
 negative regulation of mitochondrial membrane potential	GO_0010917	1	0	1	0	0
-negative regulation of mitochondrial depolarization	GO_0051902	1	0	1	0	0
-negative regulation of mitochondrial RNA catabolic process	GO_0000961	1	0	1	0	0
 modification by symbiont of host mitochondrion	GO_0033659	1	0	1	0	0
 mitochondrial unfolded protein response	GO_0034514	1	0	1	0	0
 mitochondrial translocation	GO_0006628	1	0	1	1	1
@@ -197,6 +197,7 @@ regulation of protein import into mitochondrial outer membrane	GO_1903636	0	1	0	
 regulation of mitochondrion degradation	GO_1903146	0	1	0	0	0
 regulation of mitochondrial membrane permeability involved in programmed necrotic cell death	GO_1902445	0	1	0	0	0
 regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902108	0	1	0	0	0
+regulation of mitochondrial electron transport, NADH to ubiquinone	GO_1902956	0	1	0	0	0
 regulation of mitochondrial DNA metabolic process	GO_1901858	0	1	0	0	0
 regulation of macromitophagy	GO_1901524	0	1	0	0	0
 regulation of cristae formation	GO_1903850	0	1	0	0	0
@@ -204,6 +205,7 @@ positive regulation of transcription from mitochondrial promoter	GO_1903109	0	1	
 positive regulation of protein import into mitochondrial outer membrane	GO_1903638	0	1	0	0	0
 positive regulation of mitochondrion degradation	GO_1903599	0	1	0	0	0
 positive regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902110	0	1	0	0	0
+positive regulation of mitochondrial electron transport, NADH to ubiquinone	GO_1902958	0	1	0	0	0
 positive regulation of mitochondrial DNA metabolic process	GO_1901860	0	1	0	0	0
 positive regulation of macromitophagy	GO_1901526	0	1	0	0	0
 positive regulation of cristae formation	GO_1903852	0	1	0	0	0
@@ -212,6 +214,7 @@ negative regulation of protein processing involved in protein targeting to mitoc
 negative regulation of protein import into mitochondrial outer membrane	GO_1903637	0	1	0	0	0
 negative regulation of mitochondrion degradation	GO_1903147	0	1	0	0	0
 negative regulation of mitochondrial membrane permeability involved in apoptotic process	GO_1902109	0	1	0	0	0
+negative regulation of mitochondrial electron transport, NADH to ubiquinone	GO_1902957	0	1	0	0	0
 negative regulation of mitochondrial DNA metabolic process	GO_1901859	0	1	0	0	0
 negative regulation of macromitophagy	GO_1901525	0	1	0	0	0
 negative regulation of cristae formation	GO_1903851	0	1	0	0	0

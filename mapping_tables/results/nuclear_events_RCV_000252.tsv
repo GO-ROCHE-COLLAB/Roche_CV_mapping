@@ -120,6 +120,7 @@ snRNA import into nucleus	GO_0061015	0	1	1	0	0
 snRNA export from nucleus	GO_0006408	0	1	1	0	0
 single-organism nuclear import	GO_1902593	0	1	1	0	0
 single fertilization	GO_0007338	0	1	1	0	0
+signal transduction involved in intra-S DNA damage checkpoint	GO_0072428	0	1	0	0	0
 second mitotic wave involved in compound eye morphogenesis	GO_0016330	0	1	1	0	0
 ribosomal subunit export from nucleus	GO_0000054	0	1	1	0	0
 ribosomal small subunit export from nucleus	GO_0000056	0	1	1	0	0
@@ -128,8 +129,12 @@ ribosomal large subunit export from nucleus	GO_0000055	0	1	1	0	0
 ribonucleoprotein complex import into nucleus	GO_0071167	0	1	1	0	0
 ribonucleoprotein complex export from nucleus	GO_0071426	0	1	1	0	0
 removal of RNA primer involved in mitotic DNA replication	GO_1903469	0	1	1	0	0
+regulation of telomere maintenance via semi-conservative replication	GO_0032213	0	1	0	0	0
 regulation of spermatid nuclear differentiation	GO_0045700	0	1	0	0	0
 regulation of nucleus organization	GO_1903353	0	1	0	0	0
+regulation of nuclear cell cycle DNA replication	GO_0033262	0	1	0	0	0
+regulation of mitotic cell cycle DNA replication	GO_1903463	0	1	0	0	0
+regulation of mitotic DNA replication initiation	GO_1903466	0	1	0	0	0
 regulation of karyogamy	GO_0032871	0	1	0	0	0
 rRNA-containing ribonucleoprotein complex export from nucleus	GO_0071428	0	1	1	0	0
 rRNA export from nucleus	GO_0006407	0	1	1	0	0
@@ -162,7 +167,11 @@ pre-replicative complex assembly involved in premeiotic DNA replication	GO_19029
 pre-replicative complex assembly involved in nuclear cell cycle DNA replication	GO_0006267	0	1	1	0	0
 pre-miRNA-containing ribonucleoprotein complex export from nucleus	GO_0071430	0	1	1	0	0
 pre-miRNA export from nucleus	GO_0035281	0	1	1	0	0
+positive regulation of telomere maintenance via semi-conservative replication	GO_0032215	0	1	0	0	0
 positive regulation of spermatid nuclear differentiation	GO_0045702	0	1	0	0	0
+positive regulation of nuclear cell cycle DNA replication	GO_0010571	0	1	0	0	0
+positive regulation of mitotic cell cycle DNA replication	GO_1903465	0	1	0	0	0
+positive regulation of DNA replication initiation	GO_1903468	0	1	0	0	0
 poly(A)+ mRNA export from nucleus	GO_0016973	0	1	1	0	0
 pollen development	GO_0009555	0	1	1	0	0
 polar nucleus fusion	GO_0010197	0	1	1	0	0
@@ -191,7 +200,11 @@ nuclear DNA replication termination	GO_1902317	0	1	1	0	0
 nuclear DNA replication DNA ligation	GO_1902333	0	1	1	0	0
 nuclear DNA replication DNA duplex unwinding	GO_1902320	0	1	1	0	0
 nuclear DNA replication	GO_0033260	0	1	1	0	0
+negative regulation of telomere maintenance via semi-conservative replication	GO_0032214	0	1	0	0	0
 negative regulation of spermatid nuclear differentiation	GO_0045701	0	1	0	0	0
+negative regulation of nuclear cell cycle DNA replication	GO_1902576	0	1	0	0	0
+negative regulation of mitotic cell cycle DNA replication	GO_1903464	0	1	0	0	0
+negative regulation of mitotic DNA replication initiation	GO_1903467	0	1	0	0	0
 ncRNA export from nucleus	GO_0097064	0	1	1	0	0
 multi-organism nuclear import	GO_1902594	0	1	1	0	0
 mitotic telomere maintenance via semi-conservative replication	GO_1902990	0	1	1	0	0

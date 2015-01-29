@@ -1,11 +1,14 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 regulation of secretion by asymmetric Golgi ribbon formation	GO_0090165	1	1	1	0	0
+regulation of protein glycosylation in Golgi	GO_0090283	1	1	1	0	0
 regulation of Golgi inheritance	GO_0090170	1	1	1	0	0
 recycling endosome to Golgi transport	GO_0071955	1	1	1	0	0
 protein targeting to Golgi	GO_0000042	1	1	1	0	0
 protein localization to Golgi apparatus	GO_0034067	1	1	1	0	0
 protein glycosylation in Golgi	GO_0033578	1	1	1	0	0
 protein galactosylation in Golgi	GO_0033581	1	1	1	0	0
+positive regulation of protein glycosylation in Golgi	GO_0090284	1	1	1	0	0
+negative regulation of protein glycosylation in Golgi	GO_0090285	1	1	1	0	0
 late endosome to Golgi transport	GO_0034499	1	1	1	0	0
 establishment of protein localization to Golgi	GO_0072600	1	1	1	0	0
 early endosome to Golgi transport	GO_0034498	1	1	1	0	0
@@ -49,7 +52,6 @@ retrograde transport, plasma membrane to Golgi	GO_0035526	1	0	1	0	0
 retrograde transport, endosome to Golgi	GO_0042147	1	0	1	0	0
 regulation of vesicle targeting, to, from or within Golgi	GO_0048209	1	0	1	0	0
 regulation of retrograde vesicle-mediated transport, Golgi to ER	GO_2000156	1	0	1	0	0
-regulation of protein glycosylation in Golgi	GO_0090283	1	0	1	0	0
 regulation of Golgi vesicle fusion to target membrane	GO_0048214	1	0	1	0	0
 regulation of Golgi to plasma membrane protein transport	GO_0042996	1	0	1	0	0
 regulation of Golgi to plasma membrane CFTR protein transport	GO_0042999	1	0	1	0	0
@@ -57,11 +59,9 @@ regulation of ER to Golgi vesicle-mediated transport by GTP hydrolysis	GO_009011
 regulation of ER to Golgi vesicle-mediated transport	GO_0060628	1	0	1	0	0
 protein retention in Golgi apparatus	GO_0045053	1	0	1	0	0
 post-Golgi vesicle-mediated transport	GO_0006892	1	0	1	0	0
-positive regulation of protein glycosylation in Golgi	GO_0090284	1	0	1	0	0
 positive regulation of Golgi vesicle fusion to target membrane	GO_0048215	1	0	1	0	0
 positive regulation of Golgi to plasma membrane protein transport	GO_0042998	1	0	1	0	0
 positive regulation of Golgi to plasma membrane CFTR protein transport	GO_0043003	1	0	1	0	0
-negative regulation of protein glycosylation in Golgi	GO_0090285	1	0	1	0	0
 negative regulation of Golgi vesicle fusion to target membrane	GO_0048216	1	0	1	0	0
 negative regulation of Golgi to plasma membrane protein transport	GO_0042997	1	0	1	0	0
 negative regulation of Golgi to plasma membrane CFTR protein transport	GO_0043002	1	0	1	0	0
@@ -89,9 +89,12 @@ vesicle targeting, inter-Golgi cisterna	GO_0048204	0	1	0	0	0
 vesicle targeting, cis-Golgi to rough ER	GO_0048206	0	1	0	0	0
 vesicle fusion with Golgi apparatus	GO_0048280	0	1	0	0	0
 trans-Golgi network to recycling endosome transport	GO_0044795	0	1	0	0	0
+regulation of cargo loading into COPII-coated vesicle	GO_1901301	0	1	0	0	0
 regulation of Golgi organization	GO_1903358	0	1	0	0	0
+regulation of COPII vesicle coating	GO_0003400	0	1	0	0	0
 protein localization to Golgi membrane	GO_1903292	0	1	0	0	0
 phosphoenolpyruvate transmembrane import into Golgi lumen	GO_1990536	0	1	0	0	0
+negative regulation of cargo loading into COPII-coated vesicle	GO_1901303	0	1	0	0	0
 cargo loading into COPII-coated vesicle	GO_0090110	0	1	0	0	0
 UDP-galactose transmembrane import into Golgi lumen	GO_0097624	0	1	0	0	0
 COPII-coated vesicle budding	GO_0090114	0	1	0	0	0
