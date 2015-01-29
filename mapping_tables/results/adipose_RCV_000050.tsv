@@ -1,24 +1,29 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+white fat cell proliferation	GO_0070343	1	1	1	0	0
 white fat cell differentiation involved in mammary gland fat development	GO_0060642	1	1	1	0	0
 white fat cell differentiation	GO_0050872	1	1	1	0	0
+regulation of white fat cell proliferation	GO_0070350	1	1	1	0	0
+regulation of fat cell proliferation	GO_0070344	1	1	1	0	0
+regulation of brown fat cell proliferation	GO_0070347	1	1	1	0	0
+positive regulation of white fat cell proliferation	GO_0070352	1	1	1	0	0
+positive regulation of fat cell proliferation	GO_0070346	1	1	1	0	0
+positive regulation of brown fat cell proliferation	GO_0070349	1	1	1	0	0
+negative regulation of white fat cell proliferation	GO_0070351	1	1	1	0	0
+negative regulation of fat cell proliferation	GO_0070345	1	1	1	0	0
+negative regulation of brown fat cell proliferation	GO_0070348	1	1	1	0	0
+fat cell proliferation	GO_0070341	1	1	1	0	0
 fat cell differentiation	GO_0045444	1	1	1	0	0
+brown fat cell proliferation	GO_0070342	1	1	1	0	0
 brown fat cell differentiation	GO_0050873	1	1	1	0	0
-white fat cell proliferation	GO_0070343	1	0	1	0	0
-regulation of white fat cell proliferation	GO_0070350	1	0	1	0	0
-regulation of fat cell proliferation	GO_0070344	1	0	1	0	0
-regulation of brown fat cell proliferation	GO_0070347	1	0	1	0	0
 regulation of adiponectin secretion	GO_0070163	1	0	1	0	0
-positive regulation of white fat cell proliferation	GO_0070352	1	0	1	0	0
-positive regulation of fat cell proliferation	GO_0070346	1	0	1	0	0
-positive regulation of brown fat cell proliferation	GO_0070349	1	0	1	0	0
 positive regulation of adiponectin secretion	GO_0070165	1	0	1	0	0
-negative regulation of white fat cell proliferation	GO_0070351	1	0	1	0	0
-negative regulation of fat cell proliferation	GO_0070345	1	0	1	0	0
-negative regulation of brown fat cell proliferation	GO_0070348	1	0	1	0	0
 negative regulation of adiponectin secretion	GO_0070164	1	0	1	0	0
-fat cell proliferation	GO_0070341	1	0	1	0	0
-brown fat cell proliferation	GO_0070342	1	0	1	0	0
 adipose tissue development	GO_0060612	1	0	1	0	0
 adiponectin-activated signaling pathway	GO_0033211	1	0	1	0	0
 adiponectin secretion	GO_0070162	1	0	1	0	0
-mesenchymal cell condensation involved in mammary fat development	GO_0060647	0	1	0	0	0
+regulation of fat cell differentiation	GO_0045598	0	1	0	0	0
+regulation of brown fat cell differentiation	GO_0090335	0	1	0	0	0
+positive regulation of fat cell differentiation	GO_0045600	0	1	0	0	0
+positive regulation of brown fat cell differentiation	GO_0090336	0	1	0	0	0
+negative regulation of fat cell differentiation	GO_0045599	0	1	0	0	0
+negative regulation of brown fat cell differentiation	GO_1903444	0	1	0	0	0

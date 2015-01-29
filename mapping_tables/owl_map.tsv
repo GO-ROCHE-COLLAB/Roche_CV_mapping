@@ -329,7 +329,7 @@ GPCR signaling	RCV_000019	G-protein coupled receptor signaling pathway	GO_000718
 NGF_pathway	RCV_000025	neurotrophin signaling pathway	GO_0038179	is_a_OR_part_of_OR_regulates		410	open
 SMAD pathway	RCV_000033	SMAD protein signal transduction	GO_0060395	is_a_OR_part_of		46	open
 Ser-Thr kinase signaling	RCV_000036	transmembrane receptor protein serine/threonine kinase signaling pathway	GO_0007178	is_a_OR_part_of_OR_regulates		29	open
-adipose	RCV_000050	adipose cell 	GO_0060612	CL_super_query	Combine function and development - with reference to adipose cell and tissue?	366	open
+adipose	RCV_000050	fat cell	CL_0000136	CL_super_query		366	open
 apoptosis	RCV_000066	apoptotic process	GO_0006915	is_a_OR_part_of_OR_regulates		313	open
 astrocyte	RCV_000074	astrocyte	CL_0000127	CL_super_query		413	open
 axon	RCV_000078	axon development	GO_0061564	is_a_OR_part_of_OR_regulates		226	open
@@ -345,7 +345,7 @@ endothelial	RCV_000151	endothelial cell	CL_0000115	CL_anat_super_query		357	open
 epithelial cell differentiation	RCV_000155	epithelial cell differentiation	GO_0030855	Equivalence		300	open
 glands	RCV_000169	gland	UBERON_0002530	CL_anat_super_query		415	open
 glial	RCV_000170	glial cell	CL_0000125	CL_super_query		335	open
-golgi dynamics	RCV_000181	Golgi apparatus	GO_0005794	cellular_component_process	New pattern	418	open
+golgi dynamics	RCV_000181	Golgi apparatus	GO_0005794	cellular_component_and_related_processes	New pattern	418	open
 hormone metabolism	RCV_000192	hormone metabolic process	GO_0042445	is_a_OR_part_of_OR_regulates	May miss a few sex hormones.	356	open
 leukocyte activation	RCV_000220	leukocyte	CL_0000738	CL_anat_super_query		271	open
 mesenchymal to epithelial transition	RCV_000233	mesenchymal to epithelial transition	GO_0060231	is_a_OR_part_of_OR_regulates		177	open

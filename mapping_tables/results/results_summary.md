@@ -2509,11 +2509,10 @@
 * Status: closed - mapping completed
 
 #### adipose RCV_000050
-* Key class: [adipose cell ](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0060612)
+* Key class: [fat cell](http://www.ebi.ac.uk/ontology-lookup/?termId=CL:0000136)
 * Pattern: [CL_super_query](../../patterns/CL_super_query.md)
-* Definition: Some part of a adipose cell , or some process in which: a adipose cell  participates; or that occur in a adipose cell  or which results in the developmental progression of a structure that will form a adipose cell 
-* map summary: Roche_cvt: RCV_000050; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some GO_0060612; manual_list_count 22, generated_list_count 5
-* Notes: Combine function and development - with reference to adipose cell and tissue?
+* Definition: Some part of a fat cell, or some process in which: a fat cell participates; or that occur in a fat cell or which results in the developmental progression of a structure that will form a fat cell
+* map summary: Roche_cvt: RCV_000050; class_expression scratch_6ed727d6_ab9c_4673_a216_1a1896d8a7cc some CL_0000136; manual_list_count 22, generated_list_count 22
 * [Results](adipose_RCV_000050.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/366)
 * Status: open
@@ -2885,9 +2884,9 @@
 
 #### golgi dynamics RCV_000181
 * Key class: [Golgi apparatus](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0005794)
-* Pattern: [cellular_component_process](../../patterns/cellular_component_process.md)
-* Definition: A process that results in organisation of a Golgi apparatus or that has a Golgi apparatus as a participant.
-* map summary: Roche_cvt: RCV_000181; class_expression scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51 some GO_0005794; manual_list_count 83, generated_list_count 63
+* Pattern: [cellular_component_and_related_processes](../../patterns/cellular_component_and_related_processes.md)
+* Definition: A Golgi apparatus or a process that results in organisation of a Golgi apparatus or that has a Golgi apparatus as a participant.
+* map summary: Roche_cvt: RCV_000181; class_expression d8d8caf2_4c0e_4115_bda0_65aeb6f4265f some GO_0005794; manual_list_count 83, generated_list_count 107
 * Notes: New pattern
 * [Results](golgi_dynamics_RCV_000181.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/418)
