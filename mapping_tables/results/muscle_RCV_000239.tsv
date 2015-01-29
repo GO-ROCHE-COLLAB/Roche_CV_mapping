@@ -4,256 +4,256 @@ myofibril	GO_0030016	1	1	1	0	0
 myofibril assembly	GO_0030239	1	0	1	0	0
 adult visceral muscle development	GO_0007524	1	0	1	0	0
 adult somatic muscle development	GO_0007527	1	0	1	0	0
-voltage-gated sodium channel activity involved in cardiac muscle cell action potential	GO_0086006	0	1	0	0	0
-voltage-gated sodium channel activity involved in bundle of His cell action potential	GO_0086061	0	1	0	0	0
-voltage-gated sodium channel activity involved in SA node cell action potential	GO_0086063	0	1	0	0	0
-voltage-gated sodium channel activity involved in Purkinje myocyte action potential	GO_0086062	0	1	0	0	0
-voltage-gated sodium channel activity involved in AV node cell action potential	GO_0086060	0	1	0	0	0
-voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1902282	0	1	0	0	0
-voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization	GO_0086008	0	1	0	0	0
-voltage-gated potassium channel activity involved in bundle of His cell action potential repolarization	GO_0086087	0	1	0	0	0
-voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization	GO_0086089	0	1	0	0	0
-voltage-gated potassium channel activity involved in SA node cell action potential repolarization	GO_0086090	0	1	0	0	0
-voltage-gated potassium channel activity involved in SA node cell action potential depolarization	GO_0086041	0	1	0	0	0
-voltage-gated potassium channel activity involved in Purkinje myocyte action potential repolarization	GO_0086088	0	1	0	0	0
-voltage-gated potassium channel activity involved in AV node cell action potential repolarization	GO_0086086	0	1	0	0	0
-voltage-gated calcium channel activity involved in cardiac muscle cell action potential	GO_0086007	0	1	0	0	0
-voltage-gated calcium channel activity involved in bundle of His cell action potential	GO_0086057	0	1	0	0	0
-voltage-gated calcium channel activity involved in Purkinje myocyte cell action potential	GO_0086058	0	1	0	0	0
-voltage-gated calcium channel activity involved in AV node cell action potential	GO_0086056	0	1	0	0	0
-voltage-gated calcium channel activity involved SA node cell action potential	GO_0086059	0	1	0	0	0
-ventricular cardiac muscle cell fate commitment	GO_0060925	0	1	0	0	0
-ventricular cardiac muscle cell differentiation	GO_0055012	0	1	0	0	0
-ventricular cardiac muscle cell development	GO_0055015	0	1	0	0	0
-ventricular cardiac muscle cell action potential	GO_0086005	0	1	0	0	0
-vascular smooth muscle cell fate specification	GO_0097082	0	1	0	0	0
-vascular smooth muscle cell fate determination	GO_0097083	0	1	0	0	0
-vascular smooth muscle cell fate commitment	GO_0097081	0	1	0	0	0
-vascular smooth muscle cell differentiation	GO_0035886	0	1	0	0	0
-vascular smooth muscle cell development	GO_0097084	0	1	0	0	0
-ureter smooth muscle cell differentiation	GO_0072193	0	1	0	0	0
-troponin complex	GO_0005861	0	1	0	0	0
-tongue muscle cell differentiation	GO_0035981	0	1	0	0	0
-terminal cisterna lumen	GO_0014804	0	1	0	0	0
-terminal cisterna	GO_0014802	0	1	0	0	0
-striated muscle thin filament	GO_0005865	0	1	0	0	0
-striated muscle myosin thick filament	GO_0005863	0	1	0	0	0
-striated muscle dense body	GO_0055120	0	1	0	0	0
-striated muscle cell proliferation	GO_0014855	0	1	0	0	0
-striated muscle cell differentiation	GO_0051146	0	1	0	0	0
-striated muscle cell development	GO_0055002	0	1	0	0	0
-striated muscle cell apoptotic process	GO_0010658	0	1	0	0	0
-stretch-activated, cation-selective, calcium channel activity involved in regulation of cardiac muscle cell action potential	GO_0097365	0	1	0	0	0
-smooth muscle dense body	GO_0030486	0	1	0	0	0
-smooth muscle contractile fiber	GO_0030485	0	1	0	0	0
-smooth muscle cell proliferation	GO_0048659	0	1	0	0	0
-smooth muscle cell migration	GO_0014909	0	1	0	0	0
-smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	0	1	0	0	0
-smooth muscle cell differentiation	GO_0051145	0	1	0	0	0
-smooth muscle cell chemotaxis	GO_0071670	0	1	0	0	0
-smooth muscle cell apoptotic process	GO_0034390	0	1	0	0	0
-skeletal muscle satellite cell proliferation	GO_0014841	0	1	0	0	0
-skeletal muscle myofibril	GO_0098723	0	1	0	0	0
-skeletal muscle fiber differentiation	GO_0098528	0	1	0	0	0
-skeletal muscle fiber development	GO_0048741	0	1	0	0	0
-skeletal muscle cell proliferation	GO_0014856	0	1	0	0	0
-sinoatrial node cell fate commitment	GO_0060930	0	1	0	0	0
-sinoatrial node cell differentiation	GO_0060921	0	1	0	0	0
-sinoatrial node cell development	GO_0060931	0	1	0	0	0
-sarcoplasmic reticulum membrane	GO_0033017	0	1	0	0	0
-sarcoplasmic reticulum lumen	GO_0033018	0	1	0	0	0
-sarcoplasmic reticulum	GO_0016529	0	1	0	0	0
-sarcoplasm	GO_0016528	0	1	0	0	0
-sarcomere	GO_0030017	0	1	0	0	0
-ryanodine receptor complex	GO_1990425	0	1	0	0	0
-regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903760	0	1	0	0	0
-regulation of ventricular cardiac muscle cell action potential	GO_0098911	0	1	0	0	0
-regulation of ureter smooth muscle cell differentiation	GO_2000061	0	1	0	0	0
-regulation of tongue muscle cell differentiation	GO_2001035	0	1	0	0	0
-regulation of striated muscle cell differentiation	GO_0051153	0	1	0	0	0
-regulation of striated muscle cell apoptotic process	GO_0010662	0	1	0	0	0
-regulation of smooth muscle cell proliferation	GO_0048660	0	1	0	0	0
-regulation of smooth muscle cell migration	GO_0014910	0	1	0	0	0
-regulation of smooth muscle cell differentiation	GO_0051150	0	1	0	0	0
-regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	0	0	0
-regulation of smooth muscle cell apoptotic process	GO_0034391	0	1	0	0	0
-regulation of skeletal muscle fiber differentiation	GO_1902809	0	1	0	0	0
-regulation of skeletal muscle fiber development	GO_0048742	0	1	0	0	0
-regulation of skeletal muscle cell proliferation	GO_0014857	0	1	0	0	0
-regulation of satellite cell proliferation	GO_0014842	0	1	0	0	0
-regulation of sarcomere organization	GO_0060297	0	1	0	0	0
-regulation of myotube differentiation	GO_0010830	0	1	0	0	0
-regulation of myoblast fusion	GO_1901739	0	1	0	0	0
-regulation of myoblast differentiation	GO_0045661	0	1	0	0	0
-regulation of muscle cell differentiation	GO_0051147	0	1	0	0	0
-regulation of muscle cell chemotaxis toward tendon cell	GO_2001281	0	1	0	0	0
-regulation of muscle cell apoptotic process	GO_0010660	0	1	0	0	0
-regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900825	0	1	0	0	0
-regulation of kidney smooth muscle cell differentiation	GO_2000356	0	1	0	0	0
-regulation of cell growth involved in cardiac muscle cell development	GO_0061050	0	1	0	0	0
-regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	0	1	0	0	0
-regulation of cardiac muscle fiber development	GO_0055018	0	1	0	0	0
-regulation of cardiac muscle cell proliferation	GO_0060043	0	1	0	0	0
-regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	0	0	0
-regulation of cardiac muscle cell differentiation	GO_2000725	0	1	0	0	0
-regulation of cardiac muscle cell apoptotic process	GO_0010665	0	1	0	0	0
-regulation of cardiac muscle cell action potential involved in regulation of contraction	GO_0098909	0	1	0	0	0
-regulation of cardiac muscle cell action potential	GO_0098901	0	1	0	0	0
-regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901295	0	1	0	0	0
-regulation of bundle of His cell action potential	GO_0098905	0	1	0	0	0
-regulation of atrial cardiac muscle cell action potential	GO_0098910	0	1	0	0	0
-regulation of SA node cell action potential	GO_0098907	0	1	0	0	0
-regulation of Purkinje myocyte action potential	GO_0098906	0	1	0	0	0
-regulation of AV node cell action potential	GO_0098904	0	1	0	0	0
-positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903762	0	1	0	0	0
-positive regulation of ureter smooth muscle cell differentiation	GO_2000063	0	1	0	0	0
-positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	0	0	0
-positive regulation of striated muscle cell differentiation	GO_0051155	0	1	0	0	0
-positive regulation of striated muscle cell apoptotic process	GO_0010663	0	1	0	0	0
-positive regulation of smooth muscle cell proliferation	GO_0048661	0	1	0	0	0
-positive regulation of smooth muscle cell migration	GO_0014911	0	1	0	0	0
-positive regulation of smooth muscle cell differentiation	GO_0051152	0	1	0	0	0
-positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	0	0	0
-positive regulation of smooth muscle cell apoptotic process	GO_0034393	0	1	0	0	0
-positive regulation of skeletal muscle fiber differentiation	GO_1902811	0	1	0	0	0
-positive regulation of skeletal muscle fiber development	GO_0048743	0	1	0	0	0
-positive regulation of skeletal muscle cell proliferation	GO_0014858	0	1	0	0	0
-positive regulation of satellite cell proliferation	GO_1902724	0	1	0	0	0
-positive regulation of sarcomere organization	GO_0060298	0	1	0	0	0
-positive regulation of myotube differentiation	GO_0010831	0	1	0	0	0
-positive regulation of myoblast fusion	GO_1901741	0	1	0	0	0
-positive regulation of myoblast differentiation	GO_0045663	0	1	0	0	0
-positive regulation of muscle cell differentiation	GO_0051149	0	1	0	0	0
-positive regulation of muscle cell apoptotic process	GO_0010661	0	1	0	0	0
-positive regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900827	0	1	0	0	0
-positive regulation of kidney smooth muscle cell differentiation	GO_2000358	0	1	0	0	0
-positive regulation of growth factor dependent skeletal muscle satellite cell proliferation	GO_1902728	0	1	0	0	0
-positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	0	1	0	0	0
-positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	0	1	0	0	0
-positive regulation of cardiac muscle fiber development	GO_0055020	0	1	0	0	0
-positive regulation of cardiac muscle cell proliferation	GO_0060045	0	1	0	0	0
-positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	0	0	0
-positive regulation of cardiac muscle cell differentiation	GO_2000727	0	1	0	0	0
-positive regulation of cardiac muscle cell apoptotic process	GO_0010666	0	1	0	0	0
-positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901297	0	1	0	0	0
-negative regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903761	0	1	0	0	0
-negative regulation of ureter smooth muscle cell differentiation	GO_2000062	0	1	0	0	0
-negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	0	0	0
-negative regulation of striated muscle cell differentiation	GO_0051154	0	1	0	0	0
-negative regulation of striated muscle cell apoptotic process	GO_0010664	0	1	0	0	0
-negative regulation of smooth muscle cell proliferation	GO_0048662	0	1	0	0	0
-negative regulation of smooth muscle cell migration	GO_0014912	0	1	0	0	0
-negative regulation of smooth muscle cell differentiation	GO_0051151	0	1	0	0	0
-negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	0	0	0
-negative regulation of smooth muscle cell apoptotic process	GO_0034392	0	1	0	0	0
-negative regulation of skeletal muscle satellite cell proliferation	GO_1902723	0	1	0	0	0
-negative regulation of skeletal muscle fiber differentiation	GO_1902810	0	1	0	0	0
-negative regulation of skeletal muscle fiber development	GO_0048744	0	1	0	0	0
-negative regulation of skeletal muscle cell proliferation	GO_0014859	0	1	0	0	0
-negative regulation of sarcomere organization	GO_0060299	0	1	0	0	0
-negative regulation of myotube differentiation	GO_0010832	0	1	0	0	0
-negative regulation of myoblast fusion	GO_1901740	0	1	0	0	0
-negative regulation of myoblast differentiation	GO_0045662	0	1	0	0	0
-negative regulation of muscle cell differentiation	GO_0051148	0	1	0	0	0
-negative regulation of muscle cell chemotaxis toward tendon cell	GO_2001282	0	1	0	0	0
-negative regulation of muscle cell apoptotic process	GO_0010656	0	1	0	0	0
-negative regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900826	0	1	0	0	0
-negative regulation of kidney smooth muscle cell differentiation	GO_2000357	0	1	0	0	0
-negative regulation of growth factor dependent skeletal muscle satellite cell proliferation	GO_1902727	0	1	0	0	0
-negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	0	1	0	0	0
-negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	0	1	0	0	0
-negative regulation of cardiac muscle fiber development	GO_0055019	0	1	0	0	0
-negative regulation of cardiac muscle cell proliferation	GO_0060044	0	1	0	0	0
-negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	0	0	0
-negative regulation of cardiac muscle cell differentiation	GO_2000726	0	1	0	0	0
-negative regulation of cardiac muscle cell apoptotic process	GO_0010667	0	1	0	0	0
-negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901296	0	1	0	0	0
-myotube differentiation involved in skeletal muscle regeneration	GO_0014908	0	1	0	0	0
-myotube differentiation	GO_0014902	0	1	0	0	0
-myotube cell development involved in skeletal muscle regeneration	GO_0014906	0	1	0	0	0
-myotube cell development	GO_0014904	0	1	0	0	0
-myoblast migration involved in skeletal muscle regeneration	GO_0014839	0	1	0	0	0
-myoblast migration	GO_0051451	0	1	0	0	0
-myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	0	1	0	0	0
-myoblast differentiation	GO_0045445	0	1	0	0	0
-muscle thin filament tropomyosin	GO_0005862	0	1	0	0	0
-muscle myosin complex	GO_0005859	0	1	0	0	0
-muscle fiber development	GO_0048747	0	1	0	0	0
-muscle cell proliferation	GO_0033002	0	1	0	0	0
-muscle cell postsynaptic density	GO_0097482	0	1	0	0	0
-muscle cell migration	GO_0014812	0	1	0	0	0
-muscle cell fate specification	GO_0042694	0	1	0	0	0
-muscle cell fate determination	GO_0007521	0	1	0	0	0
-muscle cell fate commitment	GO_0042693	0	1	0	0	0
-muscle cell differentiation	GO_0042692	0	1	0	0	0
-muscle cell development	GO_0055001	0	1	0	0	0
-muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	0	0	0
-muscle cell cellular homeostasis	GO_0046716	0	1	0	0	0
-muscle cell apoptotic process	GO_0010657	0	1	0	0	0
-membrane repolarization during ventricular cardiac muscle cell action potential	GO_0098915	0	1	0	0	0
-membrane repolarization during cardiac muscle cell action potential	GO_0086013	0	1	0	0	0
-membrane repolarization during bundle of His cell action potential	GO_0086050	0	1	0	0	0
-membrane repolarization during atrial cardiac muscle cell action potential	GO_0098914	0	1	0	0	0
-membrane repolarization during SA node cell action potential	GO_0086052	0	1	0	0	0
-membrane repolarization during Purkinje myocyte action potential	GO_0086051	0	1	0	0	0
-membrane repolarization during AV node cell action potential	GO_0086049	0	1	0	0	0
-membrane depolarization during ventricular cardiac muscle cell action potential	GO_0098913	0	1	0	0	0
-membrane depolarization during cardiac muscle cell action potential	GO_0086012	0	1	0	0	0
-membrane depolarization during bundle of His cell action potential	GO_0086048	0	1	0	0	0
-membrane depolarization during atrial cardiac muscle cell action potential	GO_0098912	0	1	0	0	0
-membrane depolarization during SA node cell action potential	GO_0086046	0	1	0	0	0
-membrane depolarization during Purkinje myocyte cell action potential	GO_0086047	0	1	0	0	0
-membrane depolarization during AV node cell action potential	GO_0086045	0	1	0	0	0
-longitudinal sarcoplasmic reticulum lumen	GO_0014803	0	1	0	0	0
-longitudinal sarcoplasmic reticulum	GO_0014801	0	1	0	0	0
-kidney smooth muscle cell differentiation	GO_0072195	0	1	0	0	0
-junctional sarcoplasmic reticulum membrane	GO_0014701	0	1	0	0	0
-junctional membrane complex	GO_0030314	0	1	0	0	0
-growth factor dependent regulation of skeletal muscle satellite cell proliferation	GO_0014843	0	1	0	0	0
-free sarcoplasmic reticulum membrane	GO_0014702	0	1	0	0	0
-epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	0	1	0	0	0
-epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	0	0	0
-epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	0	1	0	0	0
-enteric smooth muscle cell differentiation	GO_0035645	0	1	0	0	0
-costamere	GO_0043034	0	1	0	0	0
-contractile fiber part	GO_0044449	0	1	0	0	0
-contractile fiber	GO_0043292	0	1	0	0	0
-cardiac vascular smooth muscle cell fate commitment	GO_0060949	0	1	0	0	0
-cardiac vascular smooth muscle cell differentiation	GO_0060947	0	1	0	0	0
-cardiac vascular smooth muscle cell development	GO_0060948	0	1	0	0	0
-cardiac pacemaker cell fate commitment	GO_0060927	0	1	0	0	0
-cardiac pacemaker cell differentiation	GO_0060920	0	1	0	0	0
-cardiac pacemaker cell development	GO_0060926	0	1	0	0	0
-cardiac myofibril	GO_0097512	0	1	0	0	0
-cardiac muscle fiber development	GO_0048739	0	1	0	0	0
-cardiac muscle cell proliferation	GO_0060038	0	1	0	0	0
-cardiac muscle cell myoblast differentiation	GO_0060379	0	1	0	0	0
-cardiac muscle cell fate determination	GO_0061442	0	1	0	0	0
-cardiac muscle cell fate commitment	GO_0060923	0	1	0	0	0
-cardiac muscle cell differentiation	GO_0055007	0	1	0	0	0
-cardiac muscle cell development	GO_0055013	0	1	0	0	0
-cardiac muscle cell apoptotic process	GO_0010659	0	1	0	0	0
-cardiac muscle cell action potential involved in contraction	GO_0086002	0	1	0	0	0
-cardiac muscle cell action potential	GO_0086001	0	1	0	0	0
-cardiac Troponin complex	GO_1990584	0	1	0	0	0
-bundle of His cell action potential	GO_0086043	0	1	0	0	0
-atrioventricular node cell fate commitment	GO_0060929	0	1	0	0	0
-atrioventricular node cell differentiation	GO_0060922	0	1	0	0	0
-atrioventricular node cell development	GO_0060928	0	1	0	0	0
-atrioventricular bundle cell differentiation	GO_0003167	0	1	0	0	0
-atrial cardiac muscle cell fate commitment	GO_0060924	0	1	0	0	0
-atrial cardiac muscle cell differentiation	GO_0055011	0	1	0	0	0
-atrial cardiac muscle cell development	GO_0055014	0	1	0	0	0
-atrial cardiac muscle cell action potential	GO_0086014	0	1	0	0	0
-aortic smooth muscle cell differentiation	GO_0035887	0	1	0	0	0
-Z disc	GO_0030018	0	1	0	0	0
-SA node cell action potential	GO_0086015	0	1	0	0	0
-Purkinje myocyte differentiation	GO_0003168	0	1	0	0	0
-Purkinje myocyte action potential	GO_0086017	0	1	0	0	0
-M band	GO_0031430	0	1	0	0	0
-I band	GO_0031674	0	1	0	0	0
-His-Purkinje system cell differentiation	GO_0060932	0	1	0	0	0
-H zone	GO_0031673	0	1	0	0	0
-C zone	GO_0014705	0	1	0	0	0
-AV node cell action potential	GO_0086016	0	1	0	0	0
-A band	GO_0031672	0	1	0	0	0
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential	GO_0086006	0	1	1	1	0
+voltage-gated sodium channel activity involved in bundle of His cell action potential	GO_0086061	0	1	1	1	0
+voltage-gated sodium channel activity involved in SA node cell action potential	GO_0086063	0	1	1	1	0
+voltage-gated sodium channel activity involved in Purkinje myocyte action potential	GO_0086062	0	1	1	1	0
+voltage-gated sodium channel activity involved in AV node cell action potential	GO_0086060	0	1	1	1	0
+voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1902282	0	1	1	1	0
+voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization	GO_0086008	0	1	1	1	0
+voltage-gated potassium channel activity involved in bundle of His cell action potential repolarization	GO_0086087	0	1	1	1	0
+voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization	GO_0086089	0	1	1	1	0
+voltage-gated potassium channel activity involved in SA node cell action potential repolarization	GO_0086090	0	1	1	1	0
+voltage-gated potassium channel activity involved in SA node cell action potential depolarization	GO_0086041	0	1	1	1	0
+voltage-gated potassium channel activity involved in Purkinje myocyte action potential repolarization	GO_0086088	0	1	1	1	0
+voltage-gated potassium channel activity involved in AV node cell action potential repolarization	GO_0086086	0	1	1	1	0
+voltage-gated calcium channel activity involved in cardiac muscle cell action potential	GO_0086007	0	1	1	1	0
+voltage-gated calcium channel activity involved in bundle of His cell action potential	GO_0086057	0	1	1	1	0
+voltage-gated calcium channel activity involved in Purkinje myocyte cell action potential	GO_0086058	0	1	1	1	0
+voltage-gated calcium channel activity involved in AV node cell action potential	GO_0086056	0	1	1	1	0
+voltage-gated calcium channel activity involved SA node cell action potential	GO_0086059	0	1	1	1	0
+ventricular cardiac muscle cell fate commitment	GO_0060925	0	1	1	0	0
+ventricular cardiac muscle cell differentiation	GO_0055012	0	1	1	0	0
+ventricular cardiac muscle cell development	GO_0055015	0	1	1	0	0
+ventricular cardiac muscle cell action potential	GO_0086005	0	1	1	0	0
+vascular smooth muscle cell fate specification	GO_0097082	0	1	1	0	0
+vascular smooth muscle cell fate determination	GO_0097083	0	1	1	0	0
+vascular smooth muscle cell fate commitment	GO_0097081	0	1	1	0	0
+vascular smooth muscle cell differentiation	GO_0035886	0	1	1	0	0
+vascular smooth muscle cell development	GO_0097084	0	1	1	0	0
+ureter smooth muscle cell differentiation	GO_0072193	0	1	1	0	0
+troponin complex	GO_0005861	0	1	1	0	0
+tongue muscle cell differentiation	GO_0035981	0	1	1	0	0
+terminal cisterna lumen	GO_0014804	0	1	1	0	0
+terminal cisterna	GO_0014802	0	1	1	0	0
+striated muscle thin filament	GO_0005865	0	1	1	0	0
+striated muscle myosin thick filament	GO_0005863	0	1	1	0	0
+striated muscle dense body	GO_0055120	0	1	1	0	0
+striated muscle cell proliferation	GO_0014855	0	1	1	0	0
+striated muscle cell differentiation	GO_0051146	0	1	1	0	0
+striated muscle cell development	GO_0055002	0	1	1	0	0
+striated muscle cell apoptotic process	GO_0010658	0	1	1	0	0
+stretch-activated, cation-selective, calcium channel activity involved in regulation of cardiac muscle cell action potential	GO_0097365	0	1	1	0	0
+smooth muscle dense body	GO_0030486	0	1	1	0	0
+smooth muscle contractile fiber	GO_0030485	0	1	1	0	0
+smooth muscle cell proliferation	GO_0048659	0	1	1	0	0
+smooth muscle cell migration	GO_0014909	0	1	1	0	0
+smooth muscle cell differentiation involved in prostate glandular acinus development	GO_0060530	0	1	1	0	0
+smooth muscle cell differentiation	GO_0051145	0	1	1	0	0
+smooth muscle cell chemotaxis	GO_0071670	0	1	1	0	0
+smooth muscle cell apoptotic process	GO_0034390	0	1	1	0	0
+skeletal muscle satellite cell proliferation	GO_0014841	0	1	1	0	0
+skeletal muscle myofibril	GO_0098723	0	1	1	0	0
+skeletal muscle fiber differentiation	GO_0098528	0	1	1	0	0
+skeletal muscle fiber development	GO_0048741	0	1	1	0	0
+skeletal muscle cell proliferation	GO_0014856	0	1	1	0	0
+sinoatrial node cell fate commitment	GO_0060930	0	1	1	1	0
+sinoatrial node cell differentiation	GO_0060921	0	1	1	1	0
+sinoatrial node cell development	GO_0060931	0	1	1	1	0
+sarcoplasmic reticulum membrane	GO_0033017	0	1	1	0	0
+sarcoplasmic reticulum lumen	GO_0033018	0	1	1	0	0
+sarcoplasmic reticulum	GO_0016529	0	1	1	0	0
+sarcoplasm	GO_0016528	0	1	1	0	0
+sarcomere	GO_0030017	0	1	1	0	0
+ryanodine receptor complex	GO_1990425	0	1	1	1	0
+regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903760	0	1	1	1	0
+regulation of ventricular cardiac muscle cell action potential	GO_0098911	0	1	1	1	0
+regulation of ureter smooth muscle cell differentiation	GO_2000061	0	1	1	0	0
+regulation of tongue muscle cell differentiation	GO_2001035	0	1	1	0	0
+regulation of striated muscle cell differentiation	GO_0051153	0	1	1	0	0
+regulation of striated muscle cell apoptotic process	GO_0010662	0	1	1	0	0
+regulation of smooth muscle cell proliferation	GO_0048660	0	1	1	0	0
+regulation of smooth muscle cell migration	GO_0014910	0	1	1	0	0
+regulation of smooth muscle cell differentiation	GO_0051150	0	1	1	0	0
+regulation of smooth muscle cell chemotaxis	GO_0071671	0	1	1	0	0
+regulation of smooth muscle cell apoptotic process	GO_0034391	0	1	1	0	0
+regulation of skeletal muscle fiber differentiation	GO_1902809	0	1	1	0	0
+regulation of skeletal muscle fiber development	GO_0048742	0	1	1	0	0
+regulation of skeletal muscle cell proliferation	GO_0014857	0	1	1	0	0
+regulation of satellite cell proliferation	GO_0014842	0	1	1	0	0
+regulation of sarcomere organization	GO_0060297	0	1	1	0	0
+regulation of myotube differentiation	GO_0010830	0	1	1	0	0
+regulation of myoblast fusion	GO_1901739	0	1	1	0	0
+regulation of myoblast differentiation	GO_0045661	0	1	1	0	0
+regulation of muscle cell differentiation	GO_0051147	0	1	1	0	0
+regulation of muscle cell chemotaxis toward tendon cell	GO_2001281	0	1	1	0	0
+regulation of muscle cell apoptotic process	GO_0010660	0	1	1	0	0
+regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900825	0	1	1	0	0
+regulation of kidney smooth muscle cell differentiation	GO_2000356	0	1	1	0	0
+regulation of cell growth involved in cardiac muscle cell development	GO_0061050	0	1	1	0	0
+regulation of cardiac vascular smooth muscle cell differentiation	GO_2000722	0	1	1	0	0
+regulation of cardiac muscle fiber development	GO_0055018	0	1	1	0	0
+regulation of cardiac muscle cell proliferation	GO_0060043	0	1	1	0	0
+regulation of cardiac muscle cell myoblast differentiation	GO_2000690	0	1	1	0	0
+regulation of cardiac muscle cell differentiation	GO_2000725	0	1	1	0	0
+regulation of cardiac muscle cell apoptotic process	GO_0010665	0	1	1	0	0
+regulation of cardiac muscle cell action potential involved in regulation of contraction	GO_0098909	0	1	1	0	0
+regulation of cardiac muscle cell action potential	GO_0098901	0	1	1	0	0
+regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901295	0	1	1	0	0
+regulation of bundle of His cell action potential	GO_0098905	0	1	1	1	0
+regulation of atrial cardiac muscle cell action potential	GO_0098910	0	1	1	1	0
+regulation of SA node cell action potential	GO_0098907	0	1	1	1	0
+regulation of Purkinje myocyte action potential	GO_0098906	0	1	1	1	0
+regulation of AV node cell action potential	GO_0098904	0	1	1	1	0
+positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903762	0	1	1	1	0
+positive regulation of ureter smooth muscle cell differentiation	GO_2000063	0	1	1	0	0
+positive regulation of tongue muscle cell differentiation	GO_2001037	0	1	1	0	0
+positive regulation of striated muscle cell differentiation	GO_0051155	0	1	1	0	0
+positive regulation of striated muscle cell apoptotic process	GO_0010663	0	1	1	0	0
+positive regulation of smooth muscle cell proliferation	GO_0048661	0	1	1	0	0
+positive regulation of smooth muscle cell migration	GO_0014911	0	1	1	0	0
+positive regulation of smooth muscle cell differentiation	GO_0051152	0	1	1	0	0
+positive regulation of smooth muscle cell chemotaxis	GO_0071673	0	1	1	0	0
+positive regulation of smooth muscle cell apoptotic process	GO_0034393	0	1	1	0	0
+positive regulation of skeletal muscle fiber differentiation	GO_1902811	0	1	1	0	0
+positive regulation of skeletal muscle fiber development	GO_0048743	0	1	1	0	0
+positive regulation of skeletal muscle cell proliferation	GO_0014858	0	1	1	0	0
+positive regulation of satellite cell proliferation	GO_1902724	0	1	1	0	0
+positive regulation of sarcomere organization	GO_0060298	0	1	1	0	0
+positive regulation of myotube differentiation	GO_0010831	0	1	1	0	0
+positive regulation of myoblast fusion	GO_1901741	0	1	1	0	0
+positive regulation of myoblast differentiation	GO_0045663	0	1	1	0	0
+positive regulation of muscle cell differentiation	GO_0051149	0	1	1	0	0
+positive regulation of muscle cell apoptotic process	GO_0010661	0	1	1	0	0
+positive regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900827	0	1	1	1	0
+positive regulation of kidney smooth muscle cell differentiation	GO_2000358	0	1	1	0	0
+positive regulation of growth factor dependent skeletal muscle satellite cell proliferation	GO_1902728	0	1	1	0	0
+positive regulation of cell growth involved in cardiac muscle cell development	GO_0061051	0	1	1	0	0
+positive regulation of cardiac vascular smooth muscle cell differentiation	GO_2000724	0	1	1	0	0
+positive regulation of cardiac muscle fiber development	GO_0055020	0	1	1	0	0
+positive regulation of cardiac muscle cell proliferation	GO_0060045	0	1	1	0	0
+positive regulation of cardiac muscle cell myoblast differentiation	GO_2000700	0	1	1	0	0
+positive regulation of cardiac muscle cell differentiation	GO_2000727	0	1	1	0	0
+positive regulation of cardiac muscle cell apoptotic process	GO_0010666	0	1	1	0	0
+positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901297	0	1	1	0	0
+negative regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	GO_1903761	0	1	1	0	0
+negative regulation of ureter smooth muscle cell differentiation	GO_2000062	0	1	1	0	0
+negative regulation of tongue muscle cell differentiation	GO_2001036	0	1	1	0	0
+negative regulation of striated muscle cell differentiation	GO_0051154	0	1	1	0	0
+negative regulation of striated muscle cell apoptotic process	GO_0010664	0	1	1	0	0
+negative regulation of smooth muscle cell proliferation	GO_0048662	0	1	1	0	0
+negative regulation of smooth muscle cell migration	GO_0014912	0	1	1	0	0
+negative regulation of smooth muscle cell differentiation	GO_0051151	0	1	1	0	0
+negative regulation of smooth muscle cell chemotaxis	GO_0071672	0	1	1	0	0
+negative regulation of smooth muscle cell apoptotic process	GO_0034392	0	1	1	0	0
+negative regulation of skeletal muscle satellite cell proliferation	GO_1902723	0	1	1	0	0
+negative regulation of skeletal muscle fiber differentiation	GO_1902810	0	1	1	0	0
+negative regulation of skeletal muscle fiber development	GO_0048744	0	1	1	0	0
+negative regulation of skeletal muscle cell proliferation	GO_0014859	0	1	1	0	0
+negative regulation of sarcomere organization	GO_0060299	0	1	1	0	0
+negative regulation of myotube differentiation	GO_0010832	0	1	1	0	0
+negative regulation of myoblast fusion	GO_1901740	0	1	1	0	0
+negative regulation of myoblast differentiation	GO_0045662	0	1	1	0	0
+negative regulation of muscle cell differentiation	GO_0051148	0	1	1	0	0
+negative regulation of muscle cell chemotaxis toward tendon cell	GO_2001282	0	1	1	0	0
+negative regulation of muscle cell apoptotic process	GO_0010656	0	1	1	0	0
+negative regulation of membrane depolarization during cardiac muscle cell action potential	GO_1900826	0	1	1	0	0
+negative regulation of kidney smooth muscle cell differentiation	GO_2000357	0	1	1	0	0
+negative regulation of growth factor dependent skeletal muscle satellite cell proliferation	GO_1902727	0	1	1	0	0
+negative regulation of cell growth involved in cardiac muscle cell development	GO_0061052	0	1	1	0	0
+negative regulation of cardiac vascular smooth muscle cell differentiation	GO_2000723	0	1	1	0	0
+negative regulation of cardiac muscle fiber development	GO_0055019	0	1	1	0	0
+negative regulation of cardiac muscle cell proliferation	GO_0060044	0	1	1	0	0
+negative regulation of cardiac muscle cell myoblast differentiation	GO_2000691	0	1	1	0	0
+negative regulation of cardiac muscle cell differentiation	GO_2000726	0	1	1	0	0
+negative regulation of cardiac muscle cell apoptotic process	GO_0010667	0	1	1	0	0
+negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	GO_1901296	0	1	1	0	0
+myotube differentiation involved in skeletal muscle regeneration	GO_0014908	0	1	1	0	0
+myotube differentiation	GO_0014902	0	1	1	0	0
+myotube cell development involved in skeletal muscle regeneration	GO_0014906	0	1	1	0	0
+myotube cell development	GO_0014904	0	1	1	0	0
+myoblast migration involved in skeletal muscle regeneration	GO_0014839	0	1	1	0	0
+myoblast migration	GO_0051451	0	1	1	0	0
+myoblast differentiation involved in skeletal muscle regeneration	GO_0014835	0	1	1	0	0
+myoblast differentiation	GO_0045445	0	1	1	0	0
+muscle thin filament tropomyosin	GO_0005862	0	1	1	0	0
+muscle myosin complex	GO_0005859	0	1	1	0	0
+muscle fiber development	GO_0048747	0	1	1	0	0
+muscle cell proliferation	GO_0033002	0	1	1	0	0
+muscle cell postsynaptic density	GO_0097482	0	1	1	0	0
+muscle cell migration	GO_0014812	0	1	1	0	0
+muscle cell fate specification	GO_0042694	0	1	1	0	0
+muscle cell fate determination	GO_0007521	0	1	1	0	0
+muscle cell fate commitment	GO_0042693	0	1	1	0	0
+muscle cell differentiation	GO_0042692	0	1	1	0	0
+muscle cell development	GO_0055001	0	1	1	0	0
+muscle cell chemotaxis toward tendon cell	GO_0036061	0	1	1	0	0
+muscle cell cellular homeostasis	GO_0046716	0	1	1	0	0
+muscle cell apoptotic process	GO_0010657	0	1	1	0	0
+membrane repolarization during ventricular cardiac muscle cell action potential	GO_0098915	0	1	1	1	0
+membrane repolarization during cardiac muscle cell action potential	GO_0086013	0	1	1	1	0
+membrane repolarization during bundle of His cell action potential	GO_0086050	0	1	1	1	0
+membrane repolarization during atrial cardiac muscle cell action potential	GO_0098914	0	1	1	1	0
+membrane repolarization during SA node cell action potential	GO_0086052	0	1	1	1	0
+membrane repolarization during Purkinje myocyte action potential	GO_0086051	0	1	1	1	0
+membrane repolarization during AV node cell action potential	GO_0086049	0	1	1	1	0
+membrane depolarization during ventricular cardiac muscle cell action potential	GO_0098913	0	1	1	1	0
+membrane depolarization during cardiac muscle cell action potential	GO_0086012	0	1	1	1	0
+membrane depolarization during bundle of His cell action potential	GO_0086048	0	1	1	1	0
+membrane depolarization during atrial cardiac muscle cell action potential	GO_0098912	0	1	1	1	0
+membrane depolarization during SA node cell action potential	GO_0086046	0	1	1	1	0
+membrane depolarization during Purkinje myocyte cell action potential	GO_0086047	0	1	1	1	0
+membrane depolarization during AV node cell action potential	GO_0086045	0	1	1	1	0
+longitudinal sarcoplasmic reticulum lumen	GO_0014803	0	1	1	0	0
+longitudinal sarcoplasmic reticulum	GO_0014801	0	1	1	0	0
+kidney smooth muscle cell differentiation	GO_0072195	0	1	1	0	0
+junctional sarcoplasmic reticulum membrane	GO_0014701	0	1	1	0	0
+junctional membrane complex	GO_0030314	0	1	1	0	0
+growth factor dependent regulation of skeletal muscle satellite cell proliferation	GO_0014843	0	1	1	0	0
+free sarcoplasmic reticulum membrane	GO_0014702	0	1	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_0060985	0	1	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	0	1	1	0	0
+epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	0	1	1	0	0
+enteric smooth muscle cell differentiation	GO_0035645	0	1	1	0	0
+costamere	GO_0043034	0	1	1	0	0
+contractile fiber part	GO_0044449	0	1	1	0	0
+contractile fiber	GO_0043292	0	1	1	0	0
+cardiac vascular smooth muscle cell fate commitment	GO_0060949	0	1	1	0	0
+cardiac vascular smooth muscle cell differentiation	GO_0060947	0	1	1	0	0
+cardiac vascular smooth muscle cell development	GO_0060948	0	1	1	0	0
+cardiac pacemaker cell fate commitment	GO_0060927	0	1	1	0	0
+cardiac pacemaker cell differentiation	GO_0060920	0	1	1	0	0
+cardiac pacemaker cell development	GO_0060926	0	1	1	0	0
+cardiac myofibril	GO_0097512	0	1	1	0	0
+cardiac muscle fiber development	GO_0048739	0	1	1	0	0
+cardiac muscle cell proliferation	GO_0060038	0	1	1	0	0
+cardiac muscle cell myoblast differentiation	GO_0060379	0	1	1	0	0
+cardiac muscle cell fate determination	GO_0061442	0	1	1	0	0
+cardiac muscle cell fate commitment	GO_0060923	0	1	1	0	0
+cardiac muscle cell differentiation	GO_0055007	0	1	1	0	0
+cardiac muscle cell development	GO_0055013	0	1	1	0	0
+cardiac muscle cell apoptotic process	GO_0010659	0	1	1	0	0
+cardiac muscle cell action potential involved in contraction	GO_0086002	0	1	1	0	0
+cardiac muscle cell action potential	GO_0086001	0	1	1	0	0
+cardiac Troponin complex	GO_1990584	0	1	1	0	0
+bundle of His cell action potential	GO_0086043	0	1	1	0	0
+atrioventricular node cell fate commitment	GO_0060929	0	1	1	0	0
+atrioventricular node cell differentiation	GO_0060922	0	1	1	0	0
+atrioventricular node cell development	GO_0060928	0	1	1	0	0
+atrioventricular bundle cell differentiation	GO_0003167	0	1	1	0	0
+atrial cardiac muscle cell fate commitment	GO_0060924	0	1	1	0	0
+atrial cardiac muscle cell differentiation	GO_0055011	0	1	1	0	0
+atrial cardiac muscle cell development	GO_0055014	0	1	1	0	0
+atrial cardiac muscle cell action potential	GO_0086014	0	1	1	0	0
+aortic smooth muscle cell differentiation	GO_0035887	0	1	1	0	0
+Z disc	GO_0030018	0	1	1	0	0
+SA node cell action potential	GO_0086015	0	1	1	1	0
+Purkinje myocyte differentiation	GO_0003168	0	1	1	1	0
+Purkinje myocyte action potential	GO_0086017	0	1	1	1	0
+M band	GO_0031430	0	1	1	0	0
+I band	GO_0031674	0	1	1	0	0
+His-Purkinje system cell differentiation	GO_0060932	0	1	1	1	0
+H zone	GO_0031673	0	1	1	0	0
+C zone	GO_0014705	0	1	1	0	0
+AV node cell action potential	GO_0086016	0	1	1	1	0
+A band	GO_0031672	0	1	1	0	0
