@@ -3567,6 +3567,7 @@ RCV_000083	beta cells	GO_2000676	positive regulation of type B pancreatic cell a
 RCV_000083	beta cells	GO_2000078	positive regulation of type B pancreatic cell development
 RCV_000083	beta cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
 RCV_000083	beta cells	GO_2000074	regulation of type B pancreatic cell development
+RCV_000083	beta cells	GO_0061469	regulation of type B pancreatic cell proliferation
 RCV_000083	beta cells	GO_0097050	type B pancreatic cell apoptotic process
 RCV_000083	beta cells	GO_0003323	type B pancreatic cell development
 RCV_000083	beta cells	GO_0003309	type B pancreatic cell differentiation
@@ -7830,12 +7831,10 @@ RCV_000157	epithelial cell proliferation	GO_2000345	regulation of hepatocyte pro
 RCV_000157	epithelial cell proliferation	GO_0010837	regulation of keratinocyte proliferation
 RCV_000157	epithelial cell proliferation	GO_2001109	regulation of lens epithelial cell proliferation
 RCV_000157	epithelial cell proliferation	GO_0033599	regulation of mammary gland epithelial cell proliferation
+RCV_000157	epithelial cell proliferation	GO_0061469	regulation of type B pancreatic cell proliferation
 RCV_000157	epithelial cell proliferation	GO_0050675	regulation of urothelial cell proliferation
+RCV_000157	epithelial cell proliferation	GO_0044342	type B pancreatic cell proliferation
 RCV_000157	epithelial cell proliferation	GO_0050674	urothelial cell proliferation
-RCV_000158	epithelial cells	GO_0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
-RCV_000158	epithelial cells	GO_0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
-RCV_000158	epithelial cells	GO_0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
-RCV_000158	epithelial cells	GO_0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
 RCV_000158	epithelial cells	GO_0060486	Clara cell differentiation
 RCV_000158	epithelial cells	GO_0061329	Malpighian tubule principal cell differentiation
 RCV_000158	epithelial cells	GO_0061330	Malpighian tubule stellate cell differentiation
@@ -7851,7 +7850,6 @@ RCV_000158	epithelial cells	GO_0060704	acinar cell differentiation involved in s
 RCV_000158	epithelial cells	GO_1903680	acinar cell of sebaceous gland differentiation
 RCV_000158	epithelial cells	GO_0044651	adhesion of symbiont to host epithelial cell
 RCV_000158	epithelial cells	GO_0061104	adrenal chromaffin cell differentiation
-RCV_000158	epithelial cells	GO_0002299	alpha-beta intraepithelial T cell differentiation
 RCV_000158	epithelial cells	GO_0036305	ameloblast differentiation
 RCV_000158	epithelial cells	GO_0048903	anterior lateral line neuromast hair cell differentiation
 RCV_000158	epithelial cells	GO_0060842	arterial endothelial cell differentiation
@@ -7994,7 +7992,6 @@ RCV_000158	epithelial cells	GO_0045197	establishment or maintenance of epithelia
 RCV_000158	epithelial cells	GO_0016334	establishment or maintenance of polarity of follicular epithelium
 RCV_000158	epithelial cells	GO_0016336	establishment or maintenance of polarity of larval imaginal disc epithelium
 RCV_000158	epithelial cells	GO_0032529	follicle cell microvillus organization
-RCV_000158	epithelial cells	GO_0002304	gamma-delta intraepithelial T cell differentiation
 RCV_000158	epithelial cells	GO_0002068	glandular epithelial cell development
 RCV_000158	epithelial cells	GO_0002067	glandular epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0002071	glandular epithelial cell maturation
@@ -8340,6 +8337,7 @@ RCV_000158	epithelial cells	GO_2000039	regulation of trichome morphogenesis
 RCV_000158	epithelial cells	GO_1900032	regulation of trichome patterning
 RCV_000158	epithelial cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
 RCV_000158	epithelial cells	GO_2000074	regulation of type B pancreatic cell development
+RCV_000158	epithelial cells	GO_0061469	regulation of type B pancreatic cell proliferation
 RCV_000158	epithelial cells	GO_0050675	regulation of urothelial cell proliferation
 RCV_000158	epithelial cells	GO_2000787	regulation of venous endothelial cell fate commitment
 RCV_000158	epithelial cells	GO_1902691	respiratory basal cell differentiation
@@ -8362,6 +8360,7 @@ RCV_000158	epithelial cells	GO_0003323	type B pancreatic cell development
 RCV_000158	epithelial cells	GO_0003309	type B pancreatic cell differentiation
 RCV_000158	epithelial cells	GO_0003327	type B pancreatic cell fate commitment
 RCV_000158	epithelial cells	GO_0072560	type B pancreatic cell maturation
+RCV_000158	epithelial cells	GO_0044342	type B pancreatic cell proliferation
 RCV_000158	epithelial cells	GO_0072192	ureter epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0061071	urethra epithelium development
 RCV_000158	epithelial cells	GO_0050674	urothelial cell proliferation
@@ -19860,6 +19859,7 @@ RCV_000259	organ development	GO_0021529	spinal cord oligodendrocyte cell differe
 RCV_000259	organ development	GO_0021530	spinal cord oligodendrocyte cell fate specification
 RCV_000259	organ development	GO_0021511	spinal cord patterning
 RCV_000259	organ development	GO_0021531	spinal cord radial glial cell differentiation
+RCV_000259	organ development	GO_0021965	spinal cord ventral commissure morphogenesis
 RCV_000259	organ development	GO_0021741	spinal trigeminal nucleus development
 RCV_000259	organ development	GO_0048536	spleen development
 RCV_000259	organ development	GO_0060345	spleen trabecula formation
@@ -20068,11 +20068,13 @@ RCV_000265	pancreas B cells	GO_2000676	positive regulation of type B pancreatic 
 RCV_000265	pancreas B cells	GO_2000078	positive regulation of type B pancreatic cell development
 RCV_000265	pancreas B cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
 RCV_000265	pancreas B cells	GO_2000074	regulation of type B pancreatic cell development
+RCV_000265	pancreas B cells	GO_0061469	regulation of type B pancreatic cell proliferation
 RCV_000265	pancreas B cells	GO_0097050	type B pancreatic cell apoptotic process
 RCV_000265	pancreas B cells	GO_0003323	type B pancreatic cell development
 RCV_000265	pancreas B cells	GO_0003309	type B pancreatic cell differentiation
 RCV_000265	pancreas B cells	GO_0003327	type B pancreatic cell fate commitment
 RCV_000265	pancreas B cells	GO_0072560	type B pancreatic cell maturation
+RCV_000265	pancreas B cells	GO_0044342	type B pancreatic cell proliferation
 RCV_000266	pancreas development	GO_0061114	branching involved in pancreas morphogenesis
 RCV_000266	pancreas development	GO_0035469	determination of pancreatic left/right asymmetry
 RCV_000266	pancreas development	GO_0031018	endocrine pancreas development

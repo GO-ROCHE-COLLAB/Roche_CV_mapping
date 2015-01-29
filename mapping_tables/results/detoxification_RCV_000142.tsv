@@ -1,0 +1,12 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+cellular detoxification of nitrogen compound	GO_0070458	1	1	1	0	0
+mycothiol-dependent detoxification	GO_0010127	0	1	0	0	0
+detoxification of zinc ion	GO_0010312	0	1	0	0	0
+detoxification of nitrogen compound	GO_0051410	0	1	0	0	0
+detoxification of mercury ion	GO_0050787	0	1	0	0	0
+detoxification of iron ion	GO_1990461	0	1	0	0	0
+detoxification of copper ion	GO_0010273	0	1	0	0	0
+detoxification of cobalt ion	GO_0010299	0	1	0	0	0
+detoxification of cadmium ion	GO_0071585	0	1	0	0	0
+detoxification of arsenic-containing substance	GO_0071722	0	1	0	0	0
+detoxification	GO_0098754	0	1	0	0	0

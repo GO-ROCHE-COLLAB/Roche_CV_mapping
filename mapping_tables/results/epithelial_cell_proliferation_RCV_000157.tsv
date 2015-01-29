@@ -30,7 +30,9 @@ epithelial cell proliferation involved in liver morphogenesis	GO_0072575	1	1	1	0
 epithelial cell proliferation involved in Malpighian tubule morphogenesis	GO_0061331	1	1	1	0	0
 epithelial cell proliferation	GO_0050673	1	1	1	0	0
 urothelial cell proliferation	GO_0050674	0	1	1	0	0
+type B pancreatic cell proliferation	GO_0044342	0	1	0	0	0
 regulation of urothelial cell proliferation	GO_0050675	0	1	1	0	0
+regulation of type B pancreatic cell proliferation	GO_0061469	0	1	0	0	0
 regulation of lens epithelial cell proliferation	GO_2001109	0	1	1	0	0
 regulation of keratinocyte proliferation	GO_0010837	0	1	1	0	0
 regulation of hepatocyte proliferation	GO_2000345	0	1	1	0	0

@@ -1,0 +1,100 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+adult salivary gland morphogenesis	GO_0007437	1	1	1	0	0
+superior salivary nucleus development	GO_0021753	1	0	1	0	0
+adult salivary gland boundary specification	GO_0007434	1	0	1	0	0
+uterine gland development	GO_1903709	0	1	0	0	0
+trachea gland development	GO_0061153	0	1	0	0	0
+thyroid gland development	GO_0030878	0	1	0	0	0
+thymus development	GO_0048538	0	1	0	0	0
+tarsal gland development	GO_1903699	0	1	0	0	0
+sweat gland development	GO_0060792	0	1	0	0	0
+submandibular salivary gland formation	GO_0060661	0	1	0	0	0
+seminal vesicle development	GO_0061107	0	1	0	0	0
+sebaceous gland development	GO_0048733	0	1	0	0	0
+salivary gland morphogenesis	GO_0007435	0	1	0	0	0
+salivary gland histolysis	GO_0035070	0	1	0	0	0
+salivary gland development	GO_0007431	0	1	0	0	0
+salivary gland cell autophagic cell death	GO_0035071	0	1	0	0	0
+ring gland development	GO_0035271	0	1	0	0	0
+regulation of salivary gland boundary specification	GO_0045704	0	1	0	0	0
+regulation of prostatic bud formation	GO_0060685	0	1	0	0	0
+regulation of mesenchymal cell proliferation involved in prostate gland development	GO_0060782	0	1	0	0	0
+regulation of mammary stem cell proliferation	GO_2000101	0	1	0	0	0
+regulation of mammary gland involution	GO_1903519	0	1	0	0	0
+regulation of mammary gland epithelial cell proliferation	GO_0033599	0	1	0	0	0
+regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling	GO_0060657	0	1	0	0	0
+regulation of larval salivary gland boundary specification	GO_0045708	0	1	0	0	0
+regulation of lamellocyte differentiation	GO_0035203	0	1	0	0	0
+regulation of lactation	GO_1903487	0	1	0	0	0
+regulation of hepatocyte proliferation	GO_2000345	0	1	0	0	0
+regulation of hepatocyte differentiation	GO_0070366	0	1	0	0	0
+regulation of epithelial cell proliferation involved in prostate gland development	GO_0060768	0	1	0	0	0
+regulation of epithelial cell proliferation involved in mammary gland bud elongation	GO_0060651	0	1	0	0	0
+regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	GO_0060665	0	1	0	0	0
+regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling	GO_0060668	0	1	0	0	0
+regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling	GO_0060683	0	1	0	0	0
+regulation of branching involved in salivary gland morphogenesis	GO_0060693	0	1	0	0	0
+regulation of branching involved in prostate gland morphogenesis	GO_0060687	0	1	0	0	0
+regulation of branching involved in mammary gland duct morphogenesis	GO_0060762	0	1	0	0	0
+regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling	GO_0060656	0	1	0	0	0
+regulation of adult salivary gland boundary specification	GO_0045707	0	1	0	0	0
+prostate induction	GO_0060514	0	1	0	0	0
+prostate gland morphogenetic growth	GO_0060737	0	1	0	0	0
+prostate gland morphogenesis	GO_0060512	0	1	0	0	0
+prostate gland growth	GO_0060736	0	1	0	0	0
+prostate gland development	GO_0030850	0	1	0	0	0
+prostate epithelial cord elongation	GO_0060523	0	1	0	0	0
+primary prostatic bud elongation	GO_0060516	0	1	0	0	0
+positive regulation of salivary gland formation by mesenchymal-epithelial signaling	GO_0060639	0	1	0	0	0
+positive regulation of salivary gland boundary specification	GO_0045706	0	1	0	0	0
+positive regulation of mammary stem cell proliferation	GO_2000103	0	1	0	0	0
+positive regulation of mammary placode formation by mesenchymal-epithelial signaling	GO_0060617	0	1	0	0	0
+positive regulation of mammary gland involution	GO_1903521	0	1	0	0	0
+positive regulation of mammary gland epithelial cell proliferation	GO_0033601	0	1	0	0	0
+positive regulation of larval salivary gland boundary specification	GO_0045712	0	1	0	0	0
+positive regulation of lamellocyte differentiation	GO_0035205	0	1	0	0	0
+positive regulation of lactation by mesenchymal-epithelial cell signaling	GO_0060637	0	1	0	0	0
+positive regulation of lactation	GO_1903489	0	1	0	0	0
+positive regulation of hepatocyte proliferation	GO_2000347	0	1	0	0	0
+positive regulation of hepatocyte differentiation	GO_0070368	0	1	0	0	0
+positive regulation of epithelial cell proliferation involved in prostate gland development	GO_0060769	0	1	0	0	0
+positive regulation of apoptotic process involved in mammary gland involution	GO_0060058	0	1	0	0	0
+positive regulation of adult salivary gland boundary specification	GO_0045711	0	1	0	0	0
+pituitary gland development	GO_0021983	0	1	0	0	0
+pineal gland development	GO_0021982	0	1	0	0	0
+parathyroid gland development	GO_0060017	0	1	0	0	0
+neurohypophysis morphogenesis	GO_0048848	0	1	0	0	0
+neurohypophysis formation	GO_0048849	0	1	0	0	0
+neurohypophysis development	GO_0021985	0	1	0	0	0
+negative regulation of salivary gland boundary specification	GO_0045705	0	1	0	0	0
+negative regulation of prostatic bud formation	GO_0060686	0	1	0	0	0
+negative regulation of mammary stem cell proliferation	GO_2000102	0	1	0	0	0
+negative regulation of mammary gland involution	GO_1903520	0	1	0	0	0
+negative regulation of mammary gland epithelial cell proliferation	GO_0033600	0	1	0	0	0
+negative regulation of mammary gland development in males by androgen receptor signaling pathway	GO_0060614	0	1	0	0	0
+negative regulation of larval salivary gland boundary specification	GO_0045710	0	1	0	0	0
+negative regulation of lamellocyte differentiation	GO_0035204	0	1	0	0	0
+negative regulation of lactation	GO_1903488	0	1	0	0	0
+negative regulation of hepatocyte proliferation	GO_2000346	0	1	0	0	0
+negative regulation of hepatocyte differentiation	GO_0070367	0	1	0	0	0
+negative regulation of epithelial cell proliferation involved in prostate gland development	GO_0060770	0	1	0	0	0
+negative regulation of adult salivary gland boundary specification	GO_0045709	0	1	0	0	0
+mammary gland specification	GO_0060594	0	1	0	0	0
+mammary gland morphogenesis	GO_0060443	0	1	0	0	0
+mammary gland formation	GO_0060592	0	1	0	0	0
+mammary gland development	GO_0030879	0	1	0	0	0
+lymph gland development	GO_0048542	0	1	0	0	0
+liver regeneration	GO_0097421	0	1	0	0	0
+liver morphogenesis	GO_0072576	0	1	0	0	0
+liver development	GO_0001889	0	1	0	0	0
+larval salivary gland morphogenesis	GO_0007436	0	1	0	0	0
+lacrimal gland development	GO_0032808	0	1	0	0	0
+hypophysis morphogenesis	GO_0048850	0	1	0	0	0
+hypophysis formation	GO_0048851	0	1	0	0	0
+hepatic immune response	GO_0002384	0	1	0	0	0
+hatching gland development	GO_0048785	0	1	0	0	0
+gland morphogenesis	GO_0022612	0	1	0	0	0
+gland development	GO_0048732	0	1	0	0	0
+cement gland development	GO_0071570	0	1	0	0	0
+adrenal gland development	GO_0030325	0	1	0	0	0
+Harderian gland development	GO_0070384	0	1	0	0	0

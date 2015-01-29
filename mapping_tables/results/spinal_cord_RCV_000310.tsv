@@ -1,4 +1,5 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+spinal cord ventral commissure morphogenesis	GO_0021965	1	1	1	0	0
 spinal cord patterning	GO_0021511	1	1	1	0	0
 spinal cord motor neuron differentiation	GO_0021522	1	1	1	0	0
 spinal cord motor neuron cell fate specification	GO_0021520	1	1	1	0	0
@@ -9,7 +10,6 @@ spinal cord association neuron specification	GO_0021519	1	1	1	0	0
 spinal cord association neuron differentiation	GO_0021527	1	1	1	0	0
 spinal cord anterior/posterior patterning	GO_0021512	1	1	1	0	0
 spinal trigeminal nucleus development	GO_0021741	1	0	1	1	0
-spinal cord ventral commissure morphogenesis	GO_0021965	1	0	1	0	0
 visceral motor neuron differentiation	GO_0021524	0	1	1	0	0
 ventral spinal cord interneuron specification	GO_0021521	0	1	1	0	0
 ventral spinal cord interneuron fate determination	GO_0060580	0	1	1	0	0

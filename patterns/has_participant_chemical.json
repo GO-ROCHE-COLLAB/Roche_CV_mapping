@@ -3,13 +3,14 @@
         "chemical entity": "CHEBI_24431"
     }, 
     "def": {
-        "text": "A process in which some %s participates.", 
+        "text": "A process in which some %s participates, or that regulates a process in which %s participates.", 
         "vars": [
+            "key_class", 
             "key_class"
         ]
     }, 
     "equivalentTo": {
-        "text": "'has participant' some %s", 
+        "text": "'chemical_super_query' some %s", 
         "vars": [
             "key_class"
         ]
@@ -22,7 +23,7 @@
     }, 
     "pattern_name": "has_participant_chemical", 
     "relations": {
-        "has participant": "RO_0000057"
+        "chemical_super_query": "scratch_c6227545_3109_4be3_9d00_8cff12d07c9e"
     }, 
     "vars": {
         "key_class": "'chemical entity'"

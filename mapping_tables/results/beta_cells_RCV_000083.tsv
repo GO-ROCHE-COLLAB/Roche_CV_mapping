@@ -1,10 +1,11 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+type B pancreatic cell proliferation	GO_0044342	1	1	1	0	0
 type B pancreatic cell maturation	GO_0072560	1	1	1	0	0
 type B pancreatic cell fate commitment	GO_0003327	1	1	1	0	0
 type B pancreatic cell differentiation	GO_0003309	1	1	1	0	0
 type B pancreatic cell development	GO_0003323	1	1	1	0	0
 type B pancreatic cell apoptotic process	GO_0097050	1	1	1	0	0
-type B pancreatic cell proliferation	GO_0044342	1	0	1	0	0
+regulation of type B pancreatic cell proliferation	GO_0061469	0	1	0	0	0
 regulation of type B pancreatic cell development	GO_2000074	0	1	0	0	0
 regulation of type B pancreatic cell apoptotic process	GO_2000674	0	1	0	0	0
 positive regulation of type B pancreatic cell development	GO_2000078	0	1	0	0	0
