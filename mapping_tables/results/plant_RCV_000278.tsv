@@ -1,230 +1,230 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
 embryonic meristem initiation	GO_0090421	1	0	1	0	0
 embryonic meristem development	GO_0048508	1	0	1	0	0
-zygote asymmetric cytokinesis in embryo sac	GO_0010069	0	1	0	0	0
-xylem development	GO_0010089	0	1	0	0	0
-xylem and phloem pattern formation	GO_0010051	0	1	0	0	0
-vegetative meristem growth	GO_0010448	0	1	0	0	0
-vegetative cell differentiation	GO_0022620	0	1	0	0	0
-trichome morphogenesis	GO_0010090	0	1	0	0	0
-trichome branching	GO_0010091	0	1	0	0	0
-thylakoid light-harvesting complex	GO_0009503	0	1	0	0	0
-synergid differentiation	GO_0009563	0	1	0	0	0
-symplast	GO_0055044	0	1	0	0	0
-suberin network	GO_0048225	0	1	0	0	0
-style development	GO_0048479	0	1	0	0	0
-stromule	GO_0010319	0	1	0	0	0
-stomatal complex development	GO_0010374	0	1	0	0	0
-stipule development	GO_0010865	0	1	0	0	0
-stigma development	GO_0048480	0	1	0	0	0
-stem vascular tissue pattern formation	GO_0010222	0	1	0	0	0
-starch grain	GO_0043036	0	1	0	0	0
-stamen filament development	GO_0080086	0	1	0	0	0
-stamen development	GO_0048443	0	1	0	0	0
-skotomorphogenesis	GO_0009647	0	1	0	0	0
-simple sieve plate	GO_0097220	0	1	0	0	0
-sieve plate	GO_0097218	0	1	0	0	0
-short-day photoperiodism, flowering	GO_0048575	0	1	0	0	0
-sepal vascular tissue pattern formation	GO_0080057	0	1	0	0	0
-sepal development	GO_0048442	0	1	0	0	0
-senescence-associated vacuole	GO_0010282	0	1	0	0	0
-seed germination on parent plant	GO_0048623	0	1	0	0	0
-seed coat development	GO_0010214	0	1	0	0	0
-secondary cell wall cellulose synthase complex	GO_0044568	0	1	0	0	0
-secondary cell wall biogenesis involved in seed trichome differentiation	GO_0090379	0	1	0	0	0
-secondary cell wall	GO_0009531	0	1	0	0	0
-root development	GO_0048364	0	1	0	0	0
-root cap development	GO_0048829	0	1	0	0	0
-rhamnogalacturonan II side chain metabolic process	GO_0010419	0	1	0	0	0
-rhamnogalacturonan II biosynthetic process	GO_0010306	0	1	0	0	0
-rhamnogalacturonan I side chain metabolic process	GO_0010400	0	1	0	0	0
-rhamnogalacturonan I metabolic process	GO_0010395	0	1	0	0	0
-rhamnogalacturonan I biosynthetic process	GO_0010246	0	1	0	0	0
-rhamnogalacturonan I backbone metabolic process	GO_0010399	0	1	0	0	0
-release of seed from dormancy	GO_0048838	0	1	0	0	0
-regulation of synergid differentiation	GO_0045697	0	1	0	0	0
-regulation of short-day photoperiodism, flowering	GO_0048587	0	1	0	0	0
-regulation of photomorphogenesis	GO_0010099	0	1	0	0	0
-regulation of long-day photoperiodism, flowering	GO_0048586	0	1	0	0	0
-regulation of embryo sac egg cell differentiation	GO_0045694	0	1	0	0	0
-regulation of embryo sac central cell differentiation	GO_0045691	0	1	0	0	0
-regulation of antipodal cell differentiation	GO_0045688	0	1	0	0	0
-protoxylem development	GO_0090059	0	1	0	0	0
-prothylakoid membrane	GO_0042650	0	1	0	0	0
-prothylakoid	GO_0042649	0	1	0	0	0
-proteinoplast	GO_0031986	0	1	0	0	0
-protein storage vacuole membrane	GO_0032586	0	1	0	0	0
-protein storage vacuole lumen	GO_0034495	0	1	0	0	0
-protein storage vacuole	GO_0000326	0	1	0	0	0
-primary root development	GO_0080022	0	1	0	0	0
-primary cell wall cellulose synthase complex	GO_0044567	0	1	0	0	0
-primary cell wall	GO_0009530	0	1	0	0	0
-post-embryonic root development	GO_0048528	0	1	0	0	0
-positive regulation of synergid differentiation	GO_0045699	0	1	0	0	0
-positive regulation of short-day photoperiodism, flowering	GO_0048576	0	1	0	0	0
-positive regulation of photomorphogenesis	GO_2000306	0	1	0	0	0
-positive regulation of long-day photoperiodism, flowering	GO_0048578	0	1	0	0	0
-positive regulation of embryo sac egg cell differentiation	GO_0045696	0	1	0	0	0
-positive regulation of embryo sac central cell differentiation	GO_0045693	0	1	0	0	0
-positive regulation of antipodal cell differentiation	GO_0045690	0	1	0	0	0
-pollen wall assembly	GO_0010208	0	1	0	0	0
-pollen sperm cell differentiation	GO_0048235	0	1	0	0	0
-pollen maturation	GO_0010152	0	1	0	0	0
-pollen exine formation	GO_0010584	0	1	0	0	0
-pollen development	GO_0009555	0	1	0	0	0
-polar nucleus fusion	GO_0010197	0	1	0	0	0
-plastoglobule	GO_0010287	0	1	0	0	0
-plantlet formation on parent plant	GO_0048624	0	1	0	0	0
-plant-type vacuole membrane	GO_0009705	0	1	0	0	0
-plant-type vacuole lumen	GO_0000330	0	1	0	0	0
-plant-type vacuole	GO_0000325	0	1	0	0	0
-plant-type spore development	GO_0048236	0	1	0	0	0
-plant-type secondary cell wall biogenesis	GO_0009834	0	1	0	0	0
-plant-type primary cell wall biogenesis	GO_0009833	0	1	0	0	0
-plant-type ovary development	GO_0035670	0	1	0	0	0
-plant-type cell wall organization	GO_0009664	0	1	0	0	0
-plant-type cell wall modification involved in multidimensional cell growth	GO_0009831	0	1	0	0	0
-plant-type cell wall modification	GO_0009827	0	1	0	0	0
-plant-type cell wall loosening involved in abscission	GO_1902088	0	1	0	0	0
-plant-type cell wall loosening	GO_0009828	0	1	0	0	0
-plant-type cell wall cellulose metabolic process	GO_0052541	0	1	0	0	0
-plant-type cell wall cellulose catabolic process	GO_0044348	0	1	0	0	0
-plant-type cell wall cellulose biosynthetic process	GO_0052324	0	1	0	0	0
-plant-type cell wall biogenesis	GO_0009832	0	1	0	0	0
-plant-type cell wall assembly	GO_0071668	0	1	0	0	0
-plant-type cell wall	GO_0009505	0	1	0	0	0
-phyllome development	GO_0048827	0	1	0	0	0
-photoperiodism, flowering	GO_0048573	0	1	0	0	0
-photomorphogenesis	GO_0009640	0	1	0	0	0
-phloem or xylem histogenesis	GO_0010087	0	1	0	0	0
-phloem development	GO_0010088	0	1	0	0	0
-petal vascular tissue pattern formation	GO_0080056	0	1	0	0	0
-petal development	GO_0048441	0	1	0	0	0
-pectic matrix	GO_0048217	0	1	0	0	0
-pectic galactan metabolic process	GO_0010401	0	1	0	0	0
-pectic arabinogalactan I metabolic process	GO_0010403	0	1	0	0	0
-pectic arabinan metabolic process	GO_0010402	0	1	0	0	0
-nucleomorph	GO_0033009	0	1	0	0	0
-nuclear migration to the embryo sac center	GO_0023003	0	1	0	0	0
-nuclear migration to embryo sac poles	GO_0023002	0	1	0	0	0
-negative regulation of synergid differentiation	GO_0045698	0	1	0	0	0
-negative regulation of short-day photoperiodism, flowering	GO_0048577	0	1	0	0	0
-negative regulation of photomorphogenesis	GO_0010100	0	1	0	0	0
-negative regulation of long-day photoperiodism, flowering	GO_0048579	0	1	0	0	0
-negative regulation of embryo sac egg cell differentiation	GO_0045695	0	1	0	0	0
-negative regulation of embryo sac central cell differentiation	GO_0045692	0	1	0	0	0
-negative regulation of antipodal cell differentiation	GO_0045689	0	1	0	0	0
-monolayer-surrounded lipid storage body	GO_0012511	0	1	0	0	0
-microsporogenesis	GO_0009556	0	1	0	0	0
-microgametogenesis	GO_0055046	0	1	0	0	0
-metaxylem development	GO_0090058	0	1	0	0	0
-metabolism by symbiont of host cell wall pectin	GO_0052179	0	1	0	0	0
-metabolism by symbiont of host cell wall cellulose	GO_0052172	0	1	0	0	0
-metabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052413	0	1	0	0	0
-metabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052409	0	1	0	0	0
-metabolism by host of symbiont cell wall pectin	GO_0052412	0	1	0	0	0
-metabolism by host of symbiont cell wall cellulose	GO_0052408	0	1	0	0	0
-meristemoid mother cell division	GO_0010443	0	1	0	0	0
-megasporogenesis	GO_0009554	0	1	0	0	0
-megagametophyte egg cell nucleus	GO_0043082	0	1	0	0	0
-megagametogenesis	GO_0009561	0	1	0	0	0
-magnesium chelatase complex	GO_0010007	0	1	0	0	0
-lytic vacuole within protein storage vacuole	GO_0000327	0	1	0	0	0
-long-day photoperiodism, flowering	GO_0048574	0	1	0	0	0
-lignin network	GO_0048224	0	1	0	0	0
-leucoplast stroma	GO_0009576	0	1	0	0	0
-leucoplast	GO_0009516	0	1	0	0	0
-leaf vascular tissue pattern formation	GO_0010305	0	1	0	0	0
-leaf shaping	GO_0010358	0	1	0	0	0
-leaf formation	GO_0010338	0	1	0	0	0
-leaf development	GO_0048366	0	1	0	0	0
-lateral root development	GO_0048527	0	1	0	0	0
-induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	0	0	0
-induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	0	0	0
-homogalacturonan biosynthetic process	GO_0010289	0	1	0	0	0
-hemicellulose network	GO_0048223	0	1	0	0	0
-guard mother cell cytokinesis	GO_0010235	0	1	0	0	0
-guard cell fate commitment	GO_0010377	0	1	0	0	0
-granum	GO_0009542	0	1	0	0	0
-granal stacked thylakoid	GO_0009515	0	1	0	0	0
-gerontoplast	GO_0034400	0	1	0	0	0
-generative cell nucleus	GO_0048555	0	1	0	0	0
-generative cell differentiation	GO_0022619	0	1	0	0	0
-gametophyte development	GO_0048229	0	1	0	0	0
-fruit development	GO_0010154	0	1	0	0	0
-flower development	GO_0009908	0	1	0	0	0
-etioplast stroma	GO_0009578	0	1	0	0	0
-etioplast prolamellar body	GO_0009541	0	1	0	0	0
-etioplast	GO_0009513	0	1	0	0	0
-embryo sac nuclear migration	GO_0009562	0	1	0	0	0
-embryo sac morphogenesis	GO_0048314	0	1	0	0	0
-embryo sac egg cell differentiation	GO_0009560	0	1	0	0	0
-embryo sac development	GO_0009553	0	1	0	0	0
-embryo sac central cell differentiation	GO_0009559	0	1	0	0	0
-embryo sac cellularization	GO_0009558	0	1	0	0	0
-elaioplast stroma	GO_0009577	0	1	0	0	0
-elaioplast	GO_0009545	0	1	0	0	0
-double fertilization forming two zygotes	GO_0009677	0	1	0	0	0
-double fertilization forming a zygote and endosperm	GO_0009567	0	1	0	0	0
-developmental vegetative growth	GO_0080186	0	1	0	0	0
-de-etiolation	GO_0009704	0	1	0	0	0
-cytokinesis by cell plate formation	GO_0000911	0	1	0	0	0
-cotyledon vascular tissue pattern formation	GO_0010588	0	1	0	0	0
-cotyledon morphogenesis	GO_0048826	0	1	0	0	0
-cotyledon development	GO_0048825	0	1	0	0	0
-compound sieve plate	GO_0097219	0	1	0	0	0
-chromoplast	GO_0009509	0	1	0	0	0
-chloroplastic endopeptidase Clp complex	GO_0009840	0	1	0	0	0
-chloroplast-nucleus signaling pathway	GO_0010019	0	1	0	0	0
-chloroplast stromal thylakoid	GO_0009533	0	1	0	0	0
-chloroplast starch grain	GO_0009569	0	1	0	0	0
-chloroplast ribulose bisphosphate carboxylase complex	GO_0009573	0	1	0	0	0
-chloroplast proton-transporting ATP synthase complex, coupling factor CF(o)	GO_0033175	0	1	0	0	0
-chloroplast proton-transporting ATP synthase complex, catalytic core CF(1)	GO_0033174	0	1	0	0	0
-chloroplast proton-transporting ATP synthase complex assembly	GO_0033614	0	1	0	0	0
-chloroplast photosystem I	GO_0030093	0	1	0	0	0
-chloroplast outer membrane translocon	GO_0010278	0	1	0	0	0
-chloroplast isoamylase complex	GO_0010368	0	1	0	0	0
-chloroplast ATP synthase complex	GO_0009544	0	1	0	0	0
-central vacuole	GO_0042807	0	1	0	0	0
-cellulose synthase complex	GO_0010330	0	1	0	0	0
-cellulose microfibril	GO_0009549	0	1	0	0	0
-cell wall pectin metabolic process	GO_0052546	0	1	0	0	0
-cell wall pectin biosynthetic process	GO_0052325	0	1	0	0	0
-cell wall modification involved in fruit ripening	GO_0009829	0	1	0	0	0
-cell wall modification involved in abscission	GO_0009830	0	1	0	0	0
-cell wall disassembly involved in floral organ abscission	GO_0060870	0	1	0	0	0
-cell plate formation involved in plant-type cell wall biogenesis	GO_0009920	0	1	0	0	0
-catabolism by symbiont of host cell wall pectin	GO_0052011	0	1	0	0	0
-catabolism by symbiont of host cell wall cellulose	GO_0052010	0	1	0	0	0
-catabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052341	0	1	0	0	0
-catabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052340	0	1	0	0	0
-catabolism by host of symbiont cell wall pectin	GO_0052357	0	1	0	0	0
-catabolism by host of symbiont cell wall cellulose	GO_0052355	0	1	0	0	0
-carpel development	GO_0048440	0	1	0	0	0
-bud dormancy process	GO_0097207	0	1	0	0	0
-bract morphogenesis	GO_0010433	0	1	0	0	0
-bract formation	GO_0010434	0	1	0	0	0
-bract development	GO_0010432	0	1	0	0	0
-apoplast	GO_0048046	0	1	0	0	0
-antipodal cell differentiation	GO_0009557	0	1	0	0	0
-antipodal cell degeneration	GO_0055045	0	1	0	0	0
-anther wall tapetum development	GO_0048658	0	1	0	0	0
-amyloplast starch grain	GO_0009568	0	1	0	0	0
-amyloplast	GO_0009501	0	1	0	0	0
-adventitious root development	GO_0048830	0	1	0	0	0
-Toc complex	GO_0010006	0	1	0	0	0
-Tic complex	GO_0031897	0	1	0	0	0
-PSII associated light-harvesting complex II, peripheral complex, LHCIIb subcomplex	GO_0030085	0	1	0	0	0
-PSII associated light-harvesting complex II, peripheral complex	GO_0009656	0	1	0	0	0
-PSII associated light-harvesting complex II, core complex	GO_0009655	0	1	0	0	0
-PSII associated light-harvesting complex II	GO_0009517	0	1	0	0	0
-PSI associated light-harvesting complex I, LHCIb subcomplex	GO_0030084	0	1	0	0	0
-PSI associated light-harvesting complex I, LHCIa subcomplex	GO_0030083	0	1	0	0	0
-PSI associated light-harvesting complex I	GO_0009518	0	1	0	0	0
-PEP carboxykinase C4 photosynthesis	GO_0009764	0	1	0	0	0
-NADP-malic enzyme C4 photosynthesis	GO_0009762	0	1	0	0	0
-NAD-malic enzyme C4 photosynthesis	GO_0009763	0	1	0	0	0
-Casparian strip	GO_0048226	0	1	0	0	0
-CAM photosynthesis	GO_0009761	0	1	0	0	0
-C4 photosynthesis	GO_0009760	0	1	0	0	0
+zygote asymmetric cytokinesis in embryo sac	GO_0010069	0	1	1	0	0
+xylem development	GO_0010089	0	1	1	0	0
+xylem and phloem pattern formation	GO_0010051	0	1	1	0	0
+vegetative meristem growth	GO_0010448	0	1	1	0	0
+vegetative cell differentiation	GO_0022620	0	1	1	0	0
+trichome morphogenesis	GO_0010090	0	1	1	0	0
+trichome branching	GO_0010091	0	1	1	0	0
+thylakoid light-harvesting complex	GO_0009503	0	1	1	0	0
+synergid differentiation	GO_0009563	0	1	1	0	0
+symplast	GO_0055044	0	1	1	0	0
+suberin network	GO_0048225	0	1	1	0	0
+style development	GO_0048479	0	1	1	0	0
+stromule	GO_0010319	0	1	1	0	0
+stomatal complex development	GO_0010374	0	1	1	0	0
+stipule development	GO_0010865	0	1	1	0	0
+stigma development	GO_0048480	0	1	1	0	0
+stem vascular tissue pattern formation	GO_0010222	0	1	1	0	0
+starch grain	GO_0043036	0	1	1	0	0
+stamen filament development	GO_0080086	0	1	1	0	0
+stamen development	GO_0048443	0	1	1	0	0
+skotomorphogenesis	GO_0009647	0	1	1	0	0
+simple sieve plate	GO_0097220	0	1	1	0	0
+sieve plate	GO_0097218	0	1	1	0	0
+short-day photoperiodism, flowering	GO_0048575	0	1	1	0	0
+sepal vascular tissue pattern formation	GO_0080057	0	1	1	0	0
+sepal development	GO_0048442	0	1	1	0	0
+senescence-associated vacuole	GO_0010282	0	1	1	0	0
+seed germination on parent plant	GO_0048623	0	1	1	0	0
+seed coat development	GO_0010214	0	1	1	0	0
+secondary cell wall cellulose synthase complex	GO_0044568	0	1	1	0	0
+secondary cell wall biogenesis involved in seed trichome differentiation	GO_0090379	0	1	1	0	0
+secondary cell wall	GO_0009531	0	1	1	0	0
+root development	GO_0048364	0	1	1	0	0
+root cap development	GO_0048829	0	1	1	0	0
+rhamnogalacturonan II side chain metabolic process	GO_0010419	0	1	1	0	0
+rhamnogalacturonan II biosynthetic process	GO_0010306	0	1	1	0	0
+rhamnogalacturonan I side chain metabolic process	GO_0010400	0	1	1	0	0
+rhamnogalacturonan I metabolic process	GO_0010395	0	1	1	0	0
+rhamnogalacturonan I biosynthetic process	GO_0010246	0	1	1	0	0
+rhamnogalacturonan I backbone metabolic process	GO_0010399	0	1	1	0	0
+release of seed from dormancy	GO_0048838	0	1	1	0	0
+regulation of synergid differentiation	GO_0045697	0	1	1	0	0
+regulation of short-day photoperiodism, flowering	GO_0048587	0	1	1	0	0
+regulation of photomorphogenesis	GO_0010099	0	1	1	0	0
+regulation of long-day photoperiodism, flowering	GO_0048586	0	1	1	0	0
+regulation of embryo sac egg cell differentiation	GO_0045694	0	1	1	0	0
+regulation of embryo sac central cell differentiation	GO_0045691	0	1	1	0	0
+regulation of antipodal cell differentiation	GO_0045688	0	1	1	0	0
+protoxylem development	GO_0090059	0	1	1	0	0
+prothylakoid membrane	GO_0042650	0	1	1	0	0
+prothylakoid	GO_0042649	0	1	1	0	0
+proteinoplast	GO_0031986	0	1	1	0	0
+protein storage vacuole membrane	GO_0032586	0	1	1	0	0
+protein storage vacuole lumen	GO_0034495	0	1	1	0	0
+protein storage vacuole	GO_0000326	0	1	1	0	0
+primary root development	GO_0080022	0	1	1	0	0
+primary cell wall cellulose synthase complex	GO_0044567	0	1	1	0	0
+primary cell wall	GO_0009530	0	1	1	0	0
+post-embryonic root development	GO_0048528	0	1	1	0	0
+positive regulation of synergid differentiation	GO_0045699	0	1	1	0	0
+positive regulation of short-day photoperiodism, flowering	GO_0048576	0	1	1	0	0
+positive regulation of photomorphogenesis	GO_2000306	0	1	1	0	0
+positive regulation of long-day photoperiodism, flowering	GO_0048578	0	1	1	0	0
+positive regulation of embryo sac egg cell differentiation	GO_0045696	0	1	1	0	0
+positive regulation of embryo sac central cell differentiation	GO_0045693	0	1	1	0	0
+positive regulation of antipodal cell differentiation	GO_0045690	0	1	1	0	0
+pollen wall assembly	GO_0010208	0	1	1	0	0
+pollen sperm cell differentiation	GO_0048235	0	1	1	0	0
+pollen maturation	GO_0010152	0	1	1	0	0
+pollen exine formation	GO_0010584	0	1	1	0	0
+pollen development	GO_0009555	0	1	1	0	0
+polar nucleus fusion	GO_0010197	0	1	1	0	0
+plastoglobule	GO_0010287	0	1	1	0	0
+plantlet formation on parent plant	GO_0048624	0	1	1	0	0
+plant-type vacuole membrane	GO_0009705	0	1	1	0	0
+plant-type vacuole lumen	GO_0000330	0	1	1	0	0
+plant-type vacuole	GO_0000325	0	1	1	0	0
+plant-type spore development	GO_0048236	0	1	1	0	0
+plant-type secondary cell wall biogenesis	GO_0009834	0	1	1	0	0
+plant-type primary cell wall biogenesis	GO_0009833	0	1	1	0	0
+plant-type ovary development	GO_0035670	0	1	1	0	0
+plant-type cell wall organization	GO_0009664	0	1	1	0	0
+plant-type cell wall modification involved in multidimensional cell growth	GO_0009831	0	1	1	0	0
+plant-type cell wall modification	GO_0009827	0	1	1	0	0
+plant-type cell wall loosening involved in abscission	GO_1902088	0	1	1	0	0
+plant-type cell wall loosening	GO_0009828	0	1	1	0	0
+plant-type cell wall cellulose metabolic process	GO_0052541	0	1	1	0	0
+plant-type cell wall cellulose catabolic process	GO_0044348	0	1	1	0	0
+plant-type cell wall cellulose biosynthetic process	GO_0052324	0	1	1	0	0
+plant-type cell wall biogenesis	GO_0009832	0	1	1	0	0
+plant-type cell wall assembly	GO_0071668	0	1	1	0	0
+plant-type cell wall	GO_0009505	0	1	1	0	0
+phyllome development	GO_0048827	0	1	1	0	0
+photoperiodism, flowering	GO_0048573	0	1	1	0	0
+photomorphogenesis	GO_0009640	0	1	1	0	0
+phloem or xylem histogenesis	GO_0010087	0	1	1	0	0
+phloem development	GO_0010088	0	1	1	0	0
+petal vascular tissue pattern formation	GO_0080056	0	1	1	0	0
+petal development	GO_0048441	0	1	1	0	0
+pectic matrix	GO_0048217	0	1	1	0	0
+pectic galactan metabolic process	GO_0010401	0	1	1	0	0
+pectic arabinogalactan I metabolic process	GO_0010403	0	1	1	0	0
+pectic arabinan metabolic process	GO_0010402	0	1	1	0	0
+nucleomorph	GO_0033009	0	1	1	0	0
+nuclear migration to the embryo sac center	GO_0023003	0	1	1	0	0
+nuclear migration to embryo sac poles	GO_0023002	0	1	1	0	0
+negative regulation of synergid differentiation	GO_0045698	0	1	1	0	0
+negative regulation of short-day photoperiodism, flowering	GO_0048577	0	1	1	0	0
+negative regulation of photomorphogenesis	GO_0010100	0	1	1	0	0
+negative regulation of long-day photoperiodism, flowering	GO_0048579	0	1	1	0	0
+negative regulation of embryo sac egg cell differentiation	GO_0045695	0	1	1	0	0
+negative regulation of embryo sac central cell differentiation	GO_0045692	0	1	1	0	0
+negative regulation of antipodal cell differentiation	GO_0045689	0	1	1	0	0
+monolayer-surrounded lipid storage body	GO_0012511	0	1	1	0	0
+microsporogenesis	GO_0009556	0	1	1	0	0
+microgametogenesis	GO_0055046	0	1	1	0	0
+metaxylem development	GO_0090058	0	1	1	0	0
+metabolism by symbiont of host cell wall pectin	GO_0052179	0	1	1	0	0
+metabolism by symbiont of host cell wall cellulose	GO_0052172	0	1	1	0	0
+metabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052413	0	1	1	0	0
+metabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052409	0	1	1	0	0
+metabolism by host of symbiont cell wall pectin	GO_0052412	0	1	1	0	0
+metabolism by host of symbiont cell wall cellulose	GO_0052408	0	1	1	0	0
+meristemoid mother cell division	GO_0010443	0	1	1	0	0
+megasporogenesis	GO_0009554	0	1	1	0	0
+megagametophyte egg cell nucleus	GO_0043082	0	1	1	0	0
+megagametogenesis	GO_0009561	0	1	1	0	0
+magnesium chelatase complex	GO_0010007	0	1	1	0	0
+lytic vacuole within protein storage vacuole	GO_0000327	0	1	1	0	0
+long-day photoperiodism, flowering	GO_0048574	0	1	1	0	0
+lignin network	GO_0048224	0	1	1	0	0
+leucoplast stroma	GO_0009576	0	1	1	0	0
+leucoplast	GO_0009516	0	1	1	0	0
+leaf vascular tissue pattern formation	GO_0010305	0	1	1	0	0
+leaf shaping	GO_0010358	0	1	1	0	0
+leaf formation	GO_0010338	0	1	1	0	0
+leaf development	GO_0048366	0	1	1	0	0
+lateral root development	GO_0048527	0	1	1	0	0
+induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	1	0	0
+induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	1	0	0
+homogalacturonan biosynthetic process	GO_0010289	0	1	1	0	0
+hemicellulose network	GO_0048223	0	1	1	0	0
+guard mother cell cytokinesis	GO_0010235	0	1	1	0	0
+guard cell fate commitment	GO_0010377	0	1	1	0	0
+granum	GO_0009542	0	1	1	0	0
+granal stacked thylakoid	GO_0009515	0	1	1	0	0
+gerontoplast	GO_0034400	0	1	1	0	0
+generative cell nucleus	GO_0048555	0	1	1	0	0
+generative cell differentiation	GO_0022619	0	1	1	0	0
+gametophyte development	GO_0048229	0	1	1	0	0
+fruit development	GO_0010154	0	1	1	0	0
+flower development	GO_0009908	0	1	1	0	0
+etioplast stroma	GO_0009578	0	1	1	0	0
+etioplast prolamellar body	GO_0009541	0	1	1	0	0
+etioplast	GO_0009513	0	1	1	0	0
+embryo sac nuclear migration	GO_0009562	0	1	1	0	0
+embryo sac morphogenesis	GO_0048314	0	1	1	0	0
+embryo sac egg cell differentiation	GO_0009560	0	1	1	0	0
+embryo sac development	GO_0009553	0	1	1	0	0
+embryo sac central cell differentiation	GO_0009559	0	1	1	0	0
+embryo sac cellularization	GO_0009558	0	1	1	0	0
+elaioplast stroma	GO_0009577	0	1	1	0	0
+elaioplast	GO_0009545	0	1	1	0	0
+double fertilization forming two zygotes	GO_0009677	0	1	1	0	0
+double fertilization forming a zygote and endosperm	GO_0009567	0	1	1	0	0
+developmental vegetative growth	GO_0080186	0	1	1	0	0
+de-etiolation	GO_0009704	0	1	1	0	0
+cytokinesis by cell plate formation	GO_0000911	0	1	1	0	0
+cotyledon vascular tissue pattern formation	GO_0010588	0	1	1	0	0
+cotyledon morphogenesis	GO_0048826	0	1	1	0	0
+cotyledon development	GO_0048825	0	1	1	0	0
+compound sieve plate	GO_0097219	0	1	1	0	0
+chromoplast	GO_0009509	0	1	1	0	0
+chloroplastic endopeptidase Clp complex	GO_0009840	0	1	1	0	0
+chloroplast-nucleus signaling pathway	GO_0010019	0	1	1	0	0
+chloroplast stromal thylakoid	GO_0009533	0	1	1	0	0
+chloroplast starch grain	GO_0009569	0	1	1	0	0
+chloroplast ribulose bisphosphate carboxylase complex	GO_0009573	0	1	1	0	0
+chloroplast proton-transporting ATP synthase complex, coupling factor CF(o)	GO_0033175	0	1	1	0	0
+chloroplast proton-transporting ATP synthase complex, catalytic core CF(1)	GO_0033174	0	1	1	0	0
+chloroplast proton-transporting ATP synthase complex assembly	GO_0033614	0	1	1	0	0
+chloroplast photosystem I	GO_0030093	0	1	1	0	0
+chloroplast outer membrane translocon	GO_0010278	0	1	1	0	0
+chloroplast isoamylase complex	GO_0010368	0	1	1	0	0
+chloroplast ATP synthase complex	GO_0009544	0	1	1	0	0
+central vacuole	GO_0042807	0	1	1	0	0
+cellulose synthase complex	GO_0010330	0	1	1	0	0
+cellulose microfibril	GO_0009549	0	1	1	0	0
+cell wall pectin metabolic process	GO_0052546	0	1	1	0	0
+cell wall pectin biosynthetic process	GO_0052325	0	1	1	0	0
+cell wall modification involved in fruit ripening	GO_0009829	0	1	1	0	0
+cell wall modification involved in abscission	GO_0009830	0	1	1	0	0
+cell wall disassembly involved in floral organ abscission	GO_0060870	0	1	1	0	0
+cell plate formation involved in plant-type cell wall biogenesis	GO_0009920	0	1	1	0	0
+catabolism by symbiont of host cell wall pectin	GO_0052011	0	1	1	0	0
+catabolism by symbiont of host cell wall cellulose	GO_0052010	0	1	1	0	0
+catabolism by organism of cell wall pectin in other organism involved in symbiotic interaction	GO_0052341	0	1	1	0	0
+catabolism by organism of cell wall cellulose in other organism involved in symbiotic interaction	GO_0052340	0	1	1	0	0
+catabolism by host of symbiont cell wall pectin	GO_0052357	0	1	1	0	0
+catabolism by host of symbiont cell wall cellulose	GO_0052355	0	1	1	0	0
+carpel development	GO_0048440	0	1	1	0	0
+bud dormancy process	GO_0097207	0	1	1	0	0
+bract morphogenesis	GO_0010433	0	1	1	0	0
+bract formation	GO_0010434	0	1	1	0	0
+bract development	GO_0010432	0	1	1	0	0
+apoplast	GO_0048046	0	1	1	0	0
+antipodal cell differentiation	GO_0009557	0	1	1	0	0
+antipodal cell degeneration	GO_0055045	0	1	1	0	0
+anther wall tapetum development	GO_0048658	0	1	1	0	0
+amyloplast starch grain	GO_0009568	0	1	1	0	0
+amyloplast	GO_0009501	0	1	1	0	0
+adventitious root development	GO_0048830	0	1	1	0	0
+Toc complex	GO_0010006	0	1	1	0	0
+Tic complex	GO_0031897	0	1	1	0	0
+PSII associated light-harvesting complex II, peripheral complex, LHCIIb subcomplex	GO_0030085	0	1	1	0	0
+PSII associated light-harvesting complex II, peripheral complex	GO_0009656	0	1	1	0	0
+PSII associated light-harvesting complex II, core complex	GO_0009655	0	1	1	0	0
+PSII associated light-harvesting complex II	GO_0009517	0	1	1	0	0
+PSI associated light-harvesting complex I, LHCIb subcomplex	GO_0030084	0	1	1	0	0
+PSI associated light-harvesting complex I, LHCIa subcomplex	GO_0030083	0	1	1	0	0
+PSI associated light-harvesting complex I	GO_0009518	0	1	1	0	0
+PEP carboxykinase C4 photosynthesis	GO_0009764	0	1	1	0	0
+NADP-malic enzyme C4 photosynthesis	GO_0009762	0	1	1	0	0
+NAD-malic enzyme C4 photosynthesis	GO_0009763	0	1	1	0	0
+Casparian strip	GO_0048226	0	1	1	0	0
+CAM photosynthesis	GO_0009761	0	1	1	0	0
+C4 photosynthesis	GO_0009760	0	1	1	0	0
