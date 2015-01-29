@@ -1,0 +1,30 @@
+{
+    "classes": {
+        "root": "NCBITaxon_1"
+    }, 
+    "def": {
+        "text": "A biological process, molecular function or cellular component that is found only in %s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "equivalentTo": {
+        "text": "'only in taxon' some %s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "name": {
+        "text": "process or entity found only in %s", 
+        "vars": [
+            "key_class"
+        ]
+    }, 
+    "pattern_name": "only_in_taxon", 
+    "relations": {
+        "only in taxon": "RO_0002160"
+    }, 
+    "vars": {
+        "key_class": "root"
+    }
+}

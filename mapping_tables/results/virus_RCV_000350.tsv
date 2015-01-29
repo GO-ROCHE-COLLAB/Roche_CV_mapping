@@ -1,0 +1,259 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+virus-infected cell apoptotic process	GO_0006926	1	0	1	1	1
+virus tail fiber assembly	GO_0098004	1	0	1	0	0
+virus maturation	GO_0019075	1	0	1	0	0
+virus induced gene silencing	GO_0009616	1	0	1	0	0
+virus baseplate assembly	GO_0098045	1	0	1	0	0
+virulence	GO_0009406	1	0	1	1	1
+virion attachment to host cell	GO_0019062	1	0	1	0	0
+virion assembly	GO_0019068	1	0	1	0	0
+viral-induced premature senescence	GO_0090401	1	0	1	0	0
+viral triggering of virus induced gene silencing	GO_0060150	1	0	1	0	0
+viral transmission by vector	GO_0044009	1	0	1	0	0
+viral translation	GO_0019081	1	0	1	0	0
+viral transcription	GO_0019083	1	0	1	0	0
+viral tail assembly	GO_0098003	1	0	1	0	0
+viral scaffold assembly and maintenance	GO_0046807	1	0	1	0	0
+viral replication complex formation and maintenance	GO_0046786	1	0	1	0	0
+viral replication	GO_0008166	1	0	1	1	1
+viral release from host cell	GO_0019076	1	0	1	0	0
+viral protein processing	GO_0019082	1	0	1	0	0
+viral process	GO_0016032	1	0	1	0	0
+viral procapsid maturation	GO_0046797	1	0	1	0	0
+viral penetration into host nucleus	GO_0075732	1	0	1	0	0
+viral mRNA export from host cell nucleus	GO_0046784	1	0	1	0	0
+viral life cycle	GO_0019058	1	0	1	0	0
+viral latency	GO_0019042	1	0	1	0	0
+viral head-tail joining	GO_0098005	1	0	1	0	0
+viral genome replication	GO_0019079	1	0	1	0	0
+viral genome packaging	GO_0019072	1	0	1	0	0
+viral genome maturation	GO_0019070	1	0	1	0	0
+viral gene silencing in virus induced gene silencing	GO_0060145	1	0	1	0	0
+viral gene expression	GO_0019080	1	0	1	0	0
+viral exocytosis	GO_0046754	1	0	1	0	0
+viral entry into host cell via clathrin-mediated endocytosis followed by genetic injection through the endosome membrane	GO_0075705	1	0	1	1	1
+viral entry into host cell via caveolin-mediated endocytosis followed by genetic injection through the endosome membrane	GO_0075515	1	0	1	1	1
+viral entry into host cell	GO_0046718	1	0	1	0	0
+viral capsid secondary envelopment	GO_0046745	1	0	1	0	0
+viral capsid precursor transport to host cell nucleus	GO_0046752	1	0	1	0	0
+viral capsid assembly	GO_0019069	1	0	1	0	0
+viral budding from plasma membrane	GO_0046761	1	0	1	0	0
+viral budding from outer nuclear membrane	GO_0046772	1	0	1	0	0
+viral budding from nuclear membrane	GO_0046765	1	0	1	0	0
+viral budding from inner nuclear membrane	GO_0046771	1	0	1	0	0
+viral budding from ER membrane	GO_0046762	1	0	1	0	0
+viral budding	GO_0046755	1	0	1	0	0
+viral RNA genome packaging	GO_0019074	1	0	1	0	0
+viral DNA repair	GO_0046787	1	0	1	0	0
+viral DNA genome packaging, headful	GO_0098006	1	0	1	0	0
+viral DNA genome packaging, 5' extended cos packaging	GO_0098037	1	0	1	0	0
+viral DNA genome packaging, 3' extended cos packaging	GO_0098036	1	0	1	0	0
+viral DNA genome packaging via site-specific sequence recognition	GO_0098035	1	0	1	0	0
+viral DNA genome packaging	GO_0019073	1	0	1	0	0
+viral DNA cleavage involved in viral genome maturation	GO_0019071	1	0	1	0	0
+uncoating of virus	GO_0019061	1	0	1	0	0
+transport of virus in multicellular host	GO_0046739	1	0	1	0	0
+transport of virus in host, tissue to tissue	GO_0046741	1	0	1	0	0
+transport of virus in host, cell to cell	GO_0046740	1	0	1	0	0
+transport of virus	GO_0046794	1	0	1	0	0
+transport of viral material towards nucleus	GO_0075606	1	0	1	0	0
+transmission of virus	GO_0019089	1	0	1	0	0
+translocation of virus into host cell	GO_0019066	1	0	1	1	1
+transformation of host cell by virus	GO_0019087	1	0	1	0	0
+suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039537	1	0	1	0	0
+suppression by virus of host type I interferon-mediated signaling pathway	GO_0039502	1	0	1	0	0
+suppression by virus of host type I interferon production	GO_0039501	1	0	1	0	0
+suppression by virus of host translation termination	GO_0046773	1	0	1	0	0
+suppression by virus of host translation initiation factor activity by induction of host protein dephosphorylation	GO_0039608	1	0	1	0	0
+suppression by virus of host translation initiation factor activity	GO_0039611	1	0	1	0	0
+suppression by virus of host translation initiation	GO_0039606	1	0	1	0	0
+suppression by virus of host translation	GO_0039604	1	0	1	0	0
+suppression by virus of host transcription initiation from RNA polymerase II promoter	GO_0039602	1	0	1	0	0
+suppression by virus of host tetherin activity	GO_0039587	1	0	1	0	0
+suppression by virus of host tapasin activity	GO_0039591	1	0	1	0	0
+suppression by virus of host receptor activity	GO_0039508	1	0	1	0	0
+suppression by virus of host protein tyrosine kinase activity	GO_0039512	1	0	1	0	0
+suppression by virus of host protein phosphorylation	GO_0039613	1	0	1	0	0
+suppression by virus of host protein kinase activity	GO_0039584	1	0	1	0	0
+suppression by virus of host peptidoglycan biosynthetic process	GO_0039635	1	0	1	0	0
+suppression by virus of host pattern recognition receptor activity	GO_0039509	1	0	1	0	0
+suppression by virus of host molecular function	GO_0039507	1	0	1	0	0
+suppression by virus of host mRNA splicing	GO_0046780	1	0	1	0	0
+suppression by virus of host mRNA processing	GO_0039524	1	0	1	0	0
+suppression by virus of host mRNA export from nucleus	GO_0039522	1	0	1	0	0
+suppression by virus of host intracellular interferon activity	GO_0046774	1	0	1	0	0
+suppression by virus of host interferon receptor activity	GO_0039511	1	0	1	0	0
+suppression by virus of host exit from mitosis	GO_0039593	1	0	1	0	0
+suppression by virus of host cytokine production	GO_0046775	1	0	1	0	0
+suppression by virus of host cytokine activity	GO_0039518	1	0	1	0	0
+suppression by virus of host complement neutralization	GO_0046791	1	0	1	1	1
+suppression by virus of host complement activation	GO_0039573	1	0	1	0	0
+suppression by virus of host chemokine activity	GO_0039553	1	0	1	0	0
+suppression by virus of host cell wall biogenesis	GO_0039636	1	0	1	0	0
+suppression by virus of host cell lysis in response to superinfection	GO_0039639	1	0	1	0	0
+suppression by virus of host cell cycle arrest	GO_0046792	1	0	1	0	0
+suppression by virus of host catalytic activity	GO_0039513	1	0	1	0	0
+suppression by virus of host autophagy	GO_0039521	1	0	1	0	0
+suppression by virus of host apoptotic process	GO_0019050	1	0	1	0	0
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	GO_0039505	1	0	1	0	0
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	GO_0046776	1	0	1	0	0
+suppression by virus of host antigen processing and presentation	GO_0039588	1	0	1	0	0
+suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	GO_0039575	1	0	1	0	0
+suppression by virus of host TYK2 activity	GO_0039574	1	0	1	0	0
+suppression by virus of host TRAF-mediated signal transduction	GO_0039527	1	0	1	0	0
+suppression by virus of host TRAF activity	GO_0039547	1	0	1	0	0
+suppression by virus of host STAT2 activity by positive regulation of STAT2 catabolic process	GO_0039569	1	0	1	0	0
+suppression by virus of host STAT2 activity by negative regulation of STAT2 tyrosine phosphorylation	GO_0039572	1	0	1	0	0
+suppression by virus of host STAT2 activity by negative regulation of STAT protein import into nucleus	GO_0039570	1	0	1	0	0
+suppression by virus of host STAT2 activity	GO_0039564	1	0	1	0	0
+suppression by virus of host STAT1 activity by tyrosine dephosphorylation of STAT1	GO_0039566	1	0	1	0	0
+suppression by virus of host STAT1 activity by positive regulation of STAT1 catabolic process	GO_0039565	1	0	1	0	0
+suppression by virus of host STAT1 activity by negative regulation of STAT1 tyrosine phosphorylation	GO_0039571	1	0	1	0	0
+suppression by virus of host STAT1 activity by negative regulation of STAT protein import into nucleus	GO_0039567	1	0	1	0	0
+suppression by virus of host STAT1 activity by inhibition of DNA binding	GO_0039568	1	0	1	0	0
+suppression by virus of host STAT1 activity	GO_0039563	1	0	1	0	0
+suppression by virus of host STAT activity	GO_0039562	1	0	1	0	0
+suppression by virus of host RNA polymerase II activity	GO_0039523	1	0	1	0	0
+suppression by virus of host RIG-I via RIG-I binding	GO_0039541	1	0	1	0	0
+suppression by virus of host RIG-I signaling pathway	GO_0039538	1	0	1	0	0
+suppression by virus of host RIG-I activity by viral RNA 5' processing	GO_0039543	1	0	1	0	0
+suppression by virus of host RIG-I activity by RIG-I proteolysis	GO_0039544	1	0	1	0	0
+suppression by virus of host RIG-I activity	GO_0039540	1	0	1	0	0
+suppression by virus of host RIG-I K63-linked ubiquitination	GO_0039542	1	0	1	0	0
+suppression by virus of host PKR activity via double-stranded RNA binding	GO_0039581	1	0	1	0	0
+suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	GO_0039582	1	0	1	0	0
+suppression by virus of host PKR activity by positive regulation of PKR catabolic process	GO_0039583	1	0	1	0	0
+suppression by virus of host PKR activity	GO_0039580	1	0	1	0	0
+suppression by virus of host MDA-5 signaling pathway	GO_0039539	1	0	1	0	0
+suppression by virus of host MDA-5 activity via MDA-5 binding	GO_0039555	1	0	1	0	0
+suppression by virus of host MDA-5 activity	GO_0039554	1	0	1	0	0
+suppression by virus of host MAVS activity by MAVS proteolysis	GO_0039546	1	0	1	0	0
+suppression by virus of host MAVS activity	GO_0039545	1	0	1	0	0
+suppression by virus of host JAK1 activity via JAK1 binding	GO_0039578	1	0	1	0	0
+suppression by virus of host JAK1 activity by negative regulation of JAK1 phosphorylation	GO_0039577	1	0	1	0	0
+suppression by virus of host JAK1 activity	GO_0039576	1	0	1	0	0
+suppression by virus of host JAK-STAT cascade	GO_0039514	1	0	1	0	0
+suppression by virus of host ISG15 activity	GO_0039579	1	0	1	0	0
+suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	GO_0039561	1	0	1	0	0
+suppression by virus of host IRF9 activity	GO_0039560	1	0	1	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	GO_0039558	1	0	1	0	0
+suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	GO_0039559	1	0	1	0	0
+suppression by virus of host IRF7 activity	GO_0039557	1	0	1	0	0
+suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	GO_0039551	1	0	1	0	0
+suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	GO_0039549	1	0	1	0	0
+suppression by virus of host IRF3 activity by inhibition of DNA binding	GO_0039550	1	0	1	0	0
+suppression by virus of host IRF3 activity	GO_0039548	1	0	1	0	0
+suppression by virus of host ATP-dependent RNA helicase activity	GO_0039510	1	0	1	0	0
+suppression by virus of expression of host genes with introns	GO_0046779	1	0	1	0	0
+suppression by virus of G2/M transition of host mitotic cell cycle	GO_0039592	1	0	1	0	0
+sigma virus replication	GO_0008167	1	0	1	1	1
+retrotransposon nucleocapsid	GO_0000943	1	0	1	0	0
+response to virus	GO_0009615	1	0	1	0	0
+release from viral latency	GO_0019046	1	0	1	0	0
+regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039531	1	0	1	0	0
+regulation of viral transcription	GO_0046782	1	0	1	0	0
+regulation of viral process	GO_0050792	1	0	1	0	0
+regulation of viral genome replication	GO_0045069	1	0	1	0	0
+regulation of viral entry into host cell	GO_0046596	1	0	1	0	0
+regulation of spread of virus in host, cell to cell	GO_1900201	1	0	1	1	1
+regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO_0045091	1	0	1	0	0
+regulation of intracellular transport of viral material	GO_1901252	1	0	1	0	0
+regulation by virus of viral protein levels in host cell	GO_0046719	1	0	1	0	0
+receptor-mediated virion attachment to host cell	GO_0046813	1	0	1	0	0
+receptor-mediated endocytosis of virus by host cell	GO_0019065	1	0	1	0	0
+provirus excision	GO_0032359	1	0	1	0	0
+proteolysis by virus of host translation initiation factor	GO_0039607	1	0	1	0	0
+positive regulation of viral transcription	GO_0050434	1	0	1	0	0
+positive regulation of viral process	GO_0048524	1	0	1	0	0
+positive regulation of viral genome replication	GO_0045070	1	0	1	0	0
+positive regulation of viral entry into host cell	GO_0046598	1	0	1	0	0
+positive regulation of syncytium formation by virus	GO_0060141	1	0	1	0	0
+positive regulation of spread of virus in host, cell to cell	GO_1900203	1	0	1	1	1
+positive regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO_0045870	1	0	1	0	0
+positive regulation of intracellular transport of viral material	GO_1901254	1	0	1	0	0
+positive regulation of defense response to virus by host	GO_0002230	1	0	1	0	0
+positive regulation of apoptotic process by virus	GO_0060139	1	0	1	0	0
+positive regulation by virus of viral protein levels in host cell	GO_0046726	1	0	1	0	0
+pore-mediated entry of viral genome into host cell	GO_0044694	1	0	1	0	0
+non-lytic viral release	GO_0046753	1	0	1	0	0
+negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	GO_0039532	1	0	1	0	0
+negative regulation of viral transcription	GO_0032897	1	0	1	0	0
+negative regulation of viral process	GO_0048525	1	0	1	0	0
+negative regulation of viral genome replication	GO_0045071	1	0	1	0	0
+negative regulation of viral entry into host cell	GO_0046597	1	0	1	0	0
+negative regulation of spread of virus in host, cell to cell	GO_1900202	1	0	1	1	1
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO_0045869	1	0	1	0	0
+negative regulation of intracellular transport of viral material	GO_1901253	1	0	1	0	0
+negative regulation of defense response to virus by host	GO_0050689	1	0	1	0	0
+negative regulation of defense response to virus	GO_0050687	1	0	1	0	0
+negative regulation by virus of viral protein levels in host cell	GO_0046725	1	0	1	0	0
+negative regulation by host of viral transcription	GO_0043922	1	0	1	0	0
+modulation by virus of host translation	GO_0019057	1	0	1	0	0
+modulation by virus of host transcription	GO_0019056	1	0	1	0	0
+modulation by virus of host protein phosphorylation	GO_0039612	1	0	1	0	0
+modulation by virus of host protein dephosphorylation	GO_0039596	1	0	1	0	0
+modulation by virus of host process	GO_0019054	1	0	1	0	0
+modulation by virus of host morphology or physiology	GO_0019048	1	0	1	0	0
+modulation by virus of host molecular function	GO_0039506	1	0	1	0	0
+modulation by virus of host chromatin organization	GO_0039525	1	0	1	0	0
+modulation by virus of host catalytic activity	GO_0039516	1	0	1	0	0
+modulation by virus of host autophagy	GO_0039519	1	0	1	0	0
+modulation by virus of host apoptotic process	GO_0039526	1	0	1	0	0
+modulation by virus of host PP1 activity	GO_0039586	1	0	1	0	0
+modulation by host of viral transcription	GO_0043921	1	0	1	0	0
+modification by virus of host polysomes	GO_0046783	1	0	1	0	0
+modification by virus of host mRNA processing	GO_0046778	1	0	1	0	0
+microtubule-dependent intracellular transport of viral material towards nucleus	GO_0075521	1	0	1	0	0
+microtubule-dependent intracellular transport of viral material	GO_0075519	1	0	1	0	0
+maintenance of viral latency	GO_0019044	1	0	1	0	0
+macropinosome lysis involved in viral entry into host cell	GO_0075511	1	0	1	0	0
+macropinosomal membrane permeabilization involved in viral entry into host cell	GO_0075504	1	0	1	0	0
+macropinocytosis involved in viral entry into host cell	GO_0075510	1	0	1	0	0
+lytic virus budding from plasma membrane	GO_0046759	1	0	1	1	1
+lytic virus budding from Golgi membrane	GO_0046758	1	0	1	1	1
+lytic virus budding from ER membrane	GO_0046757	1	0	1	1	1
+lytic viral life cycle	GO_0030068	1	0	1	1	1
+lytic viral budding	GO_0019078	1	0	1	1	1
+lytic vacuole organization	GO_0080171	1	0	1	0	0
+latent virus replication	GO_0019045	1	0	1	0	0
+late viral transcription	GO_0019086	1	0	1	0	0
+intracellular transport of virus	GO_0075733	1	0	1	0	0
+intracellular transport of viral protein in host cell	GO_0019060	1	0	1	0	0
+initiation of viral infection	GO_0019059	1	0	1	1	1
+induction by virus of host protein phosphorylation	GO_0039614	1	0	1	0	0
+induction by virus of host nuclear polyadenylation-dependent mRNA catabolic process	GO_0039598	1	0	1	1	1
+induction by virus of host endoribonuclease activity	GO_0039597	1	0	1	0	0
+induction by virus of host endonucleolytic cleavage-dependent mRNA catabolic process	GO_0039600	1	0	1	0	0
+induction by virus of host cell-cell fusion	GO_0006948	1	0	1	0	0
+induction by virus of host autophagy	GO_0039520	1	0	1	0	0
+induction by virus of host apoptotic process	GO_0019051	1	0	1	0	0
+induction by virus of catabolism of host mRNA	GO_0039595	1	0	1	0	0
+immortalization of host cell by virus	GO_0019088	1	0	1	0	0
+genome retention in viral capsid	GO_0046815	1	0	1	0	0
+fusion of virus membrane with host plasma membrane	GO_0019064	1	0	1	0	0
+fusion of virus membrane with host macropinosome membrane	GO_0075503	1	0	1	0	0
+exit of virus from host cell nucleus by nuclear egress	GO_0046802	1	0	1	0	0
+evasion or tolerance of host defenses by virus	GO_0019049	1	0	1	0	0
+establishment of viral latency	GO_0019043	1	0	1	0	0
+establishment of integrated proviral latency	GO_0075713	1	0	1	0	0
+entry of viral genome into host nucleus via retainment of capsid in nuclear pore complex and release of genome into nucleoplasm	GO_0075508	1	0	1	0	0
+entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex and injection of viral genome	GO_0075507	1	0	1	0	0
+entry of viral genome into host nucleus through nuclear pore complex via importin	GO_0075506	1	0	1	0	0
+entry of intact viral capsid into host nucleus through nuclear pore complex	GO_0075505	1	0	1	0	0
+endosome membrane permeabilization involved in viral entry into host cell	GO_0075502	1	0	1	0	0
+endosome lysis involved in viral entry into host cell	GO_0075514	1	0	1	0	0
+endocytosis involved in viral entry into host cell	GO_0075509	1	0	1	0	0
+early viral transcription	GO_0019085	1	0	1	0	0
+disruption by virus of host cell membrane	GO_0044662	1	0	1	0	0
+disruption by virus of host cell	GO_0044661	1	0	1	0	0
+detection of virus	GO_0009597	1	0	1	0	0
+defense response to virus	GO_0051607	1	0	1	0	0
+cytoplasmic pattern recognition receptor signaling pathway in response to virus	GO_0039528	1	0	1	0	0
+cytolysis by virus via suppression of host peptidoglycan biosynthetic process	GO_0039640	1	0	1	0	0
+cytolysis by virus via pore formation in host cell membrane	GO_0044660	1	0	1	0	0
+cytolysis by virus of host cell	GO_0044659	1	0	1	0	0
+coreceptor-mediated virion attachment to host cell	GO_0046814	1	0	1	0	0
+cleavage by virus of host mRNA	GO_0039599	1	0	1	0	0
+clathrin-mediated endocytosis of virus by host cell	GO_0075512	1	0	1	0	0
+caveolin-mediated endocytosis of virus by host cell	GO_0075513	1	0	1	0	0
+catabolism by virus of host DNA	GO_0039637	1	0	1	0	0

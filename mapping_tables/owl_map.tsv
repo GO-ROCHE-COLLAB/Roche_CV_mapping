@@ -7,9 +7,9 @@ apoptosis glands	RCV_000067	apoptotic process that part of some gland developmen
 apoptosis heart	RCV_000068	apoptotic process that part of some heart development'	(GO_0006915 that BFO_0000050 some GO_0007507)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 apoptosis kidney	RCV_000069	apoptotic process that part of some kidney development'	(GO_0006915 that BFO_0000050 some GO_0001822)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equivalence			
-bacterial	RCV_000079	Bacteria <prokaryote>	NCBITaxon_2	?only_in_taxon			
+bacterial	RCV_000079	Bacteria <prokaryote>	NCBITaxon_2	only_in_taxon			
 exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?Not_mappable	We have no general term for exocrine gland.  Work on Uberon needed.		
-fungus	RCV_000168	Fungi	NCBITaxon_4751	?only_in_taxon			
+fungus	RCV_000168	Fungi	NCBITaxon_4751	only_in_taxon			
 glomerular epithelial cell	RCV_000171	term pending	term pending	?Not mapping	Missing CL term!		
 glucose effects	RCV_000174	Not_mappable	Not_mappable	?Not_mappable	Not_mappable		
 host defense	RCV_000193	?defense response	?GO_0006952	?Not_mapping	Duplicate with RCV_000140 'defense response'		
@@ -25,8 +25,8 @@ olfactory	RCV_000254	Not_mappable	Not_mappable	?Not_mappable	Unfortunately not m
 olfactory system development	RCV_000255	term pending?	term pending?	?Not_mappable	Mini uberon project required to fix.		
 oxidative metabolism	RCV_000262	Not_mappable	Not_mappable	?Not_mappable			
 pancreas exocrine	RCV_000268	Not_mappable	Not_mappable	?Not_mappable	Manual map is mainly function.  Don't have way to capture these collectively.		
-plant	RCV_000278	Viridiplantae	NCBITaxon_33090	?only_in_taxon			
-plant metabolism	RCV_000279	Viridiplantae	NCBITaxon_33090	?Not_mappable	Might be possible with a pattern that allowed something like ? 'metabolic process' that only_in_taxon some Viridiplantae		
+plant	RCV_000278	Viridiplantae	NCBITaxon_33090	only_in_taxon			
+plant metabolism	RCV_000279	Viridiplantae	NCBITaxon_33090	?Not_mappable	Might be possible with a pattern that allowed something like ? 'metabolic process' thaonly_in_taxon some Viridiplantae		
 protein metabolism	RCV_000286	protein metabolic process	GO_0019538	?not_mapping	Not sure you really want this!		
 sex	RCV_000298	Not_mappable	Not_mappable	?Not_mappable			
 sex female	RCV_000300	Not_mappable	Not_mappable	?Not_mappable	With some more axiomatisation, could map everything except sex detemination as occurs_in some CARO:'male organism'		
@@ -34,7 +34,7 @@ sex male	RCV_000301	Not_mappable	Not_mappable	?Not_mappable	With some more axiom
 stomach	RCV_000316	Not_mapping	Not_mapping	?not_mapping	Minor GO project needed to add content!		
 unicellular growth	RCV_000338	Not_mappable	Not_mappable	?Not_mappable			
 vessel	RCV_000348	Not mapping	Not mapping	?Not mapping	Redundant with vessel development.  May be possible to add a blood vessel function class, but not function terms in current manual mapping		
-virus	RCV_000350	Viruses	NCBITaxon_10239	?only_in_taxon			
+virus	RCV_000350	Viruses	NCBITaxon_10239	only_in_taxon			
 yeast	RCV_000358	Not_mappable	Not_mappable	?Not_mappable	Need union of Schizosaccharomycetes with Saccharomycetes ? 		
 cytochrome	RCV_000361	Not_mappable	Not_mappable	?Not_mappable			
 cell cycle M/G1	RCV_000110	Not_mappable	Not_mappable	?Not_mappable	Key term is obsolete		Not_mappable

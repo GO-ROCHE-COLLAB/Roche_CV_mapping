@@ -170,6 +170,15 @@
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/413)
 * Status: open
 
+#### bacterial RCV_000079
+* Key class: [Bacteria <prokaryote>](http://www.ebi.ac.uk/ontology-lookup/?termId=NCBITaxon:2)
+* Pattern: [only_in_taxon](../../patterns/only_in_taxon.md)
+* Definition: A biological process, molecular function or cellular component that is found only in Bacteria <prokaryote>
+* map summary: Roche_cvt: RCV_000079; class_expression RO_0002160 some NCBITaxon_2; manual_list_count 32, generated_list_count 47
+* [Results](bacterial_RCV_000079.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
+
 #### cell cycle M RCV_000109
 * Notes: No annotation to cell cycle phase terms
 * Results: N/A Job not run. Specification marked as preliminary or missing.
@@ -241,7 +250,7 @@
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### plant metabolism RCV_000279
-* Notes: Might be possible with a pattern that allowed something like ? 'metabolic process' that only_in_taxon some Viridiplantae
+* Notes: Might be possible with a pattern that allowed something like ? 'metabolic process' thaonly_in_taxon some Viridiplantae
 * Results: N/A Job not run. Specification marked as preliminary or missing.
 
 #### glutamine metabolism RCV_000179
@@ -279,6 +288,15 @@
 * [Results](killer_activity_RCV_000216.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/374)
 * Status: closed - mapping completed
+
+#### plant RCV_000278
+* Key class: [Viridiplantae](http://www.ebi.ac.uk/ontology-lookup/?termId=NCBITaxon:33090)
+* Pattern: [only_in_taxon](../../patterns/only_in_taxon.md)
+* Definition: A biological process, molecular function or cellular component that is found only in Viridiplantae
+* map summary: Roche_cvt: RCV_000278; class_expression RO_0002160 some NCBITaxon_33090; manual_list_count 2, generated_list_count 227
+* [Results](plant_RCV_000278.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### kidney development RCV_000214
 * Key class: [kidney development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0001822)
@@ -686,6 +704,15 @@
 * [Results](chemotaxis_RCV_000134.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/249)
 * Status: closed
+
+#### virus RCV_000350
+* Key class: [Viruses](http://www.ebi.ac.uk/ontology-lookup/?termId=NCBITaxon:10239)
+* Pattern: [only_in_taxon](../../patterns/only_in_taxon.md)
+* Definition: A biological process, molecular function or cellular component that is found only in Viruses
+* map summary: Roche_cvt: RCV_000350; class_expression RO_0002160 some NCBITaxon_10239; manual_list_count 258, generated_list_count 0
+* [Results](virus_RCV_000350.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### adenine metabolism RCV_000048
 * Key class: [adenine metabolic process](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0046083)
@@ -1191,6 +1218,15 @@
 * [Results](auxin_RCV_000077.tsv)
 * [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/228)
 * Status: closed - mapping completed
+
+#### fungus RCV_000168
+* Key class: [Fungi](http://www.ebi.ac.uk/ontology-lookup/?termId=NCBITaxon:4751)
+* Pattern: [only_in_taxon](../../patterns/only_in_taxon.md)
+* Definition: A biological process, molecular function or cellular component that is found only in Fungi
+* map summary: Roche_cvt: RCV_000168; class_expression RO_0002160 some NCBITaxon_4751; manual_list_count 11, generated_list_count 82
+* [Results](fungus_RCV_000168.tsv)
+* [Ticket](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/issues/)
+* Status: 
 
 #### cartilage RCV_000097
 * Key class: [cartilage development](http://www.ebi.ac.uk/ontology-lookup/?termId=GO:0051216)
