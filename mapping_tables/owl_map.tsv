@@ -7,9 +7,7 @@ apoptosis glands	RCV_000067	apoptotic process that part of some gland developmen
 apoptosis heart	RCV_000068	apoptotic process that part of some heart development'	(GO_0006915 that BFO_0000050 some GO_0007507)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 apoptosis kidney	RCV_000069	apoptotic process that part of some kidney development'	(GO_0006915 that BFO_0000050 some GO_0001822)	?Equivalence	Can't run mapping until code modified to allow sub arbitrary class expressions.		
 autophagy	RCV_000076	autophagy	(GO_0006914 or BFO_000005 some GO_0048102)	?Equivalence			
-bacterial	RCV_000079	Bacteria <prokaryote>	NCBITaxon_2	only_in_taxon			
 exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?Not_mappable	We have no general term for exocrine gland.  Work on Uberon needed.		
-fungus	RCV_000168	Fungi	NCBITaxon_4751	only_in_taxon			
 glomerular epithelial cell	RCV_000171	term pending	term pending	?Not mapping	Missing CL term!		
 glucose effects	RCV_000174	Not_mappable	Not_mappable	?Not_mappable	Not_mappable		
 host defense	RCV_000193	?defense response	?GO_0006952	?Not_mapping	Duplicate with RCV_000140 'defense response'		
@@ -25,7 +23,6 @@ olfactory	RCV_000254	Not_mappable	Not_mappable	?Not_mappable	Unfortunately not m
 olfactory system development	RCV_000255	term pending?	term pending?	?Not_mappable	Mini uberon project required to fix.		
 oxidative metabolism	RCV_000262	Not_mappable	Not_mappable	?Not_mappable			
 pancreas exocrine	RCV_000268	Not_mappable	Not_mappable	?Not_mappable	Manual map is mainly function.  Don't have way to capture these collectively.		
-plant	RCV_000278	Viridiplantae	NCBITaxon_33090	only_in_taxon			
 plant metabolism	RCV_000279	Viridiplantae	NCBITaxon_33090	?Not_mappable	Might be possible with a pattern that allowed something like ? 'metabolic process' thaonly_in_taxon some Viridiplantae		
 protein metabolism	RCV_000286	protein metabolic process	GO_0019538	?not_mapping	Not sure you really want this!		
 sex	RCV_000298	Not_mappable	Not_mappable	?Not_mappable			
@@ -34,7 +31,6 @@ sex male	RCV_000301	Not_mappable	Not_mappable	?Not_mappable	With some more axiom
 stomach	RCV_000316	Not_mapping	Not_mapping	?not_mapping	Minor GO project needed to add content!		
 unicellular growth	RCV_000338	Not_mappable	Not_mappable	?Not_mappable			
 vessel	RCV_000348	Not mapping	Not mapping	?Not mapping	Redundant with vessel development.  May be possible to add a blood vessel function class, but not function terms in current manual mapping		
-virus	RCV_000350	Viruses	NCBITaxon_10239	only_in_taxon			
 yeast	RCV_000358	Not_mappable	Not_mappable	?Not_mappable	Need union of Schizosaccharomycetes with Saccharomycetes ? 		
 cytochrome	RCV_000361	Not_mappable	Not_mappable	?Not_mappable			
 cell cycle M/G1	RCV_000110	Not_mappable	Not_mappable	?Not_mappable	Key term is obsolete		Not_mappable
@@ -321,7 +317,7 @@ embryo development	RCV_000146	not_mapping	not_mapping	?not_mapping			not_mapping
 extraglomerular mesangial	RCV_000162	not_mapping	not_mapping	?not_mapping	Manuall mapped to only one, very obscure and specific term.  Not bothering to map		not_mapping
 gpcr	RCV_000182	not_mapping	not_mapping	?not_mapping	Obsolete RCV term - redundant with GPCR signaling RCV_000019		not_mapping
 neurotransmittter	RCV_000247	not_mapping	not_mapping	?Not_mapping	duplicate RCV term		not_mapping
-BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates		414	open
+BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates		422	open
 DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?	195	open
 G-protein	RCV_000017	?		?Not_mapping	redudant with GPCR signaling RCV_000019	31	open
 GABAergic	RCV_000018	GABAergic neuron	CL_0000617	CL_super_query	Will miss metabolic terms related to GABA - but these are captured elsewhere.	30	open
@@ -333,7 +329,8 @@ adipose	RCV_000050	fat cell	CL_0000136	CL_super_query		366	open
 apoptosis	RCV_000066	apoptotic process	GO_0006915	is_a_OR_part_of_OR_regulates		313	open
 astrocyte	RCV_000074	astrocyte	CL_0000127	CL_super_query		413	open
 axon	RCV_000078	axon development	GO_0061564	is_a_OR_part_of_OR_regulates		226	open
-cell aging	RCV_000100	cell aging	GO_0007569	Equivalence		412	open
+bacterial	RCV_000079	response to bacterium	GO_0009617	is_a_OR_part_of_OR_regulates		421	open
+cell aging	RCV_000100	cell aging	GO_0007569	Equivalence		420	open
 cell division	RCV_000116	cell division	GO_0051301	is_a_OR_part_of_OR_regulates	Or map to cytokinesis?	311	open
 central nervous system	RCV_000131	central nervous system development	GO_0007417	is_a_OR_part_of_OR_regulates		328	open
 circulatory system	RCV_000138	circulatory system process	GO_0003013	Equivalence	Suggest having separate term for circulatory system development?	247	open
@@ -343,6 +340,7 @@ digestive tract development	RCV_000143	digestive system development	GO_0055123	i
 embryonic development	RCV_000147	embryo development	GO_0009790	is_a_OR_part_of_OR_regulates		326	open
 endothelial	RCV_000151	endothelial cell	CL_0000115	CL_anat_super_query		357	open
 epithelial cell differentiation	RCV_000155	epithelial cell differentiation	GO_0030855	Equivalence		300	open
+fungus	RCV_000168	Fungi	NCBITaxon_4751	only_in_taxon		423	open
 glands	RCV_000169	gland	UBERON_0002530	CL_anat_super_query		415	open
 glial	RCV_000170	glial cell	CL_0000125	CL_super_query		335	open
 golgi dynamics	RCV_000181	Golgi apparatus	GO_0005794	cellular_component_and_related_processes	New pattern	418	open
@@ -356,10 +354,12 @@ organic acid metabolism	RCV_000260	organic acid metabolic process	GO_0006082	Equ
 ovary	RCV_000261	oogenesis	GO_0048477	is_a_OR_part_of_OR_regulates		344	open
 peptide metabolism	RCV_000274	peptide metabolic process	GO_0006518	Equivalence		101	open
 photoreceptor	RCV_000277	photoreceptor cell	CL_0000210	CL_super_query	Misses activity term.	403	open
+plant	RCV_000278	Viridiplantae	NCBITaxon_33090	only_in_taxon		424	open
 protein transport	RCV_000290	protein transport	GO_0015031	is_a_OR_part_of_OR_regulates		278	open
 reproduction	RCV_000293	reproduction	GO_0000003	Equivalence		396	open
 salt stress response	RCV_000296	response to osmotic stress	GO_0006970	is_a_OR_part_of_OR_regulates		397	open
 skin	RCV_000303	skin development	GO_0043588	is_a_OR_part_of_OR_regulates		401	open
 smooth muscle	RCV_000304	smooth muscle tissue	UBERON_0001135	CL_anat_super_query		398	open
 triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical		43	open
+virus	RCV_000350	Viruses	NCBITaxon_10239	?Not_mappable	GO completely lacks suitable axiomatisation	419	open
 wound healing	RCV_000356	wound healing	GO_0042060	is_a_OR_part_of_OR_regulates		23	open

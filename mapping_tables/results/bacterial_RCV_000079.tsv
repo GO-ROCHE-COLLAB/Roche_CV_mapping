@@ -1,80 +1,95 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-response to triacyl bacterial lipopeptide	GO_0071725	1	0	1	0	0
-response to molecule of bacterial origin	GO_0002237	1	0	1	0	0
-response to diacyl bacterial lipopeptide	GO_0071724	1	0	1	0	0
-response to bacterial lipoprotein	GO_0032493	1	0	1	0	0
-response to bacterial lipopeptide	GO_0070339	1	0	1	0	0
-regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	1	0	1	0	0
-regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	1	0	1	0	0
-regulation of antibacterial peptide secretion	GO_0002797	1	0	1	0	0
-regulation of antibacterial peptide production	GO_0002786	1	0	1	0	0
-regulation of antibacterial peptide biosynthetic process	GO_0002808	1	0	1	0	0
-positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	1	0	1	0	0
-positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	1	0	1	0	0
-positive regulation of antibacterial peptide secretion	GO_0002799	1	0	1	0	0
-positive regulation of antibacterial peptide production	GO_0002803	1	0	1	0	0
-positive regulation of antibacterial peptide biosynthetic process	GO_0006963	1	0	1	0	0
+response to triacyl bacterial lipopeptide	GO_0071725	1	1	1	0	0
+response to molecule of bacterial origin	GO_0002237	1	1	1	0	0
+response to diacyl bacterial lipopeptide	GO_0071724	1	1	1	0	0
+response to bacterial lipoprotein	GO_0032493	1	1	1	0	0
+response to bacterial lipopeptide	GO_0070339	1	1	1	0	0
+regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002816	1	1	1	0	0
+regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002813	1	1	1	0	0
+regulation of antibacterial peptide secretion	GO_0002797	1	1	1	0	0
+regulation of antibacterial peptide production	GO_0002786	1	1	1	0	0
+regulation of antibacterial peptide biosynthetic process	GO_0002808	1	1	1	0	0
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0006965	1	1	1	0	0
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0006964	1	1	1	0	0
+positive regulation of antibacterial peptide secretion	GO_0002799	1	1	1	0	0
+positive regulation of antibacterial peptide production	GO_0002803	1	1	1	0	0
+positive regulation of antibacterial peptide biosynthetic process	GO_0006963	1	1	1	0	0
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	1	1	1	0	0
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	1	1	1	0	0
+negative regulation of antibacterial peptide secretion	GO_0002798	1	1	1	0	0
+negative regulation of antibacterial peptide production	GO_0002787	1	1	1	0	0
+negative regulation of antibacterial peptide biosynthetic process	GO_0002809	1	1	1	0	0
+male-specific antibacterial humoral response	GO_0006962	1	1	1	0	0
+induction of bacterial agglutination	GO_0043152	1	1	1	0	0
+detection of triacyl bacterial lipopeptide	GO_0042495	1	1	1	0	0
+detection of molecule of bacterial origin	GO_0032490	1	1	1	0	0
+detection of diacyl bacterial lipopeptide	GO_0042496	1	1	1	0	0
+detection of bacterial lipoprotein	GO_0042494	1	1	1	0	0
+detection of bacterial lipopeptide	GO_0070340	1	1	1	0	0
+biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002815	1	1	1	0	0
+biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002812	1	1	1	0	0
 peptidyl-lysine hydroxylation involved in bacterial-type EF-P lysine modification	GO_1901260	1	0	1	0	0
-negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002817	1	0	1	0	0
-negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002814	1	0	1	0	0
-negative regulation of antibacterial peptide secretion	GO_0002798	1	0	1	0	0
-negative regulation of antibacterial peptide production	GO_0002787	1	0	1	0	0
-negative regulation of antibacterial peptide biosynthetic process	GO_0002809	1	0	1	0	0
-male-specific antibacterial humoral response	GO_0006962	1	0	1	0	0
-induction of bacterial agglutination	GO_0043152	1	0	1	0	0
 enterobacterial common antigen metabolic process	GO_0046378	1	0	1	0	0
 enterobacterial common antigen biosynthetic process	GO_0009246	1	0	1	0	0
-detection of triacyl bacterial lipopeptide	GO_0042495	1	0	1	0	0
-detection of molecule of bacterial origin	GO_0032490	1	0	1	0	0
-detection of diacyl bacterial lipopeptide	GO_0042496	1	0	1	0	0
-detection of bacterial lipoprotein	GO_0042494	1	0	1	0	0
-detection of bacterial lipopeptide	GO_0070340	1	0	1	0	0
-biosynthetic process of antibacterial peptides active against Gram-positive bacteria	GO_0002815	1	0	1	0	0
-biosynthetic process of antibacterial peptides active against Gram-negative bacteria	GO_0002812	1	0	1	0	0
-xanthophore	GO_0031633	0	1	0	0	0
-wall teichoic acid biosynthetic process	GO_0070398	0	1	0	0	0
-teichuronic acid biosynthetic process	GO_0050845	0	1	0	0	0
-teichoic acid biosynthetic process	GO_0019350	0	1	0	0	0
-teichoic acid D-alanylation	GO_0070400	0	1	0	0	0
-protein secretion by the type II secretion system	GO_0015628	0	1	0	0	0
-poly(ribitol phosphate) teichoic acid biosynthetic process	GO_1902012	0	1	0	0	0
-poly(glycerol phosphate) teichoic acid biosynthetic process	GO_1902014	0	1	0	0	0
-poly(glucopyranosyl N-acetylgalactosamine 1-phosphate) teichoic acid biosynthetic process	GO_1902016	0	1	0	0	0
-plasma membrane-derived thylakoid ribulose bisphosphate carboxylase complex	GO_0048493	0	1	0	0	0
-plasma membrane-derived chromatophore	GO_0042716	0	1	0	0	0
-plasma membrane respiratory chain	GO_0070470	0	1	0	0	0
-plasma membrane proton-transporting ATP synthase complex	GO_0045260	0	1	0	0	0
-periplasmic flagellum	GO_0055040	0	1	0	0	0
-peptidoglycan-protein cross-linking via N6-mureinyl-L-lysine	GO_0019121	0	1	0	0	0
-peptidoglycan-protein cross-linking via L-threonyl-pentaglycyl-murein	GO_0042902	0	1	0	0	0
-peptidoglycan-protein cross-linking via L-alanyl-pentaglycyl-murein	GO_0051363	0	1	0	0	0
-peptidoglycan-protein cross-linking	GO_0018104	0	1	0	0	0
-peptidoglycan-based cell wall organization	GO_0031504	0	1	0	0	0
-peptidoglycan-based cell wall biogenesis	GO_0009273	0	1	0	0	0
-peptidoglycan-based cell wall	GO_0009274	0	1	0	0	0
-peptidoglycan biosynthetic process	GO_0009252	0	1	0	0	0
-osmoregulated periplasmic glucan biosynthetic process	GO_1900727	0	1	0	0	0
-mobile ion carrier activity	GO_0022809	0	1	0	0	0
-macrolide transmembrane transporter complex	GO_1990195	0	1	0	0	0
-lipoteichoic acid biosynthetic process	GO_0070395	0	1	0	0	0
-lipoteichoic acid D-alanylation	GO_0036358	0	1	0	0	0
-lipopolysaccharide glucosyltransferase II activity	GO_0047270	0	1	0	0	0
-lipopolysaccharide glucosyltransferase I activity	GO_0008919	0	1	0	0	0
-lipopolysaccharide biosynthetic process	GO_0009103	0	1	0	0	0
-lipopolysaccharide N-acetylglucosaminyltransferase activity	GO_0008917	0	1	0	0	0
-lipopolysaccharide 3-alpha-galactosyltransferase activity	GO_0008918	0	1	0	0	0
-homotetrameric ADPG pyrophosphorylase complex	GO_0030930	0	1	0	0	0
-endospore-forming forespore	GO_0042601	0	1	0	0	0
-endospore external encapsulating structure	GO_0043591	0	1	0	0	0
-endospore cortex	GO_0043595	0	1	0	0	0
-dimeric ribonuclease P complex	GO_0030680	0	1	0	0	0
-cytosolic DNA-directed RNA polymerase complex	GO_0000345	0	1	0	0	0
-cell envelope Sec protein transport complex	GO_0031522	0	1	0	0	0
-bacterial-type flagellum	GO_0009288	0	1	0	0	0
-bacterial thylakoid	GO_0030075	0	1	0	0	0
-TAM protein secretion complex	GO_0097347	0	1	0	0	0
-MacAB-TolC complex	GO_1990196	0	1	0	0	0
-Gram-positive-bacterium-type cell wall	GO_0009275	0	1	0	0	0
-Gram-negative-bacterium-type cell wall biogenesis	GO_0043164	0	1	0	0	0
-Gram-negative-bacterium-type cell wall	GO_0009276	0	1	0	0	0
-Actinobacterium-type cell wall biogenesis	GO_0071766	0	1	0	0	0
+tolerance induction to lipopolysaccharide	GO_0072573	0	1	0	0	0
+response to symbiotic bacterium	GO_0009609	0	1	0	0	0
+response to peptidoglycan	GO_0032494	0	1	0	0	0
+response to lipoteichoic acid	GO_0070391	0	1	0	0	0
+response to lipopolysaccharide	GO_0032496	0	1	0	0	0
+response to bacterium	GO_0009617	0	1	0	0	0
+regulation of peptidoglycan recognition protein signaling pathway	GO_0061058	0	1	0	0	0
+regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070952	0	1	0	0	0
+regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070951	0	1	0	0	0
+regulation of neutrophil mediated killing of bacterium	GO_0070950	0	1	0	0	0
+regulation of lipopolysaccharide-mediated signaling pathway	GO_0031664	0	1	0	0	0
+regulation of defense response to bacterium, incompatible interaction	GO_1902477	0	1	0	0	0
+regulation of defense response to bacterium	GO_1900424	0	1	0	0	0
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium	GO_1902097	0	1	0	0	0
+positive regulation of peptidoglycan recognition protein signaling pathway	GO_0061059	0	1	0	0	0
+positive regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070964	0	1	0	0	0
+positive regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070963	0	1	0	0	0
+positive regulation of neutrophil mediated killing of bacterium	GO_0070962	0	1	0	0	0
+positive regulation of lipopolysaccharide-mediated signaling pathway	GO_0031666	0	1	0	0	0
+positive regulation of defense response to bacterium, incompatible interaction	GO_1902479	0	1	0	0	0
+positive regulation of defense response to bacterium	GO_1900426	0	1	0	0	0
+peptidoglycan recognition protein signaling pathway	GO_0061057	0	1	0	0	0
+neutrophil mediated killing of gram-positive bacterium	GO_0070946	0	1	0	0	0
+neutrophil mediated killing of gram-negative bacterium	GO_0070945	0	1	0	0	0
+neutrophil mediated killing of bacterium	GO_0070944	0	1	0	0	0
+negative regulation of peptidoglycan recognition protein signaling pathway	GO_0061060	0	1	0	0	0
+negative regulation of neutrophil mediated killing of gram-positive bacterium	GO_0070958	0	1	0	0	0
+negative regulation of neutrophil mediated killing of gram-negative bacterium	GO_0070957	0	1	0	0	0
+negative regulation of neutrophil mediated killing of bacterium	GO_0070956	0	1	0	0	0
+negative regulation of lipopolysaccharide-mediated signaling pathway	GO_0031665	0	1	0	0	0
+negative regulation of defense response to bacterium, incompatible interaction	GO_1902478	0	1	0	0	0
+negative regulation of defense response to bacterium	GO_1900425	0	1	0	0	0
+male-specific defense response to bacterium	GO_0050831	0	1	0	0	0
+lipopolysaccharide-mediated signaling pathway	GO_0031663	0	1	0	0	0
+lipopolysaccharide receptor activity	GO_0001875	0	1	0	0	0
+induced systemic resistance, jasmonic acid mediated signaling pathway	GO_0009864	0	1	0	0	0
+induced systemic resistance, ethylene mediated signaling pathway	GO_0009866	0	1	0	0	0
+induced systemic resistance	GO_0009682	0	1	0	0	0
+detection of symbiotic bacterium	GO_0009604	0	1	0	0	0
+detection of peptidoglycan	GO_0032499	0	1	0	0	0
+detection of muramyl dipeptide	GO_0032498	0	1	0	0	0
+detection of lipoteichoic acid	GO_0070392	0	1	0	0	0
+detection of lipopolysaccharide	GO_0032497	0	1	0	0	0
+detection of bacterium	GO_0016045	0	1	0	0	0
+defense response to bacterium, incompatible interaction	GO_0009816	0	1	0	0	0
+defense response to bacterium	GO_0042742	0	1	0	0	0
+defense response to Gram-positive bacterium	GO_0050830	0	1	0	0	0
+defense response to Gram-negative bacterium	GO_0050829	0	1	0	0	0
+cellular response to triacyl bacterial lipopeptide	GO_0071727	0	1	0	0	0
+cellular response to peptidoglycan	GO_0071224	0	1	0	0	0
+cellular response to molecule of bacterial origin	GO_0071219	0	1	0	0	0
+cellular response to lipoteichoic acid	GO_0071223	0	1	0	0	0
+cellular response to lipopolysaccharide	GO_0071222	0	1	0	0	0
+cellular response to diacyl bacterial lipopeptide	GO_0071726	0	1	0	0	0
+cellular response to bacterial lipoprotein	GO_0071220	0	1	0	0	0
+cellular response to bacterial lipopeptide	GO_0071221	0	1	0	0	0
+catabolism by organism of cell wall peptidoglycan in other organism	GO_0051672	0	1	0	0	0
+antibacterial peptide secretion	GO_0002779	0	1	0	0	0
+antibacterial peptide production	GO_0002778	0	1	0	0	0
+antibacterial peptide biosynthetic process	GO_0002780	0	1	0	0	0
+antibacterial humoral response	GO_0019731	0	1	0	0	0
+G-protein coupled receptor signaling pathway involved in defense response to Gram-negative bacterium	GO_1903554	0	1	0	0	0
