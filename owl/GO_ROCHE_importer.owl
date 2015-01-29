@@ -232,8 +232,8 @@
 
     <owl:ObjectProperty rdf:about="&obo;scratch_a6202297_b1a7_4dda_b697_f02eb102d320">
         <rdfs:label>regulates o occurs in</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&obo;scratch_293b6dd0_48fb_4f32_be67_2a350bed6f51"/>
         <rdfs:subPropertyOf rdf:resource="&obo;scratch_a6c6b442_fb2c_4b1f_b892_e7265013fce5"/>
-        <rdfs:subPropertyOf rdf:resource="&obo;scratch/d8d8caf2_4c0e_4115_bda0_65aeb6f4265f"/>
         <owl:propertyChainAxiom rdf:parseType="Collection">
             <rdf:Description rdf:about="&obo;RO_0002211"/>
             <rdf:Description rdf:about="&obo;BFO_0000066"/>
