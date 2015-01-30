@@ -5,19 +5,19 @@ astrocyte development	GO_0014002	1	1	1	0	0
 astrocyte cell migration	GO_0043615	1	1	1	0	0
 astrocyte activation	GO_0048143	1	1	1	0	0
 astrocyte chemotaxis	GO_0035700	1	0	1	0	0
-telencephalon astrocyte cell migration	GO_0022031	0	1	0	0	0
-tail portion of tanycyte	GO_1990018	0	1	0	0	0
-somatic portion of tanycyte	GO_1990017	0	1	0	0	0
-regulation of astrocyte differentiation	GO_0048710	0	1	0	0	0
-positive regulation of astrocyte differentiation	GO_0048711	0	1	0	0	0
-negative regulation of astrocyte differentiation	GO_0048712	0	1	0	0	0
-neck portion of tanycyte	GO_1990016	0	1	0	0	0
-glial limiting end-foot	GO_0097451	0	1	0	0	0
-glial filament	GO_0097426	0	1	0	0	0
-forebrain astrocyte fate commitment	GO_0021878	0	1	0	0	0
-forebrain astrocyte differentiation	GO_0021896	0	1	0	0	0
-forebrain astrocyte development	GO_0021897	0	1	0	0	0
-astrocyte projection	GO_0097449	0	1	0	0	0
-astrocyte end-foot	GO_0097450	0	1	0	0	0
-astrocyte activation involved in immune response	GO_0002265	0	1	0	0	0
-Bergmann glial cell differentiation	GO_0060020	0	1	0	0	0
+telencephalon astrocyte cell migration	GO_0022031	0	1	1	0	0
+tail portion of tanycyte	GO_1990018	0	1	1	0	0
+somatic portion of tanycyte	GO_1990017	0	1	1	0	0
+regulation of astrocyte differentiation	GO_0048710	0	1	1	0	0
+positive regulation of astrocyte differentiation	GO_0048711	0	1	1	0	0
+negative regulation of astrocyte differentiation	GO_0048712	0	1	1	0	0
+neck portion of tanycyte	GO_1990016	0	1	1	0	0
+glial limiting end-foot	GO_0097451	0	1	1	0	0
+glial filament	GO_0097426	0	1	1	0	0
+forebrain astrocyte fate commitment	GO_0021878	0	1	1	0	0
+forebrain astrocyte differentiation	GO_0021896	0	1	1	0	0
+forebrain astrocyte development	GO_0021897	0	1	1	0	0
+astrocyte projection	GO_0097449	0	1	1	0	0
+astrocyte end-foot	GO_0097450	0	1	1	0	0
+astrocyte activation involved in immune response	GO_0002265	0	1	1	0	0
+Bergmann glial cell differentiation	GO_0060020	0	1	1	0	0
