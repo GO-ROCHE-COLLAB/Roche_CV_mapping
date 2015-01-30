@@ -80,7 +80,7 @@ afferent axon development in lateral line nerve	GO_0048893	1	1	1	0	0
 afferent axon development in anterior lateral line nerve	GO_0048910	1	1	1	0	0
 Schwann cell proliferation involved in axon regeneration	GO_0014011	1	1	1	0	0
 Roundabout signaling pathway involved in axon guidance	GO_2001266	1	1	1	0	0
-sperm axoneme assembly	GO_0007288	1	0	1	0	0
+sperm axoneme assembly	GO_0007288	1	0	1	1	0
 semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance	GO_2000305	1	0	1	0	0
 retrograde axon cargo transport	GO_0008090	1	0	1	0	0
 response to axon injury	GO_0048678	1	0	1	0	0
@@ -105,9 +105,9 @@ mammillary axonal complex development	GO_0061373	1	0	1	0	0
 hypothalamic tangential migration using cell-axon interactions	GO_0021856	1	0	1	0	0
 establishment of protein localization to juxtaparanode region of axon	GO_0071206	1	0	1	0	0
 cerebral cortex tangential migration using cell-axon interactions	GO_0021824	1	0	1	0	0
-axoneme assembly	GO_0035082	1	0	1	0	0
-axonemal microtubule depolymerization	GO_0060404	1	0	1	0	0
-axonemal dynein complex assembly	GO_0070286	1	0	1	0	0
+axoneme assembly	GO_0035082	1	0	1	1	0
+axonemal microtubule depolymerization	GO_0060404	1	0	1	1	0
+axonemal dynein complex assembly	GO_0070286	1	0	1	1	0
 axon transport of mitochondrion	GO_0019896	1	0	1	0	0
 axon ensheathment in central nervous system	GO_0032291	1	0	1	0	0
 axon ensheathment	GO_0008366	1	0	1	0	0

@@ -15,67 +15,67 @@ photoreceptor connecting cilium	GO_0032391	1	0	1	0	0
 photoreceptor cell outer segment organization	GO_0035845	1	0	1	0	0
 photoreceptor cell maintenance	GO_0045494	1	0	1	0	0
 photoreceptor activity	GO_0009881	1	0	1	0	0
-rod spherule	GO_0044317	0	1	0	0	0
-retinal rod cell fate commitment	GO_0060223	0	1	0	0	0
-retinal rod cell differentiation	GO_0060221	0	1	0	0	0
-retinal rod cell development	GO_0046548	0	1	0	0	0
-retinal rod cell apoptotic process	GO_0097473	0	1	0	0	0
-retinal cone cell fate specification	GO_0042672	0	1	0	0	0
-retinal cone cell fate determination	GO_0042671	0	1	0	0	0
-retinal cone cell fate commitment	GO_0046551	0	1	0	0	0
-retinal cone cell differentiation	GO_0042670	0	1	0	0	0
-retinal cone cell development	GO_0046549	0	1	0	0	0
-retinal cone cell apoptotic process	GO_0097474	0	1	0	0	0
-regulation of sevenless signaling pathway	GO_0045501	0	1	0	0	0
-regulation of retinal rod cell fate commitment	GO_0060224	0	1	0	0	0
-regulation of retinal cone cell fate specification	GO_0042673	0	1	0	0	0
-regulation of retinal cone cell fate commitment	GO_0060222	0	1	0	0	0
-regulation of photoreceptor cell differentiation	GO_0046532	0	1	0	0	0
-regulation of membrane potential in photoreceptor cell	GO_0016057	0	1	0	0	0
-regulation of eye photoreceptor cell development	GO_0042478	0	1	0	0	0
-regulation of compound eye photoreceptor development	GO_0045314	0	1	0	0	0
-regulation of R8 cell differentiation	GO_0045679	0	1	0	0	0
-regulation of R7 cell differentiation	GO_0045676	0	1	0	0	0
-positive regulation of sevenless signaling pathway	GO_0045874	0	1	0	0	0
-positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	0	0	0
-positive regulation of photoreceptor cell differentiation	GO_0046534	0	1	0	0	0
-positive regulation of eye photoreceptor cell development	GO_0042479	0	1	0	0	0
-positive regulation of compound eye photoreceptor development	GO_0045315	0	1	0	0	0
-positive regulation of R8 cell differentiation	GO_0045681	0	1	0	0	0
-positive regulation of R7 cell differentiation	GO_0045678	0	1	0	0	0
-ocellus photoreceptor cell fate commitment	GO_0042707	0	1	0	0	0
-ocellus photoreceptor cell differentiation	GO_0042705	0	1	0	0	0
-ocellus photoreceptor cell development	GO_0042463	0	1	0	0	0
-negative regulation of sevenless signaling pathway	GO_0045873	0	1	0	0	0
-negative regulation of retinal cone cell fate specification	GO_0009998	0	1	0	0	0
-negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	0	0	0
-negative regulation of photoreceptor cell differentiation	GO_0046533	0	1	0	0	0
-negative regulation of eye photoreceptor cell development	GO_0042480	0	1	0	0	0
-negative regulation of compound eye photoreceptor development	GO_0045316	0	1	0	0	0
-negative regulation of R8 cell differentiation	GO_0045680	0	1	0	0	0
-negative regulation of R7 cell differentiation	GO_0045677	0	1	0	0	0
-maintenance of membrane potential in photoreceptor cell by rhodopsin mediated signaling	GO_0016058	0	1	0	0	0
-eye photoreceptor cell fate commitment	GO_0042706	0	1	0	0	0
-eye photoreceptor cell differentiation	GO_0001754	0	1	0	0	0
-eye photoreceptor cell development	GO_0042462	0	1	0	0	0
-compound eye photoreceptor fate commitment	GO_0001752	0	1	0	0	0
-compound eye photoreceptor development	GO_0042051	0	1	0	0	0
-compound eye photoreceptor cell differentiation	GO_0001751	0	1	0	0	0
-camera-type eye photoreceptor cell fate commitment	GO_0060220	0	1	0	0	0
-camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	0	0	0
-R8 cell fate specification	GO_0045464	0	1	0	0	0
-R8 cell fate commitment	GO_0007460	0	1	0	0	0
-R8 cell differentiation	GO_0045465	0	1	0	0	0
-R8 cell development	GO_0045463	0	1	0	0	0
-R7 cell fate commitment	GO_0007465	0	1	0	0	0
-R7 cell differentiation	GO_0045466	0	1	0	0	0
-R7 cell development	GO_0045467	0	1	0	0	0
-R3/R4 development	GO_0048057	0	1	0	0	0
-R3/R4 cell fate commitment	GO_0007464	0	1	0	0	0
-R3/R4 cell differentiation	GO_0048056	0	1	0	0	0
-R2/R5 development	GO_0048055	0	1	0	0	0
-R2/R5 cell fate commitment	GO_0007463	0	1	0	0	0
-R2/R5 cell differentiation	GO_0048054	0	1	0	0	0
-R1/R6 development	GO_0048053	0	1	0	0	0
-R1/R6 cell fate commitment	GO_0007462	0	1	0	0	0
-R1/R6 cell differentiation	GO_0048052	0	1	0	0	0
+rod spherule	GO_0044317	0	1	1	0	0
+retinal rod cell fate commitment	GO_0060223	0	1	1	0	0
+retinal rod cell differentiation	GO_0060221	0	1	1	0	0
+retinal rod cell development	GO_0046548	0	1	1	0	0
+retinal rod cell apoptotic process	GO_0097473	0	1	1	0	0
+retinal cone cell fate specification	GO_0042672	0	1	1	0	0
+retinal cone cell fate determination	GO_0042671	0	1	1	0	0
+retinal cone cell fate commitment	GO_0046551	0	1	1	0	0
+retinal cone cell differentiation	GO_0042670	0	1	1	0	0
+retinal cone cell development	GO_0046549	0	1	1	0	0
+retinal cone cell apoptotic process	GO_0097474	0	1	1	0	0
+regulation of sevenless signaling pathway	GO_0045501	0	1	1	0	0
+regulation of retinal rod cell fate commitment	GO_0060224	0	1	1	0	0
+regulation of retinal cone cell fate specification	GO_0042673	0	1	1	0	0
+regulation of retinal cone cell fate commitment	GO_0060222	0	1	1	0	0
+regulation of photoreceptor cell differentiation	GO_0046532	0	1	1	0	0
+regulation of membrane potential in photoreceptor cell	GO_0016057	0	1	1	0	0
+regulation of eye photoreceptor cell development	GO_0042478	0	1	1	0	0
+regulation of compound eye photoreceptor development	GO_0045314	0	1	1	0	0
+regulation of R8 cell differentiation	GO_0045679	0	1	1	0	0
+regulation of R7 cell differentiation	GO_0045676	0	1	1	0	0
+positive regulation of sevenless signaling pathway	GO_0045874	0	1	1	0	0
+positive regulation of retinal rod cell fate commitment	GO_0060225	0	1	1	0	0
+positive regulation of photoreceptor cell differentiation	GO_0046534	0	1	1	0	0
+positive regulation of eye photoreceptor cell development	GO_0042479	0	1	1	0	0
+positive regulation of compound eye photoreceptor development	GO_0045315	0	1	1	0	0
+positive regulation of R8 cell differentiation	GO_0045681	0	1	1	0	0
+positive regulation of R7 cell differentiation	GO_0045678	0	1	1	0	0
+ocellus photoreceptor cell fate commitment	GO_0042707	0	1	1	0	0
+ocellus photoreceptor cell differentiation	GO_0042705	0	1	1	0	0
+ocellus photoreceptor cell development	GO_0042463	0	1	1	0	0
+negative regulation of sevenless signaling pathway	GO_0045873	0	1	1	0	0
+negative regulation of retinal cone cell fate specification	GO_0009998	0	1	1	0	0
+negative regulation of retinal cone cell fate commitment	GO_0060226	0	1	1	0	0
+negative regulation of photoreceptor cell differentiation	GO_0046533	0	1	1	0	0
+negative regulation of eye photoreceptor cell development	GO_0042480	0	1	1	0	0
+negative regulation of compound eye photoreceptor development	GO_0045316	0	1	1	0	0
+negative regulation of R8 cell differentiation	GO_0045680	0	1	1	0	0
+negative regulation of R7 cell differentiation	GO_0045677	0	1	1	0	0
+maintenance of membrane potential in photoreceptor cell by rhodopsin mediated signaling	GO_0016058	0	1	1	0	0
+eye photoreceptor cell fate commitment	GO_0042706	0	1	1	0	0
+eye photoreceptor cell differentiation	GO_0001754	0	1	1	0	0
+eye photoreceptor cell development	GO_0042462	0	1	1	0	0
+compound eye photoreceptor fate commitment	GO_0001752	0	1	1	0	0
+compound eye photoreceptor development	GO_0042051	0	1	1	0	0
+compound eye photoreceptor cell differentiation	GO_0001751	0	1	1	0	0
+camera-type eye photoreceptor cell fate commitment	GO_0060220	0	1	1	0	0
+camera-type eye photoreceptor cell differentiation	GO_0060219	0	1	1	0	0
+R8 cell fate specification	GO_0045464	0	1	1	0	0
+R8 cell fate commitment	GO_0007460	0	1	1	0	0
+R8 cell differentiation	GO_0045465	0	1	1	0	0
+R8 cell development	GO_0045463	0	1	1	0	0
+R7 cell fate commitment	GO_0007465	0	1	1	0	0
+R7 cell differentiation	GO_0045466	0	1	1	0	0
+R7 cell development	GO_0045467	0	1	1	0	0
+R3/R4 development	GO_0048057	0	1	1	0	0
+R3/R4 cell fate commitment	GO_0007464	0	1	1	0	0
+R3/R4 cell differentiation	GO_0048056	0	1	1	0	0
+R2/R5 development	GO_0048055	0	1	1	0	0
+R2/R5 cell fate commitment	GO_0007463	0	1	1	0	0
+R2/R5 cell differentiation	GO_0048054	0	1	1	0	0
+R1/R6 development	GO_0048053	0	1	1	0	0
+R1/R6 cell fate commitment	GO_0007462	0	1	1	0	0
+R1/R6 cell differentiation	GO_0048052	0	1	1	0	0
