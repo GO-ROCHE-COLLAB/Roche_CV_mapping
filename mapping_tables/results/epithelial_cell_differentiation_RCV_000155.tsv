@@ -45,89 +45,89 @@ epithelial cell maturation involved in prostate gland development	GO_0060743	1	0
 epithelial cell maturation	GO_0002070	1	0	1	0	0
 epithelial cell fate determination, open tracheal system	GO_0007425	1	0	1	0	0
 epithelial cell fate commitment	GO_0072148	1	0	1	0	0
-vestibular receptor cell differentiation	GO_0060114	0	1	0	0	0
-venous endothelial cell differentiation	GO_0060843	0	1	0	0	0
-ureter epithelial cell differentiation	GO_0072192	0	1	0	0	0
-type B pancreatic cell differentiation	GO_0003309	0	1	0	0	0
-thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	0	0	0
-stomach neuroendocrine cell differentiation	GO_0061102	0	1	0	0	0
-squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	0	0	0
-sorocarp stalk cell differentiation	GO_0031149	0	1	0	0	0
-secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	0	1	0	0	0
-sebaceous gland cell differentiation	GO_0001949	0	1	0	0	0
-respiratory basal cell differentiation	GO_1902691	0	1	0	0	0
-posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	0	0	0
-pancreatic PP cell differentiation	GO_0003312	0	1	0	0	0
-pancreatic D cell differentiation	GO_0003311	0	1	0	0	0
-pancreatic A cell differentiation	GO_0003310	0	1	0	0	0
-odontoblast differentiation	GO_0071895	0	1	0	0	0
-neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	0	0	0
-neuromast hair cell differentiation	GO_0048886	0	1	0	0	0
-neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	0	0	0
-neuroendocrine cell differentiation	GO_0061101	0	1	0	0	0
-multi-ciliated epithelial cell differentiation	GO_1903251	0	1	0	0	0
-metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	0	0	0
-metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	0	0	0
-metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	0	0	0
-metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	0	0	0
-metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	0	0	0
-mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	0	0	0
-mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	0	0	0
-mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	0	0	0
-mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	0	0	0
-mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	0	0	0
-melanocyte differentiation	GO_0030318	0	1	0	0	0
-lymphatic endothelial cell differentiation	GO_0060836	0	1	0	0	0
-lung secretory cell differentiation	GO_0061140	0	1	0	0	0
-lung neuroendocrine cell differentiation	GO_0061100	0	1	0	0	0
-lung goblet cell differentiation	GO_0060480	0	1	0	0	0
-lung epithelial cell differentiation	GO_0060487	0	1	0	0	0
-lung ciliated cell differentiation	GO_0061141	0	1	0	0	0
-limb spinous cell differentiation	GO_0060890	0	1	0	0	0
-limb granular cell differentiation	GO_0060891	0	1	0	0	0
-limb basal epidermal cell differentiation	GO_0060889	0	1	0	0	0
-lens fiber cell differentiation	GO_0070306	0	1	0	0	0
-leading edge cell differentiation	GO_0035026	0	1	0	0	0
-late stripe melanocyte differentiation	GO_0050934	0	1	0	0	0
-keratinocyte differentiation	GO_0030216	0	1	0	0	0
-interstitial cell of Cajal differentiation	GO_0061453	0	1	0	0	0
-hepatocyte differentiation	GO_0070365	0	1	0	0	0
-hepatoblast differentiation	GO_0061017	0	1	0	0	0
-hair cell differentiation	GO_0035315	0	1	0	0	0
-granulosa cell differentiation	GO_0060014	0	1	0	0	0
-glomerular visceral epithelial cell differentiation	GO_0072112	0	1	0	0	0
-glomerular parietal epithelial cell differentiation	GO_0072139	0	1	0	0	0
-glomerular mesangial cell differentiation	GO_0072008	0	1	0	0	0
-glomerular epithelial cell differentiation	GO_0072311	0	1	0	0	0
-glandular epithelial cell differentiation	GO_0002067	0	1	0	0	0
-establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	0	0	0
-establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	0	1	0	0	0
-establishment of epithelial cell apical/basal polarity	GO_0045198	0	1	0	0	0
-epidermal cell differentiation	GO_0009913	0	1	0	0	0
-epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	0	0	0
-enteroendocrine cell differentiation	GO_0035883	0	1	0	0	0
-enterocyte differentiation	GO_1903703	0	1	0	0	0
-endothelial cell differentiation	GO_0045446	0	1	0	0	0
-endocardial cell differentiation	GO_0060956	0	1	0	0	0
-early stripe melanocyte differentiation	GO_0050933	0	1	0	0	0
-dorsal closure, leading edge cell differentiation	GO_0046663	0	1	0	0	0
-cumulus cell differentiation	GO_0001549	0	1	0	0	0
-columnar/cuboidal epithelial cell differentiation	GO_0002065	0	1	0	0	0
-carotid body glomus cell differentiation	GO_0061103	0	1	0	0	0
-cardiac endothelial cell differentiation	GO_0003348	0	1	0	0	0
-cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	0	0	0
-blood vessel endothelial cell differentiation	GO_0060837	0	1	0	0	0
-auditory receptor cell differentiation	GO_0042491	0	1	0	0	0
-arterial endothelial cell differentiation	GO_0060842	0	1	0	0	0
-anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	0	0	0
-ameloblast differentiation	GO_0036305	0	1	0	0	0
-adrenal chromaffin cell differentiation	GO_0061104	0	1	0	0	0
-acinar cell of sebaceous gland differentiation	GO_1903680	0	1	0	0	0
-acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	0	0	0
-acinar cell differentiation	GO_0090425	0	1	0	0	0
-Type II pneumocyte differentiation	GO_0060510	0	1	0	0	0
-Type I pneumocyte differentiation	GO_0060509	0	1	0	0	0
-Sertoli cell differentiation	GO_0060008	0	1	0	0	0
-Malpighian tubule stellate cell differentiation	GO_0061330	0	1	0	0	0
-Malpighian tubule principal cell differentiation	GO_0061329	0	1	0	0	0
-Clara cell differentiation	GO_0060486	0	1	0	0	0
+vestibular receptor cell differentiation	GO_0060114	0	1	1	0	0
+venous endothelial cell differentiation	GO_0060843	0	1	1	0	0
+ureter epithelial cell differentiation	GO_0072192	0	1	1	0	0
+type B pancreatic cell differentiation	GO_0003309	0	1	1	0	0
+thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	1	0	0
+stomach neuroendocrine cell differentiation	GO_0061102	0	1	1	0	0
+squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	1	0	0
+sorocarp stalk cell differentiation	GO_0031149	0	1	1	0	0
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	GO_0060528	0	1	1	0	0
+sebaceous gland cell differentiation	GO_0001949	0	1	1	0	0
+respiratory basal cell differentiation	GO_1902691	0	1	1	0	0
+posterior lateral line neuromast hair cell differentiation	GO_0048923	0	1	1	0	0
+pancreatic PP cell differentiation	GO_0003312	0	1	1	0	0
+pancreatic D cell differentiation	GO_0003311	0	1	1	0	0
+pancreatic A cell differentiation	GO_0003310	0	1	1	0	0
+odontoblast differentiation	GO_0071895	0	1	1	0	0
+neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0	0
+neuromast hair cell differentiation	GO_0048886	0	1	1	0	0
+neuroendocrine cell differentiation involved in prostate gland acinus development	GO_0060531	0	1	1	0	0
+neuroendocrine cell differentiation	GO_0061101	0	1	1	0	0
+multi-ciliated epithelial cell differentiation	GO_1903251	0	1	1	0	0
+metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	1	0	0
+metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	1	0	0
+metanephric glomerular parietal epithelial cell differentiation	GO_0072245	0	1	1	0	0
+metanephric glomerular mesangial cell differentiation	GO_0072254	0	1	1	0	0
+metanephric glomerular epithelial cell differentiation	GO_0072312	0	1	1	0	0
+mesonephric nephron tubule epithelial cell differentiation	GO_0061265	0	1	1	0	0
+mesonephric glomerular visceral epithelial cell differentiation	GO_0061256	0	1	1	0	0
+mesonephric glomerular parietal epithelial cell differentiation	GO_0061253	0	1	1	0	0
+mesonephric glomerular mesangial cell differentiation	GO_0061259	0	1	1	0	0
+mesonephric glomerular epithelial cell differentiation	GO_0061250	0	1	1	0	0
+melanocyte differentiation	GO_0030318	0	1	1	0	0
+lymphatic endothelial cell differentiation	GO_0060836	0	1	1	0	0
+lung secretory cell differentiation	GO_0061140	0	1	1	0	0
+lung neuroendocrine cell differentiation	GO_0061100	0	1	1	0	0
+lung goblet cell differentiation	GO_0060480	0	1	1	0	0
+lung epithelial cell differentiation	GO_0060487	0	1	1	0	0
+lung ciliated cell differentiation	GO_0061141	0	1	1	0	0
+limb spinous cell differentiation	GO_0060890	0	1	1	0	0
+limb granular cell differentiation	GO_0060891	0	1	1	0	0
+limb basal epidermal cell differentiation	GO_0060889	0	1	1	0	0
+lens fiber cell differentiation	GO_0070306	0	1	1	0	0
+leading edge cell differentiation	GO_0035026	0	1	1	0	0
+late stripe melanocyte differentiation	GO_0050934	0	1	1	0	0
+keratinocyte differentiation	GO_0030216	0	1	1	0	0
+interstitial cell of Cajal differentiation	GO_0061453	0	1	1	0	0
+hepatocyte differentiation	GO_0070365	0	1	1	0	0
+hepatoblast differentiation	GO_0061017	0	1	1	0	0
+hair cell differentiation	GO_0035315	0	1	1	0	0
+granulosa cell differentiation	GO_0060014	0	1	1	0	0
+glomerular visceral epithelial cell differentiation	GO_0072112	0	1	1	0	0
+glomerular parietal epithelial cell differentiation	GO_0072139	0	1	1	0	0
+glomerular mesangial cell differentiation	GO_0072008	0	1	1	0	0
+glomerular epithelial cell differentiation	GO_0072311	0	1	1	0	0
+glandular epithelial cell differentiation	GO_0002067	0	1	1	0	0
+establishment of myocardial progenitor cell apical/basal polarity	GO_0003316	0	1	1	0	0
+establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	GO_0003412	0	1	1	0	0
+establishment of epithelial cell apical/basal polarity	GO_0045198	0	1	1	0	0
+epidermal cell differentiation	GO_0009913	0	1	1	0	0
+epicardium-derived cardiac endothelial cell differentiation	GO_0003349	0	1	1	0	0
+enteroendocrine cell differentiation	GO_0035883	0	1	1	0	0
+enterocyte differentiation	GO_1903703	0	1	1	0	0
+endothelial cell differentiation	GO_0045446	0	1	1	0	0
+endocardial cell differentiation	GO_0060956	0	1	1	0	0
+early stripe melanocyte differentiation	GO_0050933	0	1	1	0	0
+dorsal closure, leading edge cell differentiation	GO_0046663	0	1	1	0	0
+cumulus cell differentiation	GO_0001549	0	1	1	0	0
+columnar/cuboidal epithelial cell differentiation	GO_0002065	0	1	1	0	0
+carotid body glomus cell differentiation	GO_0061103	0	1	1	0	0
+cardiac endothelial cell differentiation	GO_0003348	0	1	1	0	0
+cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	1	0	0
+blood vessel endothelial cell differentiation	GO_0060837	0	1	1	0	0
+auditory receptor cell differentiation	GO_0042491	0	1	1	0	0
+arterial endothelial cell differentiation	GO_0060842	0	1	1	0	0
+anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	1	0	0
+ameloblast differentiation	GO_0036305	0	1	1	0	0
+adrenal chromaffin cell differentiation	GO_0061104	0	1	1	0	0
+acinar cell of sebaceous gland differentiation	GO_1903680	0	1	1	0	0
+acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	1	0	0
+acinar cell differentiation	GO_0090425	0	1	1	0	0
+Type II pneumocyte differentiation	GO_0060510	0	1	1	0	0
+Type I pneumocyte differentiation	GO_0060509	0	1	1	0	0
+Sertoli cell differentiation	GO_0060008	0	1	1	0	0
+Malpighian tubule stellate cell differentiation	GO_0061330	0	1	1	0	0
+Malpighian tubule principal cell differentiation	GO_0061329	0	1	1	0	0
+Clara cell differentiation	GO_0060486	0	1	1	0	0
