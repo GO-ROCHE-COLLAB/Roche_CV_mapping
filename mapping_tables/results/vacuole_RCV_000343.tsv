@@ -96,6 +96,7 @@ micropexophagy-specific membrane apparatus	GO_0032046	0	1	1	0	0
 megasome	GO_0043246	0	1	1	0	0
 mast cell granule	GO_0042629	0	1	1	0	0
 mast cell degranulation	GO_0043303	0	1	1	0	0
+maintenance of protein location in vacuole	GO_0072667	0	1	0	0	0
 lytic vacuole organization	GO_0080171	0	1	1	0	0
 lysosome to ER cholesterol transport	GO_0090120	0	1	1	0	0
 lysosome organization	GO_0007040	0	1	1	0	0

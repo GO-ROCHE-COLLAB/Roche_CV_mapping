@@ -3,3 +3,8 @@ regulation of synaptic transmission, glutamatergic	GO_0051966	1	1	1	0	0
 positive regulation of synaptic transmission, glutamatergic	GO_0051968	1	1	1	0	0
 negative regulation of synaptic transmission, glutamatergic	GO_0051967	1	1	1	0	0
 synaptic transmission, glutamatergic	GO_0035249	0	1	1	0	0
+regulation of glutamate secretion, neurotransmission	GO_1903294	0	1	0	0	0
+positive regulation of glutamate secretion, neurotransmission	GO_1903296	0	1	0	0	0
+positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization	GO_0061646	0	1	0	0	0
+negative regulation of glutamate secretion, neurotransmission	GO_1903295	0	1	0	0	0
+glutamate secretion, neurotransmission	GO_0061535	0	1	0	0	0

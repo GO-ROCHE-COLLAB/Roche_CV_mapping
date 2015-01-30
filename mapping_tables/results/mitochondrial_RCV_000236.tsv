@@ -106,6 +106,7 @@ mitochondrial methionyl-tRNA aminoacylation	GO_0070155	1	1	1	0	0
 mitochondrial membrane organization	GO_0007006	1	1	1	0	0
 mitochondrial magnesium ion transport	GO_0045016	1	1	1	0	0
 mitochondrial mRNA surveillance	GO_0035946	1	1	1	0	0
+mitochondrial mRNA polyadenylation	GO_0097222	1	1	1	0	0
 mitochondrial mRNA modification	GO_0080156	1	1	1	0	0
 mitochondrial mRNA catabolic process	GO_0000958	1	1	1	0	0
 mitochondrial lysyl-tRNA aminoacylation	GO_0070154	1	1	1	0	0
@@ -145,12 +146,18 @@ mitochondrial RNA 3'-end processing	GO_0000965	1	1	1	0	0
 mitochondrial ATP synthesis coupled proton transport	GO_0042776	1	1	1	0	0
 mitochondrial ATP synthesis coupled electron transport	GO_0042775	1	1	1	0	0
 micromitophagy	GO_0000424	1	1	1	0	0
+maintenance of protein location in mitochondrion	GO_0072656	1	1	1	0	0
+maintenance of mitochondrion location	GO_0051659	1	1	1	0	0
 macromitophagy	GO_0000423	1	1	1	0	0
 intracellular distribution of mitochondria	GO_0048312	1	1	1	0	0
 inner mitochondrial membrane organization	GO_0007007	1	1	1	0	0
 establishment of protein localization to mitochondrion	GO_0072655	1	1	1	0	0
 establishment of protein localization to mitochondrial membrane involved in mitochondrial fission	GO_0090152	1	1	1	0	0
 establishment of protein localization to mitochondrial membrane	GO_0090151	1	1	1	0	0
+establishment of mitochondrion localization, microtubule-mediated	GO_0034643	1	1	1	0	0
+establishment of mitochondrion localization involved in mitochondrial fission	GO_0090146	1	1	1	0	0
+establishment of mitochondrion localization by microtubule attachment	GO_0034640	1	1	1	0	0
+establishment of mitochondrion localization	GO_0051654	1	1	1	0	0
 RNA import into mitochondrion	GO_0035927	1	1	1	0	0
 regulation of mitochondrial rRNA stability	GO_0044529	1	0	1	0	0
 regulation of mitochondrial membrane potential	GO_0051881	1	0	1	0	0
@@ -169,17 +176,10 @@ mitochondrial respiratory chain complex II biogenesis	GO_0097032	1	0	1	0	0
 mitochondrial respiratory chain complex I biogenesis	GO_0097031	1	0	1	0	0
 mitochondrial respiratory chain complex I assembly	GO_0032981	1	0	1	0	0
 mitochondrial membrane fission	GO_0090149	1	0	1	0	0
-mitochondrial mRNA polyadenylation	GO_0097222	1	0	1	0	0
 mitochondrial aspartate/glutamate transport	GO_0006845	1	0	1	1	1
 mitochondrial alpha-ketoglutarate/malate transport	GO_0006840	1	0	1	1	1
 mitochondria-nucleus signaling pathway	GO_0031930	1	0	1	0	0
 mitochondria-associated ubiquitin-dependent protein catabolic process	GO_0072671	1	0	1	0	0
-maintenance of protein location in mitochondrion	GO_0072656	1	0	1	0	0
-maintenance of mitochondrion location	GO_0051659	1	0	1	0	0
-establishment of mitochondrion localization, microtubule-mediated	GO_0034643	1	0	1	0	0
-establishment of mitochondrion localization involved in mitochondrial fission	GO_0090146	1	0	1	0	0
-establishment of mitochondrion localization by microtubule attachment	GO_0034640	1	0	1	0	0
-establishment of mitochondrion localization	GO_0051654	1	0	1	0	0
 dynamin polymerization involved in mitochondrial fission	GO_0003374	1	0	1	0	0
 cotranscriptional mitochondrial rRNA nucleotide insertion	GO_0002110	1	0	1	0	0
 transcription initiation from mitochondrial promoter	GO_0006391	0	1	1	0	0
@@ -218,6 +218,7 @@ negative regulation of mitochondrial electron transport, NADH to ubiquinone	GO_1
 negative regulation of mitochondrial DNA metabolic process	GO_1901859	0	1	1	0	0
 negative regulation of macromitophagy	GO_1901525	0	1	1	0	0
 negative regulation of cristae formation	GO_1903851	0	1	1	0	0
+mitochondrion-ER tethering	GO_1990456	0	1	0	0	0
 mitochondrial tricarboxylic acid transmembrane transport	GO_1990546	0	1	1	0	0
 mitochondrial transmembrane transport	GO_1990542	0	1	1	0	0
 mitochondrial thiamine pyrophosphate transmembrane transport	GO_1990545	0	1	1	0	0

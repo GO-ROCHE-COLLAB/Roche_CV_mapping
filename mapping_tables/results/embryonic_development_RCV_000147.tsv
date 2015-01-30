@@ -594,6 +594,7 @@ negative regulation of planar cell polarity pathway involved in pericardium morp
 negative regulation of planar cell polarity pathway involved in neural tube closure	GO_2000168	0	1	1	0	0
 negative regulation of paraxial mesodermal cell fate specification	GO_0048351	0	1	1	0	0
 negative regulation of paraxial mesodermal cell fate determination	GO_0048347	0	1	1	0	0
+negative regulation of odontoblast differentiation	GO_1901330	0	1	0	0	0
 negative regulation of neural crest formation	GO_0090301	0	1	1	0	0
 negative regulation of mesodermal cell fate specification	GO_0042662	0	1	1	0	0
 negative regulation of mesodermal cell fate determination	GO_0048335	0	1	1	0	0
@@ -619,6 +620,8 @@ negative regulation of canonical Wnt signaling pathway involved in neural plate 
 negative regulation of bicoid mRNA localization	GO_0045853	0	1	1	0	0
 negative regulation of axial mesodermal cell fate specification	GO_0048329	0	1	1	0	0
 negative regulation of axial mesodermal cell fate determination	GO_0048325	0	1	1	0	0
+negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	0	0	0
+negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	0	0	0
 negative regulation of Notch signaling pathway involved in somitogenesis	GO_1902367	0	1	1	0	0
 myotome development	GO_0061055	0	1	1	0	0
 myocardial epithelial involution involved in heart jogging	GO_0003304	0	1	1	0	0

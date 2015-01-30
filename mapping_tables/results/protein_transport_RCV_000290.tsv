@@ -127,6 +127,7 @@ protein secretion by the type II secretion system	GO_0015628	0	1	0	0	0
 protein secretion by the type I secretion system	GO_0030253	0	1	0	0	0
 protein secretion by platelet	GO_0070560	0	1	0	0	0
 protein secretion	GO_0009306	0	1	0	0	0
+protein retention in ER lumen	GO_0006621	0	1	0	0	0
 protein processing involved in protein targeting to mitochondrion	GO_0006627	0	1	0	0	0
 protein import into peroxisome membrane	GO_0045046	0	1	0	0	0
 protein import into peroxisome matrix, translocation	GO_0016561	0	1	0	0	0
@@ -267,7 +268,12 @@ modulation by virus of host protein transport	GO_0044833	0	1	0	0	0
 mitochondrial protein-transporting ATPase activity	GO_0008566	0	1	0	0	0
 misfolded protein transport	GO_0070843	0	1	0	0	0
 membrane insertase activity	GO_0032977	0	1	0	0	0
+maintenance of protein location in vacuole	GO_0072667	0	1	0	0	0
+maintenance of protein location in peroxisome	GO_0072664	0	1	0	0	0
+maintenance of protein location in mitochondrion	GO_0072656	0	1	0	0	0
+maintenance of protein location in chloroplast	GO_0072597	0	1	0	0	0
 maintenance of protein location in cell cortex of cell tip	GO_0097248	0	1	0	0	0
+maintenance of protein localization in endoplasmic reticulum	GO_0035437	0	1	0	0	0
 mRNA-binding (hnRNP) protein import into nucleus	GO_0006609	0	1	0	0	0
 lysosomal enzyme secretion involved in inflammatory response	GO_0002533	0	1	0	0	0
 lipoprotein transporter activity	GO_0042954	0	1	0	0	0
@@ -373,6 +379,7 @@ SRP-dependent cotranslational protein targeting to membrane, signal sequence rec
 SRP-dependent cotranslational protein targeting to membrane, signal sequence processing	GO_0006618	0	1	0	0	0
 SRP-dependent cotranslational protein targeting to membrane, docking	GO_0006615	0	1	0	0	0
 SRP-dependent cotranslational protein targeting to membrane	GO_0006614	0	1	0	0	0
+SREBP-SCAP complex retention in endoplasmic reticulum	GO_0036316	0	1	0	0	0
 SMAD protein import into nucleus	GO_0007184	0	1	0	0	0
 RNA polymerase II complex import into nucleus	GO_0098738	0	1	0	0	0
 P-P-bond-hydrolysis-driven protein transmembrane transporter activity	GO_0015450	0	1	0	0	0

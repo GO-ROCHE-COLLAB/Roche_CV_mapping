@@ -1,10 +1,11 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of synaptic transmission, GABAergic	GO_0032228	1	1	1	0	0
+positive regulation of synaptic transmission, GABAergic	GO_0032230	1	1	1	0	0
+negative regulation of synaptic transmission, GABAergic	GO_0032229	1	1	1	0	0
 GABAergic neuron differentiation in basal ganglia	GO_0021858	1	1	1	0	0
 GABAergic neuron differentiation	GO_0097154	1	1	1	0	0
-regulation of synaptic transmission, GABAergic	GO_0032228	1	0	1	0	0
-positive regulation of synaptic transmission, GABAergic	GO_0032230	1	0	1	0	0
-negative regulation of synaptic transmission, GABAergic	GO_0032229	1	0	1	0	0
 glutamate catabolic process to succinate via 2-oxoglutarate-dependent GABA-transaminase activity	GO_0036242	1	0	1	0	0
+synaptic transmission, GABAergic	GO_0051932	0	1	0	0	0
 cerebral cortex GABAergic interneuron migration	GO_0021853	0	1	0	0	0
 cerebral cortex GABAergic interneuron fate commitment	GO_0021893	0	1	0	0	0
 cerebral cortex GABAergic interneuron differentiation	GO_0021892	0	1	0	0	0

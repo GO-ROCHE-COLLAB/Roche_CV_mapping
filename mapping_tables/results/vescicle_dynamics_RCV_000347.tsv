@@ -280,6 +280,8 @@ pinocytosis	GO_0006907	0	1	1	0	0
 pigment granule transport	GO_0051904	0	1	1	0	0
 pigment granule organization	GO_0048753	0	1	1	0	0
 pigment granule localization	GO_0051875	0	1	1	0	0
+pigment granule dispersal	GO_0051876	0	1	0	0	0
+pigment granule aggregation in cell center	GO_0051877	0	1	0	0	0
 pigment granule	GO_0048770	0	1	1	0	0
 piccolo-bassoon transport vesicle	GO_1990257	0	1	1	0	0
 phagosome-lysosome fusion involved in apoptotic cell clearance	GO_0090389	0	1	1	0	0
@@ -406,6 +408,10 @@ melanosome assembly	GO_1903232	0	1	1	0	0
 melanosome	GO_0042470	0	1	1	0	0
 mast cell secretory granule organization	GO_0033364	0	1	1	0	0
 mast cell degranulation	GO_0043303	0	1	1	0	0
+maintenance of vesicle location	GO_0051655	0	1	0	0	0
+maintenance of secretory granule location	GO_0032255	0	1	0	0	0
+maintenance of pigment granule location	GO_0051906	0	1	0	0	0
+maintenance of dense core granule location	GO_0032257	0	1	0	0	0
 macropinocytosis involved in viral entry into host cell	GO_0075510	0	1	1	0	0
 macropinocytosis	GO_0044351	0	1	1	0	0
 lysosome to ER cholesterol transport	GO_0090120	0	1	1	0	0
@@ -460,6 +466,12 @@ exocytic vesicle	GO_0070382	0	1	1	0	0
 esterosome membrane	GO_0033118	0	1	1	0	0
 esterosome lumen	GO_0034467	0	1	1	0	0
 esterosome	GO_0033117	0	1	1	0	0
+establishment of vesicle localization	GO_0051650	0	1	0	0	0
+establishment of synaptic vesicle localization	GO_0097480	0	1	0	0	0
+establishment of secretory granule localization	GO_0032254	0	1	0	0	0
+establishment of pigment granule localization	GO_0051905	0	1	0	0	0
+establishment of melanosome localization	GO_0032401	0	1	0	0	0
+establishment of dense core granule localization	GO_0032256	0	1	0	0	0
 epidermal lamellar body membrane	GO_0097234	0	1	1	0	0
 epidermal lamellar body	GO_0097209	0	1	1	0	0
 eosinophil degranulation	GO_0043308	0	1	1	0	0

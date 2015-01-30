@@ -1,76 +1,105 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
+regulation of metanephric cap mesenchymal cell proliferation	GO_0090095	1	1	1	0	0
+regulation of mesenchymal cell proliferation involved in ureter development	GO_0072199	1	1	1	0	0
+regulation of mesenchymal cell proliferation involved in prostate gland development	GO_0060782	1	1	1	0	0
+regulation of mesenchymal cell proliferation involved in lung development	GO_2000790	1	1	1	0	0
+regulation of mesenchymal cell proliferation	GO_0010464	1	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	1	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	1	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	1	1	1	0	0
+regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	1	1	1	0	0
+regulation of mesenchymal cell apoptotic process	GO_2001053	1	1	1	0	0
+positive regulation of metanephric cap mesenchymal cell proliferation	GO_0090096	1	1	1	0	0
+positive regulation of mesenchymal cell proliferation involved in ureter development	GO_2000729	1	1	1	0	0
+positive regulation of mesenchymal cell proliferation involved in lung development	GO_2000792	1	1	1	0	0
+positive regulation of mesenchymal cell proliferation	GO_0002053	1	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	1	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	1	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	1	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	1	1	1	0	0
+positive regulation of mesenchymal cell apoptotic process	GO_2001055	1	1	1	0	0
+negative regulation of mesenchymal cell proliferation involved in ureter development	GO_0072200	1	1	1	0	0
+negative regulation of mesenchymal cell proliferation involved in lung development	GO_2000791	1	1	1	0	0
+negative regulation of mesenchymal cell proliferation	GO_0072201	1	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	1	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	1	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	1	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	1	1	1	0	0
+negative regulation of mesenchymal cell apoptotic process	GO_2001054	1	1	1	0	0
+metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	1	1	1	0	0
+metanephric mesenchymal cell differentiation	GO_0072162	1	1	1	0	0
+metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	1	1	1	0	0
+mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	1	1	1	0	0
+mesonephric mesenchymal cell differentiation	GO_0061223	1	1	1	0	0
 mesenchymal to epithelial transition involved in renal vesicle formation	GO_0072036	1	1	1	0	0
 mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003337	1	1	1	0	0
 mesenchymal to epithelial transition involved in metanephric renal vesicle formation	GO_0072285	1	1	1	0	0
 mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_0061261	1	1	1	0	0
 mesenchymal to epithelial transition involved in mesonephric renal vesicle formation	GO_0061271	1	1	1	0	0
+mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	1	1	1	0	0
+mesenchymal cell proliferation involved in ureter development	GO_0072198	1	1	1	0	0
+mesenchymal cell proliferation involved in prostate gland development	GO_0060781	1	1	1	0	0
+mesenchymal cell proliferation involved in lung development	GO_0060916	1	1	1	0	0
+mesenchymal cell proliferation	GO_0010463	1	1	1	0	0
+mesenchymal cell migration involved in limb bud formation	GO_0035322	1	1	1	0	0
+mesenchymal cell fate commitment	GO_0014030	1	1	1	0	0
+mesenchymal cell differentiation involved in salivary gland development	GO_0060692	1	1	1	0	0
+mesenchymal cell differentiation involved in renal system development	GO_2001012	1	1	1	0	0
+mesenchymal cell differentiation involved in mammary gland development	GO_0060610	1	1	1	0	0
+mesenchymal cell differentiation involved in lung development	GO_0060915	1	1	1	0	0
+mesenchymal cell differentiation	GO_0048762	1	1	1	0	0
+mesenchymal cell development	GO_0014031	1	1	1	0	0
+mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	1	1	1	0	0
+mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	1	1	1	0	0
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	1	1	1	0	0
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	1	1	1	0	0
+mesenchymal cell apoptotic process	GO_0097152	1	1	1	0	0
+condensed mesenchymal cell proliferation	GO_0072137	1	1	1	0	0
 regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_1900238	1	0	1	0	0
 regulation of metanephric mesenchymal cell migration	GO_2000589	1	0	1	0	0
-regulation of metanephric cap mesenchymal cell proliferation	GO_0090095	1	0	1	0	0
-regulation of mesenchymal cell proliferation involved in ureter development	GO_0072199	1	0	1	0	0
-regulation of mesenchymal cell proliferation involved in prostate gland development	GO_0060782	1	0	1	0	0
-regulation of mesenchymal cell proliferation involved in lung development	GO_2000790	1	0	1	0	0
-regulation of mesenchymal cell proliferation	GO_0010464	1	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072039	1	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900211	1	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072304	1	0	1	0	0
-regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061295	1	0	1	0	0
-regulation of mesenchymal cell apoptotic process	GO_2001053	1	0	1	0	0
 positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	GO_0035793	1	0	1	0	0
 positive regulation of metanephric mesenchymal cell migration	GO_2000591	1	0	1	0	0
-positive regulation of metanephric cap mesenchymal cell proliferation	GO_0090096	1	0	1	0	0
-positive regulation of mesenchymal cell proliferation involved in ureter development	GO_2000729	1	0	1	0	0
-positive regulation of mesenchymal cell proliferation involved in lung development	GO_2000792	1	0	1	0	0
-positive regulation of mesenchymal cell proliferation	GO_0002053	1	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072041	1	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900213	1	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072306	1	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061297	1	0	1	0	0
-positive regulation of mesenchymal cell apoptotic process	GO_2001055	1	0	1	0	0
 negative regulation of metanephric mesenchymal cell migration	GO_2000590	1	0	1	0	0
-negative regulation of mesenchymal cell proliferation involved in ureter development	GO_0072200	1	0	1	0	0
-negative regulation of mesenchymal cell proliferation involved in lung development	GO_2000791	1	0	1	0	0
-negative regulation of mesenchymal cell proliferation	GO_0072201	1	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_0072040	1	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephros development	GO_1900212	1	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_0072305	1	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_0061296	1	0	1	0	0
-negative regulation of mesenchymal cell apoptotic process	GO_2001054	1	0	1	0	0
-metanephric mesenchymal cell proliferation involved in metanephros development	GO_0072136	1	0	1	0	0
 metanephric mesenchymal cell migration	GO_0035789	1	0	1	0	0
-metanephric mesenchymal cell differentiation	GO_0072162	1	0	1	0	0
-metanephric cap mesenchymal cell proliferation involved in metanephros development	GO_0090094	1	0	1	0	0
 mesothelial-mesenchymal cell signaling involved in early lung development	GO_0061142	1	0	1	0	0
-mesonephric mesenchymal cell proliferation involved in mesonephros development	GO_0061222	1	0	1	0	0
-mesonephric mesenchymal cell differentiation	GO_0061223	1	0	1	0	0
-mesenchymal cell proliferation involved in ureteric bud development	GO_0072138	1	0	1	0	0
-mesenchymal cell proliferation involved in ureter development	GO_0072198	1	0	1	0	0
-mesenchymal cell proliferation involved in prostate gland development	GO_0060781	1	0	1	0	0
-mesenchymal cell proliferation involved in lung development	GO_0060916	1	0	1	0	0
-mesenchymal cell proliferation	GO_0010463	1	0	1	0	0
-mesenchymal cell migration involved in limb bud formation	GO_0035322	1	0	1	0	0
-mesenchymal cell fate commitment	GO_0014030	1	0	1	0	0
-mesenchymal cell differentiation involved in salivary gland development	GO_0060692	1	0	1	0	0
-mesenchymal cell differentiation involved in renal system development	GO_2001012	1	0	1	0	0
-mesenchymal cell differentiation involved in mammary gland development	GO_0060610	1	0	1	0	0
-mesenchymal cell differentiation involved in lung development	GO_0060915	1	0	1	0	0
-mesenchymal cell differentiation	GO_0048762	1	0	1	0	0
-mesenchymal cell development	GO_0014031	1	0	1	0	0
 mesenchymal cell condensation involved in mammary fat development	GO_0060647	1	0	1	0	0
-mesenchymal cell apoptotic process involved in nephron morphogenesis	GO_1901145	1	0	1	0	0
-mesenchymal cell apoptotic process involved in metanephros development	GO_1900200	1	0	1	0	0
-mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	GO_1901147	1	0	1	0	0
-mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	GO_1901146	1	0	1	0	0
-mesenchymal cell apoptotic process	GO_0097152	1	0	1	0	0
 epithelial-mesenchymal cell signaling involved in lung development	GO_0061111	1	0	1	0	0
 epithelial-mesenchymal cell signaling	GO_0060684	1	0	1	0	0
 epicardial cell to mesenchymal cell transition	GO_0003347	1	0	1	0	0
 creation of an inductive signal by a mesenchymal cell involved in lung induction	GO_0060511	1	0	1	0	0
-condensed mesenchymal cell proliferation	GO_0072137	1	0	1	0	0
+regulation of neural crest formation	GO_0090299	0	1	0	0	0
 regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003339	0	1	0	0	0
 regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000084	0	1	0	0	0
+regulation of epithelial to mesenchymal transition	GO_0010717	0	1	0	0	0
+regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000800	0	1	0	0	0
+regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072335	0	1	0	0	0
+regulation of amniotic stem cell differentiation	GO_2000797	0	1	0	0	0
+positive regulation of neural crest formation	GO_0090300	0	1	0	0	0
+positive regulation of mesodermal to mesenchymal transition involved in gastrulation	GO_0060808	0	1	0	0	0
 positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0072108	0	1	0	0	0
 positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000086	0	1	0	0	0
+positive regulation of epithelial to mesenchymal transition	GO_0010718	0	1	0	0	0
+positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000802	0	1	0	0	0
+positive regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072381	0	1	0	0	0
+positive regulation of amniotic stem cell differentiation	GO_2000799	0	1	0	0	0
+neural crest cell differentiation involved in thymus development	GO_1902637	0	1	0	0	0
+neural crest cell differentiation involved in parathyroid gland development	GO_1902638	0	1	0	0	0
+neural crest cell differentiation	GO_0014033	0	1	0	0	0
+neural crest cell development	GO_0014032	0	1	0	0	0
+negative regulation of neural crest formation	GO_0090301	0	1	0	0	0
 negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	GO_0003340	0	1	0	0	0
 negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis	GO_2000085	0	1	0	0	0
+negative regulation of epithelial to mesenchymal transition	GO_0010719	0	1	0	0	0
+negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	GO_2000801	0	1	0	0	0
+negative regulation of canonical Wnt signaling pathway involved in neural crest cell differentiation	GO_0072336	0	1	0	0	0
+negative regulation of amniotic stem cell differentiation	GO_2000798	0	1	0	0	0
 mesenchymal to epithelial transition	GO_0060231	0	1	0	0	0
+mesenchymal cell migration	GO_0090497	0	1	0	0	0
+mesenchymal cell differentiation involved in kidney development	GO_0072161	0	1	0	0	0
+mesenchymal cell differentiation involved in bone development	GO_1901706	0	1	0	0	0
+kidney mesenchymal cell proliferation	GO_0072135	0	1	0	0	0
+cardiac neural crest cell differentiation involved in heart development	GO_0061307	0	1	0	0	0
+cardiac neural crest cell development involved in outflow tract morphogenesis	GO_0061309	0	1	0	0	0
+cardiac neural crest cell development involved in heart development	GO_0061308	0	1	0	0	0
+angioblast cell differentiation	GO_0035779	0	1	0	0	0
+amniotic stem cell differentiation	GO_0097086	0	1	0	0	0

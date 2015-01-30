@@ -28,7 +28,7 @@ RCV_000086	blood coagulation	0	6	19	0	0
 RCV_000087	blood pressure	0	20	17	0	0
 RCV_000003	BMP pathway	0	7	7	0	0
 RCV_000089	bone marrow	1	0	0	0	0
-RCV_000088	bone	0	47	42	0	0
+RCV_000088	bone	0	46	42	1	0
 RCV_000091	brain development	0	9	313	0	11
 RCV_000093	calcium homeostasis	0	5	26	2	0
 RCV_000094	calcium signalling	1	0	13	9	0
@@ -61,7 +61,7 @@ RCV_000126	cell wall	0	86	61	0	0
 RCV_000132	cerebellar stellate cell	1	0	0	0	0
 RCV_000133	cerebellum	0	11	10	0	0
 RCV_000135	cholesterol metabolism	0	39	1	0	0
-RCV_000136	cholinergic	1	0	4	0	0
+RCV_000136	cholinergic	1	0	8	0	0
 RCV_000137	circadian	0	1	10	0	0
 RCV_000004	CTGF	0	1	3	0	0
 RCV_000140	defense response	1	0	678	0	0
@@ -82,7 +82,7 @@ RCV_000152	energy metabolism	0	13	9	0	0
 RCV_000154	eosinophil	1	0	8	0	0
 RCV_000156	epithelial cell migration	1	0	42	0	0
 RCV_000157	epithelial cell proliferation	1	0	25	0	0
-RCV_000158	epithelial cells	0	81	435	0	0
+RCV_000158	epithelial cells	0	81	445	0	0
 RCV_000159	epithelial to mesenchymal transition	1	0	17	0	0
 RCV_000015	ERBB signaling pathway	1	0	34	0	0
 RCV_000160	erythrocyte	1	0	23	1	0
@@ -97,9 +97,9 @@ RCV_000173	glucocorticoid	0	4	38	0	0
 RCV_000175	glucose homeostasis	0	29	6	0	0
 RCV_000176	glucose metabolism	0	7	14	0	0
 RCV_000177	glutamate metabolism	0	30	7	0	0
-RCV_000178	glutamatergic	1	0	1	0	0
+RCV_000178	glutamatergic	1	0	6	0	0
 RCV_000179	glutamine metabolism	0	21	4	0	0
-RCV_000180	glycinergic	1	0	2	0	0
+RCV_000180	glycinergic	1	0	3	0	0
 RCV_000183	granulocyte	0	5	107	0	0
 RCV_000020	GTPase activity	1	0	48	0	0
 RCV_000184	heart development	0	19	247	0	0
@@ -158,7 +158,7 @@ RCV_000024	NF-kappaB pathway	0	1	4	0	0
 RCV_000249	nitric oxide metabolism	0	2	11	0	0
 RCV_000026	NK cells	0	20	16	0	0
 RCV_000027	Notch signaling pathway	0	2	11	0	0
-RCV_000252	nuclear events	0	17	195	0	0
+RCV_000252	nuclear events	0	17	210	0	0
 RCV_000253	nucleotide binding process	0	8	55	0	0
 RCV_000256	oocyte	1	0	32	0	0
 RCV_000257	oogenesis	0	1	117	0	0
@@ -175,7 +175,7 @@ RCV_000271	pancreatic E cell	0	1	0	0	0
 RCV_000272	pancreatic PP cell	1	0	0	0	0
 RCV_000273	pancreatic stellate cell	1	0	0	0	0
 RCV_000028	PDGF pathway	0	1	10	0	0
-RCV_000275	peroxisome	0	8	24	0	0
+RCV_000275	peroxisome	0	8	25	0	0
 RCV_000276	phosphatase activity 	0	1	163	0	0
 RCV_000280	plasma membrane dynamics	0	2	102	0	0
 RCV_000281	platelet	0	8	13	0	0
@@ -207,10 +207,10 @@ RCV_000311	spleen development	1	0	0	0	0
 RCV_000360	spore formation	0	2	104	0	0
 RCV_000035	STATx phosphorylation	0	1	0	0	0
 RCV_000312	stellate cell	0	1	1	0	0
-RCV_000313	stem cell	0	2	193	0	0
+RCV_000313	stem cell	0	2	180	0	0
 RCV_000314	steroid metabolic process	0	4	78	0	0
 RCV_000315	sterol metabolic process	0	7	15	0	0
-RCV_000317	striated muscle	0	9	38	0	0
+RCV_000317	striated muscle	0	9	38	0	2
 RCV_000318	succinyl-CoA pathway	1	0	5	0	0
 RCV_000319	sugar metabolism	0	112	474	0	0
 RCV_000320	symbiosis	0	5	967	0	0
@@ -240,12 +240,12 @@ RCV_000340	urea metabolism	0	7	5	0	0
 RCV_000341	ureter	0	8	9	0	0
 RCV_000363	uropod	1	0	4	0	0
 RCV_000342	uterus	0	4	0	0	0
-RCV_000343	vacuole	0	4	157	0	0
+RCV_000343	vacuole	0	4	158	0	0
 RCV_000344	vascular	0	3	164	0	0
 RCV_000345	vasoconstriction	1	0	16	0	0
 RCV_000346	vasodilation	1	0	11	0	0
 RCV_000045	VEGF pathway	1	0	16	0	0
-RCV_000347	vescicle dynamics	0	2	599	0	0
+RCV_000347	vescicle dynamics	0	2	611	0	0
 RCV_000349	vessel development	1	0	144	0	0
 RCV_000351	vitamin A	1	0	3	0	0
 RCV_000352	vitamin C	1	0	16	0	0
@@ -255,6 +255,6 @@ RCV_000355	vitamin metabolism	0	2	69	0	0
 RCV_000046	Wnt pathway	0	7	29	0	0
 RCV_000357	xenobiotic	1	0	150	0	0
 RCV_000359	zinc ion homeostasis	0	6	2	0	0
-SUM	256	92	2842	27018	29	63
-AVERAGE	-	-	11.1	105.54	0.11	0.25
+SUM	256	92	2841	27054	31	64
+AVERAGE	-	-	11.1	105.68	0.12	0.25
 MEDIAN		-	2.0	16.5	0.0	0.0

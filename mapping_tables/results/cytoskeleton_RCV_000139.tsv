@@ -500,7 +500,10 @@ mating projection septin band	GO_0032162	0	1	0	0	0
 manchette	GO_0002177	0	1	0	0	0
 male meiotic chromosome movement towards spindle pole	GO_0016346	0	1	0	0	0
 male meiosis centrosome cycle	GO_0007101	0	1	0	0	0
+maintenance of spindle location	GO_0051687	0	1	0	0	0
+maintenance of protein location in spindle pole body	GO_0071990	0	1	0	0	0
 maintenance of mitotic actomyosin contractile ring localization	GO_1903474	0	1	0	0	0
+maintenance of centrosome location	GO_0051661	0	1	0	0	0
 maintenance of actomyosin contractile ring localization	GO_0032189	0	1	0	0	0
 macropinocytic cup cytoskeleton	GO_0070687	0	1	0	0	0
 lipid particle transport along microtubule	GO_0031887	0	1	0	0	0
@@ -559,10 +562,20 @@ filamentous actin	GO_0031941	0	1	0	0	0
 female meiotic chromosome movement towards spindle pole	GO_0016345	0	1	0	0	0
 female germline ring canal stabilization	GO_0008335	0	1	0	0	0
 female germline ring canal formation, actin assembly	GO_0008302	0	1	0	0	0
+establishment of spindle pole body localization to nuclear envelope	GO_0071790	0	1	0	0	0
+establishment of spindle pole body localization	GO_0070632	0	1	0	0	0
+establishment of spindle orientation	GO_0051294	0	1	0	0	0
+establishment of spindle localization	GO_0051293	0	1	0	0	0
 establishment of protein localization to spindle pole body	GO_0071989	0	1	0	0	0
+establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division	GO_0003425	0	1	0	0	0
+establishment of mitotic spindle orientation	GO_0000132	0	1	0	0	0
+establishment of mitotic spindle localization	GO_0040001	0	1	0	0	0
 establishment of mitotic actomyosin contractile ring localization	GO_1903486	0	1	0	0	0
 establishment of mitochondrion localization, microtubule-mediated	GO_0034643	0	1	0	0	0
 establishment of mitochondrion localization by microtubule attachment	GO_0034640	0	1	0	0	0
+establishment of meiotic spindle orientation	GO_0051296	0	1	0	0	0
+establishment of meiotic spindle localization	GO_0051295	0	1	0	0	0
+establishment of centrosome localization	GO_0051660	0	1	0	0	0
 establishment of actomyosin contractile ring localization	GO_0032188	0	1	0	0	0
 epithelial cilium movement involved in determination of left/right asymmetry	GO_0060287	0	1	0	0	0
 epithelial cilium movement	GO_0003351	0	1	0	0	0

@@ -9,8 +9,10 @@ protein glycosylation in Golgi	GO_0033578	1	1	1	0	0
 protein galactosylation in Golgi	GO_0033581	1	1	1	0	0
 positive regulation of protein glycosylation in Golgi	GO_0090284	1	1	1	0	0
 negative regulation of protein glycosylation in Golgi	GO_0090285	1	1	1	0	0
+maintenance of Golgi location	GO_0051684	1	1	1	0	0
 late endosome to Golgi transport	GO_0034499	1	1	1	0	0
 establishment of protein localization to Golgi	GO_0072600	1	1	1	0	0
+establishment of Golgi localization	GO_0051683	1	1	1	0	0
 early endosome to Golgi transport	GO_0034498	1	1	1	0	0
 clathrin coating of Golgi vesicle, trans-Golgi to endosome targeting	GO_0010786	1	1	1	0	0
 clathrin coating of Golgi vesicle, plasma membrane to endosome targeting	GO_0010785	1	1	1	0	0
@@ -69,10 +71,8 @@ positive regulation of Golgi to plasma membrane CFTR protein transport	GO_004300
 negative regulation of Golgi vesicle fusion to target membrane	GO_0048216	1	0	1	0	0
 negative regulation of Golgi to plasma membrane protein transport	GO_0042997	1	0	1	0	0
 negative regulation of Golgi to plasma membrane CFTR protein transport	GO_0043002	1	0	1	0	0
-maintenance of Golgi location	GO_0051684	1	0	1	0	0
 intra-Golgi vesicle-mediated transport	GO_0006891	1	0	1	0	0
 inter-Golgi cisterna vesicle-mediated transport	GO_0048219	1	0	1	0	0
-establishment of Golgi localization	GO_0051683	1	0	1	0	0
 endoplasmic reticulum-Golgi intermediate compartment organization	GO_0097111	1	0	1	0	0
 Golgi vesicle uncoating	GO_0048212	1	0	1	0	0
 Golgi vesicle transport	GO_0048193	1	0	1	0	0

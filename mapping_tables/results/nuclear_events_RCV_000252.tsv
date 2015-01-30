@@ -239,6 +239,8 @@ male meiosis II	GO_0007142	0	1	1	0	0
 male meiosis I	GO_0007141	0	1	1	0	0
 male meiosis	GO_0007140	0	1	1	0	0
 maintenance of protein location in nucleus	GO_0051457	0	1	1	0	0
+maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification	GO_0042070	0	1	0	0	0
+maintenance of nucleus location	GO_0051658	0	1	0	0	0
 macronucleus organization	GO_0032124	0	1	1	0	0
 mRNA-containing ribonucleoprotein complex export from nucleus	GO_0071427	0	1	1	0	0
 mRNA-binding (hnRNP) protein import into nucleus	GO_0006609	0	1	1	0	0

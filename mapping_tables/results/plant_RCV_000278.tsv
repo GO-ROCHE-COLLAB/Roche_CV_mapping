@@ -1,6 +1,6 @@
 name	ID	manual	auto	checked	blacklisted	is_obsolete
-embryonic meristem initiation	GO_0090421	1	0	1	0	0
-embryonic meristem development	GO_0048508	1	0	1	0	0
+embryonic meristem initiation	GO_0090421	1	1	1	0	0
+embryonic meristem development	GO_0048508	1	1	1	0	0
 zygote asymmetric cytokinesis in embryo sac	GO_0010069	0	1	1	0	0
 xylem development	GO_0010089	0	1	1	0	0
 xylem and phloem pattern formation	GO_0010051	0	1	1	0	0
@@ -25,6 +25,7 @@ skotomorphogenesis	GO_0009647	0	1	1	0	0
 simple sieve plate	GO_0097220	0	1	1	0	0
 sieve plate	GO_0097218	0	1	1	0	0
 short-day photoperiodism, flowering	GO_0048575	0	1	1	0	0
+shoot apical meristem development	GO_1902182	0	1	0	0	0
 sepal vascular tissue pattern formation	GO_0080057	0	1	1	0	0
 sepal development	GO_0048442	0	1	1	0	0
 senescence-associated vacuole	GO_0010282	0	1	1	0	0
@@ -33,6 +34,7 @@ seed coat development	GO_0010214	0	1	1	0	0
 secondary cell wall cellulose synthase complex	GO_0044568	0	1	1	0	0
 secondary cell wall biogenesis involved in seed trichome differentiation	GO_0090379	0	1	1	0	0
 secondary cell wall	GO_0009531	0	1	1	0	0
+root meristem specification	GO_0010071	0	1	0	0	0
 root development	GO_0048364	0	1	1	0	0
 root cap development	GO_0048829	0	1	1	0	0
 rhamnogalacturonan II side chain metabolic process	GO_0010419	0	1	1	0	0
@@ -50,13 +52,17 @@ regulation of embryo sac egg cell differentiation	GO_0045694	0	1	1	0	0
 regulation of embryo sac central cell differentiation	GO_0045691	0	1	1	0	0
 regulation of antipodal cell differentiation	GO_0045688	0	1	1	0	0
 protoxylem development	GO_0090059	0	1	1	0	0
+protoderm histogenesis	GO_0010068	0	1	0	0	0
 prothylakoid membrane	GO_0042650	0	1	1	0	0
 prothylakoid	GO_0042649	0	1	1	0	0
 proteinoplast	GO_0031986	0	1	1	0	0
 protein storage vacuole membrane	GO_0032586	0	1	1	0	0
 protein storage vacuole lumen	GO_0034495	0	1	1	0	0
 protein storage vacuole	GO_0000326	0	1	1	0	0
+procambium histogenesis	GO_0010067	0	1	0	0	0
+primary shoot apical meristem specification	GO_0010072	0	1	0	0	0
 primary root development	GO_0080022	0	1	1	0	0
+primary meristem tissue development	GO_0010065	0	1	0	0	0
 primary cell wall cellulose synthase complex	GO_0044567	0	1	1	0	0
 primary cell wall	GO_0009530	0	1	1	0	0
 post-embryonic root development	GO_0048528	0	1	1	0	0
@@ -93,6 +99,7 @@ plant-type cell wall cellulose biosynthetic process	GO_0052324	0	1	1	0	0
 plant-type cell wall biogenesis	GO_0009832	0	1	1	0	0
 plant-type cell wall assembly	GO_0071668	0	1	1	0	0
 plant-type cell wall	GO_0009505	0	1	1	0	0
+plant epidermis development	GO_0090558	0	1	0	0	0
 phyllome development	GO_0048827	0	1	1	0	0
 photoperiodism, flowering	GO_0048573	0	1	1	0	0
 photomorphogenesis	GO_0009640	0	1	1	0	0
@@ -125,6 +132,8 @@ metabolism by organism of cell wall cellulose in other organism involved in symb
 metabolism by host of symbiont cell wall pectin	GO_0052412	0	1	1	0	0
 metabolism by host of symbiont cell wall cellulose	GO_0052408	0	1	1	0	0
 meristemoid mother cell division	GO_0010443	0	1	1	0	0
+meristem initiation	GO_0010014	0	1	0	0	0
+meristem development	GO_0048507	0	1	0	0	0
 megasporogenesis	GO_0009554	0	1	1	0	0
 megagametophyte egg cell nucleus	GO_0043082	0	1	1	0	0
 megagametogenesis	GO_0009561	0	1	1	0	0
@@ -145,6 +154,7 @@ homogalacturonan biosynthetic process	GO_0010289	0	1	1	0	0
 hemicellulose network	GO_0048223	0	1	1	0	0
 guard mother cell cytokinesis	GO_0010235	0	1	1	0	0
 guard cell fate commitment	GO_0010377	0	1	1	0	0
+ground meristem histogenesis	GO_0010066	0	1	0	0	0
 granum	GO_0009542	0	1	1	0	0
 granal stacked thylakoid	GO_0009515	0	1	1	0	0
 gerontoplast	GO_0034400	0	1	1	0	0
@@ -206,6 +216,7 @@ bud dormancy process	GO_0097207	0	1	1	0	0
 bract morphogenesis	GO_0010433	0	1	1	0	0
 bract formation	GO_0010434	0	1	1	0	0
 bract development	GO_0010432	0	1	1	0	0
+axillary shoot meristem initiation	GO_0090506	0	1	0	0	0
 apoplast	GO_0048046	0	1	1	0	0
 antipodal cell differentiation	GO_0009557	0	1	1	0	0
 antipodal cell degeneration	GO_0055045	0	1	1	0	0

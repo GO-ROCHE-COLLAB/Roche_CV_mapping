@@ -9134,10 +9134,14 @@ RCV_000135	cholesterol metabolism	GO_0032383	regulation of intracellular cholest
 RCV_000135	cholesterol metabolism	GO_0070723	response to cholesterol
 RCV_000135	cholesterol metabolism	GO_0043691	reverse cholesterol transport
 RCV_000136	cholinergic	GO_0001507	acetylcholine catabolic process in synaptic cleft
+RCV_000136	cholinergic	GO_0014055	acetylcholine secretion, neurotransmission
 RCV_000136	cholinergic	GO_0044760	modulation by symbiont of host cholinergic synaptic transmission
 RCV_000136	cholinergic	GO_0044761	negative regulation by symbiont of host cholinergic synaptic transmission
+RCV_000136	cholinergic	GO_0014058	negative regulation of acetylcholine secretion, neurotransmission
 RCV_000136	cholinergic	GO_0032223	negative regulation of synaptic transmission, cholinergic
+RCV_000136	cholinergic	GO_0014057	positive regulation of acetylcholine secretion, neurotransmission
 RCV_000136	cholinergic	GO_0032224	positive regulation of synaptic transmission, cholinergic
+RCV_000136	cholinergic	GO_0014056	regulation of acetylcholine secretion, neurotransmission
 RCV_000136	cholinergic	GO_0032222	regulation of synaptic transmission, cholinergic
 RCV_000136	cholinergic	GO_0007271	synaptic transmission, cholinergic
 RCV_000137	circadian	GO_0048512	circadian behavior
@@ -10377,7 +10381,6 @@ RCV_000158	epithelial cells	GO_0048903	anterior lateral line neuromast hair cell
 RCV_000158	epithelial cells	GO_0060842	arterial endothelial cell differentiation
 RCV_000158	epithelial cells	GO_0060844	arterial endothelial cell fate commitment
 RCV_000158	epithelial cells	GO_0090164	asymmetric Golgi ribbon formation
-RCV_000158	epithelial cells	GO_0010056	atrichoblast fate specification
 RCV_000158	epithelial cells	GO_0060117	auditory receptor cell development
 RCV_000158	epithelial cells	GO_0042491	auditory receptor cell differentiation
 RCV_000158	epithelial cells	GO_0009912	auditory receptor cell fate commitment
@@ -10398,6 +10401,7 @@ RCV_000158	epithelial cells	GO_0060602	branch elongation of an epithelium
 RCV_000158	epithelial cells	GO_0046845	branched duct epithelial cell fate determination, open tracheal system
 RCV_000158	epithelial cells	GO_0060946	cardiac blood vessel endothelial cell differentiation
 RCV_000158	epithelial cells	GO_0003348	cardiac endothelial cell differentiation
+RCV_000158	epithelial cells	GO_0060317	cardiac epithelial to mesenchymal transition
 RCV_000158	epithelial cells	GO_0061103	carotid body glomus cell differentiation
 RCV_000158	epithelial cells	GO_0060619	cell migration involved in mammary placode formation
 RCV_000158	epithelial cells	GO_0060518	cell migration involved in prostatic bud elongation
@@ -10405,6 +10409,7 @@ RCV_000158	epithelial cells	GO_0002042	cell migration involved in sprouting angi
 RCV_000158	epithelial cells	GO_0060269	centripetally migrating follicle cell migration
 RCV_000158	epithelial cells	GO_0040005	chitin-based cuticle attachment to epithelium
 RCV_000158	epithelial cells	GO_1902488	cholangiocyte apoptotic process
+RCV_000158	epithelial cells	GO_0060886	clearance of cells from fusion plate by epithelial to mesenchymal transition
 RCV_000158	epithelial cells	GO_0040004	collagen and cuticulin-based cuticle attachment to epithelium
 RCV_000158	epithelial cells	GO_0061583	colon epithelial cell chemotaxis
 RCV_000158	epithelial cells	GO_0061580	colon epithelial cell migration
@@ -10426,6 +10431,10 @@ RCV_000158	epithelial cells	GO_0060958	endocardial cell development
 RCV_000158	epithelial cells	GO_0060956	endocardial cell differentiation
 RCV_000158	epithelial cells	GO_0060957	endocardial cell fate commitment
 RCV_000158	epithelial cells	GO_0061445	endocardial cushion cell fate commitment
+RCV_000158	epithelial cells	GO_0090500	endocardial cushion to mesenchymal transition
+RCV_000158	epithelial cells	GO_0003202	endocardial cushion to mesenchymal transition involved in cardiac skeleton development
+RCV_000158	epithelial cells	GO_0003200	endocardial cushion to mesenchymal transition involved in heart chamber septation
+RCV_000158	epithelial cells	GO_0003199	endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000158	epithelial cells	GO_0042118	endothelial cell activation
 RCV_000158	epithelial cells	GO_0002264	endothelial cell activation involved in immune response
 RCV_000158	epithelial cells	GO_0002259	endothelial cell activation within high endothelial venule involved in immune response
@@ -10444,6 +10453,7 @@ RCV_000158	epithelial cells	GO_0097103	endothelial stalk cell fate specification
 RCV_000158	epithelial cells	GO_0097102	endothelial tip cell fate specification
 RCV_000158	epithelial cells	GO_1903703	enterocyte differentiation
 RCV_000158	epithelial cells	GO_0035883	enteroendocrine cell differentiation
+RCV_000158	epithelial cells	GO_0003347	epicardial cell to mesenchymal cell transition
 RCV_000158	epithelial cells	GO_0003349	epicardium-derived cardiac endothelial cell differentiation
 RCV_000158	epithelial cells	GO_0009913	epidermal cell differentiation
 RCV_000158	epithelial cells	GO_0010481	epidermal cell division
@@ -10491,6 +10501,10 @@ RCV_000158	epithelial cells	GO_0003351	epithelial cilium movement
 RCV_000158	epithelial cells	GO_0060287	epithelial cilium movement involved in determination of left/right asymmetry
 RCV_000158	epithelial cells	GO_0042045	epithelial fluid transport
 RCV_000158	epithelial cells	GO_0010669	epithelial structure maintenance
+RCV_000158	epithelial cells	GO_0001837	epithelial to mesenchymal transition
+RCV_000158	epithelial cells	GO_0060940	epithelial to mesenchymal transition involved in cardiac fibroblast development
+RCV_000158	epithelial cells	GO_0003201	epithelial to mesenchymal transition involved in coronary vasculature morphogenesis
+RCV_000158	epithelial cells	GO_0003198	epithelial to mesenchymal transition involved in endocardial cushion formation
 RCV_000158	epithelial cells	GO_0060441	epithelial tube branching involved in lung morphogenesis
 RCV_000158	epithelial cells	GO_0072175	epithelial tube formation
 RCV_000158	epithelial cells	GO_0060562	epithelial tube morphogenesis
@@ -10602,6 +10616,7 @@ RCV_000158	epithelial cells	GO_0061261	mesenchymal to epithelial transition invo
 RCV_000158	epithelial cells	GO_0072285	mesenchymal to epithelial transition involved in metanephric renal vesicle formation
 RCV_000158	epithelial cells	GO_0003337	mesenchymal to epithelial transition involved in metanephros morphogenesis
 RCV_000158	epithelial cells	GO_0072036	mesenchymal to epithelial transition involved in renal vesicle formation
+RCV_000158	epithelial cells	GO_0060809	mesodermal to mesenchymal transition involved in gastrulation
 RCV_000158	epithelial cells	GO_0072163	mesonephric epithelium development
 RCV_000158	epithelial cells	GO_0061251	mesonephric glomerular epithelial cell development
 RCV_000158	epithelial cells	GO_0061250	mesonephric glomerular epithelial cell differentiation
@@ -10644,7 +10659,6 @@ RCV_000158	epithelial cells	GO_0016333	morphogenesis of follicular epithelium
 RCV_000158	epithelial cells	GO_0016335	morphogenesis of larval imaginal disc epithelium
 RCV_000158	epithelial cells	GO_1903251	multi-ciliated epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0003304	myocardial epithelial involution involved in heart jogging
-RCV_000158	epithelial cells	GO_0010060	negative regulation of atrichoblast fate specification
 RCV_000158	epithelial cells	GO_0045608	negative regulation of auditory receptor cell differentiation
 RCV_000158	epithelial cells	GO_0009999	negative regulation of auditory receptor cell fate specification
 RCV_000158	epithelial cells	GO_0043537	negative regulation of blood vessel endothelial cell migration
@@ -10654,6 +10668,7 @@ RCV_000158	epithelial cells	GO_1903687	negative regulation of border follicle ce
 RCV_000158	epithelial cells	GO_0090051	negative regulation of cell migration involved in sprouting angiogenesis
 RCV_000158	epithelial cells	GO_0045593	negative regulation of cumulus cell differentiation
 RCV_000158	epithelial cells	GO_0050947	negative regulation of early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2000801	negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000158	epithelial cells	GO_2000352	negative regulation of endothelial cell apoptotic process
 RCV_000158	epithelial cells	GO_2001027	negative regulation of endothelial cell chemotaxis
 RCV_000158	epithelial cells	GO_2000545	negative regulation of endothelial cell chemotaxis to fibroblast growth factor
@@ -10668,6 +10683,7 @@ RCV_000158	epithelial cells	GO_0010633	negative regulation of epithelial cell mi
 RCV_000158	epithelial cells	GO_0050680	negative regulation of epithelial cell proliferation
 RCV_000158	epithelial cells	GO_2000795	negative regulation of epithelial cell proliferation involved in lung morphogenesis
 RCV_000158	epithelial cells	GO_0060770	negative regulation of epithelial cell proliferation involved in prostate gland development
+RCV_000158	epithelial cells	GO_0010719	negative regulation of epithelial to mesenchymal transition
 RCV_000158	epithelial cells	GO_1903141	negative regulation of establishment of endothelial barrier
 RCV_000158	epithelial cells	GO_0070367	negative regulation of hepatocyte differentiation
 RCV_000158	epithelial cells	GO_2000346	negative regulation of hepatocyte proliferation
@@ -10687,16 +10703,14 @@ RCV_000158	epithelial cells	GO_0003340	negative regulation of mesenchymal to epi
 RCV_000158	epithelial cells	GO_2000094	negative regulation of mesonephric nephron tubule epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0072308	negative regulation of metanephric nephron tubule epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0072183	negative regulation of nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0090301	negative regulation of neural crest formation
 RCV_000158	epithelial cells	GO_1901330	negative regulation of odontoblast differentiation
 RCV_000158	epithelial cells	GO_2000227	negative regulation of pancreatic A cell differentiation
 RCV_000158	epithelial cells	GO_0030861	negative regulation of polarized epithelial cell differentiation
-RCV_000158	epithelial cells	GO_1902891	negative regulation of root hair elongation
 RCV_000158	epithelial cells	GO_0031286	negative regulation of sorocarp stalk cell differentiation
 RCV_000158	epithelial cells	GO_1902491	negative regulation of sperm capacitation
 RCV_000158	epithelial cells	GO_0045701	negative regulation of spermatid nuclear differentiation
 RCV_000158	epithelial cells	GO_0061106	negative regulation of stomach neuroendocrine cell differentiation
-RCV_000158	epithelial cells	GO_0010062	negative regulation of trichoblast fate specification
-RCV_000158	epithelial cells	GO_1900033	negative regulation of trichome patterning
 RCV_000158	epithelial cells	GO_2000675	negative regulation of type B pancreatic cell apoptotic process
 RCV_000158	epithelial cells	GO_2000077	negative regulation of type B pancreatic cell development
 RCV_000158	epithelial cells	GO_0050676	negative regulation of urothelial cell proliferation
@@ -10704,6 +10718,7 @@ RCV_000158	epithelial cells	GO_2000788	negative regulation of venous endothelial
 RCV_000158	epithelial cells	GO_0072009	nephron epithelium development
 RCV_000158	epithelial cells	GO_0072088	nephron epithelium morphogenesis
 RCV_000158	epithelial cells	GO_0072160	nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0014029	neural crest formation
 RCV_000158	epithelial cells	GO_0061101	neuroendocrine cell differentiation
 RCV_000158	epithelial cells	GO_0060531	neuroendocrine cell differentiation involved in prostate gland acinus development
 RCV_000158	epithelial cells	GO_0060563	neuroepithelial cell differentiation
@@ -10723,7 +10738,6 @@ RCV_000158	epithelial cells	GO_0003312	pancreatic PP cell differentiation
 RCV_000158	epithelial cells	GO_0003329	pancreatic PP cell fate commitment
 RCV_000158	epithelial cells	GO_0060645	peripheral mammary gland bud epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0030859	polarized epithelial cell differentiation
-RCV_000158	epithelial cells	GO_0010059	positive regulation of atrichoblast fate specification
 RCV_000158	epithelial cells	GO_0045609	positive regulation of auditory receptor cell differentiation
 RCV_000158	epithelial cells	GO_0043536	positive regulation of blood vessel endothelial cell migration
 RCV_000158	epithelial cells	GO_1903589	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
@@ -10733,6 +10747,7 @@ RCV_000158	epithelial cells	GO_0090050	positive regulation of cell migration inv
 RCV_000158	epithelial cells	GO_0045594	positive regulation of cumulus cell differentiation
 RCV_000158	epithelial cells	GO_0060640	positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling
 RCV_000158	epithelial cells	GO_0050948	positive regulation of early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2000802	positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000158	epithelial cells	GO_2000353	positive regulation of endothelial cell apoptotic process
 RCV_000158	epithelial cells	GO_2001028	positive regulation of endothelial cell chemotaxis
 RCV_000158	epithelial cells	GO_0038033	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway
@@ -10750,6 +10765,7 @@ RCV_000158	epithelial cells	GO_0060504	positive regulation of epithelial cell pr
 RCV_000158	epithelial cells	GO_0060501	positive regulation of epithelial cell proliferation involved in lung morphogenesis
 RCV_000158	epithelial cells	GO_0060769	positive regulation of epithelial cell proliferation involved in prostate gland development
 RCV_000158	epithelial cells	GO_0060054	positive regulation of epithelial cell proliferation involved in wound healing
+RCV_000158	epithelial cells	GO_0010718	positive regulation of epithelial to mesenchymal transition
 RCV_000158	epithelial cells	GO_1903142	positive regulation of establishment of endothelial barrier
 RCV_000158	epithelial cells	GO_0070368	positive regulation of hepatocyte differentiation
 RCV_000158	epithelial cells	GO_2000347	positive regulation of hepatocyte proliferation
@@ -10768,18 +10784,18 @@ RCV_000158	epithelial cells	GO_0060617	positive regulation of mammary placode fo
 RCV_000158	epithelial cells	GO_0045636	positive regulation of melanocyte differentiation
 RCV_000158	epithelial cells	GO_2000086	positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis
 RCV_000158	epithelial cells	GO_0072108	positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+RCV_000158	epithelial cells	GO_0060808	positive regulation of mesodermal to mesenchymal transition involved in gastrulation
 RCV_000158	epithelial cells	GO_2000478	positive regulation of metanephric glomerular visceral epithelial cell development
 RCV_000158	epithelial cells	GO_2000768	positive regulation of nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0090300	positive regulation of neural crest formation
 RCV_000158	epithelial cells	GO_1902913	positive regulation of neuroepithelial cell differentiation
 RCV_000158	epithelial cells	GO_1901331	positive regulation of odontoblast differentiation
 RCV_000158	epithelial cells	GO_2000228	positive regulation of pancreatic A cell differentiation
 RCV_000158	epithelial cells	GO_0030862	positive regulation of polarized epithelial cell differentiation
-RCV_000158	epithelial cells	GO_1902892	positive regulation of root hair elongation
 RCV_000158	epithelial cells	GO_0060639	positive regulation of salivary gland formation by mesenchymal-epithelial signaling
 RCV_000158	epithelial cells	GO_0031287	positive regulation of sorocarp stalk cell differentiation
 RCV_000158	epithelial cells	GO_1902492	positive regulation of sperm capacitation
 RCV_000158	epithelial cells	GO_0045702	positive regulation of spermatid nuclear differentiation
-RCV_000158	epithelial cells	GO_0010063	positive regulation of trichoblast fate specification
 RCV_000158	epithelial cells	GO_2000676	positive regulation of type B pancreatic cell apoptotic process
 RCV_000158	epithelial cells	GO_2000078	positive regulation of type B pancreatic cell development
 RCV_000158	epithelial cells	GO_0050677	positive regulation of urothelial cell proliferation
@@ -10789,7 +10805,6 @@ RCV_000158	epithelial cells	GO_0035778	pronephric nephron tubule epithelial cell
 RCV_000158	epithelial cells	GO_0060527	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
 RCV_000158	epithelial cells	GO_0060523	prostate epithelial cord elongation
 RCV_000158	epithelial cells	GO_0060740	prostate gland epithelium morphogenesis
-RCV_000158	epithelial cells	GO_0010058	regulation of atrichoblast fate specification
 RCV_000158	epithelial cells	GO_0045607	regulation of auditory receptor cell differentiation
 RCV_000158	epithelial cells	GO_0042669	regulation of auditory receptor cell fate specification
 RCV_000158	epithelial cells	GO_0043535	regulation of blood vessel endothelial cell migration
@@ -10803,6 +10818,7 @@ RCV_000158	epithelial cells	GO_0060665	regulation of branching involved in saliv
 RCV_000158	epithelial cells	GO_0090049	regulation of cell migration involved in sprouting angiogenesis
 RCV_000158	epithelial cells	GO_0045592	regulation of cumulus cell differentiation
 RCV_000158	epithelial cells	GO_0050939	regulation of early stripe melanocyte differentiation
+RCV_000158	epithelial cells	GO_2000800	regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
 RCV_000158	epithelial cells	GO_2000351	regulation of endothelial cell apoptotic process
 RCV_000158	epithelial cells	GO_2001026	regulation of endothelial cell chemotaxis
 RCV_000158	epithelial cells	GO_2000544	regulation of endothelial cell chemotaxis to fibroblast growth factor
@@ -10821,6 +10837,7 @@ RCV_000158	epithelial cells	GO_0050678	regulation of epithelial cell proliferati
 RCV_000158	epithelial cells	GO_2000794	regulation of epithelial cell proliferation involved in lung morphogenesis
 RCV_000158	epithelial cells	GO_0060651	regulation of epithelial cell proliferation involved in mammary gland bud elongation
 RCV_000158	epithelial cells	GO_0060768	regulation of epithelial cell proliferation involved in prostate gland development
+RCV_000158	epithelial cells	GO_0010717	regulation of epithelial to mesenchymal transition
 RCV_000158	epithelial cells	GO_1903140	regulation of establishment of endothelial barrier
 RCV_000158	epithelial cells	GO_0032533	regulation of follicle cell microvillus length
 RCV_000158	epithelial cells	GO_0032531	regulation of follicle cell microvillus organization
@@ -10845,18 +10862,15 @@ RCV_000158	epithelial cells	GO_2000093	regulation of mesonephric nephron tubule 
 RCV_000158	epithelial cells	GO_2000477	regulation of metanephric glomerular visceral epithelial cell development
 RCV_000158	epithelial cells	GO_0072307	regulation of metanephric nephron tubule epithelial cell differentiation
 RCV_000158	epithelial cells	GO_0072182	regulation of nephron tubule epithelial cell differentiation
+RCV_000158	epithelial cells	GO_0090299	regulation of neural crest formation
 RCV_000158	epithelial cells	GO_1901329	regulation of odontoblast differentiation
 RCV_000158	epithelial cells	GO_2000226	regulation of pancreatic A cell differentiation
 RCV_000158	epithelial cells	GO_0030860	regulation of polarized epithelial cell differentiation
-RCV_000158	epithelial cells	GO_1902890	regulation of root hair elongation
 RCV_000158	epithelial cells	GO_0090165	regulation of secretion by asymmetric Golgi ribbon formation
 RCV_000158	epithelial cells	GO_0031285	regulation of sorocarp stalk cell differentiation
 RCV_000158	epithelial cells	GO_1902490	regulation of sperm capacitation
 RCV_000158	epithelial cells	GO_0045700	regulation of spermatid nuclear differentiation
 RCV_000158	epithelial cells	GO_0061105	regulation of stomach neuroendocrine cell differentiation
-RCV_000158	epithelial cells	GO_0010061	regulation of trichoblast fate specification
-RCV_000158	epithelial cells	GO_2000039	regulation of trichome morphogenesis
-RCV_000158	epithelial cells	GO_1900032	regulation of trichome patterning
 RCV_000158	epithelial cells	GO_2000674	regulation of type B pancreatic cell apoptotic process
 RCV_000158	epithelial cells	GO_2000074	regulation of type B pancreatic cell development
 RCV_000158	epithelial cells	GO_0061469	regulation of type B pancreatic cell proliferation
@@ -12270,8 +12284,13 @@ RCV_000177	glutamate metabolism	GO_0035227	regulation of glutamate-cysteine liga
 RCV_000177	glutamate metabolism	GO_2000312	regulation of kainate selective glutamate receptor activity
 RCV_000177	glutamate metabolism	GO_2001156	regulation of proline catabolic process to glutamate
 RCV_000177	glutamate metabolism	GO_0033526	tetrapyrrole biosynthetic process from glutamate
+RCV_000178	glutamatergic	GO_0061535	glutamate secretion, neurotransmission
+RCV_000178	glutamatergic	GO_1903295	negative regulation of glutamate secretion, neurotransmission
 RCV_000178	glutamatergic	GO_0051967	negative regulation of synaptic transmission, glutamatergic
+RCV_000178	glutamatergic	GO_0061646	positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization
+RCV_000178	glutamatergic	GO_1903296	positive regulation of glutamate secretion, neurotransmission
 RCV_000178	glutamatergic	GO_0051968	positive regulation of synaptic transmission, glutamatergic
+RCV_000178	glutamatergic	GO_1903294	regulation of glutamate secretion, neurotransmission
 RCV_000178	glutamatergic	GO_0051966	regulation of synaptic transmission, glutamatergic
 RCV_000178	glutamatergic	GO_0035249	synaptic transmission, glutamatergic
 RCV_000179	glutamine metabolism	GO_0018039	C-terminal peptidyl-glutamine amidation
@@ -12306,6 +12325,7 @@ RCV_000179	glutamine metabolism	GO_1901036	positive regulation of L-glutamine im
 RCV_000179	glutamine metabolism	GO_2000487	positive regulation of glutamine transport
 RCV_000179	glutamine metabolism	GO_1901034	regulation of L-glutamine import
 RCV_000179	glutamine metabolism	GO_2000485	regulation of glutamine transport
+RCV_000180	glycinergic	GO_0061537	glycine secretion, neurotransmission
 RCV_000180	glycinergic	GO_0060093	negative regulation of synaptic transmission, glycinergic
 RCV_000180	glycinergic	GO_0060094	positive regulation of synaptic transmission, glycinergic
 RCV_000180	glycinergic	GO_0060092	regulation of synaptic transmission, glycinergic
@@ -19709,6 +19729,8 @@ RCV_000252	nuclear events	GO_0031990	mRNA export from nucleus in response to hea
 RCV_000252	nuclear events	GO_0006609	mRNA-binding (hnRNP) protein import into nucleus
 RCV_000252	nuclear events	GO_0071427	mRNA-containing ribonucleoprotein complex export from nucleus
 RCV_000252	nuclear events	GO_0032124	macronucleus organization
+RCV_000252	nuclear events	GO_0051658	maintenance of nucleus location
+RCV_000252	nuclear events	GO_0042070	maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification
 RCV_000252	nuclear events	GO_0051457	maintenance of protein location in nucleus
 RCV_000252	nuclear events	GO_0007140	male meiosis
 RCV_000252	nuclear events	GO_0007141	male meiosis I
@@ -25556,6 +25578,7 @@ RCV_000275	peroxisome	GO_0010111	glyoxysome organization
 RCV_000275	peroxisome	GO_0005779	integral component of peroxisomal membrane
 RCV_000275	peroxisome	GO_0031231	intrinsic component of peroxisomal membrane
 RCV_000275	peroxisome	GO_0000425	macropexophagy
+RCV_000275	peroxisome	GO_0072664	maintenance of protein location in peroxisome
 RCV_000275	peroxisome	GO_0042580	mannosome
 RCV_000275	peroxisome	GO_0000426	micropexophagy
 RCV_000275	peroxisome	GO_0060152	microtubule-based peroxisome localization
@@ -29151,11 +29174,6 @@ RCV_000313	stem cell	GO_0010079	maintenance of vegetative meristem identity
 RCV_000313	stem cell	GO_0048133	male germ-line stem cell asymmetric division
 RCV_000313	stem cell	GO_0036098	male germ-line stem cell maintenance
 RCV_000313	stem cell	GO_0098730	male germline stem cell symmetric division
-RCV_000313	stem cell	GO_0097152	mesenchymal cell apoptotic process
-RCV_000313	stem cell	GO_1901146	mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
-RCV_000313	stem cell	GO_1901147	mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
-RCV_000313	stem cell	GO_1900200	mesenchymal cell apoptotic process involved in metanephros development
-RCV_000313	stem cell	GO_1901145	mesenchymal cell apoptotic process involved in nephron morphogenesis
 RCV_000313	stem cell	GO_0014031	mesenchymal cell development
 RCV_000313	stem cell	GO_0048762	mesenchymal cell differentiation
 RCV_000313	stem cell	GO_1901706	mesenchymal cell differentiation involved in bone development
@@ -29165,8 +29183,6 @@ RCV_000313	stem cell	GO_0060610	mesenchymal cell differentiation involved in mam
 RCV_000313	stem cell	GO_2001012	mesenchymal cell differentiation involved in renal system development
 RCV_000313	stem cell	GO_0060692	mesenchymal cell differentiation involved in salivary gland development
 RCV_000313	stem cell	GO_0014030	mesenchymal cell fate commitment
-RCV_000313	stem cell	GO_0090497	mesenchymal cell migration
-RCV_000313	stem cell	GO_0035322	mesenchymal cell migration involved in limb bud formation
 RCV_000313	stem cell	GO_0010463	mesenchymal cell proliferation
 RCV_000313	stem cell	GO_0060916	mesenchymal cell proliferation involved in lung development
 RCV_000313	stem cell	GO_0060781	mesenchymal cell proliferation involved in prostate gland development
@@ -29198,10 +29214,8 @@ RCV_000313	stem cell	GO_0003136	negative regulation of heart induction by canoni
 RCV_000313	stem cell	GO_1902037	negative regulation of hematopoietic stem cell differentiation
 RCV_000313	stem cell	GO_2000472	negative regulation of hematopoietic stem cell migration
 RCV_000313	stem cell	GO_1902034	negative regulation of hematopoietic stem cell proliferation
-RCV_000313	stem cell	GO_2001054	negative regulation of mesenchymal cell apoptotic process
 RCV_000313	stem cell	GO_0061296	negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
 RCV_000313	stem cell	GO_0072305	negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
-RCV_000313	stem cell	GO_1900212	negative regulation of mesenchymal cell apoptotic process involved in metanephros development
 RCV_000313	stem cell	GO_0072040	negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
 RCV_000313	stem cell	GO_0072201	negative regulation of mesenchymal cell proliferation
 RCV_000313	stem cell	GO_2000791	negative regulation of mesenchymal cell proliferation involved in lung development
@@ -29243,10 +29257,8 @@ RCV_000313	stem cell	GO_0010718	positive regulation of epithelial to mesenchymal
 RCV_000313	stem cell	GO_1902038	positive regulation of hematopoietic stem cell differentiation
 RCV_000313	stem cell	GO_2000473	positive regulation of hematopoietic stem cell migration
 RCV_000313	stem cell	GO_1902035	positive regulation of hematopoietic stem cell proliferation
-RCV_000313	stem cell	GO_2001055	positive regulation of mesenchymal cell apoptotic process
 RCV_000313	stem cell	GO_0061297	positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
 RCV_000313	stem cell	GO_0072306	positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
-RCV_000313	stem cell	GO_1900213	positive regulation of mesenchymal cell apoptotic process involved in metanephros development
 RCV_000313	stem cell	GO_0072041	positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
 RCV_000313	stem cell	GO_0002053	positive regulation of mesenchymal cell proliferation
 RCV_000313	stem cell	GO_2000792	positive regulation of mesenchymal cell proliferation involved in lung development
@@ -29271,10 +29283,8 @@ RCV_000313	stem cell	GO_0010717	regulation of epithelial to mesenchymal transiti
 RCV_000313	stem cell	GO_1902036	regulation of hematopoietic stem cell differentiation
 RCV_000313	stem cell	GO_2000471	regulation of hematopoietic stem cell migration
 RCV_000313	stem cell	GO_1902033	regulation of hematopoietic stem cell proliferation
-RCV_000313	stem cell	GO_2001053	regulation of mesenchymal cell apoptotic process
 RCV_000313	stem cell	GO_0061295	regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
 RCV_000313	stem cell	GO_0072304	regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
-RCV_000313	stem cell	GO_1900211	regulation of mesenchymal cell apoptotic process involved in metanephros development
 RCV_000313	stem cell	GO_0072039	regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
 RCV_000313	stem cell	GO_0010464	regulation of mesenchymal cell proliferation
 RCV_000313	stem cell	GO_2000790	regulation of mesenchymal cell proliferation involved in lung development
@@ -33441,6 +33451,7 @@ RCV_000343	vacuole	GO_0090120	lysosome to ER cholesterol transport
 RCV_000343	vacuole	GO_0000323	lytic vacuole
 RCV_000343	vacuole	GO_0080171	lytic vacuole organization
 RCV_000343	vacuole	GO_0000327	lytic vacuole within protein storage vacuole
+RCV_000343	vacuole	GO_0072667	maintenance of protein location in vacuole
 RCV_000343	vacuole	GO_0043303	mast cell degranulation
 RCV_000343	vacuole	GO_0042629	mast cell granule
 RCV_000343	vacuole	GO_0043246	megasome
@@ -33917,6 +33928,12 @@ RCV_000347	vescicle dynamics	GO_0052066	entry of symbiont into host cell by prom
 RCV_000347	vescicle dynamics	GO_0043308	eosinophil degranulation
 RCV_000347	vescicle dynamics	GO_0097209	epidermal lamellar body
 RCV_000347	vescicle dynamics	GO_0097234	epidermal lamellar body membrane
+RCV_000347	vescicle dynamics	GO_0032256	establishment of dense core granule localization
+RCV_000347	vescicle dynamics	GO_0032401	establishment of melanosome localization
+RCV_000347	vescicle dynamics	GO_0051905	establishment of pigment granule localization
+RCV_000347	vescicle dynamics	GO_0032254	establishment of secretory granule localization
+RCV_000347	vescicle dynamics	GO_0097480	establishment of synaptic vesicle localization
+RCV_000347	vescicle dynamics	GO_0051650	establishment of vesicle localization
 RCV_000347	vescicle dynamics	GO_0033117	esterosome
 RCV_000347	vescicle dynamics	GO_0034467	esterosome lumen
 RCV_000347	vescicle dynamics	GO_0033118	esterosome membrane
@@ -33971,6 +33988,10 @@ RCV_000347	vescicle dynamics	GO_0098538	lumenal side of transport vesicle membra
 RCV_000347	vescicle dynamics	GO_0090120	lysosome to ER cholesterol transport
 RCV_000347	vescicle dynamics	GO_0044351	macropinocytosis
 RCV_000347	vescicle dynamics	GO_0075510	macropinocytosis involved in viral entry into host cell
+RCV_000347	vescicle dynamics	GO_0032257	maintenance of dense core granule location
+RCV_000347	vescicle dynamics	GO_0051906	maintenance of pigment granule location
+RCV_000347	vescicle dynamics	GO_0032255	maintenance of secretory granule location
+RCV_000347	vescicle dynamics	GO_0051655	maintenance of vesicle location
 RCV_000347	vescicle dynamics	GO_0043303	mast cell degranulation
 RCV_000347	vescicle dynamics	GO_0033364	mast cell secretory granule organization
 RCV_000347	vescicle dynamics	GO_0042470	melanosome
@@ -34097,6 +34118,8 @@ RCV_000347	vescicle dynamics	GO_0090385	phagosome-lysosome fusion
 RCV_000347	vescicle dynamics	GO_0090389	phagosome-lysosome fusion involved in apoptotic cell clearance
 RCV_000347	vescicle dynamics	GO_1990257	piccolo-bassoon transport vesicle
 RCV_000347	vescicle dynamics	GO_0048770	pigment granule
+RCV_000347	vescicle dynamics	GO_0051877	pigment granule aggregation in cell center
+RCV_000347	vescicle dynamics	GO_0051876	pigment granule dispersal
 RCV_000347	vescicle dynamics	GO_0051875	pigment granule localization
 RCV_000347	vescicle dynamics	GO_0048753	pigment granule organization
 RCV_000347	vescicle dynamics	GO_0051904	pigment granule transport

@@ -71,6 +71,8 @@ fungal-type cell wall assembly	GO_0071940	0	1	0	0	0
 fungal-type cell wall	GO_0009277	0	1	0	0	0
 formin-nucleated actin cable	GO_0070648	0	1	0	0	0
 flocculation via cell wall protein-carbohydrate interaction	GO_0000501	0	1	0	0	0
+establishment of spindle pole body localization to nuclear envelope	GO_0071790	0	1	0	0	0
+establishment of spindle pole body localization	GO_0070632	0	1	0	0	0
 cytogamy	GO_0000755	0	1	0	0	0
 cleistothecium development	GO_0070791	0	1	0	0	0
 chlamydospore formation	GO_0001410	0	1	0	0	0
