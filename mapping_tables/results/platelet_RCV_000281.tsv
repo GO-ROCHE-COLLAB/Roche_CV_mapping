@@ -19,6 +19,13 @@ positive regulation of platelet aggregation in other organism	GO_0035894	0	1	0	0
 positive regulation of platelet aggregation	GO_1901731	0	1	0	0	0
 positive regulation of platelet activation	GO_0010572	0	1	0	0	0
 platelet maturation	GO_0036345	0	1	1	0	0
+platelet dense granule membrane	GO_0031088	0	1	0	0	0
+platelet dense granule lumen	GO_0031089	0	1	0	0	0
+platelet dense granule	GO_0042827	0	1	0	0	0
+platelet alpha granule membrane	GO_0031092	0	1	0	0	0
+platelet alpha granule lumen	GO_0031093	0	1	0	0	0
+platelet alpha granule	GO_0031091	0	1	0	0	0
+platelet SNARE complex	GO_0097654	0	1	0	0	0
 negative regulation of platelet aggregation in other organism	GO_0035893	0	1	0	0	0
 negative regulation of platelet aggregation	GO_0090331	0	1	0	0	0
 negative regulation of platelet activation	GO_0010544	0	1	0	0	0

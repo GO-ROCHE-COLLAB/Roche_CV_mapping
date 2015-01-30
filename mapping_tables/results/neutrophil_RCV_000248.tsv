@@ -45,6 +45,9 @@ negative regulation of neutrophil degranulation	GO_0043314	1	1	1	0	0
 negative regulation of neutrophil apoptotic process	GO_0033030	1	1	1	0	0
 negative regulation of neutrophil aggregation	GO_2000429	1	1	1	0	0
 neutrophil clearance	GO_0097350	1	0	1	0	0
+specific granule membrane	GO_0035579	0	1	0	0	0
+specific granule lumen	GO_0035580	0	1	0	0	0
+specific granule	GO_0042581	0	1	0	0	0
 regulation of neutrophil migration	GO_1902622	0	1	0	0	0
 regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	0	0	0
 regulation of neutrophil chemotaxis	GO_0090022	0	1	0	0	0
@@ -59,3 +62,6 @@ negative regulation of neutrophil migration	GO_1902623	0	1	0	0	0
 negative regulation of neutrophil mediated killing of symbiont cell	GO_0070955	0	1	0	0	0
 negative regulation of neutrophil chemotaxis	GO_0090024	0	1	0	0	0
 negative regulation of neutrophil activation	GO_1902564	0	1	0	0	0
+azurophil granule membrane	GO_0035577	0	1	0	0	0
+azurophil granule lumen	GO_0035578	0	1	0	0	0
+azurophil granule	GO_0042582	0	1	0	0	0

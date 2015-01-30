@@ -12,6 +12,9 @@ negative regulation of granulocyte colony-stimulating factor production	GO_00716
 granulocyte colony-stimulating factor signaling pathway	GO_0038158	1	0	1	0	0
 granulocyte colony-stimulating factor production	GO_0071611	1	0	1	0	0
 type I hypersensitivity mediated by basophils	GO_0002559	0	1	1	0	0
+specific granule membrane	GO_0035579	0	1	0	0	0
+specific granule lumen	GO_0035580	0	1	0	0	0
+specific granule	GO_0042581	0	1	0	0	0
 serotonin secretion by basophil	GO_0002556	0	1	1	0	0
 regulation of neutrophil migration	GO_1902622	0	1	0	0	0
 regulation of neutrophil mediated killing of symbiont cell	GO_0070949	0	1	0	0	0
@@ -118,3 +121,6 @@ basophil degranulation	GO_0002561	0	1	1	0	0
 basophil chemotaxis	GO_0002575	0	1	1	0	0
 basophil activation involved in immune response	GO_0002276	0	1	1	0	0
 basophil activation	GO_0045575	0	1	1	0	0
+azurophil granule membrane	GO_0035577	0	1	0	0	0
+azurophil granule lumen	GO_0035578	0	1	0	0	0
+azurophil granule	GO_0042582	0	1	0	0	0

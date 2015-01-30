@@ -77,14 +77,18 @@ epicardium-derived cardiac vascular smooth muscle cell fate commitment	GO_006098
 epicardium-derived cardiac vascular smooth muscle cell differentiation	GO_0060983	1	0	1	0	0
 epicardium-derived cardiac vascular smooth muscle cell development	GO_0060984	1	0	1	0	0
 enteric smooth muscle cell differentiation	GO_0035645	1	0	1	0	0
+venous system smooth muscle	UBERON_0004696	0	1	0	0	0
 vascular smooth muscle contraction	GO_0014829	0	1	1	0	0
 uterine smooth muscle relaxation	GO_0044558	0	1	1	0	0
 uterine smooth muscle contraction	GO_0070471	0	1	1	0	0
 ureteric peristalsis	GO_0072105	0	1	1	0	0
 ureter smooth muscle development	GO_0072191	0	1	1	0	0
 ureter smooth muscle contraction	GO_0014849	0	1	1	0	0
+stomach muscularis externa	UBERON_0008856	0	1	0	0	0
 stomach fundus smooth muscle contraction	GO_0014825	0	1	1	0	0
 stomach body smooth muscle contraction	GO_0014845	0	1	1	0	0
+sphincter pupillae	UBERON_0001607	0	1	0	0	0
+respiratory system venous smooth muscle	UBERON_0012418	0	1	0	0	0
 regulation of kidney smooth muscle cell differentiation	GO_2000356	0	1	1	0	0
 regulation of hindgut contraction	GO_0043134	0	1	1	0	0
 positive regulation of kidney smooth muscle cell differentiation	GO_2000358	0	1	1	0	0
@@ -92,8 +96,12 @@ positive regulation of hindgut contraction	GO_0060450	0	1	1	0	0
 peristalsis	GO_0030432	0	1	1	0	0
 negative regulation of kidney smooth muscle cell differentiation	GO_2000357	0	1	1	0	0
 negative regulation of hindgut contraction	GO_0060451	0	1	1	0	0
+muscle of iris	UBERON_0001606	0	1	0	0	0
 lung smooth muscle development	GO_0061145	0	1	1	0	0
 kidney smooth muscle tissue development	GO_0072194	0	1	1	0	0
+iris smooth muscle	UBERON_0004234	0	1	0	0	0
+intra-ocular muscle	UBERON_0011222	0	1	0	0	0
 hindgut contraction	GO_0043133	0	1	1	0	0
+dilatator pupillae	UBERON_0001608	0	1	0	0	0
 artery smooth muscle contraction	GO_0014824	0	1	1	0	0
 aorta smooth muscle tissue morphogenesis	GO_0060414	0	1	1	0	0

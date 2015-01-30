@@ -113,9 +113,13 @@ type B pancreatic cell apoptotic process	GO_0097050	0	1	1	0	0
 thyroid-stimulating hormone-secreting cell differentiation	GO_0060129	0	1	1	0	0
 thyroid-stimulating hormone-secreting cell development	GO_0060130	0	1	1	0	0
 stomach neuroendocrine cell differentiation	GO_0061102	0	1	1	0	0
+stereocilium membrane	GO_0060171	0	1	0	0	0
+stereocilium	GO_0032420	0	1	0	0	0
 squamous basal epithelial stem cell differentiation involved in prostate gland acinus development	GO_0060529	0	1	1	0	0
 sorocarp stalk cell differentiation	GO_0031149	0	1	1	0	0
 sebaceous gland cell differentiation	GO_0001949	0	1	1	0	0
+rhabdomere microvillus membrane	GO_0035997	0	1	0	0	0
+rhabdomere microvillus	GO_0035996	0	1	0	0	0
 respiratory basal cell differentiation	GO_1902691	0	1	1	0	0
 regulation of venous endothelial cell fate commitment	GO_2000787	0	1	0	0	0
 regulation of urothelial cell proliferation	GO_0050675	0	1	0	0	0
@@ -249,6 +253,7 @@ pancreatic A cell development	GO_0003322	0	1	1	0	0
 ovarian follicle cell migration	GO_0007297	0	1	1	0	0
 ovarian follicle cell development	GO_0030707	0	1	1	0	0
 odontoblast differentiation	GO_0071895	0	1	1	0	0
+neurosecretory vesicle	GO_1990008	0	1	0	0	0
 neuromast hair cell differentiation involved in neuromast regeneration	GO_0070658	0	1	1	0	0
 neuromast hair cell differentiation	GO_0048886	0	1	1	0	0
 neuroepithelial cell differentiation	GO_0060563	0	1	1	0	0
@@ -311,6 +316,9 @@ negative regulation of blood vessel endothelial cell migration	GO_0043537	0	1	0	
 negative regulation of auditory receptor cell fate specification	GO_0009999	0	1	0	0	0
 negative regulation of auditory receptor cell differentiation	GO_0045608	0	1	0	0	0
 multi-ciliated epithelial cell differentiation	GO_1903251	0	1	1	0	0
+microvillus membrane	GO_0031528	0	1	0	0	0
+microvillus	GO_0005902	0	1	0	0	0
+microvillar actin bundle	GO_0097516	0	1	0	0	0
 metanephric nephron tubule epithelial cell differentiation	GO_0072257	0	1	1	0	0
 metanephric glomerular visceral epithelial cell fate commitment	GO_0072250	0	1	1	0	0
 metanephric glomerular visceral epithelial cell differentiation	GO_0072248	0	1	1	0	0
@@ -393,6 +401,7 @@ hair cell differentiation	GO_0035315	0	1	1	0	0
 granulosa cell fate commitment	GO_0060015	0	1	1	0	0
 granulosa cell differentiation	GO_0060014	0	1	1	0	0
 granulosa cell development	GO_0060016	0	1	1	0	0
+goblet cell theca	GO_0098593	0	1	0	0	0
 glomerular visceral epithelial cell migration	GO_0090521	0	1	1	0	0
 glomerular visceral epithelial cell fate commitment	GO_0072149	0	1	1	0	0
 glomerular visceral epithelial cell differentiation	GO_0072112	0	1	1	0	0
@@ -458,6 +467,8 @@ epithelial cell differentiation involved in mammary gland alveolus development	G
 epithelial cell differentiation involved in kidney development	GO_0035850	0	1	1	0	0
 epithelial cell differentiation involved in embryonic placenta development	GO_0060671	0	1	1	0	0
 epithelial cell differentiation	GO_0030855	0	1	1	0	0
+epidermal lamellar body membrane	GO_0097234	0	1	0	0	0
+epidermal lamellar body	GO_0097209	0	1	0	0	0
 epidermal cell fate specification	GO_0009957	0	1	1	0	0
 epidermal cell division	GO_0010481	0	1	1	0	0
 epidermal cell differentiation	GO_0009913	0	1	1	0	0
@@ -499,6 +510,9 @@ corneal epithelial cell migration	GO_0061581	0	1	1	0	0
 colon epithelial cell migration	GO_0061580	0	1	1	0	0
 colon epithelial cell chemotaxis	GO_0061583	0	1	1	0	0
 clearance of cells from fusion plate by epithelial to mesenchymal transition	GO_0060886	0	1	0	0	0
+chromaffin granule membrane	GO_0042584	0	1	0	0	0
+chromaffin granule lumen	GO_0034466	0	1	0	0	0
+chromaffin granule	GO_0042583	0	1	0	0	0
 cholangiocyte apoptotic process	GO_1902488	0	1	1	0	0
 centripetally migrating follicle cell migration	GO_0060269	0	1	1	0	0
 cell migration involved in sprouting angiogenesis	GO_0002042	0	1	1	0	0
@@ -508,6 +522,8 @@ carotid body glomus cell differentiation	GO_0061103	0	1	1	0	0
 cardiac epithelial to mesenchymal transition	GO_0060317	0	1	0	0	0
 cardiac endothelial cell differentiation	GO_0003348	0	1	1	0	0
 cardiac blood vessel endothelial cell differentiation	GO_0060946	0	1	1	0	0
+brush border membrane	GO_0031526	0	1	0	0	0
+brush border	GO_0005903	0	1	0	0	0
 border follicle cell migration	GO_0007298	0	1	1	0	0
 border follicle cell delamination	GO_0030709	0	1	1	0	0
 blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO_0002043	0	1	1	0	0
@@ -529,6 +545,8 @@ arterial endothelial cell fate commitment	GO_0060844	0	1	1	0	0
 arterial endothelial cell differentiation	GO_0060842	0	1	1	0	0
 anterior lateral line neuromast hair cell differentiation	GO_0048903	0	1	1	0	0
 ameloblast differentiation	GO_0036305	0	1	1	0	0
+alveolar lamellar body membrane	GO_0097233	0	1	0	0	0
+alveolar lamellar body	GO_0097208	0	1	0	0	0
 adrenal chromaffin cell differentiation	GO_0061104	0	1	1	0	0
 acinar cell of sebaceous gland differentiation	GO_1903680	0	1	1	0	0
 acinar cell differentiation involved in salivary gland development	GO_0060704	0	1	1	0	0
@@ -540,6 +558,7 @@ Sertoli cell fate commitment	GO_0060010	0	1	1	0	0
 Sertoli cell differentiation	GO_0060008	0	1	1	0	0
 Sertoli cell development	GO_0060009	0	1	1	0	0
 Sertoli cell apoptotic process	GO_1902484	0	1	1	0	0
+Schwann cell microvillus	GO_0097454	0	1	0	0	0
 Malpighian tubule stellate cell differentiation	GO_0061330	0	1	1	0	0
 Malpighian tubule principal cell differentiation	GO_0061329	0	1	1	0	0
 Clara cell differentiation	GO_0060486	0	1	1	0	0

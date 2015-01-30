@@ -10,7 +10,106 @@ positive regulation of vasoactive intestinal polypeptide receptor activity in ot
 modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044517	1	0	1	0	0
 envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044520	1	0	1	0	0
 envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism	GO_0044519	1	0	1	0	0
+wall of small intestine	UBERON_0001168	0	1	0	0	0
+wall of large intestine	UBERON_0001169	0	1	0	0	0
+wall of intestine	UBERON_0001262	0	1	0	0	0
+transverse colon	UBERON_0001157	0	1	0	0	0
 tolerance induction in Peyer's patch	GO_0002389	0	1	1	1	1
+submucosa of transverse colon	UBERON_0004930	0	1	0	0	0
+submucosa of small intestine	UBERON_0001205	0	1	0	0	0
+submucosa of sigmoid colon	UBERON_0004932	0	1	0	0	0
+submucosa of rectum	UBERON_0003330	0	1	0	0	0
+submucosa of large intestine	UBERON_0001208	0	1	0	0	0
+submucosa of duodenum	UBERON_0003332	0	1	0	0	0
+submucosa of descending colon	UBERON_0004931	0	1	0	0	0
+submucosa of colon	UBERON_0003331	0	1	0	0	0
+submucosa of cecum	UBERON_0004927	0	1	0	0	0
+submucosa of ascending colon	UBERON_0004929	0	1	0	0	0
+submucosa of anal canal	UBERON_0003329	0	1	0	0	0
+sphincter of hepatopancreatic ampulla	UBERON_0004915	0	1	0	0	0
+small intestine smooth muscle	UBERON_0004239	0	1	0	0	0
+small intestine Peyer's patch	UBERON_0003454	0	1	0	0	0
+small intestine	UBERON_0002108	0	1	0	0	0
+sigmoid colon	UBERON_0001159	0	1	0	0	0
+serosa of small intestine	UBERON_0001206	0	1	0	0	0
+serosa of rectum	UBERON_0003334	0	1	0	0	0
+serosa of large intestine	UBERON_0001209	0	1	0	0	0
+serosa of intestine	UBERON_0001243	0	1	0	0	0
+serosa of duodenum	UBERON_0003336	0	1	0	0	0
+serosa of colon	UBERON_0003335	0	1	0	0	0
+segment of colon	UBERON_0000168	0	1	0	0	0
 regulation of intestinal cholesterol absorption	GO_0030300	0	1	0	0	0
+rectum smooth muscle tissue	UBERON_0018112	0	1	0	0	0
+rectum	UBERON_0001052	0	1	0	0	0
+rectal lumen	UBERON_0009670	0	1	0	0	0
+peyer's patch follicle	UBERON_0010386	0	1	0	0	0
+pectinate line	UBERON_0006574	0	1	0	0	0
+muscle layer of small intestine	UBERON_0011201	0	1	0	0	0
+muscle layer of rectum	UBERON_0018111	0	1	0	0	0
+muscle layer of large intestine	UBERON_0011198	0	1	0	0	0
+muscle layer of intestine	UBERON_0012367	0	1	0	0	0
+muscle layer of duodenum	UBERON_0012488	0	1	0	0	0
+muscle layer of colon	UBERON_0012489	0	1	0	0	0
+muscle layer of anal canal	UBERON_0012490	0	1	0	0	0
+mucosa of transverse colon	UBERON_0004991	0	1	0	0	0
+mucosa of small intestine	UBERON_0001204	0	1	0	0	0
+mucosa of sigmoid colon	UBERON_0004993	0	1	0	0	0
+mucosa of rectum	UBERON_0003346	0	1	0	0	0
+mucosa of large intestine	UBERON_0001207	0	1	0	0	0
+mucosa of descending colon	UBERON_0004992	0	1	0	0	0
+mucosa of ascending colon	UBERON_0004990	0	1	0	0	0
+mucosa of anal canal	UBERON_0003342	0	1	0	0	0
+midgut duodenum mesentery	UBERON_0005712	0	1	0	0	0
+mesentery of small intestine	UBERON_0001170	0	1	0	0	0
+mesentery of rectum	UBERON_0003395	0	1	0	0	0
+mesentery of duodenum	UBERON_0003397	0	1	0	0	0
+mesentery of colon	UBERON_0003396	0	1	0	0	0
+lumen of duodenum	UBERON_0016512	0	1	0	0	0
+lumen of colon	UBERON_0007159	0	1	0	0	0
+lumen of anal canal	UBERON_0007158	0	1	0	0	0
+large intestine smooth muscle	UBERON_0004220	0	1	0	0	0
+large intestine Peyer's patch	UBERON_0003453	0	1	0	0	0
+large intestine	UBERON_0000059	0	1	0	0	0
+lamina propria of small intestine	UBERON_0001238	0	1	0	0	0
+lamina propria of mucosa of colon	UBERON_0007177	0	1	0	0	0
+lamina propria of large intestine	UBERON_0011189	0	1	0	0	0
+intestine smooth muscle	UBERON_0004221	0	1	0	0	0
+intestinal villus of duodenum	UBERON_0008342	0	1	0	0	0
+intestinal villus	UBERON_0001213	0	1	0	0	0
+intestinal submucosa	UBERON_0009566	0	1	0	0	0
+intestinal mucosa	UBERON_0001242	0	1	0	0	0
+intestinal gland	UBERON_0000333	0	1	0	0	0
+intestinal epithelium	UBERON_0001277	0	1	0	0	0
 intestinal D-glucose absorption	GO_0001951	0	1	1	0	0
 immune response in Peyer's patch	GO_0002388	0	1	1	1	1
+ileocecal junction	UBERON_0001073	0	1	0	0	0
+hepatopancreatic ampulla	UBERON_0004913	0	1	0	0	0
+gland of anal canal	UBERON_0004760	0	1	0	0	0
+foregut duodenum mesentery	UBERON_0005711	0	1	0	0	0
+epithelium of small intestine	UBERON_0001902	0	1	0	0	0
+epithelium of rectum	UBERON_0003354	0	1	0	0	0
+epithelium of large intestine	UBERON_0001278	0	1	0	0	0
+epithelium of intestinal villus	UBERON_0013636	0	1	0	0	0
+duodenum lamina propria	UBERON_0015834	0	1	0	0	0
+duodenum	UBERON_0002114	0	1	0	0	0
+duodenal papilla	UBERON_0004914	0	1	0	0	0
+duodenal mucosa	UBERON_0000320	0	1	0	0	0
+duodenal gland	UBERON_0001212	0	1	0	0	0
+duodenal epithelium	UBERON_0008346	0	1	0	0	0
+descending colon	UBERON_0001158	0	1	0	0	0
+colonic mucosa	UBERON_0000317	0	1	0	0	0
+colonic epithelium	UBERON_0000397	0	1	0	0	0
+colon endothelium	UBERON_0013695	0	1	0	0	0
+colon	UBERON_0001155	0	1	0	0	0
+cecum mucosa	UBERON_0000314	0	1	0	0	0
+cecal tonsil	UBERON_0013478	0	1	0	0	0
+caecum mesentery	UBERON_0005677	0	1	0	0	0
+caecum epithelium	UBERON_0005636	0	1	0	0	0
+caecum dorsal mesentery	UBERON_0005686	0	1	0	0	0
+caecum	UBERON_0001153	0	1	0	0	0
+ascending colon	UBERON_0001156	0	1	0	0	0
+anal canal epithelium	UBERON_0015716	0	1	0	0	0
+anal canal	UBERON_0000159	0	1	0	0	0
+Peyer's patch germinal center	UBERON_0004697	0	1	0	0	0
+Peyer's patch epithelium	UBERON_0004693	0	1	0	0	0
+Peyer's patch	UBERON_0001211	0	1	0	0	0

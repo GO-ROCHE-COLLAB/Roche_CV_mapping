@@ -2,20 +2,40 @@ name	ID	manual	auto	checked	blacklisted	is_obsolete
 adult salivary gland morphogenesis	GO_0007437	1	1	1	0	0
 superior salivary nucleus development	GO_0021753	1	0	1	1	0
 adult salivary gland boundary specification	GO_0007434	1	0	1	0	0
+ventral pancreatic bud	UBERON_0003924	0	1	0	0	0
+vasculature of liver	UBERON_0006877	0	1	0	0	0
 uterine gland development	GO_1903709	0	1	1	0	0
 trachea gland development	GO_0061153	0	1	1	0	0
+thyroid gland medulla	UBERON_0004827	0	1	0	0	0
 thyroid gland development	GO_0030878	0	1	1	0	0
+thymus trabecula	UBERON_0004791	0	1	0	0	0
+thymus subcapsular epithelium	UBERON_0006936	0	1	0	0	0
+thymus primordium endoderm	UBERON_0008817	0	1	0	0	0
+thymus primordium	UBERON_0005562	0	1	0	0	0
+thymus lymphoid tissue	UBERON_0003483	0	1	0	0	0
+thymus epithelium	UBERON_0003846	0	1	0	0	0
 thymus development	GO_0048538	0	1	1	0	0
+thymus corticomedullary boundary	UBERON_0003988	0	1	0	0	0
 tarsal gland development	GO_1903699	0	1	1	0	0
+tarsal gland acinus	UBERON_0004000	0	1	0	0	0
 sweat gland development	GO_0060792	0	1	1	0	0
 submandibular salivary gland formation	GO_0060661	0	1	1	0	0
+submandibular duct	UBERON_0002334	0	1	0	0	0
+stroma of thyroid gland	UBERON_0010233	0	1	0	0	0
+striated muscle tissue of prostate	UBERON_0004520	0	1	0	0	0
+seminal vesicle epithelium	UBERON_0004805	0	1	0	0	0
 seminal vesicle development	GO_0061107	0	1	1	0	0
 sebaceous gland development	GO_0048733	0	1	1	0	0
 salivary gland morphogenesis	GO_0007435	0	1	1	0	0
 salivary gland histolysis	GO_0035070	0	1	1	0	0
+salivary gland epithelium	UBERON_0004809	0	1	0	0	0
 salivary gland development	GO_0007431	0	1	1	0	0
 salivary gland cell autophagic cell death	GO_0035071	0	1	1	0	0
 ring gland development	GO_0035271	0	1	1	0	0
+right lobe of thyroid gland	UBERON_0001119	0	1	0	0	0
+right lobe of liver	UBERON_0001114	0	1	0	0	0
+right hepatic vein	UBERON_0011956	0	1	0	0	0
+right hepatic artery	UBERON_0015482	0	1	0	0	0
 regulation of salivary gland boundary specification	GO_0045704	0	1	1	0	0
 regulation of prostatic bud formation	GO_0060685	0	1	1	0	0
 regulation of mesenchymal cell proliferation involved in prostate gland development	GO_0060782	0	1	1	0	0
@@ -39,11 +59,18 @@ regulation of branching involved in mammary gland duct morphogenesis	GO_0060762	
 regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling	GO_0060656	0	1	1	0	0
 regulation of adult salivary gland boundary specification	GO_0045707	0	1	1	0	0
 prostate induction	GO_0060514	0	1	1	0	0
+prostate glandular acinus	UBERON_0004179	0	1	0	0	0
+prostate gland stroma	UBERON_0004184	0	1	0	0	0
+prostate gland smooth muscle	UBERON_0004243	0	1	0	0	0
 prostate gland morphogenetic growth	GO_0060737	0	1	1	0	0
 prostate gland morphogenesis	GO_0060512	0	1	1	0	0
+prostate gland lateral lobe	UBERON_0013637	0	1	0	0	0
 prostate gland growth	GO_0060736	0	1	1	0	0
 prostate gland development	GO_0030850	0	1	1	0	0
+prostate epithelium	UBERON_0000428	0	1	0	0	0
 prostate epithelial cord elongation	GO_0060523	0	1	1	0	0
+prostate epithelial cord	UBERON_0009843	0	1	0	0	0
+prostate duct	UBERON_0002485	0	1	0	0	0
 primary prostatic bud elongation	GO_0060516	0	1	1	0	0
 positive regulation of salivary gland formation by mesenchymal-epithelial signaling	GO_0060639	0	1	1	0	0
 positive regulation of salivary gland boundary specification	GO_0045706	0	1	1	0	0
@@ -62,10 +89,14 @@ positive regulation of apoptotic process involved in mammary gland involution	GO
 positive regulation of adult salivary gland boundary specification	GO_0045711	0	1	1	0	0
 pituitary gland development	GO_0021983	0	1	1	0	0
 pineal gland development	GO_0021982	0	1	1	0	0
+parenchyma of thyroid gland	UBERON_0001747	0	1	0	0	0
+parenchyma of parathyroid gland	UBERON_0001749	0	1	0	0	0
 parathyroid gland development	GO_0060017	0	1	1	0	0
+parathyroid epithelium	UBERON_0011197	0	1	0	0	0
 neurohypophysis morphogenesis	GO_0048848	0	1	1	0	0
 neurohypophysis formation	GO_0048849	0	1	1	0	0
 neurohypophysis development	GO_0021985	0	1	1	0	0
+neurohypophysis	UBERON_0002198	0	1	0	0	0
 negative regulation of salivary gland boundary specification	GO_0045705	0	1	1	0	0
 negative regulation of prostatic bud formation	GO_0060686	0	1	1	0	0
 negative regulation of mammary stem cell proliferation	GO_2000102	0	1	1	0	0
@@ -79,22 +110,84 @@ negative regulation of hepatocyte proliferation	GO_2000346	0	1	1	0	0
 negative regulation of hepatocyte differentiation	GO_0070367	0	1	1	0	0
 negative regulation of epithelial cell proliferation involved in prostate gland development	GO_0060770	0	1	1	0	0
 negative regulation of adult salivary gland boundary specification	GO_0045709	0	1	1	0	0
+muscular coat of seminal vesicle	UBERON_0004665	0	1	0	0	0
+muscle tissue of prostate	UBERON_0008715	0	1	0	0	0
+mucous acinus	UBERON_0014717	0	1	0	0	0
+mucosa of seminal vesicle	UBERON_0004984	0	1	0	0	0
+mesenchyme of submandibular gland	UBERON_0003418	0	1	0	0	0
+mesenchyme of mammary gland	UBERON_0003326	0	1	0	0	0
+medulla of thymus	UBERON_0002124	0	1	0	0	0
 mammary gland specification	GO_0060594	0	1	1	0	0
+mammary gland smooth muscle	UBERON_0004235	0	1	0	0	0
 mammary gland morphogenesis	GO_0060443	0	1	1	0	0
 mammary gland formation	GO_0060592	0	1	1	0	0
+mammary gland fat	UBERON_0004180	0	1	0	0	0
 mammary gland development	GO_0030879	0	1	1	0	0
+mammary gland cord	UBERON_0004182	0	1	0	0	0
+mammary gland connective tissue	UBERON_0003584	0	1	0	0	0
+mammary gland alveolus	UBERON_0003214	0	1	0	0	0
+mammary fat pad	UBERON_0012282	0	1	0	0	0
+mammary duct terminal end bud	UBERON_0005313	0	1	0	0	0
+mammary duct	UBERON_0001765	0	1	0	0	0
+male mammary gland duct	UBERON_0022360	0	1	0	0	0
 lymph gland development	GO_0048542	0	1	1	0	0
+lobule of thymus	UBERON_0002125	0	1	0	0	0
+lobule of mammary gland	UBERON_0001912	0	1	0	0	0
+lobe of thyroid gland	UBERON_0001118	0	1	0	0	0
+lobe of prostate	UBERON_0001328	0	1	0	0	0
+lobe of liver	UBERON_0001113	0	1	0	0	0
+liver trabecula	UBERON_0010183	0	1	0	0	0
+liver stroma	UBERON_0016478	0	1	0	0	0
+liver right lobe parenchyma	UBERON_0005221	0	1	0	0	0
 liver regeneration	GO_0097421	0	1	1	0	0
+liver parenchyma	UBERON_0001280	0	1	0	0	0
 liver morphogenesis	GO_0072576	0	1	1	0	0
+liver left lobe parenchyma	UBERON_0005222	0	1	0	0	0
 liver development	GO_0001889	0	1	1	0	0
+liver blood vessel	UBERON_0015796	0	1	0	0	0
+ligament of liver	UBERON_0013139	0	1	0	0	0
+left lobe of thyroid gland	UBERON_0001120	0	1	0	0	0
+left lobe of liver	UBERON_0001115	0	1	0	0	0
+left hepatic vein	UBERON_0011955	0	1	0	0	0
+left hepatic artery	UBERON_0015481	0	1	0	0	0
 larval salivary gland morphogenesis	GO_0007436	0	1	1	0	0
+lacrimal gland epithelium	UBERON_0004817	0	1	0	0	0
 lacrimal gland development	GO_0032808	0	1	1	0	0
+intrahepatic bile duct epithelium	UBERON_0004823	0	1	0	0	0
+intrahepatic bile duct	UBERON_0003704	0	1	0	0	0
+infundibular recess of 3rd ventricle	UBERON_0006250	0	1	0	0	0
 hypophysis morphogenesis	GO_0048850	0	1	1	0	0
 hypophysis formation	GO_0048851	0	1	1	0	0
+hepatic vein	UBERON_0001143	0	1	0	0	0
 hepatic immune response	GO_0002384	0	1	1	0	0
 hatching gland development	GO_0048785	0	1	1	0	0
 gland morphogenesis	GO_0022612	0	1	1	0	0
 gland development	GO_0048732	0	1	1	0	0
+falciform ligament	UBERON_0001247	0	1	0	0	0
+falciform fat	UBERON_0015142	0	1	0	0	0
+epithelium of submandibular gland	UBERON_0003359	0	1	0	0	0
+epithelium of mammary gland	UBERON_0003244	0	1	0	0	0
+epithelium of duct of salivary gland	UBERON_0015766	0	1	0	0	0
+duct of seminal vesicle	UBERON_0005903	0	1	0	0	0
+duct of sebaceous gland	UBERON_0011845	0	1	0	0	0
+duct of salivary gland	UBERON_0001837	0	1	0	0	0
+dorsal pancreatic bud	UBERON_0003923	0	1	0	0	0
+cortex of thymus	UBERON_0002123	0	1	0	0	0
+connective tissue of prostate	UBERON_0015130	0	1	0	0	0
 cement gland development	GO_0071570	0	1	1	0	0
+capsule of thyroid gland	UBERON_0001746	0	1	0	0	0
+capsule of parathyroid gland	UBERON_0001748	0	1	0	0	0
+adventitia of seminal vesicle	UBERON_0006648	0	1	0	0	0
+adrenal tissue	UBERON_0018303	0	1	0	0	0
+adrenal medulla	UBERON_0001236	0	1	0	0	0
 adrenal gland development	GO_0030325	0	1	1	0	0
+adrenal cortex	UBERON_0001235	0	1	0	0	0
+adenohypophysis	UBERON_0002196	0	1	0	0	0
+acinus of sebaceous gland	UBERON_0011846	0	1	0	0	0
+acinus of salivary gland	UBERON_0011850	0	1	0	0	0
+acinus of lactiferous gland	UBERON_0011856	0	1	0	0	0
+acinus of lacrimal gland	UBERON_0011857	0	1	0	0	0
+acinus of exocrine gland	UBERON_0011858	0	1	0	0	0
+Harderian gland epithelium	UBERON_0004694	0	1	0	0	0
+Harderian gland duct	UBERON_0015151	0	1	0	0	0
 Harderian gland development	GO_0070384	0	1	1	0	0

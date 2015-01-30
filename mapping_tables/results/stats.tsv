@@ -2,6 +2,7 @@ RCV_ID	RCV_name	Auto sufficient	Manual only	Auto only	Manual blacklist	Auto blac
 RCV_000047	acetylcholine	0	9	16	0	0
 RCV_000048	adenine metabolism	0	2	0	0	0
 RCV_000051	adipose differentiation	1	0	12	0	0
+RCV_000050	adipose	0	6	6	0	0
 RCV_000052	adrenal	1	0	0	0	0
 RCV_000053	adrenergic	1	0	16	0	0
 RCV_000055	aging	1	0	51	0	0
@@ -12,11 +13,14 @@ RCV_000059	amyloid metabolism	1	0	1	0	0
 RCV_000061	angiogenesis	0	1	20	0	0
 RCV_000062	angiotensin-mediated signaling pathway	0	4	5	0	0
 RCV_000065	aorta development	0	4	11	0	0
+RCV_000066	apoptosis	0	27	321	0	0
 RCV_000070	arginine metabolism	0	3	4	0	0
 RCV_000071	artery	0	1	16	1	0
 RCV_000072	asparagine metabolism	0	1	4	2	0
 RCV_000073	aspartate metabolism	0	5	6	0	0
+RCV_000074	astrocyte	1	0	19	0	0
 RCV_000077	auxin	0	3	36	0	0
+RCV_000078	axon	0	29	47	4	0
 RCV_000001	B cells	0	17	77	0	0
 RCV_000080	base pairing	1	0	78	0	0
 RCV_000081	basophil	1	0	5	0	0
@@ -50,6 +54,7 @@ RCV_000108	cell cycle G2 M	1	0	11	0	0
 RCV_000102	cell cycle	0	8	792	0	0
 RCV_000114	cell death	1	0	449	0	0
 RCV_000115	cell differentiation	0	10	477	0	0
+RCV_000116	cell division	0	219	245	0	0
 RCV_000117	cell growth	0	8	101	0	0
 RCV_000118	cell matrix	0	24	114	0	0
 RCV_000120	cell migration	1	0	440	0	0
@@ -58,14 +63,19 @@ RCV_000122	cell motility	0	10	485	0	0
 RCV_000123	cell proliferation	0	1	400	0	0
 RCV_000124	cell shape	1	0	12	0	0
 RCV_000126	cell wall	0	86	61	0	0
+RCV_000131	central nervous system	0	1	516	0	0
 RCV_000132	cerebellar stellate cell	1	0	0	0	0
 RCV_000133	cerebellum	0	11	10	0	0
 RCV_000135	cholesterol metabolism	0	39	1	0	0
 RCV_000136	cholinergic	1	0	8	0	0
 RCV_000137	circadian	0	1	10	0	0
+RCV_000138	circulatory system	0	1	39	0	0
 RCV_000004	CTGF	0	1	3	0	0
+RCV_000139	cytoskeleton	0	73	522	0	0
 RCV_000140	defense response	1	0	678	0	0
-RCV_000141	dendritic cell	0	4	9	2	0
+RCV_000141	dendritic cell	0	4	10	2	0
+RCV_000142	detoxification	1	0	10	0	0
+RCV_000143	digestive tract development	1	0	53	0	0
 RCV_000144	digestive tract function	1	0	53	0	0
 RCV_000005	DNA binding process	0	1	105	0	0
 RCV_000006	DNA damage	0	7	156	0	3
@@ -76,14 +86,17 @@ RCV_000012	DNA silencing	1	0	29	27	0
 RCV_000013	DNA synthesis	0	3	30	0	0
 RCV_000145	dopamine	0	9	15	0	0
 RCV_000014	EGFR pathway	1	0	15	0	0
+RCV_000147	embryonic development	0	208	478	0	0
 RCV_000149	endocrine	0	1	133	0	1
 RCV_000150	endoderm development	0	3	15	0	0
+RCV_000151	endothelial	0	39	21	0	0
 RCV_000152	energy metabolism	0	13	9	0	0
 RCV_000154	eosinophil	1	0	8	0	0
+RCV_000155	epithelial cell differentiation	0	30	86	0	0
 RCV_000156	epithelial cell migration	1	0	42	0	0
 RCV_000157	epithelial cell proliferation	1	0	25	0	0
-RCV_000158	epithelial cells	0	81	445	0	0
-RCV_000159	epithelial to mesenchymal transition	1	0	17	0	0
+RCV_000158	epithelial cells	0	81	464	0	0
+RCV_000159	epithelial to mesenchymal transition	0	6	89	0	0
 RCV_000015	ERBB signaling pathway	1	0	34	0	0
 RCV_000160	erythrocyte	1	0	23	1	0
 RCV_000163	fat metabolism	0	22	633	0	0
@@ -92,6 +105,10 @@ RCV_000165	fertilization	0	3	34	0	0
 RCV_000016	FGF pathway	0	2	12	0	0
 RCV_000166	fibroblast	0	13	21	0	0
 RCV_000167	forebrain development	0	2	191	0	0
+RCV_000168	fungus	0	7	80	0	0
+RCV_000018	GABAergic	1	0	7	1	0
+RCV_000169	glands	0	1	189	1	0
+RCV_000170	glial	0	27	79	0	0
 RCV_000172	glucagon	0	4	1	0	0
 RCV_000173	glucocorticoid	0	4	38	0	0
 RCV_000175	glucose homeostasis	0	29	6	0	0
@@ -100,7 +117,9 @@ RCV_000177	glutamate metabolism	0	30	7	0	0
 RCV_000178	glutamatergic	1	0	6	0	0
 RCV_000179	glutamine metabolism	0	21	4	0	0
 RCV_000180	glycinergic	1	0	3	0	0
-RCV_000183	granulocyte	0	5	107	0	0
+RCV_000181	golgi dynamics	0	31	58	0	0
+RCV_000019	GPCR signaling	0	1	75	0	0
+RCV_000183	granulocyte	0	5	113	0	0
 RCV_000020	GTPase activity	1	0	48	0	0
 RCV_000184	heart development	0	19	247	0	0
 RCV_000185	heart function	0	39	53	0	0
@@ -110,6 +129,7 @@ RCV_000188	hepatic stellate cell	1	0	1	0	0
 RCV_000189	hepatocyte	0	3	5	0	0
 RCV_000190	hindbrain development	0	1	162	0	0
 RCV_000191	histone dynamics	0	14	115	0	0
+RCV_000192	hormone metabolism	0	109	122	0	0
 RCV_000194	hypoxia	0	3	13	0	0
 RCV_000195	immune response	0	245	538	9	0
 RCV_000198	inflammation	0	223	117	0	0
@@ -119,18 +139,19 @@ RCV_000202	insulin metabolism	0	8	0	0	0
 RCV_000201	insulin	0	3	16	0	0
 RCV_000204	interaction with host	1	0	602	0	0
 RCV_000205	interaction with symbiont	0	4	156	0	0
-RCV_000208	intestine	0	4	4	0	2
+RCV_000208	intestine	0	4	103	0	2
 RCV_000209	ion binding	1	0	28	0	0
 RCV_000210	ion metabolism	0	11	81	0	0
 RCV_000211	ion transport	1	0	442	0	0
 RCV_000212	iron metabolism	0	30	48	0	0
-RCV_000213	keratinocyte	1	0	11	0	0
+RCV_000213	keratinocyte	1	0	13	0	0
 RCV_000214	kidney development	0	9	283	0	0
 RCV_000215	kidney function	0	3	30	0	0
 RCV_000216	killer activity	1	0	24	0	0
 RCV_000217	kinase activity	0	4	189	0	0
 RCV_000218	lactate metabolism	0	3	13	0	0
 RCV_000219	leptin-mediated signaling pathway	1	0	2	0	0
+RCV_000220	leukocyte activation	1	0	1033	0	0
 RCV_000221	lipoprotein metabolism	0	68	1	0	0
 RCV_000223	liver development	1	0	13	0	0
 RCV_000222	liver	0	6	0	0	0
@@ -146,24 +167,29 @@ RCV_000231	meiosis	1	0	210	0	0
 RCV_000232	mesangial cell	1	0	11	0	0
 RCV_000234	mesenchymal-epithelial cell signaling	1	0	8	0	0
 RCV_000235	midbrain development	0	7	5	0	0
+RCV_000236	mitochondrial	0	18	85	0	0
 RCV_000238	monocyte	0	4	5	0	0
 RCV_000228	mRNA dynamics	0	39	116	0	0
+RCV_000239	muscle	0	3	253	0	50
 RCV_000240	myoblast	0	1	4	0	0
 RCV_000241	nerve function	0	1	1	0	0
+RCV_000243	nervous development	0	4	1042	0	0
 RCV_000244	neuron development	0	22	245	0	0
 RCV_000245	neuron differentiation	0	1	66	0	0
 RCV_000246	neurotransmitter	0	27	129	0	0
-RCV_000248	neutrophil	0	1	14	0	0
+RCV_000248	neutrophil	0	1	20	0	0
 RCV_000024	NF-kappaB pathway	0	1	4	0	0
 RCV_000249	nitric oxide metabolism	0	2	11	0	0
 RCV_000026	NK cells	0	20	16	0	0
+RCV_000251	noradrenergic	1	0	0	0	0
 RCV_000027	Notch signaling pathway	0	2	11	0	0
 RCV_000252	nuclear events	0	17	210	0	0
 RCV_000253	nucleotide binding process	0	8	55	0	0
-RCV_000256	oocyte	1	0	32	0	0
+RCV_000256	oocyte	1	0	33	0	0
 RCV_000257	oogenesis	0	1	117	0	0
 RCV_000258	optic nerve development	1	0	4	0	0
 RCV_000259	organ development	0	1	3258	0	0
+RCV_000261	ovary	0	27	107	0	0
 RCV_000263	oxidative stress	0	2	102	0	0
 RCV_000264	oxidoreductase activity	0	2	1921	0	0
 RCV_000265	pancreas B cells	0	1	13	0	0
@@ -175,10 +201,13 @@ RCV_000271	pancreatic E cell	0	1	0	0	0
 RCV_000272	pancreatic PP cell	1	0	0	0	0
 RCV_000273	pancreatic stellate cell	1	0	0	0	0
 RCV_000028	PDGF pathway	0	1	10	0	0
+RCV_000274	peptide metabolism	0	319	81	0	0
 RCV_000275	peroxisome	0	8	25	0	0
 RCV_000276	phosphatase activity 	0	1	163	0	0
+RCV_000277	photoreceptor	0	5	64	0	0
+RCV_000278	plant	1	0	238	0	0
 RCV_000280	plasma membrane dynamics	0	2	102	0	0
-RCV_000281	platelet	0	8	13	0	0
+RCV_000281	platelet	0	8	20	0	0
 RCV_000029	PNS development	1	0	22	0	0
 RCV_000030	PPAR pathway	1	0	0	0	0
 RCV_000283	protein degradation	1	0	139	0	0
@@ -187,15 +216,22 @@ RCV_000285	protein localization	1	0	476	0	0
 RCV_000287	protein modification	1	0	854	0	0
 RCV_000288	protein secretion	0	1	160	0	0
 RCV_000289	protein splicing	1	0	2	0	0
+RCV_000290	protein transport	1	0	399	0	0
 RCV_000291	purine metabolism	0	56	181	0	0
 RCV_000292	pyrimidine metabolism	0	41	109	0	0
+RCV_000293	reproduction	0	17	26	0	0
 RCV_000294	respiration	1	0	25	0	0
 RCV_000295	retina development	0	1	41	0	0
 RCV_000031	RNA interference	0	3	13	0	0
 RCV_000032	RNA splicing	0	4	14	0	0
+RCV_000296	salt stress response	1	0	58	0	0
 RCV_000297	secretion	0	1	592	0	0
+RCV_000036	Ser Thr kinase signaling	1	0	97	0	0
 RCV_000299	sex determination	0	6	45	0	0
 RCV_000302	skeletal muscle	0	61	20	0	0
+RCV_000303	skin	0	4	50	0	0
+RCV_000033	SMAD pathway	0	3	0	0	0
+RCV_000304	smooth muscle	0	34	28	0	0
 RCV_000305	smoothened signaling pathway	1	0	11	0	0
 RCV_000307	snoRNA	1	0	35	0	0
 RCV_000306	snRNA	1	0	23	0	0
@@ -234,6 +270,7 @@ RCV_000043	TRAIL production	0	4	0	0	0
 RCV_000332	transcription	0	323	95	0	0
 RCV_000333	transepithelial transport	1	0	0	1	0
 RCV_000335	translation	0	73	221	0	0
+RCV_000336	triglyceride	0	3	12	0	0
 RCV_000337	ubiquitin	0	10	139	0	0
 RCV_000044	UDP metabolism	0	3	7	0	0
 RCV_000340	urea metabolism	0	7	5	0	0
@@ -253,8 +290,9 @@ RCV_000353	vitamin D	0	1	19	0	0
 RCV_000354	vitamin K	1	0	2	0	0
 RCV_000355	vitamin metabolism	0	2	69	0	0
 RCV_000046	Wnt pathway	0	7	29	0	0
+RCV_000356	wound healing	1	0	88	0	0
 RCV_000357	xenobiotic	1	0	150	0	0
 RCV_000359	zinc ion homeostasis	0	6	2	0	0
-SUM	256	92	2841	27054	31	64
-AVERAGE	-	-	11.1	105.68	0.12	0.25
-MEDIAN		-	2.0	16.5	0.0	0.0
+SUM	294	102	4093	33901	81	70
+AVERAGE	-	-	13.92	115.31	0.28	0.24
+MEDIAN		-	2.0	24.0	0.0	0.0

@@ -42,6 +42,7 @@ maternal specification of dorsal/ventral axis, oocyte, soma encoded	GO_0007313	0
 maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	GO_0007311	0	1	1	0	0
 maintenance of pole plasm mRNA location	GO_0046594	0	1	1	0	0
 maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification	GO_0042070	0	1	1	0	0
+germinal vesicle	GO_0042585	0	1	0	0	0
 germarium-derived oocyte fate determination	GO_0007294	0	1	1	0	0
 germarium-derived oocyte differentiation	GO_0030706	0	1	1	0	0
 establishment of pole plasm mRNA localization	GO_0046595	0	1	1	0	0

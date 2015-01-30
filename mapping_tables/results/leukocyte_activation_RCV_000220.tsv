@@ -37,6 +37,9 @@ telencephalon microglial cell migration	GO_0022033	0	1	1	0	0
 susceptibility to natural killer cell mediated cytotoxicity	GO_0042271	0	1	1	0	0
 susceptibility to T cell mediated cytotoxicity	GO_0060370	0	1	1	0	0
 suppression by virus of host natural killer cell activation	GO_0039672	0	1	1	0	0
+specific granule membrane	GO_0035579	0	1	0	0	0
+specific granule lumen	GO_0035580	0	1	0	0	0
+specific granule	GO_0042581	0	1	0	0	0
 serotonin secretion by mast cell	GO_0002552	0	1	1	0	0
 serotonin secretion by basophil	GO_0002556	0	1	1	0	0
 regulatory T cell differentiation	GO_0045066	0	1	1	0	0
@@ -887,6 +890,7 @@ dendritic cell proliferation	GO_0044565	0	1	1	0	0
 dendritic cell migration	GO_0036336	0	1	1	0	0
 dendritic cell homeostasis	GO_0036145	0	1	1	0	0
 dendritic cell differentiation	GO_0097028	0	1	1	0	0
+dendritic cell dendrite	GO_0097511	0	1	0	0	0
 dendritic cell cytokine production	GO_0002371	0	1	1	0	0
 dendritic cell chemotaxis	GO_0002407	0	1	1	0	0
 dendritic cell apoptotic process	GO_0097048	0	1	1	0	0
@@ -909,6 +913,9 @@ basophil degranulation	GO_0002561	0	1	1	0	0
 basophil chemotaxis	GO_0002575	0	1	1	0	0
 basophil activation involved in immune response	GO_0002276	0	1	1	0	0
 basophil activation	GO_0045575	0	1	1	0	0
+azurophil granule membrane	GO_0035577	0	1	0	0	0
+azurophil granule lumen	GO_0035578	0	1	0	0	0
+azurophil granule	GO_0042582	0	1	0	0	0
 antigen sampling by dendritic cells in mucosal-associated lymphoid tissue	GO_0002405	0	1	1	0	0
 antibody-dependent cellular cytotoxicity	GO_0001788	0	1	1	0	0
 alpha-beta intraepithelial T cell differentiation	GO_0002299	0	1	1	0	0

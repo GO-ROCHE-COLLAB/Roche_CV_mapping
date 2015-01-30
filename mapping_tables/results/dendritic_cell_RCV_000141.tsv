@@ -62,6 +62,7 @@ myeloid dendritic cell differentiation involved in immune response	GO_0002284	0	
 myeloid dendritic cell activation involved in immune response	GO_0002277	0	1	1	0	0
 evasion by virus of host dendritic cell activity	GO_0039673	0	1	1	0	0
 dendritic cell migration	GO_0036336	0	1	1	0	0
+dendritic cell dendrite	GO_0097511	0	1	0	0	0
 antigen sampling by dendritic cells in mucosal-associated lymphoid tissue	GO_0002405	0	1	1	0	0
 Langerhans cell differentiation	GO_0061520	0	1	1	0	0
 Langerhans cell chemotaxis	GO_0002409	0	1	1	0	0

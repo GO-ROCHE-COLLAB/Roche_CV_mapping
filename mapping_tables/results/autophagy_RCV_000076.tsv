@@ -1,0 +1,58 @@
+name	ID	manual	auto	checked	blacklisted	is_obsolete
+autophagy of symbiont cells on or near host surface	GO_0075073	1	1	1	0	0
+autophagy of symbiont cells involved in interaction with host	GO_0075072	1	1	1	0	0
+autophagy of host cells on or near symbiont surface	GO_0075191	1	1	1	0	0
+autophagy of host cells involved in interaction with symbiont	GO_0075044	1	1	1	0	0
+autophagy involved in symbiotic interaction	GO_0075071	1	1	1	0	0
+autophagy in response to ER overload	GO_0034263	1	1	1	0	0
+autophagy	GO_0006914	1	1	1	0	0
+autophagic vacuole fusion	GO_0000046	1	1	1	0	0
+autophagic vacuole docking	GO_0016240	1	1	1	0	0
+autophagic vacuole assembly	GO_0000045	1	1	1	0	0
+autophagic membrane disassembly	GO_0030399	1	1	1	0	0
+autophagic vacuole maturation	GO_0097352	1	0	1	0	0
+autophagic death (sensu Saccharomyces)	GO_0007577	1	0	1	1	1
+autophagic death (sensu Fungi)	GO_0030465	1	0	1	1	1
+autophagic cell death	GO_0048102	1	0	1	0	0
+suppression by virus of host autophagy	GO_0039521	0	1	0	0	0
+spore autophagy involved in appressorium formation on or near host	GO_0075074	0	1	0	0	0
+ribophagy	GO_0034517	0	1	0	0	0
+regulation of mitochondrion degradation	GO_1903146	0	1	0	0	0
+regulation of macromitophagy	GO_1901524	0	1	0	0	0
+regulation of macroautophagy	GO_0016241	0	1	0	0	0
+regulation of autophagy	GO_0010506	0	1	0	0	0
+regulation of autophagic vacuole size	GO_0016243	0	1	0	0	0
+regulation of autophagic vacuole fusion	GO_1902452	0	1	0	0	0
+regulation of autophagic vacuole assembly	GO_2000785	0	1	0	0	0
+protein targeting to vacuole involved in autophagy	GO_0071211	0	1	0	0	0
+positive regulation of mitochondrion degradation	GO_1903599	0	1	0	0	0
+positive regulation of macromitophagy	GO_1901526	0	1	0	0	0
+positive regulation of macroautophagy	GO_0016239	0	1	0	0	0
+positive regulation of autophagy	GO_0010508	0	1	0	0	0
+positive regulation of autophagic vacuole size	GO_0045772	0	1	0	0	0
+positive regulation of autophagic vacuole fusion	GO_1902454	0	1	0	0	0
+positive regulation of autophagic vacuole assembly	GO_2000786	0	1	0	0	0
+piecemeal microautophagy of nucleus	GO_0034727	0	1	0	0	0
+peroxisome degradation	GO_0030242	0	1	0	0	0
+peroxisomal membrane disassembly	GO_0030398	0	1	0	0	0
+nucleus-vacuole junction assembly	GO_0071562	0	1	0	0	0
+nucleophagy	GO_0044804	0	1	0	0	0
+negative regulation of mitochondrion degradation	GO_1903147	0	1	0	0	0
+negative regulation of macromitophagy	GO_1901525	0	1	0	0	0
+negative regulation of macroautophagy	GO_0016242	0	1	0	0	0
+negative regulation of autophagy	GO_0010507	0	1	0	0	0
+negative regulation of autophagic vacuole size	GO_0045771	0	1	0	0	0
+negative regulation of autophagic vacuole fusion	GO_1902453	0	1	0	0	0
+negative regulation of autophagic vacuole assembly	GO_1902902	0	1	0	0	0
+modulation by virus of host autophagy	GO_0039519	0	1	0	0	0
+mitochondrion degradation by induced vacuole formation	GO_0035695	0	1	0	0	0
+mitochondrion degradation	GO_0000422	0	1	0	0	0
+micropexophagy	GO_0000426	0	1	0	0	0
+micromitophagy	GO_0000424	0	1	0	0	0
+microautophagy	GO_0016237	0	1	0	0	0
+macropexophagy	GO_0000425	0	1	0	0	0
+macromitophagy	GO_0000423	0	1	0	0	0
+macroautophagy	GO_0016236	0	1	0	0	0
+late nucleophagy	GO_0044805	0	1	0	0	0
+induction by virus of host autophagy	GO_0039520	0	1	0	0	0
+aggrephagy	GO_0035973	0	1	0	0	0

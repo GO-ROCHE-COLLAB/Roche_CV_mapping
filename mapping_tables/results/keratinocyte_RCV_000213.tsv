@@ -19,3 +19,5 @@ positive regulation of keratinocyte apoptotic process	GO_1902174	0	1	0	0	0
 negative regulation of keratinocyte apoptotic process	GO_1902173	0	1	0	0	0
 limb spinous cell differentiation	GO_0060890	0	1	1	0	0
 limb granular cell differentiation	GO_0060891	0	1	1	0	0
+epidermal lamellar body membrane	GO_0097234	0	1	0	0	0
+epidermal lamellar body	GO_0097209	0	1	0	0	0
