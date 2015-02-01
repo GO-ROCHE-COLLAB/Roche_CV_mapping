@@ -1,49 +1,6 @@
 RCV_NAME	RCV_ID	Key Class Name	Key Class ID	Applied pattern	Notes	issue	issue_state
-glomerular epithelial cell	RCV_000171	term pending	term pending	?Not mapping	Missing CL term!		Not mapping
-vessel	RCV_000348	Not mapping	Not mapping	?Not mapping	Redundant with vessel development.  May be possible to add a blood vessel function class, but not function terms in current manual mapping		Not mapping
-aerobic metabolism	RCV_000054	term pending	Not_mappable	?Not_mappable	Possibly fixing with new GO term.  Waiting for response from editors.		Not_mappable
-anaerobic metabolism	RCV_000060	term pending	Not_mappable	?Not_mappable	Possibly fixing with new GO term.  Waiting for response from editors.		Not_mappable
-apoptosis glands	RCV_000067	apoptotic process that part of some gland development'	(GO_0006915 that BFO_0000050 some GO_0048732)	?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
-apoptosis heart	RCV_000068	apoptotic process that part of some heart development'	(GO_0006915 that BFO_0000050 some GO_0007507)	?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
-apoptosis kidney	RCV_000069	apoptotic process that part of some kidney development'	(GO_0006915 that BFO_0000050 some GO_0001822)	?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
-cell cycle M/G1	RCV_000110	Not_mappable	Not_mappable	?Not_mappable	Key term is obsolete		Not_mappable
-cell cycle S/G2	RCV_000112	Not_mappable	Not_mappable	?Not_mappable	Key term is obsolete		Not_mappable
-cell metabolism	RCV_000119	Not_mappable	Not_mappable	?Not_mappable	Unclear what groups members of this class.  Not mapping.		Not_mappable
-cell-cell interaction	RCV_000128	Not_mappable	Not_mappable	?Not_mappable	Concept unclear		Not_mappable
-embryonic_development_goslim	RCV_000148	Not_mappable	Not_mappable	?Not_mappable	???		Not_mappable
-exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?Not_mappable	We have no general term for exocrine gland.  Work on Uberon needed.		Not_mappable
-glucose effects	RCV_000174	Not_mappable	Not_mappable	?Not_mappable	Not_mappable		Not_mappable
-heavy metal	RCV_000187	Not_mappable	Not_mappable	?Not_mappable	Can't map to general heavy metals with current srategy, but this could be mapped by specifying a union of appropriate metal elements.		Not_mappable
-infectious	RCV_000197	Not_mappable	Not_mappable	?Not_mappable	Don't undertand the intent.		Not_mappable
-integrin pathway	RCV_000203	Not_mappable	Not_mappable	?Not_mappable	Manual map broader than signalling. Can't map in absence of GO axiomatisation referencing Integrin		Not_mappable
-interferon	RCV_000206	Not_mappable	Not_mappable	?Not_mappable	Manual map broader than signalling. Can't map in absence of GO axiomatisation referencing Interferons		Not_mappable
-interleukin	RCV_000207	Not_mappable	Not_mappable	?Not_mappable	Manual map broader than signalling. Can't map in absence of GO axiomatisation referencing Interleukins		Not_mappable
-lymphocyte dynamics	RCV_000227	Not_mappable	Not_mappable	?Not_mappable	Not clear what is meant by dynamics that is not covered by Roche lymphocyte. Seems to cover only general lymphocyte class, and not its many subclasses.		Not_mappable
-mitochondrial DNA	RCV_000237	biological_process that 'has participant' some 'deoxyribonucleic acid' and 'occurs in' some mitochondrion		?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
-nitrogen metabolism	RCV_000250	Not_mappable	Not_mappable	?Not_mappable	No suitable chemical term available.  Not clear how one could be defined.		Not_mappable
-olfactory	RCV_000254	Not_mappable	Not_mappable	?Not_mappable	Unfortunately not mappable right now.  Making it mappable would be an interesting project.		Not_mappable
-olfactory system development	RCV_000255	term pending?	term pending?	?Not_mappable	Mini uberon project required to fix.		Not_mappable
-oxidative metabolism	RCV_000262	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
-pancreas exocrine	RCV_000268	Not_mappable	Not_mappable	?Not_mappable	Manual map is mainly function.  Don't have way to capture these collectively.		Not_mappable
-plant metabolism	RCV_000279	Viridiplantae	NCBITaxon_33090	?Not_mappable	Might be possible with a pattern that allowed something like ? 'metabolic process' thaonly_in_taxon some Viridiplantae		Not_mappable
-sex	RCV_000298	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
-sex female	RCV_000300	Not_mappable	Not_mappable	?Not_mappable	With some more axiomatisation, could map everything except sex detemination as occurs_in some CARO:'male organism'		Not_mappable
-sex male	RCV_000301	Not_mappable	Not_mappable	?Not_mappable	With some more axiomatisation, could map everything except sex detemination as occurs_in some CARO:'female organism'		Not_mappable
-unicellular growth	RCV_000338	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
-unicellular organism	RCV_000339	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
-virus	RCV_000350	Viruses	NCBITaxon_10239	?Not_mappable	GO completely lacks suitable axiomatisation	419	Not_mappable
-yeast	RCV_000358	Not_mappable	Not_mappable	?Not_mappable	Need union of Schizosaccharomycetes with Saccharomycetes ? 		Not_mappable
-cytochrome	RCV_000361	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
-DNA dynamics	RCV_000007	Not_mapping	Not_mapping	?Not_mapping	Term obsoleted?	26	Not_mapping
-antifungal	RCV_000063	Not_mapping?	Not_mapping?	?Not_mapping	Internal note: some work on new GOCHE terms required before this can be added.		Not_mapping
-antimicrobial	RCV_000064	Not_mapping?	Not_mapping?	?Not_mapping	Internal note: some work on new GOCHE terms required before this can be added.		Not_mapping
-auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	is_a_OR_part_of_OR_regulates	Manual mapping is mix of receptor cell dev and behavior, mostly former.  Should these two be split?	229	closed
-chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	is_a_OR_part_of_OR_regulates		249	closed
-enzyme	RCV_000153	catalytic activity	GO_0003824	Equivalence		304	closed
-post-translational	RCV_000282	post-translational protein modification	GO_0043687	Equivalence		382	closed
-terpenoid	RCV_000325	terpenoid	CHEBI_26873	has_participant_chemical		113	closed
-transferase activity	RCV_000334	transferase activity	GO_0016740	Equivalence		204	closed
 B cells	RCV_000001	B cell	CL_0000236	CL_super_query	Internal: Getting some undesirable results because of overly broad axioms on 'B-cell mediated immune response'.  Missing results are becuase we need to include 'regulates some (has_participant some 'B cell') + has_participant some (develops_into some 'B cell'.  Requires 3 queries OR using HermiT.	44	closed - mapping completed
+BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates		436	closed - mapping completed
 BMP pathway	RCV_000003	BMP pathway	GO_0030509	is_a_OR_part_of_OR_regulates	Internal: Missing binding, secretion ligand etc.  Need a way to ask for processes with BMP as participant.	42	closed - mapping completed
 CTGF	RCV_000004	connective tissue growth factor biosynthetic process	GO_0045189	is_a_OR_part_of_OR_regulates		27	closed - mapping completed
 DNA binding process	RCV_000005	DNA binding process	GO_0003677	Equivalence	Laura: Looks good?	40	closed - mapping completed
@@ -51,6 +8,7 @@ DNA damage	RCV_000006	cellular response to DNA damage stimulus	GO_0006974	is_a_O
 DNA recombination	RCV_000008	DNA recombination	GO_0006310	Equivalence	Laura: Perhaps this is just very incomplete? There are only 3 manual mappings.  The key class looks justified, but has 51 classes.  If you need a more constrained definition, can you suggest one?	37	closed - mapping completed
 DNA repair	RCV_000009	DNA repair	GO_0006281	is_a_OR_part_of_OR_regulates_OR_capable_of	Laura: The manual map includes the odd regulation term and complex, so I've used a pattern that includes both of these.  But including these results in a much larger list than the manual one.  Should we keep this pattern?	13	closed - mapping completed
 DNA replication	RCV_000010	DNA replication	GO_0006260	is_a_OR_part_of_OR_regulates		59	closed - mapping completed
+DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?	195	closed - mapping completed
 DNA silencing	RCV_000012	chromatin silencing	GO_0006342	is_a_OR_part_of_OR_regulates		61	closed - mapping completed
 DNA synthesis	RCV_000013	DNA biosynthetic process	GO_0071897	is_a_OR_part_of_OR_regulates		60	closed - mapping completed
 EGFR pathway	RCV_000014	epidermal growth factor receptor singaling pathway	GO_0007173	is_a_OR_part_of_OR_regulates		56	closed - mapping completed
@@ -63,6 +21,7 @@ MAPK inactivation	RCV_000021	negative regulation of MAP kinase activity	GO_00434
 MAPK signalling	RCV_000022	MAPK cascade	GO_0000165	is_a_OR_part_of_OR_regulates		35	closed - mapping completed
 Malpighian tubule stellate cell	RCV_000023	Malpighian tubule stellate cell	CL_1000155	CL_super_query		25	closed - mapping completed
 NF-kappaB pathway	RCV_000024	I-kappaB kinase/NF-kappaB signaling	GO_0007249	is_a_OR_part_of		16	closed - mapping completed
+neurotrophin signaling pathway	RCV_000025	neurotrophin signaling pathway	GO_0038179	is_a_OR_part_of_OR_regulates		431	closed - mapping completed
 NK cells	RCV_000026	natural killer cell	CL_0000623	CL_super_query		47	closed - mapping completed
 Notch signaling pathway	RCV_000027	Notch signaling pathway	GO_0007219	is_a_OR_part_of_OR_regulates		48	closed - mapping completed
 PDGF pathway	RCV_000028	platelet-derived growth factor receptor signaling pathway	GO_0048008	is_a_OR_part_of_OR_regulates		28	closed - mapping completed
@@ -104,8 +63,11 @@ artery	RCV_000071	artery development	GO_0060840	is_a_OR_part_of_OR_regulates		22
 asparagine metabolism	RCV_000072	asparagine metabolic process	GO_0006528	Equivalence		85	closed - mapping completed
 aspartate metabolism	RCV_000073	aspartate metabolic process	GO_0006531	Equivalence		84	closed - mapping completed
 astrocyte	RCV_000074	astrocyte	CL_0000127	CL_super_query		413	closed - mapping completed
+auditory behavior	RCV_000075	auditory receptor cell development	GO_0060117	is_a_OR_part_of_OR_regulates	Manual mapping is mix of receptor cell dev and behavior, mostly former.  Should these two be split?	229	closed - mapping completed
+autophagy	RCV_000076	autophagy	GO_0006914	is_a_OR_part_of_OR_regulates		434	closed - mapping completed
 auxin	RCV_000077	substance with auxin biological role	GOCHE_22676	has_participant_chemical		228	closed - mapping completed
 axon	RCV_000078	axon development	GO_0061564	is_a_OR_part_of_OR_regulates		226	closed - mapping completed
+bacterial	RCV_000079	response to bacterium	GO_0009617	is_a_OR_part_of_OR_regulates	Can't find a pattern that matches manual - even a little bit.	433	closed - mapping completed
 base pairing	RCV_000080	base pairing	GO_0000496	Equivalence		233	closed - mapping completed
 basophil	RCV_000081	basophil	CL_0000767	CL_super_query		148	closed - mapping completed
 behaviour	RCV_000082	behaviour	GO_0007610	Equivalence		232	closed - mapping completed
@@ -124,6 +86,7 @@ cannabinoid	RCV_000095	cannabinoid	CHEBI_67194	has_participant_chemical		171	clo
 carnitine metabolism	RCV_000096	carnitine metabolic process	GO_0009437	Equivalence		100	closed - mapping completed
 cartilage	RCV_000097	cartilage development	GO_0051216	is_a_OR_part_of_OR_regulates		253	closed - mapping completed
 cell adhesion	RCV_000098	cell adhesion	GO_0007155	is_a_OR_part_of_OR_regulates		286	closed - mapping completed
+cell aging	RCV_000100	cell aging	GO_0007569	Equivalence		432	closed - mapping completed
 cell cell signaling	RCV_000101	cell cell signaling	GO_0007267	Equivalence		333	closed - mapping completed
 cell cycle	RCV_000102	cell cycle	GO_0007049	is_a_OR_part_of_OR_regulates		262	closed - mapping completed
 cell cycle G0/G1	RCV_000103	G0 to G1 transition	GO_0045023	is_a_OR_part_of_OR_regulates		332	closed - mapping completed
@@ -148,6 +111,7 @@ cell-matrix adhesion	RCV_000130	cell-matrix adhesion	GO_0007160	is_a_OR_part_of_
 central nervous system	RCV_000131	central nervous system development	GO_0007417	is_a_OR_part_of_OR_regulates		328	closed - mapping completed
 cerebellar stellate cell	RCV_000132	cerebellar stellate cell	CL_0010010	CL_super_query		151	closed - mapping completed
 cerebellum	RCV_000133	cerebellum development	GO_0021549	is_a_OR_part_of_OR_regulates		250	closed - mapping completed
+chemotaxis	RCV_000134	cell chemotaxis	GO_0060326	is_a_OR_part_of_OR_regulates		249	closed - mapping completed
 cholesterol metabolism	RCV_000135	cholesterol metabolic process	GO_0008203	Equivalence		94	closed - mapping completed
 cholinergic	RCV_000136	synaptic transmission, cholinergic	GO_0007271	is_a_OR_part_of_OR_regulates		341	closed - mapping completed
 circadian	RCV_000137	circadian rhythm	GO_0007623	is_a_OR_part_of_OR_regulates		248	closed - mapping completed
@@ -164,6 +128,7 @@ endocrine	RCV_000149	endocrine_process	GO_0050886	is_a_OR_part_of_OR_regulates		
 endoderm development	RCV_000150	endoderm development	GO_0007492	is_a_OR_part_of_OR_regulates		303	closed - mapping completed
 endothelial	RCV_000151	endothelial cell	CL_0000115	CL_super_query		357	closed - mapping completed
 energy metabolism	RCV_000152	ATP metabolic process	GO_0046034	Equivalence		358	closed - mapping completed
+enzyme	RCV_000153	catalytic activity	GO_0003824	Equivalence		304	closed - mapping completed
 eosinophil	RCV_000154	eosinophil	CL_0000771	CL_super_query		199	closed - mapping completed
 epithelial cell differentiation	RCV_000155	epithelial cell differentiation	GO_0030855	Equivalence		300	closed - mapping completed
 epithelial cell migration	RCV_000156	epithelial cell migration	GO_0010631	is_a_OR_part_of_OR_regulates		301	closed - mapping completed
@@ -230,6 +195,7 @@ macrophage	RCV_000229	macrophage	CL_0000235	CL_super_query		149	closed - mapping
 mast cell	RCV_000230	mast cell	CL_0000097	CL_super_query		176	closed - mapping completed
 meiosis	RCV_000231	meiotic nuclear division	GO_0007126	is_a_OR_part_of_OR_regulates	Needs to encompass happens_during ?	175	closed - mapping completed
 mesangial cell	RCV_000232	mesangial cell	CL_0000650	CL_super_query		178	closed - mapping completed
+mesenchymal to epithelial transition	RCV_000233	mesenchymal cell	CL_0008019	CL_super_query		177	closed - mapping completed
 mesenchymal-epithelial cell signaling	RCV_000234	mesenchymal-epithelial cell signaling	GO_0060638	is_a_OR_part_of_OR_regulates		287	closed - mapping completed
 midbrain development	RCV_000235	midbrain development	GO_0030901	is_a_OR_part_of_OR_regulates		179	closed - mapping completed
 mitochondrial	RCV_000236	mitochondrion	GO_0005739	cellular_component_process	pattern TBA	417	closed - mapping completed
@@ -250,6 +216,7 @@ oocyte	RCV_000256	oocyte	CL_0000023	CL_super_query		144	closed - mapping complet
 oogenesis	RCV_000257	oogenesis	GO_0048477	is_a_OR_part_of_OR_regulates		121	closed - mapping completed
 optic nerve development	RCV_000258	optic nerve development	GO_0021554	is_a_OR_part_of_OR_regulates		120	closed - mapping completed
 organ development	RCV_000259	organ development	GO_0048513	is_a_OR_part_of_OR_regulates		119	closed - mapping completed
+organic acid metabolism	RCV_000260	organic acid metabolic process	GO_0006082	Equivalence		435	closed - mapping completed
 ovary	RCV_000261	oogenesis	GO_0048477	is_a_OR_part_of_OR_regulates		344	closed - mapping completed
 oxidative stress	RCV_000263	response to oxidative stress	GO_0006979	is_a_OR_part_of_OR_regulates		395	closed - mapping completed
 oxidoreductase activity	RCV_000264	oxidoreductase activity	GO_0016491	cellular_component_and_related_processes		377	closed - mapping completed
@@ -268,6 +235,7 @@ photoreceptor	RCV_000277	photoreceptor cell	CL_0000210	CL_super_query	Misses act
 plant	RCV_000278	Viridiplantae	NCBITaxon_33090	only_in_taxon		424	closed - mapping completed
 plasma membrane dynamics	RCV_000280	plasma membrane	GO_0005886	cellular_component_process	Needs GO update.	373	closed - mapping completed
 platelet	RCV_000281	platelet	CL_0000233	CL_super_query		141	closed - mapping completed
+post-translational	RCV_000282	post-translational protein modification	GO_0043687	Equivalence		382	closed - mapping completed
 protein degradation	RCV_000283	protein catabolic process	GO_0030163	is_a_OR_part_of_OR_regulates_OR_capable_of		288	closed - mapping completed
 protein folding	RCV_000284	protein folding	GO_0006457	is_a_OR_part_of		369	closed - mapping completed
 protein localization	RCV_000285	protein localization	GO_0008104	is_a_OR_part_of		370	closed - mapping completed
@@ -305,6 +273,7 @@ synapse	RCV_000321	synapse	GO_0045202	cellular_component_and_related_processes		
 syncytium formation	RCV_000322	syncytium formation	GO_0006949	is_a_OR_part_of_OR_regulates		257	closed - mapping completed
 taxis	RCV_000323	taxis	GO_0042330	is_a_OR_part_of_OR_regulates		256	closed - mapping completed
 telomere	RCV_000324	chromosome, telomeric region	GO_0000781	cellular_component_and_related_processes		255	closed - mapping completed
+terpenoid	RCV_000325	terpenoid	CHEBI_26873	has_participant_chemical		113	closed - mapping completed
 thiamin metabolism	RCV_000326	thiamine-containing compound metabolic process	GO_0042723	Equivalence		88	closed - mapping completed
 thymine metabolism	RCV_000327	thymine metabolic process	GO_0019859	Equivalence		87	closed - mapping completed
 thymus	RCV_000328	thymus development	GO_0048538	is_a_OR_part_of_OR_regulates		352	closed - mapping completed
@@ -313,6 +282,7 @@ toluene metabolism	RCV_000330	toluene metabolic process	GO_0018970	Equivalence		
 trachea	RCV_000331	trachea development	GO_0060438	is_a_OR_part_of_OR_regulates		404	closed - mapping completed
 transcription	RCV_000332	nucleic acid-templated transcription	GO_0097659	is_a_OR_part_of	Leaving out regulation as brings in too much	405	closed - mapping completed
 transepithelial transport	RCV_000333	transepithelial transport	GO_0070633	is_a_OR_part_of_OR_regulates		203	closed - mapping completed
+transferase activity	RCV_000334	transferase activity	GO_0016740	Equivalence		204	closed - mapping completed
 translation	RCV_000335	translation	GO_0006412	is_a_OR_part_of_OR_regulates		406	closed - mapping completed
 triglyceride	RCV_000336	triglyceride	CHEBI_17855	has_participant_chemical		43	closed - mapping completed
 ubiquitin	RCV_000337	ubiquitin	PR_000035728	has_participant_chemical		384	closed - mapping completed
@@ -337,8 +307,44 @@ spore formation	RCV_000360	sporulation	GO_0043934	is_a_OR_part_of_OR_regulates		
 heme metabolism	RCV_000362	heme metabolic process	GO_0042168	Equivalence		217	closed - mapping completed
 uropod	RCV_000363	uropod	GO_0001931	cellular_component_and_related_processes		365	closed - mapping completed
 caspase activity	RCV_000364	cysteine-type endopeptidase activity	GO_0004197	Equivalence		219	closed - mapping completed
+aerobic metabolism	RCV_000054	term pending	Not_mappable	?Not_mappable	Possibly fixing with new GO term.  Waiting for response from editors.		Not_mappable
+anaerobic metabolism	RCV_000060	term pending	Not_mappable	?Not_mappable	Possibly fixing with new GO term.  Waiting for response from editors.		Not_mappable
+apoptosis glands	RCV_000067	apoptotic process that part of some gland development'	(GO_0006915 that BFO_0000050 some GO_0048732)	?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
+apoptosis heart	RCV_000068	apoptotic process that part of some heart development'	(GO_0006915 that BFO_0000050 some GO_0007507)	?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
+apoptosis kidney	RCV_000069	apoptotic process that part of some kidney development'	(GO_0006915 that BFO_0000050 some GO_0001822)	?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
+cell cycle M/G1	RCV_000110	Not_mappable	Not_mappable	?Not_mappable	Key term is obsolete		Not_mappable
+cell cycle S/G2	RCV_000112	Not_mappable	Not_mappable	?Not_mappable	Key term is obsolete		Not_mappable
+cell metabolism	RCV_000119	Not_mappable	Not_mappable	?Not_mappable	Unclear what groups members of this class.  Not mapping.		Not_mappable
+cell-cell interaction	RCV_000128	Not_mappable	Not_mappable	?Not_mappable	Concept unclear		Not_mappable
+embryonic_development_goslim	RCV_000148	Not_mappable	Not_mappable	?Not_mappable	???		Not_mappable
+exocrine glands	RCV_000161	('exocrine gland' that 'part of' some 'integumental system')	()	?Not_mappable	We have no general term for exocrine gland.  Work on Uberon needed.		Not_mappable
+glucose effects	RCV_000174	Not_mappable	Not_mappable	?Not_mappable	Not_mappable		Not_mappable
+heavy metal	RCV_000187	Not_mappable	Not_mappable	?Not_mappable	Can't map to general heavy metals with current srategy, but this could be mapped by specifying a union of appropriate metal elements.		Not_mappable
+infectious	RCV_000197	Not_mappable	Not_mappable	?Not_mappable	Don't undertand the intent.		Not_mappable
+integrin pathway	RCV_000203	Not_mappable	Not_mappable	?Not_mappable	Manual map broader than signalling. Can't map in absence of GO axiomatisation referencing Integrin		Not_mappable
+interferon	RCV_000206	Not_mappable	Not_mappable	?Not_mappable	Manual map broader than signalling. Can't map in absence of GO axiomatisation referencing Interferons		Not_mappable
+interleukin	RCV_000207	Not_mappable	Not_mappable	?Not_mappable	Manual map broader than signalling. Can't map in absence of GO axiomatisation referencing Interleukins		Not_mappable
+lymphocyte dynamics	RCV_000227	Not_mappable	Not_mappable	?Not_mappable	Not clear what is meant by dynamics that is not covered by Roche lymphocyte. Seems to cover only general lymphocyte class, and not its many subclasses.		Not_mappable
+mitochondrial DNA	RCV_000237	biological_process that 'has participant' some 'deoxyribonucleic acid' and 'occurs in' some mitochondrion		?Equivalence	Can't run mapping unless code modified to allow sub arbitrary class expressions.		Not_mappable
+nitrogen metabolism	RCV_000250	Not_mappable	Not_mappable	?Not_mappable	No suitable chemical term available.  Not clear how one could be defined.		Not_mappable
+olfactory	RCV_000254	Not_mappable	Not_mappable	?Not_mappable	Unfortunately not mappable right now.  Making it mappable would be an interesting project.		Not_mappable
+olfactory system development	RCV_000255	term pending?	term pending?	?Not_mappable	Mini uberon project required to fix.		Not_mappable
+oxidative metabolism	RCV_000262	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
+pancreas exocrine	RCV_000268	Not_mappable	Not_mappable	?Not_mappable	Manual map is mainly function.  Don't have way to capture these collectively.		Not_mappable
+plant metabolism	RCV_000279	Viridiplantae	NCBITaxon_33090	?Not_mappable	Might be possible with a pattern that allowed something like ? 'metabolic process' thaonly_in_taxon some Viridiplantae		Not_mappable
+sex	RCV_000298	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
+sex female	RCV_000300	Not_mappable	Not_mappable	?Not_mappable	With some more axiomatisation, could map everything except sex detemination as occurs_in some CARO:'male organism'		Not_mappable
+sex male	RCV_000301	Not_mappable	Not_mappable	?Not_mappable	With some more axiomatisation, could map everything except sex detemination as occurs_in some CARO:'female organism'		Not_mappable
+unicellular growth	RCV_000338	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
+unicellular organism	RCV_000339	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
+virus	RCV_000350	Viruses	NCBITaxon_10239	?Not_mappable	GO completely lacks suitable axiomatisation	419	Not_mappable
+yeast	RCV_000358	Not_mappable	Not_mappable	?Not_mappable	Need union of Schizosaccharomycetes with Saccharomycetes ? 		Not_mappable
+cytochrome	RCV_000361	Not_mappable	Not_mappable	?Not_mappable			Not_mappable
+DNA dynamics	RCV_000007	Not_mapping	Not_mapping	?Not_mapping	Term obsoleted?	26	not_mapping
 G-protein	RCV_000017	?		?Not_mapping	redudant with GPCR signaling RCV_000019	31	not_mapping
 adhesion	RCV_000049	not_mapping	not_mapping	?Not_mapping	Manual mapping is to 'biological adhesion only'.   Is this class really needed?  Already have cell-cell and cell-matrix RCV terms.		not_mapping
+antifungal	RCV_000063	Not_mapping?	Not_mapping?	?Not_mapping	Internal note: some work on new GOCHE terms required before this can be added.		not_mapping
+antimicrobial	RCV_000064	Not_mapping?	Not_mapping?	?Not_mapping	Internal note: some work on new GOCHE terms required before this can be added.		not_mapping
 brain	RCV_000090	not_mapping	not_mapping	?not_mapping	Have requested obsoletion/merge with brain development (see issue 241)		not_mapping
 cell adhesion and motility	RCV_000099	not_mapping	not_mapping	?not_mapping	redunant  with RCV terms for cell adhesion and motility.  Make obsolete?		not_mapping
 cell cycle G1	RCV_000104	not_mapping	not_mapping	?not_mapping	No annotation to cell cycle phase terms		not_mapping
@@ -348,6 +354,7 @@ cell cycle S	RCV_000111	not_mapping	not_mapping	?not_mapping	No annotation to ce
 cell structure	RCV_000125	not_mapping	not_mapping	?not_mapping	Only 2 manual mappings.  Both to basal lamina terms. 		not_mapping
 embryo development	RCV_000146	not_mapping	not_mapping	?not_mapping			not_mapping
 extraglomerular mesangial	RCV_000162	not_mapping	not_mapping	?not_mapping	Manuall mapped to only one, very obscure and specific term.  Not bothering to map		not_mapping
+glomerular epithelial cell	RCV_000171	term pending	term pending	?Not mapping	Missing CL term!		not_mapping
 gpcr	RCV_000182	not_mapping	not_mapping	?not_mapping	Obsolete RCV term - redundant with GPCR signaling RCV_000019		not_mapping
 host defense	RCV_000193	?defense response	?GO_0006952	?Not_mapping	Duplicate with RCV_000140 'defense response'		not_mapping
 immune rsponse	RCV_000196	Not_mapping	Not_mapping	?Not_mapping	duplicate RCV term with RCV_000195		not_mapping
@@ -355,11 +362,4 @@ nervous	RCV_000242	Not_mapping	Not_mapping	?Not_mapping	redundant with nervous s
 neurotransmittter	RCV_000247	not_mapping	not_mapping	?Not_mapping	duplicate RCV term		not_mapping
 protein metabolism	RCV_000286	protein metabolic process	GO_0019538	?not_mapping	Not sure you really want this!		not_mapping
 stomach	RCV_000316	Not_mapping	Not_mapping	?not_mapping	Minor GO project needed to add content!		not_mapping
-BDNF pathway	RCV_000002	brain-derived neurotrophic factor receptor signaling pathway	GO_0031547	is_a_OR_part_of_OR_regulates		436	open
-DNA replication negative	RCV_000011	negative regulation of DNA replication	GO_0008156	Equivalence	Laura: Only 1 automated mapping. Not related to manually mapped class! Can you suggest a different definition/key class mapping?	195	open
-neurotrophin signaling pathway	RCV_000025	neurotrophin signaling pathway	GO_0038179	is_a_OR_part_of_OR_regulates		431	open
-autophagy	RCV_000076	autophagy	GO_0006914	is_a_OR_part_of_OR_regulates		434	open
-bacterial	RCV_000079	response to bacterium	GO_0009617	is_a_OR_part_of_OR_regulates	Can't find a pattern that matches manual - even a little bit.	433	open
-cell aging	RCV_000100	cell aging	GO_0007569	Equivalence		432	open
-mesenchymal to epithelial transition	RCV_000233	mesenchymal cell	CL_0008019	CL_super_query		177	open
-organic acid metabolism	RCV_000260	organic acid metabolic process	GO_0006082	Equivalence		435	open
+vessel	RCV_000348	Not mapping	Not mapping	?Not mapping	Redundant with vessel development.  May be possible to add a blood vessel function class, but not function terms in current manual mapping		not_mapping

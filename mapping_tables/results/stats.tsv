@@ -19,11 +19,15 @@ RCV_000071	artery	0	1	16	1	0
 RCV_000072	asparagine metabolism	0	1	4	2	0
 RCV_000073	aspartate metabolism	0	5	6	0	0
 RCV_000074	astrocyte	1	0	19	0	0
+RCV_000075	auditory behavior	0	5	0	0	0
+RCV_000076	autophagy	0	2	42	0	0
 RCV_000077	auxin	0	3	36	0	0
 RCV_000078	axon	0	29	47	4	0
 RCV_000001	B cells	0	17	77	0	0
+RCV_000079	bacterial	0	3	62	0	0
 RCV_000080	base pairing	1	0	78	0	0
 RCV_000081	basophil	1	0	5	0	0
+RCV_000002	BDNF pathway	1	0	1	0	0
 RCV_000082	behaviour	0	1	203	0	0
 RCV_000084	beta-amyloid	1	0	7	0	0
 RCV_000083	beta cells	1	0	7	0	0
@@ -45,6 +49,7 @@ RCV_000127	cell-cell adhesion	1	0	128	0	0
 RCV_000129	cell-cell signaling	1	0	80	0	0
 RCV_000130	cell-matrix adhesion	1	0	18	0	0
 RCV_000098	cell adhesion	0	4	353	0	0
+RCV_000100	cell aging	0	6	9	0	0
 RCV_000101	cell cell signaling	1	0	72	0	0
 RCV_000113	cell cycle arrest	1	0	8	0	0
 RCV_000103	cell cycle G0 G1	1	0	0	0	0
@@ -66,6 +71,7 @@ RCV_000126	cell wall	0	86	61	0	0
 RCV_000131	central nervous system	0	1	516	0	0
 RCV_000132	cerebellar stellate cell	1	0	0	0	0
 RCV_000133	cerebellum	0	11	10	0	0
+RCV_000134	chemotaxis	0	2	95	0	0
 RCV_000135	cholesterol metabolism	0	39	1	0	0
 RCV_000136	cholinergic	1	0	8	0	0
 RCV_000137	circadian	0	1	10	0	0
@@ -81,6 +87,7 @@ RCV_000005	DNA binding process	0	1	105	0	0
 RCV_000006	DNA damage	0	7	156	0	3
 RCV_000008	DNA recombination	1	0	50	1	0
 RCV_000009	DNA repair	0	7	14	0	0
+RCV_000011	DNA replication negative	0	1	20	0	0
 RCV_000010	DNA replication	0	20	139	0	0
 RCV_000012	DNA silencing	1	0	29	27	0
 RCV_000013	DNA synthesis	0	3	30	0	0
@@ -91,6 +98,7 @@ RCV_000149	endocrine	0	1	133	0	1
 RCV_000150	endoderm development	0	3	15	0	0
 RCV_000151	endothelial	0	39	21	0	0
 RCV_000152	energy metabolism	0	13	9	0	0
+RCV_000153	enzyme	0	4	6479	0	0
 RCV_000154	eosinophil	1	0	8	0	0
 RCV_000155	epithelial cell differentiation	0	30	86	0	0
 RCV_000156	epithelial cell migration	1	0	42	0	0
@@ -166,6 +174,7 @@ RCV_000230	mast cell	0	2	10	0	0
 RCV_000231	meiosis	1	0	210	0	0
 RCV_000232	mesangial cell	1	0	11	0	0
 RCV_000234	mesenchymal-epithelial cell signaling	1	0	8	0	0
+RCV_000233	mesenchymal to epithelial transition	0	12	36	0	0
 RCV_000235	midbrain development	0	7	5	0	0
 RCV_000236	mitochondrial	0	18	85	0	0
 RCV_000238	monocyte	0	4	5	0	0
@@ -179,6 +188,7 @@ RCV_000245	neuron differentiation	0	1	66	0	0
 RCV_000246	neurotransmitter	0	27	129	0	0
 RCV_000248	neutrophil	0	1	20	0	0
 RCV_000024	NF-kappaB pathway	0	1	4	0	0
+RCV_000025	NGF pathway	0	1	13	0	0
 RCV_000249	nitric oxide metabolism	0	2	11	0	0
 RCV_000026	NK cells	0	20	16	0	0
 RCV_000251	noradrenergic	1	0	0	0	0
@@ -189,6 +199,7 @@ RCV_000256	oocyte	1	0	33	0	0
 RCV_000257	oogenesis	0	1	117	0	0
 RCV_000258	optic nerve development	1	0	4	0	0
 RCV_000259	organ development	0	1	3258	0	0
+RCV_000260	organic acid metabolism	0	1	1088	0	0
 RCV_000261	ovary	0	27	107	0	0
 RCV_000263	oxidative stress	0	2	102	0	0
 RCV_000264	oxidoreductase activity	0	2	1921	0	0
@@ -209,6 +220,7 @@ RCV_000278	plant	1	0	238	0	0
 RCV_000280	plasma membrane dynamics	0	2	102	0	0
 RCV_000281	platelet	0	8	20	0	0
 RCV_000029	PNS development	1	0	22	0	0
+RCV_000282	post-translational	1	0	32	0	0
 RCV_000030	PPAR pathway	1	0	0	0	0
 RCV_000283	protein degradation	1	0	139	0	0
 RCV_000284	protein folding	0	1	11	0	0
@@ -257,6 +269,7 @@ RCV_000038	T helper	1	0	38	0	0
 RCV_000323	taxis	1	0	147	0	0
 RCV_000039	TCA metabolism	0	5	14	0	0
 RCV_000324	telomere	0	7	32	0	0
+RCV_000325	terpenoid	0	2	214	0	0
 RCV_000040	TGF beta pathway	0	20	5	0	0
 RCV_000326	thiamin metabolism	0	7	0	0	0
 RCV_000327	thymine metabolism	0	5	0	0	0
@@ -269,6 +282,7 @@ RCV_000331	trachea	0	2	0	0	0
 RCV_000043	TRAIL production	0	4	0	0	0
 RCV_000332	transcription	0	323	95	0	0
 RCV_000333	transepithelial transport	1	0	0	1	0
+RCV_000334	transferase activity	0	1	2020	0	0
 RCV_000335	translation	0	73	221	0	0
 RCV_000336	triglyceride	0	3	12	0	0
 RCV_000337	ubiquitin	0	10	139	0	0
@@ -293,6 +307,6 @@ RCV_000046	Wnt pathway	0	7	29	0	0
 RCV_000356	wound healing	1	0	88	0	0
 RCV_000357	xenobiotic	1	0	150	0	0
 RCV_000359	zinc ion homeostasis	0	6	2	0	0
-SUM	294	102	4093	33901	81	70
-AVERAGE	-	-	13.92	115.31	0.28	0.24
-MEDIAN		-	2.0	24.0	0.0	0.0
+SUM	308	104	4133	44012	81	70
+AVERAGE	-	-	13.42	142.9	0.26	0.23
+MEDIAN		-	2.0	25.0	0.0	0.0

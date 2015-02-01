@@ -35,7 +35,7 @@ class mappingTabs():
 		self.obs_status = {} # A dictionary of manually mapped GO terms, with value = is obsolete True/False 
 		self.update_manual_map_obs_stat()
 		self.combined_results = tab()
-		self.combined_results.headers = ["RCV_ID", "RCV_NAME", "GO_ID", "GO_NAME"]
+		self.combined_results.headers = ["RCV_ID", "RCV_NAME", "GO_ID", "GO_NAME", "STATUS"]
 	
 	def RCV_id_2_owlMap(self, RCV_id):
 		return self.owl_map[RCV_id]
@@ -62,7 +62,6 @@ class mappingTabs():
 				self.obs_status[c['GO_ID']] = False
 
 class map_obj:
-	# Should this work on ids or names?  Seems wasteful to store both.
 	def __str__(self):
 		return "Roche_cvt: %s; class_expression %s; manual_list_count %d, generated_list_count %d" % (self.RCV_id, self.class_expression, len(self.manual_list), len(self.generated_list))
 	def __init__ (self, RCV_id, mapping_tabs, pattern_path):
@@ -88,8 +87,8 @@ class map_obj:
 		dc = { 'key_class': ( owl_map['Key Class Name'], owl_map['Key Class ID'] )}
 		self.appl_pattern  = gen_applied_pattern_from_json(pattern_path + self.pattern_name + ".json", dc, self.go)
 		self.class_expression = self.appl_pattern.equivalentTo
-		manual_map = mapping_tabs.RCV_id_2_man_map(RCV_id)
-		for m in manual_map:
+		self.manual_map = mapping_tabs.RCV_id_2_man_map(RCV_id)
+		for m in self.manual_map:
 			self.manual_list.append(m['GO_ID'])
 		self.update_map()
 		self.update_id_name()
@@ -116,9 +115,12 @@ class map_obj:
 
 		
 	def gen_report(self, report_tab):
-		"""Generate report for 'Roche CV term'.  Arg (report_tab) = a results table as row_column_dict."""
-		### Spec - needs to remember content if there is a 1 in either checked or blacklisted.
-		### DONE Overloading blacklist: blacklist obsolete terms.  (Really would be better to have extra column!)
+		"""1. Generate report for 'Roche CV term'.  Arg (report_tab) = a results table as row_column_dict.
+		2. If mapping completed, update combined map."""
+		
+		# status of mapping is assessed via status column of owl_map.  
+		# Generation of combined map is bolted on functionality => 
+		# Dependence on external state reflection of bad architecture.
 		
 		keys = set(self.generated_list) | set(self.manual_list) # Make union of two lists => complete set of keys.
 		for key in keys:
@@ -152,14 +154,10 @@ class map_obj:
 		for k in rtk:
 			if k not in keys:
 				del report_tab[k]
-				
-		# Makes sure all columns that should be 0/1 are:
-
-
 		# Update combined mapping
 		if self.status == 'closed - mapping completed':
 			self._append_to_combined_mapping(report_tab)
-			
+				
 	def _append_to_combined_mapping(self, report_tab):
 		"""report_tab = results table as dict of dicts, keyed on RCV_id"""
 		# Spec:  Append to compound table - combined manual & auto mappings that are not blacklisted
@@ -170,6 +168,11 @@ class map_obj:
 				rd['RCV_ID'] = self.RCV_id
 				rd['GO_ID'] = d['ID']
 				rd['GO_NAME'] = d['name']
+				if d['auto']:
+					rd['STATUS'] = 'A'
+				else:
+					rd['STATUS'] = 'M'
+
 			# only append to combined results if populated.	
 			if rd:
 				self.combined_results.append(rd)
