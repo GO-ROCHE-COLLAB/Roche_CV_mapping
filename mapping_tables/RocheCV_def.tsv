@@ -23,7 +23,7 @@ RCV_000021	MAPK inactivation	-	badil	1
 RCV_000022	MAPK signalling	-	badil	1
 RCV_000023	Malpighian tubule stellate cell	-	badil	1
 RCV_000024	NF-kappaB pathway	-	badil	1
-RCV_000025	neurotrophin pathway	-	badil	1
+RCV_000025	neurotrophin signaling	-	badil	1
 RCV_000026	NK cells	-	badil	1
 RCV_000027	Notch signaling pathway	-	badil	1
 RCV_000028	PDGF pathway	-	badil	1
@@ -354,7 +354,7 @@ RCV_000352	vitamin C	-	badil	1
 RCV_000353	vitamin D	-	badil	1
 RCV_000354	vitamin K	-	badil	1
 RCV_000355	vitamin metabolism	-	badil	1
-RCV_000356	tissue repair	-	badil	1
+RCV_000356	wound healing	-	badil	1
 RCV_000357	xenobiotic	-	badil	1
 RCV_000358	yeast	-	badil	1
 RCV_000359	zinc ion homeostasis	-	badil	1
