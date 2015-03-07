@@ -22,6 +22,7 @@ class tab(object):
         and throws an non-fatal warning. The preferred way of creating an empty table is to specify
         headers or headers + key_column in the constructor."""
         self.file_name = file_name
+        self.path = path
         self.key_column = key_column
         self.tab = [] # list of dicts, keyed on column.
         self.rowColDict = {} #  dict of dicts - [row][column]
@@ -51,7 +52,7 @@ class tab(object):
         
                         
     def _parse_tsv(self, path, file_name):
-        tsv_file = open(path + file_name, "r")
+        tsv_file = open(path + file_name, "rU")
         hstat = 0
         for line in tsv_file:
             cline = line.rstrip("\n")
@@ -81,8 +82,7 @@ class tab(object):
         """Returns table as a string.  Optionally specify a tuple of columns to sort as sort_keys.
         Default normal sort order.  Optionally specify reverse as a boolean (applies to all columns)."""
         if sort_keys:
-            # For how this works, see http://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
-            self.tab.sort(key = operator.itemgetter(*sort_keys), reverse=reverse) # Note. * operator unpacks tuple.
+            self.sort_tab(sort_keys, reverse)
         out = []
         out.append('\t'.join(self.headers))
         for row in self.tab:
@@ -92,7 +92,20 @@ class tab(object):
             out.append('\t'.join(map(unicode, outrow)))  # All content of list to unicode, then joined with a tab, then appended to output.
         return '\n'.join(out)
     
-    def _append_column(self, cname, content):
+    def sort_tab(self, sort_keys=(), reverse=False):
+        # For how this works, see http://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
+        self.tab.sort(key = operator.itemgetter(*sort_keys), reverse=reverse) # Note. * operator unpacks tuple.
+        
+    def save_tab(self, path = '', file_name = '', sort_keys = (), reverse = False):
+        if not path:
+            path = self.path
+        if not file_name:
+            file_name = self.file_name
+        out = open(path+file_name, 'w')
+        out.write(self.print_tab(sort_keys, reverse))
+        out.close()
+    
+    def _append_column(self, cname, content=''):
         """PRIVATE METHOD. EXTERNAL USE MAY BE UNSAFE!
         Append a column called cname to the table.
         """
