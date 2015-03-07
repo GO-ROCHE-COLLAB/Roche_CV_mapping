@@ -23,7 +23,7 @@ RCV_000021	MAPK inactivation	-	badil	1
 RCV_000022	MAPK signalling	-	badil	1
 RCV_000023	Malpighian tubule stellate cell	-	badil	1
 RCV_000024	NF-kappaB pathway	-	badil	1
-RCV_000025	NGF pathway	-	badil	1
+RCV_000025	neurotrophin signaling	-	badil	1
 RCV_000026	NK cells	-	badil	1
 RCV_000027	Notch signaling pathway	-	badil	1
 RCV_000028	PDGF pathway	-	badil	1
@@ -41,7 +41,7 @@ RCV_000039	TCA metabolism	-	badil	1
 RCV_000040	TGF beta pathway	-	badil	1
 RCV_000041	TLRx pathway	-	badil	1
 RCV_000042	TNF pathway	-	badil	1
-RCV_000043	TRAIL production	-	badil	1
+RCV_000043	TRAIL pathway	-	badil	1
 RCV_000044	UDP metabolism	-	badil	1
 RCV_000045	VEGF pathway	-	badil	1
 RCV_000046	Wnt pathway	-	badil	1
@@ -73,7 +73,7 @@ RCV_000071	artery	-	badil	1
 RCV_000072	asparagine metabolism	-	badil	1
 RCV_000073	aspartate metabolism	-	badil	1
 RCV_000074	astrocyte	-	badil	1
-RCV_000075	auditory behavior	-	badil	1
+RCV_000075	auditory behavior	-	badil	0
 RCV_000076	autophagy	-	badil	1
 RCV_000077	auxin	-	badil	1
 RCV_000078	axon	-	badil	1
@@ -91,7 +91,7 @@ RCV_000089	bone marrow	-	badil	1
 RCV_000090	brain	-	badil	1
 RCV_000091	brain development	-	badil	1
 RCV_000092	cAMP metabolism	-	badil	1
-RCV_000093	calcium homeostasis	-	badil	1
+RCV_000093	calcium signalling	-	badil	1
 RCV_000094	calcium signalling	-	badil	1
 RCV_000095	cannabinoid	-	badil	1
 RCV_000096	carnitine metabolism	-	badil	1
@@ -218,7 +218,7 @@ RCV_000216	killer activity	-	badil	1
 RCV_000217	kinase activity	-	badil	1
 RCV_000218	lactate metabolism	-	badil	1
 RCV_000219	leptin-mediated signaling pathway	-	badil	1
-RCV_000220	leukocyte activation	-	badil	1
+RCV_000220	leukocyte	-	badil	1
 RCV_000221	lipoprotein metabolism	-	badil	1
 RCV_000222	liver	-	badil	1
 RCV_000223	liver development	-	badil	1
@@ -231,7 +231,7 @@ RCV_000229	macrophage	-	badil	1
 RCV_000230	mast cell	-	badil	1
 RCV_000231	meiosis	-	badil	1
 RCV_000232	mesangial cell	-	badil	1
-RCV_000233	mesenchymal to epithelial transition	-	badil	1
+RCV_000233	mesenchymal cell	-	badil	1
 RCV_000234	mesenchymal-epithelial cell signaling	-	badil	1
 RCV_000235	midbrain development	-	badil	1
 RCV_000236	mitochondrial	-	badil	1
@@ -241,7 +241,7 @@ RCV_000239	muscle	-	badil	1
 RCV_000240	myoblast	-	badil	1
 RCV_000241	nerve function	-	badil	1
 RCV_000242	nervous	-	badil	1
-RCV_000243	nervous development	-	badil	1
+RCV_000243	nervous system development	-	badil	1
 RCV_000244	neuron development	-	badil	1
 RCV_000245	neuron differentiation	-	badil	1
 RCV_000246	neurotransmitter	-	badil	1
@@ -258,7 +258,7 @@ RCV_000256	oocyte	-	badil	1
 RCV_000257	oogenesis	-	badil	1
 RCV_000258	optic nerve development	-	badil	1
 RCV_000259	organ development	-	badil	1
-RCV_000260	organic acid metabolism	-	badil	1
+RCV_000260	organic acid metabolism	-	badil	0
 RCV_000261	ovary	-	badil	1
 RCV_000262	oxidative metabolism	-	badil	1
 RCV_000263	oxidative stress	-	badil	1
