@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Script to generate stats on mapping
 # Number of classes where auto mapping is sufficient
 
@@ -5,6 +7,9 @@ from tsv2pdm import tab, rcd
 from glob import glob1
 import re
 from numpy import average, median, sum, round
+from collections import Counter
+
+# General comment - this would be so much easier to do with a DB!
 
     # TODO - hook, directly or indirectly, into the ticket system.  Could pull from owl_map.
 
@@ -13,7 +18,7 @@ results = glob1("../mapping_tables/results/", "*_RCV_*.tsv")
 stats = tab(key_column = "RCV_ID", headers = ['RCV_ID', 'RCV_name', 
                                               'Auto sufficient', 'Manual only',
                                                'Auto only', 'Manual blacklist',
-                                               'Auto blacklist'])
+                                               'Auto blacklist', 'pattern'])  # Should really load as rcd to enforce key column uniqueness
 
 owl_map = rcd(path = "../mapping_tables/", file_name = "owl_map.tsv", key_column = 'RCV_ID' )
 
@@ -22,11 +27,14 @@ total_sufficient_maps = 0
 # Lists for doing basic statistical analysis of results
 # Sure this could be done more elegantly with list comps on tab, but still...
 
+
 Auto_sufficient = []
 Manual_only = []
 Auto_only = []
 Auto_blacklist = []
 Manual_blacklist = []
+
+mapping_table = rcd(path = "../mapping_tables/", file_name = "owl_map.tsv", key_column = "RCV_ID")
 
 
 for result in results:
@@ -46,6 +54,7 @@ for result in results:
     row['Manual only'] = 0
     row['Auto blacklist'] = 0
     row['Manual blacklist'] = 0
+    row['pattern'] = mapping_table.rowColDict[RCV_ID]['Applied pattern']
     
     for irow in rtab.tab:
         # Test if auto-mapping finds all non-blacklisted manual annotations.
@@ -66,10 +75,35 @@ for result in results:
     stats.validate_row(row)
     stats.tab.append(row)
     
-# some summary stats.  Hmmm - really should use a function here:
+# some summary stats.  Hmmm - really should use a function here.  Should also really make this a separate table.
 
-stats.tab.append(
-        {'RCV_ID' : 'SUM', 
+def plot_count(column, stats, path):
+    
+    nc = 'Number ' + column
+    plot = tab(headers = ['Number RCV', nc])
+    clist = stats.extract_column(column)
+    c = Counter(clist)
+    for l,n in c.iteritems():
+        d = {}
+        d['Number RCV'] = l
+        d[nc] = n
+        plot.tab.append(d)
+        plot.validate
+    out_plot = open(re.sub(' ', '_', column) + "_plot.tsv", "w")
+    out_plot.write(plot.print_tab(sort_keys = [nc]))
+    out_plot.close()
+    return plot
+
+mplot = plot_count(column = "Manual only", stats = stats, path = "../mapping_tables/results/" )
+aplot = plot_count(column = "Auto only", stats = stats,   path = "../mapping_tables/results/")
+
+
+summary_stats = tab(headers = ['STAT', 'RCV_name', 
+                                'Auto sufficient', 'Manual only',
+                                'Auto only', 'Manual blacklist',
+                                'Auto blacklist'])
+summary_stats.tab.append(
+        {'STAT' : 'SUM', 
         'RCV_name' : len(Auto_sufficient),
         'Auto sufficient' : sum(Auto_sufficient),
         'Manual only' : sum(Manual_only),
@@ -78,8 +112,8 @@ stats.tab.append(
         'Auto blacklist' : sum(Manual_blacklist)  
         })       
 
-stats.tab.append(
-            {'RCV_ID' : 'AVERAGE',
+summary_stats.tab.append(
+            {'STAT' : 'AVERAGE',
             'RCV_name' : '-',
             'Auto sufficient' : '-',
             'Manual only' : round(average(Manual_only), 2),
@@ -88,8 +122,8 @@ stats.tab.append(
             'Auto blacklist' : round(average(Manual_blacklist), 2)  
             })
 
-stats.tab.append(
-            { 'RCV_ID' : 'MEDIAN',
+summary_stats.tab.append(
+            { 'STAT' : 'MEDIAN',
             'RCV_name' : '',
             'Auto sufficient' : '-',
             'Manual only' : round(median(Manual_only), 2),
@@ -97,19 +131,30 @@ stats.tab.append(
             'Manual blacklist' : round(median(Auto_blacklist), 4),
             'Auto blacklist' : round(median(Manual_blacklist),4)  
             })
+
+
     
     
 #summary = '# Summary of results of automated mapping\n\n' \
 #            '__Number of sufficient mappings__: %d' % total_sufficient_maps
 
 outfile_stats = open("../mapping_tables/results/stats.tsv", "w")
+outfile_summary =  open("../mapping_tables/results/summary_stats.tsv", "w")
 #outfile_summary = open("../mapping_tables/results/stats_summary.md", "w")
 outfile_stats.write(stats.print_tab())
+outfile_summary.write(summary_stats.print_tab())
 outfile_stats.close()
-#outfile_summary.close()
+outfile_summary.close()
+
 
         
             
             
         
+#  A nicer graphical representation: plot number of RCV terms vs number of manual only; plot number RCV terms + number addition auto
 
+# Y axis - len(manual only)
+# X axis - number of RCV terms
+
+# Sort by manual only.
+# Then 
