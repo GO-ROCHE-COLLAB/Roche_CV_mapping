@@ -96,7 +96,7 @@ The approach we describe here is not limited to mapping external vocabularies on
 
 The Gene Ontology is widely used to annotate and group gene products according to their subcellular location (e.g., endoplasmic reticulum), molecular function (e.g., enzyme activity) and their wider role in cellular, developmental and physiological processes (e.g., signal transduction) {\cite{GO2015}). The logical structure of the ontology is used to group genes annotated with related terms and for term enrichment, a technique for determining the over- or under-representation of general classes of gene products in experimental datasets \cite{Shah2012}. Grouping and term enrichment typically only use logical relationships \textit{within} each of the 3 sub-ontologies of the GO - cellular component, molecular function and biological process.
 
-In recent years, GO has switched its underlying formalization to Web Ontology Language (OWL2) (\url{http://www.w3.org/TR/owl2-primer/}), and has dramatically increased the number of logical axioms (Mungall et al., 2014). This new axiomatisation includes many new relationship types, relationships between terms in different GO sub-ontologies and extensive logical links to terms from external ontologies including the cell ontology \cite{Meehan2011}, the chemical ontology ChEBI {\cite{Hastings2012} and the Uberon multi-species anatomy ontology \cite{Haendel2014}.  For example, the chemical participants in over 12,000 processes or functions are specified in the GO via axioms referencing chemical entities defined by ChEBI \cite{Hill2013}. Over 8000 GO classes have some direct or indirect logical link to a term from the Cell ontology or Uberon. These record, for example, the location of cellular components (e.g., the acrosome and its parts are present only in sperm), cell types that are the sole location of some process (e.g., 'natural killer cell degranulation' only occurs in natural killer cells ), and the products of developmental processes (e.g., bone is a product of 'bone morphogenesis').
+In recent years, GO has switched its underlying formalization to Web Ontology Language (OWL2) (\url{http://www.w3.org/TR/owl2-primer/}), and has dramatically increased the number of logical axioms (Mungall et al., 2014). This new axiomatisation includes many new relationship types, relationships between terms in different GO sub-ontologies and extensive logical links to terms from external ontologies including the cell ontology \cite{Meehan2011}, the chemical ontology ChEBI {\cite{Hastings2013} and the Uberon multi-species anatomy ontology \cite{Haendel2014}.  For example, the chemical participants in over 12,000 processes or functions are specified in the GO via axioms referencing chemical entities defined by ChEBI \cite{Hill2013}. Over 8000 GO classes have some direct or indirect logical link to a term from the Cell ontology or Uberon. These record, for example, the location of cellular components (e.g., the acrosome and its parts are present only in sperm), cell types that are the sole location of some process (e.g., 'natural killer cell degranulation' only occurs in natural killer cells ), and the products of developmental processes (e.g., bone is a product of 'bone morphogenesis').
 
 Axiomatisation of the GO is limited to the EL profile of OWL \cite{Mungall2014}. This allows GO infrastructure to take advantage of fast, scalable OWL-EL reasoners such as ELK \cite{kazakov2012} to leverage the classifications in external ontologies to automate classification in GO, and to ensure that classification and querying of the GO will not become intractable as the ontology grows.  There is also great potential for using this axiomatisation to provide new, biologically meaningful systems for grouping annotations and term enrichment.  For example, we might want to group all annotations to genes involved in processes occurring in T-cells or in the pancreas, or to group annotations to genes involved in the processes involving nitric oxide.  In this paper we describe an implementation of this strategy in support of a use case from the pharmaceutical company Roche.
 
@@ -177,7 +177,7 @@ This work was supported by direct funding from Roche.  The Gene Ontology is supp
 
 %\begin{thebibliography}{}
 
-\bibliography{Roche_swat4ls_2015.bib} % Bibliography file (usually '*.bib' )
+\bibliography{Roche_swat4ls_2015} % Bibliography file (usually '*.bib' )
 
 \bibliographystyle{plain}
 
@@ -202,14 +202,14 @@ This work was supported by direct funding from Roche.  The Gene Ontology is supp
 
 \begin{figure}
 \centering
-\includegraphics[width=160mm]{man_only.png}
+\includegraphics[width=70mm]{man_only.png}
 \caption{Figure 1 Distrution of manual only mappings. A: Number of terms (Y-axis) vs number of manual mappings (X-axis) (cut-off at 20 manual mappings). 1B: Distribution of manual only mapping: 104 terms have no manual-mappings at all.  A further 148 have between 1 and 10.  The largest number of manual-only mappings for a single RCV terms was 323}
 \label{fig:man_only}
 \end{figure}
 
 \begin{figure}
 \centering
-\includegraphics[width=160mm]{auto_only.png}
+\includegraphics[width=70mm]{auto_only.png}
 \caption{Figure 2 - Distribution of auto only mappings
 X axis = number of auto-only mappings.  Y axis = Number of RCV terms.  Most mapping queries found under 100 additional (auto only) mappings, but over 75 found between 101 and 1000 and a few mapping queries found between 1001 and 10000 new mappings.}
 \label{fig:auto_only}
@@ -217,53 +217,50 @@ X axis = number of auto-only mappings.  Y axis = Number of RCV terms.  Most mapp
 
 \begin{figure}
 \centering
-\includegraphics[width=160mm]{amigo.png}
+\includegraphics[width=70mm]{amigo.png}
 \caption{Figure 3: The Amigo GO browsing tool page for T cells displays annotations to processes that only occur in T-cells.  From http://amigo.geneontology.org/amigo/term/CL:0000084}
-}
 \label{fig:amigo}
 \end{figure}
 
 \section{Tables}
 
 
-% \section*{Tables}
-%    \subsection*{Table 1: Example mapping table.}
-%      \mbox{
-%       \begin{tabular} { c c c c c c c } \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\\hline
-%        regulation of endocannabinoid signaling pathway&GO\_2000124&1&1&1&0&0 \\\hline
-%        cannabinoid signaling pathway&GO\_0038171&1&1&1&0&0 \\\hline
-%        endocannabinoid signaling pathway&GO\_0071926&0&1&0&0&0 \\\hline
-%        cannabinoid receptor activity&GO\_0004949&0&1&0&0&0 \\\hline
-%        cannabinoid biosynthetic process&GO\_1901696&0&1&0&0&0 \\\hline
-%        \end{tabular}
-%        }
+\begin{table}
+ \caption{Table 1: Example mapping table.}
+      \begin{tabular} {| c |  c |  c |  c |  c |  c  | c |}
+        \hline
+        \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\ \hline 
+        regulation of endocannabinoid signaling pathway&GO\_2000124&1&1&1&0&0 \\ \hline
+        cannabinoid signaling pathway&GO\_0038171&1&1&1&0&0 \\ \hline
+        endocannabinoid signaling pathway&GO\_0071926&0&1&0&0&0 \\ \hline
+        cannabinoid receptor activity&GO\_0004949&0&1&0&0&0 \\ \hline
+        cannabinoid biosynthetic process&GO\_1901696&0&1&0&0&0 \\ \hline
+        \end{tabular}
+ \end{table}
 
 
 \begin{table}
  \caption{\textbf{Table 2: Summary of mappings.}\textit{Auto sufficient:} Number of RCV terms for which no manual mapping required; \textit{Manual only}: Number of GO terms only in manual mapping,  \textit{Auto only}: Number of GO terms only in automated mapping; \textit{Manual blacklist} Number of blacklisted manually mapped terms; \textit{Auto blacklist}: blacklisted terms in automated mapping. Average and median values are per RCV term.}
-\begin{tabular}{| c |  c |  c |  c |  c |  c  | c |}
+\begin{tabular}  {| c |  c |  c |  c |  c |  c  | c |}
 \hline
- \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\ \hline 
- regulation of endocannabinoid signaling pathway&GO\_2000124&1&1&1&0&0 \\ \hline
- cannabinoid signaling pathway&GO\_0038171&1&1&1&0&0\hline
- endocannabinoid signaling pathway&GO\_0071926&0&1&0&0&0\hline
- cannabinoid receptor activity&GO\_0004949&0&1&0&0&0\hline
- cannabinoid biosynthetic process&GO\_1901696&0&1&0&0&0\hline
- \end{tabular}
+STAT&RCV\_name&Auto sufficient&Manual only&Auto only&Manual blacklist&Auto blacklist \\ \hline
+SUM&308&104&4133&44012&81&70 \\ \hline
+AVERAGE&-&-&13.42&142.9&0.26&0.23 \\ \hline
+MEDIAN&&-&2.0&25.0&0.0&0.0 \\ \hline
+\end{tabular}
  \end{table}
  
 
-%  \subsection*{Table 3: Common mapping queries}
-%       \par
-%       \mbox{
-%         \begin{tabular}{|p{7.5cm}|p{7.5cm}|}
-% \textbf{RCV term name pattern}&\textbf{Most common mapping query (relation + target class ontology)}&\textbf{No. cases different mapping query used} \\\hline
-% chemical (e.g. cannabinoid)&participant_OR_reg_participant + ChEBI (used 22 times)&7 \\\hline
-% chemical metabolism (e.g. &Equivalence + GO (used 34 times)&6 \\\hline
-% cell type (e.g. T cell)&parts_participation_location + CL (covers parts, participant processes and processes occurring in cell type. used 30 times)&1 \\\hline
-% X development (e.g. bone development)&is_a_OR_part_of_OR_regulates + GO (used 41 times)&6 \\\hline
-% X pathway/signalling (e.g. BMP signalling)&is_a_OR_part_of_OR_regulates + GO (used 21 times)&6 \\\hline
-%         \end{tabular}
-%         }
+\begin{table}
+\caption{Table 3: Common mapping queries}
+\begin{tabular}{|c|c|c|}
+  \textbf{RCV term name pattern}&\textbf{Most common mapping query (relation + target class ontology)}&\textbf{No. cases different mapping query used} \\\hline
+  chemical (e.g. cannabinoid)&participant\_OR\_reg\_participant + ChEBI (used 22 times)&7 \\\hline
+  chemical metabolism (e.g. &Equivalence + GO (used 34 times)&6 \\\hline 
+  cell type (e.g. T cell)&parts\_participation\_location + CL (covers parts, participant processes and processes occurring in cell type. used 30 times)&1 \\\hline
+  X development (e.g. bone development)&is\_a\_OR\_part\_of\_OR\_regulates + GO (used 41 times)&6 \\\hline
+  X pathway/signalling (e.g. BMP signalling)&is\_a\_OR\_part\_of\_OR\_regulates + GO (used 21 times)&6 \\\hline
+\end{tabular}
+\end{table}
 
 \end{document}

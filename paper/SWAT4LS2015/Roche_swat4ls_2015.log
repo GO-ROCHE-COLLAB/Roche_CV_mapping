@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.13)  13 AUG 2015 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.13)  13 AUG 2015 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -259,30 +259,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 79.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Warning: Citation `Shah2012' on page 1 undefined on input line 97.
-
-
-LaTeX Warning: Citation `Meehan2011' on page 1 undefined on input line 99.
-
-
-LaTeX Warning: Citation `Hastings2012' on page 1 undefined on input line 99.
-
-
-LaTeX Warning: Citation `Haendel2014' on page 1 undefined on input line 99.
-
-
-LaTeX Warning: Citation `Hill2013' on page 1 undefined on input line 99.
+LaTeX Warning: Citation `Hastings2013' on page 1 undefined on input line 99.
 
 [1
 
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `kazakov2012' on page 2 undefined on input line 101.
-
-
-LaTeX Warning: Citation `kazakov2012' on page 2 undefined on input line 113.
-
 [2]
 Overfull \hbox (42.53915pt too wide) in paragraph at lines 120--124
 []\OT1/cmr/bx/n/10 regulates \OT1/cmr/m/it/10 o \OT1/cmr/bx/n/10 has[]participa
@@ -297,52 +279,28 @@ tyOf \OT1/cmr/bx/n/10 par-tic-i-pant[]OR[]reg[]participant
  []
 
 [3] [4]
-
-LaTeX Warning: Citation `Dietze2014' on page 5 undefined on input line 155.
-
-
 Overfull \hbox (13.74933pt too wide) in paragraph at lines 160--161
 \OT1/cmr/m/n/10 GitHub repos-i-tory ($\OT1/cmtt/m/n/10 https : / / github . com
  / GO-[]ROCHE-[]COLLAB / Roche _ CV _ mapping$\OT1/cmr/m/n/10 ).
  []
 
-
-LaTeX Warning: Citation `kazakov2012' on page 5 undefined on input line 164.
-
-(./Roche_swat4ls_2015.bbl [5]) <man_only.png, id=28, 300.12125pt x 459.7175pt>
+(./Roche_swat4ls_2015.bbl [5]) <man_only.png, id=29, 300.12125pt x 459.7175pt>
 File: man_only.png Graphic file (type png)
 
 <use man_only.png>
 Package pdftex.def Info: man_only.png used on input line 205.
-(pdftex.def)             Requested size: 455.24408pt x 697.38895pt.
-
-Overfull \hbox (108.12054pt too wide) in paragraph at lines 205--206
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 213.25067pt on input line 208.
-
-<auto_only.png, id=30, 322.20375pt x 247.92625pt>
+(pdftex.def)             Requested size: 199.16928pt x 305.091pt.
+ <auto_only.png, id=31, 322.20375pt x 247.92625pt>
 File: auto_only.png Graphic file (type png)
- <use auto_only.png>
+
+<use auto_only.png>
 Package pdftex.def Info: auto_only.png used on input line 212.
-(pdftex.def)             Requested size: 455.24408pt x 350.30997pt.
-
-Overfull \hbox (108.12054pt too wide) in paragraph at lines 212--214
- [][] 
- []
-
-<amigo.png, id=31, 512.91624pt x 521.95pt>
+(pdftex.def)             Requested size: 199.16928pt x 153.25871pt.
+ <amigo.png, id=32, 512.91624pt x 521.95pt>
 File: amigo.png Graphic file (type png)
  <use amigo.png>
 Package pdftex.def Info: amigo.png used on input line 220.
-(pdftex.def)             Requested size: 455.24408pt x 463.2677pt.
-
-Overfull \hbox (108.12054pt too wide) in paragraph at lines 220--221
- [][] 
- []
-
+(pdftex.def)             Requested size: 199.16928pt x 202.67563pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 221--221
 []\OT1/cmr/bx/n/9 Fig.3. \OT1/cmr/m/n/9 Fig-ure 3: The Amigo GO brows-ing tool 
@@ -355,212 +313,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--221
 ls. From
  []
 
-! Extra }, or forgotten \endgroup.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.224 \end{figure}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.248 ...aling pathway&GO\_0038171&1&1&1&0&0\hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.248 ...aling pathway&GO\_0038171&1&1&1&0&0\hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.248 ...aling pathway&GO\_0038171&1&1&1&0&0\hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.248 ...aling pathway&GO\_0038171&1&1&1&0&0\hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.249  endocannabinoid signaling pathway&
-                                         GO\_0071926&0&1&0&0&0\hline
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.249 ...aling pathway&GO\_0071926&0&1&0&0&0\hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.249 ...aling pathway&GO\_0071926&0&1&0&0&0\hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.249 ...aling pathway&GO\_0071926&0&1&0&0&0\hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.249 ...aling pathway&GO\_0071926&0&1&0&0&0\hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.250  cannabinoid receptor activity&GO\_0004949&
-                                                 0&1&0&0&0\hline
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.250 ...ptor activity&GO\_0004949&0&1&0&0&0\hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.250 ...ptor activity&GO\_0004949&0&1&0&0&0\hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.250 ...ptor activity&GO\_0004949&0&1&0&0&0\hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.250 ...ptor activity&GO\_0004949&0&1&0&0&0\hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.251 ...inoid biosynthetic process&GO\_1901696&0&
-                                                  1&0&0&0\hline
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.251 ...hetic process&GO\_1901696&0&1&0&0&0\hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.251 ...hetic process&GO\_1901696&0&1&0&0&0\hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.251 ...hetic process&GO\_1901696&0&1&0&0&0\hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.251 ...hetic process&GO\_1901696&0&1&0&0&0\hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Overfull \hbox (467.69728pt too wide) in paragraph at lines 244--253
+Overfull \hbox (108.45601pt too wide) in paragraph at lines 230--239
 [][] 
  []
 
-[6] [7 <./man_only.png>] [8 <./auto_only.png>] [9 <./amigo.png>]
-(./Roche_swat4ls_2015.aux) )
+
+Overfull \hbox (37.79126pt too wide) in paragraph at lines 244--251
+[][] 
+ []
+
+
+Overfull \hbox (515.10217pt too wide) in paragraph at lines 256--264
+[][] 
+ []
+
+[6] [7 <./man_only.png>] [8 <./auto_only.png> <./amigo.png>] [9]
+(./Roche_swat4ls_2015.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
 (\end occurred inside a group at level 2)
 
 ### simple group (level 2) entered at line 99 ({)
 ### simple group (level 1) entered at line 97 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2312 strings out of 494501
- 31319 string characters out of 6167030
- 97152 words of memory out of 5000000
- 5558 multiletter control sequences out of 15000+600000
+ 2314 strings out of 494501
+ 31336 string characters out of 6167030
+ 101170 words of memory out of 5000000
+ 5560 multiletter control sequences out of 15000+600000
  11126 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,8n,26p,1256b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,26p,1256b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pu
@@ -573,7 +359,7 @@ nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015basic/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015basic/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Roche_swat4ls_2015.pdf (9 pages, 288230 bytes).
+Output written on Roche_swat4ls_2015.pdf (9 pages, 298539 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

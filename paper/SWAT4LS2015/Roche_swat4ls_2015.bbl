@@ -1,38 +1,61 @@
 \begin{thebibliography}{1}
 
 \bibitem{GO2015}
-J.~A. Blake, K.~R. Christie, M.~E. Dolan, H.~J. Drabkin, D.~P. Hill, L.~Ni,
-  D.~Sitnikov, S.~Burgess, T.~Buza, C.~Gresham, F.~McCarthy, L.~Pillai,
-  H.~Wang, S.~Carbon, H.~Dietze, S.~E. Lewis, C.~J. Mungall, M.~C.
-  Munoz-Torres, M.~Feuermann, P.~Gaudet, S.~Basu, R.~L. Chisholm, R.~J. Dodson,
-  P.~Fey, H.~Mi, P.~D. Thomas, A.~Muruganujan, S.~Poudel, J.~C. Hu, S.~A.
-  Aleksander, B.~K. McIntosh, D.~P. Renfro, D.~A. Siegele, H.~Attrill, N.~H.
-  Brown, S.~Tweedie, J.~Lomax, D.~Osumi-Sutherland, H.~Parkinson, P.~Roncaglia,
-  R.~C. Lovering, P.~J. Talmud, S.~E. Humphries, P.~Denny, N.~H. Campbell,
-  R.~E. Foulger, M.~C. Chibucos, M.~Gwinn~Giglio, H.~Y. Chang, R.~Finn,
-  M.~Fraser, A.~Mitchell, G.~Nuka, S.~Pesseat, A.~Sangrador, M.~Scheremetjew,
-  S.~Y. Young, R.~Stephan, M.~A. Harris, S.~G. Oliver, K.~Rutherford, V.~Wood,
-  J.~Bahler, A.~Lock, P.~J. Kersey, M.~D. McDowall, D.~M. Staines, M.~Dwinell,
-  M.~Shimoyama, S.~Laulederkind, G.~T. Hayman, S.~J. Wang, V.~Petri,
-  P.~D'Eustachio, L.~Matthews, R.~Balakrishnan, G.~Binkley, J.~M. Cherry, M.~C.
-  Costanzo, J.~Demeter, S.~S. Dwight, S.~R. Engel, B.~C. Hitz, D.~O. Inglis,
-  P.~Lloyd, S.~R. Miyasato, K.~Paskov, G.~Roe, M.~Simison, R.~S. Nash, M.~S.
-  Skrzypek, S.~Weng, E.~D. Wong, T.~Z. Berardini, D.~Li, E.~Huala,
-  J.~Argasinska, C.~Arighi, A.~Auchincloss, K.~Axelsen, G.~Argoud-Puy,
-  A.~Bateman, B.~Bely, M.~C. Blatter, C.~Bonilla, L.~Bougueleret, E.~Boutet,
-  L.~Breuza, A.~Bridge, R.~Britto, C.~Casals, E.~Cibrian-Uhalte, E.~Coudert,
-  I.~Cusin, P.~Duek-Roggli, A.~Estreicher, L.~Famiglietti, P.~Gane, P.~Garmiri,
-  A.~Gos, N.~Gruaz-Gumowski, E.~Hatton-Ellis, U.~Hinz, C.~Hulo, R.~Huntley,
-  F.~Jungo, G.~Keller, K.~Laiho, P.~Lemercier, D.~Lieberherr, A.~MacDougall,
-  M.~Magrane, M.~Martin, P.~Masson, P.~Mutowo, C.~O'Donovan, I.~Pedruzzi,
-  K.~Pichler, D.~Poggioli, S.~Poux, C.~Rivoire, B.~Roechert, T.~Sawford,
-  M.~Schneider, A.~Shypitsyna, A.~Stutz, S.~Sundaram, M.~Tognolli, C.~Wu,
-  I.~Xenarios, J.~Chan, R.~Kishore, P.~W. Sternberg, K.~Van~Auken, H.~M.
-  Muller, J.~Done, Y.~Li, D.~Howe, and M.~Westerfield.
-\newblock {{G}ene {O}ntology {C}onsortium: going forward}.
-\newblock {\em Nucleic Acids Res.}, 43(Database issue):D1049--1056, Jan 2015.
+
+
+\bibitem{Dietze2014}
+H.~Dietze, T.~Z. Berardini, R.~E. Foulger, D.~P. Hill, J.~Lomax,
+  D.~Osumi-Sutherland, P.~Roncaglia, and C.~J. Mungall.
+\newblock {{T}erm{G}enie - a web-application for pattern-based ontology class
+  generation}.
+\newblock {\em J Biomed Semantics}, 5:48, 2014.
+
+\bibitem{Haendel2014}
+M.~A. Haendel, J.~P. Balhoff, F.~B. Bastian, D.~C. Blackburn, J.~A. Blake,
+  Y.~Bradford, A.~Comte, W.~M. Dahdul, T.~A. Dececchi, R.~E. Druzinsky, T.~F.
+  Hayamizu, N.~Ibrahim, S.~E. Lewis, P.~M. Mabee, A.~Niknejad,
+  M.~Robinson-Rechavi, P.~C. Sereno, and C.~J. Mungall.
+\newblock {{U}nification of multi-species vertebrate anatomy ontologies for
+  comparative biology in {U}beron}.
+\newblock {\em J Biomed Semantics}, 5:21, 2014.
+
+\bibitem{Hastings2013}
+J.~Hastings, P.~de~Matos, A.~Dekker, M.~Ennis, B.~Harsha, N.~Kale,
+  V.~Muthukrishnan, G.~Owen, S.~Turner, M.~Williams, and C.~Steinbeck.
+\newblock {{T}he {C}h{E}{B}{I} reference database and ontology for biologically
+  relevant chemistry: enhancements for 2013}.
+\newblock {\em Nucleic Acids Res.}, 41(Database issue):D456--463, Jan 2013.
+
+\bibitem{Hill2013}
+David~P Hill, Nico Adams, Mike Bada, Colin Batchelor, Tanya~Z Berardini, Heiko
+  Dietze, Harold~J Drabkin, Marcus Ennis, Rebecca~E Foulger, Midori~A Harris,
+  Janna Hastings, Namrata~S Kale, Paula de~Matos, Christopher Mungall, Gareth
+  Owen, Paola Roncaglia, Christoph Steinbeck, Steve Turner, and Jane Lomax.
+\newblock {Dovetailing biology and chemistry: integrating the Gene Ontology
+  with the ChEBI chemical ontology.}
+\newblock {\em BMC genomics}, 14(1):513, January 2013.
+
+\bibitem{kazakov2012}
+Yevgeny Kazakov, Markus Kr{\"o}tzsch, and Franti{\v{s}}ek Siman{\v{c}}{\'\i}k.
+\newblock Elk reasoner: Architecture and evaluation.
+\newblock {\em CEUR Workshop Proceedings}, 858, 2012.
+
+\bibitem{Meehan2011}
+T.~F. Meehan, A.~M. Masci, A.~Abdulla, L.~G. Cowell, J.~A. Blake, C.~J.
+  Mungall, and A.~D. Diehl.
+\newblock {{L}ogical development of the cell ontology}.
+\newblock {\em BMC Bioinformatics}, 12:6, 2011.
 
 \bibitem{Mungall2014}
 C.~Mungall, H.~Deitze, and D.~Osumi-Sutherland.
+\newblock {{U}se of {O}{W}{L} within the {G}ene {O}ntology.}
+\newblock In C.~Maria~Keet and V.~Tamma, editors, {\em {Proceedings of the 11th
+  International Workshop on OWL: Experiences and Directions (OWLED 2014)}},
+  volume 1265 of {\em CEUR workshop proceedings}, pages 25--36, 2014.
+
+\bibitem{Shah2012}
+N.~H. Shah, T.~Cole, and M.~A. Musen.
+\newblock {{C}hapter 9: {A}nalyses using disease ontologies}.
+\newblock {\em PLoS Comput. Biol.}, 8(12):e1002827, 2012.
 
 \end{thebibliography}
