@@ -3,55 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Roche_swat4ls_2015.aux
 The style file: plain.bst
 Database file #1: Roche_swat4ls_2015.bib
-You're missing a field name---line 229 of file Roche_swat4ls_2015.bib
- : 
- : %   Author="Blake, J. A.  and Christie, K. R.  and Dolan, M. E.  and Drabkin, H. J.  and Hill, D. P.  and Ni, L.  and Sitnikov, D.  and Burgess, S.  and Buza, T.  and Gresham, C.  and McCarthy, F.  and Pillai, L.  and Wang, H.  and Carbon, S.  and Dietze, H.  and Lewis, S. E.  and Mungall, C. J.  and Munoz-Torres, M. C.  and Feuermann, M.  and Gaudet, P.  and Basu, S.  and Chisholm, R. L.  and Dodson, R. J.  and Fey, P.  and Mi, H.  and Thomas, P. D.  and Muruganujan, A.  and Poudel, S.  and Hu, J. C.  and Aleksander, S. A.  and McIntosh, B. K.  and Renfro, D. P.  and Siegele, D. A.  and Attrill, H.  and Brown, N. H.  and Tweedie, S.  and Lomax, J.  and Osumi-Sutherland, D.  and Parkinson, H.  and Roncaglia, P.  and Lovering, R. C.  and Talmud, P. J.  and Humphries, S. E.  and Denny, P.  and Campbell, N. H.  and Foulger, R. E.  and Chibucos, M. C.  and Gwinn Giglio, M.  and Chang, H. Y.  and Finn, R.  and Fraser, M.  and Mitchell, A.  and Nuka, G.  and Pesseat, S.  and Sangrador, A.  and Scheremetjew, M.  and Young, S. Y.  and Stephan, R.  and Harris, M. A.  and Oliver, S. G.  and Rutherford, K.  and Wood, V.  and Bahler, J.  and Lock, A.  and Kersey, P. J.  and McDowall, M. D.  and Staines, D. M.  and Dwinell, M.  and Shimoyama, M.  and Laulederkind, S.  and Hayman, G. T.  and Wang, S. J.  and Petri, V.  and D'Eustachio, P.  and Matthews, L.  and Balakrishnan, R.  and Binkley, G.  and Cherry, J. M.  and Costanzo, M. C.  and Demeter, J.  and Dwight, S. S.  and Engel, S. R.  and Hitz, B. C.  and Inglis, D. O.  and Lloyd, P.  and Miyasato, S. R.  and Paskov, K.  and Roe, G.  and Simison, M.  and Nash, R. S.  and Skrzypek, M. S.  and Weng, S.  and Wong, E. D.  and Berardini, T. Z.  and Li, D.  and Huala, E.  and Argasinska, J.  and Arighi, C.  and Auchincloss, A.  and Axelsen, K.  and Argoud-Puy, G.  and Bateman, A.  and Bely, B.  and Blatter, M. C.  and Bonilla, C.  and Bougueleret, L.  and Boutet, E.  and Breuza, L.  and Bridge, A.  and Britto, R.  and Casals, C.  and Cibrian-Uhalte, E.  and Coudert, E.  and Cusin, I.  and Duek-Roggli, P.  and Estreicher, A.  and Famiglietti, L.  and Gane, P.  and Garmiri, P.  and Gos, A.  and Gruaz-Gumowski, N.  and Hatton-Ellis, E.  and Hinz, U.  and Hulo, C.  and Huntley, R.  and Jungo, F.  and Keller, G.  and Laiho, K.  and Lemercier, P.  and Lieberherr, D.  and MacDougall, A.  and Magrane, M.  and Martin, M.  and Masson, P.  and Mutowo, P.  and O'Donovan, C.  and Pedruzzi, I.  and Pichler, K.  and Poggioli, D.  and Poux, S.  and Rivoire, C.  and Roechert, B.  and Sawford, T.  and Schneider, M.  and Shypitsyna, A.  and Stutz, A.  and Sundaram, S.  and Tognolli, M.  and Wu, C.  and Xenarios, I.  and Chan, J.  and Kishore, R.  and Sternberg, P. W.  and Van Auken, K.  and Muller, H. M.  and Done, J.  and Li, Y.  and Howe, D.  and Westerfield, M. ",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--to sort, need author or key in GO2015
-Warning--empty author in GO2015
-Warning--empty title in GO2015
-Warning--empty journal in GO2015
-Warning--empty year in GO2015
 You've used 9 entries,
             2118 wiz_defined-function locations,
-            558 strings with 6387 characters,
-and the built_in function-call counts, 4378 in all, are:
-= -- 359
-> -- 393
+            563 strings with 6479 characters,
+and the built_in function-call counts, 4547 in all, are:
+= -- 384
+> -- 399
 < -- 2
-+ -- 155
-- -- 146
-* -- 425
-:= -- 781
-add.period$ -- 25
++ -- 157
+- -- 148
+* -- 433
+:= -- 818
+add.period$ -- 27
 call.type$ -- 9
-change.case$ -- 98
+change.case$ -- 100
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 108
-empty$ -- 217
-format.name$ -- 146
-if$ -- 825
+cite$ -- 9
+duplicate$ -- 109
+empty$ -- 229
+format.name$ -- 148
+if$ -- 862
 int.to.chr$ -- 0
 int.to.str$ -- 9
 missing$ -- 9
-newline$ -- 46
-num.names$ -- 18
-pop$ -- 94
+newline$ -- 48
+num.names$ -- 20
+pop$ -- 86
 preamble$ -- 1
-purify$ -- 90
+purify$ -- 91
 quote$ -- 0
 skip$ -- 75
 stack$ -- 0
-substring$ -- 141
-swap$ -- 18
+substring$ -- 175
+swap$ -- 19
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 36
-warning$ -- 5
-while$ -- 26
+warning$ -- 0
+while$ -- 30
 width$ -- 10
-write$ -- 95
-(There was 1 error message)
+write$ -- 102

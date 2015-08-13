@@ -52,7 +52,7 @@
 % their surnames. This ensures that the names appear correctly in
 % the running heads and the author index.
 %
-\author{David Osumi-Sutherland$^1*$}  % TBA
+\author{David Osumi-Sutherland$^1*$, Others TBA}  % TBA
 
 %
 \authorrunning{Cell, chemical and anatomical views of the Gene Ontology.}
@@ -127,7 +127,13 @@ In order to keep the mapping process simple, we added a further restriction: onl
 
 The heavy use of OWL Object Property axioms to compensate for loss of expressivity tends to obscure the semantics of mappings. In order to communicate the meanings of mappings clearly, we used a script to generate human readable descriptions for each mapping query.  For example, we mapped the RCV term cannabinoid to the ChEBI term cannabinoid (CHEBI:67194) plus pattern \textbf{participant\_OR\_reg\_participant}.  The automated description of the mapping reads:  "A process in which a cannabinoid participates, or that regulates a process in which a cannabinoid participates."
 
-Each mapping was used to generate a mapping table for manual review (see Table 1 for example), allowing the possibility of blacklisting either automated mappings or manual mappings (as a way of specifying corrections to the original manual mapping).
+Each mapping was used to generate a mapping table for manual review (an example is shown in table \ref{tab:mapping}), allowing the possibility of blacklisting either automated mappings or manual mappings (as a way of specifying corrections to the original manual mapping).
+
+\subsection{Summary of results}
+
+We successfully mapped 308/364 RCV terms to mapping queries.  As shown in table \ref{tab:summary_stats}, over a third (104) of the mapping queries were sufficient - meaning that no manual maintenance is required - and a further third of the mappings (148) had 10 or fewer additional manual mappings (figure \ref{fig:man_only})
+
+Mapping queries found many GO terms that were not in the manual mapping (see figure \ref{fig:auto_only}).  For a few very general RCV classes (e.g. enzyme), over 1000 new mappings were found. Very few automated mappings were blacklisted - just 70 terms in total.  Blacklisting of terms ensured they were removed from the final mapping.
 
 
 \section{Discussion and future directions}
@@ -136,7 +142,7 @@ This work demonstrates how the logical structure of the GO can be used to achiev
 
 \subsection{Improving the RCV mapping pathway}
 
-There is good scope for improving the mapping between RCV and GO so that it is more thoroughly automated. As shown in table 2, the mapping between RCV term names and mapping patterns is reasonably consistent, but, there are exceptions to these mappings.  More consistency in naming will make the meaning of terms more predictable and make the mapping of new terms more straightforward. 
+There is good scope for improving the mapping between RCV and GO so that it is more thoroughly automated. As shown in \ref{mapping_patterns} RCV term names follow patterns that mostly have consistent mappings patterns, but there are some exceptions.  More consistency in naming will make the meaning of terms more predictable and make the mapping of new terms more straightforward. 
 
 For RCV terms with only a small number of additional manual mappings, it may be worth considering whether the overhead of manual maintenance is worth the effort, especially where these additional mappings could not be achieved by further axiomatisation of the GO.  For example, mappings to cell types often include mappings to growth factors acting on those cell types.  As these growth factors have much broader functions than action on the cell types for which they are named, GO is unable to add any formal link between factors and cell types.
 
@@ -146,7 +152,7 @@ In other cases a mapping pattern involving two or more specified classes and a m
 
 \subsection{Alternative views of the GO and its annotations}
 
-The mechanisms described here for mapping to external ontologies could also be used for providing alternative views of the GO and its annotations.  This is already reflected in some of the newer functionalities of the GO browsing tool AMIGO, which now displayed inferred annotations to cell-types based on axioms in GO recording where processes occur.  Figure 3 shows an AMIGO display of annotations to gene involved in processes occurring in T-Cells
+The mechanisms described here for mapping to external ontologies could also be used for providing alternative views of the GO and its annotations.  This is already reflected in some of the newer functionalities of the GO browsing tool AMIGO, which now displayed inferred annotations to cell-types based on axioms in GO recording where processes occur.  \ref{{fig:amigo} shows an AMIGO display of annotations to gene involved in processes occurring in T-Cells
 
 \subsection{Future work}
 
@@ -203,31 +209,30 @@ This work was supported by direct funding from Roche.  The Gene Ontology is supp
 \begin{figure}
 \centering
 \includegraphics[width=70mm]{man_only.png}
-\caption{Figure 1 Distrution of manual only mappings. A: Number of terms (Y-axis) vs number of manual mappings (X-axis) (cut-off at 20 manual mappings). 1B: Distribution of manual only mapping: 104 terms have no manual-mappings at all.  A further 148 have between 1 and 10.  The largest number of manual-only mappings for a single RCV terms was 323}
+\caption{\texbf{Distrution of manual only mappings.} A: Number of terms (Y-axis) vs number of manual mappings (X-axis) (cut-off at 20 manual mappings). 1B: Distribution of manual only mapping: 104 terms have no manual-mappings at all.  A further 148 have between 1 and 10.  The largest number of manual-only mappings for a single RCV terms was 323}
 \label{fig:man_only}
 \end{figure}
 
 \begin{figure}
 \centering
 \includegraphics[width=70mm]{auto_only.png}
-\caption{Figure 2 - Distribution of auto only mappings
+\caption{\texbf{Distribution of auto only mappings.}
 X axis = number of auto-only mappings.  Y axis = Number of RCV terms.  Most mapping queries found under 100 additional (auto only) mappings, but over 75 found between 101 and 1000 and a few mapping queries found between 1001 and 10000 new mappings.}
 \label{fig:auto_only}
 \end{figure}
 
 \begin{figure}
 \centering
-\includegraphics[width=70mm]{amigo.png}
-\caption{Figure 3: The Amigo GO browsing tool page for T cells displays annotations to processes that only occur in T-cells.  From http://amigo.geneontology.org/amigo/term/CL:0000084}
+\includegraphics[width=100mm]{amigo.png}
+\caption{\texbf{The AmiGO GO browsing tool displayes annotations to cells.}  The  T cell page on AmiGO displays annotations to processes that only occur in T-cells.  From http://amigo.geneontology.org/amigo/term/CL:0000084}
 \label{fig:amigo}
 \end{figure}
 
-\section{Tables}
-
 
 \begin{table}
- \caption{Table 1: Example mapping table.}
-      \begin{tabular} {| c |  c |  c |  c |  c |  c  | c |}
+ \caption{Example mapping table.}
+      \label{tab:mapping}
+      \begin{tabular} {| p{4cm} |  c |  c |  c |  c |  c  | c |}
         \hline
         \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\ \hline 
         regulation of endocannabinoid signaling pathway&GO\_2000124&1&1&1&0&0 \\ \hline
@@ -240,7 +245,8 @@ X axis = number of auto-only mappings.  Y axis = Number of RCV terms.  Most mapp
 
 
 \begin{table}
- \caption{\textbf{Table 2: Summary of mappings.}\textit{Auto sufficient:} Number of RCV terms for which no manual mapping required; \textit{Manual only}: Number of GO terms only in manual mapping,  \textit{Auto only}: Number of GO terms only in automated mapping; \textit{Manual blacklist} Number of blacklisted manually mapped terms; \textit{Auto blacklist}: blacklisted terms in automated mapping. Average and median values are per RCV term.}
+ \caption{\textbf{Summary of mappings.}\textit{Auto sufficient:} Number of RCV terms for which no manual mapping required; \textit{Manual only}: Number of GO terms only in manual mapping,  \textit{Auto only}: Number of GO terms only in automated mapping; \textit{Manual blacklist} Number of blacklisted manually mapped terms; \textit{Auto blacklist}: blacklisted terms in automated mapping. Average and median values are per RCV term.}
+\label{tab:summary_stats}
 \begin{tabular}  {| c |  c |  c |  c |  c |  c  | c |}
 \hline
 STAT&RCV\_name&Auto sufficient&Manual only&Auto only&Manual blacklist&Auto blacklist \\ \hline
@@ -252,8 +258,10 @@ MEDIAN&&-&2.0&25.0&0.0&0.0 \\ \hline
  
 
 \begin{table}
-\caption{Table 3: Common mapping queries}
-\begin{tabular}{|c|c|c|}
+\caption{\texbf{Common mapping queries}}
+\label{mapping_patterns}
+\begin{tabular}{|p{5cm}|p{5cm}|p{5cm}|}
+\hline
   \textbf{RCV term name pattern}&\textbf{Most common mapping query (relation + target class ontology)}&\textbf{No. cases different mapping query used} \\\hline
   chemical (e.g. cannabinoid)&participant\_OR\_reg\_participant + ChEBI (used 22 times)&7 \\\hline
   chemical metabolism (e.g. &Equivalence + GO (used 34 times)&6 \\\hline 

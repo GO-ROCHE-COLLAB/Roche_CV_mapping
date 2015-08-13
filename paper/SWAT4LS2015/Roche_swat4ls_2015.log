@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.13)  13 AUG 2015 22:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.13)  13 AUG 2015 23:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,15 +257,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 79.
 
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Citation `Hastings2013' on page 1 undefined on input line 99.
-
-[1
+) [1
 
 
-{/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
+{/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+]
 Overfull \hbox (42.53915pt too wide) in paragraph at lines 120--124
 []\OT1/cmr/bx/n/10 regulates \OT1/cmr/m/it/10 o \OT1/cmr/bx/n/10 has[]participa
 nt \OT1/cmr/m/it/10 sub-Prop-er-tyOf \OT1/cmr/bx/n/10 par-tic-i-pant[]OR[]reg[]
@@ -278,75 +274,229 @@ Overfull \hbox (46.38232pt too wide) in paragraph at lines 120--124
 tyOf \OT1/cmr/bx/n/10 par-tic-i-pant[]OR[]reg[]participant
  []
 
-[3] [4]
-Overfull \hbox (13.74933pt too wide) in paragraph at lines 160--161
+[3]
+Runaway argument?
+{{fig:amigo} shows an AMIGO display of annotations to gene involved i\ETC.
+! Paragraph ended before \ref was complete.
+<to be read again> 
+                   \par 
+l.156 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[4]
+Overfull \hbox (13.74933pt too wide) in paragraph at lines 166--167
 \OT1/cmr/m/n/10 GitHub repos-i-tory ($\OT1/cmtt/m/n/10 https : / / github . com
  / GO-[]ROCHE-[]COLLAB / Roche _ CV _ mapping$\OT1/cmr/m/n/10 ).
  []
 
-(./Roche_swat4ls_2015.bbl [5]) <man_only.png, id=29, 300.12125pt x 459.7175pt>
+(./Roche_swat4ls_2015.bbl [5]) <man_only.png, id=28, 300.12125pt x 459.7175pt>
 File: man_only.png Graphic file (type png)
 
 <use man_only.png>
-Package pdftex.def Info: man_only.png used on input line 205.
+Package pdftex.def Info: man_only.png used on input line 211.
 (pdftex.def)             Requested size: 199.16928pt x 305.091pt.
- <auto_only.png, id=31, 322.20375pt x 247.92625pt>
-File: auto_only.png Graphic file (type png)
 
-<use auto_only.png>
-Package pdftex.def Info: auto_only.png used on input line 212.
+! Undefined control sequence.
+<argument> ...e \endcsname }{\ignorespaces \texbf 
+                                                  {Distrution of manual only...
+l.212 ... mappings for a single RCV terms was 323}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... \endcsname .} \ignorespaces \texbf 
+                                                  {Distrution of manual only...
+l.212 ... mappings for a single RCV terms was 323}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ignorespaces \texbf 
+                                {Distrution of manual only mappings.} A: Num...
+l.212 ... mappings for a single RCV terms was 323}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<auto_only.png, id=30, 322.20375pt x 247.92625pt>
+File: auto_only.png Graphic file (type png)
+ <use auto_only.png>
+Package pdftex.def Info: auto_only.png used on input line 218.
 (pdftex.def)             Requested size: 199.16928pt x 153.25871pt.
- <amigo.png, id=32, 512.91624pt x 521.95pt>
+
+! Undefined control sequence.
+<argument> ...e \endcsname }{\ignorespaces \texbf 
+                                                  {Distribution of auto only...
+l.220 ...und between 1001 and 10000 new mappings.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... \endcsname .} \ignorespaces \texbf 
+                                                  {Distribution of auto only...
+l.220 ...und between 1001 and 10000 new mappings.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ignorespaces \texbf 
+                                {Distribution of auto only mappings.} X axis...
+l.220 ...und between 1001 and 10000 new mappings.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<amigo.png, id=31, 512.91624pt x 521.95pt>
 File: amigo.png Graphic file (type png)
  <use amigo.png>
-Package pdftex.def Info: amigo.png used on input line 220.
-(pdftex.def)             Requested size: 199.16928pt x 202.67563pt.
+Package pdftex.def Info: amigo.png used on input line 226.
+(pdftex.def)             Requested size: 284.52756pt x 289.54231pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
-[]\OT1/cmr/bx/n/9 Fig.3. \OT1/cmr/m/n/9 Fig-ure 3: The Amigo GO brows-ing tool 
-page for T cells
+! Undefined control sequence.
+<argument> ...e \endcsname }{\ignorespaces \texbf 
+                                                  {The AmiGO GO browsing too...
+l.227 ...o.geneontology.org/amigo/term/CL:0000084}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... \endcsname .} \ignorespaces \texbf 
+                                                  {The AmiGO GO browsing too...
+l.227 ...o.geneontology.org/amigo/term/CL:0000084}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ignorespaces \texbf 
+                                {The AmiGO GO browsing tool displayes annota...
+l.227 ...o.geneontology.org/amigo/term/CL:0000084}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\OT1/cmr/m/n/9 endocannabinoid sig-nal-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
-\OT1/cmr/m/n/9 dis-plays an-no-ta-tions to pro-cesses that only oc-cur in T-cel
-ls. From
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]\OT1/cmr/m/n/9 cannabinoid biosyn-thetic
  []
 
 
-Overfull \hbox (108.45601pt too wide) in paragraph at lines 230--239
+Overfull \hbox (24.34196pt too wide) in paragraph at lines 235--244
 [][] 
  []
 
 
-Overfull \hbox (37.79126pt too wide) in paragraph at lines 244--251
+Overfull \hbox (37.79126pt too wide) in paragraph at lines 250--257
 [][] 
  []
 
+! Undefined control sequence.
+<argument> ...e \endcsname }{\ignorespaces \texbf 
+                                                  {Common mapping queries}}}...
+l.261 \caption{\texbf{Common mapping queries}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (515.10217pt too wide) in paragraph at lines 256--264
+! Undefined control sequence.
+<argument> ... \endcsname .} \ignorespaces \texbf 
+                                                  {Common mapping queries}
+l.261 \caption{\texbf{Common mapping queries}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 265--265
+[]\OT1/cmr/bx/n/9 No. cases dif-fer-ent map-ping
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 266--266
+[]\OT1/cmr/m/n/9 participant[]OR[]reg[]participant +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]\OT1/cmr/m/n/9 is[]a[]OR[]part[]of[]OR[]regulates +
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 270--270
+[]\OT1/cmr/m/n/9 X path-way/signalling (e.g. BMP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]\OT1/cmr/m/n/9 is[]a[]OR[]part[]of[]OR[]regulates +
+ []
+
+
+Overfull \hbox (88.06776pt too wide) in paragraph at lines 263--272
 [][] 
  []
 
-[6] [7 <./man_only.png>] [8 <./auto_only.png> <./amigo.png>] [9]
-(./Roche_swat4ls_2015.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- )
+[6] [7 <./man_only.png>] [8 <./auto_only.png>] [9 <./amigo.png>]
+(./Roche_swat4ls_2015.aux) )
 (\end occurred inside a group at level 2)
 
 ### simple group (level 2) entered at line 99 ({)
 ### simple group (level 1) entered at line 97 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2314 strings out of 494501
- 31336 string characters out of 6167030
- 101170 words of memory out of 5000000
- 5560 multiletter control sequences out of 15000+600000
+ 2318 strings out of 494501
+ 31391 string characters out of 6167030
+ 104197 words of memory out of 5000000
+ 5564 multiletter control sequences out of 15000+600000
  11126 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,8n,26p,1256b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,10n,26p,1256b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pu
@@ -359,7 +509,7 @@ nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015basic/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015basic/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Roche_swat4ls_2015.pdf (9 pages, 298539 bytes).
+Output written on Roche_swat4ls_2015.pdf (9 pages, 299256 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
