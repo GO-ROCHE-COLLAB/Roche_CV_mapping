@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Roche_swat4ls_2015.aux
+The style file: plain.bst
+Database file #1: Roche_swat4ls_2015.bib.bib
+Illegal end of database file---line 273 of file Roche_swat4ls_2015.bib.bib
+ : }
+ :  
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Shah2012"
+Warning--I didn't find a database entry for "Meehan2011"
+Warning--I didn't find a database entry for "Hastings2012"
+Warning--I didn't find a database entry for "Haendel2014"
+Warning--I didn't find a database entry for "Hill2013"
+Warning--I didn't find a database entry for "kazakov2012"
+Warning--I didn't find a database entry for "Dietze2014"
+Warning--empty title in Mungall2014
+Warning--empty booktitle in Mungall2014
+Warning--empty year in Mungall2014
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            523 strings with 7003 characters,
+and the built_in function-call counts, 5535 in all, are:
+= -- 372
+> -- 816
+< -- 0
++ -- 326
+- -- 324
+* -- 685
+:= -- 1055
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 167
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 24
+empty$ -- 57
+format.name$ -- 324
+if$ -- 917
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 11
+num.names$ -- 4
+pop$ -- 175
+preamble$ -- 1
+purify$ -- 166
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 44
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 3
+while$ -- 6
+width$ -- 3
+write$ -- 18
+(There was 1 error message)
