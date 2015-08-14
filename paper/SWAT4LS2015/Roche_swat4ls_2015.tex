@@ -143,15 +143,15 @@ The heavy use of OWL Object Property axioms to compensate for loss of expressivi
 \begin{table}
  \caption{Example mapping table.}
       \label{tab:mapping}
-      \begin{tabular} {| p{4cm} |  c |  c |  c |  c |  c  | c |}
+      \begin{tabularx}{\textwidth}{@{}| c | c|Y|Y|Y|Y|Y|@{}}
         \hline
-        \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\ \hline 
-        regulation of endocannabinoid signaling pathway&\ac{GO}\_2000124&1&1&1&0&0 \\ \hline
-        cannabinoid signaling pathway&\ac{GO}\_0038171&1&1&1&0&0 \\ \hline
-        endocannabinoid signaling pathway&\ac{GO}\_0071926&0&1&0&0&0 \\ \hline
-        cannabinoid receptor activity&\ac{GO}\_0004949&0&1&0&0&0 \\ \hline
-        cannabinoid biosynthetic process&\ac{GO}\_1901696&0&1&0&0&0 \\ \hline
-        \end{tabular}
+        \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{\thead{black\\listed}}&\textbf{\thead{is\\obsolete}} \\ \hline 
+        \thead{regulation of \\ endocannabinoid \\ signaling pathway}&\ac{GO}\_2000124&1&1&1&0&0 \\ \hline
+        \thead{cannabinoid \\signaling pathway}&\ac{GO}\_0038171&1&1&1&0&0 \\ \hline
+        \thead{endocannabinoid \\signaling pathway}&\ac{GO}\_0071926&0&1&0&0&0 \\ \hline
+        \thead{cannabinoid \\receptor activity}&\ac{GO}\_0004949&0&1&0&0&0 \\ \hline
+       \thead{ cannabinoid \\biosynthetic process}&\ac{GO}\_1901696&0&1&0&0&0 \\ \hline
+        \end{tabularx}
  \end{table}
  
 Each mapping was used to generate a mapping table for manual review (an example is shown in table \ref{tab:mapping}), allowing the possibility of blacklisting either automated mappings or manual mappings (as a way of specifying corrections to the original manual mapping).
