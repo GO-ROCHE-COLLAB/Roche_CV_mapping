@@ -129,9 +129,10 @@ To compensate partially for the lack of disjunction in OWL-EL, we developed a se
 Many RCV terms group processes in which a specified chemical or cell participates, with processes regulating those in which it participates (see Table 1 for example). To support such groupings, we used an OWL property chain axiom (\url{http://www.w3.org/TR/owl2-primer/#Property_Chains}) to define a relation, \textbf{regulates\_o\_has\_participant}, to query for processes that regulate a process in which some specified entity is a participant. We then define a super-property, \textbf{participant\_OR\_reg\_participant}, for this new relation and \textbf{has\_participant}
 
 \begin{quote} % install /nohyphens for this?
-\textbf{regulates} \textit{o} \textbf{has\_participant} \textit{subPropertyOf}
-\textbf{participant\_OR\_reg\_participant}
+\textbf{regulates} \textit{o} \textbf{has\_participant} \textit{subPropertyOf} \textbf{participant\_OR\_reg\_participant}
+
 \textbf{regulates\_o\_has\_participant} \textit{subPropertyOf} \textbf{participant\_OR\_reg\_participant}
+
 \textbf{has\_participant} \textit{subPropertyOf} \textbf{participant\_OR\_reg\_participant}
 \end{quote}
 
@@ -139,6 +140,20 @@ In order to keep the mapping process simple, we added a further restriction: onl
 
 The heavy use of OWL Object Property axioms to compensate for loss of expressivity tends to obscure the semantics of mappings. In order to communicate the meanings of mappings clearly, we used a script to generate human readable descriptions for each mapping query.  For example, we mapped the RCV term cannabinoid to the ChEBI term cannabinoid (CHEBI:67194) plus pattern \textbf{participant\_OR\_reg\_participant}.  The automated description of the mapping reads:  "A process in which a cannabinoid participates, or that regulates a process in which a cannabinoid participates."
 
+\begin{table}
+ \caption{Example mapping table.}
+      \label{tab:mapping}
+      \begin{tabular} {| p{4cm} |  c |  c |  c |  c |  c  | c |}
+        \hline
+        \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\ \hline 
+        regulation of endocannabinoid signaling pathway&\ac{GO}\_2000124&1&1&1&0&0 \\ \hline
+        cannabinoid signaling pathway&\ac{GO}\_0038171&1&1&1&0&0 \\ \hline
+        endocannabinoid signaling pathway&\ac{GO}\_0071926&0&1&0&0&0 \\ \hline
+        cannabinoid receptor activity&\ac{GO}\_0004949&0&1&0&0&0 \\ \hline
+        cannabinoid biosynthetic process&\ac{GO}\_1901696&0&1&0&0&0 \\ \hline
+        \end{tabular}
+ \end{table}
+ 
 Each mapping was used to generate a mapping table for manual review (an example is shown in table \ref{tab:mapping}), allowing the possibility of blacklisting either automated mappings or manual mappings (as a way of specifying corrections to the original manual mapping).
 
 
@@ -146,18 +161,12 @@ Each mapping was used to generate a mapping table for manual review (an example 
 \section{Results}
 
 
+ 
+We successfully mapped 308/364 RCV terms to mapping queries.  As shown in Table \ref{tab:summary_stats}, over a third (104) of the mapping queries were sufficient - meaning that no manual maintenance is required - and a further third of the mappings (148) had 10 or fewer additional manual mappings (Figure \ref{fig:man_only}).
 
-%\subsection{Summary of results}
-
-
-
-
-
-
-\begin{table}
+  \begin{table}
  \caption{\textbf{Summary of mappings.}\textit{Auto sufficient:} Number of RCV terms for which no manual mapping required; \textit{Manual only}: Number of \ac{GO} terms only in manual mapping,  \textit{Auto only}: Number of \ac{GO} terms only in automated mapping; \textit{Manual blacklist} Number of blacklisted manually mapped terms; \textit{Auto blacklist}: blacklisted terms in automated mapping. Average and median values are per RCV term.}
 \label{tab:summary_stats}
-
 \centering
 \begin{tabularx}{\textwidth}{@{}| c | Y|Y|Y|Y|Y|Y|@{}}
 \hline
@@ -166,29 +175,36 @@ SUM&308&104&4133&44012&81&70 \\ \hline
 AVERAGE&-&-&13.42&142.9&0.26&0.23 \\ \hline
 MEDIAN&&-&2.0&25.0&0.0&0.0 \\ \hline
 \end{tabularx}
-
-%
-%\begin{tabular}  {| c |  c |  c |  c |  c |  c  | c |}
-%\hline
-%STAT&RCV\_name&Auto sufficient&Manual only&Auto only&Manual blacklist&Auto blacklist \\ \hline
-%SUM&308&104&4133&44012&81&70 \\ \hline
-%AVERAGE&-&-&13.42&142.9&0.26&0.23 \\ \hline
-%MEDIAN&&-&2.0&25.0&0.0&0.0 \\ \hline
-%\end{tabular}
  \end{table}
  
-We successfully mapped 308/364 RCV terms to mapping queries.  As shown in table \ref{tab:summary_stats}, over a third (104) of the mapping queries were sufficient - meaning that no manual maintenance is required - and a further third of the mappings (148) had 10 or fewer additional manual mappings (figure \ref{fig:man_only})
+ 
+\begin{figure}
+\centering
+\includegraphics[width=70mm]{man_only.png}
+\caption{\textbf{Distribution of manual only mappings.} A: Number of terms (Y-axis) vs number of manual mappings (X-axis) (cut-off at 20 manual mappings). 1B: Distribution of manual only mapping: 104 terms have no manual-mappings at all.  A further 148 have between 1 and 10.  The largest number of manual-only mappings for a single RCV terms was 323}
+\label{fig:man_only}
+\end{figure}
+ 
+Mapping queries found many \ac{GO} terms that were not in the manual mapping (see Figure \ref{fig:auto_only}).  For a few very general RCV classes (e.g. enzyme), over 1000 new mappings were found. Very few automated mappings were blacklisted - just 70 terms in total.  Blacklisting of terms ensured they were removed from the final mapping.
 
-Mapping queries found many \ac{GO} terms that were not in the manual mapping (see figure \ref{fig:auto_only}).  For a few very general RCV classes (e.g. enzyme), over 1000 new mappings were found. Very few automated mappings were blacklisted - just 70 terms in total.  Blacklisting of terms ensured they were removed from the final mapping.
-
+\begin{figure}
+\centering
+\includegraphics[width=70mm]{auto_only.png}
+\caption{\textbf{Distribution of auto only mappings.}
+X axis = number of auto-only mappings.  Y axis = Number of RCV terms.  Most mapping queries found under 100 additional (auto only) mappings, but over 75 found between 101 and 1000 and a few mapping queries found between 1001 and 10000 new mappings.}
+\label{fig:auto_only}
+\end{figure}
 
 \section{Discussion and future directions}
 
-This work demonstrates how the logical structure of the \ac{GO} can be used to achieve biologically meaningful mappings between \ac{GO} and terms from external controlled vocabularies or ontologies for which there is no corresponding \ac{GO} term.  For example, where the external vocabulary refers to a cell-type, a chemical or an anatomical structure.  The mapping system used is fast and scalable,  
+This work demonstrates how the logical structure of the \ac{GO} can be used to achieve biologically meaningful mappings between \ac{GO} and terms from external controlled vocabularies or ontologies for which there is no corresponding \ac{GO} term.  For example, where the external vocabulary refers to a cell-type, a chemical or an anatomical structure.  The mapping system used is fast and scalable,  but a few improvements would be beneficial.
 
 \subsection{Improving the RCV mapping pathway}
 
 
+
+
+There is good scope for improving the mapping between RCV and \ac{GO} so that it is more thoroughly automated. As shown in Table \ref{mapping_patterns}, RCV term names follow patterns that mostly have consistent mappings patterns, but there are some exceptions.  More consistency in naming will make the meaning of terms more predictable and make the mapping of new terms more straightforward. 
 \begin{table}
 \caption{\textbf{Common mapping queries}}
 \label{mapping_patterns}
@@ -210,8 +226,6 @@ This work demonstrates how the logical structure of the \ac{GO} can be used to a
 \end{tabularx}
 \end{table}
 
-There is good scope for improving the mapping between RCV and \ac{GO} so that it is more thoroughly automated. As shown in \ref{mapping_patterns} RCV term names follow patterns that mostly have consistent mappings patterns, but there are some exceptions.  More consistency in naming will make the meaning of terms more predictable and make the mapping of new terms more straightforward. 
-
 For RCV terms with only a small number of additional manual mappings, it may be worth considering whether the overhead of manual maintenance is worth the effort, especially where these additional mappings could not be achieved by further axiomatisation of the \ac{GO}.  For example, mappings to cell types often include mappings to growth factors acting on those cell types.  As these growth factors have much broader functions than action on the cell types for which they are named, \ac{GO} is unable to add any formal link between factors and cell types.
 
 In other cases a mapping pattern involving two or more specified classes and a more sophisticated logic would be necessary to obtain a complete mapping.  For example, the manual mappings for X metabolism terms are consistently mapping to bot X metabolism and X transport terms in the \ac{GO}. A more complete mapping to RCV metabolism terms could be achieved using a pattern that named both \ac{GO} transport and \ac{GO} metabolic process terms.  This could be made scalable with a pathway that combines the results of multiple mapping patterns outside of OWL.
@@ -221,6 +235,14 @@ In other cases a mapping pattern involving two or more specified classes and a m
 \subsection{Alternative views of the \ac{GO} and its annotations}
 
 The mechanisms described here for mapping to external ontologies could also be used for providing alternative views of the \ac{GO} and its annotations.  This is already reflected in some of the newer functionalities of the \ac{GO} browsing tool AMIGO, which now displayed inferred annotations to cell-types based on axioms in \ac{GO} recording where processes occur.  \ref{fig:amigo} shows an AMIGO display of annotations to gene involved in processes occurring in T-Cells.
+
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.40]{amigo.png}
+\caption{\textbf{The AmiGO \ac{GO} browsing tool displayes annotations to cells.}  The  T cell page on AmiGO displays annotations to processes that only occur in T-cells.  From http://amigo.geneontology.org/amigo/term/CL:0000084}
+\label{fig:amigo}
+\end{figure}
 
 \subsection{Future work}
 
@@ -265,42 +287,13 @@ This work was supported by direct funding from Roche.  The Gene Ontology is supp
 %%
 %% Do not use \listoffigures as most will included as separate files
 
-\begin{figure}
-\centering
-\includegraphics[width=70mm]{man_only.png}
-\caption{\textbf{Distribution of manual only mappings.} A: Number of terms (Y-axis) vs number of manual mappings (X-axis) (cut-off at 20 manual mappings). 1B: Distribution of manual only mapping: 104 terms have no manual-mappings at all.  A further 148 have between 1 and 10.  The largest number of manual-only mappings for a single RCV terms was 323}
-\label{fig:man_only}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics[width=70mm]{auto_only.png}
-\caption{\textbf{Distribution of auto only mappings.}
-X axis = number of auto-only mappings.  Y axis = Number of RCV terms.  Most mapping queries found under 100 additional (auto only) mappings, but over 75 found between 101 and 1000 and a few mapping queries found between 1001 and 10000 new mappings.}
-\label{fig:auto_only}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics[width=100mm]{amigo.png}
-\caption{\textbf{The AmiGO \ac{GO} browsing tool displayes annotations to cells.}  The  T cell page on AmiGO displays annotations to processes that only occur in T-cells.  From http://amigo.geneontology.org/amigo/term/CL:0000084}
-\label{fig:amigo}
-\end{figure}
 
 
-\begin{table}
- \caption{Example mapping table.}
-      \label{tab:mapping}
-      \begin{tabular} {| p{4cm} |  c |  c |  c |  c |  c  | c |}
-        \hline
-        \textbf{name}&\textbf{ID}&\textbf{manual}&\textbf{auto}&\textbf{checked}&\textbf{blacklisted}&\textbf{is\_obsolete} \\ \hline 
-        regulation of endocannabinoid signaling pathway&\ac{GO}\_2000124&1&1&1&0&0 \\ \hline
-        cannabinoid signaling pathway&\ac{GO}\_0038171&1&1&1&0&0 \\ \hline
-        endocannabinoid signaling pathway&\ac{GO}\_0071926&0&1&0&0&0 \\ \hline
-        cannabinoid receptor activity&\ac{GO}\_0004949&0&1&0&0&0 \\ \hline
-        cannabinoid biosynthetic process&\ac{GO}\_1901696&0&1&0&0&0 \\ \hline
-        \end{tabular}
- \end{table}
+
+
+
+
+
 
 
  
