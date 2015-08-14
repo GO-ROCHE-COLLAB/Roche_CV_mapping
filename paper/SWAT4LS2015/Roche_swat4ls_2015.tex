@@ -100,32 +100,32 @@ The approach we describe here is not limited to mapping external vocabularies on
 
 
 The \acf{GO} is widely used to annotate and group gene products according to their subcellular location (e.g., endoplasmic reticulum), molecular function (e.g., enzyme activity) and their wider role in cellular, developmental and physiological processes (e.g., signal transduction) {\cite{GO2015}). The logical structure of the ontology is used to group genes annotated with related terms and for term enrichment, a technique for determining the over- or under-representation of general classes of gene products in experimental datasets \cite{Shah2012}. Grouping and term enrichment typically only use logical relationships \textit{within} each of the 3 sub-ontologies of the \ac{GO} - cellular component, molecular function and biological process.
-
+%
 In recent years, \ac{GO} has switched its underlying formalization to Web Ontology Language (OWL2) (\url{http://www.w3.org/TR/owl2-primer/}), and has dramatically increased the number of logical axioms (Mungall et al., 2014). This new axiomatisation includes many new relationship types, relationships between terms in different \ac{GO} sub-ontologies and extensive logical links to terms from external ontologies including the cell ontology \cite{Meehan2011}, the chemical ontology ChEBI {\cite{Hastings2013} and the Uberon multi-species anatomy ontology \cite{Haendel2014}.  For example, the chemical participants in over 12,000 processes or functions are specified in the \ac{GO} via axioms referencing chemical entities defined by ChEBI \cite{Hill2013}. Over 8000 \ac{GO} classes have some direct or indirect logical link to a term from the Cell ontology or Uberon. These record, for example, the location of cellular components (e.g., the acrosome and its parts are present only in sperm), cell types that are the sole location of some process (e.g., 'natural killer cell degranulation' only occurs in natural killer cells ), and the products of developmental processes (e.g., bone is a product of 'bone morphogenesis').
 
 Axiomatisation of the \ac{GO} is limited to the EL profile of OWL \cite{Mungall2014}. This allows \ac{GO} infrastructure to take advantage of fast, scalable OWL-EL reasoners such as ELK \cite{kazakov2012} to leverage the classifications in external ontologies to automate classification in \ac{GO}, and to ensure that classification and querying of the \ac{GO} will not become intractable as the ontology grows.  There is also great potential for using this axiomatisation to provide new, biologically meaningful systems for grouping annotations and term enrichment.  For example, we might want to group all annotations to genes involved in processes occurring in T-cells or in the pancreas, or to group annotations to genes involved in the processes involving nitric oxide.  In this paper we describe an implementation of this strategy in support of a use case from the pharmaceutical company Roche.
 
-Roche uses a controlled vocabulary internally (from here referred to as RCV).  RCV consists of around 360 undefined terms, each of which is mapped to a set of terms from the \ac{GO}. RCV includes terms named for biological processes and, more rarely, for molecular functions and cellular components.  It also includes many terms named for types of cell, chemical, anatomical structure and taxonomic group. Prior to this work, mappings from RCV to the \ac{GO} were made manually, based on the lexical content of the names of \ac{GO} terms and the biological knowledge of those doing the mapping.  As the \ac{GO} evolved, it became increasingly impractical for Roche to keep this mapping complete and up-to-date via manual mapping.
-
+Roche uses a controlled vocabulary internally (from hereon referred to as RCV).  RCV consists of around 360 undefined terms, each of which is mapped to a set of terms from the \ac{GO}. RCV includes terms named for biological processes and, more rarely, for molecular functions and cellular components.  It also includes many terms named for types of cell, chemical, anatomical structure and taxonomic group. Prior to this work, mappings from RCV to the \ac{GO} were made manually, based on the lexical content of the names of \ac{GO} terms and the biological knowledge of those doing the mapping.  As the \ac{GO} evolved, it became increasingly impractical for Roche to keep this mapping complete and up-to-date via manual mapping.
+%
 Here we describe the development and testing of an automated mapping between \ac{GO} and RCV, making use of OWL-EL reasoning and a standard system for specifying OWL design patterns.
 
 
 \section{Methods}
 
-All code, mapping tables and results for the pipeline were maintained in a GitHub repository (\url{https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping}). As well as providing version control, Github allows nicely formatted display of mapping and results files in an easily editable form (tab separated value (TSV), which can be easily edited via copying and pasting from excel spreadsheets). It also has an integrated ticket system, with an open API.  Standard mapping tickets were generated by script for all RCV terms mapped. A standard system of ticket labels allowed tracking of the approval status of all mappings.  The archived tickets constitute an audit trail for approval of mappings.
-
+All code, mapping tables and results for the pipeline were maintained in a GitHub repository (\url{https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping}). As well as providing version control, Github allows nicely formatted display of mapping and results files in an easily editable form (tab separated value (TSV)), which can be easily edited via copying and pasting from excel spreadsheets. It also has an integrated ticket system, with an open API.  Standard mapping tickets were generated by script for all RCV terms mapped. A standard system of ticket labels allowed tracking of the approval status of all mappings.  The archived tickets constitute an audit trail for approval of mappings.
+%
 The mapping was specified using a single TSV file in which each line maps an RCV term to a mapping query and a term from \ac{GO}, ChEBI, CL, Uberon or NCBI taxonomy.
-
-OWL reasoning was carried out via calls to a standard Java API for OWL using the ELK OWL reasoner \cite{kazakov2012}.  The query and processing pipeline was written in Jython, a Python implementation over Java (\url{http://www.jython.org/}).  The pipeline produced a set of results tables, one for each RCV term, in TSV format.  These were used for review of mappings by Roche. 
+%
+OWL reasoning was carried out via calls to a standard Java API for OWL using the ELK OWL reasoner \cite{kazakov2012}.  The query and processing pipeline was written in Jython, a Python implementation over Java (\url{http://www.jython.org/}).  %The pipeline produced a set of results tables, one for each RCV term, in TSV format.  These were used for review of mappings by Roche. 
 
 \subsection{Mapping strategy}
 
 In the manual mapping between RCV and \ac{GO} specified by Roche, multiple \ac{GO} terms are mapped to each RCV term. For the purposes of automated mapping, we interpret the mapped \ac{GO} terms as subclasses of the class referred to by the RCV term. For each RCV term, we attempted to find an equivalent class expression (a mapping query) that reflected the intended meaning of the RCV term, as judged by the RCV term name and manual mappings and based on discussion with Roche.
-
+%
 Mapping to fully expressive OWL-DL class expressions poses serious problems for scalability: querying and classification of the \ac{GO} with OWL-DL reasoners is already slow, and may become intractable as the \ac{GO} grows.  For this reason, we chose to restrict mappings to EL class expressions and use the fast, scaleable EL reasoner, ELK to run queries \cite{kazakov2012}. But this poses a problem for expressiveness: EL lacks various elements of OWL that are potentially useful for mapping queries - most notably disjunction (OR) and negation (NOT).  
 
 To compensate partially for the lack of disjunction in OWL-EL, we developed a set of high level object properties for use in queries. For example, we define \textbf{occurs\_in\_OR\_has\_participant} as a grouping relation, allowing queries for processes that occur in a specified cell, or have that cell as a participant. Similarly, \ac{GO} does not use a reflexive relation for 'part of', but using one for query purposes means a query for subclasses of  ``'part of' some X" returns both subclasses and proper parts of class X.
-
+%
 Many RCV terms group processes in which a specified chemical or cell participates, with processes regulating those in which it participates (see Table 1 for example). To support such groupings, we used an OWL property chain axiom (\url{http://www.w3.org/TR/owl2-primer/#Property_Chains}) to define a relation, \textbf{regulates\_o\_has\_participant}, to query for processes that regulate a process in which some specified entity is a participant. We then define a super-property, \textbf{participant\_OR\_reg\_participant}, for this new relation and \textbf{has\_participant}
 
 \begin{quote} % install /nohyphens for this?
@@ -185,7 +185,7 @@ MEDIAN&&-&2.0&25.0&0.0&0.0 \\ \hline
 \label{fig:man_only}
 \end{figure}
  
-Mapping queries found many \ac{GO} terms that were not in the manual mapping (see Figure \ref{fig:auto_only}).  For a few very general RCV classes (e.g. enzyme), over 1000 new mappings were found. Very few automated mappings were blacklisted - just 70 terms in total.  Blacklisting of terms ensured they were removed from the final mapping.
+Mapping queries found many \ac{GO} terms that were not in the manual mapping, as shown on Figure \ref{fig:auto_only}.  For a few very general RCV classes (e.g., enzyme), over 1000 new mappings were found. Very few automated mappings were blacklisted - just 70 terms in total.  Blacklisting of terms ensured they were removed from the final mapping.
 
 \begin{figure}
 \centering
@@ -234,7 +234,7 @@ In other cases a mapping pattern involving two or more specified classes and a m
 
 \subsection{Alternative views of the \ac{GO} and its annotations}
 
-The mechanisms described here for mapping to external ontologies could also be used for providing alternative views of the \ac{GO} and its annotations.  This is already reflected in some of the newer functionalities of the \ac{GO} browsing tool AMIGO, which now displayed inferred annotations to cell-types based on axioms in \ac{GO} recording where processes occur.  \ref{fig:amigo} shows an AMIGO display of annotations to gene involved in processes occurring in T-Cells.
+The mechanisms described here for mapping to external ontologies could also be used for providing alternative views of the \ac{GO} and its annotations.  This is already reflected in some of the newer functionalities of the \ac{GO} browsing tool AMIGO, which now displayed inferred annotations to cell-types based on axioms in \ac{GO} recording where processes occur.  Figure \ref{fig:amigo} shows an AMIGO display of annotations to gene involved in processes occurring in T-Cells.
 
 
 \begin{figure}
