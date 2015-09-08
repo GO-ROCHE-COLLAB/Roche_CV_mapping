@@ -3,44 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Roche_swat4ls_2015.aux
 The style file: plain.bst
 Database file #1: Roche_swat4ls_2015.bib
-You've used 9 entries,
+Warning--I didn't find a database entry for "Blake2015"
+You've used 10 entries,
             2118 wiz_defined-function locations,
-            563 strings with 6479 characters,
-and the built_in function-call counts, 4547 in all, are:
-= -- 384
-> -- 399
+            574 strings with 6748 characters,
+and the built_in function-call counts, 4912 in all, are:
+= -- 419
+> -- 422
 < -- 2
-+ -- 157
-- -- 148
-* -- 433
-:= -- 818
-add.period$ -- 27
-call.type$ -- 9
-change.case$ -- 100
++ -- 167
+- -- 156
+* -- 465
+:= -- 883
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 107
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 109
-empty$ -- 229
-format.name$ -- 148
-if$ -- 862
+cite$ -- 10
+duplicate$ -- 120
+empty$ -- 252
+format.name$ -- 156
+if$ -- 932
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 9
-newline$ -- 48
-num.names$ -- 20
-pop$ -- 86
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 53
+num.names$ -- 22
+pop$ -- 91
 preamble$ -- 1
-purify$ -- 91
+purify$ -- 97
 quote$ -- 0
-skip$ -- 75
+skip$ -- 82
 stack$ -- 0
-substring$ -- 175
-swap$ -- 19
+substring$ -- 194
+swap$ -- 20
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 40
 warning$ -- 0
-while$ -- 30
-width$ -- 10
-write$ -- 102
+while$ -- 34
+width$ -- 12
+write$ -- 113
+(There was 1 warning)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{GO2015}
 The Gene~Ontology Consortium.
@@ -37,6 +37,11 @@ David~P Hill, Nico Adams, Mike Bada, Colin Batchelor, Tanya~Z Berardini, Heiko
   with the ChEBI chemical ontology.}
 \newblock {\em BMC genomics}, 14(1):513, January 2013.
 
+\bibitem{Horridge2011}
+Matthew Horridge and Sean Bechhofer.
+\newblock The owl api: A java api for owl ontologies.
+\newblock {\em Semant. web}, 2(1):11--21, January 2011.
+
 \bibitem{kazakov2012}
 Yevgeny Kazakov, Markus Kr{\"o}tzsch, and Franti{\v{s}}ek Siman{\v{c}}{\'\i}k.
 \newblock Elk reasoner: Architecture and evaluation.
@@ -48,16 +53,17 @@ T.~F. Meehan, A.~M. Masci, A.~Abdulla, L.~G. Cowell, J.~A. Blake, C.~J.
 \newblock {{L}ogical development of the cell ontology}.
 \newblock {\em BMC Bioinformatics}, 12:6, 2011.
 
+\bibitem{Merico2010}
+D.~Merico, R.~Isserlin, O.~Stueker, A.~Emili, and G.~D. Bader.
+\newblock {{E}nrichment map: a network-based method for gene-set enrichment
+  visualization and interpretation}.
+\newblock {\em PLoS ONE}, 5(11):e13984, 2010.
+
 \bibitem{Mungall2014}
 C.~Mungall, H.~Deitze, and D.~Osumi-Sutherland.
 \newblock {{U}se of {O}{W}{L} within the {G}ene {O}ntology.}
 \newblock In C.~Maria~Keet and V.~Tamma, editors, {\em {Proceedings of the 11th
   International Workshop on OWL: Experiences and Directions (OWLED 2014)}},
   volume 1265 of {\em CEUR workshop proceedings}, pages 25--36, 2014.
-
-\bibitem{Shah2012}
-N.~H. Shah, T.~Cole, and M.~A. Musen.
-\newblock {{C}hapter 9: {A}nalyses using disease ontologies}.
-\newblock {\em PLoS Comput. Biol.}, 8(12):e1002827, 2012.
 
 \end{thebibliography}
