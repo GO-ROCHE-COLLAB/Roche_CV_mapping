@@ -1,4 +1,4 @@
-### Quick Guide to files used in the  automated mapping of RCV to GO .
+### Quick Guide to files used in the  automated mapping of RCV to GO.
 
 * [Original manual, RCV to GO  mapping](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/mapping_tables/manual_map_with_ids.tsv)
 
