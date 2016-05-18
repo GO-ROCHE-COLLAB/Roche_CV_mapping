@@ -3,8 +3,7 @@
 * [Original manual, RCV -> GO  mapping](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/mapping_tables/manual_map_with_ids.tsv)
 
 * [RCV -> OWL Mapping table](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/mapping_tables/owl_map.tsv).  Columns:
-  * Entries in the column: 'Applied pattern' refer to the design patterns used for the mapping.  These are listed in the [patterns directory](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/tree/master/patterns).  Patterns are specified using [dead simple OWL design patterns]()  (Osumi-Sutherland et al., 2016 In Press).  The patterns used take only one variable - specified in the 
-Object properties for queries live here:
+  * Entries in the column: 'Applied pattern' refer to the design patterns used for the mapping.  These are listed in the [patterns directory](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/tree/master/patterns).  Patterns are specified using [dead simple OWL design patterns](https://github.com/dosumis/dead_simple_owl_design_patterns)  (Osumi-Sutherland et al., 2016 In Press).  The patterns used take only one variable - specified in the key\_class columns.  Logical axioms specified by the patterns are generally very simple (R some key_class).  Their main use is for rolling human readable definitions.
 
 * The novel object properties and object property axioms used for the mapping can be found in [GO_ROCHE_importer.owl](https://github.com/GO-ROCHE-COLLAB/Roche_CV_mapping/blob/master/owl/GO_ROCHE_importer.owl).
 
